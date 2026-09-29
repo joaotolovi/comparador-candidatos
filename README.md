@@ -36,6 +36,12 @@ Docker Compose atrás do Traefik (rede `traefik_public`), host
 ```bash
 docker build -t comparador-candidatos:latest .
 docker stack deploy -c docker-compose.yml comparador
+
+# DNS: registro A candidato.joaotolovi.com → 209.126.11.124 na zona
+# joaotolovi.com (Cloudflare, **proxied**). Rede externa: traefik-public.
+# Certresolver do Traefik: letsencrypt. Smoke:
+#   curl -sSI --resolve candidato.joaotolovi.com:443:209.126.11.124 \
+#     https://candidato.joaotolovi.com/
 ```
 
 ## Rotas

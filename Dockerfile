@@ -14,5 +14,6 @@ COPY --from=builder /app/package.json /app/package-lock.json ./
 RUN npm ci --omit=dev
 COPY --from=builder /app/.next ./.next
 COPY --from=builder /app/public ./public
+COPY --from=builder /app/next.config.ts ./next.config.ts
 EXPOSE 3000
 CMD ["npm", "run", "start", "--", "--port", "3000", "--hostname", "0.0.0.0"]
