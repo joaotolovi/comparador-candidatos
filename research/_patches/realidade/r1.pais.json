@@ -1,53 +1,648 @@
 {
   "grupo": "r1",
   "escopo": "pais",
-  "_ESQUELETO": "EM CONSTRUÇÃO — reality do PROJETO DE PAÍS (countryProject.reality) para lula, flavio-bolsonaro, caiado, zema.",
   "sources": [],
   "candidates": {
     "lula": {
       "reality": {
-        "PENDENTE": [
-          "instrumento mais exigente do conjunto (PEC?)",
-          "aligned/divergent datados",
-          "custo/prazo/meta/responsável do documento",
-          "base formal hoje + aviso",
-          "perguntas em aberto",
-          "soberania (discurso) x atos externos recentes"
-        ]
+        "proposal": "Continuidade: soberania como princípio, Estado indutor (arcabouço fiscal, reforma tributária, Novo PAC) e ampliação de direitos.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O item mais exigente do conjunto é emenda constitucional: a PEC da segurança pública foi entregue pelo Executivo em 23/04/2025 e aprovada pela Câmara em março de 2026; a PEC do fim da escala 6x1 foi aprovada na Câmara em 27/05/2026 (472x22 e 461x19). As duas estavam no Senado em 29/09/2026. O programa também depende de leis complementares (regras fiscais e regulamentação tributária), de leis ordinárias (Bolsa Família, saúde digital, trabalho por aplicativos) e do orçamento anual."
+        },
+        "history": {
+          "aligned": [
+            "30/08/2023: LC 200/2023 sancionada substituiu o teto de gastos pelo arcabouço fiscal, que o programa declara manter.",
+            "20/12/2023: EC 132/2023 promulgou a reforma tributária do consumo, regulamentada em leis complementares de 2025 e 2026.",
+            "11/08/2023: Decreto 11.632 instituiu o Novo PAC; o programa cita carteira de R$ 1,3 trilhão até o fim de 2026.",
+            "23/04/2025: o Executivo entregou ao Congresso a PEC da segurança pública, citada no programa entre as reformas constitucionais necessárias."
+          ],
+          "divergent": [
+            "24/09/2025: o Senado aprovou o texto-base do PLP 168/2025, que retirou da meta fiscal de 2025 as despesas com o tarifaço.",
+            "22/05/2026: bloqueio de quase R$ 24 bilhões no Orçamento; 24/09/2026: contingenciamento de R$ 16,1 bilhões.",
+            "02/09/2026: a CCJ do Senado aprovou o texto-base da PEC da segurança sem concluir a votação; a PEC da jornada seguia sem data de plenário."
+          ],
+          "sources": [
+            {
+              "id": "src-lula-105"
+            },
+            {
+              "id": "src-lula-29"
+            },
+            {
+              "id": "src-lula-90"
+            },
+            {
+              "id": "src-lula-128"
+            },
+            {
+              "id": "src-lula-118"
+            },
+            {
+              "id": "src-re-r1propostas-01"
+            },
+            {
+              "id": "src-re-r1propostas-02"
+            },
+            {
+              "id": "src-re-r1propostas-05"
+            }
+          ]
+        },
+        "support": {
+          "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+          "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+          "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+          "note": "O projeto depende do orçamento anual e de PECs em tramitação; a base observável é a coligação de 7 partidos e o PT com 65 deputados e 9 senadores em exercício (29/09/2026). Retrato atual, não previsão do próximo Congresso.",
+          "sources": [
+            {
+              "id": "src-re-r1capacidades-02"
+            },
+            {
+              "id": "src-re-r1capacidades-03"
+            },
+            {
+              "id": "src-lula-19"
+            },
+            {
+              "id": "src-lula-37"
+            }
+          ]
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Dois pilares do programa dependem de PEC e seguiam no Senado sem votação de plenário",
+            "detail": "A PEC da segurança foi aprovada pela Câmara em março de 2026 (Agência Senado, 05/03/2026) e a do fim da escala 6x1 em 27/05/2026 (472x22 e 461x19); em 02/09/2026 a CCJ do Senado aprovou o texto-base da primeira sem concluir a votação, retirando a regra sobre bets, e a segunda seguia com o plenário sem data. O quórum é 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+            "sources": [
+              {
+                "id": "src-re-r1propostas-05"
+              },
+              {
+                "id": "src-lula-129"
+              },
+              {
+                "id": "src-re-r1propostas-07"
+              },
+              {
+                "id": "src-re-r1propostas-08"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Programa declara manter o arcabouço e despesas do tarifaço saíram da meta fiscal por lei complementar",
+            "detail": "Em 24/09/2025 o Senado aprovou o texto-base do PLP 168/2025, retirando da meta fiscal de 2025 as despesas com o tarifaço; em 22/05/2026 o Executivo elevou o bloqueio para quase R$ 24 bilhões e em 24/09/2026 congelou R$ 16,1 bilhões para cumprir o limite do arcabouço, regra que o programa declara manter.",
+            "sources": [
+              {
+                "id": "src-lula-118"
+              },
+              {
+                "id": "src-lula-119"
+              },
+              {
+                "id": "src-re-r1propostas-01"
+              },
+              {
+                "id": "src-re-r1propostas-02"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Soberania como princípio do programa e mesa de negociação tarifária com Washington em 2026",
+            "detail": "Em 07/05/2026 o presidente discutiu com Trump crime organizado, tarifas e minerais críticos e propôs grupo de trabalho; os EUA mantêm sobretaxa de 25% em vigor desde 22/07/2026 e fizeram 21 exigências; em 17/09/2026 o governo rejeitou a exigência sobre 'dissidentes políticos' e em 06/09/2026 afirmou que 'não somos colônia'.",
+            "sources": [
+              {
+                "id": "src-lula-78"
+              },
+              {
+                "id": "src-lula-109"
+              },
+              {
+                "id": "src-lula-107"
+              },
+              {
+                "id": "src-lula-132"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual é o custo por eixo do programa e a dotação prevista para o Novo PAC no Orçamento de 2027?",
+            "why": "O documento informa valores de execução de 2023-2026 (carteira de R$ 1,3 trilhão; esforço fiscal de R$ 240 bi) e uma fonte para segurança (FIIS de R$ 10 bi), sem custo por proposta nem dotação do próximo mandato."
+          },
+          {
+            "question": "Qual é o prazo de votação das PECs da segurança e da jornada no plenário do Senado, em dois turnos?",
+            "why": "Em 02/09/2026 a CCJ não concluiu a votação da PEC da segurança e a PEC da jornada seguia sem data; a liderança do governo declarou intenção de votar até outubro."
+          },
+          {
+            "question": "Quais metas anuais, prazos e responsáveis por programa constarão do PPA 2028-2031 a ser enviado?",
+            "why": "O programa cita o PPA 2024-2027 e propõe continuidade do planejamento, sem apresentar metas quantificadas por eixo nem responsáveis nomeados."
+          }
+        ],
+        "publicExplanation": "Em 06/09/2026, em pronunciamento de 7 de Setembro, afirmou que 'não somos colônia e não seremos colônia de ninguém'; em 25/09/2026, a empresários, defendeu responsabilidade fiscal, estabilidade e soberania (Valor).",
+        "methodology": "Apurado pela leitura integral do programa registrado no TSE (84 páginas, 13 eixos) e por checagem de tramitação, votações nominais e relatórios fiscais de 2025-2026. O documento informa valores de execução passada e uma fonte para segurança (FIIS), sem custo, prazo, meta mensurável ou responsável por eixo; ficaram de fora pareceres de custo e o PPA 2028-2031, não enviado.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
       }
     },
     "flavio-bolsonaro": {
       "reality": {
-        "PENDENTE": [
-          "instrumento mais exigente (PEC tesouraço/teto)",
-          "corte de gastos prometido x votações anteriores",
-          "detalhamento do documento",
-          "base formal hoje + aviso"
-        ]
+        "proposal": "Projeto liberal-conservador: facções como narcoterroristas, maioridade penal aos 16, corte de gastos, menos impostos e reforma do Judiciário.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O item mais exigente é emenda constitucional: o documento anuncia 'reformulação nas atuais regras fiscais' (p. 70), limites a decisões do STF e maioridade penal aos 16 anos (PEC 32/2019, de autoria do candidato); a campanha anunciou em agosto de 2026 uma 'PEC da Transição' com corte de R$ 300 bilhões. Nenhuma dessas emendas tinha votação de plenário registrada até 29/09/2026. Tipificar facções e criar novo regime de contratação exigiriam lei ordinária; a meta de R$ 900 bilhões depende de orçamento e de aporte privado."
+        },
+        "history": {
+          "aligned": [
+            "11/04/2024: Lei 14.843/2024 (PL 2.253/2022, de sua relatoria) endureceu a saída temporária de presos.",
+            "22/11/2023: votou 'Sim' à PEC 8/2021, que limita decisões monocráticas no STF, em 1º e 2º turnos no Senado.",
+            "19 e 20/12/2024: assinou a Emenda 1 ao plenário da PEC 54/2024, de revisão de gastos, e votou 'Sim' no destaque.",
+            "Outubro/2019: votou 'Sim' à PEC 6/2019, da reforma da Previdência, no plenário do Senado (Exame registra o voto)."
+          ],
+          "divergent": [
+            "21/06/2023: votou contra a LC 200/2023, o arcabouço fiscal em vigor, aprovada no Senado por 57 votos a 17.",
+            "19 e 20/12/2024: há registro de voto 'Não' em votação nominal da PEC 54/2024, o pacote de revisão de gastos.",
+            "Agosto/2026: o plano anuncia nova regra fiscal e a campanha cita corte de R$ 300 bilhões, sem texto enviado ao Congresso."
+          ],
+          "sources": [
+            {
+              "id": "src-flavio-02"
+            },
+            {
+              "id": "src-re-r1propostas-17"
+            },
+            {
+              "id": "src-re-r1propostas-19"
+            },
+            {
+              "id": "src-re-r1propostas-26"
+            },
+            {
+              "id": "src-flavio-100"
+            },
+            {
+              "id": "src-flavio-117"
+            },
+            {
+              "id": "src-re-r1propostas-20"
+            },
+            {
+              "id": "src-plano-pdf"
+            }
+          ]
+        },
+        "support": {
+          "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+          "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar, PL-AL)",
+          "federations": "Nenhuma federação ou coligação registrada para a chapa presidencial",
+          "note": "O projeto depende de PEC e de orçamento; a base observável é a bancada do PL, 98 deputados e 15 senadores em exercício (29/09/2026), sem coligação formal. Retrato atual, não previsão do próximo Congresso.",
+          "sources": [
+            {
+              "id": "src-re-r1capacidades-02"
+            },
+            {
+              "id": "src-re-r1capacidades-03"
+            },
+            {
+              "id": "src-flavio-bolsonaro-11"
+            },
+            {
+              "id": "src-valor-convencao"
+            }
+          ]
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Reforma fiscal, limites ao STF e maioridade penal dependem de PEC sem texto enviado",
+            "detail": "O documento diz que 'apresentaremos uma reformulação nas atuais regras fiscais' (p. 70) e propõe limites a decisões do STF; a maioridade penal consta como PEC 32/2019, do próprio candidato, com parecer lido na CCJ em 2025 e sem votação de plenário. A campanha anunciou em agosto de 2026 a 'PEC da Transição' com corte de R$ 300 bilhões.",
+            "sources": [
+              {
+                "id": "src-plano-pdf"
+              },
+              {
+                "id": "src-re-r1propostas-20"
+              },
+              {
+                "id": "src-re-r1propostas-22"
+              },
+              {
+                "id": "src-re-r1propostas-17"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Corte de gastos prometido e voto contrário à regra fiscal em vigor em 2023",
+            "detail": "Em 21/06/2023 votou contra a LC 200/2023, aprovada por 57 a 17 com 10 votos contrários do PL; na PEC 54/2024, de revisão de gastos, assinou a Emenda 1, com registro de voto 'Não' na votação nominal de 19 e 20/12/2024 e 'Sim' no destaque da própria emenda. Em outubro de 2019 votou 'Sim' à PEC 6/2019 da Previdência no Senado.",
+            "sources": [
+              {
+                "id": "src-flavio-117"
+              },
+              {
+                "id": "src-re-r1propostas-26"
+              },
+              {
+                "id": "src-re-r1propostas-19"
+              },
+              {
+                "id": "src-flavio-100"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Soberania no discurso de campanha e atos datados de aproximação com o governo dos EUA",
+            "detail": "Em 29/03/2026, na CPAC, pediu pressão diplomática dos EUA sobre instituições brasileiras; em 26 e 27/05/2026 foi recebido na Casa Branca; em 06/07/2026 disse que o governo usa 'falsa narrativa' de soberania; em 07/07/2026 pediu suspensão do tarifaço por 180 dias; em 26/09/2026 prometeu adesão ao 'Escudo das Américas'.",
+            "sources": [
+              {
+                "id": "src-flavio-bolsonaro-21"
+              },
+              {
+                "id": "src-mundo-07"
+              },
+              {
+                "id": "src-re-01"
+              },
+              {
+                "id": "src-flavio-bolsonaro-22"
+              },
+              {
+                "id": "src-re-03"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual é o valor e a lista de despesas do corte fiscal, e qual o texto da nova regra?",
+            "why": "O documento anuncia reformulação das regras fiscais e a campanha cita R$ 300 bilhões, sem memória de cálculo, lista de itens nem minuta da regra que substituiria o arcabouço."
+          },
+          {
+            "question": "Como o corte de gastos convive com R$ 900 bilhões em infraestrutura em quatro anos?",
+            "why": "O plano informa o valor agregado da meta de logística e não traz a divisão entre orçamento federal e aporte privado, nem cronograma anual."
+          },
+          {
+            "question": "Qual é o responsável e o prazo de execução de cada eixo do plano?",
+            "why": "O documento organiza as propostas em eixos temáticos com índice remissivo, sem indicar ministério ou órgão responsável por eixo nem data por meta."
+          }
+        ],
+        "publicExplanation": "Em 06/07/2026, em vídeo gravado em Washington, disse que o governo usa 'falsa narrativa' de defesa da soberania; em 07/07/2026 pediu ao USTR a suspensão do tarifaço por 180 dias; em 18/08/2026 afirmou que fará 'tesouraço' em ministérios.",
+        "methodology": "Apurado pela leitura integral do plano registrado no TSE (76 páginas, 11 capítulos e índice temático), por votações nominais do Senado e pelo anúncio econômico da campanha. O documento traz valor agregado (R$ 900 bilhões em quatro anos em logística) e não informa a regra fiscal, o valor do corte, prazo por meta ou responsável; ficaram de fora notas técnicas da equipe e o orçamento de 2027.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
       }
     },
     "caiado": {
       "reality": {
-        "PENDENTE": [
-          "instrumento mais exigente (fim da reeleição = PEC?)",
-          "compromissos 2030: nº, custo, prazo, responsável",
-          "histórico GO alinhado/divergente",
-          "base formal"
-        ]
+        "proposal": "Projeto de gestão: segurança como prioridade presidencial, estabilização fiscal com teto efetivo, PPA por missões e dez compromissos para 2030.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O item mais exigente é emenda constitucional: o método de governo (item 3) prevê encaminhar ao Congresso, no início do mandato, proposta de emenda à Constituição para extinguir a reeleição consecutiva nos cargos do Executivo; o tema de segurança aponta a PEC da maioridade penal aos 16 anos. O documento declara que o plano será traduzido em projetos de lei, atos administrativos, pactos federativos e metas do PPA 2028-2031, sem indicar o instrumento de cada um dos dez compromissos."
+        },
+        "history": {
+          "aligned": [
+            "2019-2025: Goiás saiu do Regime de Recuperação Fiscal e aderiu ao Propag (LC 212/2025), com aval da ALMG em 15/05/2025.",
+            "24/03/2025: comissão mista do Orçamento analisou a recuperação fiscal de Goiás, com superávit primário de R$ 3,1 bi em 2024.",
+            "29/03/2026: o governo estadual informa R$ 23,7 bilhões em investimentos em oito anos de mandato.",
+            "Goiás registra queda de indicadores criminais pelo 7º ano consecutivo, segundo o governo do estado."
+          ],
+          "divergent": [
+            "11/09/2023: o STF manteve a suspensão de normas de Goiás sobre pagamento acima do teto remuneratório (liminar de 23/07/2023).",
+            "25/08/2026: em sabatina, não detalhou o ajuste fiscal nem a reforma da Previdência (Estadão).",
+            "18/03/2026: assinou como governador memorando com os EUA sobre minerais críticos; o MPF abriu procedimento em 26/07/2026 e análises jurídicas apontaram competência da União."
+          ],
+          "sources": [
+            {
+              "id": "src-re-r1propostas-34"
+            },
+            {
+              "id": "src-re-r1propostas-31"
+            },
+            {
+              "id": "src-re-r1propostas-30"
+            },
+            {
+              "id": "src-re-r1propostas-29"
+            },
+            {
+              "id": "src-re-r1propostas-33"
+            },
+            {
+              "id": "src-re-r1propostas-36"
+            },
+            {
+              "id": "src-re-r1propostas-37"
+            },
+            {
+              "id": "src-re-r1temas-08"
+            },
+            {
+              "id": "src-re-07"
+            },
+            {
+              "id": "src-re-09"
+            }
+          ]
+        },
+        "support": {
+          "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+          "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+          "federations": "Nenhuma federação declarada na chapa",
+          "note": "O projeto depende do Congresso e de pactos com estados e municípios; a base observável é o PSD com 48 deputados e 14 senadores em exercício, 6 governadores e mais de 1,3 mil prefeitos. Retrato atual, não previsão do próximo Congresso.",
+          "sources": [
+            {
+              "id": "src-re-r1capacidades-02"
+            },
+            {
+              "id": "src-re-r1capacidades-03"
+            },
+            {
+              "id": "src-cg-29"
+            },
+            {
+              "id": "src-cg-30"
+            }
+          ]
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Fim da reeleição por PEC e dez compromissos de 2030 sem instrumento definido item a item",
+            "detail": "O método de governo prevê encaminhar PEC, no início do mandato, para extinguir a reeleição consecutiva no Executivo, e o tema de segurança apoia a PEC da maioridade penal aos 16 anos. Para os dez compromissos de 2030 o documento remete a projetos de lei, atos administrativos, pactos federativos e metas do PPA 2028-2031, sem instrumento por compromisso.",
+            "sources": [
+              {
+                "id": "src-caiado-80"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Plano de estabilização fiscal e normas de Goiás sobre pagamento acima do teto suspensas pelo STF",
+            "detail": "Em 23/07/2023 o relator suspendeu o pagamento acima do teto a magistrados de Goiás e, em 11/09/2023, o plenário do STF manteve a suspensão das normas do estado; o plano vincula o crescimento a reorganização do gasto, revisão de subsídios e teto remuneratório, e em 25/08/2026 o candidato não detalhou o ajuste fiscal em sabatina.",
+            "sources": [
+              {
+                "id": "src-re-r1propostas-37"
+              },
+              {
+                "id": "src-re-r1propostas-36"
+              },
+              {
+                "id": "src-re-r1temas-08"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Plano de política externa sem 'alinhamentos automáticos' e memorando estadual com os EUA em 2026",
+            "detail": "Em 18/03/2026 o governador assinou memorando com os EUA sobre minerais críticos, com sigilo de cinco anos apontado pela Folha em 24/03/2026; análises jurídicas de abril de 2026 apontaram competência da União e, em 26/07/2026, o MPF abriu procedimento para acompanhar as negociações.",
+            "sources": [
+              {
+                "id": "src-re-07"
+              },
+              {
+                "id": "src-caiado-85"
+              },
+              {
+                "id": "src-re-08"
+              },
+              {
+                "id": "src-re-09"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual é o custo e a fonte de recursos de cada um dos dez compromissos nacionais de 2030?",
+            "why": "A leitura integral do PDF de 102 páginas não localizou valores em reais; o documento informa que cada programa terá responsável, cronograma, orçamento e indicador, sem apresentá-los."
+          },
+          {
+            "question": "Qual é o instrumento previsto de cada compromisso: lei, emenda constitucional, pacto federativo ou meta do PPA?",
+            "why": "O plano declara que será traduzido em projetos de lei, atos administrativos, pactos federativos e metas do Plano Plurianual, sem associar instrumento a compromisso."
+          },
+          {
+            "question": "Quais metas anuais e indicadores serão pactuados, e com quais estados e municípios?",
+            "why": "O documento prevê PPA 2028-2031 por missões, painel público e comitês federativos, sem listar as metas numéricas nem os entes pactuantes."
+          }
+        ],
+        "publicExplanation": "Em 12/08/2026 respondeu que 'dizer que quero entregar terras raras aos EUA é burrice e mau-caratismo' e definiu o objetivo como atrair tecnologia para processar minerais no país; o governo de Goiás classifica o memorando como declaração de intenções não vinculante (Agência Brasil, 27/04/2026).",
+        "methodology": "Apurado pela leitura integral do PDF de 102 páginas (carta, 26 temas, método de governo e dez compromissos de 2030), por atos estaduais e por decisões do STF sobre Goiás. O texto não traz valores em reais nem prazo por compromisso; a leitura localizou 0 ocorrências de 'R$' no documento. Ficaram de fora o PPA estadual detalhado e a íntegra do memorando com os EUA.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
       }
     },
     "zema": {
       "reality": {
-        "PENDENTE": [
-          "instrumento mais exigente (reforma do Judiciário = PEC)",
-          "choque fiscal prometido x contas de MG",
-          "detalhamento do documento",
-          "base formal"
-        ]
+        "proposal": "Choque institucional: choque fiscal para estabilizar a dívida, privatizar todas as estatais, reformar o Judiciário e a Previdência por gatilho.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O item mais exigente é emenda constitucional: reforma do Judiciário com corregedoria independente para o STF, nova Previdência com reajuste automático da idade mínima (estados, municípios, rural e militar) e limites a decisões do STF. A expressão 'emenda à Constituição' não aparece no texto integral lido; privatizar todas as estatais e extinguir os fundos eleitoral e partidário exigem leis e emenda; sair do BRICS e converter o Mercosul em zona de livre comércio dependem de negociação internacional e do Congresso."
+        },
+        "history": {
+          "aligned": [
+            "2019: reforma administrativa estadual reduziu de 21 para 12 secretarias (PL 367/19; Lei 23.304/2019).",
+            "2020: reforma da Previdência estadual aprovada por lei (PLC 46/2020; LC 156/2020), com regras de idade mínima na EC 104/2020.",
+            "2025-2026: Minas aderiu ao Propag (Lei 25.282/2025) e a privatização da Copasa foi concluída em 16/06/2026 (R$ 8,38 bi na venda).",
+            "09/05/2023: lançou em Nova York o projeto 'Vale do Lítio' para atrair mineradoras, eixo que o plano retoma (terras raras, nióbio e lítio)."
+          ],
+          "divergent": [
+            "10/12/2025 e 15/01/2026: o orçamento de Minas para 2026 foi aprovado pela ALMG e sancionado com déficit previsto de R$ 5,2 bilhões.",
+            "27/03/2026 e agosto/2026: reportagens registram aposta em privatizações e venda de ativos para enfrentar o déficit, caixa negativo e alta de renúncias.",
+            "2024: parecer citado pela Folha, o conselho do RRF e o Tesouro Nacional apontaram que o aumento de 300% para governador, vice e secretários contrariava o regime de recuperação fiscal.",
+            "2022-2026: a privatização da Cemig não avançou; em junho/2026, o governador afirmou que o sucessor levaria a venda adiante."
+          ],
+          "sources": [
+            {
+              "id": "src-zema-70"
+            },
+            {
+              "id": "src-zema-71"
+            },
+            {
+              "id": "src-zema-78"
+            },
+            {
+              "id": "src-re-r1propostas-47"
+            },
+            {
+              "id": "src-zema-76"
+            },
+            {
+              "id": "src-re-r1propostas-38"
+            },
+            {
+              "id": "src-zema-08"
+            },
+            {
+              "id": "src-zema-06"
+            },
+            {
+              "id": "src-zema-140"
+            },
+            {
+              "id": "src-re-r1propostas-50"
+            },
+            {
+              "id": "src-zema-29"
+            },
+            {
+              "id": "src-zema-31"
+            },
+            {
+              "id": "src-re-r1propostas-44"
+            },
+            {
+              "id": "src-re-r1propostas-45"
+            },
+            {
+              "id": "src-zema-142"
+            },
+            {
+              "id": "src-zema-47"
+            },
+            {
+              "id": "src-zema-85"
+            }
+          ]
+        },
+        "support": {
+          "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício (APIs oficiais, 29/09/2026; o vice Eduardo Girão é senador licenciado pelo Ceará)",
+          "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+          "federations": "Nenhuma",
+          "note": "As mudanças propostas exigem PEC e leis; a base observável é o NOVO com 5 deputados federais e nenhum senador em exercício (29/09/2026), em chapa de partido isolado. Retrato atual, não previsão do próximo Congresso.",
+          "sources": [
+            {
+              "id": "src-re-r1capacidades-02"
+            },
+            {
+              "id": "src-re-r1capacidades-03"
+            },
+            {
+              "id": "src-zema-02"
+            }
+          ]
+        },
+        "tensions": [
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "'Choque fiscal' no plano federal e contas estaduais com déficit previsto e caixa negativo",
+            "detail": "O orçamento de Minas para 2026 foi sancionado em 15/01/2026 com déficit previsto de R$ 5,2 bilhões após aprovação na ALMG em 10/12/2025; em 27/03/2026 reportagem registrou aposta em privatizações e venda de ativos para enfrentar o déficit e, em agosto/2026, caixa negativo e alta de renúncias.",
+            "sources": [
+              {
+                "id": "src-zema-08"
+              },
+              {
+                "id": "src-zema-06"
+              },
+              {
+                "id": "src-zema-140"
+              },
+              {
+                "id": "src-re-r1propostas-50"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Reforma do Judiciário, nova Previdência e privatizações exigem PEC e leis com bancada de 5 deputados",
+            "detail": "O plano propõe corregedoria independente para o STF, reajuste automático da idade mínima da Previdência e privatização de todas as estatais, sem nomear o instrumento; em 29/09/2026 o NOVO tinha 5 deputados federais e nenhum senador em exercício nas listas oficiais, e a chapa foi registrada como partido isolado.",
+            "sources": [
+              {
+                "id": "src-zema-12"
+              },
+              {
+                "id": "src-re-r1capacidades-02"
+              },
+              {
+                "id": "src-re-r1capacidades-03"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Meta de privatizar todas as estatais: Copasa concluída em 2026 e Cemig fora da agenda",
+            "detail": "A ALMG aprovou a privatização da Copasa em dez/2025 e a operação foi concluída em 16/06/2026 (R$ 8,38 bi na venda; R$ 13,9 bi arrecadados no total); o estudo de transformar a Cemig em corporação de 2022 não avançou e, em 2026, reportagem registrou que a privatização saiu do radar, com declaração de que o sucessor levaria a venda adiante.",
+            "sources": [
+              {
+                "id": "src-re-r1propostas-40"
+              },
+              {
+                "id": "src-re-r1propostas-38"
+              },
+              {
+                "id": "src-re-r1propostas-39"
+              },
+              {
+                "id": "src-re-r1propostas-44"
+              },
+              {
+                "id": "src-re-r1propostas-45"
+              },
+              {
+                "id": "src-zema-142"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual é o valor do choque fiscal, a lista de despesas alcançadas e o prazo da trajetória da dívida?",
+            "why": "O plano fixa metas progressivas de redução da carga tributária e o objetivo de estabilizar a dívida, sem valores de corte, cronograma nem memória de cálculo da meta de juros citada em sabatina."
+          },
+          {
+            "question": "Qual é o instrumento previsto para o gatilho automático da idade mínima e para a corregedoria do STF?",
+            "why": "O documento não cita 'emenda à Constituição' no texto integral; as duas medidas alteram regras constitucionais e o plano não anexa minuta nem caminho de tramitação."
+          },
+          {
+            "question": "Qual é o custo estimado do depósito de R$ 1.000 a cada recém-nascido e a fonte dos recursos?",
+            "why": "A campanha estimou cerca de R$ 2,5 bilhões por ano em reportagem de 06/09/2026; o plano vincula a receita ao combate à corrupção, sem memória de cálculo."
+          }
+        ],
+        "publicExplanation": "Na carta de abertura do plano, descreve Minas em 2019 com 'contas no vermelho' e servidores sem salário; em 27/03/2026, reportagem registra que o governo aposta em privatizações e venda de ativos para enfrentar o déficit.",
+        "methodology": "Apurado pela leitura integral do PDF do plano (81 páginas; carta de abertura e 20 áreas), por leis orçamentárias e atos do governo de Minas (2019-2026) e por registros de votação e pareceres sobre o RRF. O documento não traz custo por proposta, prazo por meta, metas de longo prazo nem responsável; ficaram de fora estudos de viabilidade e o orçamento federal de 2027.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
       }
     }
   },
   "dataGaps": [
-    "SKELETON"
+    "Nenhum dos quatro planos informa custo por proposta; o de Caiado não traz valores em reais no documento lido.",
+    "Os planos de Flávio Bolsonaro e Zema não nomeiam o instrumento constitucional das reformas propostas (PEC ausente do texto).",
+    "O PPA 2028-2031, que Lula e Caiado citam como instrumento de metas, ainda não foi enviado ao Congresso."
   ]
 }
