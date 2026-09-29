@@ -4,15 +4,15 @@ import { Shell } from "@/components/shell";
 import { CandidateAvatar } from "@/components/candidate-avatar";
 import { getCandidateBySlug } from "@/lib/data";
 import { formatPeriod, formatDate, yearsBetween } from "@/lib/format";
-import { DIMENSIONS } from "@/types";
-import {
-  EvidenceBadge,
-  ConfidenceBadge,
-  LegalStatusBadge,
-} from "@/components/badges";
+import { sectionOfMetric } from "@/types";
 import { SourceItem } from "@/components/evidence-drawer";
 import { planStats } from "@/lib/comparison";
 import { ProportionalBar } from "@/components/proportional-bar";
+import { CountryProjectSection } from "@/components/country-project-section";
+import { CapacitiesSection } from "@/components/capacities-section";
+import { ForeignPolicySection } from "@/components/foreign-policy-section";
+import { CoherenceSection } from "@/components/coherence-section";
+import { IntegritySection } from "@/components/integrity-section";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import type { ExperienceEntry, EducationEntry } from "@/types";
@@ -43,6 +43,15 @@ export default async function CandidatePage({ params }: Props) {
   const plan = candidate.governmentPlan;
   const pstats = planStats(plan);
 
+  // V3: currículo, plano e opinião vivem em áreas próprias — nunca como prova
+  // de capacidade. O nível principal é capacidade demonstrada + evidências.
+  const metrCaminho = candidate.metrics.filter((m) => sectionOfMetric(m.id) === "caminho");
+  const metrOpiniao = candidate.metrics.filter((m) => sectionOfMetric(m.id) === "opiniao");
+  const metrHistorico = candidate.metrics.filter((m) => sectionOfMetric(m.id) === "historico");
+  const metrObjetivos = candidate.metrics.filter(
+    (m) => sectionOfMetric(m.id) === "capacidades",
+  );
+
   return (
     <Shell>
       <div className="mx-auto flex w-full max-w-6xl flex-col gap-14 px-4 py-10 sm:px-6">
@@ -72,9 +81,7 @@ export default async function CandidatePage({ params }: Props) {
                   {candidate.party}
                 </span>
               </div>
-              <h1 className="display-1 !text-4xl sm:!text-5xl">
-                {candidate.name}
-              </h1>
+              <h1 className="display-1 !text-4xl sm:!text-5xl">{candidate.name}</h1>
               <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground sm:text-base">
                 {candidate.tagline}
               </p>
@@ -100,28 +107,159 @@ export default async function CandidatePage({ params }: Props) {
           </div>
         </header>
 
-        {/* Resumo numérico */}
-        <section aria-labelledby="h-resumo" className="flex flex-col gap-4">
-          <h2 id="h-resumo" className="display-2">
-            Resumo
-          </h2>
-          <div className="grid grid-cols-2 gap-px overflow-hidden rounded-md border border-border bg-border sm:grid-cols-4">
-            {candidate.metrics.slice(0, 8).map((m) => (
-              <div key={m.id} className="flex flex-col gap-1 bg-card p-5">
-                <span className="num-hero">
-                  {m.displayValue}
-                </span>
-                <span className="label-field leading-snug">{m.name}</span>
-              </div>
-            ))}
+        {/* 1 — Projeto de país */}
+        <section aria-labelledby="h-pais" className="flex flex-col gap-4">
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              Seção 1
+            </span>
+            <h2 id="h-pais" className="display-2">
+              Para onde quer levar o Brasil?
+            </h2>
+            <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+              Visão de país, prioridades declaradas e modelo de desenvolvimento,
+              com a fonte original de cada afirmação.
+            </p>
           </div>
+          <CountryProjectSection candidates={[candidate]} hideTag />
         </section>
 
-        {/* Timeline de trajetória */}
-        <section aria-labelledby="h-timeline" className="flex flex-col gap-4">
-          <h2 id="h-timeline" className="display-2">
-            Trajetória
-          </h2>
+        {/* 2 — Capacidades demonstradas */}
+        <section aria-labelledby="h-capacidades" className="flex flex-col gap-4">
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              Seção 2
+            </span>
+            <h2 id="h-capacidades" className="display-2">
+              Que capacidades sua trajetória demonstra?
+            </h2>
+            <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+              Cada capacidade traz evidências concretas — papel exercido,
+              complexidade e resultado observado — e a fonte para conferir.
+            </p>
+          </div>
+          <CapacitiesSection candidates={[candidate]} hideTag />
+
+          {metrObjetivos.length > 0 ? (
+            <div className="flex flex-col gap-3 border-t border-border pt-6">
+              <h3 className="text-base font-semibold leading-snug">
+                Indicadores objetivos
+              </h3>
+              <p className="max-w-2xl text-xs leading-relaxed text-muted-foreground">
+                Dados verificáveis que sustentam as evidências acima. São
+                contexto comparável, não nota de capacidade.
+              </p>
+              <dl className="grid gap-px overflow-hidden rounded-md border border-border bg-border sm:grid-cols-2 lg:grid-cols-3">
+                {metrObjetivos.map((m) => (
+                  <div key={m.id} className="flex flex-col gap-1 bg-card p-4">
+                    <dt className="label-field leading-snug">{m.name}</dt>
+                    <dd className="text-sm font-semibold leading-snug">{m.displayValue}</dd>
+                    <dd className="text-xs leading-relaxed text-muted-foreground">
+                      {m.methodology}
+                    </dd>
+                  </div>
+                ))}
+              </dl>
+            </div>
+          ) : null}
+        </section>
+
+        {/* 3 — Brasil no mundo */}
+        <section aria-labelledby="h-mundo" className="flex flex-col gap-4">
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              Seção 3
+            </span>
+            <h2 id="h-mundo" className="display-2">
+              Como enxerga o Brasil no mundo?
+            </h2>
+            <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+              Posições documentadas, estratégia, experiência internacional com
+              peso proporcional à responsabilidade efetiva, e projeção — que é
+              visibilidade, não capacidade diplomática.
+            </p>
+          </div>
+          <ForeignPolicySection candidates={[candidate]} hideTag />
+        </section>
+
+        {/* 4 — Coerência e trajetória */}
+        <section aria-labelledby="h-coerencia" className="flex flex-col gap-4">
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              Seção 4
+            </span>
+            <h2 id="h-coerencia" className="display-2">
+              O que a trajetória mostra?
+            </h2>
+            <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+              Posição, proposta e ato praticado aparecem rotulados e lado a lado
+              ao longo do tempo — sem conclusão automática sobre coerência.
+            </p>
+          </div>
+          <CoherenceSection candidates={[candidate]} hideTag />
+        </section>
+
+        {/* Área separada — Opinião pública */}
+        {metrOpiniao.length > 0 ? (
+          <section
+            aria-labelledby="h-opiniao"
+            className="flex flex-col gap-4 border-t border-border pt-10"
+          >
+            <div className="flex flex-col gap-1">
+              <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                Área separada
+              </span>
+              <h2 id="h-opiniao" className="display-2">
+                Opinião pública
+              </h2>
+              <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+                Pesquisas registradas, com instituto e data. Medem percepção
+                eleitoral — não competência.
+              </p>
+            </div>
+            <dl className="grid grid-cols-1 gap-px overflow-hidden rounded-md border border-border bg-border sm:grid-cols-2">
+              {metrOpiniao.map((m) => (
+                <div key={m.id} className="flex flex-col gap-1 bg-card p-5">
+                  <dt className="label-field leading-snug">{m.name}</dt>
+                  <dd className="text-sm font-semibold leading-snug">{m.displayValue}</dd>
+                  <dd className="text-xs leading-relaxed text-muted-foreground">
+                    {m.methodology}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+          </section>
+        ) : null}
+
+        {/* Área separada — Histórico e trajetória */}
+        <section
+          aria-labelledby="h-historico"
+          className="flex flex-col gap-4 border-t border-border pt-10"
+        >
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              Área separada
+            </span>
+            <h2 id="h-historico" className="display-2">
+              Histórico e trajetória
+            </h2>
+            <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+              Currículo, tempo de exercício, estrutura administrada e patrimônio.
+              Estes números medem oportunidade institucional — servem de contexto,
+              não de prova de capacidade.
+            </p>
+          </div>
+
+          <dl className="grid grid-cols-1 gap-px overflow-hidden rounded-md border border-border bg-border sm:grid-cols-2 lg:grid-cols-3">
+            {metrHistorico.map((m) => (
+              <div key={m.id} className="flex flex-col gap-1 bg-card p-4">
+                <dt className="label-field leading-snug">{m.name}</dt>
+                <dd className="text-sm font-semibold leading-snug">{m.displayValue}</dd>
+              </div>
+            ))}
+          </dl>
+
+          <h3 className="mt-2 text-base font-semibold leading-snug">Trajetória</h3>
           <ol className="flex flex-col">
             {[
               ...candidate.education.map((e) => ({
@@ -147,9 +285,7 @@ export default async function CandidatePage({ params }: Props) {
                   </span>
                   <div className="flex flex-col gap-1">
                     <span className="text-sm font-semibold">{t.role}</span>
-                    <span className="text-xs text-muted-foreground">
-                      {t.org}
-                    </span>
+                    <span className="text-xs text-muted-foreground">{t.org}</span>
                     {"description" in t.entry && t.entry.description ? (
                       <span className="mt-1 max-w-xl text-xs leading-relaxed text-foreground/75">
                         {t.entry.description}
@@ -170,10 +306,20 @@ export default async function CandidatePage({ params }: Props) {
         </section>
 
         {/* Plano de governo */}
-        <section aria-labelledby="h-plano" className="flex flex-col gap-4">
+        <section aria-labelledby="h-plano" className="flex flex-col gap-4 border-t border-border pt-10">
           <h2 id="h-plano" className="display-2">
             Plano de governo
           </h2>
+          {metrCaminho.length > 0 ? (
+            <dl className="grid gap-px overflow-hidden rounded-md border border-border bg-border sm:grid-cols-2 lg:grid-cols-4">
+              {metrCaminho.map((m) => (
+                <div key={m.id} className="flex flex-col gap-1 bg-card p-4">
+                  <dt className="label-field leading-snug">{m.name}</dt>
+                  <dd className="text-sm font-semibold leading-snug">{m.displayValue}</dd>
+                </div>
+              ))}
+            </dl>
+          ) : null}
           {plan.title ? (
             <p className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
               <span className="text-base font-semibold">{plan.title}</span>
@@ -246,57 +392,29 @@ export default async function CandidatePage({ params }: Props) {
           )}
         </section>
 
-        {/* Integridade: categorias sempre explícitas */}
-        <section aria-labelledby="h-integridade" className="flex flex-col gap-4">
-          <h2 id="h-integridade" className="display-2">
-            Integridade e histórico institucional
-          </h2>
-          <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
-            Cada registro mantém sua categoria jurídica exata e seu status
-            atual. Acusação não é condenação; absolvição e arquivamento são
-            registrados com o mesmo destaque.
-          </p>
-          {candidate.institutionalHistory.length === 0 ? (
-            <p className="rounded-md border border-dashed border-border p-4 text-sm text-muted-foreground">
-              Nenhum registro relevante localizado nas fontes consultadas até
-              agora. Em análise.
+        {/* Área separada — Integridade */}
+        <section
+          aria-labelledby="h-integridade"
+          className="flex flex-col gap-4 border-t border-border pt-10"
+        >
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              Área separada
+            </span>
+            <h2 id="h-integridade" className="display-2">
+              Integridade e responsabilidade institucional
+            </h2>
+            <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+              Cada registro mantém sua categoria jurídica exata e seu status
+              atual. Acusação não é condenação; absolvição e arquivamento têm o
+              mesmo destaque.
             </p>
-          ) : (
-            <ul className="flex flex-col divide-y divide-border/70 rounded-md border border-border">
-              {candidate.institutionalHistory.map((r) => (
-                <li key={r.id} className="flex flex-col gap-2 p-4 sm:flex-row sm:items-start sm:gap-6">
-                  <div className="flex shrink-0 flex-col gap-2">
-                    <LegalStatusBadge status={r.legalStatus} />
-                    <EvidenceBadge status={r.evidenceStatus} />
-                  </div>
-                  <div className="flex min-w-0 flex-col gap-1">
-                    <span className="text-sm font-semibold">{r.title}</span>
-                    <p className="max-w-2xl text-sm leading-relaxed text-foreground/80">
-                      {r.description}
-                    </p>
-                    <span className="text-xs text-muted-foreground">
-                      Instância: {r.instance} · Status:{" "}
-                      {r.currentStatus === "em_andamento"
-                        ? "em andamento"
-                        : r.currentStatus}{" "}
-                      · Última atualização: {formatDate(r.lastUpdate)}
-                    </span>
-                    {r.sources.length > 0 ? (
-                      <div className="mt-1 flex flex-wrap gap-2">
-                        {r.sources.slice(0, 3).map((s) => (
-                          <SourceItem key={s.id} source={s} />
-                        ))}
-                      </div>
-                    ) : null}
-                  </div>
-                </li>
-              ))}
-            </ul>
-          )}
+          </div>
+          <IntegritySection candidates={[candidate]} hideTag />
         </section>
 
         {/* Fontes */}
-        <section aria-labelledby="h-fontes" className="flex flex-col gap-4">
+        <section aria-labelledby="h-fontes" className="flex flex-col gap-4 border-t border-border pt-10">
           <h2 id="h-fontes" className="display-2">
             Fontes
           </h2>

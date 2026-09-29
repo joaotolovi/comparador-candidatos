@@ -2849,6 +2849,426 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Documento do CDESS (Conselho de Desenvolvimento Econômico Social Sustentável), órgão vinculado à Presidência da República; usado apenas para indicar que existe documento de governo com horizonte até 2035, atribuído ao órgão e não ao plano de campanha."
+    },
+    {
+      "id": "src-lula-100",
+      "title": "Reforma sob pressão: Lula cede, e Câmara aprova a reforma da Previdência",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/fsp/brasil/fc0608200302.htm",
+      "publishedAt": "2003-08-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a aprovação em primeiro turno por 358 votos a 126 e as concessões feitas pelo governo para obter o placar."
+    },
+    {
+      "id": "src-lula-101",
+      "title": "Emenda Constitucional nº 41, de 19 de dezembro de 2003",
+      "publisher": "Planalto — Presidência da República",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc41.htm",
+      "publishedAt": "2003-12-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial",
+      "notes": "Texto da reforma da Previdência do primeiro mandato."
+    },
+    {
+      "id": "src-lula-102",
+      "title": "Foco do governo é aumentar receita, e não alterar meta fiscal, diz Padilha",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2023/11/16/foco-do-governo-e-aumentar-receita-e-nao-alterar-meta-fiscal-diz-padilha.ghtml",
+      "publishedAt": "2023-11-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "URL obtida em resultado de busca; conferir disponibilidade (alguns domínios bloqueiam requisição direta)."
+    },
+    {
+      "id": "src-lula-103",
+      "title": "Relator da LDO diz que governo decidiu manter meta de déficit fiscal zero",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2023/11/relator-da-ldo-diz-que-governo-decidiu-manter-meta-de-deficit-fiscal-zero.shtml",
+      "publishedAt": "2023-11-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "URL obtida em resultado de busca; conferir disponibilidade."
+    },
+    {
+      "id": "src-lula-104",
+      "title": "Governo quer chegar à meta de déficit zero sem contingenciar, diz Haddad",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/06/governo-quer-chegar-meta-de-deficit-zero-sem-contingenciar-diz-haddad.ghtml",
+      "publishedAt": "2024-02-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "URL obtida em resultado de busca; conferir disponibilidade."
+    },
+    {
+      "id": "src-lula-105",
+      "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+      "publishedAt": "2023-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "PLP 93/2023 aprovado na Câmara em 22/08/2023 e sancionado com dois vetos em 31/08/2023 (LC 200/2023)."
+    },
+    {
+      "id": "src-lula-106",
+      "title": "Nota informativa sobre a LC 200/2023 — novo arcabouço fiscal (PLP 93/2023)",
+      "publisher": "Senado Federal — Consultoria de Orçamento",
+      "url": "https://www12.senado.leg.br/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-informativos/plp-93-de-2023_sto-2023-01658-nota-informativa-sobre-a-lc-200-2023_atualizacao-da-ni-do-plp-93-23_novo-arcabouco-fiscal.pdf",
+      "publishedAt": "2023-09-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Descreve os limites de crescimento da despesa (IPCA + percentual da receita primária)."
+    },
+    {
+      "id": "src-lula-107",
+      "title": "Governo Lula rejeitou incluir exigência dos EUA sobre participação de dissidentes políticos nas eleições",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/09/17/governo-rejeitou-incluir-exigencia-sobre-participacao-de-dissidentes-politicos-nas-eleicoes-em-negociacao-de-tarifaco-com-os-eua.ghtml",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Exigência recusada na negociação do tarifaço."
+    },
+    {
+      "id": "src-lula-108",
+      "title": "Governo não abre mão do PIX, mas apresenta novas medidas aos EUA para evitar tarifaço",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/02/governo-nao-abre-mao-do-pix-mas-apresenta-novas-medidas-aos-eua-para-evitar-tarifaco.ghtml",
+      "publishedAt": "2026-07-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reunião com o USTR; proposta de 'mapa do caminho' e redução de tarifas de cerca de 300 produtos."
+    },
+    {
+      "id": "src-lula-109",
+      "title": "Governo Trump fez 21 exigências ao Brasil para negociar o tarifaço",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/governo-trump-impos-21-exigencias-brasil-negociar-tarifaco",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lista de exigências apresentadas na negociação."
+    },
+    {
+      "id": "src-lula-110",
+      "title": "'Não podemos aceitar o tratamento que os Estados Unidos deram ao Brasil nesta semana', diz Lula",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/lula-reuniao-ministerial-brasil-estados-unidos-tarifas-eleicoes",
+      "publishedAt": "2026-06-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração em reunião ministerial sobre a proposta de tarifa de 25% do USTR."
+    },
+    {
+      "id": "src-lula-111",
+      "title": "Lula sanciona lei que suspende dívida do Rio Grande do Sul por três anos",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/05/17/lula-sanciona-lei-que-suspende-divida-do-rio-grande-do-sul-por-tres-anos",
+      "publishedAt": "2024-05-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Lei Complementar 206/2024."
+    },
+    {
+      "id": "src-lula-112",
+      "title": "MIDR alerta para o golpe do Auxílio Reconstrução",
+      "publisher": "Ministério da Integração e do Desenvolvimento Regional (gov.br)",
+      "url": "https://www.gov.br/mdr/pt-br/noticias-midr/midr-alerta-para-o-golpe-do-auxilio",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Registra que o Auxílio Reconstrução (R$ 5.100 por família) foi pago a moradores de 444 municípios do RS e que pedidos foram reabertos em 2026."
+    },
+    {
+      "id": "src-lula-113",
+      "title": "Entenda as medidas divulgadas pelo governo federal para combate às queimadas no país",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/noticia/2024/09/18/entenda-as-medidas-divulgadas-pelo-governo-federal-para-combate-as-queimadas-no-pais.ghtml",
+      "publishedAt": "2024-09-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Medida provisória com R$ 514 milhões para combate a incêndios e R$ 100 milhões para a saúde."
+    },
+    {
+      "id": "src-lula-114",
+      "title": "Governo adota ações emergenciais em socorro aos yanomami",
+      "publisher": "Ministério da Saúde (gov.br)",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula",
+      "publishedAt": "2023-01-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Declaração de emergência em saúde pública no território yanomami."
+    },
+    {
+      "id": "src-lula-115",
+      "title": "Decreto nº 11.405, de 30 de janeiro de 2023",
+      "publisher": "Presidência da República — Legislação",
+      "url": "https://legislacao.presidencia.gov.br/ficha?/legisla/legislacao.nsf/Viw_Identificacao/DEC%2011.405-2023&OpenDocument",
+      "publishedAt": "2023-01-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial",
+      "notes": "Medidas de enfrentamento da emergência em saúde pública no território yanomami e de combate ao garimpo ilegal."
+    },
+    {
+      "id": "src-lula-116",
+      "title": "Relatório Anual 2008 — capítulo sobre a crise financeira internacional e as medidas adotadas",
+      "publisher": "Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/pec/boletim/banual2008/rel2008cap4p.pdf",
+      "publishedAt": "2009-03-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "economico",
+      "notes": "Estima impacto fiscal de R$ 8,4 bilhões em 2009 com a redução de IPI e de R$ 21,4 bilhões no período 2008-2011. URL obtida em resultado de busca; conferir disponibilidade."
+    },
+    {
+      "id": "src-lula-117",
+      "title": "Crise de 2008 resultou em desindustrialização e crise fiscal no Brasil",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-09/crise-de-2008-resultou-em-desindustrializacao-e-crise-fiscal-no-brasil",
+      "publishedAt": "2018-09-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Descreve o conjunto de medidas anticíclicas do governo federal (IPI, bancos públicos, compulsórios)."
+    },
+    {
+      "id": "src-lula-118",
+      "title": "Aprovado texto-base do projeto que retira despesas com 'tarifaço' do teto de gastos",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/aprovado-texto-base-do-projeto-que-retira-despesas-com-tarifaco-do-teto-de-gastos",
+      "publishedAt": "2025-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "PLP 168/2025 aprovado por 64 votos a 0 em texto-base; viabiliza a MP 1.309/2025 (Plano Brasil Soberano)."
+    },
+    {
+      "id": "src-lula-119",
+      "title": "Senado aprova texto-base de projeto que tira gastos com o tarifaço das metas fiscais de 2025 e 2026",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/09/24/senado-aprova-texto-base-de-projeto-que-tira-gastos-com-o-tarifaco-das-metas-fiscais-de-2025-e-2026.ghtml",
+      "publishedAt": "2025-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "R$ 4,5 bilhões em fundos garantidores e R$ 5 bilhões de Reintegra fora da meta; dois destaques pendentes."
+    },
+    {
+      "id": "src-lula-120",
+      "title": "PLP 168/2025 — tramitação e votação nominal",
+      "publisher": "Congresso Nacional",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/plp-168-2025",
+      "publishedAt": "2025-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Ficha de tramitação da matéria de autoria do senador Jaques Wagner (líder do governo)."
+    },
+    {
+      "id": "src-lula-121",
+      "title": "Três Poderes da República lançam Pacto pela Transformação Ecológica",
+      "publisher": "Ministério da Fazenda (gov.br)",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2024/agosto/tres-poderes-da-republica-lancam-pacto-pela-transformacao-ecologica",
+      "publishedAt": "2024-08-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Assinatura do pacto por Executivo, Legislativo e Judiciário e criação de governança conjunta."
+    },
+    {
+      "id": "src-lula-122",
+      "title": "Promulgadas novas regras para emendas parlamentares",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://camara.leg.br/noticias/1140503-promulgadas-novas-regras-para-emendas-parlamentares",
+      "publishedAt": "2025-03-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "LC 210/2024 e Resolução conjunta do Congresso resultantes do plano acordado com o STF."
+    },
+    {
+      "id": "src-lula-123",
+      "title": "Emendas parlamentares: estados e municípios devem adotar modelo federal de transparência",
+      "publisher": "STF — Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/emendas-parlamentares-estados-e-municipios-devem-adotar-modelo-federal-de-transparencia/",
+      "publishedAt": "2025-10-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal",
+      "notes": "Extensão do modelo federal de rastreabilidade a estados e municípios (ADPF 854)."
+    },
+    {
+      "id": "src-lula-124",
+      "title": "Lei Complementar nº 214, de 16 de janeiro de 2025",
+      "publisher": "Planalto — Presidência da República",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+      "publishedAt": "2025-01-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial",
+      "notes": "Regulamenta a reforma tributária e cria o Comitê Gestor do IBS."
+    },
+    {
+      "id": "src-lula-125",
+      "title": "Reforma tributária: Conselho Superior do Comitê Gestor do IBS é instalado e membros indicados pelos estados tomam posse",
+      "publisher": "Comsefaz",
+      "url": "https://comsefaz.org.br/novo/reforma-tributaria-conselho-superior-do-comite-gestor-do-ibs-e-instalado-e-membros-indicados-pelos-estados-tomam-posse/",
+      "publishedAt": "2025-05-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Instalação do CGIBS e financiamento da estrutura."
+    },
+    {
+      "id": "src-lula-126",
+      "title": "Governo Federal assegura condições plenas para a COP30 na Amazônia",
+      "publisher": "Agência Gov (EBC)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202508/governo-federal-assegura-condicoes-plenas-para-a-cop30-na-amazonia",
+      "publishedAt": "2025-08-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Recursos federais para macrodrenagem, saneamento e mobilidade em Belém."
+    },
+    {
+      "id": "src-lula-127",
+      "title": "Belém em obras: os 100 dias que antecedem a COP30",
+      "publisher": "COP30 — site oficial (governo federal)",
+      "url": "https://cop30.br/pt-br/noticias-da-cop30/belem-em-obras-os-100-dias-que-antecedem-a-cop30",
+      "publishedAt": "2025-08-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Registro das obras e convênios firmados entre governo federal, governo do Pará e prefeitura de Belém."
+    },
+    {
+      "id": "src-lula-128",
+      "title": "Executivo entrega ao Congresso PEC que reformula a segurança pública",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/04/23/executivo-entrega-ao-congresso-pec-que-reformula-a-seguranca-publica",
+      "publishedAt": "2025-04-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Entrega da PEC da Segurança Pública pelos presidentes dos três Poderes."
+    },
+    {
+      "id": "src-lula-129",
+      "title": "Câmara aprova PEC da Segurança; texto será analisado pelo Senado",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/05/camara-aprova-pec-da-seguranca-texto-sera-analisado-pelo-senado",
+      "publishedAt": "2026-03-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Aprovação na Câmara da PEC que constitucionaliza o Sistema Único de Segurança Pública."
+    },
+    {
+      "id": "src-mundo-01",
+      "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+      "publisher": "G1 / GloboNews (Filipe Matoso)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+    },
+    {
+      "id": "src-mundo-02",
+      "title": "O que Lula e Flávio prometem para a política externa",
+      "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+      "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, BRICS, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado para a afirmação de que Ucrânia e Oriente Médio estão ausentes dos programas."
+    },
+    {
+      "id": "src-mundo-03",
+      "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+      "publisher": "Folha de S.Paulo — Patrícia Campos Mello",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento por tema (BRICS/China, Mercosul, operações dos EUA, OCDE, minerais críticos, Israel/Gaza, EUA) com respostas das campanhas; parte das posições de Caiado e Zema é atribuída aos coordenadores de programa (Roberto Brant e Christian Lohbauer). A campanha de Flávio Bolsonaro não respondeu."
+    },
+    {
+      "id": "src-mundo-05",
+      "title": "UE–Mercosul: Conselho autoriza a assinatura do acordo de parceria e comércio",
+      "publisher": "Serviço Europeu de Ação Externa (EEAS) — Delegação da UE no Brasil",
+      "url": "https://www.eeas.europa.eu/delegations/brazil/ue%E2%80%93mercosul-conselho-autoriza-assinatura-do-acordo-de-parceria-e-com%C3%A9rcio_en",
+      "publishedAt": "2026-01-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Fonte oficial da UE sobre a autorização de assinatura do Acordo de Parceria UE-Mercosul e do Acordo Comercial Interino (09/01/2026)."
+    },
+    {
+      "id": "src-mundo-06",
+      "title": "A União Europeia formaliza a aplicação provisória do Acordo Comercial com o Mercosul",
+      "publisher": "Aduana News",
+      "url": "https://aduananews.com/pt/la-union-europea-oficializa-la-aplicacion-provisional-del-acuerdo-comercial-con-el-mercosur",
+      "publishedAt": "2026-04-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a aplicação provisória do acordo interino a partir de 01/05/2026 e as ratificações, incluindo o Decreto Legislativo nº 14/2026 (PDS 41/26) no Brasil (17/03/2026)."
+    },
+    {
+      "id": "src-mundo-09",
+      "title": "Como a imprensa internacional noticiou tarifa de 25% dos EUA contra o Brasil: 'Aprofundamento da ruptura antes das eleições'",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cx2vx91y402o",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Síntese da cobertura estrangeira (Financial Times, New York Times, The Guardian, Reuters) sobre a tarifa de 25% que entrou em vigor em 22/07/2026; usada para projeção/notoriedade de Lula e Flávio na imprensa estrangeira. Dia exato de publicação não preservado na coleta."
+    },
+    {
+      "id": "src-mundo-10",
+      "title": "Lula diz que discutiu crime organizado, tarifas e minerais críticos com Trump",
+      "publisher": "Brasil de Fato",
+      "url": "https://brasildefato.com.br/2026/05/07/lula-diz-que-discutiu-crime-organizado-tarifas-e-minerais-criticos-com-trump-e-elogia-magnata-rindo-vale-mais-do-que-de-cara-feia",
+      "publishedAt": "2026-05-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Coletiva de Lula em Washington após o encontro na Casa Branca (07/05/2026): temas tratados, proposta de grupo de trabalho de 30 dias sobre comércio e ausência de acordos assinados."
+    },
+    {
+      "id": "src-lula-74",
+      "title": "Em 2025, Lula coloca a diplomacia brasileira em destaque: veja erros e acertos da política externa",
+      "publisher": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2025/12/22/em-2025-lula-coloca-a-diplomacia-brasileira-em-destaque-vejam-erros-e-acertos-da-politica-externa/",
+      "publishedAt": "2025-12-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Balanço de 2025: Cúpula do BRICS no Rio (jul/2025, 11 chefes de Estado e governo), COP30 em Belém (10-21/11/2025, 195 países, Pacote de Belém), cerca de 20 países visitados, participação em G7 (Canadá), G20 (África do Sul), ASEAN, Fórum Mundial da Alimentação (Itália), Celac (Honduras) e o tarifaço de 50% anunciado em 09/07/2025."
+    },
+    {
+      "id": "src-lula-75",
+      "title": "Brasil e Índia assinam acordo sobre terras raras e minerais críticos",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/brasil-e-india-assinam-acordo-sobre-terras-raras-e-mineiras-criticos",
+      "publishedAt": "2026-02-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Assinatura em Nova Délhi, por Lula e o primeiro-ministro Narendra Modi, de acordo sobre minerais críticos e terras raras e energias renováveis (21/02/2026)."
+    },
+    {
+      "id": "src-lula-76",
+      "title": "G20: Lula defende governança soberana em minerais críticos e IA",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-11/g20-lula-defende-governanca-soberana-em-minerais-criticos-e-ia",
+      "publishedAt": "2025-11-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Discurso na sessão temática da Cúpula do G20 em Joanesburgo (23/11/2025) sobre soberania no conhecimento e valor agregado de minerais críticos, inteligência artificial e trabalho decente."
+    },
+    {
+      "id": "src-lula-77",
+      "title": "Xi manifesta apoio a Lula contra 'interferência externa', diz agência estatal chinesa",
+      "publisher": "Estadão (com Xinhua)",
+      "url": "https://www.estadao.com.br/internacional/xi-manifesta-apoio-a-lula-contra-interferencia-externa-diz-agencia-estatal-chinesa-npr/",
+      "publishedAt": "2026-07-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Telefonema de Lula com Xi Jinping em 26/07/2026, com defesa de aceleração das negociações Mercosul-China e diversificação de mercados; a reportagem registra que o comunicado brasileiro não mencionou a fala atribuída a Xi pela Xinhua."
+    },
+    {
+      "id": "src-lula-78",
+      "title": "Pix, minerais críticos e tarifas: o que o governo Lula quer discutir com Trump na economia",
+      "publisher": "BBC News Brasil",
+      "url": "https://bbc.com/portuguese/articles/cglpyzegwkko",
+      "publishedAt": "2026-05-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Pauta da visita de Lula a Washington (maio/2026): investigação da seção 301 sobre o Pix, tarifas remanescentes (estimativa do MDIC de 29% das exportações aos EUA com tarifas adicionais) e investimento em minerais críticos, com defesa de agregação de valor no país."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2872,7 +3292,25 @@
     "Lula: o espelho do programa no Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR; a leitura foi feita pela versão publicada pelo PT com o mesmo título e índice de 13 eixos.",
     "Caiado: a URL do arquivo do plano no DivulgaCandContas não foi localizada nesta coleta; a base é o PDF publicado pela campanha e o espelho do Poder360.",
     "Zema: a URL do arquivo do plano no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal); o plano não apresenta custo nem prazo para a maior parte das propostas.",
-    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta."
+    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta.",
+    "Lula: a decisão de manutenção da meta de déficit zero para 2024 (ev-cap-tomada-decisao-lula-02) se apoia em reportagens de nov/2023 e fev/2024; não foram consultados nesta rodada o projeto de LDO 2024 nem atos do Executivo sobre a meta.",
+    "Lula: o impacto fiscal das medidas anticíclicas de 2008-2009 (ev-cap-gestao-crises-lula-04) usa o Relatório Anual do Banco Central de 2008 e reportagem de 2018 que cita estudo do período; a composição exata da renúncia fiscal por tributo não foi conferida em fonte primária.",
+    "Lula: os dados de investimento federal na COP30 (ev-cap-coordenacao-institucional-lula-04) constam de páginas oficiais de comunicação; não foi localizado documento orçamentário com o detalhamento por obra.",
+    "Flávio Bolsonaro: não foram levantadas, nesta rodada, as votações nominais do Senado de 2019-2026 para além da reforma da Previdência de 2019, o que limita a capacidade tomada-decisao às três decisões registradas.",
+    "Flávio Bolsonaro: a evidência sobre a assunção da candidatura presidencial (ev-cap-tomada-decisao-flavio-02 e ev-cap-gestao-crises-flavio-02) se apoia em reportagens sobre a escolha de Jair Bolsonaro; não foram consultados documento partidário, ata de convenção ou peça de registro no TSE.",
+    "Flávio Bolsonaro: a titularidade dos grupos parlamentares bilaterais (ev-cap-coordenacao-institucional-flavio-03) é registro de composição no perfil oficial do Senado, sem produto ou agenda localizados; evidenceStatus parcial e confidenceLevel low.",
+    "Caiado: a evidência sobre a negociação com o Tesouro Nacional (ev-cap-coordenacao-institucional-caiado-02) registra a missão de avaliação de janeiro de 2019; não foram localizados termos, ofícios ou decisões formais da adesão ao Regime de Recuperação Fiscal naquele exercício — o estado migrou de regime apenas anos depois (ver execucao).",
+    "Caiado: o número de municípios em calamidade em março de 2021 (235 de 246) provém de reportagem; não foi conferido em boletim oficial da Secretaria de Saúde de Goiás.",
+    "Zema: a crítica de setores do próprio partido às medidas de isolamento (ev-cap-tomada-decisao-zema-02) está em registro enciclopédico e em fonte partidária; não foi localizada manifestação oficial do diretório nacional do NOVO.",
+    "Zema: a resposta a Brumadinho (ev-cap-gestao-crises-zema-01) se apoia em nota oficial reproduzida pela imprensa, na página da Secretaria de Estado de Saúde e em compilação de notícias do MME; não foram consultados decretos ou planos de contingência estaduais do período.",
+    "Zema: o reconhecimento federal da emergência nas chuvas de janeiro de 2020 (ev-cap-coordenacao-institucional-zema-03) não foi localizado; a evidência descreve apenas o ato estadual e seus efeitos nos municípios.",
+    "Fonte/URL: um conjunto de fontes indicadas com nota 'URL obtida em resultado de busca' (Valor e Folha sobre a meta fiscal de 2024, relatório do Banco Central de 2008) não pôde ser aberto por requisição direta nesta rodada; recomenda-se conferência antes da publicação final.",
+    "Nenhum dos quatro candidatos registrou posição de campanha de 2026 sobre a guerra na Ucrânia, sanções à Rússia ou a OTAN; o tema está ausente dos planos registrados (DW, 17/09/2026).",
+    "Nenhum dos quatro planos traz metas quantificadas, cronograma ou avaliação de impacto para a política externa; os projetos (Afta, SULPOL, Mercosul como zona de livre comércio, saída do BRICS, revisão do BRICS) aparecem sem desenho de implementação declarado.",
+    "Caiado: o teor integral do MOU com os EUA (18/03/2026) não é público; a descrição usa o comunicado estadual e a apuração da Folha, com a controvérsia jurídica registrada e sem juízo. Não localizei registro de atuação em comissão de relações exteriores no período parlamentar nem entrevista à imprensa estrangeira em 2025-2026.",
+    "Zema: a missão aos EUA divulgada pelo partido Novo (mais de R$ 1,5 bilhão em investimentos) ficou sem data confirmada — página com erro 403 e sem snapshot no Wayback Machine em 29/09/2026 — e não foi usada como evidência. Não localizei entrevista ou artigo do candidato em veículo estrangeiro em 2025-2026.",
+    "Flávio Bolsonaro: a campanha não respondeu à Folha (12/09/2026); a natureza do encontro com Trump (duração e formalidade) divergem entre fontes; o programa não menciona BRICS, Mercosul nem a China como prioridade.",
+    "Lula: as posições por país/tema foram montadas a partir de declarações e atos de 2025-2026, sem documento único; o telefonema com Xi (26/07/2026) é conhecido por relato da agência estatal chinesa reproduzido pelo Estadão e não consta do comunicado brasileiro; em 29/09/2026 não há resultado publicado do grupo de trabalho bilateral sobre comércio proposto em maio de 2026."
   ],
   "capacities": [
     {
@@ -3478,6 +3916,535 @@
       "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
       "coverage": "documentada",
       "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "tomada-decisao",
+      "synthesis": "Decisões de maior custo registradas em quatro frentes: a reforma constitucional da Previdência de 2003 (EC 41), aprovada após negociação e com votos contrários na base aliada; a substituição do teto de gastos pelo novo arcabouço fiscal em 2023 (PLP 93/2023, LC 200/2023), aprovada nas duas Casas e sancionada com dois vetos; a manutenção da meta de déficit zero para 2024 depois de divergência interna no governo; e, no contencioso tarifário com os Estados Unidos (2025-2026), a opção por negociar sem retaliação imediata, mantendo o PIX fora da mesa e recusando a exigência sobre dissidentes políticos. As quatro decisões têm registro de trade-off: custo na base, bloqueio de despesas, veto presidencial e recusa de condição de terceiro país. A base documental é de imprensa e de fontes legislativas e oficiais; a votação da Previdência de 2003 e a do arcabouço têm respaldo em fonte normativa (EC 41 e LC 200/2023).",
+      "coverageNote": "Quatro decisões com ato normativo ou registro de votação identificável (EC 41, LC 200/2023, meta do LDO 2024 e a linha de negociação do tarifaço); a decisão sobre a meta de 2024 se apoia em fontes de imprensa, sem documento do Executivo consultado nesta rodada.",
+      "evidences": [
+        {
+          "id": "ev-cap-tomada-decisao-lula-01",
+          "kind": "historico",
+          "title": "Reforma da Previdência do primeiro mandato: envio da proposta e sustentação da votação com custo na base aliada",
+          "role": "Presidente da República — autor da proposta de emenda constitucional e responsável pela articulação da votação",
+          "complexity": "Reforma constitucional de alcance nacional (servidores públicos e regimes próprios da União, dos estados e dos municípios), com resistência dentro do próprio partido no Congresso; o primeiro turno na Câmara passou por 358 votos a 126 depois de o governo ceder em pontos do texto",
+          "outcome": "Emenda Constitucional nº 41 promulgada em 19/12/2003; a aprovação na Câmara (06/08/2003) só ocorreu após negociação e recuos do governo registrados pela Folha",
+          "period": "2003",
+          "context": "Medida impopular em ano de ajuste fiscal; a negociação foi conduzida diretamente pelo Executivo sobre deputados e senadores, com votos contrários na bancada do PT.",
+          "sources": [
+            {
+              "id": "src-lula-100",
+              "title": "Reforma sob pressão: Lula cede, e Câmara aprova a reforma da Previdência",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/fsp/brasil/fc0608200302.htm",
+              "publishedAt": "2003-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra a aprovação em primeiro turno por 358 votos a 126 e as concessões feitas pelo governo para obter o placar."
+            },
+            {
+              "id": "src-lula-101",
+              "title": "Emenda Constitucional nº 41, de 19 de dezembro de 2003",
+              "publisher": "Planalto — Presidência da República",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc41.htm",
+              "publishedAt": "2003-12-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial",
+              "notes": "Texto da reforma da Previdência do primeiro mandato."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-lula-02",
+          "kind": "historico",
+          "title": "Manutenção da meta de déficit zero para 2024 após disputa interna no governo",
+          "role": "Presidente da República — decisão final sobre a meta fiscal do projeto de LDO",
+          "complexity": "Regra fiscal de alcance nacional decidida sob divergência pública entre áreas do governo (Fazenda de um lado; áreas social e política de outro) e com efeito direto sobre Orçamento, emendas e investimentos",
+          "outcome": "Meta de déficit zero mantida conforme anúncio de 16/11/2023; em fev/2024 o governo manteve a meta e optou por persegui-la sem contingenciamento amplo, levando ao TCU consulta sobre limite de bloqueio de despesas",
+          "period": "2023–2024",
+          "context": "Trade-off registrado nas fontes: manter a meta implicava bloquear despesas; alterá-la implicava custo de credibilidade da regra aprovada no mesmo ano.",
+          "sources": [
+            {
+              "id": "src-lula-102",
+              "title": "Foco do governo é aumentar receita, e não alterar meta fiscal, diz Padilha",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/noticia/2023/11/16/foco-do-governo-e-aumentar-receita-e-nao-alterar-meta-fiscal-diz-padilha.ghtml",
+              "publishedAt": "2023-11-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "URL obtida em resultado de busca; conferir disponibilidade (alguns domínios bloqueiam requisição direta)."
+            },
+            {
+              "id": "src-lula-103",
+              "title": "Relator da LDO diz que governo decidiu manter meta de déficit fiscal zero",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/mercado/2023/11/relator-da-ldo-diz-que-governo-decidiu-manter-meta-de-deficit-fiscal-zero.shtml",
+              "publishedAt": "2023-11-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "URL obtida em resultado de busca; conferir disponibilidade."
+            },
+            {
+              "id": "src-lula-104",
+              "title": "Governo quer chegar à meta de déficit zero sem contingenciar, diz Haddad",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/brasil/noticia/2024/02/06/governo-quer-chegar-meta-de-deficit-zero-sem-contingenciar-diz-haddad.ghtml",
+              "publishedAt": "2024-02-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "URL obtida em resultado de busca; conferir disponibilidade."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-lula-03",
+          "kind": "historico",
+          "title": "Substituição do teto de gastos pelo novo arcabouço fiscal (PLP 93/2023 — LC 200/2023)",
+          "role": "Presidente da República — autor do projeto enviado ao Congresso e responsável pela sanção",
+          "complexity": "Nova regra fiscal para todo o Orçamento da União, com limite de crescimento da despesa primária atrelado ao IPCA e a um percentual da receita primária; substituiu o teto criado pela EC 95/2016",
+          "outcome": "Projeto aprovado na Câmara em 23/05/2023, no Senado em 22/06/2023 com alterações e em revisão final na Câmara em 22/08/2023; sancionado com dois vetos em 31/08/2023 como Lei Complementar 200/2023",
+          "period": "2023",
+          "context": "Decisão com custo nos dois sentidos: setores da base cobravam a retirada de despesas do limite, enquanto a regra anterior era apresentada como âncora de credibilidade.",
+          "sources": [
+            {
+              "id": "src-lula-105",
+              "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+              "publisher": "Agência Câmara de Notícias",
+              "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+              "publishedAt": "2023-08-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "PLP 93/2023 aprovado na Câmara em 22/08/2023 e sancionado com dois vetos em 31/08/2023 (LC 200/2023)."
+            },
+            {
+              "id": "src-lula-106",
+              "title": "Nota informativa sobre a LC 200/2023 — novo arcabouço fiscal (PLP 93/2023)",
+              "publisher": "Senado Federal — Consultoria de Orçamento",
+              "url": "https://www12.senado.leg.br/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-informativos/plp-93-de-2023_sto-2023-01658-nota-informativa-sobre-a-lc-200-2023_atualizacao-da-ni-do-plp-93-23_novo-arcabouco-fiscal.pdf",
+              "publishedAt": "2023-09-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Descreve os limites de crescimento da despesa (IPCA + percentual da receita primária)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-lula-04",
+          "kind": "historico",
+          "title": "Opção pela negociação, e não pela retaliação imediata, no conflito tarifário com os Estados Unidos, com recusa de exigências",
+          "role": "Presidente da República — definiu a linha de resposta do país no contencioso comercial e a recusa das condições apresentadas",
+          "complexity": "Conflito com o maior parceiro comercial em duas fases (tarifas de 50% em 2025 e investigação do USTR em 2026 sobre seis temas, incluindo PIX, etanol e propriedade intelectual), com exigências americanas listadas pela imprensa e custo eleitoral interno",
+          "outcome": "Governo recusou incluir na negociação a exigência sobre participação de dissidentes políticos nas eleições (O Globo, 17/09/2026); manteve o PIX fora da mesa e apresentou 'mapa do caminho' ao USTR em 02/07/2026, com oferta de redução de tarifas de cerca de 300 produtos; o presidente declarou que não se podia 'aceitar o tratamento' dado pelos EUA (Estadão, 03/06/2026)",
+          "period": "2025–2026",
+          "context": "Linha adotada em paralelo à tramitação das medidas de crédito e de alívio fiscal da resposta (ver gestao-crises).",
+          "sources": [
+            {
+              "id": "src-lula-107",
+              "title": "Governo Lula rejeitou incluir exigência dos EUA sobre participação de dissidentes políticos nas eleições",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/noticia/2026/09/17/governo-rejeitou-incluir-exigencia-sobre-participacao-de-dissidentes-politicos-nas-eleicoes-em-negociacao-de-tarifaco-com-os-eua.ghtml",
+              "publishedAt": "2026-09-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Exigência recusada na negociação do tarifaço."
+            },
+            {
+              "id": "src-lula-108",
+              "title": "Governo não abre mão do PIX, mas apresenta novas medidas aos EUA para evitar tarifaço",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/noticia/2026/07/02/governo-nao-abre-mao-do-pix-mas-apresenta-novas-medidas-aos-eua-para-evitar-tarifaco.ghtml",
+              "publishedAt": "2026-07-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reunião com o USTR; proposta de 'mapa do caminho' e redução de tarifas de cerca de 300 produtos."
+            },
+            {
+              "id": "src-lula-109",
+              "title": "Governo Trump fez 21 exigências ao Brasil para negociar o tarifaço",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/governo-trump-impos-21-exigencias-brasil-negociar-tarifaco",
+              "publishedAt": "2026-09-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Lista de exigências apresentadas na negociação."
+            },
+            {
+              "id": "src-lula-110",
+              "title": "'Não podemos aceitar o tratamento que os Estados Unidos deram ao Brasil nesta semana', diz Lula",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/lula-reuniao-ministerial-brasil-estados-unidos-tarifas-eleicoes",
+              "publishedAt": "2026-06-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Declaração em reunião ministerial sobre a proposta de tarifa de 25% do USTR."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Tomada de decisão",
+      "question": "Como enfrentou decisões difíceis, trade-offs e pressão?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "gestao-crises",
+      "synthesis": "Cinco crises com resposta federal documentada: enchentes do Rio Grande do Sul em 2024 (Lei Complementar 206/2024 e Auxílio Reconstrução pago em 444 municípios), queimadas de 2024 (crédito extraordinário de R$ 514 milhões para incêndios e R$ 100 milhões para a saúde), emergência sanitária yanomami em 2023 (comitê interministerial, decreto de emergência e Decreto 11.405/2023), crise financeira internacional de 2008-2009 (redução do IPI de veículos com impacto fiscal estimado em R$ 21,4 bilhões entre 2008 e 2011) e o tarifaço americano de 2025 (Plano Brasil Soberano por MP 1.309/2025, com o PLP 168/2025 aprovado por 64 votos a 0 no Senado para retirar a resposta do teto e da meta fiscal). Em cada caso há ato normativo identificável e resultado observável; a magnitude dos danos e o alcance territorial aparecem apenas como contexto.",
+      "coverageNote": "Cinco crises com ato federal identificável (LC 206/2024, MP das queimadas de 2024, decreto e Decreto 11.405/2023 sobre os yanomami, medidas anticíclicas de 2008 e MP 1.309/2025 com o PLP 168/2025); a evidência de 2008 tem confiança média porque combina relatório do BCB e estudo citado por notícia.",
+      "evidences": [
+        {
+          "id": "ev-cap-gestao-crises-lula-01",
+          "kind": "historico",
+          "title": "Resposta federal às enchentes do Rio Grande do Sul (2024)",
+          "role": "Presidente da República — autor das medidas provisórias e do projeto de lei complementar de enfrentamento da calamidade",
+          "complexity": "Calamidade que atingiu a quase totalidade dos municípios gaúchos, com danos estimados em R$ 97 bilhões; a resposta combinou auxílio direto a famílias, repasses a municípios e suspensão do serviço da dívida estadual",
+          "outcome": "Lei Complementar 206/2024 sancionada em 17/05/2024 suspendendo por três anos o pagamento da dívida do RS com a União; Auxílio Reconstrução de R$ 5.100 por família pago a moradores de 444 municípios, com pedidos reabertos em 2026",
+          "period": "2024–2026",
+          "context": "Auxílio criado por medida provisória e pago por meio de sistema próprio de cadastro; execução acompanhada pelo Ministério da Integração.",
+          "sources": [
+            {
+              "id": "src-lula-111",
+              "title": "Lula sanciona lei que suspende dívida do Rio Grande do Sul por três anos",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/materias/2024/05/17/lula-sanciona-lei-que-suspende-divida-do-rio-grande-do-sul-por-tres-anos",
+              "publishedAt": "2024-05-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Lei Complementar 206/2024."
+            },
+            {
+              "id": "src-lula-112",
+              "title": "MIDR alerta para o golpe do Auxílio Reconstrução",
+              "publisher": "Ministério da Integração e do Desenvolvimento Regional (gov.br)",
+              "url": "https://www.gov.br/mdr/pt-br/noticias-midr/midr-alerta-para-o-golpe-do-auxilio",
+              "publishedAt": "2026-08-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Registra que o Auxílio Reconstrução (R$ 5.100 por família) foi pago a moradores de 444 municípios do RS e que pedidos foram reabertos em 2026."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-gestao-crises-lula-02",
+          "kind": "historico",
+          "title": "Crise das queimadas de 2024: crédito extraordinário para combate a incêndios e saúde",
+          "role": "Presidente da República — editou a medida provisória com abertura de crédito extraordinário",
+          "complexity": "Emergência ambiental simultânea em vários biomas, com fumaça sobre capitais e colapso do atendimento respiratório em estados do Norte; o crédito precisou ser aberto fora do limite ordinário de despesas",
+          "outcome": "Medidas publicadas em 18/09/2024, com R$ 514 milhões para combate a incêndios e R$ 100 milhões para a saúde",
+          "period": "2024",
+          "context": "Ações somadas ao emprego de Força Nacional, Ibama e ICMBio e à declaração de situação de emergência em municípios.",
+          "sources": [
+            {
+              "id": "src-lula-113",
+              "title": "Entenda as medidas divulgadas pelo governo federal para combate às queimadas no país",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/noticia/2024/09/18/entenda-as-medidas-divulgadas-pelo-governo-federal-para-combate-as-queimadas-no-pais.ghtml",
+              "publishedAt": "2024-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Medida provisória com R$ 514 milhões para combate a incêndios e R$ 100 milhões para a saúde."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-gestao-crises-lula-03",
+          "kind": "historico",
+          "title": "Emergência sanitária no território yanomami (2023): comitê interministerial, decreto e força-tarefa",
+          "role": "Presidente da República — determinou a criação do comitê interministerial e editou o decreto de enfrentamento da emergência",
+          "complexity": "Crise humanitária em território indígena com desassistência sanitária e garimpo ilegal, exigindo coordenação de mais de 20 órgãos federais, governos estaduais e equipes sanitárias em área remota",
+          "outcome": "Decreto de 20/01/2023 criou o Comitê Interministerial de Coordenação de Medidas Emergenciais; o Ministério da Saúde declarou emergência em saúde pública em 21/01/2023; o Decreto 11.405/2023 (30/01/2023) consolidou as medidas de enfrentamento e o combate à atividade garimpeira ilegal",
+          "period": "2023–2026",
+          "context": "Operação mantida ao longo dos anos seguintes, com forças federais no território e remoção de garimpeiros.",
+          "sources": [
+            {
+              "id": "src-lula-114",
+              "title": "Governo adota ações emergenciais em socorro aos yanomami",
+              "publisher": "Ministério da Saúde (gov.br)",
+              "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula",
+              "publishedAt": "2023-01-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Declaração de emergência em saúde pública no território yanomami."
+            },
+            {
+              "id": "src-lula-115",
+              "title": "Decreto nº 11.405, de 30 de janeiro de 2023",
+              "publisher": "Presidência da República — Legislação",
+              "url": "https://legislacao.presidencia.gov.br/ficha?/legisla/legislacao.nsf/Viw_Identificacao/DEC%2011.405-2023&OpenDocument",
+              "publishedAt": "2023-01-30",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial",
+              "notes": "Medidas de enfrentamento da emergência em saúde pública no território yanomami e de combate ao garimpo ilegal."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-gestao-crises-lula-04",
+          "kind": "historico",
+          "title": "Crise financeira internacional de 2008-2009: medidas anticíclicas com renúncia fiscal",
+          "role": "Presidente da República — responsável pelas decisões de estímulo, com redução de tributos e uso de bancos públicos",
+          "complexity": "Choque externo global que exigiu decisões fiscais e creditícias simultâneas (IPI de veículos e linha branca, IOF, compulsórios, BNDES); impacto fiscal estimado em R$ 21,4 bilhões entre 2008 e 2011",
+          "outcome": "Redução do IPI de veículos iniciada em 15/12/2008 com prorrogação das alíquotas reduzidas até 31/03/2009; o Relatório Anual do Banco Central de 2008 estimou impacto de R$ 8,4 bilhões no ano e o estudo do período aponta R$ 21,4 bilhões (2008-2011)",
+          "period": "2008–2010",
+          "context": "Medidas mantidas e depois retiradas de forma escalonada, com acompanhamento de emprego e produção industrial.",
+          "sources": [
+            {
+              "id": "src-lula-116",
+              "title": "Relatório Anual 2008 — capítulo sobre a crise financeira internacional e as medidas adotadas",
+              "publisher": "Banco Central do Brasil",
+              "url": "https://www.bcb.gov.br/pec/boletim/banual2008/rel2008cap4p.pdf",
+              "publishedAt": "2009-03-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "economico",
+              "notes": "Estima impacto fiscal de R$ 8,4 bilhões em 2009 com a redução de IPI e de R$ 21,4 bilhões no período 2008-2011. URL obtida em resultado de busca; conferir disponibilidade."
+            },
+            {
+              "id": "src-lula-117",
+              "title": "Crise de 2008 resultou em desindustrialização e crise fiscal no Brasil",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-09/crise-de-2008-resultou-em-desindustrializacao-e-crise-fiscal-no-brasil",
+              "publishedAt": "2018-09-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Descreve o conjunto de medidas anticíclicas do governo federal (IPI, bancos públicos, compulsórios)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-gestao-crises-lula-05",
+          "kind": "historico",
+          "title": "Resposta ao tarifaço americano: Plano Brasil Soberano e blindagem fiscal das medidas (2025)",
+          "role": "Presidente da República — anunciou o programa de resposta e enviou ao Congresso o projeto que exclui as despesas do teto e da meta fiscal",
+          "complexity": "Pacote de cerca de R$ 30 bilhões em crédito e renúncia fiscal destinado a exportadores afetados (36% das exportações aos EUA), que exigiu medida provisória, aporte em fundos garantidores e mudança na lei complementar do arcabouço",
+          "outcome": "MP 1.309/2025 (13/08/2025) instituiu o Plano Brasil Soberano; o PLP 168/2025, de autoria do líder do governo no Senado, foi aprovado em texto-base em 24/09/2025 por 64 votos a 0, retirando do teto e da meta de resultado primário R$ 4,5 bilhões em fundos garantidores e R$ 5 bilhões de Reintegra",
+          "period": "2025",
+          "context": "Matéria seguiria à Câmara após a votação dos destaques de PL e Podemos, que pretendiam manter as despesas dentro da meta.",
+          "sources": [
+            {
+              "id": "src-lula-118",
+              "title": "Aprovado texto-base do projeto que retira despesas com 'tarifaço' do teto de gastos",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/aprovado-texto-base-do-projeto-que-retira-despesas-com-tarifaco-do-teto-de-gastos",
+              "publishedAt": "2025-09-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "PLP 168/2025 aprovado por 64 votos a 0 em texto-base; viabiliza a MP 1.309/2025 (Plano Brasil Soberano)."
+            },
+            {
+              "id": "src-lula-119",
+              "title": "Senado aprova texto-base de projeto que tira gastos com o tarifaço das metas fiscais de 2025 e 2026",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/noticia/2025/09/24/senado-aprova-texto-base-de-projeto-que-tira-gastos-com-o-tarifaco-das-metas-fiscais-de-2025-e-2026.ghtml",
+              "publishedAt": "2025-09-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "R$ 4,5 bilhões em fundos garantidores e R$ 5 bilhões de Reintegra fora da meta; dois destaques pendentes."
+            },
+            {
+              "id": "src-lula-120",
+              "title": "PLP 168/2025 — tramitação e votação nominal",
+              "publisher": "Congresso Nacional",
+              "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/plp-168-2025",
+              "publishedAt": "2025-09-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Ficha de tramitação da matéria de autoria do senador Jaques Wagner (líder do governo)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Gestão de crises e mudança",
+      "question": "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "coordenacao-institucional",
+      "synthesis": "A articulação institucional documentada ocorre em cinco frentes: Pacto pela Transformação Ecológica entre Executivo, Legislativo e Judiciário (21/08/2024); plano conjunto dos três Poderes para transparência das emendas parlamentares, convertido em LC 210/2024 e resolução conjunta e estendido a estados e municípios pelo STF; instalação do Comitê Gestor do IBS com as 27 unidades federativas e representação municipal (LC 214/2025, Conselho Superior instalado em 16/05/2025); coordenação União-Pará-Belém para a COP30, com obras e convênios e anúncio federal de condições plenas em 22/08/2025; e a PEC da Segurança Pública, entregue ao Congresso em 23/04/2025 e aprovada na Câmara em 05/03/2026 após negociação com governadores. Em todos os casos o resultado é um ato ou norma conjunta entre entes ou Poderes distintos.",
+      "coverageNote": "Cinco arranjos de articulação entre entes ou Poderes, todos com ato conjunto registrado (pacto entre Poderes, LC 210/2024 e resolução das emendas, LC 214/2025 e instalação do CGIBS, obras e convênios da COP30 e PEC entregue em 23/04/2025 e aprovada na Câmara em 05/03/2026).",
+      "evidences": [
+        {
+          "id": "ev-cap-coordenacao-institucional-lula-01",
+          "kind": "historico",
+          "title": "Pacto pela Transformação Ecológica entre os três Poderes (ago/2024)",
+          "role": "Presidente da República — signatário pelo Executivo federal, ao lado de Câmara, Senado, STF e tribunais superiores",
+          "complexity": "Acordo interinstitucional entre Executivo, Legislativo e Judiciário em torno de eixos de ordenamento territorial, transição energética, adaptação climática e financiamento, com governança conjunta e execução de iniciativa do Executivo",
+          "outcome": "Pacto assinado em 21/08/2024 no Palácio do Planalto com representantes dos três Poderes e criação de governança para implementação",
+          "period": "2024–2026",
+          "context": "Ato celebrado às vésperas da definição da contribuição nacional para o clima e da COP30.",
+          "sources": [
+            {
+              "id": "src-lula-121",
+              "title": "Três Poderes da República lançam Pacto pela Transformação Ecológica",
+              "publisher": "Ministério da Fazenda (gov.br)",
+              "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2024/agosto/tres-poderes-da-republica-lancam-pacto-pela-transformacao-ecologica",
+              "publishedAt": "2024-08-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Assinatura do pacto por Executivo, Legislativo e Judiciário e criação de governança conjunta."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-lula-02",
+          "kind": "historico",
+          "title": "Plano conjunto de Executivo e Legislativo para transparência das emendas parlamentares, homologado no STF",
+          "role": "Presidente da República — conduziu com os presidentes da Câmara e do Senado o plano submetido ao STF para superar o impasse das emendas",
+          "complexity": "Conflito interinstitucional de alta visibilidade (ação no STF sobre emendas), que exigiu regra comum entre os três Poderes sobre rastreabilidade, critérios de repasse e identificação de padrinhos, com efeitos sobre o Orçamento de 2025",
+          "outcome": "LC 210/2024 e Resolução conjunta do Congresso promulgaram as novas regras (registro da Câmara em 14/03/2025); em outubro de 2025 o STF estendeu o modelo federal de transparência a estados e municípios",
+          "period": "2024–2025",
+          "context": "Impasse que travou a votação do Orçamento e exigiu mediação judicial entre os Poderes.",
+          "sources": [
+            {
+              "id": "src-lula-122",
+              "title": "Promulgadas novas regras para emendas parlamentares",
+              "publisher": "Agência Câmara de Notícias",
+              "url": "https://camara.leg.br/noticias/1140503-promulgadas-novas-regras-para-emendas-parlamentares",
+              "publishedAt": "2025-03-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "LC 210/2024 e Resolução conjunta do Congresso resultantes do plano acordado com o STF."
+            },
+            {
+              "id": "src-lula-123",
+              "title": "Emendas parlamentares: estados e municípios devem adotar modelo federal de transparência",
+              "publisher": "STF — Notícias",
+              "url": "https://noticias.stf.jus.br/postsnoticias/emendas-parlamentares-estados-e-municipios-devem-adotar-modelo-federal-de-transparencia/",
+              "publishedAt": "2025-10-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal",
+              "notes": "Extensão do modelo federal de rastreabilidade a estados e municípios (ADPF 854)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-lula-03",
+          "kind": "historico",
+          "title": "Instalação do Comitê Gestor do IBS com estados e municípios (LC 214/2025)",
+          "role": "Presidente da República — sanção da lei complementar que criou o comitê, com financiamento federal da estrutura",
+          "complexity": "Novo arranjo federativo de arrecadação: 27 unidades federativas e representação municipal em Conselho Superior e câmaras técnicas, com regras de transição, rateio e solução de conflitos entre entes",
+          "outcome": "Lei Complementar 214/2025 sancionada; Conselho Superior do CGIBS instalado com posse dos conselheiros indicados pelos estados em 16/05/2025, com aporte federal para a estruturação",
+          "period": "2025–2026",
+          "context": "Arranjo criado pela reforma tributária para substituir a arrecadação isolada de ICMS e ISS e exigir decisão colegiada entre todos os entes.",
+          "sources": [
+            {
+              "id": "src-lula-124",
+              "title": "Lei Complementar nº 214, de 16 de janeiro de 2025",
+              "publisher": "Planalto — Presidência da República",
+              "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+              "publishedAt": "2025-01-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial",
+              "notes": "Regulamenta a reforma tributária e cria o Comitê Gestor do IBS."
+            },
+            {
+              "id": "src-lula-125",
+              "title": "Reforma tributária: Conselho Superior do Comitê Gestor do IBS é instalado e membros indicados pelos estados tomam posse",
+              "publisher": "Comsefaz",
+              "url": "https://comsefaz.org.br/novo/reforma-tributaria-conselho-superior-do-comite-gestor-do-ibs-e-instalado-e-membros-indicados-pelos-estados-tomam-posse/",
+              "publishedAt": "2025-05-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Instalação do CGIBS e financiamento da estrutura."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-lula-04",
+          "kind": "historico",
+          "title": "COP30 em Belém: coordenação entre União, governo do Pará e prefeitura",
+          "role": "Presidente da República — articulação federal do evento e das obras necessárias, com o estado e o município",
+          "complexity": "Conferência climática com delegações de 195 países, exigindo obras de macrodrenagem, saneamento, mobilidade e estruturação urbana em Belém, além de cooperação com organismos internacionais",
+          "outcome": "Governo federal anunciou em 22/08/2025 a garantia das 'condições plenas' para a COP30, com investimentos federais em obras e 40 convênios firmados entre União, Pará e Belém, registrados no portal da conferência",
+          "period": "2023–2025",
+          "context": "Obra conjunta com o governo estadual e a prefeitura, com execução acompanhada por painel de obras da conferência.",
+          "sources": [
+            {
+              "id": "src-lula-126",
+              "title": "Governo Federal assegura condições plenas para a COP30 na Amazônia",
+              "publisher": "Agência Gov (EBC)",
+              "url": "https://agenciagov.ebc.com.br/noticias/202508/governo-federal-assegura-condicoes-plenas-para-a-cop30-na-amazonia",
+              "publishedAt": "2025-08-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Recursos federais para macrodrenagem, saneamento e mobilidade em Belém."
+            },
+            {
+              "id": "src-lula-127",
+              "title": "Belém em obras: os 100 dias que antecedem a COP30",
+              "publisher": "COP30 — site oficial (governo federal)",
+              "url": "https://cop30.br/pt-br/noticias-da-cop30/belem-em-obras-os-100-dias-que-antecedem-a-cop30",
+              "publishedAt": "2025-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Registro das obras e convênios firmados entre governo federal, governo do Pará e prefeitura de Belém."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-lula-05",
+          "kind": "historico",
+          "title": "Envio e negociação da PEC da Segurança Pública com governadores e Congresso (2025-2026)",
+          "role": "Presidente da República — entregou a proposta aos presidentes da Câmara e do Senado e conduziu a negociação com os governadores",
+          "complexity": "Reforma constitucional que transforma o Sistema Único de Segurança Pública em modelo constitucional, cria a Polícia Penal federal e altera a divisão de atribuições entre União, estados e municípios — pauta submetida a 27 governadores e às bancadas de segurança",
+          "outcome": "PEC entregue ao Congresso em 23/04/2025; aprovada pela Câmara em 05/03/2026 e encaminhada ao Senado",
+          "period": "2025–2026",
+          "context": "Negociação com governadores alterou pontos do texto ao longo da tramitação.",
+          "sources": [
+            {
+              "id": "src-lula-128",
+              "title": "Executivo entrega ao Congresso PEC que reformula a segurança pública",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/materias/2025/04/23/executivo-entrega-ao-congresso-pec-que-reformula-a-seguranca-publica",
+              "publishedAt": "2025-04-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Entrega da PEC da Segurança Pública pelos presidentes dos três Poderes."
+            },
+            {
+              "id": "src-lula-129",
+              "title": "Câmara aprova PEC da Segurança; texto será analisado pelo Senado",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/materias/2026/03/05/camara-aprova-pec-da-seguranca-texto-sera-analisado-pelo-senado",
+              "publishedAt": "2026-03-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Aprovação na Câmara da PEC que constitucionaliza o Sistema Único de Segurança Pública."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Coordenação institucional",
+      "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
     }
   ],
   "countryProject": {
@@ -3556,5 +4523,147 @@
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
     "methodology": "Extraído do texto integral do programa registrado no TSE em 08/08/2026 (versão publicada pelo PT, 84 páginas, com índice de 13 eixos e a seção 'Compromisso com o projeto de nação'). O espelho do Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR. As 7 prioridades listadas são os eixos declarados pelo próprio programa, sem prioridades inferidas; os compromissos de campanha de 2026 (fim da escala 6x1, reforma tributária, soberania) aparecem em cobertura de imprensa e em material partidário citados nas fontes."
+  },
+  "foreignPolicy": {
+    "worldView": "Programa registrado no TSE (ago/2026) afirma 'soberania' e 'independência' como princípios e descreve a integração sul-americana como 'primeiro círculo de projeção estratégica do Brasil'. EUA: não propõe alinhamento; em 2025-2026 o governo tratou o tarifaço como medida politicamente motivada, e no discurso de abertura da Assembleia Geral da ONU (set/2026) Lula afirmou que 'o Brasil não cabe no quintal de ninguém' e criticou interferência externa em processos eleitorais, sem citar Trump. China: em telefonema com Xi Jinping (26/07/2026) defendeu acelerar as negociações de acordo comercial Mercosul-China e reafirmou a diversificação de mercados e parceiros. BRICS: defende aprofundar a aproximação geopolítica com o bloco e o Sul Global e ampliar transações em moedas locais; em fev/2026 disse à imprensa indiana que acordos com a Índia não precisam ser feitos em dólares. Mercosul: consolidá-lo como principal plataforma de integração econômica e usar o acordo com a União Europeia (aplicação provisória desde 01/05/2026); rejeita convertê-lo em área de livre comércio para permitir acordos bilaterais. Multilateralismo: reforma do Conselho de Segurança da ONU e da OMC e mecanismos financeiros do BRICS. América Latina: condena operações militares dos EUA de combate ao 'narcoterrorismo' (Caribe, 2025; Venezuela, jan/2026), o Brasil não aderiu ao 'Escudo das Américas' (mar/2026) e, simultaneamente, propôs aos EUA cooperação em segurança com compartilhamento de inteligência. Oriente Médio: classifica as ações de Israel em Gaza como genocídio e defende Estado palestino; as relações com Israel estão rebaixadas ao nível de encarregado de negócios. OCDE: processo de acessão paralisado, com o argumento de que cláusulas de investimento seriam prejudiciais a países em desenvolvimento. Clima: sediou a COP30 em Belém (nov/2025), defendeu o Pacote de Belém e a capitalização do Fundo Florestas Tropicais para Sempre. Não há posição de campanha de 2026 documentada sobre a guerra na Ucrânia.",
+    "strategy": "Comércio e investimento: diversificação de mercados pelo Plano Brasil Soberano (apoio a exportadores afetados pelo tarifaço e redução da dependência dos EUA), negociação de acordo Mercosul-China, acordo de minerais críticos e terras raras com a Índia (assinado em 21/02/2026) e acordo Mercosul-União Europeia em aplicação provisória. Negociação direta com Washington para retirada de tarifas: no encontro na Casa Branca (07/05/2026) propôs grupo de trabalho bilateral com prazo de 30 dias para o comércio, além de cooperação em minerais críticos e no combate ao crime organizado. Influência diplomática e governança global: presidiu o BRICS (Cúpula do Rio, jul/2025), sediou a COP30 (Belém, nov/2025) e defende reforma do Conselho de Segurança da ONU e da OMC. Integração regional: Mercosul como plataforma, proposta de mercado comum sul-americano de energia e impulso à OTCA. Minerais críticos: política industrial com processamento no país e veto a parcerias internacionais que não prevejam industrialização (lei defendida pelo governo no Senado). Clima/energia: financiamento climático e TFFF. Argentina, Venezuela e demais vizinhos aparecem no eixo de integração sul-americana, sem proposta específica por país nas fontes usadas.",
+    "internationalExperience": "Responsabilidades exercidas como chefe de Estado (decidiu e conduziu): presidiu o BRICS — Cúpula de Líderes no Rio de Janeiro, jul/2025, com 11 chefes de Estado e governo; sediou e abriu a COP30 em Belém (nov/2025), com 195 países, 56 decisões por consenso ('Pacote de Belém') e capitalização inicial do TFFF acima de US$ 6,6 bilhões; presidiu o Mercosul no segundo semestre de 2025 e defendeu a assinatura do acordo com a União Europeia (autorizada pelo Conselho da UE em 09/01/2026, em aplicação provisória desde 01/05/2026); discursou no G20 de Joanesburgo (23/11/2025) sobre governança soberana em minerais críticos e inteligência artificial; assinou com Narendra Modi acordo sobre minerais críticos e terras raras (Nova Délhi, 21/02/2026); reuniu-se com Donald Trump na Casa Branca em 07/05/2026 sobre tarifas, minerais críticos e crime organizado, propondo grupo de trabalho de 30 dias para o comércio — não houve assinatura de acordos no encontro; tratou com Xi Jinping (26/07/2026) a negociação Mercosul-China. Em 2025 visitou cerca de 20 países e participou do G7 (Canadá), G20 (África do Sul), cúpula da Asean (Malásia), Celac (Honduras) e Fórum Mundial da Alimentação (Itália). A área é conduzida pelo ministro de Relações Exteriores Mauro Vieira (diplomata de carreira) e pelo assessor especial Celso Amorim; a negociação tarifária detalhada é atribuída nas fontes a ministros da área econômica, e não ao presidente.",
+    "projection": "Abertura da Assembleia Geral da ONU em 2025 e em 2026; recepção na Casa Branca por Trump (07/05/2026) e telefonema com Xi Jinping (26/07/2026) com apoio atribuído à 'defesa da soberania' do Brasil; menções em imprensa estrangeira (Financial Times, New York Times, The Guardian, Reuters) sobre o tarifaço e a disputa comercial, com registro de que a tensão com Washington elevou sua popularidade; sediou eventos multilaterais com chefes de Estado de todas as regiões (BRICS 2025 e COP30).",
+    "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+    "sources": [
+      {
+        "id": "src-mundo-01",
+        "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+        "publisher": "G1 / GloboNews (Filipe Matoso)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+        "publishedAt": "2026-08-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+      },
+      {
+        "id": "src-mundo-02",
+        "title": "O que Lula e Flávio prometem para a política externa",
+        "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+        "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+        "publishedAt": "2026-09-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, BRICS, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado para a afirmação de que Ucrânia e Oriente Médio estão ausentes dos programas."
+      },
+      {
+        "id": "src-mundo-03",
+        "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+        "publisher": "Folha de S.Paulo — Patrícia Campos Mello",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+        "publishedAt": "2026-09-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento por tema (BRICS/China, Mercosul, operações dos EUA, OCDE, minerais críticos, Israel/Gaza, EUA) com respostas das campanhas; parte das posições de Caiado e Zema é atribuída aos coordenadores de programa (Roberto Brant e Christian Lohbauer). A campanha de Flávio Bolsonaro não respondeu."
+      },
+      {
+        "id": "src-mundo-05",
+        "title": "UE–Mercosul: Conselho autoriza a assinatura do acordo de parceria e comércio",
+        "publisher": "Serviço Europeu de Ação Externa (EEAS) — Delegação da UE no Brasil",
+        "url": "https://www.eeas.europa.eu/delegations/brazil/ue%E2%80%93mercosul-conselho-autoriza-assinatura-do-acordo-de-parceria-e-com%C3%A9rcio_en",
+        "publishedAt": "2026-01-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial",
+        "notes": "Fonte oficial da UE sobre a autorização de assinatura do Acordo de Parceria UE-Mercosul e do Acordo Comercial Interino (09/01/2026)."
+      },
+      {
+        "id": "src-mundo-06",
+        "title": "A União Europeia formaliza a aplicação provisória do Acordo Comercial com o Mercosul",
+        "publisher": "Aduana News",
+        "url": "https://aduananews.com/pt/la-union-europea-oficializa-la-aplicacion-provisional-del-acuerdo-comercial-con-el-mercosur",
+        "publishedAt": "2026-04-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Registra a aplicação provisória do acordo interino a partir de 01/05/2026 e as ratificações, incluindo o Decreto Legislativo nº 14/2026 (PDS 41/26) no Brasil (17/03/2026)."
+      },
+      {
+        "id": "src-mundo-09",
+        "title": "Como a imprensa internacional noticiou tarifa de 25% dos EUA contra o Brasil: 'Aprofundamento da ruptura antes das eleições'",
+        "publisher": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese/articles/cx2vx91y402o",
+        "publishedAt": "2026-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Síntese da cobertura estrangeira (Financial Times, New York Times, The Guardian, Reuters) sobre a tarifa de 25% que entrou em vigor em 22/07/2026; usada para projeção/notoriedade de Lula e Flávio na imprensa estrangeira. Dia exato de publicação não preservado na coleta."
+      },
+      {
+        "id": "src-mundo-10",
+        "title": "Lula diz que discutiu crime organizado, tarifas e minerais críticos com Trump",
+        "publisher": "Brasil de Fato",
+        "url": "https://brasildefato.com.br/2026/05/07/lula-diz-que-discutiu-crime-organizado-tarifas-e-minerais-criticos-com-trump-e-elogia-magnata-rindo-vale-mais-do-que-de-cara-feia",
+        "publishedAt": "2026-05-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Coletiva de Lula em Washington após o encontro na Casa Branca (07/05/2026): temas tratados, proposta de grupo de trabalho de 30 dias sobre comércio e ausência de acordos assinados."
+      },
+      {
+        "id": "src-lula-74",
+        "title": "Em 2025, Lula coloca a diplomacia brasileira em destaque: veja erros e acertos da política externa",
+        "publisher": "Brasil de Fato",
+        "url": "https://www.brasildefato.com.br/2025/12/22/em-2025-lula-coloca-a-diplomacia-brasileira-em-destaque-vejam-erros-e-acertos-da-politica-externa/",
+        "publishedAt": "2025-12-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Balanço de 2025: Cúpula do BRICS no Rio (jul/2025, 11 chefes de Estado e governo), COP30 em Belém (10-21/11/2025, 195 países, Pacote de Belém), cerca de 20 países visitados, participação em G7 (Canadá), G20 (África do Sul), ASEAN, Fórum Mundial da Alimentação (Itália), Celac (Honduras) e o tarifaço de 50% anunciado em 09/07/2025."
+      },
+      {
+        "id": "src-lula-75",
+        "title": "Brasil e Índia assinam acordo sobre terras raras e minerais críticos",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/brasil-e-india-assinam-acordo-sobre-terras-raras-e-mineiras-criticos",
+        "publishedAt": "2026-02-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Assinatura em Nova Délhi, por Lula e o primeiro-ministro Narendra Modi, de acordo sobre minerais críticos e terras raras e energias renováveis (21/02/2026)."
+      },
+      {
+        "id": "src-lula-76",
+        "title": "G20: Lula defende governança soberana em minerais críticos e IA",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-11/g20-lula-defende-governanca-soberana-em-minerais-criticos-e-ia",
+        "publishedAt": "2025-11-23",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Discurso na sessão temática da Cúpula do G20 em Joanesburgo (23/11/2025) sobre soberania no conhecimento e valor agregado de minerais críticos, inteligência artificial e trabalho decente."
+      },
+      {
+        "id": "src-lula-77",
+        "title": "Xi manifesta apoio a Lula contra 'interferência externa', diz agência estatal chinesa",
+        "publisher": "Estadão (com Xinhua)",
+        "url": "https://www.estadao.com.br/internacional/xi-manifesta-apoio-a-lula-contra-interferencia-externa-diz-agencia-estatal-chinesa-npr/",
+        "publishedAt": "2026-07-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Telefonema de Lula com Xi Jinping em 26/07/2026, com defesa de aceleração das negociações Mercosul-China e diversificação de mercados; a reportagem registra que o comunicado brasileiro não mencionou a fala atribuída a Xi pela Xinhua."
+      },
+      {
+        "id": "src-lula-78",
+        "title": "Pix, minerais críticos e tarifas: o que o governo Lula quer discutir com Trump na economia",
+        "publisher": "BBC News Brasil",
+        "url": "https://bbc.com/portuguese/articles/cglpyzegwkko",
+        "publishedAt": "2026-05-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Pauta da visita de Lula a Washington (maio/2026): investigação da seção 301 sobre o Pix, tarifas remanescentes (estimativa do MDIC de 29% das exportações aos EUA com tarifas adicionais) e investimento em minerais críticos, com defesa de agregação de valor no país."
+      },
+      {
+        "id": "src-lula-80",
+        "title": "Programa de Governo — Diretrizes para o Programa de Transformação do Brasil: um país soberano, democrático, desenvolvido, sustentável e criativo (versão publicada pelo PT)",
+        "publisher": "Partido dos Trabalhadores (PT) — versão do programa registrado no TSE",
+        "url": "https://pt.org.br/wp-content/uploads/2026/08/08_06_JOB838_PT_livroplanodegoverno_260616_BOOK%20210x297mm_pg_solta_web.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF de 84 páginas com camada de texto, lido diretamente (índice com 13 eixos e seção 'Compromisso com o projeto de nação'). Mesmo título do documento protocolado no TSE em 08/08/2026 (documento 280017016005)."
+      }
+    ],
+    "evidenceStatus": "parcial",
+    "confidenceLevel": "high",
+    "methodology": "Extraído do programa registrado no TSE (ago/2026, já usado como fonte no bloco de projeto de país), de cobertura de 2025-2026 (G1, DW, Folha, BBC, Agência Brasil, Brasil de Fato, Estadão, Reuters) e de fonte oficial da UE. Análise aproximada: as posições por país/tema foram montadas a partir de declarações e atos de 2025-2026, e não de um documento único por tema. Lacunas: o programa não trata da guerra na Ucrânia; o telefonema com Xi é conhecido por relato da agência estatal chinesa reproduzido pelo Estadão e não consta do comunicado brasileiro (divergência registrada pelo próprio jornal); questões abertas no contencioso tarifário (percentual ainda vigente, escopo do grupo de trabalho) não têm resultado publicado até 29/09/2026."
   }
 }

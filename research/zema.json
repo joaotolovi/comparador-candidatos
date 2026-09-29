@@ -2779,6 +2779,226 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Substituição publicada no Diário do Executivo."
+    },
+    {
+      "id": "src-zema-100",
+      "title": "Mantido veto a recomposição salarial para servidores (Veto 23/20)",
+      "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+      "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/06/17_plenario_veto_recomposicao_seguranca.html",
+      "publishedAt": "2020-06-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Veto mantido por 33 votos a 35 (eram necessários 39 para derrubar); manteve-se apenas a correção de 13% para a segurança pública."
+    },
+    {
+      "id": "src-zema-101",
+      "title": "Revisão salarial de militares é sancionada parcialmente (Lei 23.597/2020)",
+      "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+      "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/03/12_sancao_e_veto_salario_militares.html",
+      "publishedAt": "2020-03-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Sanção com veto de 12/03/2020: 13% para a segurança pública e veto à recomposição de 41% escalonada até 2022 e à emenda que estendia o reajuste a outras categorias."
+    },
+    {
+      "id": "src-zema-102",
+      "title": "Derrubada de veto ao reajuste dos servidores ganha força na Assembleia",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2020/03/13/interna_politica,1128413/queda-de-veto-ao-reajuste-dos-servidores-ganha-forca-na-assembleia.shtml",
+      "publishedAt": "2020-03-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reação de parlamentares ao veto e anúncio do pagamento parcial do 13º de 2019 (17% dos servidores ainda sem o benefício à época)."
+    },
+    {
+      "id": "src-zema-103",
+      "title": "Prefeitura de Contagem vai seguir determinações da onda roxa do governo estadual",
+      "publisher": "Prefeitura de Contagem",
+      "url": "https://www.portal.contagem.mg.gov.br/portal/noticias/0/3/3136/prefeitura-de-contagem-vai-seguir-determinacoes-da-onda-roxa-do-governo-estadual",
+      "publishedAt": "2021-03-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "municipal",
+      "notes": "Adesão obrigatória dos 853 municípios à deliberação estadual, inclusive dos que não aderiram ao Minas Consciente; toque de recolher e vedações."
+    },
+    {
+      "id": "src-zema-104",
+      "title": "Onda roxa é prorrogada em 13 das 14 macrorregiões de Minas Gerais",
+      "publisher": "Fecomércio MG",
+      "url": "https://fecomerciomg.org.br/noticias/onda-roxa-e-prorrogada-em-13-das-14-macrorregioes-de-minas-gerais/",
+      "publishedAt": "2021-04-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Deliberação 142/2021: prorrogação até 11/04/2021 em 13 macrorregiões e regressão à onda vermelha no Triângulo-Norte/Patos de Minas."
+    },
+    {
+      "id": "src-zema-105",
+      "title": "Governo Zema atua para conter a pandemia em Minas Gerais",
+      "publisher": "Partido Novo — site oficial",
+      "url": "https://novo.org.br/noticias/governo-zema-atua-para-conter-a-pandemia-em-minas-gerais/",
+      "publishedAt": "2021-03-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Fonte partidária: anúncio da onda roxa em todo o estado (15/03/2021) após reunião com prefeitos e consórcios municipais de saúde; registro da expansão de 2 mil para 4 mil leitos de UTI e de 10 mil para 20 mil de enfermaria."
+    },
+    {
+      "id": "src-zema-106",
+      "title": "Zema renuncia, e Simões assume o governo em meio à indefinição de chapas da direita em MG",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/03/22/zema-renuncia-e-simoes-assume-o-governo-em-meio-a-indefinicao-de-chapas-da-direita-em-mg.ghtml",
+      "publishedAt": "2026-03-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Renúncia oficializada em 22/03/2026, posse de Mateus Simões na ALMG e no Palácio da Liberdade, e prazo de desincompatibilização."
+    },
+    {
+      "id": "src-zema-107",
+      "title": "Com renúncia de Zema, Simões tem o desafio de se tornar conhecido antes das eleições",
+      "publisher": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/com-renuncia-de-zema-simoes-tem-o-desafio-de-se-tornar-conhecido-antes-das-eleicoes/",
+      "publishedAt": "2026-03-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Impasses herdados pelo sucessor (reajuste de servidores e privatização da Copasa)."
+    },
+    {
+      "id": "src-zema-108",
+      "title": "Governo de Minas cria força-tarefa para acompanhar barragem de Brumadinho",
+      "publisher": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/app/noticia/brasil/2019/01/25/interna-brasil,732933/governo-de-minas-cria-forca-tarefa-para-acompanhar-barragem-de-brumadi.shtml",
+      "publishedAt": "2019-01-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Força-tarefa estadual com Defesa Civil e Batalhão de Emergências Ambientais e formação de gabinete estratégico de crise no dia do rompimento."
+    },
+    {
+      "id": "src-zema-109",
+      "title": "Brumadinho — ações do Comitê de Operações de Emergência em Saúde (COES)",
+      "publisher": "Secretaria de Estado de Saúde de Minas Gerais",
+      "url": "https://www.saude.mg.gov.br/brumadinho",
+      "publishedAt": "2019-02-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Reativação imediata do COES e medidas de suspensão do uso de água bruta do Rio Paraopeba."
+    },
+    {
+      "id": "src-zema-110",
+      "title": "Clipping de 28/01/2019 (registro do bloqueio de R$ 11 bilhões da Vale pela Justiça de MG)",
+      "publisher": "Ministério de Minas e Energia (gov.br)",
+      "url": "https://www.gov.br/mme/pt-br/arquivos/clipping-28-01-2019.pdf",
+      "publishedAt": "2019-01-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Compilação oficial de notícias de 28/01/2019 que registra o bloqueio judicial de R$ 11 bilhões da Vale e a capacidade estadual de fiscalização (quatro servidores para 317 barragens)."
+    },
+    {
+      "id": "src-zema-112",
+      "title": "Acordo de repactuação de Mariana é assinado em Brasília",
+      "publisher": "Tribunal Regional Federal da 6ª Região (TRF6)",
+      "url": "https://portal.trf6.jus.br/acordo-de-repactuacao-de-mariana-e-assinado-em-brasilia/",
+      "publishedAt": "2024-10-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal",
+      "notes": "Assinatura em 25/10/2024 com União, MG, ES, MPF, MPs estaduais, Defensorias e empresas; R$ 132 bi em novos recursos, mais de R$ 81 bi destinados a Minas."
+    },
+    {
+      "id": "src-zema-113",
+      "title": "Presidente do STF homologa acordo para reparação de danos causados pela tragédia em Mariana (PET 13157)",
+      "publisher": "STF — Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-homologa-acordo-para-reparacao-de-danos-causados-pela-tragedia-em-mariana-mg/",
+      "publishedAt": "2024-11-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal",
+      "notes": "Homologação referendada por unanimidade pelo Plenário do STF em 06/11/2024; R$ 100 bi a entes públicos e R$ 32 bi de obrigações das empresas."
+    },
+    {
+      "id": "src-zema-114",
+      "title": "Acordo de R$ 132 bilhões marca nova etapa na reparação dos danos da tragédia de Mariana",
+      "publisher": "Ministério do Desenvolvimento Agrário e Agricultura Familiar (gov.br)",
+      "url": "https://www.gov.br/mda/pt-br/noticias/2024/10/acordo-de-r-132-bilhoes-marca-nova-etapa-na-reparacao-dos-danos-da-tragedia-de-mariana",
+      "publishedAt": "2024-10-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Compromisso de 20 anos com repasses em parcelas anuais ao poder público."
+    },
+    {
+      "id": "src-zema-111",
+      "title": "Minas decreta situação de emergência em 47 cidades após chuvas e mortes",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/01/26/situacao-de-emergencia-mg-decreto.htm",
+      "publishedAt": "2020-01-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Decreto publicado em edição extra do Diário Oficial, validade de seis meses, dispensa de licitação para resposta e reabilitação, e luto oficial de três dias."
+    },
+    {
+      "id": "src-mundo-01",
+      "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+      "publisher": "G1 / GloboNews (Filipe Matoso)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+    },
+    {
+      "id": "src-mundo-02",
+      "title": "O que Lula e Flávio prometem para a política externa",
+      "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+      "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, BRICS, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado para a afirmação de que Ucrânia e Oriente Médio estão ausentes dos programas."
+    },
+    {
+      "id": "src-mundo-03",
+      "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+      "publisher": "Folha de S.Paulo — Patrícia Campos Mello",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento por tema (BRICS/China, Mercosul, operações dos EUA, OCDE, minerais críticos, Israel/Gaza, EUA) com respostas das campanhas; parte das posições de Caiado e Zema é atribuída aos coordenadores de programa (Roberto Brant e Christian Lohbauer). A campanha de Flávio Bolsonaro não respondeu."
+    },
+    {
+      "id": "src-zema-82",
+      "title": "Zema propõe tirar Brasil dos Brics e aproximar país do Ocidente",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/zema-propoe-tirar-brasil-brics-aproximar-pais-ocidente/",
+      "publishedAt": "2026-08-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha as propostas de política externa do plano: saída do BRICS, retomada da adesão à OCDE e Mercosul como zona de livre comércio ('união aduaneira que impede os países membros de negociarem sozinhos')."
+    },
+    {
+      "id": "src-zema-83",
+      "title": "Zema propõe saída do Brics e redução de supersalários e de impostos",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/zema-propoe-saida-do-brics-e-reducao-de-supersalarios-e-de-impostos",
+      "publishedAt": "2026-09-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sistematiza o programa: 'a diplomacia será orientada pelo pragmatismo comercial', saída do BRICS, adesão imediata à OCDE, Mercosul como zona de livre comércio e coordenação com os EUA e demais países no combate ao crime organizado."
+    },
+    {
+      "id": "src-zema-84",
+      "title": "Governo de Minas busca novos investimentos para o estado em missão internacional à Europa",
+      "publisher": "Secretaria-Geral do Estado de Minas Gerais (mg.gov.br)",
+      "url": "https://www.secretariageral.mg.gov.br/Noticias/Detalhe/5422",
+      "publishedAt": "2025-10-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Fonte oficial estadual: missão à Bélgica, França e Itália (a partir de 13/10/2025, 15 dias) chefiada por Zema e balanço das outras missões de 2025 — El Salvador (maio, segurança pública) e Ásia/China e Japão (junho), com 'mais de R$ 300 milhões' em investimentos atribuídos à missão."
+    },
+    {
+      "id": "src-zema-85",
+      "title": "Governo de Minas realiza lançamento mundial do projeto Vale do Lítio",
+      "publisher": "Agência Minas (governo estadual)",
+      "url": "https://agenciaminas.mg.gov.br/noticia/governo-de-minas-realiza-lancamento-mundial-do-projeto-vale-do-litio",
+      "publishedAt": "2023-05-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Fonte oficial estadual do lançamento do 'Vale do Lítio' (Lithium Valley Brazil) em Nova York, na Nasdaq, em 09/05/2023, para atrair mineradoras; 14 cidades envolvidas."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2803,7 +3023,25 @@
     "Lula: o espelho do programa no Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR; a leitura foi feita pela versão publicada pelo PT com o mesmo título e índice de 13 eixos.",
     "Caiado: a URL do arquivo do plano no DivulgaCandContas não foi localizada nesta coleta; a base é o PDF publicado pela campanha e o espelho do Poder360.",
     "Zema: a URL do arquivo do plano no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal); o plano não apresenta custo nem prazo para a maior parte das propostas.",
-    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta."
+    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta.",
+    "Lula: a decisão de manutenção da meta de déficit zero para 2024 (ev-cap-tomada-decisao-lula-02) se apoia em reportagens de nov/2023 e fev/2024; não foram consultados nesta rodada o projeto de LDO 2024 nem atos do Executivo sobre a meta.",
+    "Lula: o impacto fiscal das medidas anticíclicas de 2008-2009 (ev-cap-gestao-crises-lula-04) usa o Relatório Anual do Banco Central de 2008 e reportagem de 2018 que cita estudo do período; a composição exata da renúncia fiscal por tributo não foi conferida em fonte primária.",
+    "Lula: os dados de investimento federal na COP30 (ev-cap-coordenacao-institucional-lula-04) constam de páginas oficiais de comunicação; não foi localizado documento orçamentário com o detalhamento por obra.",
+    "Flávio Bolsonaro: não foram levantadas, nesta rodada, as votações nominais do Senado de 2019-2026 para além da reforma da Previdência de 2019, o que limita a capacidade tomada-decisao às três decisões registradas.",
+    "Flávio Bolsonaro: a evidência sobre a assunção da candidatura presidencial (ev-cap-tomada-decisao-flavio-02 e ev-cap-gestao-crises-flavio-02) se apoia em reportagens sobre a escolha de Jair Bolsonaro; não foram consultados documento partidário, ata de convenção ou peça de registro no TSE.",
+    "Flávio Bolsonaro: a titularidade dos grupos parlamentares bilaterais (ev-cap-coordenacao-institucional-flavio-03) é registro de composição no perfil oficial do Senado, sem produto ou agenda localizados; evidenceStatus parcial e confidenceLevel low.",
+    "Caiado: a evidência sobre a negociação com o Tesouro Nacional (ev-cap-coordenacao-institucional-caiado-02) registra a missão de avaliação de janeiro de 2019; não foram localizados termos, ofícios ou decisões formais da adesão ao Regime de Recuperação Fiscal naquele exercício — o estado migrou de regime apenas anos depois (ver execucao).",
+    "Caiado: o número de municípios em calamidade em março de 2021 (235 de 246) provém de reportagem; não foi conferido em boletim oficial da Secretaria de Saúde de Goiás.",
+    "Zema: a crítica de setores do próprio partido às medidas de isolamento (ev-cap-tomada-decisao-zema-02) está em registro enciclopédico e em fonte partidária; não foi localizada manifestação oficial do diretório nacional do NOVO.",
+    "Zema: a resposta a Brumadinho (ev-cap-gestao-crises-zema-01) se apoia em nota oficial reproduzida pela imprensa, na página da Secretaria de Estado de Saúde e em compilação de notícias do MME; não foram consultados decretos ou planos de contingência estaduais do período.",
+    "Zema: o reconhecimento federal da emergência nas chuvas de janeiro de 2020 (ev-cap-coordenacao-institucional-zema-03) não foi localizado; a evidência descreve apenas o ato estadual e seus efeitos nos municípios.",
+    "Fonte/URL: um conjunto de fontes indicadas com nota 'URL obtida em resultado de busca' (Valor e Folha sobre a meta fiscal de 2024, relatório do Banco Central de 2008) não pôde ser aberto por requisição direta nesta rodada; recomenda-se conferência antes da publicação final.",
+    "Nenhum dos quatro candidatos registrou posição de campanha de 2026 sobre a guerra na Ucrânia, sanções à Rússia ou a OTAN; o tema está ausente dos planos registrados (DW, 17/09/2026).",
+    "Nenhum dos quatro planos traz metas quantificadas, cronograma ou avaliação de impacto para a política externa; os projetos (Afta, SULPOL, Mercosul como zona de livre comércio, saída do BRICS, revisão do BRICS) aparecem sem desenho de implementação declarado.",
+    "Caiado: o teor integral do MOU com os EUA (18/03/2026) não é público; a descrição usa o comunicado estadual e a apuração da Folha, com a controvérsia jurídica registrada e sem juízo. Não localizei registro de atuação em comissão de relações exteriores no período parlamentar nem entrevista à imprensa estrangeira em 2025-2026.",
+    "Zema: a missão aos EUA divulgada pelo partido Novo (mais de R$ 1,5 bilhão em investimentos) ficou sem data confirmada — página com erro 403 e sem snapshot no Wayback Machine em 29/09/2026 — e não foi usada como evidência. Não localizei entrevista ou artigo do candidato em veículo estrangeiro em 2025-2026.",
+    "Flávio Bolsonaro: a campanha não respondeu à Folha (12/09/2026); a natureza do encontro com Trump (duração e formalidade) divergem entre fontes; o programa não menciona BRICS, Mercosul nem a China como prioridade.",
+    "Lula: as posições por país/tema foram montadas a partir de declarações e atos de 2025-2026, sem documento único; o telefonema com Xi (26/07/2026) é conhecido por relato da agência estatal chinesa reproduzido pelo Estadão e não consta do comunicado brasileiro; em 29/09/2026 não há resultado publicado do grupo de trabalho bilateral sobre comércio proposto em maio de 2026."
   ],
   "capacities": [
     {
@@ -3335,6 +3573,375 @@
       "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
       "coverage": "documentada",
       "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "tomada-decisao",
+      "synthesis": "Três decisões com custo político explícito: o veto à recomposição salarial de 41% em 2020, com manutenção do veto pela Assembleia em 17/06/2020 (33 votos a 35, quando eram necessários 39) e permanência de apenas 13% para a segurança pública; a decretação da onda roxa em todo o estado em março de 2021, aplicada de forma impositiva aos 853 municípios e criticada por setores do próprio partido; e a renúncia ao governo em 22/03/2026 para disputar a Presidência, antes do prazo de desincompatibilização, com transferência do cargo ao vice. Cada uma envolve renúncia a algo (acordo com categorias, adesão voluntária dos municípios, mandato em curso) e tem resultado datado.",
+      "coverageNote": "Três decisões com resultado datado e verificável na Assembleia, no comitê estadual de Covid e no ato de renúncia; a evidência do veto se apoia em fonte legislativa (ALMG).",
+      "evidences": [
+        {
+          "id": "ev-cap-tomada-decisao-zema-01",
+          "kind": "historico",
+          "title": "Veto à recomposição salarial de 41% e manutenção do veto no Plenário da ALMG (2020)",
+          "role": "Governador de Minas Gerais — autor do projeto e do veto parcial, sustentado na Assembleia",
+          "complexity": "Decisão de maior custo político do primeiro mandato: o próprio Executivo propôs recomposição de 41% escalonada até 2022 e vetou a maior parte após a projeção de crescimento cair de 2,32% para 1,99%, mantendo 13% para a segurança pública e vetando a emenda que estendia o reajuste a outras 13 categorias",
+          "outcome": "Lei 23.597/2020 sancionada em 12/03/2020 com apenas 13% para a segurança; o veto 23/20 foi mantido em 17/06/2020 por 33 votos a 35 (eram necessários 39 para derrubá-lo); entidades de classe registraram rompimento de acordo e o governo pagou parte do 13º de 2019 no mesmo período, com 17% dos servidores ainda sem o benefício",
+          "period": "2020",
+          "context": "Episódio descrito pela imprensa como a maior crise política do governo até então, em ano de pandemia e queda de arrecadação.",
+          "sources": [
+            {
+              "id": "src-zema-100",
+              "title": "Mantido veto a recomposição salarial para servidores (Veto 23/20)",
+              "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+              "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/06/17_plenario_veto_recomposicao_seguranca.html",
+              "publishedAt": "2020-06-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Veto mantido por 33 votos a 35 (eram necessários 39 para derrubar); manteve-se apenas a correção de 13% para a segurança pública."
+            },
+            {
+              "id": "src-zema-101",
+              "title": "Revisão salarial de militares é sancionada parcialmente (Lei 23.597/2020)",
+              "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+              "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/03/12_sancao_e_veto_salario_militares.html",
+              "publishedAt": "2020-03-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Sanção com veto de 12/03/2020: 13% para a segurança pública e veto à recomposição de 41% escalonada até 2022 e à emenda que estendia o reajuste a outras categorias."
+            },
+            {
+              "id": "src-zema-102",
+              "title": "Derrubada de veto ao reajuste dos servidores ganha força na Assembleia",
+              "publisher": "Estado de Minas",
+              "url": "https://www.em.com.br/app/noticia/politica/2020/03/13/interna_politica,1128413/queda-de-veto-ao-reajuste-dos-servidores-ganha-forca-na-assembleia.shtml",
+              "publishedAt": "2020-03-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reação de parlamentares ao veto e anúncio do pagamento parcial do 13º de 2019 (17% dos servidores ainda sem o benefício à época)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-zema-02",
+          "kind": "historico",
+          "title": "Decretação da onda roxa em todo o estado, aplicada de forma obrigatória aos 853 municípios (mar/2021)",
+          "role": "Governador de Minas Gerais — decidiu e comunicou a fase mais restritiva a prefeitos e consórcios municipais de saúde",
+          "complexity": "Decisão tomada contra a posição de setores do próprio partido, que criticaram as medidas de isolamento, e aplicada de forma impositiva a todos os 853 municípios, inclusive aos que não haviam aderido ao plano Minas Consciente",
+          "outcome": "Onda roxa válida de 17/03/2021 a 31/03/2021 e prorrogada até 11/04/2021 em 13 das 14 macrorregiões (deliberações do Comitê Extraordinário Covid-19), com regressão à onda vermelha no Triângulo-Norte e em Patos de Minas; adesão municipal obrigatória independentemente de adesão prévia ao plano estadual",
+          "period": "2021",
+          "context": "Comunicada em reunião com prefeitos e representantes de consórcios municipais de saúde, no momento mais grave da pandemia no estado.",
+          "sources": [
+            {
+              "id": "src-zema-103",
+              "title": "Prefeitura de Contagem vai seguir determinações da onda roxa do governo estadual",
+              "publisher": "Prefeitura de Contagem",
+              "url": "https://www.portal.contagem.mg.gov.br/portal/noticias/0/3/3136/prefeitura-de-contagem-vai-seguir-determinacoes-da-onda-roxa-do-governo-estadual",
+              "publishedAt": "2021-03-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "municipal",
+              "notes": "Adesão obrigatória dos 853 municípios à deliberação estadual, inclusive dos que não aderiram ao Minas Consciente; toque de recolher e vedações."
+            },
+            {
+              "id": "src-zema-104",
+              "title": "Onda roxa é prorrogada em 13 das 14 macrorregiões de Minas Gerais",
+              "publisher": "Fecomércio MG",
+              "url": "https://fecomerciomg.org.br/noticias/onda-roxa-e-prorrogada-em-13-das-14-macrorregioes-de-minas-gerais/",
+              "publishedAt": "2021-04-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Deliberação 142/2021: prorrogação até 11/04/2021 em 13 macrorregiões e regressão à onda vermelha no Triângulo-Norte/Patos de Minas."
+            },
+            {
+              "id": "src-zema-105",
+              "title": "Governo Zema atua para conter a pandemia em Minas Gerais",
+              "publisher": "Partido Novo — site oficial",
+              "url": "https://novo.org.br/noticias/governo-zema-atua-para-conter-a-pandemia-em-minas-gerais/",
+              "publishedAt": "2021-03-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Fonte partidária: anúncio da onda roxa em todo o estado (15/03/2021) após reunião com prefeitos e consórcios municipais de saúde; registro da expansão de 2 mil para 4 mil leitos de UTI e de 10 mil para 20 mil de enfermaria."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-zema-03",
+          "kind": "historico",
+          "title": "Renúncia ao governo de Minas para disputar a Presidência, antes do prazo de desincompatibilização (mar/2026)",
+          "role": "Governador de Minas Gerais — renunciou ao mandato para viabilizar a candidatura presidencial",
+          "complexity": "Decisão de abrir mão de mandato em curso (com a continuidade transferida ao vice, que herdou impasses de reajuste de servidores e privatização da Copasa) para cumprir a desincompatibilização exigida até 04/04/2026, em cenário de indefinição das chapas da direita no estado",
+          "outcome": "Renúncia formalizada em 22/03/2026, com posse de Mateus Simões na Assembleia Legislativa no mesmo dia e entrega do Colar da Inconfidência no Palácio da Liberdade",
+          "period": "2026",
+          "context": "Candidatura presidencial anunciada meses antes, com índices baixos nas pesquisas e especulação sobre composição com a chapa do PL.",
+          "sources": [
+            {
+              "id": "src-zema-106",
+              "title": "Zema renuncia, e Simões assume o governo em meio à indefinição de chapas da direita em MG",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/noticia/2026/03/22/zema-renuncia-e-simoes-assume-o-governo-em-meio-a-indefinicao-de-chapas-da-direita-em-mg.ghtml",
+              "publishedAt": "2026-03-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Renúncia oficializada em 22/03/2026, posse de Mateus Simões na ALMG e no Palácio da Liberdade, e prazo de desincompatibilização."
+            },
+            {
+              "id": "src-zema-107",
+              "title": "Com renúncia de Zema, Simões tem o desafio de se tornar conhecido antes das eleições",
+              "publisher": "InfoMoney",
+              "url": "https://www.infomoney.com.br/politica/com-renuncia-de-zema-simoes-tem-o-desafio-de-se-tornar-conhecido-antes-das-eleicoes/",
+              "publishedAt": "2026-03-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Impasses herdados pelo sucessor (reajuste de servidores e privatização da Copasa)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Tomada de decisão",
+      "question": "Como enfrentou decisões difíceis, trade-offs e pressão?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "gestao-crises",
+      "synthesis": "Três crises com resposta registrada: o desastre de Brumadinho, no 24º dia de mandato, com gabinete estratégico de crise, força-tarefa estadual, reativação do comitê de emergência em saúde e bloqueio judicial de R$ 11 bilhões da Vale; a crise fiscal herdada de 2019, com folha e 13º atrasados, atacada por pagamento escalonado e reformas, e registrada depois como marca da gestão; e o colapso assistencial de 2021, com expansão de 2 mil para 4 mil leitos de UTI e de 10 mil para 20 mil de enfermaria e prorrogação da fase restritiva em 13 das 14 macrorregiões. A magnitude dos desastres e a estrutura de saúde aparecem como contexto; os atos e resultados estão datados.",
+      "coverageNote": "Três crises com resposta registrada (Brumadinho, crise fiscal herdada e colapso assistencial de 2021); a resposta a Brumadinho combina fonte jornalística, fonte estadual de saúde e compilação oficial do governo federal.",
+      "evidences": [
+        {
+          "id": "ev-cap-gestao-crises-zema-01",
+          "kind": "historico",
+          "title": "Brumadinho: resposta emergencial do governo estadual nas primeiras semanas de mandato (jan/2019)",
+          "role": "Governador de Minas Gerais — chefe do Executivo estadual na resposta ao rompimento da barragem, 24 dias após a posse",
+          "complexity": "Desastre com 272 mortos, contaminação do Rio Paraopeba e emergência em dezenas de municípios; a estrutura estadual dispunha de quatro servidores para fiscalizar 317 barragens, e a resposta envolveu Corpo de Bombeiros, Defesa Civil, saúde (COES), o Judiciário e o governo federal",
+          "outcome": "Gabinete estratégico de crise formado e força-tarefa estadual enviada no dia do rompimento (25/01/2019); o Comitê de Operações de Emergência em Saúde foi reativado e coordenou, entre outras medidas, a suspensão do uso de água bruta do Paraopeba; a Justiça de Minas determinou o bloqueio de R$ 11 bilhões da Vale 48 horas depois",
+          "period": "2019",
+          "context": "Primeiro grande desastre do mandato, com repercussão internacional e sobreposição de ações federais, estaduais e municipais.",
+          "sources": [
+            {
+              "id": "src-zema-108",
+              "title": "Governo de Minas cria força-tarefa para acompanhar barragem de Brumadinho",
+              "publisher": "Correio Braziliense",
+              "url": "https://www.correiobraziliense.com.br/app/noticia/brasil/2019/01/25/interna-brasil,732933/governo-de-minas-cria-forca-tarefa-para-acompanhar-barragem-de-brumadi.shtml",
+              "publishedAt": "2019-01-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Força-tarefa estadual com Defesa Civil e Batalhão de Emergências Ambientais e formação de gabinete estratégico de crise no dia do rompimento."
+            },
+            {
+              "id": "src-zema-109",
+              "title": "Brumadinho — ações do Comitê de Operações de Emergência em Saúde (COES)",
+              "publisher": "Secretaria de Estado de Saúde de Minas Gerais",
+              "url": "https://www.saude.mg.gov.br/brumadinho",
+              "publishedAt": "2019-02-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Reativação imediata do COES e medidas de suspensão do uso de água bruta do Rio Paraopeba."
+            },
+            {
+              "id": "src-zema-110",
+              "title": "Clipping de 28/01/2019 (registro do bloqueio de R$ 11 bilhões da Vale pela Justiça de MG)",
+              "publisher": "Ministério de Minas e Energia (gov.br)",
+              "url": "https://www.gov.br/mme/pt-br/arquivos/clipping-28-01-2019.pdf",
+              "publishedAt": "2019-01-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Compilação oficial de notícias de 28/01/2019 que registra o bloqueio judicial de R$ 11 bilhões da Vale e a capacidade estadual de fiscalização (quatro servidores para 317 barragens)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-gestao-crises-zema-02",
+          "kind": "historico",
+          "title": "Crise fiscal e folha atrasada herdadas em 2019: escalonamento do 13º e recomposição das contas",
+          "role": "Governador de Minas Gerais — responsável pelo plano de pagamento dos atrasados e pelo ajuste fiscal do início do mandato",
+          "complexity": "Estado recebido com atraso de salários e do 13º de servidores, dívida com a União e serviços comprometidos; o enfrentamento combinou pagamento escalonado de atrasados, reforma administrativa e reforma da previdência estadual",
+          "outcome": "Pagamento do 13º de 2019 a parte dos servidores em março de 2020, com 17% ainda pendentes à época; no encerramento do mandato, a recuperação das contas públicas foi registrada como marca da gestão no documento de renúncia de 2026",
+          "period": "2019–2020",
+          "context": "Sindicatos e categorias contestaram o escalonamento e o veto a reajustes no mesmo período.",
+          "sources": [
+            {
+              "id": "src-zema-102",
+              "title": "Derrubada de veto ao reajuste dos servidores ganha força na Assembleia",
+              "publisher": "Estado de Minas",
+              "url": "https://www.em.com.br/app/noticia/politica/2020/03/13/interna_politica,1128413/queda-de-veto-ao-reajuste-dos-servidores-ganha-forca-na-assembleia.shtml",
+              "publishedAt": "2020-03-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reação de parlamentares ao veto e anúncio do pagamento parcial do 13º de 2019 (17% dos servidores ainda sem o benefício à época)."
+            },
+            {
+              "id": "src-zema-106",
+              "title": "Zema renuncia, e Simões assume o governo em meio à indefinição de chapas da direita em MG",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/noticia/2026/03/22/zema-renuncia-e-simoes-assume-o-governo-em-meio-a-indefinicao-de-chapas-da-direita-em-mg.ghtml",
+              "publishedAt": "2026-03-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Renúncia oficializada em 22/03/2026, posse de Mateus Simões na ALMG e no Palácio da Liberdade, e prazo de desincompatibilização."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-gestao-crises-zema-03",
+          "kind": "historico",
+          "title": "Colapso da rede assistencial em 2021: ampliação de leitos, vacinação e prorrogação da fase mais restritiva",
+          "role": "Governador de Minas Gerais — responsável pela decisão de manter a fase restritiva e pela ampliação da estrutura hospitalar",
+          "complexity": "Estado com hospitais no limite e 13 das 14 macrorregiões sem queda sustentada de óbitos e de ocupação de leitos de UTI; a estrutura passou de 2 mil para 4 mil leitos de UTI e de 10 mil para 20 mil leitos de enfermaria, em paralelo à maior operação de vacinação do estado",
+          "outcome": "Prorrogação da onda roxa em 13 macrorregiões até 11/04/2021, com regressão à onda vermelha no Triângulo-Norte e em Patos de Minas por queda sustentada de indicadores; o próprio governo descreveu o período como o mais grave desde o início da pandemia",
+          "period": "2021",
+          "context": "Segunda onda da pandemia, com ocupação de leitos acima de 90% em Minas e colapso em outras unidades federativas.",
+          "sources": [
+            {
+              "id": "src-zema-104",
+              "title": "Onda roxa é prorrogada em 13 das 14 macrorregiões de Minas Gerais",
+              "publisher": "Fecomércio MG",
+              "url": "https://fecomerciomg.org.br/noticias/onda-roxa-e-prorrogada-em-13-das-14-macrorregioes-de-minas-gerais/",
+              "publishedAt": "2021-04-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Deliberação 142/2021: prorrogação até 11/04/2021 em 13 macrorregiões e regressão à onda vermelha no Triângulo-Norte/Patos de Minas."
+            },
+            {
+              "id": "src-zema-105",
+              "title": "Governo Zema atua para conter a pandemia em Minas Gerais",
+              "publisher": "Partido Novo — site oficial",
+              "url": "https://novo.org.br/noticias/governo-zema-atua-para-conter-a-pandemia-em-minas-gerais/",
+              "publishedAt": "2021-03-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Fonte partidária: anúncio da onda roxa em todo o estado (15/03/2021) após reunião com prefeitos e consórcios municipais de saúde; registro da expansão de 2 mil para 4 mil leitos de UTI e de 10 mil para 20 mil de enfermaria."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Gestão de crises e mudança",
+      "question": "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "coordenacao-institucional",
+      "synthesis": "A articulação com outros entes está documentada em três frentes: o acordo de repactuação de Mariana (25/10/2024), assinado por União, Minas Gerais, Espírito Santo, Ministérios Públicos, Defensorias e as empresas, com R$ 132 bilhões em novos recursos, mais de R$ 81 bilhões para Minas e homologação pelo Plenário do STF em 06/11/2024; o modelo de cooperação estado-municípios da pandemia, com deliberações estaduais aplicadas de forma impositiva aos 853 municípios, inclusive aos que não aderiram ao plano; e o decreto de situação de emergência para 47 municípios atingidos pelas chuvas de janeiro de 2020, que habilitou contratações de resposta e reabilitação sem licitação. A negociação da dívida com a União e as relações com o Legislativo estadual estão tratadas em dialogo-negociacao e execucao.",
+      "coverageNote": "Três frentes de cooperação com outros entes (acordo multientidades de Mariana homologado no STF, deliberações estaduais aplicadas aos 853 municípios e decreto de emergência em 47 municípios); o passo federal de reconhecimento da emergência de 2020 não foi localizado nas fontes consultadas.",
+      "evidences": [
+        {
+          "id": "ev-cap-coordenacao-institucional-zema-01",
+          "kind": "historico",
+          "title": "Acordo de repactuação de Mariana: negociação com União, Espírito Santo, Ministérios Públicos, Defensorias e mineradoras (2024)",
+          "role": "Governador de Minas Gerais — signatário pelo Estado no acordo de repactuação do termo de ajustamento de conduta de Mariana",
+          "complexity": "Acordo firmado por União, Minas Gerais, Espírito Santo, Ministério Público Federal, Ministérios Públicos estaduais, Defensorias Públicas e as empresas Samarco, Vale e BHP, no âmbito de mediação conduzida no STF/TRF-6 (Petição 13157), com R$ 132 bilhões em novos recursos e execução em 20 anos",
+          "outcome": "Acordo assinado em 25/10/2024 no Palácio do Planalto e homologado por unanimidade pelo Plenário do STF em 06/11/2024; mais de R$ 81 bilhões destinados a Minas Gerais, sendo R$ 100 bilhões repassados a entes públicos e R$ 32 bilhões de obrigações das empresas, com primeira parcela de R$ 5 bilhões prevista para 30 dias após a assinatura",
+          "period": "2024",
+          "context": "Repactuação do acordo de 2016, renegociado após mediação iniciada por determinação do STF e conduzida no TRF-6.",
+          "sources": [
+            {
+              "id": "src-zema-112",
+              "title": "Acordo de repactuação de Mariana é assinado em Brasília",
+              "publisher": "Tribunal Regional Federal da 6ª Região (TRF6)",
+              "url": "https://portal.trf6.jus.br/acordo-de-repactuacao-de-mariana-e-assinado-em-brasilia/",
+              "publishedAt": "2024-10-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal",
+              "notes": "Assinatura em 25/10/2024 com União, MG, ES, MPF, MPs estaduais, Defensorias e empresas; R$ 132 bi em novos recursos, mais de R$ 81 bi destinados a Minas."
+            },
+            {
+              "id": "src-zema-113",
+              "title": "Presidente do STF homologa acordo para reparação de danos causados pela tragédia em Mariana (PET 13157)",
+              "publisher": "STF — Notícias",
+              "url": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-homologa-acordo-para-reparacao-de-danos-causados-pela-tragedia-em-mariana-mg/",
+              "publishedAt": "2024-11-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal",
+              "notes": "Homologação referendada por unanimidade pelo Plenário do STF em 06/11/2024; R$ 100 bi a entes públicos e R$ 32 bi de obrigações das empresas."
+            },
+            {
+              "id": "src-zema-114",
+              "title": "Acordo de R$ 132 bilhões marca nova etapa na reparação dos danos da tragédia de Mariana",
+              "publisher": "Ministério do Desenvolvimento Agrário e Agricultura Familiar (gov.br)",
+              "url": "https://www.gov.br/mda/pt-br/noticias/2024/10/acordo-de-r-132-bilhoes-marca-nova-etapa-na-reparacao-dos-danos-da-tragedia-de-mariana",
+              "publishedAt": "2024-10-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Compromisso de 20 anos com repasses em parcelas anuais ao poder público."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-zema-02",
+          "kind": "historico",
+          "title": "Cooperação estado-municípios na pandemia: deliberações estaduais aplicadas aos 853 municípios",
+          "role": "Governador de Minas Gerais — autor das deliberações e responsável pela articulação com prefeitos e consórcios municipais de saúde",
+          "complexity": "Articulação com os 853 municípios por meio do plano Minas Consciente e do Comitê Extraordinário Covid-19, com reuniões com prefeitos e consórcios; a deliberação estadual foi aplicada de forma impositiva inclusive aos municípios que não aderiram ao plano, com o fundamento de que caberia aos entes federados adotar medidas conjuntas",
+          "outcome": "Determinações estaduais cumpridas pelos municípios, com adesão obrigatória à onda roxa e restrições de circulação, toque de recolher e vedações a eventos; prefeituras registrarm que seguiriam as regras estaduais mesmo quando já tinham decretos próprios",
+          "period": "2021",
+          "context": "Modelo estadual de gestão compartilhada com municípios que depois passou a valer independentemente de adesão formal.",
+          "sources": [
+            {
+              "id": "src-zema-103",
+              "title": "Prefeitura de Contagem vai seguir determinações da onda roxa do governo estadual",
+              "publisher": "Prefeitura de Contagem",
+              "url": "https://www.portal.contagem.mg.gov.br/portal/noticias/0/3/3136/prefeitura-de-contagem-vai-seguir-determinacoes-da-onda-roxa-do-governo-estadual",
+              "publishedAt": "2021-03-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "municipal",
+              "notes": "Adesão obrigatória dos 853 municípios à deliberação estadual, inclusive dos que não aderiram ao Minas Consciente; toque de recolher e vedações."
+            },
+            {
+              "id": "src-zema-105",
+              "title": "Governo Zema atua para conter a pandemia em Minas Gerais",
+              "publisher": "Partido Novo — site oficial",
+              "url": "https://novo.org.br/noticias/governo-zema-atua-para-conter-a-pandemia-em-minas-gerais/",
+              "publishedAt": "2021-03-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Fonte partidária: anúncio da onda roxa em todo o estado (15/03/2021) após reunião com prefeitos e consórcios municipais de saúde; registro da expansão de 2 mil para 4 mil leitos de UTI e de 10 mil para 20 mil de enfermaria."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-zema-03",
+          "kind": "historico",
+          "title": "Reconhecimento estadual de emergência em 47 municípios atingidos pelas chuvas (jan/2020)",
+          "role": "Governador de Minas Gerais — autor do decreto de situação de emergência e do luto oficial",
+          "complexity": "Desastres simultâneos (inundações, movimentos de massa, enxurradas e alagamentos) em ao menos 47 municípios, incluindo Belo Horizonte, Contagem e Brumadinho, com 35 mortes e comunidades ilhadas; o reconhecimento estadual habilita municípios a contratar bens e serviços de resposta e reabilitação sem licitação",
+          "outcome": "Decreto assinado por Zema e publicado em edição extra do Diário Oficial de 26/01/2020, com validade de seis meses, além de luto oficial de três dias pelas vítimas",
+          "period": "2020",
+          "context": "Primeiro evento climático extremo de grande porte do mandato, no mesmo mês do aniversário de um ano do desastre de Brumadinho.",
+          "sources": [
+            {
+              "id": "src-zema-111",
+              "title": "Minas decreta situação de emergência em 47 cidades após chuvas e mortes",
+              "publisher": "UOL",
+              "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/01/26/situacao-de-emergencia-mg-decreto.htm",
+              "publishedAt": "2020-01-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Decreto publicado em edição extra do Diário Oficial, validade de seis meses, dispensa de licitação para resposta e reabilitação, e luto oficial de três dias."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Coordenação institucional",
+      "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
     }
   ],
   "countryProject": {
@@ -3424,5 +4031,107 @@
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
     "methodology": "Lido do PDF do Plano Implacável (carta de abertura e sumário de 20 áreas). As 7 prioridades correspondem a títulos de capítulos do próprio plano, sem prioridades inferidas. Para posições atuais de campanha foram usadas as sabatinas do Jornal Nacional e a cobertura de imprensa de agosto de 2026 (reposição da inflação no salário mínimo; ajuste fiscal com meta citada de Selic a 6% ao ano, sem detalhamento do ajuste). O documento não traz custo nem prazo para a maior parte das propostas nem horizonte explícito de 10 a 20 anos."
+  },
+  "foreignPolicy": {
+    "worldView": "O plano registrado ('Plano Implacável', ago/2026) define a diplomacia como 'pragmatismo comercial' e prevê: retirar o Brasil do BRICS 'preservando pragmaticamente as relações comerciais com todos os países do bloco'; retomar a adesão à OCDE; transformar o Mercosul em zona de livre comércio, para que os membros possam negociar acordos bilaterais (crítica à 'união aduaneira que impede os países membros de negociarem sozinhos'); política externa baseada em acordos individuais em vez de blocos; restabelecer parcerias com os países do Mercosul, especialmente a Argentina; aproximar-se da bacia do Pacífico e isentar de visto turistas de países considerados seguros. Declarou-se contra a agenda de desdolarização ('ideia de jerico') e afirmou que 'para o Brasil ser um grande parceiro comercial da China, ele não precisa fazer parte do clubinho da China, que é o BRICS' (Folha, 12/09/2026); o programa usa a formulação de que 'quem tem ido para o BRICS são regimes autoritários, em sua maioria, e inimigos dos Estados Unidos'. EUA: defende relações 'pragmáticas' com o governo Trump e coordenação contra o crime organizado; disse à BBC Brasil que aceitaria militares americanos no Brasil em operação contra o PCC desde que 'pré-acordada' (o coordenador do programa detalhou à Folha o modelo de cooperação autorizada, nos moldes da Colômbia); já chamou Trump de 'fanfarrão' e admite retaliar comercialmente os EUA. Israel: quer normalizar relações e retomar a participação na Aliança Internacional para a Memória do Holocausto. Minerais críticos: 'atração ativa' de investimento estrangeiro com segurança jurídica, controle majoritário brasileiro e processamento no país. Não localizei posição documentada sobre a guerra na Ucrânia, sobre a OTAN ou sobre conflitos no Oriente Médio além da questão Israel-Gaza.",
+    "strategy": "Atrair investimento estrangeiro e indústrias intensivas em energia — data centers, inteligência artificial e minerais críticos — aproveitando a matriz elétrica renovável, com proposta de 'encargo zero' sobre a energia consumida por empreendimentos do setor tecnológico; usar a OCDE como âncora de reformas institucionais e econômicas; substituir a negociação em bloco por acordos bilaterais (Mercosul como zona de livre comércio); coordenar com os EUA e outros países o combate ao crime organizado; manter comércio com todos os parceiros, inclusive a China, sem participação em blocos políticos.",
+    "internationalExperience": "Governador de Minas Gerais (2019-2026) — responsabilidade de atrair investimento e firmar cooperação, não de conduzir tratados: liderou missões internacionais em 2025 à América Central (El Salvador, maio, cooperação em segurança pública, para conhecer estratégias e avaliar intercâmbio), à Ásia (China e Japão, junho, com 'mais de R$ 300 milhões' em investimentos atribuídos à missão por fonte oficial estadual) e à Europa (Bélgica, França e Itália, a partir de 13/10/2025, comitiva de 15 dias com reuniões empresariais, visita ao porto de Antuérpia e à bacia minerária de Nord-Pas-de-Calais); integrou missões da FIEMG à China em 2023 e 2024 (a edição de 2025 foi chefiada pelo vice-governador); lançou o projeto 'Vale do Lítio' em Nova York, na Nasdaq, em 09/05/2023, para atrair mineradoras; a atração de investimento é operada pela agência estadual Invest Minas. Não há registro, nas fontes consultadas, de acordo internacional formal assinado por ele nem de participação em negociação diplomática; nunca exerceu cargo legislativo federal ou função diplomática.",
+    "projection": "Aparições internacionais ligadas a atração de investimento: lançamento do Vale do Lítio na Nasdaq (2023), missões à Europa, Ásia e América Central (2025) e reuniões com empresas e autoridades estrangeiras nesses eventos. Não localizei, em 2025-2026, entrevista ou artigo de Zema em veículo estrangeiro, convite institucional estrangeiro ou interlocução pública com liderança estrangeira; a projeção do candidato no noticiário internacional aparece de forma indireta (menção a governadores como alternativas da direita em reportagens sobre a sucessão brasileira).",
+    "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+    "sources": [
+      {
+        "id": "src-mundo-01",
+        "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+        "publisher": "G1 / GloboNews (Filipe Matoso)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+        "publishedAt": "2026-08-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+      },
+      {
+        "id": "src-mundo-02",
+        "title": "O que Lula e Flávio prometem para a política externa",
+        "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+        "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+        "publishedAt": "2026-09-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, BRICS, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado para a afirmação de que Ucrânia e Oriente Médio estão ausentes dos programas."
+      },
+      {
+        "id": "src-mundo-03",
+        "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+        "publisher": "Folha de S.Paulo — Patrícia Campos Mello",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+        "publishedAt": "2026-09-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento por tema (BRICS/China, Mercosul, operações dos EUA, OCDE, minerais críticos, Israel/Gaza, EUA) com respostas das campanhas; parte das posições de Caiado e Zema é atribuída aos coordenadores de programa (Roberto Brant e Christian Lohbauer). A campanha de Flávio Bolsonaro não respondeu."
+      },
+      {
+        "id": "src-zema-11",
+        "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+        "publisher": "Congresso em Foco",
+        "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada."
+      },
+      {
+        "id": "src-zema-12",
+        "title": "Plano de governo Zema 2026 — PDF",
+        "publisher": "Poder360 (espelho do documento da campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Mês inferido da URL."
+      },
+      {
+        "id": "src-zema-82",
+        "title": "Zema propõe tirar Brasil dos Brics e aproximar país do Ocidente",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/zema-propoe-tirar-brasil-brics-aproximar-pais-ocidente/",
+        "publishedAt": "2026-08-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Detalha as propostas de política externa do plano: saída do BRICS, retomada da adesão à OCDE e Mercosul como zona de livre comércio ('união aduaneira que impede os países membros de negociarem sozinhos')."
+      },
+      {
+        "id": "src-zema-83",
+        "title": "Zema propõe saída do Brics e redução de supersalários e de impostos",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/zema-propoe-saida-do-brics-e-reducao-de-supersalarios-e-de-impostos",
+        "publishedAt": "2026-09-20",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Sistematiza o programa: 'a diplomacia será orientada pelo pragmatismo comercial', saída do BRICS, adesão imediata à OCDE, Mercosul como zona de livre comércio e coordenação com os EUA e demais países no combate ao crime organizado."
+      },
+      {
+        "id": "src-zema-84",
+        "title": "Governo de Minas busca novos investimentos para o estado em missão internacional à Europa",
+        "publisher": "Secretaria-Geral do Estado de Minas Gerais (mg.gov.br)",
+        "url": "https://www.secretariageral.mg.gov.br/Noticias/Detalhe/5422",
+        "publishedAt": "2025-10-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Fonte oficial estadual: missão à Bélgica, França e Itália (a partir de 13/10/2025, 15 dias) chefiada por Zema e balanço das outras missões de 2025 — El Salvador (maio, segurança pública) e Ásia/China e Japão (junho), com 'mais de R$ 300 milhões' em investimentos atribuídos à missão."
+      },
+      {
+        "id": "src-zema-85",
+        "title": "Governo de Minas realiza lançamento mundial do projeto Vale do Lítio",
+        "publisher": "Agência Minas (governo estadual)",
+        "url": "https://agenciaminas.mg.gov.br/noticia/governo-de-minas-realiza-lancamento-mundial-do-projeto-vale-do-litio",
+        "publishedAt": "2023-05-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Fonte oficial estadual do lançamento do 'Vale do Lítio' (Lithium Valley Brazil) em Nova York, na Nasdaq, em 09/05/2023, para atrair mineradoras; 14 cidades envolvidas."
+      }
+    ],
+    "evidenceStatus": "parcial",
+    "confidenceLevel": "medium",
+    "methodology": "Base: plano de governo registrado (PDF, ago/2026) e cobertura de 2026 (G1, DW, Folha, Agência Brasil, Gazeta do Povo), além de fontes oficiais estaduais (Secretaria-Geral MG, 10/10/2025; Agência Minas, 09/05/2023). Análise aproximada: o plano apresenta a política externa em um item único ('Saída do BRICS, ingresso na OCDE e Mercosul como zona de livre comércio'), sem cronograma, custo ou desenho de implementação; as posições adicionais vêm de entrevistas e de respostas da campanha à Folha. Lacuna registrada: a missão aos EUA divulgada pelo partido Novo (mais de R$ 1,5 bilhão em investimentos) não teve data confirmada — a página retornou erro 403 e não havia snapshot disponível no Wayback Machine em 29/09/2026 — e por isso não foi usada como evidência. Não há posição documentada sobre Ucrânia, OTAN e Rússia."
   }
 }

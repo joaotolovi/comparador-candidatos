@@ -2104,6 +2104,86 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Participações societárias em Cury Academia Comportamental, Contemplare Investments e Free Mind Publish."
+    },
+    {
+      "id": "src-ac-70",
+      "title": "Eu não posso falar agora quem será meu ministro da Fazenda, diz Cury",
+      "publisher": "Terra",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/eu-nao-posso-falar-agora-quem-sera-meu-ministro-da-fazenda-diz-cury,592015a4e2ec42e54e8b81c787b78dc78slktabp.html",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração em encontro na Genial Investimentos, em São Paulo."
+    },
+    {
+      "id": "src-ac-71",
+      "title": "Cury evita dizer quem pretende indicar para Ministério da Fazenda",
+      "publisher": "R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/cury-evita-dizer-quem-pretende-indicar-para-ministerio-da-fazenda-10092026/",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Candidato afirma ter conversas com Mansueto Almeida e Marcos Lisboa, sem apontar favorito."
+    },
+    {
+      "id": "src-ac-72",
+      "title": "Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/eleicoes/augusto-cury-omitiu-empresas-nos-estados-unidos-e-no-brasil-em-declaracao-ao-tse/",
+      "publishedAt": "2026-09-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Patrimônio declarado de R$ 242,2 milhões; empresas na Flórida e no Brasil não constavam da autodeclaração; campanha diz que corrigirá."
+    },
+    {
+      "id": "src-ac-73",
+      "title": "Empresa da filha de Augusto Cury faturou R$ 19,9 mi em negócios com prefeituras",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/empresa-da-filha-de-augusto-cury-faturou-r-199-mi-em-negocios-com-prefeituras.shtml",
+      "publishedAt": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento aponta 28 acordos com prefeituras entre 2023 e 2026, todos com dispensa de licitação, em quatro estados; candidato afirma que os negócios são regulares e que não manterá contratos federais."
+    },
+    {
+      "id": "src-ac-74",
+      "title": "Programa de Augusto Cury é cancelado em Itajaí",
+      "publisher": "DIARINHO",
+      "url": "https://diarinho.net/materia/675213/Programa-de-Augusto-Cury-e-cancelado-em-Itajai",
+      "publishedAt": "2026-09-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Prefeitura substituiu os programas 'Escola da Inteligência' e 'Gênios Socioemocional' pelo 'Vida na Escola', abrangendo 27 mil estudantes."
+    },
+    {
+      "id": "src-ac-75",
+      "title": "Itajaí desembolsa R$ 39 milhões em gastos com programas ligados a Augusto Cury",
+      "publisher": "DIARINHO",
+      "url": "https://diarinho.net/materia/674946/Itajai-desembolsa-R--39-milhoes-em-gastos-com-programas-ligados-a-Augusto-Cury",
+      "publishedAt": "2026-09-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento local sobre gastos municipais com os programas."
+    },
+    {
+      "id": "src-ac-80",
+      "title": "Veja o que os candidatos pensam sobre política externa (seção Augusto Cury: Brics e China, Mercosul, OCDE, operações dos EUA, minerais críticos, Israel e Gaza, Estados Unidos)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Respostas enviadas pela campanha de Cury à Folha, tema a tema. Mesma matéria citada para Renan Santos (id src-rs-80)."
+    },
+    {
+      "id": "src-ac-81",
+      "title": "Biografia do autor — Augusto Cury: 'publicado em mais de 70 países', 30 milhões de livros vendidos",
+      "publisher": "Livraria Martins Fontes (material de editora/livraria)",
+      "url": "https://www.martinsfontespaulista.com.br/revolucione-sua-qualidade-de-vida-185753/p",
+      "publishedAt": "2011",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Texto promocional de editora sobre a obra do candidato (traduções e vendas). Usado apenas como apoio para a projeção internacional declarada; não é reportagem nem dado auditado."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2123,7 +2203,18 @@
     "augusto-cury: nomes da equipe econômica não divulgados por decisão declarada do candidato (Valor International, 04/09/2026).",
     "clariana-barao: documento autodeclarado preliminar; sem diagnóstico, linha de base e metas numéricas finais; total de promessas não contado item a item (dossiê independente enumera ao menos 30).",
     "samara-martins: registro no TSE foi feito com a versão de 2022 do programa e depois corrigido; a versão ampliada de 67 páginas não consta como o arquivo registrado no TSE nas fontes consultadas (o link oficial do TSE retornou bloqueio e o texto foi lido em espelho público da campanha).",
-    "renan-santos: apenas o resumo executivo de 51 páginas do Livro Amarelo está público; a obra integral (mais de 500 páginas) não foi analisada."
+    "renan-santos: apenas o resumo executivo de 51 páginas do Livro Amarelo está público; a obra integral (mais de 500 páginas) não foi analisada.",
+    "Renan Santos: sem evidência de coordenação institucional com órgãos de governo (nunca ocupou cargo no Executivo); a interlocução registrada é com setor empresarial, partidos e Justiça Eleitoral.",
+    "Leonardo Avalanche: não foram localizados documentos primários do PRTB (atas, estatuto em vigor, editais) sobre o congresso de 2025 e a retomada do comando em 2026; a reconstituição usa imprensa nacional e regional e o verbete.",
+    "Augusto Cury: não foram localizados relatórios de órgãos de controle (TCE, CADE, MP) sobre os contratos das empresas licenciadas com prefeituras, apenas levantamentos de imprensa; a situação atual das contratações municipais após setembro de 2026 não foi confirmada.",
+    "Clariana Barão: atas e deliberações nominais dos conselhos municipais de Várzea Grande (saúde, assistência social, saneamento) não foram obtidas; as páginas do veículo local com a cobertura da atuação como conselheira apresentaram bloqueio de acesso na coleta (WAF), com leitura por resumo indexado.",
+    "Samara Martins: não foram localizados documentos do partido (resoluções, notas) sobre a exclusão dos debates e sobre o plano de contingência da campanha; a evidência de recusa de debate com o PCO vem de publicação partidária adversária, sem confirmação independente.",
+    "Nenhum dos cinco candidatos exerceu ou exerce cargo executivo estatal (secretaria, ministério, prefeitura, governo), o que limita as evidências de coordenação institucional a arenas partidária, de campanha, associativa e empresarial.",
+    "renan-santos: sem posição localizada sobre Rússia/Ucrânia, Venezuela, Índia e arquitetura de segurança europeia; a obra completa do plano (500 páginas) não está pública — a extração usou o resumo executivo registrado no TSE.",
+    "leonardo-avalanche: nenhuma posição de política externa localizada em plano registrado, sabatinas e imprensa de 2026; nenhuma experiência internacional e nenhuma projeção em veículo estrangeiro de referência (apenas agregadores em inglês).",
+    "augusto-cury: sem posição localizada sobre Rússia/Ucrânia, Venezuela, África e Índia; afirmações de projeção internacional (livros em dezenas de países, prêmio na Academia Chinesa de Literatura, TOUCHPEACE em 100 países) vêm do próprio plano e de material promocional de editora, sem checagem independente.",
+    "clariana-barao: sem posição documentada sobre EUA, China, Brics, Mercosul, União Europeia, conflitos e clima; o plano registrado não tem capítulo de política externa e a entrevista à Sputnik Brasil (26/08/2026) tratou apenas de pauta doméstica.",
+    "grupo g2 (renan-santos, leonardo-avalanche, augusto-cury, clariana-barao): nenhum dos quatro tem passagem por governo federal, cargo diplomático ou negociação internacional conduzida em nome do Estado — a experiência internacional registrada é de interlocução como candidato (Renan Santos com o corpo diplomático e imprensa estrangeira) e de atividade editorial/programas sociais (Augusto Cury); para Avalanche e Clariana não há experiência internacional documentada."
   ],
   "capacities": [
     {
@@ -2674,6 +2765,474 @@
       "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
       "coverage": "parcial",
       "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "tomada-decisao",
+      "synthesis": "Escolheu o Avante em abril de 2026 após rodada de conversas com dirigentes de outras legendas e manteve candidatura própria quando as tratativas de aliança com o Novo não avançaram. Em 2020, decidiu vender 60% do controle da Escola da Inteligência à Arco Educação, mantendo o licenciamento da metodologia. Em 2026, decidiu não divulgar os nomes da equipe econômica durante a campanha.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-tomada-decisao-ac-01",
+          "kind": "historico",
+          "title": "Escolha do partido após conversas com dirigentes de outras legendas",
+          "role": "pré-candidato à Presidência; conduziu pessoalmente as conversas antes da filiação",
+          "complexity": "contatos relatados com ao menos 6 legendas (MDB, PSD, PSDB, Podemos, PSC e Novo) entre 2025 e 2026; decisão anunciada em abril de 2026",
+          "outcome": "filiação ao Avante e oficialização da candidatura em convenção nacional de 03/08/2026, com o ex-deputado Júlio Delgado como vice",
+          "period": "2026",
+          "context": "Legenda de porte médio (5 deputados federais e 1 senador em 2026), escolhida em vez de siglas com estrutura partidária estabelecida que também procuraram o candidato, conforme declaração dele.",
+          "sources": [
+            {
+              "id": "src-ac-09",
+              "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+              "publishedAt": "2026-04-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Filiação ao Avante; lista de políticos com quem conversou."
+            },
+            {
+              "id": "src-ac-50",
+              "title": "Escritor Augusto Cury se filia ao Avante para disputar a Presidência (afirmou ter conversado com dirigentes de outros partidos, como Gilberto Kassab)",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/eleicoes/2026/escritor-e-psiquiatra-augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+              "publishedAt": "2026-04-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-04",
+              "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+              "publishedAt": "2026-08-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção na Alesp; semipresidencialismo; aliança com Novo descartada."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-ac-02",
+          "kind": "historico",
+          "title": "Venda de 60% do controle da Escola da Inteligência à Arco Educação",
+          "role": "fundador e controlador da empresa até a operação",
+          "complexity": "transação de R$ 288 milhões por 60% da companhia (R$ 200 milhões à vista), anunciada em agosto de 2020; rede declarada de cerca de 900 escolas e 330 mil alunos; análise do CADE",
+          "outcome": "operação concluída em 02/12/2020, após aprovação final do CADE sem condicionantes; o método seguiu licenciado a redes públicas",
+          "period": "2020",
+          "context": "Decisão empresarial de abrir mão do controle acionário da empresa que criou, em troca de capital e de escala comercial.",
+          "sources": [
+            {
+              "id": "src-ac-48",
+              "title": "Arco Educação compra 60% da Escola da Inteligência por R$ 288 milhões",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/empresas/noticia/2020/08/28/arco-educacao-compra-60percent-da-escola-da-inteligencia-por-r-288-milhoes.ghtml",
+              "publishedAt": "2020-08-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-60",
+              "title": "Arco to acquire Escola da Inteligência",
+              "publisher": "Arco Platform Limited / GlobeNewswire",
+              "url": "https://globenewswire.com/news-release/2020/08/28/2085682/0/en/arco-to-acquire-escola-da-intelig%C3%AAncia.html",
+              "publishedAt": "2020-08-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Comunicado da companhia adquirente: solução de aprendizagem socioemocional baseada na Teoria da Inteligência Multifocal, criada por Augusto Cury; atendimento declarado de 330 mil alunos em cerca de 900 escolas; pagamento total de R$ 480 milhões; fechamento do negócio em 02/12/2020 após aprovação do CADE sem condicionantes."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-ac-03",
+          "kind": "historico",
+          "title": "Opção por não antecipar os nomes da equipe econômica",
+          "role": "candidato à Presidência; decisão declarada em entrevista e em evento com investidores",
+          "complexity": "decisão declarada em 10/09/2026, em evento na Genial Investimentos, em São Paulo; plano de governo registrado no TSE com 18 tópicos",
+          "outcome": "candidato afirmou ter conversas com Mansueto Almeida e Marcos Lisboa sem apontar favorito; a equipe econômica não havia sido divulgada até 29/09/2026",
+          "period": "2026-09",
+          "context": "Momento de discussão sobre credibilidade econômica da candidatura; a não divulgação evita antecipar nomes e mantém indefinição sobre a equipe.",
+          "sources": [
+            {
+              "id": "src-ac-70",
+              "title": "Eu não posso falar agora quem será meu ministro da Fazenda, diz Cury",
+              "publisher": "Terra",
+              "url": "https://www.terra.com.br/noticias/brasil/politica/eu-nao-posso-falar-agora-quem-sera-meu-ministro-da-fazenda-diz-cury,592015a4e2ec42e54e8b81c787b78dc78slktabp.html",
+              "publishedAt": "2026-09-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Declaração em encontro na Genial Investimentos, em São Paulo."
+            },
+            {
+              "id": "src-ac-71",
+              "title": "Cury evita dizer quem pretende indicar para Ministério da Fazenda",
+              "publisher": "R7",
+              "url": "https://noticias.r7.com/eleicoes/2026/cury-evita-dizer-quem-pretende-indicar-para-ministerio-da-fazenda-10092026/",
+              "publishedAt": "2026-09-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Candidato afirma ter conversas com Mansueto Almeida e Marcos Lisboa, sem apontar favorito."
+            },
+            {
+              "id": "src-ac-51",
+              "title": "Cury avoids naming economy chief to sidestep 'controversy' (recusa em anunciar nomes do ministério; promete convidar especialistas)",
+              "publisher": "Valor International",
+              "url": "https://valorinternational.globo.com/politics/news/2026/09/04/cury-avoids-naming-economy-chief-to-sidestep-controversy.ghtml",
+              "publishedAt": "2026-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-ac-04",
+          "kind": "historico",
+          "title": "Manutenção de chapa própria após conversas com o Novo não avançarem",
+          "role": "candidato à Presidência; tratativas conduzidas com dirigentes do Novo",
+          "complexity": "1 legenda envolvida (Novo), com conversas relatadas em agosto de 2026 e encontro com o presidenciável da sigla",
+          "outcome": "composição praticamente descartada e chapa mantida com Júlio Delgado (Avante); candidatura própria preservada",
+          "period": "2026-08",
+          "context": "Cenário de negociação entre candidaturas de terceira via; a decisão manteve a chapa já registrada.",
+          "sources": [
+            {
+              "id": "src-ac-04",
+              "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+              "publishedAt": "2026-08-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção na Alesp; semipresidencialismo; aliança com Novo descartada."
+            },
+            {
+              "id": "src-ac-62",
+              "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+              "publishedAt": "2026-08-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Tomada de decisão",
+      "question": "Como enfrentou decisões difíceis, trade-offs e pressão?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "gestao-crises",
+      "synthesis": "Respondeu, em setembro de 2026, à controvérsia sobre o doutorado citado no plano registrado no TSE (divergência com o currículo Lattes, sem resposta da assessoria às redações) e à omissão de três empresas na declaração de bens, admitida pela campanha como erro com anúncio de retificação. Também passou a responder por levantamentos sobre contratos públicos das empresas que licenciam sua metodologia a prefeituras, que resultaram na substituição dos programas em ao menos um município.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-gestao-crises-ac-01",
+          "kind": "historico",
+          "title": "Controvérsia sobre o doutorado citado no plano registrado no TSE",
+          "role": "candidato; documento registrado pela própria campanha no TSE",
+          "complexity": "divergência entre a titulação descrita no plano (doutorado em Psicologia Multifocal, 2013) e o currículo Lattes (DBA em Administração); reportagens de Folha e Valor em 01/09/2026",
+          "outcome": "sem processo, sanção ou decisão judicial localizada até 29/09/2026; em julho de 2026 o candidato já havia afirmado em direito de resposta que não apresenta o título como doutorado acadêmico",
+          "period": "2026-07 a 2026-09",
+          "context": "Crise em documento oficial de campanha, sem consequência jurídica localizada nas fontes.",
+          "sources": [
+            {
+              "id": "src-ac-11",
+              "title": "Cury se contradiz sobre doutorado em psicologia / Augusto Cury declara doutorado em psicologia que não fez",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml",
+              "publishedAt": "2026-09-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Detalha a divergência entre plano de governo e Lattes e a falta de acreditação da FCU."
+            },
+            {
+              "id": "src-ac-12",
+              "title": "Cury inclui no currículo entregue ao TSE doutorado internacional que não teria feito",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/cury-inclui-no-curriculo-entregue-ao-tse-doutorado-internacional-que-nao-teria-feito.ghtml",
+              "publishedAt": "2026-09-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Título do plano: 'O Brasil dos Nossos Sonhos'; LinkedIn: pós-graduação PUC-SP e Marmottan."
+            },
+            {
+              "id": "src-ac-13",
+              "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+              "publisher": "Observatório da Imprensa",
+              "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+              "publishedAt": "2026-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Declaração do candidato sobre formação (DBA, PUC-SP, Illes Balears)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-gestao-crises-ac-02",
+          "kind": "historico",
+          "title": "Omissão de empresas na autodeclaração de bens e anúncio de retificação",
+          "role": "candidato; resposta dada pela campanha em nota",
+          "complexity": "3 empresas nos Estados Unidos não informadas ao TSE; patrimônio declarado de R$ 242,2 milhões; divulgação em 05-06/09/2026",
+          "outcome": "campanha classificou as ausências como inconsistências pontuais e informou que retificaria a declaração à Justiça Eleitoral",
+          "period": "2026-09",
+          "context": "Divulgação inicial pela imprensa; campanha afirmou que as participações têm peso inexpressivo no patrimônio declarado.",
+          "sources": [
+            {
+              "id": "src-ac-65",
+              "title": "Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/augusto-cury-nao-declarou-tres-empresas-nos-eua-ao-tse-campanha-diz-que-e-erro-e-corrigira-dados.ghtml",
+              "publishedAt": "2026-09-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Participações societárias em Cury Academia Comportamental, Contemplare Investments e Free Mind Publish."
+            },
+            {
+              "id": "src-ac-72",
+              "title": "Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/eleicoes/augusto-cury-omitiu-empresas-nos-estados-unidos-e-no-brasil-em-declaracao-ao-tse/",
+              "publishedAt": "2026-09-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Patrimônio declarado de R$ 242,2 milhões; empresas na Flórida e no Brasil não constavam da autodeclaração; campanha diz que corrigirá."
+            },
+            {
+              "id": "src-ac-49",
+              "title": "Gastos de campanha: presidenciáveis já declararam R$ 74 milhões (Cury: R$ 55,2 mil; hospedagem de dois funcionários de segurança e da equipe de apoio)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-prestacao-parcial-campanha.ghtml",
+              "publishedAt": "2026-09-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-gestao-crises-ac-03",
+          "kind": "historico",
+          "title": "Contratos públicos das empresas que licenciam a metodologia e substituição de programa em município",
+          "role": "criador da metodologia; as empresas contratadas respondem pelos acordos com prefeituras",
+          "complexity": "levantamentos de imprensa apontaram 25 contratos em 10 estados e 28 acordos com prefeituras entre 2023 e 2026 (R$ 19,9 milhões), com dispensa de licitação em 4 estados; em Itajaí, a prefeitura substituiu os programas por outro, com 27 mil estudantes abrangidos",
+          "outcome": "candidato afirmou que os negócios são regulares e comprometeu-se a não manter contratos federais de suas empresas em eventual governo; gastos municipais com os programas foram de R$ 39 milhões em Itajaí",
+          "period": "2017-2026",
+          "context": "Interface entre atividade empresarial anterior à candidatura e administração pública municipal; sem decisão judicial localizada nas fontes desta rodada.",
+          "sources": [
+            {
+              "id": "src-ac-47",
+              "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+              "publisher": "Revista Fórum — Fórum Investiga",
+              "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+              "publishedAt": "2026-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-73",
+              "title": "Empresa da filha de Augusto Cury faturou R$ 19,9 mi em negócios com prefeituras",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/empresa-da-filha-de-augusto-cury-faturou-r-199-mi-em-negocios-com-prefeituras.shtml",
+              "publishedAt": "2026-09-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento aponta 28 acordos com prefeituras entre 2023 e 2026, todos com dispensa de licitação, em quatro estados; candidato afirma que os negócios são regulares e que não manterá contratos federais."
+            },
+            {
+              "id": "src-ac-74",
+              "title": "Programa de Augusto Cury é cancelado em Itajaí",
+              "publisher": "DIARINHO",
+              "url": "https://diarinho.net/materia/675213/Programa-de-Augusto-Cury-e-cancelado-em-Itajai",
+              "publishedAt": "2026-09-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Prefeitura substituiu os programas 'Escola da Inteligência' e 'Gênios Socioemocional' pelo 'Vida na Escola', abrangendo 27 mil estudantes."
+            },
+            {
+              "id": "src-ac-75",
+              "title": "Itajaí desembolsa R$ 39 milhões em gastos com programas ligados a Augusto Cury",
+              "publisher": "DIARINHO",
+              "url": "https://diarinho.net/materia/674946/Itajai-desembolsa-R--39-milhoes-em-gastos-com-programas-ligados-a-Augusto-Cury",
+              "publishedAt": "2026-09-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento local sobre gastos municipais com os programas."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Gestão de crises e mudança",
+      "question": "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "coordenacao-institucional",
+      "synthesis": "Aprovou junto ao CADE a venda do controle da Escola da Inteligência sem condicionantes e manteve, por meio das empresas licenciadas, relação contratual com secretarias municipais de educação em vários estados (contratações por dispensa de licitação e inexigibilidade registradas em diários oficiais). No campo político, conduziu conversas com outras legendas antes de escolher o Avante e manteve relação com o setor religioso em agenda de campanha.",
+      "coverageNote": "Trajetória sem cargo público: a coordenação institucional ocorre com órgão regulador federal (CADE), secretarias municipais de educação contratantes e o sistema partidário; 4 evidências, sem atos de governo entre esferas.",
+      "evidences": [
+        {
+          "id": "ev-cap-coordenacao-institucional-ac-01",
+          "kind": "historico",
+          "title": "Passagem da operação societária pelo CADE sem condicionantes",
+          "role": "fundador e controlador da Escola da Inteligência até a venda à Arco Educação",
+          "complexity": "1 processo de concentração analisado pelo CADE; rede declarada de cerca de 900 escolas e 330 mil alunos; operação de R$ 288 milhões por 60% do capital",
+          "outcome": "aprovação final do CADE em 02/12/2020 sem restrições; fechamento da operação na mesma data",
+          "period": "2020",
+          "context": "Relação com órgão regulador federal de defesa da concorrência em operação de grande porte no setor de educação.",
+          "sources": [
+            {
+              "id": "src-ac-60",
+              "title": "Arco to acquire Escola da Inteligência",
+              "publisher": "Arco Platform Limited / GlobeNewswire",
+              "url": "https://globenewswire.com/news-release/2020/08/28/2085682/0/en/arco-to-acquire-escola-da-intelig%C3%AAncia.html",
+              "publishedAt": "2020-08-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Comunicado da companhia adquirente: solução de aprendizagem socioemocional baseada na Teoria da Inteligência Multifocal, criada por Augusto Cury; atendimento declarado de 330 mil alunos em cerca de 900 escolas; pagamento total de R$ 480 milhões; fechamento do negócio em 02/12/2020 após aprovação do CADE sem condicionantes."
+            },
+            {
+              "id": "src-ac-48",
+              "title": "Arco Educação compra 60% da Escola da Inteligência por R$ 288 milhões",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/empresas/noticia/2020/08/28/arco-educacao-compra-60percent-da-escola-da-inteligencia-por-r-288-milhoes.ghtml",
+              "publishedAt": "2020-08-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-ac-02",
+          "kind": "historico",
+          "title": "Relação contratual das empresas licenciadas com secretarias municipais de educação",
+          "role": "criador da metodologia; empresas contratadas com prefeituras em vários estados",
+          "complexity": "contratos registrados em diários oficiais e levantamentos de imprensa: 25 instrumentos em 10 estados e 28 acordos entre 2023 e 2026, com dispensa de licitação em 4 estados; valores por contrato, como R$ 21,8 milhões em Itajaí e R$ 155 mil por palestra em município de Mato Grosso",
+          "outcome": "programas em funcionamento em várias redes até 2026, com substituição em Itajaí; campanha comprometeu-se a não manter contratos federais das empresas",
+          "period": "2017-2026",
+          "context": "Arena municipal de educação: contratação direta por dispensa ou inexigibilidade de licitação, conforme registros oficiais citados nas reportagens.",
+          "sources": [
+            {
+              "id": "src-ac-47",
+              "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+              "publisher": "Revista Fórum — Fórum Investiga",
+              "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+              "publishedAt": "2026-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-61",
+              "title": "Empresa de Goiânia movimentou R$ 30 milhões com metodologia de Augusto Cury em contratos públicos",
+              "publisher": "Jornal Opção",
+              "url": "https://www.jornalopcao.com.br/ultimas-noticias/empresa-de-goiania-movimentou-r-30-milhoes-com-metodologia-de-augusto-cury-em-contratos-publicos-865216/",
+              "publishedAt": "2026-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento aponta 25 contratos e instrumentos em dez estados; maior volume em Itajaí, com cinco acordos somando R$ 21,8 milhões."
+            },
+            {
+              "id": "src-ac-73",
+              "title": "Empresa da filha de Augusto Cury faturou R$ 19,9 mi em negócios com prefeituras",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/empresa-da-filha-de-augusto-cury-faturou-r-199-mi-em-negocios-com-prefeituras.shtml",
+              "publishedAt": "2026-09-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento aponta 28 acordos com prefeituras entre 2023 e 2026, todos com dispensa de licitação, em quatro estados; candidato afirma que os negócios são regulares e que não manterá contratos federais."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-ac-03",
+          "kind": "historico",
+          "title": "Rodada de conversas com outras legendas antes da definição partidária",
+          "role": "pré-candidato; interlocução conduzida diretamente com dirigentes partidários",
+          "complexity": "ao menos 6 legendas procuradas (MDB, PSD, PSDB, Podemos, PSC e Novo), com reuniões relatadas em 2025 e 2026",
+          "outcome": "filiação ao Avante em abril de 2026 e manutenção da candidatura própria, com recusa de composição no Novo",
+          "period": "2025-2026",
+          "context": "Relação entre legendas na fase de pré-campanha, quando a escolha do partido definia tempo de propaganda e estrutura disponível.",
+          "sources": [
+            {
+              "id": "src-ac-41",
+              "title": "Augusto Cury diz que falou com Kassab sobre disputar a Presidência: 'conversei longamente'",
+              "publisher": "UOL",
+              "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/04/06/conversei-longamente-com-kassab-diz-augusto-cury-sobre-pre-candidatura.ghtm",
+              "publishedAt": "2026-04-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-09",
+              "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+              "publishedAt": "2026-04-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Filiação ao Avante; lista de políticos com quem conversou."
+            },
+            {
+              "id": "src-ac-62",
+              "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+              "publishedAt": "2026-08-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-ac-04",
+          "kind": "historico",
+          "title": "Agenda com lideranças religiosas durante a campanha",
+          "role": "candidato à Presidência; presença em evento de igreja e resposta pública a pedidos de voto atribuídos a ele",
+          "complexity": "1 evento na Assembleia de Deus, em setembro de 2026, com repercussão sobre suposto pedido de voto de liderança religiosa",
+          "outcome": "candidato negou, no próprio evento, ter pedido votos ao pastor e manteve a agenda com o setor religioso",
+          "period": "2026-09",
+          "context": "Relação com instituição religiosa em ano eleitoral, registrada por reportagem nacional.",
+          "sources": [
+            {
+              "id": "src-ac-40",
+              "title": "Em evento na Assembleia de Deus, Cury nega ter pedido votos e diz já ser próximo de evangélicos",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/em-evento-na-assembleia-de-deus-cury-nega-ter-pedido-votos-e-diz-ja-ser-proximo-de-evangelicos.shtml",
+              "publishedAt": "2026-09-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ],
+      "name": "Coordenação institucional",
+      "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
     }
   ],
   "countryProject": {
@@ -2760,5 +3319,55 @@
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
     "methodology": "Extração direta do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas, lido a partir do espelho público em PDF; sumário com 18 projetos e capítulo final de apresentação do candidato), com complemento de Agência Brasil (18 áreas), GZH, Band e Nexo. As sete prioridades listadas correspondem a capítulos próprios do documento e a eixos repetidos em entrevistas de 2026. O que não foi possível extrair: custo e fonte de financiamento por projeto, metas quantificadas de cada projeto (o documento prioriza teses e programas; a meta quantitativa mais explícita localizada é o ganho real do salário mínimo) e os nomes da equipe econômica, que o candidato declarou evitar divulgar."
+  },
+  "foreignPolicy": {
+    "worldView": "Posições declaradas tema a tema à Folha (12/09/2026). Brics e China: 'Não tiro o Brasil do Brics. Tiro o Brasil do papel que ele aceitou dentro do Brics' — quer manter o bloco como plataforma de comércio e financiamento e retirar a agenda geopolítica: 'o Brasil não tem por que assinar declaração sobre desdolarização, sobre arquitetura de segurança global ou sobre disputa entre grandes potências. Essas não são as nossas brigas, e cada vez que entramos nelas nós pagamos a conta em tarifa, não em prestígio'. Mercosul: propõe flexibilizar, retirando a exigência de negociação em bloco, com avanço em velocidades diferentes para permitir acordos de livre comércio ('o Brasil tem menos acordos de livre comércio que Chile, Peru e Colômbia... a décima economia do mundo negociando como se fosse uma ilha'). Estados Unidos: diz que a relação foi 'judicializada e politizada' e que 'quem pagou a conta foi o produtor de café, o fabricante de calçado e o operário de móvel'; defende retomar negociação com Trump em nível técnico — 'não se negocia com ele por microfone' — e diversificar parceiros comerciais para 'não ficar refém do humor de qualquer presidente americano'. Cooperação policial: quer FBI e DEA 'trabalhando ao lado da nossa Polícia Federal, não no lugar dela' (sem operações estrangeiras em solo brasileiro). OCDE: retomar a acessão 'desde o primeiro mês', tratada como 'selo de previsibilidade' e não clube de prestígio. Minerais críticos: não apoia restrição a capital estrangeiro, mas exige processamento no Brasil — 'quem quiser extrair mineral crítico e terra rara no Brasil, refina no Brasil e agrega valor no Brasil, com prazo e meta contratual. A Indonésia fez isso com o níquel'. Israel e Gaza: defende retomar relações diplomáticas plenas ('Israel é um parceiro histórico e não é papel do Brasil romper com um país democrático'), reconhece o direito do povo palestino a um Estado e diz que 'a guerra na Faixa de Gaza tem de terminar urgente'. No plano registrado, o capítulo 'Relações internacionais e diplomacia estratégica' declara: política externa 'ativa, equilibrada e pragmática', tratada como política de Estado; 'Brasil como potência diplomática global' com ampliação de influência em fóruns globais; 'Embaixada 4.0' (representação voltada também à promoção de negócios); diversificação de mercados e redução de dependências externas; diplomacia climática e ambiental com a Amazônia como ativo estratégico; 'cooperação Sul-Sul e multilateralismo'; proteção de interesses estratégicos em comércio, energia, tecnologia e recursos naturais 'sem manifestações agressivas'. Cooperação internacional contra o crime organizado transnacional com países vizinhos e organismos internacionais, e ampliação da atuação das Forças Armadas no controle de fronteiras. No agro, o plano propõe convidar Israel para liderar um eixo de irrigação de precisão e a China para liderar um eixo de mecanização leve, drones e automação. Não foram localizadas posições sobre Rússia/Ucrânia, Venezuela, África, Índia ou arquitetura de segurança europeia.",
+    "strategy": "Comércio e investimento com foco em exportação e previsibilidade: no plano registrado, meta declarada de 'dobrar o comércio do Brasil com o mundo em oito anos' e de aumentar a participação de produtos industrializados; redistribuição de quadros diplomáticos — deslocar cerca de 20% do efetivo lotado nos Estados Unidos para a Índia e outros mercados asiáticos e cerca de 10% do efetivo na Europa para a China e o Oriente Médio, por critérios técnicos de comércio bilateral, investimentos, inovação e turismo; reestruturação do Ministério das Relações Exteriores, com o chanceler renomeado 'Secretário de Estado' e embaixadas convertidas em 'plataformas 4.0' de diplomacia, comércio e investimento. Recursos naturais/tecnologia: agregar valor a terras raras e minerais estratégicos, atraindo investimento e tecnologia para processar em território brasileiro (projeto 'PETRA BR', Atlas Brasileiro de Minerais Críticos); soberania digital, chips e indústria farmacêutica para reduzir dependência externa. Clima e alimentação: diplomacia climática com a Amazônia como ativo; proposta de fundo global de combate à fome administrado com a ONU, FAO, Programa Mundial de Alimentos, Banco Mundial e países do G20, com metas e auditoria independente. Cooperação em segurança: mais cooperação policial com os EUA (FBI e DEA 'ao lado', não 'no lugar' da PF) e com países vizinhos contra o crime transnacional, sem operações estrangeiras em solo brasileiro.",
+    "internationalExperience": "Sem passagem por governo, sem cargo diplomático e sem negociação internacional conduzida em nome do Estado — 2026 é sua primeira candidatura a cargo público. A experiência internacional documentada é de outra natureza e declarada por ele mesmo: (a) obra editorial publicada no exterior — o plano registrado afirma que seus livros 'já foram publicados em dezenas de países' e que recebeu em 2009 o prêmio de melhor ficção do ano da Academia Chinesa de Literatura por 'O Vendedor de Sonhos', adaptado ao cinema em 2016; texto biográfico de editora/livraria registra 'publicado em mais de 70 países' (material promocional, não auditado); (b) programa social com alcance internacional declarado no plano: o 'TOUCHPEACE', descrito como presente gratuitamente em mais de 100 países, incluindo EUA, China e América Latina; (c) interlocução com imprensa estrangeira (Valor International, 04/09/2026). Não foi localizado registro de acordo, fórum multilateral, mediação ou negociação internacional conduzida por ele.",
+    "projection": "Cobertura em veículo estrangeiro: entrevista ao Valor International (04/09/2026), em inglês, sobre a recusa em anunciar a equipe econômica — matéria de política doméstica, não de política externa. A projeção internacional é declarada por ele e por sua editora: livros publicados 'em mais de 70 países', prêmio da Academia Chinesa de Literatura (2009) e programa TOUCHPEACE presente em mais de 100 países. Não foram localizadas, nas fontes consultadas, participação em fórum global, convite institucional internacional ou interlocução documentada com liderança estrangeira durante a campanha de 2026.",
+    "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
+    "sources": [
+      {
+        "id": "src-ac-80",
+        "title": "Veja o que os candidatos pensam sobre política externa (seção Augusto Cury: Brics e China, Mercosul, OCDE, operações dos EUA, minerais críticos, Israel e Gaza, Estados Unidos)",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+        "publishedAt": "2026-09-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Respostas enviadas pela campanha de Cury à Folha, tema a tema. Mesma matéria citada para Renan Santos (id src-rs-80)."
+      },
+      {
+        "id": "src-ac-23",
+        "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+        "publisher": "Poder360 (cópia do documento da campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-ac-51",
+        "title": "Cury avoids naming economy chief to sidestep 'controversy' (recusa em anunciar nomes do ministério; promete convidar especialistas)",
+        "publisher": "Valor International",
+        "url": "https://valorinternational.globo.com/politics/news/2026/09/04/cury-avoids-naming-economy-chief-to-sidestep-controversy.ghtml",
+        "publishedAt": "2026-09-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-ac-81",
+        "title": "Biografia do autor — Augusto Cury: 'publicado em mais de 70 países', 30 milhões de livros vendidos",
+        "publisher": "Livraria Martins Fontes (material de editora/livraria)",
+        "url": "https://www.martinsfontespaulista.com.br/revolucione-sua-qualidade-de-vida-185753/p",
+        "publishedAt": "2011",
+        "accessedAt": "2026-09-29",
+        "sourceType": "editorial",
+        "notes": "Texto promocional de editora sobre a obra do candidato (traduções e vendas). Usado apenas como apoio para a projeção internacional declarada; não é reportagem nem dado auditado."
+      }
+    ],
+    "evidenceStatus": "parcial",
+    "confidenceLevel": "medium",
+    "methodology": "Extração do capítulo 15 ('Relações internacionais e diplomacia estratégica') e dos projetos de exportação, terras raras, segurança e agro do plano registrado no TSE 'O Brasil dos Nossos Sonhos' (200 páginas, lido integralmente a partir do espelho público em PDF), com cruzamento das respostas da campanha à Folha (12/09/2026). Confiança média: a política externa aparece em um capítulo do plano e em respostas pontuais à imprensa, sem custo, cronograma ou metas quantificadas por item (a única meta numérica localizada é dobrar o comércio com o mundo em oito anos). As afirmações de projeção internacional (livros em dezenas de países, prêmio na China, TOUCHPEACE em 100 países) vêm do próprio plano e de texto promocional de editora, sem checagem independente nesta rodada — por isso estão declaradas como declaração. Não há posição documentada localizada sobre Rússia/Ucrânia, Venezuela, África, Índia ou segurança europeia, e nenhuma posição foi inferida do partido Avante."
   }
 }

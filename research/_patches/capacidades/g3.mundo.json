@@ -1,73 +1,330 @@
 {
   "grupo": "g3",
   "escopo": "capacidade:mundo",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-sm-60",
+      "title": "PEB NAS URNAS 2026: Samara Martins – Unidade Popular (UP)",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-samara-martins-unidade-popular-up/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do programa da UP no projeto 'PEB nas Urnas 2026' (autoras Dara Maria Marques da Silva e Eliza Odila Conceição Silva Donda). Registra a seção 'Solidariedade Internacionalista' e a 'Política Externa Anti-Imperialista', o rompimento com Israel, o apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen e os temas em que o documento oferece menos detalhamento (BRICS, Mercosul, ONU, integração regional)."
+    },
+    {
+      "id": "src-sm-61",
+      "title": "OCDE, Brics e Mercosul: as apostas dos presidenciáveis para o Brasil no mundo",
+      "publisher": "R7 Planalto (Record)",
+      "url": "https://noticias.r7.com/prisma/r7-planalto/sair-do-brics-e-romper-com-israel-as-propostas-de-politica-externa-dos-candidatos-a-presidencia-02092026/",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Resumo, por candidato, das propostas de política externa dos planos registrados. Trecho de Samara Martins (UP): rompimento de tratados de submissão militar e econômica aos EUA, à OTAN ou à China; rejeição do acordo Mercosul–União Europeia; rompimento de relações diplomáticas, militares e comerciais com Israel; apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen, com envio solidário de petróleo a Cuba; estatização e transferência do comércio exterior para órgãos do Estado e proibição de remessa de lucros, dividendos e royalties."
+    },
+    {
+      "id": "src-ec-60",
+      "title": "PEB NAS URNAS: Edmilson Costa (PCB)",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-edmilson-costa/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do programa do PCB (autores Clara Parra Dias, Leonardo Cezar Tesser e Patricia Lima Rego). Descreve a diretriz de ruptura revolucionária, a leitura Norte-Sul, a ausência de detalhamento sobre BRICS, governança climática e mecanismos de interdependência econômica global."
+    },
+    {
+      "id": "src-ec-61",
+      "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/16925",
+      "publishedAt": "2017-11-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Registro do próprio partido: o PCB enviou delegação ao XIX Encontro Internacional de Partidos Comunistas e Operários, em Petrogrado (ex-Leningrado) e Moscou, Rússia, no ano do centenário da Revolução de 1917. A delegação era composta por Edmílson Costa (secretário-geral), Edílson Neves (secretário de Organização), Eduardo Serra (secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); a intervenção do PCB no Encontro foi proferida por Eduardo Serra."
+    },
+    {
+      "id": "src-ec-62",
+      "title": "Edmilson Costa, Secretário Internacional do PCB, no Congresso do Partido Comunista Colombiano",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/3224",
+      "publishedAt": "2012-07-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Publicação do PCB (categoria Colômbia) informando a presença de Edmilson Costa, então secretário de Relações Internacionais, no congresso do Partido Comunista Colombiano. A intervenção em nome do PCB no congresso colombiano é registrada também em transcrição de divulgação partidária (gracietesantana.blogspot.com, jul/2012)."
+    },
+    {
+      "id": "src-ec-63",
+      "title": "Radical Socialist Visions Shape Foreign Policy Debate in Brazil's 2026 Presidential Race",
+      "publisher": "Brazil in English",
+      "url": "https://brazilinenglish.com/p/radical-socialist-visions-shape-foreign-policy-debate-in-brazil-s-2026-presidential-race",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Publicação em inglês que traduz e sintetiza os artigos do OPEB sobre Edmilson Costa (PCB) e Hertz Dias (PSTU). Cobre a proposta anti-imperialista do PCB, a soberania econômica e digital do PSTU e as lacunas de estratégia diplomática multilateral apontadas nas análises de origem."
+    },
+    {
+      "id": "src-hd-60",
+      "title": "PEB NAS URNAS 2026: Hertz Dias (PSTU)",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-hertz-dias-pstu/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano do PSTU (autores Marcelo Balloti Monteiro e Laís Eugênio Lobue dos Santos). Descreve imperialismo e dependência como categorias estruturantes, a soberania digital (vedação de dados governamentais sensíveis em servidores privados internacionais e IA pública nacional), a crítica ao acordo Mercosul–União Europeia e as lacunas do documento (ONU, OMC, G20, BRICS, Mercosul, agenda bilateral sul-americana, defesa e clima)."
+    },
+    {
+      "id": "src-rp-82",
+      "title": "PEB nas Urnas 2026: Rui Costa Pimenta (PCO)",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-rui-costa-pimenta-pco/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do programa do PCO (autores Michel Adriano Szurkalo e Scarlett Rodrigues da Cunha). Trata dívidas de empresas, taxação de grandes fortunas, reestatizações, Petrobras 100% estatal, terras raras (Brasil com 23% das reservas globais) e da necessidade de articulação multilateral, citando o comércio bilateral no BRICS como caminho sem detalhamento de instrumentos no plano."
+    },
+    {
+      "id": "src-rp-83",
+      "title": "About — Partido da Causa Operária (versão em inglês da página institucional do partido)",
+      "publisher": "Partido da Causa Operária (PCO)",
+      "url": "https://pco.org.br/about",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Página institucional em inglês. Afirma: apoio à Rússia desde o início da operação militar na Ucrânia (2022), com envio de dois correspondentes ao Donbass; apoio ao Hamas desde 07/10/2023, quando Rui Costa Pimenta declarou o partido '1.000% com o Hamas'; em fevereiro de 2024, delegação chefiada por Rui Pimenta foi ao Catar e se reuniu com o bureau político do Hamas, incluindo Ismail Haniyeh, encontro do qual resultou o livro 'O Hamas conta seu lado da história'. Data exata da publicação não informada na página."
+    },
+    {
+      "id": "src-rp-84",
+      "title": "O que Rui Costa Pimenta conversou com o líder do Hamas?",
+      "publisher": "Diário Causa Operária (PCO)",
+      "url": "https://causaoperaria.org.br/2024/o-que-rui-costa-pimenta-conversou-com-o-lider-do-hamas/",
+      "publishedAt": "2024-02-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Registra o retorno de Rui Costa Pimenta ao Brasil 'após mais de 10 dias no Catar, onde se reuniu com lideranças do movimento de resistência palestino, incluindo Ismail Hanié'. A página respondeu HTTP 403 à requisição por linha de comando (WAF); trecho obtido por resultado de busca em 29/09/2026."
+    },
+    {
+      "id": "src-rp-85",
+      "title": "PCO monta palanque para chefe do Hamas",
+      "publisher": "O Antagonista",
+      "url": "https://oantagonista.com.br/mundo/pco-monta-palanque-para-chefe-do-hamas/",
+      "publishedAt": "2024-03-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de Murilo Pavini (03/03/2024) sobre a divulgação pelo PCO, em vídeo, de mensagem de Ismail Haniyeh ao público brasileiro, no contexto do encontro da delegação do partido no Catar."
+    },
+    {
+      "id": "src-rp-86",
+      "title": "PCO diz que está '1.000% com o Hamas'",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/partidos-politicos/pco-diz-que-esta-1-000-com-o-hamas",
+      "publishedAt": "2023-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a declaração do PCO de apoio ao Hamas ('1.000% com o Hamas') e a comparação feita pelo partido. A página respondeu HTTP 403 à requisição por linha de comando; título e trecho obtidos por resultado de busca em 29/09/2026. Data exata do dia não capturada."
+    },
+    {
+      "id": "src-wg-76",
+      "title": "PEB nas Urnas: Wilson Grassi (Democrata)",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-wilson-grassi-democrata/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano 'Brasil em Primeiro Lugar' (autores Paulo Vitor Nascimento dos Santos e Pedro Henrique Thuler de Oliveira). Reproduz os cinco tópicos de política externa do documento e o adendo sobre cooperação fronteiriça: rejeição de acordos que não abram mercados; reciprocidade a barreiras sanitárias ou tarifárias; contrapartida em conteúdo nacional, tecnologia e emprego para investimento estrangeiro em setor estratégico; posição em foro multilateral caso a caso, 'por conveniência nacional declarada, e não por alinhamento automático'; diplomacia comercial e sanitária com presença técnica permanente nos países compradores. Registra também que o plano declara que doutrina e diplomacia serão tratadas com o Itamaraty após a posse."
+    },
+    {
+      "id": "src-wg-77",
+      "title": "Eleição 2026: quais são as propostas dos candidatos?",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento por candidato e por tema, com capítulo de política externa. Para Wilson Grassi (Democrata): atuação internacional baseada no interesse brasileiro, inclusive em negociações comerciais, ambientais, sanitárias, tecnológicas e de defesa; cooperação com países vizinhos para combater crimes transfronteiriços; defesa sanitária, rastreabilidade da produção agropecuária e padrões de bem-estar animal compatíveis com exigências internacionais, com diplomacia sanitária para abrir e reabrir mercados. Data exata da publicação não capturada."
+    }
+  ],
   "candidates": {
     "samara-martins": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
+        "worldView": "O documento da UP ('Programa da Unidade Popular pelo Socialismo', versão de 67 páginas divulgada pela campanha) descreve a ordem internacional como assimétrica e associa guerras e conflitos à disputa por mercados, recursos naturais, petróleo, rotas comerciais e áreas de influência, citando a guerra da Ucrânia, Gaza, o Irã e o Estreito de Ormuz, o Saara Ocidental e a ação militar dos Estados Unidos na Venezuela em janeiro de 2026. O anti-imperialismo declarado não se limita aos Estados Unidos: a seção 'Política Externa Anti-Imperialista' propõe o rompimento de tratados de submissão militar e econômica 'aos Estados Unidos, OTAN ou China', rejeita o acordo Mercosul–União Europeia e o acordo em discussão com a China, e defende a 'total independência econômica do Brasil frente aos países imperialistas'. Sobre Israel e Palestina, propõe o rompimento de relações diplomáticas, militares e comerciais com Israel enquanto persistirem as condições que o próprio documento qualifica como genocídio e apartheid, e manifesta apoio aberto a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen, com crítica ao bloqueio a Cuba e proposta de envio solidário de petróleo brasileiro. A Amazônia aparece como território sob 'controle popular', com expulsão dos monopólios estrangeiros, e nióbio e terras raras são apresentados como recursos disputados por Estados Unidos, União Europeia e China; em declaração reproduzida no programa, a candidata afirma: 'É vergonhoso ver outros candidatos à Presidência do Brasil disputarem quem é mais amigo do presidente fascista Donald Trump, quem deles é que vai entregar as terras raras brasileiras aos Estados Unidos'. Não há no documento posição sobre África, Ásia, Oriente Médio fora do eixo palestino nem sobre regimes de segurança internacional.",
+        "strategy": "Os objetivos declarados são de ruptura: independência econômica frente aos países descritos como imperialistas; estatização e transferência do comércio exterior para órgãos do Estado; proibição de remessa de lucros, dividendos e royalties ao exterior sem autorização estatal; anulação de dívidas do Estado contraídas com capitalistas estrangeiros; fim da 'sangria' de recursos nacionais; e cooperação internacional baseada em igualdade, soberania e autodeterminação. O levantamento do R7 (02/09/2026) e a análise do OPEB (27/09/2026) registram que o programa não detalha instrumentos de comércio, investimento ou integração regional: não há proposta específica para o Mercosul (além da rejeição ao acordo com a União Europeia), para o BRICS, para a ONU ou para cooperação técnica Sul-Sul.",
+        "internationalExperience": "Não foi localizado registro de negociação internacional conduzida, de participação em delegação, fórum multilateral ou acordo firmado por Samara Martins ou pelo UP nas fontes consultadas (perfis de Nexo, Folha, Agência Brasil e CNN, análise do OPEB e entrevistas de 2026). A experiência internacional associada à candidata é de natureza programática — o programa partidário que orienta sua candidatura — e de posicionamento público em entrevistas. O UP, partido presidido por Leonardo Péricles, do qual ela é vice-presidente nacional, registrou a chapa de 2026 como partido isolado (sem coligação ou federação), decisão tomada após tratativas com outras legendas que não avançaram.",
+        "projection": "Cobertura em veículo estrangeiro localizada: publicação em inglês 'Today in Brazil' sobre o lançamento da candidatura (2026), além de verbete em inglês em enciclopédia colaborativa. Não foram localizadas, em 2025–2026, entrevistas a veículos de imprensa estrangeira nem convites institucionais internacionais; a circulação internacional identificada fora do país é limitada a um veículo de língua inglesa.",
         "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
-        "sources": [],
+        "sources": [
+          {
+            "id": "src-sm-41"
+          },
+          {
+            "id": "src-sm-60"
+          },
+          {
+            "id": "src-sm-61"
+          },
+          {
+            "id": "src-sm-14"
+          }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "As posições internacionais de Samara Martins vêm do programa da UP — documento partidário divulgado pela campanha (67 páginas, com as seções 'Solidariedade Internacionalista' e 'Política Externa Anti-Imperialista'), posterior ao documento de 16 propostas protocolado no TSE em 06/08/2026, cuja versão inicial era de menos de duas páginas. Por ser a posição extraída de documento programático do partido, o bloco está marcado como 'parcial'. Texto conferido na versão do PDF divulgada pela campanha (espelho Poder360) e cruzado com a cobertura do R7 Planalto (02/09/2026) e com a análise do OPEB (27/09/2026). Onde a fonte é a fala da candidata reproduzida no próprio programa, isso está identificado no texto. Não foram localizados registros de atuação internacional própria. Campos sem juízo de valor e sem ordenação entre candidatos."
       }
     },
     "edmilson-costa": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
+        "worldView": "O programa do PCB ('Construir o Poder Popular, rumo ao Socialismo', registrado no TSE e publicado pelo partido em 15/08/2026) coloca a luta contra o imperialismo como eixo e define, entre as cinco transformações estruturais propostas, a das relações internacionais: afirmar o internacionalismo e a autodeterminação dos povos, 'fortalecer todos os processos de integração, tanto regionais quanto internacionais' e prestar solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental. O documento declara buscar uma 'nova ordem internacional' baseada na cooperação, na autodeterminação dos povos, no internacionalismo proletário e na paz entre as nações, com parcerias comerciais estratégicas que priorizem o desenvolvimento industrial e tecnológico e a retenção de riquezas e lucros no país. Prevê regulação das 'Big Techs e redes sociais imperialistas', monopólio estatal das telecomunicações e da internet e reestruturação dos comandos das Forças Armadas, com nova política de formação militar voltada à defesa da soberania. A análise do OPEB (27/09/2026) registra que o programa substitui o 'universalismo pragmático' e o legalismo institucional da diplomacia brasileira por uma leitura de enfrentamento e que não detalha BRICS, governança climática nem os mecanismos de interdependência econômica global.",
+        "strategy": "O que o programa declara pretender obter: nova ordem internacional e reforço dos processos de integração; parcerias comerciais que preservem indústria, tecnologia e excedentes no país; solidariedade ativa a Cuba, Palestina, Venezuela, Irã e Saara Ocidental; e uso da estatização de áreas estratégicas (energia, água, saneamento, comunicações, minério e terras raras) como instrumento de soberania material. Há proposta de retomar o controle da região amazônica e de revisar processos de produção mineral. A análise do OPEB registra que o documento não apresenta instrumentos para comércio, finanças internacionais ou governança global, o que a fonte descreve como lacuna, e não como posição.",
+        "internationalExperience": "Registros documentados, com responsabilidade qualificada: (1) como secretário de Relações Internacionais do PCB (até 2016), esteve no congresso do Partido Comunista Colombiano em julho de 2012, com intervenção feita em nome do PCB — representou o partido; (2) como secretário-geral, integrou a delegação do PCB ao XIX Encontro Internacional de Partidos Comunistas e Operários, em Petrogrado (ex-Leningrado) e Moscou, em novembro de 2017 — participou da delegação, e a intervenção do partido no encontro foi proferida pelo então secretário de Relações Internacionais, Eduardo Serra; (3) interlocução com imprensa estrangeira, com entrevista publicada pelo International Communist Press (icp.org.tr) e entrevistas transcritas no site do partido originalmente concedidas a veículos de imprensa estrangeira — Sputnik Brasil e Opera Mundi. Não foi localizado registro de negociação entre Estados, de acordo internacional ou de cargo em organismo internacional exercido pelo candidato; a responsabilidade registrada é de direção e representação partidária internacional.",
+        "projection": "Publicação em inglês sobre a candidatura e sobre o programa no International Communist Press (icp.org.tr), veículo de imprensa comunista internacional, e síntese em inglês das suas propostas de política externa pelo Brazil in English (27/09/2026), a partir da análise do OPEB. O programa também é publicado nos canais do próprio partido. Não foram localizadas entrevistas a veículos estrangeiros de grande circulação em 2025–2026.",
         "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
-        "sources": [],
+        "sources": [
+          {
+            "id": "src-ec-70"
+          },
+          {
+            "id": "src-ec-71"
+          },
+          {
+            "id": "src-ec-60"
+          },
+          {
+            "id": "src-ec-61"
+          },
+          {
+            "id": "src-ec-62"
+          },
+          {
+            "id": "src-ec-19"
+          },
+          {
+            "id": "src-ec-17"
+          },
+          {
+            "id": "src-ec-16"
+          },
+          {
+            "id": "src-ec-63"
+          }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "As posições internacionais de Edmilson Costa vêm do programa do PCB — documento partidário registrado no TSE ('Construir o Poder Popular, rumo ao Socialismo', PDF de 16 páginas aprovado na Convenção Nacional de 01/08/2026) e da sua versão publicada pelo partido; por essa origem programática, o bloco está marcado como 'parcial'. O texto do programa foi obtido do PDF e conferido com a versão partidária, e cruzado com a análise do OPEB (27/09/2026). A experiência internacional foi levantada em registros do próprio PCB (Congressos do partido colombiano, 2012; XIX Encontro Internacional de Partidos Comunistas e Operários, 2017) e em entrevistas a veículos estrangeiros, com a responsabilidade de cada ato qualificada (participou / representou). Não foi possível confirmar, em fonte primária, a participação do candidato em encontro internacional em Caracas em 2023, citada apenas em sítio crítico ao partido — registrado em dataGaps. Bloco sem nota e sem ordenação entre candidatos."
       }
     },
     "hertz-dias": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
+        "worldView": "O plano registrado no TSE ('Com os trabalhadores contra o sistema — Por um Brasil soberano e socialista') trata a política externa como desdobramento das estruturas econômicas internas: o imperialismo é usado como categoria estrutural e a dependência brasileira é atribuída à posição do país na divisão internacional do trabalho como plataforma de exportação de produtos primários. O documento critica simultaneamente o bolsonarismo, pelo alinhamento aos Estados Unidos, e o governo Lula, por negociar com vários centros do capitalismo mundial sem alterar as estruturas internas, e rejeita explicitamente a substituição da dependência norte-americana por dependência chinesa ou europeia, citando a aquisição de ativos existentes em energia e mineração e a instalação da BYD como casos em que o núcleo tecnológico permanece no exterior. A noção de soberania digital é incorporada à política externa, com vedação à hospedagem de dados governamentais sensíveis em servidores privados internacionais e criação de inteligência artificial pública nacional. A análise do OPEB (27/09/2026) registra que o programa não desenvolve estratégia sistemática para ONU, OMC, G20, BRICS ou Mercosul — critica o acordo Mercosul–União Europeia por manter o Brasil na exportação primária, mas não formula alternativa de integração — e não apresenta agenda bilateral com países sul-americanos, doutrina de defesa ou estratégia para negociações climáticas e de minerais críticos.",
+        "strategy": "O que o plano declara pretender: suspender o pagamento da dívida pública para auditoria; controlar fluxos de capital; expropriar e reestatizar mineração, petróleo, energia, siderurgia, celulose e agronegócio, com Petrobras 100% estatal sob controle dos trabalhadores; dirigir os excedentes a refino, processamento de terras raras e minerais críticos, máquinas e equipamentos, infraestrutura digital, química fina e indústria de defesa, com criação de empresa estatal de terras raras; e implantar infraestrutura digital pública. A análise do OPEB descreve o conjunto como 'desglobalização seletiva', isto é, redefinição das bases da integração internacional pelo planejamento estatal, e não isolamento autárquico (formulação da fonte).",
+        "internationalExperience": "O PSTU integra a LIT-QI (Liga Internacional dos Trabalhadores — Quarta Internacional), cujo sítio publicou em inglês e em outros idiomas, em 22/08/2026, a convenção nacional que confirmou a candidatura de Hertz Dias. A responsabilidade registrada é a de candidato de um partido vinculado a uma organização internacionalista: não foram localizados registro de viagem ao exterior, participação em delegação, fórum internacional ou negociação conduzida por Hertz Dias nas fontes consultadas (perfis da Agência Brasil, Correio Braziliense, Diário do Nordeste, Folha BV, além da cobertura de campanha de 2026). A mobilização documentada em 2026 é doméstica — atos e campanha em Teresina, Manaus, Fortaleza, Belém, Belo Horizonte, Recife e Santa Cruz do Sul — e as atividades internacionais citadas pelo PSTU no período não foram atribuídas ao candidato.",
+        "projection": "Divulgação internacional da candidatura e da convenção pela organização internacional do partido (LIT-QI / litci.org, em inglês, 22/08/2026) e síntese em inglês das propostas de política externa do plano pelo Brazil in English (27/09/2026), a partir da análise do OPEB. Não foram localizadas entrevistas a veículos de imprensa estrangeira nem convites institucionais internacionais em 2025–2026.",
         "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
-        "sources": [],
+        "sources": [
+          {
+            "id": "src-hd-04"
+          },
+          {
+            "id": "src-hd-13"
+          },
+          {
+            "id": "src-hd-60"
+          },
+          {
+            "id": "src-hd-71"
+          },
+          {
+            "id": "src-ec-63"
+          }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "As posições internacionais de Hertz Dias vêm do plano registrado no TSE pelo PSTU (documento partidário apresentado pela candidatura, descrito na própria peça como 'guia para a ação', e não como conjunto de medidas a executar pela via institucional); por essa origem programática, o bloco está marcado como 'parcial'. O conteúdo foi lido no índice oficial de propostas do TSE, na cobertura de imprensa sobre o eixo 'Política Externa e Inserção Global' e na análise do OPEB (27/09/2026), que também registra os temas ausentes no documento — as ausências estão relatadas como ausência de formulação, nunca como posição atribuída ao candidato. A experiência internacional registrada é de vínculo partidário com a LIT-QI, com a responsabilidade qualificada; não foram localizados atos internacionais do candidato. Bloco sem nota e sem ordenação entre candidatos."
       }
     },
     "rui-costa-pimenta": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
+        "worldView": "O programa registrado no TSE ('Programa do PCO — Eleições 2026: Por salário, trabalho e terra') inclui, no eixo de política externa, o fortalecimento do BRICS, a oposição à OTAN, o reconhecimento do direito de autodeterminação dos povos palestino, libanês e sírio, o apoio ao Irã diante de ataques de Israel e dos Estados Unidos e o fim do bloqueio a Cuba; o mesmo documento propõe o cancelamento das dívidas externa e interna, a nacionalização do petróleo com Petrobras 100% estatal, a estatização do sistema financeiro com banco estatal único e o fim da 'independência' do Banco Central. Fora do programa, o dirigente declarou em outubro de 2023 que o PCO estava '1.000% com o Hamas' (Poder360) e, em 2024, descreveu o Hamas como 'grande organização política' cujas atividades no Catar corresponderiam a um 'governo palestino em exílio' (relato da viagem registrado pela Gazeta do Povo). Em 2026, afirmou que a classificação de PCC e Comando Vermelho como organizações terroristas pelos Estados Unidos abriria caminho para interferência na eleição brasileira (Brasil 247). Posições sobre a China aparecem em palestra de 2024 publicada pelo Diário Causa Operária, na qual o país é descrito como 'o Brasil que poderia ser e não é'.",
+        "strategy": "O que o programa declara pretender: ruptura financeira — anulação das dívidas externa e interna, banco estatal único sob controle dos trabalhadores e fim da 'independência' do Banco Central; controle nacional das riquezas minerais e de terras raras por empresa estatal comandada pelos trabalhadores; fim da paridade com o preço internacional do petróleo e redução de 50% do preço dos combustíveis; e ampliação do BRICS como plataforma de relações exteriores. A análise do OPEB (27/09/2026) registra que a sustentação externa dessas medidas dependeria de articulação multilateral e cita o comércio bilateral no BRICS como caminho, sem que o plano detalhe instrumentos; registra também que reestatizações e nacionalizações podem gerar indenizações, quebra de contratos e acionamento de mecanismos internacionais de proteção a investimentos.",
+        "internationalExperience": "Registros documentados, com responsabilidade qualificada: (1) chefiou a delegação do PCO que permaneceu mais de dez dias no Catar em fevereiro de 2024 e se reuniu com a liderança política do Hamas, incluindo Ismail Haniyeh — o próprio partido descreve, em sua página institucional em inglês, uma 'delegação chefiada por Rui Pimenta' que se encontrou com o bureau político do Hamas, encontro do qual resultou o livro 'O Hamas conta seu lado da história'; a Gazeta do Povo (10/03/2024) registra que a reunião integrou a agenda de um tour de dez dias da delegação pelo país e que a excursão incluiu entrevistas à emissora Al Jazeera e encontros com outras lideranças; O Antagonista (03/03/2024) registra a divulgação de mensagem em vídeo de Haniyeh ao público brasileiro. Trata-se de interlocução com movimento armado não estatal, e não de negociação entre Estados. (2) Preside nacionalmente o PCO desde 1995, partido que mantém organização e publicações internacionais próprias. (3) Interlocução com veículo público estrangeiro: entrevista à RFI Brasil (2018). (4) Atividade de formação sobre temas internacionais: curso do partido sobre a Revolução Iraniana de 1979 (2026).",
+        "projection": "Projeção documentada: entrevista à RFI Brasil (2018), emissora pública francesa; perfil em veículo de imprensa nacional tratando de sua agenda internacional (Gazeta do Povo, 10/03/2024); divulgação do encontro no Catar por veículos nacionais (O Antagonista, Poder360); verbete em inglês e em outras línguas em enciclopédia colaborativa; e publicação de análise própria sobre a China no Diário Causa Operária. Não foram localizadas entrevistas a veículos de imprensa estrangeira em 2025–2026.",
         "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
-        "sources": [],
+        "sources": [
+          {
+            "id": "src-rp-07"
+          },
+          {
+            "id": "src-rp-70"
+          },
+          {
+            "id": "src-rp-82"
+          },
+          {
+            "id": "src-rp-83"
+          },
+          {
+            "id": "src-rp-84"
+          },
+          {
+            "id": "src-rp-85"
+          },
+          {
+            "id": "src-rp-86"
+          },
+          {
+            "id": "src-rp-79"
+          },
+          {
+            "id": "src-rp-78"
+          },
+          {
+            "id": "src-rp-80"
+          },
+          {
+            "id": "src-rp-81"
+          }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "As posições internacionais de Rui Costa Pimenta vêm, em parte, do programa registrado no TSE pelo PCO (7 páginas, 15 pontos de luta, documento partidário apresentado como 'programa de luta'), e, em parte, de declarações públicas e da agenda internacional do partido; como a base programática é o documento do partido, o bloco está marcado como 'parcial'. O conteúdo do plano foi conferido no índice oficial de propostas do TSE e na análise do OPEB (27/09/2026); a viagem ao Catar foi apurada em três fontes independentes entre si (página institucional do partido em inglês, O Antagonista e Gazeta do Povo), com a responsabilidade descrita como condução de delegação partidária. A página do Diário Causa Operária sobre a viagem e a do Poder360 sobre a declaração de 2023 responderam HTTP 403 à requisição por linha de comando; os trechos foram obtidos por indexação de busca e estão marcados nas notas das fontes. Bloco sem nota e sem ordenação entre candidatos."
       }
     },
     "wilson-grassi": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
+        "worldView": "O plano registrado no TSE ('Brasil em Primeiro Lugar', 58 páginas, 14 eixos) trata a política externa como agenda comercial: rejeitar acordos que não abram mercados a produtos brasileiros ('acesso se troca por acesso'); responder a barreiras sanitárias ou tarifárias com reciprocidade pelos instrumentos do direito internacional, 'e não com nota de repúdio'; exigir contrapartida de conteúdo nacional, transferência de tecnologia e emprego em investimento estrangeiro em setor estratégico; definir a posição brasileira em foro multilateral caso a caso, 'por conveniência nacional declarada, e não por alinhamento automático'; e manter diplomacia comercial e sanitária com presença técnica permanente onde estão os compradores de carne, grão e minério. Somam-se a isso a cooperação com países vizinhos no policiamento de fronteiras contra crimes transfronteiriços e a defesa sanitária com rastreabilidade da produção agropecuária e padrões de bem-estar animal compatíveis com exigências internacionais (BBC News Brasil; OPEB). O plano declara que temas de doutrina e diplomacia serão tratados com o Itamaraty depois da posse, conforme o cenário internacional do momento, e a análise do OPEB (27/09/2026) registra que a área internacional do documento tem cinco tópicos e um adendo sobre fronteiras, sem menção a BRICS, Mercosul, China, Estados Unidos, clima ou governança global. O eixo de defesa do plano propõe piso de 2% do PIB, com no mínimo 35% vinculado à modernização (PEC 55/2023).",
+        "strategy": "O que o plano declara pretender: abrir e reabrir mercados para produtos brasileiros; usar reciprocidade e os instrumentos do direito internacional contra barreiras sanitárias e tarifárias; condicionar investimento estrangeiro em setor estratégico a contrapartidas tecnológicas e de emprego; manter técnicos brasileiros nos países compradores; e cooperar com países vizinhos no combate a crimes transfronteiriços. O documento não apresenta metas de comércio, valores de investimento, posição sobre blocos econômicos (BRICS, Mercosul, OCDE) nem sobre negociações climáticas.",
+        "internationalExperience": "Não foi localizado registro de negociação internacional, participação em fórum multilateral, delegação ou acordo internacional atribuído a Wilson Grassi nas fontes consultadas (perfis da Folha, Nexo, GZH, CNN, Agência Brasil, g1 e análise do OPEB). A trajetória documentada é privada e associativa — médico-veterinário, rede de clínicas, conselheiro da Anclivepa-SP e participação nas discussões sobre hospital veterinário público (2012) — e o partido Democrata não tem bancada no Congresso (0 deputados e 0 senadores em exercício, consultas às APIs oficiais em 29/09/2026), sendo 2026 a primeira candidatura presidencial da legenda. A agenda internacional do plano é apresentada como diretriz a ser detalhada com o Itamaraty depois da posse.",
+        "projection": "Não foi localizada cobertura de imprensa estrangeira nem participação em fórum internacional em 2025–2026; a circulação internacional identificada é a de verbetes enciclopédicos em português e de agregadores de conteúdo. A projeção registrada é doméstica: entrevista no Jornal Nacional (03/09/2026), sabatinas e agenda de campanha em Brasília e São Paulo.",
         "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
-        "sources": [],
+        "sources": [
+          {
+            "id": "src-wg-70"
+          },
+          {
+            "id": "src-wg-12"
+          },
+          {
+            "id": "src-wg-76"
+          },
+          {
+            "id": "src-wg-77"
+          },
+          {
+            "id": "src-wg-03"
+          }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "As posições internacionais de Wilson Grassi vêm do plano registrado no TSE pelo partido Democrata ('Brasil em Primeiro Lugar — Plano de Governo 2027–2030', 58 páginas), documento de partido assinado pela chapa; por essa origem programática, o bloco está marcado como 'parcial'. Os cinco tópicos de política externa foram lidos na reprodução literal feita pelo OPEB (27/09/2026) e conferidos com o levantamento temático da BBC News Brasil, que atribui ao candidato os pontos de atuação internacional por interesse brasileiro, cooperação fronteiriça e diplomacia sanitária. Não foi possível reabrir o PDF do TSE por linha de comando (HTTP 403) nesta rodada; a leitura direta do documento ficou registrada para a rodada do bloco de país. Não foram localizados atos internacionais do candidato. Bloco sem nota e sem ordenação entre candidatos."
       }
     }
   },
-  "dataGaps": []
+  "dataGaps": [
+    "Bloco 'Brasil no mundo' montado a partir dos programas/planos registrados e das análises do OPEB (27/09/2026): para Samara Martins (UP), Edmilson Costa (PCB), Hertz Dias (PSTU), Rui Costa Pimenta (PCO) e Wilson Grassi (Democrata) a posição internacional tem origem em documento programático do próprio partido — declarado em cada methodology e marcado como 'parcial'.",
+    "Nenhum dos cinco candidatos tem registro localizado de negociação internacional conduzida em nome do Estado, de acordo assinado ou de cargo em organismo internacional: as evidências de atuação internacional são de direção partidária (Edmilson Costa e Rui Costa Pimenta), de vínculo organizativo do partido (Hertz Dias, via LIT-QI) ou inexistentes nas fontes consultadas (Samara Martins e Wilson Grassi).",
+    "Edmilson Costa: a participação em encontro internacional em Caracas (2023) aparece apenas em sítio crítico ao PCB, sem confirmação primária localizada; o vínculo de delegação ao XIX Encontro Internacional de Partidos Comunistas e Operários (2017) está registrado pelo próprio partido, com a intervenção proferida por outro dirigente.",
+    "Rui Costa Pimenta: as páginas do Diário Causa Operária (25/02/2024) e do Poder360 (out/2023) responderam HTTP 403 à requisição por linha de comando; os trechos usados vieram de indexação de busca e estão identificados nas notas das fontes. Não foi localizada lista completa da delegação que foi ao Catar em 2024.",
+    "Samara Martins e Hertz Dias: o PDF do programa/plano no TSE não pôde ser baixado por linha de comando (WAF, HTTP 403) nesta rodada; o conteúdo foi lido nas versões divulgadas pela campanha/partido e nas análises do OPEB. Para Wilson Grassi e Rui Costa Pimenta o PDF registrado no TSE também respondeu 403 e os tópicos foram lidos em reprodução de imprensa.",
+    "Projeção internacional: nenhum dos cinco candidatos teve, em 2025–2026, entrevista localizada em veículo de imprensa estrangeira de grande circulação; a circulação fora do país identificada é de veículos partidários internacionais (LIT-QI, International Communist Press), de um agregador em inglês (Brazil in English) e de um veículo em inglês sobre o Brasil (Today in Brazil).",
+    "Temas sem posição documentada e não inferidos por partido: para Samara Martins, não há posição sobre BRICS, ONU, África e Ásia; para Hertz Dias, sobre BRICS, Mercosul (além da crítica ao acordo com a UE), ONU, defesa e clima; para Edmilson Costa, sobre BRICS e governança climática; para Wilson Grassi, sobre BRICS, Mercosul, China, Estados Unidos e clima; para Rui Costa Pimenta, sobre clima, defesa e integração sul-americana além do BRICS.",
+    "Comparações com a política externa efetivamente praticada pelo governo federal não foram feitas neste bloco, por não haver histórico de governo de nenhum dos cinco candidatos."
+  ]
 }

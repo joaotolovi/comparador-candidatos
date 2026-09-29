@@ -1,0 +1,80 @@
+{
+  "grupo": "g3",
+  "escopo": "capacidade:comunicacao-publica,capacidade:visao-estrategica",
+  "sources": [],
+  "candidates": {
+    "edmilson-costa": {
+      "capacities": [
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    },
+    "hertz-dias": {
+      "capacities": [
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    },
+    "rui-costa-pimenta": {
+      "capacities": [
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    },
+    "wilson-grassi": {
+      "capacities": [
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    }
+  },
+  "dataGaps": []
+}

@@ -1,36 +1,1498 @@
 {
   "grupo": "g3",
   "escopo": "capacidade:tomada-decisao,gestao-crises,coordenacao-institucional",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-ec-77",
+      "title": "INVIABILIZADA A ALIANÇA ELEITORAL PCB/PSOL",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/615",
+      "publishedAt": "2010-07-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Nota da Comissão Política Nacional (01/07/2010) sobre o encerramento das negociações nacionais com o PSOL: o Comitê Central admitira a retirada da candidatura presidencial própria (Ivan Pinheiro presidente, Edmilson Costa vice) em troca de 6 dos 20 programas de rádio e TV; o PSOL manteve 16 programas para si e 90% do horário nas coligações proporcionais em São Paulo; sem acordo, foram mantidas as candidaturas próprias a presidente e vice e as chapas estaduais, exceto onde havia coligação regional."
+    },
+    {
+      "id": "src-ec-78",
+      "title": "Carta de Edmilson Costa à militância comunista",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/12442",
+      "publishedAt": "2016-10-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Carta publicada em 23/10/2016: o Comitê Central, em reunião de 8 e 9/10/2016, aceitou a carta de afastamento da secretaria-geral de Ivan Pinheiro e indicou Edmilson Costa por unanimidade; foi eleito um Secretariado Político coordenado pelo secretário-geral e composto por Ivan Pinheiro, Eduardo Serra, Ricardo Costa Rico e Edilson Neves; o texto descreve o processo como 'tranquilo, sem traumas ou divergências' e menciona a 'resistência à liquidação do PCB em 1992'."
+    },
+    {
+      "id": "src-ec-79",
+      "title": "Sobre a crise do PCB no Rio Grande do Sul",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/30872",
+      "publishedAt": "2023-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Nota publicada em 21/09/2023 no site oficial: descreve crise profunda do partido, a política nacional de desligamentos da militância, a tentativa prévia de mediação no Rio Grande do Sul, o evento com Ivan Pinheiro em Porto Alegre tratado como 'quebra de unidade' e a formalização de expulsões por adesão ao fracionismo (Guilherme Couto, Leonardo Silvestrin, Mariana Padilha, Juliana Guerra, Nicolas Sanchez, direção estadual da UJC e células de Rio Grande e Santa Maria), com possibilidade de retorno mediante autocrítica pública. A nota não identifica a instância signatária."
+    },
+    {
+      "id": "src-ec-80",
+      "title": "Racha no PCB tem expulsão de Jones Manoel e de ex-candidato a presidente (vídeos)",
+      "publisher": "Brasil 247",
+      "url": "https://www.brasil247.com/geral/racha-no-pcb-tem-expulsao-de-jones-manoel-e-de-ex-candidato-a-presidente-videos",
+      "publishedAt": "2023-08-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 02/08/2023: expulsões de Jones Manoel e do ex-candidato à Presidência Ivan Pinheiro; nota assinada pelo secretário-geral Edmilson Costa afirma que um 'pequeno grupo' com 'limitada ação na realidade concreta da luta de classes' divulga a vida interna do partido; divergências sobre a guerra da Ucrânia e sobre a postura em relação ao governo Lula; Jones Manoel declarou existir lista de mais de 30 expulsões prontas."
+    },
+    {
+      "id": "src-ec-81",
+      "title": "Pará: Os ventos do norte trarão a revolução!",
+      "publisher": "Em Defesa do Comunismo (Comitê Regional do PCB no Pará)",
+      "url": "https://emdefesadocomunismo.com.br/para-os-eventos-do-norte/",
+      "publishedAt": "2023",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Texto de 2023 assinado pelo Comitê Regional do PCB no Pará: relata que a participação do partido na Plataforma Mundial Anti-Imperialista (PMAI) estava suspensa por decisão do Comitê Central e que o então secretário de Relações Internacionais compareceu à conferência de Seul (Congresso do Partido da Democracia Popular, Coreia do Sul) e leu documento em nome do PCB contra a decisão; lista expulsões de julho e agosto de 2023 (Ana Karen, Gabriel Landi, Gabriel Lazzari, Leonardo Godim, Gabriel Colombo, Gustavo Gaiofato, Jones Manoel e Ivan Pinheiro) e a criação do espaço 'Reconstrução Revolucionária' (RR)."
+    },
+    {
+      "id": "src-ec-82",
+      "title": "Sobre as mentiras e tergiversações na Circular do CC do PCB sobre a Plataforma Mundial Anti-Imperialista",
+      "publisher": "Em Defesa do Comunismo",
+      "url": "https://emdefesadocomunismo.com.br/sobre-as-mentiras-e-tergiversacoes-na-circular-do-cc-do-pcb-sobre-a-plataforma-mundial-anti-imperialista/",
+      "publishedAt": "2023",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Texto de 2023 que reproduz a circular do Comitê Central de 01/08/2023 ('A respeito da PMAI') e a autocrítica do secretário de Relações Internacionais sobre a participação na reunião da Plataforma em Seul; cita a pauta de 'Informes' da Comissão Política Nacional registrando que o PCB foi convidado e participaria de encontro na Venezuela (Edmilson Costa), que o PCV foi consultado e não se opôs à viagem e que houve saudação a evento realizado em Belgrado (Sérvia); registra que o partido não referendou a linha política da Plataforma."
+    },
+    {
+      "id": "src-ec-83",
+      "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+      "publisher": "O Tempo",
+      "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/8/1/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia-da-republica",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 01/08/2026 ('ainda sob reflexos de uma crise interna'): registra a dissidência por divergências programáticas em 2023, a expulsão de Ivan Pinheiro e Jones Manoel e a formação do Partido Comunista Brasileiro Revolucionário (PCBR); primeira eleição presidencial do PCB após a ruptura; pré-candidatura lançada em abril de 2026 em ato na Associação Brasileira de Imprensa (ABI), no Rio de Janeiro; sexta eleição consecutiva em que o PCB afasta composição com o PT no 1º turno; a chapa de 2022, encabeçada por Sofia Manzano, teve 45.620 votos (0,04%)."
+    },
+    {
+      "id": "src-ec-84",
+      "title": "Crítico do PT, candidato do PCB defende estatizar sistema financeiro e extinguir Senado",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/08/critico-do-pt-candidato-do-pcb-defende-estatizar-sistema-financeiro-e-extinguir-senado.shtml",
+      "publishedAt": "2026-08-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil-entrevista publicado em 29/08/2026: o PCB recusa aliança com o PT no 1º turno pela sexta eleição seguida; programa propõe estatizar o sistema financeiro, suspender o pagamento da dívida pública e extinguir o Senado; questionado sobre a viabilidade sem maioria no Congresso, o candidato aposta na mobilização popular e cita os 'caras-pintadas' no impeachment de Collor (1992); afirma que a disputa ocorre sem rádio, TV ou poder econômico."
+    },
+    {
+      "id": "src-ec-85",
+      "title": "Secretário Geral do PCB critica oligarquias em Roraima",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/20896",
+      "publishedAt": "2018-09-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Nota de 20/09/2018: Edmílson Costa esteve em Roraima desde 11/09/2018 para impulsionar as candidaturas da coligação Frente de Esquerda, apresentada como aliança nacional com PSOL, MTST, movimento indígena e movimentos sociais; a Convenção Eleitoral Unificada do PCB, PSOL e PSTU aprovou Fábio Almeida (PSOL) ao governo, Telma Taurepang (PCB) e Lourival (PSTU) ao Senado e seis candidaturas a deputado estadual, três delas da fração indígena, com coletivos de lideranças indígenas, movimentos sociais e estudantis e coletivos de artes e cultura."
+    },
+    {
+      "id": "src-ec-86",
+      "title": "Esquerda, volver! O que une (e separa) UP, PCO, PSTU e PCB",
+      "publisher": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/esquerda-volver-o-que-une-e-divide-up-pco-pstu-e-pcb",
+      "publishedAt": "2020",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 2020 sobre as quatro legendas sem cargos e sem recursos: o PCB é descrito com 12,9 mil filiados listados pelo TSE e presença declarada em mais de uma centena de sindicatos (entre eles Andes e Sinasefe); registra que a última vez que o partido ocupou cargo eletivo foi com a vereadora Marta Jane, de Goiânia, em 2015."
+    },
+    {
+      "id": "src-hd-86",
+      "title": "The crisis in Cuba: We must fight against Trump",
+      "publisher": "International Worker's League / LIT-QI (litci.org)",
+      "url": "https://litci.org/en/the-crisis-in-cuba-we-must-fight-against-trump",
+      "publishedAt": "2026-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Relato assinado por integrante da delegação: pequena delegação da IWL visitou Cuba em março de 2026, composta por Hertz Dias (candidato do PSTU à Presidência), Gabriela (também do PSTU) e o autor; apresentaram-se como PSTU e LIT e entregaram medicamentos, em solidariedade contra o bloqueio dos EUA."
+    },
+    {
+      "id": "src-hd-87",
+      "title": "Candidato do PSTU cita boicote ao partido e critica Lula",
+      "publisher": "SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/candidato-do-pstu-cita-boicote-ao-partido-e-critica-lula",
+      "publishedAt": "2026-08-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista de 29/08/2026: o candidato afirma que a campanha enfrenta 'boicote profundo' por apresentar programa voltado à organização da classe trabalhadora; defende estatização de setores estratégicos e governo apoiado em conselhos populares, e não no Congresso; nas pesquisas localizadas aparece com 0% no Datafolha de 21/08/2026 e no Quaest-DF de 25/08/2026."
+    },
+    {
+      "id": "src-hd-79",
+      "title": "Movimento Negro Quilombo Raça e Classe é fundado no Maranhão",
+      "publisher": "PSTU Maranhão (blog do partido)",
+      "url": "http://pstumaranhao.blogspot.com/2011/07/movimento-negro-quilombo-raca-e-classe.html",
+      "publishedAt": "2011-07-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Post de 28/07/2011 assinado por Hertz Dias ('do Movimento Nacional Quilombo Raça e Classe e do PSTU-MA') sobre o lançamento do movimento no Maranhão em 25/07/2011: cerca de 100 ativistas, presença de entidades do movimento sindical, popular e estudantil da CSP-Conlutas, do Grupo de Trabalho de Etnia do SINASEFE, da Comissão Pastoral da Terra e do movimento hip hop Quilombo Urbano, além de entidades do movimento negro; inclui palestra sobre o Dia da Mulher Negra Latino-Americana e Caribenha, homenagem a liderança negra local e lançamento do manifesto estadual."
+    },
+    {
+      "id": "src-hd-80",
+      "title": "'350 anos de escravidão foram também 350 anos de revoltas negras' — Entrevista a Hertz Dias",
+      "publisher": "Em Luta (publicação da corrente internacional da qual o PSTU faz parte)",
+      "url": "https://emluta.net/2017/03/08/350-anos-de-escravidao-foram-tambem-350-anos-de-revoltas-negras-entrevista-a-hertz-dias/",
+      "publishedAt": "2017-03-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Entrevista de 08/03/2017: declara que começou a militância no movimento hip hop Quilombo Urbano, do qual foi um dos fundadores em 1989, que simpatizava com o PSTU mas só ingressou 'definitivamente nas fileiras do PSTU e da LIT' em 2010, por compreender que sua militância seria 'muito limitada sem um partido com um programa revolucionário, internacionalista'; apresenta-se como do Movimento Quilombo Raça e Classe do Brasil e militante do PSTU, seção brasileira da LIT-QI."
+    },
+    {
+      "id": "src-hd-81",
+      "title": "Raça e Classe na perspectiva da luta hip hoppiana (estudo acadêmico sobre o movimento Quilombo Urbano do Maranhão)",
+      "publisher": "1library (repositório; obra acadêmica de referência sobre o movimento)",
+      "url": "https://1library.org/article/ra%C3%A7a-classe-na-perspectiva-da-luta-hip-hoppiana.z118jvez",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Estudo acadêmico sobre a trajetória do movimento hip hop Quilombo Urbano (datas internas até 2014; ano de publicação não informado no repositório): registra a ocupação do gabinete do superintendente do IBAMA em São Luís por 17 dias (02 a 19/05/1994) pela titulação das terras de Frechal (Mirinzal, a 390 km da capital), com protagonismo do Centro de Cultura Negra do Maranhão; a composição do Fórum de Entidades Negras e o rompimento em 1995 (divergência sobre a Marcha dos 300 anos de Zumbi); a filiação do movimento à Conlutas/CSP-Conlutas com participação no ato nacional de 25/03/2007 (cerca de 6 mil militantes e 600 entidades); a presença de Hertz Dias em mesa do Encontro Latino-Americano contra o Neoliberalismo (Belém, 1999); e a aproximação com o PSTU após a ruptura com o PT em 2002."
+    },
+    {
+      "id": "src-hd-82",
+      "title": "Opinião Socialista nº 715 (setembro de 2026): 'Hertz Dias e Vanessa Portugal percorrem o país apresentando o programa socialista do PSTU'",
+      "publisher": "Opinião Socialista (PSTU)",
+      "url": "https://opiniaosocialista.com.br/content/files/2026/09/OS-715.pdf",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Edição de setembro de 2026 do jornal do partido: registra que a chapa percorre o país apresentando o programa, junto das candidaturas estaduais, e que a campanha se propõe a disputar 'a consciência do povo trabalhador' contra alternativas de aliança com a burguesia ou autoritárias e contra o 'círculo vicioso' do 'mal menor'."
+    },
+    {
+      "id": "src-hd-83",
+      "title": "Movimento de Hip Hop Organizado do Maranhão Quilombo Urbano (blog oficial do movimento)",
+      "publisher": "Quilombo Urbano (MA)",
+      "url": "http://quilombourbano.blogspot.com/",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Blog do movimento cofundado por Hertz Dias: traz nota pública sobre agressão de policiais militares a militante do movimento e da juventude do PSTU em São Luís, com agradecimento a advogados nomeados e a entidades (CSP-Conlutas, Quilombo Raça e Classe, ANEL, CPT, Moquibom, fórum estadual da juventude negra, movimentos de hip hop) e relato de intervenção de militantes durante a detenção; registra que o movimento completou 25 anos em 2014 e que recusa parcerias de captação de recursos com o Estado. As postagens em geral não trazem data visível, apenas o mês/dia do episódio."
+    },
+    {
+      "id": "src-hd-84",
+      "title": "Conversa com Hertz Dias, candidato à presidência pelo PSTU",
+      "publisher": "Monitor Mercantil",
+      "url": "https://monitormercantil.com.br/conversa-com-hertz-dias-candidato-a-presidencia-pelo-pstu/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista de 2026: defende que o PSTU não se submeterá a um Congresso de 'natureza extremamente reacionária, racista, machista, LGBTfóbica e anti-indígena' e que um eventual governo se apoiará em conselhos populares formados por sindicatos, movimentos populares e movimentos sociais; propõe reestatização de petróleo, energia, minério e siderurgia, fim das parcerias público-privadas e plano de cargos e salários nacional."
+    },
+    {
+      "id": "src-hd-85",
+      "title": "Eleições 2026 — Sabatina com presidenciáveis (cobertura do Correio Braziliense, reproduzida pela ANFIP)",
+      "publisher": "Correio Braziliense",
+      "url": "https://www.anfip.org.br/wp-content/uploads/2026/07/Eleicoes-2026-Sabatina-com-presidenciaveis-cobertura-do-Correio-Braziliense.pdf",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura de sabatina no auditório do jornal com quatro pré-candidatos (Hertz Dias/PSTU, Augusto Cury/Avante, Ronaldo Caiado/PSD e Leonardo Avalanche/PRTB), em julho de 2026: Hertz defendeu revogação do arcabouço fiscal e das reformas da Previdência, trabalhista e tributária, suspensão do pagamento da dívida pública e prioridade nacional ao enfrentamento do feminicídio."
+    },
+    {
+      "id": "src-rp-82",
+      "title": "Leia e assista à íntegra do discurso de Rui Costa Pimenta",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/leia-e-assista-a-integra-do-discurso-de-rui-costa-pimenta/",
+      "publishedAt": "2026-08-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Discurso de 08/08/2026 no evento que oficializou a chapa do PCO: define a candidatura como 'antissistema', em oposição ao imperialismo e à subordinação dos trabalhadores a candidatos apoiados pelo 'grande capital', e afirma que o objetivo não é eleger ('nós não vamos eleger ninguém. É praticamente impossível. É um problema de travar uma luta política')."
+    },
+    {
+      "id": "src-rp-83",
+      "title": "'PT passou de perseguido a perseguidor', diz Rui Costa Pimenta",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2026/pt-passou-de-perseguido-a-perseguidor-diz-rui-costa-pimenta/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Entrevista publicada no diário do partido em setembro de 2026: relata que o PCO apoiou Lula em 2018, quando o petista estava preso, e em 2022, e que não apoiou Lula em 2006 nem Dilma em 2010 e 2014 ('em 2006, eu acho que a nossa candidatura presidencial foi impugnada'); sobre o 2º turno de 2026 afirma que a posição será definida em conferência do partido, com tendência declarada de voto nulo e recusa de voto em Flávio Bolsonaro; comenta a operação da PF e a política do governo federal."
+    },
+    {
+      "id": "src-rp-84",
+      "title": "Rui Pimenta denuncia dedo do Mossad na operação da PF contra o PCO: 'querem me expulsar do País'",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2026/rui-pimenta-denuncia-dedo-do-mossad-na-operacao-da-pf-contra-o-pco-querem-me-expulsar-do-pais",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Nota do diário do partido em setembro de 2026: o presidente do PCO afirma que um serviço secreto estrangeiro estaria por trás da ação da Polícia Federal contra o partido e declara que 'querem me expulsar do País'."
+    },
+    {
+      "id": "src-rp-85",
+      "title": "Rui Pimenta em Dourados: 'índios têm integral direito de se armar'",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2026/rui-pimenta-em-dourados-indios-tem-integral-direito-de-se-armar/",
+      "publishedAt": "2026-09-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Cobertura do ato de 19/09/2026 na Aldeia Jaguapiru (Dourados/MS): lançamento da campanha do PCO em Mato Grosso do Sul com candidatos guarani-caiuá, dirigentes, militantes e apoiadores; discurso sobre a questão da terra, regularização de áreas e infraestrutura para a pequena produção; o partido afirma manter há anos atividade política entre os guarani-caiuá de Dourados."
+    },
+    {
+      "id": "src-rp-86",
+      "title": "Candidato do PCO visita aldeia em Dourados e defende reforma agrária",
+      "publisher": "Campo Grande News",
+      "url": "https://www.campograndenews.com.br/politica/durante-ato-em-dourados-presidenciavel-do-pco-defende-distribuicao-de-terra",
+      "publishedAt": "2026-09-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 19/09/2026: agenda do candidato em Mato Grosso do Sul, defesa da distribuição de terra aos indígenas e de plano de industrialização nacional; registra que ele foi o primeiro presidenciável a visitar o estado após 16/08 e que apenas cinco dos 14 candidatos registrados passaram por Mato Grosso do Sul durante a campanha."
+    },
+    {
+      "id": "src-rp-87",
+      "title": "Rui Pimenta, do PCO, chama ação da PF de 'ridícula': 'Digna de palhaços'",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/eleicoes/2026/08/11/rui-pimenta-do-pco-chama-acao-da-pf-de-ridicula-digna-de-palhacos.ghtm",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 11/08/2026: nota do PCO classifica a operação da PF como 'perseguição política', 'ilegal, antidemocrática' e 'tática de intimidação'; o candidato nega ilegalidade nos pagamentos a gráfica ligada a integrante da direção nacional ('o juiz pode achar isso estranho, mas não é ilegal... não está na lei eleitoral que você é obrigado a contratar empresas de pessoas que não tenham vinculação partidária'); a operação 'Causa Própria' investiga desvio de recursos dos fundos partidário e eleitoral."
+    },
+    {
+      "id": "src-rp-88",
+      "title": "Uma Breve História do PCO",
+      "publisher": "Partido da Causa Operária (PCO)",
+      "url": "https://pco.org.br/uma-breve-historia-do-pco",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+    },
+    {
+      "id": "src-rp-89",
+      "title": "Esquerda, volver! O que une (e separa) UP, PCO, PSTU e PCB",
+      "publisher": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/esquerda-volver-o-que-une-e-divide-up-pco-pstu-e-pcb",
+      "publishedAt": "2020",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 2020 sobre as quatro legendas sem cargos e sem recursos: registra que o PCO era, antes do registro próprio, uma corrente do PT, a 'Causa Operária', expulsa em 1995 por divergências políticas ('a ala não concordava com alianças com a burguesia', segundo o membro da executiva nacional Antônio Carlos Silva, professor); descreve a posição do partido no movimento sindical e a não prioridade dada a disputas eleitorais."
+    },
+    {
+      "id": "src-rp-90",
+      "title": "Workers' Cause Party — verbete (Wikipédia em inglês: fundação em 07/12/1995, cisão do PT, candidatura de 2006 cassada)",
+      "publisher": "Wikipédia (em inglês)",
+      "url": "https://en.wikipedia.org/wiki/Workers%27_Cause_Party",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Verbete usado apenas como índice: partido fundado em 07/12/1995 por cisão do PT, presidência de Rui Costa Pimenta; registra que 'in 2006, the candidacy of Rui Costa Pimenta to presidency was abrogated by the Superior Electoral Court'. O verbete contém seção crítica sobre a condução interna do partido cujas fontes primárias não foram localizadas nesta rodada; não foi usada como evidência isolada."
+    },
+    {
+      "id": "src-rp-91",
+      "title": "Candidatos nas eleições de 2026 assinam carta de compromisso com defesa da Palestina",
+      "publisher": "Opera Mundi",
+      "url": "https://operamundi.uol.com.br/eleicoes-2026-brasil/candidatos-nas-eleicoes-de-2026-assinam-carta-de-compromisso-com-defesa-da-palestina/",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento de 21/09/2026: quatro presidenciáveis signatários da carta de compromisso com a defesa da Palestina (Samara Martins/UP, Edmilson Costa/PCB, Hertz Dias/PSTU e Rui Costa Pimenta/PCO), além de 53 candidaturas a governos estaduais ou distrital e centenas de postulantes a Senado, Câmara dos Deputados e assembleias legislativas."
+    },
+    {
+      "id": "src-wg-83",
+      "title": "Toffoli orders to suspend Wilson Grassi digital campaign by strategic default of information",
+      "publisher": "JuriNews (edição em inglês)",
+      "url": "https://jurinews.com.br/en/justica-eleitoral/toffoli-orders-to-suspend-wilson-grassi-digital-campaign-by-strategic-default-of-information",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Decisão cautelar do ministro Dias Toffoli (TSE), assinada em 30/08/2026 e divulgada em 31/08: suspensão da campanha digital, do acesso a novos repasses do Fundo Especial de Financiamento de Campanha (com bloqueio da execução de R$ 3.307.679,85 já direcionados) e da participação em sabatinas, podcasts e debates; multas de R$ 10 mil por hora e por perfil para as plataformas e de R$ 50 mil por nova infração da campanha; prazo de 24 horas para o candidato explicar a criação de cada perfil, sob risco de rejeição definitiva do registro; motivo: declaração de oito perfis em 28/08, 17 dias após o pedido de registro."
+    },
+    {
+      "id": "src-wg-76",
+      "title": "Toffoli reverses decision and authorizes Wilson Grassi digital advertising",
+      "publisher": "JuriNews (edição em inglês)",
+      "url": "https://jurinews.com.br/en/justica-eleitoral/toffoli-reverses-decision-and-authorizes-wilson-grassi-digital-advertising",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Decisão de 02/09/2026: o relator reconsidera a própria decisão após os esclarecimentos da defesa sobre o mecanismo de espelhamento entre contas de Facebook e Instagram; propaganda eleitoral na internet, repasses do FEFC e participação em debates em TV, rádio e podcasts restabelecidos."
+    },
+    {
+      "id": "src-wg-77",
+      "title": "Além de Renan, Toffoli suspende campanha digital e debates de Wilson Grassi",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/eleicoes/2026/08/31/toffoli-campanha-wilson-grassi.ghtm",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 31/08/2026: registra a suspensão da campanha digital, da participação em debates e do acesso ao fundo eleitoral do candidato do Democrata, com decisão semelhante aplicada a Renan Santos (Missão)."
+    },
+    {
+      "id": "src-wg-78",
+      "title": "Candidato a presidente Wilson Grassi também tem campanha suspensa por decisão do TSE",
+      "publisher": "NSC Total",
+      "url": "https://www.nsctotal.com.br/politica/candidato-a-presidente-wilson-grassi-tambem-tem-campanha-suspensa-por-decisao-do-tse",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 31/08/2026: reproduz trechos da decisão ('A omissão de informação devida não é mera falha formal do registro de candidatura, mas quebra de isonomia') e registra que o partido não tem direito a horário eleitoral em rádio e TV; o partido sustentou que a conta oficial da campanha constava do registro apresentado em 11/08."
+    },
+    {
+      "id": "src-wg-79",
+      "title": "Democrata, antigo PMB, lança candidatura de Wilson Grassi ao Planalto",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/120990/democrata-antigo-pmb-lanca-candidatura-de-wilson-grassi-ao-planalto",
+      "publishedAt": "2026-08-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 04/08/2026: convenção nacional em 02/08/2026 no Rio de Janeiro; primeira candidatura própria da legenda ao Planalto, fundada em 2008 como Partido da Mulher Brasileira e renomeada Democrata em dezembro de 2025 após autorização do TSE; a vice seria indicada pela executiva nacional; registra 6.580 votos em 2022 (deputado federal/PV) e 2.777 votos em 2024 (vereador/PRTB) e a atuação como conselheiro da Anclivepa na criação do primeiro hospital público para cães e gatos de São Paulo em 2015. Divergência registrada: as fichas com dados do TSE registram a candidatura de 2022 como 'inapto'."
+    },
+    {
+      "id": "src-wg-80",
+      "title": "Veterinário Wilson Grassi registra candidatura à Presidência e declara patrimônio de R$ 50 milhões",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/eleicoes/veterinario-wilson-grassi-registra-candidatura-a-presidencia-e-declara-patrimonio-de-r-50-milhoes",
+      "publishedAt": "2026-08-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 12/08/2026: registro da candidatura no TSE com R$ 50 milhões em bens (imóveis e veículos); candidaturas anteriores: deputado estadual por São Paulo em 2006 (PFL) e vereador da capital em 2024 (PRTB); em 2022 a candidatura a deputado federal foi considerada inapta pelo TSE; plano de governo focado em mudanças tributárias, combate ao crime organizado e reforço da segurança nas fronteiras; em 2024 declarou R$ 24 milhões em bens."
+    },
+    {
+      "id": "src-wg-81",
+      "title": "Um sonho que se tornou realidade",
+      "publisher": "Uni-A (mantenedora de ensino criada pelo candidato)",
+      "url": "https://uniaeduc.com.br/um-sonho-que-se-tornou-realidade/",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Página institucional da Uni-A, mantenedora criada pelo candidato em 2022, que administra as faculdades Anclivepa, Alvorada e Fagh: lista 1997 (criação da rede de clínicas veterinárias DG Prevent Pet, com foco em castração e preços populares), 2011 (implantação de hospitais veterinários públicos em São Paulo, Osasco, Mogi das Cruzes, Distrito Federal, Fortaleza e Porto Alegre), 2015 (criação do plano de saúde veterinário Medina com Carinho), 2016 (Faculdade Anclivepa, da qual é sócio), 2020 (serviço de tele triagem veterinária para atendimento via internet nos hospitais públicos) e 2022 (Uni-A); descreve a trajetória profissional anterior (office boy, porteiro, aeroviário) e os estudos custeados com trabalho noturno. Informação autodeclarada por entidade criada pelo próprio candidato."
+    },
+    {
+      "id": "src-wg-82",
+      "title": "Democrata define Wilson Grassi Júnior candidato à Presidência",
+      "publisher": "Infonet",
+      "url": "https://infonet.com.br/noticias/politica/democrata-define-wilson-grassi-junior-candidato-a-presidencia",
+      "publishedAt": "2026-08-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 02/08/2026: a convenção do partido realizada naquele domingo no Rio de Janeiro oficializou a candidatura; a vaga de vice permaneceu aberta à definição da Comissão Executiva Nacional, com possibilidade de formação de coligação; primeira convenção desde a mudança de nome (PMB para Democrata) em dezembro de 2025 e primeira candidatura presidencial própria da legenda; registra a atuação como conselheiro da Anclivepa-SP no projeto de implantação e gestão do primeiro hospital público para cães e gatos do país, no Tatuapé (zona leste de São Paulo)."
+    }
+  ],
   "candidates": {
     "edmilson-costa": {
       "capacities": [
-        { "slug": "tomada-decisao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "gestao-crises", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "coordenacao-institucional", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "tomada-decisao",
+          "synthesis": "Em 2010 o partido admitiu retirar sua candidatura presidencial própria para fechar aliança nacional com o PSOL, negociando tempo de rádio e TV e coligações proporcionais; sem acordo, manteve a chapa própria, e desde então recusou aliança com o PT no 1º turno em seis eleições consecutivas (0,04% dos votos válidos em 2022). Em 2023, a decisão do Comitê Central de suspender a participação na Plataforma Mundial Anti-imperialista ocorreu depois da divulgação da ida dele ao evento e abriu a crise interna. Em 2026 lançou a pré-candidatura após a cisão de 2023 e sustentou programa de extinção do Senado e suspensão do pagamento da dívida pública, respondendo sobre viabilidade com aposta em mobilização popular.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-tomada-decisao-ec-01",
+              "kind": "historico",
+              "title": "Negociação de aliança com o PSOL (2010): oferta de retirada da candidatura presidencial própria",
+              "role": "candidato a vice-presidente da chapa própria que seria retirada e membro da Comissão Política Nacional, instância que adotou a decisão de encerrar as negociações",
+              "complexity": "alcance nacional; dois partidos; definição de cinco cargos (presidente, governador, senador, deputado federal e estadual) e divisão de 20 programas de rádio/TV por cargo em cada estado; contrapropostas formais sobre São Paulo e sobre coligações proporcionais",
+              "outcome": "negociações encerradas sem acordo em 01/07/2010; mantidas as candidaturas próprias do PCB a presidente e vice e as chapas estaduais, exceto onde havia coligação regional; nota pública publicada pelo partido",
+              "period": "2010",
+              "context": "o Comitê Central havia admitido abrir mão da candidatura presidencial própria para viabilizar frente anticapitalista com o PSOL; os interlocutores mantiveram a proposta de 16 dos 20 programas de TV e 90% do horário nas coligações proporcionais em São Paulo; a nota descreve 'diálogo respeitoso' e o interesse do PCB na unidade de ação à esquerda",
+              "sources": [
+                {
+                  "id": "src-ec-77"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-ec-02",
+              "kind": "historico",
+              "title": "Recusa de composição com o PT no 1º turno em seis eleições consecutivas",
+              "role": "secretário-geral nacional do PCB (desde 17/10/2016) e candidato à Presidência em 2026",
+              "complexity": "alcance nacional; seis pleitos consecutivos; desempenho de 0,04% dos votos válidos em 2022 mantido como resultado aceito; programa com medidas que dependem de maioria parlamentar ou de mobilização (extinção do Senado, estatização do sistema financeiro, suspensão do pagamento da dívida pública)",
+              "outcome": "candidaturas próprias mantidas em todos os pleitos; questionado sobre viabilidade sem maioria no Congresso, o candidato respondeu com aposta em mobilização popular e citou o impeachment de Collor em 1992; em entrevista afirmou que a disputa ocorre sem rádio, TV ou poder econômico",
+              "period": "2010–2026",
+              "context": "a justificativa pública é o não cumprimento, pelo governo federal, de promessas de campanha (revisão das reformas trabalhista e previdenciária, arcabouço fiscal); a reportagem registra que o partido recusa a aliança pela sexta vez seguida e aponta as 'políticas de compensação social' como insuficientes",
+              "sources": [
+                {
+                  "id": "src-ec-84"
+                },
+                {
+                  "id": "src-ec-83"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-ec-03",
+              "kind": "historico",
+              "title": "Decisão de suspender a participação na Plataforma Mundial Anti-imperialista (2023)",
+              "role": "secretário-geral nacional, participante de evento da Plataforma antes da suspensão; a decisão é do Comitê Central, com autocrítica do secretário de Relações Internacionais",
+              "complexity": "articulação internacional com partidos de vários países, promovida pelo Partido da Democracia Popular (Comunista) da Coreia do Sul; consulta prévia a partido irmão venezuelano; contrariedade a resolução do XVI Congresso do PCB; efeito interno imediato com abertura de processo de expulsões",
+              "outcome": "participação suspensa pelo Comitê Central e autocrítica registrada em circular de 01/08/2023; a divergência tornou-se pública e deu origem à crise interna do partido em julho e agosto de 2023",
+              "period": "2022–2023",
+              "context": "a divulgação da ida de dirigentes à conferência de Seul foi feita pelo ex-secretário-geral Ivan Pinheiro em junho de 2023 e passou a dividir a militância; a circular afirma que o PCB não referendou a linha política da Plataforma",
+              "sources": [
+                {
+                  "id": "src-ec-82"
+                },
+                {
+                  "id": "src-ec-81"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-ec-04",
+              "kind": "historico",
+              "title": "Candidatura presidencial de 2026 lançada após a cisão de 2023, com chapa pura e programa de ruptura",
+              "role": "secretário-geral nacional e candidato à Presidência (registro deferido)",
+              "complexity": "partido sem bancada federal (0 deputados e 0 senadores em exercício, conforme dados abertos consultados em 29/09/2026); contexto de dissidência que originou o Partido Comunista Brasileiro Revolucionário; 12 candidaturas presidenciais no pleito; chapa pura sem coligação",
+              "outcome": "pré-candidatura lançada em abril de 2026 em ato na Associação Brasileira de Imprensa (Rio de Janeiro), convenção nacional em 01/08/2026 e registro deferido; programa com cinco transformações estruturais registrado no TSE",
+              "period": "2026",
+              "context": "a eleição presidencial de 2026 é a primeira do PCB após a dissidência de 2023; a chapa é composta com a professora aposentada Cleusa Santos como vice",
+              "sources": [
+                {
+                  "id": "src-ec-83"
+                },
+                {
+                  "id": "src-ec-71"
+                },
+                {
+                  "id": "src-ec-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "gestao-crises",
+          "synthesis": "Em outubro de 2016 conduziu a transição na secretaria-geral do PCB: o Comitê Central aceitou a carta de afastamento do antecessor e o indicou por unanimidade, com criação de um Secretariado Político colegiado. Na crise interna de 2023, a direção sob sua secretaria-geral assinou a nota sobre os ataques públicos ao partido e formalizou expulsões por fracionismo, em processo contestado pelos grupos desligados e que resultou na cisão que originou o PCBR. Antes disso, integrou o processo de Reconstrução Revolucionária iniciado após a cisão de 1992.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-gestao-crises-ec-01",
+              "kind": "historico",
+              "title": "Transição na secretaria-geral do PCB (outubro de 2016)",
+              "role": "secretário-geral indicado por unanimidade pelo Comitê Central em reunião de 8 e 9/10/2016, em substituição a Ivan Pinheiro",
+              "complexity": "substituição do titular do partido em reunião de dois dias; eleição de Secretariado Político de cinco dirigentes, coordenado pelo novo secretário-geral e incluindo o secretário-geral afastado; partido em processo de reorganização havia 24 anos",
+              "outcome": "transição formalizada em 17/10/2016 e comunicada em carta à militância, que descreve processo 'tranquilo, sem traumas ou divergências'; o mesmo dirigente substituído foi expulso do partido em 2023 (ver evidência seguinte)",
+              "period": "2016",
+              "context": "o antecessor alegou dificuldade de cumprir plenamente as tarefas da secretaria-geral; a carta vincula a nova etapa à 'resistência à liquidação do PCB em 1992' e à crise econômica e política do período",
+              "sources": [
+                {
+                  "id": "src-ec-78"
+                },
+                {
+                  "id": "src-ec-76"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-gestao-crises-ec-02",
+              "kind": "historico",
+              "title": "Crise interna de 2023: nota do secretário-geral, expulsões e cisão que originou o PCBR",
+              "role": "secretário-geral nacional; assinou o comunicado sobre os ataques públicos ao partido (julho de 2023); as expulsões foram deliberadas pelo Comitê Central",
+              "complexity": "notas públicas da direção nacional e de comitês regionais (Rio Grande do Sul e Pará); expulsões de ex-secretário-geral e ex-candidato à Presidência e de outros militantes em julho e agosto de 2023; criação do espaço 'Reconstrução Revolucionária' e depois do Partido Comunista Brasileiro Revolucionário (PCBR)",
+              "outcome": "ruptura consumada: a eleição de 2026 foi a primeira do PCB após a dissidência; os grupos desligados divulgaram documentos internos e denunciaram medidas administrativas, e a direção contestou a divulgação da vida interna do partido",
+              "period": "2023–2026",
+              "context": "o motivo declarado foram divergências sobre a participação do PCB na Plataforma Mundial Anti-imperialista e sobre a política em relação ao governo federal; as versões dos dois lados estão registradas nas fontes, sem conclusão de processo interno localizada nesta rodada",
+              "sources": [
+                {
+                  "id": "src-ec-80"
+                },
+                {
+                  "id": "src-ec-81"
+                },
+                {
+                  "id": "src-ec-82"
+                },
+                {
+                  "id": "src-ec-83"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-ec-03",
+              "kind": "historico",
+              "title": "Crise interna no Rio Grande do Sul (nota de 21/09/2023): mediação e depois formalização de expulsões",
+              "role": "direção partidária sob a secretaria-geral de Edmilson Costa; a nota é publicada no site oficial do partido e descreve a política nacional de desligamentos aplicada por direções regionais",
+              "complexity": "afetou a direção estadual da juventude, células de Rio Grande e Santa Maria e cinco dirigentes nomeados; regra estatutária de proibição de fracionismo; tentativa prévia de mediação antes da medida disciplinar",
+              "outcome": "expulsões formalizadas, com previsão de retorno em caso de autocrítica pública; a nota registra que o grupo desligado continuava administrando redes sociais e símbolos do partido",
+              "period": "2023",
+              "context": "o evento com o ex-secretário-geral em Porto Alegre foi classificado na nota como 'quebra de unidade' e 'provocação à direção'; a nota não identifica a instância signatária",
+              "sources": [
+                {
+                  "id": "src-ec-79"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-ec-04",
+              "kind": "historico",
+              "title": "Reorganização partidária após a cisão de 1992 (processo de Reconstrução Revolucionária)",
+              "role": "dirigente do processo de Reconstrução Revolucionária, militante do PCB desde 1970 e membro da Comissão Política Nacional desde 2001",
+              "complexity": "reorganização nacional após a cisão de 1992, com as fases declaradas de 'sobrevivência e resistência' e de 'reconstrução leninista'; 24 anos até a assunção da secretaria-geral; contexto de desagregação da União Soviética",
+              "outcome": "partido mantido em funcionamento, com convenções e congressos nacionais e candidatura presidencial registrada em 2026; levantamento de imprensa de 2020 registrava 12,9 mil filiados listados pelo TSE, presença declarada em mais de cem sindicatos e último cargo eletivo conquistado em 2015 (vereadora em Goiânia)",
+              "period": "1992–2016",
+              "context": "o próprio candidato descreve o processo como resposta à tentativa de 'liquidação do PCB em 1992'; a fonte principal é documento do próprio partido, complementada por verbete e reportagem de 2020",
+              "sources": [
+                {
+                  "id": "src-ec-78"
+                },
+                {
+                  "id": "src-ec-03"
+                },
+                {
+                  "id": "src-ec-86"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "synthesis": "Coordenação entre partidos, movimentos e organizações internacionais sem ter exercido mandato: convenção eleitoral unificada com PSOL, PSTU, MTST e coletivos indígenas em Roraima (2018), articulação com partidos comunistas estrangeiros na Plataforma Mundial Anti-imperialista e no Encontro Internacional de Partidos Comunistas e Operários, e convenções realizadas em espaço da Câmara Municipal de São Paulo e da Associação Brasileira de Imprensa. O programa registrado em 2026 propõe mecanismos de negociação com entidades sindicais e de serviço público.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-coordenacao-institucional-ec-01",
+              "kind": "historico",
+              "title": "Frente de Esquerda em Roraima: convenção unificada com PSOL, PSTU, MTST e organizações indígenas (2018)",
+              "role": "secretário-geral nacional do PCB; deslocou-se a Roraima em setembro de 2018 para impulsionar as candidaturas da coligação e concedeu entrevista sobre a aliança",
+              "complexity": "três partidos na mesma convenção (PCB, PSOL e PSTU) mais MTST, coletivos de lideranças indígenas, movimentos sociais e estudantis e coletivos de artes e cultura; três cargos majoritários em disputa (governo e duas vagas ao Senado) e seis candidaturas a deputado estadual, três delas da fração indígena",
+              "outcome": "candidaturas aprovadas em convenção eleitoral unificada (Fábio Almeida/PSOL ao governo; Telma Taurepang/PCB e Lourival/PSTU ao Senado) e agenda de atos e entrevistas no estado",
+              "period": "2018",
+              "context": "a aliança nacional com PSOL, MTST e movimento indígena foi apresentada como alternativa ao 'modelo de velha política'; a fonte é nota do próprio partido",
+              "sources": [
+                {
+                  "id": "src-ec-85"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-ec-02",
+              "kind": "historico",
+              "title": "Articulação internacional com partidos comunistas: Plataforma Mundial Anti-imperialista e consulta a partido venezuelano (2022–2023)",
+              "role": "secretário-geral nacional, designado nominalmente em pauta da Comissão Política Nacional para participar de encontro da articulação na Venezuela",
+              "complexity": "articulação promovida pelo Partido da Democracia Popular (Comunista) da Coreia do Sul; consulta formal ao Partido Comunista da Venezuela antes da viagem; conferência em Seul, encontro previsto na Venezuela e saudação a evento em Belgrado (Sérvia); participação de delegação na Conferência de 2016 e no 19º Encontro Internacional de Partidos Comunistas e Operários (Rússia, 2017)",
+              "outcome": "participação registrada em pauta de informes do Comitê Central; em 01/08/2023 a participação na Plataforma foi suspensa por decisão do Comitê Central, com autocrítica do secretário de Relações Internacionais",
+              "period": "2022–2023",
+              "context": "a articulação internacional é o tema que originou a crise interna de 2023; as fontes usadas são os documentos do grupo que questionou a direção e a circular reproduzida neles",
+              "sources": [
+                {
+                  "id": "src-ec-82"
+                },
+                {
+                  "id": "src-ec-81"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-ec-03",
+              "kind": "historico",
+              "title": "Convenção nacional de 2026 no auditório da Câmara Municipal de São Paulo e pré-candidatura lançada na ABI (Rio)",
+              "role": "secretário-geral e candidato; conduziu a convenção nacional de 01/08/2026",
+              "complexity": "uso de espaço institucional do Legislativo municipal paulistano para a convenção nacional do partido; lançamento da pré-candidatura em abril de 2026 na sede da Associação Brasileira de Imprensa, no Rio de Janeiro; cobertura simultânea de veículos nacionais",
+              "outcome": "chapa homologada com a vice Cleusa Santos e registro deferido; cobertura de Agência Brasil, g1, CNN, Terra e O Tempo",
+              "period": "2026",
+              "context": "o partido não tem representação federal e a chapa é pura, sem coligação ou federação registrada",
+              "sources": [
+                {
+                  "id": "src-ec-07"
+                },
+                {
+                  "id": "src-ec-06"
+                },
+                {
+                  "id": "src-ec-83"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-ec-04",
+              "kind": "proposta",
+              "title": "Mecanismo de negociação no programa: Encontros Nacionais da Classe Trabalhadora e diálogo com Fonasefe e Dieese",
+              "role": "candidato (proposta do programa registrado no TSE)",
+              "complexity": "proposta de alcance nacional: encontros com a classe trabalhadora para elaborar reforma trabalhista; negociação coletiva obrigatória para o setor público e o privado; ampliação da taxa negocial; referência à convenção 158 da OIT; interlocução nomeada com Fonasefe, Dieese e demais entidades do serviço público",
+              "outcome": "não executado — item do programa registrado no TSE em agosto de 2026, dependente de maioria parlamentar ou de mobilização social",
+              "period": "2026",
+              "context": "o programa (16 páginas) organiza cinco transformações estruturais e prevê conselhos populares, plebiscitos e referendos como instrumentos de decisão",
+              "sources": [
+                {
+                  "id": "src-ec-74"
+                },
+                {
+                  "id": "src-ec-70"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        }
       ]
     },
     "hertz-dias": {
       "capacities": [
-        { "slug": "tomada-decisao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "gestao-crises", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "coordenacao-institucional", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "tomada-decisao",
+          "synthesis": "Ingressou no PSTU e na LIT em 2010, após 21 anos de militância no movimento negro e hip hop, declarando que a atuação sem partido seria limitada; em 2018 aceitou a vice-presidência na chapa de Vera Lúcia e, em 2026, disputou pela quinta vez, agora como titular, com 99% da receita vinda da direção nacional do partido. Mantém a posição declarada de não aderir ao 'mal menor' e de governar apoiado em conselhos populares, e não no Congresso.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-tomada-decisao-hd-01",
+              "kind": "historico",
+              "title": "Ingresso no PSTU e na LIT em 2010, após 21 anos de militância em movimento",
+              "role": "militante do PSTU e da LIT desde 2010; naquele ano candidato a vice-governador do Maranhão",
+              "complexity": "decisão de filiação após militância iniciada em 1989 no movimento hip hop Quilombo Urbano; partido com programa definido e organização internacional (LIT-QI), em ano de disputa eleitoral estadual",
+              "outcome": "filiação no mesmo ano da primeira candidatura eleitoral; no ano seguinte assinou a articulação de fundação do Movimento Negro Quilombo Raça e Classe no Maranhão",
+              "period": "2010–2011",
+              "context": "em entrevista de 2017 declarou que a militância seria 'muito limitada sem um partido com um programa revolucionário, internacionalista' e que simpatizava com o PSTU desde antes da filiação",
+              "sources": [
+                {
+                  "id": "src-hd-80"
+                },
+                {
+                  "id": "src-hd-79"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-hd-02",
+              "kind": "historico",
+              "title": "Candidatura presidencial de 2026 com campanha custeada pela direção nacional do PSTU",
+              "role": "candidato titular da chapa do PSTU à Presidência",
+              "complexity": "chapa pura com vice de outro estado; receita de R$ 1.087.584,16 declarada até 08/09/2026, dos quais R$ 1.074.389,00 (99%) repassados pela direção nacional do partido; R$ 1.050.232,71 em gastos contratados; partido sem representação no Congresso",
+              "outcome": "quinta candidatura do candidato e quinta do partido à Presidência desde 2010; agenda nacional com sabatinas e entrevistas (Correio Braziliense, Jornal Nacional, SBT News, Alma Preta)",
+              "period": "2026",
+              "context": "o candidato afirma que a campanha enfrenta 'boicote profundo' e que o objetivo é organizar a classe trabalhadora, não a vitória eleitoral",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                },
+                {
+                  "id": "src-hd-87"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-hd-03",
+              "kind": "posicao",
+              "title": "Recusa do 'mal menor' e opção por conselhos populares como base de sustentação",
+              "role": "candidato; posição exposta em entrevistas a veículos nacionais e no jornal do partido",
+              "complexity": "posição declarada em ao menos três veículos distintos (Monitor Mercantil, Alma Preta e SBT News) e no órgão partidário; contrapõe aliança com o governo federal e com a extrema direita; propõe conselhos populares formados por sindicatos, movimentos populares e movimentos sociais como base de governo",
+              "outcome": "não observável no período eleitoral: o candidato registrava 0% nas pesquisas Datafolha de 21/08/2026 e Quaest-DF de 25/08/2026 localizadas",
+              "period": "2026",
+              "context": "ao justificar o método, citou a ocupação de uma empresa em Santarém por povos indígenas como exemplo de pressão social que produziu revogação de decreto federal",
+              "sources": [
+                {
+                  "id": "src-hd-84"
+                },
+                {
+                  "id": "src-hd-87"
+                },
+                {
+                  "id": "src-hd-16"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-hd-04",
+              "kind": "historico",
+              "title": "Aceite da vaga de vice-presidente na chapa de 2018, primeira disputa nacional",
+              "role": "candidato a vice-presidente na chapa encabeçada por Vera Lúcia (PSTU)",
+              "complexity": "chapa nacional com titular de trajetória sindical e militante de outro estado; 13 chapas na disputa; 55.762 votos (0,05%), 11ª colocação",
+              "outcome": "candidatura não eleita; trajetória nacional iniciada em 2018 e retomada em 2026 como titular, depois de disputas estaduais e municipais no Maranhão",
+              "period": "2018",
+              "context": "antes de 2018 havia disputado apenas o governo e a prefeitura no Maranhão (2010, 2020 e 2022), todas não eleitas",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                },
+                {
+                  "id": "src-hd-71"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "gestao-crises",
+          "synthesis": "Sem passagem por cargo público executivo, as situações críticas documentadas vêm do movimento social e da campanha: participação do movimento Quilombo Urbano em ação pela titulação de terras quilombolas em 1994 e em resposta pública a agressão policial a militante, reorientação do movimento após 2002 (saída do Fórum de Entidades Negras e filiação à Conlutas) e manutenção da campanha de 2026 diante de 0% nas pesquisas e do que o candidato descreve como boicote.",
+          "coverage": "parcial",
+          "coverageNote": "Nunca exerceu função executiva estatal: não há registro de gestão de crise administrativa, orçamentária ou de pessoal. As evidências são de movimento social (datas exatas de parte dos episódios não constam das fontes) e de campanha eleitoral; o papel do candidato nas ações do movimento é o de militante e cofundador, não de gestor.",
+          "evidences": [
+            {
+              "id": "ev-cap-gestao-crises-hd-01",
+              "kind": "historico",
+              "title": "Resposta do movimento Quilombo Urbano a episódios de violência institucional em São Luís",
+              "role": "cofundador do movimento (1989) e militante; as notas e ações são do movimento, assinadas coletivamente",
+              "complexity": "movimento estadual com atuação em rap, break e grafite e articulação com entidades do movimento negro, sindicatos e CSP-Conlutas; resposta pública a agressão de policiais militares a militante do movimento e da juventude do PSTU, com advogados nomeados e mobilização de militantes no plantão policial",
+              "outcome": "nota pública do movimento com agradecimento a advogados e a entidades (CSP-Conlutas, Quilombo Raça e Classe, ANEL, CPT, Moquibom, fórum estadual da juventude negra e movimentos de hip hop) e relato de intervenção de militantes durante a detenção",
+              "period": "década de 2010 (data exata não indicada no blog)",
+              "context": "as fontes são o blog do próprio movimento e estudo acadêmico sobre sua trajetória; a data do episódio não consta da publicação",
+              "sources": [
+                {
+                  "id": "src-hd-83"
+                },
+                {
+                  "id": "src-hd-81"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-gestao-crises-hd-02",
+              "kind": "historico",
+              "title": "Ocupação do IBAMA em 1994 pela titulação de terras de comunidade quilombola",
+              "role": "militante do Quilombo Urbano, movimento que integrou a ocupação liderada pelo Centro de Cultura Negra do Maranhão",
+              "complexity": "ocupação do gabinete do superintendente do IBAMA em São Luís por 17 dias (02 a 19/05/1994), pela titulação de terras da comunidade de Frechal (Mirinzal, a 390 km da capital), com articulação entre movimento negro, movimento hip hop e entidades locais",
+              "outcome": "trabalhos do IBAMA inviabilizados no período; aproximação do movimento com o movimento negro estadual e sua entrada no Fórum de Entidades Negras, do qual participou até 1995",
+              "period": "1994",
+              "context": "o protagonismo da ação é atribuído pelo estudo ao Centro de Cultura Negra; o candidato era então militante de base do movimento hip hop, cofundado cinco anos antes",
+              "sources": [
+                {
+                  "id": "src-hd-81"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-gestao-crises-hd-03",
+              "kind": "historico",
+              "title": "Reorientação do movimento após 2002: saída do Fórum de Entidades Negras e filiação à Conlutas",
+              "role": "militante do movimento Quilombo Urbano, que tomou as decisões de posicionamento",
+              "complexity": "rompimento com o Fórum de Entidades Negras em 1995 por divergência sobre a Marcha dos 300 anos de Zumbi e com o PT em 2002; filiação do movimento à Conlutas/CSP-Conlutas e participação no ato nacional de 25/03/2007 (cerca de 6 mil militantes e 600 entidades); atuação ao lado de entidades como APRUMA e ANDES na construção da central no Maranhão",
+              "outcome": "movimento reposicionado no campo da CSP-Conlutas e com aproximação crescente do PSTU, que se consolidou na filiação do candidato em 2010",
+              "period": "1995–2010",
+              "context": "a mudança de alinhamento é descrita em estudo acadêmico sobre o movimento, a partir de entrevistas com seus dois principais dirigentes",
+              "sources": [
+                {
+                  "id": "src-hd-81"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-gestao-crises-hd-04",
+              "kind": "historico",
+              "title": "Continuidade da campanha de 2026 diante de 0% nas pesquisas e do 'boicote' declarado",
+              "role": "candidato titular da chapa presidencial",
+              "complexity": "agenda em ao menos cinco estados (São Paulo, Minas Gerais, Pará, Pernambuco e Maranhão) com plenárias, visitas e entrevistas; sabatinas em imprensa nacional; sem pontuação nas pesquisas Datafolha de 21/08/2026 e Quaest-DF de 25/08/2026",
+              "outcome": "candidatura mantida até o 1º turno, com campanha custeada pela direção nacional do partido e receita de R$ 1,08 milhão declarada; cobertura de Jornal Nacional, BBC, CNN, Correio Braziliense e SBT News",
+              "period": "2026",
+              "context": "em 29/08/2026 o candidato afirmou ao SBT News que a campanha enfrenta 'boicote profundo'; o partido registra no jornal interno que a chapa 'percorre o país' apresentando o programa",
+              "sources": [
+                {
+                  "id": "src-hd-87"
+                },
+                {
+                  "id": "src-hd-82"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "synthesis": "Atuação entre partido, organização internacional e movimentos: delegação da LIT-QI a Cuba em março de 2026 com entrega de medicamentos, fundação do Movimento Negro Quilombo Raça e Classe no Maranhão com cerca de 100 ativistas e mais de uma dezena de entidades, convenção nacional do PSTU realizada na sede do Sindicato dos Metroviários de São Paulo e campanha articulada às candidaturas estaduais do partido. Também participou de sabatina com outros presidenciáveis no auditório do Correio Braziliense.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-coordenacao-institucional-hd-01",
+              "kind": "historico",
+              "title": "Delegação da LIT-QI a Cuba (março de 2026) com entrega de medicamentos",
+              "role": "integrante da delegação de três pessoas da Liga Internacional dos Trabalhadores (IWL/LIT-QI), apresentado como candidato do PSTU",
+              "complexity": "delegação internacional de três integrantes durante o período de campanha; entrega de medicamentos e contatos no país; relato publicado em veículos da Internacional em mais de um idioma",
+              "outcome": "relato publicado pela organização internacional em abril de 2026, apresentando a delegação como PSTU e LIT e relatando os objetivos da visita",
+              "period": "2026-03",
+              "context": "a LIT-QI é a organização internacional da qual o PSTU é a maior seção; a visita ocorreu sob o bloqueio dos EUA contra Cuba, segundo o relato",
+              "sources": [
+                {
+                  "id": "src-hd-86"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-hd-02",
+              "kind": "historico",
+              "title": "Fundação do Movimento Negro Quilombo Raça e Classe no Maranhão (25/07/2011)",
+              "role": "militante do Movimento Nacional Quilombo Raça e Classe e do PSTU-MA, assinando o relato da fundação",
+              "complexity": "ato com cerca de 100 ativistas e presença de entidades do movimento sindical, popular e estudantil da CSP-Conlutas, do Grupo de Trabalho de Etnia do SINASEFE, da Comissão Pastoral da Terra, do movimento hip hop Quilombo Urbano e de entidades do movimento negro do estado; palestra, homenagem a liderança local e lançamento de manifesto estadual",
+              "outcome": "movimento estadual constituído com pauta própria (titulação de terras quilombolas, violência policial contra a juventude negra e desigualdades raciais) e ligado ao movimento nacional da mesma corrente",
+              "period": "2011",
+              "context": "a articulação ocorreu no ano seguinte à filiação do candidato ao PSTU; a pauta une entidades sindicais, movimentos negros e movimentos culturais",
+              "sources": [
+                {
+                  "id": "src-hd-79"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-hd-03",
+              "kind": "historico",
+              "title": "Convenção Nacional Eleitoral de 2026 na sede do Sindicato dos Metroviários de São Paulo",
+              "role": "candidato homologado; a convenção é do PSTU, com direção, militantes e apoiadores de diferentes regiões",
+              "complexity": "convenção nacional em espaço cedido por entidade sindical; chapa pura com vice de Minas Gerais; campanha articulada a candidaturas estaduais, com abertura em 16/08/2026 em São Paulo e São José dos Campos ao lado da candidata ao governo paulista",
+              "outcome": "chapa homologada (Hertz Dias e Vanessa Portugal) em 31/07/2026 e campanha nacional iniciada em agosto, apresentada pelo jornal interno como percurso pelo país junto das candidaturas estaduais",
+              "period": "2026",
+              "context": "a convenção reuniu dirigentes, militantes e apoiadores de vários estados, segundo o relato da organização internacional e a imprensa",
+              "sources": [
+                {
+                  "id": "src-hd-71"
+                },
+                {
+                  "id": "src-hd-82"
+                },
+                {
+                  "id": "src-hd-22"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-hd-04",
+              "kind": "historico",
+              "title": "Sabatina de imprensa com outros presidenciáveis no auditório do Correio Braziliense (julho de 2026)",
+              "role": "um dos quatro pré-candidatos entrevistados na mesma atividade",
+              "complexity": "sabatina com pré-candidatos de quatro legendas distintas (PSTU, Avante, PSD e PRTB); pautas de saúde mental, controle das apostas e enfrentamento do feminicídio; defesa de revogação do arcabouço fiscal e das reformas previdenciária, trabalhista e tributária e de suspensão do pagamento da dívida pública",
+              "outcome": "cobertura publicada e distribuída pelo jornal; a pauta de enfrentamento do feminicídio foi apresentada como prioridade nacional",
+              "period": "2026-07",
+              "context": "atividade de interface com imprensa de referência e com outras candidaturas no mesmo espaço, antes do início oficial da campanha",
+              "sources": [
+                {
+                  "id": "src-hd-85"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     },
     "rui-costa-pimenta": {
       "capacities": [
-        { "slug": "tomada-decisao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "gestao-crises", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "coordenacao-institucional", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "tomada-decisao",
+          "synthesis": "Fundou o PCO em 1995 após a ruptura da corrente Causa Operária com o PT e preside o partido desde então, com candidaturas presidenciais próprias em 2002, 2010, 2014 e 2026. Decidiu apoiar a candidatura de Lula em 2018, quando o petista estava preso, sem integrar coligação, e em agosto de 2026 manteve a candidatura depois de afastado por decisão judicial das funções administrativas do partido, submetendo a posição sobre o 2º turno a uma conferência partidária.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-tomada-decisao-rp-01",
+              "kind": "historico",
+              "title": "Fundação do PCO em 1995 após a ruptura com o PT",
+              "role": "fundador e presidente nacional do PCO desde dezembro de 1995",
+              "complexity": "ruptura da corrente Causa Operária (existente desde 1978, no PT desde 1980) com o maior partido da esquerda brasileira; passagem a legenda própria, sem representação no Congresso e sem participação em governos nos 30 anos seguintes; manutenção de estrutura permanente de imprensa e de escola de formação",
+              "outcome": "partido constituído com registro próprio e candidatura presidencial em 2002, 2010, 2014 e 2026; candidatura de 2006 não admitida pelo TSE, segundo o próprio dirigente e o verbete do partido",
+              "period": "1978–2026",
+              "context": "o histórico oficial do partido registra a origem no rompimento com a Organização Socialista Internacionalista (1978) e a entrada no PT em 1980; reportagem de 2020 registra a expulsão da corrente do PT em 1995 por divergência sobre 'alianças com a burguesia'",
+              "sources": [
+                {
+                  "id": "src-rp-88"
+                },
+                {
+                  "id": "src-rp-89"
+                },
+                {
+                  "id": "src-rp-90"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-rp-02",
+              "kind": "historico",
+              "title": "Apoio à candidatura de Lula em 2018 sem ingresso em coligação",
+              "role": "presidente nacional do PCO",
+              "complexity": "decisão de apoiar candidatura de outro partido durante a prisão do candidato, mantendo estrutura e programa próprios; histórico declarado de candidatura própria em 2002 e 2006 e de não apoio a Dilma em 2010 e 2014; ausência de coligação registrada nas disputas presidenciais do partido",
+              "outcome": "apoio mantido em 2018 e, segundo o dirigente, também em 2022; o PCO não integrou coligação e manteve candidatura própria em 2026",
+              "period": "2018–2022",
+              "context": "em entrevista de 2026 o dirigente resumiu a decisão: 'nós só voltamos a apoiar o Lula quando ele estava preso', após campanhas contra o processo de impeachment de 2016 e pela libertação do petista",
+              "sources": [
+                {
+                  "id": "src-rp-83"
+                },
+                {
+                  "id": "src-rp-02"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-rp-03",
+              "kind": "historico",
+              "title": "Manutenção da candidatura após afastamento cautelar das funções partidárias (agosto de 2026)",
+              "role": "presidente nacional do PCO e candidato à Presidência, afastado por 180 dias das atividades administrativas do partido por decisão da Justiça Eleitoral",
+              "complexity": "inquérito sobre repasses do fundo partidário e do fundo eleitoral a gráficas; quatro mandados de busca em endereços ligados ao partido em São Paulo; bloqueio de até R$ 4,5 milhões dos investigados; medida de afastamento com prazo de 180 dias",
+              "outcome": "candidatura mantida, com registro deferido; o dirigente negou ilegalidade em entrevistas ('o juiz pode achar isso estranho, mas não é ilegal... não está na lei eleitoral que você é obrigado a contratar empresas de pessoas que não tenham vinculação partidária')",
+              "period": "2026-08",
+              "context": "a operação 'Causa Própria' foi autorizada pela Justiça Eleitoral do Distrito Federal a partir da análise de prestações de contas do partido e de relatórios de inteligência financeira; não há denúncia ou conclusão do inquérito registrada até 29/09/2026",
+              "sources": [
+                {
+                  "id": "src-rp-03"
+                },
+                {
+                  "id": "src-rp-04"
+                },
+                {
+                  "id": "src-rp-87"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-rp-04",
+              "kind": "historico",
+              "title": "Definição em conferência partidária da posição sobre o 2º turno de 2026",
+              "role": "presidente nacional; declarou que a posição seria tomada por conferência do partido",
+              "complexity": "decisão sobre posição em eventual 2º turno entre Lula e Flávio Bolsonaro; convocação de conferência para análise da conjuntura estadual e nacional; tendência declarada de voto nulo, com recusa de voto no candidato da extrema direita",
+              "outcome": "posição não formalizada até 29/09/2026; em entrevista anterior no mesmo período eleitoral, o dirigente havia indicado que o voto do partido 'possivelmente' seria em Lula",
+              "period": "2026-09",
+              "context": "o dirigente descreveu o processo: 'a gente vai convocar uma conferência, vamos analisar a situação estadual, vamos analisar a eleição nacional e vamos assumir uma posição'",
+              "sources": [
+                {
+                  "id": "src-rp-83"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-rp-05",
+              "kind": "posicao",
+              "title": "Candidatura de 2026 definida como instrumento de propaganda política, com chapas em 18 estados e no DF",
+              "role": "presidente nacional e candidato; discurso no ato de oficialização da chapa em 08/08/2026",
+              "complexity": "chapa pura com dirigente sindical da educação como vice; candidaturas próprias organizadas em 18 estados e no Distrito Federal; campanha mantida sem expectativa declarada de vitória",
+              "outcome": "quarta candidatura presidencial do dirigente (2002, 2010, 2014 e 2026); campanha mantida mesmo após a medida cautelar da Justiça Eleitoral",
+              "period": "2026",
+              "context": "no discurso afirmou que 'não é um problema de eleger ninguém... é um problema de travar uma luta política' no momento em que o país discute a eleição",
+              "sources": [
+                {
+                  "id": "src-rp-82"
+                },
+                {
+                  "id": "src-rp-17"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "gestao-crises",
+          "synthesis": "Em agosto de 2026 respondeu à operação da Polícia Federal que apurou desvio de fundos partidário e eleitoral mantendo a candidatura, negando ilegalidade e publicando nota que classifica a ação como perseguição política e tática de intimidação, mesmo após o afastamento cautelar das funções administrativas do partido. Antes, em 2006, a candidatura presidencial não foi admitida pelo TSE e, segundo o próprio dirigente, o partido não apoiou os candidatos do PT naquele ano nem nas duas eleições seguintes, retomando o apoio a Lula apenas em 2018, quando o petista estava preso.",
+          "coverage": "parcial",
+          "coverageNote": "Nunca exerceu cargo executivo estatal: as situações críticas documentadas são judiciais/eleitorais (inquérito da PF em 2026; candidatura de 2006 não admitida) e de conjuntura política (prisão de Lula em 2018). Não há registro de gestão de crise administrativa, orçamentária ou de pessoal; o detalhamento da candidatura de 2006 depende do relato do próprio dirigente e de verbete, sem fonte primária localizada.",
+          "evidences": [
+            {
+              "id": "ev-cap-gestao-crises-rp-01",
+              "kind": "historico",
+              "title": "Operação Causa Própria da Polícia Federal (11/08/2026) e resposta do partido",
+              "role": "presidente nacional do PCO e candidato, alvo de mandado de busca e apreensão e afastado por 180 dias das funções administrativas do partido",
+              "complexity": "quatro mandados em endereços ligados ao partido em São Paulo; afastamento cautelar de 180 dias; bloqueio de até R$ 4,5 milhões dos investigados; inquérito por suspeita de desvio de recursos dos fundos partidário e eleitoral; filho responsável pela comunicação do partido também alvo",
+              "outcome": "nota do partido classifica a medida como 'ilegal, antidemocrática, uma óbvia perseguição política e eleitoral e uma tática de intimidação'; candidatura mantida e registro deferido; sem denúncia ou condenação registrada nas fontes consultadas até 29/09/2026",
+              "period": "2026-08",
+              "context": "a PF afirma que a investigação foi iniciada a partir das prestações de contas eleitorais e partidárias e de relatórios de inteligência financeira; o partido sustenta que o serviço foi prestado e que a campanha é 'espartana'",
+              "sources": [
+                {
+                  "id": "src-rp-04"
+                },
+                {
+                  "id": "src-rp-03"
+                },
+                {
+                  "id": "src-rp-87"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-gestao-crises-rp-02",
+              "kind": "historico",
+              "title": "Continuidade da agenda nacional de campanha após a medida judicial (setembro de 2026)",
+              "role": "candidato; manteve agenda de campanha nos estados",
+              "complexity": "ato de lançamento da campanha estadual em aldeia indígena em Dourados (MS), com candidatos guarani-caiuá e agenda de 12 horas (ato, cerimônia tradicional de reza, programa de análise política, coletiva de imprensa e jantar com professores); campanha em Porto Alegre; entrevista pública imputando a operação a serviço secreto estrangeiro",
+              "outcome": "candidatura e agenda mantidas após a medida cautelar, com cobertura de imprensa regional e do diário partidário; o candidato foi apontado como o primeiro presidenciável a visitar Mato Grosso do Sul após 16/08",
+              "period": "2026-09",
+              "context": "a resposta pública combinou contestação jurídica ('ridícula', 'digna de palhaços', conforme nota do partido) e manutenção da campanha, incluindo nova edição do programa partidário em aldeia",
+              "sources": [
+                {
+                  "id": "src-rp-85"
+                },
+                {
+                  "id": "src-rp-86"
+                },
+                {
+                  "id": "src-rp-84"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-rp-03",
+              "kind": "historico",
+              "title": "Candidatura presidencial de 2006 não admitida pelo TSE e recusa de apoio ao PT no ciclo seguinte",
+              "role": "candidato do PCO à Presidência no pleito de 2006",
+              "complexity": "pleito nacional; candidatura não admitida pela Justiça Eleitoral; partido sem representação no Congresso e sem acesso a tempo de propaganda em rede nacional; decisão de não apoiar os candidatos do PT em 2006 e nas duas eleições seguintes",
+              "outcome": "segundo o próprio dirigente, o PCO não apoiou Lula em 2006 nem Dilma em 2010 e 2014, retomando o apoio a Lula somente em 2018, quando ele estava preso",
+              "period": "2006–2014",
+              "context": "o dirigente ressalva a própria lembrança ('em 2006, eu acho que a nossa candidatura presidencial foi impugnada'); o verbete em inglês do partido registra que a candidatura de 2006 foi cassada pelo TSE; não foi localizada fonte primária com a decisão",
+              "sources": [
+                {
+                  "id": "src-rp-83"
+                },
+                {
+                  "id": "src-rp-90"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-gestao-crises-rp-04",
+              "kind": "historico",
+              "title": "Posicionamento em cenário de ruptura institucional (2016–2018)",
+              "role": "presidente nacional do PCO",
+              "complexity": "atuação em período de impeachment, prisão de pré-candidato favorito e contestação do processo eleitoral; decisão de campanha pela libertação de Lula e de apoio crítico à sua candidatura, mantendo programa próprio",
+              "outcome": "apoio declarado à candidatura de 2018 sem coligação; em entrevista ao veículo internacional em 2018, o dirigente afirmou que as eleições brasileiras já estavam 'comprometidas' — posição mantida na campanha de 2026, quando descreveu o quadro eleitoral como sem perspectiva de transformação pela via institucional",
+              "period": "2016–2022",
+              "context": "as evidências são declarações do próprio dirigente em entrevistas e no diário do partido, complementadas por reportagem internacional de 2018",
+              "sources": [
+                {
+                  "id": "src-rp-83"
+                },
+                {
+                  "id": "src-rp-78"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "synthesis": "Coordenação entre partido, comunidades e instituições: lançamento da campanha estadual em aldeia guarani-caiuá em Dourados (MS), com candidatos indígenas na chapa e atividade política declarada do partido no local há anos; interface com a Justiça Eleitoral nas prestações de contas e no inquérito da Polícia Federal, com medida cautelar de afastamento e bloqueio de valores; definição de candidaturas em 18 estados e no Distrito Federal; e adesão a carta de compromisso de organizações da sociedade civil junto de outros três presidenciáveis.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-coordenacao-institucional-rp-01",
+              "kind": "historico",
+              "title": "Lançamento da campanha estadual em aldeia guarani-caiuá em Dourados (MS), 19/09/2026",
+              "role": "candidato à Presidência; conduziu o ato e uma edição do programa partidário na aldeia",
+              "complexity": "ato em aldeia com candidatos guarani-caiuá da chapa estadual (incluindo candidato a governador e vice), dirigentes, militantes e apoiadores; agenda de 12 horas com cerimônia tradicional de reza, programa de análise política, coletiva de imprensa e jantar com professores; atividade política declarada do partido no local há anos",
+              "outcome": "repercussão em imprensa regional e no diário partidário; o candidato foi registrado como o primeiro presidenciável a visitar Mato Grosso do Sul depois de 16/08/2026",
+              "period": "2026-09-19",
+              "context": "a atividade ocorreu 15 dias antes do 1º turno e após o afastamento cautelar do dirigente das funções administrativas do partido",
+              "sources": [
+                {
+                  "id": "src-rp-85"
+                },
+                {
+                  "id": "src-rp-86"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-rp-02",
+              "kind": "historico",
+              "title": "Interface com a Justiça Eleitoral: prestação de contas, inquérito e medida cautelar (2026)",
+              "role": "presidente nacional do partido, figura central do inquérito e da medida cautelar; a legenda responde pelas prestações de contas",
+              "complexity": "análise da Assessoria de Exame de Contas Eleitorais e Partidárias (Asepa/TSE) sobre a prestação de contas do partido; quatro mandados judiciais; medida cautelar com prazo de 180 dias e bloqueio de até R$ 4,5 milhões; defesa apresentada em nota partidária e em entrevistas de imprensa",
+              "outcome": "inquérito em andamento em 29/09/2026, sem denúncia ou conclusão registrada; candidatura mantida e registro deferido; o partido contesta a legalidade dos procedimentos",
+              "period": "2026-08 a 2026-09",
+              "context": "a medida foi autorizada pela Justiça Eleitoral do Distrito Federal a partir de relatórios de análise das contas partidárias; categoria jurídica registrada literalmente, sem juízo sobre o mérito",
+              "sources": [
+                {
+                  "id": "src-rp-03"
+                },
+                {
+                  "id": "src-rp-04"
+                },
+                {
+                  "id": "src-rp-87"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-rp-03",
+              "kind": "historico",
+              "title": "Definição de candidaturas do PCO em 18 estados e no Distrito Federal (agosto de 2026)",
+              "role": "presidente nacional e candidato; ato de oficialização da chapa em 08/08/2026",
+              "complexity": "chapas próprias em 18 estados e no Distrito Federal, sem coligação registrada para a disputa presidencial; chapa presidencial pura com quadro da executiva nacional e professor da rede pública como vice; evento de oficialização com filiados e apoiadores",
+              "outcome": "candidaturas registradas e campanha organizada por estado; registro presidencial deferido",
+              "period": "2026-08",
+              "context": "a definição das chapas estaduais é o principal mecanismo de presença territorial de um partido sem representação no Congresso",
+              "sources": [
+                {
+                  "id": "src-rp-17"
+                },
+                {
+                  "id": "src-rp-82"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-rp-04",
+              "kind": "posicao",
+              "title": "Adesão à carta de compromisso com a defesa da Palestina apresentada a candidatos (setembro de 2026)",
+              "role": "um dos quatro presidenciáveis signatários, ao lado de Samara Martins (UP), Edmilson Costa (PCB) e Hertz Dias (PSTU)",
+              "complexity": "iniciativa de organizações da sociedade civil com adesão de quatro presidenciáveis, 53 candidaturas a governos estaduais ou distrital e centenas de postulantes a cargos legislativos",
+              "outcome": "adesão registrada em levantamento de imprensa de 21/09/2026",
+              "period": "2026-09",
+              "context": "a adesão é declaratória, sem compromisso de execução; a articulação é conduzida por organizações da causa palestina, não pelo partido",
+              "sources": [
+                {
+                  "id": "src-rp-91"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     },
     "wilson-grassi": {
       "capacities": [
-        { "slug": "tomada-decisao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "gestao-crises", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "coordenacao-institucional", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "tomada-decisao",
+          "synthesis": "Em 2026 disputou a Presidência como primeira candidatura própria do Democrata ao Planalto, com chapa fechada pela executiva nacional, sem coligação e financiada quase integralmente com recursos próprios. Após a suspensão judicial da campanha digital em 30/08/2026, apresentou esclarecimentos à Justiça Eleitoral no prazo de 24 horas, sob risco declarado de rejeição definitiva do registro, e manteve a candidatura até a reversão da medida. Em 2022 sua candidatura a deputado federal foi considerada inapta pelo TSE, e em 2024 concorreu a cargo municipal.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-tomada-decisao-wg-01",
+              "kind": "historico",
+              "title": "Decisão de concorrer à Presidência pelo Democrata, primeira candidatura própria do partido ao Planalto",
+              "role": "candidato à Presidência, escolha homologada em convenção nacional de 02/08/2026 no Rio de Janeiro",
+              "complexity": "legenda fundada em 2008 (como Partido da Mulher Brasileira) e renomeada em dezembro de 2025; primeira candidatura presidencial própria em 18 anos de existência do partido; vice deixada aberta à executiva nacional e definida depois com a presidente do partido; sem coligação",
+              "outcome": "chapa registrada em 13/08/2026 como partido isolado, com patrimônio declarado de R$ 50 milhões e plano de governo com 44 propostas em 8 eixos registrado no TSE",
+              "period": "2026",
+              "context": "a convenção ocorreu quatro dias antes do prazo final de registro e admitiu a formação de coligação, que não se concretizou; a ficha consultada em 29/09/2026 registra a candidatura como 'aguardando julgamento'",
+              "sources": [
+                {
+                  "id": "src-wg-79"
+                },
+                {
+                  "id": "src-wg-82"
+                },
+                {
+                  "id": "src-wg-80"
+                },
+                {
+                  "id": "src-wg-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-wg-02",
+              "kind": "historico",
+              "title": "Campanha custeada com recursos próprios, com repasses do fundo eleitoral bloqueados e depois liberados",
+              "role": "candidato e principal doador da própria campanha",
+              "complexity": "receita própria de R$ 850.150,00, correspondente a 99,98% do total registrado entre doadores; 12 fornecedores contratados, dos quais o maior responde por 52,3% das despesas; limite legal de autofinanciamento de 10% do teto de gastos do cargo",
+              "outcome": "campanha mantida com recursos próprios; repasses do Fundo Especial de Financiamento de Campanha suspensos em 30/08/2026 e restabelecidos em 02/09/2026 após decisão do relator no TSE",
+              "period": "2026",
+              "context": "as despesas declaradas incluem consultoria e assessoramento, infraestrutura de pagamento e plataformas digitais; a decisão judicial bloqueou a execução de R$ 3.307.679,85 já direcionados à chapa",
+              "sources": [
+                {
+                  "id": "src-wg-10"
+                },
+                {
+                  "id": "src-wg-77"
+                },
+                {
+                  "id": "src-wg-83"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-wg-03",
+              "kind": "historico",
+              "title": "Apresentação de esclarecimentos em 24 horas após a suspensão judicial da campanha",
+              "role": "candidato; a defesa técnica respondeu às diligências determinadas pela decisão",
+              "complexity": "a decisão exigia explicação, em 24 horas, da data de criação de cada um dos oito perfis, sob risco de rejeição definitiva do registro; multas previstas de R$ 10 mil por hora e por perfil para plataformas e de R$ 50 mil por nova infração da campanha",
+              "outcome": "o relator reconsiderou a própria decisão em 02/09/2026, após os esclarecimentos sobre o mecanismo de espelhamento entre contas de Facebook e Instagram; propaganda digital, repasses e participação em debates restabelecidos",
+              "period": "2026-08-30 a 2026-09-02",
+              "context": "a medida atingiu simultaneamente outro presidenciável (Renan Santos/Missão), com as mesmas obrigações e prazos; o partido sustentou que a conta oficial constava do registro apresentado em 11/08",
+              "sources": [
+                {
+                  "id": "src-wg-83"
+                },
+                {
+                  "id": "src-wg-76"
+                },
+                {
+                  "id": "src-wg-78"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-wg-04",
+              "kind": "proposta",
+              "title": "Proposta de imposto único federal sobre transações financeiras com indicação da fonte de recursos",
+              "role": "candidato (proposta do plano de governo registrado no TSE)",
+              "complexity": "proposta tributária de alcance nacional (imposto único federal de 2% sobre transações financeiras) combinada à integração da saúde animal ao SUS e ao remanejamento de recursos públicos, com redução do número de ministérios e uso de recursos do fundo eleitoral como fontes apontadas",
+              "outcome": "não executado — itens do plano de governo de 44 propostas registrado no TSE em agosto de 2026",
+              "period": "2026",
+              "context": "o plano está organizado em eixos numerados e com painel de indicadores; a fonte de custeio é declarada pelo próprio candidato, sem detalhamento de impacto fiscal localizado nas fontes consultadas",
+              "sources": [
+                {
+                  "id": "src-wg-01"
+                },
+                {
+                  "id": "src-wg-03"
+                },
+                {
+                  "id": "src-wg-74"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "gestao-crises",
+          "synthesis": "Em agosto de 2026 enfrentou decisão do TSE que suspendeu propaganda digital, acesso ao fundo eleitoral e participação em debates, com prazo de 24 horas para se explicar: o relator reverteu a medida em 02/09 após os esclarecimentos. Em 2022 teve candidatura a deputado federal considerada inapta e voltou a disputar eleições em 2024, chegando à candidatura presidencial em 2026. A entidade de ensino que mantém registra a criação de serviço de tele triagem veterinária em 2020.",
+          "coverage": "parcial",
+          "coverageNote": "A trajetória não inclui cargo público nem gestão de estrutura estatal: não há registro de gestão de crise administrativa, orçamentária ou sanitária. As situações documentadas são do processo eleitoral (suspensão judicial da campanha em 2026; candidatura de 2022 considerada inapta) e uma adaptação de serviço informada pela própria entidade criada pelo candidato, sem fonte independente.",
+          "evidences": [
+            {
+              "id": "ev-cap-gestao-crises-wg-01",
+              "kind": "historico",
+              "title": "Suspensão da campanha digital, do fundo eleitoral e dos debates pelo TSE e reversão em 72 horas",
+              "role": "candidato atingido pelas medidas cautelares determinadas pelo ministro relator do TSE",
+              "complexity": "suspensão de propaganda em perfis não declarados, bloqueio de novos repasses e da execução de R$ 3.307.679,85 do Fundo Especial de Financiamento de Campanha e vedação de participação em sabatinas, podcasts, rádio e TV; prazos de 6 horas para as plataformas e 24 horas para entrega de dados; multas de R$ 10 mil por hora e por perfil e de R$ 50 mil por infração",
+              "outcome": "medida revista pelo próprio relator em 02/09/2026, com restabelecimento da propaganda digital, dos repasses e dos debates; o candidato havia declarado 8 perfis em 28/08, 17 dias após o pedido de registro",
+              "period": "2026-08-30 a 2026-09-02",
+              "context": "a decisão foi justificada por omissão considerada estratégica e quebra de isonomia; pelo menos três membros do TSE defenderam que o tema fosse tratado em casos de propaganda irregular, e não no registro de candidatura; o partido alegou que a conta oficial constava do registro",
+              "sources": [
+                {
+                  "id": "src-wg-83"
+                },
+                {
+                  "id": "src-wg-76"
+                },
+                {
+                  "id": "src-wg-77"
+                },
+                {
+                  "id": "src-wg-78"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-gestao-crises-wg-02",
+              "kind": "historico",
+              "title": "Candidatura de 2022 considerada inapta pelo TSE e continuidade da trajetória eleitoral",
+              "role": "candidato a deputado federal em 2022 (PV), a vereador em 2024 (PRTB) e à Presidência em 2026 (Democrata)",
+              "complexity": "três pleitos em quatro anos, por legendas diferentes e em cargos de esferas distintas; mudança de disputa proporcional federal para municipal e depois para a Presidência, com novas declarações de bens em cada registro",
+              "outcome": "candidatura municipal de 2024 deferida, com 2.777 votos, e candidatura presidencial registrada em 13/08/2026; o candidato passou a declarar R$ 50 milhões em bens em 2026",
+              "period": "2022–2026",
+              "context": "as fichas com dados do TSE registram 'inapto' em 2022, sem detalhamento da causa nas páginas consultadas; uma reportagem registra 6.580 votos naquele pleito — divergência anotada nas fontes",
+              "sources": [
+                {
+                  "id": "src-wg-80"
+                },
+                {
+                  "id": "src-wg-01"
+                },
+                {
+                  "id": "src-wg-79"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-gestao-crises-wg-03",
+              "kind": "historico",
+              "title": "Adaptação do atendimento veterinário: serviço de tele triagem para hospitais públicos (2020)",
+              "role": "criador do serviço, conforme a mantenedora de ensino que preside",
+              "complexity": "serviço de atendimento a distância conectado à rede de hospitais veterinários públicos, criado no ano da pandemia de covid-19; a mantenedora administra três faculdades e informa a implantação de unidades de atendimento em seis entes federativos entre 2011 e 2015",
+              "outcome": "segundo a mantenedora, o serviço facilitou o atendimento nos hospitais públicos; não foram localizadas fontes independentes sobre volume de atendimentos ou alcance",
+              "period": "2020",
+              "context": "informação autodeclarada pela Uni-A, entidade criada pelo próprio candidato em 2022; a resposta à pandemia é o único episódio de mudança de serviço registrado nas fontes desta rodada",
+              "sources": [
+                {
+                  "id": "src-wg-81"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "synthesis": "Atuação entre o poder público municipal, entidade profissional e instituições de ensino: como conselheiro da Anclivepa-SP participou do projeto de implantação e gestão do primeiro hospital público para cães e gatos do Tatuapé (São Paulo, 2015), e a mantenedora que criou informa unidades de atendimento veterinário público em outros municípios e no Distrito Federal. Criou faculdade e mantenedora que administra três instituições de ensino e disputou eleições por quatro legendas distintas entre 2006 e 2026, tendo a presidente nacional do partido como vice em 2026.",
+          "coverage": "parcial",
+          "coverageNote": "Sem mandato ou cargo público, a coordenação documentada é com a Prefeitura de São Paulo e a entidade profissional veterinária (por meio de conselho), com instituições de ensino privadas e com a Justiça Eleitoral. As informações sobre as unidades de atendimento público e sobre as faculdades vêm majoritariamente de páginas institucionais da entidade criada pelo candidato, complementadas por reportagens que registram o hospital do Tatuapé e a convenção partidária.",
+          "evidences": [
+            {
+              "id": "ev-cap-coordenacao-institucional-wg-01",
+              "kind": "historico",
+              "title": "Hospital público veterinário do Tatuapé: projeto e gestão com a Prefeitura de São Paulo",
+              "role": "conselheiro da Anclivepa-SP no projeto de implantação e gestão do hospital, conforme a entidade profissional e reportagens",
+              "complexity": "articulação entre entidade profissional veterinária e poder público municipal; unidade em operação na zona leste de São Paulo com atendimento a famílias de baixa renda e formação veterinária; a mantenedora informa participação em unidades de outros municípios (Osasco, Mogi das Cruzes, Fortaleza, Porto Alegre) e do Distrito Federal",
+              "outcome": "hospital público em funcionamento, citado em reportagens de 2026 sobre a trajetória do candidato; a responsabilidade pela unidade é do poder público municipal, e a entidade atuou no projeto e na gestão",
+              "period": "2012–2015 (operação posterior)",
+              "context": "o candidato atuava como conselheiro da entidade, não como gestor público; a lista de unidades em outros entes federativos é informação da mantenedora que ele criou",
+              "sources": [
+                {
+                  "id": "src-wg-79"
+                },
+                {
+                  "id": "src-wg-72"
+                },
+                {
+                  "id": "src-wg-81"
+                },
+                {
+                  "id": "src-wg-07"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-wg-02",
+              "kind": "historico",
+              "title": "Instituições de ensino: Faculdade Anclivepa (2016) e mantenedora Uni-A (2022)",
+              "role": "sócio da Faculdade Anclivepa e criador da Uni-A, mantenedora que administra as faculdades Anclivepa, Alvorada e Fagh",
+              "complexity": "três instituições de ensino sob uma mesma mantenedora; formação na área veterinária e em outras áreas; o candidato declara participação no capital social de diversas sociedades empresariais na declaração de bens de 2026",
+              "outcome": "instituições em operação segundo a mantenedora; em 2026, empresas de consultoria e assessoramento e de infraestrutura de pagamento figuram entre os maiores fornecedores da campanha presidencial",
+              "period": "2016–2026",
+              "context": "informação prestada pela mantenedora criada pelo candidato; não foram localizadas fontes independentes sobre número de alunos, de professores ou de funcionários",
+              "sources": [
+                {
+                  "id": "src-wg-81"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-wg-03",
+              "kind": "historico",
+              "title": "Convenção nacional do Democrata no Rio de Janeiro com a presidente do partido como vice",
+              "role": "candidato à Presidência; chapa completada pela Comissão Executiva Nacional",
+              "complexity": "convenção nacional com definição da vaga de vice pela executiva do partido; chapa final composta com a presidente nacional da legenda e sem coligação; primeira convenção após a mudança de nome do partido, em dezembro de 2025",
+              "outcome": "chapa registrada em 13/08/2026 como partido isolado, sem coligação registrada nas fichas consultadas",
+              "period": "2026",
+              "context": "a convenção deixou a vice aberta à executiva e admitiu a formação de coligação, que não ocorreu; a candidatura constava como 'aguardando julgamento' em 29/09/2026",
+              "sources": [
+                {
+                  "id": "src-wg-82"
+                },
+                {
+                  "id": "src-wg-79"
+                },
+                {
+                  "id": "src-wg-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-wg-04",
+              "kind": "historico",
+              "title": "Candidaturas registradas por quatro legendas distintas entre 2006 e 2026",
+              "role": "candidato (PFL em 2006, PV em 2022, PRTB em 2024 e Democrata em 2026)",
+              "complexity": "quatro partidos de campos distintos em 20 anos; três cargos diferentes (deputado estadual, deputado federal e vereador) antes da candidatura presidencial; uma candidatura considerada inapta (2022) e as demais não eleitas",
+              "outcome": "disputas concluídas sem eleição: 4.517 votos para deputado estadual em 2006 e 2.777 votos para vereador em 2024; em 2026, primeira candidatura de alcance nacional",
+              "period": "2006–2026",
+              "context": "as fichas com dados do TSE registram as legendas de cada pleito; nenhuma coligação aparece nas candidaturas consultadas",
+              "sources": [
+                {
+                  "id": "src-wg-01"
+                },
+                {
+                  "id": "src-wg-80"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        }
       ]
     }
   },
-  "dataGaps": ["em consolidação"]
+  "dataGaps": [
+    "Nenhum dos quatro candidatos exerceu cargo executivo estatal: as evidências de decisão, crise e coordenação institucional vêm de direção partidária (PCB, PSTU, PCO, Democrata), de movimento social (Quilombo Urbano e Quilombo Raça e Classe), de entidade profissional veterinária e de empresa privada.",
+    "PCB: os documentos da crise de 2023 são notas partidárias dos dois lados (direção nacional, comitês regionais e grupo desligado) e reportagens; não foram localizados autos, atas ou resultado de processos disciplinares, e a nota sobre o Rio Grande do Sul (21/09/2023) não identifica a instância signatária.",
+    "PCB: a negociação com o PSOL de 2010 é documentada por nota do próprio partido; não foi localizada cobertura de imprensa independente sobre as contrapropostas apresentadas nem ata das reuniões.",
+    "Hertz Dias: as situações críticas vêm do movimento social e da campanha; o estudo acadêmico sobre o Quilombo Urbano não informa as datas dos episódios de violência institucional, não foi localizado registro de gestão de estrutura administrativa ou de orçamento, e o cargo do candidato na direção do movimento ou do partido não está documentado.",
+    "PCO: não há registro localizado de denúncia, sentença ou conclusão do inquérito da Operação Causa Própria até 29/09/2026; a cassação da candidatura presidencial de 2006 consta de verbete e do relato do próprio dirigente, sem fonte primária localizada.",
+    "Wilson Grassi: a ficha com dados do TSE consultada em 29/09/2026 registra a candidatura como 'aguardando julgamento' e há divergência entre fontes sobre 2022 (ficha do TSE: 'inapto'; reportagem: 6.580 votos); as informações sobre hospitais veterinários públicos, tele triagem e faculdades são autodeclaradas pela entidade criada pelo candidato.",
+    "Não foram localizadas fontes sobre coordenação institucional dos quatro candidatos com governos estaduais ou federal (não exerceram mandato executivo): a interface documentada é com o Legislativo municipal de São Paulo (PCB, 2026), com a Prefeitura de São Paulo (Wilson Grassi, 2012–2015), com comunidades indígenas (PCO, 2026) e com a Justiça Eleitoral (PCO e Democrata, 2026)."
+  ]
 }

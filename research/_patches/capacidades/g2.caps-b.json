@@ -1,30 +1,652 @@
 {
   "grupo": "g2",
-  "escopo": "capacidade:tomada-decisao,gestao-crises,coordenacao-institucional",
-  "sources": [],
+  "escopo": "capacidade:tomada-decisao,capacidade:gestao-crises,capacidade:coordenacao-institucional",
+  "sources": [
+    {
+      "id": "src-rs-73",
+      "title": "Renan Santos diz que não apoiará Flávio Bolsonaro em eventual segundo turno: 'Bandido'",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/noticia/2026/09/21/renan-santos-diz-que-no-apoiar-flvio-bolsonaro-em-eventual-segundo-turno-bandido.ghtml",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração dada em 21/09/2026: recusa de apoio a Flávio Bolsonaro (PL) em eventual 2º turno."
+    },
+    {
+      "id": "src-rs-74",
+      "title": "Renan Santos rejeita apoiar Flávio Bolsonaro no 2º turno",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/eleicoes/2026/09/22/renan-santos-rejeita-apoio-a-flavio-no-2-turno.ghtml",
+      "publishedAt": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Em sabatina ao SBT Brasil, relata contato preliminar da campanha de Flávio e mantém a recusa."
+    },
+    {
+      "id": "src-rs-75",
+      "title": "Renan diz 'não votar em bandido' e nega apoio a Lula e Flávio no 2º turno",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/renan-diz-nao-votar-em-bandido-e-nega-apoio-a-lula-e-flavio-no-2o-turno",
+      "publishedAt": "2026-09-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Recusa declarada a apoio a ambos, em agenda na Bahia e em Brasília."
+    },
+    {
+      "id": "src-rs-76",
+      "title": "Missão de Renan tem 14 candidatos e não se coliga a ninguém",
+      "publisher": "SBT News (Ranier Bragon)",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/missao-de-renan-tem-14-candidatos-e-nao-se-coliga-a-ninguem",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Partido registrado em 2025 estreia nas eleições sem coligações estaduais; 14 candidaturas a governos e Senado."
+    },
+    {
+      "id": "src-rs-77",
+      "title": "Renan Santos nega irregularidade em candidatura apontada por Toffoli no TSE",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/31/renan-santos-nega-irregularidade-em-candidatura-apontada-por-toffoli-no-tse-nao-estou-tendo-vantagem-nenhuma.ghtml",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Resposta pública do candidato à decisão que retirou de pauta o processo de registro (30/08/2026)."
+    },
+    {
+      "id": "src-rs-78",
+      "title": "Toffoli retira de pauta processo de candidatura de Renan Santos por 'indícios de ilicitudes'",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/30/toffoli-retira-de-pauta-processo-de-candidatura-de-renan-santos-por-indcios-de-ilicitudes.ghtml",
+      "publishedAt": "2026-08-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Retirada de pauta em 30/08/2026; decisão posterior restabeleceu parte da campanha em 01/09/2026."
+    },
+    {
+      "id": "src-rs-79",
+      "title": "Justiça de SP nega pedido de Renan Santos para remover postagens de redes sociais sobre acusação de estupro",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/22/justica-de-sp-nega-pedido-de-renan-santos-para-remover-postagens-de-redes-sociais-sobre-acusacao-de-estupro.ghtml",
+      "publishedAt": "2026-06-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Decisões de 12/05 e 11/06/2026; verbo registrado em 2021; sem juízo de mérito na notícia."
+    },
+    {
+      "id": "src-rs-80",
+      "title": "MP confirma que Renan Santos foi absolvido após acusação de estupro",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/04/mp-de-sp-confirma-que-renan-santos-foi-absolvido-em-processo-por-acusacao-de-estupro.ghtml",
+      "publishedAt": "2026-08-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Promotoria pediu absolvição por insuficiência de provas; caso sob segredo de Justiça."
+    },
+    {
+      "id": "src-rs-81",
+      "title": "Eleições 2026: Renan Santos foi absolvido em processo por acusação de estupro, diz Ministério Público",
+      "publisher": "O Sul",
+      "url": "https://www.osul.com.br/eleicoes-2026-candidato-a-presidencia-da-republica-renan-santos-foi-absolvido-em-processo-por-acusacao-de-estupro-diz-ministerio-publico",
+      "publishedAt": "2026-08-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Confirmação da manifestação do MP-SP em 04/08/2026."
+    },
+    {
+      "id": "src-rs-82",
+      "title": "Wesley Safadão obtém decisão judicial contra Renan Santos por vídeos em que é chamado de 'novo ícone da corrupção'",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/04/27/wesley-safadao-obtem-decisao-judicial-contra-renan-santos-por-videos-em-que-e-chamado-de-novo-icone-da-corrupcao.ghtml",
+      "publishedAt": "2026-04-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Justiça do Ceará determinou a exclusão de vídeos publicados nas redes do candidato."
+    },
+    {
+      "id": "src-la-80",
+      "title": "Convite para Eduardo Bolsonaro expõe crise no PRTB",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/prtb-convite-eduardo-bolsonaro-crise/",
+      "publishedAt": "2025-09-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Congresso de agosto de 2025 destituiu o diretório da executiva nacional; Amauri Pinho assumiu a presidência após decisão judicial; conselho de ética aprovou pedido de expulsão."
+    },
+    {
+      "id": "src-la-81",
+      "title": "PRTB confirma Leonardo Avalanche na presidência nacional da legenda após disputa jurídica",
+      "publisher": "Tribuna do ABC",
+      "url": "https://tribunaabc.com.br/tag/leonardo-avalanche",
+      "publishedAt": "2026-06-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Certidão da Justiça Eleitoral registra nova composição da Executiva Nacional com Avalanche na presidência."
+    },
+    {
+      "id": "src-la-82",
+      "title": "Justiça Eleitoral confirma expulsão de Leonardo Avalanche do PRTB; Amauri Pinho assume presidência",
+      "publisher": "Tribuna do ABC",
+      "url": "https://tribunaabc.com.br/tag/justica-eleitoral",
+      "publishedAt": "2025-09-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Confirmação judicial da expulsão decidida no congresso de agosto de 2025."
+    },
+    {
+      "id": "src-la-83",
+      "title": "Leonardo Avalanche consegue reverter cancelamento de filiação e volta aos quadros do PRTB",
+      "publisher": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/politica/leonardo-avalanche-consegue-reverter-cancelamento-de-filiacao-e-volta-aos-quadros-do-prtb-791776/",
+      "publishedAt": "2026-02-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Após pedido do PRTB à Justiça Eleitoral, filiação é reativada no sistema oficial (06/02/2026)."
+    },
+    {
+      "id": "src-la-84",
+      "title": "As ligações do presidente do partido de Pablo Marçal com o PCC",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2024/sao-paulo-sp/acusacoes-ligacao-presidente-partido-pablo-marcal-pcc/",
+      "publishedAt": "2024",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem sobre as suspeitas publicadas na campanha municipal de 2024; a defesa do dirigente nega as acusações."
+    },
+    {
+      "id": "src-la-85",
+      "title": "Presidente do PRTB, de Pablo Marçal, afirma ter ligação com o PCC, diz jornal",
+      "publisher": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/presidente-do-prtb-de-pablo-marcal-afirma-ter-ligacao-com-o-pcc-diz-jornal/",
+      "publishedAt": "2024-08-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Áudio publicado pela Folha em 08/08/2024; defesa afirma que o áudio é falso ou adulterado por inteligência artificial."
+    },
+    {
+      "id": "src-la-86",
+      "title": "Ala do PRTB acusa presidente da sigla de Marçal de ameaçar matar dirigente para que ela renunciasse",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/ala-do-prtb-acusa-presidente-do-partido-de-marcal-de-ameacar-matar-dirigente-se-ela-nao-renunciasse",
+      "publishedAt": "2024-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Acusação está em ação no TSE movida por integrantes do partido que tentam afastar o presidente; a defesa rejeita as alegações. Fatos judiciais descritos de forma categórica."
+    },
+    {
+      "id": "src-la-87",
+      "title": "MPE se manifesta contra destituição do presidente do PRTB",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes/mpe-se-manifesta-contra-destituicao-do-presidente-do-prtb/",
+      "publishedAt": "2024-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Manifestação do Ministério Público Eleitoral contra a ação que poderia anular atos do presidente, incluindo a convenção que lançou Pablo Marçal em São Paulo."
+    },
+    {
+      "id": "src-la-88",
+      "title": "Leonardo Avalanche — biografia e trajetória eleitoral",
+      "publisher": "Plural (levantamento)",
+      "url": "https://www.plural.jor.br/leonardo-alves-de-araujo/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil: candidatura a vereador de Goiânia em 2016 pelo PTN (717 votos, suplência) e a deputado federal por Goiás em 2018 (173 votos, não eleito)."
+    },
+    {
+      "id": "src-la-89",
+      "title": "Ineligible Marçal Files Presidential Bid in Brazil",
+      "publisher": "Rio Times Online",
+      "url": "https://riotimesonline.com/pablo-marcal-presidential-registration-2026",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registro da chapa protocolado em 15/08/2026 com Marçal (inelegível até 2032) e Avalanche como vice; chapa denominada Brasil Próspero."
+    },
+    {
+      "id": "src-ac-70",
+      "title": "Eu não posso falar agora quem será meu ministro da Fazenda, diz Cury",
+      "publisher": "Terra",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/eu-nao-posso-falar-agora-quem-sera-meu-ministro-da-fazenda-diz-cury,592015a4e2ec42e54e8b81c787b78dc78slktabp.html",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração em encontro na Genial Investimentos, em São Paulo."
+    },
+    {
+      "id": "src-ac-71",
+      "title": "Cury evita dizer quem pretende indicar para Ministério da Fazenda",
+      "publisher": "R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/cury-evita-dizer-quem-pretende-indicar-para-ministerio-da-fazenda-10092026/",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Candidato afirma ter conversas com Mansueto Almeida e Marcos Lisboa, sem apontar favorito."
+    },
+    {
+      "id": "src-ac-72",
+      "title": "Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/eleicoes/augusto-cury-omitiu-empresas-nos-estados-unidos-e-no-brasil-em-declaracao-ao-tse/",
+      "publishedAt": "2026-09-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Patrimônio declarado de R$ 242,2 milhões; empresas na Flórida e no Brasil não constavam da autodeclaração; campanha diz que corrigirá."
+    },
+    {
+      "id": "src-ac-73",
+      "title": "Empresa da filha de Augusto Cury faturou R$ 19,9 mi em negócios com prefeituras",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/empresa-da-filha-de-augusto-cury-faturou-r-199-mi-em-negocios-com-prefeituras.shtml",
+      "publishedAt": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento aponta 28 acordos com prefeituras entre 2023 e 2026, todos com dispensa de licitação, em quatro estados; candidato afirma que os negócios são regulares e que não manterá contratos federais."
+    },
+    {
+      "id": "src-ac-74",
+      "title": "Programa de Augusto Cury é cancelado em Itajaí",
+      "publisher": "DIARINHO",
+      "url": "https://diarinho.net/materia/675213/Programa-de-Augusto-Cury-e-cancelado-em-Itajai",
+      "publishedAt": "2026-09-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Prefeitura substituiu os programas 'Escola da Inteligência' e 'Gênios Socioemocional' pelo 'Vida na Escola', abrangendo 27 mil estudantes."
+    },
+    {
+      "id": "src-ac-75",
+      "title": "Itajaí desembolsa R$ 39 milhões em gastos com programas ligados a Augusto Cury",
+      "publisher": "DIARINHO",
+      "url": "https://diarinho.net/materia/674946/Itajai-desembolsa-R--39-milhoes-em-gastos-com-programas-ligados-a-Augusto-Cury",
+      "publishedAt": "2026-09-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento local sobre gastos municipais com os programas."
+    },
+    {
+      "id": "src-cb-70",
+      "title": "Após desistência de Joaquim Barbosa, DC lança Clariana Barão à Presidência",
+      "publisher": "Band",
+      "url": "https://www.band.com.br/politica/apos-desistencia-de-joaquim-barbosa-dc-lanca-clariana-barao-a-presidencia",
+      "publishedAt": "2026-07-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Ex-ministro do STF deixou a disputa por dificuldades na obtenção de recursos e estruturação da campanha; advogada é a terceira indicação do partido."
+    },
+    {
+      "id": "src-cb-71",
+      "title": "Com desistência de Joaquim Barbosa, DC lança Clariana Barão na disputa pelo Planalto",
+      "publisher": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/com-desistencia-de-joaquim-barbosa-dc-lanca-clariana-barao-na-disputa-pelo-planalto/",
+      "publishedAt": "2026-07-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Segunda mulher na corrida presidencial de 2026; candidatura a ser oficializada em convenção."
+    },
+    {
+      "id": "src-cb-72",
+      "title": "Clariana Barão, de Várzea Grande, será candidata à Presidência da República pelo DC",
+      "publisher": "Fatos de Mato Grosso",
+      "url": "https://www.fatosdematogrosso.com.br/politica/clariana-barao-de-varzea-grande-sera-candidata-a-presidencia-da-republica-pelo-dc/14050",
+      "publishedAt": "2026-07-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Confirmação local da indicação; preside o diretório estadual do DC em Mato Grosso."
+    },
+    {
+      "id": "src-cb-73",
+      "title": "Resolução vai destravar recursos da Assistência Social, diz conselheira",
+      "publisher": "VGN (Várzea Grande)",
+      "url": "https://www.vgnoticias.com.br/cidades/resolucao-vai-destravar-recursos-da-assistencia-social-diz-conselheira/129869",
+      "publishedAt": "2025",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Clariana Barão, representante da OAB na subseção de Várzea Grande e membro do Conselho Municipal de Assistência Social, comenta a conclusão de trabalho que destrava recursos; cita perda de mais de R$ 1 milhão da Assistência Social em 2024. Página com bloqueio WAF na coleta; conteúdo lido por resumo indexado."
+    },
+    {
+      "id": "src-cb-74",
+      "title": "Advogada defende banco de medula no Hemocentro de VG: 'Baixo custo e enorme alcance social'",
+      "publisher": "VGN (Várzea Grande)",
+      "url": "https://www.vgnoticias.com.br/cidades/advogada-defende-banco-de-medula-no-hemocentro-de-vg-baixo-custo-e-enorme-alcance-social/132155",
+      "publishedAt": "2025",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Conselheira e advogada Clariana Barão, representante da OAB/Várzea Grande no Conselho Municipal de Saúde, defende a criação de banco de doadores de medula no futuro hemocentro. Página com bloqueio WAF na coleta; conteúdo lido por resumo indexado."
+    },
+    {
+      "id": "src-cb-75",
+      "title": "Advogada de VG que socorre vítimas de enchente critica políticos do RS: 'não estão nos ajudando'",
+      "publisher": "VGN (Várzea Grande)",
+      "url": "https://www.vgnoticias.com.br/cidades/advogada-de-vg-que-socorre-vitimas-de-enchente-critica-politicos-do-rs-nao-estao-nos-ajudando/116301",
+      "publishedAt": "2024-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registro da atuação de Clariana Barão no auxílio a vítimas das enchentes do Rio Grande do Sul, em 2024."
+    },
+    {
+      "id": "src-sm-70",
+      "title": "Samara é a pré-candidata da Unidade Popular à Presidência do Brasil",
+      "publisher": "Unidade Popular (site oficial)",
+      "url": "https://unidadepopular.org.br/blog/samara-e-a-pre-candidata-da-unidade-popular-a-presidencia-do-brasil",
+      "publishedAt": "2026-02-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "primaria",
+      "notes": "Nota do partido: reunião do Diretório Nacional em 01/02/2026 aprovou por unanimidade a pré-candidatura."
+    },
+    {
+      "id": "src-sm-71",
+      "title": "'Falar de soberania e não fazer reforma agrária não faz sentido', diz Samara Martins",
+      "publisher": "Alma Preta",
+      "url": "https://almapreta.com.br/sessao/politica/samara-martins-entrevista-eleicoes-2026/",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista com propostas de trabalho e renda; crítica à conciliação com setores econômicos."
+    },
+    {
+      "id": "src-sm-72",
+      "title": "UP chora por não ser convidada a debate, mas foge de debate com o PCO",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2026/up-chora-por-nao-ser-convidada-a-debate-mas-foge-de-debate-com-o-pco",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Publicação do jornal do PCO afirma que a candidata da UP não respondeu a convite para debate com o candidato do PCO. Fonte partidária adversária; afirmação atribuída."
+    },
+    {
+      "id": "src-sm-73",
+      "title": "Bastidores: debate da Band e do 'Estadão' tem ameaça de desistência, protesto e jogo de cena",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/bastidores-debate-da-band-e-do-estadao-tem-ameaca-de-desistencia-protesto-e-jogo-de-cena",
+      "publishedAt": "2026-08-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra que militantes da UP se manifestaram no debate contra a ausência de Samara Martins."
+    },
+    {
+      "id": "src-sm-74",
+      "title": "Samara Martins confirma presença em debate",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/metropoles-e-inteligencia-ltda-samara-martins-confirma-presenca-em-debate",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Confirmação de presença em debate marcado para 18/09/2026."
+    },
+    {
+      "id": "src-sm-75",
+      "title": "Quem é e o que defende Samara Martins, candidata do UP à Presidência da República",
+      "publisher": "Alma Preta",
+      "url": "https://almapreta.com.br/sessao/politica/quem-e-samara-martins-candidata-a-presidencia-da-republica",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil: chapa com a ativista Raquel Brício como vice; única mulher negra na disputa."
+    }
+  ],
   "candidates": {
     "renan-santos": {
       "capacities": [
         {
           "slug": "tomada-decisao",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Recusou coligações e sustentou chapa própria nas duas eleições que disputou: na primeira, o partido lançou candidaturas em 25 estados e no DF; em 2026, optou por não coligar em nenhum estado e por não usar o Fundo Eleitoral na campanha presidencial, financiada por vaquinha e doações. Em setembro de 2026, descartou apoiar Lula ou Flávio Bolsonaro em eventual segundo turno, mantendo a decisão após contato preliminar da campanha do PL.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-tomada-decisao-rs-01",
+              "kind": "historico",
+              "title": "Recusa declarada de apoio a Lula e a Flávio Bolsonaro em eventual segundo turno",
+              "role": "candidato à Presidência pelo Missão (nº 14); declaração dada em agenda de campanha e em sabatina",
+              "complexity": "alcance nacional; 2 adversários citados (candidatura do PT e do PL); decisão declarada a 5 dias do 1º turno, após contato preliminar da campanha do PL",
+              "outcome": "manteve a recusa em entrevistas sucessivas (21/09, 22/09 e 28/09/2026); declarou que votaria no próprio partido no 2º turno",
+              "period": "2026-09",
+              "context": "Cenário de polarização entre PT e PL; o apoio de uma das duas candidaturas poderia transferir votos e palanques no 2º turno.",
+              "sources": [
+                {
+                  "id": "src-rs-73"
+                },
+                {
+                  "id": "src-rs-74"
+                },
+                {
+                  "id": "src-rs-75"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-rs-02",
+              "kind": "historico",
+              "title": "Opção por concorrer sem coligações em nenhum estado, com palanques próprios",
+              "role": "presidente nacional do Missão e candidato à Presidência",
+              "complexity": "alcance nacional (26 estados e DF); 14 candidaturas do partido a governos e Senado; nenhuma coligação formalizada em 2026",
+              "outcome": "chapa pura registrada (vice Aroldo Medina, do próprio partido); partido orientou candidaturas estaduais sem alianças",
+              "period": "2026",
+              "context": "Legenda registrada em 2025, sem bancada federal expressiva; abrir mão de coligações reduz tempo de propaganda e potência de palanque, mantendo a linha própria.",
+              "sources": [
+                {
+                  "id": "src-rs-76"
+                },
+                {
+                  "id": "src-rs-34"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-rs-03",
+              "kind": "historico",
+              "title": "Abertura de mão do Fundo Eleitoral na campanha presidencial e uso de financiamento coletivo",
+              "role": "presidente nacional do Missão e candidato, responsável pela orientação sobre a cota do partido",
+              "complexity": "cota do partido no Fundo Eleitoral de 2026 (R$ 3.307.679,85) direcionada a candidaturas do Legislativo; campanha presidencial sustentada por vaquinha e doações",
+              "outcome": "primeira prestação de contas parcial de campanha registrou cerca de R$ 1,2 milhão arrecadado pelo candidato (20/08/2026), 2º volume entre os presidenciáveis naquele levantamento; o partido informou 128 candidaturas em 25 estados e no DF",
+              "period": "2026-07",
+              "context": "A cota do Fundo Eleitoral era a fonte mais previsível de recursos para a legenda estreante; a opção foi trocá-la por arrecadação coletiva e deslocar o fundo para as candidaturas legislativas.",
+              "sources": [
+                {
+                  "id": "src-rs-30"
+                },
+                {
+                  "id": "src-rs-58"
+                },
+                {
+                  "id": "src-rs-57"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-rs-04",
+              "kind": "historico",
+              "title": "Saída do PSDB e escolha por construir movimento e legenda próprios a partir de 2015",
+              "role": "dirigente e porta-voz do MBL; deixou a militância partidária anterior na fundação do movimento",
+              "complexity": "alcance nacional; movimento com atos em capitais desde 2014/2015 e articulação de estrutura própria em 2016-2017",
+              "outcome": "seguiu na coordenação do MBL e, em 2023, iniciou a criação do Partido Missão, registrado em 2025",
+              "period": "2015-2025",
+              "context": "Arena de movimento social: a decisão implicou abrir mão de estrutura partidária já existente para atuar em organização própria, com custo de organização e tempo de registro.",
+              "sources": [
+                {
+                  "id": "src-rs-25"
+                },
+                {
+                  "id": "src-rs-36"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "gestao-crises",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Quando o relator do TSE suspendeu sua campanha por indícios de irregularidade no registro dos perfis de redes sociais (30/08/2026), a campanha prestou esclarecimentos e obteve a liberação parcial de propaganda e repasses em 01/09 e o deferimento do registro em 09/09. Também lidou com decisões judiciais sobre conteúdo próprio: negativas de remoção de publicações sobre a acusação de estupro (2026) e ordem para excluir vídeos em que chamava o cantor Wesley Safadão de 'novo ícone da corrupção' (abril de 2026).",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-gestao-crises-rs-01",
+              "kind": "historico",
+              "title": "Suspensão cautelar da campanha pelo relator do TSE e resposta em 72 horas",
+              "role": "candidato; representado por advogados no processo de registro (RRC no TSE)",
+              "complexity": "alcance nacional; decisão do relator em 30/08/2026 retirou de pauta o registro e suspendeu propaganda, debates e acesso a recursos; exigência de informar em 72 horas a relação completa de perfis usados",
+              "outcome": "campanha liberada parcialmente em 01/09/2026 (propaganda, debates e repasses), com restrições mantidas a alguns perfis; registro deferido por unanimidade em 09/09/2026",
+              "period": "2026-08 a 2026-09",
+              "context": "Divergência sobre a data-limite de declaração de perfis de redes sociais ao TSE; o candidato chamou a decisão de ilegal e afirmou não ter obtido vantagem.",
+              "sources": [
+                {
+                  "id": "src-rs-78"
+                },
+                {
+                  "id": "src-rs-77"
+                },
+                {
+                  "id": "src-rs-12"
+                },
+                {
+                  "id": "src-rs-16"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-gestao-crises-rs-02",
+              "kind": "historico",
+              "title": "Acusação de estupro registrada em 2021: pedidos de remoção negados e pedido de absolvição pelo MP em 2026",
+              "role": "candidato; resposta por meio de pedidos judiciais de remoção de publicações e manifestações da campanha",
+              "complexity": "2 decisões da Justiça de São Paulo (12/05 e 11/06/2026) negaram as remoções; manifestação do Ministério Público de São Paulo em 04/08/2026 pelo pedido de absolvição por insuficiência de provas; caso sob segredo de Justiça",
+              "outcome": "publicações mantidas no ar; MP-SP confirmou o pedido de absolvição; narrativa sobre o caso seguiu circulando na campanha",
+              "period": "2021 (fato); 2026 (desdobramentos)",
+              "context": "Fatos judiciais descritos na categoria das fontes, sem juízo de mérito: não há condenação nas fontes consultadas.",
+              "sources": [
+                {
+                  "id": "src-rs-79"
+                },
+                {
+                  "id": "src-rs-80"
+                },
+                {
+                  "id": "src-rs-81"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-rs-03",
+              "kind": "historico",
+              "title": "Ordem judicial para excluir vídeos sobre o cantor Wesley Safadão",
+              "role": "candidato; conteúdo publicado em perfil próprio",
+              "complexity": "1 decisão da Justiça do Ceará, em 27/04/2026, com prazo para exclusão; ação movida pelo cantor",
+              "outcome": "determinação de exclusão dos vídeos cumprida; conteúdo deixou de constar do perfil (registro no verbete e nas reportagens)",
+              "period": "2026-04",
+              "context": "Crise gerada por conteúdo próprio da pré-campanha, em período anterior ao registro da candidatura.",
+              "sources": [
+                {
+                  "id": "src-rs-82"
+                },
+                {
+                  "id": "src-rs-25"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-rs-04",
+              "kind": "historico",
+              "title": "Denúncia do Ministério Público de São Paulo contra liderança do MBL e rejeição pela Justiça (2020)",
+              "role": "liderança do MBL à época; citado na denúncia noticiada em outubro de 2020",
+              "complexity": "1 denúncia oferecida pelo MPSP em 2020, com acusação de tráfico de influência; tramitação na Justiça de São Paulo",
+              "outcome": "denúncia rejeitada pela Justiça em novembro de 2020 (registro em Folha e ConJur)",
+              "period": "2020",
+              "context": "Fatos judiciais descritos de forma categórica; a rejeição encerrou o caso na primeira instância segundo as fontes.",
+              "sources": [
+                {
+                  "id": "src-rs-27"
+                },
+                {
+                  "id": "src-rs-28"
+                },
+                {
+                  "id": "src-rs-29"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "coordenacao-institucional",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Atuou entre partido, campanha e instituições: interlocução com o setor empresarial (plano econômico apresentado a investidores e apoio declarado de parte da Faria Lima), resposta institucional à crise do registro com apoio público de lideranças de outros partidos (PL e Novo) e coordenação entre a candidatura presidencial e as 14 candidaturas estaduais da legenda, sem coligações.",
+          "coverage": "parcial",
+          "coverageNote": "Trajetória sem cargo executivo estatal: as evidências de coordenação institucional vêm de partido, campanha e interlocução com setores organizados; 3 evidências registradas, sem atos de governo entre instituições.",
+          "evidences": [
+            {
+              "id": "ev-cap-coordenacao-institucional-rs-01",
+              "kind": "historico",
+              "title": "Interlocução com o setor empresarial e apresentação do plano econômico a investidores",
+              "role": "candidato à Presidência e responsável pela agenda econômica da campanha",
+              "complexity": "alcance nacional; eventos com investidores e empresários (Brasília e São Paulo) e reportagens de economia sobre adesão de parte do mercado",
+              "outcome": "plano econômico citado por veículos de economia como ponto de aproximação com empresários; campanha manteve a interlocução durante a suspensão cautelar",
+              "period": "2026",
+              "context": "Arena privada e de campanha: a interlocução com o mercado ocorre por meio de eventos e sabatinas, sem cargo público que atribua competência formal.",
+              "sources": [
+                {
+                  "id": "src-rs-57"
+                },
+                {
+                  "id": "src-rs-51"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-rs-02",
+              "kind": "historico",
+              "title": "Apoio público de lideranças de outros partidos durante a crise do registro no TSE",
+              "role": "candidato; beneficiário de manifestações de Flávio Bolsonaro (PL) e Romeu Zema (Novo)",
+              "complexity": "2 lideranças de partidos distintos (PL e Novo) manifestaram apoio público entre 31/08 e 01/09/2026, durante a suspensão cautelar",
+              "outcome": "mantida a decisão de não apoiar nenhum dos dois em eventual 2º turno, mesmo após os gestos de aproximação",
+              "period": "2026-08 a 2026-09",
+              "context": "Relação entre legendas em ano eleitoral: o apoio público de adversários ocorreu em defesa de ponto comum (crítica à restrição judicial), não em coligação formal.",
+              "sources": [
+                {
+                  "id": "src-rs-17"
+                },
+                {
+                  "id": "src-rs-73"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-rs-03",
+              "kind": "historico",
+              "title": "Coordenação entre a candidatura presidencial e as candidaturas estaduais do partido",
+              "role": "presidente nacional e candidato; articulação com candidatos a governos e Senado do Missão",
+              "complexity": "14 candidaturas a governos e Senado em 11 estados, sem coligação; 128 candidaturas proporcionais em 25 estados e no DF (registro de agosto de 2026)",
+              "outcome": "partido disputou a eleição com candidatura presidencial e palanques estaduais próprios, sem aliança formal com outras legendas",
+              "period": "2026",
+              "context": "Arena partidária: legenda estreante coordenando candidatura nacional e estaduais simultaneamente, sem estrutura de coligações.",
+              "sources": [
+                {
+                  "id": "src-rs-76"
+                },
+                {
+                  "id": "src-rs-34"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
         }
       ]
     },
@@ -32,24 +654,240 @@
       "capacities": [
         {
           "slug": "tomada-decisao",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Como presidente nacional do PRTB, decidiu manter a candidatura de Pablo Marçal à Presidência em 2026 mesmo com inelegibilidade declarada até 2032, assumindo ele próprio a vice-presidência da chapa; após o indeferimento e a renúncia do titular, decidiu assumir a cabeça da chapa nos dois últimos dias de prazo legal, com nova candidata a vice. Antes disso, disputou cargos eletivos em Goiás (2016 e 2018) e assumiu o comando do partido em 2024, sucedendo direção provisória após disputas internas.",
+          "coverage": "parcial",
+          "coverageNote": "Trajetória sem cargo eletivo ou executivo: as decisões registradas são de direção partidária (PRTB) e de candidaturas próprias; parte das fontes sobre as disputas eleitorais anteriores é de perfil agregado. 3 evidências.",
+          "evidences": [
+            {
+              "id": "ev-cap-tomada-decisao-la-01",
+              "kind": "historico",
+              "title": "Registro da chapa presidencial com candidato inelegível e o dirigente como vice",
+              "role": "presidente nacional do PRTB; a direção nacional decidiu pelo registro da chapa Brasil Próspero",
+              "complexity": "alcance nacional; candidato de cabeça de chapa com inelegibilidade declarada até 2032; registro protocolado em 15/08/2026; decisão liminar anterior havia autorizado a desfiliação dele do União Brasil",
+              "outcome": "registro homologado em 04/09/2026 e indeferido por unanimidade pelo TSE em 11/09/2026; chapa substituída depois",
+              "period": "2026-08 a 2026-09",
+              "context": "Aposta em reverter a inelegibilidade na Justiça Eleitoral durante o processo de registro; a chapa foi mantida até a decisão colegiada.",
+              "sources": [
+                {
+                  "id": "src-la-89"
+                },
+                {
+                  "id": "src-la-11"
+                },
+                {
+                  "id": "src-la-04"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-la-02",
+              "kind": "historico",
+              "title": "Assunção da cabeça da chapa nos dois últimos dias do prazo legal",
+              "role": "presidente nacional do PRTB e candidato a vice; tornou-se candidato a presidente após a renúncia do titular",
+              "complexity": "prazo legal encerrado em 14/09/2026; troca de chapa e definição de nova candidata a vice (Silvia Hellen) na mesma data",
+              "outcome": "substituição protocolada no último dia do prazo e publicada em DJE em 18/09/2026; candidato seguiu na disputa",
+              "period": "2026-09",
+              "context": "Risco de a legenda ficar sem candidato presidencial após o indeferimento do titular; a decisão foi tomada sem margem para nova composição.",
+              "sources": [
+                {
+                  "id": "src-la-05"
+                },
+                {
+                  "id": "src-la-13"
+                },
+                {
+                  "id": "src-la-36"
+                },
+                {
+                  "id": "src-la-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-la-03",
+              "kind": "historico",
+              "title": "Disputas eleitorais próprias em Goiás antes da presidência do partido",
+              "role": "candidato a vereador de Goiânia (2016) e a deputado federal por Goiás (2018)",
+              "complexity": "2 eleições; cargos municipal e federal, em estado de origem",
+              "outcome": "717 votos em 2016 (suplência) e 173 votos em 2018 (não eleito); não assumiu mandato",
+              "period": "2016-2018",
+              "context": "Trajetória de candidaturas sem cargo eletivo, conforme perfil agregado e verbete; votação de 2018 também consta do desempenho eleitoral no verbete.",
+              "sources": [
+                {
+                  "id": "src-la-88"
+                },
+                {
+                  "id": "src-la-10"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
         },
         {
           "slug": "gestao-crises",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Enfrentou entre 2024 e 2026 disputas pela direção do PRTB: ação no TSE que buscava afastá-lo do comando, com parecer do Ministério Público Eleitoral contrário à destituição em setembro de 2024; em agosto de 2025 a executiva nacional foi destituída em congresso e a Justiça Eleitoral confirmou sua expulsão, com a presidência assumida por Amauri Pinho; em fevereiro de 2026 obteve a reversão do cancelamento de sua filiação e, em junho de 2026, a Justiça Eleitoral registrou nova composição da Executiva Nacional com ele na presidência. Também respondeu, no curso da campanha municipal de 2024, à divulgação de áudio em que aparecia afirmando ter relações com integrantes de facção criminosa.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-gestao-crises-la-01",
+              "kind": "historico",
+              "title": "Perda e retomada do comando nacional do PRTB (2025-2026)",
+              "role": "presidente nacional; afastado em congresso do partido e posteriormente reconduzido por decisão da Justiça Eleitoral",
+              "complexity": "sequência de 3 frentes: congresso de agosto/2025 que destituiu a executiva, pedido de expulsão aprovado pelo conselho de ética e confirmado pela Justiça Eleitoral em setembro/2025, e reversão do cancelamento de filiação em fevereiro/2026",
+              "outcome": "Justiça Eleitoral confirmou a expulsão em setembro de 2025 (Amauri Pinho na presidência); em 06/02/2026 a filiação foi reativada e, em 17/06/2026, certidão registrou nova composição da Executiva Nacional sob sua presidência",
+              "period": "2025-2026",
+              "context": "Crise interna prolongada do partido, com disputas judiciais sobre o comando; fatos descritos de forma categórica, sem juízo de mérito.",
+              "sources": [
+                {
+                  "id": "src-la-80"
+                },
+                {
+                  "id": "src-la-82"
+                },
+                {
+                  "id": "src-la-83"
+                },
+                {
+                  "id": "src-la-81"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-la-02",
+              "kind": "historico",
+              "title": "Resposta à divulgação de áudio sobre relação com facção criminosa (2024)",
+              "role": "presidente nacional do PRTB e coordenador político da campanha municipal de São Paulo",
+              "complexity": "1 áudio publicado pela Folha em 08/08/2024; repercussão na campanha à Prefeitura de São Paulo, com cobrança pública a candidato do partido",
+              "outcome": "o dirigente negou as acusações e afirmou que o conteúdo era falso ou adulterado por inteligência artificial; a defesa declarou não haver condenação que comprove vínculo",
+              "period": "2024-08",
+              "context": "Crise durante a campanha municipal; a checagem do áudio foi tema de reportagens e de perguntas ao candidato do partido em entrevistas.",
+              "sources": [
+                {
+                  "id": "src-la-84"
+                },
+                {
+                  "id": "src-la-85"
+                },
+                {
+                  "id": "src-la-10"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-la-03",
+              "kind": "historico",
+              "title": "Denúncia do Ministério Público de São Paulo sobre a eleição interna de 2024",
+              "role": "dirigente partidário denunciado com outras pessoas; a defesa rejeita as acusações",
+              "complexity": "denúncia oferecida em janeiro de 2026, com fatos supostos entre fevereiro e abril de 2024; 7 denunciados; categorias citadas nas reportagens: associação criminosa, inserção de dados falsos em sistema e violência política de gênero",
+              "outcome": "processo em tramitação sob sigilo nas fontes consultadas; sem decisão de mérito localizada; defesa afirma a regularidade da eleição interna",
+              "period": "2026",
+              "context": "Fatos judiciais copiados na categoria das fontes, sem interpretação de mérito.",
+              "sources": [
+                {
+                  "id": "src-la-10"
+                },
+                {
+                  "id": "src-la-08"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "coordenacao-institucional",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Levou as disputas pelo comando do partido e pelo registro da chapa aos órgãos da Justiça Eleitoral (TSE, TRE-GO e Ministério Público Eleitoral), cumprindo prazos processuais e eleitorais, e reorganizou a relação entre a direção nacional e os diretórios estaduais após o rompimento da coligação estadual em Goiás.",
+          "coverage": "parcial",
+          "coverageNote": "Trajetória sem cargo público: a coordenação institucional se dá entre partido, Justiça Eleitoral e diretórios estaduais. 3 evidências, todas de arena partidária e eleitoral.",
+          "evidences": [
+            {
+              "id": "ev-cap-coordenacao-institucional-la-01",
+              "kind": "historico",
+              "title": "Resolução judicial da disputa pelo comando do partido",
+              "role": "presidente nacional; litígio contra integrantes que buscavam destituí-lo",
+              "complexity": "2 instâncias (TRE-GO e TSE); ação movida em julho de 2024, parecer do MPE contra a destituição em setembro de 2024 e reversão do cancelamento de filiação em fevereiro de 2026",
+              "outcome": "comando nacional reconhecido em certidão da Justiça Eleitoral em 17/06/2026, com nova composição da executiva nacional",
+              "period": "2024-2026",
+              "context": "Conflito interno encaminhado pelos órgãos da Justiça Eleitoral, não por acordo interno documentado.",
+              "sources": [
+                {
+                  "id": "src-la-86"
+                },
+                {
+                  "id": "src-la-87"
+                },
+                {
+                  "id": "src-la-83"
+                },
+                {
+                  "id": "src-la-81"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-la-02",
+              "kind": "historico",
+              "title": "Interface com a Justiça Eleitoral no registro e na substituição da chapa presidencial",
+              "role": "presidente nacional e candidato; protocolos assinados pela direção do partido",
+              "complexity": "1 processo de registro (indeferimento por unanimidade em 11/09/2026) e 1 substituição de chapa protocolada no último dia do prazo (14/09/2026), com publicação em DJE em 18/09/2026",
+              "outcome": "chapa substituta em disputa, com candidatura registrada e publicada no Diário da Justiça Eletrônica",
+              "period": "2026-08 a 2026-09",
+              "context": "Arenas: registro e substituição de candidatura perante o TSE, com exigências de prazo e de composição da chapa.",
+              "sources": [
+                {
+                  "id": "src-la-01"
+                },
+                {
+                  "id": "src-la-02"
+                },
+                {
+                  "id": "src-la-05"
+                },
+                {
+                  "id": "src-la-13"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-la-03",
+              "kind": "historico",
+              "title": "Reorganização da relação entre direção nacional e diretório estadual após rompimento em Goiás",
+              "role": "presidente nacional do PRTB; negociação e comunicados com o diretório estadual e a coligação estadual",
+              "complexity": "1 coligação estadual desfeita (Goiás) em 2026, com troca de comando estadual e disputa sobre a permanência do apoio ao governo estadual",
+              "outcome": "partido divulgou nota negando rompimento e, em julho de 2026, lançou candidatura própria no estado após mudança de comando; aliança com a coligação governista não foi restabelecida nas fontes consultadas",
+              "period": "2026",
+              "context": "Arena partidária estadual: a direção nacional atuou sobre diretório e coligação estadual em ano eleitoral.",
+              "sources": [
+                {
+                  "id": "src-la-33"
+                },
+                {
+                  "id": "src-la-25"
+                },
+                {
+                  "id": "src-la-34"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
         }
       ]
     },
@@ -57,24 +895,268 @@
       "capacities": [
         {
           "slug": "tomada-decisao",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Escolheu o Avante em abril de 2026 após rodada de conversas com dirigentes de outras legendas e manteve candidatura própria quando as tratativas de aliança com o Novo não avançaram. Em 2020, decidiu vender 60% do controle da Escola da Inteligência à Arco Educação, mantendo o licenciamento da metodologia. Em 2026, decidiu não divulgar os nomes da equipe econômica durante a campanha.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-tomada-decisao-ac-01",
+              "kind": "historico",
+              "title": "Escolha do partido após conversas com dirigentes de outras legendas",
+              "role": "pré-candidato à Presidência; conduziu pessoalmente as conversas antes da filiação",
+              "complexity": "contatos relatados com ao menos 6 legendas (MDB, PSD, PSDB, Podemos, PSC e Novo) entre 2025 e 2026; decisão anunciada em abril de 2026",
+              "outcome": "filiação ao Avante e oficialização da candidatura em convenção nacional de 03/08/2026, com o ex-deputado Júlio Delgado como vice",
+              "period": "2026",
+              "context": "Legenda de porte médio (5 deputados federais e 1 senador em 2026), escolhida em vez de siglas com estrutura partidária estabelecida que também procuraram o candidato, conforme declaração dele.",
+              "sources": [
+                {
+                  "id": "src-ac-09"
+                },
+                {
+                  "id": "src-ac-50"
+                },
+                {
+                  "id": "src-ac-04"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-ac-02",
+              "kind": "historico",
+              "title": "Venda de 60% do controle da Escola da Inteligência à Arco Educação",
+              "role": "fundador e controlador da empresa até a operação",
+              "complexity": "transação de R$ 288 milhões por 60% da companhia (R$ 200 milhões à vista), anunciada em agosto de 2020; rede declarada de cerca de 900 escolas e 330 mil alunos; análise do CADE",
+              "outcome": "operação concluída em 02/12/2020, após aprovação final do CADE sem condicionantes; o método seguiu licenciado a redes públicas",
+              "period": "2020",
+              "context": "Decisão empresarial de abrir mão do controle acionário da empresa que criou, em troca de capital e de escala comercial.",
+              "sources": [
+                {
+                  "id": "src-ac-48"
+                },
+                {
+                  "id": "src-ac-60"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-ac-03",
+              "kind": "historico",
+              "title": "Opção por não antecipar os nomes da equipe econômica",
+              "role": "candidato à Presidência; decisão declarada em entrevista e em evento com investidores",
+              "complexity": "decisão declarada em 10/09/2026, em evento na Genial Investimentos, em São Paulo; plano de governo registrado no TSE com 18 tópicos",
+              "outcome": "candidato afirmou ter conversas com Mansueto Almeida e Marcos Lisboa sem apontar favorito; a equipe econômica não havia sido divulgada até 29/09/2026",
+              "period": "2026-09",
+              "context": "Momento de discussão sobre credibilidade econômica da candidatura; a não divulgação evita antecipar nomes e mantém indefinição sobre a equipe.",
+              "sources": [
+                {
+                  "id": "src-ac-70"
+                },
+                {
+                  "id": "src-ac-71"
+                },
+                {
+                  "id": "src-ac-51"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-ac-04",
+              "kind": "historico",
+              "title": "Manutenção de chapa própria após conversas com o Novo não avançarem",
+              "role": "candidato à Presidência; tratativas conduzidas com dirigentes do Novo",
+              "complexity": "1 legenda envolvida (Novo), com conversas relatadas em agosto de 2026 e encontro com o presidenciável da sigla",
+              "outcome": "composição praticamente descartada e chapa mantida com Júlio Delgado (Avante); candidatura própria preservada",
+              "period": "2026-08",
+              "context": "Cenário de negociação entre candidaturas de terceira via; a decisão manteve a chapa já registrada.",
+              "sources": [
+                {
+                  "id": "src-ac-04"
+                },
+                {
+                  "id": "src-ac-62"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "gestao-crises",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Respondeu, em setembro de 2026, à controvérsia sobre o doutorado citado no plano registrado no TSE (divergência com o currículo Lattes, sem resposta da assessoria às redações) e à omissão de três empresas na declaração de bens, admitida pela campanha como erro com anúncio de retificação. Também passou a responder por levantamentos sobre contratos públicos das empresas que licenciam sua metodologia a prefeituras, que resultaram na substituição dos programas em ao menos um município.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-gestao-crises-ac-01",
+              "kind": "historico",
+              "title": "Controvérsia sobre o doutorado citado no plano registrado no TSE",
+              "role": "candidato; documento registrado pela própria campanha no TSE",
+              "complexity": "divergência entre a titulação descrita no plano (doutorado em Psicologia Multifocal, 2013) e o currículo Lattes (DBA em Administração); reportagens de Folha e Valor em 01/09/2026",
+              "outcome": "sem processo, sanção ou decisão judicial localizada até 29/09/2026; em julho de 2026 o candidato já havia afirmado em direito de resposta que não apresenta o título como doutorado acadêmico",
+              "period": "2026-07 a 2026-09",
+              "context": "Crise em documento oficial de campanha, sem consequência jurídica localizada nas fontes.",
+              "sources": [
+                {
+                  "id": "src-ac-11"
+                },
+                {
+                  "id": "src-ac-12"
+                },
+                {
+                  "id": "src-ac-13"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-gestao-crises-ac-02",
+              "kind": "historico",
+              "title": "Omissão de empresas na autodeclaração de bens e anúncio de retificação",
+              "role": "candidato; resposta dada pela campanha em nota",
+              "complexity": "3 empresas nos Estados Unidos não informadas ao TSE; patrimônio declarado de R$ 242,2 milhões; divulgação em 05-06/09/2026",
+              "outcome": "campanha classificou as ausências como inconsistências pontuais e informou que retificaria a declaração à Justiça Eleitoral",
+              "period": "2026-09",
+              "context": "Divulgação inicial pela imprensa; campanha afirmou que as participações têm peso inexpressivo no patrimônio declarado.",
+              "sources": [
+                {
+                  "id": "src-ac-65"
+                },
+                {
+                  "id": "src-ac-72"
+                },
+                {
+                  "id": "src-ac-49"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-gestao-crises-ac-03",
+              "kind": "historico",
+              "title": "Contratos públicos das empresas que licenciam a metodologia e substituição de programa em município",
+              "role": "criador da metodologia; as empresas contratadas respondem pelos acordos com prefeituras",
+              "complexity": "levantamentos de imprensa apontaram 25 contratos em 10 estados e 28 acordos com prefeituras entre 2023 e 2026 (R$ 19,9 milhões), com dispensa de licitação em 4 estados; em Itajaí, a prefeitura substituiu os programas por outro, com 27 mil estudantes abrangidos",
+              "outcome": "candidato afirmou que os negócios são regulares e comprometeu-se a não manter contratos federais de suas empresas em eventual governo; gastos municipais com os programas foram de R$ 39 milhões em Itajaí",
+              "period": "2017-2026",
+              "context": "Interface entre atividade empresarial anterior à candidatura e administração pública municipal; sem decisão judicial localizada nas fontes desta rodada.",
+              "sources": [
+                {
+                  "id": "src-ac-47"
+                },
+                {
+                  "id": "src-ac-73"
+                },
+                {
+                  "id": "src-ac-74"
+                },
+                {
+                  "id": "src-ac-75"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "coordenacao-institucional",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Aprovou junto ao CADE a venda do controle da Escola da Inteligência sem condicionantes e manteve, por meio das empresas licenciadas, relação contratual com secretarias municipais de educação em vários estados (contratações por dispensa de licitação e inexigibilidade registradas em diários oficiais). No campo político, conduziu conversas com outras legendas antes de escolher o Avante e manteve relação com o setor religioso em agenda de campanha.",
+          "coverage": "parcial",
+          "coverageNote": "Trajetória sem cargo público: a coordenação institucional ocorre com órgão regulador federal (CADE), secretarias municipais de educação contratantes e o sistema partidário; 4 evidências, sem atos de governo entre esferas.",
+          "evidences": [
+            {
+              "id": "ev-cap-coordenacao-institucional-ac-01",
+              "kind": "historico",
+              "title": "Passagem da operação societária pelo CADE sem condicionantes",
+              "role": "fundador e controlador da Escola da Inteligência até a venda à Arco Educação",
+              "complexity": "1 processo de concentração analisado pelo CADE; rede declarada de cerca de 900 escolas e 330 mil alunos; operação de R$ 288 milhões por 60% do capital",
+              "outcome": "aprovação final do CADE em 02/12/2020 sem restrições; fechamento da operação na mesma data",
+              "period": "2020",
+              "context": "Relação com órgão regulador federal de defesa da concorrência em operação de grande porte no setor de educação.",
+              "sources": [
+                {
+                  "id": "src-ac-60"
+                },
+                {
+                  "id": "src-ac-48"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-ac-02",
+              "kind": "historico",
+              "title": "Relação contratual das empresas licenciadas com secretarias municipais de educação",
+              "role": "criador da metodologia; empresas contratadas com prefeituras em vários estados",
+              "complexity": "contratos registrados em diários oficiais e levantamentos de imprensa: 25 instrumentos em 10 estados e 28 acordos entre 2023 e 2026, com dispensa de licitação em 4 estados; valores por contrato, como R$ 21,8 milhões em Itajaí e R$ 155 mil por palestra em município de Mato Grosso",
+              "outcome": "programas em funcionamento em várias redes até 2026, com substituição em Itajaí; campanha comprometeu-se a não manter contratos federais das empresas",
+              "period": "2017-2026",
+              "context": "Arena municipal de educação: contratação direta por dispensa ou inexigibilidade de licitação, conforme registros oficiais citados nas reportagens.",
+              "sources": [
+                {
+                  "id": "src-ac-47"
+                },
+                {
+                  "id": "src-ac-61"
+                },
+                {
+                  "id": "src-ac-73"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-ac-03",
+              "kind": "historico",
+              "title": "Rodada de conversas com outras legendas antes da definição partidária",
+              "role": "pré-candidato; interlocução conduzida diretamente com dirigentes partidários",
+              "complexity": "ao menos 6 legendas procuradas (MDB, PSD, PSDB, Podemos, PSC e Novo), com reuniões relatadas em 2025 e 2026",
+              "outcome": "filiação ao Avante em abril de 2026 e manutenção da candidatura própria, com recusa de composição no Novo",
+              "period": "2025-2026",
+              "context": "Relação entre legendas na fase de pré-campanha, quando a escolha do partido definia tempo de propaganda e estrutura disponível.",
+              "sources": [
+                {
+                  "id": "src-ac-41"
+                },
+                {
+                  "id": "src-ac-09"
+                },
+                {
+                  "id": "src-ac-62"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-ac-04",
+              "kind": "historico",
+              "title": "Agenda com lideranças religiosas durante a campanha",
+              "role": "candidato à Presidência; presença em evento de igreja e resposta pública a pedidos de voto atribuídos a ele",
+              "complexity": "1 evento na Assembleia de Deus, em setembro de 2026, com repercussão sobre suposto pedido de voto de liderança religiosa",
+              "outcome": "candidato negou, no próprio evento, ter pedido votos ao pastor e manteve a agenda com o setor religioso",
+              "period": "2026-09",
+              "context": "Relação com instituição religiosa em ano eleitoral, registrada por reportagem nacional.",
+              "sources": [
+                {
+                  "id": "src-ac-40"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
         }
       ]
     },
@@ -82,24 +1164,219 @@
       "capacities": [
         {
           "slug": "tomada-decisao",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Assumiu a candidatura presidencial do DC em 24/07/2026, depois das desistências de Aldo Rebelo e Joaquim Barbosa, e optou por manter campanha itinerante com a cota de R$ 1,5 milhão repassada pelo partido e agenda anunciada por estados. Como representante da OAB no Conselho Municipal de Saúde de Várzea Grande, sustentou a proposta de criação de banco de doadores de medula no hemocentro municipal, aprovada no conselho.",
+          "coverage": "parcial",
+          "coverageNote": "Primeira disputa eleitoral e trajetória sem cargo público: as decisões registradas são a assunção da candidatura após duas desistências, a condução da campanha com cota reduzida de recursos e a atuação como conselheira municipal no conselho de saúde; 3 evidências, com fonte local em parte.",
+          "evidences": [
+            {
+              "id": "ev-cap-tomada-decisao-cb-01",
+              "kind": "historico",
+              "title": "Assunção da candidatura presidencial após a desistência de Joaquim Barbosa",
+              "role": "advogada e presidente do diretório estadual do DC em Mato Grosso; indicada pela direção nacional",
+              "complexity": "terceira indicação de candidato do partido em 2026 (após Aldo Rebelo e Joaquim Barbosa); anúncio em 24/07/2026; chapa oficializada em convenção de 05/08/2026; 2 diretórios e a direção nacional envolvidos",
+              "outcome": "candidatura mantida e chapa registrada, com deferimento em 11/09/2026; partido disputou a Presidência com chapa feminina (vice Fabiana Torquato)",
+              "period": "2026-07 a 2026-08",
+              "context": "A desistência anterior foi justificada publicamente por dificuldades de obtenção de recursos e de estruturação da campanha.",
+              "sources": [
+                {
+                  "id": "src-cb-70"
+                },
+                {
+                  "id": "src-cb-71"
+                },
+                {
+                  "id": "src-cb-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-cb-02",
+              "kind": "historico",
+              "title": "Opção por campanha itinerante com a cota de recursos repassada pelo partido",
+              "role": "candidata à Presidência; decisão de agenda e alocação de recursos da própria campanha",
+              "complexity": "cota de R$ 1,5 milhão do Fundo Eleitoral destinada à candidatura (cerca de 45,3% do total do partido); agenda em Mato Grosso, São Paulo, Paraíba e Nordeste no período de campanha",
+              "outcome": "campanha realizada com agenda própria e sem coligação; candidata manteve viagens estaduais até a última semana antes do 1º turno",
+              "period": "2026-08 a 2026-09",
+              "context": "Legenda de estrutura reduzida: a cota recebida corresponde à parcela principal dos recursos do partido e é direcionada à campanha presidencial.",
+              "sources": [
+                {
+                  "id": "src-cb-11"
+                },
+                {
+                  "id": "src-cb-31"
+                },
+                {
+                  "id": "src-cb-32"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-cb-03",
+              "kind": "historico",
+              "title": "Sustentação da criação de banco de doadores de medula no hemocentro municipal",
+              "role": "conselheira e representante da OAB/Várzea Grande no Conselho Municipal de Saúde",
+              "complexity": "1 conselho municipal; município que registrou perda de mais de R$ 1 milhão da Assistência Social em 2024, conforme declaração da própria conselheira",
+              "outcome": "proposta apresentada e aprovada no conselho, segundo reportagem local e verbete; implantação do hemocentro aprovada pelo Conselho de Saúde",
+              "period": "2025",
+              "context": "Decisão tomada em conselho municipal de saúde, com recursos municipais limitados e sem cargo executivo na prefeitura.",
+              "sources": [
+                {
+                  "id": "src-cb-74"
+                },
+                {
+                  "id": "src-cb-09"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
         },
         {
           "slug": "gestao-crises",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Conduziu a candidatura do DC após a legenda perder dois candidatos em 2026, mantendo chapa e agenda. Em 2024, coordenou grupo de voluntários de Mato Grosso que atuou no auxílio a vítimas das enchentes do Rio Grande do Sul e criticou publicamente a resposta de autoridades gaúchas. No conselho municipal de assistência social, atuou em situação de perda de recursos do município, com deliberação local que destravou repasses.",
+          "coverage": "parcial",
+          "coverageNote": "Atuação em situações críticas registradas em imprensa local e regional, com parte das fontes com bloqueio de acesso na coleta (conteúdo lido por resumo indexado); 3 evidências.",
+          "evidences": [
+            {
+              "id": "ev-cap-gestao-crises-cb-01",
+              "kind": "historico",
+              "title": "Candidatura assumida após duas desistências no partido (2026)",
+              "role": "candidata; condução da campanha após a saída dos candidatos anteriores",
+              "complexity": "sequência de duas desistências (Aldo Rebelo, em janeiro de 2026, e Joaquim Barbosa, em julho de 2026) e de três indicações de candidato no mesmo ano; convenção nacional em 05/08/2026",
+              "outcome": "partido manteve candidatura própria e chapa registrada, com deferimento em 11/09/2026; a campanha passou a ser conduzida pela nova candidata em cerca de 2 meses",
+              "period": "2026",
+              "context": "Risco de a legenda não disputar a Presidência; a desistência anterior foi atribuída a dificuldades de recursos e de estruturação da campanha.",
+              "sources": [
+                {
+                  "id": "src-cb-70"
+                },
+                {
+                  "id": "src-cb-28"
+                },
+                {
+                  "id": "src-cb-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-cb-02",
+              "kind": "historico",
+              "title": "Coordenação de grupo de voluntários no auxílio às vítimas das enchentes do Rio Grande do Sul",
+              "role": "voluntária; organizou grupo de voluntários de Mato Grosso para atuar no estado atingido",
+              "complexity": "grupo com advogados, médicos, empresários e militar de Várzea Grande; atuação em acolhimento e distribuição de doações em cenário de enchente histórica",
+              "outcome": "atuação registrada em reportagens locais; candidata criticou publicamente a atuação de políticos do Rio Grande do Sul na ocasião",
+              "period": "2024",
+              "context": "Situação de emergência com mobilização nacional de voluntários; não foram localizados relatório ou ata do grupo.",
+              "sources": [
+                {
+                  "id": "src-cb-75"
+                },
+                {
+                  "id": "src-cb-41"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-cb-03",
+              "kind": "historico",
+              "title": "Atuação em crise orçamentária da assistência social municipal",
+              "role": "conselheira municipal de assistência social, na representação da OAB",
+              "complexity": "1 conselho municipal; perda de mais de R$ 1 milhão da Assistência Social registrada pelo município em 2024, segundo declaração da conselheira",
+              "outcome": "deliberação do conselho que, conforme a conselheira, destrava recursos da assistência social; trabalho concluído no âmbito do conselho",
+              "period": "2024-2025",
+              "context": "Arenas: conselho municipal e orçamento da assistência social, com recursos limitados e repasses federais/estaduais condicionados a deliberação do conselho.",
+              "sources": [
+                {
+                  "id": "src-cb-73"
+                },
+                {
+                  "id": "src-cb-09"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "coordenacao-institucional",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Atuou como representante da OAB de Várzea Grande em conselhos municipais (saúde, assistência social e saneamento), articulando deliberações do conselho com a gestão municipal, e presidiu a subseção da OAB no município em 2025. Preside o diretório estadual do DC em Mato Grosso e integrou o processo de indicação que levou seu nome à direção nacional do partido.",
+          "coverage": "parcial",
+          "coverageNote": "Trajetória sem cargo público: a coordenação institucional se dá na OAB, em conselhos municipais e na direção partidária estadual; 3 evidências, com uma delas apoiada em fonte local e no verbete.",
+          "evidences": [
+            {
+              "id": "ev-cap-coordenacao-institucional-cb-01",
+              "kind": "historico",
+              "title": "Representação da OAB em conselhos municipais de saúde, assistência social e saneamento",
+              "role": "conselheira representante da OAB/Subseção Várzea Grande e, em 2025, presidente da subseção",
+              "complexity": "3 conselhos municipais; 1 subseção da OAB; município de cerca de 300 mil habitantes, conforme dados públicos",
+              "outcome": "deliberações registradas em conselhos, incluindo a criação de banco de doadores de medula no hemocentro municipal e resolução sobre recursos da assistência social",
+              "period": "2023-2025",
+              "context": "Interface entre entidade profissional (OAB), conselhos de controle social e administração municipal, sem cargo no Executivo.",
+              "sources": [
+                {
+                  "id": "src-cb-09"
+                },
+                {
+                  "id": "src-cb-74"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-cb-02",
+              "kind": "historico",
+              "title": "Presidência da Subseção Várzea Grande da OAB-MT",
+              "role": "presidente da subseção municipal da Ordem",
+              "complexity": "1 subseção municipal, com atribuições sobre advocacia local, comissões e representação institucional",
+              "outcome": "gestão da subseção em 2025, com atuação em conselhos municipais registrada em reportagens locais",
+              "period": "2025",
+              "context": "Arena institucional profissional: relação com o Judiciário local, comissões e o poder público municipal.",
+              "sources": [
+                {
+                  "id": "src-cb-09"
+                },
+                {
+                  "id": "src-cb-73"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-cb-03",
+              "kind": "historico",
+              "title": "Direção estadual do partido no processo de indicação da candidatura",
+              "role": "presidente do diretório estadual do DC em Mato Grosso; interlocução com a direção nacional",
+              "complexity": "1 diretório estadual; interlocução com a direção nacional do partido",
+              "outcome": "nome levado à direção nacional e chapa oficializada em convenção de 05/08/2026",
+              "period": "2026",
+              "context": "Arena partidária: indicação de candidatura presidencial feita a partir de articulação entre diretório estadual e direção nacional.",
+              "sources": [
+                {
+                  "id": "src-cb-72"
+                },
+                {
+                  "id": "src-cb-34"
+                },
+                {
+                  "id": "src-cb-08"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
         }
       ]
     },
@@ -107,29 +1384,255 @@
       "capacities": [
         {
           "slug": "tomada-decisao",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Aceitou encabeçar a chapa presidencial da UP em 2026 depois de ter sido candidata a vice em 2022, em decisão aprovada por unanimidade pelo Diretório Nacional em fevereiro de 2026 e oficializada em convenção de julho. A chapa foi composta integralmente por mulheres, com dirigente sindical portuária como vice, e disputou a eleição sem coligação. Em setembro de 2026, a candidata não respondeu a convite para debate com o candidato do PCO, conforme publicação do jornal do próprio PCO.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-tomada-decisao-sm-01",
+              "kind": "historico",
+              "title": "Aprovação da pré-candidatura presidencial pelo Diretório Nacional",
+              "role": "vice-presidente nacional do partido e pré-candidata escolhida pela direção nacional",
+              "complexity": "decisão tomada em reunião do Diretório Nacional em 01/02/2026, por unanimidade; partido sem cota de Fundo Eleitoral e sem parlamentares eleitos",
+              "outcome": "chapa oficializada em convenção nacional de 26/07/2026 e registro validado por unanimidade pelo TSE em 02/09/2026",
+              "period": "2026",
+              "context": "Partido que disputou a Presidência em 2022 com 0,05% dos votos válidos e voltou a lançar candidatura própria em 2026, com estrutura de militância.",
+              "sources": [
+                {
+                  "id": "src-sm-70"
+                },
+                {
+                  "id": "src-sm-03"
+                },
+                {
+                  "id": "src-sm-04"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-sm-02",
+              "kind": "historico",
+              "title": "Composição de chapa integralmente feminina com dirigente sindical como vice",
+              "role": "cabeça de chapa; indicação da candidata a vice em acordo com a direção nacional",
+              "complexity": "1 chapa; vice-presidenta do Sindiporto-PA/AP e coordenadora nacional de corrente sindical; composição 100% feminina em disputa com outras 11 candidaturas",
+              "outcome": "chapa registrada e validada pelo TSE em 02/09/2026; a candidata declarou que a composição expressa uma alternativa de chapa feminina",
+              "period": "2026-07",
+              "context": "Decisão de composição da chapa em partido sem recursos de campanha e com uma das duas chapas femininas do pleito.",
+              "sources": [
+                {
+                  "id": "src-sm-01"
+                },
+                {
+                  "id": "src-sm-04"
+                },
+                {
+                  "id": "src-sm-24"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-sm-03",
+              "kind": "historico",
+              "title": "Manutenção de candidatura própria sem coligação ou federação",
+              "role": "pré-candidata e vice-presidente nacional; decisão da direção nacional referendada em convenção",
+              "complexity": "1 partido sem coligação em 2026; tratativas com outras legendas encerradas sem acordo, conforme a própria campanha",
+              "outcome": "candidatura própria mantida, sem federação partidária e sem coligações estaduais; partido disputou também governos estaduais",
+              "period": "2026",
+              "context": "Cenário de negociação entre partidos de esquerda fora do PT; a ausência de coligação reduz tempo de propaganda e acesso a recursos.",
+              "sources": [
+                {
+                  "id": "src-sm-19"
+                },
+                {
+                  "id": "src-sm-23"
+                },
+                {
+                  "id": "src-sm-13"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-tomada-decisao-sm-04",
+              "kind": "historico",
+              "title": "Não participação em debate com o candidato do PCO, segundo o jornal do PCO",
+              "role": "candidata; convite de debate dirigido à campanha, conforme publicação do jornal do partido adversário",
+              "complexity": "1 convite de debate registrado em publicação partidária de 24/09/2026, no contexto de ausência da candidata no primeiro debate presidencial da Band",
+              "outcome": "publicação afirma que a candidata não respondeu ao convite; a campanha não se manifestou sobre o tema nas fontes consultadas",
+              "period": "2026-09",
+              "context": "Fonte partidária adversária; a afirmação é atribuída à publicação, sem confirmação independente.",
+              "sources": [
+                {
+                  "id": "src-sm-72"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
         },
         {
           "slug": "gestao-crises",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Atuou em cenário de exclusão do primeiro debate presidencial de 2026 (agosto), quando militantes do partido se manifestaram no local do debate contra a ausência da candidata e a campanha seguiu com agenda própria em estados. Antes disso, a candidatura precisou corrigir erro no registro do plano de governo, protocolado com a versão de 2022 e depois substituído. A campanha foi conduzida com R$ 0 de fundos públicos, apoiada em militância e em agenda de rádios, podcasts e atos locais.",
+          "coverage": "parcial",
+          "coverageNote": "Cenário de campanha com recursos públicos zerados e ausência nos debates de maior audiência; as evidências vêm de cobertura de imprensa e de registro de mobilização, sem documento do partido sobre plano de contingência; 3 evidências.",
+          "evidences": [
+            {
+              "id": "ev-cap-gestao-crises-sm-01",
+              "kind": "historico",
+              "title": "Ausência no primeiro debate presidencial e mobilização da militância",
+              "role": "candidata não convidada; militantes do partido se manifestaram no local do debate",
+              "complexity": "1 debate (Band, 23/08/2026) com 3 candidatos convidados por critério de pesquisa; ato de militantes registrado no estúdio",
+              "outcome": "candidata não participou do debate; campanha manteve agenda própria e a candidata voltou a ser confirmada em debate posterior, em 18/09/2026",
+              "period": "2026-08 a 2026-09",
+              "context": "Regras de convite por desempenho em pesquisas; a candidata declarou que a mídia tradicional dá pouco espaço à legenda.",
+              "sources": [
+                {
+                  "id": "src-sm-73"
+                },
+                {
+                  "id": "src-sm-74"
+                },
+                {
+                  "id": "src-sm-48"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-sm-02",
+              "kind": "historico",
+              "title": "Correção do plano de governo protocolado com a versão de 2022",
+              "role": "campanha da candidata; protocolo no TSE",
+              "complexity": "1 documento registrado no TSE com a versão de 2022 do programa e posteriormente substituído por versão com 16 propostas",
+              "outcome": "campanha informou ter corrigido o erro e apresentou nova versão do plano registrado",
+              "period": "2026-08",
+              "context": "Erro de protocolo no registro da candidatura, corrigido durante a campanha; o programa detalhado foi publicado em seguida.",
+              "sources": [
+                {
+                  "id": "src-sm-42"
+                },
+                {
+                  "id": "src-sm-30"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-gestao-crises-sm-03",
+              "kind": "historico",
+              "title": "Campanha sem fundos públicos e com estrutura de militância",
+              "role": "candidata e direção nacional; organização da campanha sem cota de Fundo Eleitoral ou partidário",
+              "complexity": "partido com R$ 0 de fundos públicos em 2026 (cota zerada por não ter atingido a cláusula de desempenho); 1 candidatura presidencial e 188 candidaturas no total do partido, conforme levantamento",
+              "outcome": "campanha sustentada por arrecadação própria e militância, com agenda em estados (Teresina, Belém, São Paulo, Rio de Janeiro, Rio Grande do Sul) e uso de rádios e podcasts",
+              "period": "2026-07 a 2026-09",
+              "context": "Cenário de restrição de recursos decorrente da cláusula de barreira; a campanha adaptou o formato para atos locais e mídia alternativa.",
+              "sources": [
+                {
+                  "id": "src-sm-19"
+                },
+                {
+                  "id": "src-sm-23"
+                },
+                {
+                  "id": "src-sm-38"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "coordenacao-institucional",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Integra a direção nacional de um partido cuja base organizativa está em movimentos populares (movimento de mulheres, frente negra, juventude e corrente sindical), e articulou a composição da chapa com o movimento sindical portuário. Traz da trajetória anterior a atuação em entidades estudantis (direção de mulheres da UNE e associação de estudantes de BH), em arena de representação institucional de jovens.",
+          "coverage": "parcial",
+          "coverageNote": "Trajetória de partido e movimento social, sem cargo público: a coordenação institucional ocorre entre partido, organizações populares e movimento sindical; 3 evidências.",
+          "evidences": [
+            {
+              "id": "ev-cap-coordenacao-institucional-sm-01",
+              "kind": "historico",
+              "title": "Atuação na direção nacional junto a organizações populares ligadas ao partido",
+              "role": "vice-presidente nacional da UP; direção partidária em interlocução com movimentos populares",
+              "complexity": "organizações citadas na base do partido: movimento de mulheres, frente negra revolucionária, juventude e corrente sindical; partido sem representação parlamentar e com estrutura de militância",
+              "outcome": "composição da chapa e da campanha com dirigentes dessas organizações; a vice-presidência da chapa foi ocupada por dirigente sindical",
+              "period": "2022-2026",
+              "context": "Arena de movimento social: o partido opera como articulação de organizações já existentes, sem estrutura parlamentar.",
+              "sources": [
+                {
+                  "id": "src-sm-13"
+                },
+                {
+                  "id": "src-sm-01"
+                },
+                {
+                  "id": "src-sm-75"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-sm-02",
+              "kind": "historico",
+              "title": "Articulação com o movimento sindical portuário na composição da chapa",
+              "role": "cabeça de chapa; indicação de dirigente do Sindiporto-PA/AP como vice",
+              "complexity": "1 sindicato estadual (portuários do Pará e Amapá) e 1 corrente sindical nacional; candidatura com foco declarado em trabalho e renda",
+              "outcome": "chapa registrada com perfil sindical; a candidata firmou compromisso de campanha com pautas de trabalhadores em entrevistas e atos",
+              "period": "2026",
+              "context": "Relação entre partido e entidades sindicais na composição de chapa presidencial, sem coligação partidária.",
+              "sources": [
+                {
+                  "id": "src-sm-04"
+                },
+                {
+                  "id": "src-sm-01"
+                },
+                {
+                  "id": "src-sm-71"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-coordenacao-institucional-sm-03",
+              "kind": "historico",
+              "title": "Trajetória em entidades estudantis de representação institucional",
+              "role": "diretora de mulheres da UNE e atuação na associação de estudantes de Belo Horizonte, antes da filiação partidária",
+              "complexity": "2 entidades estudantis de alcance nacional e metropolitano",
+              "outcome": "mandatos e períodos não foram localizados em documento; registro em verbete e perfil partidário",
+              "period": "2010-2016",
+              "context": "Arena estudantil: representação institucional em entidade de âmbito nacional antes da atuação partidária.",
+              "sources": [
+                {
+                  "id": "src-sm-32"
+                },
+                {
+                  "id": "src-sm-39"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
         }
       ]
     }
   },
   "dataGaps": [
-    "em consolidação"
+    "Renan Santos: sem evidência de coordenação institucional com órgãos de governo (nunca ocupou cargo no Executivo); a interlocução registrada é com setor empresarial, partidos e Justiça Eleitoral.",
+    "Leonardo Avalanche: não foram localizados documentos primários do PRTB (atas, estatuto em vigor, editais) sobre o congresso de 2025 e a retomada do comando em 2026; a reconstituição usa imprensa nacional e regional e o verbete.",
+    "Augusto Cury: não foram localizados relatórios de órgãos de controle (TCE, CADE, MP) sobre os contratos das empresas licenciadas com prefeituras, apenas levantamentos de imprensa; a situação atual das contratações municipais após setembro de 2026 não foi confirmada.",
+    "Clariana Barão: atas e deliberações nominais dos conselhos municipais de Várzea Grande (saúde, assistência social, saneamento) não foram obtidas; as páginas do veículo local com a cobertura da atuação como conselheira apresentaram bloqueio de acesso na coleta (WAF), com leitura por resumo indexado.",
+    "Samara Martins: não foram localizados documentos do partido (resoluções, notas) sobre a exclusão dos debates e sobre o plano de contingência da campanha; a evidência de recusa de debate com o PCO vem de publicação partidária adversária, sem confirmação independente.",
+    "Nenhum dos cinco candidatos exerceu ou exerce cargo executivo estatal (secretaria, ministério, prefeitura, governo), o que limita as evidências de coordenação institucional a arenas partidária, de campanha, associativa e empresarial."
   ]
 }

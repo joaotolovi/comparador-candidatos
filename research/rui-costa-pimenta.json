@@ -1779,6 +1779,106 @@
       "accessedAt": "2026-09-29",
       "sourceType": "plano_de_governo",
       "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+    },
+    {
+      "id": "src-rp-88",
+      "title": "Uma Breve História do PCO",
+      "publisher": "Partido da Causa Operária (PCO)",
+      "url": "https://pco.org.br/uma-breve-historia-do-pco",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+    },
+    {
+      "id": "src-rp-89",
+      "title": "Esquerda, volver! O que une (e separa) UP, PCO, PSTU e PCB",
+      "publisher": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/esquerda-volver-o-que-une-e-divide-up-pco-pstu-e-pcb",
+      "publishedAt": "2020",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 2020 sobre as quatro legendas sem cargos e sem recursos: registra que o PCO era, antes do registro próprio, uma corrente do PT, a 'Causa Operária', expulsa em 1995 por divergências políticas ('a ala não concordava com alianças com a burguesia', segundo o membro da executiva nacional Antônio Carlos Silva, professor); descreve a posição do partido no movimento sindical e a não prioridade dada a disputas eleitorais."
+    },
+    {
+      "id": "src-rp-90",
+      "title": "Workers' Cause Party — verbete (Wikipédia em inglês: fundação em 07/12/1995, cisão do PT, candidatura de 2006 cassada)",
+      "publisher": "Wikipédia (em inglês)",
+      "url": "https://en.wikipedia.org/wiki/Workers%27_Cause_Party",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Verbete usado apenas como índice: partido fundado em 07/12/1995 por cisão do PT, presidência de Rui Costa Pimenta; registra que 'in 2006, the candidacy of Rui Costa Pimenta to presidency was abrogated by the Superior Electoral Court'. O verbete contém seção crítica sobre a condução interna do partido cujas fontes primárias não foram localizadas nesta rodada; não foi usada como evidência isolada."
+    },
+    {
+      "id": "src-rp-83",
+      "title": "'PT passou de perseguido a perseguidor', diz Rui Costa Pimenta",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2026/pt-passou-de-perseguido-a-perseguidor-diz-rui-costa-pimenta/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Entrevista publicada no diário do partido em setembro de 2026: relata que o PCO apoiou Lula em 2018, quando o petista estava preso, e em 2022, e que não apoiou Lula em 2006 nem Dilma em 2010 e 2014 ('em 2006, eu acho que a nossa candidatura presidencial foi impugnada'); sobre o 2º turno de 2026 afirma que a posição será definida em conferência do partido, com tendência declarada de voto nulo e recusa de voto em Flávio Bolsonaro; comenta a operação da PF e a política do governo federal."
+    },
+    {
+      "id": "src-rp-87",
+      "title": "Rui Pimenta, do PCO, chama ação da PF de 'ridícula': 'Digna de palhaços'",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/eleicoes/2026/08/11/rui-pimenta-do-pco-chama-acao-da-pf-de-ridicula-digna-de-palhacos.ghtm",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 11/08/2026: nota do PCO classifica a operação da PF como 'perseguição política', 'ilegal, antidemocrática' e 'tática de intimidação'; o candidato nega ilegalidade nos pagamentos a gráfica ligada a integrante da direção nacional ('o juiz pode achar isso estranho, mas não é ilegal... não está na lei eleitoral que você é obrigado a contratar empresas de pessoas que não tenham vinculação partidária'); a operação 'Causa Própria' investiga desvio de recursos dos fundos partidário e eleitoral."
+    },
+    {
+      "id": "src-rp-82",
+      "title": "Leia e assista à íntegra do discurso de Rui Costa Pimenta",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/leia-e-assista-a-integra-do-discurso-de-rui-costa-pimenta/",
+      "publishedAt": "2026-08-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Discurso de 08/08/2026 no evento que oficializou a chapa do PCO: define a candidatura como 'antissistema', em oposição ao imperialismo e à subordinação dos trabalhadores a candidatos apoiados pelo 'grande capital', e afirma que o objetivo não é eleger ('nós não vamos eleger ninguém. É praticamente impossível. É um problema de travar uma luta política')."
+    },
+    {
+      "id": "src-rp-85",
+      "title": "Rui Pimenta em Dourados: 'índios têm integral direito de se armar'",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2026/rui-pimenta-em-dourados-indios-tem-integral-direito-de-se-armar/",
+      "publishedAt": "2026-09-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Cobertura do ato de 19/09/2026 na Aldeia Jaguapiru (Dourados/MS): lançamento da campanha do PCO em Mato Grosso do Sul com candidatos guarani-caiuá, dirigentes, militantes e apoiadores; discurso sobre a questão da terra, regularização de áreas e infraestrutura para a pequena produção; o partido afirma manter há anos atividade política entre os guarani-caiuá de Dourados."
+    },
+    {
+      "id": "src-rp-86",
+      "title": "Candidato do PCO visita aldeia em Dourados e defende reforma agrária",
+      "publisher": "Campo Grande News",
+      "url": "https://www.campograndenews.com.br/politica/durante-ato-em-dourados-presidenciavel-do-pco-defende-distribuicao-de-terra",
+      "publishedAt": "2026-09-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 19/09/2026: agenda do candidato em Mato Grosso do Sul, defesa da distribuição de terra aos indígenas e de plano de industrialização nacional; registra que ele foi o primeiro presidenciável a visitar o estado após 16/08 e que apenas cinco dos 14 candidatos registrados passaram por Mato Grosso do Sul durante a campanha."
+    },
+    {
+      "id": "src-rp-84",
+      "title": "Rui Pimenta denuncia dedo do Mossad na operação da PF contra o PCO: 'querem me expulsar do País'",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2026/rui-pimenta-denuncia-dedo-do-mossad-na-operacao-da-pf-contra-o-pco-querem-me-expulsar-do-pais",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Nota do diário do partido em setembro de 2026: o presidente do PCO afirma que um serviço secreto estrangeiro estaria por trás da ação da Polícia Federal contra o partido e declara que 'querem me expulsar do País'."
+    },
+    {
+      "id": "src-rp-91",
+      "title": "Candidatos nas eleições de 2026 assinam carta de compromisso com defesa da Palestina",
+      "publisher": "Opera Mundi",
+      "url": "https://operamundi.uol.com.br/eleicoes-2026-brasil/candidatos-nas-eleicoes-de-2026-assinam-carta-de-compromisso-com-defesa-da-palestina/",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento de 21/09/2026: quatro presidenciáveis signatários da carta de compromisso com a defesa da Palestina (Samara Martins/UP, Edmilson Costa/PCB, Hertz Dias/PSTU e Rui Costa Pimenta/PCO), além de 53 candidaturas a governos estaduais ou distrital e centenas de postulantes a Senado, Câmara dos Deputados e assembleias legislativas."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -1802,7 +1902,22 @@
     "wilson-grassi: o plano não traz valores orçamentários medida a medida e o próprio candidato declarou (Folha de S.Paulo/Poder360, 29/08/2026) que há propostas que pretende implementar e não constam do documento registrado no TSE.",
     "Edmilson Costa, Hertz Dias e Rui Costa Pimenta: o documento registrado no TSE é o programa do próprio partido adotado pela candidatura, e não um plano de governo redigido para um mandato — os três blocos estão marcados como 'parcial' por essa razão, sem que exista versão 'de governo' para comparar.",
     "Os quatro candidatos: o índice de propostas do TSE usa 8 categorias fixas e iguais para todas as candidaturas, o que impede usá-lo como lista de prioridades declaradas; as prioridades deste bloco vêm das seções dos próprios planos.",
-    "Não foram localizados, para nenhum dos quatro, documentos partidários ou entrevistas que contradigam ou detalhem além dos planos as prioridades nacionais declaradas; a apuração de política externa (bloco Brasil no Mundo) não foi escopo deste patch."
+    "Não foram localizados, para nenhum dos quatro, documentos partidários ou entrevistas que contradigam ou detalhem além dos planos as prioridades nacionais declaradas; a apuração de política externa (bloco Brasil no Mundo) não foi escopo deste patch.",
+    "Nenhum dos quatro candidatos exerceu cargo executivo estatal: as evidências de decisão, crise e coordenação institucional vêm de direção partidária (PCB, PSTU, PCO, Democrata), de movimento social (Quilombo Urbano e Quilombo Raça e Classe), de entidade profissional veterinária e de empresa privada.",
+    "PCB: os documentos da crise de 2023 são notas partidárias dos dois lados (direção nacional, comitês regionais e grupo desligado) e reportagens; não foram localizados autos, atas ou resultado de processos disciplinares, e a nota sobre o Rio Grande do Sul (21/09/2023) não identifica a instância signatária.",
+    "PCB: a negociação com o PSOL de 2010 é documentada por nota do próprio partido; não foi localizada cobertura de imprensa independente sobre as contrapropostas apresentadas nem ata das reuniões.",
+    "Hertz Dias: as situações críticas vêm do movimento social e da campanha; o estudo acadêmico sobre o Quilombo Urbano não informa as datas dos episódios de violência institucional, não foi localizado registro de gestão de estrutura administrativa ou de orçamento, e o cargo do candidato na direção do movimento ou do partido não está documentado.",
+    "PCO: não há registro localizado de denúncia, sentença ou conclusão do inquérito da Operação Causa Própria até 29/09/2026; a cassação da candidatura presidencial de 2006 consta de verbete e do relato do próprio dirigente, sem fonte primária localizada.",
+    "Wilson Grassi: a ficha com dados do TSE consultada em 29/09/2026 registra a candidatura como 'aguardando julgamento' e há divergência entre fontes sobre 2022 (ficha do TSE: 'inapto'; reportagem: 6.580 votos); as informações sobre hospitais veterinários públicos, tele triagem e faculdades são autodeclaradas pela entidade criada pelo candidato.",
+    "Não foram localizadas fontes sobre coordenação institucional dos quatro candidatos com governos estaduais ou federal (não exerceram mandato executivo): a interface documentada é com o Legislativo municipal de São Paulo (PCB, 2026), com a Prefeitura de São Paulo (Wilson Grassi, 2012–2015), com comunidades indígenas (PCO, 2026) e com a Justiça Eleitoral (PCO e Democrata, 2026).",
+    "Bloco 'Brasil no mundo' montado a partir dos programas/planos registrados e das análises do OPEB (27/09/2026): para Samara Martins (UP), Edmilson Costa (PCB), Hertz Dias (PSTU), Rui Costa Pimenta (PCO) e Wilson Grassi (Democrata) a posição internacional tem origem em documento programático do próprio partido — declarado em cada methodology e marcado como 'parcial'.",
+    "Nenhum dos cinco candidatos tem registro localizado de negociação internacional conduzida em nome do Estado, de acordo assinado ou de cargo em organismo internacional: as evidências de atuação internacional são de direção partidária (Edmilson Costa e Rui Costa Pimenta), de vínculo organizativo do partido (Hertz Dias, via LIT-QI) ou inexistentes nas fontes consultadas (Samara Martins e Wilson Grassi).",
+    "Edmilson Costa: a participação em encontro internacional em Caracas (2023) aparece apenas em sítio crítico ao PCB, sem confirmação primária localizada; o vínculo de delegação ao XIX Encontro Internacional de Partidos Comunistas e Operários (2017) está registrado pelo próprio partido, com a intervenção proferida por outro dirigente.",
+    "Rui Costa Pimenta: as páginas do Diário Causa Operária (25/02/2024) e do Poder360 (out/2023) responderam HTTP 403 à requisição por linha de comando; os trechos usados vieram de indexação de busca e estão identificados nas notas das fontes. Não foi localizada lista completa da delegação que foi ao Catar em 2024.",
+    "Samara Martins e Hertz Dias: o PDF do programa/plano no TSE não pôde ser baixado por linha de comando (WAF, HTTP 403) nesta rodada; o conteúdo foi lido nas versões divulgadas pela campanha/partido e nas análises do OPEB. Para Wilson Grassi e Rui Costa Pimenta o PDF registrado no TSE também respondeu 403 e os tópicos foram lidos em reprodução de imprensa.",
+    "Projeção internacional: nenhum dos cinco candidatos teve, em 2025–2026, entrevista localizada em veículo de imprensa estrangeira de grande circulação; a circulação fora do país identificada é de veículos partidários internacionais (LIT-QI, International Communist Press), de um agregador em inglês (Brazil in English) e de um veículo em inglês sobre o Brasil (Today in Brazil).",
+    "Temas sem posição documentada e não inferidos por partido: para Samara Martins, não há posição sobre BRICS, ONU, África e Ásia; para Hertz Dias, sobre BRICS, Mercosul (além da crítica ao acordo com a UE), ONU, defesa e clima; para Edmilson Costa, sobre BRICS e governança climática; para Wilson Grassi, sobre BRICS, Mercosul, China, Estados Unidos e clima; para Rui Costa Pimenta, sobre clima, defesa e integração sul-americana além do BRICS.",
+    "Comparações com a política externa efetivamente praticada pelo governo federal não foram feitas neste bloco, por não haver histórico de governo de nenhum dos cinco candidatos."
   ],
   "capacities": [
     {
@@ -2315,6 +2430,511 @@
       "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
       "coverage": "parcial",
       "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "tomada-decisao",
+      "synthesis": "Fundou o PCO em 1995 após a ruptura da corrente Causa Operária com o PT e preside o partido desde então, com candidaturas presidenciais próprias em 2002, 2010, 2014 e 2026. Decidiu apoiar a candidatura de Lula em 2018, quando o petista estava preso, sem integrar coligação, e em agosto de 2026 manteve a candidatura depois de afastado por decisão judicial das funções administrativas do partido, submetendo a posição sobre o 2º turno a uma conferência partidária.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-tomada-decisao-rp-01",
+          "kind": "historico",
+          "title": "Fundação do PCO em 1995 após a ruptura com o PT",
+          "role": "fundador e presidente nacional do PCO desde dezembro de 1995",
+          "complexity": "ruptura da corrente Causa Operária (existente desde 1978, no PT desde 1980) com o maior partido da esquerda brasileira; passagem a legenda própria, sem representação no Congresso e sem participação em governos nos 30 anos seguintes; manutenção de estrutura permanente de imprensa e de escola de formação",
+          "outcome": "partido constituído com registro próprio e candidatura presidencial em 2002, 2010, 2014 e 2026; candidatura de 2006 não admitida pelo TSE, segundo o próprio dirigente e o verbete do partido",
+          "period": "1978–2026",
+          "context": "o histórico oficial do partido registra a origem no rompimento com a Organização Socialista Internacionalista (1978) e a entrada no PT em 1980; reportagem de 2020 registra a expulsão da corrente do PT em 1995 por divergência sobre 'alianças com a burguesia'",
+          "sources": [
+            {
+              "id": "src-rp-88",
+              "title": "Uma Breve História do PCO",
+              "publisher": "Partido da Causa Operária (PCO)",
+              "url": "https://pco.org.br/uma-breve-historia-do-pco",
+              "publishedAt": null,
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+            },
+            {
+              "id": "src-rp-89",
+              "title": "Esquerda, volver! O que une (e separa) UP, PCO, PSTU e PCB",
+              "publisher": "CartaCapital",
+              "url": "https://www.cartacapital.com.br/politica/esquerda-volver-o-que-une-e-divide-up-pco-pstu-e-pcb",
+              "publishedAt": "2020",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reportagem de 2020 sobre as quatro legendas sem cargos e sem recursos: registra que o PCO era, antes do registro próprio, uma corrente do PT, a 'Causa Operária', expulsa em 1995 por divergências políticas ('a ala não concordava com alianças com a burguesia', segundo o membro da executiva nacional Antônio Carlos Silva, professor); descreve a posição do partido no movimento sindical e a não prioridade dada a disputas eleitorais."
+            },
+            {
+              "id": "src-rp-90",
+              "title": "Workers' Cause Party — verbete (Wikipédia em inglês: fundação em 07/12/1995, cisão do PT, candidatura de 2006 cassada)",
+              "publisher": "Wikipédia (em inglês)",
+              "url": "https://en.wikipedia.org/wiki/Workers%27_Cause_Party",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Verbete usado apenas como índice: partido fundado em 07/12/1995 por cisão do PT, presidência de Rui Costa Pimenta; registra que 'in 2006, the candidacy of Rui Costa Pimenta to presidency was abrogated by the Superior Electoral Court'. O verbete contém seção crítica sobre a condução interna do partido cujas fontes primárias não foram localizadas nesta rodada; não foi usada como evidência isolada."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-rp-02",
+          "kind": "historico",
+          "title": "Apoio à candidatura de Lula em 2018 sem ingresso em coligação",
+          "role": "presidente nacional do PCO",
+          "complexity": "decisão de apoiar candidatura de outro partido durante a prisão do candidato, mantendo estrutura e programa próprios; histórico declarado de candidatura própria em 2002 e 2006 e de não apoio a Dilma em 2010 e 2014; ausência de coligação registrada nas disputas presidenciais do partido",
+          "outcome": "apoio mantido em 2018 e, segundo o dirigente, também em 2022; o PCO não integrou coligação e manteve candidatura própria em 2026",
+          "period": "2018–2022",
+          "context": "em entrevista de 2026 o dirigente resumiu a decisão: 'nós só voltamos a apoiar o Lula quando ele estava preso', após campanhas contra o processo de impeachment de 2016 e pela libertação do petista",
+          "sources": [
+            {
+              "id": "src-rp-83",
+              "title": "'PT passou de perseguido a perseguidor', diz Rui Costa Pimenta",
+              "publisher": "Diário Causa Operária",
+              "url": "https://causaoperaria.org.br/2026/pt-passou-de-perseguido-a-perseguidor-diz-rui-costa-pimenta/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Entrevista publicada no diário do partido em setembro de 2026: relata que o PCO apoiou Lula em 2018, quando o petista estava preso, e em 2022, e que não apoiou Lula em 2006 nem Dilma em 2010 e 2014 ('em 2006, eu acho que a nossa candidatura presidencial foi impugnada'); sobre o 2º turno de 2026 afirma que a posição será definida em conferência do partido, com tendência declarada de voto nulo e recusa de voto em Flávio Bolsonaro; comenta a operação da PF e a política do governo federal."
+            },
+            {
+              "id": "src-rp-02",
+              "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-rp-03",
+          "kind": "historico",
+          "title": "Manutenção da candidatura após afastamento cautelar das funções partidárias (agosto de 2026)",
+          "role": "presidente nacional do PCO e candidato à Presidência, afastado por 180 dias das atividades administrativas do partido por decisão da Justiça Eleitoral",
+          "complexity": "inquérito sobre repasses do fundo partidário e do fundo eleitoral a gráficas; quatro mandados de busca em endereços ligados ao partido em São Paulo; bloqueio de até R$ 4,5 milhões dos investigados; medida de afastamento com prazo de 180 dias",
+          "outcome": "candidatura mantida, com registro deferido; o dirigente negou ilegalidade em entrevistas ('o juiz pode achar isso estranho, mas não é ilegal... não está na lei eleitoral que você é obrigado a contratar empresas de pessoas que não tenham vinculação partidária')",
+          "period": "2026-08",
+          "context": "a operação 'Causa Própria' foi autorizada pela Justiça Eleitoral do Distrito Federal a partir da análise de prestações de contas do partido e de relatórios de inteligência financeira; não há denúncia ou conclusão do inquérito registrada até 29/09/2026",
+          "sources": [
+            {
+              "id": "src-rp-03",
+              "title": "Rui Costa Pimenta, presidente do PCO, é alvo de operação da PF por suspeita de desvio de dinheiro dos fundos partidário e eleitoral",
+              "publisher": "g1 / Jornal Nacional (Globo)",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/rui-costa-pimenta-presidente-do-pco-e-alvo-de-operacao-da-pf-por-suspeita-de-desvio-de-dinheiro-dos-fundos-partidario-e-eleitoral.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "JN/g1 (11/08/2026): Polícia Federal apura desvio de dinheiro dos fundos partidário e eleitoral para empresas ligadas a integrantes do PCO; quatro buscas em endereços ligados ao partido em São Paulo; bloqueio de contas e bens; afastamento do presidente do partido por 6 meses (medida da Justiça Eleitoral)."
+            },
+            {
+              "id": "src-rp-04",
+              "title": "PF apura desvio no PCO e faz busca sobre Rui Costa Pimenta",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-mira-presidente-do-pco-em-operacao-sobre-suspeita-de-desvio-de-fundo-partidario-e-eleitoral.shtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Folha (11/08/2026): mandado de busca e apreensão em endereço de Rui Costa Pimenta em operação sobre suspeitas de desvio de recursos do fundo partidário e do fundo eleitoral; 'A decisão que trata do caso determina o afastamento por 180 dias do cargo partidário'; o partido e Rui só tomaram conhecimento com a arrombamento da porta; segundo a Metrópoles (citada), a investigação envolve um suposto esquema de pagamentos do partido a gráficas; confirma que Rui foi candidato à Presidência pelo PCO em 2002, 2010 e 2014."
+            },
+            {
+              "id": "src-rp-87",
+              "title": "Rui Pimenta, do PCO, chama ação da PF de 'ridícula': 'Digna de palhaços'",
+              "publisher": "UOL",
+              "url": "https://noticias.uol.com.br/eleicoes/2026/08/11/rui-pimenta-do-pco-chama-acao-da-pf-de-ridicula-digna-de-palhacos.ghtm",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reportagem de 11/08/2026: nota do PCO classifica a operação da PF como 'perseguição política', 'ilegal, antidemocrática' e 'tática de intimidação'; o candidato nega ilegalidade nos pagamentos a gráfica ligada a integrante da direção nacional ('o juiz pode achar isso estranho, mas não é ilegal... não está na lei eleitoral que você é obrigado a contratar empresas de pessoas que não tenham vinculação partidária'); a operação 'Causa Própria' investiga desvio de recursos dos fundos partidário e eleitoral."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-rp-04",
+          "kind": "historico",
+          "title": "Definição em conferência partidária da posição sobre o 2º turno de 2026",
+          "role": "presidente nacional; declarou que a posição seria tomada por conferência do partido",
+          "complexity": "decisão sobre posição em eventual 2º turno entre Lula e Flávio Bolsonaro; convocação de conferência para análise da conjuntura estadual e nacional; tendência declarada de voto nulo, com recusa de voto no candidato da extrema direita",
+          "outcome": "posição não formalizada até 29/09/2026; em entrevista anterior no mesmo período eleitoral, o dirigente havia indicado que o voto do partido 'possivelmente' seria em Lula",
+          "period": "2026-09",
+          "context": "o dirigente descreveu o processo: 'a gente vai convocar uma conferência, vamos analisar a situação estadual, vamos analisar a eleição nacional e vamos assumir uma posição'",
+          "sources": [
+            {
+              "id": "src-rp-83",
+              "title": "'PT passou de perseguido a perseguidor', diz Rui Costa Pimenta",
+              "publisher": "Diário Causa Operária",
+              "url": "https://causaoperaria.org.br/2026/pt-passou-de-perseguido-a-perseguidor-diz-rui-costa-pimenta/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Entrevista publicada no diário do partido em setembro de 2026: relata que o PCO apoiou Lula em 2018, quando o petista estava preso, e em 2022, e que não apoiou Lula em 2006 nem Dilma em 2010 e 2014 ('em 2006, eu acho que a nossa candidatura presidencial foi impugnada'); sobre o 2º turno de 2026 afirma que a posição será definida em conferência do partido, com tendência declarada de voto nulo e recusa de voto em Flávio Bolsonaro; comenta a operação da PF e a política do governo federal."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-rp-05",
+          "kind": "posicao",
+          "title": "Candidatura de 2026 definida como instrumento de propaganda política, com chapas em 18 estados e no DF",
+          "role": "presidente nacional e candidato; discurso no ato de oficialização da chapa em 08/08/2026",
+          "complexity": "chapa pura com dirigente sindical da educação como vice; candidaturas próprias organizadas em 18 estados e no Distrito Federal; campanha mantida sem expectativa declarada de vitória",
+          "outcome": "quarta candidatura presidencial do dirigente (2002, 2010, 2014 e 2026); campanha mantida mesmo após a medida cautelar da Justiça Eleitoral",
+          "period": "2026",
+          "context": "no discurso afirmou que 'não é um problema de eleger ninguém... é um problema de travar uma luta política' no momento em que o país discute a eleição",
+          "sources": [
+            {
+              "id": "src-rp-82",
+              "title": "Leia e assista à íntegra do discurso de Rui Costa Pimenta",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/leia-e-assista-a-integra-do-discurso-de-rui-costa-pimenta/",
+              "publishedAt": "2026-08-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Discurso de 08/08/2026 no evento que oficializou a chapa do PCO: define a candidatura como 'antissistema', em oposição ao imperialismo e à subordinação dos trabalhadores a candidatos apoiados pelo 'grande capital', e afirma que o objetivo não é eleger ('nós não vamos eleger ninguém. É praticamente impossível. É um problema de travar uma luta política')."
+            },
+            {
+              "id": "src-rp-17",
+              "title": "PCO define candidaturas em 18 estados e no Distrito Federal para as eleições de 2026",
+              "publisher": "PCO — Partido da Causa Operária",
+              "url": "https://pco.org.br/2026/08/08/pco-define-candidaturas-em-18-estados-e-no-distrito-federal-para-as-eleicoes-de-2026/",
+              "publishedAt": "2026-08-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no DF; convenção nacional presidida por Rui Costa Pimenta confirmou a chapa com Antônio Carlos; o texto afirma que 'o Partido concorre isoladamente em todos os cargos, sem coligações ou federações'. Fonte do próprio partido — usada com marcação partidária."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Tomada de decisão",
+      "question": "Como enfrentou decisões difíceis, trade-offs e pressão?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "gestao-crises",
+      "synthesis": "Em agosto de 2026 respondeu à operação da Polícia Federal que apurou desvio de fundos partidário e eleitoral mantendo a candidatura, negando ilegalidade e publicando nota que classifica a ação como perseguição política e tática de intimidação, mesmo após o afastamento cautelar das funções administrativas do partido. Antes, em 2006, a candidatura presidencial não foi admitida pelo TSE e, segundo o próprio dirigente, o partido não apoiou os candidatos do PT naquele ano nem nas duas eleições seguintes, retomando o apoio a Lula apenas em 2018, quando o petista estava preso.",
+      "coverageNote": "Nunca exerceu cargo executivo estatal: as situações críticas documentadas são judiciais/eleitorais (inquérito da PF em 2026; candidatura de 2006 não admitida) e de conjuntura política (prisão de Lula em 2018). Não há registro de gestão de crise administrativa, orçamentária ou de pessoal; o detalhamento da candidatura de 2006 depende do relato do próprio dirigente e de verbete, sem fonte primária localizada.",
+      "evidences": [
+        {
+          "id": "ev-cap-gestao-crises-rp-01",
+          "kind": "historico",
+          "title": "Operação Causa Própria da Polícia Federal (11/08/2026) e resposta do partido",
+          "role": "presidente nacional do PCO e candidato, alvo de mandado de busca e apreensão e afastado por 180 dias das funções administrativas do partido",
+          "complexity": "quatro mandados em endereços ligados ao partido em São Paulo; afastamento cautelar de 180 dias; bloqueio de até R$ 4,5 milhões dos investigados; inquérito por suspeita de desvio de recursos dos fundos partidário e eleitoral; filho responsável pela comunicação do partido também alvo",
+          "outcome": "nota do partido classifica a medida como 'ilegal, antidemocrática, uma óbvia perseguição política e eleitoral e uma tática de intimidação'; candidatura mantida e registro deferido; sem denúncia ou condenação registrada nas fontes consultadas até 29/09/2026",
+          "period": "2026-08",
+          "context": "a PF afirma que a investigação foi iniciada a partir das prestações de contas eleitorais e partidárias e de relatórios de inteligência financeira; o partido sustenta que o serviço foi prestado e que a campanha é 'espartana'",
+          "sources": [
+            {
+              "id": "src-rp-04",
+              "title": "PF apura desvio no PCO e faz busca sobre Rui Costa Pimenta",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-mira-presidente-do-pco-em-operacao-sobre-suspeita-de-desvio-de-fundo-partidario-e-eleitoral.shtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Folha (11/08/2026): mandado de busca e apreensão em endereço de Rui Costa Pimenta em operação sobre suspeitas de desvio de recursos do fundo partidário e do fundo eleitoral; 'A decisão que trata do caso determina o afastamento por 180 dias do cargo partidário'; o partido e Rui só tomaram conhecimento com a arrombamento da porta; segundo a Metrópoles (citada), a investigação envolve um suposto esquema de pagamentos do partido a gráficas; confirma que Rui foi candidato à Presidência pelo PCO em 2002, 2010 e 2014."
+            },
+            {
+              "id": "src-rp-03",
+              "title": "Rui Costa Pimenta, presidente do PCO, é alvo de operação da PF por suspeita de desvio de dinheiro dos fundos partidário e eleitoral",
+              "publisher": "g1 / Jornal Nacional (Globo)",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/rui-costa-pimenta-presidente-do-pco-e-alvo-de-operacao-da-pf-por-suspeita-de-desvio-de-dinheiro-dos-fundos-partidario-e-eleitoral.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "JN/g1 (11/08/2026): Polícia Federal apura desvio de dinheiro dos fundos partidário e eleitoral para empresas ligadas a integrantes do PCO; quatro buscas em endereços ligados ao partido em São Paulo; bloqueio de contas e bens; afastamento do presidente do partido por 6 meses (medida da Justiça Eleitoral)."
+            },
+            {
+              "id": "src-rp-87",
+              "title": "Rui Pimenta, do PCO, chama ação da PF de 'ridícula': 'Digna de palhaços'",
+              "publisher": "UOL",
+              "url": "https://noticias.uol.com.br/eleicoes/2026/08/11/rui-pimenta-do-pco-chama-acao-da-pf-de-ridicula-digna-de-palhacos.ghtm",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reportagem de 11/08/2026: nota do PCO classifica a operação da PF como 'perseguição política', 'ilegal, antidemocrática' e 'tática de intimidação'; o candidato nega ilegalidade nos pagamentos a gráfica ligada a integrante da direção nacional ('o juiz pode achar isso estranho, mas não é ilegal... não está na lei eleitoral que você é obrigado a contratar empresas de pessoas que não tenham vinculação partidária'); a operação 'Causa Própria' investiga desvio de recursos dos fundos partidário e eleitoral."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-gestao-crises-rp-02",
+          "kind": "historico",
+          "title": "Continuidade da agenda nacional de campanha após a medida judicial (setembro de 2026)",
+          "role": "candidato; manteve agenda de campanha nos estados",
+          "complexity": "ato de lançamento da campanha estadual em aldeia indígena em Dourados (MS), com candidatos guarani-caiuá e agenda de 12 horas (ato, cerimônia tradicional de reza, programa de análise política, coletiva de imprensa e jantar com professores); campanha em Porto Alegre; entrevista pública imputando a operação a serviço secreto estrangeiro",
+          "outcome": "candidatura e agenda mantidas após a medida cautelar, com cobertura de imprensa regional e do diário partidário; o candidato foi apontado como o primeiro presidenciável a visitar Mato Grosso do Sul após 16/08",
+          "period": "2026-09",
+          "context": "a resposta pública combinou contestação jurídica ('ridícula', 'digna de palhaços', conforme nota do partido) e manutenção da campanha, incluindo nova edição do programa partidário em aldeia",
+          "sources": [
+            {
+              "id": "src-rp-85",
+              "title": "Rui Pimenta em Dourados: 'índios têm integral direito de se armar'",
+              "publisher": "Diário Causa Operária",
+              "url": "https://causaoperaria.org.br/2026/rui-pimenta-em-dourados-indios-tem-integral-direito-de-se-armar/",
+              "publishedAt": "2026-09-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Cobertura do ato de 19/09/2026 na Aldeia Jaguapiru (Dourados/MS): lançamento da campanha do PCO em Mato Grosso do Sul com candidatos guarani-caiuá, dirigentes, militantes e apoiadores; discurso sobre a questão da terra, regularização de áreas e infraestrutura para a pequena produção; o partido afirma manter há anos atividade política entre os guarani-caiuá de Dourados."
+            },
+            {
+              "id": "src-rp-86",
+              "title": "Candidato do PCO visita aldeia em Dourados e defende reforma agrária",
+              "publisher": "Campo Grande News",
+              "url": "https://www.campograndenews.com.br/politica/durante-ato-em-dourados-presidenciavel-do-pco-defende-distribuicao-de-terra",
+              "publishedAt": "2026-09-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reportagem de 19/09/2026: agenda do candidato em Mato Grosso do Sul, defesa da distribuição de terra aos indígenas e de plano de industrialização nacional; registra que ele foi o primeiro presidenciável a visitar o estado após 16/08 e que apenas cinco dos 14 candidatos registrados passaram por Mato Grosso do Sul durante a campanha."
+            },
+            {
+              "id": "src-rp-84",
+              "title": "Rui Pimenta denuncia dedo do Mossad na operação da PF contra o PCO: 'querem me expulsar do País'",
+              "publisher": "Diário Causa Operária",
+              "url": "https://causaoperaria.org.br/2026/rui-pimenta-denuncia-dedo-do-mossad-na-operacao-da-pf-contra-o-pco-querem-me-expulsar-do-pais",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Nota do diário do partido em setembro de 2026: o presidente do PCO afirma que um serviço secreto estrangeiro estaria por trás da ação da Polícia Federal contra o partido e declara que 'querem me expulsar do País'."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-gestao-crises-rp-03",
+          "kind": "historico",
+          "title": "Candidatura presidencial de 2006 não admitida pelo TSE e recusa de apoio ao PT no ciclo seguinte",
+          "role": "candidato do PCO à Presidência no pleito de 2006",
+          "complexity": "pleito nacional; candidatura não admitida pela Justiça Eleitoral; partido sem representação no Congresso e sem acesso a tempo de propaganda em rede nacional; decisão de não apoiar os candidatos do PT em 2006 e nas duas eleições seguintes",
+          "outcome": "segundo o próprio dirigente, o PCO não apoiou Lula em 2006 nem Dilma em 2010 e 2014, retomando o apoio a Lula somente em 2018, quando ele estava preso",
+          "period": "2006–2014",
+          "context": "o dirigente ressalva a própria lembrança ('em 2006, eu acho que a nossa candidatura presidencial foi impugnada'); o verbete em inglês do partido registra que a candidatura de 2006 foi cassada pelo TSE; não foi localizada fonte primária com a decisão",
+          "sources": [
+            {
+              "id": "src-rp-83",
+              "title": "'PT passou de perseguido a perseguidor', diz Rui Costa Pimenta",
+              "publisher": "Diário Causa Operária",
+              "url": "https://causaoperaria.org.br/2026/pt-passou-de-perseguido-a-perseguidor-diz-rui-costa-pimenta/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Entrevista publicada no diário do partido em setembro de 2026: relata que o PCO apoiou Lula em 2018, quando o petista estava preso, e em 2022, e que não apoiou Lula em 2006 nem Dilma em 2010 e 2014 ('em 2006, eu acho que a nossa candidatura presidencial foi impugnada'); sobre o 2º turno de 2026 afirma que a posição será definida em conferência do partido, com tendência declarada de voto nulo e recusa de voto em Flávio Bolsonaro; comenta a operação da PF e a política do governo federal."
+            },
+            {
+              "id": "src-rp-90",
+              "title": "Workers' Cause Party — verbete (Wikipédia em inglês: fundação em 07/12/1995, cisão do PT, candidatura de 2006 cassada)",
+              "publisher": "Wikipédia (em inglês)",
+              "url": "https://en.wikipedia.org/wiki/Workers%27_Cause_Party",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Verbete usado apenas como índice: partido fundado em 07/12/1995 por cisão do PT, presidência de Rui Costa Pimenta; registra que 'in 2006, the candidacy of Rui Costa Pimenta to presidency was abrogated by the Superior Electoral Court'. O verbete contém seção crítica sobre a condução interna do partido cujas fontes primárias não foram localizadas nesta rodada; não foi usada como evidência isolada."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "ev-cap-gestao-crises-rp-04",
+          "kind": "historico",
+          "title": "Posicionamento em cenário de ruptura institucional (2016–2018)",
+          "role": "presidente nacional do PCO",
+          "complexity": "atuação em período de impeachment, prisão de pré-candidato favorito e contestação do processo eleitoral; decisão de campanha pela libertação de Lula e de apoio crítico à sua candidatura, mantendo programa próprio",
+          "outcome": "apoio declarado à candidatura de 2018 sem coligação; em entrevista ao veículo internacional em 2018, o dirigente afirmou que as eleições brasileiras já estavam 'comprometidas' — posição mantida na campanha de 2026, quando descreveu o quadro eleitoral como sem perspectiva de transformação pela via institucional",
+          "period": "2016–2022",
+          "context": "as evidências são declarações do próprio dirigente em entrevistas e no diário do partido, complementadas por reportagem internacional de 2018",
+          "sources": [
+            {
+              "id": "src-rp-83",
+              "title": "'PT passou de perseguido a perseguidor', diz Rui Costa Pimenta",
+              "publisher": "Diário Causa Operária",
+              "url": "https://causaoperaria.org.br/2026/pt-passou-de-perseguido-a-perseguidor-diz-rui-costa-pimenta/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Entrevista publicada no diário do partido em setembro de 2026: relata que o PCO apoiou Lula em 2018, quando o petista estava preso, e em 2022, e que não apoiou Lula em 2006 nem Dilma em 2010 e 2014 ('em 2006, eu acho que a nossa candidatura presidencial foi impugnada'); sobre o 2º turno de 2026 afirma que a posição será definida em conferência do partido, com tendência declarada de voto nulo e recusa de voto em Flávio Bolsonaro; comenta a operação da PF e a política do governo federal."
+            },
+            {
+              "id": "src-rp-78",
+              "title": "As eleições no Brasil já estão comprometidas, diz Rui Costa Pimenta",
+              "publisher": "RFI Brasil",
+              "url": "https://www.rfi.fr/br/brasil/20180531-rfi-convida-rui-costa-pimenta",
+              "publishedAt": "2018-05-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Maratona' de palestras e debates em 10 países entre 26/05 e 03/07/2018, iniciada pela Irlanda, sobre a situação política do Brasil. Acesso direto respondeu 403; consultada via Wayback Machine."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Gestão de crises e mudança",
+      "question": "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "coordenacao-institucional",
+      "synthesis": "Coordenação entre partido, comunidades e instituições: lançamento da campanha estadual em aldeia guarani-caiuá em Dourados (MS), com candidatos indígenas na chapa e atividade política declarada do partido no local há anos; interface com a Justiça Eleitoral nas prestações de contas e no inquérito da Polícia Federal, com medida cautelar de afastamento e bloqueio de valores; definição de candidaturas em 18 estados e no Distrito Federal; e adesão a carta de compromisso de organizações da sociedade civil junto de outros três presidenciáveis.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-coordenacao-institucional-rp-01",
+          "kind": "historico",
+          "title": "Lançamento da campanha estadual em aldeia guarani-caiuá em Dourados (MS), 19/09/2026",
+          "role": "candidato à Presidência; conduziu o ato e uma edição do programa partidário na aldeia",
+          "complexity": "ato em aldeia com candidatos guarani-caiuá da chapa estadual (incluindo candidato a governador e vice), dirigentes, militantes e apoiadores; agenda de 12 horas com cerimônia tradicional de reza, programa de análise política, coletiva de imprensa e jantar com professores; atividade política declarada do partido no local há anos",
+          "outcome": "repercussão em imprensa regional e no diário partidário; o candidato foi registrado como o primeiro presidenciável a visitar Mato Grosso do Sul depois de 16/08/2026",
+          "period": "2026-09-19",
+          "context": "a atividade ocorreu 15 dias antes do 1º turno e após o afastamento cautelar do dirigente das funções administrativas do partido",
+          "sources": [
+            {
+              "id": "src-rp-85",
+              "title": "Rui Pimenta em Dourados: 'índios têm integral direito de se armar'",
+              "publisher": "Diário Causa Operária",
+              "url": "https://causaoperaria.org.br/2026/rui-pimenta-em-dourados-indios-tem-integral-direito-de-se-armar/",
+              "publishedAt": "2026-09-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Cobertura do ato de 19/09/2026 na Aldeia Jaguapiru (Dourados/MS): lançamento da campanha do PCO em Mato Grosso do Sul com candidatos guarani-caiuá, dirigentes, militantes e apoiadores; discurso sobre a questão da terra, regularização de áreas e infraestrutura para a pequena produção; o partido afirma manter há anos atividade política entre os guarani-caiuá de Dourados."
+            },
+            {
+              "id": "src-rp-86",
+              "title": "Candidato do PCO visita aldeia em Dourados e defende reforma agrária",
+              "publisher": "Campo Grande News",
+              "url": "https://www.campograndenews.com.br/politica/durante-ato-em-dourados-presidenciavel-do-pco-defende-distribuicao-de-terra",
+              "publishedAt": "2026-09-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reportagem de 19/09/2026: agenda do candidato em Mato Grosso do Sul, defesa da distribuição de terra aos indígenas e de plano de industrialização nacional; registra que ele foi o primeiro presidenciável a visitar o estado após 16/08 e que apenas cinco dos 14 candidatos registrados passaram por Mato Grosso do Sul durante a campanha."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-rp-02",
+          "kind": "historico",
+          "title": "Interface com a Justiça Eleitoral: prestação de contas, inquérito e medida cautelar (2026)",
+          "role": "presidente nacional do partido, figura central do inquérito e da medida cautelar; a legenda responde pelas prestações de contas",
+          "complexity": "análise da Assessoria de Exame de Contas Eleitorais e Partidárias (Asepa/TSE) sobre a prestação de contas do partido; quatro mandados judiciais; medida cautelar com prazo de 180 dias e bloqueio de até R$ 4,5 milhões; defesa apresentada em nota partidária e em entrevistas de imprensa",
+          "outcome": "inquérito em andamento em 29/09/2026, sem denúncia ou conclusão registrada; candidatura mantida e registro deferido; o partido contesta a legalidade dos procedimentos",
+          "period": "2026-08 a 2026-09",
+          "context": "a medida foi autorizada pela Justiça Eleitoral do Distrito Federal a partir de relatórios de análise das contas partidárias; categoria jurídica registrada literalmente, sem juízo sobre o mérito",
+          "sources": [
+            {
+              "id": "src-rp-03",
+              "title": "Rui Costa Pimenta, presidente do PCO, é alvo de operação da PF por suspeita de desvio de dinheiro dos fundos partidário e eleitoral",
+              "publisher": "g1 / Jornal Nacional (Globo)",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/rui-costa-pimenta-presidente-do-pco-e-alvo-de-operacao-da-pf-por-suspeita-de-desvio-de-dinheiro-dos-fundos-partidario-e-eleitoral.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "JN/g1 (11/08/2026): Polícia Federal apura desvio de dinheiro dos fundos partidário e eleitoral para empresas ligadas a integrantes do PCO; quatro buscas em endereços ligados ao partido em São Paulo; bloqueio de contas e bens; afastamento do presidente do partido por 6 meses (medida da Justiça Eleitoral)."
+            },
+            {
+              "id": "src-rp-04",
+              "title": "PF apura desvio no PCO e faz busca sobre Rui Costa Pimenta",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-mira-presidente-do-pco-em-operacao-sobre-suspeita-de-desvio-de-fundo-partidario-e-eleitoral.shtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Folha (11/08/2026): mandado de busca e apreensão em endereço de Rui Costa Pimenta em operação sobre suspeitas de desvio de recursos do fundo partidário e do fundo eleitoral; 'A decisão que trata do caso determina o afastamento por 180 dias do cargo partidário'; o partido e Rui só tomaram conhecimento com a arrombamento da porta; segundo a Metrópoles (citada), a investigação envolve um suposto esquema de pagamentos do partido a gráficas; confirma que Rui foi candidato à Presidência pelo PCO em 2002, 2010 e 2014."
+            },
+            {
+              "id": "src-rp-87",
+              "title": "Rui Pimenta, do PCO, chama ação da PF de 'ridícula': 'Digna de palhaços'",
+              "publisher": "UOL",
+              "url": "https://noticias.uol.com.br/eleicoes/2026/08/11/rui-pimenta-do-pco-chama-acao-da-pf-de-ridicula-digna-de-palhacos.ghtm",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reportagem de 11/08/2026: nota do PCO classifica a operação da PF como 'perseguição política', 'ilegal, antidemocrática' e 'tática de intimidação'; o candidato nega ilegalidade nos pagamentos a gráfica ligada a integrante da direção nacional ('o juiz pode achar isso estranho, mas não é ilegal... não está na lei eleitoral que você é obrigado a contratar empresas de pessoas que não tenham vinculação partidária'); a operação 'Causa Própria' investiga desvio de recursos dos fundos partidário e eleitoral."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-rp-03",
+          "kind": "historico",
+          "title": "Definição de candidaturas do PCO em 18 estados e no Distrito Federal (agosto de 2026)",
+          "role": "presidente nacional e candidato; ato de oficialização da chapa em 08/08/2026",
+          "complexity": "chapas próprias em 18 estados e no Distrito Federal, sem coligação registrada para a disputa presidencial; chapa presidencial pura com quadro da executiva nacional e professor da rede pública como vice; evento de oficialização com filiados e apoiadores",
+          "outcome": "candidaturas registradas e campanha organizada por estado; registro presidencial deferido",
+          "period": "2026-08",
+          "context": "a definição das chapas estaduais é o principal mecanismo de presença territorial de um partido sem representação no Congresso",
+          "sources": [
+            {
+              "id": "src-rp-17",
+              "title": "PCO define candidaturas em 18 estados e no Distrito Federal para as eleições de 2026",
+              "publisher": "PCO — Partido da Causa Operária",
+              "url": "https://pco.org.br/2026/08/08/pco-define-candidaturas-em-18-estados-e-no-distrito-federal-para-as-eleicoes-de-2026/",
+              "publishedAt": "2026-08-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no DF; convenção nacional presidida por Rui Costa Pimenta confirmou a chapa com Antônio Carlos; o texto afirma que 'o Partido concorre isoladamente em todos os cargos, sem coligações ou federações'. Fonte do próprio partido — usada com marcação partidária."
+            },
+            {
+              "id": "src-rp-82",
+              "title": "Leia e assista à íntegra do discurso de Rui Costa Pimenta",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/leia-e-assista-a-integra-do-discurso-de-rui-costa-pimenta/",
+              "publishedAt": "2026-08-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Discurso de 08/08/2026 no evento que oficializou a chapa do PCO: define a candidatura como 'antissistema', em oposição ao imperialismo e à subordinação dos trabalhadores a candidatos apoiados pelo 'grande capital', e afirma que o objetivo não é eleger ('nós não vamos eleger ninguém. É praticamente impossível. É um problema de travar uma luta política')."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-rp-04",
+          "kind": "posicao",
+          "title": "Adesão à carta de compromisso com a defesa da Palestina apresentada a candidatos (setembro de 2026)",
+          "role": "um dos quatro presidenciáveis signatários, ao lado de Samara Martins (UP), Edmilson Costa (PCB) e Hertz Dias (PSTU)",
+          "complexity": "iniciativa de organizações da sociedade civil com adesão de quatro presidenciáveis, 53 candidaturas a governos estaduais ou distrital e centenas de postulantes a cargos legislativos",
+          "outcome": "adesão registrada em levantamento de imprensa de 21/09/2026",
+          "period": "2026-09",
+          "context": "a adesão é declaratória, sem compromisso de execução; a articulação é conduzida por organizações da causa palestina, não pelo partido",
+          "sources": [
+            {
+              "id": "src-rp-91",
+              "title": "Candidatos nas eleições de 2026 assinam carta de compromisso com defesa da Palestina",
+              "publisher": "Opera Mundi",
+              "url": "https://operamundi.uol.com.br/eleicoes-2026-brasil/candidatos-nas-eleicoes-de-2026-assinam-carta-de-compromisso-com-defesa-da-palestina/",
+              "publishedAt": "2026-09-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento de 21/09/2026: quatro presidenciáveis signatários da carta de compromisso com a defesa da Palestina (Samara Martins/UP, Edmilson Costa/PCB, Hertz Dias/PSTU e Rui Costa Pimenta/PCO), além de 53 candidaturas a governos estaduais ou distrital e centenas de postulantes a Senado, Câmara dos Deputados e assembleias legislativas."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Coordenação institucional",
+      "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
     }
   ],
   "countryProject": {
@@ -2364,5 +2984,127 @@
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
     "methodology": "Extraído do plano registrado no TSE ('Programa do PCO – Eleições 2026', 7 páginas, 15 pontos centrais, datado de agosto de 2026), conferido com o índice oficial de propostas da candidatura (que remete às páginas 2 a 7 do próprio PDF) e com o levantamento do Poder360 de 23/08/2026 sobre extensão e estrutura dos planos. O documento registrado é o programa de luta do PCO adotado pela candidatura e afirma explicitamente que não se trata de um conjunto de promessas a executar pela via institucional: por isso o bloco está marcado como 'parcial'. Atenção de escopo: menções a 'Imposto Único' de 0,5% sobre a circulação de dinheiro e 1% sobre grandes fortunas, 'fim de 32 tributos', '600 mil concursos na saúde', 'Ronda Nacional de 30 mil agentes' e referências ao BRICS, registradas em rodadas anteriores deste trabalho, não foram localizadas no PDF registrado nem no índice oficial e não foram usadas neste bloco. Não há custos, cronograma ou indicadores por proposta, e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo)."
+  },
+  "foreignPolicy": {
+    "worldView": "O programa registrado no TSE ('Programa do PCO — Eleições 2026: Por salário, trabalho e terra') inclui, no eixo de política externa, o fortalecimento do BRICS, a oposição à OTAN, o reconhecimento do direito de autodeterminação dos povos palestino, libanês e sírio, o apoio ao Irã diante de ataques de Israel e dos Estados Unidos e o fim do bloqueio a Cuba; o mesmo documento propõe o cancelamento das dívidas externa e interna, a nacionalização do petróleo com Petrobras 100% estatal, a estatização do sistema financeiro com banco estatal único e o fim da 'independência' do Banco Central. Fora do programa, o dirigente declarou em outubro de 2023 que o PCO estava '1.000% com o Hamas' (Poder360) e, em 2024, descreveu o Hamas como 'grande organização política' cujas atividades no Catar corresponderiam a um 'governo palestino em exílio' (relato da viagem registrado pela Gazeta do Povo). Em 2026, afirmou que a classificação de PCC e Comando Vermelho como organizações terroristas pelos Estados Unidos abriria caminho para interferência na eleição brasileira (Brasil 247). Posições sobre a China aparecem em palestra de 2024 publicada pelo Diário Causa Operária, na qual o país é descrito como 'o Brasil que poderia ser e não é'.",
+    "strategy": "O que o programa declara pretender: ruptura financeira — anulação das dívidas externa e interna, banco estatal único sob controle dos trabalhadores e fim da 'independência' do Banco Central; controle nacional das riquezas minerais e de terras raras por empresa estatal comandada pelos trabalhadores; fim da paridade com o preço internacional do petróleo e redução de 50% do preço dos combustíveis; e ampliação do BRICS como plataforma de relações exteriores. A análise do OPEB (27/09/2026) registra que a sustentação externa dessas medidas dependeria de articulação multilateral e cita o comércio bilateral no BRICS como caminho, sem que o plano detalhe instrumentos; registra também que reestatizações e nacionalizações podem gerar indenizações, quebra de contratos e acionamento de mecanismos internacionais de proteção a investimentos.",
+    "internationalExperience": "Registros documentados, com responsabilidade qualificada: (1) chefiou a delegação do PCO que permaneceu mais de dez dias no Catar em fevereiro de 2024 e se reuniu com a liderança política do Hamas, incluindo Ismail Haniyeh — o próprio partido descreve, em sua página institucional em inglês, uma 'delegação chefiada por Rui Pimenta' que se encontrou com o bureau político do Hamas, encontro do qual resultou o livro 'O Hamas conta seu lado da história'; a Gazeta do Povo (10/03/2024) registra que a reunião integrou a agenda de um tour de dez dias da delegação pelo país e que a excursão incluiu entrevistas à emissora Al Jazeera e encontros com outras lideranças; O Antagonista (03/03/2024) registra a divulgação de mensagem em vídeo de Haniyeh ao público brasileiro. Trata-se de interlocução com movimento armado não estatal, e não de negociação entre Estados. (2) Preside nacionalmente o PCO desde 1995, partido que mantém organização e publicações internacionais próprias. (3) Interlocução com veículo público estrangeiro: entrevista à RFI Brasil (2018). (4) Atividade de formação sobre temas internacionais: curso do partido sobre a Revolução Iraniana de 1979 (2026).",
+    "projection": "Projeção documentada: entrevista à RFI Brasil (2018), emissora pública francesa; perfil em veículo de imprensa nacional tratando de sua agenda internacional (Gazeta do Povo, 10/03/2024); divulgação do encontro no Catar por veículos nacionais (O Antagonista, Poder360); verbete em inglês e em outras línguas em enciclopédia colaborativa; e publicação de análise própria sobre a China no Diário Causa Operária. Não foram localizadas entrevistas a veículos de imprensa estrangeira em 2025–2026.",
+    "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+    "sources": [
+      {
+        "id": "src-rp-07",
+        "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+      },
+      {
+        "id": "src-rp-70",
+        "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+        "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+      },
+      {
+        "id": "src-rp-82",
+        "title": "Leia e assista à íntegra do discurso de Rui Costa Pimenta",
+        "publisher": "Poder360",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/leia-e-assista-a-integra-do-discurso-de-rui-costa-pimenta/",
+        "publishedAt": "2026-08-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Discurso de 08/08/2026 no evento que oficializou a chapa do PCO: define a candidatura como 'antissistema', em oposição ao imperialismo e à subordinação dos trabalhadores a candidatos apoiados pelo 'grande capital', e afirma que o objetivo não é eleger ('nós não vamos eleger ninguém. É praticamente impossível. É um problema de travar uma luta política')."
+      },
+      {
+        "id": "src-rp-83",
+        "title": "'PT passou de perseguido a perseguidor', diz Rui Costa Pimenta",
+        "publisher": "Diário Causa Operária",
+        "url": "https://causaoperaria.org.br/2026/pt-passou-de-perseguido-a-perseguidor-diz-rui-costa-pimenta/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Entrevista publicada no diário do partido em setembro de 2026: relata que o PCO apoiou Lula em 2018, quando o petista estava preso, e em 2022, e que não apoiou Lula em 2006 nem Dilma em 2010 e 2014 ('em 2006, eu acho que a nossa candidatura presidencial foi impugnada'); sobre o 2º turno de 2026 afirma que a posição será definida em conferência do partido, com tendência declarada de voto nulo e recusa de voto em Flávio Bolsonaro; comenta a operação da PF e a política do governo federal."
+      },
+      {
+        "id": "src-rp-84",
+        "title": "Rui Pimenta denuncia dedo do Mossad na operação da PF contra o PCO: 'querem me expulsar do País'",
+        "publisher": "Diário Causa Operária",
+        "url": "https://causaoperaria.org.br/2026/rui-pimenta-denuncia-dedo-do-mossad-na-operacao-da-pf-contra-o-pco-querem-me-expulsar-do-pais",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Nota do diário do partido em setembro de 2026: o presidente do PCO afirma que um serviço secreto estrangeiro estaria por trás da ação da Polícia Federal contra o partido e declara que 'querem me expulsar do País'."
+      },
+      {
+        "id": "src-rp-85",
+        "title": "Rui Pimenta em Dourados: 'índios têm integral direito de se armar'",
+        "publisher": "Diário Causa Operária",
+        "url": "https://causaoperaria.org.br/2026/rui-pimenta-em-dourados-indios-tem-integral-direito-de-se-armar/",
+        "publishedAt": "2026-09-19",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Cobertura do ato de 19/09/2026 na Aldeia Jaguapiru (Dourados/MS): lançamento da campanha do PCO em Mato Grosso do Sul com candidatos guarani-caiuá, dirigentes, militantes e apoiadores; discurso sobre a questão da terra, regularização de áreas e infraestrutura para a pequena produção; o partido afirma manter há anos atividade política entre os guarani-caiuá de Dourados."
+      },
+      {
+        "id": "src-rp-86",
+        "title": "Candidato do PCO visita aldeia em Dourados e defende reforma agrária",
+        "publisher": "Campo Grande News",
+        "url": "https://www.campograndenews.com.br/politica/durante-ato-em-dourados-presidenciavel-do-pco-defende-distribuicao-de-terra",
+        "publishedAt": "2026-09-19",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Reportagem de 19/09/2026: agenda do candidato em Mato Grosso do Sul, defesa da distribuição de terra aos indígenas e de plano de industrialização nacional; registra que ele foi o primeiro presidenciável a visitar o estado após 16/08 e que apenas cinco dos 14 candidatos registrados passaram por Mato Grosso do Sul durante a campanha."
+      },
+      {
+        "id": "src-rp-79",
+        "title": "Rui Costa Pimenta: o eterno chefe do PCO curte a Europa e o Hamas",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/ideias/a-dolce-vita-de-rui-costa-pimenta-o-eterno-chefe-do-pco-curte-a-europa-e-o-hamas/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Artigo de opinião que registra o encontro de Rui Costa Pimenta com o líder do braço político do Hamas, Ismail Haniyeh, e as viagens internacionais do dirigente."
+      },
+      {
+        "id": "src-rp-78",
+        "title": "As eleições no Brasil já estão comprometidas, diz Rui Costa Pimenta",
+        "publisher": "RFI Brasil",
+        "url": "https://www.rfi.fr/br/brasil/20180531-rfi-convida-rui-costa-pimenta",
+        "publishedAt": "2018-05-31",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "'Maratona' de palestras e debates em 10 países entre 26/05 e 03/07/2018, iniciada pela Irlanda, sobre a situação política do Brasil. Acesso direto respondeu 403; consultada via Wayback Machine."
+      },
+      {
+        "id": "src-rp-80",
+        "title": "China, 'o Brasil que poderia ser e não é', diz Rui Costa Pimenta",
+        "publisher": "Diário Causa Operária",
+        "url": "https://causaoperaria.org.br/2024/china-o-brasil-que-poderia-ser-e-nao-e-diz-rui-costa-pimenta/",
+        "publishedAt": "2024",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "A direção do PCO esteve na China em viagem de cerca de 10 dias com visitas e conferências. Acesso direto respondeu 403; consultada via Wayback Machine."
+      },
+      {
+        "id": "src-rp-81",
+        "title": "PCO realizará curso inédito sobre a Revolução Iraniana de 1979",
+        "publisher": "Diário Causa Operária",
+        "url": "https://causaoperaria.org.br/2026/pco-realizara-curso-inedito-sobre-a-revolucao-iraniana-de-1979/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Curso de meio de ano da Universidade Marxista do PCO (2026). Acesso direto respondeu 403 a acesso automatizado; página indexada em buscadores, sem cópia no Wayback Machine em 29/09/2026."
+      }
+    ],
+    "evidenceStatus": "parcial",
+    "confidenceLevel": "medium",
+    "methodology": "As posições internacionais de Rui Costa Pimenta vêm, em parte, do programa registrado no TSE pelo PCO (7 páginas, 15 pontos de luta, documento partidário apresentado como 'programa de luta'), e, em parte, de declarações públicas e da agenda internacional do partido; como a base programática é o documento do partido, o bloco está marcado como 'parcial'. O conteúdo do plano foi conferido no índice oficial de propostas do TSE e na análise do OPEB (27/09/2026); a viagem ao Catar foi apurada em três fontes independentes entre si (página institucional do partido em inglês, O Antagonista e Gazeta do Povo), com a responsabilidade descrita como condução de delegação partidária. A página do Diário Causa Operária sobre a viagem e a do Poder360 sobre a declaração de 2023 responderam HTTP 403 à requisição por linha de comando; os trechos foram obtidos por indexação de busca e estão marcados nas notas das fontes. Bloco sem nota e sem ordenação entre candidatos."
   }
 }

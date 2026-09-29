@@ -14,7 +14,14 @@ import {
 } from "@/components/section-shell";
 import { formatDate } from "@/lib/format";
 
-export function IntegritySection({ candidates }: { candidates: Candidate[] }) {
+export function IntegritySection({
+  candidates,
+  hideTag,
+}: {
+  candidates: Candidate[];
+  /** perfil individual: não repetir a etiqueta de slot A/B/C */
+  hideTag?: boolean;
+}) {
   return (
     <CandidateColumns count={candidates.length}>
       {candidates.map((c, i) => {
@@ -24,7 +31,7 @@ export function IntegritySection({ candidates }: { candidates: Candidate[] }) {
             key={c.slug}
             className="flex h-full flex-col gap-3 rounded-md border border-border bg-card p-4"
           >
-            <CandidateTag name={c.name} slot={SLOTS[i] ?? "a"} />
+            {hideTag ? null : <CandidateTag name={c.name} slot={SLOTS[i] ?? "a"} />}
             {records.length === 0 ? (
               <ContentEmpty
                 what="Sem registros institucionais localizados"

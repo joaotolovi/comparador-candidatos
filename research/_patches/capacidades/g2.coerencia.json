@@ -1,0 +1,13 @@
+{
+  "grupo": "g2",
+  "escopo": "coerencia",
+  "sources": [],
+  "candidates": {
+    "renan-santos": { "coherence": [] },
+    "leonardo-avalanche": { "coherence": [] },
+    "augusto-cury": { "coherence": [] },
+    "clariana-barao": { "coherence": [] },
+    "samara-martins": { "coherence": [] }
+  },
+  "dataGaps": ["em consolidação"]
+}

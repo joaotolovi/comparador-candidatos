@@ -1,60 +1,245 @@
 {
   "grupo": "g2",
   "escopo": "mundo",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-rs-80",
+      "title": "Veja o que os candidatos pensam sobre política externa (Brics e China, Mercosul, operações dos EUA contra o 'narcoterrorismo', OCDE, minerais críticos, Israel e Gaza, Estados Unidos)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Respostas das campanhas de Renan Santos (Missão) e Augusto Cury (Avante) enviadas à Folha tema a tema; a reportagem informa que a campanha de Flávio Bolsonaro não respondeu. Cópia integral obtida por requisição direta (curl)."
+    },
+    {
+      "id": "src-rs-81",
+      "title": "Inside the Brazilian Presidential Campaign That a Judge Shut Down–Then Reinstated",
+      "publisher": "The Epoch Times (EUA)",
+      "url": "https://theepochtimes.com/article/inside-the-brazilian-presidential-campaign-that-a-judge-shut-down-then-reinstated-6047428",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil em veículo estrangeiro com declarações de Renan Santos sobre EUA, China e tarifas de Trump; a reportagem também ouve o ex-chanceler Ernesto Araújo."
+    },
+    {
+      "id": "src-rs-82",
+      "title": "Outsider pitch — Renan Santos meets with foreign ambassadors ('Debating Brazil')",
+      "publisher": "The Brazilian Report (newsletter, em inglês)",
+      "url": "https://newsletters.brazilian.report/p/renan-santos-ambassadors-byd-tax-americanas",
+      "publishedAt": "2026-06-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Evento fechado com o corpo diplomático em Brasília (25/06/2026); Renan falou em inglês; terceiro convidado da série, após o ministro Kassio Nunes Marques e o ex-governador Romeu Zema. Detalha propostas apresentadas aos diplomatas (terras raras, energia para data centers, investimento e imigração qualificada, crítica à atuação europeia)."
+    },
+    {
+      "id": "src-rs-83",
+      "title": "Renan Santos volta a atacar Cury e diz que China é melhor parceira do que os EUA",
+      "publisher": "CBN / Globo",
+      "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/09/03/renan-santos-volta-a-atacar-cury-e-diz-que-china-e-melhor-parceira-do-que-os-eua.ghtml",
+      "publishedAt": "2026-09-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Coletiva com jornalistas da Europa e da Ásia; não-alinhamento, parceria industrial e militar com os EUA com transferência de tecnologia, proposta de cartel internacional de terras raras com a China."
+    },
+    {
+      "id": "src-rs-84",
+      "title": "À CNN, Renan diz que Trump 'vem se comportando muito mal nessas eleições'",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-renan-diz-que-trump-vem-se-comportando-muito-mal-nessas-eleicoes/",
+      "publishedAt": "2026-09-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declarações sobre EUA, tarifas, agronegócio e imagem ambiental do Brasil (crítica ao negacionismo climático do governo anterior)."
+    },
+    {
+      "id": "src-rs-85",
+      "title": "De moeda sul-americana à saída do BRICS: o que os candidatos propõem para a soberania",
+      "publisher": "R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/de-moeda-sul-americana-a-saida-do-brics-veja-as-propostas-dos-candidatos-para-a-soberania-08092026/",
+      "publishedAt": "2026-09-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sistematiza propostas de soberania do programa de Renan Santos: cesta de moedas sul-americanas liderada pelo real, Zona Econômica Especial, meta de independência de fertilizantes importados, ciclo do combustível nuclear."
+    },
+    {
+      "id": "src-rs-86",
+      "title": "Lula, Flávio campaigns trade legal challenges as election nears (ação do partido Missão no TSE sobre interferência estrangeira)",
+      "publisher": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/24/lula-flavio-campaigns-trade-legal-challenges-as-election-nears.ghtml",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra que o Missão protocolou ação na Justiça Eleitoral alegando possível financiamento externo em campanha rival e invocando 'soberania e independência' do processo eleitoral."
+    },
+    {
+      "id": "src-ac-80",
+      "title": "Veja o que os candidatos pensam sobre política externa (seção Augusto Cury: Brics e China, Mercosul, OCDE, operações dos EUA, minerais críticos, Israel e Gaza, Estados Unidos)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Respostas enviadas pela campanha de Cury à Folha, tema a tema. Mesma matéria citada para Renan Santos (id src-rs-80)."
+    },
+    {
+      "id": "src-ac-81",
+      "title": "Biografia do autor — Augusto Cury: 'publicado em mais de 70 países', 30 milhões de livros vendidos",
+      "publisher": "Livraria Martins Fontes (material de editora/livraria)",
+      "url": "https://www.martinsfontespaulista.com.br/revolucione-sua-qualidade-de-vida-185753/p",
+      "publishedAt": "2011",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Texto promocional de editora sobre a obra do candidato (traduções e vendas). Usado apenas como apoio para a projeção internacional declarada; não é reportagem nem dado auditado."
+    },
+    {
+      "id": "src-la-80",
+      "title": "Mudanças que o Brasil precisa na pauta dos presidenciáveis — cobertura da sabatina do Correio Braziliense com Hertz Dias, Augusto Cury, Ronaldo Caiado e Leonardo Avalanche",
+      "publisher": "Correio Braziliense (PDF agregado pela Anfip)",
+      "url": "https://www.anfip.org.br/wp-content/uploads/2026/07/Eleicoes-2026-Sabatina-com-presidenciaveis-cobertura-do-Correio-Braziliense.pdf",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina com pré-candidatos em julho/2026: temas tratados com Avalanche foram corrupção, valores individuais e reforma tributária; nenhuma pergunta ou resposta sobre política externa."
+    },
+    {
+      "id": "src-la-81",
+      "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+      "publisher": "portugal-news.today (agregador em inglês; reproduz o Globo)",
+      "url": "https://portugal-news.today/en/article/184968",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agregador que traduz imprensa brasileira (O Globo). Citado como registro do material em inglês localizado sobre o candidato, não como reportagem original."
+    },
+    {
+      "id": "src-cb-80",
+      "title": "Clariana Barão defende Selic a 7%, fim das bets e mudanças no STF (BM&C Talks)",
+      "publisher": "BM&C News",
+      "url": "https://bmcnews.com.br/programas-bmc/bmc-talks/clariana-barao-defende-selic-a-7-fim-das-bets-e-mudancas-no-stf/",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista em que a candidata declara intenção de buscar capital estrangeiro 'inclusive dos Estados Unidos e da China' para industrializar minerais críticos e terras raras no Brasil ('aqui nós vamos minerar, beneficiar, industrializar')."
+    },
+    {
+      "id": "src-cb-81",
+      "title": "Confira a agenda dos presidenciáveis nesta quarta-feira (26)",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-26",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a agenda da candidata em 26/08/2026: entrevista online ao portal Sputnik Brasil."
+    },
+    {
+      "id": "src-cb-82",
+      "title": "Veja a movimentação e as propostas dos candidatos à Presidência nesta quarta (conteúdo da entrevista ao portal Sputnik Brasil)",
+      "publisher": "Página 1",
+      "url": "https://www.pagina1.com.br/noticia/veja-a-movimentacao-e-as-propostas-dos-candidatos-a-presidencia-nesta-quarta",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reporta o conteúdo da entrevista de Clariana Barão ao portal Sputnik Brasil: crítica à ausência de mulheres nos debates e prioridade ao combate ao feminicídio; não trata de política externa."
+    },
+    {
+      "id": "src-cb-83",
+      "title": "Clariana Barão: 'Não existe democracia sem as mulheres' (Café do MyNews)",
+      "publisher": "Canal MyNews",
+      "url": "https://canalmynews.com.br/cafe-do-mynews/clariana-barao-nao-existe-democracia-sem-as-mulheres/",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista em que a candidata defende reindustrialização e diz que o país precisa ir além da exportação de commodities agrícolas e minerais brutos; nenhuma posição de política externa foi apresentada."
+    }
+  ],
   "candidates": {
     "renan-santos": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
+        "worldView": "Não-alinhamento declarado. Sobre EUA: critica o tarifaço de Trump e afirma que 'as interferências americanas nas eleições de 2022 e de 2026 demonstram que não há respeito pelas nossas instituições', mas chama os EUA de 'parceiros indispensáveis em tecnologia, defesa e minerais críticos' (Folha, 12/09/2026); à CNN (03/09/2026) disse que Trump 'vem se comportando muito mal nessas eleições' e que não seria seu primeiro interlocutor; ao The Epoch Times declarou que 'Lula colocou o Brasil submisso à China e os Bolsonaros nos colocaram submissos a Trump'. Sobre China: 'a China é nossa principal parceira comercial'; em coletiva à imprensa estrangeira (03/09/2026) afirmou que, no curto prazo, a China é parceira melhor que os EUA, mas sem alinhamento automático. Sobre Brics: não prega saída, defende participação 'estritamente instrumental', dizendo que o bloco 'passou a operar como extensão da política externa chinesa — inclusive na direção dos investimentos do Novo Banco de Desenvolvimento e na deriva de uma agenda declaradamente antiocidental que não é a nossa' (Folha, 12/09/2026); o Livro Amarelo registrado no TSE fala em 'estratégia pragmática no BRICS+' que reconhece 'a dominação crescente chinesa dentro do bloco'. Sobre Mercosul: propõe 'abrir o Mercosul' com redução tarifária em quatro anos, teto de 15%, revisão da Tarifa Externa Comum e corte do licenciamento não automático, sem flexibilizar a união aduaneira ('não faremos é permitir que cada sócio saia negociando bilateralmente por conta própria'). Sobre América Latina: propõe desdolarização regional com uso crescente do real, linhas de swap entre bancos centrais e cesta de moedas sul-americanas; no Livro Amarelo, 'sub-hegemonia brasileira' (liderança regional 'sem imperialismo') e Pacto Interamericano contra o crime organizado, liderado pelo Brasil e ancorado na Convenção de Palermo e na OEA. Sobre operações dos EUA contra o 'narcoterrorismo': aceita cooperação de inteligência, mas afirma que operações armadas em território brasileiro devem ser feitas por forças brasileiras; 'não concorda com a designação de facções como terroristas'. Sobre UE/Europa: EUA e União Europeia são os 'parceiros prioritários' (off-take e transferência tecnológica em terras raras) no Livro Amarelo, mas em 25/06/2026, diante de diplomatas, atacou o que chama de 'ditadura de ONGs' financiadas de fora e a postura europeia de 'pregação' sobre florestas. Sobre Israel/Gaza: critica tanto a 'defesa incondicional de Israel por setores evangélicos da direita' quanto a hostilidade da esquerda; defende que o Brasil 'arbitre e sustente o direito humanitário'. Sobre clima: critica o negacionismo climático do governo anterior e defende que o Brasil mostre ao mundo que preserva florestas e recupera áreas degradadas (CNN, 03/09/2026). Sobre OCDE: defende retomar o processo de acessão ('a OCDE é o melhor instrumento disponível' como ancoragem externa). Sobre foros multilaterais e Sul Global: propõe o Brasil como 'Árbitro do Sul Global' com diplomacia ativa na África, na Ásia (ASEAN, Timor-Leste como porta de entrada) e na América Latina, e fala em 'isolamento diplomático' atual em foros sobre minerais críticos. Sobre nuclear: propõe autonomia completa do ciclo do combustível nuclear, incluindo conversão industrial e reprocessamento, descrita no plano como ativo de dissuasão.",
+        "strategy": "Converter recursos estratégicos em poder de barganha: acordos bilaterais com EUA e União Europeia com off-take agreements (compromissos de compra de longo prazo) e transferência de tecnologia em processamento de terras raras; criação de 'OPEP das terras raras' discutida com a China (Folha, 12/09/2026); taxar mais a exportação de minério bruto e menos o produto processado no Brasil. Comércio/integração: 'abrir o Mercosul' e uso do real como moeda de trocas regionais com linhas de swap, para reduzir dependência do dólar. Investimento e pessoas: pediu a diplomatas capital para data centers, processamento de terras raras, infraestrutura e reforma da saúde com apoio de IA, e pediu envio de capital humano imigrante ao Brasil (The Brazilian Report, 26/06/2026). Influência diplomática: 'sub-hegemonia brasileira' regional e Pacto Interamericano contra o crime organizado liderado pelo Brasil; liderança do Sul Global via África/Ásia/América Latina. Defesa/tecnologia: parcerias industriais e militares com os EUA com transferência de tecnologia e participação de empresas brasileiras; ciclo nuclear completo e complexo industrial-militar; meta de não depender de fertilizantes importados a partir de 2035.",
+        "internationalExperience": "Sem passagem por governo federal, sem cargo diplomático e sem negociação internacional conduzida em nome do Estado — nunca exerceu função pública. O que está documentado é interlocução como candidato e liderança de organização civil: (a) em 25/06/2026 participou do 'Debating Brazil', série fechada do The Brazilian Report/Novo Selo que leva presidenciáveis ao corpo diplomático em Brasília; terceiro convidado, discursou em inglês e apresentou propostas (terras raras, energia para data centers, investimento, imigração qualificada) e afirmou ter conversas com o Departamento de Estado americano — declaração dele, não confirmada por fonte oficial (The Brazilian Report, 26/06/2026); (b) em 03/09/2026 deu coletiva a jornalistas da Europa e da Ásia (CBN/Globo) e concedeu entrevistas a veículos estrangeiros (The Epoch Times, Valor International); (c) como dirigente partidário, protocolou ação na Justiça Eleitoral sobre suposta interferência externa na eleição (Valor International, 24/09/2026) — ato jurídico doméstico, não negociação diplomática; (d) a trajetória do MBL/Missão é doméstica; não foi localizado registro de acordo, fórum multilateral ou negociação internacional conduzida por ele com resultado documentado.",
+        "projection": "Presente em veículos estrangeiros: perfil em inglês do Valor International (01/06/2026), reportagem-perfil do The Epoch Times (EUA, 2026) com declarações sobre EUA, China e tarifas, e cobertura da newsletter The Brazilian Report em inglês (26/06/2026). Realizou coletiva especificamente para imprensa internacional (jornalistas da Europa e da Ásia; 03/09/2026) e falou em inglês ao corpo diplomático em Brasília. A campanha usou faixa aérea em Copacabana perguntando 'Who is Renan Santos?', citada por veículo estrangeiro como resposta ao baixo reconhecimento (Datafolha: 73% não o conheciam). Não foi localizado convite institucional de organismo internacional, participação em fórum global ou interlocução com chefe de Estado documentada.",
         "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
-        "sources": [],
+        "sources": [
+          { "id": "src-rs-80" },
+          { "id": "src-rs-81" },
+          { "id": "src-rs-82" },
+          { "id": "src-rs-83" },
+          { "id": "src-rs-84" },
+          { "id": "src-rs-85" },
+          { "id": "src-rs-86" },
+          { "id": "src-rs-71" },
+          { "id": "src-rs-46" }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "Extração do capítulo 'Brasil Poderoso' do Livro Amarelo — resumo executivo registrado no TSE (espelho público, lido integralmente; falas sobre BRICS+, sub-hegemonia regional, Pacto Interamericano, ciclo nuclear, parceiros de 1º/2º/3º escalão) e das respostas da campanha à Folha (12/09/2026), cruzadas com CBN/Globo e CNN Brasil (03/09/2026), R7 (08/09/2026) e Valor International (24/09/2026) para o registro eleitoral. Para experiência internacional e projeção, uso do relato do 'Debating Brazil' (The Brazilian Report, 26/06/2026) e do perfil do The Epoch Times. Limites: o documento registrado no TSE é um resumo de 51 páginas (a obra completa de 500 páginas não está pública); não foi localizada posição sobre Rússia/Ucrânia, Venezuela, Índia e arquitetura de segurança europeia. Nada de política externa foi inferido do partido: todas as posições acima são declarações ou documentos do próprio candidato."
       }
     },
     "leonardo-avalanche": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
+        "worldView": "Sem posição documentada. O plano de governo registrado no TSE (19 propostas, 48 páginas, espelho público lido integralmente) não tem capítulo nem item de política externa e não menciona Brics, Mercosul, China, União Europeia, conflitos ou clima; Estados Unidos, China e Israel aparecem apenas como referência de política pública doméstica (modelo de ensino técnico e de desregulamentação ferroviária nos EUA; matriz de transporte na China; 'Startup Nation' e gestão de água em Israel), não como posicionamento diplomático. A formulação de natureza externa que existe no plano é de soberania e defesa — Proposta 12, 'Equipar as Forças Armadas': 'soberania nacional não se terceiriza' e 'um país que investe na própria capacidade de defesa é um país que negocia de igual pra igual com qualquer potência, sem depender da caridade de terceiros'. Nas fontes de 2026 consultadas (sabatina do Correio Braziliense, julho/2026; cobertura de Agência Brasil, g1, Poder360, NC News) não foi localizada declaração dele sobre o tarifaço americano, sobre a política externa do governo Lula, sobre a China ou sobre qualquer tema bilateral. Não se inferiu posição a partir do partido (PRTB).",
+        "strategy": "O que o plano registrado propõe com efeito externo: industrializar a produção nacional ('Produzir aqui o que é nosso') para deixar de exportar matéria-prima crua e recomprar produto processado — café, carne, couro, nióbio e terras raras aparecem nessa lógica; reduzir a dependência de fertilizantes importados (o documento registra dependência de 86,76% em NPK, 97% no potássio, 'boa parte da Rússia e da Bielorrússia'); equipar as Forças Armadas com produção nacional, 'não só compra no exterior', e vigilância por drones na Amazônia; e, na reforma tributária, o imposto único de 3,5% substituiria todos os tributos atuais, entre eles o Imposto de Importação. Não há no documento meta de comércio exterior, acordo comercial, adesão a bloco, política de clima ou captação de investimento estrangeiro.",
+        "internationalExperience": "Nenhuma experiência internacional localizada. Nunca ocupou cargo público (primeira disputa eleitoral em 2026); não há registro de cargo diplomático, viagem oficial, fórum multilateral, acordo, negociação ou representação institucional no exterior nas fontes consultadas. A trajetória anterior é empresarial e de direção partidária doméstica — presidente nacional do PRTB desde 2024 e articulador da campanha de Pablo Marçal à prefeitura de São Paulo em 2024 (segundo o próprio partido, em nota reproduzida pela imprensa).",
+        "projection": "Projeção internacional não localizada. Não foram encontradas reportagens, entrevistas ou convites institucionais em veículos estrangeiros de referência; o material em inglês localizado é composto por agregadores que traduzem/parafraseiam imprensa brasileira (portugal-news.today, reproduzindo O Globo) e por uma entrada na Wikipédia em inglês; a BBC (serviço brasileiro, em português) o menciona apenas na lista de candidatos. Não há registro de participação em fórum global, convite internacional ou interlocução com liderança estrangeira durante a campanha.",
         "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
-        "sources": [],
+        "sources": [
+          { "id": "src-la-17" },
+          { "id": "src-la-80" },
+          { "id": "src-la-81" },
+          { "id": "src-la-22" },
+          { "id": "src-la-06" }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "Leitura integral do plano registrado no TSE ('Plano de Governo — Leonardo Avalanche | PRTB', 19 propostas numeradas, espelho público em PDF) buscando por Brics, Mercosul, China, EUA, União Europeia, América Latina, comércio exterior, conflitos e clima — os termos aparecem somente como comparação de política doméstica ou não aparecem. Complemento: sabatina do Correio Braziliense com pré-candidatos (julho/2026, cobertura em PDF agregada pela Anfip), Agência Brasil, g1, Poder360 e NC News para declarações de campanha de 2026; busca em inglês para projeção internacional. Resultado legítimo de grupo sem passagem por governo federal: não há posição documentada de política externa a registrar, e isso está declarado aqui em vez de preenchido por inferência. O bloco de projeção é baixo, com apenas material agregador localizado."
       }
     },
     "augusto-cury": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
+        "worldView": "Posições declaradas tema a tema à Folha (12/09/2026). Brics e China: 'Não tiro o Brasil do Brics. Tiro o Brasil do papel que ele aceitou dentro do Brics' — quer manter o bloco como plataforma de comércio e financiamento e retirar a agenda geopolítica: 'o Brasil não tem por que assinar declaração sobre desdolarização, sobre arquitetura de segurança global ou sobre disputa entre grandes potências. Essas não são as nossas brigas, e cada vez que entramos nelas nós pagamos a conta em tarifa, não em prestígio'. Mercosul: propõe flexibilizar, retirando a exigência de negociação em bloco, com avanço em velocidades diferentes para permitir acordos de livre comércio ('o Brasil tem menos acordos de livre comércio que Chile, Peru e Colômbia... a décima economia do mundo negociando como se fosse uma ilha'). Estados Unidos: diz que a relação foi 'judicializada e politizada' e que 'quem pagou a conta foi o produtor de café, o fabricante de calçado e o operário de móvel'; defende retomar negociação com Trump em nível técnico — 'não se negocia com ele por microfone' — e diversificar parceiros comerciais para 'não ficar refém do humor de qualquer presidente americano'. Cooperação policial: quer FBI e DEA 'trabalhando ao lado da nossa Polícia Federal, não no lugar dela' (sem operações estrangeiras em solo brasileiro). OCDE: retomar a acessão 'desde o primeiro mês', tratada como 'selo de previsibilidade' e não clube de prestígio. Minerais críticos: não apoia restrição a capital estrangeiro, mas exige processamento no Brasil — 'quem quiser extrair mineral crítico e terra rara no Brasil, refina no Brasil e agrega valor no Brasil, com prazo e meta contratual. A Indonésia fez isso com o níquel'. Israel e Gaza: defende retomar relações diplomáticas plenas ('Israel é um parceiro histórico e não é papel do Brasil romper com um país democrático'), reconhece o direito do povo palestino a um Estado e diz que 'a guerra na Faixa de Gaza tem de terminar urgente'. No plano registrado, o capítulo 'Relações internacionais e diplomacia estratégica' declara: política externa 'ativa, equilibrada e pragmática', tratada como política de Estado; 'Brasil como potência diplomática global' com ampliação de influência em fóruns globais; 'Embaixada 4.0' (representação voltada também à promoção de negócios); diversificação de mercados e redução de dependências externas; diplomacia climática e ambiental com a Amazônia como ativo estratégico; 'cooperação Sul-Sul e multilateralismo'; proteção de interesses estratégicos em comércio, energia, tecnologia e recursos naturais 'sem manifestações agressivas'. Cooperação internacional contra o crime organizado transnacional com países vizinhos e organismos internacionais, e ampliação da atuação das Forças Armadas no controle de fronteiras. No agro, o plano propõe convidar Israel para liderar um eixo de irrigação de precisão e a China para liderar um eixo de mecanização leve, drones e automação. Não foram localizadas posições sobre Rússia/Ucrânia, Venezuela, África, Índia ou arquitetura de segurança europeia.",
+        "strategy": "Comércio e investimento com foco em exportação e previsibilidade: no plano registrado, meta declarada de 'dobrar o comércio do Brasil com o mundo em oito anos' e de aumentar a participação de produtos industrializados; redistribuição de quadros diplomáticos — deslocar cerca de 20% do efetivo lotado nos Estados Unidos para a Índia e outros mercados asiáticos e cerca de 10% do efetivo na Europa para a China e o Oriente Médio, por critérios técnicos de comércio bilateral, investimentos, inovação e turismo; reestruturação do Ministério das Relações Exteriores, com o chanceler renomeado 'Secretário de Estado' e embaixadas convertidas em 'plataformas 4.0' de diplomacia, comércio e investimento. Recursos naturais/tecnologia: agregar valor a terras raras e minerais estratégicos, atraindo investimento e tecnologia para processar em território brasileiro (projeto 'PETRA BR', Atlas Brasileiro de Minerais Críticos); soberania digital, chips e indústria farmacêutica para reduzir dependência externa. Clima e alimentação: diplomacia climática com a Amazônia como ativo; proposta de fundo global de combate à fome administrado com a ONU, FAO, Programa Mundial de Alimentos, Banco Mundial e países do G20, com metas e auditoria independente. Cooperação em segurança: mais cooperação policial com os EUA (FBI e DEA 'ao lado', não 'no lugar' da PF) e com países vizinhos contra o crime transnacional, sem operações estrangeiras em solo brasileiro.",
+        "internationalExperience": "Sem passagem por governo, sem cargo diplomático e sem negociação internacional conduzida em nome do Estado — 2026 é sua primeira candidatura a cargo público. A experiência internacional documentada é de outra natureza e declarada por ele mesmo: (a) obra editorial publicada no exterior — o plano registrado afirma que seus livros 'já foram publicados em dezenas de países' e que recebeu em 2009 o prêmio de melhor ficção do ano da Academia Chinesa de Literatura por 'O Vendedor de Sonhos', adaptado ao cinema em 2016; texto biográfico de editora/livraria registra 'publicado em mais de 70 países' (material promocional, não auditado); (b) programa social com alcance internacional declarado no plano: o 'TOUCHPEACE', descrito como presente gratuitamente em mais de 100 países, incluindo EUA, China e América Latina; (c) interlocução com imprensa estrangeira (Valor International, 04/09/2026). Não foi localizado registro de acordo, fórum multilateral, mediação ou negociação internacional conduzida por ele.",
+        "projection": "Cobertura em veículo estrangeiro: entrevista ao Valor International (04/09/2026), em inglês, sobre a recusa em anunciar a equipe econômica — matéria de política doméstica, não de política externa. A projeção internacional é declarada por ele e por sua editora: livros publicados 'em mais de 70 países', prêmio da Academia Chinesa de Literatura (2009) e programa TOUCHPEACE presente em mais de 100 países. Não foram localizadas, nas fontes consultadas, participação em fórum global, convite institucional internacional ou interlocução documentada com liderança estrangeira durante a campanha de 2026.",
         "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
-        "sources": [],
+        "sources": [
+          { "id": "src-ac-80" },
+          { "id": "src-ac-23" },
+          { "id": "src-ac-51" },
+          { "id": "src-ac-81" }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "Extração do capítulo 15 ('Relações internacionais e diplomacia estratégica') e dos projetos de exportação, terras raras, segurança e agro do plano registrado no TSE 'O Brasil dos Nossos Sonhos' (200 páginas, lido integralmente a partir do espelho público em PDF), com cruzamento das respostas da campanha à Folha (12/09/2026). Confiança média: a política externa aparece em um capítulo do plano e em respostas pontuais à imprensa, sem custo, cronograma ou metas quantificadas por item (a única meta numérica localizada é dobrar o comércio com o mundo em oito anos). As afirmações de projeção internacional (livros em dezenas de países, prêmio na China, TOUCHPEACE em 100 países) vêm do próprio plano e de texto promocional de editora, sem checagem independente nesta rodada — por isso estão declaradas como declaração. Não há posição documentada localizada sobre Rússia/Ucrânia, Venezuela, África, Índia ou segurança europeia, e nenhuma posição foi inferida do partido Avante."
       }
     },
     "clariana-barao": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
+        "worldView": "Sem posicionamento documentado sobre EUA, China, Brics, Mercosul, União Europeia, conflitos, clima ou comércio. O plano registrado no TSE ('Proteger Hoje, Transformar o Amanhã', 15 páginas, seis capítulos) não menciona Brics, Mercosul, China, Estados Unidos, diplomacia, comércio exterior, Amazônia ou política de clima; a única passagem de natureza externa está no eixo de segurança — 'Fronteiras inteligentes e integradas' (sensores, radares, monitoramento remoto, drones e compartilhamento de dados; centro de comando) e 'cooperação interestadual e internacional' no combate ao narcotráfico e ao tráfico de armas, com prioridade a grandes organizações e sufocamento financeiro de facções. Em entrevista ao BM&C Talks (09/09/2026), declarou que pretende buscar capital estrangeiro, 'inclusive dos Estados Unidos e da China', para trazer unidades industriais ao Brasil e fazer com que o beneficiamento e a transformação de minerais críticos e terras raras ocorram no país ('aqui nós vamos minerar, beneficiar, industrializar'). Não foi localizada declaração dela sobre o tarifaço americano, sobre a política externa do governo Lula ou sobre qualquer tema bilateral. Nenhuma posição foi inferida do partido (DC): o partido não traz, nas fontes consultadas, posição de política externa atribuída à candidata.",
+        "strategy": "Atrair investimento estrangeiro — Estados Unidos e China citados nominalmente — para industrializar minerais críticos e terras raras no Brasil, elevando o valor agregado da produção; no plano registrado, o indicador do eixo econômico é 'exportações de maior valor agregado', e em entrevistas ela vincula a estratégia à reindustrialização e à redução da dependência de importados (BM&C News, 09/09/2026; Canal MyNews, 02/09/2026). Em segurança: 'fronteiras inteligentes e integradas' com sensores, radares, drones e centro de comando, cooperação interestadual e internacional contra narcotráfico e tráfico de armas e sufocamento financeiro das facções (plano registrado; Agência Brasil, 24/08/2026). Não há no plano meta de comércio, acordo comercial, adesão a bloco, política de defesa além do controle de fronteiras, nem diplomacia climática.",
+        "internationalExperience": "Nenhuma experiência internacional localizada. Nunca ocupou cargo público (primeira disputa eleitoral em 2026); advogada há cerca de 15 anos e presidente do diretório estadual do DC em Mato Grosso desde julho de 2026 — não há registro de negociação, fórum multilateral, viagem oficial, acordo ou representação institucional no exterior nas fontes consultadas.",
+        "projection": "Projeção internacional baixa e sem conteúdo de política externa. A única presença localizada em veículo estrangeiro é entrevista online ao portal Sputnik Brasil (26/08/2026), em que tratou de violência contra a mulher, feminicídio e prioridade a mulheres e crianças — não de política externa; a agenda foi registrada pela Agência Brasil e o conteúdo, pela imprensa. Também aparece em agregadores eleitorais em inglês e em listas de candidatos, inclusive da BBC (serviço brasileiro, em português), sem reportagem dedicada. Não há registro de convite institucional internacional, fórum global ou interlocução com liderança estrangeira.",
         "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
-        "sources": [],
+        "sources": [
+          { "id": "src-cb-19" },
+          { "id": "src-cb-80" },
+          { "id": "src-cb-81" },
+          { "id": "src-cb-82" },
+          { "id": "src-cb-83" },
+          { "id": "src-cb-05" }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "Leitura integral do plano registrado no TSE (15 páginas, obtido em espelho de arquivo após bloqueio 403 do domínio do TSE) buscando por Brics, Mercosul, China, Estados Unidos, diplomacia, comércio exterior, exportação, Amazônia, cooperação e fronteira — o único conteúdo externo encontrado é o eixo de fronteiras e a cooperação internacional em segurança. Complemento: respostas/entrevistas de campanha (BM&C Talks 09/09/2026, Canal MyNews 02/09/2026, Agência Brasil e Página 1 sobre a entrevista à Sputnik Brasil em 26/08/2026) e a cobertura da Agência Brasil sobre as propostas do plano. Resultado legítimo de grupo sem passagem por governo federal e sem posição documentada de política externa: o que existe está registrado e a ausência está declarada, em vez de preenchida por inferência partidária."
       }
     }
   },
-  "dataGaps": ["em consolidação"]
+  "dataGaps": [
+    "renan-santos: sem posição localizada sobre Rússia/Ucrânia, Venezuela, Índia e arquitetura de segurança europeia; a obra completa do plano (500 páginas) não está pública — a extração usou o resumo executivo registrado no TSE.",
+    "leonardo-avalanche: nenhuma posição de política externa localizada em plano registrado, sabatinas e imprensa de 2026; nenhuma experiência internacional e nenhuma projeção em veículo estrangeiro de referência (apenas agregadores em inglês).",
+    "augusto-cury: sem posição localizada sobre Rússia/Ucrânia, Venezuela, África e Índia; afirmações de projeção internacional (livros em dezenas de países, prêmio na Academia Chinesa de Literatura, TOUCHPEACE em 100 países) vêm do próprio plano e de material promocional de editora, sem checagem independente.",
+    "clariana-barao: sem posição documentada sobre EUA, China, Brics, Mercosul, União Europeia, conflitos e clima; o plano registrado não tem capítulo de política externa e a entrevista à Sputnik Brasil (26/08/2026) tratou apenas de pauta doméstica.",
+    "grupo g2 (renan-santos, leonardo-avalanche, augusto-cury, clariana-barao): nenhum dos quatro tem passagem por governo federal, cargo diplomático ou negociação internacional conduzida em nome do Estado — a experiência internacional registrada é de interlocução como candidato (Renan Santos com o corpo diplomático e imprensa estrangeira) e de atividade editorial/programas sociais (Augusto Cury); para Avalanche e Clariana não há experiência internacional documentada."
+  ]
 }

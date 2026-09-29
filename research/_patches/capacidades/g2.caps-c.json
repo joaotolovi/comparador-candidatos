@@ -1,0 +1,38 @@
+{
+  "grupo": "g2",
+  "escopo": "capacidade:comunicacao-publica,capacidade:visao-estrategica",
+  "sources": [],
+  "candidates": {
+    "renan-santos": {
+      "capacities": [
+        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "leonardo-avalanche": {
+      "capacities": [
+        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "augusto-cury": {
+      "capacities": [
+        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "clariana-barao": {
+      "capacities": [
+        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "samara-martins": {
+      "capacities": [
+        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    }
+  },
+  "dataGaps": ["em consolidação"]
+}

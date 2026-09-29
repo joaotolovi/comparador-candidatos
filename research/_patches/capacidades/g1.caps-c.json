@@ -1,0 +1,410 @@
+{
+  "grupo": "g1",
+  "escopo": "capacidade:comunicacao-publica,capacidade:visao-estrategica",
+  "sources": [
+    {
+      "id": "src-lula-130",
+      "title": "Lula grava pronunciamento em rede nacional sobre tarifaço",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/lula-grava-pronunciamento-em-rede-nacional-sobre-tarifaco",
+      "publishedAt": "2025-07-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a gravação do pronunciamento oficial na noite de 16/07/2025 em rede nacional de rádio e TV sobre as tarifas dos EUA."
+    },
+    {
+      "id": "src-lula-131",
+      "title": "Lula critica 'traidores da pátria' em pronunciamento na TV em rede nacional",
+      "publisher": "UOL Notícias",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/07/17/lula-pronunciamento-rede-nacional-taxacao.htm",
+      "publishedAt": "2025-07-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reproduz o conteúdo do pronunciamento de 17/07/2025: 'chantagem inaceitável' sobre o tarifaço e defesa da soberania."
+    },
+    {
+      "id": "src-lula-132",
+      "title": "Lula defende soberania do Brasil em pronunciamento pelo 7 de setembro",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lula-defende-soberania-do-brasil-em-pronunciamento-pelo-7-de-setembro",
+      "publishedAt": "2026-09-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "agencia_publica",
+      "notes": "Pronunciamento em rede nacional de rádio e TV na noite de 06/09/2026; cita a frase 'Não somos colônia e não seremos colônia de ninguém' e a defesa do livre comércio."
+    },
+    {
+      "id": "src-lula-133",
+      "title": "Convocação de Rede — registro das convocações de rede nacional de rádio e TV",
+      "publisher": "EBC — rádio gov",
+      "url": "https://radiogov.ebc.com.br/convocacao-de-rede",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "agencia_publica",
+      "notes": "Lista oficial das convocações de rede. Pronunciamentos do presidente Lula registrados em 24-25/02/2025, 06/09/2025, 30/11/2025, 23-24/12/2025, 06-07/03/2026, 30/04/2026 e 06/09/2026."
+    },
+    {
+      "id": "src-lula-134",
+      "title": "Prioridades do governo para 2026 incluem fim da escala 6x1 e projetos de segurança pública",
+      "publisher": "Câmara dos Deputados — Agência Câmara",
+      "url": "https://camara.leg.br/noticias/1241775-prioridades-do-governo-para-2026-incluem-fim-da-escala-6x1-e-projetos-de-seguranca-publica",
+      "publishedAt": "2026-02-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Mensagem presidencial enviada ao Congresso e lida na abertura do ano legislativo em 02/02/2026, com os temas prioritários declarados pelo Executivo."
+    },
+    {
+      "id": "src-lula-135",
+      "title": "O que Lula colocou como prioridade no Congresso em 2026",
+      "publisher": "Congresso em Foco",
+      "url": "https://congressoemfoco.com.br/noticia/116066/o-que-lula-colocou-como-prioridade-no-congresso-em-2026",
+      "publishedAt": "2026-02-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha o conteúdo da mensagem presidencial: indicadores econômicos e sociais apresentados e pauta prioritária."
+    },
+    {
+      "id": "src-lula-136",
+      "title": "Com fracasso de live, Lula muda estratégia e privilegia entrevistas a rádios locais",
+      "publisher": "Estadão (Broadcast)",
+      "url": "https://www.estadao.com.br/politica/live-conversa-com-o-presidente-flopada-fracasso-podcast-semanal-entrevistas-radios-locais-salvador-recife-nprp",
+      "publishedAt": "2024-02-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Descreve o programa semanal 'Conversa com o Presidente' (produção da EBC) e a mudança de estratégia para entrevistas a rádios locais após baixa audiência em 2023; reportagem de 02/02/2024."
+    },
+    {
+      "id": "src-lula-137",
+      "title": "Plano Plurianual 2024-2027 — tramitação e alterações (Lei 14.802/2024)",
+      "publisher": "Congresso Nacional — Comissão Mista de Orçamento",
+      "url": "https://www.congressonacional.leg.br/web/orcamento/acompanhe/plano-plurianual/-/ppa/2024-2027",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Autoria do PLN 28/2023 (Presidência da República), transformado na Lei 14.802/2024; alterações por PLN 28/2024 (Lei 15.060/2024, aprovada) e PLN 19/2025 (em tramitação)."
+    },
+    {
+      "id": "src-lula-138",
+      "title": "Lei nº 14.802, de 10 de janeiro de 2024 — Institui o Plano Plurianual da União para o período de 2024 a 2027",
+      "publisher": "Câmara dos Deputados — Legislação Informatizada",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14802-10-janeiro-2024-795232-publicacaooriginal-170806-pl.html",
+      "publishedAt": "2024-01-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial",
+      "notes": "Texto publicado da lei do PPA 2024-2027."
+    },
+    {
+      "id": "src-lula-139",
+      "title": "Em Baku, Brasil destaca meta de redução de 67% nas emissões de gases de efeito estufa até 2035",
+      "publisher": "Presidência da República (gov.br/planalto)",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2024/11/em-baku-brasil-destaca-meta-de-reducao-de-67-nas-emissoes-de-gases-de-efeito-estufa-ate-2035",
+      "publishedAt": "2024-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Meta apresentada na COP29: redução de 59% a 67% das emissões líquidas até 2035, com referência a 2005. Conteúdo confirmado por busca (página gov.br protegida por WAF para coleta direta, nov/2024)."
+    },
+    {
+      "id": "src-lula-140",
+      "title": "Plano Brasileiro de Inteligência Artificial (PBIA) 2024-2028",
+      "publisher": "Ministério da Ciência, Tecnologia e Inovação (gov.br/mcti)",
+      "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/plano-brasileiro-de-inteligencia-artificial",
+      "publishedAt": "2024-07-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Plano lançado na 5ª Conferência Nacional de Ciência, Tecnologia e Inovação (30/07/2024), com investimento previsto de R$ 23 bilhões em quatro anos. Página gov.br protegida por WAF para coleta direta; teor confirmado em busca e em registro da UNCTAD."
+    },
+    {
+      "id": "src-lula-141",
+      "title": "Brasil ganha nova política industrial com metas e ações para o desenvolvimento até 2033",
+      "publisher": "Presidência da República (gov.br/planalto)",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2025/07/brasil-ganha-nova-politica-industrial-com-metas-e-acoes-para-o-desenvolvimento-ate-2033",
+      "publishedAt": "2025-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Nova Indústria Brasil: seis missões com metas até 2033; R$ 300 bilhões em financiamentos anunciados em 2024 e plano de ação com metas por missão. Página gov.br protegida por WAF; teor confirmado por busca e por notícia do MDIC."
+    }
+  ],
+  "candidates": {
+    "lula": {
+      "capacities": [
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "Uso recorrente do instrumento de convocação de rede nacional de rádio e TV: as convocações presidenciais registradas pela EBC incluem 24-25/02/2025, 06/09/2025, 30/11/2025, 23-24/12/2025, 07/03/2026, 30/04/2026 e 06/09/2026, com dois pronunciamentos temáticos sobre o tarifaço (jul/2025) e sobre a soberania (7 de Setembro de 2026). A explicação pública de prioridades também ocorre por mensagem ao Congresso na abertura do ano legislativo (02/02/2026, com fim da escala 6x1, trabalho por aplicativos e segurança como temas) e por coletiva à imprensa após agenda internacional (Washington, 07/05/2026). O programa semanal de entrevistas 'Conversa com o Presidente', produzido pela EBC, foi substituído por entrevistas a rádios locais após baixa audiência registrada em 2023 (fato noticiado em 02/02/2024).",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-lula-01",
+              "kind": "historico",
+              "title": "Pronunciamento em rede nacional de rádio e TV sobre o tarifaço dos EUA",
+              "role": "Presidente da República — pronunciamento oficial gravado em 16/07/2025 e veiculado em cadeia nacional em 17/07/2025",
+              "complexity": "Alcance nacional (rede obrigatória de rádio e TV); resposta pública a tarifas de 50% dos EUA incidentes sobre produtos brasileiros; conteúdo reproduzido pela imprensa nacional",
+              "outcome": "Pronunciamento veiculado; classificação pública das tarifas como 'chantagem inaceitável' e defesa de resposta negociada",
+              "period": "2025-07",
+              "context": "Momento de escalada tarifária dos EUA contra o Brasil, com decisões judiciais e diplomáticas pendentes; o pronunciamento foi gravado na véspera da veiculação.",
+              "sources": [
+                {
+                  "id": "src-lula-130"
+                },
+                {
+                  "id": "src-lula-131"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-lula-02",
+              "kind": "historico",
+              "title": "Pronunciamento em rede nacional no 7 de Setembro de 2026",
+              "role": "Presidente da República — pronunciamento em rede nacional de rádio e TV veiculado em 06/09/2026",
+              "complexity": "Alcance nacional; discurso temático de soberania e livre comércio; terceira convocação de rede do ano registrada pela EBC (07/03/2026, 30/04/2026 e 06/09/2026)",
+              "outcome": "Pronunciamento veiculado, com a formulação 'Não somos colônia e não seremos colônia de ninguém'",
+              "period": "2026-09",
+              "context": "Ano eleitoral, com a soberania nacional como tema recorrente da campanha diante de novo tarifaço dos EUA; pronunciamento no feriado da Independência.",
+              "sources": [
+                {
+                  "id": "src-lula-132"
+                },
+                {
+                  "id": "src-lula-133"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-lula-03",
+              "kind": "historico",
+              "title": "Mensagem presidencial ao Congresso na abertura do ano legislativo de 2026",
+              "role": "Presidente da República — mensagem enviada ao Congresso e lida em plenário em 02/02/2026",
+              "complexity": "Documento de alcance nacional apresentado às duas Casas; prioridades declaradas (fim da escala 6x1, regulamentação do trabalho por aplicativos, segurança pública) e balanço de indicadores econômicos e sociais",
+              "outcome": "Prioridades divulgadas publicamente e lidas em Plenário; a escala 6x1 e a segurança pública constam também das diretrizes do programa registrado no TSE em 08/08/2026",
+              "period": "2026-02",
+              "context": "Abertura do último ano da legislatura, com pauta legislativa disputada com a oposição.",
+              "sources": [
+                {
+                  "id": "src-lula-134"
+                },
+                {
+                  "id": "src-lula-135"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-lula-04",
+              "kind": "historico",
+              "title": "Substituição do programa semanal próprio por entrevistas a rádios locais",
+              "role": "Presidente da República — titular do programa 'Conversa com o Presidente', produção da EBC, e entrevistado de emissoras locais",
+              "complexity": "Programa semanal com produção da Empresa Brasil de Comunicação (equipe e profissionais contratados); troca de formato após índices de audiência baixos em 2023, com duas entrevistas a veículos do Nordeste no mesmo horário",
+              "outcome": "Mudança de estratégia de comunicação registrada em reportagem de 02/02/2024: prioridade a entrevistas em rádios locais espalhadas pelo Brasil",
+              "period": "2023–2024",
+              "context": "Tentativa de ampliar alcance fora das redes sociais; assunto foi procurado na Secretaria de Comunicação Social da Presidência e na EBC, que não responderam à reportagem.",
+              "sources": [
+                {
+                  "id": "src-lula-136"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-lula-05",
+              "kind": "historico",
+              "title": "Coletiva à imprensa em Washington após reunião com Trump",
+              "role": "Presidente da República — fala pública a jornalistas após encontro bilateral na Casa Branca, em 07/05/2026",
+              "complexity": "Alcance internacional; temas tratados (crime organizado, tarifas, minerais críticos), anúncio de grupo de trabalho de 30 dias sobre comércio e registro explícito da ausência de acordos assinados",
+              "outcome": "Posições e limites do encontro explicitados publicamente; cobertura da imprensa nacional e internacional",
+              "period": "2026-05",
+              "context": "Negociação em curso sobre tarifas e minerais críticos, com expectativa de resultado imediato por parte da imprensa.",
+              "sources": [
+                {
+                  "id": "src-mundo-10"
+                },
+                {
+                  "id": "src-mundo-09"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "O programa registrado no TSE em 08/08/2026 ('Diretrizes para o Programa de Transformação do Brasil') organiza 13 eixos e conecta metas datadas a horizontes maiores: desmatamento líquido zero em 2030, Plano Nacional de Educação 2026–2036, PPA 2028–2031 e 80% de crianças alfabetizadas na idade adequada. Na gestão, os instrumentos usados para operacionalizar o horizonte longo incluem o PPA 2024-2027 (Lei 14.802/2024, com revisão em 2026), a meta climática de redução de 59% a 67% das emissões até 2035, a Nova Indústria Brasil (seis missões com metas até 2033) e o Plano Brasileiro de Inteligência Artificial 2024-2028 (R$ 23 bi previstos). O Conselho de Desenvolvimento Econômico Social Sustentável apresentou em dez/2025 o documento 'Pilares de um projeto de nação', com horizonte 2035.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-lula-01",
+              "kind": "proposta",
+              "title": "Diretrizes do programa registrado no TSE com metas datadas e referência a instrumentos futuros",
+              "role": "Candidato à reeleição — programa registrado no TSE em 08/08/2026 (documento 280017016005), em 13 eixos",
+              "complexity": "Alcance nacional; 13 eixos com verbos-âncora (fortalecer, proteger, garantir, ampliar, promover, defender, valorizar); metas quantificadas (80% de alfabetização na idade adequada; desmatamento líquido zero em 2030; superávit de R$ 34,2 bi na LOA 2026); remissão a PNE 2026–2036 e a PPA 2028–2031 participativo",
+              "outcome": "Documento protocolado junto à candidatura (08/08/2026) e publicado na íntegra; custos por proposta não quantificados item a item",
+              "period": "2026",
+              "context": "O plano mantém o arcabouço fiscal (Lei 14.751/2023) e não prevê corte de despesa; parte das diretrizes depende de PEC/lei (escala 6x1, jornada de 40 horas, ministério da segurança).",
+              "sources": [
+                {
+                  "id": "src-lula-06"
+                },
+                {
+                  "id": "src-lula-80"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-lula-02",
+              "kind": "historico",
+              "title": "PPA 2024-2027 — planejamento plurianual aprovado pelo Congresso e revisado em 2026",
+              "role": "Presidente da República — autor da proposta (PLN 28/2023) encaminhada ao Congresso e sancionada como Lei 14.802/2024",
+              "complexity": "Alcance nacional e horizonte de quatro anos; tramitação na Comissão Mista de Orçamento com relatoria na Câmara; duas alterações posteriores (PLN 28/2024, aprovado como Lei 15.060/2024, e PLN 19/2025, em tramitação) e revisão do PPA em 2026",
+              "outcome": "Lei do PPA vigente, com entregas e medidas institucionais e normativas associadas e revisão publicada pelo Executivo",
+              "period": "2023–2026",
+              "context": "Ciclo orçamentário constitucional; a proposta foi elaborada em processo com participação social antes do envio ao Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-137"
+                },
+                {
+                  "id": "src-lula-138"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-lula-03",
+              "kind": "historico",
+              "title": "Documento de horizonte 2035 apresentado pelo Conselhão",
+              "role": "Presidente da República — o documento foi elaborado pelo CDESS, conselho vinculado à Presidência da República",
+              "complexity": "Horizonte de 10 anos (até 2035), com organização de eixos de desenvolvimento; documento apresentado em dez/2025",
+              "outcome": "Documento publicado e apresentado publicamente; não integra o programa de governo registrado no TSE",
+              "period": "2025-12",
+              "context": "Instância de interlocução com setores econômicos e sociais criada na atual gestão; atribuição do documento ao conselho, e não ao plano de campanha.",
+              "sources": [
+                {
+                  "id": "src-lula-82"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-lula-04",
+              "kind": "historico",
+              "title": "Nova Indústria Brasil — seis missões com metas até 2033",
+              "role": "Presidente da República — política industrial formulada pelo Executivo federal e aprovada no âmbito do Conselho Nacional de Desenvolvimento Industrial",
+              "complexity": "Alcance nacional e horizonte de dez anos (até 2033); seis missões setoriais com metas declaradas (ex.: produzir 70% dos medicamentos e vacinas); R$ 300 bilhões em financiamentos anunciados em 2024 e plano de ação com metas por missão",
+              "outcome": "Plano de ação publicado com metas por missão; balanço de execução divulgado em 2025",
+              "period": "2024–2026",
+              "context": "Retomada da política industrial após período de desindustrialização; instrumentos de financiamento via BNDES e agências.",
+              "sources": [
+                {
+                  "id": "src-lula-141"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-lula-05",
+              "kind": "historico",
+              "title": "Plano Brasileiro de Inteligência Artificial (PBIA) 2024-2028",
+              "role": "Presidente da República — plano lançado pelo Ministério da Ciência, Tecnologia e Inovação em jul/2024",
+              "complexity": "Horizonte de quatro anos (2024–2028); investimento previsto de R$ 23 bilhões; eixos de infraestrutura, formação, regulação e aplicações, lançado na 5ª Conferência Nacional de Ciência, Tecnologia e Inovação",
+              "outcome": "Plano publicado pelo MCTI, com estrutura de governança e ações por eixo",
+              "period": "2024–2028",
+              "context": "Disputa internacional por infraestrutura de IA e discussão paralela do marco legal (PL 2338/2023, aprovado no Senado em dez/2024).",
+              "sources": [
+                {
+                  "id": "src-lula-140"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-lula-06",
+              "kind": "posicao",
+              "title": "Meta climática de redução de 59% a 67% das emissões até 2035",
+              "role": "Presidente da República — compromisso apresentado pelo governo brasileiro na COP29 (nov/2024)",
+              "complexity": "Horizonte de 11 anos, com referência a 2005; documento de 44 páginas apresentado às Nações Unidas; articulado à meta de desmatamento líquido zero em 2030 citada no programa de governo",
+              "outcome": "Meta formalizada como NDC brasileira em nov/2024; avaliação de suficiência contestada publicamente por organizações ambientais na mesma semana",
+              "period": "2024-11",
+              "context": "Preparação da COP30 em Belém; a NDC foi anunciada na véspera da conferência em Baku e, segundo entidades ambientais, ficou abaixo do que consideravam necessário.",
+              "sources": [
+                {
+                  "id": "src-lula-139"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        }
+      ]
+    },
+    "flavio-bolsonaro": {
+      "capacities": [
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    },
+    "caiado": {
+      "capacities": [
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    },
+    "zema": {
+      "capacities": [
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "em consolidação"
+  ]
+}

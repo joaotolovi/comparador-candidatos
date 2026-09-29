@@ -61,9 +61,11 @@ CAP_NAMES = {
         "Consegue definir prioridades e conectar decisões de curto prazo a objetivos maiores?",
     ),
 }
+# Adjetivos de valor. Só casa em MINÚSCULA: nomes próprios capitalizados
+# ("Conselho Superior", "Superior Tribunal de Justiça") são fatos, não juízo.
+# Frase iniciada por adjetivo capitalizado é caso raro — revisão humana cobre.
 VALUE_ADJ = re.compile(
-    r"\b(melhor|pior|maior articulador|excelente|fraco|ineficiente|brilhante|medíocre|superior|inferior)\b",
-    re.I,
+    r"(?<![A-ZÀ-Ý])\b(melhor|pior|maior articulador|excelente|fraco|ineficiente|brilhante|medíocre|superior|inferior)\b"
 )
 COVERAGE_OK = {"documentada", "parcial", "insuficiente"}
 EV_STATUS = {"confirmado", "parcial", "indeterminado", "contestado"}

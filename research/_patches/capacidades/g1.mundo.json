@@ -1,62 +1,562 @@
 {
   "grupo": "g1",
   "escopo": "mundo",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-mundo-01",
+      "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+      "publisher": "G1 / GloboNews (Filipe Matoso)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+    },
+    {
+      "id": "src-mundo-02",
+      "title": "O que Lula e Flávio prometem para a política externa",
+      "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+      "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, BRICS, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado para a afirmação de que Ucrânia e Oriente Médio estão ausentes dos programas."
+    },
+    {
+      "id": "src-mundo-03",
+      "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+      "publisher": "Folha de S.Paulo — Patrícia Campos Mello",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento por tema (BRICS/China, Mercosul, operações dos EUA, OCDE, minerais críticos, Israel/Gaza, EUA) com respostas das campanhas; parte das posições de Caiado e Zema é atribuída aos coordenadores de programa (Roberto Brant e Christian Lohbauer). A campanha de Flávio Bolsonaro não respondeu."
+    },
+    {
+      "id": "src-mundo-04",
+      "title": "(Des)alinhamento e política externa: disputa eleitoral no Brasil em uma ordem internacional em transformação (Cadernos Adenauer, cap. 8)",
+      "publisher": "Fundação Konrad-Adenauer (KAS) — Cadernos Adenauer",
+      "url": "https://www.kas.de/documents/d/brasilien/cadernos-adenauer1_2026_web-capitulo-8",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Capítulo acadêmico de fundação política alemã; usado como apoio para (a) o enquadramento de 'não alinhamento ativo' da política externa do terceiro governo Lula e (b) a menção ao acordo Goiás-EUA de minerais críticos (março de 2026) como cooperação subnacional. Data exata de publicação não legível no PDF."
+    },
+    {
+      "id": "src-mundo-05",
+      "title": "UE–Mercosul: Conselho autoriza a assinatura do acordo de parceria e comércio",
+      "publisher": "Serviço Europeu de Ação Externa (EEAS) — Delegação da UE no Brasil",
+      "url": "https://www.eeas.europa.eu/delegations/brazil/ue%E2%80%93mercosul-conselho-autoriza-assinatura-do-acordo-de-parceria-e-com%C3%A9rcio_en",
+      "publishedAt": "2026-01-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Fonte oficial da UE sobre a autorização de assinatura do Acordo de Parceria UE-Mercosul e do Acordo Comercial Interino (09/01/2026)."
+    },
+    {
+      "id": "src-mundo-06",
+      "title": "A União Europeia formaliza a aplicação provisória do Acordo Comercial com o Mercosul",
+      "publisher": "Aduana News",
+      "url": "https://aduananews.com/pt/la-union-europea-oficializa-la-aplicacion-provisional-del-acuerdo-comercial-con-el-mercosur",
+      "publishedAt": "2026-04-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a aplicação provisória do acordo interino a partir de 01/05/2026 e as ratificações, incluindo o Decreto Legislativo nº 14/2026 (PDS 41/26) no Brasil (17/03/2026)."
+    },
+    {
+      "id": "src-mundo-07",
+      "title": "Encontro com Trump é trunfo para Flávio Bolsonaro e acende alerta sobre papel da Casa Branca na eleição",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c1m2y9g7yx4o",
+      "publishedAt": "2026-05-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra o encontro de Flávio com Trump na Casa Branca (26/05/2026), as versões divergentes sobre duração/formalidade e a leitura de analistas; menciona o encontro de Lula com Trump no início de maio de 2026."
+    },
+    {
+      "id": "src-mundo-08",
+      "title": "Flávio Bolsonaro volta à Casa Branca e fala com Rubio e JD Vance um dia após encontro com Trump",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/amp/poder/2026/05/flavio-bolsonaro-volta-a-casa-branca-e-fala-com-rubio-e-jd-vance-um-dia-apos-encontro-com-trump.shtml",
+      "publishedAt": "2026-05-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha as reuniões de Flávio em Washington (26 e 27/05/2026), o pedido de designação de PCC/CV como terroristas e a avaliação do Planalto; registra que Lula esteve com Trump três semanas antes."
+    },
+    {
+      "id": "src-mundo-09",
+      "title": "Como a imprensa internacional noticiou tarifa de 25% dos EUA contra o Brasil: 'Aprofundamento da ruptura antes das eleições'",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cx2vx91y402o",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Síntese da cobertura estrangeira (Financial Times, New York Times, The Guardian, Reuters) sobre a tarifa de 25% que entrou em vigor em 22/07/2026; usada para projeção/notoriedade de Lula e Flávio na imprensa estrangeira. Dia exato de publicação não preservado na coleta."
+    },
+    {
+      "id": "src-mundo-10",
+      "title": "Lula diz que discutiu crime organizado, tarifas e minerais críticos com Trump",
+      "publisher": "Brasil de Fato",
+      "url": "https://brasildefato.com.br/2026/05/07/lula-diz-que-discutiu-crime-organizado-tarifas-e-minerais-criticos-com-trump-e-elogia-magnata-rindo-vale-mais-do-que-de-cara-feia",
+      "publishedAt": "2026-05-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Coletiva de Lula em Washington após o encontro na Casa Branca (07/05/2026): temas tratados, proposta de grupo de trabalho de 30 dias sobre comércio e ausência de acordos assinados."
+    },
+    {
+      "id": "src-mundo-11",
+      "title": "Flávio Bolsonaro recebido por Donald Trump na Casa Branca",
+      "publisher": "Público (Portugal)",
+      "url": "https://www.publico.pt/2026/05/26/mundo/noticia/flavio-bolsonaro-recebido-donald-trump-casa-branca-2176140",
+      "publishedAt": "2026-05-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura de veículo estrangeiro sobre a recepção de Flávio na Casa Branca e o contexto da campanha; usada para projeção internacional."
+    },
+    {
+      "id": "src-lula-74",
+      "title": "Em 2025, Lula coloca a diplomacia brasileira em destaque: veja erros e acertos da política externa",
+      "publisher": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2025/12/22/em-2025-lula-coloca-a-diplomacia-brasileira-em-destaque-vejam-erros-e-acertos-da-politica-externa/",
+      "publishedAt": "2025-12-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Balanço de 2025: Cúpula do BRICS no Rio (jul/2025, 11 chefes de Estado e governo), COP30 em Belém (10-21/11/2025, 195 países, Pacote de Belém), cerca de 20 países visitados, participação em G7 (Canadá), G20 (África do Sul), ASEAN, Fórum Mundial da Alimentação (Itália), Celac (Honduras) e o tarifaço de 50% anunciado em 09/07/2025."
+    },
+    {
+      "id": "src-lula-75",
+      "title": "Brasil e Índia assinam acordo sobre terras raras e minerais críticos",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/brasil-e-india-assinam-acordo-sobre-terras-raras-e-mineiras-criticos",
+      "publishedAt": "2026-02-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Assinatura em Nova Délhi, por Lula e o primeiro-ministro Narendra Modi, de acordo sobre minerais críticos e terras raras e energias renováveis (21/02/2026)."
+    },
+    {
+      "id": "src-lula-76",
+      "title": "G20: Lula defende governança soberana em minerais críticos e IA",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-11/g20-lula-defende-governanca-soberana-em-minerais-criticos-e-ia",
+      "publishedAt": "2025-11-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Discurso na sessão temática da Cúpula do G20 em Joanesburgo (23/11/2025) sobre soberania no conhecimento e valor agregado de minerais críticos, inteligência artificial e trabalho decente."
+    },
+    {
+      "id": "src-lula-77",
+      "title": "Xi manifesta apoio a Lula contra 'interferência externa', diz agência estatal chinesa",
+      "publisher": "Estadão (com Xinhua)",
+      "url": "https://www.estadao.com.br/internacional/xi-manifesta-apoio-a-lula-contra-interferencia-externa-diz-agencia-estatal-chinesa-npr/",
+      "publishedAt": "2026-07-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Telefonema de Lula com Xi Jinping em 26/07/2026, com defesa de aceleração das negociações Mercosul-China e diversificação de mercados; a reportagem registra que o comunicado brasileiro não mencionou a fala atribuída a Xi pela Xinhua."
+    },
+    {
+      "id": "src-lula-78",
+      "title": "Pix, minerais críticos e tarifas: o que o governo Lula quer discutir com Trump na economia",
+      "publisher": "BBC News Brasil",
+      "url": "https://bbc.com/portuguese/articles/cglpyzegwkko",
+      "publishedAt": "2026-05-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Pauta da visita de Lula a Washington (maio/2026): investigação da seção 301 sobre o Pix, tarifas remanescentes (estimativa do MDIC de 29% das exportações aos EUA com tarifas adicionais) e investimento em minerais críticos, com defesa de agregação de valor no país."
+    },
+    {
+      "id": "src-caiado-84",
+      "title": "Parceria com EUA projeta Goiás no cenário global dos minerais críticos",
+      "publisher": "Agência Goiás de Notícias (governo estadual)",
+      "url": "https://agencia.go.gov.br/parceria-com-eua-projeta-goias-no-cenario-global-dos-minerais-criticos/",
+      "publishedAt": "2026-03-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Fonte do próprio governo de Goiás sobre o MOU assinado por Caiado com os EUA em 18/03/2026 (cinco eixos, base na Lei estadual 23.597/2025) e sobre o Fórum EUA-Brasil sobre Minerais Críticos; inclui declarações do governador e do secretário Adriano da Rocha Lima."
+    },
+    {
+      "id": "src-caiado-85",
+      "title": "Acordo entre Goiás e EUA prevê exclusividade e sigilo no fornecimento de dados de minerais críticos",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/acordo-entre-goias-e-eua-preve-exclusividade-e-sigilo-no-fornecimento-de-dados-de-minerais-criticos.shtml",
+      "publishedAt": "2026-03-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Acesso ao texto do MOU (11 seções): confidencialidade por cinco anos de dados geológicos, possibilidade de exclusividade a entidades designadas pelos EUA e apoio a políticas regulatórias; juristas ouvidos consideram o acordo inconstitucional por tratar de competência da União; o governo de Goiás sustenta respaldo constitucional estadual. Notícia registra também que o servidor federal recebeu o assunto com perplexidade."
+    },
+    {
+      "id": "src-caiado-86",
+      "title": "Goiás defende acordo com EUA para exploração de minerais críticos",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/goias-defende-acordo-com-eua-para-exploracao-de-minerais-criticos",
+      "publishedAt": "2026-04-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Resposta do governo estadual às críticas federais, o MOU de Goiás com a estatal japonesa JOGMEC (negociado desde julho de 2025), o financiamento de US$ 565 milhões do DFC à Serra Verde e a crítica de Lula ('É uma vergonha inclusive o que o Caiado fez em Goiás', em 08/04/2026)."
+    },
+    {
+      "id": "src-caiado-87",
+      "title": "Caiado defende negociação com EUA e foco em saúde, segurança e emprego (sabatina GloboNews)",
+      "publisher": "BP Money",
+      "url": "https://bpmoney.com.br/politica/caiado-defende-negociacao-com-eua-e-foco-em-saude-seguranca-e-emprego",
+      "publishedAt": "2026-08-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina de 07/08/2026: 'Eu não quero bravata', intenção de mudar a condução do Itamaraty, recuperação da capacidade de negociação internacional, crítica à condução 'ideológica' da política externa e à falta de mapeamento do subsolo."
+    },
+    {
+      "id": "src-caiado-88",
+      "title": "Dizer que quero entregar terras raras aos EUA é burrice e mau-caratismo, diz Caiado",
+      "publisher": "O Povo / Agência Estado",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/08/12/dizer-que-quero-entregar-terras-raras-aos-eua-e-burrice-e-mau-caratismo-diz-caiado.html",
+      "publishedAt": "2026-08-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Resposta de Caiado às críticas de Lula sobre o acordo de Goiás; ele nega transferência das reservas e define o objetivo como atrair tecnologia para processar minerais no país (baterias, semicondutores, turbinas)."
+    },
+    {
+      "id": "src-zema-82",
+      "title": "Zema propõe tirar Brasil dos Brics e aproximar país do Ocidente",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/zema-propoe-tirar-brasil-brics-aproximar-pais-ocidente/",
+      "publishedAt": "2026-08-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha as propostas de política externa do plano: saída do BRICS, retomada da adesão à OCDE e Mercosul como zona de livre comércio ('união aduaneira que impede os países membros de negociarem sozinhos')."
+    },
+    {
+      "id": "src-zema-83",
+      "title": "Zema propõe saída do Brics e redução de supersalários e de impostos",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/zema-propoe-saida-do-brics-e-reducao-de-supersalarios-e-de-impostos",
+      "publishedAt": "2026-09-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sistematiza o programa: 'a diplomacia será orientada pelo pragmatismo comercial', saída do BRICS, adesão imediata à OCDE, Mercosul como zona de livre comércio e coordenação com os EUA e demais países no combate ao crime organizado."
+    },
+    {
+      "id": "src-zema-84",
+      "title": "Governo de Minas busca novos investimentos para o estado em missão internacional à Europa",
+      "publisher": "Secretaria-Geral do Estado de Minas Gerais (mg.gov.br)",
+      "url": "https://www.secretariageral.mg.gov.br/Noticias/Detalhe/5422",
+      "publishedAt": "2025-10-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Fonte oficial estadual: missão à Bélgica, França e Itália (a partir de 13/10/2025, 15 dias) chefiada por Zema e balanço das outras missões de 2025 — El Salvador (maio, segurança pública) e Ásia/China e Japão (junho), com 'mais de R$ 300 milhões' em investimentos atribuídos à missão."
+    },
+    {
+      "id": "src-zema-85",
+      "title": "Governo de Minas realiza lançamento mundial do projeto Vale do Lítio",
+      "publisher": "Agência Minas (governo estadual)",
+      "url": "https://agenciaminas.mg.gov.br/noticia/governo-de-minas-realiza-lancamento-mundial-do-projeto-vale-do-litio",
+      "publishedAt": "2023-05-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Fonte oficial estadual do lançamento do 'Vale do Lítio' (Lithium Valley Brazil) em Nova York, na Nasdaq, em 09/05/2023, para atrair mineradoras; 14 cidades envolvidas."
+    },
+    {
+      "id": "src-flavio-bolsonaro-19",
+      "title": "Governistas criticam discurso de Flávio nos EUA e dizem que senador age contra soberania nacional: 'lesa-pátria'",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/03/30/governistas-criticam-discurso-de-flavio-nos-eua-lesa-patria.ghtml",
+      "publishedAt": "2026-03-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reproduz trechos do discurso na CPAC/Texas (28/03/2026) sobre dependência americana de terras raras e 'mundo livre', acompanhado de Eduardo Bolsonaro, e as reações de ministros e de Guilherme Boulos."
+    },
+    {
+      "id": "src-flavio-bolsonaro-20",
+      "title": "Flávio diz que Brasil é 'solução para EUA ter minerais de terras raras'",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-que-brasil-e-solucao-para-eua-ter-minerais-de-terras-raras/",
+      "publishedAt": "2026-03-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declarações na CPAC sobre dependência chinesa (cita 70% das importações e mais de 90% do processamento) e a afirmação de que Lula é 'abertamente antiamericano'."
+    },
+    {
+      "id": "src-flavio-bolsonaro-21",
+      "title": "Na CPAC, Flávio pede pressão dos EUA sobre eleições no Brasil",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/117674/na-cpac-flavio-pede-pressao-dos-eua-sobre-eleicoes-no-brasil",
+      "publishedAt": "2026-03-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Discurso de 28/03/2026: pedido de 'pressão diplomática' do 'mundo livre' sobre as instituições brasileiras, acompanhamento internacional do processo eleitoral e ênfase nas reservas minerais."
+    },
+    {
+      "id": "src-flavio-bolsonaro-22",
+      "title": "Flávio diz, antes de audiência nos EUA, que tarifaço de Trump é ruim para o Brasil e os americanos e tenta reverter desgaste",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/07/07/flavio-diz-antes-de-audiencia-nos-eua-que-tarifaco-de-trump-e-ruim-para-o-brasil-e-os-americanos-e-tenta-reverter-desgaste.ghtml",
+      "publishedAt": "2026-07-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Audiência pública do USTR em Washington (07/07/2026) e manifestação de 86 páginas entregue por Flávio: crítica às tarifas, defesa do Pix como infraestrutura pública, proposta de adiamento das tarifas e a frase 'o Brasil busca maneiras de se libertar das amarras do Mercosul'; o Itamaraty enviou observadora e classifica a audiência como espaço não formal de negociação."
+    },
+    {
+      "id": "src-flavio-bolsonaro-23",
+      "title": "Plano de Flávio ignora Mercosul e quer reaproximar Israel",
+      "publisher": "SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/plano-de-flavio-ignora-mercosul-e-quer-reaproximar-israel",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano tornado público em 13/08/2026: prioridade à adesão à OCDE, 'fim gradual' do IOF sobre câmbio, reaproximação com EUA, Argentina e Israel, ausência de menção ao Mercosul e apenas duas menções à China."
+    },
+    {
+      "id": "src-flavio-bolsonaro-24",
+      "title": "Flávio Bolsonaro atribui responsabilidade pelo tarifaço dos EUA à 'incompetência' do governo Lula",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-atribui-responsabilidade-pelo-tarifaco-dos-eua-a-incompetencia-do-governo-lula/",
+      "publishedAt": "2026-08-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista ao Canal Livre (Band): responsabilização de Lula pelas tarifas, a frase de que o Brasil 'lambe botas da China', rejeição da tese de influência de Eduardo Bolsonaro e referência a isolamento do Brasil também com Argentina e Paraguai."
+    },
+    {
+      "id": "src-flavio-bolsonaro-25",
+      "title": "O programa de Flávio Bolsonaro não menciona BRICS nem Mercosul: o que o candidato do PL propõe para o Brasil no mundo",
+      "publisher": "ND Mais",
+      "url": "https://ndmais.com.br/mundo/o-programa-de-flavio-bolsonaro-nao-menciona-brics-nem-mercosul-o-que-o-candidato-do-pl-propoe-para-o-brasil-no-mundo/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Série 'política externa' (29/09/2026): distingue o programa registrado no TSE do discurso de campanha; registra a frase 'libertar o Brasil das amarras do Mercosul', a declaração de comício em Natal (21/09/2026) sobre relação 'sempre pragmática economicamente' com a China e a ausência de posição sobre BRICS e Mercosul no programa."
+    },
+    {
+      "id": "src-flavio-bolsonaro-26",
+      "title": "Senator Flavio Bolsonaro vows to respect Brazil election outcome",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/americas/senator-flavio-bolsonaro-vows-respect-brazil-election-outcome-2026-08-29/",
+      "publishedAt": "2026-08-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista ao Jornal Nacional (28/08/2026): compromisso de respeitar o resultado da eleição e distanciamento da decisão de julho do governo dos EUA de impor tarifas; cobertura de agência estrangeira. Conteúdo obtido por busca (página não acessível por curl)."
+    },
+    {
+      "id": "src-flavio-bolsonaro-27",
+      "title": "Senador Flávio Bolsonaro — participação em comissões (perfil oficial)",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894/comissoes/3",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Fonte oficial: suplente na Comissão de Relações Exteriores e Defesa Nacional de 14/02/2019 a 12/07/2019; presidência da Comissão de Segurança Pública a partir de 2025; suplente na CCJ e na CDH (2025-2026)."
+    }
+  ],
   "candidates": {
     "lula": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
-        "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
-        "sources": [],
+        "worldView": "Programa registrado no TSE (ago/2026) afirma 'soberania' e 'independência' como princípios e descreve a integração sul-americana como 'primeiro círculo de projeção estratégica do Brasil'. EUA: não propõe alinhamento; em 2025-2026 o governo tratou o tarifaço como medida politicamente motivada, e no discurso de abertura da Assembleia Geral da ONU (set/2026) Lula afirmou que 'o Brasil não cabe no quintal de ninguém' e criticou interferência externa em processos eleitorais, sem citar Trump. China: em telefonema com Xi Jinping (26/07/2026) defendeu acelerar as negociações de acordo comercial Mercosul-China e reafirmou a diversificação de mercados e parceiros. BRICS: defende aprofundar a aproximação geopolítica com o bloco e o Sul Global e ampliar transações em moedas locais; em fev/2026 disse à imprensa indiana que acordos com a Índia não precisam ser feitos em dólares. Mercosul: consolidá-lo como principal plataforma de integração econômica e usar o acordo com a União Europeia (aplicação provisória desde 01/05/2026); rejeita convertê-lo em área de livre comércio para permitir acordos bilaterais. Multilateralismo: reforma do Conselho de Segurança da ONU e da OMC e mecanismos financeiros do BRICS. América Latina: condena operações militares dos EUA de combate ao 'narcoterrorismo' (Caribe, 2025; Venezuela, jan/2026), o Brasil não aderiu ao 'Escudo das Américas' (mar/2026) e, simultaneamente, propôs aos EUA cooperação em segurança com compartilhamento de inteligência. Oriente Médio: classifica as ações de Israel em Gaza como genocídio e defende Estado palestino; as relações com Israel estão rebaixadas ao nível de encarregado de negócios. OCDE: processo de acessão paralisado, com o argumento de que cláusulas de investimento seriam prejudiciais a países em desenvolvimento. Clima: sediou a COP30 em Belém (nov/2025), defendeu o Pacote de Belém e a capitalização do Fundo Florestas Tropicais para Sempre. Não há posição de campanha de 2026 documentada sobre a guerra na Ucrânia.",
+        "strategy": "Comércio e investimento: diversificação de mercados pelo Plano Brasil Soberano (apoio a exportadores afetados pelo tarifaço e redução da dependência dos EUA), negociação de acordo Mercosul-China, acordo de minerais críticos e terras raras com a Índia (assinado em 21/02/2026) e acordo Mercosul-União Europeia em aplicação provisória. Negociação direta com Washington para retirada de tarifas: no encontro na Casa Branca (07/05/2026) propôs grupo de trabalho bilateral com prazo de 30 dias para o comércio, além de cooperação em minerais críticos e no combate ao crime organizado. Influência diplomática e governança global: presidiu o BRICS (Cúpula do Rio, jul/2025), sediou a COP30 (Belém, nov/2025) e defende reforma do Conselho de Segurança da ONU e da OMC. Integração regional: Mercosul como plataforma, proposta de mercado comum sul-americano de energia e impulso à OTCA. Minerais críticos: política industrial com processamento no país e veto a parcerias internacionais que não prevejam industrialização (lei defendida pelo governo no Senado). Clima/energia: financiamento climático e TFFF. Argentina, Venezuela e demais vizinhos aparecem no eixo de integração sul-americana, sem proposta específica por país nas fontes usadas.",
+        "internationalExperience": "Responsabilidades exercidas como chefe de Estado (decidiu e conduziu): presidiu o BRICS — Cúpula de Líderes no Rio de Janeiro, jul/2025, com 11 chefes de Estado e governo; sediou e abriu a COP30 em Belém (nov/2025), com 195 países, 56 decisões por consenso ('Pacote de Belém') e capitalização inicial do TFFF acima de US$ 6,6 bilhões; presidiu o Mercosul no segundo semestre de 2025 e defendeu a assinatura do acordo com a União Europeia (autorizada pelo Conselho da UE em 09/01/2026, em aplicação provisória desde 01/05/2026); discursou no G20 de Joanesburgo (23/11/2025) sobre governança soberana em minerais críticos e inteligência artificial; assinou com Narendra Modi acordo sobre minerais críticos e terras raras (Nova Délhi, 21/02/2026); reuniu-se com Donald Trump na Casa Branca em 07/05/2026 sobre tarifas, minerais críticos e crime organizado, propondo grupo de trabalho de 30 dias para o comércio — não houve assinatura de acordos no encontro; tratou com Xi Jinping (26/07/2026) a negociação Mercosul-China. Em 2025 visitou cerca de 20 países e participou do G7 (Canadá), G20 (África do Sul), cúpula da Asean (Malásia), Celac (Honduras) e Fórum Mundial da Alimentação (Itália). A área é conduzida pelo ministro de Relações Exteriores Mauro Vieira (diplomata de carreira) e pelo assessor especial Celso Amorim; a negociação tarifária detalhada é atribuída nas fontes a ministros da área econômica, e não ao presidente.",
+        "projection": "Abertura da Assembleia Geral da ONU em 2025 e em 2026; recepção na Casa Branca por Trump (07/05/2026) e telefonema com Xi Jinping (26/07/2026) com apoio atribuído à 'defesa da soberania' do Brasil; menções em imprensa estrangeira (Financial Times, New York Times, The Guardian, Reuters) sobre o tarifaço e a disputa comercial, com registro de que a tensão com Washington elevou sua popularidade; sediou eventos multilaterais com chefes de Estado de todas as regiões (BRICS 2025 e COP30).",
+        "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        "sources": [
+          {
+            "id": "src-mundo-01"
+          },
+          {
+            "id": "src-mundo-02"
+          },
+          {
+            "id": "src-mundo-03"
+          },
+          {
+            "id": "src-mundo-05"
+          },
+          {
+            "id": "src-mundo-06"
+          },
+          {
+            "id": "src-mundo-09"
+          },
+          {
+            "id": "src-mundo-10"
+          },
+          {
+            "id": "src-lula-74"
+          },
+          {
+            "id": "src-lula-75"
+          },
+          {
+            "id": "src-lula-76"
+          },
+          {
+            "id": "src-lula-77"
+          },
+          {
+            "id": "src-lula-78"
+          },
+          {
+            "id": "src-lula-80"
+          }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "high",
+        "methodology": "Extraído do programa registrado no TSE (ago/2026, já usado como fonte no bloco de projeto de país), de cobertura de 2025-2026 (G1, DW, Folha, BBC, Agência Brasil, Brasil de Fato, Estadão, Reuters) e de fonte oficial da UE. Análise aproximada: as posições por país/tema foram montadas a partir de declarações e atos de 2025-2026, e não de um documento único por tema. Lacunas: o programa não trata da guerra na Ucrânia; o telefonema com Xi é conhecido por relato da agência estatal chinesa reproduzido pelo Estadão e não consta do comunicado brasileiro (divergência registrada pelo próprio jornal); questões abertas no contencioso tarifário (percentual ainda vigente, escopo do grupo de trabalho) não têm resultado publicado até 29/09/2026."
       }
     },
     "caiado": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
-        "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
-        "sources": [],
+        "worldView": "O plano registrado (ago/2026) propõe agendas sem 'alinhamentos automáticos' e objetivos de 'abrir mercados, atrair investimento produtivo, proteger brasileiros no exterior, fortalecer a integração regional e defender regras multilaterais', com prioridade a Ásia, África e Indo-Pacífico; consolidação do acordo Mercosul-União Europeia; minerais estratégicos, energia limpa e biodiversidade como instrumentos de desenvolvimento; 'infraestrutura pública digital e diplomacia tecnológica' (Pix, gov.br e open finance como instrumentos de cooperação e exportação) e 'liderar coalizões de potências médias' para ampliar acesso a capacidade computacional; e o objetivo declarado de 'reposicionar o Brasil no mundo como parceiro previsível, potência ambiental, alimentar, energética e tecnológica'. Em entrevista da campanha à Folha (12/09/2026), o coordenador do programa, Roberto Brant, afirmou que o BRICS não deve ser usado para 'hostilizar as democracias ocidentais', que os EUA serão tratados 'com respeito, firmeza e profissionalismo' com rejeição a interferências nas eleições e às tarifas ('bravata não é diplomacia, assim como submissão não é negociação') e que a flexibilização do Mercosul é admitida para acordos bilaterais quando a negociação conjunta não for possível. Operações estrangeiras: a campanha apoia a designação de PCC e CV como organizações terroristas e a cooperação internacional, mas rejeita operações dos EUA em território brasileiro; Caiado admite operações de forças sul-americanas e propôs a criação da SULPOL, agência policial sul-americana. Israel: condena os ataques do Hamas e propõe normalizar as relações. Em sabatina (GloboNews, 07/08/2026) disse que não adotará postura de confronto com os EUA ('Eu não quero bravata') e que haveria 'nova orientação' no Itamaraty.",
+        "strategy": "Ampliar mercados e elevar a complexidade tecnológica das exportações; atrair investimento estrangeiro e transferência de tecnologia em minerais críticos (separação de terras raras, metalização, ligas e ímãs de neodímio), com processamento local e sem restrição à participação majoritária estrangeira; retomar e concluir a adesão à OCDE durante o mandato; cooperação policial sul-americana (SULPOL) e cooperação internacional contra o crime organizado, com designação de PCC e CV como terroristas; usar a política externa para atrair investimento, conhecimento e mercado; consolidar o Mercosul-União Europeia; consolidar Alcântara como espaçoporto e estimular satélites, comunicações e indústria de defesa (itens do plano registrado).",
+        "internationalExperience": "Governador de Goiás (2019-2026) — atos de cooperação internacional, e não de negociação de tratados (competência da União): assinou e conduziu memorando de entendimento com o governo dos Estados Unidos sobre minerais críticos (18/03/2026, em São Paulo, com o encarregado de negócios Gabriel Escobar), com cinco eixos (mapeamento geológico, mercado, ambiente regulatório, capacitação e instalação de processamento, incluindo separação de terras raras e ímãs de neodímio) e base na Lei estadual 23.597/2025, que criou autoridade estadual de minerais críticos, Zonas Especiais de Minerais Críticos e fundo estadual; o teor integral não foi divulgado e a Folha apurou cláusulas de confidencialidade e possibilidade de exclusividade de dados geológicos para entidades designadas pelos EUA, com juristas ouvidos pelo jornal questionando a competência estadual e o governo de Goiás sustentando respaldo constitucional (o próprio governo classifica o documento como não vinculante). Negociou memorando semelhante com a estatal japonesa JOGMEC (negociação iniciada em julho de 2025), voltado à separação e ao processamento de terras raras em Goiás. Participou do Fórum EUA-Brasil sobre Minerais Críticos (18/03/2026). Não localizei, nas fontes consultadas, registro de acordo internacional assinado ou negociação comercial conduzida por ele fora desses memorandos, nem atuação em comissão de relações exteriores no período parlamentar.",
+        "projection": "Repercussão externa e acadêmica do memorando Goiás-EUA: citado em capítulo do Cadernos Adenauer 2026 (Fundação Konrad-Adenauer, Alemanha) como exemplo de cooperação subnacional em minerais críticos; o financiamento de US$ 565 milhões do DFC americano à Serra Verde (fev/2026) e a venda da mineradora à norte-americana USA Rare Earth (cerca de US$ 2,8 bilhões, abr/2026) colocaram Goiás no noticiário do setor; reportagens registram que o governo dos EUA não tinha, então, acordo equivalente com o governo federal. Não localizei entrevista ou artigo de Caiado em veículo estrangeiro em 2025-2026, nem recepção por chefe de Estado estrangeiro.",
+        "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        "sources": [
+          {
+            "id": "src-mundo-01"
+          },
+          {
+            "id": "src-mundo-02"
+          },
+          {
+            "id": "src-mundo-03"
+          },
+          {
+            "id": "src-mundo-04"
+          },
+          {
+            "id": "src-caiado-80"
+          },
+          {
+            "id": "src-caiado-82"
+          },
+          {
+            "id": "src-caiado-84"
+          },
+          {
+            "id": "src-caiado-85"
+          },
+          {
+            "id": "src-caiado-86"
+          },
+          {
+            "id": "src-caiado-87"
+          },
+          {
+            "id": "src-caiado-88"
+          }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "Base: plano de governo registrado (PDF, ago/2026), cobertura de 2026 (G1, Folha, Agência Brasil, O Globo, O Povo/Estadão, BP Money) e fonte oficial estadual (Agência Goiás de Notícias). Parte das posições por tema foi apresentada por Roberto Brant, coordenador do programa, em reportagem da Folha (12/09/2026); nesses casos a fala é atribuída ao coordenador. Análise aproximada: o plano não traz capítulo com metas quantificadas de política externa nem lista de países prioritários nominais além dos blocos citados. O teor integral do MOU com os EUA não é público — a descrição usa o comunicado do governo de Goiás e a apuração da Folha, incluindo as contestações jurídicas, sem juízo sobre a validade do acordo. Não localizei posição documentada sobre China além do tratamento dado ao BRICS, nem sobre a guerra na Ucrânia."
       }
     },
     "zema": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
-        "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
-        "sources": [],
+        "worldView": "O plano registrado ('Plano Implacável', ago/2026) define a diplomacia como 'pragmatismo comercial' e prevê: retirar o Brasil do BRICS 'preservando pragmaticamente as relações comerciais com todos os países do bloco'; retomar a adesão à OCDE; transformar o Mercosul em zona de livre comércio, para que os membros possam negociar acordos bilaterais (crítica à 'união aduaneira que impede os países membros de negociarem sozinhos'); política externa baseada em acordos individuais em vez de blocos; restabelecer parcerias com os países do Mercosul, especialmente a Argentina; aproximar-se da bacia do Pacífico e isentar de visto turistas de países considerados seguros. Declarou-se contra a agenda de desdolarização ('ideia de jerico') e afirmou que 'para o Brasil ser um grande parceiro comercial da China, ele não precisa fazer parte do clubinho da China, que é o BRICS' (Folha, 12/09/2026); o programa usa a formulação de que 'quem tem ido para o BRICS são regimes autoritários, em sua maioria, e inimigos dos Estados Unidos'. EUA: defende relações 'pragmáticas' com o governo Trump e coordenação contra o crime organizado; disse à BBC Brasil que aceitaria militares americanos no Brasil em operação contra o PCC desde que 'pré-acordada' (o coordenador do programa detalhou à Folha o modelo de cooperação autorizada, nos moldes da Colômbia); já chamou Trump de 'fanfarrão' e admite retaliar comercialmente os EUA. Israel: quer normalizar relações e retomar a participação na Aliança Internacional para a Memória do Holocausto. Minerais críticos: 'atração ativa' de investimento estrangeiro com segurança jurídica, controle majoritário brasileiro e processamento no país. Não localizei posição documentada sobre a guerra na Ucrânia, sobre a OTAN ou sobre conflitos no Oriente Médio além da questão Israel-Gaza.",
+        "strategy": "Atrair investimento estrangeiro e indústrias intensivas em energia — data centers, inteligência artificial e minerais críticos — aproveitando a matriz elétrica renovável, com proposta de 'encargo zero' sobre a energia consumida por empreendimentos do setor tecnológico; usar a OCDE como âncora de reformas institucionais e econômicas; substituir a negociação em bloco por acordos bilaterais (Mercosul como zona de livre comércio); coordenar com os EUA e outros países o combate ao crime organizado; manter comércio com todos os parceiros, inclusive a China, sem participação em blocos políticos.",
+        "internationalExperience": "Governador de Minas Gerais (2019-2026) — responsabilidade de atrair investimento e firmar cooperação, não de conduzir tratados: liderou missões internacionais em 2025 à América Central (El Salvador, maio, cooperação em segurança pública, para conhecer estratégias e avaliar intercâmbio), à Ásia (China e Japão, junho, com 'mais de R$ 300 milhões' em investimentos atribuídos à missão por fonte oficial estadual) e à Europa (Bélgica, França e Itália, a partir de 13/10/2025, comitiva de 15 dias com reuniões empresariais, visita ao porto de Antuérpia e à bacia minerária de Nord-Pas-de-Calais); integrou missões da FIEMG à China em 2023 e 2024 (a edição de 2025 foi chefiada pelo vice-governador); lançou o projeto 'Vale do Lítio' em Nova York, na Nasdaq, em 09/05/2023, para atrair mineradoras; a atração de investimento é operada pela agência estadual Invest Minas. Não há registro, nas fontes consultadas, de acordo internacional formal assinado por ele nem de participação em negociação diplomática; nunca exerceu cargo legislativo federal ou função diplomática.",
+        "projection": "Aparições internacionais ligadas a atração de investimento: lançamento do Vale do Lítio na Nasdaq (2023), missões à Europa, Ásia e América Central (2025) e reuniões com empresas e autoridades estrangeiras nesses eventos. Não localizei, em 2025-2026, entrevista ou artigo de Zema em veículo estrangeiro, convite institucional estrangeiro ou interlocução pública com liderança estrangeira; a projeção do candidato no noticiário internacional aparece de forma indireta (menção a governadores como alternativas da direita em reportagens sobre a sucessão brasileira).",
+        "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        "sources": [
+          {
+            "id": "src-mundo-01"
+          },
+          {
+            "id": "src-mundo-02"
+          },
+          {
+            "id": "src-mundo-03"
+          },
+          {
+            "id": "src-zema-11"
+          },
+          {
+            "id": "src-zema-12"
+          },
+          {
+            "id": "src-zema-82"
+          },
+          {
+            "id": "src-zema-83"
+          },
+          {
+            "id": "src-zema-84"
+          },
+          {
+            "id": "src-zema-85"
+          }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "medium",
+        "methodology": "Base: plano de governo registrado (PDF, ago/2026) e cobertura de 2026 (G1, DW, Folha, Agência Brasil, Gazeta do Povo), além de fontes oficiais estaduais (Secretaria-Geral MG, 10/10/2025; Agência Minas, 09/05/2023). Análise aproximada: o plano apresenta a política externa em um item único ('Saída do BRICS, ingresso na OCDE e Mercosul como zona de livre comércio'), sem cronograma, custo ou desenho de implementação; as posições adicionais vêm de entrevistas e de respostas da campanha à Folha. Lacuna registrada: a missão aos EUA divulgada pelo partido Novo (mais de R$ 1,5 bilhão em investimentos) não teve data confirmada — a página retornou erro 403 e não havia snapshot disponível no Wayback Machine em 29/09/2026 — e por isso não foi usada como evidência. Não há posição documentada sobre Ucrânia, OTAN e Rússia."
       }
     },
     "flavio-bolsonaro": {
       "foreignPolicy": {
-        "worldView": "em consolidação",
-        "strategy": "em consolidação",
-        "internationalExperience": "em consolidação",
-        "projection": "em consolidação",
-        "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
-        "sources": [],
+        "worldView": "Programa registrado (ago/2026, duas páginas sobre política externa): afirma que 'a política externa brasileira trocou o interesse nacional pela ideologia, protegendo regimes propensos ao terror e seus criminosos' e propõe 'uma diplomacia guiada pelo profissionalismo e pelo pragmatismo, não pela ideologia'; prevê estreitar relações com 'Estados Unidos, Argentina e Israel', citados como parceiros 'mais importantes e tradicionais'; retomar 'com urgência' o cronograma de adesão à OCDE (com 'fim gradual' do IOF sobre câmbio); ampliar a abertura comercial (bens de capital, tecnologia e insumos) para 'evitar dependência excessiva em áreas críticas'; internacionalizar pequenas e médias empresas via BNDES e Apex; e receber investimentos estrangeiros para a transição energética. O programa não menciona BRICS nem Mercosul; China e União Europeia aparecem dentro da diversificação comercial. Posições e atos de 2026: na CPAC (Texas, 28/03/2026) afirmou que o Brasil é 'a solução para os Estados Unidos quebrarem a dependência da China por minerais críticos, especialmente terras raras', propôs celebrar 'a mais forte aliança conservadora da história do Hemisfério Ocidental' e pediu que os EUA apliquem 'pressão diplomática' sobre as instituições brasileiras; em podcast (03/06/2026) disse que vai 'reavaliar' a permanência no BRICS, 'um bloco muito ideológico, usado para provocar os Estados Unidos'; na manifestação ao USTR (jul/2026) defendeu que o Brasil 'se liberte das amarras do Mercosul' para negociar diretamente com os EUA e propôs que o Pix não seja conectado a mecanismos de compensação 'não ocidentais'; propôs zona de livre comércio nas Américas (Afta) e citou a Nafta como modelo; pediu pessoalmente aos EUA a designação de PCC e CV como organizações narcoterroristas e promete incorporar o Brasil ao 'Escudo das Américas', dizendo que não aceitaria intervenção americana no país; em comício (Natal, 21/09/2026) disse que a relação com a China seria 'sempre pragmática economicamente' e que 'a gente não tem que escolher um lado'. Israel: fez do país o destino da primeira viagem internacional como pré-candidato (jan/2026), com jantar oferecido por Netanyahu, promete transferir a embaixada para Jerusalém, aderir aos 'Acordos de Isaac' e restabelecer relações em nível de embaixadores, e defende as ações militares de Israel em Gaza. Sobre as tarifas: em 07/07/2026 disse que o tarifaço 'é muito ruim para o Brasil e também para os Estados Unidos' e em 28/08/2026 distanciou-se da decisão de julho do governo americano, ao mesmo tempo em que atribuiu a crise comercial à 'incompetência' e às 'provocações' do governo Lula.",
+        "strategy": "Alinhamento preferencial com os EUA como via de abertura comercial e de investimento (acordo bilateral e zona de livre comércio nas Américas, na prática fora da tarifa externa comum), retomada da adesão à OCDE, parceria estratégica de longo prazo em minerais críticos com investimento americano protegido e 'reindustrialização compartilhada', cooperação em segurança (designação de facções como terroristas e adesão ao Escudo das Américas), reaproximação com Argentina e Israel (transferência da embaixada para Jerusalém) e atração de investimento estrangeiro para a transição energética. Não há estratégia declarada para o BRICS ou o Mercosul além da revisão de permanência e da crítica às regras do bloco.",
+        "internationalExperience": "Senador (2019-2027), atuação de interlocução direta com governos estrangeiros sem mandato de negociador: foi recebido por Donald Trump no Salão Oval da Casa Branca (26/05/2026) e reuniu-se com o vice-presidente JD Vance e o secretário de Estado Marco Rubio (27/05/2026), ocasião em que voltou a pedir a designação de PCC e CV como terroristas — o g1 registrou relato da comitiva de que a passagem pelo Salão Oval foi breve e destinada a foto e entrega de documentos, enquanto o senador afirmou que a conversa com Trump durou cerca de uma hora e quarenta minutos, e a BBC apurou que a Casa Branca não se manifestou; a viagem foi articulada pelo irmão, o ex-deputado Eduardo Bolsonaro. Entregou ao USTR manifestação de 86 páginas e participou de audiência pública do órgão em Washington (07/07/2026) — o Itamaraty enviou observadora e classifica a audiência como espaço não formal de negociação, mantendo as tratativas oficiais pelos canais diplomáticos. Discursou na CPAC (Texas, 28/03/2026). Como pré-candidato, fez de Israel o destino da primeira viagem internacional (jan/2026), com encontro com o primeiro-ministro Benjamin Netanyahu. No Senado, foi suplente da Comissão de Relações Exteriores e Defesa Nacional apenas entre 14/02/2019 e 12/07/2019 (perfil oficial) e preside a Comissão de Segurança Pública desde 2025. Em janeiro de 2026 cogitou o irmão Eduardo Bolsonaro para o Itamaraty e depois deixou de comentar o tema; não divulgou nomes para a área.",
+        "projection": "Recepção na Casa Branca por Trump (26/05/2026), com cobertura de veículos estrangeiros (BBC, Público, Reuters, além de Financial Times e New York Times citados em coberturas sobre a eleição); mensagem em vídeo do primeiro-ministro israelense Benjamin Netanyahu no lançamento da candidatura (jul/2026) e participação do presidente argentino Javier Milei na convenção nacional do PL que oficializou a candidatura; discurso na CPAC (mar/2026); declaração à TV Globo (28/08/2026) de que respeitará o resultado da eleição, repercutida pela Reuters.",
+        "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        "sources": [
+          {
+            "id": "src-mundo-01"
+          },
+          {
+            "id": "src-mundo-02"
+          },
+          {
+            "id": "src-mundo-03"
+          },
+          {
+            "id": "src-mundo-07"
+          },
+          {
+            "id": "src-mundo-08"
+          },
+          {
+            "id": "src-mundo-09"
+          },
+          {
+            "id": "src-mundo-11"
+          },
+          {
+            "id": "src-plano-pdf"
+          },
+          {
+            "id": "src-flavio-bolsonaro-19"
+          },
+          {
+            "id": "src-flavio-bolsonaro-20"
+          },
+          {
+            "id": "src-flavio-bolsonaro-21"
+          },
+          {
+            "id": "src-flavio-bolsonaro-22"
+          },
+          {
+            "id": "src-flavio-bolsonaro-23"
+          },
+          {
+            "id": "src-flavio-bolsonaro-24"
+          },
+          {
+            "id": "src-flavio-bolsonaro-25"
+          },
+          {
+            "id": "src-flavio-bolsonaro-26"
+          },
+          {
+            "id": "src-flavio-bolsonaro-27"
+          }
+        ],
         "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
-        "methodology": "em consolidação"
+        "confidenceLevel": "high",
+        "methodology": "Base: plano de diretrizes registrado (ago/2026, seção de política externa de duas páginas), documentos entregues ao USTR, cobertura de 2026 (G1, DW, Folha, O Globo, Estadão, SBT News, CNN Brasil, Valor, Congresso em Foco, ND Mais, Público, Reuters) e perfil oficial do Senado. Separação explícita entre POSIÇÃO declarada, PROPOSTA de programa e ATO praticado. Pontos controversos registrados sem juízo: a duração e a formalidade do encontro com Trump divergem entre fontes (comitiva relatou passagem breve; o senador afirmou 1h40; a Casa Branca não se manifestou). A campanha não respondeu às perguntas da Folha (12/09/2026), o que reduz a base de posições detalhadas por tema; o programa é omisso em BRICS e Mercosul, e as posições sobre esses blocos vêm de declarações e documentos, não do programa. Não há posição documentada sobre a guerra na Ucrânia."
       }
     }
   },
   "dataGaps": [
-    "em consolidação"
+    "Nenhum dos quatro candidatos registrou posição de campanha de 2026 sobre a guerra na Ucrânia, sanções à Rússia ou a OTAN; o tema está ausente dos planos registrados (DW, 17/09/2026).",
+    "Nenhum dos quatro planos traz metas quantificadas, cronograma ou avaliação de impacto para a política externa; os projetos (Afta, SULPOL, Mercosul como zona de livre comércio, saída do BRICS, revisão do BRICS) aparecem sem desenho de implementação declarado.",
+    "Caiado: o teor integral do MOU com os EUA (18/03/2026) não é público; a descrição usa o comunicado estadual e a apuração da Folha, com a controvérsia jurídica registrada e sem juízo. Não localizei registro de atuação em comissão de relações exteriores no período parlamentar nem entrevista à imprensa estrangeira em 2025-2026.",
+    "Zema: a missão aos EUA divulgada pelo partido Novo (mais de R$ 1,5 bilhão em investimentos) ficou sem data confirmada — página com erro 403 e sem snapshot no Wayback Machine em 29/09/2026 — e não foi usada como evidência. Não localizei entrevista ou artigo do candidato em veículo estrangeiro em 2025-2026.",
+    "Flávio Bolsonaro: a campanha não respondeu à Folha (12/09/2026); a natureza do encontro com Trump (duração e formalidade) divergem entre fontes; o programa não menciona BRICS, Mercosul nem a China como prioridade.",
+    "Lula: as posições por país/tema foram montadas a partir de declarações e atos de 2025-2026, sem documento único; o telefonema com Xi (26/07/2026) é conhecido por relato da agência estatal chinesa reproduzido pelo Estadão e não consta do comunicado brasileiro; em 29/09/2026 não há resultado publicado do grupo de trabalho bilateral sobre comércio proposto em maio de 2026."
   ]
 }

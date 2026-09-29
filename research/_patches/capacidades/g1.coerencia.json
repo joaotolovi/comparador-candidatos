@@ -1,0 +1,22 @@
+{
+  "grupo": "g1",
+  "escopo": "transversal:coerencia",
+  "sources": [],
+  "candidates": {
+    "lula": {
+      "coherence": []
+    },
+    "flavio-bolsonaro": {
+      "coherence": []
+    },
+    "caiado": {
+      "coherence": []
+    },
+    "zema": {
+      "coherence": []
+    }
+  },
+  "dataGaps": [
+    "em consolidação"
+  ]
+}

@@ -15,7 +15,14 @@ import { EvidenceBadge, ConfidenceBadge } from "@/components/badges";
 
 const FIELD = "text-[11px] font-medium uppercase tracking-wide text-muted-foreground";
 
-export function ForeignPolicySection({ candidates }: { candidates: Candidate[] }) {
+export function ForeignPolicySection({
+  candidates,
+  hideTag,
+}: {
+  candidates: Candidate[];
+  /** perfil individual: não repetir a etiqueta de slot A/B/C */
+  hideTag?: boolean;
+}) {
   return (
     <CandidateColumns count={candidates.length}>
       {candidates.map((c, i) => {
@@ -25,7 +32,7 @@ export function ForeignPolicySection({ candidates }: { candidates: Candidate[] }
             key={c.slug}
             className="flex h-full flex-col gap-3 rounded-md border border-border bg-card p-4"
           >
-            <CandidateTag name={c.name} slot={SLOTS[i] ?? "a"} />
+            {hideTag ? null : <CandidateTag name={c.name} slot={SLOTS[i] ?? "a"} />}
             {f ? (
               <>
                 <div className="flex flex-col gap-1">

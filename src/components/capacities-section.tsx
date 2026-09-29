@@ -117,6 +117,7 @@ function CapacityCard({
   question,
   excludes,
   slot,
+  hideTag,
 }: {
   candidate: Candidate;
   slug: string;
@@ -124,6 +125,7 @@ function CapacityCard({
   question: string;
   excludes: string;
   slot: "a" | "b" | "c";
+  hideTag?: boolean;
 }) {
   const [open, setOpen] = useState(false);
   const capacity = candidate.capacities?.find((c) => c.slug === slug);
@@ -131,7 +133,7 @@ function CapacityCard({
 
   return (
     <div className="flex h-full flex-col gap-2 rounded-md border border-border bg-card p-4">
-      <CandidateTag name={candidate.name} slot={slot} />
+      {hideTag ? null : <CandidateTag name={candidate.name} slot={slot} />}
 
       {capacity ? (
         <>
@@ -181,7 +183,14 @@ function CapacityCard({
   );
 }
 
-export function CapacitiesSection({ candidates }: { candidates: Candidate[] }) {
+export function CapacitiesSection({
+  candidates,
+  hideTag,
+}: {
+  candidates: Candidate[];
+  /** perfil individual: não repetir a etiqueta de slot A/B/C */
+  hideTag?: boolean;
+}) {
   return (
     <div className="flex flex-col gap-8">
       {CAPACITY_CATALOG.map((cat) => {
@@ -210,8 +219,9 @@ export function CapacitiesSection({ candidates }: { candidates: Candidate[] }) {
                     question={cat.question}
                     excludes={cat.excludes}
                     slot={SLOTS[i] ?? "a"}
-                  />
-                ))}
+                    hideTag={hideTag}
+                    />
+                    ))}
               </CandidateColumns>
             ) : (
               <ContentEmpty

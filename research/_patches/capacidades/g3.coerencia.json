@@ -1,0 +1,266 @@
+{
+  "grupo": "g3",
+  "escopo": "coerencia",
+  "sources": [],
+  "candidates": {
+    "edmilson-costa": {
+      "coherence": [
+        {
+          "id": "coh-ec-previdencia",
+          "theme": "previdencia",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-ec-privatizacoes",
+          "theme": "privatizacoes",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-ec-politica-externa",
+          "theme": "politica externa",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-ec-aliancas-e-rupturas-a-esquerda",
+          "theme": "aliancas e rupturas a esquerda",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-ec-organizacao-partidaria",
+          "theme": "organizacao partidaria",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ]
+    },
+    "hertz-dias": {
+      "coherence": [
+        {
+          "id": "coh-hd-previdencia-e-reforma-trabalhista",
+          "theme": "previdencia e reforma trabalhista",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-hd-questao-racial-e-terra",
+          "theme": "questao racial e terra",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-hd-seguranca-publica",
+          "theme": "seguranca publica",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-hd-jornada-e-renda",
+          "theme": "jornada e renda",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-hd-marcos-organizativos",
+          "theme": "marcos organizativos",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ]
+    },
+    "rui-costa-pimenta": {
+      "coherence": [
+        {
+          "id": "coh-rp-politica-externa-e-palestina",
+          "theme": "politica externa e palestina",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-rp-relacao-com-o-judiciario",
+          "theme": "relacao com o judiciario",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-rp-reformas-trabalhista-e-previdenciaria",
+          "theme": "reformas trabalhista e previdenciaria",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-rp-reforma-agraria-e-povos-indigenas",
+          "theme": "reforma agraria e povos indigenas",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-rp-marcos-organizativos",
+          "theme": "marcos organizativos",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ]
+    },
+    "wilson-grassi": {
+      "coherence": [
+        {
+          "id": "coh-wg-tributacao-e-carga-sobre-o-trabalho",
+          "theme": "tributacao e carga sobre o trabalho",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-wg-saude-unica-e-saude-animal",
+          "theme": "saude unica e saude animal",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-wg-seguranca-publica-e-sistema-prisional",
+          "theme": "seguranca publica e sistema prisional",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-wg-marcos-organizativos-e-eleitorais",
+          "theme": "marcos organizativos e eleitorais",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "coh-wg-papel-do-estado-e-empresa-privada",
+          "theme": "papel do estado e empresa privada",
+          "timeline": [],
+          "publicExplanation": null,
+          "statedPosition": "em consolidação",
+          "proposedAction": "em consolidação",
+          "historicalAction": "em consolidação",
+          "tensionNote": "em consolidação",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "em consolidação"
+  ]
+}

@@ -1829,6 +1829,236 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Leitura do plano sobre proteção social (manutenção de programas existentes), uso da CAIXA e eixos de terras raras e data centers."
+    },
+    {
+      "id": "src-flavio-100",
+      "title": "Confira como cada senador votou na reforma da Previdência",
+      "publisher": "Exame",
+      "url": "https://exame.com/economia/confira-como-cada-senador-votou-na-reforma-da-previdencia",
+      "publishedAt": "2019-10-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lista nominal da votação em segundo turno no Senado; registra 'Sim' para Flávio Bolsonaro (PSL-RJ)."
+    },
+    {
+      "id": "src-flavio-101",
+      "title": "Aprovação no Senado do texto-base da reforma da Previdência faz 'justiça social', diz Alcolumbre",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/noticia/2019/10/22/aprovacao-no-senado-de-texto-base-da-reforma-da-previdencia-faz-justica-social-com-aqueles-que-mais-precisam-diz-alcolumbre.ghtml",
+      "publishedAt": "2019-10-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Aprovação por 60 a 19 em segundo turno e manifestação de Flávio Bolsonaro em plenário ('momento histórico')."
+    },
+    {
+      "id": "src-flavio-102",
+      "title": "Bolsonaro escolheu Flávio como candidato à Presidência para 2026, dizem aliados",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2025/12/bolsonaro-escolheu-flavio-como-candidato-a-presidencia-para-2026-dizem-aliados.shtml",
+      "publishedAt": "2025-12-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Escolha comunicada por Jair Bolsonaro a aliados."
+    },
+    {
+      "id": "src-flavio-103",
+      "title": "Bolsonaro escolhe Flávio como sucessor para as eleições de 2026",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/114578/bolsonaro-escolhe-flavio-como-sucessor-para-as-eleicoes-de-2026",
+      "publishedAt": "2025-12-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sucessão na candidatura do campo bolsonarista."
+    },
+    {
+      "id": "src-flavio-104",
+      "title": "Segurança pública deve movimentar Senado em 2025",
+      "publisher": "Rádio Senado",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/05/seguranca-publica-deve-movimentar-senado-em-2025",
+      "publishedAt": "2025-02-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Flávio Bolsonaro indicado para presidir a Comissão de Segurança Pública e suas prioridades declaradas (PL 4082/2024 e ADPF 635)."
+    },
+    {
+      "id": "src-flavio-105",
+      "title": "Pronunciamento de Flávio Bolsonaro em 14/10/2025 (aprovação do PL 4.809/2024)",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/517531",
+      "publishedAt": "2025-10-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Registro em plenário da aprovação do pacote anticrimes violentos, de autoria da Comissão de Segurança Pública, e do relatório na CCJ."
+    },
+    {
+      "id": "src-flavio-106",
+      "title": "Flávio Bolsonaro acelera tramitação e Estatuto da Vítima vai direto ao Plenário",
+      "publisher": "Coisas da Política",
+      "url": "https://coisasdapolitica.com/politica/08/10/2025/flavio-bolsonaro-acelera-tramitacao-e-estatuto-da-vitima-vai-direto-ao-plenario",
+      "publishedAt": "2025-10-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Requerimento de urgência apresentado na condição de presidente da CSP; apoio do relator Weverton (PDT-MA)."
+    },
+    {
+      "id": "src-mundo-01",
+      "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+      "publisher": "G1 / GloboNews (Filipe Matoso)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+    },
+    {
+      "id": "src-mundo-02",
+      "title": "O que Lula e Flávio prometem para a política externa",
+      "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+      "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, BRICS, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado para a afirmação de que Ucrânia e Oriente Médio estão ausentes dos programas."
+    },
+    {
+      "id": "src-mundo-03",
+      "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+      "publisher": "Folha de S.Paulo — Patrícia Campos Mello",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento por tema (BRICS/China, Mercosul, operações dos EUA, OCDE, minerais críticos, Israel/Gaza, EUA) com respostas das campanhas; parte das posições de Caiado e Zema é atribuída aos coordenadores de programa (Roberto Brant e Christian Lohbauer). A campanha de Flávio Bolsonaro não respondeu."
+    },
+    {
+      "id": "src-mundo-07",
+      "title": "Encontro com Trump é trunfo para Flávio Bolsonaro e acende alerta sobre papel da Casa Branca na eleição",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c1m2y9g7yx4o",
+      "publishedAt": "2026-05-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra o encontro de Flávio com Trump na Casa Branca (26/05/2026), as versões divergentes sobre duração/formalidade e a leitura de analistas; menciona o encontro de Lula com Trump no início de maio de 2026."
+    },
+    {
+      "id": "src-mundo-08",
+      "title": "Flávio Bolsonaro volta à Casa Branca e fala com Rubio e JD Vance um dia após encontro com Trump",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/amp/poder/2026/05/flavio-bolsonaro-volta-a-casa-branca-e-fala-com-rubio-e-jd-vance-um-dia-apos-encontro-com-trump.shtml",
+      "publishedAt": "2026-05-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha as reuniões de Flávio em Washington (26 e 27/05/2026), o pedido de designação de PCC/CV como terroristas e a avaliação do Planalto; registra que Lula esteve com Trump três semanas antes."
+    },
+    {
+      "id": "src-mundo-09",
+      "title": "Como a imprensa internacional noticiou tarifa de 25% dos EUA contra o Brasil: 'Aprofundamento da ruptura antes das eleições'",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cx2vx91y402o",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Síntese da cobertura estrangeira (Financial Times, New York Times, The Guardian, Reuters) sobre a tarifa de 25% que entrou em vigor em 22/07/2026; usada para projeção/notoriedade de Lula e Flávio na imprensa estrangeira. Dia exato de publicação não preservado na coleta."
+    },
+    {
+      "id": "src-mundo-11",
+      "title": "Flávio Bolsonaro recebido por Donald Trump na Casa Branca",
+      "publisher": "Público (Portugal)",
+      "url": "https://www.publico.pt/2026/05/26/mundo/noticia/flavio-bolsonaro-recebido-donald-trump-casa-branca-2176140",
+      "publishedAt": "2026-05-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura de veículo estrangeiro sobre a recepção de Flávio na Casa Branca e o contexto da campanha; usada para projeção internacional."
+    },
+    {
+      "id": "src-flavio-bolsonaro-19",
+      "title": "Governistas criticam discurso de Flávio nos EUA e dizem que senador age contra soberania nacional: 'lesa-pátria'",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/03/30/governistas-criticam-discurso-de-flavio-nos-eua-lesa-patria.ghtml",
+      "publishedAt": "2026-03-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reproduz trechos do discurso na CPAC/Texas (28/03/2026) sobre dependência americana de terras raras e 'mundo livre', acompanhado de Eduardo Bolsonaro, e as reações de ministros e de Guilherme Boulos."
+    },
+    {
+      "id": "src-flavio-bolsonaro-20",
+      "title": "Flávio diz que Brasil é 'solução para EUA ter minerais de terras raras'",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-que-brasil-e-solucao-para-eua-ter-minerais-de-terras-raras/",
+      "publishedAt": "2026-03-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declarações na CPAC sobre dependência chinesa (cita 70% das importações e mais de 90% do processamento) e a afirmação de que Lula é 'abertamente antiamericano'."
+    },
+    {
+      "id": "src-flavio-bolsonaro-21",
+      "title": "Na CPAC, Flávio pede pressão dos EUA sobre eleições no Brasil",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/117674/na-cpac-flavio-pede-pressao-dos-eua-sobre-eleicoes-no-brasil",
+      "publishedAt": "2026-03-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Discurso de 28/03/2026: pedido de 'pressão diplomática' do 'mundo livre' sobre as instituições brasileiras, acompanhamento internacional do processo eleitoral e ênfase nas reservas minerais."
+    },
+    {
+      "id": "src-flavio-bolsonaro-22",
+      "title": "Flávio diz, antes de audiência nos EUA, que tarifaço de Trump é ruim para o Brasil e os americanos e tenta reverter desgaste",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/07/07/flavio-diz-antes-de-audiencia-nos-eua-que-tarifaco-de-trump-e-ruim-para-o-brasil-e-os-americanos-e-tenta-reverter-desgaste.ghtml",
+      "publishedAt": "2026-07-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Audiência pública do USTR em Washington (07/07/2026) e manifestação de 86 páginas entregue por Flávio: crítica às tarifas, defesa do Pix como infraestrutura pública, proposta de adiamento das tarifas e a frase 'o Brasil busca maneiras de se libertar das amarras do Mercosul'; o Itamaraty enviou observadora e classifica a audiência como espaço não formal de negociação."
+    },
+    {
+      "id": "src-flavio-bolsonaro-23",
+      "title": "Plano de Flávio ignora Mercosul e quer reaproximar Israel",
+      "publisher": "SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/plano-de-flavio-ignora-mercosul-e-quer-reaproximar-israel",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano tornado público em 13/08/2026: prioridade à adesão à OCDE, 'fim gradual' do IOF sobre câmbio, reaproximação com EUA, Argentina e Israel, ausência de menção ao Mercosul e apenas duas menções à China."
+    },
+    {
+      "id": "src-flavio-bolsonaro-24",
+      "title": "Flávio Bolsonaro atribui responsabilidade pelo tarifaço dos EUA à 'incompetência' do governo Lula",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-atribui-responsabilidade-pelo-tarifaco-dos-eua-a-incompetencia-do-governo-lula/",
+      "publishedAt": "2026-08-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista ao Canal Livre (Band): responsabilização de Lula pelas tarifas, a frase de que o Brasil 'lambe botas da China', rejeição da tese de influência de Eduardo Bolsonaro e referência a isolamento do Brasil também com Argentina e Paraguai."
+    },
+    {
+      "id": "src-flavio-bolsonaro-25",
+      "title": "O programa de Flávio Bolsonaro não menciona BRICS nem Mercosul: o que o candidato do PL propõe para o Brasil no mundo",
+      "publisher": "ND Mais",
+      "url": "https://ndmais.com.br/mundo/o-programa-de-flavio-bolsonaro-nao-menciona-brics-nem-mercosul-o-que-o-candidato-do-pl-propoe-para-o-brasil-no-mundo/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Série 'política externa' (29/09/2026): distingue o programa registrado no TSE do discurso de campanha; registra a frase 'libertar o Brasil das amarras do Mercosul', a declaração de comício em Natal (21/09/2026) sobre relação 'sempre pragmática economicamente' com a China e a ausência de posição sobre BRICS e Mercosul no programa."
+    },
+    {
+      "id": "src-flavio-bolsonaro-26",
+      "title": "Senator Flavio Bolsonaro vows to respect Brazil election outcome",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/world/americas/senator-flavio-bolsonaro-vows-respect-brazil-election-outcome-2026-08-29/",
+      "publishedAt": "2026-08-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista ao Jornal Nacional (28/08/2026): compromisso de respeitar o resultado da eleição e distanciamento da decisão de julho do governo dos EUA de impor tarifas; cobertura de agência estrangeira. Conteúdo obtido por busca (página não acessível por curl)."
+    },
+    {
+      "id": "src-flavio-bolsonaro-27",
+      "title": "Senador Flávio Bolsonaro — participação em comissões (perfil oficial)",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894/comissoes/3",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Fonte oficial: suplente na Comissão de Relações Exteriores e Defesa Nacional de 14/02/2019 a 12/07/2019; presidência da Comissão de Segurança Pública a partir de 2025; suplente na CCJ e na CDH (2025-2026)."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -1850,7 +2080,25 @@
     "Lula: o espelho do programa no Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR; a leitura foi feita pela versão publicada pelo PT com o mesmo título e índice de 13 eixos.",
     "Caiado: a URL do arquivo do plano no DivulgaCandContas não foi localizada nesta coleta; a base é o PDF publicado pela campanha e o espelho do Poder360.",
     "Zema: a URL do arquivo do plano no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal); o plano não apresenta custo nem prazo para a maior parte das propostas.",
-    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta."
+    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta.",
+    "Lula: a decisão de manutenção da meta de déficit zero para 2024 (ev-cap-tomada-decisao-lula-02) se apoia em reportagens de nov/2023 e fev/2024; não foram consultados nesta rodada o projeto de LDO 2024 nem atos do Executivo sobre a meta.",
+    "Lula: o impacto fiscal das medidas anticíclicas de 2008-2009 (ev-cap-gestao-crises-lula-04) usa o Relatório Anual do Banco Central de 2008 e reportagem de 2018 que cita estudo do período; a composição exata da renúncia fiscal por tributo não foi conferida em fonte primária.",
+    "Lula: os dados de investimento federal na COP30 (ev-cap-coordenacao-institucional-lula-04) constam de páginas oficiais de comunicação; não foi localizado documento orçamentário com o detalhamento por obra.",
+    "Flávio Bolsonaro: não foram levantadas, nesta rodada, as votações nominais do Senado de 2019-2026 para além da reforma da Previdência de 2019, o que limita a capacidade tomada-decisao às três decisões registradas.",
+    "Flávio Bolsonaro: a evidência sobre a assunção da candidatura presidencial (ev-cap-tomada-decisao-flavio-02 e ev-cap-gestao-crises-flavio-02) se apoia em reportagens sobre a escolha de Jair Bolsonaro; não foram consultados documento partidário, ata de convenção ou peça de registro no TSE.",
+    "Flávio Bolsonaro: a titularidade dos grupos parlamentares bilaterais (ev-cap-coordenacao-institucional-flavio-03) é registro de composição no perfil oficial do Senado, sem produto ou agenda localizados; evidenceStatus parcial e confidenceLevel low.",
+    "Caiado: a evidência sobre a negociação com o Tesouro Nacional (ev-cap-coordenacao-institucional-caiado-02) registra a missão de avaliação de janeiro de 2019; não foram localizados termos, ofícios ou decisões formais da adesão ao Regime de Recuperação Fiscal naquele exercício — o estado migrou de regime apenas anos depois (ver execucao).",
+    "Caiado: o número de municípios em calamidade em março de 2021 (235 de 246) provém de reportagem; não foi conferido em boletim oficial da Secretaria de Saúde de Goiás.",
+    "Zema: a crítica de setores do próprio partido às medidas de isolamento (ev-cap-tomada-decisao-zema-02) está em registro enciclopédico e em fonte partidária; não foi localizada manifestação oficial do diretório nacional do NOVO.",
+    "Zema: a resposta a Brumadinho (ev-cap-gestao-crises-zema-01) se apoia em nota oficial reproduzida pela imprensa, na página da Secretaria de Estado de Saúde e em compilação de notícias do MME; não foram consultados decretos ou planos de contingência estaduais do período.",
+    "Zema: o reconhecimento federal da emergência nas chuvas de janeiro de 2020 (ev-cap-coordenacao-institucional-zema-03) não foi localizado; a evidência descreve apenas o ato estadual e seus efeitos nos municípios.",
+    "Fonte/URL: um conjunto de fontes indicadas com nota 'URL obtida em resultado de busca' (Valor e Folha sobre a meta fiscal de 2024, relatório do Banco Central de 2008) não pôde ser aberto por requisição direta nesta rodada; recomenda-se conferência antes da publicação final.",
+    "Nenhum dos quatro candidatos registrou posição de campanha de 2026 sobre a guerra na Ucrânia, sanções à Rússia ou a OTAN; o tema está ausente dos planos registrados (DW, 17/09/2026).",
+    "Nenhum dos quatro planos traz metas quantificadas, cronograma ou avaliação de impacto para a política externa; os projetos (Afta, SULPOL, Mercosul como zona de livre comércio, saída do BRICS, revisão do BRICS) aparecem sem desenho de implementação declarado.",
+    "Caiado: o teor integral do MOU com os EUA (18/03/2026) não é público; a descrição usa o comunicado estadual e a apuração da Folha, com a controvérsia jurídica registrada e sem juízo. Não localizei registro de atuação em comissão de relações exteriores no período parlamentar nem entrevista à imprensa estrangeira em 2025-2026.",
+    "Zema: a missão aos EUA divulgada pelo partido Novo (mais de R$ 1,5 bilhão em investimentos) ficou sem data confirmada — página com erro 403 e sem snapshot no Wayback Machine em 29/09/2026 — e não foi usada como evidência. Não localizei entrevista ou artigo do candidato em veículo estrangeiro em 2025-2026.",
+    "Flávio Bolsonaro: a campanha não respondeu à Folha (12/09/2026); a natureza do encontro com Trump (duração e formalidade) divergem entre fontes; o programa não menciona BRICS, Mercosul nem a China como prioridade.",
+    "Lula: as posições por país/tema foram montadas a partir de declarações e atos de 2025-2026, sem documento único; o telefonema com Xi (26/07/2026) é conhecido por relato da agência estatal chinesa reproduzido pelo Estadão e não consta do comunicado brasileiro; em 29/09/2026 não há resultado publicado do grupo de trabalho bilateral sobre comércio proposto em maio de 2026."
   ],
   "capacities": [
     {
@@ -2295,6 +2543,379 @@
       "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
       "coverage": "parcial",
       "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "tomada-decisao",
+      "synthesis": "As decisões documentadas são legislativas e de carreira: o voto e a defesa pública da reforma da Previdência no Senado em 2019 (voto 'Sim' registrado na votação nominal de segundo turno, com manifestação em plenário), a fixação das prioridades da Comissão de Segurança Pública ao assumi-la em 2025 (pacote antiviolência e atuação pela improcedência da ADPF 635) e a assunção da candidatura presidencial em lugar do pai, decidida em dezembro de 2025 e confirmada na convenção de julho de 2026, com troca da disputa por novo mandato no Senado pela cabeça de chapa. As três têm custo ou trade-off identificável (custo político da reforma, atrito com o STF, mudança de trajetória eleitoral). Não foram localizadas, nesta rodada, outras decisões com trade-off documentado no período 2019-2026 — a produção legislativa do período está tratada em execucao.",
+      "coverageNote": "Três decisões documentadas — voto na reforma da Previdência de 2019, prioridades fixadas na presidência da CSP em 2025 e assunção da candidatura presidencial em 2025-2026. A votação nominal é fonte de imprensa com lista nominal; não foram localizadas outras decisões com trade-off documentado no período, e as votações nominais intermediárias do mandato não foram levantadas uma a uma.",
+      "evidences": [
+        {
+          "id": "ev-cap-tomada-decisao-flavio-01",
+          "kind": "historico",
+          "title": "Voto e defesa pública da reforma da Previdência no Senado (2019)",
+          "role": "Senador da República (PSL-RJ) — votou a favor nos dois turnos e defendeu a aprovação em plenário",
+          "complexity": "Reforma constitucional que fixou idade mínima e regras de transição para todos os segurados do INSS, proposta pelo governo do qual é filho, com votação dividida no plenário (56 a 19 no primeiro turno e 60 a 19 no segundo)",
+          "outcome": "Voto 'Sim' registrado na votação nominal de segundo turno (lista da Exame); em plenário declarou o momento 'histórico' e afirmou que a aprovação permitiria 'voos mais altos' com geração de empregos (g1, 22/10/2019); a Emenda Constitucional 103 foi promulgada em 12/11/2019",
+          "period": "2019",
+          "context": "Votação em ano de ajuste fiscal, com custo político da reforma junto a servidores e a setores que rejeitavam as novas regras.",
+          "sources": [
+            {
+              "id": "src-flavio-100",
+              "title": "Confira como cada senador votou na reforma da Previdência",
+              "publisher": "Exame",
+              "url": "https://exame.com/economia/confira-como-cada-senador-votou-na-reforma-da-previdencia",
+              "publishedAt": "2019-10-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Lista nominal da votação em segundo turno no Senado; registra 'Sim' para Flávio Bolsonaro (PSL-RJ)."
+            },
+            {
+              "id": "src-flavio-101",
+              "title": "Aprovação no Senado do texto-base da reforma da Previdência faz 'justiça social', diz Alcolumbre",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/noticia/2019/10/22/aprovacao-no-senado-de-texto-base-da-reforma-da-previdencia-faz-justica-social-com-aqueles-que-mais-precisam-diz-alcolumbre.ghtml",
+              "publishedAt": "2019-10-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Aprovação por 60 a 19 em segundo turno e manifestação de Flávio Bolsonaro em plenário ('momento histórico')."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-flavio-02",
+          "kind": "historico",
+          "title": "Assunção da candidatura presidencial no lugar do pai (2025-2026)",
+          "role": "Senador e candidato à Presidência — assumiu a cabeça de chapa do campo bolsonarista por decisão de Jair Bolsonaro",
+          "complexity": "Decisão de carreira com trade-off explícito: trocar a disputa por um novo mandato no Senado pela candidatura presidencial, em cenário de inelegibilidade do ex-presidente, reorganização do bloco e indefinição de alianças",
+          "outcome": "Escolha comunicada por Jair Bolsonaro a aliados em 05/12/2025 (Folha) e confirmada na convenção nacional do PL em 25/07/2026, com registro no TSE; a chapa foi registrada sem coligação formal",
+          "period": "2025–2026",
+          "context": "A candidatura passou a estruturar a agenda do partido, incluindo o apoio declarado a 47 candidatos ao Senado.",
+          "sources": [
+            {
+              "id": "src-flavio-102",
+              "title": "Bolsonaro escolheu Flávio como candidato à Presidência para 2026, dizem aliados",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2025/12/bolsonaro-escolheu-flavio-como-candidato-a-presidencia-para-2026-dizem-aliados.shtml",
+              "publishedAt": "2025-12-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Escolha comunicada por Jair Bolsonaro a aliados."
+            },
+            {
+              "id": "src-flavio-103",
+              "title": "Bolsonaro escolhe Flávio como sucessor para as eleições de 2026",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/114578/bolsonaro-escolhe-flavio-como-sucessor-para-as-eleicoes-de-2026",
+              "publishedAt": "2025-12-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sucessão na candidatura do campo bolsonarista."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-flavio-03",
+          "kind": "historico",
+          "title": "Prioridades fixadas ao assumir a presidência da Comissão de Segurança Pública (2025)",
+          "role": "Senador — indicado pelo PL e presidente da Comissão de Segurança Pública, fixou a pauta do colegiado",
+          "complexity": "Escolha de agenda com custo institucional: incluiu votar o pacote antiviolência e atuar pela improcedência da ADPF 635, decisão do STF que impõe restrições a operações policiais no Rio de Janeiro, tema que envolve o Supremo, governos estaduais e corporações",
+          "outcome": "Prioridades anunciadas em 05/02/2025 (Rádio Senado): aprovação do PL 4082/2024 e atuação pela revogação da ADPF 635; a agenda de endurecimento penal foi votada no colegiado ao longo de 2025, com o PL 4.809/2024, de autoria da CSP, aprovado pelo Senado em 14/10/2025",
+          "period": "2025–2026",
+          "context": "Definição de pauta em colegiado que concentra as propostas de segurança do Senado.",
+          "sources": [
+            {
+              "id": "src-flavio-104",
+              "title": "Segurança pública deve movimentar Senado em 2025",
+              "publisher": "Rádio Senado",
+              "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/05/seguranca-publica-deve-movimentar-senado-em-2025",
+              "publishedAt": "2025-02-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Flávio Bolsonaro indicado para presidir a Comissão de Segurança Pública e suas prioridades declaradas (PL 4082/2024 e ADPF 635)."
+            },
+            {
+              "id": "src-flavio-105",
+              "title": "Pronunciamento de Flávio Bolsonaro em 14/10/2025 (aprovação do PL 4.809/2024)",
+              "publisher": "Senado Federal",
+              "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/517531",
+              "publishedAt": "2025-10-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Registro em plenário da aprovação do pacote anticrimes violentos, de autoria da Comissão de Segurança Pública, e do relatório na CCJ."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Tomada de decisão",
+      "question": "Como enfrentou decisões difíceis, trade-offs e pressão?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "gestao-crises",
+      "synthesis": "Quatro episódios de crise com resposta registrada: o caso das 'rachadinhas', da denúncia do MP-RJ ao arquivamento em 2022 após decisões do STJ; a reorganização do campo político depois que decisão judicial retirou o ex-presidente do pleito, com a candidatura assumida em dezembro de 2025; o inquérito do caso 'Dark Horse', divulgado em 11/09/2026 em plena campanha, respondido com a afirmação de patrocínio privado e pedido de 'transparência total', sem denúncia até a data do levantamento; e a resposta à reportagem sobre 51 imóveis da família, que resultou em decisão judicial de exclusão da matéria. Em dois desses episódios a resposta foi jurídica e em dois, política; a evidência sobre a sucessão da candidatura é parcial, porque se apoia em reportagens sobre a escolha, sem documento primário consultado nesta rodada.",
+      "coverageNote": "Quatro episódios com resposta registrada; a sucessão da candidatura é a evidência mais frágil (reportagens sobre a escolha, sem documento primário) e o inquérito do 'Dark Horse' é investigação em curso, sem denúncia ou condenação.",
+      "evidences": [
+        {
+          "id": "ev-cap-gestao-crises-flavio-01",
+          "kind": "historico",
+          "title": "Caso das 'rachadinhas': da denúncia do MP-RJ ao arquivamento (2018-2022)",
+          "role": "Senador — alvo do inquérito e da denúncia; conduziu a defesa jurídica e a resposta política no período",
+          "complexity": "Crise político-jurídica de cerca de cinco anos, com denúncia por peculato, lavagem de dinheiro e organização criminosa sobre movimentação de recursos do gabinete na ALERJ, envolvendo STJ, TJ-RJ, Ministério Público e Conselho de Ética do Senado",
+          "outcome": "Decisões do STJ anularam atos do juiz de primeira instância (jun/2022) e o processo foi arquivado (nov/2022); a Folha registrou que o caso terminou sem resposta sobre o destino dos recursos",
+          "period": "2018–2022",
+          "context": "Caso atravessou a campanha ao Senado de 2018, a posse e o início do mandato federal.",
+          "sources": [
+            {
+              "id": "src-valor-rachadinha",
+              "title": "Flávio Bolsonaro: relembre o processo da rachadinha",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/flavio-bolsonaro-relembre-o-processo-da-rachadinha.ghtml",
+              "publishedAt": "2026-09-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Retrospectiva do processo em 2026."
+            },
+            {
+              "id": "src-g1-stj-anula",
+              "title": "STJ anula todas as decisões de juiz contra Flávio Bolsonaro no caso das rachadinhas",
+              "publisher": "G1",
+              "url": "https://g1.globo.com/politica/noticia/2021/11/09/stj-anula-todas-as-decisoes-de-juiz-contra-flavio-bolsonaro-nas-rachadinhas.ghtml",
+              "publishedAt": "2021-11-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal",
+              "notes": "STJ, 5ª Turma: anulação por 4x1 com base no \"mandato cruzado\"."
+            },
+            {
+              "id": "src-agencia-brasil-arquiv",
+              "title": "Justiça do Rio arquiva processo de caso de supostas rachadinhas",
+              "publisher": "Agência Brasil",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+              "publishedAt": "2022-05-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal",
+              "notes": "Arquivamento da denúncia pelo Órgão Especial do TJ-RJ a pedido do MP."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-gestao-crises-flavio-02",
+          "kind": "historico",
+          "title": "Sucessão na candidatura após o novo quadro jurídico do ex-presidente (2025-2026)",
+          "role": "Senador — assumiu a condução da candidatura presidencial do campo bolsonarista no lugar do pai",
+          "complexity": "Reorganização de bloco político depois de decisão judicial que retirou o ex-presidente do pleito (inelegibilidade e condenação), exigindo recompor alianças, chapa e agenda em poucos meses e sob disputa interna do campo",
+          "outcome": "Escolha comunicada em 05/12/2025 e chapa oficializada na convenção do PL em 25/07/2026, registrada no TSE; candidatura mantida apesar de disputas internas registradas pela imprensa",
+          "period": "2025–2026",
+          "context": "Cenário de fragmentação da direita, com outros pré-candidatos (Zema, Caiado, Tarcísio) no mesmo eleitorado.",
+          "sources": [
+            {
+              "id": "src-flavio-102",
+              "title": "Bolsonaro escolheu Flávio como candidato à Presidência para 2026, dizem aliados",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2025/12/bolsonaro-escolheu-flavio-como-candidato-a-presidencia-para-2026-dizem-aliados.shtml",
+              "publishedAt": "2025-12-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Escolha comunicada por Jair Bolsonaro a aliados."
+            },
+            {
+              "id": "src-flavio-103",
+              "title": "Bolsonaro escolhe Flávio como sucessor para as eleições de 2026",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/114578/bolsonaro-escolhe-flavio-como-sucessor-para-as-eleicoes-de-2026",
+              "publishedAt": "2025-12-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sucessão na candidatura do campo bolsonarista."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-gestao-crises-flavio-03",
+          "kind": "historico",
+          "title": "Inquérito do caso 'Dark Horse' divulgado no curso da campanha (2026)",
+          "role": "Candidato à Presidência e senador — alvo do inquérito no STF e responsável pela resposta pública durante a campanha",
+          "complexity": "Investigação sobre repasses do banqueiro Daniel Vorcaro (Banco Master) ao financiamento de filme, com previsão contratual de US$ 24 milhões e apontamento da Polícia Federal de que seria 'interlocutor direto' do banqueiro; divulgada em 11/09/2026, em plena campanha, no mesmo período da liquidação extrajudicial do banco",
+          "outcome": "Inquérito aberto por determinação do ministro André Mendonça (STF); o candidato afirmou que se tratava de patrocínio privado e pediu 'transparência total'; não há denúncia nem condenação na matéria até a data do levantamento",
+          "period": "2026",
+          "context": "Episódio somado a outras apurações em curso durante a campanha (AIJE no TSE e ações sobre desinformação).",
+          "sources": [
+            {
+              "id": "src-valor-darkhorse",
+              "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre repasses de Vorcaro a 'Dark Horse'",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/noticia/2026/09/11/pgr-pede-para-pf-mapear-projetos-de-flavio-bolsonaro-e-mario-frias-de-interesse-de-vorcaro-no-congresso.ghtml",
+              "publishedAt": "2026-09-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal",
+              "notes": "Decisão de André Mendonça; PF aponta lavagem, evasão, corrupção e organização criminosa."
+            },
+            {
+              "id": "src-folha-darkhorse",
+              "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre 'Dark Horse'",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-investigado-no-stf-em-inquerito-sobre-dark-horse.shtml",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Flávio apontado como \"interlocutor direto\" de Vorcaro."
+            },
+            {
+              "id": "src-bbc-darkhorse",
+              "title": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito",
+              "publisher": "BBC News Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "US$ 24 milhões em 14 parcelas previstas em contrato."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-gestao-crises-flavio-04",
+          "kind": "historico",
+          "title": "Resposta à reportagem sobre 51 imóveis da família comprados em dinheiro vivo (2025)",
+          "role": "Senador — destinatário da reportagem e responsável pela resposta por via judicial",
+          "complexity": "Crise de imagem sobre patrimônio familiar, com publicação de levantamento sobre a compra de imóveis em espécie e reação jurídica",
+          "outcome": "A Justiça de Brasília determinou a exclusão da reportagem a pedido dos envolvidos (out/2025), decisão registrada pela própria fonte jornalística",
+          "period": "2025",
+          "context": "Episódio no mesmo período do inquérito do 'Dark Horse' e da ação no TSE.",
+          "sources": [
+            {
+              "id": "src-uol-51-imoveis",
+              "title": "Clã Bolsonaro: as evidências de dinheiro vivo em cada um dos 51 imóveis",
+              "publisher": "UOL",
+              "url": "https://noticias.uol.com.br/videos/2022/09/09/cla-bolsonaro-as-evidencias-de-dinheiro-vivo-em-cada-um-dos-51-imoveis.htm",
+              "publishedAt": "2022-09-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "51 das 107 transações com espécie."
+            },
+            {
+              "id": "src-uol-51-liminar",
+              "title": "51 imóveis em dinheiro vivo: Justiça de Brasília determina exclusão de reportagem",
+              "publisher": "UOL",
+              "url": "https://cultura.uol.com.br/noticias/52655_51-imoveis-em-dinheiro-vivo-justica-de-brasilia-determina-e-exclusao-de-reportagem-sobre-compras-da-familia-bolsonaro.html",
+              "publishedAt": "2022-09-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "UOL informou cumprir e recorrer."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Gestão de crises e mudança",
+      "question": "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "coordenacao-institucional",
+      "synthesis": "A atuação de articulação institucional documentada é a do Senado: presidência da Comissão de Segurança Pública, com pauta de endurecimento penal e o PL 4.809/2024, de autoria do colegiado, aprovado pelo Senado em 14/10/2025 após relatoria na CCJ; requerimento de urgência que levou o Estatuto da Vítima (PL 3.890/2020) direto ao Plenário em 08/10/2025, com articulação entre CSP, CCJ e Comissão de Direitos Humanos; e titularidade de sete grupos parlamentares bilaterais, sem produtos localizados nesta rodada. A cobertura é a menor das três capacidades: a interação com governos estaduais e corporações policiais na CSP aparece nas fontes, mas sem registro de ato ou resultado verificável, e a titularidade dos grupos bilaterais é registro de composição, não de entrega.",
+      "coverageNote": "Três evidências: duas de atuação na Comissão de Segurança Pública (autoria do PL 4.809/2024 e urgência do Estatuto da Vítima) e uma de titularidade de grupos parlamentares bilaterais, que é registro de composição sem produto verificável. A interação com governos estaduais e corporações na CSP não tem ato documentado nas fontes consultadas.",
+      "evidences": [
+        {
+          "id": "ev-cap-coordenacao-institucional-flavio-01",
+          "kind": "historico",
+          "title": "Presidência da Comissão de Segurança Pública: articulação com estados e corporações em torno do pacote anticrimes violentos",
+          "role": "Senador — presidente da Comissão de Segurança Pública (CSP), colegiado de origem do PL 4.809/2024",
+          "complexity": "Pauta penal com efeitos diretos sobre as polícias estaduais e o sistema prisional, construída com referências das áreas policial e jurídica de ao menos um estado (Rio de Janeiro) e submetida à CCJ",
+          "outcome": "O PL 4.809/2024, de autoria da CSP, foi aprovado pelo Senado (registro em pronunciamento de 14/10/2025), com relatório de Alessandro Vieira na CCJ que alterou o texto; a matéria seguiu para a Câmara",
+          "period": "2025–2026",
+          "context": "Colegiado que concentra as propostas de segurança do Senado e dialoga com secretarias estaduais e entidades policiais.",
+          "sources": [
+            {
+              "id": "src-flavio-104",
+              "title": "Segurança pública deve movimentar Senado em 2025",
+              "publisher": "Rádio Senado",
+              "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/05/seguranca-publica-deve-movimentar-senado-em-2025",
+              "publishedAt": "2025-02-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Flávio Bolsonaro indicado para presidir a Comissão de Segurança Pública e suas prioridades declaradas (PL 4082/2024 e ADPF 635)."
+            },
+            {
+              "id": "src-flavio-105",
+              "title": "Pronunciamento de Flávio Bolsonaro em 14/10/2025 (aprovação do PL 4.809/2024)",
+              "publisher": "Senado Federal",
+              "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/517531",
+              "publishedAt": "2025-10-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Registro em plenário da aprovação do pacote anticrimes violentos, de autoria da Comissão de Segurança Pública, e do relatório na CCJ."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-flavio-02",
+          "kind": "historico",
+          "title": "Requerimento de urgência que levou o Estatuto da Vítima direto ao Plenário (out/2025)",
+          "role": "Senador — presidente da CSP, apresentou o requerimento de urgência que retirou a matéria das comissões",
+          "complexity": "Articulação entre comissões (CSP, CCJ e Comissão de Direitos Humanos) e com o relator para suprimir etapas de tramitação e levar o projeto ao plenário",
+          "outcome": "Urgência apresentada e acatada em 08/10/2025, com o texto encaminhado diretamente ao Plenário e apoio declarado do relator Weverton (PDT-MA); o PL 3.890/2020 cria o Estatuto da Vítima",
+          "period": "2025",
+          "context": "Projeto de autoria do deputado Rui Falcão (PT-SP), já aprovado na Comissão de Direitos Humanos.",
+          "sources": [
+            {
+              "id": "src-flavio-106",
+              "title": "Flávio Bolsonaro acelera tramitação e Estatuto da Vítima vai direto ao Plenário",
+              "publisher": "Coisas da Política",
+              "url": "https://coisasdapolitica.com/politica/08/10/2025/flavio-bolsonaro-acelera-tramitacao-e-estatuto-da-vitima-vai-direto-ao-plenario",
+              "publishedAt": "2025-10-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Requerimento de urgência apresentado na condição de presidente da CSP; apoio do relator Weverton (PDT-MA)."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-flavio-03",
+          "kind": "historico",
+          "title": "Titularidade de grupos parlamentares bilaterais no Senado (diplomacia parlamentar)",
+          "role": "Senador — membro titular de grupos parlamentares bilaterais (Brasil-EUA, Brasil-Israel, Brasil-Índia, Brasil-Coreia do Sul, Brasil-Bahrein, Brasil-Arábia Saudita e Brasil-Guiana)",
+          "complexity": "Interlocução internacional exercida a partir do Senado em agendas de comércio e política externa com sete países",
+          "outcome": "Titularidade registrada no perfil oficial do Senado (consulta em 2026); não foram localizados, nesta rodada, produtos vinculados a esses grupos (relatorias, notas ou agendas conjuntas)",
+          "period": "2023–2026",
+          "context": "Grupos parlamentares bilaterais funcionam como instância de interlocução com parlamentos estrangeiros.",
+          "sources": [
+            {
+              "id": "src-senado-perfil",
+              "title": "Senador Flávio Bolsonaro — perfil oficial",
+              "publisher": "Senado Federal",
+              "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+              "publishedAt": null,
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ],
+      "name": "Coordenação institucional",
+      "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
     }
   ],
   "countryProject": {
@@ -2386,5 +3007,187 @@
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
     "methodology": "Lido do texto integral do plano 'Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030' (apresentação, valores, 'jornada do cidadão' e eixos temáticos) e conferido com a cobertura de imprensa de 13/08/2026. As 7 prioridades correspondem a eixos e capítulos declarados pelo próprio plano, na sua ordem de apresentação; eixos como 'Brasil por elas' e proteção social estão descritos no modelo de desenvolvimento em vez de contados como prioridade separada. A Folha registra que o documento prevê corte de gastos e novo teto sem detalhar a regra fiscal."
+  },
+  "foreignPolicy": {
+    "worldView": "Programa registrado (ago/2026, duas páginas sobre política externa): afirma que 'a política externa brasileira trocou o interesse nacional pela ideologia, protegendo regimes propensos ao terror e seus criminosos' e propõe 'uma diplomacia guiada pelo profissionalismo e pelo pragmatismo, não pela ideologia'; prevê estreitar relações com 'Estados Unidos, Argentina e Israel', citados como parceiros 'mais importantes e tradicionais'; retomar 'com urgência' o cronograma de adesão à OCDE (com 'fim gradual' do IOF sobre câmbio); ampliar a abertura comercial (bens de capital, tecnologia e insumos) para 'evitar dependência excessiva em áreas críticas'; internacionalizar pequenas e médias empresas via BNDES e Apex; e receber investimentos estrangeiros para a transição energética. O programa não menciona BRICS nem Mercosul; China e União Europeia aparecem dentro da diversificação comercial. Posições e atos de 2026: na CPAC (Texas, 28/03/2026) afirmou que o Brasil é 'a solução para os Estados Unidos quebrarem a dependência da China por minerais críticos, especialmente terras raras', propôs celebrar 'a mais forte aliança conservadora da história do Hemisfério Ocidental' e pediu que os EUA apliquem 'pressão diplomática' sobre as instituições brasileiras; em podcast (03/06/2026) disse que vai 'reavaliar' a permanência no BRICS, 'um bloco muito ideológico, usado para provocar os Estados Unidos'; na manifestação ao USTR (jul/2026) defendeu que o Brasil 'se liberte das amarras do Mercosul' para negociar diretamente com os EUA e propôs que o Pix não seja conectado a mecanismos de compensação 'não ocidentais'; propôs zona de livre comércio nas Américas (Afta) e citou a Nafta como modelo; pediu pessoalmente aos EUA a designação de PCC e CV como organizações narcoterroristas e promete incorporar o Brasil ao 'Escudo das Américas', dizendo que não aceitaria intervenção americana no país; em comício (Natal, 21/09/2026) disse que a relação com a China seria 'sempre pragmática economicamente' e que 'a gente não tem que escolher um lado'. Israel: fez do país o destino da primeira viagem internacional como pré-candidato (jan/2026), com jantar oferecido por Netanyahu, promete transferir a embaixada para Jerusalém, aderir aos 'Acordos de Isaac' e restabelecer relações em nível de embaixadores, e defende as ações militares de Israel em Gaza. Sobre as tarifas: em 07/07/2026 disse que o tarifaço 'é muito ruim para o Brasil e também para os Estados Unidos' e em 28/08/2026 distanciou-se da decisão de julho do governo americano, ao mesmo tempo em que atribuiu a crise comercial à 'incompetência' e às 'provocações' do governo Lula.",
+    "strategy": "Alinhamento preferencial com os EUA como via de abertura comercial e de investimento (acordo bilateral e zona de livre comércio nas Américas, na prática fora da tarifa externa comum), retomada da adesão à OCDE, parceria estratégica de longo prazo em minerais críticos com investimento americano protegido e 'reindustrialização compartilhada', cooperação em segurança (designação de facções como terroristas e adesão ao Escudo das Américas), reaproximação com Argentina e Israel (transferência da embaixada para Jerusalém) e atração de investimento estrangeiro para a transição energética. Não há estratégia declarada para o BRICS ou o Mercosul além da revisão de permanência e da crítica às regras do bloco.",
+    "internationalExperience": "Senador (2019-2027), atuação de interlocução direta com governos estrangeiros sem mandato de negociador: foi recebido por Donald Trump no Salão Oval da Casa Branca (26/05/2026) e reuniu-se com o vice-presidente JD Vance e o secretário de Estado Marco Rubio (27/05/2026), ocasião em que voltou a pedir a designação de PCC e CV como terroristas — o g1 registrou relato da comitiva de que a passagem pelo Salão Oval foi breve e destinada a foto e entrega de documentos, enquanto o senador afirmou que a conversa com Trump durou cerca de uma hora e quarenta minutos, e a BBC apurou que a Casa Branca não se manifestou; a viagem foi articulada pelo irmão, o ex-deputado Eduardo Bolsonaro. Entregou ao USTR manifestação de 86 páginas e participou de audiência pública do órgão em Washington (07/07/2026) — o Itamaraty enviou observadora e classifica a audiência como espaço não formal de negociação, mantendo as tratativas oficiais pelos canais diplomáticos. Discursou na CPAC (Texas, 28/03/2026). Como pré-candidato, fez de Israel o destino da primeira viagem internacional (jan/2026), com encontro com o primeiro-ministro Benjamin Netanyahu. No Senado, foi suplente da Comissão de Relações Exteriores e Defesa Nacional apenas entre 14/02/2019 e 12/07/2019 (perfil oficial) e preside a Comissão de Segurança Pública desde 2025. Em janeiro de 2026 cogitou o irmão Eduardo Bolsonaro para o Itamaraty e depois deixou de comentar o tema; não divulgou nomes para a área.",
+    "projection": "Recepção na Casa Branca por Trump (26/05/2026), com cobertura de veículos estrangeiros (BBC, Público, Reuters, além de Financial Times e New York Times citados em coberturas sobre a eleição); mensagem em vídeo do primeiro-ministro israelense Benjamin Netanyahu no lançamento da candidatura (jul/2026) e participação do presidente argentino Javier Milei na convenção nacional do PL que oficializou a candidatura; discurso na CPAC (mar/2026); declaração à TV Globo (28/08/2026) de que respeitará o resultado da eleição, repercutida pela Reuters.",
+    "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+    "sources": [
+      {
+        "id": "src-mundo-01",
+        "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+        "publisher": "G1 / GloboNews (Filipe Matoso)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+        "publishedAt": "2026-08-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+      },
+      {
+        "id": "src-mundo-02",
+        "title": "O que Lula e Flávio prometem para a política externa",
+        "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+        "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+        "publishedAt": "2026-09-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, BRICS, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado para a afirmação de que Ucrânia e Oriente Médio estão ausentes dos programas."
+      },
+      {
+        "id": "src-mundo-03",
+        "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+        "publisher": "Folha de S.Paulo — Patrícia Campos Mello",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+        "publishedAt": "2026-09-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento por tema (BRICS/China, Mercosul, operações dos EUA, OCDE, minerais críticos, Israel/Gaza, EUA) com respostas das campanhas; parte das posições de Caiado e Zema é atribuída aos coordenadores de programa (Roberto Brant e Christian Lohbauer). A campanha de Flávio Bolsonaro não respondeu."
+      },
+      {
+        "id": "src-mundo-07",
+        "title": "Encontro com Trump é trunfo para Flávio Bolsonaro e acende alerta sobre papel da Casa Branca na eleição",
+        "publisher": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese/articles/c1m2y9g7yx4o",
+        "publishedAt": "2026-05-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Registra o encontro de Flávio com Trump na Casa Branca (26/05/2026), as versões divergentes sobre duração/formalidade e a leitura de analistas; menciona o encontro de Lula com Trump no início de maio de 2026."
+      },
+      {
+        "id": "src-mundo-08",
+        "title": "Flávio Bolsonaro volta à Casa Branca e fala com Rubio e JD Vance um dia após encontro com Trump",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/amp/poder/2026/05/flavio-bolsonaro-volta-a-casa-branca-e-fala-com-rubio-e-jd-vance-um-dia-apos-encontro-com-trump.shtml",
+        "publishedAt": "2026-05-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Detalha as reuniões de Flávio em Washington (26 e 27/05/2026), o pedido de designação de PCC/CV como terroristas e a avaliação do Planalto; registra que Lula esteve com Trump três semanas antes."
+      },
+      {
+        "id": "src-mundo-09",
+        "title": "Como a imprensa internacional noticiou tarifa de 25% dos EUA contra o Brasil: 'Aprofundamento da ruptura antes das eleições'",
+        "publisher": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese/articles/cx2vx91y402o",
+        "publishedAt": "2026-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Síntese da cobertura estrangeira (Financial Times, New York Times, The Guardian, Reuters) sobre a tarifa de 25% que entrou em vigor em 22/07/2026; usada para projeção/notoriedade de Lula e Flávio na imprensa estrangeira. Dia exato de publicação não preservado na coleta."
+      },
+      {
+        "id": "src-mundo-11",
+        "title": "Flávio Bolsonaro recebido por Donald Trump na Casa Branca",
+        "publisher": "Público (Portugal)",
+        "url": "https://www.publico.pt/2026/05/26/mundo/noticia/flavio-bolsonaro-recebido-donald-trump-casa-branca-2176140",
+        "publishedAt": "2026-05-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Cobertura de veículo estrangeiro sobre a recepção de Flávio na Casa Branca e o contexto da campanha; usada para projeção internacional."
+      },
+      {
+        "id": "src-plano-pdf",
+        "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+        "publisher": "Poder360 (cópia do documento de campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+      },
+      {
+        "id": "src-flavio-bolsonaro-19",
+        "title": "Governistas criticam discurso de Flávio nos EUA e dizem que senador age contra soberania nacional: 'lesa-pátria'",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/noticia/2026/03/30/governistas-criticam-discurso-de-flavio-nos-eua-lesa-patria.ghtml",
+        "publishedAt": "2026-03-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Reproduz trechos do discurso na CPAC/Texas (28/03/2026) sobre dependência americana de terras raras e 'mundo livre', acompanhado de Eduardo Bolsonaro, e as reações de ministros e de Guilherme Boulos."
+      },
+      {
+        "id": "src-flavio-bolsonaro-20",
+        "title": "Flávio diz que Brasil é 'solução para EUA ter minerais de terras raras'",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-que-brasil-e-solucao-para-eua-ter-minerais-de-terras-raras/",
+        "publishedAt": "2026-03-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Declarações na CPAC sobre dependência chinesa (cita 70% das importações e mais de 90% do processamento) e a afirmação de que Lula é 'abertamente antiamericano'."
+      },
+      {
+        "id": "src-flavio-bolsonaro-21",
+        "title": "Na CPAC, Flávio pede pressão dos EUA sobre eleições no Brasil",
+        "publisher": "Congresso em Foco",
+        "url": "https://www.congressoemfoco.com.br/noticia/117674/na-cpac-flavio-pede-pressao-dos-eua-sobre-eleicoes-no-brasil",
+        "publishedAt": "2026-03-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Discurso de 28/03/2026: pedido de 'pressão diplomática' do 'mundo livre' sobre as instituições brasileiras, acompanhamento internacional do processo eleitoral e ênfase nas reservas minerais."
+      },
+      {
+        "id": "src-flavio-bolsonaro-22",
+        "title": "Flávio diz, antes de audiência nos EUA, que tarifaço de Trump é ruim para o Brasil e os americanos e tenta reverter desgaste",
+        "publisher": "O Globo",
+        "url": "https://oglobo.globo.com/politica/noticia/2026/07/07/flavio-diz-antes-de-audiencia-nos-eua-que-tarifaco-de-trump-e-ruim-para-o-brasil-e-os-americanos-e-tenta-reverter-desgaste.ghtml",
+        "publishedAt": "2026-07-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Audiência pública do USTR em Washington (07/07/2026) e manifestação de 86 páginas entregue por Flávio: crítica às tarifas, defesa do Pix como infraestrutura pública, proposta de adiamento das tarifas e a frase 'o Brasil busca maneiras de se libertar das amarras do Mercosul'; o Itamaraty enviou observadora e classifica a audiência como espaço não formal de negociação."
+      },
+      {
+        "id": "src-flavio-bolsonaro-23",
+        "title": "Plano de Flávio ignora Mercosul e quer reaproximar Israel",
+        "publisher": "SBT News",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/plano-de-flavio-ignora-mercosul-e-quer-reaproximar-israel",
+        "publishedAt": "2026-08-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Análise do plano tornado público em 13/08/2026: prioridade à adesão à OCDE, 'fim gradual' do IOF sobre câmbio, reaproximação com EUA, Argentina e Israel, ausência de menção ao Mercosul e apenas duas menções à China."
+      },
+      {
+        "id": "src-flavio-bolsonaro-24",
+        "title": "Flávio Bolsonaro atribui responsabilidade pelo tarifaço dos EUA à 'incompetência' do governo Lula",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-atribui-responsabilidade-pelo-tarifaco-dos-eua-a-incompetencia-do-governo-lula/",
+        "publishedAt": "2026-08-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Entrevista ao Canal Livre (Band): responsabilização de Lula pelas tarifas, a frase de que o Brasil 'lambe botas da China', rejeição da tese de influência de Eduardo Bolsonaro e referência a isolamento do Brasil também com Argentina e Paraguai."
+      },
+      {
+        "id": "src-flavio-bolsonaro-25",
+        "title": "O programa de Flávio Bolsonaro não menciona BRICS nem Mercosul: o que o candidato do PL propõe para o Brasil no mundo",
+        "publisher": "ND Mais",
+        "url": "https://ndmais.com.br/mundo/o-programa-de-flavio-bolsonaro-nao-menciona-brics-nem-mercosul-o-que-o-candidato-do-pl-propoe-para-o-brasil-no-mundo/",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Série 'política externa' (29/09/2026): distingue o programa registrado no TSE do discurso de campanha; registra a frase 'libertar o Brasil das amarras do Mercosul', a declaração de comício em Natal (21/09/2026) sobre relação 'sempre pragmática economicamente' com a China e a ausência de posição sobre BRICS e Mercosul no programa."
+      },
+      {
+        "id": "src-flavio-bolsonaro-26",
+        "title": "Senator Flavio Bolsonaro vows to respect Brazil election outcome",
+        "publisher": "Reuters",
+        "url": "https://www.reuters.com/world/americas/senator-flavio-bolsonaro-vows-respect-brazil-election-outcome-2026-08-29/",
+        "publishedAt": "2026-08-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Entrevista ao Jornal Nacional (28/08/2026): compromisso de respeitar o resultado da eleição e distanciamento da decisão de julho do governo dos EUA de impor tarifas; cobertura de agência estrangeira. Conteúdo obtido por busca (página não acessível por curl)."
+      },
+      {
+        "id": "src-flavio-bolsonaro-27",
+        "title": "Senador Flávio Bolsonaro — participação em comissões (perfil oficial)",
+        "publisher": "Senado Federal",
+        "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894/comissoes/3",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Fonte oficial: suplente na Comissão de Relações Exteriores e Defesa Nacional de 14/02/2019 a 12/07/2019; presidência da Comissão de Segurança Pública a partir de 2025; suplente na CCJ e na CDH (2025-2026)."
+      }
+    ],
+    "evidenceStatus": "parcial",
+    "confidenceLevel": "high",
+    "methodology": "Base: plano de diretrizes registrado (ago/2026, seção de política externa de duas páginas), documentos entregues ao USTR, cobertura de 2026 (G1, DW, Folha, O Globo, Estadão, SBT News, CNN Brasil, Valor, Congresso em Foco, ND Mais, Público, Reuters) e perfil oficial do Senado. Separação explícita entre POSIÇÃO declarada, PROPOSTA de programa e ATO praticado. Pontos controversos registrados sem juízo: a duração e a formalidade do encontro com Trump divergem entre fontes (comitiva relatou passagem breve; o senador afirmou 1h40; a Casa Branca não se manifestou). A campanha não respondeu às perguntas da Folha (12/09/2026), o que reduz a base de posições detalhadas por tema; o programa é omisso em BRICS e Mercosul, e as posições sobre esses blocos vêm de declarações e documentos, não do programa. Não há posição documentada sobre a guerra na Ucrânia."
   }
 }

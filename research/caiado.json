@@ -2647,6 +2647,246 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Declaração de campanha sobre estrutura ministerial de segurança pública, citada por Metrópoles; evidência de prioridade declarada, não de ato praticado."
+    },
+    {
+      "id": "src-caiado-100",
+      "title": "Governador de Goiás decreta calamidade financeira no estado",
+      "publisher": "g1 (Globo) — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2019/01/21/governador-de-goias-decreta-calamidade-financeira-no-estado.ghtml",
+      "publishedAt": "2019-01-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Decreto de calamidade de 21/01/2019; dívida de R$ 3,4 bi em 2019 segundo a reportagem; necessidade de aval da Assembleia."
+    },
+    {
+      "id": "src-caiado-101",
+      "title": "Governo de Goiás decreta estado de calamidade financeira",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/economia/governo-de-goias-decreta-estado-de-calamidade-financeira-23389859",
+      "publishedAt": "2019-01-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Dívida financeira de R$ 18,9 bilhões apontada pelo Tesouro Nacional e rombo previsto de R$ 6 bilhões."
+    },
+    {
+      "id": "src-caiado-102",
+      "title": "'Situação gravíssima', diz Caiado em entrevista sobre contas do Estado",
+      "publisher": "Dia Online (Rádio Sagres)",
+      "url": "https://diaonline.ig.com.br/2019/01/18/situacao-gravissima-diz-caiado-em-entrevista-sobre-contas-do-estado/",
+      "publishedAt": "2019-01-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Escalonamento do pagamento da folha de dezembro/2018 em seis meses (mar a ago/2019) e 82,98% da receita comprometida com pessoal."
+    },
+    {
+      "id": "src-caiado-103",
+      "title": "Caiado rompe com Bolsonaro após presidente defender fim do isolamento pelo coronavírus",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/decisoes-de-bolsonaro-na-area-da-saude-nao-alcancarao-o-estado-de-goias-diz-caiado/",
+      "publishedAt": "2020-03-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração de 25/03/2020 de que as decisões do presidente não alcançariam Goiás e registro das restrições adotadas."
+    },
+    {
+      "id": "src-caiado-104",
+      "title": "Em coletiva, Caiado assegura continuidade de ações contra o coronavírus",
+      "publisher": "Governo de Goiás",
+      "url": "https://goias.gov.br/cultura/em-coletiva-caiado-assegura-continuidade-de-acoes-contra-o-coronavirus/",
+      "publishedAt": "2020-03-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Fonte estadual confirmando a manutenção do decreto estadual."
+    },
+    {
+      "id": "src-caiado-105",
+      "title": "Caiado rompe com Bolsonaro após pronunciamento: 'Ignorância não é virtude'",
+      "publisher": "Veja",
+      "url": "https://veja.abril.com.br/politica/caiado-rompe-com-bolsonaro-apos-pronunciamento-ignorancia-nao-e-virtude/",
+      "publishedAt": "2020-03-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura do rompimento público com o aliado de 2018."
+    },
+    {
+      "id": "src-caiado-106",
+      "title": "Caiado confirma retorno de atividades não essenciais após 14 dias de fechamento mesmo com ocupação de leitos em 90%",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/go/goias/noticia/2021/03/26/caiado-confirma-retorno-de-atividades-nao-essenciais-apos-14-dias-de-fechamento-mesmo-com-ocupacao-de-leitos-em-90percent.ghtml",
+      "publishedAt": "2021-03-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Confirmação da reabertura em 31/03/2021 com 90% dos leitos ocupados e justificativa do governador."
+    },
+    {
+      "id": "src-caiado-107",
+      "title": "Caiado proíbe cidades de Goiás de flexibilizarem medidas restritivas e impõe revezamento do comércio no Estado",
+      "publisher": "Gazeta Brasil",
+      "url": "https://gazetabrasil.com.br/politica/2021/03/16/caiado-proibe-cidades-de-goias-de-flexibilizarem-medidas-restritivas-e-impoe-revezamento-do-comercio-no-estado/",
+      "publishedAt": "2021-03-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Decreto de 16/03/2021: revezamento de 14 dias de fechamento e 14 de reabertura; 235 de 246 municípios em calamidade."
+    },
+    {
+      "id": "src-caiado-108",
+      "title": "Com rombo de R$ 6 bilhões este ano, Goiás pede socorro ao governo federal",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/economia/com-rombo-de-r-6-bilhoes-este-ano-goias-pede-socorro-ao-governo-federal/",
+      "publishedAt": "2019-01-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Missão do Tesouro Nacional no estado para avaliar critérios de adesão ao Regime de Recuperação Fiscal e contrapartidas exigidas."
+    },
+    {
+      "id": "src-caiado-114",
+      "title": "Caiado diz que pagará 80% dos salários de janeiro até dia 25 e pede 'prazo' para quitar folha de dezembro",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/go/goias/noticia/2019/01/08/caiado-diz-que-pagara-80-dos-salarios-de-janeiro-ate-dia-25-e-pede-prazo-para-quitar-folha-de-dezembro.ghtml",
+      "publishedAt": "2019-01-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Negociação com o Tesouro Nacional para antecipar a missão de avaliação fiscal (do dia 21 para o dia 14 de janeiro de 2019)."
+    },
+    {
+      "id": "src-caiado-109",
+      "title": "Adesão ao isolamento social cai em 22 dos 27 estados antes de governadores afrouxarem quarentena",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/adesao-ao-isolamento-social-cai-em-22-dos-27-estados-antes-de-governadores-afrouxarem-quarentena-24395796",
+      "publishedAt": "2020-04-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Decreto de reabertura parcial em Goiás com protocolo baseado no Centro de Operações de Emergências e repasse da decisão sobre flexibilização aos municípios."
+    },
+    {
+      "id": "src-caiado-110",
+      "title": "Medidas restritivas não são 'contra o comércio' mas para dar condição ao paciente lutar pela vida, alerta Caiado",
+      "publisher": "Diário de Goiás",
+      "url": "https://diariodegoias.com.br/medidas-restritivas-nao-sao-contra-o-comercio-mas-para-dar-condicao-ao-paciente-lutar-pela-vida-alerta-caiado/182434/",
+      "publishedAt": "2021-03-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Repasse emergencial de R$ 28 milhões para ações socioassistenciais em 237 municípios e mais de três mil leitos de UTI e enfermarias em 21 municípios."
+    },
+    {
+      "id": "src-caiado-111",
+      "title": "Consórcio Brasil Central tem novo presidente (transmissão da presidência a Eduardo Riedel)",
+      "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+      "url": "https://agencia.go.gov.br/caiado-repassa-presidencia-do-consorcio-brasil-central-a-eduardo-riedel/",
+      "publishedAt": "2026-01-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Balanço dos dois anos de presidência: compras compartilhadas com economia estimada em R$ 36 milhões; sete unidades federativas e cerca de 26 milhões de habitantes."
+    },
+    {
+      "id": "src-caiado-112",
+      "title": "Caiado é eleito novo presidente do Consórcio Brasil Central",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/brasil/caiado-e-eleito-novo-presidente-do-consorcio-do-brasil-central/",
+      "publishedAt": "2024-01-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Eleição em assembleia de governadores (23/01/2024) e assinatura, no mesmo dia, do termo de adesão ao programa federal Brasil Sem Fome com o ministro Wellington Dias."
+    },
+    {
+      "id": "src-caiado-113",
+      "title": "PNUD firma acordo com Consórcio Brasil Central para disseminação da Agenda 2030",
+      "publisher": "PNUD Brasil",
+      "url": "https://www.undp.org/pt/brazil/news/pnud-firma-acordo-com-consorcio-brasil-central-para-disseminacao-da-agenda-2030",
+      "publishedAt": "2024-06-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Assembleia do consórcio sob a presidência de Caiado e acordo de cooperação técnica com o PNUD."
+    },
+    {
+      "id": "src-mundo-01",
+      "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+      "publisher": "G1 / GloboNews (Filipe Matoso)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+    },
+    {
+      "id": "src-mundo-02",
+      "title": "O que Lula e Flávio prometem para a política externa",
+      "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+      "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, BRICS, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado para a afirmação de que Ucrânia e Oriente Médio estão ausentes dos programas."
+    },
+    {
+      "id": "src-mundo-03",
+      "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+      "publisher": "Folha de S.Paulo — Patrícia Campos Mello",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento por tema (BRICS/China, Mercosul, operações dos EUA, OCDE, minerais críticos, Israel/Gaza, EUA) com respostas das campanhas; parte das posições de Caiado e Zema é atribuída aos coordenadores de programa (Roberto Brant e Christian Lohbauer). A campanha de Flávio Bolsonaro não respondeu."
+    },
+    {
+      "id": "src-mundo-04",
+      "title": "(Des)alinhamento e política externa: disputa eleitoral no Brasil em uma ordem internacional em transformação (Cadernos Adenauer, cap. 8)",
+      "publisher": "Fundação Konrad-Adenauer (KAS) — Cadernos Adenauer",
+      "url": "https://www.kas.de/documents/d/brasilien/cadernos-adenauer1_2026_web-capitulo-8",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Capítulo acadêmico de fundação política alemã; usado como apoio para (a) o enquadramento de 'não alinhamento ativo' da política externa do terceiro governo Lula e (b) a menção ao acordo Goiás-EUA de minerais críticos (março de 2026) como cooperação subnacional. Data exata de publicação não legível no PDF."
+    },
+    {
+      "id": "src-caiado-84",
+      "title": "Parceria com EUA projeta Goiás no cenário global dos minerais críticos",
+      "publisher": "Agência Goiás de Notícias (governo estadual)",
+      "url": "https://agencia.go.gov.br/parceria-com-eua-projeta-goias-no-cenario-global-dos-minerais-criticos/",
+      "publishedAt": "2026-03-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Fonte do próprio governo de Goiás sobre o MOU assinado por Caiado com os EUA em 18/03/2026 (cinco eixos, base na Lei estadual 23.597/2025) e sobre o Fórum EUA-Brasil sobre Minerais Críticos; inclui declarações do governador e do secretário Adriano da Rocha Lima."
+    },
+    {
+      "id": "src-caiado-85",
+      "title": "Acordo entre Goiás e EUA prevê exclusividade e sigilo no fornecimento de dados de minerais críticos",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/acordo-entre-goias-e-eua-preve-exclusividade-e-sigilo-no-fornecimento-de-dados-de-minerais-criticos.shtml",
+      "publishedAt": "2026-03-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Acesso ao texto do MOU (11 seções): confidencialidade por cinco anos de dados geológicos, possibilidade de exclusividade a entidades designadas pelos EUA e apoio a políticas regulatórias; juristas ouvidos consideram o acordo inconstitucional por tratar de competência da União; o governo de Goiás sustenta respaldo constitucional estadual. Notícia registra também que o servidor federal recebeu o assunto com perplexidade."
+    },
+    {
+      "id": "src-caiado-86",
+      "title": "Goiás defende acordo com EUA para exploração de minerais críticos",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/goias-defende-acordo-com-eua-para-exploracao-de-minerais-criticos",
+      "publishedAt": "2026-04-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Resposta do governo estadual às críticas federais, o MOU de Goiás com a estatal japonesa JOGMEC (negociado desde julho de 2025), o financiamento de US$ 565 milhões do DFC à Serra Verde e a crítica de Lula ('É uma vergonha inclusive o que o Caiado fez em Goiás', em 08/04/2026)."
+    },
+    {
+      "id": "src-caiado-87",
+      "title": "Caiado defende negociação com EUA e foco em saúde, segurança e emprego (sabatina GloboNews)",
+      "publisher": "BP Money",
+      "url": "https://bpmoney.com.br/politica/caiado-defende-negociacao-com-eua-e-foco-em-saude-seguranca-e-emprego",
+      "publishedAt": "2026-08-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina de 07/08/2026: 'Eu não quero bravata', intenção de mudar a condução do Itamaraty, recuperação da capacidade de negociação internacional, crítica à condução 'ideológica' da política externa e à falta de mapeamento do subsolo."
+    },
+    {
+      "id": "src-caiado-88",
+      "title": "Dizer que quero entregar terras raras aos EUA é burrice e mau-caratismo, diz Caiado",
+      "publisher": "O Povo / Agência Estado",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/08/12/dizer-que-quero-entregar-terras-raras-aos-eua-e-burrice-e-mau-caratismo-diz-caiado.html",
+      "publishedAt": "2026-08-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Resposta de Caiado às críticas de Lula sobre o acordo de Goiás; ele nega transferência das reservas e define o objetivo como atrair tecnologia para processar minerais no país (baterias, semicondutores, turbinas)."
     }
   ],
   "dataGaps": [
@@ -2662,7 +2902,25 @@
     "Lula: o espelho do programa no Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR; a leitura foi feita pela versão publicada pelo PT com o mesmo título e índice de 13 eixos.",
     "Caiado: a URL do arquivo do plano no DivulgaCandContas não foi localizada nesta coleta; a base é o PDF publicado pela campanha e o espelho do Poder360.",
     "Zema: a URL do arquivo do plano no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal); o plano não apresenta custo nem prazo para a maior parte das propostas.",
-    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta."
+    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta.",
+    "Lula: a decisão de manutenção da meta de déficit zero para 2024 (ev-cap-tomada-decisao-lula-02) se apoia em reportagens de nov/2023 e fev/2024; não foram consultados nesta rodada o projeto de LDO 2024 nem atos do Executivo sobre a meta.",
+    "Lula: o impacto fiscal das medidas anticíclicas de 2008-2009 (ev-cap-gestao-crises-lula-04) usa o Relatório Anual do Banco Central de 2008 e reportagem de 2018 que cita estudo do período; a composição exata da renúncia fiscal por tributo não foi conferida em fonte primária.",
+    "Lula: os dados de investimento federal na COP30 (ev-cap-coordenacao-institucional-lula-04) constam de páginas oficiais de comunicação; não foi localizado documento orçamentário com o detalhamento por obra.",
+    "Flávio Bolsonaro: não foram levantadas, nesta rodada, as votações nominais do Senado de 2019-2026 para além da reforma da Previdência de 2019, o que limita a capacidade tomada-decisao às três decisões registradas.",
+    "Flávio Bolsonaro: a evidência sobre a assunção da candidatura presidencial (ev-cap-tomada-decisao-flavio-02 e ev-cap-gestao-crises-flavio-02) se apoia em reportagens sobre a escolha de Jair Bolsonaro; não foram consultados documento partidário, ata de convenção ou peça de registro no TSE.",
+    "Flávio Bolsonaro: a titularidade dos grupos parlamentares bilaterais (ev-cap-coordenacao-institucional-flavio-03) é registro de composição no perfil oficial do Senado, sem produto ou agenda localizados; evidenceStatus parcial e confidenceLevel low.",
+    "Caiado: a evidência sobre a negociação com o Tesouro Nacional (ev-cap-coordenacao-institucional-caiado-02) registra a missão de avaliação de janeiro de 2019; não foram localizados termos, ofícios ou decisões formais da adesão ao Regime de Recuperação Fiscal naquele exercício — o estado migrou de regime apenas anos depois (ver execucao).",
+    "Caiado: o número de municípios em calamidade em março de 2021 (235 de 246) provém de reportagem; não foi conferido em boletim oficial da Secretaria de Saúde de Goiás.",
+    "Zema: a crítica de setores do próprio partido às medidas de isolamento (ev-cap-tomada-decisao-zema-02) está em registro enciclopédico e em fonte partidária; não foi localizada manifestação oficial do diretório nacional do NOVO.",
+    "Zema: a resposta a Brumadinho (ev-cap-gestao-crises-zema-01) se apoia em nota oficial reproduzida pela imprensa, na página da Secretaria de Estado de Saúde e em compilação de notícias do MME; não foram consultados decretos ou planos de contingência estaduais do período.",
+    "Zema: o reconhecimento federal da emergência nas chuvas de janeiro de 2020 (ev-cap-coordenacao-institucional-zema-03) não foi localizado; a evidência descreve apenas o ato estadual e seus efeitos nos municípios.",
+    "Fonte/URL: um conjunto de fontes indicadas com nota 'URL obtida em resultado de busca' (Valor e Folha sobre a meta fiscal de 2024, relatório do Banco Central de 2008) não pôde ser aberto por requisição direta nesta rodada; recomenda-se conferência antes da publicação final.",
+    "Nenhum dos quatro candidatos registrou posição de campanha de 2026 sobre a guerra na Ucrânia, sanções à Rússia ou a OTAN; o tema está ausente dos planos registrados (DW, 17/09/2026).",
+    "Nenhum dos quatro planos traz metas quantificadas, cronograma ou avaliação de impacto para a política externa; os projetos (Afta, SULPOL, Mercosul como zona de livre comércio, saída do BRICS, revisão do BRICS) aparecem sem desenho de implementação declarado.",
+    "Caiado: o teor integral do MOU com os EUA (18/03/2026) não é público; a descrição usa o comunicado estadual e a apuração da Folha, com a controvérsia jurídica registrada e sem juízo. Não localizei registro de atuação em comissão de relações exteriores no período parlamentar nem entrevista à imprensa estrangeira em 2025-2026.",
+    "Zema: a missão aos EUA divulgada pelo partido Novo (mais de R$ 1,5 bilhão em investimentos) ficou sem data confirmada — página com erro 403 e sem snapshot no Wayback Machine em 29/09/2026 — e não foi usada como evidência. Não localizei entrevista ou artigo do candidato em veículo estrangeiro em 2025-2026.",
+    "Flávio Bolsonaro: a campanha não respondeu à Folha (12/09/2026); a natureza do encontro com Trump (duração e formalidade) divergem entre fontes; o programa não menciona BRICS, Mercosul nem a China como prioridade.",
+    "Lula: as posições por país/tema foram montadas a partir de declarações e atos de 2025-2026, sem documento único; o telefonema com Xi (26/07/2026) é conhecido por relato da agência estatal chinesa reproduzido pelo Estadão e não consta do comunicado brasileiro; em 29/09/2026 não há resultado publicado do grupo de trabalho bilateral sobre comércio proposto em maio de 2026."
   ],
   "updatedAt": "2026-09-29",
   "capacities": [
@@ -3252,6 +3510,375 @@
       "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
       "coverage": "documentada",
       "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "tomada-decisao",
+      "synthesis": "Três decisões com custo documentado: o decreto de calamidade financeira de 21/01/2019, com escalonamento do pagamento da folha de dezembro/2018 de março a agosto e envio da matéria à Assembleia; a manutenção do decreto estadual de isolamento contra a orientação do presidente da República em 25/03/2020, com rompimento do principal aliado nacional; e a confirmação da reabertura do comércio em 31/03/2021 com 90% dos leitos de Covid ocupados, sustentada no argumento de que descumprir o prazo retiraria a credibilidade das medidas seguintes. As três envolvem escolha entre resultados conflitantes (ajuste fiscal e folha em atraso; saúde pública e coalizão; compromisso de prazo e ocupação hospitalar) e têm resultado observável e datado.",
+      "coverageNote": "Três decisões com data e resultado observável (decreto de calamidade de 21/01/2019, manutenção do decreto sanitário em 25/03/2020 e reabertura confirmada em 31/03/2021); todas com fonte de imprensa e, no caso de 2020, também fonte oficial estadual.",
+      "evidences": [
+        {
+          "id": "ev-cap-tomada-decisao-caiado-01",
+          "kind": "historico",
+          "title": "Decreto de calamidade financeira e escalonamento da folha no início do governo (jan/2019)",
+          "role": "Governador de Goiás — autor do decreto de calamidade e responsável pela proposta de parcelamento dos salários",
+          "complexity": "Crise fiscal com dívida financeira de R$ 18,9 bilhões apontada pelo Tesouro, déficit previsto de R$ 6 bilhões e 82,98% da receita comprometidos com a folha; o decreto permite descumprir limites da Lei de Responsabilidade Fiscal, alongar dívidas e suspender gastos não essenciais, dependendo de aval da Assembleia",
+          "outcome": "Decreto assinado em 21/01/2019 e enviado à Assembleia em convocação extraordinária; o pagamento da folha de dezembro/2018 foi escalonado de março a agosto de 2019, dos menores aos maiores salários",
+          "period": "2019",
+          "context": "Estado havia decretado situação de calamidade e convivia com folha atrasada e protestos de servidores no início do mandato.",
+          "sources": [
+            {
+              "id": "src-caiado-100",
+              "title": "Governador de Goiás decreta calamidade financeira no estado",
+              "publisher": "g1 (Globo) — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2019/01/21/governador-de-goias-decreta-calamidade-financeira-no-estado.ghtml",
+              "publishedAt": "2019-01-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Decreto de calamidade de 21/01/2019; dívida de R$ 3,4 bi em 2019 segundo a reportagem; necessidade de aval da Assembleia."
+            },
+            {
+              "id": "src-caiado-101",
+              "title": "Governo de Goiás decreta estado de calamidade financeira",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/economia/governo-de-goias-decreta-estado-de-calamidade-financeira-23389859",
+              "publishedAt": "2019-01-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Dívida financeira de R$ 18,9 bilhões apontada pelo Tesouro Nacional e rombo previsto de R$ 6 bilhões."
+            },
+            {
+              "id": "src-caiado-102",
+              "title": "'Situação gravíssima', diz Caiado em entrevista sobre contas do Estado",
+              "publisher": "Dia Online (Rádio Sagres)",
+              "url": "https://diaonline.ig.com.br/2019/01/18/situacao-gravissima-diz-caiado-em-entrevista-sobre-contas-do-estado/",
+              "publishedAt": "2019-01-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Escalonamento do pagamento da folha de dezembro/2018 em seis meses (mar a ago/2019) e 82,98% da receita comprometida com pessoal."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-caiado-02",
+          "kind": "historico",
+          "title": "Manutenção do decreto estadual de isolamento contra a orientação do presidente da República (mar/2020)",
+          "role": "Governador de Goiás — decidiu manter as medidas do próprio decreto e declará-las prevalecentes no território estadual",
+          "complexity": "Decisão tomada contra o principal aliado político nacional, que o apoiou em 2018, em disputa federativa sobre competência sanitária e com custo de coalizão",
+          "outcome": "Declaração pública de 25/03/2020 de que 'as decisões do presidente da República não alcançam Goiás', mantendo as regras do decreto com base em orientação da OMS e do corpo técnico do Ministério da Saúde; o rompimento foi registrado pela imprensa e confirmado em fonte do próprio governo estadual",
+          "period": "2020",
+          "context": "Governador médico, era um dos últimos aliados estaduais do presidente no início da pandemia.",
+          "sources": [
+            {
+              "id": "src-caiado-103",
+              "title": "Caiado rompe com Bolsonaro após presidente defender fim do isolamento pelo coronavírus",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/decisoes-de-bolsonaro-na-area-da-saude-nao-alcancarao-o-estado-de-goias-diz-caiado/",
+              "publishedAt": "2020-03-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Declaração de 25/03/2020 de que as decisões do presidente não alcançariam Goiás e registro das restrições adotadas."
+            },
+            {
+              "id": "src-caiado-104",
+              "title": "Em coletiva, Caiado assegura continuidade de ações contra o coronavírus",
+              "publisher": "Governo de Goiás",
+              "url": "https://goias.gov.br/cultura/em-coletiva-caiado-assegura-continuidade-de-acoes-contra-o-coronavirus/",
+              "publishedAt": "2020-03-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Fonte estadual confirmando a manutenção do decreto estadual."
+            },
+            {
+              "id": "src-caiado-105",
+              "title": "Caiado rompe com Bolsonaro após pronunciamento: 'Ignorância não é virtude'",
+              "publisher": "Veja",
+              "url": "https://veja.abril.com.br/politica/caiado-rompe-com-bolsonaro-apos-pronunciamento-ignorancia-nao-e-virtude/",
+              "publishedAt": "2020-03-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Cobertura do rompimento público com o aliado de 2018."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-tomada-decisao-caiado-03",
+          "kind": "historico",
+          "title": "Reabertura do comércio em 31/03/2021 mantendo o prazo do decreto com 90% dos leitos ocupados",
+          "role": "Governador de Goiás — decidiu cumprir o calendário de reabertura fixado em decreto estadual",
+          "complexity": "Decisão de trade-off explícito entre o compromisso de prazo e a ocupação de 90% dos 1.250 leitos públicos e privados de Covid do estado, em período de filas por UTI e mais de 10 mil mortes acumuladas",
+          "outcome": "Governador confirmou o retorno das atividades não essenciais a partir de 31/03/2021, argumentando que descumprir o prazo retiraria a credibilidade das medidas seguintes (g1, 26/03/2021); o decreto de 16/03/2021 havia fixado revezamento de 14 dias de fechamento e 14 de reabertura e proibido flexibilização em municípios em calamidade",
+          "period": "2021",
+          "context": "Região Metropolitana de Goiânia havia entrado em colapso de leitos em 10/03/2021, com ocupação total das vagas contratadas.",
+          "sources": [
+            {
+              "id": "src-caiado-106",
+              "title": "Caiado confirma retorno de atividades não essenciais após 14 dias de fechamento mesmo com ocupação de leitos em 90%",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/go/goias/noticia/2021/03/26/caiado-confirma-retorno-de-atividades-nao-essenciais-apos-14-dias-de-fechamento-mesmo-com-ocupacao-de-leitos-em-90percent.ghtml",
+              "publishedAt": "2021-03-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Confirmação da reabertura em 31/03/2021 com 90% dos leitos ocupados e justificativa do governador."
+            },
+            {
+              "id": "src-caiado-107",
+              "title": "Caiado proíbe cidades de Goiás de flexibilizarem medidas restritivas e impõe revezamento do comércio no Estado",
+              "publisher": "Gazeta Brasil",
+              "url": "https://gazetabrasil.com.br/politica/2021/03/16/caiado-proibe-cidades-de-goias-de-flexibilizarem-medidas-restritivas-e-impoe-revezamento-do-comercio-no-estado/",
+              "publishedAt": "2021-03-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Decreto de 16/03/2021: revezamento de 14 dias de fechamento e 14 de reabertura; 235 de 246 municípios em calamidade."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Tomada de decisão",
+      "question": "Como enfrentou decisões difíceis, trade-offs e pressão?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "gestao-crises",
+      "synthesis": "A gestão de crises concentra-se em duas frentes: a crise fiscal de 2019, com dívida de R$ 18,9 bilhões, déficit previsto de R$ 6 bilhões e 82,98% da receita comprometida com a folha, enfrentada com reforma administrativa (redução de 20% da máquina e economia estimada em R$ 422 milhões em quatro anos), negociação com o Tesouro Nacional e pagamento escalonado de atrasados; e a pandemia, em dois momentos — 2020, com decretos próprios, fechamento de escolas e reabertura parcial por protocolo do Centro de Operações de Emergências, e 2021, com 235 de 246 municípios em calamidade, uniformização das restrições, repasse emergencial de R$ 28 milhões a 237 municípios e ampliação da rede de leitos. Os números de dívida, folha e leitos aparecem como contexto da decisão, não como entrega.",
+      "coverageNote": "Crise fiscal e pandemia em dois momentos, com medidas, valores e repasses registrados em fontes oficiais estaduais e de imprensa; o enquadramento no RRF não se concluiu em 2019 e a adesão posterior a outro regime aparece em execucao.",
+      "evidences": [
+        {
+          "id": "ev-cap-gestao-crises-caiado-01",
+          "kind": "historico",
+          "title": "Enfrentamento da crise fiscal de 2019: corte de 20% da máquina, negociação com o Tesouro e recomposição da folha",
+          "role": "Governador de Goiás — autor das medidas de ajuste e responsável pela execução do plano de pagamento dos atrasados",
+          "complexity": "Estado em calamidade financeira reconhecida, com folha atrasada, dívida de R$ 18,9 bilhões e 82,98% da receita comprometida com pessoal; o plano combinou reforma administrativa, revisão de contratos e negociação com a União",
+          "outcome": "Reforma administrativa com redução de 20% da máquina e economia estimada em R$ 422 milhões em quatro anos; missão do Tesouro Nacional recebida em 14/01/2019 para avaliar a adesão ao Regime de Recuperação Fiscal, antecipada a pedido do governo estadual; salários de dezembro/2018 quitados de forma escalonada ao longo de 2019",
+          "period": "2019–2020",
+          "context": "Adesão ao RRF não se completou em 2019; o estado seguiu em ajuste próprio até a migração posterior para outro regime de pagamento da dívida.",
+          "sources": [
+            {
+              "id": "src-caiado-108",
+              "title": "Com rombo de R$ 6 bilhões este ano, Goiás pede socorro ao governo federal",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/economia/com-rombo-de-r-6-bilhoes-este-ano-goias-pede-socorro-ao-governo-federal/",
+              "publishedAt": "2019-01-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Missão do Tesouro Nacional no estado para avaliar critérios de adesão ao Regime de Recuperação Fiscal e contrapartidas exigidas."
+            },
+            {
+              "id": "src-caiado-114",
+              "title": "Caiado diz que pagará 80% dos salários de janeiro até dia 25 e pede 'prazo' para quitar folha de dezembro",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/go/goias/noticia/2019/01/08/caiado-diz-que-pagara-80-dos-salarios-de-janeiro-ate-dia-25-e-pede-prazo-para-quitar-folha-de-dezembro.ghtml",
+              "publishedAt": "2019-01-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Negociação com o Tesouro Nacional para antecipar a missão de avaliação fiscal (do dia 21 para o dia 14 de janeiro de 2019)."
+            },
+            {
+              "id": "src-caiado-70",
+              "title": "Caiado sanciona reforma administrativa com redução de 20% da máquina e economia de R$ 422 milhões (decreto 9.455/2019)",
+              "publisher": "Secretaria da Administração — Governo de Goiás",
+              "url": "https://goias.gov.br/administracao/caiado-sanciona-reforma-administrativa-com-reducao-de-20-da-maquina-e-economia-de-r-422-milhoes/",
+              "publishedAt": "2019",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Secretário da Administração apresentou o impacto à imprensa ao lado do governador; decreto publicado no Diário Oficial."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-gestao-crises-caiado-02",
+          "kind": "historico",
+          "title": "Resposta sanitária da pandemia em 2020: decretos próprios, fechamento de escolas e reabertura com protocolo",
+          "role": "Governador de Goiás — autor dos decretos de restrição e responsável pela política sanitária estadual",
+          "complexity": "Pandemia em estado com 7,2 milhões de habitantes, com decisões de restrição de circulação e fechamento de escolas em conflito com o governo federal e pressão de setores econômicos",
+          "outcome": "Decretos mantidos após o pronunciamento presidencial de 24/03/2020; em abril de 2020 o estado publicou decreto de abertura parcial com protocolo baseado nas recomendações do Centro de Operações de Emergências, transferindo aos municípios a decisão sobre flexibilização",
+          "period": "2020",
+          "context": "Medidas adotadas sob orientação técnica própria e com a justificativa de que o estado responderia por seus 7,2 milhões de habitantes.",
+          "sources": [
+            {
+              "id": "src-caiado-104",
+              "title": "Em coletiva, Caiado assegura continuidade de ações contra o coronavírus",
+              "publisher": "Governo de Goiás",
+              "url": "https://goias.gov.br/cultura/em-coletiva-caiado-assegura-continuidade-de-acoes-contra-o-coronavirus/",
+              "publishedAt": "2020-03-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Fonte estadual confirmando a manutenção do decreto estadual."
+            },
+            {
+              "id": "src-caiado-109",
+              "title": "Adesão ao isolamento social cai em 22 dos 27 estados antes de governadores afrouxarem quarentena",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/adesao-ao-isolamento-social-cai-em-22-dos-27-estados-antes-de-governadores-afrouxarem-quarentena-24395796",
+              "publishedAt": "2020-04-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Decreto de reabertura parcial em Goiás com protocolo baseado no Centro de Operações de Emergências e repasse da decisão sobre flexibilização aos municípios."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-gestao-crises-caiado-03",
+          "kind": "historico",
+          "title": "Colapso hospitalar de março de 2021: uniformização das restrições, repasse emergencial e ampliação da rede",
+          "role": "Governador de Goiás — autor do decreto de uniformização das medidas e coordenador dos repasses emergenciais aos municípios",
+          "complexity": "Estado com 235 de 246 municípios em calamidade, filas por UTI e ocupação acima de 90%; a resposta combinou restrição uniforme, repasse financeiro a municípios e ampliação da rede assistencial (mais de três mil leitos de UTI e enfermarias em 21 municípios)",
+          "outcome": "Decreto de 16/03/2021 uniformizou as restrições e proibiu flexibilização em municípios em calamidade; em 19/03/2021 o governo anunciou repasse emergencial de R$ 28 milhões para ações socioassistenciais em 237 municípios, com pedido de rigor aos prefeitos e reforço da estrutura de leitos",
+          "period": "2021",
+          "context": "Segunda onda da pandemia, com colapso da rede municipal de Goiânia em 10/03/2021 e pressão de manifestantes por flexibilização.",
+          "sources": [
+            {
+              "id": "src-caiado-107",
+              "title": "Caiado proíbe cidades de Goiás de flexibilizarem medidas restritivas e impõe revezamento do comércio no Estado",
+              "publisher": "Gazeta Brasil",
+              "url": "https://gazetabrasil.com.br/politica/2021/03/16/caiado-proibe-cidades-de-goias-de-flexibilizarem-medidas-restritivas-e-impoe-revezamento-do-comercio-no-estado/",
+              "publishedAt": "2021-03-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Decreto de 16/03/2021: revezamento de 14 dias de fechamento e 14 de reabertura; 235 de 246 municípios em calamidade."
+            },
+            {
+              "id": "src-caiado-110",
+              "title": "Medidas restritivas não são 'contra o comércio' mas para dar condição ao paciente lutar pela vida, alerta Caiado",
+              "publisher": "Diário de Goiás",
+              "url": "https://diariodegoias.com.br/medidas-restritivas-nao-sao-contra-o-comercio-mas-para-dar-condicao-ao-paciente-lutar-pela-vida-alerta-caiado/182434/",
+              "publishedAt": "2021-03-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Repasse emergencial de R$ 28 milhões para ações socioassistenciais em 237 municípios e mais de três mil leitos de UTI e enfermarias em 21 municípios."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Gestão de crises e mudança",
+      "question": "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "coordenacao-institucional",
+      "synthesis": "A articulação com outros entes aparece em três atos: a presidência do Consórcio Interestadual de Desenvolvimento do Brasil Central (eleito em 23/01/2024, presidência transferida a Eduardo Riedel em 21/01/2026, com balanço de R$ 36 milhões de economia em compras compartilhadas entre sete unidades federativas e acordo de cooperação com o PNUD); a negociação com o Tesouro Nacional em janeiro de 2019, com missão antecipada ao estado para avaliar a adesão ao Regime de Recuperação Fiscal; e a adesão coletiva de estados ao programa federal Brasil Sem Fome em 23/01/2024, no Fórum de Governadores. O resultado é verificável em atos conjuntos com outros governos; a interação com os municípios goianos na pandemia está tratada em gestao-crises.",
+      "coverageNote": "Três atos com outros entes ou com a União: presidência do consórcio interestadual com balanço de gestão, missão do Tesouro Nacional em janeiro de 2019 e adesão coletiva ao programa federal Brasil Sem Fome em 23/01/2024.",
+      "evidences": [
+        {
+          "id": "ev-cap-coordenacao-institucional-caiado-01",
+          "kind": "historico",
+          "title": "Presidência do Consórcio Interestadual de Desenvolvimento do Brasil Central (2024-2026)",
+          "role": "Governador de Goiás — eleito presidente do consórcio em assembleia de governadores e responsável pela agenda do colegiado",
+          "complexity": "Articulação entre sete unidades federativas (Goiás, Distrito Federal, Maranhão, Mato Grosso, Mato Grosso do Sul, Rondônia e Tocantins, cerca de 26 milhões de habitantes) em compras compartilhadas, saúde, segurança e infraestrutura, com presidência rotativa anual e cooperação técnica internacional",
+          "outcome": "Eleito em 23/01/2024 e presidência transferida a Eduardo Riedel (MS) em 21/01/2026, com balanço de economia estimada em R$ 36 milhões em compras compartilhadas no período; sob sua presidência o consórcio firmou acordo com o PNUD para disseminação da Agenda 2030",
+          "period": "2024–2026",
+          "context": "Consórcio interestadual criado em 2015 para cooperação entre estados do Centro-Oeste, Norte e Nordeste.",
+          "sources": [
+            {
+              "id": "src-caiado-111",
+              "title": "Consórcio Brasil Central tem novo presidente (transmissão da presidência a Eduardo Riedel)",
+              "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+              "url": "https://agencia.go.gov.br/caiado-repassa-presidencia-do-consorcio-brasil-central-a-eduardo-riedel/",
+              "publishedAt": "2026-01-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Balanço dos dois anos de presidência: compras compartilhadas com economia estimada em R$ 36 milhões; sete unidades federativas e cerca de 26 milhões de habitantes."
+            },
+            {
+              "id": "src-caiado-112",
+              "title": "Caiado é eleito novo presidente do Consórcio Brasil Central",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/brasil/caiado-e-eleito-novo-presidente-do-consorcio-do-brasil-central/",
+              "publishedAt": "2024-01-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Eleição em assembleia de governadores (23/01/2024) e assinatura, no mesmo dia, do termo de adesão ao programa federal Brasil Sem Fome com o ministro Wellington Dias."
+            },
+            {
+              "id": "src-caiado-113",
+              "title": "PNUD firma acordo com Consórcio Brasil Central para disseminação da Agenda 2030",
+              "publisher": "PNUD Brasil",
+              "url": "https://www.undp.org/pt/brazil/news/pnud-firma-acordo-com-consorcio-brasil-central-para-disseminacao-da-agenda-2030",
+              "publishedAt": "2024-06-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Assembleia do consórcio sob a presidência de Caiado e acordo de cooperação técnica com o PNUD."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-caiado-02",
+          "kind": "historico",
+          "title": "Negociação federativa com o Tesouro Nacional pela recuperação fiscal do estado (jan/2019)",
+          "role": "Governador de Goiás — conduziu com o Tesouro Nacional a avaliação do enquadramento do estado no Regime de Recuperação Fiscal",
+          "complexity": "Relação com a União em torno de R$ 18,9 bilhões de dívida e de três critérios de dificuldade financeira, com contrapartidas exigidas (teto de gastos, previdência de servidores e privatizações)",
+          "outcome": "Missão do Tesouro Nacional recebida em Goiás em 14/01/2019, com visita antecipada a pedido do governo estadual, para avaliar os critérios de adesão; a negociação da dívida seguiu nos anos seguintes até a mudança de regime de pagamento",
+          "period": "2019",
+          "context": "Estado foi um dos que procuraram o programa federal de socorro no início de 2019, junto de Rio, Rio Grande do Sul e Minas Gerais.",
+          "sources": [
+            {
+              "id": "src-caiado-108",
+              "title": "Com rombo de R$ 6 bilhões este ano, Goiás pede socorro ao governo federal",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/economia/com-rombo-de-r-6-bilhoes-este-ano-goias-pede-socorro-ao-governo-federal/",
+              "publishedAt": "2019-01-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Missão do Tesouro Nacional no estado para avaliar critérios de adesão ao Regime de Recuperação Fiscal e contrapartidas exigidas."
+            },
+            {
+              "id": "src-caiado-114",
+              "title": "Caiado diz que pagará 80% dos salários de janeiro até dia 25 e pede 'prazo' para quitar folha de dezembro",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/go/goias/noticia/2019/01/08/caiado-diz-que-pagara-80-dos-salarios-de-janeiro-ate-dia-25-e-pede-prazo-para-quitar-folha-de-dezembro.ghtml",
+              "publishedAt": "2019-01-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Negociação com o Tesouro Nacional para antecipar a missão de avaliação fiscal (do dia 21 para o dia 14 de janeiro de 2019)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-coordenacao-institucional-caiado-03",
+          "kind": "historico",
+          "title": "Adesão coletiva de estados ao programa federal Brasil Sem Fome no Fórum de Governadores (jan/2024)",
+          "role": "Governador de Goiás e presidente do Consórcio Brasil Central — assinou com os demais governadores o termo de adoção do programa federal",
+          "complexity": "Ato federativo entre sete unidades federativas e o Ministério do Desenvolvimento e Assistência Social, no âmbito do Fórum de Governadores, para adesão a programa nacional de combate à fome",
+          "outcome": "Termo de adoção do programa Brasil Sem Fome assinado em 23/01/2024, em Brasília, na presença do ministro Wellington Dias, no mesmo dia da eleição para a presidência do consórcio",
+          "period": "2024",
+          "context": "Agenda do Fórum de Governadores articulada ao consórcio interestadual.",
+          "sources": [
+            {
+              "id": "src-caiado-112",
+              "title": "Caiado é eleito novo presidente do Consórcio Brasil Central",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/brasil/caiado-e-eleito-novo-presidente-do-consorcio-do-brasil-central/",
+              "publishedAt": "2024-01-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Eleição em assembleia de governadores (23/01/2024) e assinatura, no mesmo dia, do termo de adesão ao programa federal Brasil Sem Fome com o ministro Wellington Dias."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Coordenação institucional",
+      "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
     }
   ],
   "countryProject": {
@@ -3330,5 +3957,127 @@
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
     "methodology": "Lido diretamente da carta de compromisso, do sumário de 26 temas, do bloco de método de governo e da lista de 'Compromissos nacionais para 2030' (p. 7-8) do plano registrado. As 7 prioridades correspondem a itens declarados nesses blocos e a títulos de temas do próprio índice; o plano não apresenta, na maior parte dos itens, custo ou prazo por proposta, e não traz metas quantificadas para horizonte de 10 a 20 anos."
+  },
+  "foreignPolicy": {
+    "worldView": "O plano registrado (ago/2026) propõe agendas sem 'alinhamentos automáticos' e objetivos de 'abrir mercados, atrair investimento produtivo, proteger brasileiros no exterior, fortalecer a integração regional e defender regras multilaterais', com prioridade a Ásia, África e Indo-Pacífico; consolidação do acordo Mercosul-União Europeia; minerais estratégicos, energia limpa e biodiversidade como instrumentos de desenvolvimento; 'infraestrutura pública digital e diplomacia tecnológica' (Pix, gov.br e open finance como instrumentos de cooperação e exportação) e 'liderar coalizões de potências médias' para ampliar acesso a capacidade computacional; e o objetivo declarado de 'reposicionar o Brasil no mundo como parceiro previsível, potência ambiental, alimentar, energética e tecnológica'. Em entrevista da campanha à Folha (12/09/2026), o coordenador do programa, Roberto Brant, afirmou que o BRICS não deve ser usado para 'hostilizar as democracias ocidentais', que os EUA serão tratados 'com respeito, firmeza e profissionalismo' com rejeição a interferências nas eleições e às tarifas ('bravata não é diplomacia, assim como submissão não é negociação') e que a flexibilização do Mercosul é admitida para acordos bilaterais quando a negociação conjunta não for possível. Operações estrangeiras: a campanha apoia a designação de PCC e CV como organizações terroristas e a cooperação internacional, mas rejeita operações dos EUA em território brasileiro; Caiado admite operações de forças sul-americanas e propôs a criação da SULPOL, agência policial sul-americana. Israel: condena os ataques do Hamas e propõe normalizar as relações. Em sabatina (GloboNews, 07/08/2026) disse que não adotará postura de confronto com os EUA ('Eu não quero bravata') e que haveria 'nova orientação' no Itamaraty.",
+    "strategy": "Ampliar mercados e elevar a complexidade tecnológica das exportações; atrair investimento estrangeiro e transferência de tecnologia em minerais críticos (separação de terras raras, metalização, ligas e ímãs de neodímio), com processamento local e sem restrição à participação majoritária estrangeira; retomar e concluir a adesão à OCDE durante o mandato; cooperação policial sul-americana (SULPOL) e cooperação internacional contra o crime organizado, com designação de PCC e CV como terroristas; usar a política externa para atrair investimento, conhecimento e mercado; consolidar o Mercosul-União Europeia; consolidar Alcântara como espaçoporto e estimular satélites, comunicações e indústria de defesa (itens do plano registrado).",
+    "internationalExperience": "Governador de Goiás (2019-2026) — atos de cooperação internacional, e não de negociação de tratados (competência da União): assinou e conduziu memorando de entendimento com o governo dos Estados Unidos sobre minerais críticos (18/03/2026, em São Paulo, com o encarregado de negócios Gabriel Escobar), com cinco eixos (mapeamento geológico, mercado, ambiente regulatório, capacitação e instalação de processamento, incluindo separação de terras raras e ímãs de neodímio) e base na Lei estadual 23.597/2025, que criou autoridade estadual de minerais críticos, Zonas Especiais de Minerais Críticos e fundo estadual; o teor integral não foi divulgado e a Folha apurou cláusulas de confidencialidade e possibilidade de exclusividade de dados geológicos para entidades designadas pelos EUA, com juristas ouvidos pelo jornal questionando a competência estadual e o governo de Goiás sustentando respaldo constitucional (o próprio governo classifica o documento como não vinculante). Negociou memorando semelhante com a estatal japonesa JOGMEC (negociação iniciada em julho de 2025), voltado à separação e ao processamento de terras raras em Goiás. Participou do Fórum EUA-Brasil sobre Minerais Críticos (18/03/2026). Não localizei, nas fontes consultadas, registro de acordo internacional assinado ou negociação comercial conduzida por ele fora desses memorandos, nem atuação em comissão de relações exteriores no período parlamentar.",
+    "projection": "Repercussão externa e acadêmica do memorando Goiás-EUA: citado em capítulo do Cadernos Adenauer 2026 (Fundação Konrad-Adenauer, Alemanha) como exemplo de cooperação subnacional em minerais críticos; o financiamento de US$ 565 milhões do DFC americano à Serra Verde (fev/2026) e a venda da mineradora à norte-americana USA Rare Earth (cerca de US$ 2,8 bilhões, abr/2026) colocaram Goiás no noticiário do setor; reportagens registram que o governo dos EUA não tinha, então, acordo equivalente com o governo federal. Não localizei entrevista ou artigo de Caiado em veículo estrangeiro em 2025-2026, nem recepção por chefe de Estado estrangeiro.",
+    "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+    "sources": [
+      {
+        "id": "src-mundo-01",
+        "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+        "publisher": "G1 / GloboNews (Filipe Matoso)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+        "publishedAt": "2026-08-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+      },
+      {
+        "id": "src-mundo-02",
+        "title": "O que Lula e Flávio prometem para a política externa",
+        "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+        "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+        "publishedAt": "2026-09-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, BRICS, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado para a afirmação de que Ucrânia e Oriente Médio estão ausentes dos programas."
+      },
+      {
+        "id": "src-mundo-03",
+        "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+        "publisher": "Folha de S.Paulo — Patrícia Campos Mello",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+        "publishedAt": "2026-09-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento por tema (BRICS/China, Mercosul, operações dos EUA, OCDE, minerais críticos, Israel/Gaza, EUA) com respostas das campanhas; parte das posições de Caiado e Zema é atribuída aos coordenadores de programa (Roberto Brant e Christian Lohbauer). A campanha de Flávio Bolsonaro não respondeu."
+      },
+      {
+        "id": "src-mundo-04",
+        "title": "(Des)alinhamento e política externa: disputa eleitoral no Brasil em uma ordem internacional em transformação (Cadernos Adenauer, cap. 8)",
+        "publisher": "Fundação Konrad-Adenauer (KAS) — Cadernos Adenauer",
+        "url": "https://www.kas.de/documents/d/brasilien/cadernos-adenauer1_2026_web-capitulo-8",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "editorial",
+        "notes": "Capítulo acadêmico de fundação política alemã; usado como apoio para (a) o enquadramento de 'não alinhamento ativo' da política externa do terceiro governo Lula e (b) a menção ao acordo Goiás-EUA de minerais críticos (março de 2026) como cooperação subnacional. Data exata de publicação não legível no PDF."
+      },
+      {
+        "id": "src-caiado-80",
+        "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF publicado pela campanha)",
+        "publisher": "Poder360",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF de 102 páginas com texto lido diretamente: carta de compromisso, 26 temas, 10 itens de método de governo, 10 'Compromissos nacionais para 2030' e seção de implementação/monitoramento."
+      },
+      {
+        "id": "src-caiado-82",
+        "title": "O que Caiado prevê para a segurança pública",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/de-terrorismo-domestico-a-policia-sul-americana-veja-as-propostas-de-caiado-para-a-seguranca",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Cobertura das propostas de segurança do plano registrado no TSE e do 'terrorismo doméstico' e da proposta de polícia sul-americana (SULPOL)."
+      },
+      {
+        "id": "src-caiado-84",
+        "title": "Parceria com EUA projeta Goiás no cenário global dos minerais críticos",
+        "publisher": "Agência Goiás de Notícias (governo estadual)",
+        "url": "https://agencia.go.gov.br/parceria-com-eua-projeta-goias-no-cenario-global-dos-minerais-criticos/",
+        "publishedAt": "2026-03-18",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Fonte do próprio governo de Goiás sobre o MOU assinado por Caiado com os EUA em 18/03/2026 (cinco eixos, base na Lei estadual 23.597/2025) e sobre o Fórum EUA-Brasil sobre Minerais Críticos; inclui declarações do governador e do secretário Adriano da Rocha Lima."
+      },
+      {
+        "id": "src-caiado-85",
+        "title": "Acordo entre Goiás e EUA prevê exclusividade e sigilo no fornecimento de dados de minerais críticos",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/03/acordo-entre-goias-e-eua-preve-exclusividade-e-sigilo-no-fornecimento-de-dados-de-minerais-criticos.shtml",
+        "publishedAt": "2026-03-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Acesso ao texto do MOU (11 seções): confidencialidade por cinco anos de dados geológicos, possibilidade de exclusividade a entidades designadas pelos EUA e apoio a políticas regulatórias; juristas ouvidos consideram o acordo inconstitucional por tratar de competência da União; o governo de Goiás sustenta respaldo constitucional estadual. Notícia registra também que o servidor federal recebeu o assunto com perplexidade."
+      },
+      {
+        "id": "src-caiado-86",
+        "title": "Goiás defende acordo com EUA para exploração de minerais críticos",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/goias-defende-acordo-com-eua-para-exploracao-de-minerais-criticos",
+        "publishedAt": "2026-04-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Resposta do governo estadual às críticas federais, o MOU de Goiás com a estatal japonesa JOGMEC (negociado desde julho de 2025), o financiamento de US$ 565 milhões do DFC à Serra Verde e a crítica de Lula ('É uma vergonha inclusive o que o Caiado fez em Goiás', em 08/04/2026)."
+      },
+      {
+        "id": "src-caiado-87",
+        "title": "Caiado defende negociação com EUA e foco em saúde, segurança e emprego (sabatina GloboNews)",
+        "publisher": "BP Money",
+        "url": "https://bpmoney.com.br/politica/caiado-defende-negociacao-com-eua-e-foco-em-saude-seguranca-e-emprego",
+        "publishedAt": "2026-08-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Sabatina de 07/08/2026: 'Eu não quero bravata', intenção de mudar a condução do Itamaraty, recuperação da capacidade de negociação internacional, crítica à condução 'ideológica' da política externa e à falta de mapeamento do subsolo."
+      },
+      {
+        "id": "src-caiado-88",
+        "title": "Dizer que quero entregar terras raras aos EUA é burrice e mau-caratismo, diz Caiado",
+        "publisher": "O Povo / Agência Estado",
+        "url": "https://www.opovo.com.br/noticias/politica/2026/08/12/dizer-que-quero-entregar-terras-raras-aos-eua-e-burrice-e-mau-caratismo-diz-caiado.html",
+        "publishedAt": "2026-08-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Resposta de Caiado às críticas de Lula sobre o acordo de Goiás; ele nega transferência das reservas e define o objetivo como atrair tecnologia para processar minerais no país (baterias, semicondutores, turbinas)."
+      }
+    ],
+    "evidenceStatus": "parcial",
+    "confidenceLevel": "medium",
+    "methodology": "Base: plano de governo registrado (PDF, ago/2026), cobertura de 2026 (G1, Folha, Agência Brasil, O Globo, O Povo/Estadão, BP Money) e fonte oficial estadual (Agência Goiás de Notícias). Parte das posições por tema foi apresentada por Roberto Brant, coordenador do programa, em reportagem da Folha (12/09/2026); nesses casos a fala é atribuída ao coordenador. Análise aproximada: o plano não traz capítulo com metas quantificadas de política externa nem lista de países prioritários nominais além dos blocos citados. O teor integral do MOU com os EUA não é público — a descrição usa o comunicado do governo de Goiás e a apuração da Folha, incluindo as contestações jurídicas, sem juízo sobre a validade do acordo. Não localizei posição documentada sobre China além do tratamento dado ao BRICS, nem sobre a guerra na Ucrânia."
   }
 }
