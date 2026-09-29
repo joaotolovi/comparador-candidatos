@@ -15,6 +15,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import type { Candidate } from "@/types";
+import { cn } from "@/lib/utils";
 import { ChevronDown, RotateCcw, X } from "lucide-react";
 import Link from "next/link";
 
@@ -33,15 +34,13 @@ export function ComparisonHeader({
 }) {
   return (
     <div
-      className={
-        compact
-          ? "flex flex-col gap-3 sm:grid sm:items-center sm:gap-4"
-          : "flex flex-col gap-3 sm:grid sm:items-end sm:gap-4"
-      }
-      style={{
-        gridTemplateColumns: `minmax(9rem, 1fr) repeat(${candidates.length}, minmax(0, 2.4fr))`,
-      }}
+      className={cn(
+        "flex flex-col gap-3 sm:cmp-grid",
+        compact ? "sm:items-center" : "sm:items-end",
+      )}
+      style={{ "--cmp-cols": candidates.length } as React.CSSProperties}
     >
+      {/* Coluna de rótulo — mesma largura da linha, para alinhar tudo */}
       <div className="hidden sm:block" aria-hidden />
 
       {candidates.map((c, i) => {
@@ -59,18 +58,18 @@ export function ComparisonHeader({
               <div className="flex items-baseline gap-2">
                 <span
                   aria-hidden
-                  className={`shrink-0 self-center rounded px-1 py-0.5 text-[10px] font-bold uppercase leading-none text-background ${slot.bg}`}
+                  className={`shrink-0 self-center rounded px-1 py-0.5 text-[10px] font-semibold uppercase leading-none text-background ${slot.bg}`}
                 >
                   {(["a", "b", "c"] as const)[i] ?? "a"}
                 </span>
                 <span
-                  className={`tabular shrink-0 text-sm font-bold ${slot.text}`}
+                  className={`tabular shrink-0 text-sm font-semibold ${slot.text}`}
                   aria-label={`Candidato ${c.ballotNumber}`}
                 >
                   {String(c.ballotNumber).padStart(2, "0")}
                 </span>
                 <h3
-                  className={`truncate font-semibold leading-snug ${compact ? "text-sm" : "text-base sm:text-lg"}`}
+                  className={`font-semibold leading-snug ${compact ? "text-sm" : "text-base"}`}
                 >
                   <Link
                     href={`/candidato/${c.slug}`}
@@ -81,22 +80,9 @@ export function ComparisonHeader({
                   </Link>
                 </h3>
               </div>
-              <p className="truncate text-xs text-muted-foreground sm:text-sm">
-                {compact ? (
-                  <>
-                    {c.party} · {c.currentRole}
-                  </>
-                ) : (
-                  <>
-                    {c.party} · {c.age} anos · {c.currentRole}
-                  </>
-                )}
+              <p className="truncate text-xs text-muted-foreground">
+                {c.party} · {c.age} anos · {c.currentRole}
               </p>
-              {!compact ? (
-                <p className="hidden text-xs text-muted-foreground lg:block">
-                  {c.coalition}
-                </p>
-              ) : null}
             </div>
 
             <div
@@ -173,7 +159,7 @@ function SwapMenu({
             onClick={() => onSwap(slotIndex, o.slug)}
             className="gap-2"
           >
-            <span className="tabular text-xs font-bold text-muted-foreground">
+            <span className="tabular text-xs font-semibold text-muted-foreground">
               {String(o.ballotNumber).padStart(2, "0")}
             </span>
             <span className="truncate">{o.name}</span>

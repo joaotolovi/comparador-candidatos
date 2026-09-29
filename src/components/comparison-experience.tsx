@@ -53,11 +53,11 @@ export function ComparisonExperience({
   const candLite = candidates.map((c) => ({ name: c.name, slug: c.slug }));
 
   return (
-    <div className="flex flex-col gap-12">
+    <div className="flex flex-col gap-8">
       {/* Sticky compacto: aparece quando o cabeçalho sai da tela */}
       {stuck ? (
         <div
-          className="sticky top-0 z-40 -mx-4 border-b border-border bg-background/92 px-4 py-2.5 backdrop-blur supports-[backdrop-filter]:bg-background/75 sm:-mx-6 sm:px-6"
+          className="sticky top-0 z-40 -mx-4 border-b border-border bg-background/95 px-4 py-2 backdrop-blur supports-[backdrop-filter]:bg-background/85 sm:-mx-6 sm:px-6"
           aria-label="Cabeçalho fixo da comparação"
         >
           <ComparisonHeader
@@ -97,7 +97,7 @@ export function ComparisonExperience({
       {/* Controles de diferença */}
       <section
         aria-label="Modos de exibição de diferenças"
-        className="flex flex-col gap-3 border-y border-border py-4 sm:flex-row sm:items-center sm:justify-between"
+        className="flex flex-col gap-3 border-y border-border py-3 sm:flex-row sm:items-center sm:justify-end sm:gap-6"
       >
         <div className="flex items-center gap-3">
           <Switch
@@ -130,8 +130,8 @@ export function ComparisonExperience({
             Comparação completa
           </h2>
           <p className="max-w-xl text-sm leading-relaxed text-muted-foreground">
-            Cinco dimensões, mesmos critérios para todos. Abra cada dimensão
-            para ver os indicadores, a metodologia e as fontes de cada número.
+            Cinco dimensões, mesmos critérios para todos, com metodologia e
+            fonte em cada número.
           </p>
         </div>
         <Accordion type="multiple" defaultValue={["capacidade-execucao"]}>

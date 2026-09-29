@@ -76,7 +76,7 @@ export function EvidenceDrawer({
             {/* Valor */}
             <section className="flex flex-col gap-2">
               <h3 className="label-field">Valor registrado</h3>
-              <p className="num-hero stretch-expanded text-3xl">
+              <p className="num-hero">
                 {metric.displayValue}
               </p>
             </section>

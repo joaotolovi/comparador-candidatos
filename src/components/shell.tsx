@@ -10,7 +10,7 @@ export function SiteHeader() {
       <div className="mx-auto flex h-14 w-full max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
         <Link
           href="/"
-          className="stretch-expanded text-base font-bold tracking-tight"
+          className="text-sm font-semibold tracking-tight"
         >
           Comparador<span className="text-muted-foreground font-medium"> · Candidatos 2026</span>
         </Link>

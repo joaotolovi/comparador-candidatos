@@ -51,15 +51,15 @@ export function ComparisonSection({
           "items-start",
         )}
       >
-        <div className="flex flex-1 flex-col gap-1 pr-2">
-          <span className="text-left text-xs font-medium text-muted-foreground">
-            {dim.question}
-          </span>
-          <h3 className="display-2 !text-left !text-xl sm:!text-2xl">
+        <div className="flex flex-1 flex-col gap-0.5 pr-2">
+          <h3 className="text-left text-base font-semibold leading-snug">
             {dim.name}
           </h3>
+          <span className="text-left text-xs leading-snug text-muted-foreground">
+            {dim.question}
+          </span>
         </div>
-        <span className="tabular mt-2 shrink-0 text-xs text-muted-foreground">
+        <span className="tabular mt-1 shrink-0 text-xs text-muted-foreground">
           {visibleRows.length}{" "}
           {visibleRows.length === 1 ? "indicador" : "indicadores"}
         </span>

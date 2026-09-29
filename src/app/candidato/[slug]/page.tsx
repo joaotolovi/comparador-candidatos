@@ -108,7 +108,7 @@ export default async function CandidatePage({ params }: Props) {
           <div className="grid grid-cols-2 gap-px overflow-hidden rounded-md border border-border bg-border sm:grid-cols-4">
             {candidate.metrics.slice(0, 8).map((m) => (
               <div key={m.id} className="flex flex-col gap-1 bg-card p-5">
-                <span className="num-hero stretch-expanded text-3xl">
+                <span className="num-hero">
                   {m.displayValue}
                 </span>
                 <span className="label-field leading-snug">{m.name}</span>
