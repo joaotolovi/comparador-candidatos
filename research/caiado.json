@@ -1586,7 +1586,7 @@
       "availability": "available",
       "evidenceStatus": "parcial",
       "confidenceLevel": "medium",
-      "methodology": "Contagem em fontes primárias: API de Dados Abertos da Câmara (varredura de 4.940 proposições de autoria do deputado 74813; filtro por projetos de lei) — 2 PLs com situação 'Transformado em Norma Jurídica' (PL 5498/2009 e PL 742/2011) — e fichas de matéria do Senado (PLS 209/2015 → Lei 14.052/2020; PLS 206/2017 → Lei 13.487/2017). Não entram na contagem outras proposições de autoria convertidas em norma jurídica que não são projetos de lei: PLV 33/2002 (projeto de lei de conversão) e PRC 189/2005 (projeto de resolução que criou a CPI do tráfico de armas). Contagem aproximada e piso: mandatos de 1987–1995 não são cobertos pela base digital consultada.",
+      "methodology": "Contagem em fontes primárias: API de Dados Abertos da Câmara — varredura das 1.751 proposições de autoria do deputado 74813 (das quais 42 são projetos de lei; demais tipos, como emendas e requerimentos, fora do escopo) — com 2 PLs em situação 'Transformado em Norma Jurídica' (PL 5498/2009 e PL 742/2011) — e fichas de matéria do Senado (PLS 209/2015 → Lei 14.052/2020; PLS 206/2017 → Lei 13.487/2017). Não entram na contagem outras proposições de autoria convertidas em norma jurídica que não são projetos de lei: PLV 33/2002 (projeto de lei de conversão) e PRC 189/2005 (projeto de resolução que criou a CPI do tráfico de armas). Contagem aproximada e piso: mandatos de 1987–1995 não são cobertos pela base digital consultada.",
       "sources": [
         {
           "id": "src-cg-50",
