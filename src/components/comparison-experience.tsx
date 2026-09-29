@@ -16,6 +16,7 @@ import { SectionShell } from "@/components/section-shell";
 import { CountryProjectSection } from "@/components/country-project-section";
 import { CapacitiesSection } from "@/components/capacities-section";
 import { ViabilitySection } from "@/components/viability-section";
+import { ProposalsSection } from "@/components/proposals-section";
 import { ThemeSection } from "@/components/theme-section";
 import { ForeignPolicySection } from "@/components/foreign-policy-section";
 import { CoherenceSection } from "@/components/coherence-section";
@@ -85,18 +86,30 @@ export function ComparisonExperience({
         return <CountryProjectSection candidates={candidates} />;
       case "caminho":
         return (
-          <MetricsBlock
-            id="s-caminho-plano"
-            index=""
-            title="Estrutura das propostas"
-            question=""
-            rows={secRows}
-            candidates={candLite}
-            highlightDifferences={highlight}
-            onlyDifferences={only}
-            bare
-            subtitle="O que o plano informa por proposta"
-          />
+          <div className="flex flex-col gap-6">
+            <ProposalsSection candidates={candidates} />
+            {secRows.length > 0 ? (
+              <details className="rounded-md border border-border/70">
+                <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
+                  Ver métricas de estrutura do plano
+                </summary>
+                <div className="border-t border-border px-4 py-4">
+                  <MetricsBlock
+                    id="s-caminho-plano"
+                    index=""
+                    title="Estrutura das propostas"
+                    question=""
+                    rows={secRows}
+                    candidates={candLite}
+                    highlightDifferences={highlight}
+                    onlyDifferences={only}
+                    bare
+                    subtitle="O que o plano informa por proposta"
+                  />
+                </div>
+              </details>
+            ) : null}
+          </div>
         );
       case "viabilidade":
         return (
