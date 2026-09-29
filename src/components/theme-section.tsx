@@ -1,8 +1,8 @@
 "use client";
 
-// Seção 07 — posições por grandes temas (10 fixos, os mesmos para todos).
-// Cada célula: de quem é a posição (candidato ou partido, rotulado), a posição
-// em uma linha e, no detalhe, o teste de realidade com as fontes.
+// Seção 07 — posições por grandes temas. A lista vira uma matriz compacta: uma
+// linha por tema e uma síntese curta por candidatura. O teste de realidade e as
+// fontes aparecem ao abrir a linha e, depois, o drawer de detalhe.
 
 import { useState } from "react";
 import type { Candidate } from "@/types";
@@ -25,6 +25,15 @@ import {
   SheetTitle,
 } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
+import { ChevronDown } from "lucide-react";
+
+function clip(text: string, limit = 92) {
+  const t = (text ?? "").trim();
+  if (t.length <= limit) return t;
+  const cut = t.slice(0, limit);
+  const space = cut.lastIndexOf(" ");
+  return `${cut.slice(0, space > 0 ? space : limit)}…`;
+}
 
 export function ThemeSection({
   candidates,
@@ -36,26 +45,69 @@ export function ThemeSection({
   const [openKey, setOpenKey] = useState<string | null>(null);
 
   return (
-    <div className="flex flex-col gap-8">
-      {THEMES.map((theme) => {
-        const any = candidates.some((c) => c.themes?.some((t) => t.slug === theme.slug));
-        return (
-          <div key={theme.slug} className="flex flex-col gap-3">
-            <div className="flex flex-col gap-0.5">
-              <h3 className="text-base font-semibold leading-snug">{theme.name}</h3>
-              <p className="text-xs leading-relaxed text-muted-foreground">{theme.question}</p>
-            </div>
+    <div className="flex flex-col gap-3">
+      <p className="max-w-3xl text-xs leading-relaxed text-muted-foreground">
+        Leia uma frase por tema. Abra apenas o que quiser aprofundar para ver o teste de realidade, a posição completa e as fontes.
+      </p>
 
-            {any ? (
+      {THEMES.map((theme) => {
+        const positions = candidates.map((c) => c.themes?.find((t) => t.slug === theme.slug));
+        const any = positions.some(Boolean);
+
+        if (!any) {
+          return (
+            <ContentEmpty
+              key={theme.slug}
+              what={`${theme.name}: tema em consolidação`}
+              why="Nenhuma das candidaturas comparadas tem posição apurada neste tema por enquanto."
+            />
+          );
+        }
+
+        return (
+          <details key={theme.slug} className="group rounded-md border border-border bg-card">
+            <summary className="cursor-pointer list-none p-4 [&::-webkit-details-marker]:hidden">
+              <div
+                className="grid gap-4 sm:cmp-grid"
+                style={{ "--cmp-cols": candidates.length } as React.CSSProperties}
+              >
+                <div className="flex min-w-0 items-start justify-between gap-3">
+                  <div className="flex min-w-0 flex-col gap-0.5">
+                    <h3 className="text-sm font-semibold leading-snug">{theme.name}</h3>
+                    <p className="text-xs leading-relaxed text-muted-foreground">{theme.question}</p>
+                  </div>
+                  <ChevronDown aria-hidden className="mt-0.5 size-4 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" />
+                </div>
+
+                {candidates.map((c, i) => {
+                  const t = positions[i];
+                  return (
+                    <div key={c.slug} className="flex min-w-0 flex-col gap-1.5">
+                      <CandidateTag name={c.name} slot={SLOTS[i] ?? "a"} />
+                      {t ? (
+                        <>
+                          <span className="w-fit rounded border border-border px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-muted-foreground">
+                            {THEME_SOURCE_LABELS[t.sourceKind]}
+                          </span>
+                          <p className="text-xs leading-relaxed text-foreground/85">{clip(t.position)}</p>
+                        </>
+                      ) : (
+                        <p className="text-xs text-muted-foreground">Sem posição localizada nesta apuração.</p>
+                      )}
+                    </div>
+                  );
+                })}
+                <div className="hidden sm:block" aria-hidden />
+              </div>
+            </summary>
+
+            <div className="border-t border-border/70 p-4">
               <CandidateColumns count={candidates.length}>
                 {candidates.map((c, i) => {
-                  const t = c.themes?.find((x) => x.slug === theme.slug);
+                  const t = positions[i];
                   const key = `${c.slug}-${theme.slug}`;
                   return (
-                    <div
-                      key={c.slug}
-                      className="flex h-full flex-col gap-2 rounded-md border border-border bg-card p-4"
-                    >
+                    <article key={c.slug} className="flex h-full flex-col gap-2 rounded-md border border-border bg-background/40 p-4">
                       {hideTag ? null : <CandidateTag name={c.name} slot={SLOTS[i] ?? "a"} />}
                       {t ? (
                         <>
@@ -65,7 +117,7 @@ export function ThemeSection({
                             </span>
                             <ClaimKindBadge kind={t.kind} />
                           </div>
-                          <ExpandableText text={t.position} limit={150} label="Ver posição e fontes" />
+                          <ExpandableText text={t.position} limit={130} label="Ver posição completa" />
                           <div className="mt-auto pt-2">
                             <Button
                               variant="outline"
@@ -73,15 +125,14 @@ export function ThemeSection({
                               onClick={() => setOpenKey(key)}
                               aria-label={`Ver teste de realidade de ${theme.name} — ${c.name}`}
                             >
-                              {t.reality ? "Ver teste de realidade" : "Em consolidação"}
+                              {t.reality ? "Abrir análise e fontes" : "Em consolidação"}
                             </Button>
                           </div>
+
                           <Sheet open={openKey === key} onOpenChange={(v) => setOpenKey(v ? key : null)}>
                             <SheetContent side="right" className="w-full overflow-y-auto sm:max-w-lg">
                               <SheetHeader className="border-b border-border pb-4">
-                                <SheetTitle className="display-2 !text-xl leading-tight">
-                                  {theme.name}
-                                </SheetTitle>
+                                <SheetTitle className="display-2 !text-xl leading-tight">{theme.name}</SheetTitle>
                                 <SheetDescription className="text-left text-sm leading-relaxed text-muted-foreground">
                                   {c.name} — {THEME_SOURCE_LABELS[t.sourceKind]}
                                 </SheetDescription>
@@ -89,19 +140,14 @@ export function ThemeSection({
                               <div className="flex flex-col gap-4 p-6 pt-4">
                                 <div className="flex flex-col gap-1">
                                   <h3 className="label-field">Posição</h3>
-                                  <p className="text-sm leading-relaxed text-foreground/90">
-                                    {t.position}
-                                  </p>
+                                  <p className="text-sm leading-relaxed text-foreground/90">{t.position}</p>
                                 </div>
                                 {t.reality ? (
                                   <RealityBlock reality={t.reality} />
                                 ) : (
                                   <RealityMissing why="O confronto com histórico, instrumento legal e base institucional deste tema ainda está em apuração." />
                                 )}
-                                <div className="flex flex-col gap-2">
-                                  <h3 className="label-field">Fontes</h3>
-                                  <SourcesInline sources={t.sources} />
-                                </div>
+                                <SourcesInline sources={t.sources} />
                               </div>
                             </SheetContent>
                           </Sheet>
@@ -112,17 +158,12 @@ export function ThemeSection({
                           why="Nada localizado no plano, em declarações ou no programa partidário para este tema nesta apuração."
                         />
                       )}
-                    </div>
+                    </article>
                   );
                 })}
               </CandidateColumns>
-            ) : (
-              <ContentEmpty
-                what="Tema em consolidação"
-                why="Nenhuma das candidaturas comparadas tem posição apurada neste tema por enquanto."
-              />
-            )}
-          </div>
+            </div>
+          </details>
         );
       })}
     </div>
