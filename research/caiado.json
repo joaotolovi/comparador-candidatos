@@ -1,1 +1,1743 @@
-{"nome": "Ronaldo Caiado", "status": "em coleta"}
+{
+  "id": "caiado",
+  "slug": "caiado",
+  "name": "Ronaldo Ramos Caiado",
+  "ballotName": "Ronaldo Caiado",
+  "ballotNumber": 55,
+  "party": "PSD",
+  "coalition": "PSD (nº 55) em chapa própria, sem federação/coligação declarada nas fontes consultadas; vice: Gilberto Kassab (PSD), presidente nacional do partido e ex-prefeito de São Paulo, confirmado como vice em 01/07/2026.",
+  "photoUrl": null,
+  "birthDate": "1949-09-25",
+  "age": 77,
+  "birthplace": "Anápolis/GO",
+  "profession": "Médico ortopedista (profissão declarada ao TSE); também professor e produtor rural",
+  "currentRole": "Candidato à Presidência da República pelo PSD (registro aprovado pelo TSE em set/2026); ex-governador de Goiás (jan/2019–31/03/2026, dois mandatos), deixou o cargo para disputar a eleição",
+  "tagline": "Médico ortopedista, ex-deputado federal por cinco mandatos e ex-senador por Goiás, governou Goiás por dois mandatos (2019–2026) e disputa a Presidência em 2026 pelo PSD, 37 anos após sua primeira candidatura presidencial em 1989.",
+  "education": [
+    {
+      "id": "edu-rc-1",
+      "level": "graduacao",
+      "field": "Medicina",
+      "institution": "Escola de Medicina e Cirurgia (hoje vinculada à Universidade Federal do Estado do Rio de Janeiro, UNIRIO)",
+      "conclusionYear": 1972,
+      "notes": "Formou-se em medicina em 1972.",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice de trajetória; números eleitorais e datas conferidos com outras fontes quando possível."
+        }
+      ]
+    },
+    {
+      "id": "edu-rc-2",
+      "level": "mestrado",
+      "field": "Ortopedia e Traumatologia",
+      "institution": "Universidade Federal do Rio de Janeiro (UFRJ)",
+      "conclusionYear": 1979,
+      "notes": "Concluiu o mestrado em ortopedia e traumatologia pela UFRJ em 1979.",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "edu-rc-3",
+      "level": "especializacao",
+      "field": "Cirurgia da coluna (ortopedia e traumatologia)",
+      "institution": "Serviço do Professor Roy-Camille, Paris (França); atuou em 1977 como assistente estrangeiro da Universidade de Paris",
+      "conclusionYear": null,
+      "notes": "Especialização na França; participou em 1977 do Congresso da Sociedade Francesa de Cirurgia Ortopédica e Traumatologia. Ano de conclusão não informado.",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "professionalExperience": [
+    {
+      "id": "prof-rc-1",
+      "role": "Médico — professor assistente e residente de ortopedia",
+      "organization": "UFRJ / Hospital Miguel Couto (Rio de Janeiro)",
+      "startDate": "1978",
+      "endDate": "1984",
+      "description": "Entre 1978 e 1979 lecionou no Departamento de Ortopedia e Traumatologia da UFRJ; durante a residência médica (1978–1984) ministrou aulas no Hospital Miguel Couto e em cursos e congressos nos estados do Rio de Janeiro e da Bahia. Ocupação declarada ao TSE em 2026: médico ortopedista.",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "prof-rc-2",
+      "role": "Presidente da União Democrática Ruralista (UDR)",
+      "organization": "UDR — União Democrática Ruralista",
+      "startDate": "1985",
+      "endDate": "1989",
+      "description": "Fundou a UDR em 1985, no contexto da disputa sobre a reforma agrária no governo Sarney, e presidiu a entidade entre 1986 e 1989, quando deixou a presidência para disputar a eleição presidencial. É produtor rural ligado a associações de criadores de zebu e nelore em Goiás.",
+      "achievements": [
+        "Fundação e presidência da UDR (1985–1989), principal entidade de defesa dos grandes proprietários rurais"
+      ],
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "politicalExperience": [
+    {
+      "id": "pol-rc-1",
+      "role": "Candidato à Presidência da República (2ª disputa em 2026)",
+      "organization": "PSD",
+      "startDate": "2026",
+      "endDate": null,
+      "description": "Deixou o União Brasil em janeiro de 2026 após desgastes internos (federação com o PP e falta de apoio da cúpula), filiou-se ao PSD em 27/01/2026, venceu a prévia do partido contra Eduardo Leite e foi anunciado como candidato por Kassab em 30/03/2026; convenção nacional que o oficializou, com Kassab como vice, em 26/07/2026, em São Paulo. Preside o PSD-GO desde 19/03/2026. É a segunda candidatura presidencial de sua vida (a primeira foi em 1989).",
+      "achievements": [
+        "Convenção oficial do PSD em 26/07/2026 (São Paulo)",
+        "Vitória na prévia do PSD sobre Eduardo Leite (anúncio em 30/03/2026)"
+      ],
+      "sources": [
+        {
+          "id": "src-cg-02",
+          "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+          "publisher": "Wikipédia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt."
+        },
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "pol-rc-2",
+      "role": "Governador de Goiás (2 mandatos)",
+      "organization": "Governo do Estado de Goiás",
+      "startDate": "2019-01",
+      "endDate": "2026-03-31",
+      "description": "Eleito em 2018 com 1.773.185 votos (59,73% dos válidos) e reeleito em 2022 com 1.806.892 votos (51,81%); renunciou ao mandato em 31/03/2026 para disputar a Presidência, transmitindo o cargo ao vice Daniel Vilela (MDB). Gestão marcada por crescimento do agronegócio, discurso de segurança pública e rompimento público com Bolsonaro na pandemia (2020), seguido de reaproximação com a direita a partir de 2025. Relato do verbete em inglês: pesquisa de 2026 aponta 84% de aprovação da gestão em Goiás (11% de desaprovação). Como governador, promulgou a Lei nº 20.514/2019 (extração de crisotila) — alvo da ADI nº 6.200/GO, cujo resultado não foi localizado nas fontes consultadas; o verbete também afirma que ele nomeou ao menos 22 parentes para funções públicas em Goiás (dado não conferido em fonte primária).",
+      "achievements": [
+        "Eleição em 2018 já no 1º turno (59,73% dos votos válidos)",
+        "Reeleição em 2022 já no 1º turno (51,81% dos votos válidos)",
+        "Contas de 2025 aprovadas por unanimidade no TCE-GO com parecer prévio favorável (16/06/2026)"
+      ],
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-07",
+          "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+          "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+          "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+          "publishedAt": "2026-06-16",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas"
+        },
+        {
+          "id": "src-cg-32",
+          "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+          "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+          "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+          "publishedAt": "2026-03-31",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        },
+        {
+          "id": "src-cg-02",
+          "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+          "publisher": "Wikipédia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "pol-rc-3",
+      "role": "Senador por Goiás",
+      "organization": "Senado Federal",
+      "startDate": "2015-02",
+      "endDate": "2019-01",
+      "description": "Eleito em 2014 com 1.283.665 votos (47,57% dos válidos); líder do DEM no Senado (eleito por unanimidade) e membro titular de comissões (Assuntos Econômicos; Constituição e Justiça; Infraestrutura; Meio Ambiente; Agricultura; Reforma Política). Articulador do impeachment de Dilma Rousseff, votou pela prossecução do processo e pela perda do mandato; votou a favor da PEC do teto de gastos (12/2016) e da reforma trabalhista (07/2017). Deixou o Senado em jan/2019, na metade do mandato, ao assumir o governo de Goiás (assumiu o suplente Luiz Carlos do Carmo). Em 2015, o ex-senador Demóstenes Torres afirmou em artigo que campanhas de 2002, 2006 e 2010 teriam sido financiadas pelo esquema de Carlinhos Cachoeira; Caiado negou e nenhum processo judicial decorrente dessa alegação foi localizado nas fontes consultadas.",
+      "achievements": [
+        "Prêmio Congresso em Foco de melhor senador em 2015 (eleição popular, segundo o verbete)"
+      ],
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-37",
+          "title": "Projeto de Lei do Senado nº 191, de 2015 (autoria do Senador Ronaldo Caiado, DEM/GO)",
+          "publisher": "Senado Federal",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/120518/pdf",
+          "publishedAt": "2015",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Exemplo de matérias de autoria localizadas por busca; produção legislativa completa (nº de leis aprovadas) não quantificada."
+        }
+      ]
+    },
+    {
+      "id": "pol-rc-4",
+      "role": "Deputado federal por Goiás (5 mandatos)",
+      "organization": "Câmara dos Deputados",
+      "startDate": "1991-02",
+      "endDate": "2015-02",
+      "description": "Cinco mandatos: 1991–1995 (eleito em 1990 pelo PSD com 98.256 votos, depois PDC, PFL e PPR) e 1999–2015 (PFL/DEM, reeleito em 1998 com 100.446 votos, 2002 com 114.728, 2006 com 152.895 e 2010 com 167.591). Líder da bancada ruralista, atuou nas comissões de Agricultura e Política Rural, Segurança Pública e Combate ao Crime Organizado; votou contra o impeachment de Collor (1992). Deixou a Câmara em 1994 para disputar o governo de Goiás (3º lugar, 364.767 votos, 23,18% dos válidos) e retornou em 1999.",
+      "achievements": [
+        "Deputado federal mais votado de Goiás em 1990 (98.256 votos)",
+        "4 mandatos consecutivos de 1999 a 2015"
+      ],
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "pol-rc-5",
+      "role": "Candidato à Presidência da República (1ª vez)",
+      "organization": "PSD (1989)",
+      "startDate": "1989",
+      "endDate": "1989",
+      "description": "Deixou a presidência da UDR para disputar a eleição presidencial de 1989 pelo PSD: 488.872 votos (0,68%), 10º lugar; apoiou Fernando Collor no segundo turno.",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-02",
+          "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+          "publisher": "Wikipédia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "executiveExperience": [
+    {
+      "id": "exec-rc-1",
+      "role": "Governador de Goiás (2 mandatos consecutivos)",
+      "organization": "Governo do Estado de Goiás",
+      "startDate": "2019-01",
+      "endDate": "2026-03-31",
+      "description": "Dois mandatos eletivos (2018 e 2022), deixando o cargo em 31/03/2026. Executou a LOA de cada exercício: R$ 49,48 bi de receita/despesa na LOA 2025 (Lei 23.246/2025) e R$ 53.444.488.797,00 na LOA 2026 (Lei 24.019/2026). Em 2025 (último ano completo), receita líquida de R$ 49,6 bi, investimentos de R$ 7,21 bi (maior da série em valores reais), dívida consolidada de 62,6% da RCL e despesa de pessoal em 50,07% da RCL ajustada, conforme parecer prévio do TCE-GO. Programas estaduais incluem Goiás Social, Mães de Goiás e Goiás Por Elas (transferência de R$ 300/mês por até 12 meses a mulheres em situação de violência doméstica com medida protetiva).",
+      "budgetManaged": "R$ 53,44 bi/ano (LOA 2026, Lei 24.019/2026) — a maior LOA de sua gestão; LOA 2025: R$ 49,48 bi (Lei 23.246/2025)",
+      "teamSize": 90428,
+      "achievements": [
+        "Parecer prévio do TCE-GO favorável à aprovação das contas de 2025, por unanimidade (16/06/2026)",
+        "Investimentos de R$ 7,21 bi em 2025 — maior volume da série histórica em valores reais (TCE-GO)",
+        "Saída do Regime de Recuperação Fiscal (RRF) para o Propag, com economia estimada em R$ 26 bi em 30 anos no serviço da dívida (TCE-GO)"
+      ],
+      "sources": [
+        {
+          "id": "src-cg-03",
+          "title": "Lei nº 24.019, de 6 de janeiro de 2026 — Orçamento Geral do Estado de Goiás 2026 (receita total R$ 53.444.488.797,00)",
+          "publisher": "Casa Civil / Governo de Goiás (legislação)",
+          "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112043/pdf",
+          "publishedAt": "2026-01-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual",
+          "notes": "Texto legal da LOA 2026."
+        },
+        {
+          "id": "src-cg-04",
+          "title": "Caiado sanciona Lei Orçamentária Anual com previsão de R$ 49 bi (LOA 2025: R$ 49.481.946.626,00)",
+          "publisher": "O Hoje",
+          "url": "https://ohoje.com/2025/01/30/caiado-sanciona-lei-orcamentaria-anual-com-previsao-de-49-bi/",
+          "publishedAt": "2025-01-30",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Sanção da Lei 23.246/2025; despesa prevista de R$ 48,4 bi, dos quais R$ 27,65 bi de folha de pessoal."
+        },
+        {
+          "id": "src-cg-05",
+          "title": "Orçamento Geral do Estado 2025 — Secretaria da Economia de Goiás (Lei nº 23.246, de 25/01/2025)",
+          "publisher": "Governo de Goiás",
+          "url": "https://goias.gov.br/economia/orcamento-geral-do-estado-2025/",
+          "publishedAt": "2025-01-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        },
+        {
+          "id": "src-cg-07",
+          "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+          "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+          "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+          "publishedAt": "2026-06-16",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas"
+        },
+        {
+          "id": "src-cg-34",
+          "title": "Goiás Por Elas — programa de transferência de renda (Seds/Governo de Goiás)",
+          "publisher": "Governo de Goiás",
+          "url": "https://goias.gov.br/social/goias-por-elas",
+          "publishedAt": "2026-04-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        }
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-rc-1",
+      "title": "Aprovação das contas do governo no TCE-GO nos exercícios apurados",
+      "context": "Governador de Goiás, exercícios 2023, 2024 e 2025",
+      "description": "O TCE-GO emitiu parecer prévio favorável à aprovação das contas do governador nos exercícios de 2023 (aprovado no Plenário em 04/12/2025, com 19 recomendações e determinações), 2024 (parecer favorável do conselheiro Edson Ferrari) e 2025 (aprovado por unanimidade em 16/06/2026, relator conselheiro Sebastião Tejota, com destaque para o cumprimento das vinculações de saúde e educação, do teto de gastos e do limite de pessoal, então em 50,07% da RCL ajustada). O julgamento definitivo cabe à Assembleia Legislativa de Goiás.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "sources": [
+        {
+          "id": "src-cg-07",
+          "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+          "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+          "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+          "publishedAt": "2026-06-16",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas"
+        },
+        {
+          "id": "src-cg-08",
+          "title": "TCE aprova contas de Caiado e aponta cumprimento de metas fiscais e constitucionais em 2025",
+          "publisher": "Jornal Opção",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/tce-aprova-contas-de-caiado-e-aponta-cumprimento-de-metas-fiscais-e-constitucionais-em-2025-838503/",
+          "publishedAt": "2026-06-19",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas"
+        },
+        {
+          "id": "src-cg-09",
+          "title": "Relatório do TCE sobre contas do governo de 2023 é aprovado (ALEGO)",
+          "publisher": "Assembleia Legislativa de Goiás (ALEGO)",
+          "url": "https://portal.al.go.leg.br/noticias/161085/relatorio-do-tce-sobre-contas-do-governo-de-2023-e-aprovado",
+          "publishedAt": "2025-12-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        },
+        {
+          "id": "src-cg-10",
+          "title": "TCE-GO aprova parecer prévio das contas do governador (exercício de 2024, relator Edson Ferrari)",
+          "publisher": "Tribunal do Planalto",
+          "url": "https://tribunadoplanalto.com.br/tce-go-aprova-parecer-previo-das-contas-do-governador/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas",
+          "notes": "Data exata da publicação não capturada (mencionado '23/jun')."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-rc-2",
+      "title": "Reeleição ao governo de Goiás em dois turnos vencidos no 1º",
+      "context": "Eleições de 2018 e 2022",
+      "description": "Em 2018, eleito no primeiro turno com 1.773.185 votos (59,73% dos válidos), à frente de Daniel Vilela (MDB); em 2022, reeleito no primeiro turno com 1.806.892 votos (51,81% dos válidos), à frente de Gustavo Mendanha (Patriota).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Números eleitorais do verbete; consulta aos resultados oficiais do TSE não realizada nesta coleta."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-rc-3",
+      "title": "Eleição ao Senado com 47,57% dos votos válidos e liderança do DEM na Casa",
+      "context": "Senador por Goiás, 2014–2018",
+      "description": "Eleito em 2014 com 1.283.665 votos (47,57% dos válidos); eleito por unanimidade líder do Democratas no Senado e atuou como articulador do processo de impeachment de Dilma Rousseff.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-rc-4",
+      "title": "Transformação da candidatura: saída do União Brasil, vitória na prévia do PSD e registro no TSE em 2026",
+      "context": "Campanha presidencial 2026",
+      "description": "Após confirmar pré-candidatura no União Brasil (nov/2024) e lançamento em Salvador (04/04/2025), saiu do partido em jan/2026, filiou-se ao PSD em 27/01/2026 (articulação com Ratinho Júnior e Eduardo Leite), venceu a prévia contra Eduardo Leite (anúncio de Kassab em 30/03/2026), teve a chapa oficializada na convenção de 26/07/2026 e obteve aprovação do registro no TSE (publicada no Diário da Justiça Eletrônico do TSE em 18/09/2026), figurando entre as 12 chapas válidas do pleito.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "sources": [
+        {
+          "id": "src-cg-14",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cg-15",
+          "title": "TSE aprova registros de seis candidatos à Presidência da República (inclui Ronaldo Caiado e Gilberto Kassab)",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Mês; dia exato não capturado."
+        },
+        {
+          "id": "src-cg-16",
+          "title": "Diário da Justiça Eletrônico — Lista de candidatas e candidatos aos cargos de presidente e vice-presidente da República (Eleições 2026)",
+          "publisher": "TSE — Diário da Justiça Eletrônico",
+          "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+          "publishedAt": "2026-09-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cg-02",
+          "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+          "publisher": "Wikipédia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "governmentPlan": {
+    "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030",
+    "totalProposals": 26,
+    "registeredWith": "TSE — DivulgaCandContas (registro da chapa divulgado em 14/08/2026; plano publicado pela campanha em ago/2026)",
+    "registeredUrl": null,
+    "planUrl": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+    "notes": "Documento da campanha com mais de 100 páginas (SBT: 'ao longo de 100 páginas'), organizado em 26 temas (TEMA 1 a TEMA 26), um bloco 'método de governo' (10 itens), 7 'compromissos nacionais para 2030' e seção final de implementação, monitoramento e prestação de contas. Espelho público do mesmo PDF hospedado pelo Poder360. Coordenadores temáticos citados: Roberto Brant (ex-ministro, plano geral) e Luiz Henrique Mandetta (saúde). URL do arquivo no DivulgaCandContas não localizada nesta coleta.",
+    "statsIfCounted": {
+      "objective": "7 compromissos nacionais declarados para 2030 (alfabetização na idade certa, fila do SUS com tempo certo, redução da violência letal e do domínio de facções, trajetória fiscal sustentável, cadeias de agro/minerais/energia/biodiversidade, conectividade e saneamento)",
+      "target": "Compromissos quantitativos por proposta não informados no documento",
+      "deadline": "Horizonte 2030 (compromissos nacionais); mandato 2027–2030",
+      "cost": "Custo por proposta não informado",
+      "funding": null,
+      "fiscal": "Estratégia fiscal plurianual com trajetória de estabilização da dívida/PIB, superávits primários e redução da despesa de juros; combate a supersalários e teto constitucional aplicado em todos os Poderes",
+      "agency": "Governança por 'missões nacionais' com liderança política, orçamento identificado e painel público de resultados",
+      "instrument": "Lei e, quando necessário, emenda constitutiva (reforma política e fiscal); instrumento por proposta não especificado no resumo",
+      "indicator": "Painéis públicos de indicadores (aprendizagem, espera na saúde, segurança, qualidade da água/ar, mobilidade, pobreza, satisfação do cidadão)",
+      "congress": "Reforma política, financiamento político e ajuste fiscal dependem de aprovação do Congresso; contagem por proposta não realizada"
+    },
+    "statsEvidence": "parcial",
+    "keyProposals": [
+      {
+        "title": "Reforma do SUS com fila por critério clínico, prontuário eletrônico nacional e inteligência artificial",
+        "theme": "Saúde",
+        "description": "Plano de saúde coordenado pelo ex-ministro Luiz Henrique Mandetta: prioridade nas filas por gravidade clínica (não por ordem de chegada), fila separada para pacientes oncológicos, protocolos específicos para infarto e AVC, regionalização da assistência para reduzir mortes evitáveis, prontuário eletrônico nacional acessível pelo celular e uso de IA para análise de exames, gestão de filas e monitoramento de indicadores; também criação de centro de referência em doenças raras (proposta da senadora Mara Gabrilli).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Política pública federal (SUS) — detalhamento legal não informado no material consultado",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-cg-24",
+            "title": "Saúde: Caiado mostra como será seu governo (plano coordenado por Mandetta)",
+            "publisher": "PSD — Partido Social Democrático",
+            "url": "https://psd.org.br/noticias/saude-caiado-mostra-como-sera-seu-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Ano; data exata não capturada."
+          },
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ]
+      },
+      {
+        "title": "Compromissos nacionais para 2030 (7 metas do plano)",
+        "theme": "Outros",
+        "description": "Restabelecer trajetória fiscal sustentável e recuperar a capacidade de investimento público; reduzir a violência letal e o domínio territorial e financeiro das facções; garantir alfabetização na idade certa e recompor aprendizagens na educação básica; organizar o SUS com fila transparente e atendimento no tempo certo; transformar agro, minerais, energia e biodiversidade em cadeias de maior valor agregado; universalizar conectividade e acelerar saneamento, mobilidade e segurança hídrica; integrar proteção social a qualificação, trabalho, moradia e cuidado, com prioridade à infância.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": "2030",
+        "legalInstrument": "Não informado por compromisso",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          },
+          {
+            "id": "src-cg-21",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF da campanha)",
+            "publisher": "Poder360",
+            "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ]
+      },
+      {
+        "title": "Estratégia fiscal plurianual, teto constitucional efetivo e combate a supersalários",
+        "theme": "Economia",
+        "description": "Estabilizar a dívida em relação ao PIB, recuperar superávits primários e reduzir a despesa de juros com metas anuais, bandas de tolerância e prestação periódica de contas; conter a criação de novas despesas correntes; aplicar o teto constitucional remuneratório em todos os Poderes e órgãos, com transparência e responsabilização; combater supersalários e exceções ao teto; não criar receitas permanentes para acompanhar despesas automáticas.",
+        "hasCost": false,
+        "costDetail": "Efeitos quantitativos por proposta não informados no plano consultado",
+        "deadline": null,
+        "legalInstrument": "Lei e/ou emenda constitutiva (teto de gastos e regras fiscais)",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          },
+          {
+            "id": "src-cg-22",
+            "title": "Ronaldo Caiado: veja as propostas do candidato a presidente da República",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/ronaldo-caiado-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Pacto Nacional de Governabilidade e Resultados e financiamento político rastreável",
+        "theme": "Administração pública",
+        "description": "Instituir pacto para formar maioria transparente em torno do plano e devolver ao Executivo capacidade de liderar e prestar contas; tornar o financiamento político integralmente rastreável, publicando em formato aberto receitas, despesas, fornecedores e beneficiários finais, com auditoria baseada em risco; governar por 'missões nacionais' com orçamento identificado, metas anuais e painel público de resultados; comunicar custos, riscos e resultados sem manipulação.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei (financiamento e transparência) e reforma política",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          },
+          {
+            "id": "src-cg-21",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF da campanha)",
+            "publisher": "Poder360",
+            "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ]
+      },
+      {
+        "title": "Segurança pública: recuperação de territórios, combate a facções e cooperação sul-americana (SULPOL)",
+        "theme": "Segurança",
+        "description": "Prioridades declaradas: recuperar territórios, proteger fronteiras, controlar presídios, elevar a investigação e retirar do crime o patrimônio e a capacidade de corromper instituições; combater o terrorismo doméstico sob liderança da Presidência com participação dos governadores; propor a criação da SULPOL, agência permanente de cooperação policial sul-americana para operações contra tráfico, lavagem, cibercrime e redes transnacionais.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei e acordos internacionais",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          },
+          {
+            "id": "src-cg-21",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF da campanha)",
+            "publisher": "Poder360",
+            "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ]
+      },
+      {
+        "title": "Proteção social: manutenção das transferências de renda com transição para o trabalho",
+        "theme": "Política social",
+        "description": "Preservar os programas de transferência de renda, atualizar cadastros e combater fraudes sem constranger beneficiários; criar regra de transição para quem ingressa no trabalho formal (redução gradual conectada a qualificação, creche e intermediação); Plano Nacional de Emancipação Social com qualificação de Cras e Creas; gestão integrada de Cadastro Único, SUAS, saúde, educação, trabalho e habitação; universalizar saneamento até 2033 conforme o marco legal; inclusão digital da população de baixa renda e empreendedorismo feminino.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": "2033 (saneamento, conforme marco legal)",
+        "legalInstrument": "Lei (política de assistência social e saneamento)",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-cg-23",
+            "title": "Pobreza e desigualdade: veja propostas de Caiado na íntegra (páginas 13, 26, 48, 59, 61, 64-65, 68 do plano)",
+            "publisher": "SBT News",
+            "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pobreza-e-desigualdade-veja-propostas-de-lula-na-integra-2",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Ano; data exata não capturada."
+          },
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ]
+      },
+      {
+        "title": "Posicionamentos públicos de campanha: anistia a Bolsonaro, minerais críticos e reforma política",
+        "theme": "Política externa",
+        "description": "No discurso de 30/07/2026, Caiado declarou apoio à anistia de Jair Bolsonaro e de envolvidos nos ataques de 8 de janeiro; defendeu o papel do Brasil na exploração e beneficiamento de minerais críticos; propôs reformas educacional e social 'no modelo Goiás', reforma política 'para dar mais racionalidade ao sistema político' e reafirmou o mercado privado e o agronegócio como motores do desenvolvimento. Em entrevista à Metrópoles (jul/2026), defendeu mudança nos critérios de indicação de ministros do STF. Não foi localizada proposta formal de indulto/amnistia dentro do PDF do plano — consta como posicionamento público do candidato.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Indulto/amnistia: ato do Congresso ou do Executivo (não detalhado); mineração: marco regulatório",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-cg-02",
+            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês: discurso de 30/07/2026, endossos)",
+            "publisher": "Wikipédia (en)",
+            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  "metrics": [
+    {
+      "id": "anos_executivo",
+      "category": "capacidade-execucao",
+      "name": "Anos em cargos executivos públicos",
+      "displayValue": "7,25 anos (jan/2019 – 31/03/2026)",
+      "value": 7.25,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em cargos executivos eletivos, sem dupla contagem: governo de Goiás de janeiro de 2019 a 31/03/2026 (dois mandatos consecutivos). Não inclui cargos partidários (presidência do PSD-GO).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-32",
+          "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+          "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+          "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+          "publishedAt": "2026-03-31",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Deixou o cargo em 31/03/2026, 3 meses antes do fim do segundo mandato, para disputar a Presidência."
+    },
+    {
+      "id": "maior_orcamento",
+      "category": "capacidade-execucao",
+      "name": "Maior orçamento anual administrado",
+      "displayValue": "R$ 53,44 bi/ano (LOA 2026)",
+      "value": 53.44,
+      "unit": "R$ bi/ano",
+      "metricType": "currency",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Maior Lei Orçamentária Anual do Estado de Goiás sob sua gestão: LOA 2026 (Lei nº 24.019, de 06/01/2026), receita total e despesa de R$ 53.444.488.797,00. Comparação: LOA 2025 (Lei nº 23.246, de 25/01/2025) previa receita/despesa de R$ 49.481.946.626,00. Não foram capturadas as LOAs de 2019–2024.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-03",
+          "title": "Lei nº 24.019, de 6 de janeiro de 2026 — Orçamento Geral do Estado de Goiás 2026",
+          "publisher": "Casa Civil / Governo de Goiás (legislação)",
+          "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112043/pdf",
+          "publishedAt": "2026-01-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        },
+        {
+          "id": "src-cg-04",
+          "title": "Caiado sanciona Lei Orçamentária Anual com previsão de R$ 49 bi (LOA 2025)",
+          "publisher": "O Hoje",
+          "url": "https://ohoje.com/2025/01/30/caiado-sanciona-lei-orcamentaria-anual-com-previsao-de-49-bi/",
+          "publishedAt": "2025-01-30",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-05",
+          "title": "Orçamento Geral do Estado 2025 — Secretaria da Economia de Goiás",
+          "publisher": "Governo de Goiás",
+          "url": "https://goias.gov.br/economia/orcamento-geral-do-estado-2025/",
+          "publishedAt": "2025-01-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Poder Executivo estadual; valores nominais das leis orçamentárias, sem deflacionar."
+    },
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "90.428 servidores ativos do Poder Executivo de Goiás (mar/2025)",
+      "value": 90428,
+      "unit": "servidores",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Vínculos ativos do Poder Executivo estadual consolidados no Boletim do Quadro de Pessoal do TCE-GO (dados até mar/2025, publicado em mai/2025): efetivos, comissionados, empregados públicos e temporários. O portal do TCE-GO também cita 101.374 servidores ativos no Estado inteiro (todos os Poderes), com data de atualização da página não capturada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-06",
+          "title": "Boletim Estratégico do Quadro de Pessoal do Poder Executivo do Estado de Goiás — Maio/2025 (dados até MAR/2025)",
+          "publisher": "TCE-GO — Tribunal de Contas do Estado de Goiás",
+          "url": "https://portal.tce.go.gov.br/documents/20181/1264167/BOLETIM%20ESTRAT%C3%89GICO%20DO%20QUADRO%20DE%20PESSOAL%20DO%20PODER%20EXECUTIVO%20DO%20ESTADO%20GOI%C3%81S%20-%20MAIO%20DE%202025%20(Com%20dados%20consolidados%20at%C3%A9%20MAR-2025)/74c3cd9f-7f27-4299-b8c6-2f878685c2fd",
+          "publishedAt": "2025-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas",
+          "notes": "Jan/2020: 92.761 ativos; mar/2025: 90.428 ativos no Poder Executivo."
+        },
+        {
+          "id": "src-cg-06b",
+          "title": "Dados sobre o quadro de pessoal do Estado disponíveis no site do TCE-GO (101.374 ativos, 60.188 inativos, 12.822 pensionistas)",
+          "publisher": "TCE-GO — Tribunal de Contas do Estado de Goiás",
+          "url": "https://portal.tce.go.gov.br/-/dados-sobre-o-quadro-de-pessoal-do-estado-disponiveis-no-site-do-tce-go",
+          "publishedAt": "não informado",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas",
+          "notes": "Data de publicação da notícia não capturada; total refere-se a todos os Poderes do Estado."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O número inclui todos os servidores ativos do Poder Executivo estadual, não apenas a equipe de governo nomeada."
+    },
+    {
+      "id": "anos_politica",
+      "category": "historico-experiencia",
+      "name": "Anos de experiência política",
+      "displayValue": "≈40 anos (desde 1986)",
+      "value": 40,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Entre a presidência da UDR (1986–1989), seu primeiro cargo público dirigencial, e 29/09/2026. Se contada a fundação da UDR (1985), ≈41 anos.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Inclui dirigência de entidade rural (UDR), mandatos eletivos e presidência do diretório estadual do partido."
+    },
+    {
+      "id": "anos_legislativo",
+      "category": "articulacao",
+      "name": "Anos em cargos legislativos",
+      "displayValue": "24 anos (Câmara: 1991–1995 e 1999–2015; Senado: 2015–2019)",
+      "value": 24,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em mandatos legislativos federais sem dupla contagem: 4 anos na Câmara (1991–1995) + 16 anos na Câmara (1999–fev/2015) + ~4 anos no Senado (fev/2015–jan/2019).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Período 1995–1999 fora do Congresso (disputou o governo de Goiás em 1994 e foi derrotado)."
+    },
+    {
+      "id": "anos_federal",
+      "category": "historico-experiencia",
+      "name": "Anos em cargos públicos federais",
+      "displayValue": "24 anos (Câmara + Senado)",
+      "value": 24,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos mandatos no Legislativo federal (Câmara dos Deputados e Senado), sem dupla contagem. Nunca ocupou cargo no Executivo federal.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "mandatos_eletivos",
+      "category": "historico-experiencia",
+      "name": "Mandatos eletivos conquistados",
+      "displayValue": "8 mandatos (5 dep. federal + 1 senador + 2 governador)",
+      "value": 8,
+      "unit": "mandatos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem de mandatos eletivos conquistados: deputado federal em 1990, 1998, 2002, 2006 e 2010 (5); senador em 2014 (1); governador de Goiás em 2018 e 2022 (2). Não contabiliza derrotas (1989 Presidência, 1994 governo de GO).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "1.773.185 (governador 2018) | 1.806.892 (reeleição 2022) | 1.283.665 (Senado 2014) | 488.872 (Presidência 1989)",
+      "value": null,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Maior votação por eleição, segundo o verbete da Wikipédia; consulta a resultados oficiais do TSE/TRE não realizada nesta coleta.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Candidatura presidencial de 1989: 488.872 votos (0,68%), 10º lugar; derrota ao governo de GO em 1994: 364.767 votos (23,18%)."
+    },
+    {
+      "id": "propostas_total",
+      "category": "plano",
+      "name": "Temas/propostas do plano de governo",
+      "displayValue": "26 temas + 7 compromissos nacionais para 2030",
+      "value": 26,
+      "unit": "temas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem da estrutura do PDF oficial da campanha: TEMA 1 a TEMA 26, mais bloco 'método de governo' (10 itens) e 7 compromissos nacionais para 2030. Contagem feita a partir do sumário do documento, não recalculada item a item pela equipe.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-20",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+          "publisher": "Campanha Ronaldo Caiado (PSD)",
+          "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-cg-21",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF da campanha)",
+          "publisher": "Poder360",
+          "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "Não informado por proposta",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas do plano com estimativa de custo própria. O documento consulta não apresenta custo por proposta.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_informed",
+      "sources": [
+        {
+          "id": "src-cg-20",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+          "publisher": "Campanha Ronaldo Caiado (PSD)",
+          "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "Horizonte 2030 nos compromissos nacionais; % por proposta não calculada",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com prazo definido. O plano define horizonte 2030 para os 7 compromissos nacionais e prazos pontuais setoriais (ex.: saneamento até 2033), mas não prazo por proposta; contagem item a item não realizada.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-cg-20",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+          "publisher": "Campanha Ronaldo Caiado (PSD)",
+          "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-cg-23",
+          "title": "Pobreza e desigualdade: veja propostas de Caiado na íntegra (SBT News)",
+          "publisher": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pobreza-e-desigualdade-veja-propostas-de-lula-na-integra-2",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "Contagem não realizada; reforma política, fiscal e financiamento político dependem de Congresso",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei ou emenda constitutiva. Não realizado pela equipe por falta de especificação de instrumento por proposta no documento.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-cg-20",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+          "publisher": "Campanha Ronaldo Caiado (PSD)",
+          "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "registro_tse",
+      "category": "integridade",
+      "name": "Situação do registro de candidatura no TSE",
+      "displayValue": "Aprovado — chapa Caiado/Kassab consta entre as 12 candidaturas válidas; lista publicada no Diário da Justiça Eletrônico do TSE em 18/09/2026",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-14",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cg-16",
+          "title": "Diário da Justiça Eletrônico — Lista de candidatas e candidatos a presidente e vice (Eleições 2026)",
+          "publisher": "TSE — Diário da Justiça Eletrônico",
+          "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+          "publishedAt": "2026-09-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cg-15",
+          "title": "TSE aprova registros de seis candidatos à Presidência da República",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cg-13",
+          "title": "Ronaldo Caiado registra candidatura à Presidência no TSE com patrimônio 111% maior do que em 2022",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/eleicoes/ronaldo-caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022/",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Registro de bens e candidatura divulgados pelo TSE em 14/08/2026. Não foram localizadas impugnações de mérito deferidas contra a chapa nesta coleta; a inelegibilidade de 2024 foi anulada pelo TRE-GO (ver institutionalHistory)."
+    },
+    {
+      "id": "bens_declarados",
+      "category": "integridade",
+      "name": "Bens declarados à Justiça Eleitoral",
+      "displayValue": "R$ 52,5 milhões",
+      "value": 52500000,
+      "unit": "R$",
+      "metricType": "currency",
+      "directionality": "neutral",
+      "methodology": "Total de bens declarados no registro de 2026 (TSE/DivulgaCandContas, divulgado em 14/08/2026). Composição segundo G1: R$ 36.213.674,73 em imóveis rurais, R$ 10.489.480,00 em rebanho, R$ 4.288.620,51 em aplicações, R$ 1.008.634,21 em quotas, R$ 243.037,95 em terreno, R$ 148.613,18 em participações societárias, R$ 70.000,00 em casa, R$ 44.881,89 em depósitos e demais itens menores.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-11",
+          "title": "Caiado declara R$ 52,5 milhões em bens; Kassab informa R$ 21 milhões",
+          "publisher": "g1 (Globo) — dados TSE",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/ronaldo-caiado-gilberto-kassab-bens-declarados-tse.ghtml",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cg-13",
+          "title": "Ronaldo Caiado registra candidatura à Presidência no TSE com patrimônio 111% maior do que em 2022",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/eleicoes/ronaldo-caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022/",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Assessoria de Caiado atribui o aumento à venda da Fazenda Santa Maria (Nova Crixás/GO), herdada em 1985 e vendida por R$ 27,6 milhões em 2025, antes declarada pelo valor histórico de R$ 699.524,59."
+        },
+        {
+          "id": "src-cg-12",
+          "title": "Eleições 2026: veja a declaração de bens dos candidatos à Presidência",
+          "publisher": "g1 (Globo) — dados TSE",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/eleicoes-2026-declaracao-bens-presidenciaveis.ghtml",
+          "publishedAt": "2026-08-15",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Em 2022 declarou R$ 24.874.436,19 (+111% em 2026). Em 2023 foi classificado como 4º governador mais rico do Brasil pelo patrimônio declarado. Vice Kassab: R$ 21 milhões."
+    },
+    {
+      "id": "bancada_partidaria_camara",
+      "category": "articulacao",
+      "name": "Bancada do partido na Câmara dos Deputados",
+      "displayValue": "49/513 deputados federais (PSD, após janela partidária de 2026)",
+      "value": 49,
+      "unit": "cadeiras",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Cadeiras do PSD na Câmara informadas pelo próprio partido e pelo Estadão após a janela partidária (mar–abr/2026): 47 → 49 deputados. No Senado: 13 senadores (abr/2026, informe do PSD; o Metrópoles aponta 11 após a janela — divergência de contagem entre fontes).",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-26",
+          "title": "Congresso: PSD agora tem 13 senadores e 49 deputados",
+          "publisher": "PSD — Partido Social Democrático",
+          "url": "https://psd.org.br/noticias/congresso-psd-agora-tem-13-senadores-e-49-deputados/",
+          "publishedAt": "2026-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Fonte partidária; mês inferido do texto ('consolida em abril de 2026')."
+        },
+        {
+          "id": "src-cg-27",
+          "title": "Eleições 2026: após janela partidária, federação União-PP e PL têm maiores bancadas na Câmara (PSD: 47 → 49)",
+          "publisher": "Estadão/Broadcast",
+          "url": "https://www.estadao.com.br/politica/eleicoes-2026-apos-janela-partidaria-federacao-uniao-pp-e-pl-tem-maiores-bancadas-na-camara/",
+          "publishedAt": "2026-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-28",
+          "title": "Kassab acumula tropeços e tem largada eleitoral do PSD com desgastes (Senado: de 13 para 11)",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/kassab-acumula-tropecos-e-tem-largada-eleitoral-do-psd-com-desgastes",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Divergência entre fontes quanto ao Senado: PSD informa 13; Metrópoles aponta 11 após a janela. O PSD também afirma ter 6 governadores, 3 prefeitos de capitais e mais de 1,3 mil prefeitos."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "historico-experiencia",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "4% (Quaest, 28/09) | 4% (Datafolha, 24/09) | 5% (Datafolha, 21/08)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026 que informaram percentual do candidato.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-17",
+          "title": "Veja resultado da Quaest presidencial no 1º turno (Caiado, 4%; registro BR-06520/2026)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+          "publishedAt": "2026-09-28",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-19",
+          "title": "Pesquisa presidente 2026: veja números de Lula e Flávio Bolsonaro (Datafolha 24/09: Caiado 4%)",
+          "publisher": "UOL",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/09/28/pesquisa-presidente-2026-veja-numeros-de-lula-e-flavio-bolsonaro.ghtm",
+          "publishedAt": "2026-09-28",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-18",
+          "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5% (1º turno, 21/08/2026)",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+          "publishedAt": "2026-08-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Registro BR-04496/2026; 2.058 entrevistas, margem de 2 p.p."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Pesquisa Datafolha de 21/08 também mediu simulação de 2º turno Lula x Caiado. Pesquisa de 2026 citada pela Wikipédia en registra 84% de aprovação da gestão de Caiado em Goiás (11% de desaprovação), sem identificação do instituto capturada no dump."
+    },
+    {
+      "id": "aprovacao_gestao_goias",
+      "category": "historico-experiencia",
+      "name": "Aprovação da gestão estadual em Goiás",
+      "displayValue": "84% de aprovação / 11% de desaprovação (pesquisa de 2026)",
+      "value": 84,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual citado no verbete da campanha (Wikipédia em inglês) como '2026 poll' sobre aprovação da administração de Caiado em Goiás; instituto, amostra e data não capturados no dump — tratar como dado de baixa verificabilidade.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-02",
+          "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+          "publisher": "Wikipédia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt; fonte primária da pesquisa não identificada."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "currentSupport": [
+    {
+      "id": "sup-rc-1",
+      "description": "PSD, partido do vice Gilberto Kassab: 49 deputados federais e 13 senadores (informe do partido, abr/2026; Metrópoles aponta 11 senadores após a janela partidária), 6 governadores (Ratinho Júnior/PR, Eduardo Leite/RS, Mateus Simões/MG, Raquel Lyra/PE, Fábio Mitidieri/SE, Marcos Rocha/RO), 3 prefeitos de capitais e mais de 1,3 mil prefeitos.",
+      "value": "49 dep. federais + 13 senadores + 6 governadores (PSD)",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-cg-26",
+          "title": "Congresso: PSD agora tem 13 senadores e 49 deputados",
+          "publisher": "PSD — Partido Social Democrático",
+          "url": "https://psd.org.br/noticias/congresso-psd-agora-tem-13-senadores-e-49-deputados/",
+          "publishedAt": "2026-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-29",
+          "title": "Bancada ampliada do PSD faz sua primeira reunião (49 deputados, 13 senadores, 6 governadores, 1,3 mil prefeitos)",
+          "publisher": "PSD — Partido Social Democrático",
+          "url": "https://psd.org.br/noticias/bancada-ampliada-do-psd-faz-sua-primeira-reuniao/",
+          "publishedAt": "2026-04-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-30",
+          "title": "PSD nasce de ruptura com o DEM e vira força regional em 15 anos",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-partidos-politicos/psd-nasce-de-ruptura-com-o-dem-e-vira-forca-regional-em-15-anos/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "sup-rc-2",
+      "description": "Endossos públicos à chapa: Ratinho Júnior (governador do Paraná, PSD), Eduardo Leite (governador do Rio Grande do Sul, PSD), Mara Gabrilli (senadora por SP, PSD), Aldo Rebelo (ex-secretário internacional da Prefeitura de SP) e a apresentadora Silvia Abravanel.",
+      "value": "governadores PSD + figuras públicas",
+      "date": "2026-07-30",
+      "sources": [
+        {
+          "id": "src-cg-02",
+          "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês: seção Endorsements)",
+          "publisher": "Wikipédia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt."
+        }
+      ]
+    },
+    {
+      "id": "sup-rc-3",
+      "description": "Base congressista de sustentação informal declarada: articulação de maioria para o plano de governo ('Pacto Nacional de Governabilidade e Resultados'); a chapa não tem federação formal registrada nas fontes consultadas.",
+      "value": "sem federação formal localizada",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-cg-20",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+          "publisher": "Campanha Ronaldo Caiado (PSD)",
+          "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        }
+      ]
+    }
+  ],
+  "negotiationHistory": [
+    {
+      "id": "neg-rc-1",
+      "description": "Articulação do impeachment de Dilma Rousseff como senador: atuou como um dos principais articuladores do processo, votou pela prossecução do julgamento e pela perda do mandato; depois rompeu com o governo Tema/MDB em 2016 e adquiriu independência no Senado.",
+      "value": "voto favorável à perda do mandato (2016)",
+      "date": "2016",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "neg-rc-2",
+      "description": "Articulação da migração partidária de 2026: saída do União Brasil em janeiro e filiação ao PSD em 27/01/2026, negociada com os governadores Ratinho Júnior (PR) e Eduardo Leite (RS), que também tinham ambição presidencial pela mesma legenda; vitória na prévia e anúncio da candidatura por Kassab em 30/03/2026.",
+      "value": "transição União Brasil → PSD com apoio de 2 governadores",
+      "date": "2026-01-27",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-02",
+          "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+          "publisher": "Wikipédia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "neg-rc-3",
+      "description": "Relação com o bolsonarismo: aliado próximo de Bolsonaro no início do governo (2019), rompimento público em março de 2020 por divergência sobre o isolamento na pandemia, discurso institucionalista entre 2021 e 2023 (crítica aos ataques de 8/1) e reaproximação gradual com a base conservadora a partir de 2025, incluindo apoio público à anistia de Bolsonaro em 30/07/2026.",
+      "value": "rompimento (2020) → reaproximação (2025–2026)",
+      "date": "2026-07-30",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-02",
+          "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+          "publisher": "Wikipédia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "neg-rc-4",
+      "description": "Atuação como líder da bancada ruralista na Câmara e no Senado: como líder, obteve anistia temporária de parte da dívida de crédito agrícola do Plano Collor (1994); atuou na Comissão de Agricultura e Política Rural e integrou a CSPCCO; em 2023, articulou com a base congressista contra a reforma tributária, com visitas a Brasília incluindo a base do União Brasil.",
+      "value": "liderança da bancada ruralista (1991–2015)",
+      "date": "2023-04",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "institutionalHistory": [
+    {
+      "id": "inst-rc-1",
+      "category": "auditoria",
+      "title": "Ação de improbidade administrativa por uso de 51 policiais militares como segurança de ex-governador e familiares",
+      "legalStatus": "processo",
+      "currentStatus": "em_andamento",
+      "instance": "2ª Vara da Fazenda Pública de Goiás (GO); ação do Ministério Público de Goiás",
+      "lastUpdate": "2026-07-06",
+      "description": "Ajuizada em 27/06/2026 pelo MPGO (promotora Leila Maria de Oliveira) contra Ronaldo Caiado, Maria das Graças 'Gracinha' Caiado e o coronel PM Marco Aurélio Godinho (então chefe da Casa Militar), alegando enriquecimento ilícito e dano ao erário pelo uso de 51 PMs em segurança pessoal e familiar, com custo mensal de R$ 797,5 mil em salários e dano estimado em R$ 1.290.856,55; a portaria foi editada em 01/04/2026, um dia após a renúncia de Caiado ao governo. Em liminar de 06/07/2026, o juiz Vinícius Caldas de Gama Abreu determinou a redução de 51 para 4 PMs na segurança do ex-governador e da família, com multa diária de R$ 10.000 em caso de descumprimento, limitada a R$ 300.000. A defesa afirma que a equipe efetiva é de 4 policiais revezando-se em escala. Ainda não há decisão definitiva.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "sources": [
+        {
+          "id": "src-cg-31",
+          "title": "MP entra com ação contra uso de policiais como seguranças de Caiado (51 PMs, dano de R$ 1,29 mi)",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/06/ministerio-publico-de-goias-entra-com-acao-contra-uso-de-policiais-como-segurancas-de-caiado.shtml",
+          "publishedAt": "2026-06-27",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal"
+        },
+        {
+          "id": "src-cg-33",
+          "title": "Ronaldo Caiado entra na mira do MP de Goiás por uso de policiais como seguranças particulares",
+          "publisher": "Brasil de Fato",
+          "url": "https://www.brasildefato.com.br/2026/06/27/ronaldo-caiado-entra-na-mira-do-mp-de-goias-por-uso-de-policiais-como-segurancas-particulares/",
+          "publishedAt": "2026-06-27",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal"
+        },
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português: liminar de 06/07/2026, juiz Vinícius Caldas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "inst-rc-2",
+      "category": "tribunal",
+      "title": "Ação por abuso de poder político nas municipais de 2024 — inelegibilidade decretada e anulada",
+      "legalStatus": "decisao_anulada",
+      "currentStatus": "encerrado",
+      "instance": "1ª Zona Eleitoral de Goiânia (juíza Maria Umbelina Zorzetti) → Tribunal Regional Eleitoral de Goiás (TRE-GO)",
+      "lastUpdate": "2025-04-08",
+      "description": "Em 10/12/2024, a juíza da 1ª Zona Eleitoral de Goiânia condenou Caiado por abuso de poder político nas eleições municipais de 2024 (uso do Palácio das Esmeraldas para jantares de campanha do então pré-candidato Sandro Mabel, entre 7 e 9/10/2024) e decretou sua inelegibilidade por 8 anos, pedindo também a cassação do prefeito eleito Sandro Mabel e da vice Coronel Cláudia. A denúncia partiu da coligação de Fred Rodrigues (PL). Em 08/04/2025, o TRE-GO derrubou por unanimidade a inelegibilidade de Caiado, Mabel e da vice. O PL chegou a anunciar recurso ao TSE, mas desistiu dias depois, alegando 'unir forças por uma só direita'.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português: seção 'Processo de inelegibilidade')",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Verbete é a única fonte localizada para a decisão; documentos do TRE-GO não foram consultados diretamente nesta coleta."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "inst-rc-3",
+      "category": "tribunal",
+      "title": "Condenação por propaganda eleitoral antecipada (eleições de 2018)",
+      "legalStatus": "condenacao",
+      "currentStatus": "encerrado",
+      "instance": "Tribunal Regional Eleitoral de Goiás (TRE-GO), em ação do Ministério Público Eleitoral",
+      "lastUpdate": "não informado",
+      "description": "Caiado foi condenado pelo TRE-GO por propaganda eleitoral antecipada: em evento no município de Morrinhos, então candidato a governador, fez discurso com pedido expresso de voto para Wilder Morais, pré-candidato à reeleição ao Senado. Data da decisão e pena não capturadas nas fontes consultadas.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português: 'Campanha eleitoral antecipada de 2018')",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "inst-rc-4",
+      "category": "prestacao_de_contas",
+      "title": "Contas do exercício de 2025 — parecer prévio favorável do TCE-GO",
+      "legalStatus": "aprovacao",
+      "currentStatus": "em_andamento",
+      "instance": "TCE-GO (relator: conselheiro Sebastião Tejota); julgamento definitivo depende da ALEGO",
+      "lastUpdate": "2026-06-16",
+      "description": "Em 16/06/2026, o Pleno do TCE-GO aprovou por unanimidade o parecer prévio favorável às Contas Anuais do governador referentes a 2025, último ano completo da gestão: cumprimento das vinculações constitucionais de saúde e educação, teto de gastos e limite de pessoal (50,07% da RCL ajustada), dívida consolidada de R$ 15,18 bi (62,6% da RCL, menor endividamento bruto desde a LRF), arrecadação de R$ 49,6 bi (+7,07% sobre 2024) e investimentos de R$ 7,21 bi (maior série em valores reais), com determinações e recomendações pontuais encaminhadas ao governo.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "sources": [
+        {
+          "id": "src-cg-07",
+          "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+          "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+          "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+          "publishedAt": "2026-06-16",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas"
+        },
+        {
+          "id": "src-cg-08",
+          "title": "TCE aprova contas de Caiado e aponta cumprimento de metas fiscais e constitucionais em 2025",
+          "publisher": "Jornal Opção",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/tce-aprova-contas-de-caiado-e-aponta-cumprimento-de-metas-fiscais-e-constitucionais-em-2025-838503/",
+          "publishedAt": "2026-06-19",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "inst-rc-5",
+      "category": "prestacao_de_contas",
+      "title": "Contas dos exercícios de 2023 e 2024 — aprovação no TCE-GO/ALEGO",
+      "legalStatus": "aprovacao",
+      "currentStatus": "encerrado",
+      "instance": "TCE-GO → Assembleia Legislativa de Goiás (ALEGO)",
+      "lastUpdate": "2025-12-04",
+      "description": "O Pleno do TCE-GO aprovou o parecer prévio favorável às contas do governo de 2023 (processo nº 12808/24) com 19 recomendações e determinações de ajuste, seguido da aprovação do relatório pela ALEGO em 04/12/2025. Para o exercício de 2024, o TCE-GO emitiu parecer prévio favorável (relator conselheiro Edson Ferrari), com destaques para metas fiscais, índices constitucionais e limites de endividamento.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "sources": [
+        {
+          "id": "src-cg-09",
+          "title": "Relatório do TCE sobre contas do governo de 2023 é aprovado",
+          "publisher": "Assembleia Legislativa de Goiás (ALEGO)",
+          "url": "https://portal.al.go.leg.br/noticias/161085/relatorio-do-tce-sobre-contas-do-governo-de-2023-e-aprovado",
+          "publishedAt": "2025-12-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        },
+        {
+          "id": "src-cg-10",
+          "title": "TCE-GO aprova parecer prévio das contas do governador (exercício de 2024)",
+          "publisher": "Tribunal do Planalto",
+          "url": "https://tribunadoplanalto.com.br/tce-go-aprova-parecer-previo-das-contas-do-governador/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas",
+          "notes": "Data exata da publicação não capturada; exercício de 2024."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "inst-rc-6",
+      "category": "tribunal",
+      "title": "Arquivamento de inquérito por difamação alegada por ex-prefeito de Turvânia (prescrição)",
+      "legalStatus": "arquivamento",
+      "currentStatus": "encerrado",
+      "instance": "STF (ministro Marco Aurélio Mello), após tramitação na Polícia Civil de Goiás e na justiça de 1ª instância",
+      "lastUpdate": "não informado",
+      "description": "O ex-prefeito de Turvânia, José Rodrigues Rosas, acusou Caiado de difamação e de ter ordenado agressão por seguranças durante comício em Goiânia (2010). O inquérito ficou mais de seis anos na Polícia Civil de Goiás antes de seguir ao STF em razão do foro privilegiado, e os autos foram arquivados pelo ministro Marco Aurélio Mello após a prescrição do crime.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "inst-rc-7",
+      "category": "patrimonial",
+      "title": "Variação do patrimônio declarado entre 2022 e 2026 (+111%)",
+      "legalStatus": "regular",
+      "currentStatus": "encerrado",
+      "instance": "TSE/DivulgaCandContas (declaração de bens)",
+      "lastUpdate": "2026-08-14",
+      "description": "Bens declarados passaram de R$ 24.874.436,19 (2022) para R$ 52,5 milhões (2026). Segundo a assessoria do candidato ao Estadão, o aumento decorre da venda da Fazenda Santa Maria (Nova Crixás/GO), herdada em 1985 e vendida em 2025 por R$ 27,6 milhões, antes declarada pelo valor histórico de aquisição de R$ 699.524,59. Declaração aceita sem questionamento registrado nas fontes consultadas.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "sources": [
+        {
+          "id": "src-cg-11",
+          "title": "Caiado declara R$ 52,5 milhões em bens; Kassab informa R$ 21 milhões",
+          "publisher": "g1 (Globo) — dados TSE",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/ronaldo-caiado-gilberto-kassab-bens-declarados-tse.ghtml",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cg-13",
+          "title": "Ronaldo Caiado registra candidatura à Presidência no TSE com patrimônio 111% maior do que em 2022",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/eleicoes/ronaldo-caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022/",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "sources": [
+    { "id": "src-cg-01", "title": "Ronaldo Caiado — verbete (Wikipédia em português)", "publisher": "Wikipédia", "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt." },
+    { "id": "src-cg-02", "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)", "publisher": "Wikipédia (en)", "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt." },
+    { "id": "src-cg-03", "title": "Lei nº 24.019, de 6 de janeiro de 2026 — Orçamento Geral do Estado de Goiás 2026", "publisher": "Casa Civil / Governo de Goiás", "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112043/pdf", "publishedAt": "2026-01-06", "accessedAt": "2026-09-29", "sourceType": "estadual" },
+    { "id": "src-cg-04", "title": "Caiado sanciona Lei Orçamentária Anual com previsão de R$ 49 bi (LOA 2025)", "publisher": "O Hoje", "url": "https://ohoje.com/2025/01/30/caiado-sanciona-lei-orcamentaria-anual-com-previsao-de-49-bi/", "publishedAt": "2025-01-30", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-05", "title": "Orçamento Geral do Estado 2025 — Secretaria da Economia de Goiás", "publisher": "Governo de Goiás", "url": "https://goias.gov.br/economia/orcamento-geral-do-estado-2025/", "publishedAt": "2025-01-25", "accessedAt": "2026-09-29", "sourceType": "estadual" },
+    { "id": "src-cg-06", "title": "Boletim do Quadro de Pessoal do Poder Executivo de Goiás — mai/2025 (até mar/2025)", "publisher": "TCE-GO", "url": "https://portal.tce.go.gov.br/documents/20181/1264167/BOLETIM%20ESTRAT%C3%89GICO%20DO%20QUADRO%20DE%20PESSOAL%20DO%20PODER%20EXECUTIVO%20DO%20ESTADO%20GOI%C3%81S%20-%20MAIO%20DE%202025%20(Com%20dados%20consolidados%20at%C3%A9%20MAR-2025)/74c3cd9f-7f27-4299-b8c6-2f878685c2fd", "publishedAt": "2025-05", "accessedAt": "2026-09-29", "sourceType": "tribunal_de_contas" },
+    { "id": "src-cg-06b", "title": "Quadro de pessoal do Estado no site do TCE-GO (101.374 ativos)", "publisher": "TCE-GO", "url": "https://portal.tce.go.gov.br/-/dados-sobre-o-quadro-de-pessoal-do-estado-disponiveis-no-site-do-tce-go", "publishedAt": "não informado", "accessedAt": "2026-09-29", "sourceType": "tribunal_de_contas" },
+    { "id": "src-cg-07", "title": "TCE-GO aprova parecer prévio das contas do governo em 2025", "publisher": "Agência Goiás de Notícias", "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/", "publishedAt": "2026-06-16", "accessedAt": "2026-09-29", "sourceType": "tribunal_de_contas" },
+    { "id": "src-cg-08", "title": "TCE aprova contas de Caiado e aponta cumprimento de metas fiscais em 2025", "publisher": "Jornal Opção", "url": "https://www.jornalopcao.com.br/ultimas-noticias/tce-aprova-contas-de-caiado-e-aponta-cumprimento-de-metas-fiscais-e-constitucionais-em-2025-838503/", "publishedAt": "2026-06-19", "accessedAt": "2026-09-29", "sourceType": "tribunal_de_contas" },
+    { "id": "src-cg-09", "title": "Relatório do TCE sobre contas do governo de 2023 é aprovado", "publisher": "ALEGO", "url": "https://portal.al.go.leg.br/noticias/161085/relatorio-do-tce-sobre-contas-do-governo-de-2023-e-aprovado", "publishedAt": "2025-12-04", "accessedAt": "2026-09-29", "sourceType": "estadual" },
+    { "id": "src-cg-10", "title": "TCE-GO aprova parecer prévio das contas do governador (exercício de 2024)", "publisher": "Tribunal do Planalto", "url": "https://tribunadoplanalto.com.br/tce-go-aprova-parecer-previo-das-contas-do-governador/", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "tribunal_de_contas" },
+    { "id": "src-cg-11", "title": "Caiado declara R$ 52,5 milhões em bens; Kassab informa R$ 21 milhões", "publisher": "g1 (Globo) — dados TSE", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/ronaldo-caiado-gilberto-kassab-bens-declarados-tse.ghtml", "publishedAt": "2026-08-14", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
+    { "id": "src-cg-12", "title": "Eleições 2026: declaração de bens dos candidatos à Presidência", "publisher": "g1 (Globo) — dados TSE", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/eleicoes-2026-declaracao-bens-presidenciaveis.ghtml", "publishedAt": "2026-08-15", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
+    { "id": "src-cg-13", "title": "Caiado registra candidatura no TSE com patrimônio 111% maior que em 2022", "publisher": "Estadão", "url": "https://www.estadao.com.br/politica/eleicoes/ronaldo-caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022/", "publishedAt": "2026-08-14", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-14", "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República", "publisher": "TSE", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica", "publishedAt": "2026-09-11", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
+    { "id": "src-cg-15", "title": "TSE aprova registros de seis candidatos à Presidência da República", "publisher": "Agência Brasil (EBC)", "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
+    { "id": "src-cg-16", "title": "Diário da Justiça Eletrônico — lista de candidatos a presidente e vice (2026)", "publisher": "TSE — DJE", "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica", "publishedAt": "2026-09-18", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
+    { "id": "src-cg-17", "title": "Quaest, 1º turno (28/09/2026): Caiado, 4%", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml", "publishedAt": "2026-09-28", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-18", "title": "Datafolha 21/08/2026 — 1º turno (Caiado 5%)", "publisher": "g1 (Globo) — dados Datafolha", "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml", "publishedAt": "2026-08-21", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-19", "title": "Pesquisa presidente 2026 (Datafolha 24/09: Caiado 4%)", "publisher": "UOL", "url": "https://noticias.uol.com.br/eleicoes/2026/09/28/pesquisa-presidente-2026-veja-numeros-de-lula-e-flavio-bolsonaro.ghtm", "publishedAt": "2026-09-28", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-20", "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF)", "publisher": "Campanha Ronaldo Caiado (PSD)", "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "plano_de_governo" },
+    { "id": "src-cg-21", "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho)", "publisher": "Poder360", "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "plano_de_governo" },
+    { "id": "src-cg-22", "title": "Ronaldo Caiado: veja as propostas do candidato a presidente", "publisher": "Valor Econômico", "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/ronaldo-caiado-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml", "publishedAt": "2026-08-25", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-23", "title": "Propostas de Caiado na íntegra (páginas do plano)", "publisher": "SBT News", "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pobreza-e-desigualdade-veja-propostas-de-lula-na-integra-2", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "plano_de_governo" },
+    { "id": "src-cg-24", "title": "Saúde: Caiado mostra como será seu governo (coordenação de Mandetta)", "publisher": "PSD", "url": "https://psd.org.br/noticias/saude-caiado-mostra-como-sera-seu-governo", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "plano_de_governo" },
+    { "id": "src-cg-26", "title": "Congresso: PSD agora tem 13 senadores e 49 deputados", "publisher": "PSD", "url": "https://psd.org.br/noticias/congresso-psd-agora-tem-13-senadores-e-49-deputados/", "publishedAt": "2026-04", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-27", "title": "Após janela partidária, PSD tem 49 deputados", "publisher": "Estadão/Broadcast", "url": "https://www.estadao.com.br/politica/eleicoes-2026-apos-janela-partidaria-federacao-uniao-pp-e-pl-tem-maiores-bancadas-na-camara/", "publishedAt": "2026-04", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-28", "title": "Kassab e a largada eleitoral do PSD com desgastes (Senado: 11)", "publisher": "Metrópoles", "url": "https://www.metropoles.com/sao-paulo/kassab-acumula-tropecos-e-tem-largada-eleitoral-do-psd-com-desgastes", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-29", "title": "Bancada ampliada do PSD faz sua primeira reunião", "publisher": "PSD", "url": "https://psd.org.br/noticias/bancada-ampliada-do-psd-faz-sua-primeira-reuniao/", "publishedAt": "2026-04-07", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-30", "title": "PSD nasce de ruptura com o DEM e vira força regional em 15 anos", "publisher": "Poder360", "url": "https://www.poder360.com.br/poder-partidos-politicos/psd-nasce-de-ruptura-com-o-dem-e-vira-forca-regional-em-15-anos/", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-cg-31", "title": "MPGO entra com ação contra uso de policiais como seguranças de Caiado", "publisher": "Folha de S.Paulo", "url": "https://www1.folha.uol.com.br/poder/2026/06/ministerio-publico-de-goias-entra-com-acao-contra-uso-de-policiais-como-segurancas-de-caiado.shtml", "publishedAt": "2026-06-27", "accessedAt": "2026-09-29", "sourceType": "tribunal" },
+    { "id": "src-cg-32", "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela", "publisher": "Agência Goiás de Notícias", "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela", "publishedAt": "2026-03-31", "accessedAt": "2026-09-29", "sourceType": "estadual" },
+    { "id": "src-cg-33", "title": "MP de Goiás ação contra policiais como seguranças particulares de Caiado", "publisher": "Brasil de Fato", "url": "https://www.brasildefato.com.br/2026/06/27/ronaldo-caiado-entra-na-mira-do-mp-de-goias-por-uso-de-policiais-como-segurancas-particulares/", "publishedAt": "2026-06-27", "accessedAt": "2026-09-29", "sourceType": "tribunal" },
+    { "id": "src-cg-34", "title": "Programa Goiás Por Elas (Seds/Governo de Goiás)", "publisher": "Governo de Goiás", "url": "https://goias.gov.br/social/goias-por-elas", "publishedAt": "2026-04-08", "accessedAt": "2026-09-29", "sourceType": "estadual" },
+    { "id": "src-cg-37", "title": "PLP/PL nº 191 de 2015 — autoria do Senador Ronaldo Caiado", "publisher": "Senado Federal", "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/120518/pdf", "publishedAt": "2015", "accessedAt": "2026-09-29", "sourceType": "legislativo" }
+  ],
+  "dataGaps": [
+    "Produção legislativa do Senado/Câmara (nº de matérias aprovadas como autor) não quantificada — apenas exemplos localizados por busca.",
+    "Custos por proposta do plano de governo não informados; % de propostas com custo/prazo/meta ficou under_analysis.",
+    "Data e pena da condenação por propaganda antecipada (2018) não capturadas.",
+    "Resultado final da ADI 6.200/GO (lei do amianto) não localizado.",
+    "Pesquisa de aprovação de 84% em Goiás sem instituto/amostra identificados (fonte: verbete em inglês).",
+    "LOAs de 2019–2024 não capturadas; maior orçamento calculado com 2025 e 2026.",
+    "Nº de servidores com data exata do total estadual (101.374) não capturado; dado do Executivo (90.428) é de mar/2025.",
+    "Não foi consultado o DivulgaCandContas diretamente (web_extract indisponível nesta sessão); dados do TSE vieram de páginas oficiais e de imprensa que replicam a plataforma."
+  ],
+  "updatedAt": "2026-09-29"
+}

@@ -20,6 +20,13 @@ const outFile = join(root, "src", "data", "research.ts");
 
 const EV = new Set(["confirmado", "parcial", "indeterminado", "contestado"]);
 const CF = new Set(["high", "medium", "low"]);
+const ST_OK = new Set([
+  "oficial_eleitoral", "legislativo", "executivo_federal", "diario_oficial",
+  "transparencia", "tribunal", "tribunal_de_contas", "estatistico", "economico",
+  "estadual", "municipal", "plano_de_governo", "partidaria", "pesquisa_eleitoral",
+  "imprensa", "editorial",
+]);
+const ST_ALIAS = { estadistico: "estatistico", wikipedia: "editorial", enciclopedico: "editorial" };
 const AV_MAP = {
   available: "available",
   available_partial: "available",
@@ -240,16 +247,17 @@ for (const f of files) {
     ),
     achievements: (d.achievements ?? []).map((a, i) => mapAchievement(a, i, slug)),
     governmentPlan: plan,
-    currentSupport: d.currentSupport ?? [],
-    negotiationHistory: d.negotiationHistory ?? [],
+    currentSupport: mapCoalition(d.currentSupport, `sup-${slug}`),
+    negotiationHistory: mapCoalition(d.negotiationHistory, `neg-${slug}`),
     institutionalHistory: (d.institutionalHistory ?? [])
       .map((r, i) => mapInstitutional(r, i, slug))
       .filter(Boolean),
     metrics,
-    sources: d.sources ?? [],
+    sources: (d.sources ?? []).map(coerceSource),
     updatedAt: d.updatedAt ?? new Date().toISOString().slice(0, 10),
   };
 
+  resolveSourcesDeep(o, o.sources);
   overrides.push(o);
   const noSrc = metrics.filter((m) => (m.sources ?? []).length === 0).length;
   console.log(
@@ -258,6 +266,51 @@ for (const f of files) {
         (d.sources ?? []).length
       ).padStart(3)} escopo:${d.researchScope ?? "?"}`
   );
+}
+
+function coerceSource(s) {
+  const out = { ...s };
+  if (out.publishedAt == null) delete out.publishedAt;
+  if (out.accessedAt == null) out.accessedAt = "";
+  out.sourceType = ST_ALIAS[out.sourceType] || (ST_OK.has(out.sourceType) ? out.sourceType : "imprensa");
+  if (typeof out.id !== "string" || !out.id) out.id = `src-${Math.random().toString(36).slice(2, 10)}`;
+  return out;
+}
+
+/** Resolve sources que vieram como ["id-x"] para objetos completos do pool; coerceia todos. */
+function resolveSourcesDeep(node, pool) {
+  if (Array.isArray(node)) {
+    for (const x of node) resolveSourcesDeep(x, pool);
+    return;
+  }
+  if (!node || typeof node !== "object") return;
+  if (Array.isArray(node.sources)) {
+    node.sources = node.sources
+      .map((s) => (typeof s === "string" ? pool.find((p) => p && p.id === s) : s))
+      .filter(Boolean)
+      .map(coerceSource);
+  }
+  for (const k of Object.keys(node)) {
+    if (k === "sources") continue;
+    resolveSourcesDeep(node[k], pool);
+  }
+}
+
+/** currentSupport / negotiationHistory -> CoalitionSupport com chaves completas. */
+function mapCoalition(list, prefix) {
+  return (list ?? []).map((c, i) => {
+    const parts = [];
+    if (c.scope) parts.push(`Escopo: ${c.scope}.`);
+    if (c.event) parts.push(`${c.event}.`);
+    if (c.description) parts.push(c.description);
+    return {
+      id: c.id ?? `${prefix}-${i + 1}`,
+      description: parts.join(" ").trim() || "",
+      value: c.value ?? c.outcome ?? "",
+      date: c.date ?? "",
+      sources: c.sources ?? [],
+    };
+  });
 }
 
 const HEADER =

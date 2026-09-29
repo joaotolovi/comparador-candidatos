@@ -1,6 +1,6 @@
 // ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
-// 9 candidato(s) com pesquisa profunda; os demais ficam só no seed.
-// Gerado em: 2026-09-29T15:43:31.819Z
+// 13 candidato(s) com pesquisa profunda; os demais ficam só no seed.
+// Gerado em: 2026-09-29T16:20:33.869Z
 import type { Candidate } from "@/types";
 
 export const researched: Partial<Candidate>[] = [
@@ -1778,6 +1778,2090 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Capítulo 'Floresta viva' do plano de Cury."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "caiado",
+    "name": "Ronaldo Ramos Caiado",
+    "ballotName": "Ronaldo Caiado",
+    "ballotNumber": 55,
+    "party": "PSD",
+    "coalition": "PSD (nº 55) em chapa própria, sem federação/coligação declarada nas fontes consultadas; vice: Gilberto Kassab (PSD), presidente nacional do partido e ex-prefeito de São Paulo, confirmado como vice em 01/07/2026.",
+    "photo": "",
+    "birthDate": "1949-09-25",
+    "birthplace": "Anápolis/GO",
+    "age": 77,
+    "profession": "Médico ortopedista (profissão declarada ao TSE); também professor e produtor rural",
+    "currentRole": "Candidato à Presidência da República pelo PSD (registro aprovado pelo TSE em set/2026); ex-governador de Goiás (jan/2019–31/03/2026, dois mandatos), deixou o cargo para disputar a eleição",
+    "tagline": "Médico ortopedista, ex-deputado federal por cinco mandatos e ex-senador por Goiás, governou Goiás por dois mandatos (2019–2026) e disputa a Presidência em 2026 pelo PSD, 37 anos após sua primeira candidatura presidencial em 1989.",
+    "education": [
+      {
+        "id": "edu-rc-1",
+        "level": "graduacao",
+        "field": "Medicina",
+        "institution": "Escola de Medicina e Cirurgia (hoje vinculada à Universidade Federal do Estado do Rio de Janeiro, UNIRIO)",
+        "conclusionYear": 1972,
+        "notes": "Formou-se em medicina em 1972.",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice de trajetória; números eleitorais e datas conferidos com outras fontes quando possível."
+          }
+        ]
+      },
+      {
+        "id": "edu-rc-2",
+        "level": "mestrado",
+        "field": "Ortopedia e Traumatologia",
+        "institution": "Universidade Federal do Rio de Janeiro (UFRJ)",
+        "conclusionYear": 1979,
+        "notes": "Concluiu o mestrado em ortopedia e traumatologia pela UFRJ em 1979.",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "edu-rc-3",
+        "level": "especializacao",
+        "field": "Cirurgia da coluna (ortopedia e traumatologia)",
+        "institution": "Serviço do Professor Roy-Camille, Paris (França); atuou em 1977 como assistente estrangeiro da Universidade de Paris",
+        "conclusionYear": null,
+        "notes": "Especialização na França; participou em 1977 do Congresso da Sociedade Francesa de Cirurgia Ortopédica e Traumatologia. Ano de conclusão não informado.",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-rc-1",
+        "role": "Médico — professor assistente e residente de ortopedia",
+        "organization": "UFRJ / Hospital Miguel Couto (Rio de Janeiro)",
+        "startDate": "1978",
+        "endDate": "1984",
+        "description": "Entre 1978 e 1979 lecionou no Departamento de Ortopedia e Traumatologia da UFRJ; durante a residência médica (1978–1984) ministrou aulas no Hospital Miguel Couto e em cursos e congressos nos estados do Rio de Janeiro e da Bahia. Ocupação declarada ao TSE em 2026: médico ortopedista.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "prof-rc-2",
+        "role": "Presidente da União Democrática Ruralista (UDR)",
+        "organization": "UDR — União Democrática Ruralista",
+        "startDate": "1985",
+        "endDate": "1989",
+        "description": "Fundou a UDR em 1985, no contexto da disputa sobre a reforma agrária no governo Sarney, e presidiu a entidade entre 1986 e 1989, quando deixou a presidência para disputar a eleição presidencial. É produtor rural ligado a associações de criadores de zebu e nelore em Goiás.",
+        "achievements": [
+          "Fundação e presidência da UDR (1985–1989), principal entidade de defesa dos grandes proprietários rurais"
+        ],
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-rc-1",
+        "role": "Candidato à Presidência da República (2ª disputa em 2026)",
+        "organization": "PSD",
+        "startDate": "2026",
+        "endDate": null,
+        "description": "Deixou o União Brasil em janeiro de 2026 após desgastes internos (federação com o PP e falta de apoio da cúpula), filiou-se ao PSD em 27/01/2026, venceu a prévia do partido contra Eduardo Leite e foi anunciado como candidato por Kassab em 30/03/2026; convenção nacional que o oficializou, com Kassab como vice, em 26/07/2026, em São Paulo. Preside o PSD-GO desde 19/03/2026. É a segunda candidatura presidencial de sua vida (a primeira foi em 1989).",
+        "achievements": [
+          "Convenção oficial do PSD em 26/07/2026 (São Paulo)",
+          "Vitória na prévia do PSD sobre Eduardo Leite (anúncio em 30/03/2026)"
+        ],
+        "sources": [
+          {
+            "id": "src-cg-02",
+            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+            "publisher": "Wikipédia (en)",
+            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt."
+          },
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "pol-rc-2",
+        "role": "Governador de Goiás (2 mandatos)",
+        "organization": "Governo do Estado de Goiás",
+        "startDate": "2019",
+        "endDate": "2026-03-31",
+        "description": "Eleito em 2018 com 1.773.185 votos (59,73% dos válidos) e reeleito em 2022 com 1.806.892 votos (51,81%); renunciou ao mandato em 31/03/2026 para disputar a Presidência, transmitindo o cargo ao vice Daniel Vilela (MDB). Gestão marcada por crescimento do agronegócio, discurso de segurança pública e rompimento público com Bolsonaro na pandemia (2020), seguido de reaproximação com a direita a partir de 2025. Relato do verbete em inglês: pesquisa de 2026 aponta 84% de aprovação da gestão em Goiás (11% de desaprovação). Como governador, promulgou a Lei nº 20.514/2019 (extração de crisotila) — alvo da ADI nº 6.200/GO, cujo resultado não foi localizado nas fontes consultadas; o verbete também afirma que ele nomeou ao menos 22 parentes para funções públicas em Goiás (dado não conferido em fonte primária).",
+        "achievements": [
+          "Eleição em 2018 já no 1º turno (59,73% dos votos válidos)",
+          "Reeleição em 2022 já no 1º turno (51,81% dos votos válidos)",
+          "Contas de 2025 aprovadas por unanimidade no TCE-GO com parecer prévio favorável (16/06/2026)"
+        ],
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-07",
+            "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+            "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+            "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+            "publishedAt": "2026-06-16",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas"
+          },
+          {
+            "id": "src-cg-32",
+            "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+            "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+            "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+            "publishedAt": "2026-03-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          },
+          {
+            "id": "src-cg-02",
+            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+            "publisher": "Wikipédia (en)",
+            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "pol-rc-3",
+        "role": "Senador por Goiás",
+        "organization": "Senado Federal",
+        "startDate": "2015",
+        "endDate": "2019-01",
+        "description": "Eleito em 2014 com 1.283.665 votos (47,57% dos válidos); líder do DEM no Senado (eleito por unanimidade) e membro titular de comissões (Assuntos Econômicos; Constituição e Justiça; Infraestrutura; Meio Ambiente; Agricultura; Reforma Política). Articulador do impeachment de Dilma Rousseff, votou pela prossecução do processo e pela perda do mandato; votou a favor da PEC do teto de gastos (12/2016) e da reforma trabalhista (07/2017). Deixou o Senado em jan/2019, na metade do mandato, ao assumir o governo de Goiás (assumiu o suplente Luiz Carlos do Carmo). Em 2015, o ex-senador Demóstenes Torres afirmou em artigo que campanhas de 2002, 2006 e 2010 teriam sido financiadas pelo esquema de Carlinhos Cachoeira; Caiado negou e nenhum processo judicial decorrente dessa alegação foi localizado nas fontes consultadas.",
+        "achievements": [
+          "Prêmio Congresso em Foco de melhor senador em 2015 (eleição popular, segundo o verbete)"
+        ],
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-37",
+            "title": "Projeto de Lei do Senado nº 191, de 2015 (autoria do Senador Ronaldo Caiado, DEM/GO)",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/120518/pdf",
+            "publishedAt": "2015",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Exemplo de matérias de autoria localizadas por busca; produção legislativa completa (nº de leis aprovadas) não quantificada."
+          }
+        ]
+      },
+      {
+        "id": "pol-rc-4",
+        "role": "Deputado federal por Goiás (5 mandatos)",
+        "organization": "Câmara dos Deputados",
+        "startDate": "1991",
+        "endDate": "2015-02",
+        "description": "Cinco mandatos: 1991–1995 (eleito em 1990 pelo PSD com 98.256 votos, depois PDC, PFL e PPR) e 1999–2015 (PFL/DEM, reeleito em 1998 com 100.446 votos, 2002 com 114.728, 2006 com 152.895 e 2010 com 167.591). Líder da bancada ruralista, atuou nas comissões de Agricultura e Política Rural, Segurança Pública e Combate ao Crime Organizado; votou contra o impeachment de Collor (1992). Deixou a Câmara em 1994 para disputar o governo de Goiás (3º lugar, 364.767 votos, 23,18% dos válidos) e retornou em 1999.",
+        "achievements": [
+          "Deputado federal mais votado de Goiás em 1990 (98.256 votos)",
+          "4 mandatos consecutivos de 1999 a 2015"
+        ],
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "pol-rc-5",
+        "role": "Candidato à Presidência da República (1ª vez)",
+        "organization": "PSD (1989)",
+        "startDate": "1989",
+        "endDate": "1989",
+        "description": "Deixou a presidência da UDR para disputar a eleição presidencial de 1989 pelo PSD: 488.872 votos (0,68%), 10º lugar; apoiou Fernando Collor no segundo turno.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-02",
+            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+            "publisher": "Wikipédia (en)",
+            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [
+      {
+        "id": "exec-rc-1",
+        "role": "Governador de Goiás (2 mandatos consecutivos)",
+        "organization": "Governo do Estado de Goiás",
+        "startDate": "2019",
+        "endDate": "2026-03-31",
+        "description": "Dois mandatos eletivos (2018 e 2022), deixando o cargo em 31/03/2026. Executou a LOA de cada exercício: R$ 49,48 bi de receita/despesa na LOA 2025 (Lei 23.246/2025) e R$ 53.444.488.797,00 na LOA 2026 (Lei 24.019/2026). Em 2025 (último ano completo), receita líquida de R$ 49,6 bi, investimentos de R$ 7,21 bi (maior da série em valores reais), dívida consolidada de 62,6% da RCL e despesa de pessoal em 50,07% da RCL ajustada, conforme parecer prévio do TCE-GO. Programas estaduais incluem Goiás Social, Mães de Goiás e Goiás Por Elas (transferência de R$ 300/mês por até 12 meses a mulheres em situação de violência doméstica com medida protetiva).",
+        "achievements": [
+          "Parecer prévio do TCE-GO favorável à aprovação das contas de 2025, por unanimidade (16/06/2026)",
+          "Investimentos de R$ 7,21 bi em 2025 — maior volume da série histórica em valores reais (TCE-GO)",
+          "Saída do Regime de Recuperação Fiscal (RRF) para o Propag, com economia estimada em R$ 26 bi em 30 anos no serviço da dívida (TCE-GO)"
+        ],
+        "sources": [
+          {
+            "id": "src-cg-03",
+            "title": "Lei nº 24.019, de 6 de janeiro de 2026 — Orçamento Geral do Estado de Goiás 2026 (receita total R$ 53.444.488.797,00)",
+            "publisher": "Casa Civil / Governo de Goiás (legislação)",
+            "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112043/pdf",
+            "publishedAt": "2026-01-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual",
+            "notes": "Texto legal da LOA 2026."
+          },
+          {
+            "id": "src-cg-04",
+            "title": "Caiado sanciona Lei Orçamentária Anual com previsão de R$ 49 bi (LOA 2025: R$ 49.481.946.626,00)",
+            "publisher": "O Hoje",
+            "url": "https://ohoje.com/2025/01/30/caiado-sanciona-lei-orcamentaria-anual-com-previsao-de-49-bi/",
+            "publishedAt": "2025-01-30",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Sanção da Lei 23.246/2025; despesa prevista de R$ 48,4 bi, dos quais R$ 27,65 bi de folha de pessoal."
+          },
+          {
+            "id": "src-cg-05",
+            "title": "Orçamento Geral do Estado 2025 — Secretaria da Economia de Goiás (Lei nº 23.246, de 25/01/2025)",
+            "publisher": "Governo de Goiás",
+            "url": "https://goias.gov.br/economia/orcamento-geral-do-estado-2025/",
+            "publishedAt": "2025-01-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          },
+          {
+            "id": "src-cg-07",
+            "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+            "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+            "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+            "publishedAt": "2026-06-16",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas"
+          },
+          {
+            "id": "src-cg-34",
+            "title": "Goiás Por Elas — programa de transferência de renda (Seds/Governo de Goiás)",
+            "publisher": "Governo de Goiás",
+            "url": "https://goias.gov.br/social/goias-por-elas",
+            "publishedAt": "2026-04-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          }
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "id": "ach-rc-1",
+        "title": "Aprovação das contas do governo no TCE-GO nos exercícios apurados",
+        "context": "Governador de Goiás, exercícios 2023, 2024 e 2025",
+        "description": "O TCE-GO emitiu parecer prévio favorável à aprovação das contas do governador nos exercícios de 2023 (aprovado no Plenário em 04/12/2025, com 19 recomendações e determinações), 2024 (parecer favorável do conselheiro Edson Ferrari) e 2025 (aprovado por unanimidade em 16/06/2026, relator conselheiro Sebastião Tejota, com destaque para o cumprimento das vinculações de saúde e educação, do teto de gastos e do limite de pessoal, então em 50,07% da RCL ajustada). O julgamento definitivo cabe à Assembleia Legislativa de Goiás.",
+        "sources": [
+          {
+            "id": "src-cg-07",
+            "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+            "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+            "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+            "publishedAt": "2026-06-16",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas"
+          },
+          {
+            "id": "src-cg-08",
+            "title": "TCE aprova contas de Caiado e aponta cumprimento de metas fiscais e constitucionais em 2025",
+            "publisher": "Jornal Opção",
+            "url": "https://www.jornalopcao.com.br/ultimas-noticias/tce-aprova-contas-de-caiado-e-aponta-cumprimento-de-metas-fiscais-e-constitucionais-em-2025-838503/",
+            "publishedAt": "2026-06-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas"
+          },
+          {
+            "id": "src-cg-09",
+            "title": "Relatório do TCE sobre contas do governo de 2023 é aprovado (ALEGO)",
+            "publisher": "Assembleia Legislativa de Goiás (ALEGO)",
+            "url": "https://portal.al.go.leg.br/noticias/161085/relatorio-do-tce-sobre-contas-do-governo-de-2023-e-aprovado",
+            "publishedAt": "2025-12-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          },
+          {
+            "id": "src-cg-10",
+            "title": "TCE-GO aprova parecer prévio das contas do governador (exercício de 2024, relator Edson Ferrari)",
+            "publisher": "Tribunal do Planalto",
+            "url": "https://tribunadoplanalto.com.br/tce-go-aprova-parecer-previo-das-contas-do-governador/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas",
+            "notes": "Data exata da publicação não capturada (mencionado '23/jun')."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-rc-2",
+        "title": "Reeleição ao governo de Goiás em dois turnos vencidos no 1º",
+        "context": "Eleições de 2018 e 2022",
+        "description": "Em 2018, eleito no primeiro turno com 1.773.185 votos (59,73% dos válidos), à frente de Daniel Vilela (MDB); em 2022, reeleito no primeiro turno com 1.806.892 votos (51,81% dos válidos), à frente de Gustavo Mendanha (Patriota).",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Números eleitorais do verbete; consulta aos resultados oficiais do TSE não realizada nesta coleta."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-rc-3",
+        "title": "Eleição ao Senado com 47,57% dos votos válidos e liderança do DEM na Casa",
+        "context": "Senador por Goiás, 2014–2018",
+        "description": "Eleito em 2014 com 1.283.665 votos (47,57% dos válidos); eleito por unanimidade líder do Democratas no Senado e atuou como articulador do processo de impeachment de Dilma Rousseff.",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-rc-4",
+        "title": "Transformação da candidatura: saída do União Brasil, vitória na prévia do PSD e registro no TSE em 2026",
+        "context": "Campanha presidencial 2026",
+        "description": "Após confirmar pré-candidatura no União Brasil (nov/2024) e lançamento em Salvador (04/04/2025), saiu do partido em jan/2026, filiou-se ao PSD em 27/01/2026 (articulação com Ratinho Júnior e Eduardo Leite), venceu a prévia contra Eduardo Leite (anúncio de Kassab em 30/03/2026), teve a chapa oficializada na convenção de 26/07/2026 e obteve aprovação do registro no TSE (publicada no Diário da Justiça Eletrônico do TSE em 18/09/2026), figurando entre as 12 chapas válidas do pleito.",
+        "sources": [
+          {
+            "id": "src-cg-14",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cg-15",
+            "title": "TSE aprova registros de seis candidatos à Presidência da República (inclui Ronaldo Caiado e Gilberto Kassab)",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Mês; dia exato não capturado."
+          },
+          {
+            "id": "src-cg-16",
+            "title": "Diário da Justiça Eletrônico — Lista de candidatas e candidatos aos cargos de presidente e vice-presidente da República (Eleições 2026)",
+            "publisher": "TSE — Diário da Justiça Eletrônico",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cg-02",
+            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+            "publisher": "Wikipédia (en)",
+            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030",
+      "planUrl": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+      "totalProposals": 26,
+      "registeredWith": "TSE — DivulgaCandContas (registro da chapa divulgado em 14/08/2026; plano publicado pela campanha em ago/2026)",
+      "summary": "",
+      "notes": "Documento da campanha com mais de 100 páginas (SBT: 'ao longo de 100 páginas'), organizado em 26 temas (TEMA 1 a TEMA 26), um bloco 'método de governo' (10 itens), 7 'compromissos nacionais para 2030' e seção final de implementação, monitoramento e prestação de contas. Espelho público do mesmo PDF hospedado pelo Poder360. Coordenadores temáticos citados: Roberto Brant (ex-ministro, plano geral) e Luiz Henrique Mandetta (saúde). URL do arquivo no DivulgaCandContas não localizada nesta coleta.",
+      "statsIfCounted": {
+        "objective": "7 compromissos nacionais declarados para 2030 (alfabetização na idade certa, fila do SUS com tempo certo, redução da violência letal e do domínio de facções, trajetória fiscal sustentável, cadeias de agro/minerais/energia/biodiversidade, conectividade e saneamento)",
+        "target": "Compromissos quantitativos por proposta não informados no documento",
+        "deadline": "Horizonte 2030 (compromissos nacionais); mandato 2027–2030",
+        "cost": "Custo por proposta não informado",
+        "funding": null,
+        "fiscal": "Estratégia fiscal plurianual com trajetória de estabilização da dívida/PIB, superávits primários e redução da despesa de juros; combate a supersalários e teto constitucional aplicado em todos os Poderes",
+        "agency": "Governança por 'missões nacionais' com liderança política, orçamento identificado e painel público de resultados",
+        "instrument": "Lei e, quando necessário, emenda constitutiva (reforma política e fiscal); instrumento por proposta não especificado no resumo",
+        "indicator": "Painéis públicos de indicadores (aprendizagem, espera na saúde, segurança, qualidade da água/ar, mobilidade, pobreza, satisfação do cidadão)",
+        "congress": "Reforma política, financiamento político e ajuste fiscal dependem de aprovação do Congresso; contagem por proposta não realizada"
+      },
+      "statsEvidence": "parcial",
+      "proposals": [
+        {
+          "id": "caiado-prop-1",
+          "title": "Reforma do SUS com fila por critério clínico, prontuário eletrônico nacional e inteligência artificial",
+          "description": "Plano de saúde coordenado pelo ex-ministro Luiz Henrique Mandetta: prioridade nas filas por gravidade clínica (não por ordem de chegada), fila separada para pacientes oncológicos, protocolos específicos para infarto e AVC, regionalização da assistência para reduzir mortes evitáveis, prontuário eletrônico nacional acessível pelo celular e uso de IA para análise de exames, gestão de filas e monitoramento de indicadores; também criação de centro de referência em doenças raras (proposta da senadora Mara Gabrilli).",
+          "theme": "Saúde",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Política pública federal (SUS) — detalhamento legal não informado no material consultado",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cg-24",
+              "title": "Saúde: Caiado mostra como será seu governo (plano coordenado por Mandetta)",
+              "publisher": "PSD — Partido Social Democrático",
+              "url": "https://psd.org.br/noticias/saude-caiado-mostra-como-sera-seu-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Ano; data exata não capturada."
+            },
+            {
+              "id": "src-cg-20",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+              "publisher": "Campanha Ronaldo Caiado (PSD)",
+              "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ]
+        },
+        {
+          "id": "caiado-prop-2",
+          "title": "Compromissos nacionais para 2030 (7 metas do plano)",
+          "description": "Restabelecer trajetória fiscal sustentável e recuperar a capacidade de investimento público; reduzir a violência letal e o domínio territorial e financeiro das facções; garantir alfabetização na idade certa e recompor aprendizagens na educação básica; organizar o SUS com fila transparente e atendimento no tempo certo; transformar agro, minerais, energia e biodiversidade em cadeias de maior valor agregado; universalizar conectividade e acelerar saneamento, mobilidade e segurança hídrica; integrar proteção social a qualificação, trabalho, moradia e cuidado, com prioridade à infância.",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Não informado por compromisso",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cg-20",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+              "publisher": "Campanha Ronaldo Caiado (PSD)",
+              "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-cg-21",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF da campanha)",
+              "publisher": "Poder360",
+              "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ]
+        },
+        {
+          "id": "caiado-prop-3",
+          "title": "Estratégia fiscal plurianual, teto constitucional efetivo e combate a supersalários",
+          "description": "Estabilizar a dívida em relação ao PIB, recuperar superávits primários e reduzir a despesa de juros com metas anuais, bandas de tolerância e prestação periódica de contas; conter a criação de novas despesas correntes; aplicar o teto constitucional remuneratório em todos os Poderes e órgãos, com transparência e responsabilização; combater supersalários e exceções ao teto; não criar receitas permanentes para acompanhar despesas automáticas.",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei e/ou emenda constitutiva (teto de gastos e regras fiscais)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cg-20",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+              "publisher": "Campanha Ronaldo Caiado (PSD)",
+              "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-cg-22",
+              "title": "Ronaldo Caiado: veja as propostas do candidato a presidente da República",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/ronaldo-caiado-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+              "publishedAt": "2026-08-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "caiado-prop-4",
+          "title": "Pacto Nacional de Governabilidade e Resultados e financiamento político rastreável",
+          "description": "Instituir pacto para formar maioria transparente em torno do plano e devolver ao Executivo capacidade de liderar e prestar contas; tornar o financiamento político integralmente rastreável, publicando em formato aberto receitas, despesas, fornecedores e beneficiários finais, com auditoria baseada em risco; governar por 'missões nacionais' com orçamento identificado, metas anuais e painel público de resultados; comunicar custos, riscos e resultados sem manipulação.",
+          "theme": "Administração pública",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei (financiamento e transparência) e reforma política",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cg-20",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+              "publisher": "Campanha Ronaldo Caiado (PSD)",
+              "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-cg-21",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF da campanha)",
+              "publisher": "Poder360",
+              "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ]
+        },
+        {
+          "id": "caiado-prop-5",
+          "title": "Segurança pública: recuperação de territórios, combate a facções e cooperação sul-americana (SULPOL)",
+          "description": "Prioridades declaradas: recuperar territórios, proteger fronteiras, controlar presídios, elevar a investigação e retirar do crime o patrimônio e a capacidade de corromper instituições; combater o terrorismo doméstico sob liderança da Presidência com participação dos governadores; propor a criação da SULPOL, agência permanente de cooperação policial sul-americana para operações contra tráfico, lavagem, cibercrime e redes transnacionais.",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei e acordos internacionais",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cg-20",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+              "publisher": "Campanha Ronaldo Caiado (PSD)",
+              "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-cg-21",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF da campanha)",
+              "publisher": "Poder360",
+              "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ]
+        },
+        {
+          "id": "caiado-prop-6",
+          "title": "Proteção social: manutenção das transferências de renda com transição para o trabalho",
+          "description": "Preservar os programas de transferência de renda, atualizar cadastros e combater fraudes sem constranger beneficiários; criar regra de transição para quem ingressa no trabalho formal (redução gradual conectada a qualificação, creche e intermediação); Plano Nacional de Emancipação Social com qualificação de Cras e Creas; gestão integrada de Cadastro Único, SUAS, saúde, educação, trabalho e habitação; universalizar saneamento até 2033 conforme o marco legal; inclusão digital da população de baixa renda e empreendedorismo feminino.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei (política de assistência social e saneamento)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cg-23",
+              "title": "Pobreza e desigualdade: veja propostas de Caiado na íntegra (páginas 13, 26, 48, 59, 61, 64-65, 68 do plano)",
+              "publisher": "SBT News",
+              "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pobreza-e-desigualdade-veja-propostas-de-lula-na-integra-2",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Ano; data exata não capturada."
+            },
+            {
+              "id": "src-cg-20",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+              "publisher": "Campanha Ronaldo Caiado (PSD)",
+              "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ]
+        },
+        {
+          "id": "caiado-prop-7",
+          "title": "Posicionamentos públicos de campanha: anistia a Bolsonaro, minerais críticos e reforma política",
+          "description": "No discurso de 30/07/2026, Caiado declarou apoio à anistia de Jair Bolsonaro e de envolvidos nos ataques de 8 de janeiro; defendeu o papel do Brasil na exploração e beneficiamento de minerais críticos; propôs reformas educacional e social 'no modelo Goiás', reforma política 'para dar mais racionalidade ao sistema político' e reafirmou o mercado privado e o agronegócio como motores do desenvolvimento. Em entrevista à Metrópoles (jul/2026), defendeu mudança nos critérios de indicação de ministros do STF. Não foi localizada proposta formal de indulto/amnistia dentro do PDF do plano — consta como posicionamento público do candidato.",
+          "theme": "Política externa",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Indulto/amnistia: ato do Congresso ou do Executivo (não detalhado); mineração: marco regulatório",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cg-02",
+              "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês: discurso de 30/07/2026, endossos)",
+              "publisher": "Wikipédia (en)",
+              "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-rc-1",
+        "description": "PSD, partido do vice Gilberto Kassab: 49 deputados federais e 13 senadores (informe do partido, abr/2026; Metrópoles aponta 11 senadores após a janela partidária), 6 governadores (Ratinho Júnior/PR, Eduardo Leite/RS, Mateus Simões/MG, Raquel Lyra/PE, Fábio Mitidieri/SE, Marcos Rocha/RO), 3 prefeitos de capitais e mais de 1,3 mil prefeitos.",
+        "value": "49 dep. federais + 13 senadores + 6 governadores (PSD)",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-cg-26",
+            "title": "Congresso: PSD agora tem 13 senadores e 49 deputados",
+            "publisher": "PSD — Partido Social Democrático",
+            "url": "https://psd.org.br/noticias/congresso-psd-agora-tem-13-senadores-e-49-deputados/",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-29",
+            "title": "Bancada ampliada do PSD faz sua primeira reunião (49 deputados, 13 senadores, 6 governadores, 1,3 mil prefeitos)",
+            "publisher": "PSD — Partido Social Democrático",
+            "url": "https://psd.org.br/noticias/bancada-ampliada-do-psd-faz-sua-primeira-reuniao/",
+            "publishedAt": "2026-04-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-30",
+            "title": "PSD nasce de ruptura com o DEM e vira força regional em 15 anos",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-partidos-politicos/psd-nasce-de-ruptura-com-o-dem-e-vira-forca-regional-em-15-anos/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "sup-rc-2",
+        "description": "Endossos públicos à chapa: Ratinho Júnior (governador do Paraná, PSD), Eduardo Leite (governador do Rio Grande do Sul, PSD), Mara Gabrilli (senadora por SP, PSD), Aldo Rebelo (ex-secretário internacional da Prefeitura de SP) e a apresentadora Silvia Abravanel.",
+        "value": "governadores PSD + figuras públicas",
+        "date": "2026-07-30",
+        "sources": [
+          {
+            "id": "src-cg-02",
+            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês: seção Endorsements)",
+            "publisher": "Wikipédia (en)",
+            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt."
+          }
+        ]
+      },
+      {
+        "id": "sup-rc-3",
+        "description": "Base congressista de sustentação informal declarada: articulação de maioria para o plano de governo ('Pacto Nacional de Governabilidade e Resultados'); a chapa não tem federação formal registrada nas fontes consultadas.",
+        "value": "sem federação formal localizada",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-rc-1",
+        "description": "Articulação do impeachment de Dilma Rousseff como senador: atuou como um dos principais articuladores do processo, votou pela prossecução do julgamento e pela perda do mandato; depois rompeu com o governo Tema/MDB em 2016 e adquiriu independência no Senado.",
+        "value": "voto favorável à perda do mandato (2016)",
+        "date": "2016",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "neg-rc-2",
+        "description": "Articulação da migração partidária de 2026: saída do União Brasil em janeiro e filiação ao PSD em 27/01/2026, negociada com os governadores Ratinho Júnior (PR) e Eduardo Leite (RS), que também tinham ambição presidencial pela mesma legenda; vitória na prévia e anúncio da candidatura por Kassab em 30/03/2026.",
+        "value": "transição União Brasil → PSD com apoio de 2 governadores",
+        "date": "2026-01-27",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-02",
+            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+            "publisher": "Wikipédia (en)",
+            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "neg-rc-3",
+        "description": "Relação com o bolsonarismo: aliado próximo de Bolsonaro no início do governo (2019), rompimento público em março de 2020 por divergência sobre o isolamento na pandemia, discurso institucionalista entre 2021 e 2023 (crítica aos ataques de 8/1) e reaproximação gradual com a base conservadora a partir de 2025, incluindo apoio público à anistia de Bolsonaro em 30/07/2026.",
+        "value": "rompimento (2020) → reaproximação (2025–2026)",
+        "date": "2026-07-30",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-02",
+            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+            "publisher": "Wikipédia (en)",
+            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "neg-rc-4",
+        "description": "Atuação como líder da bancada ruralista na Câmara e no Senado: como líder, obteve anistia temporária de parte da dívida de crédito agrícola do Plano Collor (1994); atuou na Comissão de Agricultura e Política Rural e integrou a CSPCCO; em 2023, articulou com a base congressista contra a reforma tributária, com visitas a Brasília incluindo a base do União Brasil.",
+        "value": "liderança da bancada ruralista (1991–2015)",
+        "date": "2023-04",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-rc-1",
+        "category": "auditoria",
+        "title": "Ação de improbidade administrativa por uso de 51 policiais militares como segurança de ex-governador e familiares",
+        "legalStatus": "processo",
+        "currentStatus": "em_andamento",
+        "instance": "2ª Vara da Fazenda Pública de Goiás (GO); ação do Ministério Público de Goiás",
+        "lastUpdate": "2026-07-06",
+        "description": "Ajuizada em 27/06/2026 pelo MPGO (promotora Leila Maria de Oliveira) contra Ronaldo Caiado, Maria das Graças 'Gracinha' Caiado e o coronel PM Marco Aurélio Godinho (então chefe da Casa Militar), alegando enriquecimento ilícito e dano ao erário pelo uso de 51 PMs em segurança pessoal e familiar, com custo mensal de R$ 797,5 mil em salários e dano estimado em R$ 1.290.856,55; a portaria foi editada em 01/04/2026, um dia após a renúncia de Caiado ao governo. Em liminar de 06/07/2026, o juiz Vinícius Caldas de Gama Abreu determinou a redução de 51 para 4 PMs na segurança do ex-governador e da família, com multa diária de R$ 10.000 em caso de descumprimento, limitada a R$ 300.000. A defesa afirma que a equipe efetiva é de 4 policiais revezando-se em escala. Ainda não há decisão definitiva.",
+        "sources": [
+          {
+            "id": "src-cg-31",
+            "title": "MP entra com ação contra uso de policiais como seguranças de Caiado (51 PMs, dano de R$ 1,29 mi)",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2026/06/ministerio-publico-de-goias-entra-com-acao-contra-uso-de-policiais-como-segurancas-de-caiado.shtml",
+            "publishedAt": "2026-06-27",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal"
+          },
+          {
+            "id": "src-cg-33",
+            "title": "Ronaldo Caiado entra na mira do MP de Goiás por uso de policiais como seguranças particulares",
+            "publisher": "Brasil de Fato",
+            "url": "https://www.brasildefato.com.br/2026/06/27/ronaldo-caiado-entra-na-mira-do-mp-de-goias-por-uso-de-policiais-como-segurancas-particulares/",
+            "publishedAt": "2026-06-27",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal"
+          },
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português: liminar de 06/07/2026, juiz Vinícius Caldas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-rc-2",
+        "category": "tribunal",
+        "title": "Ação por abuso de poder político nas municipais de 2024 — inelegibilidade decretada e anulada",
+        "legalStatus": "decisao_anulada",
+        "currentStatus": "encerrado",
+        "instance": "1ª Zona Eleitoral de Goiânia (juíza Maria Umbelina Zorzetti) → Tribunal Regional Eleitoral de Goiás (TRE-GO)",
+        "lastUpdate": "2025-04-08",
+        "description": "Em 10/12/2024, a juíza da 1ª Zona Eleitoral de Goiânia condenou Caiado por abuso de poder político nas eleições municipais de 2024 (uso do Palácio das Esmeraldas para jantares de campanha do então pré-candidato Sandro Mabel, entre 7 e 9/10/2024) e decretou sua inelegibilidade por 8 anos, pedindo também a cassação do prefeito eleito Sandro Mabel e da vice Coronel Cláudia. A denúncia partiu da coligação de Fred Rodrigues (PL). Em 08/04/2025, o TRE-GO derrubou por unanimidade a inelegibilidade de Caiado, Mabel e da vice. O PL chegou a anunciar recurso ao TSE, mas desistiu dias depois, alegando 'unir forças por uma só direita'.",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português: seção 'Processo de inelegibilidade')",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete é a única fonte localizada para a decisão; documentos do TRE-GO não foram consultados diretamente nesta coleta."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "inst-rc-3",
+        "category": "tribunal",
+        "title": "Condenação por propaganda eleitoral antecipada (eleições de 2018)",
+        "legalStatus": "condenacao",
+        "currentStatus": "encerrado",
+        "instance": "Tribunal Regional Eleitoral de Goiás (TRE-GO), em ação do Ministério Público Eleitoral",
+        "lastUpdate": "não informado",
+        "description": "Caiado foi condenado pelo TRE-GO por propaganda eleitoral antecipada: em evento no município de Morrinhos, então candidato a governador, fez discurso com pedido expresso de voto para Wilder Morais, pré-candidato à reeleição ao Senado. Data da decisão e pena não capturadas nas fontes consultadas.",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português: 'Campanha eleitoral antecipada de 2018')",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "inst-rc-4",
+        "category": "prestacao_de_contas",
+        "title": "Contas do exercício de 2025 — parecer prévio favorável do TCE-GO",
+        "legalStatus": "aprovacao",
+        "currentStatus": "em_andamento",
+        "instance": "TCE-GO (relator: conselheiro Sebastião Tejota); julgamento definitivo depende da ALEGO",
+        "lastUpdate": "2026-06-16",
+        "description": "Em 16/06/2026, o Pleno do TCE-GO aprovou por unanimidade o parecer prévio favorável às Contas Anuais do governador referentes a 2025, último ano completo da gestão: cumprimento das vinculações constitucionais de saúde e educação, teto de gastos e limite de pessoal (50,07% da RCL ajustada), dívida consolidada de R$ 15,18 bi (62,6% da RCL, menor endividamento bruto desde a LRF), arrecadação de R$ 49,6 bi (+7,07% sobre 2024) e investimentos de R$ 7,21 bi (maior série em valores reais), com determinações e recomendações pontuais encaminhadas ao governo.",
+        "sources": [
+          {
+            "id": "src-cg-07",
+            "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+            "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+            "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+            "publishedAt": "2026-06-16",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas"
+          },
+          {
+            "id": "src-cg-08",
+            "title": "TCE aprova contas de Caiado e aponta cumprimento de metas fiscais e constitucionais em 2025",
+            "publisher": "Jornal Opção",
+            "url": "https://www.jornalopcao.com.br/ultimas-noticias/tce-aprova-contas-de-caiado-e-aponta-cumprimento-de-metas-fiscais-e-constitucionais-em-2025-838503/",
+            "publishedAt": "2026-06-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-rc-5",
+        "category": "prestacao_de_contas",
+        "title": "Contas dos exercícios de 2023 e 2024 — aprovação no TCE-GO/ALEGO",
+        "legalStatus": "aprovacao",
+        "currentStatus": "encerrado",
+        "instance": "TCE-GO → Assembleia Legislativa de Goiás (ALEGO)",
+        "lastUpdate": "2025-12-04",
+        "description": "O Pleno do TCE-GO aprovou o parecer prévio favorável às contas do governo de 2023 (processo nº 12808/24) com 19 recomendações e determinações de ajuste, seguido da aprovação do relatório pela ALEGO em 04/12/2025. Para o exercício de 2024, o TCE-GO emitiu parecer prévio favorável (relator conselheiro Edson Ferrari), com destaques para metas fiscais, índices constitucionais e limites de endividamento.",
+        "sources": [
+          {
+            "id": "src-cg-09",
+            "title": "Relatório do TCE sobre contas do governo de 2023 é aprovado",
+            "publisher": "Assembleia Legislativa de Goiás (ALEGO)",
+            "url": "https://portal.al.go.leg.br/noticias/161085/relatorio-do-tce-sobre-contas-do-governo-de-2023-e-aprovado",
+            "publishedAt": "2025-12-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          },
+          {
+            "id": "src-cg-10",
+            "title": "TCE-GO aprova parecer prévio das contas do governador (exercício de 2024)",
+            "publisher": "Tribunal do Planalto",
+            "url": "https://tribunadoplanalto.com.br/tce-go-aprova-parecer-previo-das-contas-do-governador/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas",
+            "notes": "Data exata da publicação não capturada; exercício de 2024."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-rc-6",
+        "category": "tribunal",
+        "title": "Arquivamento de inquérito por difamação alegada por ex-prefeito de Turvânia (prescrição)",
+        "legalStatus": "arquivamento",
+        "currentStatus": "encerrado",
+        "instance": "STF (ministro Marco Aurélio Mello), após tramitação na Polícia Civil de Goiás e na justiça de 1ª instância",
+        "lastUpdate": "não informado",
+        "description": "O ex-prefeito de Turvânia, José Rodrigues Rosas, acusou Caiado de difamação e de ter ordenado agressão por seguranças durante comício em Goiânia (2010). O inquérito ficou mais de seis anos na Polícia Civil de Goiás antes de seguir ao STF em razão do foro privilegiado, e os autos foram arquivados pelo ministro Marco Aurélio Mello após a prescrição do crime.",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "inst-rc-7",
+        "category": "patrimonial",
+        "title": "Variação do patrimônio declarado entre 2022 e 2026 (+111%)",
+        "legalStatus": "regular",
+        "currentStatus": "encerrado",
+        "instance": "TSE/DivulgaCandContas (declaração de bens)",
+        "lastUpdate": "2026-08-14",
+        "description": "Bens declarados passaram de R$ 24.874.436,19 (2022) para R$ 52,5 milhões (2026). Segundo a assessoria do candidato ao Estadão, o aumento decorre da venda da Fazenda Santa Maria (Nova Crixás/GO), herdada em 1985 e vendida em 2025 por R$ 27,6 milhões, antes declarada pelo valor histórico de aquisição de R$ 699.524,59. Declaração aceita sem questionamento registrado nas fontes consultadas.",
+        "sources": [
+          {
+            "id": "src-cg-11",
+            "title": "Caiado declara R$ 52,5 milhões em bens; Kassab informa R$ 21 milhões",
+            "publisher": "g1 (Globo) — dados TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/ronaldo-caiado-gilberto-kassab-bens-declarados-tse.ghtml",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cg-13",
+            "title": "Ronaldo Caiado registra candidatura à Presidência no TSE com patrimônio 111% maior do que em 2022",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/eleicoes/ronaldo-caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022/",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "7,25 anos (jan/2019 – 31/03/2026)",
+        "value": 7.25,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos eletivos, sem dupla contagem: governo de Goiás de janeiro de 2019 a 31/03/2026 (dois mandatos consecutivos). Não inclui cargos partidários (presidência do PSD-GO).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-32",
+            "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+            "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+            "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+            "publishedAt": "2026-03-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Deixou o cargo em 31/03/2026, 3 meses antes do fim do segundo mandato, para disputar a Presidência.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "R$ 53,44 bi/ano (LOA 2026)",
+        "value": 53.44,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior Lei Orçamentária Anual do Estado de Goiás sob sua gestão: LOA 2026 (Lei nº 24.019, de 06/01/2026), receita total e despesa de R$ 53.444.488.797,00. Comparação: LOA 2025 (Lei nº 23.246, de 25/01/2025) previa receita/despesa de R$ 49.481.946.626,00. Não foram capturadas as LOAs de 2019–2024.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-03",
+            "title": "Lei nº 24.019, de 6 de janeiro de 2026 — Orçamento Geral do Estado de Goiás 2026",
+            "publisher": "Casa Civil / Governo de Goiás (legislação)",
+            "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112043/pdf",
+            "publishedAt": "2026-01-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          },
+          {
+            "id": "src-cg-04",
+            "title": "Caiado sanciona Lei Orçamentária Anual com previsão de R$ 49 bi (LOA 2025)",
+            "publisher": "O Hoje",
+            "url": "https://ohoje.com/2025/01/30/caiado-sanciona-lei-orcamentaria-anual-com-previsao-de-49-bi/",
+            "publishedAt": "2025-01-30",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-05",
+            "title": "Orçamento Geral do Estado 2025 — Secretaria da Economia de Goiás",
+            "publisher": "Governo de Goiás",
+            "url": "https://goias.gov.br/economia/orcamento-geral-do-estado-2025/",
+            "publishedAt": "2025-01-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Poder Executivo estadual; valores nominais das leis orçamentárias, sem deflacionar.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Pessoas/equipe sob gestão (servidores)",
+        "displayValue": "90.428 servidores ativos do Poder Executivo de Goiás (mar/2025)",
+        "value": 90428,
+        "unit": "servidores",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Vínculos ativos do Poder Executivo estadual consolidados no Boletim do Quadro de Pessoal do TCE-GO (dados até mar/2025, publicado em mai/2025): efetivos, comissionados, empregados públicos e temporários. O portal do TCE-GO também cita 101.374 servidores ativos no Estado inteiro (todos os Poderes), com data de atualização da página não capturada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-06",
+            "title": "Boletim Estratégico do Quadro de Pessoal do Poder Executivo do Estado de Goiás — Maio/2025 (dados até MAR/2025)",
+            "publisher": "TCE-GO — Tribunal de Contas do Estado de Goiás",
+            "url": "https://portal.tce.go.gov.br/documents/20181/1264167/BOLETIM%20ESTRAT%C3%89GICO%20DO%20QUADRO%20DE%20PESSOAL%20DO%20PODER%20EXECUTIVO%20DO%20ESTADO%20GOI%C3%81S%20-%20MAIO%20DE%202025%20(Com%20dados%20consolidados%20at%C3%A9%20MAR-2025)/74c3cd9f-7f27-4299-b8c6-2f878685c2fd",
+            "publishedAt": "2025-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas",
+            "notes": "Jan/2020: 92.761 ativos; mar/2025: 90.428 ativos no Poder Executivo."
+          },
+          {
+            "id": "src-cg-06b",
+            "title": "Dados sobre o quadro de pessoal do Estado disponíveis no site do TCE-GO (101.374 ativos, 60.188 inativos, 12.822 pensionistas)",
+            "publisher": "TCE-GO — Tribunal de Contas do Estado de Goiás",
+            "url": "https://portal.tce.go.gov.br/-/dados-sobre-o-quadro-de-pessoal-do-estado-disponiveis-no-site-do-tce-go",
+            "publishedAt": "não informado",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas",
+            "notes": "Data de publicação da notícia não capturada; total refere-se a todos os Poderes do Estado."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "O número inclui todos os servidores ativos do Poder Executivo estadual, não apenas a equipe de governo nomeada.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "≈40 anos (desde 1986)",
+        "value": 40,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Entre a presidência da UDR (1986–1989), seu primeiro cargo público dirigencial, e 29/09/2026. Se contada a fundação da UDR (1985), ≈41 anos.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Inclui dirigência de entidade rural (UDR), mandatos eletivos e presidência do diretório estadual do partido.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "articulacao",
+        "name": "Anos em cargos legislativos",
+        "displayValue": "24 anos (Câmara: 1991–1995 e 1999–2015; Senado: 2015–2019)",
+        "value": 24,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em mandatos legislativos federais sem dupla contagem: 4 anos na Câmara (1991–1995) + 16 anos na Câmara (1999–fev/2015) + ~4 anos no Senado (fev/2015–jan/2019).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Período 1995–1999 fora do Congresso (disputou o governo de Goiás em 1994 e foi derrotado).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos públicos federais",
+        "displayValue": "24 anos (Câmara + Senado)",
+        "value": 24,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos mandatos no Legislativo federal (Câmara dos Deputados e Senado), sem dupla contagem. Nunca ocupou cargo no Executivo federal.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "8 mandatos (5 dep. federal + 1 senador + 2 governador)",
+        "value": 8,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de mandatos eletivos conquistados: deputado federal em 1990, 1998, 2002, 2006 e 2010 (5); senador em 2014 (1); governador de Goiás em 2018 e 2022 (2). Não contabiliza derrotas (1989 Presidência, 1994 governo de GO).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "1.773.185 (governador 2018) | 1.806.892 (reeleição 2022) | 1.283.665 (Senado 2014) | 488.872 (Presidência 1989)",
+        "value": null,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior votação por eleição, segundo o verbete da Wikipédia; consulta a resultados oficiais do TSE/TRE não realizada nesta coleta.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-01",
+            "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Candidatura presidencial de 1989: 488.872 votos (0,68%), 10º lugar; derrota ao governo de GO em 1994: 364.767 votos (23,18%).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Temas/propostas do plano de governo",
+        "displayValue": "26 temas + 7 compromissos nacionais para 2030",
+        "value": 26,
+        "unit": "temas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem da estrutura do PDF oficial da campanha: TEMA 1 a TEMA 26, mais bloco 'método de governo' (10 itens) e 7 compromissos nacionais para 2030. Contagem feita a partir do sumário do documento, não recalculada item a item pela equipe.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          },
+          {
+            "id": "src-cg-21",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF da campanha)",
+            "publisher": "Poder360",
+            "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Não informado por proposta",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas do plano com estimativa de custo própria. O documento consulta não apresenta custo por proposta.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Horizonte 2030 nos compromissos nacionais; % por proposta não calculada",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido. O plano define horizonte 2030 para os 7 compromissos nacionais e prazos pontuais setoriais (ex.: saneamento até 2033), mas não prazo por proposta; contagem item a item não realizada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          },
+          {
+            "id": "src-cg-23",
+            "title": "Pobreza e desigualdade: veja propostas de Caiado na íntegra (SBT News)",
+            "publisher": "SBT News",
+            "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pobreza-e-desigualdade-veja-propostas-de-lula-na-integra-2",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; reforma política, fiscal e financiamento político dependem de Congresso",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei ou emenda constitutiva. Não realizado pela equipe por falta de especificação de instrumento por proposta no documento.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-cg-20",
+            "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF da campanha)",
+            "publisher": "Campanha Ronaldo Caiado (PSD)",
+            "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "Aprovado — chapa Caiado/Kassab consta entre as 12 candidaturas válidas; lista publicada no Diário da Justiça Eletrônico do TSE em 18/09/2026",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-14",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cg-16",
+            "title": "Diário da Justiça Eletrônico — Lista de candidatas e candidatos a presidente e vice (Eleições 2026)",
+            "publisher": "TSE — Diário da Justiça Eletrônico",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cg-15",
+            "title": "TSE aprova registros de seis candidatos à Presidência da República",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cg-13",
+            "title": "Ronaldo Caiado registra candidatura à Presidência no TSE com patrimônio 111% maior do que em 2022",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/eleicoes/ronaldo-caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022/",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Registro de bens e candidatura divulgados pelo TSE em 14/08/2026. Não foram localizadas impugnações de mérito deferidas contra a chapa nesta coleta; a inelegibilidade de 2024 foi anulada pelo TRE-GO (ver institutionalHistory).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "R$ 52,5 milhões",
+        "value": 52500000,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de 2026 (TSE/DivulgaCandContas, divulgado em 14/08/2026). Composição segundo G1: R$ 36.213.674,73 em imóveis rurais, R$ 10.489.480,00 em rebanho, R$ 4.288.620,51 em aplicações, R$ 1.008.634,21 em quotas, R$ 243.037,95 em terreno, R$ 148.613,18 em participações societárias, R$ 70.000,00 em casa, R$ 44.881,89 em depósitos e demais itens menores.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-11",
+            "title": "Caiado declara R$ 52,5 milhões em bens; Kassab informa R$ 21 milhões",
+            "publisher": "g1 (Globo) — dados TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/ronaldo-caiado-gilberto-kassab-bens-declarados-tse.ghtml",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cg-13",
+            "title": "Ronaldo Caiado registra candidatura à Presidência no TSE com patrimônio 111% maior do que em 2022",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/eleicoes/ronaldo-caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022/",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Assessoria de Caiado atribui o aumento à venda da Fazenda Santa Maria (Nova Crixás/GO), herdada em 1985 e vendida por R$ 27,6 milhões em 2025, antes declarada pelo valor histórico de R$ 699.524,59."
+          },
+          {
+            "id": "src-cg-12",
+            "title": "Eleições 2026: veja a declaração de bens dos candidatos à Presidência",
+            "publisher": "g1 (Globo) — dados TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/eleicoes-2026-declaracao-bens-presidenciaveis.ghtml",
+            "publishedAt": "2026-08-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Em 2022 declarou R$ 24.874.436,19 (+111% em 2026). Em 2023 foi classificado como 4º governador mais rico do Brasil pelo patrimônio declarado. Vice Kassab: R$ 21 milhões.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido na Câmara dos Deputados",
+        "displayValue": "49/513 deputados federais (PSD, após janela partidária de 2026)",
+        "value": 49,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Cadeiras do PSD na Câmara informadas pelo próprio partido e pelo Estadão após a janela partidária (mar–abr/2026): 47 → 49 deputados. No Senado: 13 senadores (abr/2026, informe do PSD; o Metrópoles aponta 11 após a janela — divergência de contagem entre fontes).",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-26",
+            "title": "Congresso: PSD agora tem 13 senadores e 49 deputados",
+            "publisher": "PSD — Partido Social Democrático",
+            "url": "https://psd.org.br/noticias/congresso-psd-agora-tem-13-senadores-e-49-deputados/",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Fonte partidária; mês inferido do texto ('consolida em abril de 2026')."
+          },
+          {
+            "id": "src-cg-27",
+            "title": "Eleições 2026: após janela partidária, federação União-PP e PL têm maiores bancadas na Câmara (PSD: 47 → 49)",
+            "publisher": "Estadão/Broadcast",
+            "url": "https://www.estadao.com.br/politica/eleicoes-2026-apos-janela-partidaria-federacao-uniao-pp-e-pl-tem-maiores-bancadas-na-camara/",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-28",
+            "title": "Kassab acumula tropeços e tem largada eleitoral do PSD com desgastes (Senado: de 13 para 11)",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/kassab-acumula-tropecos-e-tem-largada-eleitoral-do-psd-com-desgastes",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Divergência entre fontes quanto ao Senado: PSD informa 13; Metrópoles aponta 11 após a janela. O PSD também afirma ter 6 governadores, 3 prefeitos de capitais e mais de 1,3 mil prefeitos.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "4% (Quaest, 28/09) | 4% (Datafolha, 24/09) | 5% (Datafolha, 21/08)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026 que informaram percentual do candidato.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-17",
+            "title": "Veja resultado da Quaest presidencial no 1º turno (Caiado, 4%; registro BR-06520/2026)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+            "publishedAt": "2026-09-28",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-19",
+            "title": "Pesquisa presidente 2026: veja números de Lula e Flávio Bolsonaro (Datafolha 24/09: Caiado 4%)",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/eleicoes/2026/09/28/pesquisa-presidente-2026-veja-numeros-de-lula-e-flavio-bolsonaro.ghtm",
+            "publishedAt": "2026-09-28",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-18",
+            "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5% (1º turno, 21/08/2026)",
+            "publisher": "g1 (Globo) — dados Datafolha",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+            "publishedAt": "2026-08-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Registro BR-04496/2026; 2.058 entrevistas, margem de 2 p.p."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Pesquisa Datafolha de 21/08 também mediu simulação de 2º turno Lula x Caiado. Pesquisa de 2026 citada pela Wikipédia en registra 84% de aprovação da gestão de Caiado em Goiás (11% de desaprovação), sem identificação do instituto capturada no dump.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "aprovacao_gestao_goias",
+        "category": "historico-experiencia",
+        "name": "Aprovação da gestão estadual em Goiás",
+        "displayValue": "84% de aprovação / 11% de desaprovação (pesquisa de 2026)",
+        "value": 84,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual citado no verbete da campanha (Wikipédia em inglês) como '2026 poll' sobre aprovação da administração de Caiado em Goiás; instituto, amostra e data não capturados no dump — tratar como dado de baixa verificabilidade.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cg-02",
+            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+            "publisher": "Wikipédia (en)",
+            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt; fonte primária da pesquisa não identificada."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-cg-01",
+        "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+      },
+      {
+        "id": "src-cg-02",
+        "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+        "publisher": "Wikipédia (en)",
+        "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt."
+      },
+      {
+        "id": "src-cg-03",
+        "title": "Lei nº 24.019, de 6 de janeiro de 2026 — Orçamento Geral do Estado de Goiás 2026",
+        "publisher": "Casa Civil / Governo de Goiás",
+        "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112043/pdf",
+        "publishedAt": "2026-01-06",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual"
+      },
+      {
+        "id": "src-cg-04",
+        "title": "Caiado sanciona Lei Orçamentária Anual com previsão de R$ 49 bi (LOA 2025)",
+        "publisher": "O Hoje",
+        "url": "https://ohoje.com/2025/01/30/caiado-sanciona-lei-orcamentaria-anual-com-previsao-de-49-bi/",
+        "publishedAt": "2025-01-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-05",
+        "title": "Orçamento Geral do Estado 2025 — Secretaria da Economia de Goiás",
+        "publisher": "Governo de Goiás",
+        "url": "https://goias.gov.br/economia/orcamento-geral-do-estado-2025/",
+        "publishedAt": "2025-01-25",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual"
+      },
+      {
+        "id": "src-cg-06",
+        "title": "Boletim do Quadro de Pessoal do Poder Executivo de Goiás — mai/2025 (até mar/2025)",
+        "publisher": "TCE-GO",
+        "url": "https://portal.tce.go.gov.br/documents/20181/1264167/BOLETIM%20ESTRAT%C3%89GICO%20DO%20QUADRO%20DE%20PESSOAL%20DO%20PODER%20EXECUTIVO%20DO%20ESTADO%20GOI%C3%81S%20-%20MAIO%20DE%202025%20(Com%20dados%20consolidados%20at%C3%A9%20MAR-2025)/74c3cd9f-7f27-4299-b8c6-2f878685c2fd",
+        "publishedAt": "2025-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal_de_contas"
+      },
+      {
+        "id": "src-cg-06b",
+        "title": "Quadro de pessoal do Estado no site do TCE-GO (101.374 ativos)",
+        "publisher": "TCE-GO",
+        "url": "https://portal.tce.go.gov.br/-/dados-sobre-o-quadro-de-pessoal-do-estado-disponiveis-no-site-do-tce-go",
+        "publishedAt": "não informado",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal_de_contas"
+      },
+      {
+        "id": "src-cg-07",
+        "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+        "publisher": "Agência Goiás de Notícias",
+        "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+        "publishedAt": "2026-06-16",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal_de_contas"
+      },
+      {
+        "id": "src-cg-08",
+        "title": "TCE aprova contas de Caiado e aponta cumprimento de metas fiscais em 2025",
+        "publisher": "Jornal Opção",
+        "url": "https://www.jornalopcao.com.br/ultimas-noticias/tce-aprova-contas-de-caiado-e-aponta-cumprimento-de-metas-fiscais-e-constitucionais-em-2025-838503/",
+        "publishedAt": "2026-06-19",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal_de_contas"
+      },
+      {
+        "id": "src-cg-09",
+        "title": "Relatório do TCE sobre contas do governo de 2023 é aprovado",
+        "publisher": "ALEGO",
+        "url": "https://portal.al.go.leg.br/noticias/161085/relatorio-do-tce-sobre-contas-do-governo-de-2023-e-aprovado",
+        "publishedAt": "2025-12-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual"
+      },
+      {
+        "id": "src-cg-10",
+        "title": "TCE-GO aprova parecer prévio das contas do governador (exercício de 2024)",
+        "publisher": "Tribunal do Planalto",
+        "url": "https://tribunadoplanalto.com.br/tce-go-aprova-parecer-previo-das-contas-do-governador/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal_de_contas"
+      },
+      {
+        "id": "src-cg-11",
+        "title": "Caiado declara R$ 52,5 milhões em bens; Kassab informa R$ 21 milhões",
+        "publisher": "g1 (Globo) — dados TSE",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/ronaldo-caiado-gilberto-kassab-bens-declarados-tse.ghtml",
+        "publishedAt": "2026-08-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-cg-12",
+        "title": "Eleições 2026: declaração de bens dos candidatos à Presidência",
+        "publisher": "g1 (Globo) — dados TSE",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/eleicoes-2026-declaracao-bens-presidenciaveis.ghtml",
+        "publishedAt": "2026-08-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-cg-13",
+        "title": "Caiado registra candidatura no TSE com patrimônio 111% maior que em 2022",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/eleicoes/ronaldo-caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022/",
+        "publishedAt": "2026-08-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-14",
+        "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-cg-15",
+        "title": "TSE aprova registros de seis candidatos à Presidência da República",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-cg-16",
+        "title": "Diário da Justiça Eletrônico — lista de candidatos a presidente e vice (2026)",
+        "publisher": "TSE — DJE",
+        "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+        "publishedAt": "2026-09-18",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-cg-17",
+        "title": "Quaest, 1º turno (28/09/2026): Caiado, 4%",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+        "publishedAt": "2026-09-28",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-18",
+        "title": "Datafolha 21/08/2026 — 1º turno (Caiado 5%)",
+        "publisher": "g1 (Globo) — dados Datafolha",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+        "publishedAt": "2026-08-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-19",
+        "title": "Pesquisa presidente 2026 (Datafolha 24/09: Caiado 4%)",
+        "publisher": "UOL",
+        "url": "https://noticias.uol.com.br/eleicoes/2026/09/28/pesquisa-presidente-2026-veja-numeros-de-lula-e-flavio-bolsonaro.ghtm",
+        "publishedAt": "2026-09-28",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-20",
+        "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF)",
+        "publisher": "Campanha Ronaldo Caiado (PSD)",
+        "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-cg-21",
+        "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho)",
+        "publisher": "Poder360",
+        "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-cg-22",
+        "title": "Ronaldo Caiado: veja as propostas do candidato a presidente",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/ronaldo-caiado-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+        "publishedAt": "2026-08-25",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-23",
+        "title": "Propostas de Caiado na íntegra (páginas do plano)",
+        "publisher": "SBT News",
+        "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pobreza-e-desigualdade-veja-propostas-de-lula-na-integra-2",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-cg-24",
+        "title": "Saúde: Caiado mostra como será seu governo (coordenação de Mandetta)",
+        "publisher": "PSD",
+        "url": "https://psd.org.br/noticias/saude-caiado-mostra-como-sera-seu-governo",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-cg-26",
+        "title": "Congresso: PSD agora tem 13 senadores e 49 deputados",
+        "publisher": "PSD",
+        "url": "https://psd.org.br/noticias/congresso-psd-agora-tem-13-senadores-e-49-deputados/",
+        "publishedAt": "2026-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-27",
+        "title": "Após janela partidária, PSD tem 49 deputados",
+        "publisher": "Estadão/Broadcast",
+        "url": "https://www.estadao.com.br/politica/eleicoes-2026-apos-janela-partidaria-federacao-uniao-pp-e-pl-tem-maiores-bancadas-na-camara/",
+        "publishedAt": "2026-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-28",
+        "title": "Kassab e a largada eleitoral do PSD com desgastes (Senado: 11)",
+        "publisher": "Metrópoles",
+        "url": "https://www.metropoles.com/sao-paulo/kassab-acumula-tropecos-e-tem-largada-eleitoral-do-psd-com-desgastes",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-29",
+        "title": "Bancada ampliada do PSD faz sua primeira reunião",
+        "publisher": "PSD",
+        "url": "https://psd.org.br/noticias/bancada-ampliada-do-psd-faz-sua-primeira-reuniao/",
+        "publishedAt": "2026-04-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-30",
+        "title": "PSD nasce de ruptura com o DEM e vira força regional em 15 anos",
+        "publisher": "Poder360",
+        "url": "https://www.poder360.com.br/poder-partidos-politicos/psd-nasce-de-ruptura-com-o-dem-e-vira-forca-regional-em-15-anos/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cg-31",
+        "title": "MPGO entra com ação contra uso de policiais como seguranças de Caiado",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2026/06/ministerio-publico-de-goias-entra-com-acao-contra-uso-de-policiais-como-segurancas-de-caiado.shtml",
+        "publishedAt": "2026-06-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal"
+      },
+      {
+        "id": "src-cg-32",
+        "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+        "publisher": "Agência Goiás de Notícias",
+        "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+        "publishedAt": "2026-03-31",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual"
+      },
+      {
+        "id": "src-cg-33",
+        "title": "MP de Goiás ação contra policiais como seguranças particulares de Caiado",
+        "publisher": "Brasil de Fato",
+        "url": "https://www.brasildefato.com.br/2026/06/27/ronaldo-caiado-entra-na-mira-do-mp-de-goias-por-uso-de-policiais-como-segurancas-particulares/",
+        "publishedAt": "2026-06-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal"
+      },
+      {
+        "id": "src-cg-34",
+        "title": "Programa Goiás Por Elas (Seds/Governo de Goiás)",
+        "publisher": "Governo de Goiás",
+        "url": "https://goias.gov.br/social/goias-por-elas",
+        "publishedAt": "2026-04-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual"
+      },
+      {
+        "id": "src-cg-37",
+        "title": "PLP/PL nº 191 de 2015 — autoria do Senador Ronaldo Caiado",
+        "publisher": "Senado Federal",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/120518/pdf",
+        "publishedAt": "2015",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo"
       }
     ],
     "updatedAt": "2026-09-29"
@@ -4881,6 +6965,1849 @@ export const researched: Partial<Candidate>[] = [
     "updatedAt": "2026-09-29"
   },
   {
+    "slug": "flavio-bolsonaro",
+    "name": "Flávio Nantes Bolsonaro",
+    "ballotName": "Flávio Bolsonaro",
+    "ballotNumber": 22,
+    "party": "PL",
+    "coalition": "Partido Liberal (PL, nº 22), sem federação/coligação formal; chapa vice: Alfredo Gaspar de Mendonça Neto (PL-AL, deputado federal). Oficializada na convenção nacional do PL em 25/07/2026.",
+    "photo": "",
+    "birthDate": "1981-04-30",
+    "birthplace": "Resende/RJ (consta na Wikipédia; não confirmado em fonte primária)",
+    "age": 45,
+    "profession": "Advogado",
+    "currentRole": "Senador da República pelo Rio de Janeiro (2019–atual)",
+    "tagline": "Quatro mandatos consecutivos na ALERJ (2003–2019), senador eleito em 2018 com 4,4 milhões de votos e candidato do PL (nº 22) à Presidência em 2026.",
+    "education": [
+      {
+        "id": "flavio-bolsonaro-edu-1",
+        "level": "graduacao",
+        "field": "Direito",
+        "institution": "Universidade Cândido Mendes",
+        "conclusionYear": 2006,
+        "notes": "Assessoria enviou ao g1 diploma com formação em 2006; a BBC, com base na OAB, informa 2005 — divergência de um ano entre as fontes.",
+        "sources": [
+          {
+            "id": "src-g1-educacao",
+            "title": "Campanha admite erro em currículo acadêmico de Flávio Bolsonaro",
+            "publisher": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/paginas-oficiais-de-flavio-bolsonaro-incluem-curso-de-pos-graduacao-que-ele-nao-fez-campanha-diz-que-houve-equivoco.ghtml",
+            "publishedAt": "2026-08-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "UFRJ nega registro de pós em Ciências Políticas; assessoria enviou diplomas: Direito 2006, IUPERJ 2012, FGV 2015."
+          },
+          {
+            "id": "src-bbc-educacao",
+            "title": "Como Flávio Bolsonaro ocupou um cargo na Câmara dos Deputados (reportagem sobre formação)",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/brasil-46828487",
+            "publishedAt": "2021",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Direito na Cândido Mendes: início em 2000, formação em 2005 segundo a OAB (diverge do diploma 2006)."
+          }
+        ]
+      },
+      {
+        "id": "flavio-bolsonaro-edu-2",
+        "level": "especializacao",
+        "field": "Políticas Públicas",
+        "institution": "IUPERJ (Instituto Universitário de Pesquisas do Rio de Janeiro)",
+        "conclusionYear": 2012,
+        "sources": [
+          {
+            "id": "src-g1-educacao",
+            "title": "Campanha admite erro em currículo acadêmico de Flávio Bolsonaro",
+            "publisher": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/paginas-oficiais-de-flavio-bolsonaro-incluem-curso-de-pos-graduacao-que-ele-nao-fez-campanha-diz-que-houve-equivoco.ghtml",
+            "publishedAt": "2026-08-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "UFRJ nega registro de pós em Ciências Políticas; assessoria enviou diplomas: Direito 2006, IUPERJ 2012, FGV 2015."
+          }
+        ]
+      },
+      {
+        "id": "flavio-bolsonaro-edu-3",
+        "level": "especializacao",
+        "field": "Empreendedorismo e Desenvolvimento de Novos Negócios (MBA)",
+        "institution": "Fundação Getulio Vargas (FGV)",
+        "conclusionYear": 2015,
+        "sources": [
+          {
+            "id": "src-g1-educacao",
+            "title": "Campanha admite erro em currículo acadêmico de Flávio Bolsonaro",
+            "publisher": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/paginas-oficiais-de-flavio-bolsonaro-incluem-curso-de-pos-graduacao-que-ele-nao-fez-campanha-diz-que-houve-equivoco.ghtml",
+            "publishedAt": "2026-08-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "UFRJ nega registro de pós em Ciências Políticas; assessoria enviou diplomas: Direito 2006, IUPERJ 2012, FGV 2015."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "flavio-bolsonaro-prof-1",
+        "role": "Advogado",
+        "organization": "Exercício liberal",
+        "startDate": "2005",
+        "endDate": null,
+        "description": "Formado em Direito (Cândido Mendes, 2005/2006); declarado como profissão em registros eleitorais e no Senado.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-g1-educacao",
+            "title": "Campanha admite erro em currículo acadêmico de Flávio Bolsonaro",
+            "publisher": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/paginas-oficiais-de-flavio-bolsonaro-incluem-curso-de-pos-graduacao-que-ele-nao-fez-campanha-diz-que-houve-equivoco.ghtml",
+            "publishedAt": "2026-08-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "UFRJ nega registro de pós em Ciências Políticas; assessoria enviou diplomas: Direito 2006, IUPERJ 2012, FGV 2015."
+          },
+          {
+            "id": "src-bbc-educacao",
+            "title": "Como Flávio Bolsonaro ocupou um cargo na Câmara dos Deputados (reportagem sobre formação)",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/brasil-46828487",
+            "publishedAt": "2021",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Direito na Cândido Mendes: início em 2000, formação em 2005 segundo a OAB (diverge do diploma 2006)."
+          }
+        ]
+      },
+      {
+        "id": "flavio-bolsonaro-prof-2",
+        "role": "Assessor técnico da liderança",
+        "organization": "Partido Progressista Brasileiro (PPB), Brasília",
+        "startDate": "2000",
+        "endDate": "2002",
+        "description": "Iniciou a vida pública aos 19 anos, segundo a Wikipédia, enquanto cursava Direito.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "flavio-bolsonaro-pol-1",
+        "role": "Deputado Estadual",
+        "organization": "ALERJ — Assembleia Legislativa do Rio de Janeiro",
+        "startDate": "2003",
+        "endDate": "2019",
+        "description": "4 mandatos consecutivos (eleições 2002, 2006, 2010 e 2014, por PPB/PP). Presidiu a Comissão de Segurança Pública (segundo site oficial); autor da Lei estadual 7.809/2017, que obriga o Estado a devolver descontos indevidos do contracheque de policiais e bombeiros (afirmação do site oficial da campanha, verificável na legislação da ALERJ).",
+        "achievements": [
+          "Lei 7.809/2017 (autoria) — evidenceStatus: parcial (fonte: site do candidato)"
+        ],
+        "sources": [
+          {
+            "id": "src-senado-perfil",
+            "title": "Senador Flávio Bolsonaro — perfil oficial",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+          },
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          },
+          {
+            "id": "src-site-oficial",
+            "title": "Saiba tudo sobre Flávio Bolsonaro — campanha presidencial 2026",
+            "publisher": "Campanha Flávio Bolsonaro (Presidente 22)",
+            "url": "https://www.flaviobolsonaro.com.br/flavio",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Fonte do próprio candidato (Lei 7.809/2017, comissões, formação) — tratar como afirmação de campanha."
+          }
+        ]
+      },
+      {
+        "id": "flavio-bolsonaro-pol-2",
+        "role": "Senador da República",
+        "organization": "Senado Federal",
+        "startDate": "2019",
+        "endDate": null,
+        "description": "Eleito em 2018 (PSL) com 4.380.418 votos (31,36% dos válidos no RJ). Eleito 3º Secretário da Mesa Diretora do Senado em 06/02/2019. Atuação concentrada em segurança pública (mais da metade das propostas); relator do PL 2253/2022 (monitoração eletrônica de presos, fim da saída temporária) em 2024. Produção legislativa: 62 projetos como autor principal desde 2019, 2 aprovados no Senado e nenhum convertido em lei; como coautor, 2 leis (PL 3.190/2023 aprovado nas duas Casas e outro). Ocupa a 47ª posição entre 54 senadores da legislatura em aprovações como autor principal (UOL/Agenda do Poder).",
+        "achievements": [
+          "3º Secretário da Mesa Diretora do Senado (2019)"
+        ],
+        "sources": [
+          {
+            "id": "src-senado-perfil",
+            "title": "Senador Flávio Bolsonaro — perfil oficial",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+          },
+          {
+            "id": "src-uol-2018",
+            "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm",
+            "publishedAt": "2018-10-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "4.380.418 votos, 31,36%."
+          },
+          {
+            "id": "src-agenda-poder-legis",
+            "title": "Em 7 anos no Senado, Flávio Bolsonaro teve apenas 2 projetos aprovados e nenhum deles virou lei",
+            "publisher": "Agenda do Poder / UOL",
+            "url": "https://agendadopoder.com.br/em-7-anos-no-senado-flavio-bolsonaro-teve-apenas-2-projetos-aprovados-e-nenhum-deles-virou-lei",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Levantamento com dados oficiais do Senado: 62 projetos autor principal, 47ª entre 54 senadores."
+          },
+          {
+            "id": "src-brasildefato-legis",
+            "title": "Em sete anos, Flávio Bolsonaro teve apenas um projeto de lei aprovado no Congresso",
+            "publisher": "Brasil de Fato",
+            "url": "https://www.brasildefato.com.br/2026/04/02/em-sete-anos-flavio-bolsonaro-teve-apenas-um-projeto-de-lei-aprovado-no-congresso",
+            "publishedAt": "2026-04-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "PL 3.190/2023, único aprovado nas duas Casas até então."
+          },
+          {
+            "id": "src-senado-pronunciamento",
+            "title": "Pronunciamento de Flávio Bolsonaro em 20/02/2024 (relator do PL 2253/2022)",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503985",
+            "publishedAt": "2024-02-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": ""
+          },
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "flavio-bolsonaro-ach-1",
+        "title": "Eleição mais votada para o Senado pelo RJ em 2018",
+        "context": "Candidato a senador (PSL), out/2018",
+        "description": "4.380.418 votos (31,36% dos votos válidos), à frente de Arolde de Oliveira (17,06%) e César Maia (16,67%); foi o candidato mais votado em 84 dos 92 municípios do estado.",
+        "sources": [
+          {
+            "id": "src-uol-2018",
+            "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm",
+            "publishedAt": "2018-10-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "4.380.418 votos, 31,36%."
+          },
+          {
+            "id": "src-agenciabrasil-2018",
+            "title": "Flávio Bolsonaro e Arolde de Oliveira são eleitos para Senado pelo RJ",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-para-senado-pelo-rj",
+            "publishedAt": "2018-10-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estatistico",
+            "notes": ""
+          },
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "flavio-bolsonaro-ach-2",
+        "title": "Quatro mandatos consecutivos na ALERJ",
+        "context": "Deputado estadual pelo RJ, 2003–2019",
+        "description": "Reeleito em 2002, 2006, 2010 e 2014 (31.293, 43.099, 58.322 e 160.359 votos).",
+        "sources": [
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          },
+          {
+            "id": "src-senado-perfil",
+            "title": "Senador Flávio Bolsonaro — perfil oficial",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "flavio-bolsonaro-ach-3",
+        "title": "Lei estadual RJ 7.809/2017 (autoria)",
+        "context": "Deputado estadual, ALERJ, 2017",
+        "description": "Obriga o Estado a devolver valores indevidamente descontados do contracheque de policiais e bombeiros. consta do site oficial do candidato; não verificado diretamente no banco de legislação da ALERJ nesta pesquisa.",
+        "sources": [
+          {
+            "id": "src-site-oficial",
+            "title": "Saiba tudo sobre Flávio Bolsonaro — campanha presidencial 2026",
+            "publisher": "Campanha Flávio Bolsonaro (Presidente 22)",
+            "url": "https://www.flaviobolsonaro.com.br/flavio",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Fonte do próprio candidato (Lei 7.809/2017, comissões, formação) — tratar como afirmação de campanha."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030",
+      "planUrl": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+      "totalProposals": 69,
+      "registeredWith": "TSE — chapa registrada e validada (TSE, set/2026)",
+      "summary": "",
+      "notes": "",
+      "statsIfCounted": {
+        "objective": "Indicado na apresentação (\"O Brasil merece voltar a ser o Brasil\"); metas quantitativas por proposta não sistemáticas",
+        "target": "não sistemático no documento",
+        "deadline": "horizonte 2027-2030; menções pontuais a 2027, 2029, 2030 e \"em 4 anos\"",
+        "cost": "R$ 900 bilhões em 4 anos (rodovias, hidrovias, portos); demais menções de valor pontuais (R$ 500 bilhões citados em contexto de exceções fiscais)",
+        "funding": "não detalhado de forma sistemática",
+        "fiscal": "Tesouraço de gastos e corte constitucional de gastos",
+        "agency": "Sistema S (capacitação), Caixa (crédito); execução por ministérios — redutores de ministérios mencionados no texto",
+        "instrument": "Emendas constitucionais, legislação penal e programas administrativos",
+        "indicator": "não sistemático",
+        "congress": "Vários eixos dependem de Congresso (reforma do Judiciário, majoração de penas, redução da maioridade penal, EC fiscal)"
+      },
+      "statsEvidence": "parcial",
+      "proposals": [
+        {
+          "id": "flavio-bolsonaro-prop-1",
+          "title": "Declarar PCC, CV e milícias como organizações narcoterroristas",
+          "description": "\"Terrorista vai ser tratado como terrorista\": guerra declarada ao crime organizado, prisão de líderes e ataque aos negócios das facções.",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Legislativo (definição legal de narcoterrorismo)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-plano-pdf",
+              "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+              "publisher": "Poder360 (cópia do documento de campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+            }
+          ]
+        },
+        {
+          "id": "flavio-bolsonaro-prop-2",
+          "title": "Tesouraço de gastos e limite a decisões do STF",
+          "description": "Corte de gastos federais, corte constitucional de gastos, enxugamento da máquina e proposta de limitar decisões do STF; inclui reforma do Judiciário (prisões em estilo Bukele, segundo o Estadão).",
+          "theme": "Administração pública",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Emenda constitucional / reorganização administrativa",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-g1-plano",
+              "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+              "publisher": "G1",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+              "publishedAt": "2026-08-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+            },
+            {
+              "id": "src-plano-pdf",
+              "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+              "publisher": "Poder360 (cópia do documento de campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+            },
+            {
+              "id": "src-estadao-plano",
+              "title": "Flávio propõe prisões a la Bukele, classificar facções como narcoterroristas e reformar Judiciário",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/eleicoes/2026/",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Matéria localizada e lida durante a pesquisa; URL do artigo isolado não preservada — slug não reconstruído com segurança."
+            }
+          ]
+        },
+        {
+          "id": "flavio-bolsonaro-prop-3",
+          "title": "Redução da maioridade penal para 16 anos",
+          "description": "\"O crime do menor não é menor\": redução da maioridade penal e tougher regime para infratores.",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Emenda constitucional",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-plano-pdf",
+              "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+              "publisher": "Poder360 (cópia do documento de campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+            }
+          ]
+        },
+        {
+          "id": "flavio-bolsonaro-prop-4",
+          "title": "Mais presídios, menos bandidos soltos",
+          "description": "Expansão do sistema prisional e endurecimento de regras (eixo \"Brasil sem Medo\").",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Política pública + orçamento",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-plano-pdf",
+              "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+              "publisher": "Poder360 (cópia do documento de campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+            }
+          ]
+        },
+        {
+          "id": "flavio-bolsonaro-prop-5",
+          "title": "Jornada do negócio próprio e primeiro emprego",
+          "description": "Três níveis: capacitação pelo Sistema S; linha de crédito e serviços financeiros da Caixa para novos empreendedores; contrato de trabalho de custo reduzido para o primeiro emprego.",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Programa administrativo + crédito",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-g1-plano",
+              "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+              "publisher": "G1",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+              "publishedAt": "2026-08-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+            }
+          ]
+        },
+        {
+          "id": "flavio-bolsonaro-prop-6",
+          "title": "R$ 900 bilhões em infraestrutura em quatro anos",
+          "description": "Investimento em rodovias, hidrovias e portos previsto no texto do plano.",
+          "theme": "Infraestrutura",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": true,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Parcerias e orçamento",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-plano-pdf",
+              "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+              "publisher": "Poder360 (cópia do documento de campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-flavio-bolsonaro-1",
+        "description": "Chapa presidencial do PL oficializada na convenção nacional do partido em 25/07/2026 (São Paulo), com o vice Alfredo Gaspar (PL-AL); sem federação ou coligação formal.",
+        "value": "PL (partido isolado)",
+        "date": "2026-07-25",
+        "sources": [
+          {
+            "id": "src-valor-convencao",
+            "title": "Flávio Bolsonaro chega à convenção do PL hoje tentando superar isolamento",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/25/flavio-bolsonaro-chega-a-convencao-do-pl-hoje-tentando-superar-isolamento.ghtml",
+            "publishedAt": "2026-07-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": ""
+          },
+          {
+            "id": "src-platobr-convencao",
+            "title": "Sem alianças partidárias, Flávio chega à convenção do PL com Javier Milei",
+            "publisher": "PlatoBr",
+            "url": "https://platobr.com.br/sem-aliancas-partidarias-flavio-chega-a-convencao-do-pl-com-javier-milei",
+            "publishedAt": "2026-07-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": ""
+          },
+          {
+            "id": "src-tse-doze",
+            "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas."
+          }
+        ]
+      },
+      {
+        "id": "sup-flavio-bolsonaro-2",
+        "description": "Imprensa relatou isolamento do candidato junto a partidos do Centrão até a convenção; Milei participou como apoio externo.",
+        "value": "isolamento relativo; apoio externo de Javier Milei",
+        "date": "2026-07-25",
+        "sources": [
+          {
+            "id": "src-valor-convencao",
+            "title": "Flávio Bolsonaro chega à convenção do PL hoje tentando superar isolamento",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/25/flavio-bolsonaro-chega-a-convencao-do-pl-hoje-tentando-superar-isolamento.ghtml",
+            "publishedAt": "2026-07-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": ""
+          },
+          {
+            "id": "src-platobr-convencao",
+            "title": "Sem alianças partidárias, Flávio chega à convenção do PL com Javier Milei",
+            "publisher": "PlatoBr",
+            "url": "https://platobr.com.br/sem-aliancas-partidarias-flavio-chega-a-convencao-do-pl-com-javier-milei",
+            "publishedAt": "2026-07-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "sup-flavio-bolsonaro-3",
+        "description": "Rede de apoio eleitoral: manchete da Gazeta do Povo sobre candidatos ao Senado apoiados por Flávio Bolsonaro em 2026.",
+        "value": "47 candidatos ao Senado apoiados",
+        "date": "2026",
+        "sources": [
+          {
+            "id": "src-gazeta-apoios",
+            "title": "Quem são os 47 candidatos ao Senado apoiados por Flávio Bolsonaro",
+            "publisher": "Gazeta do Povo",
+            "url": "https://gazetadopovo.com.br/tudo-sobre/caroline-de-toni",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Manchete exibida na página de tópico da Gazeta do Povo; URL do artigo isolado não localizada."
+          }
+        ]
+      },
+      {
+        "id": "sup-flavio-bolsonaro-4",
+        "description": "Incidência em redes e agenda própria: live de apresentação do plano em 13/08/2026 com aliados e atos de campanha em estados como SP.",
+        "value": "agenda de campanha ativa",
+        "date": "2026-08-13",
+        "sources": [
+          {
+            "id": "src-g1-plano",
+            "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+            "publisher": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+            "publishedAt": "2026-08-13",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-flavio-bolsonaro-1",
+        "description": "Eleição interna na Mesa Diretora do Senado: eleito 3º Secretário em 06/02/2019, no início do primeiro mandato federal.",
+        "value": "Mesa Diretora do Senado",
+        "date": "2019-02-06",
+        "sources": [
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          }
+        ]
+      },
+      {
+        "id": "neg-flavio-bolsonaro-2",
+        "description": "Reaproximação familiar (com Michelle Bolsonaro) dois dias antes da convenção do PL, segundo a Wikipédia, contexto da oficialização da candidatura.",
+        "value": "unificação da família na convenção do PL",
+        "date": "2026-07-25",
+        "sources": [
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          }
+        ]
+      },
+      {
+        "id": "neg-flavio-bolsonaro-3",
+        "description": "Atuação como relator no Senado de propostas de segurança pública de repercussão nacional (PL 2253/2022, monitoração eletrônica e fim da saída temporária).",
+        "value": "relatoria de pauta de segurança",
+        "date": "2024-02-20",
+        "sources": [
+          {
+            "id": "src-senado-pronunciamento",
+            "title": "Pronunciamento de Flávio Bolsonaro em 20/02/2024 (relator do PL 2253/2022)",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503985",
+            "publishedAt": "2024-02-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": ""
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "flavio-bolsonaro-inst-1",
+        "category": "tribunal",
+        "title": "Caso da \"rachadinha\" na ALERJ — denúncia do MP-RJ (peculato, lavagem e organização criminosa)",
+        "legalStatus": "arquivamento",
+        "currentStatus": "encerrado",
+        "instance": "TJ-RJ — Órgão Especial (após anulações de provas pelo STJ e pelo STF)",
+        "lastUpdate": "2022-05-16",
+        "description": "MP-RJ denunciou Flávio Bolsonaro e mais 15 pessoas em nov/2020 por suposto esquema de rachadinha na ALERJ (R$ 6 milhões alegados). O STJ anulou as quebras de sigilo (fev/2021) e, por 4x1, todas as decisões do juízo de 1ª instância (nov/2021, tese do \"mandato cruzado\"); o STF anulou parte dos relatórios do Coaf. Sem provas válidas, o próprio MP pediu a extinção e o Órgão Especial do TJ-RJ rejeitou a denúncia por falta de justa causa em 16/05/2022 (arquivamento). A rejeição não impede novo oferecimento. Imprensa em 2026: Folha/Política Livre (07/03/2026) descreve o caso como encerrado; BBC informa que a promotoria aguardava decisão do STJ sobre pedido de retomada — status atual, portanto, parcialmente incerto. Ele sempre negou as acusações.",
+        "sources": [
+          {
+            "id": "src-agencia-brasil-arquiv",
+            "title": "Justiça do Rio arquiva processo de caso de supostas rachadinhas",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+            "publishedAt": "2022-05-16",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal",
+            "notes": "Arquivamento da denúncia pelo Órgão Especial do TJ-RJ a pedido do MP."
+          },
+          {
+            "id": "src-valor-rachadinha",
+            "title": "Flávio Bolsonaro: relembre o processo da rachadinha",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/flavio-bolsonaro-relembre-o-processo-da-rachadinha.ghtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Retrospectiva do processo em 2026."
+          },
+          {
+            "id": "src-folha-rachadinha",
+            "title": "Caso da 'rachadinha' de Flávio Bolsonaro foi encerrado com perguntas não respondidas",
+            "publisher": "Folha de S.Paulo (via Política Livre)",
+            "url": "https://www.politicalivre.com.br/2026/$03/caso-da-rachadinha-de-flavio-bolsonaro-foi-encerrado-com-perguntas-nao-respondidas",
+            "publishedAt": "2026-03-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Cópia Folhapress; URL reproduzida como retornada pela busca."
+          },
+          {
+            "id": "src-bbc-familia",
+            "title": "As acusações e suspeitas que pairam sobre a família Bolsonaro",
+            "publisher": "BBC News Brasil",
+            "url": "https://bbc.com/portuguese/articles/c99n52wrdyno",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Situação dos casos da família; promotoria aguardando STJ sobre retomada do caso arquivado; síntese dos 51 imóveis."
+          },
+          {
+            "id": "src-g1-stj-anula",
+            "title": "STJ anula todas as decisões de juiz contra Flávio Bolsonaro no caso das rachadinhas",
+            "publisher": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2021/11/09/stj-anula-todas-as-decisoes-de-juiz-contra-flavio-bolsonaro-nas-rachadinhas.ghtml",
+            "publishedAt": "2021-11-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal",
+            "notes": "STJ, 5ª Turma: anulação por 4x1 com base no \"mandato cruzado\"."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "flavio-bolsonaro-inst-2",
+        "category": "tribunal",
+        "title": "Inquérito do STF sobre financiamento do filme \"Dark Horse\" (repasses de Vorcaro/Banco Master)",
+        "legalStatus": "inquerito",
+        "currentStatus": "em_andamento",
+        "instance": "STF — ministro André Mendonça (inquérito sigiloso vinculado ao INQ 5026)",
+        "lastUpdate": "2026-09-11",
+        "description": "André Mendonça determinou a abertura de inquérito para apurar, em tese, lavagem de dinheiro, evasão de divisas, corrupção e organização criminosa no financiamento do filme \"Dark Horse\" junto a Daniel Vorcaro (Banco Master). A PF aponta Flávio como \"interlocutor direto\" de Vorcaro; US$ 24 milhões (≈R$ 122 mi) seriam previstos em contrato. Divulgado em 11/09/2026, no curso da campanha. Flávio afirma que se tratou de patrocínio privado e pede transparência total. É INQUÉRITE/investigação — não há denúncia ou condenação nesta matéria.",
+        "sources": [
+          {
+            "id": "src-valor-darkhorse",
+            "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre repasses de Vorcaro a 'Dark Horse'",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/noticia/2026/09/11/pgr-pede-para-pf-mapear-projetos-de-flavio-bolsonaro-e-mario-frias-de-interesse-de-vorcaro-no-congresso.ghtml",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal",
+            "notes": "Decisão de André Mendonça; PF aponta lavagem, evasão, corrupção e organização criminosa."
+          },
+          {
+            "id": "src-folha-darkhorse",
+            "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre 'Dark Horse'",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-investigado-no-stf-em-inquerito-sobre-dark-horse.shtml",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Flávio apontado como \"interlocutor direto\" de Vorcaro."
+          },
+          {
+            "id": "src-bbc-darkhorse",
+            "title": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "US$ 24 milhões em 14 parcelas previstas em contrato."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "flavio-bolsonaro-inst-3",
+        "category": "prestacao_de_contas",
+        "title": "Prestação de contas da campanha ao Senado em 2018 (PSL)",
+        "legalStatus": "aprovacao",
+        "currentStatus": "encerrado",
+        "instance": "TRE-RJ — Desembargador Relator Raphael Mattos",
+        "lastUpdate": "2018-12-11",
+        "description": "Contas julgadas APROVADAS COM RESSALVAS em 11/12/2018 (processo nº 0605831-16.2018.6.19.0001): (i) indícios de recebimento indireto de fonte vedada; (ii) doações anteriores à PC parcial não informadas; (iii) despesas não informadas na PC parcial. Sem impugnação no edital. A decisão ressalva que não afasta apuração de ilícitos por outros órgãos. O MP-RJ (Gaecc) investigou contas de 2010–2018 no âmbito do inquérito da rachadinha (Estadão).",
+        "sources": [
+          {
+            "id": "src-tre-rj-contas",
+            "title": "Decisão: prestação de contas — Eleição 2018, Flávio Nantes Bolsonaro (Senador)",
+            "publisher": "TRE-RJ (cópia do texto da decisão)",
+            "url": "https://pt.scribd.com/document/1051697675/REQUERENTE-ELEICAO-2018-FLAVIO-NANTES-BOLSONARO-SENADOR",
+            "publishedAt": "2018-12-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Processo nº 0605831-16.2018.6.19.0001; aprovadas com ressalvas, Des. Raphael Mattos."
+          },
+          {
+            "id": "src-estadao-contas",
+            "title": "Ministério Público investiga contas eleitorais de Flávio Bolsonaro",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/ministerio-publico-investiga-contas-eleitorais-de-flavio-bolsonaro/",
+            "publishedAt": "2019",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Gaecc/MP-RJ apura contas de 2010–2018 no âmbito do inquérito da rachadinha."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "flavio-bolsonaro-inst-4",
+        "category": "tribunal",
+        "title": "AIJE da coligação \"Brasil Pronto pra Mais\" (PT) pedindo cassação da chapa e inelegibilidade de 8 anos",
+        "legalStatus": "processo",
+        "currentStatus": "em_andamento",
+        "instance": "TSE — Corregedoria-Geral Eleitoral (rel. min. Ricardo Villas Bôas Cueva; distribuição em 23/09/2026)",
+        "lastUpdate": "2026-09-23",
+        "description": "Ação de Investigação Judicial Eleitoral (processo nº 0602222-72.2026.6.00.0000), ajuizada em ago/2026 contra Flávio Bolsonaro, Alfredo Gaspar e Mário Frias por suposto abuso de poder econômico/político e uso indevido dos meios de comunicação. O TSE admitiu a ação (corregedor Antonio Carlos Ferreira): Flávio e Gaspar têm 5 dias para defesa. Liminar deferida em parte (preservação de dados de Facebook e Shopee; multa diária de R$ 50 mil); demais medidas indeferidas. NÃO há reconhecimento de ilícito nem decisão de mérito — tramitação em curso.",
+        "sources": [
+          {
+            "id": "src-tse-aije-peca",
+            "title": "AIJE nº 0602222-72.2026.6.00.0000 — peça inicial (PT) contra Flávio Bolsonaro e outros",
+            "publisher": "TSE (cópia publicada pelo Conjur)",
+            "url": "https://conjur.com.br/wp-content/uploads/2026/09/pt-peca-tse.pdf",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Documento processual: pedidos, rito art. 22 da LC 64/90, relator e distribuição."
+          },
+          {
+            "id": "src-horabrasilia-aije",
+            "title": "TSE admite ação do PT que pede cassação de Flávio Bolsonaro e inelegibilidade por oito anos",
+            "publisher": "Hora Brasília",
+            "url": "https://horabrasilia.com.br/2026/09/tse-admite-acao-do-pt-que-pede-cassacao-de-flavio-bolsonaro-e-inelegibilidade-por-oito-anos/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Admissibilidade sem juízo de mérito; prazo de defesa."
+          },
+          {
+            "id": "src-otempo-aije",
+            "title": "Coligação de Lula pede cassação de Flávio na Justiça",
+            "publisher": "O Tempo",
+            "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/8/30/coligacao-de-lula-pede-cassacao-da-chapa-de-flavio-na-justica-por-abuso-de-poder-economico",
+            "publishedAt": "2026-08-30",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ajuização da AIJE."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "flavio-bolsonaro-inst-5",
+        "category": "tribunal",
+        "title": "Ação do TSE sobre \"ecossistema de desinformação\" (81 representados, protocolada em 2022)",
+        "legalStatus": "processo",
+        "currentStatus": "em_andamento",
+        "instance": "TSE — 4º relator desde 2022 (atualmente min. Ricardo Villas Bôas Cueva)",
+        "lastUpdate": "2026-05-05",
+        "description": "Processo protocolado em 16/10/2022 pela campanha de Lula contra 81 representados (incluindo Flávio, Jair, Eduardo e Carlos Bolsonaro) por suposto abuso de poder político/econômico e desinformação sobre as urnas. Pede cassação e inelegibilidade até 2030. Segundo nota oficial do TSE (05/05/2026), ainda em etapa de identificação e citação de investigados, sem previsão de julgamento; parte dos investigados em revelia. O Globo (07/2026) descreve o caso como \"à deriva\" há quase 4 anos.",
+        "sources": [
+          {
+            "id": "src-oglobo-desinformacao",
+            "title": "Ação que ameaça Flávio Bolsonaro segue travada no TSE",
+            "publisher": "O Globo (blog Malu Gaspar)",
+            "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/07/acao-que-pode-tornar-flavio-bolsonaro-inelegivel-esta-a-deriva-no-tse.ghtml",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Processo de 2022 com 81 representados; inclui nota oficial do TSE (05/05/2026)."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "flavio-bolsonaro-inst-6",
+        "category": "tribunal",
+        "title": "Representação da Federação Brasil da Esperança por desinformação sobre urnas eletrônicas",
+        "legalStatus": "investigacao",
+        "currentStatus": "em_andamento",
+        "instance": "TSE",
+        "lastUpdate": "2026-07-22",
+        "description": "Representação protocolada em 22/07/2026 após Flávio afirmar que as urnas foram produzidas pela empresa venezuelana Smartmatic (informação desmentida pelo TSE). Pedem multa de R$ 30 mil e remoção das postagens. Sem decisão localizada até a data desta pesquisa.",
+        "sources": [
+          {
+            "id": "src-agenciabrasil-urnas",
+            "title": "PT aciona TSE contra Flávio Bolsonaro sobre urnas eletrônicas",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pt-aciona-tse-contra-flavio-bolsonaro-sobre-urnas-eletronicas",
+            "publishedAt": "2026-07-22",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Representação da federação Fé Brasil; multa de R$ 30 mil pedida."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "flavio-bolsonaro-inst-7",
+        "category": "patrimonial",
+        "title": "51 imóveis da família comprados com dinheiro vivo (levantamento UOL)",
+        "legalStatus": "denuncia",
+        "currentStatus": "encerrado",
+        "instance": "Sem processo judicial localizado contra Flávio por este fato — matéria jornalística; liminar da Justiça do DF determinou exclusão da reportagem",
+        "lastUpdate": "2022-09-23",
+        "description": "Levantamento jornalístico do UOL (ago–set/2022): 51 das 107 transações imobiliárias da família Bolsonaro com dinheiro em espécie (R$ 5,7 mi de R$ 13 mi registrados; R$ 11 mi corrigidos). A Justiça de Brasília determinou a exclusão da reportagem; o UOL informou cumprir e recorrer. Não localizado neste processo judicial ou inquérito específico contra Flávio pelo fato. Confiança: média, por se tratar de apuração de imprensa.",
+        "sources": [
+          {
+            "id": "src-uol-51-imoveis",
+            "title": "Clã Bolsonaro: as evidências de dinheiro vivo em cada um dos 51 imóveis",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/videos/2022/09/09/cla-bolsonaro-as-evidencias-de-dinheiro-vivo-em-cada-um-dos-51-imoveis.htm",
+            "publishedAt": "2022-09-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "51 das 107 transações com espécie."
+          },
+          {
+            "id": "src-uol-51-liminar",
+            "title": "51 imóveis em dinheiro vivo: Justiça de Brasília determina exclusão de reportagem",
+            "publisher": "UOL",
+            "url": "https://cultura.uol.com.br/noticias/52655_51-imoveis-em-dinheiro-vivo-justica-de-brasilia-determina-e-exclusao-de-reportagem-sobre-compras-da-familia-bolsonaro.html",
+            "publishedAt": "2022-09-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "UOL informou cumprir e recorrer."
+          },
+          {
+            "id": "src-bbc-familia",
+            "title": "As acusações e suspeitas que pairam sobre a família Bolsonaro",
+            "publisher": "BBC News Brasil",
+            "url": "https://bbc.com/portuguese/articles/c99n52wrdyno",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Situação dos casos da família; promotoria aguardando STJ sobre retomada do caso arquivado; síntese dos 51 imóveis."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "flavio-bolsonaro-inst-8",
+        "category": "tribunal",
+        "title": "Emenda parlamentar de quase R$ 200 mil destinada a projeto a pedido de miliciano condenado no caso Marielle",
+        "legalStatus": "denuncia",
+        "currentStatus": "em_andamento",
+        "instance": "Sem decisão judicial localizada — reportagem do G1 com prints de conversas",
+        "lastUpdate": "2026-09-22",
+        "description": "G1 (22/09/2026) mostrou que o senador destinou emenda de quase R$ 200 mil a projeto esportivo a pedido de Robson Calixto \"Peixe\", condenado no caso Marielle, mediante conversas com assessora do gabinete. Matéria de imprensa; não localizada decisão ou processo judicial específico sobre o fato nesta pesquisa.",
+        "sources": [
+          {
+            "id": "src-g1-emenda-miliciano",
+            "title": "Flávio Bolsonaro destinou emenda a miliciano condenado no caso Marielle; veja prints de conversa com assessora do senador",
+            "publisher": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/09/22/flavio-bolsonaro-destinou-emenda-a-miliciano-condenado-por-morte-de-marielle-veja-prints-de-conversa-com-assessora-do-senador.ghtml",
+            "publishedAt": "2026-09-22",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": ""
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "flavio-bolsonaro-inst-9",
+        "category": "patrimonial",
+        "title": "Patrimônio declarado à Justiça Eleitoral",
+        "legalStatus": "regular",
+        "currentStatus": "encerrado",
+        "instance": "Justiça Eleitoral (declaração de bens)",
+        "lastUpdate": "2026-04-13",
+        "description": "R$ 1,74 milhão em bens declarados (levantamento Brasil de Fato com base na Justiça Eleitoral); mansão de R$ 6 milhões em Brasília comprada em 2021 (entrada R$ 2,87 mi, financiamento quitado em 2024 junto ao BRB); crescimento patrimonial de 397% em 12 anos de mandato na ALERJ segundo o mesmo levantamento.",
+        "sources": [
+          {
+            "id": "src-brasildefato-patrimonio",
+            "title": "Da rachadinha à doação de campanha do Master: relembre escândalos ligados a Flávio Bolsonaro",
+            "publisher": "Brasil de Fato",
+            "url": "https://brasildefato.com.br/2026/04/13/da-rachadinha-a-doacao-de-campanha-do-master-relembre-escandalos-ligados-a-flavio-bolsonaro",
+            "publishedAt": "2026-04-13",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Patrimônio declarado: R$ 1,74 mi; mansão de R$ 6 mi quitada em 2024; crescimento de 397% em 12 anos."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Trajetória verificada sem ocupação de cargo executivo eletivo (prefeito, governador, presidente) — zero real, não ausência de dado",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          },
+          {
+            "id": "src-senado-perfil",
+            "title": "Senador Flávio Bolsonaro — perfil oficial",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Toda a trajetória é legislativa (ALERJ e Senado).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "não localizado",
+        "value": null,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Nunca administrou orçamento executivo; não localizado dado de orçamento de gabinete/verba de emendas sob gestão",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [],
+        "updatedAt": "2026-09-29",
+        "context": "",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Pessoas/equipe sob gestão",
+        "displayValue": "não localizado",
+        "value": null,
+        "unit": "servidores",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Tamanho do gabinete parlamentar não aferido nesta pesquisa",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [],
+        "updatedAt": "2026-09-29",
+        "context": "",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política total",
+        "displayValue": "26 anos",
+        "value": 26,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Desde o início da vida pública profissional (~2000, assessoria no PPB) até 2026",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Se contado apenas de mandato eletivo (2003), o valor é 23 anos.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos legislativos",
+        "displayValue": "23 anos e 9 meses",
+        "value": 23.7,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "ALERJ jan/2003–dez/2018 (16 anos) + Senado fev/2019–set/2026 (7 anos e 8 meses)",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-senado-perfil",
+            "title": "Senador Flávio Bolsonaro — perfil oficial",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+          },
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "articulacao",
+        "name": "Anos de mandato federal",
+        "displayValue": "7 anos e 8 meses",
+        "value": 7.7,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Senado Federal, desde fev/2019",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-senado-perfil",
+            "title": "Senador Flávio Bolsonaro — perfil oficial",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Antes disso, nenhum mandato federal (só estadual).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "5 mandatos",
+        "value": 5,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "4 estaduais (2002, 2006, 2010, 2014) + 1 federal (Senado, 2018); não inclui derrotas (prefeito do RJ 2016, 4º lugar) nem a disputa de 2026",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-wikipedia",
+            "title": "Flávio Bolsonaro — Wikipédia",
+            "publisher": "Wikimedia",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+          },
+          {
+            "id": "src-uol-2018",
+            "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm",
+            "publishedAt": "2018-10-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "4.380.418 votos, 31,36%."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "projetos_lei_aprovados",
+        "category": "historico-experiencia",
+        "name": "Leis aprovadas como autor principal (federal)",
+        "displayValue": "0 leis (2 projetos aprovados no Senado, nenhum convertido em lei)",
+        "value": 0,
+        "unit": "leis",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Levantamento UOL/Agenda do Poder com dados oficiais do Senado (2019–2026): 62 projetos como autor principal, 2 aprovados no Senado, 0 leis; Brasil de Fato (abr/2026): 1 projeto aprovado nas duas Casas (PL 3.190/2023) ainda não convertido; como coautor, 9 aprovados e 2 viraram lei. Zero verificado, não ausência de dado",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-agenda-poder-legis",
+            "title": "Em 7 anos no Senado, Flávio Bolsonaro teve apenas 2 projetos aprovados e nenhum deles virou lei",
+            "publisher": "Agenda do Poder / UOL",
+            "url": "https://agendadopoder.com.br/em-7-anos-no-senado-flavio-bolsonaro-teve-apenas-2-projetos-aprovados-e-nenhum-deles-virou-lei",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Levantamento com dados oficiais do Senado: 62 projetos autor principal, 47ª entre 54 senadores."
+          },
+          {
+            "id": "src-brasildefato-legis",
+            "title": "Em sete anos, Flávio Bolsonaro teve apenas um projeto de lei aprovado no Congresso",
+            "publisher": "Brasil de Fato",
+            "url": "https://www.brasildefato.com.br/2026/04/02/em-sete-anos-flavio-bolsonaro-teve-apenas-um-projeto-de-lei-aprovado-no-congresso",
+            "publishedAt": "2026-04-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "PL 3.190/2023, único aprovado nas duas Casas até então."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Na ALERJ, tem autoria da Lei 7.809/2017 (estadual).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas do plano de governo",
+        "displayValue": "69 propostas",
+        "value": 69,
+        "unit": "propostas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem do índice temático do PDF oficial do plano (85 entradas no sumário: 69 propostas + 9 eixos temáticos + 7 seções estruturais), extraído integralmente (76 páginas)",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-plano-pdf",
+            "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+            "publisher": "Poder360 (cópia do documento de campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "~4% (3 menções de valor em R$ no texto de 69 propostas)",
+        "value": 4.3,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem automática de menções de valores em R$ no texto extraído do PDF (R$ 900 bi; R$ 500 bi x2). Não equivale a propostas com plano orçamentário completo",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-plano-pdf",
+            "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+            "publisher": "Poder360 (cópia do documento de campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "O plano não apresenta custo por proposta de forma sistemática.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "~13% (≈9 menções de prazo no texto de 69 propostas)",
+        "value": 13,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de menções temporais no PDF (\"em 4 anos\", 2027, 2029, 2030, \"até 20…\")",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-plano-pdf",
+            "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+            "publisher": "Poder360 (cópia do documento de campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_votos_eleicao",
+        "category": "historico-experiencia",
+        "name": "Maior votação individual",
+        "displayValue": "4.380.418 votos (2018)",
+        "value": 4380418,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Eleição ao Senado pelo RJ em 2018 — 31,36% dos votos válidos, mais votado do estado",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-uol-2018",
+            "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm",
+            "publishedAt": "2018-10-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "4.380.418 votos, 31,36%."
+          },
+          {
+            "id": "src-agenciabrasil-2018",
+            "title": "Flávio Bolsonaro e Arolde de Oliveira são eleitos para Senado pelo RJ",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-para-senado-pelo-rj",
+            "publishedAt": "2018-10-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estatistico",
+            "notes": ""
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "patrimonio_declarado",
+        "category": "historico-experiencia",
+        "name": "Patrimônio declarado à Justiça Eleitoral",
+        "displayValue": "R$ 1,74 milhão",
+        "value": 1.74,
+        "unit": "R$ milhão",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Valor mais recente citado pela imprensa com base em declarações à Justiça Eleitoral; o mesmo levantamento descreve mansão em Brasília de R$ 6 milhões (entrada de R$ 2,87 mi em 2021, financiamento quitado em 2024 junto ao BRB) e crescimento patrimonial de 397% em 12 anos de mandato na ALERJ",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-brasildefato-patrimonio",
+            "title": "Da rachadinha à doação de campanha do Master: relembre escândalos ligados a Flávio Bolsonaro",
+            "publisher": "Brasil de Fato",
+            "url": "https://brasildefato.com.br/2026/04/13/da-rachadinha-a-doacao-de-campanha-do-master-relembre-escandalos-ligados-a-flavio-bolsonaro",
+            "publishedAt": "2026-04-13",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Patrimônio declarado: R$ 1,74 mi; mansão de R$ 6 mi quitada em 2024; crescimento de 397% em 12 anos."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Fonte imprensa; não aberto o DivulgaCandContas nesta pesquisa.",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-g1-plano",
+        "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+        "publisher": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+        "publishedAt": "2026-08-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+      },
+      {
+        "id": "src-plano-pdf",
+        "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+        "publisher": "Poder360 (cópia do documento de campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+      },
+      {
+        "id": "src-tse-doze",
+        "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas."
+      },
+      {
+        "id": "src-tse-registros",
+        "title": "TSE valida seis registros de candidatura à Presidência da República",
+        "publisher": "TSE",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Situação de registro da chapa presidencial."
+      },
+      {
+        "id": "src-senado-perfil",
+        "title": "Senador Flávio Bolsonaro — perfil oficial",
+        "publisher": "Senado Federal",
+        "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+      },
+      {
+        "id": "src-senado-pronunciamento",
+        "title": "Pronunciamento de Flávio Bolsonaro em 20/02/2024 (relator do PL 2253/2022)",
+        "publisher": "Senado Federal",
+        "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503985",
+        "publishedAt": "2024-02-20",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": ""
+      },
+      {
+        "id": "src-g1-educacao",
+        "title": "Campanha admite erro em currículo acadêmico de Flávio Bolsonaro",
+        "publisher": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/paginas-oficiais-de-flavio-bolsonaro-incluem-curso-de-pos-graduacao-que-ele-nao-fez-campanha-diz-que-houve-equivoco.ghtml",
+        "publishedAt": "2026-08-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "UFRJ nega registro de pós em Ciências Políticas; assessoria enviou diplomas: Direito 2006, IUPERJ 2012, FGV 2015."
+      },
+      {
+        "id": "src-bbc-educacao",
+        "title": "Como Flávio Bolsonaro ocupou um cargo na Câmara dos Deputados (reportagem sobre formação)",
+        "publisher": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese/brasil-46828487",
+        "publishedAt": "2021",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Direito na Cândido Mendes: início em 2000, formação em 2005 segundo a OAB (diverge do diploma 2006)."
+      },
+      {
+        "id": "src-wikipedia",
+        "title": "Flávio Bolsonaro — Wikipédia",
+        "publisher": "Wikimedia",
+        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+      },
+      {
+        "id": "src-gazeta-candidato",
+        "title": "Flavio Bolsonaro — candidato a Presidente em 2026 (nº 22)",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/flavio-bolsonaro-pl-22",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Número de urna 22."
+      },
+      {
+        "id": "src-gazeta-apoios",
+        "title": "Quem são os 47 candidatos ao Senado apoiados por Flávio Bolsonaro",
+        "publisher": "Gazeta do Povo",
+        "url": "https://gazetadopovo.com.br/tudo-sobre/caroline-de-toni",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Manchete exibida na página de tópico da Gazeta do Povo; URL do artigo isolado não localizada."
+      },
+      {
+        "id": "src-valor-rachadinha",
+        "title": "Flávio Bolsonaro: relembre o processo da rachadinha",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/flavio-bolsonaro-relembre-o-processo-da-rachadinha.ghtml",
+        "publishedAt": "2026-09-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Retrospectiva do processo em 2026."
+      },
+      {
+        "id": "src-agencia-brasil-arquiv",
+        "title": "Justiça do Rio arquiva processo de caso de supostas rachadinhas",
+        "publisher": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "publishedAt": "2022-05-16",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal",
+        "notes": "Arquivamento da denúncia pelo Órgão Especial do TJ-RJ a pedido do MP."
+      },
+      {
+        "id": "src-g1-stj-anula",
+        "title": "STJ anula todas as decisões de juiz contra Flávio Bolsonaro no caso das rachadinhas",
+        "publisher": "G1",
+        "url": "https://g1.globo.com/politica/noticia/2021/11/09/stj-anula-todas-as-decisoes-de-juiz-contra-flavio-bolsonaro-nas-rachadinhas.ghtml",
+        "publishedAt": "2021-11-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal",
+        "notes": "STJ, 5ª Turma: anulação por 4x1 com base no \"mandato cruzado\"."
+      },
+      {
+        "id": "src-folha-rachadinha",
+        "title": "Caso da 'rachadinha' de Flávio Bolsonaro foi encerrado com perguntas não respondidas",
+        "publisher": "Folha de S.Paulo (via Política Livre)",
+        "url": "https://www.politicalivre.com.br/2026/$03/caso-da-rachadinha-de-flavio-bolsonaro-foi-encerrado-com-perguntas-nao-respondidas",
+        "publishedAt": "2026-03-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Cópia Folhapress; URL reproduzida como retornada pela busca."
+      },
+      {
+        "id": "src-bbc-familia",
+        "title": "As acusações e suspeitas que pairam sobre a família Bolsonaro",
+        "publisher": "BBC News Brasil",
+        "url": "https://bbc.com/portuguese/articles/c99n52wrdyno",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Situação dos casos da família; promotoria aguardando STJ sobre retomada do caso arquivado; síntese dos 51 imóveis."
+      },
+      {
+        "id": "src-valor-darkhorse",
+        "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre repasses de Vorcaro a 'Dark Horse'",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/noticia/2026/09/11/pgr-pede-para-pf-mapear-projetos-de-flavio-bolsonaro-e-mario-frias-de-interesse-de-vorcaro-no-congresso.ghtml",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal",
+        "notes": "Decisão de André Mendonça; PF aponta lavagem, evasão, corrupção e organização criminosa."
+      },
+      {
+        "id": "src-folha-darkhorse",
+        "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre 'Dark Horse'",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-investigado-no-stf-em-inquerito-sobre-dark-horse.shtml",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Flávio apontado como \"interlocutor direto\" de Vorcaro."
+      },
+      {
+        "id": "src-bbc-darkhorse",
+        "title": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito",
+        "publisher": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "US$ 24 milhões em 14 parcelas previstas em contrato."
+      },
+      {
+        "id": "src-tse-aije-peca",
+        "title": "AIJE nº 0602222-72.2026.6.00.0000 — peça inicial (PT) contra Flávio Bolsonaro e outros",
+        "publisher": "TSE (cópia publicada pelo Conjur)",
+        "url": "https://conjur.com.br/wp-content/uploads/2026/09/pt-peca-tse.pdf",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Documento processual: pedidos, rito art. 22 da LC 64/90, relator e distribuição."
+      },
+      {
+        "id": "src-horabrasilia-aije",
+        "title": "TSE admite ação do PT que pede cassação de Flávio Bolsonaro e inelegibilidade por oito anos",
+        "publisher": "Hora Brasília",
+        "url": "https://horabrasilia.com.br/2026/09/tse-admite-acao-do-pt-que-pede-cassacao-de-flavio-bolsonaro-e-inelegibilidade-por-oito-anos/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Admissibilidade sem juízo de mérito; prazo de defesa."
+      },
+      {
+        "id": "src-otempo-aije",
+        "title": "Coligação de Lula pede cassação de Flávio na Justiça",
+        "publisher": "O Tempo",
+        "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/8/30/coligacao-de-lula-pede-cassacao-da-chapa-de-flavio-na-justica-por-abuso-de-poder-economico",
+        "publishedAt": "2026-08-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ajuização da AIJE."
+      },
+      {
+        "id": "src-oglobo-desinformacao",
+        "title": "Ação que ameaça Flávio Bolsonaro segue travada no TSE",
+        "publisher": "O Globo (blog Malu Gaspar)",
+        "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/07/acao-que-pode-tornar-flavio-bolsonaro-inelegivel-esta-a-deriva-no-tse.ghtml",
+        "publishedAt": "2026-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Processo de 2022 com 81 representados; inclui nota oficial do TSE (05/05/2026)."
+      },
+      {
+        "id": "src-agenciabrasil-urnas",
+        "title": "PT aciona TSE contra Flávio Bolsonaro sobre urnas eletrônicas",
+        "publisher": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pt-aciona-tse-contra-flavio-bolsonaro-sobre-urnas-eletronicas",
+        "publishedAt": "2026-07-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Representação da federação Fé Brasil; multa de R$ 30 mil pedida."
+      },
+      {
+        "id": "src-tre-rj-contas",
+        "title": "Decisão: prestação de contas — Eleição 2018, Flávio Nantes Bolsonaro (Senador)",
+        "publisher": "TRE-RJ (cópia do texto da decisão)",
+        "url": "https://pt.scribd.com/document/1051697675/REQUERENTE-ELEICAO-2018-FLAVIO-NANTES-BOLSONARO-SENADOR",
+        "publishedAt": "2018-12-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Processo nº 0605831-16.2018.6.19.0001; aprovadas com ressalvas, Des. Raphael Mattos."
+      },
+      {
+        "id": "src-estadao-contas",
+        "title": "Ministério Público investiga contas eleitorais de Flávio Bolsonaro",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/ministerio-publico-investiga-contas-eleitorais-de-flavio-bolsonaro/",
+        "publishedAt": "2019",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Gaecc/MP-RJ apura contas de 2010–2018 no âmbito do inquérito da rachadinha."
+      },
+      {
+        "id": "src-uol-51-imoveis",
+        "title": "Clã Bolsonaro: as evidências de dinheiro vivo em cada um dos 51 imóveis",
+        "publisher": "UOL",
+        "url": "https://noticias.uol.com.br/videos/2022/09/09/cla-bolsonaro-as-evidencias-de-dinheiro-vivo-em-cada-um-dos-51-imoveis.htm",
+        "publishedAt": "2022-09-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "51 das 107 transações com espécie."
+      },
+      {
+        "id": "src-uol-51-liminar",
+        "title": "51 imóveis em dinheiro vivo: Justiça de Brasília determina exclusão de reportagem",
+        "publisher": "UOL",
+        "url": "https://cultura.uol.com.br/noticias/52655_51-imoveis-em-dinheiro-vivo-justica-de-brasilia-determina-e-exclusao-de-reportagem-sobre-compras-da-familia-bolsonaro.html",
+        "publishedAt": "2022-09-23",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "UOL informou cumprir e recorrer."
+      },
+      {
+        "id": "src-g1-emenda-miliciano",
+        "title": "Flávio Bolsonaro destinou emenda a miliciano condenado no caso Marielle; veja prints de conversa com assessora do senador",
+        "publisher": "G1",
+        "url": "https://g1.globo.com/politica/noticia/2026/09/22/flavio-bolsonaro-destinou-emenda-a-miliciano-condenado-por-morte-de-marielle-veja-prints-de-conversa-com-assessora-do-senador.ghtml",
+        "publishedAt": "2026-09-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": ""
+      },
+      {
+        "id": "src-brasildefato-patrimonio",
+        "title": "Da rachadinha à doação de campanha do Master: relembre escândalos ligados a Flávio Bolsonaro",
+        "publisher": "Brasil de Fato",
+        "url": "https://brasildefato.com.br/2026/04/13/da-rachadinha-a-doacao-de-campanha-do-master-relembre-escandalos-ligados-a-flavio-bolsonaro",
+        "publishedAt": "2026-04-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Patrimônio declarado: R$ 1,74 mi; mansão de R$ 6 mi quitada em 2024; crescimento de 397% em 12 anos."
+      },
+      {
+        "id": "src-uol-2018",
+        "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado",
+        "publisher": "UOL",
+        "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm",
+        "publishedAt": "2018-10-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "4.380.418 votos, 31,36%."
+      },
+      {
+        "id": "src-agenciabrasil-2018",
+        "title": "Flávio Bolsonaro e Arolde de Oliveira são eleitos para Senado pelo RJ",
+        "publisher": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-para-senado-pelo-rj",
+        "publishedAt": "2018-10-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estatistico",
+        "notes": ""
+      },
+      {
+        "id": "src-agenda-poder-legis",
+        "title": "Em 7 anos no Senado, Flávio Bolsonaro teve apenas 2 projetos aprovados e nenhum deles virou lei",
+        "publisher": "Agenda do Poder / UOL",
+        "url": "https://agendadopoder.com.br/em-7-anos-no-senado-flavio-bolsonaro-teve-apenas-2-projetos-aprovados-e-nenhum-deles-virou-lei",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento com dados oficiais do Senado: 62 projetos autor principal, 47ª entre 54 senadores."
+      },
+      {
+        "id": "src-brasildefato-legis",
+        "title": "Em sete anos, Flávio Bolsonaro teve apenas um projeto de lei aprovado no Congresso",
+        "publisher": "Brasil de Fato",
+        "url": "https://www.brasildefato.com.br/2026/04/02/em-sete-anos-flavio-bolsonaro-teve-apenas-um-projeto-de-lei-aprovado-no-congresso",
+        "publishedAt": "2026-04-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "PL 3.190/2023, único aprovado nas duas Casas até então."
+      },
+      {
+        "id": "src-valor-convencao",
+        "title": "Flávio Bolsonaro chega à convenção do PL hoje tentando superar isolamento",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/25/flavio-bolsonaro-chega-a-convencao-do-pl-hoje-tentando-superar-isolamento.ghtml",
+        "publishedAt": "2026-07-25",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": ""
+      },
+      {
+        "id": "src-platobr-convencao",
+        "title": "Sem alianças partidárias, Flávio chega à convenção do PL com Javier Milei",
+        "publisher": "PlatoBr",
+        "url": "https://platobr.com.br/sem-aliancas-partidarias-flavio-chega-a-convencao-do-pl-com-javier-milei",
+        "publishedAt": "2026-07-25",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": ""
+      },
+      {
+        "id": "src-site-oficial",
+        "title": "Saiba tudo sobre Flávio Bolsonaro — campanha presidencial 2026",
+        "publisher": "Campanha Flávio Bolsonaro (Presidente 22)",
+        "url": "https://www.flaviobolsonaro.com.br/flavio",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Fonte do próprio candidato (Lei 7.809/2017, comissões, formação) — tratar como afirmação de campanha."
+      },
+      {
+        "id": "src-estadao-plano",
+        "title": "Flávio propõe prisões a la Bukele, classificar facções como narcoterroristas e reformar Judiciário",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/eleicoes/2026/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Matéria localizada e lida durante a pesquisa; URL do artigo isolado não preservada — slug não reconstruído com segurança."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
     "slug": "hertz-dias",
     "name": "Hertz Dias",
     "ballotName": "Hertz Dias",
@@ -6443,6 +10370,3664 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "oficial_eleitoral",
         "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "leonardo-avalanche",
+    "name": "Leonardo Alves de Araújo",
+    "ballotName": "Leonardo Avalanche",
+    "ballotNumber": 28,
+    "party": "PRTB",
+    "coalition": "PRTB — partido isolado (DJE 18/09/2026)",
+    "photo": "",
+    "birthDate": "1977-10-23",
+    "birthplace": "Anápolis, GO",
+    "age": 48,
+    "profession": "Analista de sistemas; bacharel em Direito",
+    "currentRole": "Presidente nacional do PRTB; candidato à Presidência da República",
+    "tagline": "Presidente nacional do PRTB desde fevereiro de 2024 e natural de Anápolis (GO). Assumiu a cabeça de chapa após o TSE indeferir o registro de Pablo Marçal em 11/09/2026; primeira disputa presidencial.",
+    "education": [
+      {
+        "id": "leonardo-avalanche-edu-1",
+        "level": "graduacao",
+        "field": "Direito",
+        "institution": "instituição não localizada nas fontes desta rodada",
+        "conclusionYear": null,
+        "notes": "Bacharel em Direito, segundo Gazeta do Paraná e CNN Brasil.",
+        "sources": [
+          {
+            "id": "src-la-14",
+            "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+            "publisher": "Gazeta do Paraná",
+            "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+          },
+          {
+            "id": "src-la-09",
+            "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+            "publishedAt": "2024-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+          }
+        ]
+      },
+      {
+        "id": "leonardo-avalanche-edu-2",
+        "level": "curso",
+        "field": "Análise de sistemas",
+        "institution": "instituição não localizada nas fontes desta rodada",
+        "conclusionYear": null,
+        "notes": "Analista de sistemas; atuação no setor privado antes da política.",
+        "sources": [
+          {
+            "id": "src-la-09",
+            "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+            "publishedAt": "2024-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "leonardo-avalanche-prof-1",
+        "role": "Atuação no setor privado (analista de sistemas)",
+        "organization": "empresa não localizada",
+        "startDate": "",
+        "endDate": null,
+        "description": "Trabalhou no setor privado antes de iniciar na política; empresa e período não localizados nas fontes desta rodada.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-la-09",
+            "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+            "publishedAt": "2024-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+          }
+        ]
+      },
+      {
+        "id": "leonardo-avalanche-prof-2",
+        "role": "Servidor público estadual (analista de sistemas)",
+        "organization": "esfera estadual — órgão não localizado",
+        "startDate": "",
+        "endDate": null,
+        "description": "Segundo O Globo/Portugal News, é servidor público estadual; órgão, período e lotação não localizados nas fontes desta rodada.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-la-12",
+            "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+            "publisher": "Portugal News / O Globo",
+            "url": "https://portugal-news.today/en/article/184968",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "leonardo-avalanche-pol-1",
+        "role": "Presidente nacional do PRTB",
+        "organization": "PRTB",
+        "startDate": "2024",
+        "endDate": null,
+        "description": "No cargo desde 23/02/2024, sucedendo direção provisória. Partido tinha 144.376 filiados em janeiro de 2026.",
+        "achievements": [
+          "Conduziu a indicação da chapa presidencial do partido em 2026, incluindo a articulação de Pablo Marçal à Prefeitura de São Paulo em 2024 (3º lugar, 28,14%)"
+        ],
+        "sources": [
+          {
+            "id": "src-la-10",
+            "title": "Leonardo Avalanche — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+          },
+          {
+            "id": "src-la-11",
+            "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+          },
+          {
+            "id": "src-la-14",
+            "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+            "publisher": "Gazeta do Paraná",
+            "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+          }
+        ]
+      },
+      {
+        "id": "leonardo-avalanche-pol-2",
+        "role": "Candidato à Presidência da República",
+        "organization": "PRTB",
+        "startDate": "2026",
+        "endDate": null,
+        "description": "Oficializado em convenção nacional em Goiânia (29/07/2026) como candidato a vice; promovido à cabeça de chapa em 15/09/2026, após a renúncia de Marçal.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-la-14",
+            "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+            "publisher": "Gazeta do Paraná",
+            "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+          },
+          {
+            "id": "src-la-04",
+            "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+            "publisher": "g1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+          },
+          {
+            "id": "src-la-05",
+            "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "leonardo-avalanche-ach-1",
+        "title": "Presidência nacional do PRTB desde fevereiro de 2024",
+        "context": "Partido PRTB (direção nacional)",
+        "description": "Assumiu a presidência do partido em 23/02/2024 e reconstruiu a estrutura nacional do PRTB até a disputa presidencial de 2026.",
+        "sources": [
+          {
+            "id": "src-la-10",
+            "title": "Leonardo Avalanche — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+          },
+          {
+            "id": "src-la-11",
+            "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "leonardo-avalanche-ach-2",
+        "title": "Registro da chapa presidencial substituta no TSE",
+        "context": "Eleições 2026 — lista oficial de candidaturas",
+        "description": "Após o indeferimento da chapa Marçal/Avalanche (11/09/2026) e a renúncia de Marçal (14/09), a chapa Leonardo Avalanche/Silvia Hellen foi publicada na lista oficial de candidaturas do DJE/TSE de 18/09/2026.",
+        "sources": [
+          {
+            "id": "src-la-01",
+            "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+            "publisher": "TSE — Diário da Justiça Eletrônico",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+          },
+          {
+            "id": "src-la-04",
+            "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+            "publisher": "g1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Reconstrução Nacional",
+      "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/leonardo-avalanche",
+      "totalProposals": 0,
+      "registeredWith": "TSE — página oficial de propostas de governo dos candidatos à Presidência (Eleições 2026)",
+      "summary": "Programa de campanha anunciado como 'Reconstrução Nacional', com redução de impostos e eliminação da fila do SUS entre os eixos divulgados; detalhamento completo e custos não disponíveis nesta rodada.",
+      "notes": "Contagem total de propostas não localizada nas fontes desta rodada; o programa é apresentado publicamente como 'reconstrução nacional'. As propostas analisadas abaixo vêm da cobertura da Agência Brasil.",
+      "statsIfCounted": null,
+      "statsEvidence": "indeterminado",
+      "proposals": [
+        {
+          "id": "la-prop-1",
+          "title": "Reduzir impostos",
+          "description": "Redução da carga tributária como eixo central do programa (Agência Brasil). Valores, marcos ou tributos específicos não divulgados nas fontes desta rodada.",
+          "theme": "Economia e tributação",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-la-06",
+              "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+              "publisher": "Agência Brasil",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Programa apresentado como 'reconstrução nacional'."
+            }
+          ]
+        },
+        {
+          "id": "la-prop-2",
+          "title": "Zerar a fila do SUS",
+          "description": "Eliminação das filas de espera do Sistema Único de Saúde como promessa do programa (Agência Brasil). Sem prazo ou meta quantificada nas fontes desta rodada.",
+          "theme": "Saúde",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": true,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-la-06",
+              "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+              "publisher": "Agência Brasil",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Programa apresentado como 'reconstrução nacional'."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src-la-06",
+          "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+          "publisher": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa apresentado como 'reconstrução nacional'."
+        },
+        {
+          "id": "src-la-01",
+          "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+          "publisher": "TSE — Diário da Justiça Eletrônico",
+          "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+          "publishedAt": "2026-09-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-la-1",
+        "description": "Partido isolado — o PRTB não integra coligação ou federação registrada para a Presidência no DJE de 18/09/2026; vice Silvia Hellen da Silva Pereira pelo mesmo partido.",
+        "value": "PRTB — sem coligação/federação",
+        "date": "2026-09-18",
+        "sources": [
+          {
+            "id": "src-la-01",
+            "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+            "publisher": "TSE — Diário da Justiça Eletrônico",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-la-1",
+        "description": "Escopo: Presidência (chapa PRTB). Indeferimento da chapa original e substituição do candidato a presidente. TSE indeferiu por unanimidade o registro da chapa Marçal/Avalanche em 11/09/2026 (Marçal não comprovou filiação no partido até abril de 2026); Marçal renunciou em 14/09 e o partido substituiu o titular — resultado registrado no DJE de 18/09/2026.",
+        "value": "Chapa substituta registrada",
+        "date": "2026-09-11",
+        "sources": [
+          {
+            "id": "src-la-02",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+          },
+          {
+            "id": "src-la-04",
+            "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+            "publisher": "g1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+          },
+          {
+            "id": "src-la-01",
+            "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+            "publisher": "TSE — Diário da Justiça Eletrônico",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-la-1",
+        "category": "eleitoral",
+        "title": "Indeferimento do registro da chapa original (Marçal presidente / Avalanche vice)",
+        "legalStatus": "registro_indeferido",
+        "currentStatus": "encerrado",
+        "instance": "TSE — Plenário",
+        "lastUpdate": "2026-09-11",
+        "description": "Em 11/09/2026 o TSE indeferiu por unanimidade o registro da chapa do PRTB com Pablo Marçal à cabeça, por não comprovação de filiação partidária de Marçal até abril de 2026; a decisão declarou Marçal inelegível até 2032 por irregularidades de prestação de contas em São Paulo (2024) e informou que o partido poderia indicar substituto. Avalanche era o candidato a vice na chapa original.",
+        "sources": [
+          {
+            "id": "src-la-02",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+          },
+          {
+            "id": "src-la-04",
+            "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+            "publisher": "g1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-la-2",
+        "category": "eleitoral",
+        "title": "Registro da chapa substituta à Presidência (Leonardo Avalanche nº 28 / Silvia Hellen)",
+        "legalStatus": "regular",
+        "currentStatus": "encerrado",
+        "instance": "TSE — Secretaria Judiciária (DJE)",
+        "lastUpdate": "2026-09-18",
+        "description": "Após a renúncia de Marçal (14/09/2026), o PRTB protocolou a substituição no último dia do prazo; voto favorável da relatora ministra Estela Aranha. A chapa consta na lista oficial de candidaturas publicada no DJE do TSE em 18/09/2026 e na lista atualizada de 21/09/2026.",
+        "sources": [
+          {
+            "id": "src-la-01",
+            "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+            "publisher": "TSE — Diário da Justiça Eletrônico",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+          },
+          {
+            "id": "src-la-04",
+            "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+            "publisher": "g1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+          },
+          {
+            "id": "src-la-05",
+            "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-la-3",
+        "category": "tribunal",
+        "title": "Denúncia do MP-SP por suposta fraude na eleição interna do PRTB (fev/2024)",
+        "legalStatus": "denuncia",
+        "currentStatus": "em_andamento",
+        "instance": "Ministério Público de São Paulo",
+        "lastUpdate": "2026-01",
+        "description": "Em janeiro de 2026 o Ministério Público de São Paulo apresentou denúncia contra Avalanche, pedindo a abertura de ação penal por supostos crimes ligados à disputa pelo controle do partido (eleição interna de fevereiro de 2024, alegada fraude — promotor Renato Kim Barbosa). Ex-dirigentes também alegaram ameaças na mesma disputa; a defesa nega as acusações e as qualifica como 'sem provas'. Nenhuma decisão de mérito localizada nas fontes desta rodada.",
+        "sources": [
+          {
+            "id": "src-la-08",
+            "title": "PRTB lança Leonardo Avalanche como pré-candidato à Presidência e disputa de 2026 chega a 13 nomes",
+            "publisher": "Fonte83",
+            "url": "https://fonte83.com.br/politica/eleicoes-2026/prtb-lanca-leonardo-avalanche-como-pre-candidato-a-presidencia-e-disputa-de-2026-chega-a-13-nomes",
+            "publishedAt": "2026-07-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Relata denúncia do MP-SP (jan/2026) por suposta fraude na eleição interna do PRTB (fev/2024) e alegações de ameaças por ex-dirigentes; defesa nega."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "name": "Anos em cargos executivos públicos",
+        "category": "execucao",
+        "metricType": "duration",
+        "unit": "anos",
+        "value": 0,
+        "displayValue": "0 anos",
+        "availability": "zero",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Contagem de mandatos eletivos no Executivo (presidente, governador, prefeito) e cargos de direção de Estado. Base: nenhum cargo executivo localizado em perfis do TSE, Wikipédia e imprensa; presidência de partido e cargo de servidor (analista) não contam como cargo executivo.",
+        "notFoundStatus": "confirmado_por_documentacao",
+        "sources": [
+          {
+            "id": "src-la-10",
+            "title": "Leonardo Avalanche — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+          },
+          {
+            "id": "src-la-14",
+            "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+            "publisher": "Gazeta do Paraná",
+            "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+          },
+          {
+            "id": "src-la-07",
+            "title": "Leonardo Avalanche: candidato a presidente em 2026 (perfil do candidato — TSE)",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/leonardo-avalanche-28/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Dados TSE: nº 28 / PRTB, partido isolado, limite de gastos 1º turno R$ 88.944.030,80."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "name": "Maior orçamento público gerenciado",
+        "category": "execucao",
+        "metricType": "currency",
+        "unit": "R$",
+        "value": null,
+        "displayValue": "Não aplicável — nunca administrou orçamento público",
+        "availability": "not_applicable",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "methodology": "Maior orçamento público sob responsabilidade direta, em valores correntes da data do exercício. Sem exercício executivo, o dado não se aplica.",
+        "notFoundStatus": "aplicavel_somente_com_exercicio_executivo",
+        "sources": [
+          {
+            "id": "src-la-10",
+            "title": "Leonardo Avalanche — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+          },
+          {
+            "id": "src-la-14",
+            "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+            "publisher": "Gazeta do Paraná",
+            "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "name": "Maior equipe gerenciada",
+        "category": "execucao",
+        "metricType": "number",
+        "unit": "pessoas",
+        "value": null,
+        "displayValue": "Não localizado",
+        "availability": "not_found",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "methodology": "Maior equipe sob gestão direta. Não localizado nas fontes desta rodada.",
+        "notFoundStatus": "nao_informado_pelas_fontes",
+        "sources": [
+          {
+            "id": "src-la-09",
+            "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+            "publishedAt": "2024-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+          },
+          {
+            "id": "src-la-12",
+            "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+            "publisher": "Portugal News / O Globo",
+            "url": "https://portugal-news.today/en/article/184968",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "name": "Anos de experiência política",
+        "category": "historico",
+        "metricType": "duration",
+        "unit": "anos",
+        "value": 2.6,
+        "displayValue": "2,6 anos desde 02/2024",
+        "availability": "available",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Contagem desde 23/02/2024, quando assumiu a presidência nacional do PRTB. Atividade política anterior não localizada nas fontes desta rodada.",
+        "notFoundStatus": "confirmado_por_documentacao",
+        "sources": [
+          {
+            "id": "src-la-10",
+            "title": "Leonardo Avalanche — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+          },
+          {
+            "id": "src-la-14",
+            "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+            "publisher": "Gazeta do Paraná",
+            "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "name": "Anos em mandatos legislativos",
+        "category": "historico",
+        "metricType": "duration",
+        "unit": "anos",
+        "value": 0,
+        "displayValue": "0 anos",
+        "availability": "zero",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Contagem de mandatos na Câmara dos Deputados, Senado e Assembleias/Legislativas. Nenhum mandato localizado em perfis do TSE, Wikipédia e imprensa (primeira disputa majoritária em 2026).",
+        "notFoundStatus": "confirmado_por_documentacao",
+        "sources": [
+          {
+            "id": "src-la-10",
+            "title": "Leonardo Avalanche — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+          },
+          {
+            "id": "src-la-14",
+            "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+            "publisher": "Gazeta do Paraná",
+            "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+          },
+          {
+            "id": "src-la-15",
+            "title": "Leonardo Avalanche 28 (PRTB): candidato a Presidente em 2026",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/leonardo-avalanche-prtb-28/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Perfil do candidato nº 28/PRTB."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "name": "Anos em cargos públicos federais",
+        "category": "historico",
+        "metricType": "duration",
+        "unit": "anos",
+        "value": 0,
+        "displayValue": "0 anos",
+        "availability": "zero",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Contagem de tempo em órgãos e cargos do Governo Federal. Nenhum exercício federal localizado nas fontes desta rodada.",
+        "notFoundStatus": "confirmado_por_documentacao",
+        "sources": [
+          {
+            "id": "src-la-10",
+            "title": "Leonardo Avalanche — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+          },
+          {
+            "id": "src-la-12",
+            "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+            "publisher": "Portugal News / O Globo",
+            "url": "https://portugal-news.today/en/article/184968",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "name": "Mandatos eletivos exercidos",
+        "category": "historico",
+        "metricType": "number",
+        "unit": "mandatos",
+        "value": 0,
+        "displayValue": "0 mandatos",
+        "availability": "zero",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Quantidade de mandatos eletivos exercidos até 2026, segundo perfis do TSE, Wikipédia e imprensa: nenhum antes da disputa presidencial de 2026.",
+        "notFoundStatus": "confirmado_por_documentacao",
+        "sources": [
+          {
+            "id": "src-la-10",
+            "title": "Leonardo Avalanche — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+          },
+          {
+            "id": "src-la-14",
+            "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+            "publisher": "Gazeta do Paraná",
+            "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+          },
+          {
+            "id": "src-la-07",
+            "title": "Leonardo Avalanche: candidato a presidente em 2026 (perfil do candidato — TSE)",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/leonardo-avalanche-28/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Dados TSE: nº 28 / PRTB, partido isolado, limite de gastos 1º turno R$ 88.944.030,80."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "name": "Votos recebidos em eleições anteriores",
+        "category": "historico",
+        "metricType": "number",
+        "unit": "votos",
+        "value": null,
+        "displayValue": "Não aplicável — nunca disputou eleição",
+        "availability": "not_applicable",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "methodology": "Soma de votos recebidos em disputas anteriores. Sem candidatura anterior até 2026, o dado não se aplica.",
+        "notFoundStatus": "sem_disputa_anterior",
+        "sources": [
+          {
+            "id": "src-la-14",
+            "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+            "publisher": "Gazeta do Paraná",
+            "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+          },
+          {
+            "id": "src-la-15",
+            "title": "Leonardo Avalanche 28 (PRTB): candidato a Presidente em 2026",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/leonardo-avalanche-prtb-28/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Perfil do candidato nº 28/PRTB."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "name": "Total de propostas com impacto orçamentário",
+        "category": "plano",
+        "metricType": "number",
+        "unit": "propostas",
+        "value": null,
+        "displayValue": "Não localizado — programa 'Reconstrução Nacional'",
+        "availability": "not_found",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "methodology": "Contagem de propostas com impacto orçamentário. Total não localizado nesta rodada; propostas confirmadas abaixo provêm da Agência Brasil.",
+        "notFoundStatus": "nao_informado_pelas_fontes",
+        "sources": [
+          {
+            "id": "src-la-06",
+            "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Programa apresentado como 'reconstrução nacional'."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "name": "Propostas com custo estimado",
+        "category": "plano",
+        "metricType": "percentage",
+        "unit": "%",
+        "value": null,
+        "displayValue": "Não localizado nas fontes consultadas",
+        "availability": "not_informed",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "methodology": "Percentual de propostas com valor estimado divulgado. Nenhum custo divulgado nas fontes desta rodada.",
+        "notFoundStatus": "nao_informado_pelas_fontes",
+        "sources": [
+          {
+            "id": "src-la-06",
+            "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Programa apresentado como 'reconstrução nacional'."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "name": "Propostas com prazo de implementação declarado",
+        "category": "plano",
+        "metricType": "percentage",
+        "unit": "%",
+        "value": null,
+        "displayValue": "Não localizado nas fontes consultadas",
+        "availability": "not_informed",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "methodology": "Percentual de propostas com ano ou período de execução declarado. Nenhum prazo divulgado nas fontes desta rodada.",
+        "notFoundStatus": "nao_informado_pelas_fontes",
+        "sources": [
+          {
+            "id": "src-la-06",
+            "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Programa apresentado como 'reconstrução nacional'."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "name": "Propostas dependentes do Congresso",
+        "category": "plano",
+        "metricType": "percentage",
+        "unit": "%",
+        "value": null,
+        "displayValue": "Em análise",
+        "availability": "under_analysis",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "medium",
+        "methodology": "Percentual de propostas que dependem de ação do Congresso Nacional para serem implementadas. Análise em curso — a proposta de redução de impostos, por exemplo, normalmente passa por lei complementar (condição de aprovação ainda não documentada nas fontes desta rodada).",
+        "notFoundStatus": "em_analise",
+        "sources": [
+          {
+            "id": "src-la-06",
+            "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Programa apresentado como 'reconstrução nacional'."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "name": "Situação do registro no TSE",
+        "category": "articulacao",
+        "metricType": "text",
+        "value": null,
+        "displayValue": "Regular — consta na lista oficial de candidaturas do DJE/TSE de 18/09/2026 (chapa substituta da chapa indeferida em 11/09/2026)",
+        "availability": "available",
+        "directionality": "neutral",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "methodology": "Situação do registro de candidatura conforme Diário da Justiça Eletrônico do TSE. Chapa original (Marçal/Avalanche) indeferida por unanimidade em 11/09/2026; após renúncia de Marçal, a chapa Avalanche/Silvia consta no DJE oficial de 18/09/2026.",
+        "notFoundStatus": "confirmado_por_fonte_primaria",
+        "sources": [
+          {
+            "id": "src-la-01",
+            "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+            "publisher": "TSE — Diário da Justiça Eletrônico",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+          },
+          {
+            "id": "src-la-02",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+          },
+          {
+            "id": "src-la-04",
+            "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+            "publisher": "g1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "valueText": "Regular — consta na lista oficial de candidaturas do DJE/TSE de 18/09/2026",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "name": "Bens declarados",
+        "category": "integridade",
+        "metricType": "currency",
+        "unit": "R$",
+        "value": 495000000,
+        "displayValue": "R$ 495 mi (491 mi em criptomoedas)",
+        "availability": "available",
+        "directionality": "neutral",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "methodology": "Declaração de bens apresentada à Justiça Eleitoral para a eleição de 2026, em reais correntes.",
+        "notFoundStatus": "confirmado_por_fonte_primaria",
+        "sources": [
+          {
+            "id": "src-la-13",
+            "title": "Após TSE barrar Marçal, PRTB terá Leonardo Avalanche como candidato à Presidência",
+            "publisher": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/apos-tse-barrar-marcal-prtb-tera-leonardo-avalanche-como-candidato-a-presidencia/",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Tem 48 anos e declarou patrimônio de 495 milhões de reais à Justiça Eleitoral, sendo que 491 milhões em criptomoedas'."
+          },
+          {
+            "id": "src-la-12",
+            "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+            "publisher": "Portugal News / O Globo",
+            "url": "https://portugal-news.today/en/article/184968",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+          },
+          {
+            "id": "src-la-07",
+            "title": "Leonardo Avalanche: candidato a presidente em 2026 (perfil do candidato — TSE)",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/leonardo-avalanche-28/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Dados TSE: nº 28 / PRTB, partido isolado, limite de gastos 1º turno R$ 88.944.030,80."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "name": "Bancada do partido na Câmara",
+        "category": "articulacao",
+        "metricType": "number",
+        "unit": "deputados",
+        "value": null,
+        "displayValue": "Não localizado nesta rodada",
+        "availability": "not_found",
+        "directionality": "higher_is_descriptively_more",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "methodology": "Número de deputados federais do partido (PRTB) na legislatura atual, conforme tabela oficial de representatividade do TSE. Não localizado nas consultas desta rodada.",
+        "notFoundStatus": "nao_informado_pelas_fontes",
+        "sources": [
+          {
+            "id": "src-la-11",
+            "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "name": "Intenção de voto mais recente",
+        "category": "articulacao",
+        "metricType": "text",
+        "value": null,
+        "displayValue": "Não localizado nas pesquisas consultadas (substituição da chapa ocorreu em 15/09/2026)",
+        "availability": "not_found",
+        "directionality": "neutral",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "methodology": "Última pesquisa nacional registrando o candidato, com data e instituto. Não localizado nas fontes desta rodada.",
+        "notFoundStatus": "nao_informado_pelas_fontes",
+        "sources": [
+          {
+            "id": "src-la-04",
+            "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+            "publisher": "g1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+          },
+          {
+            "id": "src-la-05",
+            "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+            "publisher": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+            "publishedAt": "2026-09-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-la-01",
+        "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+        "publisher": "TSE — Diário da Justiça Eletrônico",
+        "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+        "publishedAt": "2026-09-18",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+      },
+      {
+        "id": "src-la-02",
+        "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+      },
+      {
+        "id": "src-la-03",
+        "title": "TSE valida seis registros de candidatura à Presidência da República",
+        "publisher": "TSE",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+        "publishedAt": "2026-09-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Sessão virtual; 13 pedidos de candidatura à Presidência em 2026 (um a mais que em 2022)."
+      },
+      {
+        "id": "src-la-04",
+        "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+        "publisher": "g1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+        "publishedAt": "2026-09-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+      },
+      {
+        "id": "src-la-05",
+        "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+        "publisher": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+        "publishedAt": "2026-09-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+      },
+      {
+        "id": "src-la-06",
+        "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+        "publisher": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Programa apresentado como 'reconstrução nacional'."
+      },
+      {
+        "id": "src-la-07",
+        "title": "Leonardo Avalanche: candidato a presidente em 2026 (perfil do candidato — TSE)",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/leonardo-avalanche-28/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Dados TSE: nº 28 / PRTB, partido isolado, limite de gastos 1º turno R$ 88.944.030,80."
+      },
+      {
+        "id": "src-la-08",
+        "title": "PRTB lança Leonardo Avalanche como pré-candidato à Presidência e disputa de 2026 chega a 13 nomes",
+        "publisher": "Fonte83",
+        "url": "https://fonte83.com.br/politica/eleicoes-2026/prtb-lanca-leonardo-avalanche-como-pre-candidato-a-presidencia-e-disputa-de-2026-chega-a-13-nomes",
+        "publishedAt": "2026-07-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Relata denúncia do MP-SP (jan/2026) por suposta fraude na eleição interna do PRTB (fev/2024) e alegações de ameaças por ex-dirigentes; defesa nega."
+      },
+      {
+        "id": "src-la-09",
+        "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+        "publishedAt": "2024-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+      },
+      {
+        "id": "src-la-10",
+        "title": "Leonardo Avalanche — Wikipédia (pt)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "editorial",
+        "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+      },
+      {
+        "id": "src-la-11",
+        "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "editorial",
+        "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+      },
+      {
+        "id": "src-la-12",
+        "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+        "publisher": "Portugal News / O Globo",
+        "url": "https://portugal-news.today/en/article/184968",
+        "publishedAt": "2026-09-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+      },
+      {
+        "id": "src-la-13",
+        "title": "Após TSE barrar Marçal, PRTB terá Leonardo Avalanche como candidato à Presidência",
+        "publisher": "CartaCapital",
+        "url": "https://www.cartacapital.com.br/politica/apos-tse-barrar-marcal-prtb-tera-leonardo-avalanche-como-candidato-a-presidencia/",
+        "publishedAt": "2026-09-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "'Tem 48 anos e declarou patrimônio de 495 milhões de reais à Justiça Eleitoral, sendo que 491 milhões em criptomoedas'."
+      },
+      {
+        "id": "src-la-14",
+        "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+        "publisher": "Gazeta do Paraná",
+        "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+        "publishedAt": "2026-08-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+      },
+      {
+        "id": "src-la-15",
+        "title": "Leonardo Avalanche 28 (PRTB): candidato a Presidente em 2026",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/leonardo-avalanche-prtb-28/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil do candidato nº 28/PRTB."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "lula",
+    "name": "Luiz Inácio Lula da Silva",
+    "ballotName": "Lula",
+    "ballotNumber": 13,
+    "party": "PT",
+    "coalition": "Chapa Lula (PT, nº 13) / Geraldo Alckmin (PSB). Coligação 'O Brasil Pronto pra Mais', a única coligação presidencial de 2026, com 7 partidos: PT, PCdoB e PV (Federação Brasil da Esperança), PDT, PSB, PSOL e Rede (Federação PSOL/Rede).",
+    "photo": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_Presidente_da_Rep%C3%BAblica_Luiz_In%C3%A1cio_Lula_da_Silva_(3x4_cropped).jpg",
+    "birthDate": "1945-10-27",
+    "birthplace": "Garanhuns/PE",
+    "age": 80,
+    "profession": "Torneiro mecânico (ocupação declarada ao TSE)",
+    "currentRole": "Presidente da República (2º período no cargo, 2023–atual; 3º mandato eleito em 2022) e candidato à reeleição em 2026 (registro deferido pelo TSE em 02/09/2026)",
+    "tagline": "Operário e sindicalista do ABC, fundador do PT, deputado federal constituinte e presidente eleito em 2002, 2006 e 2022; disputa a reeleição em 2026 pela coligação 'O Brasil Pronto pra Mais'.",
+    "education": [
+      {
+        "id": "edu-lula-1",
+        "level": "curso",
+        "field": "Ensino fundamental completo",
+        "institution": "não informado",
+        "conclusionYear": null,
+        "notes": "Grau de instrução declarado na ficha eleitoral de 2026: 'Ensino fundamental completo' (g1, ficha do candidato com dados do TSE). Não possui curso superior; formação inicial como torneiro mecânico no centro de treinamento da indústria (período em verificação).",
+        "sources": [
+          {
+            "id": "src-lula-04",
+            "title": "Candidato a Presidente nas eleições 2026 — Lula (PT 13): ocupação torneiro mecânico, ensino fundamental completo",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/lula.ghtml",
+            "publishedAt": "2026-08-16",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada da ficha TSE/DivulgaCandContas."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-lula-1",
+        "role": "Operário torneiro mecânico / metalúrgico",
+        "organization": "Indústrias Villares e outras fábricas de São Bernardo do Campo (SP)",
+        "startDate": "1966",
+        "endDate": "início dos anos 1970",
+        "description": "Em 1966, aos 19 anos, foi contratado como torneiro mecânico nas Indústrias Villares, em São Bernardo do Campo; perdeu o polegar direito em acidente de trabalho. Em 1969 já constava como suplente da diretoria do Sindicato dos Metalúrgicos, encerrando progressivamente a atividade fabril.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-lula-27",
+            "title": "Dicionário Biográfico — Lula (CEDOC/CUT)",
+            "publisher": "CUT — Central Única dos Trabalhadores",
+            "url": "https://cedoc.cut.org.br/cedoc/dicionario-biografico/180",
+            "publishedAt": "não informado",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria",
+            "notes": "Verbete biográfico do arquivo documental da CUT."
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-lula-1",
+        "role": "Dirigente do Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema",
+        "organization": "Sindicato dos Metalúrgicos de São Bernardo/Diadema",
+        "startDate": "1975",
+        "endDate": "1983",
+        "description": "Dirigente sindical no ABC paulista, comandou as greves de 1979 e 1980 que o tornaram figura nacional; preso em 1980 sob a ditadura militar. Datas exatas dos mandatos sindicais em verificação (fontes: CEDOC/CUT, biografias oficiais).",
+        "achievements": [
+          "Greves metalúrgicas de 1979 e 1980 no ABC paulista",
+          "Prisão em 1980 no regime militar"
+        ],
+        "sources": [
+          {
+            "id": "src-lula-27",
+            "title": "Dicionário Biográfico — Lula (CEDOC/CUT)",
+            "publisher": "CUT — Central Única dos Trabalhadores",
+            "url": "https://cedoc.cut.org.br/cedoc/dicionario-biografico/180",
+            "publishedAt": "não informado",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          },
+          {
+            "id": "src-lula-33",
+            "title": "Lula inicia campanha por quarto mandato no seu berço político, no ABC",
+            "publisher": "Piauí Hoje",
+            "url": "https://piauihoje.com/noticias/politica/lula-inicia-campanha-por-quarto-mandato-no-seu-berco-politico-e-do-pt-no-abc-463369.html",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "pol-lula-2",
+        "role": "Deputado Federal (Constituinte e reeleição)",
+        "organization": "Câmara dos Deputados",
+        "startDate": "1987",
+        "endDate": "1995",
+        "description": "Eleito em 1986 pelo PT para a Assembleia Nacional Constituinte (1987–1988) e reeleito em 1990; exerceu o mandato até 1995, com licenças para as disputas presidenciais de 1989 e 1994.",
+        "achievements": [
+          "Mandato na Assembleia Nacional Constituinte (1987–1988)"
+        ],
+        "sources": [
+          {
+            "id": "src-lula-34",
+            "title": "Nexo Jornal — Quem são todos os candidatos nas eleições de 2026 (ficha de Lula)",
+            "publisher": "Nexo Jornal",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "pol-lula-3",
+        "role": "Candidato à Presidência da República (1989, 1994, 1998, 2002, 2006, 2022, 2026)",
+        "organization": "PT / coligações",
+        "startDate": "1989",
+        "endDate": null,
+        "description": "Disputou a Presidência em 1989 (derrota no 2º turno para Collor), 1994 e 1998 (derrotas para FHC), 2002 (vitória) e 2006 (reeleição), além de 2022 (vitória) e 2026 (atual). Não disputou 2018 (preso; direitos políticos suspensos na época).",
+        "achievements": [
+          "Eleito presidente em 2002 e reeleito em 2006",
+          "Eleito presidente em 2022: 57.259.504 votos no 1º turno (48,43%) e 60.345.999 no 2º turno"
+        ],
+        "sources": [
+          {
+            "id": "src-lula-16",
+            "title": "100% das seções totalizadas: quadro eleitoral após o 1º turno (Eleições 2022)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno",
+            "publishedAt": "2022-10-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-lula-14",
+            "title": "100% das seções totalizadas: quadro eleitoral após o 2º turno (Eleições 2022)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+            "publishedAt": "2022-10-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ]
+      },
+      {
+        "id": "pol-lula-4",
+        "role": "Fundador do Partido dos Trabalhadores (PT)",
+        "organization": "Partido dos Trabalhadores",
+        "startDate": "1980",
+        "endDate": null,
+        "description": "Participou da fundação do PT em fevereiro de 1980 no Congresso de Emenda Braço Forte, em São Bernardo do Campo; continua filiado e é o candidato do partido à reeleição em 2026. Presidência nacional do período exato em verificação.",
+        "achievements": [
+          "Fundação do PT (1980)"
+        ],
+        "sources": [
+          {
+            "id": "src-lula-27",
+            "title": "Dicionário Biográfico — Lula (CEDOC/CUT)",
+            "publisher": "CUT — Central Única dos Trabalhadores",
+            "url": "https://cedoc.cut.org.br/cedoc/dicionario-biografico/180",
+            "publishedAt": "não informado",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [
+      {
+        "id": "exec-lula-1",
+        "role": "Presidente da República",
+        "organization": "Governo Federal",
+        "startDate": "2003",
+        "endDate": "2010-12-31",
+        "description": "Dois mandatos consecutivos (2003–2006 e 2007–2010). Programas criados no período: Bolsa Família (unificação a partir de 2003), Luz para Todos (Decreto 4.873/2003), ProUni (anunciado em 2004; Lei 11.096/2005), PAC (28/01/2007) e Minha Casa Minha Vida (2009, Lei 11.977/2009). O Programa Mais Médicos foi instituído em 2013 (MP 621/2013, convertida na Lei 12.871/2013), no governo Dilma Rousseff — não no governo Lula.",
+        "achievements": [
+          "Bolsa Família unificado e expandido a partir de 2003 (Ipea)",
+          "Luz para Todos instituído pelo Decreto 4.873, de 11/11/2003",
+          "ProUni (Lei 11.096, de 13/01/2005)",
+          "PAC lançado em 28/01/2007",
+          "Minha Casa Minha Vida lançado em 2009 (Lei 11.977/2009)"
+        ],
+        "sources": [
+          {
+            "id": "src-lula-24",
+            "title": "Uma década de Bolsa Família (estudo do Ipea)",
+            "publisher": "Ipea",
+            "url": "http://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2945:catid=28",
+            "publishedAt": "2013",
+            "accessedAt": "2026-09-29",
+            "sourceType": "transparencia"
+          },
+          {
+            "id": "src-lula-23",
+            "title": "Sobre o Programa Luz para Todos (Decreto nº 4.873, de 11 de novembro de 2003)",
+            "publisher": "Ministério de Minas e Energia (gov.br)",
+            "url": "https://www.gov.br/mme/pt-br/destaques/Programa%20Luz%20para%20Todos/sobre-o-programa",
+            "publishedAt": "não informado",
+            "accessedAt": "2026-09-29",
+            "sourceType": "executivo_federal"
+          },
+          {
+            "id": "src-lula-25",
+            "title": "ProUni virá lei — sanção da Lei 11.096/2005 (13/01/2005)",
+            "publisher": "Memorial da Democracia",
+            "url": "https://memorialdademocracia.com.br/card/prouni-vira-lei",
+            "publishedAt": "2005-01-13",
+            "accessedAt": "2026-09-29",
+            "sourceType": "diario_oficial"
+          },
+          {
+            "id": "src-lula-54",
+            "title": "Minha Casa Minha Vida — programa federal lançado em 2009 (Lei 11.977/2009), retomado em 2023",
+            "publisher": "Jornal de Brasília",
+            "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/sancionada-lei-que-retoma-o-minha-casa-minha-vida/",
+            "publishedAt": "2023-09-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-53",
+            "title": "Lei nº 12.871, de 22 de outubro de 2013 — institui o Programa Mais Médicos (governo Dilma Rousseff)",
+            "publisher": "Câmara dos Deputados / Planalto",
+            "url": "https://www2.camara.leg.br/legin/fed/lei/2013/lei-12871-22-outubro-2013-777279-publicacaooriginal-141521-pl.html",
+            "publishedAt": "2013-10-22",
+            "accessedAt": "2026-09-29",
+            "sourceType": "diario_oficial",
+            "notes": "Incluído apenas para registrar a atribuição correta: programa sancionado no governo Dilma, não no governo Lula."
+          }
+        ]
+      },
+      {
+        "id": "exec-lula-2",
+        "role": "Presidente da República (3º mandato)",
+        "organization": "Governo Federal",
+        "startDate": "2023",
+        "endDate": null,
+        "description": "Eleito em 2022. Marcos: recriação do Bolsa Família (2023); reforma tributária (EC 132, promulgada em 20/12/2023); retomada do Minha Casa Minha Vida (lei de set/2023); manutenção do arcabouço fiscal (Lei 14.751/2023). Dados citados no plano de governo registrado no TSE: recorde de 4.897 milhões de barris de óleo equivalente/dia no fim de 2025, investimentos da Petrobras +79% no triênio 2023–2025 vs 2019–2021, e 66% das crianças alfabetizadas na idade certa em 2025 (meta: 64%).",
+        "achievements": [
+          "Reforma tributária promulgada pela EC 132 (20/12/2023)",
+          "Recriação e expansão do Bolsa Família (2023)",
+          "LOA 2026 sancionada com superávit previsto de R$ 34,2 bi"
+        ],
+        "sources": [
+          {
+            "id": "src-lula-39",
+            "title": "Lei nº 15.346, de 14 de janeiro de 2026 — LOA 2026 (receita e despesa de R$ 6.542.612.741.768,00)",
+            "publisher": "Diário Oficial da União (Imprensa Nacional)",
+            "url": "https://in.gov.br/web/dou/-/lei-n-15.346-de-14-de-janeiro-de-2026-*-681158465",
+            "publishedAt": "2026-01-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "diario_oficial"
+          },
+          {
+            "id": "src-lula-40",
+            "title": "Orçamento 2026 é sancionado com veto a R$ 400 milhões em emendas (Lei 15.346/26; R$ 6,54 tr)",
+            "publisher": "Câmara dos Deputados (Agência Notícias)",
+            "url": "https://camara.leg.br/noticias/1238564-orcamento-2026-e-sancionado-com-veto-a-r-400-milhoes-em-emendas",
+            "publishedAt": "2026-01-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-11",
+            "title": "Orçamento 2026 é sancionado com previsão de superávit de R$ 34,2 bi",
+            "publisher": "Senado Notícias (Agência Senado)",
+            "url": "https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-previsao-de-superavit-de-rs-34-2-bi",
+            "publishedAt": "2026-01-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-29",
+            "title": "Reforma tributária promulgada: principais mudanças dependem de novas leis",
+            "publisher": "Agência Senado",
+            "url": "https://www12.senado.leg.br/noticias/materias/2023/12/21/reforma-tributaria-promulgada-principais-mudancas-dependem-de-novas-leis",
+            "publishedAt": "2023-12-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-07",
+            "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+            "publisher": "Poder360 (espelho do documento registrado no TSE)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Texto extraído via OCR pela equipe."
+          }
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "id": "ach-lula-1",
+        "title": "Criação de programas sociais federais (2003–2009)",
+        "context": "Presidência da República, 1º e 2nd mandatos",
+        "description": "Bolsa Família (unificado a partir de 2003 e referência internacional segundo o Ipea), ProUni (bolsas em instituições privadas, Lei 11.096/2005), Luz para Todos (Decreto 4.873/2003), PAC (28/01/2007) e Minha Casa Minha Vida (2009, Lei 11.977/2009). O Programa Mais Médicos (2013) NÃO integra este período: foi instituído no governo Dilma Rousseff (MP 621/2013 → Lei 12.871/2013).",
+        "sources": [
+          {
+            "id": "src-lula-24",
+            "title": "Uma década de Bolsa Família (estudo do Ipea)",
+            "publisher": "Ipea",
+            "url": "http://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2945:catid=28",
+            "publishedAt": "2013",
+            "accessedAt": "2026-09-29",
+            "sourceType": "transparencia"
+          },
+          {
+            "id": "src-lula-23",
+            "title": "Sobre o Programa Luz para Todos (Decreto nº 4.873, de 11 de novembro de 2003)",
+            "publisher": "Ministério de Minas e Energia (gov.br)",
+            "url": "https://www.gov.br/mme/pt-br/destaques/Programa%20Luz%20para%20Todos/sobre-o-programa",
+            "publishedAt": "não informado",
+            "accessedAt": "2026-09-29",
+            "sourceType": "executivo_federal"
+          },
+          {
+            "id": "src-lula-54",
+            "title": "Minha Casa Minha Vida — programa federal lançado em 2009 (Lei 11.977/2009), retomado em 2023",
+            "publisher": "Jornal de Brasília",
+            "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/sancionada-lei-que-retoma-o-minha-casa-minha-vida/",
+            "publishedAt": "2023-09-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-26",
+            "title": "Growth Acceleration Program (PAC) — verbete (lançamento em 28/01/2007)",
+            "publisher": "Wikipédia (em inglês)",
+            "url": "https://en.wikipedia.org/wiki/Growth_Acceleration_Program",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-lula-2",
+        "title": "Reforma tributária (EC 132/2023) aprovada no Congresso",
+        "context": "Presidência da República, 2023–2024",
+        "description": "Emenda Constitucional 132 promulgada em 20/12/2023, instituindo IBS/CBS e transição tributária, acompanhada do arcabouço fiscal (Lei 14.751/2023). Aprovadas por votação no Congresso — dependência de base parlamentar.",
+        "sources": [
+          {
+            "id": "src-lula-29",
+            "title": "Reforma tributária promulgada: principais mudanças dependem de novas leis",
+            "publisher": "Agência Senado",
+            "url": "https://www12.senado.leg.br/noticias/materias/2023/12/21/reforma-tributaria-promulgada-principais-mudancas-dependem-de-novas-leis",
+            "publishedAt": "2023-12-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-30",
+            "title": "Emenda Constitucional nº 132 (texto oficial)",
+            "publisher": "Planalto — Casa Civil",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+            "publishedAt": "2023-12-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "diario_oficial"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-lula-3",
+        "title": "Resultados macro citados no programa de governo registrado (2023–2025)",
+        "context": "Presidência da República, 3º mandato",
+        "description": "O documento registrado no TSE afirma: recorde de 4.897 milhões de barris de óleo equivalente/dia no fim de 2025; investimentos da Petrobras +79% no triênio 2023–2025 vs 2019–2021; encomenda de 96 embarcações pela Petrobras (71 a serem construídas no Brasil); 66% das crianças alfabetizadas na idade certa em 2025 (meta prevista: 64%); execução de R$ 20,4 bi em projetos de defesa desde 2023. Afirmações do próprio documento do candidato, não conferidas em fonte independente neste trabalho.",
+        "sources": [
+          {
+            "id": "src-lula-07",
+            "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+            "publisher": "Poder360 (espelho do documento registrado no TSE)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-lula-4",
+        "title": "Eleição presidencial de 2022 (retorno ao cargo após 12 anos)",
+        "context": "Eleições 2022",
+        "description": "57.259.504 votos (48,43%) no 1º turno e 60.345.999 no 2º turno, derrotando Jair Bolsonaro; posse em 01/01/2023.",
+        "sources": [
+          {
+            "id": "src-lula-16",
+            "title": "100% das seções totalizadas: quadro eleitoral após o 1º turno (Eleições 2022)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno",
+            "publishedAt": "2022-10-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-lula-14",
+            "title": "100% das seções totalizadas: quadro eleitoral após o 2º turno (Eleições 2022)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+            "publishedAt": "2022-10-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Diretrizes para o Programa de Transformação do Brasil: um país soberano, democrático, desenvolvido, sustentável e criativo",
+      "planUrl": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+      "totalProposals": 13,
+      "registeredWith": "TSE — DivulgaCandContas; registrado em 08/08/2026 junto com a candidatura (documento 280017016005)",
+      "summary": "",
+      "notes": "Estrutura em 13 eixos/diretrizes com verbos-âncora FORTALECER/PROTEGER/GARANTIR/AMPLIAR/PROMOVER/DEFENDER/VALORIZAR. Título oficial confirmado por Congresso em Foco e Folha Expressa (registro no TSE em 08/08/2026). Documento em texto contínuo (não lista item a item): % de propostas com custo/prazo por item não é direta — availability under_analysis. Espelho público em PDF com 42 páginas (OCR pela equipe); imprensa local cita 84 páginas para a versão completa.",
+      "statsIfCounted": {
+        "objective": "Objetivos explícitos por eixo (ex.: alfabetização na idade adequada, fim da escala 6x1, desmatamento líquido zero)",
+        "target": "Metas quantificadas: 80% de crianças alfabetizadas na idade adequada; redução de 59%–67% das emissões líquidas de GEE; superávit de R$ 34,2 bi previsto na LOA 2026",
+        "deadline": "2030 (desmatamento líquido zero e metas climáticas); Plano Nacional de Educação 2026–2036; PPA 2028–2031 participativo",
+        "cost": "Custos por proposta não quantificados por item; o plano mantém o arcabouço fiscal e não prevê cortes de despesa (Folha, 13/08/2026)",
+        "funding": null,
+        "fiscal": "Manutenção do arcabouço fiscal (Lei 14.751/2023) e da reforma tributária; aprofundamento do Novo PAC e das leilões",
+        "agency": null,
+        "instrument": "Leis ordinárias, PECs (fim da escala 6x1/40h; Ministério da Segurança Pública) e atos do Executivo",
+        "indicator": "Indicadores pontuais citados (alfabetização, emissões, investimento)",
+        "congress": "Várias diretrizes dependem de PEC/lei (escala 6x1, jornada de 40h, ministério da segurança, emendas parlamentares); % por proposta não calculada"
+      },
+      "statsEvidence": "parcial",
+      "proposals": [
+        {
+          "id": "lula-prop-1",
+          "title": "Trabalho: fim da escala 6x1 e jornada de 40 horas sem redução salarial",
+          "description": "O programa prevê seguir atuando no Congresso para aprovar o fim da escala 6x1 e a redução da jornada para 40 horas semanais sem redução salarial; além de regras para trabalho por aplicativos (remuneração, direitos trabalhistas e previdenciários, transparência algorítmica).",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "PEC/lei (tramitação no Congresso)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-lula-48",
+              "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+              "publishedAt": "2026-08-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-lula-49",
+              "title": "PT registra plano de governo de Lula no TSE com novas propostas para 2026 (título oficial do plano)",
+              "publisher": "Folha Expressa",
+              "url": "https://folhaexpressa.com/politica/pt-registra-plano-de-governo-de-lula-no-tse-com-novas-propostas-para-2026",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "lula-prop-2",
+          "title": "Educação: 80% de crianças alfabetizadas na idade adequada, Pé-de-Meia e expansão de institutos federais",
+          "description": "Meta de alfabetização na idade adequada elevada de 66% (2025) para 80%; ampliação de escolas em tempo integral, manutenção do Pé-de-Meia, expansão dos institutos federais e retomada de investimentos em universidades federais, ProUni e FIES; Plano Nacional de Educação 2026–2036 como compromisso.",
+          "theme": "Educação",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei/políticas públicas de educação",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-lula-49",
+              "title": "PT registra plano de governo de Lula no TSE com novas propostas para 2026",
+              "publisher": "Folha Expressa",
+              "url": "https://folhaexpressa.com/politica/pt-registra-plano-de-governo-de-lula-no-tse-com-novas-propostas-para-2026",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-lula-07",
+              "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+              "publisher": "Poder360 (espelho do documento registrado no TSE)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ]
+        },
+        {
+          "id": "lula-prop-3",
+          "title": "Economia: manter o arcabouço fiscal, aprofundar reforma tributária e Novo PAC",
+          "description": "Continuidade das políticas econômicas atuais: arcabouço fiscal para redução sustentada da taxa de juros, nova edição do Novo PAC, ritmo de leilões de rodovias e ferrovias, uso da Petrobras para ampliar investimentos, Minha Casa Minha Vida e neoindustrialização; enfrentamento do sistema de emendas parlamentares (descrito como responsável por ~20% dos recursos discricionários). Não há previsão de cortes de despesa no texto.",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei/orçamento + atos do Executivo",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-lula-50",
+              "title": "Lula mantém arcabouço fiscal e promete investimentos (análise do plano de governo)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml",
+              "publishedAt": "2026-08-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-lula-48",
+              "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+              "publishedAt": "2026-08-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "lula-prop-4",
+          "title": "Segurança pública: Ministério da Segurança Pública (via PEC) e cooperação federativa",
+          "description": "Ampliação da participação do governo federal na coordenação de ações com estados e municípios; se aprovada a emenda apresentada pelo governo, criação de um Ministério da Segurança Pública no âmbito do Sistema Único de Segurança Pública; ampliação de câmeras corporais e policiamento de proximidade.",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "PEC + lei (SUSP)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-lula-49",
+              "title": "PT registra plano de governo de Lula no TSE com novas propostas para 2026",
+              "publisher": "Folha Expressa",
+              "url": "https://folhaexpressa.com/politica/pt-registra-plano-de-governo-de-lula-no-tse-com-novas-propostas-para-2026",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-lula-48",
+              "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+              "publishedAt": "2026-08-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "lula-prop-5",
+          "title": "Eixo 2 — Combater as desigualdades (Bolsa Família, salário mínimo, saída do Mapa da Fome)",
+          "description": "Continuidade e expansão do Bolsa Família, valorização real do salário mínimo, transferência de renda, proteção social e saída do Brasil do Mapa da Fome; combate ao racismo e titulação de terras quilombolas.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei ordinária (programas de transferência de renda)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-lula-07",
+              "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+              "publisher": "Poder360 (espelho do documento registrado no TSE)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ]
+        },
+        {
+          "id": "lula-prop-6",
+          "title": "Eixo 5 — Saúde: atenção primária digital, prontuário único e soberania sanitária",
+          "description": "Ampliação de teleconsultas, teleorientação e teleacolhimento; consolidação do prontuário único do cidadão com acesso por celular; produção nacional de medicamentos, vacinas e insumos; expansão de UBS.",
+          "theme": "Saúde",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei/políticas públicas de saúde (SUS)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-lula-48",
+              "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+              "publishedAt": "2026-08-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-lula-07",
+              "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+              "publisher": "Poder360 (espelho do documento registrado no TSE)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ]
+        },
+        {
+          "id": "lula-prop-7",
+          "title": "Eixo 11 — Meio ambiente: desmatamento líquido zero até 2030 e adaptação climática permanente",
+          "description": "Reafirmação da meta de desmatamento líquido zero até 2030 e da trajetória de redução de 59%–67% das emissões líquidas de GEE; adaptação climática como eixo permanente do planejamento público; investimentos em bacias hidrográficas e prevenção de desastres.",
+          "theme": "Meio ambiente",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Decretos/plano + leis",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-lula-07",
+              "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+              "publisher": "Poder360 (espelho do documento registrado no TSE)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-lula-48",
+              "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+              "publishedAt": "2026-08-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "lula-prop-8",
+          "title": "Eixo 13 — Soberania nacional e integração sul-americana",
+          "description": "Relações internacionais de reciprocidade e cooperação pacífica, oposição à subordinação do Brasil e a esquemas de 'nova Guerra Fria'; maior integração econômica e de infraestrutura na América do Sul; participação da diáspora e proteção consular.",
+          "theme": "Política externa",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Atos do Executivo / política externa",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-lula-07",
+              "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+              "publisher": "Poder360 (espelho do documento registrado no TSE)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-lula-48",
+              "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+              "publishedAt": "2026-08-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src-lula-06",
+          "title": "Programa de Governo Lula/Alckmin 2026 — documento registrado no TSE (DivulgaCandContas)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+          "publishedAt": "2026-08-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Download direto bloqueado por WAF na coleta da equipe; espelho público íntegro no Poder360 (src-lula-07)."
+        },
+        {
+          "id": "src-lula-05",
+          "title": "Lula: veja as propostas do candidato a reeleição (plano registrado no TSE reúne 13 eixos)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/27/lula-veja-as-propostas-do-candidato-a-reeleicao.ghtml",
+          "publishedAt": "2026-08-27",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-48",
+          "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+          "publisher": "Congresso em Foco",
+          "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+          "publishedAt": "2026-08-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-lula-1",
+        "description": "Coligação 'O Brasil Pronto pra Mais' — única coligação presidencial de 2026, com 7 partidos: PT, PCdoB e PV (Federação Brasil da Esperança), PDT, PSB, PSOL e Rede (Federação PSOL/Rede), em apoio à chapa Lula/Alckmin.",
+        "value": "Coligação de 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+        "date": "2026-08-10",
+        "sources": [
+          {
+            "id": "src-lula-41",
+            "title": "'O Brasil Pronto Pra Mais': Lula e Alckmin defendem legado (coligação de 7 partidos: PT/PCdoB/PV, PDT, PSB, PSOL/REDE)",
+            "publisher": "PT — site oficial",
+            "url": "https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defendem-legado-e-projetam-o-futuro",
+            "publishedAt": "2026-08-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          },
+          {
+            "id": "src-lula-42",
+            "title": "PT lança candidatura de Lula à reeleição neste domingo (2) — composição da chapa e apoios",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/02/pt-lanca-candidatura-lula.ghtml",
+            "publishedAt": "2026-08-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-51",
+            "title": "Pela primeira vez desde 1989, só Lula tem coligação eleitoral (PT, PSB, PCdoB, PV, PSOL, Rede e PDT)",
+            "publisher": "BPmMoney",
+            "url": "https://bpmoney.com.br/politica/eleicoes-2026-pela-primeira-vez-desde-a-redemocratizacao-so-lula-tem-coligacao",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-37",
+            "title": "Lista de partidos, federações, coligações, candidatas e candidatos — Eleição Geral Federal 2026, 1º turno (Diário da Justiça Eletrônico)",
+            "publisher": "TSE — Diário da Justiça Eletrônico (SINTSE)",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/23/diario-da-justica-eletronico-tres-destaques-edicoes-anteriores/lista-de-partidos-federacoes-coligacoes-candidatas-e-candidatos-eleicao-geral-federal-2026-1o-turno",
+            "publishedAt": "2026-09-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ]
+      },
+      {
+        "id": "sup-lula-2",
+        "description": "Base no Congresso: 72% dos votos de deputados de partidos com ministérios foram favoráveis ao Planalto nas votações de interesse do governo no 3º mandato; o alinhamento no Senado caiu de 75% (2025) para 38,5% (2026) segundo painel citado pelo Poder360. União Brasil e PP deixaram o governo em set/2025 (apoiando a pauta da anistia).",
+        "value": "72% de fidelidade média da base com ministérios; 38,5% de alinhamento no Senado em 2026",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-lula-22",
+            "title": "Terceiro mandato de Lula tem a coalizão mais infiel em 30 anos",
+            "publisher": "Agência Senado",
+            "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/757367/noticia.html?sequence=1&isAllowed=y",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-20",
+            "title": "Saiba quais partidos passaram a votar menos com Lula no Congresso",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-congresso/saiba-quais-partidos-passaram-a-votar-menos-com-lula-no-congresso/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-21",
+            "title": "União Brasil e PP decidem deixar governo e apoiar anistia",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2025/09/uniao-brasil-e-pp-decidem-deixar-governo-lula-mas-mantem-brecha-para-indicacoes-politicas.shtml",
+            "publishedAt": "2025-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "sup-lula-3",
+        "description": "Convenção do PT de 02/08/2026 oficializou a chapa de reeleição Lula/Alckmin, repetindo a composição vitoriosa de 2022; convenções das aliadas concluídas até 05/08/2026.",
+        "value": "Chapa oficializada em convenção do PT (02/08/2026)",
+        "date": "2026-08-02",
+        "sources": [
+          {
+            "id": "src-lula-42",
+            "title": "PT lança candidatura de Lula à reeleição neste domingo (2)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/02/pt-lanca-candidatura-lula.ghtml",
+            "publishedAt": "2026-08-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-31",
+            "title": "Convenção do PT oficializa Lula e Alckmin à reeleição",
+            "publisher": "Jornal Grande Bahia",
+            "url": "https://jornalgrandebahia.com.br/2026/08/convencao-do-pt-oficializa-lula-e-alckmin-a-reeleicao-com-defesa-da-democracia-soberania-e-novo-ciclo-de-investimentos",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-lula-1",
+        "description": "Reforma tributária (EC 132/2023): aprovada no Congresso e promulgada em 20/12/2023, com transição regulada por leis complementares; arcabouço fiscal (Lei 14.751/2023) substituiu o teto de gastos e a regra do déficit primário.",
+        "value": "EC 132 promulgada + arcabouço fiscal",
+        "date": "2023-12-20",
+        "sources": [
+          {
+            "id": "src-lula-29",
+            "title": "Reforma tributária promulgada: principais mudanças dependem de novas leis",
+            "publisher": "Agência Senado",
+            "url": "https://www12.senado.leg.br/noticias/materias/2023/12/21/reforma-tributaria-promulgada-principais-mudancas-dependem-de-novas-leis",
+            "publishedAt": "2023-12-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-30",
+            "title": "Emenda Constitucional nº 132 (texto oficial)",
+            "publisher": "Planalto — Casa Civil",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+            "publishedAt": "2023-12-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "diario_oficial"
+          }
+        ]
+      },
+      {
+        "id": "neg-lula-2",
+        "description": "LOA 2026 (Lei 15.346) sancionada em 14/01/2026 com vetos de ~R$ 393–400 milhões em emendas modificadas pelo Congresso; superávit previsto de R$ 34,2 bi; R$ 61 bi em emendas parlamentares no texto.",
+        "value": "Sanção com vetos parciais ao orçamento do Congresso",
+        "date": "2026-01-14",
+        "sources": [
+          {
+            "id": "src-lula-40",
+            "title": "Orçamento 2026 é sancionado com veto a R$ 400 milhões em emendas",
+            "publisher": "Câmara dos Deputados (Agência Notícias)",
+            "url": "https://camara.leg.br/noticias/1238564-orcamento-2026-e-sancionado-com-veto-a-r-400-milhoes-em-emendas",
+            "publishedAt": "2026-01-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-11",
+            "title": "Orçamento 2026 é sancionado com previsão de superávit de R$ 34,2 bi",
+            "publisher": "Senado Notícias (Agência Senado)",
+            "url": "https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-previsao-de-superavit-de-rs-34-2-bi",
+            "publishedAt": "2026-01-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          }
+        ]
+      },
+      {
+        "id": "neg-lula-3",
+        "description": "Articulação de base multipartidária desde 2023 (com ministérios distribuídos entre aliados) e coligação de 2026 'O Brasil Pronto pra Mais'; rompimentos: saída de União Brasil e PP do governo em set/2025 (apoio à anistia); alinhamento no Senado caiu de 75% para 38,5% em 2026.",
+        "value": "Base com ministérios; 72% de votos favoráveis em votações de interesse",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-lula-22",
+            "title": "Terceiro mandato de Lula tem a coalizão mais infiel em 30 anos",
+            "publisher": "Agência Senado",
+            "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/757367/noticia.html?sequence=1&isAllowed=y",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-21",
+            "title": "União Brasil e PP decidem deixar governo e apoiar anistia",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2025/09/uniao-brasil-e-pp-decidem-deixar-governo-lula-mas-mantem-brecha-para-indicacoes-politicas.shtml",
+            "publishedAt": "2025-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-20",
+            "title": "Saiba quais partidos passaram a votar menos com Lula no Congresso",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-congresso/saiba-quais-partidos-passaram-a-votar-menos-com-lula-no-congresso/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-lula-1",
+        "category": "tribunal",
+        "title": "Condenações da Operação Lava Jato (caso tríplex/Guarujá) — anuladas",
+        "legalStatus": "decisao_anulada",
+        "currentStatus": "encerrado",
+        "instance": "STF — Plenário (recurso contra a decisão do min. Edson Fachin de 08/03/2021 que declarou incompetente a Justiça Federal de Curitiba; o Plenário rejeitou por 8 votos a 3 o recurso da PGR)",
+        "lastUpdate": "2021",
+        "description": "As condenações da Lava Jato contra o ex-presidente (1ª instância 2017, TRF-4 em 2017/2018, STJ em 2019) foram anuladas em 2021. Segundo o UOL Confere, o STF não julgou o mérito das acusações — 'não o condenou nem o absolveu, apenas anulou os processos'. Categoria registrada como decisão anulada (não absolvição, não condenação definitiva).",
+        "sources": [
+          {
+            "id": "src-lula-10",
+            "title": "STF confirma anulação de condenações do ex-presidente Lula na Lava Jato",
+            "publisher": "STF — Portal do Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori",
+            "publishedAt": "2021",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal"
+          },
+          {
+            "id": "src-lula-47",
+            "title": "Lula é inocente? Foi absolvido pela ONU e pelo STF? Entenda (Confere/UOL)",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/09/12/lula-e-inocente-foi-absolvido-pela-onu-e-pelo-stf-entenda.htm",
+            "publishedAt": "2022-09-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Checagem de fatos: STF anulou processos sem julgar mérito; Comitê de Direitos Humanos da ONU reconheceu violação de direitos políticos (não houve absolvição pela ONU)."
+          },
+          {
+            "id": "src-lula-57",
+            "title": "Prisão de Luiz Inácio Lula da Silva — verbete (sentenças e anulação)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Usada como índice: 1ª instância 09a6m (2017), TRF-4 12a1m, STJ 8a10m (2019)."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-lula-2",
+        "category": "tribunal",
+        "title": "Caso tríplex do Guarujá — arquivamento do processo",
+        "legalStatus": "arquivamento",
+        "currentStatus": "encerrado",
+        "instance": "Justiça Federal (Brasília) — o MPF requereu o arquivamento em 06/12/2021",
+        "lastUpdate": "2021-12-07",
+        "description": "O Ministério Público Federal pediu o arquivamento do processo do tríplex, citando as decisões do STF que anularam as condenações e a possibilidade de prescrição dos supostos crimes; o processo estava suspenso desde maio/2021. Categoria: arquivamento.",
+        "sources": [
+          {
+            "id": "src-lula-45",
+            "title": "MPF reconhece prescrição do caso do triplex; o que ainda pesa contra Lula",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/brasil-57590318",
+            "publishedAt": "2021-12-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal"
+          },
+          {
+            "id": "src-lula-57",
+            "title": "Prisão de Luiz Inácio Lula da Silva — verbete (caso tríplex arquivado)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-lula-3",
+        "category": "tribunal",
+        "title": "Prisão preventiva (Lava Jato) — cumprida e encerrada",
+        "legalStatus": "decisao",
+        "currentStatus": "encerrado",
+        "instance": "13ª Vara Federal de Curitiba; libertação em nov/2019 após decisão do STF",
+        "lastUpdate": "2019-11-08",
+        "description": "Preso em 07/04/2019 e libertado em 08/11/2019: 580 dias (1 ano, 7 meses e 1 dia) de prisão cumprida na Superintendência da Polícia Federal em Curitiba, após o STF decidir contra a prisão em 2ª instância. Categoria: prisão decorrente de decisão judicial (posteriormente vinculada às condenações anuladas de 2021).",
+        "sources": [
+          {
+            "id": "src-lula-57",
+            "title": "Prisão de Luiz Inácio Lula da Silva — verbete (07/04/2019 a 08/11/2019; 580 dias)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-32",
+            "title": "É possível dizer que Lula foi inocentado na Lava Jato? (BBC Brasil)",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/brasil-62612955",
+            "publishedAt": "2021-03-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-lula-4",
+        "category": "tribunal",
+        "title": "Caso do Sítio de Atibaia — condenações de instâncias ordinárias (desconstituídas pela anulação de 2021)",
+        "legalStatus": "condenacao",
+        "currentStatus": "encerrado",
+        "instance": "13ª Vara Federal de Curitiba (06/02/2019, 12 anos e 11 meses) e TRF-4/8ª Turma (nov/2019: pena elevada a 17 anos, 1 mês e 10 dias; embargos de declaração rejeitados em 06/05/2020)",
+        "lastUpdate": "2020-05-06",
+        "description": "Condenação por corrupção passiva e lavagem de dinheiro originária da 13ª Vara de Curitiba. Categoria registrada como condenação (instâncias ordinárias), encerrada: os atos da 13ª Vara foram anulados em 2021 (incompetência declarada pelo STF) e a denúncia foi rejeitada em seguida — ver inst-lula-5. Não misturar com a absolvição de mérito.",
+        "sources": [
+          {
+            "id": "src-lula-46",
+            "title": "Condenação do ex-presidente Lula na ação do Sítio de Atibaia é mantida (embargos rejeitados)",
+            "publisher": "TRF-4 — Tribunal Regional Federal da 4ª Região",
+            "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=19542",
+            "publishedAt": "2020-05-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal"
+          },
+          {
+            "id": "src-lula-45",
+            "title": "MPF reconhece prescrição do caso do triplex; o que ainda pesa contra Lula",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/brasil-57590318",
+            "publishedAt": "2021-12-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Registra também a rejeição de denúncia no caso Sítio de Atibaia pela Justiça Federal do DF."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-lula-5",
+        "category": "tribunal",
+        "title": "Caso Sítio de Atibaia — denúncia do MPF rejeitada",
+        "legalStatus": "decisao",
+        "currentStatus": "encerrado",
+        "instance": "Justiça Federal do Distrito Federal (agosto/2021)",
+        "lastUpdate": "2021-08",
+        "description": "Após a anulação dos atos da 13ª Vara de Curitiba e a transferência dos processos para Brasília, a Justiça Federal do DF rejeitou a denúncia do MPF no caso do sítio de Atibaia (08/2021). Categoria: decisão de rejeição de denúncia (não é absolvição de mérito).",
+        "sources": [
+          {
+            "id": "src-lula-45",
+            "title": "MPF reconhece prescrição do caso do triplex; o que ainda pesa contra Lula",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/brasil-57590318",
+            "publishedAt": "2021-12-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "inst-lula-6",
+        "category": "tribunal",
+        "title": "Mensalão (AP 470, STF) — o candidato não figura entre os condenados",
+        "legalStatus": "decisao",
+        "currentStatus": "encerrado",
+        "instance": "STF — Ação Penal 470 (julgamento de 02/08/2012 a 13/03/2014; rel. Min. Joaquim Barbosa)",
+        "lastUpdate": "2012-12-16",
+        "description": "Julgamento da AP 470 concluído com 25 condenações entre 38 réus (entre eles José Dirceu, José Genoino e Delúbio Soares — figuras do 1º governo Lula). Não há condenação do candidato na AP 470 segundo as fontes consultadas; situação processual exata do candidato na ação marcada como parcial (não localizada lista nominal de réus na coleta).",
+        "sources": [
+          {
+            "id": "src-lula-38",
+            "title": "Supremo conclui julgamento do mensalão após quatro meses e meio (25 condenados, 12 absolvidos)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/mensalao/noticia/2012/12/supremo-conclui-julgamento-do-mensalao-apos-quatro-meses-e-meio.html",
+            "publishedAt": "2012-12-16",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal"
+          },
+          {
+            "id": "src-lula-47",
+            "title": "Lula é inocente? Foi absolvido pela ONU e pelo STF? Entenda (Confere/UOL)",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/09/12/lula-e-inocente-foi-absolvido-pela-onu-e-pelo-stf-entenda.htm",
+            "publishedAt": "2022-09-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "inst-lula-7",
+        "category": "tribunal",
+        "title": "Quadrilhão do PT — absolvição do candidato",
+        "legalStatus": "absolvicao",
+        "currentStatus": "encerrado",
+        "instance": "STF (julgamento anterior a set/2022; data exata em verificação)",
+        "lastUpdate": "2022-09-12",
+        "description": "O candidato foi absolvido no caso conhecido como 'Quadrilhão do PT' (organização criminosa supostamente montada em Petrobras, BNDES e outros órgãos), segundo checagem do UOL Confere. Categoria: absolvição.",
+        "sources": [
+          {
+            "id": "src-lula-47",
+            "title": "Lula é inocente? Foi absolvido pela ONU e pelo STF? Entenda (Confere/UOL)",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/09/12/lula-e-inocente-foi-absolvido-pela-onu-e-pelo-stf-entenda.htm",
+            "publishedAt": "2022-09-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "inst-lula-8",
+        "category": "tribunal",
+        "title": "Operação Zelotes — absolvição em uma ação; outra em verificação",
+        "legalStatus": "absolvicao",
+        "currentStatus": "encerrado",
+        "instance": "Justiça Federal (absolvição em 21/06, com o ex-chefe de gabinete Gilberto Carvalho)",
+        "lastUpdate": "2021-06-21",
+        "description": "Em uma das ações da Operação Zelotes o candidato foi absolvido em junho (fonte BBC, 2021); a mesma fonte registrava 'processo pendente' em outra ação — situação atual da segunda ação em verificação. Categorias separadas para não misturar absolvição com processo em andamento.",
+        "sources": [
+          {
+            "id": "src-lula-45",
+            "title": "MPF reconhece prescrição do caso do triplex; o que ainda pesa contra Lula (absolvição no Zelotes e processo pendente)",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/brasil-57590318",
+            "publishedAt": "2021-12-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
+      {
+        "id": "inst-lula-9",
+        "category": "eleitoral",
+        "title": "Registro de candidatura à Presidência 2026 — deferido",
+        "legalStatus": "aprovacao",
+        "currentStatus": "encerrado",
+        "instance": "TSE — Plenário (julgamento de registros em set/2026)",
+        "lastUpdate": "2026-09-02",
+        "description": "Registro da chapa Lula/Alckmin aprovado pelo Plenário do TSE em 02/09/2026; a Justiça Eleitoral reconheceu 12 candidaturas registradas à Presidência (11/09/2026). Não foi apontada inelegibilidade (Ficha Limpa) contra o candidato.",
+        "sources": [
+          {
+            "id": "src-lula-02",
+            "title": "TSE aprova registros de Lula, Flávio Bolsonaro e Romeu Zema",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-01",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-lula-35",
+            "title": "TSE começa a julgar registros de Lula, Flávio Bolsonaro e outros candidatos à Presidência",
+            "publisher": "Diário de Pernambuco",
+            "url": "https://www.diariodepernambuco.com.br/politica/2026/08/11722681-tse-comeca-a-julgar-registros-de-lula-flavio-bolsonaro-e-outros-candidatos-a-presidencia.html",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-lula-10",
+        "category": "prestacao_de_contas",
+        "title": "Declaração de bens à Justiça Eleitoral 2026 — apresentada",
+        "legalStatus": "regular",
+        "currentStatus": "encerrado",
+        "instance": "TSE — DivulgaCandContas",
+        "lastUpdate": "2026-08-15",
+        "description": "Bens declarados de R$ 4.775.650,64 na candidatura de 2026.",
+        "sources": [
+          {
+            "id": "src-lula-08",
+            "title": "Lula: veja o patrimônio do candidato à reeleição (R$ 4.775.650,64)",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/lula-veja-o-patrimonio-do-candidato-a-reeleicao.ghtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-09",
+            "title": "Eleições 2026: veja a declaração de bens dos candidatos à Presidência",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/eleicoes-2026-declaracao-bens-presidenciaveis.ghtml",
+            "publishedAt": "2026-08-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "≈11,7 anos",
+        "value": 11.7,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos como Presidente da República sem dupla contagem: 01/01/2003–31/12/2010 (8,0 anos) + 01/01/2023–29/09/2026 (3,74 anos). Não inclui mandatos legislativos nem dirigentes sindicais.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-34",
+            "title": "Nexo Jornal — Quem são todos os candidatos nas eleições de 2026 (ficha de Lula)",
+            "publisher": "Nexo Jornal",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Presidência 2003–2010 (2 mandatos) e 2023–atual (3º mandato).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "R$ 6.542,6 bi/ano (R$ 6,54 trilhões — LOA 2026, Lei 15.346)",
+        "value": 6542.61,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior orçamento anual sob gestão: Lei Orçamentária Anual da União sancionada no mandato atual. Valor exato da receita/despesa estimadas pela Lei 15.346, de 14/01/2026: R$ 6.542.612.741.768,00 (inclui R$ 1,8 tri de refinanciamento da dívida; descontando a dívida, R$ 4,7 tri).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-39",
+            "title": "Lei nº 15.346, de 14 de janeiro de 2026 — LOA 2026",
+            "publisher": "Diário Oficial da União (Imprensa Nacional)",
+            "url": "https://in.gov.br/web/dou/-/lei-n-15.346-de-14-de-janeiro-de-2026-*-681158465",
+            "publishedAt": "2026-01-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "diario_oficial"
+          },
+          {
+            "id": "src-lula-40",
+            "title": "Orçamento 2026 é sancionado com veto a R$ 400 milhões em emendas (Lei 15.346/26; R$ 6,54 tr)",
+            "publisher": "Câmara dos Deputados (Agência Notícias)",
+            "url": "https://camara.leg.br/noticias/1238564-orcamento-2026-e-sancionado-com-veto-a-r-400-milhoes-em-emendas",
+            "publishedAt": "2026-01-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-13",
+            "title": "Lei Orçamentária Anual — 2026 (Portal do Planejamento)",
+            "publisher": "Ministério do Planejamento e Orçamento (gov.br)",
+            "url": "https://www.gov.br/planejamento/pt-br/assuntos/orcamento/orcamentos-anuais/2026/loa/lei-orcamentaria-anual-2026",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "executivo_federal"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "LOA 2026 sancionada em 14/01/2026 com vetos de R$ 393–400 milhões em emendas; superávit previsto de R$ 34,2 bi.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Pessoas/equipe sob gestão (servidores)",
+        "displayValue": "1.006.392 servidores ativos (Executivo Federal, CPFs únicos)",
+        "value": 1006392,
+        "unit": "servidores",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Servidores públicos federais civis ativos (CPFs únicos) sob administração do Poder Executivo Federal, conforme o Portal da Transparência do Governo Federal. Não inclui inativos/pensionistas (1.059.114) nem militares.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-44",
+            "title": "Servidores e Pensionistas — Portal da Transparência do Governo Federal",
+            "publisher": "Governo Federal (Portal da Transparência)",
+            "url": "https://portaldatransparencia.gov.br/servidores",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "transparencia",
+            "notes": "Página viva; dados de servidores ativos do Executivo Federal consultados em 29/09/2026."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Cabeça do Poder Executivo Federal; para comparação, a base do Palácio do Planalto inclui ainda ministérios e órgãos da Presidência.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "≈51 anos (desde 1975)",
+        "value": 51.3,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Entre a eleição à presidência do Sindicato dos Metalúrgicos de São Bernardo (1975) e 29/09/2026. Se contada apenas desde a fundação do PT (fev/1980), ≈46,6 anos.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-27",
+            "title": "Dicionário Biográfico — Lula (CEDOC/CUT)",
+            "publisher": "CUT — Central Única dos Trabalhadores",
+            "url": "https://cedoc.cut.org.br/cedoc/dicionario-biografico/180",
+            "publishedAt": "não informado",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "articulacao",
+        "name": "Anos em cargos legislativos",
+        "displayValue": "8 anos (1987–1995)",
+        "value": 8,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Dois mandatos de deputado federal (eleições de 1986 e 1990), incluindo a Assembleia Nacional Constituinte. Períodos de licença não foram descontados; data exata da saída da Câmara em verificação.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-34",
+            "title": "Nexo Jornal — Quem são todos os candidatos nas eleições de 2026 (ficha de Lula)",
+            "publisher": "Nexo Jornal",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos públicos federais",
+        "displayValue": "≈19,7 anos",
+        "value": 19.7,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma sem dupla contagem: 8 anos de deputado federal (1987–1995) + 11,7 anos de Presidente da República (2003–2010; 2023–2026).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-34",
+            "title": "Nexo Jornal — Quem são todos os candidatos nas eleições de 2026 (ficha de Lula)",
+            "publisher": "Nexo Jornal",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "5 mandatos (2 deputado federal, 3 Presidente da República)",
+        "value": 5,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de mandatos efetivamente conquistados: deputado federal em 1986 e 1990; presidente em 2002, 2006 e 2022. Candidaturas derrotadas não contam.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-16",
+            "title": "100% das seções totalizadas: quadro eleitoral após o 1º turno (Eleições 2022)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno",
+            "publishedAt": "2022-10-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-lula-34",
+            "title": "Nexo Jornal — Quem são todos os candidatos nas eleições de 2026 (ficha de Lula)",
+            "publisher": "Nexo Jornal",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "57.259.504 votos (48,43%) no 1º turno de 2022; 60.345.999 no 2º turno",
+        "value": 57259504,
+        "unit": "votos (1º turno 2022)",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Votos nominais no 1º turno da eleição presidencial de 2022 (última disputa antes de 2026), conforme totalização do TSE.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-16",
+            "title": "100% das seções totalizadas: quadro eleitoral após o 1º turno (Eleições 2022)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno",
+            "publishedAt": "2022-10-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-lula-14",
+            "title": "100% das seções totalizadas: quadro eleitoral após o 2º turno (Eleições 2022)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+            "publishedAt": "2022-10-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Em 2002: 39.412.045 votos no 1º turno e vitória no 2º turno com 61,3% dos válidos.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas/eixos do plano de governo",
+        "displayValue": "13 eixos/diretrizes (registrado no TSE em 08/08/2026)",
+        "value": 13,
+        "unit": "eixos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Nº de eixos/diretrizes do programa registrado no TSE (doc 280017016005), contados no sumário e nas aberturas de capítulo do texto (OCR de 42 páginas) e confirmados por Valor Econômico, Congresso em Foco e Folha Expressa.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-05",
+            "title": "Lula: veja as propostas do candidato a reeleição (plano registrado no TSE reúne 13 eixos)",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/27/lula-veja-as-propostas-do-candidato-a-reeleicao.ghtml",
+            "publishedAt": "2026-08-27",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-48",
+            "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+            "publisher": "Congresso em Foco",
+            "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+            "publishedAt": "2026-08-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-06",
+            "title": "Programa de Governo Lula/Alckmin 2026 — documento registrado no TSE",
+            "publisher": "TSE — DivulgaCandContas",
+            "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+            "publishedAt": "2026-08-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Não contável por item — texto contínuo sem custo atribuído a cada eixo",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "O documento é redigido em texto corrido por eixo (não em lista de propostas com custo associado); a Folha (13/08/2026) registra que o plano não quantifica cortes de despesa. Contagem por proposta não realizada.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-lula-50",
+            "title": "Lula mantém arcabouço fiscal e promete investimentos (análise do plano de governo)",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml",
+            "publishedAt": "2026-08-13",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-07",
+            "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+            "publisher": "Poder360 (espelho do documento registrado no TSE)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Prazos explícitos em alguns eixos (2030 para clima; PNE 2026–2036; PPA 2028–2031); % por proposta não calculada",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de eixos/propostas com prazo identificado no texto do programa; contagem item a item em análise (OCR completo disponível em /root/.hermes/cache/scratch/plano-lula-2026-ocr.txt).",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-lula-07",
+            "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+            "publisher": "Poder360 (espelho do documento registrado no TSE)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; ao menos 3 diretrizes centrais dependem de PEC/lei (escala 6x1 e jornada de 40h, Ministério da Segurança Pública, sistema de emendas)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei ou PEC. Identificadas no texto: fim da escala 6x1/40h, criação de ministério via emenda constitucional, regras de trabalho por aplicativo e redesenho das emendas parlamentares.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-lula-48",
+            "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+            "publisher": "Congresso em Foco",
+            "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+            "publishedAt": "2026-08-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-49",
+            "title": "PT registra plano de governo de Lula no TSE com novas propostas para 2026",
+            "publisher": "Folha Expressa",
+            "url": "https://folhaexpressa.com/politica/pt-registra-plano-de-governo-de-lula-no-tse-com-novas-propostas-para-2026",
+            "publishedAt": "2026-08-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "Deferido — Plenário do TSE aprovou a chapa Lula/Alckmin em 02/09/2026 (12 candidaturas registradas à Presidência)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-02",
+            "title": "TSE aprova registros de Lula, Flávio Bolsonaro e Romeu Zema",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-03",
+            "title": "TSE aprova registros de seis candidatos à Presidência da República",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-01",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Chapa Luiz Inácio Lula da Silva (PT) e Geraldo Alckmin (PSB)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Julgamento dos registros começou em ago/2026 (pauta do TSE). Não foi apontada inelegibilidade (Ficha Limpa) contra o candidato; o registro foi aprovado sem decisão de indeferimento.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "R$ 4.775.650,64",
+        "value": 4775650.64,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados na ficha de candidatura de 2026 (DivulgaCandContas, via Valor Econômico).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-08",
+            "title": "Lula: veja o patrimônio do candidato à reeleição (R$ 4.775.650,64)",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/lula-veja-o-patrimonio-do-candidato-a-reeleicao.ghtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-09",
+            "title": "Eleições 2026: veja a declaração de bens dos candidatos à Presidência",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/eleicoes-2026-declaracao-bens-presidenciaveis.ghtml",
+            "publishedAt": "2026-08-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+        "displayValue": "67 deputados federais (PT, 2ª maior bancada); federação Brasil da Esperança (PT+PCdoB+PV) com 84",
+        "value": 67,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Cadeiras do PT na Câmara dos Deputados após a janela partidária de 2026 (encerrada em 03/04/2026), segundo números divulgados pelos próprios partidos (g1/Estadão/Poder360). A federação Brasil da Esperança soma 84 (PT 67 + PCdoB 10 + PV 7, Estadão). O DIAP reporta 80 para a soma das três siglas — divergência de fontes registrada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-19",
+            "title": "Composição dos partidos na Câmara dos Deputados muda depois do fim da janela partidária (PT: 67)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/04/13/composicao-dos-partidos-na-camara-dos-deputados-muda-depois-do-fim-da-janela-partidaria.ghtml",
+            "publishedAt": "2026-04-13",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-43",
+            "title": "Eleições 2026: após janela partidária, federação União-PP e PL têm maiores bancadas; Brasil da Esperança tem 84",
+            "publisher": "Estadão",
+            "url": "https://estadao.com.br/politica/eleicoes-2026-apos-janela-partidaria-federacao-uniao-pp-e-pl-tem-maiores-bancadas-na-camara",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-52",
+            "title": "Janela partidária 2026: quem ganhou e quem perdeu na Câmara (dados do DIAP)",
+            "publisher": "DIAP",
+            "url": "https://www.diap.org.br/index.php/noticias/agencia-diap/92831-janela-partidaria-2026-quem-ganhou-e-quem-perdeu-na-camara",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "PT é a 2ª maior bancada da Câmara; PL (96–97) e federação União-PP (98–99) estão à frente.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "36% (Quaest, 07/09) | 39% (Datafolha, 21/08)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-lula-17",
+            "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+            "publishedAt": "2026-09-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-18",
+            "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33% (1º turno)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+            "publishedAt": "2026-08-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Aprovação do governo em 48% e desaprovação em 48% (Poder360/Quaest).",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-lula-01",
+        "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-lula-02",
+        "title": "TSE aprova registros de Lula, Flávio Bolsonaro e Romeu Zema",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml",
+        "publishedAt": "2026-09-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-03",
+        "title": "TSE aprova registros de seis candidatos à Presidência da República",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+        "publishedAt": "2026-09-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-04",
+        "title": "Candidato a Presidente nas eleições 2026 — Lula (PT 13)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/lula.ghtml",
+        "publishedAt": "2026-08-16",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-lula-05",
+        "title": "Lula: veja as propostas do candidato a reeleição (13 eixos)",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/27/lula-veja-as-propostas-do-candidato-a-reeleicao.ghtml",
+        "publishedAt": "2026-08-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-06",
+        "title": "Programa de Governo Lula/Alckmin 2026 — documento registrado no TSE",
+        "publisher": "TSE — DivulgaCandContas",
+        "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+        "publishedAt": "2026-08-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-lula-07",
+        "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+        "publisher": "Poder360",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-lula-08",
+        "title": "Lula: veja o patrimônio do candidato à reeleição (R$ 4.775.650,64)",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/lula-veja-o-patrimonio-do-candidato-a-reeleicao.ghtml",
+        "publishedAt": "2026-09-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-09",
+        "title": "Eleições 2026: veja a declaração de bens dos candidatos à Presidência",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/eleicoes-2026-declaracao-bens-presidenciaveis.ghtml",
+        "publishedAt": "2026-08-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-10",
+        "title": "STF confirma anulação de condenações do ex-presidente Lula na Lava Jato",
+        "publisher": "STF",
+        "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori",
+        "publishedAt": "2021",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal"
+      },
+      {
+        "id": "src-lula-11",
+        "title": "Orçamento 2026 é sancionado com previsão de superávit de R$ 34,2 bi",
+        "publisher": "Senado Notícias",
+        "url": "https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-previsao-de-superavit-de-rs-34-2-bi",
+        "publishedAt": "2026-01-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo"
+      },
+      {
+        "id": "src-lula-12",
+        "title": "Lula sanciona Orçamento de 2026 com vetos em R$ 393 milhões",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/economia/noticia/2026/01/14/lula-sanciona-orcamento-de-2026-com-vetos-em-gastos-modificados-pelo-congresso.ghtml",
+        "publishedAt": "2026-01-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-13",
+        "title": "Lei Orçamentária Anual — 2026",
+        "publisher": "Ministério do Planejamento e Orçamento (gov.br)",
+        "url": "https://www.gov.br/planejamento/pt-br/assuntos/orcamento/orcamentos-anuais/2026/loa/lei-orcamentaria-anual-2026",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "executivo_federal"
+      },
+      {
+        "id": "src-lula-14",
+        "title": "Quadro eleitoral após o 2º turno das Eleições 2022",
+        "publisher": "TSE",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+        "publishedAt": "2022-10-31",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-lula-15",
+        "title": "Federação Brasil da Esperança — verbete",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Federa%C3%A7%C3%A3o_Brasil_da_Esperan%C3%A7a",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-16",
+        "title": "Quadro eleitoral após o 1º turno das Eleições 2022",
+        "publisher": "TSE",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno",
+        "publishedAt": "2022-10-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-lula-17",
+        "title": "Quaest, 1º turno: Lula, 36% (07/09/2026)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+        "publishedAt": "2026-09-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-18",
+        "title": "Datafolha: Lula, 39% (21/08/2026)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+        "publishedAt": "2026-08-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-19",
+        "title": "Composição da Câmara após a janela partidária de 2026 (PT: 67)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/jornal-nacional/noticia/2026/04/13/composicao-dos-partidos-na-camara-dos-deputados-muda-depois-do-fim-da-janela-partidaria.ghtml",
+        "publishedAt": "2026-04-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-20",
+        "title": "Quais partidos passaram a votar menos com Lula no Congresso",
+        "publisher": "Poder360",
+        "url": "https://www.poder360.com.br/poder-congresso/saiba-quais-partidos-passaram-a-votar-menos-com-lula-no-congresso/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-21",
+        "title": "União Brasil e PP decidem deixar governo e apoiar anistia",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2025/09/uniao-brasil-e-pp-decidem-deixar-governo-lula-mas-mantem-brecha-para-indicacoes-politicas.shtml",
+        "publishedAt": "2025-09-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-22",
+        "title": "Terceiro mandato de Lula tem a coalizão mais infiel em 30 anos",
+        "publisher": "Agência Senado",
+        "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/757367/noticia.html?sequence=1&isAllowed=y",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo"
+      },
+      {
+        "id": "src-lula-23",
+        "title": "Sobre o Programa Luz para Todos (Decreto 4.873/2003)",
+        "publisher": "Ministério de Minas e Energia",
+        "url": "https://www.gov.br/mme/pt-br/destaques/Programa%20Luz%20para%20Todos/sobre-o-programa",
+        "publishedAt": "não informado",
+        "accessedAt": "2026-09-29",
+        "sourceType": "executivo_federal"
+      },
+      {
+        "id": "src-lula-24",
+        "title": "Uma década de Bolsa Família (Ipea)",
+        "publisher": "Ipea",
+        "url": "http://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2945:catid=28",
+        "publishedAt": "2013",
+        "accessedAt": "2026-09-29",
+        "sourceType": "transparencia"
+      },
+      {
+        "id": "src-lula-25",
+        "title": "ProUni virá lei — sanção da Lei 11.096/2005",
+        "publisher": "Memorial da Democracia",
+        "url": "https://memorialdademocracia.com.br/card/prouni-vira-lei",
+        "publishedAt": "2005-01-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "diario_oficial"
+      },
+      {
+        "id": "src-lula-26",
+        "title": "Growth Acceleration Program (PAC) — verbete",
+        "publisher": "Wikipédia (en)",
+        "url": "https://en.wikipedia.org/wiki/Growth_Acceleration_Program",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-27",
+        "title": "Dicionário Biográfico — Lula (CEDOC/CUT)",
+        "publisher": "CUT",
+        "url": "https://cedoc.cut.org.br/cedoc/dicionario-biografico/180",
+        "publishedAt": "não informado",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria"
+      },
+      {
+        "id": "src-lula-28",
+        "title": "É falso que Lula mudou data de nascimento (nascido em 27/10/1945; certidão registra 06/10 por erro de cartório)",
+        "publisher": "Agência Lupa",
+        "url": "https://www.agencialupa.org/jornalismo/2023/06/27/e-falso-que-lula-mudou-data-de-nascimento-para-fazer-aniversario-perto-do-2-turno/",
+        "publishedAt": "2023-06-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-29",
+        "title": "Reforma tributária promulgada (EC 132)",
+        "publisher": "Agência Senado",
+        "url": "https://www12.senado.leg.br/noticias/materias/2023/12/21/reforma-tributaria-promulgada-principais-mudancas-dependem-de-novas-leis",
+        "publishedAt": "2023-12-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo"
+      },
+      {
+        "id": "src-lula-30",
+        "title": "Emenda Constitucional nº 132",
+        "publisher": "Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+        "publishedAt": "2023-12-20",
+        "accessedAt": "2026-09-29",
+        "sourceType": "diario_oficial"
+      },
+      {
+        "id": "src-lula-31",
+        "title": "Convenção do PT oficializa Lula e Alckmin à reeleição",
+        "publisher": "Jornal Grande Bahia",
+        "url": "https://jornalgrandebahia.com.br/2026/08/convencao-do-pt-oficializa-lula-e-alckmin-a-reeleicao-com-defesa-da-democracia-soberania-e-novo-ciclo-de-investimentos",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-32",
+        "title": "É possível dizer que Lula foi inocentado na Lava Jato? (BBC Brasil)",
+        "publisher": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese/brasil-62612955",
+        "publishedAt": "2021-03-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-33",
+        "title": "Lula inicia campanha por quarto mandato no ABC",
+        "publisher": "Piauí Hoje",
+        "url": "https://piauihoje.com/noticias/politica/lula-inicia-campanha-por-quarto-mandato-no-seu-berco-politico-e-do-pt-no-abc-463369.html",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-34",
+        "title": "Lista completa de candidatos nas eleições de 2026 (fichas TSE)",
+        "publisher": "Nexo Jornal",
+        "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+        "publishedAt": "2026-08-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-35",
+        "title": "TSE começa a julgar registros de Lula, Flávio Bolsonaro e outros",
+        "publisher": "Diário de Pernambuco",
+        "url": "https://www.diariodepernambuco.com.br/politica/2026/08/11722681-tse-comeca-a-julgar-registros-de-lula-flavio-bolsonaro-e-outros-candidatos-a-presidencia.html",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-36",
+        "title": "Painel Estatístico de Pessoal (PEP)",
+        "publisher": "Governo Federal",
+        "url": "https://www.gov.br/servidor/pt-br/observatorio-de-pessoal-govbr/painel-estatistico-de-pessoal",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "transparencia"
+      },
+      {
+        "id": "src-lula-37",
+        "title": "Lista de partidos, federações e coligações — Eleição Geral Federal 2026",
+        "publisher": "TSE — Diário da Justiça Eletrônico",
+        "url": "https://sintse.tse.jus.br/documentos/2026/Set/23/diario-da-justica-eletronico-tres-destaques-edicoes-anteriores/lista-de-partidos-federacoes-coligacoes-candidatas-e-candidatos-eleicao-geral-federal-2026-1o-turno",
+        "publishedAt": "2026-09-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-lula-38",
+        "title": "Supremo conclui julgamento do mensalão (AP 470)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/mensalao/noticia/2012/12/supremo-conclui-julgamento-do-mensalao-apos-quatro-meses-e-meio.html",
+        "publishedAt": "2012-12-16",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal"
+      },
+      {
+        "id": "src-lula-39",
+        "title": "Lei nº 15.346, de 14 de janeiro de 2026 — LOA 2026",
+        "publisher": "Diário Oficial da União",
+        "url": "https://in.gov.br/web/dou/-/lei-n-15.346-de-14-de-janeiro-de-2026-*-681158465",
+        "publishedAt": "2026-01-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "diario_oficial"
+      },
+      {
+        "id": "src-lula-40",
+        "title": "Orçamento 2026 é sancionado com veto a R$ 400 milhões em emendas",
+        "publisher": "Câmara dos Deputados",
+        "url": "https://camara.leg.br/noticias/1238564-orcamento-2026-e-sancionado-com-veto-a-r-400-milhoes-em-emendas",
+        "publishedAt": "2026-01-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo"
+      },
+      {
+        "id": "src-lula-41",
+        "title": "'O Brasil Pronto Pra Mais': Lula e Alckmin defendem legado (coligação de 7 partidos)",
+        "publisher": "PT — site oficial",
+        "url": "https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defindem-legado-e-projetam-o-futuro",
+        "publishedAt": "2026-08-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "URL corrigida para a forma publicada: https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defendem-legado-e-projetam-o-futuro"
+      },
+      {
+        "id": "src-lula-42",
+        "title": "PT lança candidatura de Lula à reeleição neste domingo (2)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/02/pt-lanca-candidatura-lula.ghtml",
+        "publishedAt": "2026-08-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-43",
+        "title": "Eleições 2026: após janela partidária, federação União-PP e PL têm maiores bancadas",
+        "publisher": "Estadão",
+        "url": "https://estadao.com.br/politica/eleicoes-2026-apos-janela-partidaria-federacao-uniao-pp-e-pl-tem-maiores-bancadas-na-camara",
+        "publishedAt": "2026-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-44",
+        "title": "Servidores e Pensionistas — Portal da Transparência do Governo Federal",
+        "publisher": "Governo Federal",
+        "url": "https://portaldatransparencia.gov.br/servidores",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "transparencia"
+      },
+      {
+        "id": "src-lula-45",
+        "title": "MPF reconhece prescrição do caso do triplex; o que ainda pesa contra Lula",
+        "publisher": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese/brasil-57590318",
+        "publishedAt": "2021-12-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-46",
+        "title": "Condenação do ex-presidente Lula na ação do Sítio de Atibaia é mantida",
+        "publisher": "TRF-4",
+        "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=19542",
+        "publishedAt": "2020-05-06",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal"
+      },
+      {
+        "id": "src-lula-47",
+        "title": "Lula é inocente? Foi absolvido pela ONU e pelo STF? Entenda (Confere/UOL)",
+        "publisher": "UOL",
+        "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/09/12/lula-e-inocente-foi-absolvido-pela-onu-e-pelo-stf-entenda.htm",
+        "publishedAt": "2022-09-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-48",
+        "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+        "publisher": "Congresso em Foco",
+        "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+        "publishedAt": "2026-08-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-49",
+        "title": "PT registra plano de governo de Lula no TSE com novas propostas para 2026",
+        "publisher": "Folha Expressa",
+        "url": "https://folhaexpressa.com/politica/pt-registra-plano-de-governo-de-lula-no-tse-com-novas-propostas-para-2026",
+        "publishedAt": "2026-08-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-50",
+        "title": "Lula mantém arcabouço fiscal e promete investimentos (plano de governo)",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml",
+        "publishedAt": "2026-08-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-51",
+        "title": "Pela primeira vez desde 1989, só Lula tem coligação eleitoral",
+        "publisher": "BPmMoney",
+        "url": "https://bpmoney.com.br/politica/eleicoes-2026-pela-primeira-vez-desde-a-redemocratizacao-so-lula-tem-coligacao",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-52",
+        "title": "Janela partidária 2026: quem ganhou e quem perdeu na Câmara (DIAP)",
+        "publisher": "DIAP",
+        "url": "https://www.diap.org.br/index.php/noticias/agencia-diap/92831-janela-partidaria-2026-quem-ganhou-e-quem-perdeu-na-camara",
+        "publishedAt": "2026-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria"
+      },
+      {
+        "id": "src-lula-53",
+        "title": "Lei nº 12.871, de 22 de outubro de 2013 — Programa Mais Médicos (governo Dilma)",
+        "publisher": "Câmara dos Deputados",
+        "url": "https://www2.camara.leg.br/legin/fed/lei/2013/lei-12871-22-outubro-2013-777279-publicacaooriginal-141521-pl.html",
+        "publishedAt": "2013-10-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "diario_oficial"
+      },
+      {
+        "id": "src-lula-54",
+        "title": "Sancionada lei que retoma o Minha Casa Minha Vida (criado em 2009)",
+        "publisher": "Jornal de Brasília",
+        "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/sancionada-lei-que-retoma-o-minha-casa-minha-vida/",
+        "publishedAt": "2023-09-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-57",
+        "title": "Prisão de Luiz Inácio Lula da Silva — verbete",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Enciclopédia usada como índice cronológico (sentenças, prisão, anulação); números conferidos nas fontes primárias citadas (STF, TRF-4, BBC)."
       }
     ],
     "updatedAt": "2026-09-29"

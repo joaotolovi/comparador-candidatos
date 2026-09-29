@@ -54,14 +54,15 @@ export type SourceType =
   | "plano_de_governo"
   | "partidaria" // site/oficial de partido ou campanha
   | "pesquisa_eleitoral" // instituto de pesquisa registrado no TSE
-  | "imprensa";
+  | "imprensa"
+  | "editorial"; // verbetes enciclopédicos (ex.: Wikipédia)
 
 export interface Source {
   id: string;
   title: string;
   publisher: string;
   url: string;
-  publishedAt: string; // ISO
+  publishedAt?: string; // ISO; opcional — nem toda fonte tem data
   accessedAt: string; // ISO
   sourceType: SourceType;
   archivedUrl?: string;
@@ -79,6 +80,10 @@ export interface Metric {
   metricType: MetricType;
   directionality: Directionality;
   methodology: string;
+  /** por que o dado não foi encontrado (quando availability é not_* ) */
+  notFoundStatus?: string;
+  /** texto do valor em métricas de tipo text */
+  valueText?: string;
   evidenceStatus: EvidenceStatus;
   confidenceLevel: ConfidenceLevel;
   availability: DataAvailability;

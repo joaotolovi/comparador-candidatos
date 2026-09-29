@@ -1,4 +1,1285 @@
 {
-  "candidate": "Leonardo Avalanche",
-  "status": "em preenchimento"
+ "slug": "leonardo-avalanche",
+ "name": "Leonardo Alves de Araújo",
+ "ballotName": "Leonardo Avalanche",
+ "ballotNumber": 28,
+ "party": "PRTB",
+ "partyFullName": "Partido Renovador Trabalhista Brasileiro (PRTB)",
+ "coalition": "PRTB — partido isolado (DJE 18/09/2026)",
+ "photoUrl": "",
+ "birthDate": "1977-10-23",
+ "birthplace": "Anápolis, GO",
+ "age": 48,
+ "profession": "Analista de sistemas; bacharel em Direito",
+ "currentRole": "Presidente nacional do PRTB; candidato à Presidência da República",
+ "tagline": "Presidente nacional do PRTB desde fevereiro de 2024 e natural de Anápolis (GO). Assumiu a cabeça de chapa após o TSE indeferir o registro de Pablo Marçal em 11/09/2026; primeira disputa presidencial.",
+ "sources": [
+  {
+   "id": "src-la-01",
+   "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+   "publisher": "TSE — Diário da Justiça Eletrônico",
+   "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+   "publishedAt": "2026-09-18",
+   "accessedAt": "2026-09-29",
+   "sourceType": "oficial_eleitoral",
+   "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+  },
+  {
+   "id": "src-la-02",
+   "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+   "publisher": "TSE",
+   "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+   "publishedAt": "2026-09-11",
+   "accessedAt": "2026-09-29",
+   "sourceType": "oficial_eleitoral",
+   "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+  },
+  {
+   "id": "src-la-03",
+   "title": "TSE valida seis registros de candidatura à Presidência da República",
+   "publisher": "TSE",
+   "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+   "publishedAt": "2026-09-02",
+   "accessedAt": "2026-09-29",
+   "sourceType": "oficial_eleitoral",
+   "notes": "Sessão virtual; 13 pedidos de candidatura à Presidência em 2026 (um a mais que em 2022)."
+  },
+  {
+   "id": "src-la-04",
+   "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+   "publisher": "g1",
+   "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+   "publishedAt": "2026-09-15",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+  },
+  {
+   "id": "src-la-05",
+   "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+   "publisher": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+   "publishedAt": "2026-09-15",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+  },
+  {
+   "id": "src-la-06",
+   "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+   "publisher": "Agência Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+   "publishedAt": "2026-09",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "Programa apresentado como 'reconstrução nacional'."
+  },
+  {
+   "id": "src-la-07",
+   "title": "Leonardo Avalanche: candidato a presidente em 2026 (perfil do candidato — TSE)",
+   "publisher": "Estadão",
+   "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/leonardo-avalanche-28/",
+   "publishedAt": "2026-09",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "Dados TSE: nº 28 / PRTB, partido isolado, limite de gastos 1º turno R$ 88.944.030,80."
+  },
+  {
+   "id": "src-la-08",
+   "title": "PRTB lança Leonardo Avalanche como pré-candidato à Presidência e disputa de 2026 chega a 13 nomes",
+   "publisher": "Fonte83",
+   "url": "https://fonte83.com.br/politica/eleicoes-2026/prtb-lanca-leonardo-avalanche-como-pre-candidato-a-presidencia-e-disputa-de-2026-chega-a-13-nomes",
+   "publishedAt": "2026-07-14",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "Relata denúncia do MP-SP (jan/2026) por suposta fraude na eleição interna do PRTB (fev/2024) e alegações de ameaças por ex-dirigentes; defesa nega."
+  },
+  {
+   "id": "src-la-09",
+   "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+   "publisher": "CNN Brasil",
+   "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+   "publishedAt": "2024-08",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+  },
+  {
+   "id": "src-la-10",
+   "title": "Leonardo Avalanche — Wikipédia (pt)",
+   "publisher": "Wikipédia",
+   "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+   "publishedAt": "2026-09",
+   "accessedAt": "2026-09-29",
+   "sourceType": "editorial",
+   "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+  },
+  {
+   "id": "src-la-11",
+   "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+   "publisher": "Wikipédia",
+   "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+   "publishedAt": "2026-09",
+   "accessedAt": "2026-09-29",
+   "sourceType": "editorial",
+   "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+  },
+  {
+   "id": "src-la-12",
+   "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+   "publisher": "Portugal News / O Globo",
+   "url": "https://portugal-news.today/en/article/184968",
+   "publishedAt": "2026-09-15",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+  },
+  {
+   "id": "src-la-13",
+   "title": "Após TSE barrar Marçal, PRTB terá Leonardo Avalanche como candidato à Presidência",
+   "publisher": "CartaCapital",
+   "url": "https://www.cartacapital.com.br/politica/apos-tse-barrar-marcal-prtb-tera-leonardo-avalanche-como-candidato-a-presidencia/",
+   "publishedAt": "2026-09-15",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "'Tem 48 anos e declarou patrimônio de 495 milhões de reais à Justiça Eleitoral, sendo que 491 milhões em criptomoedas'."
+  },
+  {
+   "id": "src-la-14",
+   "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+   "publisher": "Gazeta do Paraná",
+   "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+   "publishedAt": "2026-08-01",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+  },
+  {
+   "id": "src-la-15",
+   "title": "Leonardo Avalanche 28 (PRTB): candidato a Presidente em 2026",
+   "publisher": "Gazeta do Povo",
+   "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/leonardo-avalanche-prtb-28/",
+   "publishedAt": "2026-09",
+   "accessedAt": "2026-09-29",
+   "sourceType": "imprensa",
+   "notes": "Perfil do candidato nº 28/PRTB."
+  }
+ ],
+ "education": [
+  {
+   "level": "graduacao",
+   "field": "Direito",
+   "institution": "instituição não localizada nas fontes desta rodada",
+   "conclusionYear": null,
+   "notes": "Bacharel em Direito, segundo Gazeta do Paraná e CNN Brasil.",
+   "sources": [
+    {
+     "id": "src-la-14",
+     "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+     "publisher": "Gazeta do Paraná",
+     "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+     "publishedAt": "2026-08-01",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+    },
+    {
+     "id": "src-la-09",
+     "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+     "publisher": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+     "publishedAt": "2024-08",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+    }
+   ]
+  },
+  {
+   "level": "formacao",
+   "field": "Análise de sistemas",
+   "institution": "instituição não localizada nas fontes desta rodada",
+   "conclusionYear": null,
+   "notes": "Analista de sistemas; atuação no setor privado antes da política.",
+   "sources": [
+    {
+     "id": "src-la-09",
+     "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+     "publisher": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+     "publishedAt": "2024-08",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+    }
+   ]
+  }
+ ],
+ "professionalExperience": [
+  {
+   "role": "Atuação no setor privado (analista de sistemas)",
+   "organization": "empresa não localizada",
+   "startDate": "",
+   "endDate": null,
+   "description": "Trabalhou no setor privado antes de iniciar na política; empresa e período não localizados nas fontes desta rodada.",
+   "achievements": [],
+   "sources": [
+    {
+     "id": "src-la-09",
+     "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+     "publisher": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+     "publishedAt": "2024-08",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+    }
+   ]
+  },
+  {
+   "role": "Servidor público estadual (analista de sistemas)",
+   "organization": "esfera estadual — órgão não localizado",
+   "startDate": "",
+   "endDate": null,
+   "description": "Segundo O Globo/Portugal News, é servidor público estadual; órgão, período e lotação não localizados nas fontes desta rodada.",
+   "achievements": [],
+   "sources": [
+    {
+     "id": "src-la-12",
+     "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+     "publisher": "Portugal News / O Globo",
+     "url": "https://portugal-news.today/en/article/184968",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+    }
+   ]
+  }
+ ],
+ "politicalExperience": [
+  {
+   "role": "Presidente nacional do PRTB",
+   "organization": "PRTB",
+   "startDate": "2024-02-23",
+   "endDate": null,
+   "description": "No cargo desde 23/02/2024, sucedendo direção provisória. Partido tinha 144.376 filiados em janeiro de 2026.",
+   "achievements": [
+    "Conduziu a indicação da chapa presidencial do partido em 2026, incluindo a articulação de Pablo Marçal à Prefeitura de São Paulo em 2024 (3º lugar, 28,14%)"
+   ],
+   "sources": [
+    {
+     "id": "src-la-10",
+     "title": "Leonardo Avalanche — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+    },
+    {
+     "id": "src-la-11",
+     "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+    },
+    {
+     "id": "src-la-14",
+     "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+     "publisher": "Gazeta do Paraná",
+     "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+     "publishedAt": "2026-08-01",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+    }
+   ]
+  },
+  {
+   "role": "Candidato à Presidência da República",
+   "organization": "PRTB",
+   "startDate": "2026-07-29",
+   "endDate": null,
+   "description": "Oficializado em convenção nacional em Goiânia (29/07/2026) como candidato a vice; promovido à cabeça de chapa em 15/09/2026, após a renúncia de Marçal.",
+   "achievements": [],
+   "sources": [
+    {
+     "id": "src-la-14",
+     "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+     "publisher": "Gazeta do Paraná",
+     "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+     "publishedAt": "2026-08-01",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+    },
+    {
+     "id": "src-la-04",
+     "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+     "publisher": "g1",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+    },
+    {
+     "id": "src-la-05",
+     "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+     "publisher": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+    }
+   ]
+  }
+ ],
+ "executiveExperience": [],
+ "achievements": [
+  {
+   "title": "Presidência nacional do PRTB desde fevereiro de 2024",
+   "context": "Partido PRTB (direção nacional)",
+   "description": "Assumiu a presidência do partido em 23/02/2024 e reconstruiu a estrutura nacional do PRTB até a disputa presidencial de 2026.",
+   "sources": [
+    {
+     "id": "src-la-10",
+     "title": "Leonardo Avalanche — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+    },
+    {
+     "id": "src-la-11",
+     "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+    }
+   ],
+   "evidenceStatus": "confirmado",
+   "confidenceLevel": "medium",
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "title": "Registro da chapa presidencial substituta no TSE",
+   "context": "Eleições 2026 — lista oficial de candidaturas",
+   "description": "Após o indeferimento da chapa Marçal/Avalanche (11/09/2026) e a renúncia de Marçal (14/09), a chapa Leonardo Avalanche/Silvia Hellen foi publicada na lista oficial de candidaturas do DJE/TSE de 18/09/2026.",
+   "sources": [
+    {
+     "id": "src-la-01",
+     "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+     "publisher": "TSE — Diário da Justiça Eletrônico",
+     "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+     "publishedAt": "2026-09-18",
+     "accessedAt": "2026-09-29",
+     "sourceType": "oficial_eleitoral",
+     "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+    },
+    {
+     "id": "src-la-04",
+     "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+     "publisher": "g1",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+    }
+   ],
+   "evidenceStatus": "confirmado",
+   "confidenceLevel": "high",
+   "updatedAt": "2026-09-29"
+  }
+ ],
+ "governmentPlan": {
+  "title": "Reconstrução Nacional",
+  "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/leonardo-avalanche",
+  "totalProposals": 0,
+  "registeredWith": "TSE — página oficial de propostas de governo dos candidatos à Presidência (Eleições 2026)",
+  "notes": "Contagem total de propostas não localizada nas fontes desta rodada; o programa é apresentado publicamente como 'reconstrução nacional'. As propostas analisadas abaixo vêm da cobertura da Agência Brasil.",
+  "statsIfCounted": null,
+  "statsEvidence": "indeterminado",
+  "summary": "Programa de campanha anunciado como 'Reconstrução Nacional', com redução de impostos e eliminação da fila do SUS entre os eixos divulgados; detalhamento completo e custos não disponíveis nesta rodada.",
+  "keyProposals": [
+   {
+    "id": "la-prop-1",
+    "title": "Reduzir impostos",
+    "theme": "Economia e tributação",
+    "description": "Redução da carga tributária como eixo central do programa (Agência Brasil). Valores, marcos ou tributos específicos não divulgados nas fontes desta rodada.",
+    "hasClearObjective": true,
+    "hasQuantitativeTarget": false,
+    "hasTimeline": false,
+    "hasCostEstimate": false,
+    "dependsOnCongress": false,
+    "dependsOnStatesAndMunicipalities": false,
+    "methodologyStatus": "indeterminado",
+    "sources": [
+     {
+      "id": "src-la-06",
+      "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Programa apresentado como 'reconstrução nacional'."
+     }
+    ],
+    "evidenceStatus": "parcial",
+    "updatedAt": "2026-09-29"
+   },
+   {
+    "id": "la-prop-2",
+    "title": "Zerar a fila do SUS",
+    "theme": "Saúde",
+    "description": "Eliminação das filas de espera do Sistema Único de Saúde como promessa do programa (Agência Brasil). Sem prazo ou meta quantificada nas fontes desta rodada.",
+    "hasClearObjective": true,
+    "hasQuantitativeTarget": true,
+    "hasTimeline": false,
+    "hasCostEstimate": false,
+    "dependsOnCongress": false,
+    "dependsOnStatesAndMunicipalities": false,
+    "methodologyStatus": "indeterminado",
+    "sources": [
+     {
+      "id": "src-la-06",
+      "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Programa apresentado como 'reconstrução nacional'."
+     }
+    ],
+    "evidenceStatus": "parcial",
+    "updatedAt": "2026-09-29"
+   }
+  ],
+  "sources": [
+   {
+    "id": "src-la-06",
+    "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+    "publisher": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+    "publishedAt": "2026-09",
+    "accessedAt": "2026-09-29",
+    "sourceType": "imprensa",
+    "notes": "Programa apresentado como 'reconstrução nacional'."
+   },
+   {
+    "id": "src-la-01",
+    "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+    "publisher": "TSE — Diário da Justiça Eletrônico",
+    "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+    "publishedAt": "2026-09-18",
+    "accessedAt": "2026-09-29",
+    "sourceType": "oficial_eleitoral",
+    "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+   }
+  ],
+  "updatedAt": "2026-09-29"
+ },
+ "currentSupport": [
+  {
+   "id": "sup-la-1",
+   "description": "Partido isolado — o PRTB não integra coligação ou federação registrada para a Presidência no DJE de 18/09/2026; vice Silvia Hellen da Silva Pereira pelo mesmo partido.",
+   "value": "PRTB — sem coligação/federação",
+   "date": "2026-09-18",
+   "sources": [
+    {
+     "id": "src-la-01",
+     "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+     "publisher": "TSE — Diário da Justiça Eletrônico",
+     "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+     "publishedAt": "2026-09-18",
+     "accessedAt": "2026-09-29",
+     "sourceType": "oficial_eleitoral",
+     "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+    }
+   ]
+  }
+ ],
+ "negotiationHistory": [
+  {
+   "id": "neg-la-1",
+   "event": "Indeferimento da chapa original e substituição do candidato a presidente",
+   "date": "2026-09-11",
+   "scope": "Presidência (chapa PRTB)",
+   "description": "TSE indeferiu por unanimidade o registro da chapa Marçal/Avalanche em 11/09/2026 (Marçal não comprovou filiação no partido até abril de 2026); Marçal renunciou em 14/09 e o partido substituiu o titular — resultado registrado no DJE de 18/09/2026.",
+   "outcome": "Chapa substituta registrada",
+   "sources": [
+    {
+     "id": "src-la-02",
+     "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+     "publisher": "TSE",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+     "publishedAt": "2026-09-11",
+     "accessedAt": "2026-09-29",
+     "sourceType": "oficial_eleitoral",
+     "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+    },
+    {
+     "id": "src-la-04",
+     "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+     "publisher": "g1",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+    },
+    {
+     "id": "src-la-01",
+     "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+     "publisher": "TSE — Diário da Justiça Eletrônico",
+     "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+     "publishedAt": "2026-09-18",
+     "accessedAt": "2026-09-29",
+     "sourceType": "oficial_eleitoral",
+     "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+    }
+   ]
+  }
+ ],
+ "institutionalHistory": [
+  {
+   "id": "inst-la-1",
+   "category": "eleitoral",
+   "title": "Indeferimento do registro da chapa original (Marçal presidente / Avalanche vice)",
+   "description": "Em 11/09/2026 o TSE indeferiu por unanimidade o registro da chapa do PRTB com Pablo Marçal à cabeça, por não comprovação de filiação partidária de Marçal até abril de 2026; a decisão declarou Marçal inelegível até 2032 por irregularidades de prestação de contas em São Paulo (2024) e informou que o partido poderia indicar substituto. Avalanche era o candidato a vice na chapa original.",
+   "legalStatus": "registro_indeferido",
+   "currentStatus": "encerrado",
+   "instance": "TSE — Plenário",
+   "lastUpdate": "2026-09-11",
+   "evidenceStatus": "confirmado",
+   "confidenceLevel": "high",
+   "sources": [
+    {
+     "id": "src-la-02",
+     "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+     "publisher": "TSE",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+     "publishedAt": "2026-09-11",
+     "accessedAt": "2026-09-29",
+     "sourceType": "oficial_eleitoral",
+     "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+    },
+    {
+     "id": "src-la-04",
+     "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+     "publisher": "g1",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "inst-la-2",
+   "category": "eleitoral",
+   "title": "Registro da chapa substituta à Presidência (Leonardo Avalanche nº 28 / Silvia Hellen)",
+   "description": "Após a renúncia de Marçal (14/09/2026), o PRTB protocolou a substituição no último dia do prazo; voto favorável da relatora ministra Estela Aranha. A chapa consta na lista oficial de candidaturas publicada no DJE do TSE em 18/09/2026 e na lista atualizada de 21/09/2026.",
+   "legalStatus": "regular",
+   "currentStatus": "encerrado",
+   "instance": "TSE — Secretaria Judiciária (DJE)",
+   "lastUpdate": "2026-09-18",
+   "evidenceStatus": "confirmado",
+   "confidenceLevel": "high",
+   "sources": [
+    {
+     "id": "src-la-01",
+     "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+     "publisher": "TSE — Diário da Justiça Eletrônico",
+     "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+     "publishedAt": "2026-09-18",
+     "accessedAt": "2026-09-29",
+     "sourceType": "oficial_eleitoral",
+     "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+    },
+    {
+     "id": "src-la-04",
+     "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+     "publisher": "g1",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+    },
+    {
+     "id": "src-la-05",
+     "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+     "publisher": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "inst-la-3",
+   "category": "tribunal",
+   "title": "Denúncia do MP-SP por suposta fraude na eleição interna do PRTB (fev/2024)",
+   "description": "Em janeiro de 2026 o Ministério Público de São Paulo apresentou denúncia contra Avalanche, pedindo a abertura de ação penal por supostos crimes ligados à disputa pelo controle do partido (eleição interna de fevereiro de 2024, alegada fraude — promotor Renato Kim Barbosa). Ex-dirigentes também alegaram ameaças na mesma disputa; a defesa nega as acusações e as qualifica como 'sem provas'. Nenhuma decisão de mérito localizada nas fontes desta rodada.",
+   "legalStatus": "denuncia",
+   "currentStatus": "em_andamento",
+   "instance": "Ministério Público de São Paulo",
+   "lastUpdate": "2026-01",
+   "evidenceStatus": "parcial",
+   "confidenceLevel": "medium",
+   "sources": [
+    {
+     "id": "src-la-08",
+     "title": "PRTB lança Leonardo Avalanche como pré-candidato à Presidência e disputa de 2026 chega a 13 nomes",
+     "publisher": "Fonte83",
+     "url": "https://fonte83.com.br/politica/eleicoes-2026/prtb-lanca-leonardo-avalanche-como-pre-candidato-a-presidencia-e-disputa-de-2026-chega-a-13-nomes",
+     "publishedAt": "2026-07-14",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Relata denúncia do MP-SP (jan/2026) por suposta fraude na eleição interna do PRTB (fev/2024) e alegações de ameaças por ex-dirigentes; defesa nega."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  }
+ ],
+ "metrics": [
+  {
+   "id": "anos_executivo",
+   "name": "Anos em cargos executivos públicos",
+   "category": "execucao",
+   "metricType": "duration",
+   "unit": "anos",
+   "value": 0,
+   "displayValue": "0 anos",
+   "availability": "zero",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "parcial",
+   "confidenceLevel": "medium",
+   "methodology": "Contagem de mandatos eletivos no Executivo (presidente, governador, prefeito) e cargos de direção de Estado. Base: nenhum cargo executivo localizado em perfis do TSE, Wikipédia e imprensa; presidência de partido e cargo de servidor (analista) não contam como cargo executivo.",
+   "notFoundStatus": "confirmado_por_documentacao",
+   "sources": [
+    {
+     "id": "src-la-10",
+     "title": "Leonardo Avalanche — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+    },
+    {
+     "id": "src-la-14",
+     "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+     "publisher": "Gazeta do Paraná",
+     "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+     "publishedAt": "2026-08-01",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+    },
+    {
+     "id": "src-la-07",
+     "title": "Leonardo Avalanche: candidato a presidente em 2026 (perfil do candidato — TSE)",
+     "publisher": "Estadão",
+     "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/leonardo-avalanche-28/",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Dados TSE: nº 28 / PRTB, partido isolado, limite de gastos 1º turno R$ 88.944.030,80."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "maior_orcamento",
+   "name": "Maior orçamento público gerenciado",
+   "category": "execucao",
+   "metricType": "currency",
+   "unit": "R$",
+   "value": null,
+   "displayValue": "Não aplicável — nunca administrou orçamento público",
+   "availability": "not_applicable",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "indeterminado",
+   "confidenceLevel": "low",
+   "methodology": "Maior orçamento público sob responsabilidade direta, em valores correntes da data do exercício. Sem exercício executivo, o dado não se aplica.",
+   "notFoundStatus": "aplicavel_somente_com_exercicio_executivo",
+   "sources": [
+    {
+     "id": "src-la-10",
+     "title": "Leonardo Avalanche — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+    },
+    {
+     "id": "src-la-14",
+     "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+     "publisher": "Gazeta do Paraná",
+     "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+     "publishedAt": "2026-08-01",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "equipe_gerida",
+   "name": "Maior equipe gerenciada",
+   "category": "execucao",
+   "metricType": "number",
+   "unit": "pessoas",
+   "value": null,
+   "displayValue": "Não localizado",
+   "availability": "not_found",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "indeterminado",
+   "confidenceLevel": "low",
+   "methodology": "Maior equipe sob gestão direta. Não localizado nas fontes desta rodada.",
+   "notFoundStatus": "nao_informado_pelas_fontes",
+   "sources": [
+    {
+     "id": "src-la-09",
+     "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+     "publisher": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+     "publishedAt": "2024-08",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+    },
+    {
+     "id": "src-la-12",
+     "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+     "publisher": "Portugal News / O Globo",
+     "url": "https://portugal-news.today/en/article/184968",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "anos_politica",
+   "name": "Anos de experiência política",
+   "category": "historico",
+   "metricType": "duration",
+   "unit": "anos",
+   "value": 2.6,
+   "displayValue": "2,6 anos desde 02/2024",
+   "availability": "available",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "parcial",
+   "confidenceLevel": "medium",
+   "methodology": "Contagem desde 23/02/2024, quando assumiu a presidência nacional do PRTB. Atividade política anterior não localizada nas fontes desta rodada.",
+   "notFoundStatus": "confirmado_por_documentacao",
+   "sources": [
+    {
+     "id": "src-la-10",
+     "title": "Leonardo Avalanche — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+    },
+    {
+     "id": "src-la-14",
+     "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+     "publisher": "Gazeta do Paraná",
+     "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+     "publishedAt": "2026-08-01",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "anos_legislativo",
+   "name": "Anos em mandatos legislativos",
+   "category": "historico",
+   "metricType": "duration",
+   "unit": "anos",
+   "value": 0,
+   "displayValue": "0 anos",
+   "availability": "zero",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "parcial",
+   "confidenceLevel": "medium",
+   "methodology": "Contagem de mandatos na Câmara dos Deputados, Senado e Assembleias/Legislativas. Nenhum mandato localizado em perfis do TSE, Wikipédia e imprensa (primeira disputa majoritária em 2026).",
+   "notFoundStatus": "confirmado_por_documentacao",
+   "sources": [
+    {
+     "id": "src-la-10",
+     "title": "Leonardo Avalanche — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+    },
+    {
+     "id": "src-la-14",
+     "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+     "publisher": "Gazeta do Paraná",
+     "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+     "publishedAt": "2026-08-01",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+    },
+    {
+     "id": "src-la-15",
+     "title": "Leonardo Avalanche 28 (PRTB): candidato a Presidente em 2026",
+     "publisher": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/leonardo-avalanche-prtb-28/",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Perfil do candidato nº 28/PRTB."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "anos_federal",
+   "name": "Anos em cargos públicos federais",
+   "category": "historico",
+   "metricType": "duration",
+   "unit": "anos",
+   "value": 0,
+   "displayValue": "0 anos",
+   "availability": "zero",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "parcial",
+   "confidenceLevel": "medium",
+   "methodology": "Contagem de tempo em órgãos e cargos do Governo Federal. Nenhum exercício federal localizado nas fontes desta rodada.",
+   "notFoundStatus": "confirmado_por_documentacao",
+   "sources": [
+    {
+     "id": "src-la-10",
+     "title": "Leonardo Avalanche — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+    },
+    {
+     "id": "src-la-12",
+     "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+     "publisher": "Portugal News / O Globo",
+     "url": "https://portugal-news.today/en/article/184968",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "mandatos_eletivos",
+   "name": "Mandatos eletivos exercidos",
+   "category": "historico",
+   "metricType": "number",
+   "unit": "mandatos",
+   "value": 0,
+   "displayValue": "0 mandatos",
+   "availability": "zero",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "parcial",
+   "confidenceLevel": "medium",
+   "methodology": "Quantidade de mandatos eletivos exercidos até 2026, segundo perfis do TSE, Wikipédia e imprensa: nenhum antes da disputa presidencial de 2026.",
+   "notFoundStatus": "confirmado_por_documentacao",
+   "sources": [
+    {
+     "id": "src-la-10",
+     "title": "Leonardo Avalanche — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+    },
+    {
+     "id": "src-la-14",
+     "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+     "publisher": "Gazeta do Paraná",
+     "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+     "publishedAt": "2026-08-01",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+    },
+    {
+     "id": "src-la-07",
+     "title": "Leonardo Avalanche: candidato a presidente em 2026 (perfil do candidato — TSE)",
+     "publisher": "Estadão",
+     "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/leonardo-avalanche-28/",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Dados TSE: nº 28 / PRTB, partido isolado, limite de gastos 1º turno R$ 88.944.030,80."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "votos_recebidos",
+   "name": "Votos recebidos em eleições anteriores",
+   "category": "historico",
+   "metricType": "number",
+   "unit": "votos",
+   "value": null,
+   "displayValue": "Não aplicável — nunca disputou eleição",
+   "availability": "not_applicable",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "indeterminado",
+   "confidenceLevel": "low",
+   "methodology": "Soma de votos recebidos em disputas anteriores. Sem candidatura anterior até 2026, o dado não se aplica.",
+   "notFoundStatus": "sem_disputa_anterior",
+   "sources": [
+    {
+     "id": "src-la-14",
+     "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+     "publisher": "Gazeta do Paraná",
+     "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+     "publishedAt": "2026-08-01",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+    },
+    {
+     "id": "src-la-15",
+     "title": "Leonardo Avalanche 28 (PRTB): candidato a Presidente em 2026",
+     "publisher": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/leonardo-avalanche-prtb-28/",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Perfil do candidato nº 28/PRTB."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "propostas_total",
+   "name": "Total de propostas com impacto orçamentário",
+   "category": "plano",
+   "metricType": "number",
+   "unit": "propostas",
+   "value": null,
+   "displayValue": "Não localizado — programa 'Reconstrução Nacional'",
+   "availability": "not_found",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "indeterminado",
+   "confidenceLevel": "low",
+   "methodology": "Contagem de propostas com impacto orçamentário. Total não localizado nesta rodada; propostas confirmadas abaixo provêm da Agência Brasil.",
+   "notFoundStatus": "nao_informado_pelas_fontes",
+   "sources": [
+    {
+     "id": "src-la-06",
+     "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+     "publisher": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Programa apresentado como 'reconstrução nacional'."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "propostas_com_custo",
+   "name": "Propostas com custo estimado",
+   "category": "plano",
+   "metricType": "percentage",
+   "unit": "%",
+   "value": null,
+   "displayValue": "Não localizado nas fontes consultadas",
+   "availability": "not_informed",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "indeterminado",
+   "confidenceLevel": "low",
+   "methodology": "Percentual de propostas com valor estimado divulgado. Nenhum custo divulgado nas fontes desta rodada.",
+   "notFoundStatus": "nao_informado_pelas_fontes",
+   "sources": [
+    {
+     "id": "src-la-06",
+     "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+     "publisher": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Programa apresentado como 'reconstrução nacional'."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "propostas_com_prazo",
+   "name": "Propostas com prazo de implementação declarado",
+   "category": "plano",
+   "metricType": "percentage",
+   "unit": "%",
+   "value": null,
+   "displayValue": "Não localizado nas fontes consultadas",
+   "availability": "not_informed",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "indeterminado",
+   "confidenceLevel": "low",
+   "methodology": "Percentual de propostas com ano ou período de execução declarado. Nenhum prazo divulgado nas fontes desta rodada.",
+   "notFoundStatus": "nao_informado_pelas_fontes",
+   "sources": [
+    {
+     "id": "src-la-06",
+     "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+     "publisher": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Programa apresentado como 'reconstrução nacional'."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "propostas_dependentes_congresso",
+   "name": "Propostas dependentes do Congresso",
+   "category": "plano",
+   "metricType": "percentage",
+   "unit": "%",
+   "value": null,
+   "displayValue": "Em análise",
+   "availability": "under_analysis",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "indeterminado",
+   "confidenceLevel": "medium",
+   "methodology": "Percentual de propostas que dependem de ação do Congresso Nacional para serem implementadas. Análise em curso — a proposta de redução de impostos, por exemplo, normalmente passa por lei complementar (condição de aprovação ainda não documentada nas fontes desta rodada).",
+   "notFoundStatus": "em_analise",
+   "sources": [
+    {
+     "id": "src-la-06",
+     "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+     "publisher": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Programa apresentado como 'reconstrução nacional'."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "registro_tse",
+   "name": "Situação do registro no TSE",
+   "category": "articulacao",
+   "metricType": "text",
+   "unit": null,
+   "value": null,
+   "displayValue": "Regular — consta na lista oficial de candidaturas do DJE/TSE de 18/09/2026 (chapa substituta da chapa indeferida em 11/09/2026)",
+   "availability": "available",
+   "directionality": "neutral",
+   "evidenceStatus": "confirmado",
+   "confidenceLevel": "high",
+   "methodology": "Situação do registro de candidatura conforme Diário da Justiça Eletrônico do TSE. Chapa original (Marçal/Avalanche) indeferida por unanimidade em 11/09/2026; após renúncia de Marçal, a chapa Avalanche/Silvia consta no DJE oficial de 18/09/2026.",
+   "notFoundStatus": "confirmado_por_fonte_primaria",
+   "sources": [
+    {
+     "id": "src-la-01",
+     "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+     "publisher": "TSE — Diário da Justiça Eletrônico",
+     "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+     "publishedAt": "2026-09-18",
+     "accessedAt": "2026-09-29",
+     "sourceType": "oficial_eleitoral",
+     "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+    },
+    {
+     "id": "src-la-02",
+     "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+     "publisher": "TSE",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+     "publishedAt": "2026-09-11",
+     "accessedAt": "2026-09-29",
+     "sourceType": "oficial_eleitoral",
+     "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+    },
+    {
+     "id": "src-la-04",
+     "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+     "publisher": "g1",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+    }
+   ],
+   "updatedAt": "2026-09-29",
+   "valueText": "Regular — consta na lista oficial de candidaturas do DJE/TSE de 18/09/2026"
+  },
+  {
+   "id": "bens_declarados",
+   "name": "Bens declarados",
+   "category": "integridade",
+   "metricType": "currency",
+   "unit": "R$",
+   "value": 495000000,
+   "displayValue": "R$ 495 mi (491 mi em criptomoedas)",
+   "availability": "available",
+   "directionality": "neutral",
+   "evidenceStatus": "confirmado",
+   "confidenceLevel": "high",
+   "methodology": "Declaração de bens apresentada à Justiça Eleitoral para a eleição de 2026, em reais correntes.",
+   "notFoundStatus": "confirmado_por_fonte_primaria",
+   "sources": [
+    {
+     "id": "src-la-13",
+     "title": "Após TSE barrar Marçal, PRTB terá Leonardo Avalanche como candidato à Presidência",
+     "publisher": "CartaCapital",
+     "url": "https://www.cartacapital.com.br/politica/apos-tse-barrar-marcal-prtb-tera-leonardo-avalanche-como-candidato-a-presidencia/",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "'Tem 48 anos e declarou patrimônio de 495 milhões de reais à Justiça Eleitoral, sendo que 491 milhões em criptomoedas'."
+    },
+    {
+     "id": "src-la-12",
+     "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
+     "publisher": "Portugal News / O Globo",
+     "url": "https://portugal-news.today/en/article/184968",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Natural de Anápolis; servidor público estadual; declarou mais de R$ 491 mi em criptomoedas, R$ 2,23 mi em obras de arte e mais de R$ 1 mi em joias ao TSE."
+    },
+    {
+     "id": "src-la-07",
+     "title": "Leonardo Avalanche: candidato a presidente em 2026 (perfil do candidato — TSE)",
+     "publisher": "Estadão",
+     "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/leonardo-avalanche-28/",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Dados TSE: nº 28 / PRTB, partido isolado, limite de gastos 1º turno R$ 88.944.030,80."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "bancada_partidaria_camara",
+   "name": "Bancada do partido na Câmara",
+   "category": "articulacao",
+   "metricType": "number",
+   "unit": "deputados",
+   "value": null,
+   "displayValue": "Não localizado nesta rodada",
+   "availability": "not_found",
+   "directionality": "higher_is_descriptively_more",
+   "evidenceStatus": "indeterminado",
+   "confidenceLevel": "low",
+   "methodology": "Número de deputados federais do partido (PRTB) na legislatura atual, conforme tabela oficial de representatividade do TSE. Não localizado nas consultas desta rodada.",
+   "notFoundStatus": "nao_informado_pelas_fontes",
+   "sources": [
+    {
+     "id": "src-la-11",
+     "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+     "publisher": "Wikipédia",
+     "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+     "publishedAt": "2026-09",
+     "accessedAt": "2026-09-29",
+     "sourceType": "editorial",
+     "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  },
+  {
+   "id": "intencao_voto_recente",
+   "name": "Intenção de voto mais recente",
+   "category": "articulacao",
+   "metricType": "text",
+   "unit": null,
+   "value": null,
+   "displayValue": "Não localizado nas pesquisas consultadas (substituição da chapa ocorreu em 15/09/2026)",
+   "availability": "not_found",
+   "directionality": "neutral",
+   "evidenceStatus": "indeterminado",
+   "confidenceLevel": "low",
+   "methodology": "Última pesquisa nacional registrando o candidato, com data e instituto. Não localizado nas fontes desta rodada.",
+   "notFoundStatus": "nao_informado_pelas_fontes",
+   "sources": [
+    {
+     "id": "src-la-04",
+     "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+     "publisher": "g1",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+    },
+    {
+     "id": "src-la-05",
+     "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+     "publisher": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+     "publishedAt": "2026-09-15",
+     "accessedAt": "2026-09-29",
+     "sourceType": "imprensa",
+     "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+    }
+   ],
+   "updatedAt": "2026-09-29"
+  }
+ ],
+ "dataGaps": [
+  "Contagem total de propostas do programa 'Reconstrução Nacional' (não localizada nas fontes desta rodada)",
+  "Custos e prazos por proposta não divulgados nas fontes consultadas",
+  "Bancada do PRTB na Câmara — tabela oficial de representatividade do TSE não consultada nesta rodada",
+  "Intenção de voto isolada em pesquisa nacional pós-substituição (15/09/2026) não localizada",
+  "Órgão e período do cargo de servidor público estadual não localizados",
+  "Divergência de ano de nascimento: Wikipédia 23/10/1977 vs CNN 1989 — adotada a data da Wikipédia (consistente com '48 anos' da CartaCapital em set/2026)",
+  "Status final do pedido de ação penal do MP-SP após a denúncia (jan/2026) não localizado"
+ ]
 }
