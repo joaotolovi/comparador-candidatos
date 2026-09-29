@@ -665,7 +665,277 @@
             "accessedAt": "2026-09-29",
             "sourceType": "plano_de_governo"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Elevar de 66% para 80% as crianças alfabetizadas na idade adequada e ampliar Pé-de-Meia, institutos federais e vagas no ensino superior.",
+          "requirement": {
+            "path": "depende-municipios",
+            "quorum": "não se aplica: a alfabetização é executada por redes municipais e estaduais e o novo PNE é fixado por lei ordinária",
+            "note": "A meta depende do regime de colaboração entre União, estados e municípios (CF, arts. 211 e 212) e de dotação orçamentária; o PNE 2026–2036 é fixado por lei ordinária e o Pé-de-Meia já é lei federal (Lei 14.994/2024)."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "2024-09-23",
+                "fact": "O Pé-de-Meia foi instituído por lei federal (Lei 14.994), com incentivo a alunos do ensino médio público.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento1propostas-04",
+                    "title": "Lei nº 14.994, de 23 de setembro de 2024 — institui o Programa Pé-de-Meia",
+                    "publisher": "Presidência da República — Planalto",
+                    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm",
+                    "publishedAt": "2024-09-23",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "oficial",
+                    "notes": "Cria incentivo financeiro-educacional a estudantes do ensino médio da rede pública."
+                  }
+                ]
+              },
+              {
+                "date": "2026-03",
+                "fact": "66% das crianças alfabetizadas na idade adequada, com 20 unidades da Federação atingindo a meta do INEP.",
+                "sources": [
+                  {
+                    "id": "src-lula-94",
+                    "title": "Brasil e 20 unidades da Federação alcançam meta de alfabetização (66% em 2025, meta de 64%)",
+                    "publisher": "Inep — Instituto Nacional de Estudos e Pesquisas Educacionais",
+                    "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/avaliacao-da-alfabetizacao/brasil-e-20-unidades-da-federacao-alcancam-meta-de-alfabetizacao",
+                    "publishedAt": "2026-03",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "oficial",
+                    "notes": "Resultado do Compromisso Nacional Criança Alfabetizada; 66% dos estudantes do 2º ano alfabetizados em 2025."
+                  }
+                ]
+              },
+              {
+                "date": "2005-01-13",
+                "fact": "O ProUni foi criado por lei no primeiro mandato (Lei 11.096/2005), com bolsas em instituições privadas.",
+                "sources": [
+                  {
+                    "id": "src-lula-25",
+                    "title": "ProUni virá lei — sanção da Lei 11.096/2005",
+                    "publisher": "Memorial da Democracia",
+                    "url": "https://memorialdademocracia.com.br/card/prouni-vira-lei",
+                    "publishedAt": "2005-01-13",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "diario_oficial"
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "2026-05-22",
+                "fact": "O bloqueio de despesas foi elevado para quase R$ 24 bilhões, com investimentos entre as áreas afetadas.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-01",
+                    "title": "Governo anuncia crescimento dos gastos federais para 2026 e eleva para quase R$ 24 bilhões o bloqueio de despesas no Orçamento",
+                    "publisher": "g1 / Jornal Nacional",
+                    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/22/governo-anuncia-crescimento-dos-gastos-federais-para-2026-e-eleva-para-quase-r-24-bilhoes-o-bloqueio-de-despesas-no-orcamento.ghtml",
+                    "date": "2026-05-22",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "2026-09-24",
+                "fact": "Novo relatório trouxe congelamento de R$ 16,1 bilhões no Orçamento de 2026.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-02",
+                    "title": "Governo reduz bloqueio, anuncia contingenciamento e congela R$ 16,1 bi",
+                    "publisher": "CNN Brasil",
+                    "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+                    "date": "2026-09-24",
+                    "type": "imprensa",
+                    "notes": "Relatório bimestral de setembro de 2026."
+                  }
+                ]
+              },
+              {
+                "date": "2026-08",
+                "fact": "O plano registrado não informa dotação por meta nem quantos campi ou institutos federais seriam criados.",
+                "sources": [
+                  {
+                    "id": "src-lula-07",
+                    "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+                    "publisher": "Poder360",
+                    "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+                    "publishedAt": "2026-08",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo"
+                  }
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "id": "src-re-complemento1propostas-04",
+                "title": "Lei nº 14.994, de 23 de setembro de 2024 — institui o Programa Pé-de-Meia",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm",
+                "publishedAt": "2024-09-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Cria incentivo financeiro-educacional a estudantes do ensino médio da rede pública."
+              },
+              {
+                "id": "src-lula-94",
+                "title": "Brasil e 20 unidades da Federação alcançam meta de alfabetização (66% em 2025, meta de 64%)",
+                "publisher": "Inep — Instituto Nacional de Estudos e Pesquisas Educacionais",
+                "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/avaliacao-da-alfabetizacao/brasil-e-20-unidades-da-federacao-alcancam-meta-de-alfabetizacao",
+                "publishedAt": "2026-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Resultado do Compromisso Nacional Criança Alfabetizada; 66% dos estudantes do 2º ano alfabetizados em 2025."
+              },
+              {
+                "id": "src-lula-25",
+                "title": "ProUni virá lei — sanção da Lei 11.096/2005",
+                "publisher": "Memorial da Democracia",
+                "url": "https://memorialdademocracia.com.br/card/prouni-vira-lei",
+                "publishedAt": "2005-01-13",
+                "accessedAt": "2026-09-29",
+                "sourceType": "diario_oficial"
+              },
+              {
+                "id": "src-lula-07",
+                "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+                "publisher": "Poder360",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo"
+              },
+              {
+                "id": "src-lula-49",
+                "title": "PT registra plano de governo de Lula no TSE com novas propostas para 2026",
+                "publisher": "Folha Expressa",
+                "url": "https://folhaexpressa.com/politica/pt-registra-plano-de-governo-de-lula-no-tse-com-novas-propostas-para-2026",
+                "publishedAt": "2026-08-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-re-r1propostas-01",
+                "title": "Governo anuncia crescimento dos gastos federais para 2026 e eleva para quase R$ 24 bilhões o bloqueio de despesas no Orçamento",
+                "publisher": "g1 / Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/22/governo-anuncia-crescimento-dos-gastos-federais-para-2026-e-eleva-para-quase-r-24-bilhoes-o-bloqueio-de-despesas-no-orcamento.ghtml",
+                "date": "2026-05-22",
+                "type": "imprensa"
+              },
+              {
+                "id": "src-re-r1propostas-02",
+                "title": "Governo reduz bloqueio, anuncia contingenciamento e congela R$ 16,1 bi",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+                "date": "2026-09-24",
+                "type": "imprensa",
+                "notes": "Relatório bimestral de setembro de 2026."
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "PT: 67 de 513 deputados federais (2ª maior bancada) e 9 de 81 senadores; Federação Brasil da Esperança (PT-PCdoB-PV)",
+            "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais' — única coligação presidencial de 2026, com 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+            "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+            "documentedAgreements": 3,
+            "note": "Coligação registrada no TSE com 7 partidos e 3 episódios de negociação documentados no histórico do candidato; acordos específicos por proposta não foram localizados. Retrato atual, não previsão do próximo Congresso."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Alfabetização na idade adequada depende das redes municipais e estaduais",
+              "detail": "A meta é executada por redes municipais e estaduais no regime de colaboração da Constituição (arts. 211 e 212), com a União na coordenação e no apoio financeiro. O plano não traz dotação por meta, cronograma anual nem lista de municípios prioritários.",
+              "sources": [
+                {
+                  "id": "src-re-r1capacidades-01",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publisher": "Presidência da República — Planalto",
+                  "date": "1988-10-05",
+                  "type": "oficial_legislacao",
+                  "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes."
+                },
+                {
+                  "id": "src-lula-07",
+                  "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+                  "publisher": "Poder360",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                },
+                {
+                  "id": "src-lula-94",
+                  "title": "Brasil e 20 unidades da Federação alcançam meta de alfabetização (66% em 2025, meta de 64%)",
+                  "publisher": "Inep — Instituto Nacional de Estudos e Pesquisas Educacionais",
+                  "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/avaliacao-da-alfabetizacao/brasil-e-20-unidades-da-federacao-alcancam-meta-de-alfabetizacao",
+                  "publishedAt": "2026-03",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Resultado do Compromisso Nacional Criança Alfabetizada; 66% dos estudantes do 2º ano alfabetizados em 2025."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "Meta de 80% sem dotação estimada em período de bloqueio de despesas",
+              "detail": "O plano não estima o custo da meta de alfabetização, da manutenção do Pé-de-Meia nem da expansão dos institutos federais; em 2026 houve bloqueio de quase R$ 24 bilhões (22/05) e congelamento de R$ 16,1 bilhões (24/09), com investimentos entre as áreas afetadas.",
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-01",
+                  "title": "Governo anuncia crescimento dos gastos federais para 2026 e eleva para quase R$ 24 bilhões o bloqueio de despesas no Orçamento",
+                  "publisher": "g1 / Jornal Nacional",
+                  "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/22/governo-anuncia-crescimento-dos-gastos-federais-para-2026-e-eleva-para-quase-r-24-bilhoes-o-bloqueio-de-despesas-no-orcamento.ghtml",
+                  "date": "2026-05-22",
+                  "type": "imprensa"
+                },
+                {
+                  "id": "src-re-r1propostas-02",
+                  "title": "Governo reduz bloqueio, anuncia contingenciamento e congela R$ 16,1 bi",
+                  "publisher": "CNN Brasil",
+                  "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+                  "date": "2026-09-24",
+                  "type": "imprensa",
+                  "notes": "Relatório bimestral de setembro de 2026."
+                },
+                {
+                  "id": "src-lula-07",
+                  "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+                  "publisher": "Poder360",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual a dotação anual e o cronograma por meta do PNE 2026–2036 para atingir os 80%?",
+              "why": "O plano registrado fixa a meta sem custo, prazo anual ou fonte de recursos por etapa."
+            },
+            {
+              "question": "Quantos institutos federais e campi universitários seriam criados e em quais municípios?",
+              "why": "A expansão é citada no plano sem número de unidades, custo ou cronograma."
+            },
+            {
+              "question": "Como o Pé-de-Meia seria mantido dentro do limite de despesas do arcabouço fiscal?",
+              "why": "O programa é lei federal e a continuidade depende de dotação anual; o plano não indica a fonte."
+            }
+          ],
+          "publicExplanation": "Em 11/08/2026, ao registrar o plano no TSE, a campanha apresentou a elevação da meta de alfabetização e o PNE 2026–2036 entre as prioridades; não foi localizada explicação com dotação ou cronograma por meta.",
+          "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pelos dados do INEP de 2025 sobre alfabetização, pela legislação citada (Lei 14.994/2024 e Lei 11.096/2005) e pelos relatórios de bloqueio e contingenciamento de 2026. Ficaram de fora a execução por rede municipal e os planos estaduais de educação.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Economia: manter o arcabouço fiscal, aprofundar reforma tributária e Novo PAC",
@@ -1524,7 +1794,358 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Afirmar soberania e não subordinação na política externa, com integração econômica e de infraestrutura na América do Sul e proteção consular.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "quorum": "não se aplica a atos de governo; tratados e atos internacionais com encargos passam pelo Congresso (CF, art. 49, I)",
+            "note": "A integração física e econômica depende de acordos com os países vizinhos e de financiamento (BNDES e bancos regionais); a política consular é ato do Executivo e a retirada de tarifas depende de decisão de outro governo."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "2026-03-17",
+                "fact": "O Congresso promulgou o acordo Mercosul-União Europeia, após o PDL 41/2026.",
+                "sources": [
+                  {
+                    "id": "src-re-15",
+                    "title": "Congresso Nacional promulga acordo Mercosul-União Europeia",
+                    "publisher": "Agência Brasil (EBC)",
+                    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/congresso-nacional-promulga-acordo-mercosul-uniao-europeia",
+                    "publishedAt": "2026-03-17",
+                    "date": "2026-03-17",
+                    "accessedAt": "2026-09-29",
+                    "type": "oficial"
+                  },
+                  {
+                    "id": "src-re-22",
+                    "title": "Tramitação do Projeto de Decreto Legislativo 41/2026 — Acordo Mercosul-União Europeia",
+                    "publisher": "Câmara dos Deputados",
+                    "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
+                    "publishedAt": "2026-02-02",
+                    "date": "2026-02-02",
+                    "accessedAt": "2026-09-29",
+                    "type": "legislativo"
+                  }
+                ]
+              },
+              {
+                "date": "2026-07-27",
+                "fact": "Telefonema com Xi Jinping tratou de acelerar a negociação do acordo China-Mercosul.",
+                "sources": [
+                  {
+                    "id": "src-re-16",
+                    "title": "Após tarifaço de Trump, Lula discute acordo China-Mercosul com Xi Jinping",
+                    "publisher": "BBC News Brasil",
+                    "url": "https://www.bbc.com/portuguese/articles/cn8nvwv6wg3o",
+                    "publishedAt": "2026-07-27",
+                    "date": "2026-07-27",
+                    "accessedAt": "2026-09-29",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "2026-09-22",
+                "fact": "Na Assembleia da ONU, cobrou regulação global de big techs e de inteligência artificial.",
+                "sources": [
+                  {
+                    "id": "src-re-r1temas-04",
+                    "title": "Lula cobra regulação global de Big Techs e IA na Assembleia da ONU",
+                    "publisher": "Telesíntese",
+                    "url": "https://telesintese.com.br/lula-cobra-regulacao-global-de-big-techs-e-ia-na-assembleia-da-onu/",
+                    "publishedAt": "2026-09-22",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Discurso na abertura da 81ª Assembleia Geral da ONU (22/09/2026) defendendo regulação de big techs e de inteligência artificial e criticando a ausência de regras e transparência."
+                  }
+                ]
+              },
+              {
+                "date": "2026-09-22",
+                "fact": "A cobertura apontou que o tarifaço levou o governo a adotar discurso sobre soberania.",
+                "sources": [
+                  {
+                    "id": "src-re-13",
+                    "title": "Tarifaço levou governo Lula a adotar discurso sobre soberania",
+                    "publisher": "Poder360 (Lara Brito)",
+                    "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarifaco-levou-governo-lula-a-adotar-discurso-sobre-soberania/",
+                    "publishedAt": "2026-09-22",
+                    "date": "2026-09-22",
+                    "accessedAt": "2026-09-29",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "2026-09-25",
+                "fact": "A empresários, defendeu responsabilidade fiscal, estabilidade e soberania.",
+                "sources": [
+                  {
+                    "id": "src-lula-68",
+                    "title": "A empresários, Lula defende responsabilidade fiscal, estabilidade e soberania",
+                    "publisher": "Valor Econômico",
+                    "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/a-empresrios-lula-defende-responsabilidade-fiscal-estabilidade-e-soberania.ghtml",
+                    "publishedAt": "2026-09-25",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Jantar em São Paulo com cerca de 740 empresários, economistas e políticos (686 empresários); segundo jantar desse tipo em menos de um mês (o anterior, em 31/08/2026, no Alvorada, com 16 representantes do setor privado)."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "2026-07-22",
+                "fact": "A tarifa adicional de 25% dos EUA entrou em vigor e a negociação de retirada segue sem acordo até 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-re-05",
+                    "title": "Tarifaço: o que o governo Lula ofereceu e o que vetou nas negociações para evitar as novas taxas de Trump",
+                    "publisher": "O Globo (Bernardo Lima)",
+                    "url": "https://oglobo.globo.com/economia/noticia/2026/07/17/tarifaco-o-que-o-governo-lula-ofereceu-e-o-que-vetou-nas-negociacoes-para-evitar-em-vao-as-novas-taxas-de-trump.ghtml",
+                    "publishedAt": "2026-07-17",
+                    "date": "2026-07-17",
+                    "accessedAt": "2026-09-29",
+                    "type": "imprensa"
+                  },
+                  {
+                    "id": "src-mundo-01",
+                    "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+                    "publisher": "G1 / GloboNews (Filipe Matoso)",
+                    "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+                    "publishedAt": "2026-08-24",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+                  }
+                ]
+              },
+              {
+                "date": "2026-08",
+                "fact": "O plano registrado não traz custo, cronograma nem lista de obras de integração na América do Sul.",
+                "sources": [
+                  {
+                    "id": "src-lula-07",
+                    "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+                    "publisher": "Poder360",
+                    "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+                    "publishedAt": "2026-08",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo"
+                  }
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "id": "src-re-15",
+                "title": "Congresso Nacional promulga acordo Mercosul-União Europeia",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/congresso-nacional-promulga-acordo-mercosul-uniao-europeia",
+                "publishedAt": "2026-03-17",
+                "date": "2026-03-17",
+                "accessedAt": "2026-09-29",
+                "type": "oficial"
+              },
+              {
+                "id": "src-re-22",
+                "title": "Tramitação do Projeto de Decreto Legislativo 41/2026 — Acordo Mercosul-União Europeia",
+                "publisher": "Câmara dos Deputados",
+                "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
+                "publishedAt": "2026-02-02",
+                "date": "2026-02-02",
+                "accessedAt": "2026-09-29",
+                "type": "legislativo"
+              },
+              {
+                "id": "src-re-16",
+                "title": "Após tarifaço de Trump, Lula discute acordo China-Mercosul com Xi Jinping",
+                "publisher": "BBC News Brasil",
+                "url": "https://www.bbc.com/portuguese/articles/cn8nvwv6wg3o",
+                "publishedAt": "2026-07-27",
+                "date": "2026-07-27",
+                "accessedAt": "2026-09-29",
+                "type": "imprensa"
+              },
+              {
+                "id": "src-re-r1temas-04",
+                "title": "Lula cobra regulação global de Big Techs e IA na Assembleia da ONU",
+                "publisher": "Telesíntese",
+                "url": "https://telesintese.com.br/lula-cobra-regulacao-global-de-big-techs-e-ia-na-assembleia-da-onu/",
+                "publishedAt": "2026-09-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Discurso na abertura da 81ª Assembleia Geral da ONU (22/09/2026) defendendo regulação de big techs e de inteligência artificial e criticando a ausência de regras e transparência."
+              },
+              {
+                "id": "src-re-13",
+                "title": "Tarifaço levou governo Lula a adotar discurso sobre soberania",
+                "publisher": "Poder360 (Lara Brito)",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarifaco-levou-governo-lula-a-adotar-discurso-sobre-soberania/",
+                "publishedAt": "2026-09-22",
+                "date": "2026-09-22",
+                "accessedAt": "2026-09-29",
+                "type": "imprensa"
+              },
+              {
+                "id": "src-re-05",
+                "title": "Tarifaço: o que o governo Lula ofereceu e o que vetou nas negociações para evitar as novas taxas de Trump",
+                "publisher": "O Globo (Bernardo Lima)",
+                "url": "https://oglobo.globo.com/economia/noticia/2026/07/17/tarifaco-o-que-o-governo-lula-ofereceu-e-o-que-vetou-nas-negociacoes-para-evitar-em-vao-as-novas-taxas-de-trump.ghtml",
+                "publishedAt": "2026-07-17",
+                "date": "2026-07-17",
+                "accessedAt": "2026-09-29",
+                "type": "imprensa"
+              },
+              {
+                "id": "src-mundo-01",
+                "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+                "publisher": "G1 / GloboNews (Filipe Matoso)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+              },
+              {
+                "id": "src-lula-132",
+                "title": "Lula defende soberania do Brasil em pronunciamento pelo 7 de setembro",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lula-defende-soberania-do-brasil-em-pronunciamento-pelo-7-de-setembro",
+                "publishedAt": "2026-09-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "agencia_publica",
+                "notes": "Pronunciamento em rede nacional de rádio e TV na noite de 06/09/2026; cita a frase 'Não somos colônia e não seremos colônia de ninguém' e a defesa do livre comércio."
+              },
+              {
+                "id": "src-lula-68",
+                "title": "A empresários, Lula defende responsabilidade fiscal, estabilidade e soberania",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/a-empresrios-lula-defende-responsabilidade-fiscal-estabilidade-e-soberania.ghtml",
+                "publishedAt": "2026-09-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Jantar em São Paulo com cerca de 740 empresários, economistas e políticos (686 empresários); segundo jantar desse tipo em menos de um mês (o anterior, em 31/08/2026, no Alvorada, com 16 representantes do setor privado)."
+              },
+              {
+                "id": "src-lula-07",
+                "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+                "publisher": "Poder360",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo"
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "PT: 67 de 513 deputados federais (2ª maior bancada) e 9 de 81 senadores; Federação Brasil da Esperança (PT-PCdoB-PV)",
+            "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais' — única coligação presidencial de 2026, com 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+            "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+            "documentedAgreements": 3,
+            "note": "Coligação registrada no TSE com 7 partidos e 3 episódios de negociação documentados no histórico do candidato; acordos específicos por proposta não foram localizados. Retrato atual, não previsão do próximo Congresso."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Integração sul-americana depende de acordos com os vizinhos, de financiamento e do Congresso",
+              "detail": "Obras e acordos de integração física passam por negociação com os países vizinhos e pelo Congresso (CF, art. 49, I), além de financiamento público e privado. O plano não indica obras, custo ou cronograma, e a retirada da tarifa de 25% dos EUA depende de decisão do governo americano.",
+              "sources": [
+                {
+                  "id": "src-mundo-01",
+                  "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+                  "publisher": "G1 / GloboNews (Filipe Matoso)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+                },
+                {
+                  "id": "src-re-05",
+                  "title": "Tarifaço: o que o governo Lula ofereceu e o que vetou nas negociações para evitar as novas taxas de Trump",
+                  "publisher": "O Globo (Bernardo Lima)",
+                  "url": "https://oglobo.globo.com/economia/noticia/2026/07/17/tarifaco-o-que-o-governo-lula-ofereceu-e-o-que-vetou-nas-negociacoes-para-evitar-em-vao-as-novas-taxas-de-trump.ghtml",
+                  "publishedAt": "2026-07-17",
+                  "date": "2026-07-17",
+                  "accessedAt": "2026-09-29",
+                  "type": "imprensa"
+                },
+                {
+                  "id": "src-re-15",
+                  "title": "Congresso Nacional promulga acordo Mercosul-União Europeia",
+                  "publisher": "Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/congresso-nacional-promulga-acordo-mercosul-uniao-europeia",
+                  "publishedAt": "2026-03-17",
+                  "date": "2026-03-17",
+                  "accessedAt": "2026-09-29",
+                  "type": "oficial"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Discurso de soberania e negociação com os EUA no mesmo período",
+              "detail": "A sobretaxa de 25% dos EUA está vigente desde 22/07/2026 e a negociação de retirada segue sem acordo até 29/09/2026; em 22/09/2026 a cobertura registrou que o tarifaço levou o governo a adotar discurso sobre soberania.",
+              "sources": [
+                {
+                  "id": "src-re-05",
+                  "title": "Tarifaço: o que o governo Lula ofereceu e o que vetou nas negociações para evitar as novas taxas de Trump",
+                  "publisher": "O Globo (Bernardo Lima)",
+                  "url": "https://oglobo.globo.com/economia/noticia/2026/07/17/tarifaco-o-que-o-governo-lula-ofereceu-e-o-que-vetou-nas-negociacoes-para-evitar-em-vao-as-novas-taxas-de-trump.ghtml",
+                  "publishedAt": "2026-07-17",
+                  "date": "2026-07-17",
+                  "accessedAt": "2026-09-29",
+                  "type": "imprensa"
+                },
+                {
+                  "id": "src-re-13",
+                  "title": "Tarifaço levou governo Lula a adotar discurso sobre soberania",
+                  "publisher": "Poder360 (Lara Brito)",
+                  "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarifaco-levou-governo-lula-a-adotar-discurso-sobre-soberania/",
+                  "publishedAt": "2026-09-22",
+                  "date": "2026-09-22",
+                  "accessedAt": "2026-09-29",
+                  "type": "imprensa"
+                },
+                {
+                  "id": "src-mundo-01",
+                  "title": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
+                  "publisher": "G1 / GloboNews (Filipe Matoso)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Levantamento das propostas de política externa nos planos registrados de Lula, Flávio Bolsonaro, Caiado, Renan Santos e Zema. Página lida integralmente via curl (texto extraído)."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Quais obras de integração física o plano prioriza e com qual financiamento?",
+              "why": "O plano cita integração de infraestrutura sem lista de projetos, custo ou cronograma."
+            },
+            {
+              "question": "Como a política de reciprocidade será conduzida se a tarifa de 25% dos EUA permanecer?",
+              "why": "A sobretaxa está em vigor desde 22/07/2026 e não há acordo até 29/09/2026."
+            },
+            {
+              "question": "Qual o orçamento e o desenho da política de proteção à diáspora brasileira?",
+              "why": "A proteção consular e a participação da diáspora constam do plano sem metas ou recursos."
+            }
+          ],
+          "publicExplanation": "Em 07/09/2026, no pronunciamento pelo 7 de setembro, o candidato defendeu a soberania nacional; em 25/09/2026, a empresários, citou responsabilidade fiscal, estabilidade e soberania. A integração sul-americana e a proteção consular constam do plano sem detalhamento de custo.",
+          "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pela tramitação do acordo Mercosul-UE (PDL 41/2026), pelas negociações tarifárias de 2026 com EUA e China e por reportagens sobre política externa. Ficaram de fora a íntegra dos acordos e a execução orçamentária do BNDES.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       }
     ],
     "sources": [
@@ -4653,6 +5274,16 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Discurso na abertura da 81ª Assembleia Geral da ONU (22/09/2026) defendendo regulação de big techs e de inteligência artificial e criticando a ausência de regras e transparência."
+    },
+    {
+      "id": "src-re-complemento1propostas-04",
+      "title": "Lei nº 14.994, de 23 de setembro de 2024 — institui o Programa Pé-de-Meia",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm",
+      "publishedAt": "2024-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Cria incentivo financeiro-educacional a estudantes do ensino médio da rede pública."
     }
   ],
   "updatedAt": "2026-09-29",

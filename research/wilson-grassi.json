@@ -519,7 +519,227 @@
             "sourceType": "plano_de_governo",
             "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Extinguir a contribuição patronal da Previdência, com custeio pelo orçamento, e isentar o IRPF de quem recebe até 5 salários mínimos.",
+          "requirement": {
+            "path": "pec",
+            "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+            "note": "A contribuição patronal está no art. 195, I, 'a', da Constituição: extingui-la ou mudar seu custeio exige emenda e nova fonte para a seguridade. A isenção do IRPF é matéria de lei ordinária — a Lei 15.270/2025 isentou rendas de até R$ 5.000 por mês, com imposto mínimo sobre altas rendas."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Nov/2025",
+                "fact": "A Lei 15.270/2025 isentou do IRPF quem ganha até R$ 5.000 por mês e criou imposto mínimo sobre altas rendas.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-23",
+                    "title": "Senado aprova IR isento até R$ 5 mil/mês e imposto mínimo a partir de R$ 600 mil/ano (PL 1.087/2025, sancionado como Lei 15.270/2025)",
+                    "publisher": "JOTA / Reforma Tributária",
+                    "url": "https://reformatributaria.com/senado-aprova-ir-isento-ate-r-5-mil-mes-e-imposto-minimo-a-partir-de-r-600-mil-ano-texto-vai-a-sancao",
+                    "date": "2025-11-05",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2026",
+                "fact": "O plano registrado propõe o fim da contribuição patronal, com o custeio da seguridade social pelo orçamento geral.",
+                "sources": [
+                  {
+                    "id": "src-wg-12",
+                    "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                    "publisher": "TSE — DivulgaCandContas (arquivos)",
+                    "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                    "publishedAt": "2026",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo",
+                    "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Abr/2026",
+                "fact": "O STF manteve a reoneração gradual da folha de pagamento de 17 setores até 2027, no sentido inverso ao da extinção da contribuição.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-22",
+                    "title": "STF mantém reoneração gradual da folha de pagamento até 2027",
+                    "publisher": "Agência Brasil",
+                    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/stf-mantem-reoneracao-gradual-da-folha-de-pagamento-ate-2027",
+                    "date": "2026-04-30",
+                    "type": "imprensa",
+                    "notes": "Benefício a 17 setores intensivos em mão de obra revertido ano a ano."
+                  }
+                ]
+              },
+              {
+                "date": "Dez/2025",
+                "fact": "O salário mínimo passou a R$ 1.621 em 2026: cinco salários mínimos equivalem a R$ 8.105, acima do corte de R$ 5.000 da lei em vigor.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-24",
+                    "title": "Salário mínimo passa a valer R$ 1.621 a partir de 1º de janeiro",
+                    "publisher": "Radioagência Nacional / EBC",
+                    "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2025-12/salario-minimo-passa-valer-r-1621-partir-de-1o-de-janeiro",
+                    "date": "2025-12-24",
+                    "type": "imprensa",
+                    "notes": "Reajuste de 6,8% para 2026."
+                  },
+                  {
+                    "id": "src-re-complemento2propostas-23",
+                    "title": "Senado aprova IR isento até R$ 5 mil/mês e imposto mínimo a partir de R$ 600 mil/ano (PL 1.087/2025, sancionado como Lei 15.270/2025)",
+                    "publisher": "JOTA / Reforma Tributária",
+                    "url": "https://reformatributaria.com/senado-aprova-ir-isento-ate-r-5-mil-mes-e-imposto-minimo-a-partir-de-r-600-mil-ano-texto-vai-a-sancao",
+                    "date": "2025-11-05",
+                    "type": "imprensa"
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O Democrata tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Extinguir a contribuição patronal exige emenda e nova fonte para a seguridade",
+              "detail": "A contribuição patronal é prevista no art. 195, I, 'a', da Constituição, e a seguridade social precisa de fonte de custeio própria. A mudança exige PEC, com 308 deputados e 49 senadores em dois turnos, e o plano não estima o valor nem indica a receita substituta.",
+              "sources": [
+                {
+                  "id": "src-re-r3propostas-02",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial"
+                },
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                },
+                {
+                  "id": "src-re-complemento2propostas-22",
+                  "title": "STF mantém reoneração gradual da folha de pagamento até 2027",
+                  "publisher": "Agência Brasil",
+                  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/stf-mantem-reoneracao-gradual-da-folha-de-pagamento-ate-2027",
+                  "date": "2026-04-30",
+                  "type": "imprensa",
+                  "notes": "Benefício a 17 setores intensivos em mão de obra revertido ano a ano."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Isenção proposta alcança R$ 8.105, acima do corte de R$ 5.000 sancionado em 2025",
+              "detail": "A Lei 15.270/2025 isentou rendas de até R$ 5.000 por mês, com imposto mínimo sobre altas rendas; cinco salários mínimos de 2026 somam R$ 8.105. O plano não indica compensação para o trecho adicional de renda nem o custo da renúncia.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-23",
+                  "title": "Senado aprova IR isento até R$ 5 mil/mês e imposto mínimo a partir de R$ 600 mil/ano (PL 1.087/2025, sancionado como Lei 15.270/2025)",
+                  "publisher": "JOTA / Reforma Tributária",
+                  "url": "https://reformatributaria.com/senado-aprova-ir-isento-ate-r-5-mil-mes-e-imposto-minimo-a-partir-de-r-600-mil-ano-texto-vai-a-sancao",
+                  "date": "2025-11-05",
+                  "type": "imprensa"
+                },
+                {
+                  "id": "src-re-complemento2propostas-24",
+                  "title": "Salário mínimo passa a valer R$ 1.621 a partir de 1º de janeiro",
+                  "publisher": "Radioagência Nacional / EBC",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2025-12/salario-minimo-passa-valer-r-1621-partir-de-1o-de-janeiro",
+                  "date": "2025-12-24",
+                  "type": "imprensa",
+                  "notes": "Reajuste de 6,8% para 2026."
+                },
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o valor anual da contribuição patronal a ser extinta e qual a fonte substituta?",
+              "why": "O plano prevê custeio pelo orçamento geral sem valor estimado nem indicação de receita compensatória para a Previdência.",
+              "sources": [
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                },
+                {
+                  "id": "src-wg-11",
+                  "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+                  "publisher": "TSE — Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+                }
+              ]
+            },
+            {
+              "question": "A isenção até cinco salários mínimos substituiria a lei de 2025 ou se somaria a ela?",
+              "why": "A lei em vigor isenta até R$ 5.000, com imposto mínimo sobre altas rendas; o plano fixa outro parâmetro sem indicar transição ou renúncia estimada.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-23",
+                  "title": "Senado aprova IR isento até R$ 5 mil/mês e imposto mínimo a partir de R$ 600 mil/ano (PL 1.087/2025, sancionado como Lei 15.270/2025)",
+                  "publisher": "JOTA / Reforma Tributária",
+                  "url": "https://reformatributaria.com/senado-aprova-ir-isento-ate-r-5-mil-mes-e-imposto-minimo-a-partir-de-r-600-mil-ano-texto-vai-a-sancao",
+                  "date": "2025-11-05",
+                  "type": "imprensa"
+                },
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato liga o fim da contribuição patronal ao fim da 'guerra fiscal' e à simplificação tributária, dentro da proposta de Imposto Único Federal do plano. Não localizamos resposta pública sobre a compensação da perda arrecadatória da Previdência nem sobre o custo da isenção ampliada.",
+          "methodology": "Leitura do plano registrado no TSE ('Brasil em Primeiro Lugar', 58 páginas) e do índice oficial de 44 itens, da Lei 15.270/2025, do valor do salário mínimo de 2026 e da decisão do STF sobre a folha em abril de 2026. Candidato sem cargo público: o histórico comparável é de empresa e partido. Ficaram de fora projeções atuariais, não apresentadas.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "id": "kp-wg-3",
@@ -788,7 +1008,225 @@
             "sourceType": "plano_de_governo",
             "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Criar programa nacional ferroviário com trens de passageiros e transporte de commodities, integrando o interior aos portos.",
+          "requirement": {
+            "path": "depende-privado",
+            "note": "A expansão da malha depende de concessões e autorizações a empresas (Lei 14.273/2021, marco legal das ferrovias), de licenciamento ambiental e de capital privado. O Ministério dos Transportes previu oito leilões ferroviários em 2026, com carteira de R$ 656 bilhões e R$ 140 bilhões em investimentos."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Set/2026",
+                "fact": "O Ministério dos Transportes apresentou sete trechos 'shortline' com potencial de cargas e passageiros a empresas e bancos.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-25",
+                    "title": "Governo apresenta mais 7 projetos ferroviários e inclui transporte de passageiros",
+                    "publisher": "Folha de S.Paulo (C-Level)",
+                    "url": "https://c-level.folha.uol.com.br/infraestrutura/2026/09/governo-apresenta-ao-mercado-mais-7-projetos-de-ferrovias-e-inclui-transporte-de-passageiros.shtml",
+                    "date": "2026-09-16",
+                    "type": "imprensa",
+                    "notes": "Carteira de trechos 'shortline' apresentada a empresas e bancos."
+                  }
+                ]
+              },
+              {
+                "date": "2026",
+                "fact": "A carteira federal previu oito leilões ferroviários, com R$ 656 bilhões em investimentos previstos no setor.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-26",
+                    "title": "Apresentação da carteira de projetos ferroviários de 2026 — oito leilões e R$ 656 bilhões",
+                    "publisher": "Ministério dos Transportes",
+                    "url": "https://www.gov.br/transportes/pt-br/assuntos/concessoes/conteudo-ferrovias/apresentacao-carteira_de_projetos-2026-1.pdf",
+                    "date": "2026",
+                    "type": "oficial",
+                    "notes": "R$ 140 bilhões previstos em investimento em malha ferroviária."
+                  }
+                ]
+              },
+              {
+                "date": "Jul/2026",
+                "fact": "A Transnordestina alcançou 82% de conclusão no trecho que liga o interior do Piauí ao porto do Ceará.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-28",
+                    "title": "Transnordestina Railway reaches 82% completion between Ceará and Piauí",
+                    "publisher": "DatamarNews",
+                    "url": "https://datamarnews.com/noticias/transnordestina-railway-reaches-82-completion-between-ceara-and-piaui",
+                    "date": "2026-07-03",
+                    "type": "imprensa"
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Jun/2026",
+                "fact": "O governo planejava entregar quatro editais ferroviários ao TCU até o fim de 2026, etapa anterior aos leilões.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-27",
+                    "title": "Governo planeja entregar 4 editais de leilão de ferrovias ao TCU até fim de 2026",
+                    "publisher": "ABIFER / Jornal do Commercio",
+                    "url": "https://abifer.org.br/en/governo-planeja-entregar-4-editais-de-leilao-de-ferrovias-ao-tcu-ate-fim-de-2026",
+                    "date": "2026-06-22",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2026",
+                "fact": "O plano registrado não indica custo por trecho nem prazo para as linhas de passageiros.",
+                "sources": [
+                  {
+                    "id": "src-wg-12",
+                    "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                    "publisher": "TSE — DivulgaCandContas (arquivos)",
+                    "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                    "publishedAt": "2026",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo",
+                    "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O Democrata tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Programa ferroviário depende de leilões, licenças e investimento privado",
+              "detail": "A malha se expande por concessões e autorizações (Lei 14.273/2021), com licenciamento ambiental e capital privado; os leilões passam pelo TCU e pela ANTT. O plano não define trechos, prazos ou custo por quilômetro, e a carteira federal em curso é anterior ao programa.",
+              "sources": [
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                },
+                {
+                  "id": "src-re-complemento2propostas-26",
+                  "title": "Apresentação da carteira de projetos ferroviários de 2026 — oito leilões e R$ 656 bilhões",
+                  "publisher": "Ministério dos Transportes",
+                  "url": "https://www.gov.br/transportes/pt-br/assuntos/concessoes/conteudo-ferrovias/apresentacao-carteira_de_projetos-2026-1.pdf",
+                  "date": "2026",
+                  "type": "oficial",
+                  "notes": "R$ 140 bilhões previstos em investimento em malha ferroviária."
+                },
+                {
+                  "id": "src-re-complemento2propostas-27",
+                  "title": "Governo planeja entregar 4 editais de leilão de ferrovias ao TCU até fim de 2026",
+                  "publisher": "ABIFER / Jornal do Commercio",
+                  "url": "https://abifer.org.br/en/governo-planeja-entregar-4-editais-de-leilao-de-ferrovias-ao-tcu-ate-fim-de-2026",
+                  "date": "2026-06-22",
+                  "type": "imprensa"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "Programa de infraestrutura convive com corte de ministérios e redução de despesas",
+              "detail": "O mesmo plano propõe reduzir o número de ministérios, cortar comissionados e extinguir tributos como a contribuição patronal, e apresenta programa ferroviário de longo prazo sem indicar fonte de recursos para a parcela pública.",
+              "sources": [
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                },
+                {
+                  "id": "src-wg-11",
+                  "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+                  "publisher": "TSE — Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Quais trechos e prazos compõem o programa e qual o custo previsto por quilômetro?",
+              "why": "O plano enuncia o programa por eixos e não lista trechos, metas anuais ou estimativa de investimento público por obra.",
+              "sources": [
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                },
+                {
+                  "id": "src-wg-11",
+                  "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+                  "publisher": "TSE — Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+                }
+              ]
+            },
+            {
+              "question": "Quais linhas de passageiros seriam operadas e com qual tarifa ou subsídio?",
+              "why": "Não localizamos no plano modelo de remuneração, tarifa ou subsídio para o serviço de passageiros de longa distância.",
+              "sources": [
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                },
+                {
+                  "id": "src-re-complemento2propostas-25",
+                  "title": "Governo apresenta mais 7 projetos ferroviários e inclui transporte de passageiros",
+                  "publisher": "Folha de S.Paulo (C-Level)",
+                  "url": "https://c-level.folha.uol.com.br/infraestrutura/2026/09/governo-apresenta-ao-mercado-mais-7-projetos-de-ferrovias-e-inclui-transporte-de-passageiros.shtml",
+                  "date": "2026-09-16",
+                  "type": "imprensa",
+                  "notes": "Carteira de trechos 'shortline' apresentada a empresas e bancos."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato apresenta as ferrovias dentro do Método D35, de desburocratização e desenvolvimento, e a integração territorial como eixo de interiorização. Não localizamos resposta pública sobre o modelo de financiamento das linhas de passageiros nem sobre a origem dos recursos públicos.",
+          "methodology": "Leitura do plano registrado no TSE e do índice oficial de 44 itens, da carteira de projetos ferroviários do Ministério dos Transportes de 2026 e de reportagens de junho e setembro de 2026. Candidato sem cargo público anterior. Ficaram de fora as modelagens econômicas dos leilões, não publicadas.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "id": "kp-wg-7",
@@ -908,7 +1346,249 @@
             "sourceType": "imprensa",
             "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Criar o programa 'Meu Botox, Minha Vida', com aplicação de toxina botulínica pelo SUS, financiado por remanejamento de recursos.",
+          "requirement": {
+            "path": "ato-executivo",
+            "note": "Incluir procedimento no SUS passa por avaliação da CONITEC e por portaria do Ministério da Saúde, com custeio no orçamento. A toxina botulínica já é ofertada para indicação terapêutica (PCDT da Espasticidade, Portaria Conjunta nº 5/2022) e a incorporação para migrânea crônica teve recomendação inicial contrária em julho de 2026."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Mar/2022",
+                "fact": "A Portaria Conjunta nº 5/2022 aprovou o protocolo terapêutico que inclui a toxina botulínica no SUS para espasticidade.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-29",
+                    "title": "Portaria Conjunta nº 5, de 22 de março de 2022 — Protocolo Clínico e Diretrizes Terapêuticas da Espasticidade (inclui toxina botulínica)",
+                    "publisher": "Ministério da Saúde",
+                    "url": "https://admin.saude.rs.gov.br/upload/arquivos/202303/15104057-20220323-portal-portaria-conjunta-no-5-pcdt-espasticidade.pdf",
+                    "date": "2022-03-22",
+                    "type": "oficial"
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2026",
+                "fact": "O candidato anunciou o programa e também a inclusão da tirzepatida (Mounjaro) no SUS, com remanejamento de recursos.",
+                "sources": [
+                  {
+                    "id": "src-wg-101",
+                    "title": "Candidato ao Planalto quer criar 'Meu Botox, Minha Vida'",
+                    "publisher": "Poder360",
+                    "url": "https://www.poder360.com.br/poder-eleicoes-2026/candidato-ao-planalto-quer-criar-meu-botox-minha-vida/",
+                    "publishedAt": "2026-08-29",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Reportagem sobre entrevista do candidato à Folha de S.Paulo (agosto de 2026) em que ele afirma que algumas propostas que pretende implementar não constam do programa de governo porque a legenda 'não deixaria' que concorresse se estivessem no documento; menciona substituição de 9 tributos federais por imposto único sobre movimentações bancárias e extinção da CLT. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
+                  },
+                  {
+                    "id": "src-re-complemento2propostas-31",
+                    "title": "Projeto libera produção do Mounjaro para ampliar oferta no SUS",
+                    "publisher": "Senado Federal — Agência Senado",
+                    "url": "https://www12.senado.leg.br/noticias/audios/2026/02/projeto-libera-producao-do-mounjaro-para-ampliar-oferta-no-sus",
+                    "date": "2026-02",
+                    "type": "legislativo",
+                    "notes": "Proposta sobre a tirzepatida em análise no Senado."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Jul/2026",
+                "fact": "A CONITEC recomendou inicialmente a não incorporação da toxina botulínica A para migrânea crônica no SUS.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-30",
+                    "title": "Relatório para a sociedade nº 742 — toxina botulínica A para o tratamento profilático de migrânea crônica: recomendação inicial de não incorporação",
+                    "publisher": "CONITEC — Ministério da Saúde",
+                    "url": "https://www.gov.br/conitec/pt-br/midias/consultas/relatorios/2026/sociedade/relatorio-para-sociedade-final-no-742-toxina-botulinica-a/@@display-file/file",
+                    "date": "2026-07-02",
+                    "type": "oficial"
+                  }
+                ]
+              },
+              {
+                "date": "Fev/2026",
+                "fact": "Projeto em análise no Senado propõe liberar a produção da tirzepatida para ampliar a oferta no SUS.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-31",
+                    "title": "Projeto libera produção do Mounjaro para ampliar oferta no SUS",
+                    "publisher": "Senado Federal — Agência Senado",
+                    "url": "https://www12.senado.leg.br/noticias/audios/2026/02/projeto-libera-producao-do-mounjaro-para-ampliar-oferta-no-sus",
+                    "date": "2026-02",
+                    "type": "legislativo",
+                    "notes": "Proposta sobre a tirzepatida em análise no Senado."
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2026",
+                "fact": "A cobertura de campanha registra a intenção de financiar o programa com remanejamento de recursos, citando o FEFC.",
+                "sources": [
+                  {
+                    "id": "src-wg-04",
+                    "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+                    "publisher": "Wikipédia",
+                    "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+                    "publishedAt": "2026-09-29",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+                  },
+                  {
+                    "id": "src-re-complemento2propostas-32",
+                    "title": "Fundo Especial de Financiamento de Campanha (FEFC) — critérios de distribuição e uso",
+                    "publisher": "Tribunal Superior Eleitoral",
+                    "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/prestacao-de-contas/fundo-especial-de-financiamento-de-campanha-fefc",
+                    "date": "2026",
+                    "type": "oficial",
+                    "notes": "Fundo previsto na Lei 9.504/1997, art. 16-C, destinado a despesas de campanha."
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O Democrata tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Inclusão no SUS passa por avaliação da CONITEC e por custeio no orçamento",
+              "detail": "A oferta de procedimento depende de avaliação de tecnologia e de portaria; a toxina botulínica está no SUS para espasticidade (PCDT de 2022) e a incorporação para migrânea crônica teve recomendação inicial contrária em julho de 2026. O plano não estima custo nem público-alvo.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-29",
+                  "title": "Portaria Conjunta nº 5, de 22 de março de 2022 — Protocolo Clínico e Diretrizes Terapêuticas da Espasticidade (inclui toxina botulínica)",
+                  "publisher": "Ministério da Saúde",
+                  "url": "https://admin.saude.rs.gov.br/upload/arquivos/202303/15104057-20220323-portal-portaria-conjunta-no-5-pcdt-espasticidade.pdf",
+                  "date": "2022-03-22",
+                  "type": "oficial"
+                },
+                {
+                  "id": "src-re-complemento2propostas-30",
+                  "title": "Relatório para a sociedade nº 742 — toxina botulínica A para o tratamento profilático de migrânea crônica: recomendação inicial de não incorporação",
+                  "publisher": "CONITEC — Ministério da Saúde",
+                  "url": "https://www.gov.br/conitec/pt-br/midias/consultas/relatorios/2026/sociedade/relatorio-para-sociedade-final-no-742-toxina-botulinica-a/@@display-file/file",
+                  "date": "2026-07-02",
+                  "type": "oficial"
+                },
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Recursos do FEFC têm destinação eleitoral e não custeiam programa de saúde",
+              "detail": "O FEFC é destinado a despesas de campanha eleitoral, com prestação de contas própria (Lei 9.504/1997, art. 16-C). O plano vincula o programa a remanejamento de recursos citando o fundo, sem indicar dotação do Ministério da Saúde nem cronograma de incorporação.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-32",
+                  "title": "Fundo Especial de Financiamento de Campanha (FEFC) — critérios de distribuição e uso",
+                  "publisher": "Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/prestacao-de-contas/fundo-especial-de-financiamento-de-campanha-fefc",
+                  "date": "2026",
+                  "type": "oficial",
+                  "notes": "Fundo previsto na Lei 9.504/1997, art. 16-C, destinado a despesas de campanha."
+                },
+                {
+                  "id": "src-wg-04",
+                  "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+                  "publisher": "Wikipédia",
+                  "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+                },
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o público-alvo e o custo previsto do programa, e por qual dotação ele seria pago?",
+              "why": "O anúncio indica aplicação pelo SUS com remanejamento de recursos, sem estimativa de custo, público anual ou fonte na lei orçamentária.",
+              "sources": [
+                {
+                  "id": "src-wg-12",
+                  "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+                },
+                {
+                  "id": "src-wg-101",
+                  "title": "Candidato ao Planalto quer criar 'Meu Botox, Minha Vida'",
+                  "publisher": "Poder360",
+                  "url": "https://www.poder360.com.br/poder-eleicoes-2026/candidato-ao-planalto-quer-criar-meu-botox-minha-vida/",
+                  "publishedAt": "2026-08-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Reportagem sobre entrevista do candidato à Folha de S.Paulo (agosto de 2026) em que ele afirma que algumas propostas que pretende implementar não constam do programa de governo porque a legenda 'não deixaria' que concorresse se estivessem no documento; menciona substituição de 9 tributos federais por imposto único sobre movimentações bancárias e extinção da CLT. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
+                }
+              ]
+            },
+            {
+              "question": "O programa abrangeria aplicações estéticas, indicações terapêuticas já protocoladas ou ambas?",
+              "why": "O SUS oferta toxina botulínica para espasticidade; o anúncio trata de autoestima e aplicação estética, sem definir a lista de indicações.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-29",
+                  "title": "Portaria Conjunta nº 5, de 22 de março de 2022 — Protocolo Clínico e Diretrizes Terapêuticas da Espasticidade (inclui toxina botulínica)",
+                  "publisher": "Ministério da Saúde",
+                  "url": "https://admin.saude.rs.gov.br/upload/arquivos/202303/15104057-20220323-portal-portaria-conjunta-no-5-pcdt-espasticidade.pdf",
+                  "date": "2022-03-22",
+                  "type": "oficial"
+                },
+                {
+                  "id": "src-re-complemento2propostas-30",
+                  "title": "Relatório para a sociedade nº 742 — toxina botulínica A para o tratamento profilático de migrânea crônica: recomendação inicial de não incorporação",
+                  "publisher": "CONITEC — Ministério da Saúde",
+                  "url": "https://www.gov.br/conitec/pt-br/midias/consultas/relatorios/2026/sociedade/relatorio-para-sociedade-final-no-742-toxina-botulinica-a/@@display-file/file",
+                  "date": "2026-07-02",
+                  "type": "oficial"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato apresenta o programa como ação de autoestima feminina e o coloca ao lado da inclusão da tirzepatida no SUS, financiado por remanejamento de recursos. Não localizamos resposta pública sobre custo, público-alvo ou dotação orçamentária.",
+          "methodology": "Leitura do plano registrado no TSE e do índice oficial de 44 itens, do protocolo terapêutico do SUS para espasticidade, do relatório da CONITEC de julho de 2026 e da cobertura de campanha. Candidato sem cargo público. Ficaram de fora projeções de custo e a modelagem orçamentária, não divulgadas.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       }
     ],
     "updatedAt": "2026-09-29"
@@ -2832,6 +3512,100 @@
       "accessedAt": "2026-09-29",
       "sourceType": "enciclopedia",
       "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+    },
+    {
+      "id": "src-re-complemento2propostas-30",
+      "title": "Relatório para a sociedade nº 742 — toxina botulínica A para o tratamento profilático de migrânea crônica: recomendação inicial de não incorporação",
+      "publisher": "CONITEC — Ministério da Saúde",
+      "url": "https://www.gov.br/conitec/pt-br/midias/consultas/relatorios/2026/sociedade/relatorio-para-sociedade-final-no-742-toxina-botulinica-a/@@display-file/file",
+      "date": "2026-07-02",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-24",
+      "title": "Salário mínimo passa a valer R$ 1.621 a partir de 1º de janeiro",
+      "publisher": "Radioagência Nacional / EBC",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2025-12/salario-minimo-passa-valer-r-1621-partir-de-1o-de-janeiro",
+      "date": "2025-12-24",
+      "type": "imprensa",
+      "notes": "Reajuste de 6,8% para 2026."
+    },
+    {
+      "id": "src-re-complemento2propostas-25",
+      "title": "Governo apresenta mais 7 projetos ferroviários e inclui transporte de passageiros",
+      "publisher": "Folha de S.Paulo (C-Level)",
+      "url": "https://c-level.folha.uol.com.br/infraestrutura/2026/09/governo-apresenta-ao-mercado-mais-7-projetos-de-ferrovias-e-inclui-transporte-de-passageiros.shtml",
+      "date": "2026-09-16",
+      "type": "imprensa",
+      "notes": "Carteira de trechos 'shortline' apresentada a empresas e bancos."
+    },
+    {
+      "id": "src-re-complemento2propostas-29",
+      "title": "Portaria Conjunta nº 5, de 22 de março de 2022 — Protocolo Clínico e Diretrizes Terapêuticas da Espasticidade (inclui toxina botulínica)",
+      "publisher": "Ministério da Saúde",
+      "url": "https://admin.saude.rs.gov.br/upload/arquivos/202303/15104057-20220323-portal-portaria-conjunta-no-5-pcdt-espasticidade.pdf",
+      "date": "2022-03-22",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-23",
+      "title": "Senado aprova IR isento até R$ 5 mil/mês e imposto mínimo a partir de R$ 600 mil/ano (PL 1.087/2025, sancionado como Lei 15.270/2025)",
+      "publisher": "JOTA / Reforma Tributária",
+      "url": "https://reformatributaria.com/senado-aprova-ir-isento-ate-r-5-mil-mes-e-imposto-minimo-a-partir-de-r-600-mil-ano-texto-vai-a-sancao",
+      "date": "2025-11-05",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-28",
+      "title": "Transnordestina Railway reaches 82% completion between Ceará and Piauí",
+      "publisher": "DatamarNews",
+      "url": "https://datamarnews.com/noticias/transnordestina-railway-reaches-82-completion-between-ceara-and-piaui",
+      "date": "2026-07-03",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-22",
+      "title": "STF mantém reoneração gradual da folha de pagamento até 2027",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/stf-mantem-reoneracao-gradual-da-folha-de-pagamento-ate-2027",
+      "date": "2026-04-30",
+      "type": "imprensa",
+      "notes": "Benefício a 17 setores intensivos em mão de obra revertido ano a ano."
+    },
+    {
+      "id": "src-re-complemento2propostas-31",
+      "title": "Projeto libera produção do Mounjaro para ampliar oferta no SUS",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/02/projeto-libera-producao-do-mounjaro-para-ampliar-oferta-no-sus",
+      "date": "2026-02",
+      "type": "legislativo",
+      "notes": "Proposta sobre a tirzepatida em análise no Senado."
+    },
+    {
+      "id": "src-re-complemento2propostas-26",
+      "title": "Apresentação da carteira de projetos ferroviários de 2026 — oito leilões e R$ 656 bilhões",
+      "publisher": "Ministério dos Transportes",
+      "url": "https://www.gov.br/transportes/pt-br/assuntos/concessoes/conteudo-ferrovias/apresentacao-carteira_de_projetos-2026-1.pdf",
+      "date": "2026",
+      "type": "oficial",
+      "notes": "R$ 140 bilhões previstos em investimento em malha ferroviária."
+    },
+    {
+      "id": "src-re-complemento2propostas-32",
+      "title": "Fundo Especial de Financiamento de Campanha (FEFC) — critérios de distribuição e uso",
+      "publisher": "Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/prestacao-de-contas/fundo-especial-de-financiamento-de-campanha-fefc",
+      "date": "2026",
+      "type": "oficial",
+      "notes": "Fundo previsto na Lei 9.504/1997, art. 16-C, destinado a despesas de campanha."
+    },
+    {
+      "id": "src-re-complemento2propostas-27",
+      "title": "Governo planeja entregar 4 editais de leilão de ferrovias ao TCU até fim de 2026",
+      "publisher": "ABIFER / Jornal do Commercio",
+      "url": "https://abifer.org.br/en/governo-planeja-entregar-4-editais-de-leilao-de-ferrovias-ao-tcu-ate-fim-de-2026",
+      "date": "2026-06-22",
+      "type": "imprensa"
     }
   ],
   "updatedAt": "2026-09-29",

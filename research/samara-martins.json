@@ -1080,7 +1080,259 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Elegar magistrados por voto popular, legalizar o aborto e criar tributo sobre grandes fortunas.",
+          "requirement": {
+            "path": "pec",
+            "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+            "note": "Eleição de magistrados e fim da vitaliciedade exigem emenda (arts. 93 e 95); o aborto depende de lei ordinária ou de decisão na ADPF 442; o imposto sobre grandes fortunas exige lei complementar — o PLP 5/2026 tramita na Câmara e o STF reconheceu a omissão na ADO 55, sem prazo."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Out/2025",
+                "fact": "O STF reconheceu a omissão do Congresso por não regulamentar o imposto sobre grandes fortunas (ADO 55), sem fixar prazo.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-42",
+                    "title": "STF reconhece omissão do Congresso na criação do Imposto sobre Grandes Fortunas (ADO 55)",
+                    "publisher": "Supremo Tribunal Federal — notícias",
+                    "url": "https://noticias.stf.jus.br/postsnoticias/stf-reconhece-omissao-do-congresso-na-criacao-do-imposto-sobre-grandes-fortunas",
+                    "date": "2025-10",
+                    "type": "judiciário",
+                    "notes": "Decisão não fixou prazo para a edição da lei complementar."
+                  }
+                ]
+              },
+              {
+                "date": "Fev/2026",
+                "fact": "O PLP 5/2026 propôs instituir o imposto sobre grandes fortunas previsto no art. 153, VII, da Constituição.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-43",
+                    "title": "PLP nº 05/2026: instituição do Imposto Sobre Grandes Fortunas (art. 153, VII, da Constituição)",
+                    "publisher": "VPBG — Insights",
+                    "url": "https://vpbg.com.br/pt/insights/articles/2026/february/26/plp-n-05-2026-instituicao-do-imposto-sobre-grandes-fortunas",
+                    "date": "2026-02-26",
+                    "type": "análise"
+                  }
+                ]
+              },
+              {
+                "date": "Out/2025",
+                "fact": "O ministro Barroso votou pela descriminalização do aborto até 12 semanas na ADPF 442; houve pedido de destaque e o caso vai ao plenário físico.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-44",
+                    "title": "Ministro Barroso vota pela descriminalização do aborto até 12 semanas de gestação (ADPF 442)",
+                    "publisher": "Supremo Tribunal Federal — notícias",
+                    "url": "https://noticias.stf.jus.br/postsnoticias/ministro-barroso-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao",
+                    "date": "2025-10-17",
+                    "type": "judiciário",
+                    "notes": "Sessão virtual extraordinária; houve pedido de destaque e o julgamento vai ao plenário físico."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Jun/2024",
+                "fact": "A Câmara pautou o PL 1904/2024, que prevê pena de homicídio para aborto após 22 semanas, inclusive em gravidez por estupro.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-45",
+                    "title": "Projeto de lei prevê pena de homicídio simples para aborto após 22 semanas de gestação (PL 1904/2024)",
+                    "publisher": "Agência Câmara de Notícias",
+                    "url": "https://www.camara.leg.br/noticias/1071458-projeto-de-lei-preve-pena-de-homicidio-simples-para-aborto-apos-22-semanas-de-gestacao/",
+                    "date": "2024-06-11",
+                    "type": "legislativo"
+                  }
+                ]
+              },
+              {
+                "date": "Dez/2017",
+                "fact": "Na eleição judicial da Bolívia, votos brancos e nulos superaram 65%; em 2011, a taxa havia sido de 40%.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-46",
+                    "title": "Votos brancos e nulos superam 65% em votação sobre judiciário da Bolívia",
+                    "publisher": "RFI Brasil",
+                    "url": "https://www.rfi.fr/br/americas/20171204-linha-direta",
+                    "date": "2017-12-04",
+                    "type": "imprensa"
+                  },
+                  {
+                    "id": "src-re-complemento2propostas-47",
+                    "title": "Eleição de magistrados na Bolívia registra 40% de votos brancos e nulos",
+                    "publisher": "AMAERJ",
+                    "url": "https://amaerj.org.br/noticias/eleicao-de-magistrados-na-bolivia-registra-40-de-votos-brancos-e-nulos/",
+                    "date": "2011-10-17",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "A UP tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026).",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-55",
+                    "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                    "publisher": "Câmara dos Deputados",
+                    "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=UP&idLegislatura=57&itens=100",
+                    "date": "2026-09-29",
+                    "type": "oficial"
+                  },
+                  {
+                    "id": "src-re-complemento2propostas-56",
+                    "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                    "publisher": "Senado Federal",
+                    "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+                    "date": "2026-09-29",
+                    "type": "oficial"
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "UP: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Partido isolado — chapa pura da UP (nº 80), sem coligação ou federação; vice Raquel Brício (UP)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); sem Fundo Partidário em 2026 por não atingir a cláusula de desempenho."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Eleger magistrados exige emenda constitucional e maioria de 3/5 nas duas Casas",
+              "detail": "A eleição de juízes e o fim da vitaliciedade (arts. 93 e 95) exigem PEC: 308 deputados e 49 senadores, em dois turnos. A UP tem 0 cadeiras nas duas Casas, e o plano não define quais tribunais, mandatos ou critérios de candidatura seriam adotados.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-re-complemento2propostas-55",
+                  "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                  "publisher": "Câmara dos Deputados",
+                  "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=UP&idLegislatura=57&itens=100",
+                  "date": "2026-09-29",
+                  "type": "oficial"
+                },
+                {
+                  "id": "src-re-complemento2propostas-56",
+                  "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                  "publisher": "Senado Federal",
+                  "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+                  "date": "2026-09-29",
+                  "type": "oficial"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Eleição de juízes por voto popular não tem precedente no Brasil; na Bolívia, nulos passaram de 65%",
+              "detail": "Não localizamos eleição de magistrados por voto popular no Brasil: o ingresso se dá por concurso público (art. 93, I). Na Bolívia, que adota o modelo desde 2011, votos brancos e nulos ficaram em 40% em 2011 e acima de 65% em 2017.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-47",
+                  "title": "Eleição de magistrados na Bolívia registra 40% de votos brancos e nulos",
+                  "publisher": "AMAERJ",
+                  "url": "https://amaerj.org.br/noticias/eleicao-de-magistrados-na-bolivia-registra-40-de-votos-brancos-e-nulos/",
+                  "date": "2011-10-17",
+                  "type": "imprensa"
+                },
+                {
+                  "id": "src-re-complemento2propostas-46",
+                  "title": "Votos brancos e nulos superam 65% em votação sobre judiciário da Bolívia",
+                  "publisher": "RFI Brasil",
+                  "url": "https://www.rfi.fr/br/americas/20171204-linha-direta",
+                  "date": "2017-12-04",
+                  "type": "imprensa"
+                },
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "A eleição de magistrados alcançaria quais tribunais e como seriam escolhidos os candidatos?",
+              "why": "O plano define a eleição por voto popular sem indicar graus de jurisdição, duração dos mandatos, requisitos de candidatura ou regra de transição.",
+              "sources": [
+                {
+                  "id": "src-sm-41",
+                  "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+                  "publisher": "Poder360 (espelho do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+                },
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                }
+              ]
+            },
+            {
+              "question": "A legalização do aborto viria por lei ou o partido apoiaria a decisão do STF na ADPF 442?",
+              "why": "A ADPF 442 tem voto favorável e pedido de destaque; o documento não define a via preferida nem o modelo de atendimento no SUS.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-44",
+                  "title": "Ministro Barroso vota pela descriminalização do aborto até 12 semanas de gestação (ADPF 442)",
+                  "publisher": "Supremo Tribunal Federal — notícias",
+                  "url": "https://noticias.stf.jus.br/postsnoticias/ministro-barroso-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao",
+                  "date": "2025-10-17",
+                  "type": "judiciário",
+                  "notes": "Sessão virtual extraordinária; houve pedido de destaque e o julgamento vai ao plenário físico."
+                },
+                {
+                  "id": "src-sm-41",
+                  "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+                  "publisher": "Poder360 (espelho do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "A UP apresenta as três bandeiras como parte do programa socialista registrado no TSE, e a candidata defendeu na campanha a tributação de grandes fortunas e a manutenção de bandeiras históricas da esquerda. Não localizamos resposta pública sobre o desenho da eleição de juízes ou sobre a via para o aborto.",
+          "methodology": "Leitura do programa registrado no TSE (espelho em PDF), do índice oficial, do texto constitucional (arts. 93, 95 e 153), da ADO 55 e da ADPF 442 no STF, do PLP 5/2026 e do PL 1904/2024, além do histórico das eleições judiciais bolivianas. A leitura direta do arquivo no TSE ficou de fora por bloqueio.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       }
     ],
     "updatedAt": "2026-09-29"
@@ -2851,6 +3103,72 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial",
       "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+    },
+    {
+      "id": "src-re-complemento2propostas-43",
+      "title": "PLP nº 05/2026: instituição do Imposto Sobre Grandes Fortunas (art. 153, VII, da Constituição)",
+      "publisher": "VPBG — Insights",
+      "url": "https://vpbg.com.br/pt/insights/articles/2026/february/26/plp-n-05-2026-instituicao-do-imposto-sobre-grandes-fortunas",
+      "date": "2026-02-26",
+      "type": "análise"
+    },
+    {
+      "id": "src-re-complemento2propostas-47",
+      "title": "Eleição de magistrados na Bolívia registra 40% de votos brancos e nulos",
+      "publisher": "AMAERJ",
+      "url": "https://amaerj.org.br/noticias/eleicao-de-magistrados-na-bolivia-registra-40-de-votos-brancos-e-nulos/",
+      "date": "2011-10-17",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-45",
+      "title": "Projeto de lei prevê pena de homicídio simples para aborto após 22 semanas de gestação (PL 1904/2024)",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://www.camara.leg.br/noticias/1071458-projeto-de-lei-preve-pena-de-homicidio-simples-para-aborto-apos-22-semanas-de-gestacao/",
+      "date": "2024-06-11",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-46",
+      "title": "Votos brancos e nulos superam 65% em votação sobre judiciário da Bolívia",
+      "publisher": "RFI Brasil",
+      "url": "https://www.rfi.fr/br/americas/20171204-linha-direta",
+      "date": "2017-12-04",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-55",
+      "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=UP&idLegislatura=57&itens=100",
+      "date": "2026-09-29",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-56",
+      "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+      "publisher": "Senado Federal",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+      "date": "2026-09-29",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-44",
+      "title": "Ministro Barroso vota pela descriminalização do aborto até 12 semanas de gestação (ADPF 442)",
+      "publisher": "Supremo Tribunal Federal — notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ministro-barroso-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao",
+      "date": "2025-10-17",
+      "type": "judiciário",
+      "notes": "Sessão virtual extraordinária; houve pedido de destaque e o julgamento vai ao plenário físico."
+    },
+    {
+      "id": "src-re-complemento2propostas-42",
+      "title": "STF reconhece omissão do Congresso na criação do Imposto sobre Grandes Fortunas (ADO 55)",
+      "publisher": "Supremo Tribunal Federal — notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reconhece-omissao-do-congresso-na-criacao-do-imposto-sobre-grandes-fortunas",
+      "date": "2025-10",
+      "type": "judiciário",
+      "notes": "Decisão não fixou prazo para a edição da lei complementar."
     }
   ],
   "updatedAt": "2026-09-29",

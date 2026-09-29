@@ -107,7 +107,7 @@
                   ]
                 },
                 {
-                  "date": "2025",
+                  "date": "2026-03",
                   "fact": "66% das crianças alfabetizadas na idade adequada, com 20 unidades da Federação atingindo a meta do INEP.",
                   "sources": [
                     {
@@ -277,10 +277,19 @@
                 },
                 {
                   "date": "2026-09-22",
-                  "fact": "Na abertura da Assembleia Geral da ONU, condenou interferência externa em assuntos internos.",
+                  "fact": "Na Assembleia da ONU, cobrou regulação global de big techs e de inteligência artificial.",
                   "sources": [
                     {
-                      "id": "src-lula-132"
+                      "id": "src-re-r1temas-04"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09-22",
+                  "fact": "A cobertura apontou que o tarifaço levou o governo a adotar discurso sobre soberania.",
+                  "sources": [
+                    {
+                      "id": "src-re-13"
                     }
                   ]
                 },
@@ -328,6 +337,12 @@
                   "id": "src-re-16"
                 },
                 {
+                  "id": "src-re-r1temas-04"
+                },
+                {
+                  "id": "src-re-13"
+                },
+                {
                   "id": "src-re-05"
                 },
                 {
@@ -372,17 +387,17 @@
               },
               {
                 "kind": "acao-em-sentido-diferente",
-                "title": "Discurso de soberania e negociação bilateral com os EUA no mesmo período",
-                "detail": "Em 07/05/2026 o governo discutiu tarifas, crime organizado e minerais críticos em Washington e propôs grupo de trabalho bilateral; em 25/09/2026, em campanha, o candidato afirmou que Trump quer 'colonizar' o Brasil e capturar recursos naturais.",
+                "title": "Discurso de soberania e negociação com os EUA no mesmo período",
+                "detail": "A sobretaxa de 25% dos EUA está vigente desde 22/07/2026 e a negociação de retirada segue sem acordo até 29/09/2026; em 22/09/2026 a cobertura registrou que o tarifaço levou o governo a adotar discurso sobre soberania.",
                 "sources": [
                   {
                     "id": "src-re-05"
                   },
                   {
-                    "id": "src-mundo-01"
+                    "id": "src-re-13"
                   },
                   {
-                    "id": "src-lula-132"
+                    "id": "src-mundo-01"
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -403,7 +418,7 @@
                 "why": "A proteção consular e a participação da diáspora constam do plano sem metas ou recursos."
               }
             ],
-            "publicExplanation": "Em 07/09/2026, no pronunciamento da Independência, o candidato afirmou que o país 'não é colônia e não será colônia de ninguém'; a integração sul-americana e a proteção da diáspora aparecem no plano sem detalhamento de custo.",
+            "publicExplanation": "Em 07/09/2026, no pronunciamento pelo 7 de setembro, o candidato defendeu a soberania nacional; em 25/09/2026, a empresários, citou responsabilidade fiscal, estabilidade e soberania. A integração sul-americana e a proteção consular constam do plano sem detalhamento de custo.",
             "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pela tramitação do acordo Mercosul-UE (PDL 41/2026), pelas negociações tarifárias de 2026 com EUA e China e por reportagens sobre política externa. Ficaram de fora a íntegra dos acordos e a execução orçamentária do BNDES.",
             "evidenceStatus": "parcial",
             "confidenceLevel": "medium"
@@ -1170,7 +1185,13 @@
                   "sources": [
                     {
                       "id": "src-zema-82"
-                    },
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-07",
+                  "fact": "O plano apresentado prevê saída do BRICS, privatizações e R$ 1 mil a nascidos.",
+                  "sources": [
                     {
                       "id": "src-zema-15"
                     }
@@ -1479,9 +1500,8 @@
           "reality": {
             "proposal": "Defender a anistia a Bolsonaro e aos condenados de 8 de janeiro, o protagonismo em minerais críticos e uma reforma política.",
             "requirement": {
-              "path": "pec",
-              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
-              "note": "A anistia depende de lei do Congresso; a exploração de minerais críticos é competência da União (CF, art. 176) e envolve marco regulatório; mudanças no sistema político e nos critérios de indicação ao STF exigem emenda constitucional. Os posicionamentos foram registrados em discurso e entrevistas, não no PDF do plano."
+              "path": "indefinido",
+              "note": "Os posicionamentos têm instrumentos distintos: a anistia depende de lei do Congresso ou de ato do Executivo; a exploração de minerais críticos é competência da União (CF, art. 176) e depende de marco regulatório; mudanças no sistema político e nos critérios de indicação ao STF exigem emenda (308 deputados e 49 senadores, em dois turnos por Casa). Foram registrados em discurso e entrevistas, não no PDF do plano."
             },
             "history": {
               "aligned": [
@@ -1491,6 +1511,15 @@
                   "sources": [
                     {
                       "id": "src-cg-02"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-07",
+                  "fact": "Em entrevista ao g1 e à GloboNews, defendeu anistiar condenados do 8 de janeiro e rever a reforma tributária.",
+                  "sources": [
+                    {
+                      "id": "src-caiado-130"
                     }
                   ]
                 },
@@ -1717,10 +1746,7 @@
                 }
               ],
               "divergent": [
-                {
-                  "date": null,
-                  "fact": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
-                }
+                "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
               ],
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
               "sources": [
@@ -1825,10 +1851,7 @@
                 }
               ],
               "divergent": [
-                {
-                  "date": null,
-                  "fact": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
-                }
+                "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
               ],
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
               "sources": [
@@ -1927,10 +1950,7 @@
                 }
               ],
               "divergent": [
-                {
-                  "date": null,
-                  "fact": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
-                }
+                "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
               ],
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
               "sources": [
@@ -2035,10 +2055,7 @@
                 }
               ],
               "divergent": [
-                {
-                  "date": null,
-                  "fact": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
-                }
+                "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
               ],
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
               "sources": [

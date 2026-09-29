@@ -767,7 +767,248 @@
             "sourceType": "plano_de_governo",
             "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Criar plano emergencial com piso de R$ 8 mil para médicos, R$ 6,5 mil para enfermeiros e 600 mil concursos na saúde (eixo Saúde).",
+          "requirement": {
+            "path": "lei-ordinaria",
+            "note": "Piso salarial na saúde foi fixado por lei federal no caso da enfermagem (Lei 14.434/2022), e o custeio exigiu fonte de recursos — a EC 127/2022 previu assistência financeira da União aos entes. A abertura de vagas depende de autorização e de lei orçamentária; o plano não estima o custo."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Ago/2022",
+                "fact": "A Lei 14.434/2022 fixou o piso salarial nacional da enfermagem, precedente de piso por lei federal na área da saúde.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-09",
+                    "title": "Por 7 votos a 4, STF confirma suspensão do piso da enfermagem",
+                    "publisher": "Agência Brasil",
+                    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2022-09/por-7-votos-4-stf-confirma-suspensao-do-piso-da-enfermagem",
+                    "date": "2022-09-15",
+                    "type": "imprensa",
+                    "notes": "Lei 14.434/2022 e suspensão cautelar até a definição da fonte de custeio."
+                  }
+                ]
+              },
+              {
+                "date": "Dez/2022",
+                "fact": "O Congresso aprovou a EC 127/2022, que atribuiu à União assistência financeira para o custeio do piso da enfermagem.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-10",
+                    "title": "Domingueira nº 24 — julho de 2023: o custeio do piso da enfermagem e a Emenda Constitucional 127/2022",
+                    "publisher": "IDISA — Instituto de Direito Sanitário Aplicado",
+                    "url": "http://idisa.org.br/domingueira/domingueira-n-24-julho-2023?lang=pt",
+                    "date": "2023-07",
+                    "type": "análise",
+                    "notes": "A EC 127/2022 estabeleceu o dever da União de prestar assistência financeira aos entes para o piso."
+                  }
+                ]
+              },
+              {
+                "date": "Mar/2025",
+                "fact": "O Ministério da Saúde anunciou 2,2 mil novas vagas no programa Mais Médicos, com cadastro reserva.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-11",
+                    "title": "Mais Médicos: Saúde anuncia 2,2 mil novas vagas e cadastro reserva",
+                    "publisher": "Agência Brasil",
+                    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2025-03/mais-medicos-saude-anuncia-22-mil-novas-vagas-e-cadastro-reserva",
+                    "date": "2025-03-17",
+                    "type": "imprensa"
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Set/2022",
+                "fact": "O STF confirmou, por 7 votos a 4, a suspensão do piso da enfermagem até a definição da fonte de custeio.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-09",
+                    "title": "Por 7 votos a 4, STF confirma suspensão do piso da enfermagem",
+                    "publisher": "Agência Brasil",
+                    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2022-09/por-7-votos-4-stf-confirma-suspensao-do-piso-da-enfermagem",
+                    "date": "2022-09-15",
+                    "type": "imprensa",
+                    "notes": "Lei 14.434/2022 e suspensão cautelar até a definição da fonte de custeio."
+                  }
+                ]
+              },
+              {
+                "date": "Abr/2026",
+                "fact": "No Rio Grande do Sul, pacientes do SUS aguardavam até seis anos por exames simples, segundo reportagem.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-12",
+                    "title": "Pacientes do SUS aguardam há pelo menos 6 anos por exames simples no RS",
+                    "publisher": "G1",
+                    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/24/pacientes-do-sus-aguardam-ha-pelo-menos-6-anos-por-exames-simples-no-rs.ghtml",
+                    "date": "2026-04-24",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "2025",
+                "fact": "O Ministério da Saúde anunciou recorde de 14,9 milhões de cirurgias eletivas, com críticas parlamentares à transparência das filas.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-13",
+                    "title": "Ministro anuncia recorde de cirurgias no SUS; deputado diz que falta transparência nas filas",
+                    "publisher": "Agência Câmara de Notícias",
+                    "url": "https://www.camara.leg.br/noticias/1276870-ministro-anuncia-recorde-de-cirurgias-no-sus-deputado-diz-que-falta-transparencia-nas-filas/",
+                    "date": "2026",
+                    "type": "legislativo",
+                    "notes": "14,9 milhões de cirurgias eletivas em 2025, segundo o Ministério da Saúde."
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026); o partido informou candidaturas em 18 estados e no DF em 08/08/2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Pisos salariais na saúde dependem de lei e de fonte de custeio definida",
+              "detail": "O piso da enfermagem (Lei 14.434/2022) ficou suspenso pelo STF até a EC 127/2022 indicar o custeio pela União. O plano propõe pisos maiores, como R$ 8 mil para médicos, sem indicar fonte de recursos nem estimativa de impacto anual.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-09",
+                  "title": "Por 7 votos a 4, STF confirma suspensão do piso da enfermagem",
+                  "publisher": "Agência Brasil",
+                  "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2022-09/por-7-votos-4-stf-confirma-suspensao-do-piso-da-enfermagem",
+                  "date": "2022-09-15",
+                  "type": "imprensa",
+                  "notes": "Lei 14.434/2022 e suspensão cautelar até a definição da fonte de custeio."
+                },
+                {
+                  "id": "src-re-complemento2propostas-10",
+                  "title": "Domingueira nº 24 — julho de 2023: o custeio do piso da enfermagem e a Emenda Constitucional 127/2022",
+                  "publisher": "IDISA — Instituto de Direito Sanitário Aplicado",
+                  "url": "http://idisa.org.br/domingueira/domingueira-n-24-julho-2023?lang=pt",
+                  "date": "2023-07",
+                  "type": "análise",
+                  "notes": "A EC 127/2022 estabeleceu o dever da União de prestar assistência financeira aos entes para o piso."
+                },
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Abertura de 600 mil vagas depende de lei orçamentária e do limite de gastos em vigor",
+              "detail": "Concursos federais exigem autorização e previsão na lei orçamentária, dentro do limite do arcabouço fiscal (LC 200/2023), que resultou em contenção de R$ 16,1 bilhões no Orçamento de 2026. O plano não indica prazo, cargos ou custo por exercício.",
+              "sources": [
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                },
+                {
+                  "id": "src-re-complemento2propostas-02",
+                  "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+                  "publisher": "Agência Câmara de Notícias",
+                  "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+                  "date": "2023-08-31",
+                  "type": "legislativo",
+                  "notes": "Sanção da LC 200/2023."
+                },
+                {
+                  "id": "src-re-complemento2propostas-05",
+                  "title": "Governo reduz congelamento no Orçamento para R$ 16,1 bilhões em 2026",
+                  "publisher": "CNN Brasil",
+                  "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+                  "date": "2026-09-24",
+                  "type": "imprensa",
+                  "notes": "Relatório bimestral de setembro de 2026: bloqueio e contingenciamento."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo anual dos pisos propostos e de onde viria o recurso?",
+              "why": "O programa fixa valores de piso sem estimativa de impacto orçamentário, e o precedente da enfermagem exigiu emenda constitucional de custeio.",
+              "sources": [
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                },
+                {
+                  "id": "src-re-complemento2propostas-10",
+                  "title": "Domingueira nº 24 — julho de 2023: o custeio do piso da enfermagem e a Emenda Constitucional 127/2022",
+                  "publisher": "IDISA — Instituto de Direito Sanitário Aplicado",
+                  "url": "http://idisa.org.br/domingueira/domingueira-n-24-julho-2023?lang=pt",
+                  "date": "2023-07",
+                  "type": "análise",
+                  "notes": "A EC 127/2022 estabeleceu o dever da União de prestar assistência financeira aos entes para o piso."
+                }
+              ]
+            },
+            {
+              "question": "Em quantos anos seriam abertos os 600 mil concursos e em quais carreiras?",
+              "why": "O documento indica o total de vagas sem cronograma, cargos definidos ou previsão orçamentária por exercício.",
+              "sources": [
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                },
+                {
+                  "id": "src-rp-07",
+                  "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+                  "publisher": "TSE — Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato apresenta o plano emergencial como resposta às filas e aos salários da saúde, dentro da pauta de reajuste geral de 50% e do 'salário mínimo mínimo' de R$ 7.500 registrada no programa. Não localizamos resposta pública sobre a fonte de recursos dos pisos nem o cronograma dos concursos.",
+          "methodology": "Leitura do programa de governo registrado no TSE (PDF e índice de 51 itens), de reportagens de setembro de 2026 sobre o plano e da tramitação do piso da enfermagem (Lei 14.434/2022, decisão do STF e EC 127/2022). O candidato nunca exerceu cargo público. Ficaram de fora estimativas de custo, não apresentadas no documento.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "id": "kp-rp-7",
@@ -786,7 +1027,237 @@
             "sourceType": "plano_de_governo",
             "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Integrar PF, PRF e Forças Armadas nas fronteiras e criar a 'Ronda Nacional' com 30 mil agentes, ampliando penas (eixo Segurança).",
+          "requirement": {
+            "path": "lei-complementar",
+            "quorum": "Lei complementar: 257 deputados e 41 senadores — maioria absoluta (CF, art. 69)",
+            "note": "O emprego das Forças Armadas na garantia da lei e da ordem é regido pela LC 97/1999, alterada por lei complementar, e depende de decreto presidencial após esgotados os instrumentos de segurança pública. A PEC 18/2025, que constitucionaliza o Sistema Único de Segurança Pública, foi aprovada em 2º turno na Câmara em 04/03/2026 (461 a 14) e está no Senado."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Mar/2026",
+                "fact": "A Câmara aprovou em 2º turno a PEC 18/2025, por 461 votos a 14, levando o Sistema Único de Segurança Pública à Constituição.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-14",
+                    "title": "Com aprovação na Câmara, PEC da Segurança segue para o Senado (461 votos a 14 em 2º turno)",
+                    "publisher": "Fundação Perseu Abramo",
+                    "url": "https://fpabramo.org.br/com-aprovacao-na-camara-pec-da-seguranca-segue-para-o-senado",
+                    "date": "2026-03-04",
+                    "type": "imprensa",
+                    "notes": "PEC 18/2025: 487 a 15 no 1º turno e 461 a 14 no 2º turno."
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "A CCJ do Senado aprovou o texto-base da PEC da Segurança Pública, sem concluir a votação.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-15",
+                    "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação",
+                    "publisher": "Senado Federal — Agência Senado",
+                    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
+                    "date": "2026-09-02",
+                    "type": "legislativo"
+                  }
+                ]
+              },
+              {
+                "date": "Out/2025",
+                "fact": "Operação no Rio de Janeiro foi a maior em 15 anos e a mais letal do estado, com 64 mortos e 81 presos.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-16",
+                    "title": "Operação no Rio é a maior em 15 anos e a mais letal no estado",
+                    "publisher": "Agência Brasil",
+                    "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-10/acao-no-rio-e-maior-em-15-anos-e-mais-letal",
+                    "date": "2025-10-28",
+                    "type": "imprensa",
+                    "notes": "64 mortos e 81 presos durante operação policial."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Ago/2026",
+                "fact": "O plano registrado prevê a Ronda Nacional com 30 mil agentes, sem indicar o efetivo disponível nem a fonte de custeio.",
+                "sources": [
+                  {
+                    "id": "src-rp-08",
+                    "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                    "publisher": "TSE — DivulgaCandContas (arquivos)",
+                    "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                    "publishedAt": "2026",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo",
+                    "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026).",
+                "sources": [
+                  {
+                    "id": "src-rp-10",
+                    "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                    "publisher": "Câmara dos Deputados (dados abertos)",
+                    "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+                    "publishedAt": "2026-09-29",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "legislativo",
+                    "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+                  },
+                  {
+                    "id": "src-rp-11",
+                    "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                    "publisher": "Senado Federal (dados abertos)",
+                    "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                    "publishedAt": "2026-09-29",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "legislativo",
+                    "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026); o partido informou candidaturas em 18 estados e no DF em 08/08/2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Emprego das Forças Armadas em segurança depende de lei complementar e de decreto",
+              "detail": "A LC 97/1999 condiciona a garantia da lei e da ordem a decreto presidencial, após esgotados os instrumentos de segurança pública, e alterá-la exige maioria absoluta: 257 deputados e 41 senadores. O plano não detalha o decreto nem o efetivo militar envolvido.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-17",
+                  "title": "Lei Complementar nº 97, de 9 de junho de 1999 — normas gerais para a organização, o preparo e o emprego das Forças Armadas (art. 15)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm",
+                  "date": "1999-06-09",
+                  "type": "oficial",
+                  "notes": "Emprego na garantia da lei e da ordem depende de decreto presidencial."
+                },
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Ronda Nacional com 30 mil agentes sem precedente localizado na área federal",
+              "detail": "Segurança pública é competência dos estados (art. 144 da Constituição), e não localizamos programa federal anterior com 30 mil agentes próprios em ronda nacional. A PEC da Segurança, em tramitação no Senado, redesenha essas competências.",
+              "sources": [
+                {
+                  "id": "src-re-r3propostas-02",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial"
+                },
+                {
+                  "id": "src-re-complemento2propostas-15",
+                  "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação",
+                  "publisher": "Senado Federal — Agência Senado",
+                  "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
+                  "date": "2026-09-02",
+                  "type": "legislativo"
+                },
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "De onde viriam os 30 mil agentes da Ronda Nacional — PF, PRF, guardas municipais ou novas contratações?",
+              "why": "O plano cita 30 mil agentes integrados sem definir a origem do efetivo nem a divisão de atribuições com os estados.",
+              "sources": [
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                },
+                {
+                  "id": "src-rp-07",
+                  "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+                  "publisher": "TSE — Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+                }
+              ]
+            },
+            {
+              "question": "Em que hipóteses as Forças Armadas atuariam no policiamento e por qual decreto?",
+              "why": "A LC 97/1999 exige decreto presidencial e esgotamento prévio dos instrumentos de segurança; o documento não indica prazos nem condições.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-17",
+                  "title": "Lei Complementar nº 97, de 9 de junho de 1999 — normas gerais para a organização, o preparo e o emprego das Forças Armadas (art. 15)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm",
+                  "date": "1999-06-09",
+                  "type": "oficial",
+                  "notes": "Emprego na garantia da lei e da ordem depende de decreto presidencial."
+                },
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato apresenta o combate ao crime organizado como parte do eixo de segurança do programa, com integração das forças policiais e apoio das Forças Armadas nas fronteiras. Não localizamos resposta pública sobre o efetivo e o custo da Ronda Nacional.",
+          "methodology": "Leitura do programa registrado no TSE e do índice oficial, da LC 97/1999, da tramitação da PEC 18/2025 na Câmara e no Senado e de reportagem sobre operação no Rio em outubro de 2025. O candidato nunca exerceu cargo público. Ficaram de fora os dados estaduais de criminalidade, não usados nas contas.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "id": "kp-rp-8",
@@ -815,7 +1286,259 @@
             "sourceType": "imprensa",
             "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Fortalecer o BRICS e declarar apoio à autodeterminação dos povos palestino, libanês e sírio e ao Irã diante de ataques (eixo Política Externa).",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "Reconhecimentos e posições em foros são atos do Executivo (art. 84); adesão a tratados e blocos passa pelo Congresso (art. 49, I). O BRICS não tem carta com obrigações vinculantes para os membros, e o plano não indica instrumentos novos."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Dez/2010",
+                "fact": "O Brasil reconheceu o Estado palestino, por ato do Executivo no fim do segundo mandato de Lula.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-18",
+                    "title": "Brazil formally recognises Palestinian statehood (dezembro de 2010)",
+                    "publisher": "Parlamento Europeu — documento de reunião",
+                    "url": "https://www.europarl.europa.eu/meetdocs/2009_2014/documents/dplc/dv/1_brazilrecognisespalesti/1_brazilrecognisespalestine.pdf",
+                    "date": "2010-12",
+                    "type": "internacional"
+                  }
+                ]
+              },
+              {
+                "date": "Jan/2024",
+                "fact": "O Irã passou a integrar o BRICS na ampliação aprovada em 2023, com vigência a partir de 2024.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-19",
+                    "title": "Brics pede solução de dois Estados na Palestina; Irã quer Estado único",
+                    "publisher": "Agência Brasil",
+                    "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-07/brics-pede-solucao-de-dois-estados-na-palestina-ira-quer-estado-unico",
+                    "date": "2025-07-06",
+                    "type": "imprensa",
+                    "notes": "Cúpula do BRICS sob presidência brasileira."
+                  }
+                ]
+              },
+              {
+                "date": "Jul/2025",
+                "fact": "Na cúpula do BRICS sob presidência brasileira, a declaração final defendeu a solução de dois Estados para a Palestina.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-19",
+                    "title": "Brics pede solução de dois Estados na Palestina; Irã quer Estado único",
+                    "publisher": "Agência Brasil",
+                    "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-07/brics-pede-solucao-de-dois-estados-na-palestina-ira-quer-estado-unico",
+                    "date": "2025-07-06",
+                    "type": "imprensa",
+                    "notes": "Cúpula do BRICS sob presidência brasileira."
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2026",
+                "fact": "O candidato assinou carta de compromisso em defesa da Palestina junto a outras candidaturas.",
+                "sources": [
+                  {
+                    "id": "src-rp-91",
+                    "title": "Candidatos nas eleições de 2026 assinam carta de compromisso com defesa da Palestina",
+                    "publisher": "Opera Mundi",
+                    "url": "https://operamundi.uol.com.br/eleicoes-2026-brasil/candidatos-nas-eleicoes-de-2026-assinam-carta-de-compromisso-com-defesa-da-palestina/",
+                    "publishedAt": "2026-09-21",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Levantamento de 21/09/2026: quatro presidenciáveis signatários da carta de compromisso com a defesa da Palestina (Samara Martins/UP, Edmilson Costa/PCB, Hertz Dias/PSTU e Rui Costa Pimenta/PCO), além de 53 candidaturas a governos estaduais ou distrital e centenas de postulantes a Senado, Câmara dos Deputados e assembleias legislativas."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Fev/2024",
+                "fact": "Israel declarou o presidente brasileiro 'persona non grata'; em maio de 2024 o Brasil retirou o embaixador em Tel Aviv.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-20",
+                    "title": "Israel declara 'persona non grata' a Lula por comparar a guerra em Gaza com o Holocausto",
+                    "publisher": "El País",
+                    "url": "https://elpais.com/internacional/2024-02-19/israel-declara-persona-non-grata-a-lula-por-comparar-los-ataques-en-gaza-con-el-holocausto.html",
+                    "date": "2024-02-19",
+                    "type": "imprensa"
+                  },
+                  {
+                    "id": "src-re-complemento2propostas-21",
+                    "title": "Brasil retira a su embajador en Israel por tensiones sobre Gaza",
+                    "publisher": "DW",
+                    "url": "https://www.dw.com/es/brasil-retira-a-su-embajador-en-israel-por-las-tensiones-sobre-gaza/a-69217765",
+                    "date": "2024-05-29",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026).",
+                "sources": [
+                  {
+                    "id": "src-rp-10",
+                    "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                    "publisher": "Câmara dos Deputados (dados abertos)",
+                    "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+                    "publishedAt": "2026-09-29",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "legislativo",
+                    "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+                  },
+                  {
+                    "id": "src-rp-11",
+                    "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                    "publisher": "Senado Federal (dados abertos)",
+                    "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                    "publishedAt": "2026-09-29",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "legislativo",
+                    "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026); o partido informou candidaturas em 18 estados e no DF em 08/08/2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Adesões e tratados passam pelo Congresso, onde o PCO tem 0 cadeiras",
+              "detail": "A aprovação de tratados e adesões depende do Congresso (art. 49, I). O PCO tem 0 cadeiras na Câmara e no Senado (APIs de 29/09/2026) e o plano não indica quais acordos ou adesões seriam submetidos ao Legislativo.",
+              "sources": [
+                {
+                  "id": "src-re-r3propostas-02",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial"
+                },
+                {
+                  "id": "src-rp-10",
+                  "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                  "publisher": "Câmara dos Deputados (dados abertos)",
+                  "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Apoio declarado ao Irã em plano de governo sem precedente localizado",
+              "detail": "O Brasil reconheceu o Estado palestino em 2010, por ato do Executivo. Não localizamos plano de governo brasileiro anterior com apoio explícito ao Irã diante de ataques; os episódios comparáveis são posições em foros multilaterais e declarações do governo em exercício.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-18",
+                  "title": "Brazil formally recognises Palestinian statehood (dezembro de 2010)",
+                  "publisher": "Parlamento Europeu — documento de reunião",
+                  "url": "https://www.europarl.europa.eu/meetdocs/2009_2014/documents/dplc/dv/1_brazilrecognisespalesti/1_brazilrecognisespalestine.pdf",
+                  "date": "2010-12",
+                  "type": "internacional"
+                },
+                {
+                  "id": "src-re-complemento2propostas-19",
+                  "title": "Brics pede solução de dois Estados na Palestina; Irã quer Estado único",
+                  "publisher": "Agência Brasil",
+                  "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-07/brics-pede-solucao-de-dois-estados-na-palestina-ira-quer-estado-unico",
+                  "date": "2025-07-06",
+                  "type": "imprensa",
+                  "notes": "Cúpula do BRICS sob presidência brasileira."
+                },
+                {
+                  "id": "src-rp-101",
+                  "title": "PEB nas Urnas 2026: Rui Costa Pimenta (PCO)",
+                  "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+                  "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-rui-costa-pimenta-pco/",
+                  "publishedAt": "2026-09-27",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Análise do programa do PCO (autores Michel Adriano Szurkalo e Scarlett Rodrigues da Cunha). Trata dívidas de empresas, taxação de grandes fortunas, reestatizações, Petrobras 100% estatal, terras raras (Brasil com 23% das reservas globais) e da necessidade de articulação multilateral, citando o comércio bilateral no BRICS como caminho sem detalhamento de instrumentos no plano."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Quais atos concretos decorrem do apoio declarado — reconhecimentos, votações ou rupturas diplomáticas?",
+              "why": "O eixo de política externa do plano enuncia posições sem listar atos, tratados ou votações que seriam assumidos pelo governo.",
+              "sources": [
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                },
+                {
+                  "id": "src-rp-101",
+                  "title": "PEB nas Urnas 2026: Rui Costa Pimenta (PCO)",
+                  "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+                  "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-rui-costa-pimenta-pco/",
+                  "publishedAt": "2026-09-27",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Análise do programa do PCO (autores Michel Adriano Szurkalo e Scarlett Rodrigues da Cunha). Trata dívidas de empresas, taxação de grandes fortunas, reestatizações, Petrobras 100% estatal, terras raras (Brasil com 23% das reservas globais) e da necessidade de articulação multilateral, citando o comércio bilateral no BRICS como caminho sem detalhamento de instrumentos no plano."
+                }
+              ]
+            },
+            {
+              "question": "Qual o efeito previsto sobre comércio e investimentos com países em conflito com os citados?",
+              "why": "Não localizamos estimativa de impacto comercial no documento nem posição pública do candidato sobre esse custo.",
+              "sources": [
+                {
+                  "id": "src-rp-08",
+                  "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+                },
+                {
+                  "id": "src-rp-06",
+                  "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, BRICS e outros temas de política externa",
+                  "publisher": "Folha de S.Paulo",
+                  "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+                  "publishedAt": "2026-09-12",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Folha (12/09/2026): 'Ele [Rui Costa Pimenta] concorre enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários' — situação da investigação ainda ativa na reta final da campanha."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato sustenta a política externa em oposição à OTAN e em apoio a governos e povos em conflito, e assinou, na campanha de 2026, carta de compromisso em defesa da Palestina ao lado de outras candidaturas. Não localizamos resposta pública sobre efeitos comerciais.",
+          "methodology": "Leitura do programa registrado no TSE e do índice oficial de 51 itens, da cobertura sobre política externa nas eleições de 2026 e da carta de compromisso assinada. O candidato nunca exerceu cargo público. Ficaram de fora as votações brasileiras em foros multilaterais e os dados de comércio, não usados nas contas.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       }
     ],
     "updatedAt": "2026-09-29"
@@ -2566,6 +3289,135 @@
       "accessedAt": "2026-09-29",
       "sourceType": "partido",
       "notes": "Página institucional do jornal diário do partido: registra que o PCO 'has existed as a political current since 1979' e 'has been legalized since 1995', e que o jornal diário existe desde 2003, ao lado do semanário impresso. A página não declara data de publicação; material corrente lido em 29/09/2026."
+    },
+    {
+      "id": "src-re-complemento2propostas-18",
+      "title": "Brazil formally recognises Palestinian statehood (dezembro de 2010)",
+      "publisher": "Parlamento Europeu — documento de reunião",
+      "url": "https://www.europarl.europa.eu/meetdocs/2009_2014/documents/dplc/dv/1_brazilrecognisespalesti/1_brazilrecognisespalestine.pdf",
+      "date": "2010-12",
+      "type": "internacional"
+    },
+    {
+      "id": "src-re-complemento2propostas-12",
+      "title": "Pacientes do SUS aguardam há pelo menos 6 anos por exames simples no RS",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/24/pacientes-do-sus-aguardam-ha-pelo-menos-6-anos-por-exames-simples-no-rs.ghtml",
+      "date": "2026-04-24",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-19",
+      "title": "Brics pede solução de dois Estados na Palestina; Irã quer Estado único",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-07/brics-pede-solucao-de-dois-estados-na-palestina-ira-quer-estado-unico",
+      "date": "2025-07-06",
+      "type": "imprensa",
+      "notes": "Cúpula do BRICS sob presidência brasileira."
+    },
+    {
+      "id": "src-re-complemento2propostas-17",
+      "title": "Lei Complementar nº 97, de 9 de junho de 1999 — normas gerais para a organização, o preparo e o emprego das Forças Armadas (art. 15)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm",
+      "date": "1999-06-09",
+      "type": "oficial",
+      "notes": "Emprego na garantia da lei e da ordem depende de decreto presidencial."
+    },
+    {
+      "id": "src-re-complemento2propostas-20",
+      "title": "Israel declara 'persona non grata' a Lula por comparar a guerra em Gaza com o Holocausto",
+      "publisher": "El País",
+      "url": "https://elpais.com/internacional/2024-02-19/israel-declara-persona-non-grata-a-lula-por-comparar-los-ataques-en-gaza-con-el-holocausto.html",
+      "date": "2024-02-19",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-21",
+      "title": "Brasil retira a su embajador en Israel por tensiones sobre Gaza",
+      "publisher": "DW",
+      "url": "https://www.dw.com/es/brasil-retira-a-su-embajador-en-israel-por-las-tensiones-sobre-gaza/a-69217765",
+      "date": "2024-05-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-10",
+      "title": "Domingueira nº 24 — julho de 2023: o custeio do piso da enfermagem e a Emenda Constitucional 127/2022",
+      "publisher": "IDISA — Instituto de Direito Sanitário Aplicado",
+      "url": "http://idisa.org.br/domingueira/domingueira-n-24-julho-2023?lang=pt",
+      "date": "2023-07",
+      "type": "análise",
+      "notes": "A EC 127/2022 estabeleceu o dever da União de prestar assistência financeira aos entes para o piso."
+    },
+    {
+      "id": "src-re-complemento2propostas-02",
+      "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+      "date": "2023-08-31",
+      "type": "legislativo",
+      "notes": "Sanção da LC 200/2023."
+    },
+    {
+      "id": "src-re-complemento2propostas-11",
+      "title": "Mais Médicos: Saúde anuncia 2,2 mil novas vagas e cadastro reserva",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2025-03/mais-medicos-saude-anuncia-22-mil-novas-vagas-e-cadastro-reserva",
+      "date": "2025-03-17",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-16",
+      "title": "Operação no Rio é a maior em 15 anos e a mais letal no estado",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-10/acao-no-rio-e-maior-em-15-anos-e-mais-letal",
+      "date": "2025-10-28",
+      "type": "imprensa",
+      "notes": "64 mortos e 81 presos durante operação policial."
+    },
+    {
+      "id": "src-re-complemento2propostas-09",
+      "title": "Por 7 votos a 4, STF confirma suspensão do piso da enfermagem",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2022-09/por-7-votos-4-stf-confirma-suspensao-do-piso-da-enfermagem",
+      "date": "2022-09-15",
+      "type": "imprensa",
+      "notes": "Lei 14.434/2022 e suspensão cautelar até a definição da fonte de custeio."
+    },
+    {
+      "id": "src-re-complemento2propostas-15",
+      "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
+      "date": "2026-09-02",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-13",
+      "title": "Ministro anuncia recorde de cirurgias no SUS; deputado diz que falta transparência nas filas",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://www.camara.leg.br/noticias/1276870-ministro-anuncia-recorde-de-cirurgias-no-sus-deputado-diz-que-falta-transparencia-nas-filas/",
+      "date": "2026",
+      "type": "legislativo",
+      "notes": "14,9 milhões de cirurgias eletivas em 2025, segundo o Ministério da Saúde."
+    },
+    {
+      "id": "src-re-complemento2propostas-14",
+      "title": "Com aprovação na Câmara, PEC da Segurança segue para o Senado (461 votos a 14 em 2º turno)",
+      "publisher": "Fundação Perseu Abramo",
+      "url": "https://fpabramo.org.br/com-aprovacao-na-camara-pec-da-seguranca-segue-para-o-senado",
+      "date": "2026-03-04",
+      "type": "imprensa",
+      "notes": "PEC 18/2025: 487 a 15 no 1º turno e 461 a 14 no 2º turno."
+    },
+    {
+      "id": "src-re-complemento2propostas-05",
+      "title": "Governo reduz congelamento no Orçamento para R$ 16,1 bilhões em 2026",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+      "date": "2026-09-24",
+      "type": "imprensa",
+      "notes": "Relatório bimestral de setembro de 2026: bloqueio e contingenciamento."
     }
   ],
   "updatedAt": "2026-09-29",

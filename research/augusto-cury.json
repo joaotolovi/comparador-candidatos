@@ -777,7 +777,242 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Adotar ensino em tempo integral com gestão da emoção no currículo e o 'Projeto Brasil Neuroinclusivo' para pessoas neurodivergentes.",
+          "requirement": {
+            "path": "lei-ordinaria",
+            "note": "Mudanças de currículo e de carga horária passam pela LDB (Lei 9.394/1996) e pelo Plano Nacional de Educação (Lei 15.388/2026); a oferta é executada por redes estaduais e municipais e o custeio envolve o FUNDEB, com metas de educação integral até 2036."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Abr/2026",
+                "fact": "A Lei 15.388/2026 aprovou o novo PNE, com metas de educação integral e 10% do PIB para a educação até 2036.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-33",
+                    "title": "Lei nº 15.388, de 14 de abril de 2026 — aprova o Plano Nacional de Educação (2026–2036)",
+                    "publisher": "Câmara dos Deputados — Legislação",
+                    "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15388-14-abril-2026-798950-publicacaooriginal-178891-pl.html",
+                    "date": "2026-04-14",
+                    "type": "legislativo",
+                    "notes": "19 objetivos, incluindo educação integral e investimento de 10% do PIB até 2036."
+                  }
+                ]
+              },
+              {
+                "date": "Dez/2012",
+                "fact": "A Lei 12.764/2012 instituiu a política nacional de proteção dos direitos da pessoa com transtorno do espectro autista.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-34",
+                    "title": "Lei nº 12.764, de 27 de dezembro de 2012 — Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista",
+                    "publisher": "Câmara dos Deputados — Legislação",
+                    "url": "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-normaatualizada-pl.pdf",
+                    "date": "2012-12-27",
+                    "type": "legislativo"
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "O plano registrado inclui gestão da emoção no currículo e o projeto voltado a pessoas neurodivergentes.",
+                "sources": [
+                  {
+                    "id": "src-ac-23",
+                    "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                    "publisher": "Poder360 (cópia do documento da campanha)",
+                    "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                    "publishedAt": "2026-08",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo"
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Set/2026",
+                "fact": "Levantamento identificou 25 contratos e instrumentos ligados à metodologia do candidato em dez estados, acima de R$ 30 milhões.",
+                "sources": [
+                  {
+                    "id": "src-ac-47",
+                    "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+                    "publisher": "Revista Fórum — Fórum Investiga",
+                    "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+                    "publishedAt": "2026-09-04",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "O programa associado à metodologia foi cancelado pela prefeitura de Itajaí, onde os gastos somaram R$ 39 milhões.",
+                "sources": [
+                  {
+                    "id": "src-ac-74",
+                    "title": "Programa de Augusto Cury é cancelado em Itajaí",
+                    "publisher": "DIARINHO",
+                    "url": "https://diarinho.net/materia/675213/Programa-de-Augusto-Cury-e-cancelado-em-Itajai",
+                    "publishedAt": "2026-09-14",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Prefeitura substituiu os programas 'Escola da Inteligência' e 'Gênios Socioemocional' pelo 'Vida na Escola', abrangendo 27 mil estudantes."
+                  },
+                  {
+                    "id": "src-ac-75",
+                    "title": "Itajaí desembolsa R$ 39 milhões em gastos com programas ligados a Augusto Cury",
+                    "publisher": "DIARINHO",
+                    "url": "https://diarinho.net/materia/674946/Itajai-desembolsa-R--39-milhoes-em-gastos-com-programas-ligados-a-Augusto-Cury",
+                    "publishedAt": "2026-09-13",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Levantamento local sobre gastos municipais com os programas."
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "Avante: 5 de 513 na Câmara e 1 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Mudar currículo e carga horária depende de lei federal e da adesão de redes",
+              "detail": "A LDB e o PNE fixam diretrizes e metas de tempo integral, com recursos do FUNDEB (Lei 15.388/2026), e a oferta é executada por redes estaduais e municipais. O plano não indica custo, cronograma ou regra de adesão para a mudança curricular proposta.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-33",
+                  "title": "Lei nº 15.388, de 14 de abril de 2026 — aprova o Plano Nacional de Educação (2026–2036)",
+                  "publisher": "Câmara dos Deputados — Legislação",
+                  "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15388-14-abril-2026-798950-publicacaooriginal-178891-pl.html",
+                  "date": "2026-04-14",
+                  "type": "legislativo",
+                  "notes": "19 objetivos, incluindo educação integral e investimento de 10% do PIB até 2036."
+                },
+                {
+                  "id": "src-re-r2capacidades-01",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publisher": "Presidência da República — Planalto",
+                  "date": "1988-10-05",
+                  "type": "oficial_legislacao",
+                  "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+                },
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Metodologia do autor é vendida a prefeituras e teve programa cancelado em 2026",
+              "detail": "A metodologia ligada ao candidato movimentou mais de R$ 30 milhões em 25 contratos e instrumentos em dez estados, segundo levantamento de setembro de 2026; em Itajaí, o programa foi cancelado após gastos de R$ 39 milhões. O plano prevê a gestão da emoção na rede pública.",
+              "sources": [
+                {
+                  "id": "src-ac-47",
+                  "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+                  "publisher": "Revista Fórum — Fórum Investiga",
+                  "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+                  "publishedAt": "2026-09-04",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                },
+                {
+                  "id": "src-ac-74",
+                  "title": "Programa de Augusto Cury é cancelado em Itajaí",
+                  "publisher": "DIARINHO",
+                  "url": "https://diarinho.net/materia/675213/Programa-de-Augusto-Cury-e-cancelado-em-Itajai",
+                  "publishedAt": "2026-09-14",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Prefeitura substituiu os programas 'Escola da Inteligência' e 'Gênios Socioemocional' pelo 'Vida na Escola', abrangendo 27 mil estudantes."
+                },
+                {
+                  "id": "src-ac-75",
+                  "title": "Itajaí desembolsa R$ 39 milhões em gastos com programas ligados a Augusto Cury",
+                  "publisher": "DIARINHO",
+                  "url": "https://diarinho.net/materia/674946/Itajai-desembolsa-R--39-milhoes-em-gastos-com-programas-ligados-a-Augusto-Cury",
+                  "publishedAt": "2026-09-13",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Levantamento local sobre gastos municipais com os programas."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo e o cronograma da educação em tempo integral pretendida, e quem paga a expansão?",
+              "why": "O plano prevê tempo integral sem estimativa de custo, e a execução depende de redes estaduais e municipais e de recursos do FUNDEB.",
+              "sources": [
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                },
+                {
+                  "id": "src-re-complemento2propostas-33",
+                  "title": "Lei nº 15.388, de 14 de abril de 2026 — aprova o Plano Nacional de Educação (2026–2036)",
+                  "publisher": "Câmara dos Deputados — Legislação",
+                  "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15388-14-abril-2026-798950-publicacaooriginal-178891-pl.html",
+                  "date": "2026-04-14",
+                  "type": "legislativo",
+                  "notes": "19 objetivos, incluindo educação integral e investimento de 10% do PIB até 2036."
+                }
+              ]
+            },
+            {
+              "question": "Como a gestão da emoção entraria no currículo sem provedor privado definido?",
+              "why": "A metodologia é comercializada por empresas ligadas ao candidato; o documento não indica licenciamento, contratação ou material público próprio.",
+              "sources": [
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                },
+                {
+                  "id": "src-ac-47",
+                  "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+                  "publisher": "Revista Fórum — Fórum Investiga",
+                  "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+                  "publishedAt": "2026-09-04",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato defende a educação socioemocional como política pública e apresenta o projeto voltado a pessoas neurodivergentes como resposta às dificuldades de aprendizagem. Não localizamos resposta pública sobre o cancelamento do programa em Itajaí nem sobre o custo da expansão da jornada integral.",
+          "methodology": "Leitura do plano registrado no TSE (200 páginas e 18 tópicos), do índice oficial, do novo PNE (Lei 15.388/2026), da Lei 12.764/2012 e de levantamentos de setembro de 2026 sobre contratos da metodologia. Cury nunca exerceu cargo público. Ficaram de fora o texto integral do plano e as cláusulas dos contratos municipais.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Empreendedorismo: ministério específico, 10.000 escolas de empreendedorismo e Fundo Nacional do Empreendedor (R$ 30–50 bi)",
@@ -1007,7 +1242,228 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Executar o capítulo 'Floresta viva', tornar o país referência em hidrogênio verde e industrializar terras raras em vez de exportá-las brutas.",
+          "requirement": {
+            "path": "depende-privado",
+            "note": "O hidrogênio de baixa emissão já tem marco legal (Lei 14.948/2024), com certificação e incentivos; a mineração de terras raras e os projetos de energia dependem de licenciamento ambiental e de investimento privado, e a fiscalização é ato do Executivo, por Ibama e ICMBio."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Out/2025",
+                "fact": "A taxa do Prodes para a Amazônia caiu 11,08% (5.796 km², de agosto de 2024 a julho de 2025), a menor em onze anos.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-35",
+                    "title": "Em 2025, desmatamento tem redução de 11,08% na Amazônia e 11,49% no Cerrado",
+                    "publisher": "Ibama / Inpe",
+                    "url": "https://www.gov.br/ibama/pt-br/assuntos/noticias/2025/em-2025-desmatamento-tem-reducao-de-11-08-na-amazonia-e-11-49-no-cerrado",
+                    "date": "2025-10-30",
+                    "type": "oficial",
+                    "notes": "5.796 km² entre agosto de 2024 e julho de 2025; menor taxa em onze anos."
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2024",
+                "fact": "A Lei 14.948/2024 instituiu o marco legal do hidrogênio de baixa emissão de carbono, com certificação voluntária.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-36",
+                    "title": "Marco legal do hidrogênio de baixo carbono é sancionado (Lei 14.948/2024)",
+                    "publisher": "Senado Federal — Agência Senado",
+                    "url": "https://www12.senado.leg.br/noticias/materias/2024/08/05/marco-legal-do-hidrogenio-de-baixo-carbono-e-sancionado",
+                    "date": "2024-08-05",
+                    "type": "legislativo"
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "O plano registrado inclui o capítulo 'Floresta viva' e a industrialização de terras raras no país.",
+                "sources": [
+                  {
+                    "id": "src-ac-23",
+                    "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                    "publisher": "Poder360 (cópia do documento da campanha)",
+                    "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                    "publishedAt": "2026-08",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo"
+                  },
+                  {
+                    "id": "src-re-t03",
+                    "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+                    "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+                    "publisher": "Portal Amazônia",
+                    "date": "2026-09-29",
+                    "type": "imprensa",
+                    "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Abr/2026",
+                "fact": "A maior produtora de terras raras do país, em Goiás, foi vendida a uma companhia americana em acordo avaliado em US$ 2,8 bilhões.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-37",
+                    "title": "Quem está vendendo as terras raras brasileiras: 'o Brasil é a solução dos EUA'",
+                    "publisher": "Brasil de Fato",
+                    "url": "https://brasildefato.com.br/2026/05/20/quem-esta-vendendo-as-terras-raras-brasileiras-o-brasil-e-a-solucao-dos-eua",
+                    "date": "2026-05-20",
+                    "type": "imprensa",
+                    "notes": "Venda da Serra Verde (GO) e destino da produção."
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "O plano não indica custo, prazo ou fonte de recursos para os itens de floresta, hidrogênio e mineração.",
+                "sources": [
+                  {
+                    "id": "src-ac-23",
+                    "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                    "publisher": "Poder360 (cópia do documento da campanha)",
+                    "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                    "publishedAt": "2026-08",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo"
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "Avante: 5 de 513 na Câmara e 1 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Industrializar terras raras depende de licenciamento e de decisão de empresas privadas",
+              "detail": "A produção de terras raras no país é privada: a principal produtora, em Goiás, foi vendida a um grupo americano em abril de 2026, com contratos de fornecimento no exterior. O plano não define contrapartidas, regras para exportação de concentrados ou meta de beneficiamento local.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-37",
+                  "title": "Quem está vendendo as terras raras brasileiras: 'o Brasil é a solução dos EUA'",
+                  "publisher": "Brasil de Fato",
+                  "url": "https://brasildefato.com.br/2026/05/20/quem-esta-vendendo-as-terras-raras-brasileiras-o-brasil-e-a-solucao-dos-eua",
+                  "date": "2026-05-20",
+                  "type": "imprensa",
+                  "notes": "Venda da Serra Verde (GO) e destino da produção."
+                },
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Referência mundial em hidrogênio verde sem projeto de exportação em operação localizado",
+              "detail": "O marco legal existe desde agosto de 2024 e prevê certificação e incentivos; não localizamos planta de exportação em operação no país nem meta de volume no plano, que trata a liderança como objetivo de longo prazo.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-36",
+                  "title": "Marco legal do hidrogênio de baixo carbono é sancionado (Lei 14.948/2024)",
+                  "publisher": "Senado Federal — Agência Senado",
+                  "url": "https://www12.senado.leg.br/noticias/materias/2024/08/05/marco-legal-do-hidrogenio-de-baixo-carbono-e-sancionado",
+                  "date": "2024-08-05",
+                  "type": "legislativo"
+                },
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                },
+                {
+                  "id": "src-re-t03",
+                  "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+                  "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+                  "publisher": "Portal Amazônia",
+                  "date": "2026-09-29",
+                  "type": "imprensa",
+                  "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o volume, o prazo e o custo previstos para o hidrogênio verde e para a cadeia de terras raras?",
+              "why": "O plano enuncia a liderança e a industrialização sem metas quantificadas, cronograma ou estimativa de recursos públicos e privados.",
+              "sources": [
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                },
+                {
+                  "id": "src-re-t03",
+                  "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+                  "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+                  "publisher": "Portal Amazônia",
+                  "date": "2026-09-29",
+                  "type": "imprensa",
+                  "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+                }
+              ]
+            },
+            {
+              "question": "Como se daria a redução da exportação de minerais brutos — regra de exportação, tributo ou exigência de beneficiamento local?",
+              "why": "Não localizamos no documento instrumento indicado para reter o beneficiamento no país, nem menção à destinação da produção atual.",
+              "sources": [
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                },
+                {
+                  "id": "src-re-complemento2propostas-37",
+                  "title": "Quem está vendendo as terras raras brasileiras: 'o Brasil é a solução dos EUA'",
+                  "publisher": "Brasil de Fato",
+                  "url": "https://brasildefato.com.br/2026/05/20/quem-esta-vendendo-as-terras-raras-brasileiras-o-brasil-e-a-solucao-dos-eua",
+                  "date": "2026-05-20",
+                  "type": "imprensa",
+                  "notes": "Venda da Serra Verde (GO) e destino da produção."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato trata a proteção de biomas e a transição energética como políticas de Estado e afirma que o país pode liderar a energia limpa, com a tecnologia como base do capítulo 'Floresta viva'. Não localizamos resposta pública sobre a venda da produtora de terras raras em 2026.",
+          "methodology": "Leitura do plano registrado no TSE, do índice oficial, do marco legal do hidrogênio (Lei 14.948/2024), dos dados do Prodes divulgados em outubro de 2025 e de reportagens de 2026 sobre terras raras. Cury nunca exerceu cargo público. Ficaram de fora os estudos de viabilidade dos projetos, não divulgados.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Combate à fome no mundo e segurança alimentar via agricultura familiar",
@@ -1129,7 +1585,206 @@
             "sourceType": "oficial_eleitoral",
             "notes": "Página viva com links dos planos; o item 'Você é Insubstituível' consta de documento do candidato hospedado no DivulgaCandContas."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Criar o programa federal 'Você é Insubstituível', de prevenção do suicídio e valorização da vida, com foco em saúde.",
+          "requirement": {
+            "path": "ato-executivo",
+            "note": "A Política Nacional de Prevenção da Automutilação e do Suicídio foi instituída pela Lei 13.819/2019; criar um programa federal se dá por ato do Executivo, com execução pela rede do SUS e custeio na lei orçamentária anual."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Nov/2018",
+                "fact": "O programa 'Você é Insubstituível' foi lançado pelo candidato como iniciativa gratuita, com vídeos e livro de apoio.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-38",
+                    "title": "Augusto Cury lança programa gratuito de prevenção ao suicídio 'Você é Insubstituível'",
+                    "publisher": "R7",
+                    "url": "https://noticias.r7.com/saude/augusto-cury-lanca-programa-gratuito-de-prevencao-ao-suicidio-22112018/",
+                    "date": "2018-11-22",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "Abr/2019",
+                "fact": "A Lei 13.819/2019 instituiu a política nacional de prevenção da automutilação e do suicídio, com comitê gestor federal.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-39",
+                    "title": "Lei nº 13.819, de 26 de abril de 2019 — institui a Política Nacional de Prevenção da Automutilação e do Suicídio",
+                    "publisher": "Ministério da Saúde",
+                    "url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/cgpnpas/atos-normativos/lei-no-13-819-de-26-de-abril-de-2019.pdf/view",
+                    "date": "2019-04-26",
+                    "type": "oficial"
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2026",
+                "fact": "O programa consta do plano registrado no TSE, voltado à prevenção do suicídio e à valorização da vida.",
+                "sources": [
+                  {
+                    "id": "src-ac-23",
+                    "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                    "publisher": "Poder360 (cópia do documento da campanha)",
+                    "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                    "publishedAt": "2026-08",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo"
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Set/2025",
+                "fact": "Parecer do Senado propôs alterar a Lei 13.819/2019 para prever ações voltadas a pessoas com deficiência.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-40",
+                    "title": "Parecer SF nº 82, de 2025 — altera a Lei nº 13.819/2019 para prever ações direcionadas às pessoas com deficiência",
+                    "publisher": "Senado Federal",
+                    "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10040069&mime=application%2Fpdf",
+                    "date": "2025-09-03",
+                    "type": "legislativo"
+                  }
+                ]
+              },
+              {
+                "date": "2025",
+                "fact": "O Senado pediu informações ao Ministério da Saúde sobre as ações do Setembro Amarelo, acompanhando a política existente.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-41",
+                    "title": "RQS nº 661/2025 — requerimento de informações ao Ministro da Saúde sobre as ações do Setembro Amarelo",
+                    "publisher": "Senado Federal",
+                    "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170314",
+                    "date": "2025",
+                    "type": "legislativo"
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "Avante: 5 de 513 na Câmara e 1 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Programa federal depende de ato do Executivo e de dotação no orçamento do SUS",
+              "detail": "A política nacional já existe (Lei 13.819/2019) e é executada pela rede do SUS; um programa novo exige portaria e dotação anual. O plano não indica custo, número de profissionais envolvidos ou fonte de recursos.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-39",
+                  "title": "Lei nº 13.819, de 26 de abril de 2019 — institui a Política Nacional de Prevenção da Automutilação e do Suicídio",
+                  "publisher": "Ministério da Saúde",
+                  "url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/cgpnpas/atos-normativos/lei-no-13-819-de-26-de-abril-de-2019.pdf/view",
+                  "date": "2019-04-26",
+                  "type": "oficial"
+                },
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "Programa homônimo já é oferecido gratuitamente pelo autor e convive com contratos municipais",
+              "detail": "O 'Você é Insubstituível' foi lançado como iniciativa gratuita em 2018, e a metodologia educacional ligada ao autor é comercializada em contratos com municípios, que somaram mais de R$ 30 milhões até setembro de 2026. O plano não define a interface entre as duas frentes.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-38",
+                  "title": "Augusto Cury lança programa gratuito de prevenção ao suicídio 'Você é Insubstituível'",
+                  "publisher": "R7",
+                  "url": "https://noticias.r7.com/saude/augusto-cury-lanca-programa-gratuito-de-prevencao-ao-suicidio-22112018/",
+                  "date": "2018-11-22",
+                  "type": "imprensa"
+                },
+                {
+                  "id": "src-ac-47",
+                  "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+                  "publisher": "Revista Fórum — Fórum Investiga",
+                  "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+                  "publishedAt": "2026-09-04",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                },
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo e a equipe previstos para o programa federal, e por qual dotação ele seria financiado?",
+              "why": "O plano descreve o programa e o foco em saúde sem estimativa de custo, metas de cobertura ou fonte orçamentária definida.",
+              "sources": [
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                }
+              ]
+            },
+            {
+              "question": "O programa federal usaria material e metodologia das empresas do autor, com qual regime de contratação?",
+              "why": "A metodologia é comercializada por empresas ligadas ao candidato, e o documento não define licenciamento, doação ou compra pública.",
+              "sources": [
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                },
+                {
+                  "id": "src-ac-47",
+                  "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+                  "publisher": "Revista Fórum — Fórum Investiga",
+                  "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+                  "publishedAt": "2026-09-04",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato apresenta o programa como ação de valorização da vida, iniciada por ele em 2018 e ligada à sua atuação em saúde emocional. Não localizamos resposta pública sobre custo, desenho federativo ou interface com os contratos municipais existentes.",
+          "methodology": "Leitura do plano registrado no TSE, do índice oficial, da Lei 13.819/2019, de reportagem de 2018 sobre o lançamento do programa e de parecer e requerimento do Senado de 2025. Cury nunca exerceu cargo público. Ficaram de fora os dados epidemiológicos de suicídio do período, não usados nas contas.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       }
     ],
     "updatedAt": "2026-09-29"
@@ -2813,6 +3468,81 @@
       "date": "2026-08-18",
       "type": "imprensa",
       "notes": "Declarações do candidato em entrevista ao SBT News (18/08/2026)."
+    },
+    {
+      "id": "src-re-complemento2propostas-33",
+      "title": "Lei nº 15.388, de 14 de abril de 2026 — aprova o Plano Nacional de Educação (2026–2036)",
+      "publisher": "Câmara dos Deputados — Legislação",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15388-14-abril-2026-798950-publicacaooriginal-178891-pl.html",
+      "date": "2026-04-14",
+      "type": "legislativo",
+      "notes": "19 objetivos, incluindo educação integral e investimento de 10% do PIB até 2036."
+    },
+    {
+      "id": "src-re-complemento2propostas-34",
+      "title": "Lei nº 12.764, de 27 de dezembro de 2012 — Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista",
+      "publisher": "Câmara dos Deputados — Legislação",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-normaatualizada-pl.pdf",
+      "date": "2012-12-27",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-37",
+      "title": "Quem está vendendo as terras raras brasileiras: 'o Brasil é a solução dos EUA'",
+      "publisher": "Brasil de Fato",
+      "url": "https://brasildefato.com.br/2026/05/20/quem-esta-vendendo-as-terras-raras-brasileiras-o-brasil-e-a-solucao-dos-eua",
+      "date": "2026-05-20",
+      "type": "imprensa",
+      "notes": "Venda da Serra Verde (GO) e destino da produção."
+    },
+    {
+      "id": "src-re-complemento2propostas-35",
+      "title": "Em 2025, desmatamento tem redução de 11,08% na Amazônia e 11,49% no Cerrado",
+      "publisher": "Ibama / Inpe",
+      "url": "https://www.gov.br/ibama/pt-br/assuntos/noticias/2025/em-2025-desmatamento-tem-reducao-de-11-08-na-amazonia-e-11-49-no-cerrado",
+      "date": "2025-10-30",
+      "type": "oficial",
+      "notes": "5.796 km² entre agosto de 2024 e julho de 2025; menor taxa em onze anos."
+    },
+    {
+      "id": "src-re-complemento2propostas-36",
+      "title": "Marco legal do hidrogênio de baixo carbono é sancionado (Lei 14.948/2024)",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/08/05/marco-legal-do-hidrogenio-de-baixo-carbono-e-sancionado",
+      "date": "2024-08-05",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-40",
+      "title": "Parecer SF nº 82, de 2025 — altera a Lei nº 13.819/2019 para prever ações direcionadas às pessoas com deficiência",
+      "publisher": "Senado Federal",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10040069&mime=application%2Fpdf",
+      "date": "2025-09-03",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-41",
+      "title": "RQS nº 661/2025 — requerimento de informações ao Ministro da Saúde sobre as ações do Setembro Amarelo",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170314",
+      "date": "2025",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-39",
+      "title": "Lei nº 13.819, de 26 de abril de 2019 — institui a Política Nacional de Prevenção da Automutilação e do Suicídio",
+      "publisher": "Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/cgpnpas/atos-normativos/lei-no-13-819-de-26-de-abril-de-2019.pdf/view",
+      "date": "2019-04-26",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-38",
+      "title": "Augusto Cury lança programa gratuito de prevenção ao suicídio 'Você é Insubstituível'",
+      "publisher": "R7",
+      "url": "https://noticias.r7.com/saude/augusto-cury-lanca-programa-gratuito-de-prevencao-ao-suicidio-22112018/",
+      "date": "2018-11-22",
+      "type": "imprensa"
     }
   ],
   "updatedAt": "2026-09-29",

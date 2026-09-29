@@ -904,7 +904,241 @@
             "sourceType": "plano_de_governo",
             "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Garantir liberdade de greve em todos os setores, sem autorização do empregador, e tornar estatais as estatísticas de greves (eixo Governança).",
+          "requirement": {
+            "path": "lei-ordinaria",
+            "note": "O direito de greve é o art. 9º da Constituição, regulamentado pela Lei 7.783/1989, que lista atividades essenciais e o atendimento à comunidade; para servidores públicos não há lei específica, e o STF aplica a lei geral. A unicidade sindical está no art. 8º, II, e sua remoção exigiria emenda; o registro de greves depende de lei ou ato que o crie."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Jun/1989",
+                "fact": "A Lei 7.783/1989 regulamentou o direito de greve, definiu atividades essenciais e exigiu aviso prévio e manutenção de serviços.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-54",
+                    "title": "Lei nº 7.783, de 28 de junho de 1989 — dispõe sobre o exercício do direito de greve e define as atividades essenciais",
+                    "publisher": "Presidência da República — Planalto",
+                    "url": "http://planalto.gov.br/ccivil_03/leis/l7783.htm",
+                    "date": "1989-06-28",
+                    "type": "oficial"
+                  }
+                ]
+              },
+              {
+                "date": "Jun/2024",
+                "fact": "A greve de professores de universidades e institutos federais terminou em acordo, com recomposição salarial prevista na MP 1.286/2024.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-50",
+                    "title": "Professores de universidades e instituições federais encerram greve",
+                    "publisher": "Agência Brasil",
+                    "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2024-06/professores-de-universidades-e-instituicoes-federais-encerram-greve",
+                    "date": "2024-06-24",
+                    "type": "imprensa",
+                    "notes": "Acordo assinado em 26/06/2024, com recomposição salarial posterior."
+                  }
+                ]
+              },
+              {
+                "date": "Abr/2026",
+                "fact": "O DIEESE contabilizou 1.006 greves em 2025, alta de 14% sobre 2024 (880 paralisações), com avanço no setor privado.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-48",
+                    "title": "Balanço das Greves de 2025 (Estudos e Pesquisas nº 113)",
+                    "publisher": "DIEESE",
+                    "url": "https://www.dieese.org.br/estudosepesquisas/2026/estPesq113greves.pdf",
+                    "date": "2026-04",
+                    "type": "sindical",
+                    "notes": "1.006 greves em 2025."
+                  },
+                  {
+                    "id": "src-re-complemento2propostas-49",
+                    "title": "Atrasos salariais e condições de trabalho: greves no Brasil têm alta de 14% puxada por paralisações no setor privado",
+                    "publisher": "Brasil de Fato",
+                    "url": "https://www.brasildefato.com.br/2026/04/20/atrasos-salariais-e-condicoes-de-trabalho-greves-no-brasil-tem-alta-de-14-puxada-por-paralisacoes-no-setor-privado",
+                    "date": "2026-04-20",
+                    "type": "imprensa",
+                    "notes": "880 greves em 2024 e 1.006 em 2025."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Abr/2017",
+                "fact": "A reforma trabalhista (Lei 13.467/2017) extinguiu a contribuição sindical obrigatória e alterou a representação dos trabalhadores.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-51",
+                    "title": "Plenário ratifica extinção da contribuição sindical obrigatória e conclui reforma trabalhista (Lei 13.467/2017)",
+                    "publisher": "Agência Câmara de Notícias",
+                    "url": "https://www.camara.leg.br/noticias/512663-plenario-ratifica-extincao-da-contribuicao-sindical-obrigatoria-e-conclui-reforma-trabalhista",
+                    "date": "2017-04",
+                    "type": "legislativo"
+                  }
+                ]
+              },
+              {
+                "date": "Abr/2026",
+                "fact": "A estatística de greves não é produzida pelo Estado: o balanço anual usado no debate é do DIEESE, entidade sindical.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-48",
+                    "title": "Balanço das Greves de 2025 (Estudos e Pesquisas nº 113)",
+                    "publisher": "DIEESE",
+                    "url": "https://www.dieese.org.br/estudosepesquisas/2026/estPesq113greves.pdf",
+                    "date": "2026-04",
+                    "type": "sindical",
+                    "notes": "1.006 greves em 2025."
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "PSTU: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (PSTU nº 16; vice Vanessa Portugal, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O PSTU tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Ampliar a greve em serviços essenciais colide com a Lei 7.783/1989",
+              "detail": "A lei de 1989 lista atividades essenciais com atendimento obrigatório à população e exige aviso prévio; para servidores públicos não há lei específica. Mudar esse desenho depende de lei ordinária no Congresso, onde o PSTU tem 0 cadeiras na Câmara e no Senado.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-54",
+                  "title": "Lei nº 7.783, de 28 de junho de 1989 — dispõe sobre o exercício do direito de greve e define as atividades essenciais",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "http://planalto.gov.br/ccivil_03/leis/l7783.htm",
+                  "date": "1989-06-28",
+                  "type": "oficial"
+                },
+                {
+                  "id": "src-hd-11",
+                  "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                  "publisher": "Câmara dos Deputados (dados abertos)",
+                  "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+                },
+                {
+                  "id": "src-hd-12",
+                  "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                  "publisher": "Senado Federal (dados abertos)",
+                  "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Estatísticas de greves produzidas pelo Estado sem precedente localizado",
+              "detail": "Não localizamos órgão público que consolide greves no Brasil: o balanço anual disponível é o do DIEESE (nº 113, abril de 2026), entidade sindical, com 1.006 greves em 2025. O plano não indica órgão nem critério de contagem.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-48",
+                  "title": "Balanço das Greves de 2025 (Estudos e Pesquisas nº 113)",
+                  "publisher": "DIEESE",
+                  "url": "https://www.dieese.org.br/estudosepesquisas/2026/estPesq113greves.pdf",
+                  "date": "2026-04",
+                  "type": "sindical",
+                  "notes": "1.006 greves em 2025."
+                },
+                {
+                  "id": "src-re-complemento2propostas-49",
+                  "title": "Atrasos salariais e condições de trabalho: greves no Brasil têm alta de 14% puxada por paralisações no setor privado",
+                  "publisher": "Brasil de Fato",
+                  "url": "https://www.brasildefato.com.br/2026/04/20/atrasos-salariais-e-condicoes-de-trabalho-greves-no-brasil-tem-alta-de-14-puxada-por-paralisacoes-no-setor-privado",
+                  "date": "2026-04-20",
+                  "type": "imprensa",
+                  "notes": "880 greves em 2024 e 1.006 em 2025."
+                },
+                {
+                  "id": "src-hd-05",
+                  "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Como o Estado passaria a registrar greves: por declaração do sindicato, da empresa ou por órgão federal?",
+              "why": "O plano menciona estatísticas de greves no eixo Governança, sem indicar o órgão responsável, a periodicidade ou o critério de contagem.",
+              "sources": [
+                {
+                  "id": "src-hd-05",
+                  "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+                },
+                {
+                  "id": "src-hd-04",
+                  "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+                  "publisher": "TSE — Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+                }
+              ]
+            },
+            {
+              "question": "A proposta alcança os servidores públicos e as atividades essenciais, com qual regra de atendimento à população?",
+              "why": "A lei vigente exige manutenção de serviços essenciais durante a greve; o plano não define o regime para esses setores nem para o funcionalismo.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-54",
+                  "title": "Lei nº 7.783, de 28 de junho de 1989 — dispõe sobre o exercício do direito de greve e define as atividades essenciais",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "http://planalto.gov.br/ccivil_03/leis/l7783.htm",
+                  "date": "1989-06-28",
+                  "type": "oficial"
+                },
+                {
+                  "id": "src-hd-05",
+                  "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "\"Queremos que a classe trabalhadora possa se organizar\", afirma o candidato em entrevista, tratando a greve como instrumento de organização e ação direta; o plano inscreve o item no eixo Governança. Não localizamos resposta pública sobre como seriam produzidas as estatísticas de greves.",
+          "methodology": "Leitura do plano registrado no TSE (PDF e índice de 38 itens), de entrevista do candidato ao Alma Preta e do balanço do DIEESE de abril de 2026, com o texto da Lei 7.783/1989. O candidato nunca exerceu cargo público: o histórico comparável é partidário e sindical. Ficou de fora o desenho do registro de greves.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "id": "kp-hd-7",
@@ -933,7 +1167,256 @@
             "sourceType": "plano_de_governo",
             "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Adotar o enfrentamento do imperialismo como eixo da política externa, com alinhamento a blocos regionais e oposição a foros liderados pelos EUA.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "A política externa é conduzida pelo Executivo (art. 84), e adesão a tratados e blocos passa pelo Congresso (art. 49, I). O eixo declarado depende de atos de governo e de negociação com outros Estados, sem instrumento único previsto no plano."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Ago/2026",
+                "fact": "O plano registrado propõe enfrentar o imperialismo como eixo da política externa; o índice oficial traz um eixo próprio de inserção global.",
+                "sources": [
+                  {
+                    "id": "src-hd-13",
+                    "title": "Em plano, presidenciável do PSTU propõe 'enfrentar o imperialismo'",
+                    "publisher": "Metrópoles",
+                    "url": "https://www.metropoles.com/brasil/em-plano-presidenciavel-do-pstu-propoe-enfrentar-o-imperialismo",
+                    "publishedAt": "2026",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "'Candidato do PSTU, Hertz Dias registrou plano de governo no TSE'. Data exata da publicação não capturada nesta rodada; localizado via busca em 29/09/2026."
+                  },
+                  {
+                    "id": "src-hd-04",
+                    "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+                    "publisher": "TSE — Tribunal Superior Eleitoral",
+                    "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+                    "publishedAt": "2026",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo",
+                    "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+                  }
+                ]
+              },
+              {
+                "date": "Jan/1962",
+                "fact": "Na Conferência de Punta del Este, a delegação brasileira integrou o grupo que divergiu dos EUA sobre Cuba, na Política Externa Independente.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-53",
+                    "title": "A Política Externa Independente em ação: a Conferência de Punta del Este de 1962",
+                    "publisher": "Revista Brasileira de Política Internacional (SciELO)",
+                    "url": "https://scielo.br/j/rbpi/a/LPmXQQHXrCBLpyXK5SxtBtz/abstract?ilang=en&lang=en",
+                    "date": "1962",
+                    "type": "acadêmico",
+                    "notes": "Divergência com os EUA sobre Cuba na conferência de Punta del Este."
+                  }
+                ]
+              },
+              {
+                "date": "Mai/2023",
+                "fact": "O Brasil formalizou o retorno à Unasul por decreto, com vigência a partir de 6 de maio de 2023.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-52",
+                    "title": "Lula oficializa retorno do Brasil à Unasul (decreto de 06/04/2023)",
+                    "publisher": "O Globo",
+                    "url": "https://oglobo.globo.com/mundo/noticia/2023/04/lula-oficializa-retorno-do-brasil-a-unasul-bloco-fundado-por-governos-de-esquerda.ghtml",
+                    "date": "2023-04-06",
+                    "type": "imprensa",
+                    "notes": "Vigência a partir de 6 de maio de 2023."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Fev/2024",
+                "fact": "Israel declarou o presidente brasileiro 'persona non grata' após declarações sobre Gaza; em maio de 2024 o Brasil retirou o embaixador em Tel Aviv.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-20",
+                    "title": "Israel declara 'persona non grata' a Lula por comparar a guerra em Gaza com o Holocausto",
+                    "publisher": "El País",
+                    "url": "https://elpais.com/internacional/2024-02-19/israel-declara-persona-non-grata-a-lula-por-comparar-los-ataques-en-gaza-con-el-holocausto.html",
+                    "date": "2024-02-19",
+                    "type": "imprensa"
+                  },
+                  {
+                    "id": "src-re-complemento2propostas-21",
+                    "title": "Brasil retira a su embajador en Israel por tensiones sobre Gaza",
+                    "publisher": "DW",
+                    "url": "https://www.dw.com/es/brasil-retira-a-su-embajador-en-israel-por-las-tensiones-sobre-gaza/a-69217765",
+                    "date": "2024-05-29",
+                    "type": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "O PSTU tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026).",
+                "sources": [
+                  {
+                    "id": "src-hd-11",
+                    "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                    "publisher": "Câmara dos Deputados (dados abertos)",
+                    "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+                    "publishedAt": "2026-09-29",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "legislativo",
+                    "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+                  },
+                  {
+                    "id": "src-hd-12",
+                    "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                    "publisher": "Senado Federal (dados abertos)",
+                    "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                    "publishedAt": "2026-09-29",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "legislativo",
+                    "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "PSTU: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (PSTU nº 16; vice Vanessa Portugal, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O PSTU tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Adesões e tratados que sustentam o eixo passam pelo Congresso",
+              "detail": "Aprovar tratados e aderir a blocos depende do Congresso (art. 49, I), onde o PSTU tem 0 cadeiras. O plano não indica quais adesões ou saídas seriam propostas, nem estima custo ou efeito sobre acordos comerciais vigentes.",
+              "sources": [
+                {
+                  "id": "src-re-r3propostas-02",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial"
+                },
+                {
+                  "id": "src-hd-11",
+                  "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                  "publisher": "Câmara dos Deputados (dados abertos)",
+                  "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+                },
+                {
+                  "id": "src-hd-12",
+                  "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                  "publisher": "Senado Federal (dados abertos)",
+                  "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Eixo de política externa definido como enfrentamento do imperialismo sem instrumento indicado",
+              "detail": "Não localizamos política externa brasileira organizada por esse eixo com instrumento definido no plano. Os episódios comparáveis são posições pontuais, como a divergência sobre Cuba em Punta del Este (1962), e a volta à Unasul por decreto, em 2023.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-53",
+                  "title": "A Política Externa Independente em ação: a Conferência de Punta del Este de 1962",
+                  "publisher": "Revista Brasileira de Política Internacional (SciELO)",
+                  "url": "https://scielo.br/j/rbpi/a/LPmXQQHXrCBLpyXK5SxtBtz/abstract?ilang=en&lang=en",
+                  "date": "1962",
+                  "type": "acadêmico",
+                  "notes": "Divergência com os EUA sobre Cuba na conferência de Punta del Este."
+                },
+                {
+                  "id": "src-re-complemento2propostas-52",
+                  "title": "Lula oficializa retorno do Brasil à Unasul (decreto de 06/04/2023)",
+                  "publisher": "O Globo",
+                  "url": "https://oglobo.globo.com/mundo/noticia/2023/04/lula-oficializa-retorno-do-brasil-a-unasul-bloco-fundado-por-governos-de-esquerda.ghtml",
+                  "date": "2023-04-06",
+                  "type": "imprensa",
+                  "notes": "Vigência a partir de 6 de maio de 2023."
+                },
+                {
+                  "id": "src-hd-05",
+                  "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Quais adesões e rupturas o eixo implica — saída da OEA, ingresso na ALBA e revisão de acordos com os EUA?",
+              "why": "O plano define o eixo em termos de postura e não lista atos, tratados ou acordos afetados pela reorientação.",
+              "sources": [
+                {
+                  "id": "src-hd-05",
+                  "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+                },
+                {
+                  "id": "src-hd-13",
+                  "title": "Em plano, presidenciável do PSTU propõe 'enfrentar o imperialismo'",
+                  "publisher": "Metrópoles",
+                  "url": "https://www.metropoles.com/brasil/em-plano-presidenciavel-do-pstu-propoe-enfrentar-o-imperialismo",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "'Candidato do PSTU, Hertz Dias registrou plano de governo no TSE'. Data exata da publicação não capturada nesta rodada; localizado via busca em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "question": "Qual o efeito previsto sobre comércio e investimento com os países citados como adversários?",
+              "why": "Não localizamos no plano estimativa de impacto comercial ou de custo diplomático para o conjunto da proposta.",
+              "sources": [
+                {
+                  "id": "src-hd-05",
+                  "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+                  "publisher": "TSE — DivulgaCandContas (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "Publicações do partido tratam o apoio a Cuba e a oposição ao governo dos EUA como parte do mesmo eixo, e o candidato apresenta a política externa como frente de enfrentamento do sistema. Não localizamos resposta pública sobre efeitos comerciais da reorientação proposta.",
+          "methodology": "Leitura do plano registrado no TSE e do índice oficial, de reportagem do Metrópoles de agosto de 2026 sobre o eixo, de publicação do partido sobre Cuba e do texto constitucional (arts. 49 e 84). O candidato nunca exerceu cargo público. Ficaram de fora as posições do partido sobre cada país citado.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       }
     ],
     "updatedAt": "2026-09-29"
@@ -2597,6 +3080,83 @@
       "accessedAt": "2026-09-29",
       "sourceType": "partido",
       "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
+    },
+    {
+      "id": "src-re-complemento2propostas-52",
+      "title": "Lula oficializa retorno do Brasil à Unasul (decreto de 06/04/2023)",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/mundo/noticia/2023/04/lula-oficializa-retorno-do-brasil-a-unasul-bloco-fundado-por-governos-de-esquerda.ghtml",
+      "date": "2023-04-06",
+      "type": "imprensa",
+      "notes": "Vigência a partir de 6 de maio de 2023."
+    },
+    {
+      "id": "src-re-complemento2propostas-53",
+      "title": "A Política Externa Independente em ação: a Conferência de Punta del Este de 1962",
+      "publisher": "Revista Brasileira de Política Internacional (SciELO)",
+      "url": "https://scielo.br/j/rbpi/a/LPmXQQHXrCBLpyXK5SxtBtz/abstract?ilang=en&lang=en",
+      "date": "1962",
+      "type": "acadêmico",
+      "notes": "Divergência com os EUA sobre Cuba na conferência de Punta del Este."
+    },
+    {
+      "id": "src-re-complemento2propostas-48",
+      "title": "Balanço das Greves de 2025 (Estudos e Pesquisas nº 113)",
+      "publisher": "DIEESE",
+      "url": "https://www.dieese.org.br/estudosepesquisas/2026/estPesq113greves.pdf",
+      "date": "2026-04",
+      "type": "sindical",
+      "notes": "1.006 greves em 2025."
+    },
+    {
+      "id": "src-re-complemento2propostas-49",
+      "title": "Atrasos salariais e condições de trabalho: greves no Brasil têm alta de 14% puxada por paralisações no setor privado",
+      "publisher": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2026/04/20/atrasos-salariais-e-condicoes-de-trabalho-greves-no-brasil-tem-alta-de-14-puxada-por-paralisacoes-no-setor-privado",
+      "date": "2026-04-20",
+      "type": "imprensa",
+      "notes": "880 greves em 2024 e 1.006 em 2025."
+    },
+    {
+      "id": "src-re-complemento2propostas-54",
+      "title": "Lei nº 7.783, de 28 de junho de 1989 — dispõe sobre o exercício do direito de greve e define as atividades essenciais",
+      "publisher": "Presidência da República — Planalto",
+      "url": "http://planalto.gov.br/ccivil_03/leis/l7783.htm",
+      "date": "1989-06-28",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-21",
+      "title": "Brasil retira a su embajador en Israel por tensiones sobre Gaza",
+      "publisher": "DW",
+      "url": "https://www.dw.com/es/brasil-retira-a-su-embajador-en-israel-por-las-tensiones-sobre-gaza/a-69217765",
+      "date": "2024-05-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-50",
+      "title": "Professores de universidades e instituições federais encerram greve",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2024-06/professores-de-universidades-e-instituicoes-federais-encerram-greve",
+      "date": "2024-06-24",
+      "type": "imprensa",
+      "notes": "Acordo assinado em 26/06/2024, com recomposição salarial posterior."
+    },
+    {
+      "id": "src-re-complemento2propostas-20",
+      "title": "Israel declara 'persona non grata' a Lula por comparar a guerra em Gaza com o Holocausto",
+      "publisher": "El País",
+      "url": "https://elpais.com/internacional/2024-02-19/israel-declara-persona-non-grata-a-lula-por-comparar-los-ataques-en-gaza-con-el-holocausto.html",
+      "date": "2024-02-19",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-51",
+      "title": "Plenário ratifica extinção da contribuição sindical obrigatória e conclui reforma trabalhista (Lei 13.467/2017)",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://www.camara.leg.br/noticias/512663-plenario-ratifica-extincao-da-contribuicao-sindical-obrigatoria-e-conclui-reforma-trabalhista",
+      "date": "2017-04",
+      "type": "legislativo"
     }
   ],
   "updatedAt": "2026-09-29",

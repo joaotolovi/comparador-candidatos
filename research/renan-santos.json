@@ -997,7 +997,254 @@
             "sourceType": "imprensa",
             "notes": "Setembro/2026; dia exato não capturado."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Fazer nova reforma previdenciária com idade mínima por gatilho de expectativa de vida e parcela da aposentadoria capitalizada via FGTS.",
+          "requirement": {
+            "path": "pec",
+            "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+            "note": "Mudar idade mínima, teto e regra de benefício federal exige emenda à Constituição; a capitalização por FGTS e o uso do fundo no seguro-desemprego envolvem a Lei 8.036/1990 e lei específica, além de regra de transição (EC 103/2019)."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "2026-09-18",
+                "fact": "A equipe do candidato detalhou gatilho de idade ligado à expectativa de vida, dentro da PEC do Equilíbrio Fiscal de R$ 1,1 trilhão.",
+                "sources": [
+                  {
+                    "id": "src-rs-31",
+                    "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+                    "publisher": "Valor Internacional",
+                    "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+                    "publishedAt": "2026-09-18",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa"
+                  }
+                ]
+              },
+              {
+                "date": "2026-09",
+                "fact": "O deputado do partido, Kim Kataguiri, defendeu o FGTS como poupança de aposentadoria, com teto do INSS e renda mínima.",
+                "sources": [
+                  {
+                    "id": "src-rs-48",
+                    "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+                    "publisher": "Folha de S.Paulo (C-Level)",
+                    "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+                    "publishedAt": "2026-09",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Setembro/2026; dia exato não capturado."
+                  }
+                ]
+              },
+              {
+                "date": "2026-09",
+                "fact": "O resumo do plano registrado no TSE (51 páginas) inclui cortes na Previdência no ajuste de R$ 1,1 trilhão até 2031.",
+                "sources": [
+                  {
+                    "id": "src-rs-21",
+                    "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                    "publisher": "Agência Brasil (EBC)",
+                    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                    "publishedAt": "2026-09",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Setembro/2026; dia exato não capturado."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "2019-11-12",
+                "fact": "A EC 103/2019 fixou idade mínima de 65 anos para homens e 62 para mulheres, com regras de transição.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento1propostas-05",
+                    "title": "Emenda Constitucional nº 103, de 12 de novembro de 2019 — reforma da Previdência",
+                    "publisher": "Presidência da República — Planalto",
+                    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm",
+                    "publishedAt": "2019-11-12",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "oficial",
+                    "notes": "Fixa idade mínima de 65 anos (homens) e 62 (mulheres) e as regras de transição do RGPS."
+                  }
+                ]
+              },
+              {
+                "date": "2026-09",
+                "fact": "O plano não apresenta memória de cálculo, idade de referência nem regra de transição para quem já contribui.",
+                "sources": [
+                  {
+                    "id": "src-rs-21",
+                    "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                    "publisher": "Agência Brasil (EBC)",
+                    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                    "publishedAt": "2026-09",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Setembro/2026; dia exato não capturado."
+                  },
+                  {
+                    "id": "src-rs-31",
+                    "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+                    "publisher": "Valor Internacional",
+                    "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+                    "publishedAt": "2026-09-18",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa"
+                  }
+                ]
+              }
+            ],
+            "noComparablePrecedent": "Nenhum ato próprio em Previdência federal: nunca exerceu mandato nem cargo executivo; marcos são a presidência do MISSÃO e a campanha.",
+            "sources": [
+              {
+                "id": "src-rs-31",
+                "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+                "publisher": "Valor Internacional",
+                "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-48",
+                "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+                "publisher": "Folha de S.Paulo (C-Level)",
+                "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              },
+              {
+                "id": "src-rs-21",
+                "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              },
+              {
+                "id": "src-re-complemento1propostas-05",
+                "title": "Emenda Constitucional nº 103, de 12 de novembro de 2019 — reforma da Previdência",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm",
+                "publishedAt": "2019-11-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Fixa idade mínima de 65 anos (homens) e 62 (mulheres) e as regras de transição do RGPS."
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "MISSÃO: 1 de 513 deputados federais (Kim Kataguiri) e 0 de 81 senadores",
+            "coalitionSeats": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação nem federação; vice Coronel Medina",
+            "federations": "Sem federação registrada",
+            "documentedAgreements": 4,
+            "note": "MISSÃO tem 1 de 513 deputados federais, 0 de 81 senadores, 1 deputado estadual e 3 vereadores; 4 episódios de negociação documentados no histórico do candidato. Emenda constitucional exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Idade mínima automática e capitalização exigem PEC com 308 votos e 49 senadores",
+              "detail": "Mudar idade mínima, regra de cálculo e teto de benefício exige emenda à Constituição; a capitalização por FGTS e o uso do fundo no seguro-desemprego dependem de lei que altere a Lei 8.036/1990. O MISSÃO tem 1 de 513 deputados federais e 0 de 81 senadores no retrato atual.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-re-complemento1propostas-05",
+                  "title": "Emenda Constitucional nº 103, de 12 de novembro de 2019 — reforma da Previdência",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm",
+                  "publishedAt": "2019-11-12",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Fixa idade mínima de 65 anos (homens) e 62 (mulheres) e as regras de transição do RGPS."
+                },
+                {
+                  "id": "src-rs-31",
+                  "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+                  "publisher": "Valor Internacional",
+                  "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+                  "publishedAt": "2026-09-18",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "Corte previdenciário de R$ 486 bilhões em cinco anos sem regra de transição no plano",
+              "detail": "A equipe do candidato estima R$ 486 bilhões de economia em cinco anos com desindexação e cortes na Previdência, dentro do ajuste de R$ 1,1 trilhão; o plano não traz idade de referência, regra de transição nem cálculo do gatilho demográfico.",
+              "sources": [
+                {
+                  "id": "src-rs-21",
+                  "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                  "publisher": "Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                  "publishedAt": "2026-09",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Setembro/2026; dia exato não capturado."
+                },
+                {
+                  "id": "src-rs-31",
+                  "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+                  "publisher": "Valor Internacional",
+                  "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+                  "publishedAt": "2026-09-18",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                },
+                {
+                  "id": "src-rs-48",
+                  "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+                  "publisher": "Folha de S.Paulo (C-Level)",
+                  "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+                  "publishedAt": "2026-09",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Setembro/2026; dia exato não capturado."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual a idade mínima inicial e como o gatilho de expectativa de vida seria atualizado?",
+              "why": "O plano e as entrevistas citam gatilho automático sem idade de partida ou periodicidade."
+            },
+            {
+              "question": "Como o FGTS seria usado na capitalização sem afetar habitação e saneamento?",
+              "why": "O fundo tem destinação vinculada (Lei 8.036/1990) e o plano não descreve a transição."
+            },
+            {
+              "question": "Qual a regra de transição para quem já está no mercado de trabalho?",
+              "why": "A EC 103/2019 criou transições e o plano não indica o que muda para quem já contribui."
+            }
+          ],
+          "publicExplanation": "Em sabatina de 26/08/2026 e em entrevistas de setembro de 2026, a equipe e aliados do candidato defenderam gatilho de idade e o FGTS como poupança para aposentadoria; não foi localizada explicação com idade inicial, transição ou cálculo do teto reduzido.",
+          "methodology": "Apurado pela leitura do resumo do plano registrado no TSE (51 páginas), por reportagens de setembro de 2026 sobre a PEC do Equilíbrio Fiscal e por declarações do candidato e do deputado do partido. Ficaram de fora a obra integral (Livro Amarelo) e o texto do projeto de PEC.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Substituição do Bolsa Família por frentes de trabalho remuneradas",
@@ -1357,7 +1604,370 @@
             "sourceType": "imprensa",
             "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Defender programa nuclear para eventual produção de armas atômicas, apresentado como condição de soberania militar e respeito geopolítico.",
+          "requirement": {
+            "path": "pec",
+            "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+            "note": "A Constituição (art. 21, XXIII, 'a') admite atividade nuclear em território nacional somente para fins pacíficos e mediante aprovação do Congresso; alterar essa regra exige emenda. O Brasil é parte do Tratado de Tlatelolco, que proíbe armas nucleares na região (Decreto 1.246/1994)."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "2025-10-08",
+                "fact": "O deputado Kim Kataguiri apresentou PEC que autoriza o Brasil a produzir armas nucleares.",
+                "sources": [
+                  {
+                    "id": "src-re-212",
+                    "title": "'PEC Bomba Nuclear': Kim Kataguiri propõe emenda que autoriza Brasil a produzir bomba atômica",
+                    "publisher": "Estadão — Geovanna Hora",
+                    "url": "https://www.estadao.com.br/politica/pec-kim-kataguiri-autoriza-brasil-bomba-nuclear-npr/",
+                    "publishedAt": "2025-10-08",
+                    "date": "2025-10-08",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Detalha o texto protocolado em 08/10/2025, o dispositivo constitucional alterado e a exigência de assinaturas (171 deputados)."
+                  },
+                  {
+                    "id": "src-re-211",
+                    "title": "Kim Kataguiri apresenta PEC que autoriza Brasil a produzir armas nucleares",
+                    "publisher": "CNN Brasil",
+                    "url": "https://www.cnnbrasil.com.br/politica/kim-kataguiri-apresenta-pec-que-autoriza-brasil-a-produzir-armas-nucleares/",
+                    "publishedAt": "2025-10-08",
+                    "date": "2025-10-08",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "PEC apresentada em 08/10/2025 que retira a menção a 'fins pacíficos' do art. 21, XXIII, 'a' e autoriza armas nucleares para fins dissuasórios; depende de 171 assinaturas para começar a tramitar."
+                  }
+                ]
+              },
+              {
+                "date": "2026-08-26",
+                "fact": "Em sabatina, o candidato defendeu que o país desenvolva armas nucleares para ser respeitado.",
+                "sources": [
+                  {
+                    "id": "src-rs-90",
+                    "title": "Em sabatina, Renan Santos defende que Brasil desenvolva armas nucleares",
+                    "publisher": "CBN (Globo)",
+                    "url": "https://cbn.globo.com/politica/noticia/2026/08/26/em-sabatina-renan-santos-defende-que-brasil-desenvolva-armas-nucleares.ghtml",
+                    "publishedAt": "2026-08-26",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Sabatina da TV Globo de 26/08/2026: defesa de armamento nuclear, cita Coreia do Norte, defende Bukele, R$ 6 bi para 10 presídios de 30 a 40 mil vagas e recusa de cumprir decisões do STF que considere ilegais."
+                  },
+                  {
+                    "id": "src-rs-92",
+                    "title": "Brasil precisa de bomba atômica para ser respeitado, diz Renan Santos",
+                    "publisher": "Poder360",
+                    "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-diz-que-brasil-precisa-de-bomba-atomica-para-ser-respeitado",
+                    "publishedAt": "2026-08-26",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Transcreve a declaração de que o país 'não teria condições' de desenvolver o armamento nos próximos 10 anos e cita o TNP e o caso da Coreia do Norte."
+                  }
+                ]
+              },
+              {
+                "date": "2026-08-27",
+                "fact": "A proposta foi repercutida pela imprensa internacional como desindexação de gastos e bomba atômica.",
+                "sources": [
+                  {
+                    "id": "src-rs-91",
+                    "title": "Renan Santos proposes delinking spending, developing atomic bomb",
+                    "publisher": "Valor International",
+                    "url": "https://valorinternational.globo.com/politics/news/2026/08/27/renan-santos-proposes-delinking-spending-developing-atomic-bomb.ghtml",
+                    "publishedAt": "2026-08-27",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Registra a defesa de desvincular pisos de saúde e educação, o programa nuclear com objetivo de bombas atômicas, a menção à saída do TNP e a referência à Constituição (atividade nuclear só para fins pacíficos, com aprovação do Congresso)."
+                  }
+                ]
+              },
+              {
+                "date": "2026-08",
+                "fact": "O posicionamento consta de entrevistas e sabatinas; não foi localizado no resumo do plano registrado no TSE.",
+                "sources": [
+                  {
+                    "id": "src-rs-23",
+                    "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+                    "publisher": "TSE — DivulgaCandContas",
+                    "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+                    "publishedAt": "2026-08-01",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo",
+                    "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+                  },
+                  {
+                    "id": "src-rs-93",
+                    "title": "O Brasil tem bomba nuclear? Veja o que diz a legislação sobre projeto de Renan Santos para dar protagonismo ao Brasil",
+                    "publisher": "Portal Terra (checagem)",
+                    "url": "https://www.terra.com.br/noticias/eleicoes/o-brasil-tem-bomba-nuclear-veja-o-que-diz-a-legislacao-sobre-projeto-de-renan-santos-para-dar-protagonismo-ao-brasil,4d714f72a63dfaee3d626827b59876acyqtypl31.html",
+                    "publishedAt": "2026-09",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Checagem que descreve o art. 21, XXIII, da Constituição (atividade nuclear apenas para fins pacíficos, com aprovação do Congresso), o TNP e o Tratado de Tlatelolco, e a 'PEC Bomba Nuclear' protocolada pelo deputado Kim Kataguiri (Missão) em outubro de 2025. Mês; dia exato não capturado."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "1988-10-05",
+                "fact": "A Constituição admite atividade nuclear apenas para fins pacíficos (art. 21, XXIII) e o país é parte do Tratado de Tlatelolco (Decreto 1.246/1994).",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03",
+                    "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                    "publisher": "Presidência da República — Planalto",
+                    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                    "publishedAt": "1988-10-05",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "oficial",
+                    "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                  },
+                  {
+                    "id": "src-re-complemento1propostas-08",
+                    "title": "Decreto nº 1.246, de 7 de setembro de 1994 — promulga o Tratado para a Proscrição das Armas Nucleares na América Latina e no Caribe (Tratado de Tlatelolco)",
+                    "publisher": "Presidência da República — Planalto",
+                    "url": "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d1246.htm",
+                    "publishedAt": "1994-09-07",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "oficial",
+                    "notes": "Tratado de 1967 que estabelece a zona livre de armas nucleares na região; em vigor para o Brasil desde 1994."
+                  }
+                ]
+              },
+              {
+                "date": "2026-09",
+                "fact": "O plano registrado projeta ajuste de R$ 1,1 trilhão até 2031 e não traz custo do programa nuclear.",
+                "sources": [
+                  {
+                    "id": "src-rs-21",
+                    "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                    "publisher": "Agência Brasil (EBC)",
+                    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                    "publishedAt": "2026-09",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Setembro/2026; dia exato não capturado."
+                  }
+                ]
+              }
+            ],
+            "noComparablePrecedent": "Nenhum ato próprio em política nuclear: nunca exerceu mandato nem cargo executivo; o precedente citado é a PEC do deputado do partido.",
+            "sources": [
+              {
+                "id": "src-rs-90",
+                "title": "Em sabatina, Renan Santos defende que Brasil desenvolva armas nucleares",
+                "publisher": "CBN (Globo)",
+                "url": "https://cbn.globo.com/politica/noticia/2026/08/26/em-sabatina-renan-santos-defende-que-brasil-desenvolva-armas-nucleares.ghtml",
+                "publishedAt": "2026-08-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da TV Globo de 26/08/2026: defesa de armamento nuclear, cita Coreia do Norte, defende Bukele, R$ 6 bi para 10 presídios de 30 a 40 mil vagas e recusa de cumprir decisões do STF que considere ilegais."
+              },
+              {
+                "id": "src-rs-91",
+                "title": "Renan Santos proposes delinking spending, developing atomic bomb",
+                "publisher": "Valor International",
+                "url": "https://valorinternational.globo.com/politics/news/2026/08/27/renan-santos-proposes-delinking-spending-developing-atomic-bomb.ghtml",
+                "publishedAt": "2026-08-27",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra a defesa de desvincular pisos de saúde e educação, o programa nuclear com objetivo de bombas atômicas, a menção à saída do TNP e a referência à Constituição (atividade nuclear só para fins pacíficos, com aprovação do Congresso)."
+              },
+              {
+                "id": "src-rs-92",
+                "title": "Brasil precisa de bomba atômica para ser respeitado, diz Renan Santos",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-diz-que-brasil-precisa-de-bomba-atomica-para-ser-respeitado",
+                "publishedAt": "2026-08-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Transcreve a declaração de que o país 'não teria condições' de desenvolver o armamento nos próximos 10 anos e cita o TNP e o caso da Coreia do Norte."
+              },
+              {
+                "id": "src-rs-93",
+                "title": "O Brasil tem bomba nuclear? Veja o que diz a legislação sobre projeto de Renan Santos para dar protagonismo ao Brasil",
+                "publisher": "Portal Terra (checagem)",
+                "url": "https://www.terra.com.br/noticias/eleicoes/o-brasil-tem-bomba-nuclear-veja-o-que-diz-a-legislacao-sobre-projeto-de-renan-santos-para-dar-protagonismo-ao-brasil,4d714f72a63dfaee3d626827b59876acyqtypl31.html",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Checagem que descreve o art. 21, XXIII, da Constituição (atividade nuclear apenas para fins pacíficos, com aprovação do Congresso), o TNP e o Tratado de Tlatelolco, e a 'PEC Bomba Nuclear' protocolada pelo deputado Kim Kataguiri (Missão) em outubro de 2025. Mês; dia exato não capturado."
+              },
+              {
+                "id": "src-rs-23",
+                "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+                "publisher": "TSE — DivulgaCandContas",
+                "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+              },
+              {
+                "id": "src-re-211",
+                "title": "Kim Kataguiri apresenta PEC que autoriza Brasil a produzir armas nucleares",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/politica/kim-kataguiri-apresenta-pec-que-autoriza-brasil-a-produzir-armas-nucleares/",
+                "publishedAt": "2025-10-08",
+                "date": "2025-10-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "PEC apresentada em 08/10/2025 que retira a menção a 'fins pacíficos' do art. 21, XXIII, 'a' e autoriza armas nucleares para fins dissuasórios; depende de 171 assinaturas para começar a tramitar."
+              },
+              {
+                "id": "src-re-212",
+                "title": "'PEC Bomba Nuclear': Kim Kataguiri propõe emenda que autoriza Brasil a produzir bomba atômica",
+                "publisher": "Estadão — Geovanna Hora",
+                "url": "https://www.estadao.com.br/politica/pec-kim-kataguiri-autoriza-brasil-bomba-nuclear-npr/",
+                "publishedAt": "2025-10-08",
+                "date": "2025-10-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Detalha o texto protocolado em 08/10/2025, o dispositivo constitucional alterado e a exigência de assinaturas (171 deputados)."
+              },
+              {
+                "id": "src-rs-21",
+                "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              },
+              {
+                "id": "src-re-r2propostas-03",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+              },
+              {
+                "id": "src-re-complemento1propostas-08",
+                "title": "Decreto nº 1.246, de 7 de setembro de 1994 — promulga o Tratado para a Proscrição das Armas Nucleares na América Latina e no Caribe (Tratado de Tlatelolco)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d1246.htm",
+                "publishedAt": "1994-09-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Tratado de 1967 que estabelece a zona livre de armas nucleares na região; em vigor para o Brasil desde 1994."
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "MISSÃO: 1 de 513 deputados federais (Kim Kataguiri) e 0 de 81 senadores",
+            "coalitionSeats": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação nem federação; vice Coronel Medina",
+            "federations": "Sem federação registrada",
+            "documentedAgreements": 4,
+            "note": "MISSÃO tem 1 de 513 deputados federais, 0 de 81 senadores, 1 deputado estadual e 3 vereadores; 4 episódios de negociação documentados no histórico do candidato. Emenda constitucional exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Produção de armas nucleares exige emenda à Constituição e mudança de tratado",
+              "detail": "A Constituição (art. 21, XXIII, 'a') permite atividade nuclear só para fins pacíficos e mediante aprovação do Congresso; o Brasil é parte do Tratado de Tlatelolco (Decreto 1.246/1994), que proíbe armas nucleares na região. A medida exigiria emenda e saída do tratado, com 308 deputados e 49 senadores.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-re-complemento1propostas-08",
+                  "title": "Decreto nº 1.246, de 7 de setembro de 1994 — promulga o Tratado para a Proscrição das Armas Nucleares na América Latina e no Caribe (Tratado de Tlatelolco)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d1246.htm",
+                  "publishedAt": "1994-09-07",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Tratado de 1967 que estabelece a zona livre de armas nucleares na região; em vigor para o Brasil desde 1994."
+                },
+                {
+                  "id": "src-rs-90",
+                  "title": "Em sabatina, Renan Santos defende que Brasil desenvolva armas nucleares",
+                  "publisher": "CBN (Globo)",
+                  "url": "https://cbn.globo.com/politica/noticia/2026/08/26/em-sabatina-renan-santos-defende-que-brasil-desenvolva-armas-nucleares.ghtml",
+                  "publishedAt": "2026-08-26",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Sabatina da TV Globo de 26/08/2026: defesa de armamento nuclear, cita Coreia do Norte, defende Bukele, R$ 6 bi para 10 presídios de 30 a 40 mil vagas e recusa de cumprir decisões do STF que considere ilegais."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "Programa nuclear militar sem custo estimado no plano do ajuste de R$ 1,1 trilhão",
+              "detail": "O plano registrado projeta corte de R$ 1,1 trilhão até 2031 e não apresenta custo, prazo ou orçamento para o programa nuclear militar, defendido em sabatinas e objeto de PEC apresentada pelo deputado do partido em out/2025.",
+              "sources": [
+                {
+                  "id": "src-rs-21",
+                  "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                  "publisher": "Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                  "publishedAt": "2026-09",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Setembro/2026; dia exato não capturado."
+                },
+                {
+                  "id": "src-re-212",
+                  "title": "'PEC Bomba Nuclear': Kim Kataguiri propõe emenda que autoriza Brasil a produzir bomba atômica",
+                  "publisher": "Estadão — Geovanna Hora",
+                  "url": "https://www.estadao.com.br/politica/pec-kim-kataguiri-autoriza-brasil-bomba-nuclear-npr/",
+                  "publishedAt": "2025-10-08",
+                  "date": "2025-10-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Detalha o texto protocolado em 08/10/2025, o dispositivo constitucional alterado e a exigência de assinaturas (171 deputados)."
+                },
+                {
+                  "id": "src-rs-92",
+                  "title": "Brasil precisa de bomba atômica para ser respeitado, diz Renan Santos",
+                  "publisher": "Poder360",
+                  "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-diz-que-brasil-precisa-de-bomba-atomica-para-ser-respeitado",
+                  "publishedAt": "2026-08-26",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Transcreve a declaração de que o país 'não teria condições' de desenvolver o armamento nos próximos 10 anos e cita o TNP e o caso da Coreia do Norte."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo, o prazo e a rota tecnológica previstos para o programa nuclear militar?",
+              "why": "A proposta é defendida em entrevistas e não consta do resumo do plano registrado."
+            },
+            {
+              "question": "O plano prevê sair do Tratado de Tlatelolco e do regime de salvaguardas da AIEA?",
+              "why": "A produção de armas exigiria mudar compromissos internacionais assumidos em 1994."
+            },
+            {
+              "question": "Como a proposta se concilia com o ajuste fiscal de R$ 1,1 trilhão até 2031?",
+              "why": "O plano apresenta corte de despesas e não estima o custo do programa nuclear."
+            }
+          ],
+          "publicExplanation": "Em sabatina de 26/08/2026 o candidato afirmou que o Brasil precisa de bomba atômica para ser respeitado; em 27/08/2026 a proposta foi repercutida pela imprensa. Não foi localizada explicação com custo, prazo ou rota tecnológica.",
+          "methodology": "Apurado por declarações do candidato em sabatinas e entrevistas de agosto de 2026, pela PEC apresentada pelo deputado do partido em out/2025, pelo resumo do plano registrado no TSE e pelo texto constitucional e pelo Tratado de Tlatelolco. Ficou de fora a obra integral (Livro Amarelo).",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
       }
     ],
     "updatedAt": "2026-09-29"
@@ -3891,6 +4501,26 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial",
       "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+    },
+    {
+      "id": "src-re-complemento1propostas-08",
+      "title": "Decreto nº 1.246, de 7 de setembro de 1994 — promulga o Tratado para a Proscrição das Armas Nucleares na América Latina e no Caribe (Tratado de Tlatelolco)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d1246.htm",
+      "publishedAt": "1994-09-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Tratado de 1967 que estabelece a zona livre de armas nucleares na região; em vigor para o Brasil desde 1994."
+    },
+    {
+      "id": "src-re-complemento1propostas-05",
+      "title": "Emenda Constitucional nº 103, de 12 de novembro de 2019 — reforma da Previdência",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm",
+      "publishedAt": "2019-11-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Fixa idade mínima de 65 anos (homens) e 62 (mulheres) e as regras de transição do RGPS."
     }
   ],
   "updatedAt": "2026-09-29",

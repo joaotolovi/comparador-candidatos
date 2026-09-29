@@ -763,7 +763,163 @@
             "sourceType": "imprensa",
             "notes": "Ano; data exata não capturada."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Monitorar fronteiras com sensores e drones, sufocar o financiamento das facções e orientar o policiamento urbano por dados.",
+          "requirement": {
+            "path": "depende-estados",
+            "quorum": "não se aplica a atos administrativos; acordos internacionais passam pelo Congresso (CF, art. 49, I)",
+            "note": "Fronteiras e crime organizado envolvem competências federais (Polícia Federal, PRF e Forças Armadas); o policiamento ostensivo é das polícias militares estaduais (CF, art. 144); a cooperação internacional depende de acordos e o plano não traz custo por eixo."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "2026-08-24",
+                "fact": "A segurança é um dos seis eixos apresentados, com integração de fronteiras, inteligência e dados.",
+                "sources": [
+                  {
+                    "id": "src-cb-04",
+                    "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                    "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                    "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                    "publishedAt": "2026-08-24",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+                  }
+                ]
+              },
+              {
+                "date": "2026-08-24",
+                "fact": "O plano registrado organiza as propostas em eixos e matriz de implementação, sem custo por eixo.",
+                "sources": [
+                  {
+                    "id": "src-cb-19",
+                    "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                    "publisher": "TSE — Eleições 2026",
+                    "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                    "publishedAt": "2026",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo",
+                    "notes": "PDF do plano com matriz de implementação por horizontes."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            ],
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
+            "sources": [
+              {
+                "id": "src-cb-04",
+                "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+              },
+              {
+                "id": "src-cb-19",
+                "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                "publisher": "TSE — Eleições 2026",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF do plano com matriz de implementação por horizontes."
+              },
+              {
+                "id": "src-cb-18",
+                "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+                "publisher": "Agemt — Jornalismo PUC-SP",
+                "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Propostas por área: economia, profissional, saúde, educação, segurança e política externa."
+              },
+              {
+                "id": "src-re-complemento1propostas-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "DC: 0 de 513 deputados federais e 0 de 81 senadores",
+            "coalitionSeats": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+            "federations": "Sem federação registrada",
+            "documentedAgreements": 1,
+            "note": "DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); 1 episódio de negociação documentado no histórico da candidata. Retrato atual, não previsão do próximo Congresso."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Ações de fronteira são federais e o policiamento ostensivo é estadual",
+              "detail": "O patrulhamento de fronteiras e a investigação de facções envolvem a Polícia Federal, a PRF e as Forças Armadas; o policiamento ostensivo e a proteção de escolas e áreas vulneráveis dependem das polícias militares estaduais (CF, art. 144). O plano não traz custo, efetivo nem meta de cobertura.",
+              "sources": [
+                {
+                  "id": "src-re-complemento1propostas-01",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-cb-04",
+                  "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                  "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+                },
+                {
+                  "id": "src-cb-19",
+                  "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                  "publisher": "TSE — Eleições 2026",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF do plano com matriz de implementação por horizontes."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo e o cronograma do monitoramento remoto de fronteiras?",
+              "why": "O plano cita sensores, radares e drones sem valores, prazos ou extensão coberta."
+            },
+            {
+              "question": "Como o policiamento orientado por dados se integraria às polícias estaduais?",
+              "why": "A execução é estadual e o plano não descreve o arranjo federativo."
+            },
+            {
+              "question": "Qual o critério do 'sufocamento financeiro' das facções e quais órgãos executariam?",
+              "why": "O plano cita rastreamento de ativos e lavagem sem indicar instrumentos ou metas."
+            }
+          ],
+          "publicExplanation": "Em 24/08/2026 a candidata apresentou propostas para seis áreas de governo, entre elas segurança; não foi localizada explicação com custo, efetivo ou metas de cobertura nas fontes consultadas.",
+          "methodology": "Análise do plano registrado no TSE e das apresentações de campanha de agosto e setembro de 2026, além de atos de partido e de conselhos municipais em Várzea Grande. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal. Ficou de fora a conferência dos indicadores na fonte primária.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Saúde: atenção primária territorial, controle informatizado de filas e telemedicina no SUS",
@@ -793,7 +949,189 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Reforçar a atenção primária territorial, informatizar o controle de filas no SUS e integrar a telemedicina à rede pública.",
+          "requirement": {
+            "path": "depende-municipios",
+            "quorum": "não se aplica: a atenção primária é executada por municípios e o financiamento do SUS é tripartite",
+            "note": "A atenção primária é de execução municipal e o financiamento do SUS é tripartite (CF, arts. 196 e 198); o controle informatizado de filas e a telemedicina dependem de regulação federal e de sistemas estaduais e municipais; o plano não traz custo por eixo."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "2025",
+                "fact": "Como representante da OAB no Conselho Municipal de Saúde de Várzea Grande, defendeu a criação de banco de doadores de medula.",
+                "sources": [
+                  {
+                    "id": "src-cb-74",
+                    "title": "Advogada defende banco de medula no Hemocentro de VG: 'Baixo custo e enorme alcance social'",
+                    "publisher": "VGN (Várzea Grande)",
+                    "url": "https://www.vgnoticias.com.br/cidades/advogada-defende-banco-de-medula-no-hemocentro-de-vg-baixo-custo-e-enorme-alcance-social/132155",
+                    "publishedAt": "2025",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Conselheira e advogada Clariana Barão, representante da OAB/Várzea Grande no Conselho Municipal de Saúde, defende a criação de banco de doadores de medula no futuro hemocentro. Página com bloqueio WAF na coleta; conteúdo lido por resumo indexado."
+                  }
+                ]
+              },
+              {
+                "date": "2026-08-24",
+                "fact": "A saúde é um dos seis eixos apresentados, com atenção primária territorial e telemedicina.",
+                "sources": [
+                  {
+                    "id": "src-cb-04",
+                    "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                    "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                    "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                    "publishedAt": "2026-08-24",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+                  }
+                ]
+              },
+              {
+                "date": "2026-09-05",
+                "fact": "Em entrevista ao Jornal Nacional, apresentou prioridades da área social e de atendimento.",
+                "sources": [
+                  {
+                    "id": "src-cb-12",
+                    "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+                    "publisher": "g1 (Globo) — Jornal Nacional",
+                    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+                    "publishedAt": "2026-09-05",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            ],
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
+            "sources": [
+              {
+                "id": "src-cb-04",
+                "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+              },
+              {
+                "id": "src-cb-19",
+                "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                "publisher": "TSE — Eleições 2026",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF do plano com matriz de implementação por horizontes."
+              },
+              {
+                "id": "src-cb-74",
+                "title": "Advogada defende banco de medula no Hemocentro de VG: 'Baixo custo e enorme alcance social'",
+                "publisher": "VGN (Várzea Grande)",
+                "url": "https://www.vgnoticias.com.br/cidades/advogada-defende-banco-de-medula-no-hemocentro-de-vg-baixo-custo-e-enorme-alcance-social/132155",
+                "publishedAt": "2025",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Conselheira e advogada Clariana Barão, representante da OAB/Várzea Grande no Conselho Municipal de Saúde, defende a criação de banco de doadores de medula no futuro hemocentro. Página com bloqueio WAF na coleta; conteúdo lido por resumo indexado."
+              },
+              {
+                "id": "src-cb-12",
+                "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+                "publishedAt": "2026-09-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+              },
+              {
+                "id": "src-re-complemento1propostas-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "DC: 0 de 513 deputados federais e 0 de 81 senadores",
+            "coalitionSeats": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+            "federations": "Sem federação registrada",
+            "documentedAgreements": 1,
+            "note": "DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); 1 episódio de negociação documentado no histórico da candidata. Retrato atual, não previsão do próximo Congresso."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Atenção primária e filas do SUS dependem de municípios e estados",
+              "detail": "A atenção primária é executada pelos municípios e o financiamento do SUS é tripartite (CF, arts. 196 e 198); filas, regulação e prontuários estão em sistemas estaduais e municipais. O plano não indica custo, meta de cobertura nem como a telemedicina seria regulada.",
+              "sources": [
+                {
+                  "id": "src-re-complemento1propostas-01",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-cb-04",
+                  "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                  "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+                },
+                {
+                  "id": "src-cb-19",
+                  "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                  "publisher": "TSE — Eleições 2026",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF do plano com matriz de implementação por horizontes."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo e a meta de cobertura da atenção primária territorial proposta?",
+              "why": "O plano cita acesso territorial sem número de equipes, custo ou prazo."
+            },
+            {
+              "question": "Como o controle informatizado de filas se integraria aos sistemas estaduais e municipais?",
+              "why": "As filas do SUS são geridas localmente e o plano não descreve a integração."
+            },
+            {
+              "question": "Qual a base normativa e os limites de privacidade do uso de inteligência artificial nas filas?",
+              "why": "O plano menciona inteligência artificial com privacidade preservada sem indicar salvaguardas."
+            }
+          ],
+          "publicExplanation": "Em 24/08/2026 a candidata apresentou os seis eixos, com atenção primária territorial e telemedicina; em 05/09/2026, no Jornal Nacional, detalhou prioridades da área social. Não foi localizada explicação com custo ou meta de cobertura.",
+          "methodology": "Análise do plano registrado no TSE e das apresentações de campanha de agosto e setembro de 2026, além de atos de partido e de conselhos municipais em Várzea Grande. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal. Ficou de fora a conferência dos indicadores na fonte primária.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Educação: alfabetização na idade adequada, formação técnica conectada a vocações regionais e tecnologia nas escolas",
@@ -823,7 +1161,163 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Assegurar alfabetização na idade adequada, ampliar a formação técnica ligada às vocações regionais e usar tecnologia nas escolas.",
+          "requirement": {
+            "path": "depende-municipios",
+            "quorum": "não se aplica: a alfabetização e o ensino médio são executados por redes municipais e estaduais",
+            "note": "A educação básica é executada por municípios e estados, com colaboração e complementação federal (CF, arts. 211 e 212 e FUNDEB); as parcerias com empresas e o uso de tecnologia dependem de regulação e de financiamento; o plano não traz custo nem prazo por meta."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "2026-08-24",
+                "fact": "A educação é um dos seis eixos apresentados, com alfabetização na idade adequada e formação técnica.",
+                "sources": [
+                  {
+                    "id": "src-cb-04",
+                    "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                    "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                    "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                    "publishedAt": "2026-08-24",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+                  }
+                ]
+              },
+              {
+                "date": "2026-09-05",
+                "fact": "Em entrevista ao Jornal Nacional, apresentou as prioridades do plano na área social e educacional.",
+                "sources": [
+                  {
+                    "id": "src-cb-12",
+                    "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+                    "publisher": "g1 (Globo) — Jornal Nacional",
+                    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+                    "publishedAt": "2026-09-05",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            ],
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
+            "sources": [
+              {
+                "id": "src-cb-04",
+                "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+              },
+              {
+                "id": "src-cb-19",
+                "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                "publisher": "TSE — Eleições 2026",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF do plano com matriz de implementação por horizontes."
+              },
+              {
+                "id": "src-cb-12",
+                "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+                "publishedAt": "2026-09-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+              },
+              {
+                "id": "src-re-complemento1propostas-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "DC: 0 de 513 deputados federais e 0 de 81 senadores",
+            "coalitionSeats": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+            "federations": "Sem federação registrada",
+            "documentedAgreements": 1,
+            "note": "DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); 1 episódio de negociação documentado no histórico da candidata. Retrato atual, não previsão do próximo Congresso."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Alfabetização e ensino médio são executados por municípios e estados",
+              "detail": "A alfabetização na idade adequada depende das redes municipais e o ensino médio e técnico, das redes estaduais, com complementação federal pelo FUNDEB (CF, arts. 211 e 212). O plano não indica meta de alfabetização, custo por eixo nem como as parcerias com empresas seriam contratadas.",
+              "sources": [
+                {
+                  "id": "src-re-complemento1propostas-01",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-cb-04",
+                  "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                  "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+                },
+                {
+                  "id": "src-cb-19",
+                  "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                  "publisher": "TSE — Eleições 2026",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF do plano com matriz de implementação por horizontes."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual a meta de alfabetização na idade adequada e o prazo para alcançá-la?",
+              "why": "O plano cita o objetivo sem percentual, ano de referência ou indicador."
+            },
+            {
+              "question": "Como as parcerias com empresas para formação técnica seriam financiadas e fiscalizadas?",
+              "why": "O plano cita parcerias com empresas e instituições de ensino sem modelo ou recursos."
+            },
+            {
+              "question": "Qual o papel do Plano Nacional de Educação no plano da candidata?",
+              "why": "O plano não indica se adere ao PNE vigente nem como articula metas federais e estaduais."
+            }
+          ],
+          "publicExplanation": "Em 24/08/2026 a candidata apresentou a educação entre os seis eixos, com alfabetização na idade adequada e formação técnica conectada às vocações regionais; não foi localizada explicação com meta, custo ou prazo.",
+          "methodology": "Análise do plano registrado no TSE e das apresentações de campanha de agosto e setembro de 2026, além de atos de partido e de conselhos municipais em Várzea Grande. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal. Ficou de fora a conferência dos indicadores na fonte primária.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "'Estado que funciona': governo digital, dados pedidos uma única vez e compras públicas rastreáveis",
@@ -963,7 +1457,189 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Simplificar regras e digitalizar a abertura de empresas, ampliar o crédito a pequenos negócios e conceder infraestrutura à iniciativa privada.",
+          "requirement": {
+            "path": "depende-privado",
+            "quorum": "não se aplica: concessões exigem licitação e contratos com agentes privados",
+            "note": "Concessões e parcerias público-privadas dependem de lei, de licitação e de decisão de investidores (CF, art. 175); a simplificação regulatória e o crédito produtivo envolvem atos, leis e bancos públicos. As fontes localizadas não trazem valores das concessões previstas."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "2026-09-09",
+                "fact": "Defendeu Selic a 7%, capital estrangeiro e industrialização de minerais críticos em entrevista.",
+                "sources": [
+                  {
+                    "id": "src-cb-80",
+                    "title": "Clariana Barão defende Selic a 7%, fim das bets e mudanças no STF (BM&C Talks)",
+                    "publisher": "BM&C News",
+                    "url": "https://bmcnews.com.br/programas-bmc/bmc-talks/clariana-barao-defende-selic-a-7-fim-das-bets-e-mudancas-no-stf/",
+                    "publishedAt": "2026-09-09",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Entrevista em que a candidata declara intenção de buscar capital estrangeiro 'inclusive dos Estados Unidos e da China' para industrializar minerais críticos e terras raras no Brasil ('aqui nós vamos minerar, beneficiar, industrializar')."
+                  }
+                ]
+              },
+              {
+                "date": "2026-08-24",
+                "fact": "A economia é um dos seis eixos apresentados, com simplificação regulatória e crédito a pequenos negócios.",
+                "sources": [
+                  {
+                    "id": "src-cb-04",
+                    "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                    "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                    "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                    "publishedAt": "2026-08-24",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+                  }
+                ]
+              },
+              {
+                "date": "2026-09-05",
+                "fact": "Citou a Selic de 14% ao ano como obstáculo ao crédito em entrevista ao Jornal Nacional.",
+                "sources": [
+                  {
+                    "id": "src-cb-12",
+                    "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+                    "publisher": "g1 (Globo) — Jornal Nacional",
+                    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+                    "publishedAt": "2026-09-05",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "imprensa",
+                    "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            ],
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
+            "sources": [
+              {
+                "id": "src-cb-04",
+                "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+              },
+              {
+                "id": "src-cb-19",
+                "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                "publisher": "TSE — Eleições 2026",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF do plano com matriz de implementação por horizontes."
+              },
+              {
+                "id": "src-cb-80",
+                "title": "Clariana Barão defende Selic a 7%, fim das bets e mudanças no STF (BM&C Talks)",
+                "publisher": "BM&C News",
+                "url": "https://bmcnews.com.br/programas-bmc/bmc-talks/clariana-barao-defende-selic-a-7-fim-das-bets-e-mudancas-no-stf/",
+                "publishedAt": "2026-09-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Entrevista em que a candidata declara intenção de buscar capital estrangeiro 'inclusive dos Estados Unidos e da China' para industrializar minerais críticos e terras raras no Brasil ('aqui nós vamos minerar, beneficiar, industrializar')."
+              },
+              {
+                "id": "src-cb-12",
+                "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+                "publishedAt": "2026-09-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+              },
+              {
+                "id": "src-re-complemento1propostas-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "DC: 0 de 513 deputados federais e 0 de 81 senadores",
+            "coalitionSeats": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+            "federations": "Sem federação registrada",
+            "documentedAgreements": 1,
+            "note": "DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); 1 episódio de negociação documentado no histórico da candidata. Retrato atual, não previsão do próximo Congresso."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Concessões e crédito dependem de licitação, de bancos públicos e da taxa do Copom",
+              "detail": "Concessões e parcerias público-privadas dependem de lei, de licitação e de decisão de investidores (CF, art. 175 e Lei 8.987/1995); a taxa Selic é definida pelo Comitê de Política Monetária, com autonomia do Banco Central (LC 179/2021). O plano não traz valores, cronograma de leilões nem fonte de recursos.",
+              "sources": [
+                {
+                  "id": "src-re-complemento1propostas-01",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-cb-80",
+                  "title": "Clariana Barão defende Selic a 7%, fim das bets e mudanças no STF (BM&C Talks)",
+                  "publisher": "BM&C News",
+                  "url": "https://bmcnews.com.br/programas-bmc/bmc-talks/clariana-barao-defende-selic-a-7-fim-das-bets-e-mudancas-no-stf/",
+                  "publishedAt": "2026-09-09",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Entrevista em que a candidata declara intenção de buscar capital estrangeiro 'inclusive dos Estados Unidos e da China' para industrializar minerais críticos e terras raras no Brasil ('aqui nós vamos minerar, beneficiar, industrializar')."
+                },
+                {
+                  "id": "src-cb-19",
+                  "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                  "publisher": "TSE — Eleições 2026",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "PDF do plano com matriz de implementação por horizontes."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Quais ativos e trechos seriam concedidos e com qual cronograma de leilões?",
+              "why": "O plano cita ferrovias, hidrovias, portos e cabotagem sem lista, prazo ou valor."
+            },
+            {
+              "question": "Qual a fonte de recursos e o desenho das garantias para o crédito a pequenos negócios?",
+              "why": "O plano cita crédito e garantias sem valores ou instrumento financeiro indicado."
+            },
+            {
+              "question": "Como a Selic a 7% conviveria com o regime de metas de inflação?",
+              "why": "A taxa é definida pelo Comitê de Política Monetária e o plano não indica o caminho para a redução."
+            }
+          ],
+          "publicExplanation": "Em 09/09/2026 a candidata defendeu Selic a 7%, fim das bets e mudanças no STF, citando capital estrangeiro para industrializar minerais críticos; o programa de governo registrado não detalha custo ou cronograma das concessões.",
+          "methodology": "Análise do plano registrado no TSE e das apresentações de campanha de agosto e setembro de 2026, além de atos de partido e de conselhos municipais em Várzea Grande. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal. Ficou de fora a conferência dos indicadores na fonte primária.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       }
     ],
     "updatedAt": "2026-09-29"
@@ -2570,6 +3246,16 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial",
       "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+    },
+    {
+      "id": "src-re-complemento1propostas-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
     }
   ],
   "updatedAt": "2026-09-29",

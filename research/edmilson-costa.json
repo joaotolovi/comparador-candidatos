@@ -637,7 +637,235 @@
             "sourceType": "oficial_eleitoral",
             "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Auditar a dívida pública e suspender o pagamento de juros, revogando o arcabouço fiscal e a Lei de Responsabilidade Fiscal.",
+          "requirement": {
+            "path": "lei-complementar",
+            "quorum": "Lei complementar: 257 deputados e 41 senadores — maioria absoluta (CF, art. 69)",
+            "note": "A LRF é a LC 101/2000 e o arcabouço fiscal, a LC 200/2023, sancionada em 2023 e vigente em 2026; revogar matéria reservada a lei complementar exige maioria absoluta nas duas Casas. A suspensão de juros afeta a rolagem da Dívida Pública Federal, de R$ 9,29 trilhões em julho de 2026."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Ago/2009",
+                "fact": "A Câmara instalou comissão para auditoria da dívida pública, demanda de movimentos sociais desde a Constituinte.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-01",
+                    "title": "August 19, 2009: A Historic day for Brazil — Parliament set up a Commission to audit the Brazilian public debt",
+                    "publisher": "CADTM / Auditoria Cidadã da Dívida",
+                    "url": "https://cadtm.org/August-19-2009-A-Historic-day-for",
+                    "date": "2009-08-19",
+                    "type": "movimento social",
+                    "notes": "Relato da instalação, em 19/08/2009, da comissão parlamentar de auditoria da dívida pública."
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2026",
+                "fact": "O programa registrado inscreve auditoria e suspensão de juros da dívida entre as transformações propostas.",
+                "sources": [
+                  {
+                    "id": "src-ec-05",
+                    "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+                    "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+                    "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                    "publishedAt": "2026-08-14",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo",
+                    "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2026",
+                "fact": "O candidato cita a dívida interna como limite do fundo público em entrevista publicada pelo partido.",
+                "sources": [
+                  {
+                    "id": "src-ec-16",
+                    "title": "Entrevista de Edmilson Costa para Opera Mundi (publicada no site do PCB)",
+                    "publisher": "Opera Mundi (transcrição no site do PCB)",
+                    "url": "https://pcb.org.br/portal2/33754",
+                    "publishedAt": "2026-04-01",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "partidaria",
+                    "notes": "Entrevista gravada em 17/03/2026 e publicada em 01/04/2026: alianças da esquerda, divergência com o PCdoB, unidade de ação com o PT nas lutas sociais, independência frente ao governo, indefinição sobre 2º turno e a dissidência de Jones Manoel. Transcrição hospedada no site do partido — usada com marcação partidária."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "Jul/2026",
+                "fact": "A Dívida Pública Federal chegou a R$ 9,29 trilhões, com apropriação de juros de R$ 85,53 bilhões no mês.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-03",
+                    "title": "Dívida pública vai a R$ 9,29 trilhões em julho de 2026",
+                    "publisher": "Poder360",
+                    "url": "https://www.poder360.com.br/poder-economia/divida-publica-vai-a-r-929-trilhoes-em-julho-de-2026/",
+                    "date": "2026-08",
+                    "type": "imprensa",
+                    "notes": "Estoque da Dívida Pública Federal e apropriação de juros de R$ 85,53 bi no mês."
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2023",
+                "fact": "O arcabouço fiscal foi sancionado como LC 200/2023 e substituiu o teto de gastos, com limite de crescimento real de 2,5% ao ano.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-02",
+                    "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+                    "publisher": "Agência Câmara de Notícias",
+                    "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+                    "date": "2023-08-31",
+                    "type": "legislativo",
+                    "notes": "Sanção da LC 200/2023."
+                  }
+                ]
+              },
+              {
+                "date": "Set/2026",
+                "fact": "O Orçamento de 2026 seguiu as regras vigentes, com contenção de R$ 16,1 bilhões entre bloqueio e contingenciamento.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-05",
+                    "title": "Governo reduz congelamento no Orçamento para R$ 16,1 bilhões em 2026",
+                    "publisher": "CNN Brasil",
+                    "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+                    "date": "2026-09-24",
+                    "type": "imprensa",
+                    "notes": "Relatório bimestral de setembro de 2026: bloqueio e contingenciamento."
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Revogar a LRF e o arcabouço exige lei complementar nas duas Casas",
+              "detail": "A LRF é a LC 101/2000 e o arcabouço é a LC 200/2023: revogar essas normas exige maioria absoluta, 257 deputados e 41 senadores. O programa não indica o texto substituto nem o efeito da suspensão sobre a rolagem da dívida de R$ 9,29 trilhões (jul/2026) e sobre contratos em vigor.",
+              "sources": [
+                {
+                  "id": "src-ec-05",
+                  "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+                  "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                  "publishedAt": "2026-08-14",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+                },
+                {
+                  "id": "src-re-complemento2propostas-02",
+                  "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+                  "publisher": "Agência Câmara de Notícias",
+                  "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+                  "date": "2023-08-31",
+                  "type": "legislativo",
+                  "notes": "Sanção da LC 200/2023."
+                },
+                {
+                  "id": "src-re-complemento2propostas-03",
+                  "title": "Dívida pública vai a R$ 9,29 trilhões em julho de 2026",
+                  "publisher": "Poder360",
+                  "url": "https://www.poder360.com.br/poder-economia/divida-publica-vai-a-r-929-trilhoes-em-julho-de-2026/",
+                  "date": "2026-08",
+                  "type": "imprensa",
+                  "notes": "Estoque da Dívida Pública Federal e apropriação de juros de R$ 85,53 bi no mês."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "Suspender juros convive com 10% do PIB na saúde e estatização do ensino, sem custo estimado",
+              "detail": "O mesmo programa prevê 10% do PIB para a saúde, estatização do ensino privado, jornada de 30 horas e aumento de salários. Não localizamos no documento registrado estimativa de custo, prazo de transição ou fonte de recursos para o conjunto das medidas.",
+              "sources": [
+                {
+                  "id": "src-ec-05",
+                  "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+                  "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                  "publishedAt": "2026-08-14",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+                },
+                {
+                  "id": "src-ec-04",
+                  "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+                  "publisher": "TSE — Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial_eleitoral",
+                  "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "A suspensão alcança juros da dívida interna, externa ou ambas, e quais credores seriam afetados?",
+              "why": "O programa cita auditoria e suspensão sem distinguir estoque, credores públicos e privados, fundos de pensão e contratos em vigor.",
+              "sources": [
+                {
+                  "id": "src-ec-05",
+                  "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+                  "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                  "publishedAt": "2026-08-14",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+                }
+              ]
+            },
+            {
+              "question": "Qual norma passaria a limitar as despesas no lugar da LRF e do arcabouço fiscal?",
+              "why": "Os dois regimes fixam limites de gasto e pisos de saúde e educação; o documento registrado não indica o substituto nem a regra de transição.",
+              "sources": [
+                {
+                  "id": "src-ec-05",
+                  "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+                  "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                  "publishedAt": "2026-08-14",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+                },
+                {
+                  "id": "src-re-complemento2propostas-02",
+                  "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+                  "publisher": "Agência Câmara de Notícias",
+                  "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+                  "date": "2023-08-31",
+                  "type": "legislativo",
+                  "notes": "Sanção da LC 200/2023."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato liga o item ao destino do fundo público: em entrevista publicada pelo partido, afirma que a dívida interna limita a capacidade de investimento social. O programa atribui a viabilidade das transformações ao grau de industrialização do país e à mobilização popular, sem quantificar o efeito da suspensão de juros.",
+          "methodology": "Leitura do programa do PCB registrado no TSE e do índice oficial de propostas, de entrevista e artigos do candidato no site do partido, da LC 200/2023 e de dados de dívida divulgados pela imprensa em 2026. O candidato nunca exerceu cargo público. Ficaram de fora a composição da dívida por detentor e a minuta de revogação, não localizadas.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Saúde 100% pública com estatização do setor privado e 10% do PIB",
@@ -752,7 +980,208 @@
             "sourceType": "oficial_eleitoral",
             "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Estatizar o ensino privado, acabar com o vestibular nas federais e ampliar as cotas, com piso salarial nacional da educação.",
+          "requirement": {
+            "path": "pec",
+            "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+            "note": "Estatizar instituições privadas de ensino altera o art. 209 da Constituição e exige indenização (art. 5º, XXIV); hoje o ingresso nas federais se dá pelo Sisu, com a nota do Enem, sob autonomia didático-científica (art. 207), e as cotas são definidas em lei ordinária (Lei 12.711/2012, revisada pela Lei 14.723/2023)."
+          },
+          "history": {
+            "aligned": [
+              {
+                "date": "Jan/2010",
+                "fact": "O MEC criou o Sisu, e as instituições federais passaram a selecionar alunos pela nota do Enem.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-06",
+                    "title": "Sistema de Seleção Unificada (Sisu) — plataforma lançada pelo MEC em janeiro de 2010",
+                    "publisher": "Wikipédia (em inglês)",
+                    "url": "https://en.wikipedia.org/wiki/Sistema_de_Sele%C3%A7%C3%A3o_Unificada",
+                    "date": "2010",
+                    "type": "referência",
+                    "notes": "Ingresso em instituições federais e estaduais pela nota do Enem."
+                  }
+                ]
+              },
+              {
+                "date": "Nov/2023",
+                "fact": "O Congresso revisou a Lei de Cotas (Lei 14.723/2023), mantendo a reserva de 50% das vagas nas instituições federais.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-07",
+                    "title": "Lei de Cotas: o que muda com a atualização (sanção da Lei 14.723/2023)",
+                    "publisher": "Estratégia Vestibulares",
+                    "url": "https://vestibulares.estrategia.com/portal/enem-e-vestibulares/vestibulares/lei-de-cotas-o-que-muda-com-a-atualizacao/",
+                    "date": "2023-11-13",
+                    "type": "imprensa",
+                    "notes": "Revisão da Lei 12.711/2012, sancionada sem vetos em 13/11/2023."
+                  }
+                ]
+              },
+              {
+                "date": "Ago/2026",
+                "fact": "O programa registrado propõe fim do vestibular, cotas de 54% para pessoas negras e piso salarial nacional da educação.",
+                "sources": [
+                  {
+                    "id": "src-ec-05",
+                    "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+                    "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+                    "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                    "publishedAt": "2026-08-14",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "plano_de_governo",
+                    "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+                  }
+                ]
+              }
+            ],
+            "divergent": [
+              {
+                "date": "2024",
+                "fact": "A maior parte das matrículas do ensino superior está na rede privada, segundo o Censo da Educação Superior.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento2propostas-08",
+                    "title": "Censo da Educação Superior 2024 — apresentação dos resultados",
+                    "publisher": "Inep / Ministério da Educação",
+                    "url": "https://download.inep.gov.br/educacao_superior/censo_superior/documentos/2024/apresentacao_censo_da_educacao_superior_2024.pdf",
+                    "date": "2025",
+                    "type": "oficial",
+                    "notes": "Matrículas por categoria administrativa (pública e privada)."
+                  }
+                ]
+              },
+              {
+                "date": "2026",
+                "fact": "A Constituição admite a iniciativa privada no ensino (art. 209) e condiciona expropriações a indenização prévia e justa (art. 5º, XXIV).",
+                "sources": [
+                  {
+                    "id": "src-re-r3propostas-02",
+                    "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                    "publisher": "Presidência da República — Planalto",
+                    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                    "publishedAt": "1988-10-05",
+                    "accessedAt": "2026-09-29",
+                    "sourceType": "oficial"
+                  }
+                ]
+              }
+            ]
+          },
+          "support": {
+            "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+            "federations": "Nenhuma federação partidária registrada",
+            "documentedAgreements": 0,
+            "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Estatizar o ensino privado altera o art. 209 e exige indenização prévia",
+              "detail": "A Constituição assegura a liberdade de iniciativa no ensino (art. 209) e condiciona desapropriações a indenização justa e prévia (art. 5º, XXIV). A mudança envolve emenda constitucional, com 308 deputados e 49 senadores em dois turnos, e o programa não estima custo nem cronograma.",
+              "sources": [
+                {
+                  "id": "src-ec-05",
+                  "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+                  "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                  "publishedAt": "2026-08-14",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+                },
+                {
+                  "id": "src-re-r3propostas-02",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Ingresso sem processo seletivo nas universidades federais sem precedente localizado",
+              "detail": "Desde 2010 a seleção nas federais é feita pelo Sisu, com a nota do Enem, dentro da autonomia didático-científica (art. 207). Não localizamos precedente de ingresso em universidades públicas sem processo seletivo nem projeto de lei em tramitação que o preveja.",
+              "sources": [
+                {
+                  "id": "src-re-complemento2propostas-06",
+                  "title": "Sistema de Seleção Unificada (Sisu) — plataforma lançada pelo MEC em janeiro de 2010",
+                  "publisher": "Wikipédia (em inglês)",
+                  "url": "https://en.wikipedia.org/wiki/Sistema_de_Sele%C3%A7%C3%A3o_Unificada",
+                  "date": "2010",
+                  "type": "referência",
+                  "notes": "Ingresso em instituições federais e estaduais pela nota do Enem."
+                },
+                {
+                  "id": "src-re-r3propostas-02",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Sem vestibular, como se definiria o acesso às vagas — inscrição, sorteio ou critério de escola pública?",
+              "why": "O documento fixa o fim do processo seletivo, mas não indica o mecanismo de distribuição das vagas nas universidades federais.",
+              "sources": [
+                {
+                  "id": "src-ec-05",
+                  "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+                  "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                  "publishedAt": "2026-08-14",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+                }
+              ]
+            },
+            {
+              "question": "Qual o custo previsto para incorporar as instituições privadas de ensino e como seria a indenização?",
+              "why": "O programa prevê estatização do ensino privado, que concentra a maior parte das matrículas do ensino superior, sem estimativa de custo ou cronograma.",
+              "sources": [
+                {
+                  "id": "src-ec-05",
+                  "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+                  "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                  "publishedAt": "2026-08-14",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+                },
+                {
+                  "id": "src-re-complemento2propostas-08",
+                  "title": "Censo da Educação Superior 2024 — apresentação dos resultados",
+                  "publisher": "Inep / Ministério da Educação",
+                  "url": "https://download.inep.gov.br/educacao_superior/censo_superior/documentos/2024/apresentacao_censo_da_educacao_superior_2024.pdf",
+                  "date": "2025",
+                  "type": "oficial",
+                  "notes": "Matrículas por categoria administrativa (pública e privada)."
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "\"Acreditamos plenamente que as propostas do Programa Político do PCB são viáveis porque o Brasil está maduro para o Socialismo\", diz o programa, que liga o fim do vestibular à universalização do acesso e não trata do custo da estatização do ensino privado nem do modelo de seleção sem vestibular.",
+          "methodology": "Leitura do programa do PCB e do índice oficial de propostas no TSE, da Lei de Cotas e de sua revisão de 2023, do texto constitucional (arts. 207, 209 e 5º) e do Censo da Educação Superior 2024. O candidato nunca exerceu cargo público. Ficaram de fora o custo da estatização e os critérios de transição, não detalhados.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Desmilitarização e unificação das polícias; fim da 'guerra às drogas'",
@@ -2740,6 +3169,69 @@
       "accessedAt": "2026-09-29",
       "sourceType": "documento_partidario",
       "notes": "Comunicado datado de 02/06/2024 e publicado em 03/06/2024: 'Entre os dias 29/05 e 02/06, encerramos vitoriosamente a etapa nacional do XVII Congresso (Extraordinário)' e 'A partir deste XVII Congresso (Extraordinário), adotamos a denominação de Partido Comunista Brasileiro Revolucionário (PCBR)', com rompimento declarado com a 'legenda eleitoral'. É a versão de um dos polos da disputa interna; o verbete do PCB não registra o XVII congresso."
+    },
+    {
+      "id": "src-re-complemento2propostas-06",
+      "title": "Sistema de Seleção Unificada (Sisu) — plataforma lançada pelo MEC em janeiro de 2010",
+      "publisher": "Wikipédia (em inglês)",
+      "url": "https://en.wikipedia.org/wiki/Sistema_de_Sele%C3%A7%C3%A3o_Unificada",
+      "date": "2010",
+      "type": "referência",
+      "notes": "Ingresso em instituições federais e estaduais pela nota do Enem."
+    },
+    {
+      "id": "src-re-complemento2propostas-07",
+      "title": "Lei de Cotas: o que muda com a atualização (sanção da Lei 14.723/2023)",
+      "publisher": "Estratégia Vestibulares",
+      "url": "https://vestibulares.estrategia.com/portal/enem-e-vestibulares/vestibulares/lei-de-cotas-o-que-muda-com-a-atualizacao/",
+      "date": "2023-11-13",
+      "type": "imprensa",
+      "notes": "Revisão da Lei 12.711/2012, sancionada sem vetos em 13/11/2023."
+    },
+    {
+      "id": "src-re-complemento2propostas-05",
+      "title": "Governo reduz congelamento no Orçamento para R$ 16,1 bilhões em 2026",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+      "date": "2026-09-24",
+      "type": "imprensa",
+      "notes": "Relatório bimestral de setembro de 2026: bloqueio e contingenciamento."
+    },
+    {
+      "id": "src-re-complemento2propostas-03",
+      "title": "Dívida pública vai a R$ 9,29 trilhões em julho de 2026",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-economia/divida-publica-vai-a-r-929-trilhoes-em-julho-de-2026/",
+      "date": "2026-08",
+      "type": "imprensa",
+      "notes": "Estoque da Dívida Pública Federal e apropriação de juros de R$ 85,53 bi no mês."
+    },
+    {
+      "id": "src-re-complemento2propostas-08",
+      "title": "Censo da Educação Superior 2024 — apresentação dos resultados",
+      "publisher": "Inep / Ministério da Educação",
+      "url": "https://download.inep.gov.br/educacao_superior/censo_superior/documentos/2024/apresentacao_censo_da_educacao_superior_2024.pdf",
+      "date": "2025",
+      "type": "oficial",
+      "notes": "Matrículas por categoria administrativa (pública e privada)."
+    },
+    {
+      "id": "src-re-complemento2propostas-02",
+      "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+      "date": "2023-08-31",
+      "type": "legislativo",
+      "notes": "Sanção da LC 200/2023."
+    },
+    {
+      "id": "src-re-complemento2propostas-01",
+      "title": "August 19, 2009: A Historic day for Brazil — Parliament set up a Commission to audit the Brazilian public debt",
+      "publisher": "CADTM / Auditoria Cidadã da Dívida",
+      "url": "https://cadtm.org/August-19-2009-A-Historic-day-for",
+      "date": "2009-08-19",
+      "type": "movimento social",
+      "notes": "Relato da instalação, em 19/08/2009, da comissão parlamentar de auditoria da dívida pública."
     }
   ],
   "updatedAt": "2026-09-29",
