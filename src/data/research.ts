@@ -1,6 +1,6 @@
 // ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
 // 13 candidato(s) com pesquisa profunda; os demais ficam só no seed.
-// Gerado em: 2026-09-29T20:41:09.984Z
+// Gerado em: 2026-09-29T20:43:21.425Z
 import type { Candidate } from "@/types";
 
 export const researched: Partial<Candidate>[] = [
@@ -465,10 +465,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: 2026 é sua primeira candidatura e ele nunca exerceu cargo eletivo ou de nomeação; marcos são empresa, partido e campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 5,
-                "senado": 1
-              },
+              "partySeats": "Câmara: 5 · Senado: 1",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -594,10 +591,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu cargo eletivo ou de nomeação nem dirigiu serviço público de saúde; marcos são empresa, partido e campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 5,
-                "senado": 1
-              },
+              "partySeats": "Câmara: 5 · Senado: 1",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -703,10 +697,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: 2026 é sua primeira candidatura e ele nunca exerceu cargo eletivo ou de nomeação; marcos são empresa, partido e campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 5,
-                "senado": 1
-              },
+              "partySeats": "Câmara: 5 · Senado: 1",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -851,10 +842,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu cargo eletivo ou de nomeação; o histórico comparável é empresarial e partidário."
             },
             "support": {
-              "partySeats": {
-                "camara": 5,
-                "senado": 1
-              },
+              "partySeats": "Câmara: 5 · Senado: 1",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -960,10 +948,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em segurança pública ou gestão de forças: nunca exerceu cargo público; marcos são atos de empresa, partido e campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 5,
-                "senado": 1
-              },
+              "partySeats": "Câmara: 5 · Senado: 1",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -1108,10 +1093,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu cargo eletivo ou de nomeação nem atuou em política agrícola; marcos são empresa, partido e campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 5,
-                "senado": 1
-              },
+              "partySeats": "Câmara: 5 · Senado: 1",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -2042,11 +2024,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -3576,11 +3557,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -3641,7 +3621,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "OPEB — Observatório da Política Externa Brasileira",
                 "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-augusto-cury-avante/",
                 "publishedAt": "2026-09-27",
-                "date": "2026-09-27",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Análise do plano de 200 páginas 'O Brasil dos Nossos Sonhos': capítulo de relações internacionais, embaixadas orientadas a negócios, Brics, Mercosul e OCDE; página lida por inteiro via curl."
@@ -3652,7 +3631,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Valor International",
                 "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
                 "publishedAt": "2026-09-22",
-                "date": "2026-09-22",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
@@ -3681,7 +3659,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "OPEB — Observatório da Política Externa Brasileira",
                 "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-augusto-cury-avante/",
                 "publishedAt": "2026-09-27",
-                "date": "2026-09-27",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Análise do plano de 200 páginas 'O Brasil dos Nossos Sonhos': capítulo de relações internacionais, embaixadas orientadas a negócios, Brics, Mercosul e OCDE; página lida por inteiro via curl."
@@ -3692,7 +3669,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Agência Senado",
                 "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
                 "publishedAt": "2026-05-04",
-                "date": "2026-05-04",
                 "accessedAt": "2026-09-29",
                 "sourceType": "legislativo",
                 "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
@@ -4106,22 +4082,20 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-re-t05",
             "title": "Cury propõe cortar 15 mil comissionados e dividir BNDES",
             "url": "https://www.spacemoney.com.br/politica/augusto-cury-reforma-administrativa",
             "publisher": "SpaceMoney",
-            "date": "2026-08-18",
-            "type": "imprensa",
             "notes": "Declarações do candidato em entrevista ao SBT News (18/08/2026).",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "imprensa",
+            "publishedAt": "2026-08-18",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -4175,11 +4149,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-ac-20",
@@ -4243,11 +4216,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-ac-05",
@@ -4311,11 +4283,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-ac-05",
@@ -4379,22 +4350,20 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-re-t03",
             "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
             "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
             "publisher": "Portal Amazônia",
-            "date": "2026-09-29",
-            "type": "imprensa",
             "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "imprensa",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -4448,11 +4417,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -4506,11 +4474,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -4612,11 +4579,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -4670,11 +4636,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -6155,11 +6120,10 @@ export const researched: Partial<Candidate>[] = [
         "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
         "publisher": "Presidência da República — Planalto",
-        "date": "1988-10-05",
-        "type": "oficial_legislacao",
         "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "1988-10-05",
+        "accessedAt": ""
       },
       {
         "id": "src-mundo-02",
@@ -6167,7 +6131,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
         "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
         "publishedAt": "2026-09-17",
-        "date": "2026-09-17",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
@@ -6178,7 +6141,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Agência Senado",
         "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
         "publishedAt": "2026-05-04",
-        "date": "2026-05-04",
         "accessedAt": "2026-09-29",
         "sourceType": "legislativo",
         "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
@@ -6189,7 +6151,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Valor International",
         "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
         "publishedAt": "2026-09-22",
-        "date": "2026-09-22",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
@@ -6200,7 +6161,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "OPEB — Observatório da Política Externa Brasileira",
         "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-augusto-cury-avante/",
         "publishedAt": "2026-09-27",
-        "date": "2026-09-27",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Análise do plano de 200 páginas 'O Brasil dos Nossos Sonhos': capítulo de relações internacionais, embaixadas orientadas a negócios, Brics, Mercosul e OCDE; página lida por inteiro via curl."
@@ -6220,33 +6180,30 @@ export const researched: Partial<Candidate>[] = [
         "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
         "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
         "publisher": "Plano de Governo 2026",
-        "date": "2026-09-29",
-        "type": "agregador",
         "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "editorial",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-t03",
         "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
         "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
         "publisher": "Portal Amazônia",
-        "date": "2026-09-29",
-        "type": "imprensa",
         "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-t05",
         "title": "Cury propõe cortar 15 mil comissionados e dividir BNDES",
         "url": "https://www.spacemoney.com.br/politica/augusto-cury-reforma-administrativa",
         "publisher": "SpaceMoney",
-        "date": "2026-08-18",
-        "type": "imprensa",
         "notes": "Declarações do candidato em entrevista ao SBT News (18/08/2026).",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-08-18",
+        "accessedAt": ""
       }
     ],
     "updatedAt": "2026-09-29"
@@ -6815,22 +6772,20 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Saúde realiza mais de 338 mil cirurgias eletivas em dois anos em Goiás",
                     "publisher": "Agência Goiás de Notícias",
                     "url": "https://agencia.go.gov.br/saude-realiza-mais-de-338-mil-cirurgias-eletivas-em-dois-anos/",
-                    "date": "2024",
-                    "type": "executivo_estadual",
                     "notes": "Jan/2023 a nov/2024: 338.883 cirurgias eletivas, com fila única e regulação por critério clínico.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2024",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-12",
                     "title": "Comissão de Saúde debate adoção de prontuário eletrônico único no SUS",
                     "publisher": "Câmara dos Deputados — Agência Câmara",
                     "url": "https://www.camara.leg.br/noticias/1057930-comissao-de-saude-debate-adocao-de-prontuario-eletronico-unico-no-sus/",
-                    "date": "2024-05-07",
-                    "type": "legislativo",
                     "notes": "Nota registra 30 projetos de lei sobre o tema em discussão na Câmara.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2024-05-07",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -6956,11 +6911,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Saúde realiza mais de 338 mil cirurgias eletivas em dois anos em Goiás",
                     "publisher": "Agência Goiás de Notícias",
                     "url": "https://agencia.go.gov.br/saude-realiza-mais-de-338-mil-cirurgias-eletivas-em-dois-anos/",
-                    "date": "2024",
-                    "type": "executivo_estadual",
                     "notes": "Jan/2023 a nov/2024: 338.883 cirurgias eletivas, com fila única e regulação por critério clínico.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2024",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -7056,20 +7010,18 @@ export const researched: Partial<Candidate>[] = [
                     "title": "André Mendonça suspende pagamento acima do teto a magistrados de Goiás",
                     "publisher": "Migalhas",
                     "url": "https://www.migalhas.com.br/quentes/390454/andre-mendonca-suspende-pagamento-acima-do-teto-a-magistrados-de-goias",
-                    "date": "2023-07-23",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2023-07-23",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-36",
                     "title": "Plenário mantém suspensão de normas de Goiás sobre remuneração acima do teto",
                     "publisher": "STF — Portal de Notícias",
                     "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=513780",
-                    "date": "2023-09-11",
-                    "type": "tribunal",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "tribunal",
+                    "publishedAt": "2023-09-11",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -7085,10 +7037,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Plenário mantém suspensão de normas de Goiás sobre remuneração acima do teto",
                     "publisher": "STF — Portal de Notícias",
                     "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=513780",
-                    "date": "2023-09-11",
-                    "type": "tribunal",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "tribunal",
+                    "publishedAt": "2023-09-11",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-caiado-80",
@@ -7193,20 +7144,18 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Congresso aprova R$ 4,9 bi ao fundão eleitoral e esconde voto de parlamentares",
                     "publisher": "UOL Notícias",
                     "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/12/04/congresso-aprova-r-49-bi-a-fundao-eleitoral-e-esconde-voto-de-par",
-                    "date": "2025-12-04",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2025-12-04",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-55",
                     "title": "Fundo Partidário: 19 partidos receberam mais de R$ 1 bilhão em 2025; NOVO ficou fora por não atingir a cláusula de desempenho",
                     "publisher": "TSE — Tribunal Superior Eleitoral",
                     "url": "https://tse.jus.br/comunicacao/noticias/2026/Janeiro/fundo-partidario-19-partidos-receberam-mais-de-r-1-bilhao-em-2025",
-                    "date": "2026-01",
-                    "type": "oficial_eleitoral",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "oficial_eleitoral",
+                    "publishedAt": "2026-01",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -7331,10 +7280,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Câmara aprova em segundo turno PEC da Segurança Pública (461x14 no 2º turno; texto segue ao Senado)",
                     "publisher": "Agência Brasil (EBC)",
                     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/camara-aprova-em-segundo-turno-pec-da-seguranca-publica",
-                    "date": "2026-03-05",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-03-05",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -7429,11 +7377,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Aumento do Bolsa Família: veja perguntas e respostas",
                     "publisher": "g1",
                     "url": "https://g1.globo.com/economia/noticia/2026/09/18/aumento-do-bolsa-familia-veja-perguntas-e-respostas.ghtml",
-                    "date": "2026-09-18",
-                    "type": "imprensa",
                     "notes": "Reajuste do piso de R$ 600 para R$ 691 e benefício médio de R$ 675 para R$ 777; representação no TSE pedindo suspensão.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-09-18",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -8244,33 +8191,30 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-02",
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "parcial",
@@ -8558,33 +8502,30 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-02",
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -8896,11 +8837,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -9106,33 +9046,30 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-02",
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "parcial",
@@ -9978,11 +9915,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "parcial",
@@ -10062,10 +9998,8 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Lawletter (Filippe Augusto)",
                 "url": "https://lawletter.com.br/articulista/filippe-augusto/caiado-negociou-terras-raras-direto-com-os-eua-mas-quem-pode-fazer-isso-no-brasil",
                 "publishedAt": "2026-04-03",
-                "date": "2026-04-03",
                 "accessedAt": "2026-09-29",
-                "type": "editorial",
-                "sourceType": "imprensa"
+                "sourceType": "editorial"
               },
               {
                 "id": "src-re-08",
@@ -10073,10 +10007,8 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Consultor Jurídico (Conjur)",
                 "url": "https://conjur.com.br/2026-abr-26/acordo-goias-eua-sobre-terras-raras-e-totalmente-inconstitucional-2/",
                 "publishedAt": "2026-04-26",
-                "date": "2026-04-26",
                 "accessedAt": "2026-09-29",
-                "type": "editorial",
-                "sourceType": "imprensa"
+                "sourceType": "editorial"
               },
               {
                 "id": "src-re-09",
@@ -10084,9 +10016,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Veja",
                 "url": "https://veja.abril.com.br/brasil/mpf-abre-procedimento-para-acompanhar-acordo-sobre-terras-raras-de-goias-com-os-eua/",
                 "publishedAt": "2026-07-26",
-                "date": "2026-07-26",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               }
             ],
@@ -10163,10 +10093,8 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Câmara dos Deputados",
                 "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
                 "publishedAt": "2026-02-02",
-                "date": "2026-02-02",
                 "accessedAt": "2026-09-29",
-                "type": "legislativo",
-                "sourceType": "imprensa"
+                "sourceType": "legislativo"
               }
             ],
             "evidenceStatus": "parcial",
@@ -13769,33 +13697,30 @@ export const researched: Partial<Candidate>[] = [
         "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
         "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
         "publisher": "Câmara dos Deputados — Dados Abertos",
-        "date": "2026-09-29",
-        "type": "oficial_dados_abertos",
         "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1capacidades-02",
         "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
         "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
         "publisher": "Senado Federal — Dados Abertos",
-        "date": "2026-09-29",
-        "type": "oficial_dados_abertos",
         "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1capacidades-01",
         "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
         "publisher": "Presidência da República — Planalto",
-        "date": "1988-10-05",
-        "type": "oficial_legislacao",
         "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "1988-10-05",
+        "accessedAt": ""
       },
       {
         "id": "src-re-09",
@@ -13803,9 +13728,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Veja",
         "url": "https://veja.abril.com.br/brasil/mpf-abre-procedimento-para-acompanhar-acordo-sobre-terras-raras-de-goias-com-os-eua/",
         "publishedAt": "2026-07-26",
-        "date": "2026-07-26",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -13814,10 +13737,8 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Lawletter (Filippe Augusto)",
         "url": "https://lawletter.com.br/articulista/filippe-augusto/caiado-negociou-terras-raras-direto-com-os-eua-mas-quem-pode-fazer-isso-no-brasil",
         "publishedAt": "2026-04-03",
-        "date": "2026-04-03",
         "accessedAt": "2026-09-29",
-        "type": "editorial",
-        "sourceType": "imprensa"
+        "sourceType": "editorial"
       },
       {
         "id": "src-re-08",
@@ -13825,10 +13746,8 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Consultor Jurídico (Conjur)",
         "url": "https://conjur.com.br/2026-abr-26/acordo-goias-eua-sobre-terras-raras-e-totalmente-inconstitucional-2/",
         "publishedAt": "2026-04-26",
-        "date": "2026-04-26",
         "accessedAt": "2026-09-29",
-        "type": "editorial",
-        "sourceType": "imprensa"
+        "sourceType": "editorial"
       },
       {
         "id": "src-re-22",
@@ -13836,177 +13755,159 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Câmara dos Deputados",
         "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
         "publishedAt": "2026-02-02",
-        "date": "2026-02-02",
         "accessedAt": "2026-09-29",
-        "type": "legislativo",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo"
       },
       {
         "id": "src-re-r1propostas-48",
         "title": "Derrubada de veto ao reajuste dos servidores ganha força na Assembleia de MG",
         "publisher": "Estado de Minas",
         "url": "https://www.em.com.br/app/noticia/politica/2020/03/13/interna_politica,1128413/queda-de-veto-ao-reajuste-dos-servidores-ganha-forca-na-assembleia.shtml",
-        "date": "2020-03-13",
-        "type": "imprensa",
         "notes": "Veto ao reajuste de 41,7% concedido pela ALMG; o governo sancionou 13%.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2020-03-13",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-37",
         "title": "André Mendonça suspende pagamento acima do teto a magistrados de Goiás",
         "publisher": "Migalhas",
         "url": "https://www.migalhas.com.br/quentes/390454/andre-mendonca-suspende-pagamento-acima-do-teto-a-magistrados-de-goias",
-        "date": "2023-07-23",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2023-07-23",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-12",
         "title": "Comissão de Saúde debate adoção de prontuário eletrônico único no SUS",
         "publisher": "Câmara dos Deputados — Agência Câmara",
         "url": "https://www.camara.leg.br/noticias/1057930-comissao-de-saude-debate-adocao-de-prontuario-eletronico-unico-no-sus/",
-        "date": "2024-05-07",
-        "type": "legislativo",
         "notes": "Nota registra 30 projetos de lei sobre o tema em discussão na Câmara.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2024-05-07",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-49",
         "title": "Em MG, deputados mantêm veto de Zema à recomposição das perdas dos servidores",
         "publisher": "CUT Nacional",
         "url": "https://www.cut.org.br/noticias/em-mg-deputados-mantem-veto-de-zema-a-recomposicao-das-perdas-dos-servidores-09fb",
-        "date": "2020-06-18",
-        "type": "imprensa",
         "notes": "Veto mantido em votação de 17/06/2020.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2020-06-18",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-10",
         "title": "Aumento do Bolsa Família: veja perguntas e respostas",
         "publisher": "g1",
         "url": "https://g1.globo.com/economia/noticia/2026/09/18/aumento-do-bolsa-familia-veja-perguntas-e-respostas.ghtml",
-        "date": "2026-09-18",
-        "type": "imprensa",
         "notes": "Reajuste do piso de R$ 600 para R$ 691 e benefício médio de R$ 675 para R$ 777; representação no TSE pedindo suspensão.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-18",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-52",
         "title": "Congresso aprova R$ 4,9 bi ao fundão eleitoral e esconde voto de parlamentares",
         "publisher": "UOL Notícias",
         "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/12/04/congresso-aprova-r-49-bi-a-fundao-eleitoral-e-esconde-voto-de-par",
-        "date": "2025-12-04",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2025-12-04",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-56",
         "title": "Bancada dos partidos na Câmara dos Deputados",
         "publisher": "Câmara dos Deputados",
         "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
-        "date": "2026",
-        "type": "oficial_dados_abertos",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-30",
         "title": "Comissão Mista de Orçamento analisa recuperação fiscal de Goiás (superávit primário de R$ 3,1 bi em 2024)",
         "publisher": "Câmara dos Deputados — Agência Câmara",
         "url": "https://www.camara.leg.br/noticias/1148865-comissao-mista-de-orcamento-analisa-recuperacao-fiscal-de-goias",
-        "date": "2025-03-24",
-        "type": "legislativo",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2025-03-24",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-34",
         "title": "Saída do Estado do RRF e adesão ao Propag recebem aval definitivo",
         "publisher": "Assembleia Legislativa de Goiás",
         "url": "https://portal.al.go.leg.br/noticias/154770/saida-do-estado-do-rrf-e-adesao-ao-propag-recebem-aval-definitivo",
-        "date": "2025-05-15",
-        "type": "legislativo",
         "notes": "Aval legislativo à saída do Regime de Recuperação Fiscal e à adesão ao Propag (LC 212/2025).",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2025-05-15",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-33",
         "title": "Goiás registra queda nos índices de criminalidade (7º ano consecutivo)",
         "publisher": "Agência Goiás de Notícias",
         "url": "https://agencia.go.gov.br/goias-registra-queda-nos-indices-de-criminalidade",
-        "date": "2026",
-        "type": "executivo_estadual",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-57",
         "title": "Câmara aprova em segundo turno PEC da Segurança Pública (461x14 no 2º turno; texto segue ao Senado)",
         "publisher": "Agência Brasil (EBC)",
         "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/camara-aprova-em-segundo-turno-pec-da-seguranca-publica",
-        "date": "2026-03-05",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-03-05",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-55",
         "title": "Fundo Partidário: 19 partidos receberam mais de R$ 1 bilhão em 2025; NOVO ficou fora por não atingir a cláusula de desempenho",
         "publisher": "TSE — Tribunal Superior Eleitoral",
         "url": "https://tse.jus.br/comunicacao/noticias/2026/Janeiro/fundo-partidario-19-partidos-receberam-mais-de-r-1-bilhao-em-2025",
-        "date": "2026-01",
-        "type": "oficial_eleitoral",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "oficial_eleitoral",
+        "publishedAt": "2026-01",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-36",
         "title": "Plenário mantém suspensão de normas de Goiás sobre remuneração acima do teto",
         "publisher": "STF — Portal de Notícias",
         "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=513780",
-        "date": "2023-09-11",
-        "type": "tribunal",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "tribunal",
+        "publishedAt": "2023-09-11",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-35",
         "title": "Saúde realiza mais de 338 mil cirurgias eletivas em dois anos em Goiás",
         "publisher": "Agência Goiás de Notícias",
         "url": "https://agencia.go.gov.br/saude-realiza-mais-de-338-mil-cirurgias-eletivas-em-dois-anos/",
-        "date": "2024",
-        "type": "executivo_estadual",
         "notes": "Jan/2023 a nov/2024: 338.883 cirurgias eletivas, com fila única e regulação por critério clínico.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2024",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-31",
         "title": "Governo oficializa saída de Goiás do RRF, passo necessário para adesão ao Propag",
         "publisher": "Valor Econômico",
         "url": "https://valor.globo.com/brasil/noticia/2025/12/10/governo-oficializa-sada-de-gois-do-rrf-passo-necessrio-para-adeso-ao-propag.ghtml",
-        "date": "2025-12-10",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2025-12-10",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-29",
         "title": "Governo Caiado: de ajuste fiscal a R$ 23,7 bilhões em investimentos",
         "publisher": "Empreender em Goiás",
         "url": "https://empreenderemgoias.com.br/2026/03/29/governo-caiado-de-ajuste-fiscal-a-r-237-bilhoes-em-investimentos",
-        "date": "2026-03-29",
-        "type": "imprensa",
         "notes": "Somatório de investimentos em oito anos de governo, segundo o governo estadual.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-03-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1temas-08",
@@ -14396,10 +14297,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
             },
@@ -14525,10 +14423,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são atos de conselhos municipais, do partido e da campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
             },
@@ -14635,10 +14530,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; a trajetória vem de atos partidários, conselhos municipais e voluntariado."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
             },
@@ -14744,10 +14636,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo; o histórico vem de atos partidários e de conselhos municipais."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
             },
@@ -14971,10 +14860,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em gestão pública: nunca exerceu mandato nem cargo executivo; marcos são atos partidários, conselhos municipais e campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
             },
@@ -17298,7 +17184,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "OPEB — Observatório da Política Externa Brasileira",
                 "url": "https://opeb.org/2026/09/29/peb-nas-urnas-2026-clariana-barao-democracia-crista/",
                 "publishedAt": "2026-09-29",
-                "date": "2026-09-29",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Análise do plano registrado (15 páginas, seis eixos): a dimensão externa aparece apenas em segurança de fronteiras e cooperação internacional contra narcotráfico e tráfico de armas; página lida por inteiro via curl."
@@ -18037,22 +17922,20 @@ export const researched: Partial<Candidate>[] = [
             "title": "Programa do Partido Democracia Cristã (documento programático do partido)",
             "url": "https://www.democraciacrista.org.br/programa/",
             "publisher": "Democracia Cristã (DC)",
-            "date": "2026-09-29",
-            "type": "partidario",
             "notes": "Programa publicado pelo próprio DC; consulta em 29/09/2026. O documento não traz data de publicação no site.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "partidaria",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-re-t03",
             "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
             "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
             "publisher": "Portal Amazônia",
-            "date": "2026-09-29",
-            "type": "imprensa",
             "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "imprensa",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -18164,11 +18047,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Programa do Partido Democracia Cristã (documento programático do partido)",
             "url": "https://www.democraciacrista.org.br/programa/",
             "publisher": "Democracia Cristã (DC)",
-            "date": "2026-09-29",
-            "type": "partidario",
             "notes": "Programa publicado pelo próprio DC; consulta em 29/09/2026. O documento não traz data de publicação no site.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "partidaria",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-cb-25",
@@ -18223,11 +18105,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Programa do Partido Democracia Cristã (documento programático do partido)",
             "url": "https://www.democraciacrista.org.br/programa/",
             "publisher": "Democracia Cristã (DC)",
-            "date": "2026-09-29",
-            "type": "partidario",
             "notes": "Programa publicado pelo próprio DC; consulta em 29/09/2026. O documento não traz data de publicação no site.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "partidaria",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-cb-25",
@@ -18282,11 +18163,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Programa do Partido Democracia Cristã (documento programático do partido)",
             "url": "https://www.democraciacrista.org.br/programa/",
             "publisher": "Democracia Cristã (DC)",
-            "date": "2026-09-29",
-            "type": "partidario",
             "notes": "Programa publicado pelo próprio DC; consulta em 29/09/2026. O documento não traz data de publicação no site.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "partidaria",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-cb-25",
@@ -19846,7 +19726,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "BBC News Brasil",
         "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
         "publishedAt": "2026-08-17",
-        "date": "2026-08-17",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Guia com as propostas por tema ('Política Externa' e 'Segurança') de cada candidatura, atualizado em 23/09/2026; é a base que registra os itens de natureza externa de Leonardo Avalanche, Clariana Barão e Samara Martins."
@@ -19857,7 +19736,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Valor International",
         "url": "https://valorinternational.globo.com/politics/news/2026/09/29/presidential-candidates-converge-on-critical-minerals-policy.ghtml",
         "publishedAt": "2026-09-29",
-        "date": "2026-09-29",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Reportagem de 29/09/2026 sobre a convergência dos planos em industrializar minerais críticos e reduzir a exportação de matéria-prima bruta; o corpo da página não renderizou sem JavaScript, usados título e chamada."
@@ -19868,7 +19746,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "OPEB — Observatório da Política Externa Brasileira",
         "url": "https://opeb.org/2026/09/29/peb-nas-urnas-2026-clariana-barao-democracia-crista/",
         "publishedAt": "2026-09-29",
-        "date": "2026-09-29",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Análise do plano registrado (15 páginas, seis eixos): a dimensão externa aparece apenas em segurança de fronteiras e cooperação internacional contra narcotráfico e tráfico de armas; página lida por inteiro via curl."
@@ -19878,22 +19755,20 @@ export const researched: Partial<Candidate>[] = [
         "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
         "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
         "publisher": "Portal Amazônia",
-        "date": "2026-09-29",
-        "type": "imprensa",
         "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-t04",
         "title": "Programa do Partido Democracia Cristã (documento programático do partido)",
         "url": "https://www.democraciacrista.org.br/programa/",
         "publisher": "Democracia Cristã (DC)",
-        "date": "2026-09-29",
-        "type": "partidario",
         "notes": "Programa publicado pelo próprio DC; consulta em 29/09/2026. O documento não traz data de publicação no site.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "partidaria",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       }
     ],
     "updatedAt": "2026-09-29"
@@ -28336,21 +28211,19 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Ficha de tramitação do PL 2680/2025 (inclusão de facções na Lei Antiterrorismo)",
                     "publisher": "Câmara dos Deputados",
                     "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2519924",
-                    "date": "2025-06",
-                    "type": "legislativo",
                     "notes": "Registro de aguardando designação de relator na CCJC em maio de 2025.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2025-06",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-24",
                     "title": "Comissão aprova proposta que cria marco legal contra facções e milícias",
                     "publisher": "Câmara dos Deputados — Agência Câmara",
                     "url": "https://www.camara.leg.br/noticias/1237005-comissao-aprova-proposta-que-cria-marco-legal-contra-faccoes-e-milicias",
-                    "date": "2026-01-06",
-                    "type": "legislativo",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2026-01-06",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -28437,10 +28310,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Flávio planeja 'PEC da Transição' com corte de gastos de R$ 300 bilhões",
                     "publisher": "CNN Brasil — blog do Caio Junqueira",
                     "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-planeja-pec-da-transicao-com-corte-de-gastos-de-r-300-bilhoes/",
-                    "date": "2026-08",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-08",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -28466,10 +28338,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Flávio planeja 'PEC da Transição' com corte de gastos de R$ 300 bilhões",
                     "publisher": "CNN Brasil — blog do Caio Junqueira",
                     "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-planeja-pec-da-transicao-com-corte-de-gastos-de-r-300-bilhoes/",
-                    "date": "2026-08",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-08",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -28576,10 +28447,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Flávio Bolsonaro defende redução da maioridade penal para 14 anos",
                     "publisher": "Valor Econômico",
                     "url": "https://valor.globo.com/politica/noticia/2026/06/11/flavio-bolsonaro-defende-reducao-da-maioridade-penal-para-14-anos.ghtml",
-                    "date": "2026-06-11",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-06-11",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-plano-pdf",
@@ -28605,11 +28475,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Entenda os próximos passos do projeto para reduzir a maioridade penal",
                     "publisher": "Agência Brasil (EBC)",
                     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/entenda-os-proximos-passos-do-projeto-para-reduzir-maioridade-penal",
-                    "date": "2026-06",
-                    "type": "imprensa",
                     "notes": "CCJ da Câmara aprovou texto que reduz a maioridade para 16 anos em 10/06/2026 (44x18).",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-06",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -28823,11 +28692,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "PEC do fim da escala 6x1 é aprovada com 22 votos contrários; PL orientou contra",
                     "publisher": "Contraf-CUT",
                     "url": "https://contrafcut.com.br/noticias/pec-do-fim-da-escala-6x1-e-aprovada-na-camara-dos-deputados",
-                    "date": "2026-05-28",
-                    "type": "imprensa",
                     "notes": "Placar de 27/05/2026: 472x22 no 1º turno, com 11 dos votos contrários de deputados do PL.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-05-28",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -29824,22 +29692,20 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -30065,22 +29931,20 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -30923,22 +30787,20 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -31598,9 +31460,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "O Globo (Luísa Marzullo)",
                 "url": "https://oglobo.globo.com/politica/noticia/2026/07/06/as-vesperas-de-audiencia-nos-eua-flavio-acusa-lula-de-usar-soberania-como-falsa-narrativa-para-favorecer-o-tarifaco.ghtml",
                 "publishedAt": "2026-07-06",
-                "date": "2026-07-06",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -31609,9 +31469,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Gazeta do Povo (Wesley Oliveira)",
                 "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-eua-tarifaco-lula-discurso-sobre-soberania",
                 "publishedAt": "2026-07-07",
-                "date": "2026-07-07",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -31620,9 +31478,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Veja (Nicholas Shores)",
                 "url": "https://veja.abril.com.br/politica/escudo-das-americas-flavio-bolsonaro-promete-adesao-enquanto-especialista-alerta-para-riscos",
                 "publishedAt": "2026-09-26",
-                "date": "2026-09-26",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -31631,9 +31487,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "CONTEE (Confederação Nacional dos Trabalhadores em Estabelecimentos de Ensino)",
                 "url": "https://contee.org.br/flavio-bolsonaro-consolida-seu-viralatismo-ao-oferecer-transicao-aos-eua/",
                 "publishedAt": "2026-06-29",
-                "date": "2026-06-29",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -31691,9 +31545,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Veja (Nicholas Shores)",
                 "url": "https://veja.abril.com.br/politica/escudo-das-americas-flavio-bolsonaro-promete-adesao-enquanto-especialista-alerta-para-riscos",
                 "publishedAt": "2026-09-26",
-                "date": "2026-09-26",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -31741,10 +31593,8 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Câmara dos Deputados",
                 "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
                 "publishedAt": "2026-02-02",
-                "date": "2026-02-02",
                 "accessedAt": "2026-09-29",
-                "type": "legislativo",
-                "sourceType": "imprensa"
+                "sourceType": "legislativo"
               },
               {
                 "id": "src-mundo-02",
@@ -35429,33 +35279,30 @@ export const researched: Partial<Candidate>[] = [
         "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
         "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
         "publisher": "Câmara dos Deputados — Dados Abertos",
-        "date": "2026-09-29",
-        "type": "oficial_dados_abertos",
         "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1capacidades-02",
         "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
         "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
         "publisher": "Senado Federal — Dados Abertos",
-        "date": "2026-09-29",
-        "type": "oficial_dados_abertos",
         "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1capacidades-01",
         "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
         "publisher": "Presidência da República — Planalto",
-        "date": "1988-10-05",
-        "type": "oficial_legislacao",
         "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "1988-10-05",
+        "accessedAt": ""
       },
       {
         "id": "src-re-02",
@@ -35463,9 +35310,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Gazeta do Povo (Wesley Oliveira)",
         "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-eua-tarifaco-lula-discurso-sobre-soberania",
         "publishedAt": "2026-07-07",
-        "date": "2026-07-07",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -35474,9 +35319,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Veja (Nicholas Shores)",
         "url": "https://veja.abril.com.br/politica/escudo-das-americas-flavio-bolsonaro-promete-adesao-enquanto-especialista-alerta-para-riscos",
         "publishedAt": "2026-09-26",
-        "date": "2026-09-26",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -35485,9 +35328,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "O Globo (Luísa Marzullo)",
         "url": "https://oglobo.globo.com/politica/noticia/2026/07/06/as-vesperas-de-audiencia-nos-eua-flavio-acusa-lula-de-usar-soberania-como-falsa-narrativa-para-favorecer-o-tarifaco.ghtml",
         "publishedAt": "2026-07-06",
-        "date": "2026-07-06",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -35496,9 +35337,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "CONTEE (Confederação Nacional dos Trabalhadores em Estabelecimentos de Ensino)",
         "url": "https://contee.org.br/flavio-bolsonaro-consolida-seu-viralatismo-ao-oferecer-transicao-aos-eua/",
         "publishedAt": "2026-06-29",
-        "date": "2026-06-29",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -35507,117 +35346,105 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Câmara dos Deputados",
         "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
         "publishedAt": "2026-02-02",
-        "date": "2026-02-02",
         "accessedAt": "2026-09-29",
-        "type": "legislativo",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo"
       },
       {
         "id": "src-re-r1propostas-17",
         "title": "Votações da matéria PEC 8/2021 (limite a decisões monocráticas) — votação nominal de 22/11/2023",
         "publisher": "Senado Federal",
         "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/148030/votacoes",
-        "date": "2023-11-22",
-        "type": "legislativo",
         "notes": "Registro nominal: Flávio Bolsonaro votou 'Sim' nas votações em 1º e 2º turno.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2023-11-22",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-20",
         "title": "Flávio planeja 'PEC da Transição' com corte de gastos de R$ 300 bilhões",
         "publisher": "CNN Brasil — blog do Caio Junqueira",
         "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-planeja-pec-da-transicao-com-corte-de-gastos-de-r-300-bilhoes/",
-        "date": "2026-08",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-08",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-19",
         "title": "PEC 54/2024 (pacote de revisão de gastos) — ficha da matéria e emendas",
         "publisher": "Senado Federal",
         "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889",
-        "date": "2024-12-20",
-        "type": "legislativo",
         "notes": "Emenda nº 1 ao plenário tem entre os autores o senador Flávio Bolsonaro; votações nominais em 19 e 20/12/2024.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2024-12-20",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-22",
         "title": "Entenda os próximos passos do projeto para reduzir a maioridade penal",
         "publisher": "Agência Brasil (EBC)",
         "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/entenda-os-proximos-passos-do-projeto-para-reduzir-maioridade-penal",
-        "date": "2026-06",
-        "type": "imprensa",
         "notes": "CCJ da Câmara aprovou texto que reduz a maioridade para 16 anos em 10/06/2026 (44x18).",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-06",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-25",
         "title": "Ficha de tramitação do PL 2680/2025 (inclusão de facções na Lei Antiterrorismo)",
         "publisher": "Câmara dos Deputados",
         "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2519924",
-        "date": "2025-06",
-        "type": "legislativo",
         "notes": "Registro de aguardando designação de relator na CCJC em maio de 2025.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2025-06",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-26",
         "title": "Votações da matéria PEC 54/2024 — votações nominais do plenário em 19 e 20/12/2024",
         "publisher": "Senado Federal",
         "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889/votacoes",
-        "date": "2024-12-20",
-        "type": "legislativo",
         "notes": "Listas nominais do plenário: consta voto 'Não' de Flávio Bolsonaro em votação nominal da proposta e voto 'Sim' no destaque da Emenda nº 1.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2024-12-20",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-21",
         "title": "Flávio Bolsonaro defende redução da maioridade penal para 14 anos",
         "publisher": "Valor Econômico",
         "url": "https://valor.globo.com/politica/noticia/2026/06/11/flavio-bolsonaro-defende-reducao-da-maioridade-penal-para-14-anos.ghtml",
-        "date": "2026-06-11",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-06-11",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-27",
         "title": "PEC do fim da escala 6x1 é aprovada com 22 votos contrários; PL orientou contra",
         "publisher": "Contraf-CUT",
         "url": "https://contrafcut.com.br/noticias/pec-do-fim-da-escala-6x1-e-aprovada-na-camara-dos-deputados",
-        "date": "2026-05-28",
-        "type": "imprensa",
         "notes": "Placar de 27/05/2026: 472x22 no 1º turno, com 11 dos votos contrários de deputados do PL.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-05-28",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-24",
         "title": "Comissão aprova proposta que cria marco legal contra facções e milícias",
         "publisher": "Câmara dos Deputados — Agência Câmara",
         "url": "https://www.camara.leg.br/noticias/1237005-comissao-aprova-proposta-que-cria-marco-legal-contra-faccoes-e-milicias",
-        "date": "2026-01-06",
-        "type": "legislativo",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2026-01-06",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-23",
         "title": "Restrição de 'saidão' para presos condenados vai a Plenário",
         "publisher": "Senado Federal — Agência Senado",
         "url": "https://www12.senado.leg.br/noticias/audios/2024/02/fim-do-saidao-para-presos-condenados-vai-a-plenario",
-        "date": "2024-02-06",
-        "type": "legislativo",
         "notes": "Comissão de Segurança Pública aprovou o PL 2.253/2022, relatado por Flávio Bolsonaro.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2024-02-06",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1temas-13",
@@ -43840,10 +43667,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo; marcos são atos de partido e a campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho. Acordos documentados: 1 episódio(s) no histórico de negociação apurado."
             },
@@ -43979,10 +43803,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em gestão de saúde pública: nunca exerceu mandato nem cargo executivo nem dirigiu serviço de saúde; marcos são partido e campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho. Acordos documentados: 1 episódio(s) no histórico de negociação apurado."
             },
@@ -44080,10 +43901,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo; o histórico vem da presidência do PRTB e das campanhas."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho. Acordos documentados: 1 episódio(s) no histórico de negociação apurado."
             },
@@ -44180,10 +43998,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo; o histórico vem de atos de partido e da campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho. Acordos documentados: 1 episódio(s) no histórico de negociação apurado."
             },
@@ -44270,10 +44085,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em segurança pública: nunca exerceu mandato nem cargo executivo; o histórico vem de atos de partido e de candidaturas sem eleição."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 1,
               "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho. Acordos documentados: 1 episódio(s) no histórico de negociação apurado."
             },
@@ -45175,11 +44987,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "parcial",
@@ -46593,11 +46404,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "parcial",
@@ -47346,11 +47156,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
             "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
             "publisher": "Portal Amazônia",
-            "date": "2026-09-29",
-            "type": "imprensa",
             "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "imprensa",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -49295,11 +49104,10 @@ export const researched: Partial<Candidate>[] = [
         "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
         "publisher": "Presidência da República — Planalto",
-        "date": "1988-10-05",
-        "type": "oficial_legislacao",
         "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "1988-10-05",
+        "accessedAt": ""
       },
       {
         "id": "src-re-206",
@@ -49307,7 +49115,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "BBC News Brasil",
         "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
         "publishedAt": "2026-08-17",
-        "date": "2026-08-17",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Guia com as propostas por tema ('Política Externa' e 'Segurança') de cada candidatura, atualizado em 23/09/2026; é a base que registra os itens de natureza externa de Leonardo Avalanche, Clariana Barão e Samara Martins."
@@ -49318,7 +49125,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Valor International",
         "url": "https://valorinternational.globo.com/politics/news/2026/09/29/presidential-candidates-converge-on-critical-minerals-policy.ghtml",
         "publishedAt": "2026-09-29",
-        "date": "2026-09-29",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Reportagem de 29/09/2026 sobre a convergência dos planos em industrializar minerais críticos e reduzir a exportação de matéria-prima bruta; o corpo da página não renderizou sem JavaScript, usados título e chamada."
@@ -49348,11 +49154,10 @@ export const researched: Partial<Candidate>[] = [
         "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
         "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
         "publisher": "Portal Amazônia",
-        "date": "2026-09-29",
-        "type": "imprensa",
         "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       }
     ],
     "updatedAt": "2026-09-29"
@@ -49853,32 +49658,29 @@ export const researched: Partial<Candidate>[] = [
                     "title": "PEC do fim da escala 6x1 é aprovada em 1º e 2º turnos na Câmara dos Deputados",
                     "publisher": "Contraf-CUT",
                     "url": "https://contrafcut.com.br/noticias/pec-do-fim-da-escala-6x1-e-aprovada-na-camara-dos-deputados",
-                    "date": "2026-05-28",
-                    "type": "imprensa",
                     "notes": "1º turno 472x22; 2º turno 461x19, em 27/05/2026.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-05-28",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-08",
                     "title": "CCJ do Senado aprova PEC que acaba com jornada 6x1",
                     "publisher": "Agência Brasil (EBC)",
                     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1",
-                    "date": "2026-09-02",
-                    "type": "imprensa",
                     "notes": "Matéria ainda depende do plenário do Senado em dois turnos.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-09-02",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-09",
                     "title": "Randolfe: votação da PEC do fim da escala 6x1 acontecerá até outubro",
                     "publisher": "Senado Federal — Agência Senado",
                     "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/randolfe-votacao-da-pec-do-fim-da-escala-6x1-acontecera-ate-outubro",
-                    "date": "2026-09-02",
-                    "type": "legislativo",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2026-09-02",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -49903,11 +49705,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "PEC do fim da escala 6x1 é aprovada em 1º e 2º turnos na Câmara dos Deputados",
                     "publisher": "Contraf-CUT",
                     "url": "https://contrafcut.com.br/noticias/pec-do-fim-da-escala-6x1-e-aprovada-na-camara-dos-deputados",
-                    "date": "2026-05-28",
-                    "type": "imprensa",
                     "notes": "1º turno 472x22; 2º turno 461x19, em 27/05/2026.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-05-28",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -50043,32 +49844,29 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Governo anuncia crescimento dos gastos federais para 2026 e eleva para quase R$ 24 bilhões o bloqueio de despesas no Orçamento",
                     "publisher": "g1 / Jornal Nacional",
                     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/22/governo-anuncia-crescimento-dos-gastos-federais-para-2026-e-eleva-para-quase-r-24-bilhoes-o-bloqueio-de-despesas-no-orcamento.ghtml",
-                    "date": "2026-05-22",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-05-22",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-02",
                     "title": "Governo reduz bloqueio, anuncia contingenciamento e congela R$ 16,1 bi",
                     "publisher": "CNN Brasil",
                     "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
-                    "date": "2026-09-24",
-                    "type": "imprensa",
                     "notes": "Relatório bimestral de setembro de 2026.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-09-24",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-03",
                     "title": "Governo corta R$ 22,1 bilhões do Orçamento para conter fila do INSS",
                     "publisher": "Folha de Pernambuco",
                     "url": "https://www.folhape.com.br/economia/governo-corta-r-221-bilhoes-do-orcamento-para-conter-fila-do-inss/489320",
-                    "date": "2026",
-                    "type": "imprensa",
                     "notes": "Contenção em investimentos, custeio e emendas para cumprir o limite de gastos.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -50093,11 +49891,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Quase 70% das despesas do governo federal crescem acima do limite do arcabouço fiscal",
                     "publisher": "Estadão",
                     "url": "https://www.estadao.com.br/economia/quase-70-das-despesas-do-governo-federal-crescem-acima-do-limite-do-arcabouco-fiscal/",
-                    "date": "2026",
-                    "type": "imprensa",
                     "notes": "Levantamento com dados do Orçamento de 2026; teto de crescimento real de 2,5% ao ano.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -50203,10 +50000,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação (retirada da regra sobre bets)",
                     "publisher": "Senado Federal — Agência Senado",
                     "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
-                    "date": "2026-09-02",
-                    "type": "legislativo",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2026-09-02",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -50222,10 +50018,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação (retirada da regra sobre bets)",
                     "publisher": "Senado Federal — Agência Senado",
                     "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
-                    "date": "2026-09-02",
-                    "type": "legislativo",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2026-09-02",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -50322,11 +50117,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Aumento do Bolsa Família: veja perguntas e respostas",
                     "publisher": "g1",
                     "url": "https://g1.globo.com/economia/noticia/2026/09/18/aumento-do-bolsa-familia-veja-perguntas-e-respostas.ghtml",
-                    "date": "2026-09-18",
-                    "type": "imprensa",
                     "notes": "Reajuste do piso de R$ 600 para R$ 691 e benefício médio de R$ 675 para R$ 777; representação no TSE pedindo suspensão.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-09-18",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -50342,22 +50136,20 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Governo corta R$ 22,1 bilhões do Orçamento para conter fila do INSS",
                     "publisher": "Folha de Pernambuco",
                     "url": "https://www.folhape.com.br/economia/governo-corta-r-221-bilhoes-do-orcamento-para-conter-fila-do-inss/489320",
-                    "date": "2026",
-                    "type": "imprensa",
                     "notes": "Contenção em investimentos, custeio e emendas para cumprir o limite de gastos.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-10",
                     "title": "Aumento do Bolsa Família: veja perguntas e respostas",
                     "publisher": "g1",
                     "url": "https://g1.globo.com/economia/noticia/2026/09/18/aumento-do-bolsa-familia-veja-perguntas-e-respostas.ghtml",
-                    "date": "2026-09-18",
-                    "type": "imprensa",
                     "notes": "Reajuste do piso de R$ 600 para R$ 691 e benefício médio de R$ 675 para R$ 777; representação no TSE pedindo suspensão.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-09-18",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -50435,21 +50227,19 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Comissão de Saúde debate adoção de prontuário eletrônico único no SUS",
                     "publisher": "Câmara dos Deputados — Agência Câmara",
                     "url": "https://www.camara.leg.br/noticias/1057930-comissao-de-saude-debate-adocao-de-prontuario-eletronico-unico-no-sus/",
-                    "date": "2024-05-07",
-                    "type": "legislativo",
                     "notes": "Nota registra 30 projetos de lei sobre o tema em discussão na Câmara.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2024-05-07",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-11",
                     "title": "Ministério da Saúde lança cartilha que detalha as fases do Programa SUS Digital",
                     "publisher": "SBIS — Sociedade Brasileira de Informática em Saúde",
                     "url": "https://sbis.org.br/noticia/ministerio-da-saude-lanca-cartilha-que-detalha-as-fases-do-programa-sus-digital",
-                    "date": "2025-02-27",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2025-02-27",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -50465,21 +50255,19 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Ministério da Saúde lança cartilha que detalha as fases do Programa SUS Digital",
                     "publisher": "SBIS — Sociedade Brasileira de Informática em Saúde",
                     "url": "https://sbis.org.br/noticia/ministerio-da-saude-lanca-cartilha-que-detalha-as-fases-do-programa-sus-digital",
-                    "date": "2025-02-27",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2025-02-27",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-12",
                     "title": "Comissão de Saúde debate adoção de prontuário eletrônico único no SUS",
                     "publisher": "Câmara dos Deputados — Agência Câmara",
                     "url": "https://www.camara.leg.br/noticias/1057930-comissao-de-saude-debate-adocao-de-prontuario-eletronico-unico-no-sus/",
-                    "date": "2024-05-07",
-                    "type": "legislativo",
                     "notes": "Nota registra 30 projetos de lei sobre o tema em discussão na Câmara.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2024-05-07",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -50568,21 +50356,19 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Lula sanciona novo licenciamento ambiental com 63 vetos",
                     "publisher": "Câmara dos Deputados — Agência Câmara",
                     "url": "https://camara.leg.br/noticias/1186832-lula-sanciona-novo-licenciamento-ambiental-com-63-vetos",
-                    "date": "2025-08-08",
-                    "type": "legislativo",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2025-08-08",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-14",
                     "title": "Congresso derruba 52 vetos da Lei Geral do Licenciamento Ambiental",
                     "publisher": "ANDES-SN",
                     "url": "https://andes.org.br/conteudos/noticia/em-retrocesso-historico-congresso-derruba-52-vetos-da-lei-geral-do-licenciamento-ambiental1",
-                    "date": "2025-11-28",
-                    "type": "imprensa",
                     "notes": "Sessão do Congresso de 27/11/2025.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2025-11-28",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -50598,11 +50384,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Congresso derruba 52 vetos da Lei Geral do Licenciamento Ambiental",
                     "publisher": "ANDES-SN",
                     "url": "https://andes.org.br/conteudos/noticia/em-retrocesso-historico-congresso-derruba-52-vetos-da-lei-geral-do-licenciamento-ambiental1",
-                    "date": "2025-11-28",
-                    "type": "imprensa",
                     "notes": "Sessão do Congresso de 27/11/2025.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2025-11-28",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -53620,9 +53405,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Agência Brasil (EBC)",
                 "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/congresso-nacional-promulga-acordo-mercosul-uniao-europeia",
                 "publishedAt": "2026-03-17",
-                "date": "2026-03-17",
                 "accessedAt": "2026-09-29",
-                "type": "oficial",
                 "sourceType": "imprensa"
               },
               {
@@ -53631,10 +53414,8 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Câmara dos Deputados",
                 "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
                 "publishedAt": "2026-02-02",
-                "date": "2026-02-02",
                 "accessedAt": "2026-09-29",
-                "type": "legislativo",
-                "sourceType": "imprensa"
+                "sourceType": "legislativo"
               },
               {
                 "id": "src-re-16",
@@ -53642,9 +53423,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "BBC News Brasil",
                 "url": "https://www.bbc.com/portuguese/articles/cn8nvwv6wg3o",
                 "publishedAt": "2026-07-27",
-                "date": "2026-07-27",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -53672,9 +53451,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Poder360 (Lara Brito)",
                 "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarifaco-levou-governo-lula-a-adotar-discurso-sobre-soberania/",
                 "publishedAt": "2026-09-22",
-                "date": "2026-09-22",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -53683,9 +53460,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "O Globo (Bernardo Lima)",
                 "url": "https://oglobo.globo.com/economia/noticia/2026/07/17/tarifaco-o-que-o-governo-lula-ofereceu-e-o-que-vetou-nas-negociacoes-para-evitar-em-vao-as-novas-taxas-de-trump.ghtml",
                 "publishedAt": "2026-07-17",
-                "date": "2026-07-17",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -53694,9 +53469,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Jornal do Brasil",
                 "url": "https://www.jb.com.br/brasil/politica/2026/09/1060936-trump-impos-21-exigencias-ao-brasil-para-aliviar-tarifaco-de-50.html",
                 "publishedAt": "2026-09-17",
-                "date": "2026-09-17",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -53705,9 +53478,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "CBN/Globo (com Reuters)",
                 "url": "https://cbn.globo.com/economia/noticia/2026/07/15/negociacoes-do-brasil-com-os-eua-foram-intensas-mas-improdutivas-afirma-agencia.ghtml",
                 "publishedAt": "2026-07-15",
-                "date": "2026-07-15",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -53716,9 +53487,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "BNDES",
                 "url": "https://www.bndes.gov.br/wps/portal/site/home/emergenciais/brasil-soberano",
                 "publishedAt": "2026-07-22",
-                "date": "2026-07-22",
                 "accessedAt": "2026-09-29",
-                "type": "oficial",
                 "sourceType": "imprensa"
               },
               {
@@ -57979,33 +57748,30 @@ export const researched: Partial<Candidate>[] = [
         "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
         "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
         "publisher": "Câmara dos Deputados — Dados Abertos",
-        "date": "2026-09-29",
-        "type": "oficial_dados_abertos",
         "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1capacidades-02",
         "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
         "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
         "publisher": "Senado Federal — Dados Abertos",
-        "date": "2026-09-29",
-        "type": "oficial_dados_abertos",
         "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1capacidades-01",
         "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
         "publisher": "Presidência da República — Planalto",
-        "date": "1988-10-05",
-        "type": "oficial_legislacao",
         "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "1988-10-05",
+        "accessedAt": ""
       },
       {
         "id": "src-re-21",
@@ -58013,9 +57779,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "BNDES",
         "url": "https://www.bndes.gov.br/wps/portal/site/home/emergenciais/brasil-soberano",
         "publishedAt": "2026-07-22",
-        "date": "2026-07-22",
         "accessedAt": "2026-09-29",
-        "type": "oficial",
         "sourceType": "imprensa"
       },
       {
@@ -58024,9 +57788,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "O Globo (Bernardo Lima)",
         "url": "https://oglobo.globo.com/economia/noticia/2026/07/17/tarifaco-o-que-o-governo-lula-ofereceu-e-o-que-vetou-nas-negociacoes-para-evitar-em-vao-as-novas-taxas-de-trump.ghtml",
         "publishedAt": "2026-07-17",
-        "date": "2026-07-17",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -58035,9 +57797,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Poder360 (Lara Brito)",
         "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarifaco-levou-governo-lula-a-adotar-discurso-sobre-soberania/",
         "publishedAt": "2026-09-22",
-        "date": "2026-09-22",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -58046,9 +57806,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Jornal do Brasil",
         "url": "https://www.jb.com.br/brasil/politica/2026/09/1060936-trump-impos-21-exigencias-ao-brasil-para-aliviar-tarifaco-de-50.html",
         "publishedAt": "2026-09-17",
-        "date": "2026-09-17",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -58057,9 +57815,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Agência Brasil (EBC)",
         "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/congresso-nacional-promulga-acordo-mercosul-uniao-europeia",
         "publishedAt": "2026-03-17",
-        "date": "2026-03-17",
         "accessedAt": "2026-09-29",
-        "type": "oficial",
         "sourceType": "imprensa"
       },
       {
@@ -58068,9 +57824,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "CBN/Globo (com Reuters)",
         "url": "https://cbn.globo.com/economia/noticia/2026/07/15/negociacoes-do-brasil-com-os-eua-foram-intensas-mas-improdutivas-afirma-agencia.ghtml",
         "publishedAt": "2026-07-15",
-        "date": "2026-07-15",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -58079,9 +57833,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "BBC News Brasil",
         "url": "https://www.bbc.com/portuguese/articles/cn8nvwv6wg3o",
         "publishedAt": "2026-07-27",
-        "date": "2026-07-27",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -58090,180 +57842,162 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Câmara dos Deputados",
         "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
         "publishedAt": "2026-02-02",
-        "date": "2026-02-02",
         "accessedAt": "2026-09-29",
-        "type": "legislativo",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo"
       },
       {
         "id": "src-re-r1propostas-02",
         "title": "Governo reduz bloqueio, anuncia contingenciamento e congela R$ 16,1 bi",
         "publisher": "CNN Brasil",
         "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
-        "date": "2026-09-24",
-        "type": "imprensa",
         "notes": "Relatório bimestral de setembro de 2026.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-24",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-13",
         "title": "Lula sanciona novo licenciamento ambiental com 63 vetos",
         "publisher": "Câmara dos Deputados — Agência Câmara",
         "url": "https://camara.leg.br/noticias/1186832-lula-sanciona-novo-licenciamento-ambiental-com-63-vetos",
-        "date": "2025-08-08",
-        "type": "legislativo",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2025-08-08",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-07",
         "title": "PEC do fim da escala 6x1 é aprovada em 1º e 2º turnos na Câmara dos Deputados",
         "publisher": "Contraf-CUT",
         "url": "https://contrafcut.com.br/noticias/pec-do-fim-da-escala-6x1-e-aprovada-na-camara-dos-deputados",
-        "date": "2026-05-28",
-        "type": "imprensa",
         "notes": "1º turno 472x22; 2º turno 461x19, em 27/05/2026.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-05-28",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-15",
         "title": "Novos dados do Prodes são atualizados pelo Programa BiomasBR (taxa consolidada 2025: 5.731 km² na Amazônia Legal)",
         "publisher": "INPE — Programa BiomasBR",
         "url": "https://data.inpe.br/biomasbr/novos-dados-do-prodes-sao-atualizados-pelo-programa-biomasbr/",
-        "date": "2026-08-18",
-        "type": "estatistico",
         "notes": "Em 2024 a taxa foi de 6.518 km².",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "estatistico",
+        "publishedAt": "2026-08-18",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-08",
         "title": "CCJ do Senado aprova PEC que acaba com jornada 6x1",
         "publisher": "Agência Brasil (EBC)",
         "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1",
-        "date": "2026-09-02",
-        "type": "imprensa",
         "notes": "Matéria ainda depende do plenário do Senado em dois turnos.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-02",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-12",
         "title": "Comissão de Saúde debate adoção de prontuário eletrônico único no SUS",
         "publisher": "Câmara dos Deputados — Agência Câmara",
         "url": "https://www.camara.leg.br/noticias/1057930-comissao-de-saude-debate-adocao-de-prontuario-eletronico-unico-no-sus/",
-        "date": "2024-05-07",
-        "type": "legislativo",
         "notes": "Nota registra 30 projetos de lei sobre o tema em discussão na Câmara.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2024-05-07",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-10",
         "title": "Aumento do Bolsa Família: veja perguntas e respostas",
         "publisher": "g1",
         "url": "https://g1.globo.com/economia/noticia/2026/09/18/aumento-do-bolsa-familia-veja-perguntas-e-respostas.ghtml",
-        "date": "2026-09-18",
-        "type": "imprensa",
         "notes": "Reajuste do piso de R$ 600 para R$ 691 e benefício médio de R$ 675 para R$ 777; representação no TSE pedindo suspensão.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-18",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-01",
         "title": "Governo anuncia crescimento dos gastos federais para 2026 e eleva para quase R$ 24 bilhões o bloqueio de despesas no Orçamento",
         "publisher": "g1 / Jornal Nacional",
         "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/22/governo-anuncia-crescimento-dos-gastos-federais-para-2026-e-eleva-para-quase-r-24-bilhoes-o-bloqueio-de-despesas-no-orcamento.ghtml",
-        "date": "2026-05-22",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-05-22",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-14",
         "title": "Congresso derruba 52 vetos da Lei Geral do Licenciamento Ambiental",
         "publisher": "ANDES-SN",
         "url": "https://andes.org.br/conteudos/noticia/em-retrocesso-historico-congresso-derruba-52-vetos-da-lei-geral-do-licenciamento-ambiental1",
-        "date": "2025-11-28",
-        "type": "imprensa",
         "notes": "Sessão do Congresso de 27/11/2025.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2025-11-28",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-03",
         "title": "Governo corta R$ 22,1 bilhões do Orçamento para conter fila do INSS",
         "publisher": "Folha de Pernambuco",
         "url": "https://www.folhape.com.br/economia/governo-corta-r-221-bilhoes-do-orcamento-para-conter-fila-do-inss/489320",
-        "date": "2026",
-        "type": "imprensa",
         "notes": "Contenção em investimentos, custeio e emendas para cumprir o limite de gastos.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-04",
         "title": "Quase 70% das despesas do governo federal crescem acima do limite do arcabouço fiscal",
         "publisher": "Estadão",
         "url": "https://www.estadao.com.br/economia/quase-70-das-despesas-do-governo-federal-crescem-acima-do-limite-do-arcabouco-fiscal/",
-        "date": "2026",
-        "type": "imprensa",
         "notes": "Levantamento com dados do Orçamento de 2026; teto de crescimento real de 2,5% ao ano.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-09",
         "title": "Randolfe: votação da PEC do fim da escala 6x1 acontecerá até outubro",
         "publisher": "Senado Federal — Agência Senado",
         "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/randolfe-votacao-da-pec-do-fim-da-escala-6x1-acontecera-ate-outubro",
-        "date": "2026-09-02",
-        "type": "legislativo",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2026-09-02",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-05",
         "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação (retirada da regra sobre bets)",
         "publisher": "Senado Federal — Agência Senado",
         "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
-        "date": "2026-09-02",
-        "type": "legislativo",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2026-09-02",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-11",
         "title": "Ministério da Saúde lança cartilha que detalha as fases do Programa SUS Digital",
         "publisher": "SBIS — Sociedade Brasileira de Informática em Saúde",
         "url": "https://sbis.org.br/noticia/ministerio-da-saude-lanca-cartilha-que-detalha-as-fases-do-programa-sus-digital",
-        "date": "2025-02-27",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2025-02-27",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-06",
         "title": "Senado aprova regras do Comitê Gestor do IBS na reforma tributária",
         "publisher": "Senado Federal — Agência Senado",
         "url": "https://www12.senado.leg.br/noticias/videos/2025/10/senado-aprova-regras-do-comite-gestor-do-ibs-na-reforma-tributaria",
-        "date": "2025-10",
-        "type": "legislativo",
         "notes": "Regulamentação da EC 132/2023; 2026 é o primeiro ano de implementação do IBS/CBS.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2025-10",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-16",
         "title": "Alertas de desmatamento na Amazônia caem 35% em junho de 2026",
         "publisher": "Agência Brasil (EBC)",
         "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/alertas-de-desmatamento-na-amazonia-caem-35-em-junho-de-2026",
-        "date": "2026-07-10",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-07-10",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1temas-01",
@@ -58921,10 +58655,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato próprio em segurança pública: nunca exerceu mandato nem cargo executivo; marcos são atos de movimento, partido e campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 1,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 1 · Senado: 0",
               "documentedAgreements": 4,
               "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
             },
@@ -59078,10 +58809,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato próprio em política urbana: nunca exerceu mandato, cargo executivo ou função em habitação; marcos são campanha e partido."
             },
             "support": {
-              "partySeats": {
-                "camara": 1,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 1 · Senado: 0",
               "documentedAgreements": 4,
               "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
             },
@@ -59235,10 +58963,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato próprio em cargo público: nunca exerceu mandato nem cargo executivo; o histórico vem de movimento, partido e campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 1,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 1 · Senado: 0",
               "documentedAgreements": 4,
               "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
             },
@@ -59404,10 +59129,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato próprio em assistência social: nunca exerceu mandato nem gerenciou programa público; marcos são o movimento e o partido que preside."
             },
             "support": {
-              "partySeats": {
-                "camara": 1,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 1 · Senado: 0",
               "documentedAgreements": 4,
               "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
             },
@@ -59531,10 +59253,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato próprio em organização territorial: nunca exerceu mandato nem cargo executivo; marcos são a presidência do MISSÃO e a campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 1,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 1 · Senado: 0",
               "documentedAgreements": 4,
               "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
             },
@@ -59651,10 +59370,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato próprio em educação: nunca exerceu mandato nem cargo executivo; marcos são o movimento (MBL), a presidência do MISSÃO e a campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 1,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 1 · Senado: 0",
               "documentedAgreements": 4,
               "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
             },
@@ -60581,11 +60297,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -60909,11 +60624,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -61675,11 +61389,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -61866,11 +61579,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -62145,11 +61857,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -62521,11 +62232,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -62589,7 +62299,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Estadão — Felipe Frazão",
                 "url": "https://www.estadao.com.br/internacional/eua-china-e-bomba-atomica-veja-propostas-dos-presidenciaveis-para-politica-externa/",
                 "publishedAt": "2026-08-31",
-                "date": "2026-08-31",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Levantamento das propostas de política externa dos cinco candidatos mais bem colocados nas pesquisas, com o quadro do art. 21, XXIII, 'a' da Constituição sobre fins pacíficos e aprovação congressional."
@@ -62600,7 +62309,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "OPEB — Observatório da Política Externa Brasileira",
                 "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
                 "publishedAt": "2026-09-27",
-                "date": "2026-09-27",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
@@ -62611,7 +62319,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Valor International",
                 "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
                 "publishedAt": "2026-09-22",
-                "date": "2026-09-22",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
@@ -62622,7 +62329,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "CNN Brasil",
                 "url": "https://www.cnnbrasil.com.br/politica/kim-kataguiri-apresenta-pec-que-autoriza-brasil-a-produzir-armas-nucleares/",
                 "publishedAt": "2025-10-08",
-                "date": "2025-10-08",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "PEC apresentada em 08/10/2025 que retira a menção a 'fins pacíficos' do art. 21, XXIII, 'a' e autoriza armas nucleares para fins dissuasórios; depende de 171 assinaturas para começar a tramitar."
@@ -62633,7 +62339,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Estadão — Geovanna Hora",
                 "url": "https://www.estadao.com.br/politica/pec-kim-kataguiri-autoriza-brasil-bomba-nuclear-npr/",
                 "publishedAt": "2025-10-08",
-                "date": "2025-10-08",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Detalha o texto protocolado em 08/10/2025, o dispositivo constitucional alterado e a exigência de assinaturas (171 deputados)."
@@ -62673,7 +62378,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "OPEB — Observatório da Política Externa Brasileira",
                 "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
                 "publishedAt": "2026-09-27",
-                "date": "2026-09-27",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
@@ -62684,7 +62388,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Agência Senado",
                 "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
                 "publishedAt": "2026-05-04",
-                "date": "2026-05-04",
                 "accessedAt": "2026-09-29",
                 "sourceType": "legislativo",
                 "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
@@ -62714,7 +62417,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "BBC News Brasil",
                 "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
                 "publishedAt": "2026-08-17",
-                "date": "2026-08-17",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Guia com as propostas por tema ('Política Externa' e 'Segurança') de cada candidatura, atualizado em 23/09/2026; é a base que registra os itens de natureza externa de Leonardo Avalanche, Clariana Barão e Samara Martins."
@@ -63251,11 +62953,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-rs-19",
@@ -63303,11 +63004,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
                   "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
                   "publisher": "Plano de Governo 2026",
-                  "date": "2026-09-29",
-                  "type": "agregador",
                   "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "editorial",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "parcial",
@@ -63361,11 +63061,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -63403,11 +63102,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
                   "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
                   "publisher": "Plano de Governo 2026",
-                  "date": "2026-09-29",
-                  "type": "agregador",
                   "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "editorial",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "parcial",
@@ -63451,11 +63149,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -63510,11 +63207,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-rs-94",
@@ -63579,22 +63275,20 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-re-t03",
             "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
             "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
             "publisher": "Portal Amazônia",
-            "date": "2026-09-29",
-            "type": "imprensa",
             "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "imprensa",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -63649,11 +63343,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-rs-19",
@@ -63717,11 +63410,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -63777,11 +63469,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-rs-22",
@@ -63847,11 +63538,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-rs-94",
@@ -63916,11 +63606,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
             "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
             "publisher": "Plano de Governo 2026",
-            "date": "2026-09-29",
-            "type": "agregador",
             "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "editorial",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           },
           {
             "id": "src-rs-72",
@@ -65950,11 +65639,10 @@ export const researched: Partial<Candidate>[] = [
         "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
         "publisher": "Presidência da República — Planalto",
-        "date": "1988-10-05",
-        "type": "oficial_legislacao",
         "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "1988-10-05",
+        "accessedAt": ""
       },
       {
         "id": "src-re-206",
@@ -65962,7 +65650,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "BBC News Brasil",
         "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
         "publishedAt": "2026-08-17",
-        "date": "2026-08-17",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Guia com as propostas por tema ('Política Externa' e 'Segurança') de cada candidatura, atualizado em 23/09/2026; é a base que registra os itens de natureza externa de Leonardo Avalanche, Clariana Barão e Samara Martins."
@@ -65973,7 +65660,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
         "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
         "publishedAt": "2026-09-17",
-        "date": "2026-09-17",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
@@ -65984,7 +65670,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Estadão — Geovanna Hora",
         "url": "https://www.estadao.com.br/politica/pec-kim-kataguiri-autoriza-brasil-bomba-nuclear-npr/",
         "publishedAt": "2025-10-08",
-        "date": "2025-10-08",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Detalha o texto protocolado em 08/10/2025, o dispositivo constitucional alterado e a exigência de assinaturas (171 deputados)."
@@ -65995,7 +65680,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Estadão — Felipe Frazão",
         "url": "https://www.estadao.com.br/internacional/eua-china-e-bomba-atomica-veja-propostas-dos-presidenciaveis-para-politica-externa/",
         "publishedAt": "2026-08-31",
-        "date": "2026-08-31",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Levantamento das propostas de política externa dos cinco candidatos mais bem colocados nas pesquisas, com o quadro do art. 21, XXIII, 'a' da Constituição sobre fins pacíficos e aprovação congressional."
@@ -66006,7 +65690,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "OPEB — Observatório da Política Externa Brasileira",
         "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
         "publishedAt": "2026-09-27",
-        "date": "2026-09-27",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
@@ -66017,7 +65700,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Agência Senado",
         "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
         "publishedAt": "2026-05-04",
-        "date": "2026-05-04",
         "accessedAt": "2026-09-29",
         "sourceType": "legislativo",
         "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
@@ -66028,7 +65710,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "CNN Brasil",
         "url": "https://www.cnnbrasil.com.br/politica/kim-kataguiri-apresenta-pec-que-autoriza-brasil-a-produzir-armas-nucleares/",
         "publishedAt": "2025-10-08",
-        "date": "2025-10-08",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "PEC apresentada em 08/10/2025 que retira a menção a 'fins pacíficos' do art. 21, XXIII, 'a' e autoriza armas nucleares para fins dissuasórios; depende de 171 assinaturas para começar a tramitar."
@@ -66039,7 +65720,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Valor International",
         "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
         "publishedAt": "2026-09-22",
-        "date": "2026-09-22",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
@@ -66069,22 +65749,20 @@ export const researched: Partial<Candidate>[] = [
         "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
         "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
         "publisher": "Portal Amazônia",
-        "date": "2026-09-29",
-        "type": "imprensa",
         "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-t01",
         "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
         "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
         "publisher": "Plano de Governo 2026",
-        "date": "2026-09-29",
-        "type": "agregador",
         "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "editorial",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       }
     ],
     "updatedAt": "2026-09-29"
@@ -74642,10 +74320,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca ocupou mandato nem cargo de nomeação; marcos vêm da direção nacional do UP, da militância e do trabalho no SUS."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -74790,10 +74465,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita (2020 e 2022) nem ocupou cargo de nomeação; o histórico vem da direção do UP e da militância sindical."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -74958,10 +74630,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em segurança pública: nunca exerceu mandato nem cargo de nomeação; marcos são a direção do UP, a militância sindical e a campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -75077,10 +74746,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita (2020 e 2022) nem ocupou cargo de nomeação; o histórico vem da direção do UP, da militância e do SUS."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -75196,10 +74862,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita nem ocupou cargo de nomeação; marcos são a direção do UP, a militância e o trabalho profissional no SUS."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -75314,10 +74977,7 @@ export const researched: Partial<Candidate>[] = [
               "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita nem ocupou cargo de nomeação; o histórico vem da direção do UP, da militância em moradia e da campanha."
             },
             "support": {
-              "partySeats": {
-                "camara": 0,
-                "senado": 0
-              },
+              "partySeats": "Câmara: 0 · Senado: 0",
               "documentedAgreements": 2,
               "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
             },
@@ -76609,11 +76269,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -76856,11 +76515,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -77827,11 +77485,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -77952,7 +77609,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Valor International",
                 "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
                 "publishedAt": "2026-09-22",
-                "date": "2026-09-22",
                 "accessedAt": "2026-09-29",
                 "sourceType": "imprensa",
                 "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
@@ -77982,7 +77638,6 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Agência Senado",
                 "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
                 "publishedAt": "2026-05-04",
-                "date": "2026-05-04",
                 "accessedAt": "2026-09-29",
                 "sourceType": "legislativo",
                 "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
@@ -78759,11 +78414,10 @@ export const researched: Partial<Candidate>[] = [
             "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
             "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
             "publisher": "Portal Amazônia",
-            "date": "2026-09-29",
-            "type": "imprensa",
             "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-            "accessedAt": "",
-            "sourceType": "imprensa"
+            "sourceType": "imprensa",
+            "publishedAt": "2026-09-29",
+            "accessedAt": ""
           }
         ],
         "reality": {
@@ -80691,11 +80345,10 @@ export const researched: Partial<Candidate>[] = [
         "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
         "publisher": "Presidência da República — Planalto",
-        "date": "1988-10-05",
-        "type": "oficial_legislacao",
         "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "1988-10-05",
+        "accessedAt": ""
       },
       {
         "id": "src-mundo-02",
@@ -80703,7 +80356,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
         "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
         "publishedAt": "2026-09-17",
-        "date": "2026-09-17",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
@@ -80714,7 +80366,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Agência Senado",
         "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
         "publishedAt": "2026-05-04",
-        "date": "2026-05-04",
         "accessedAt": "2026-09-29",
         "sourceType": "legislativo",
         "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
@@ -80725,7 +80376,6 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Valor International",
         "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
         "publishedAt": "2026-09-22",
-        "date": "2026-09-22",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
@@ -80745,11 +80395,10 @@ export const researched: Partial<Candidate>[] = [
         "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
         "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
         "publisher": "Portal Amazônia",
-        "date": "2026-09-29",
-        "type": "imprensa",
         "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       }
     ],
     "updatedAt": "2026-09-29"
@@ -89856,42 +89505,38 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Proposta que facilita privatização da Copasa é aprovada em definitivo",
                     "publisher": "Assembleia Legislativa de Minas Gerais",
                     "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Proposta-que-facilita-privatizacao-da-Copasa-e-aprovada-em-definitivo",
-                    "date": "2025-11-05",
-                    "type": "legislativo",
                     "notes": "PEC aprovada em 2º turno retirou a exigência de referendo prevista na Constituição estadual para a Copasa.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "legislativo",
+                    "publishedAt": "2025-11-05",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-42",
                     "title": "Sob protestos, deputados de Minas Gerais aprovam privatização da Copasa",
                     "publisher": "Hora do Povo",
                     "url": "https://horadopovo.com.br/sob-protestos-deputados-de-minas-gerais-aprovam-privatizacao-da-copasa",
-                    "date": "2025-12-18",
-                    "type": "imprensa",
                     "notes": "Aprovação do projeto de privatização na ALMG em 17/12/2025.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2025-12-18",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-38",
                     "title": "Privatização da Copasa é concluída; venda movimentou R$ 8,38 bilhões",
                     "publisher": "g1 Minas",
                     "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/16/privatizacao-da-copasa-liquidacao.ghtml",
-                    "date": "2026-06-16",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-06-16",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-44",
                     "title": "Minas Gerais governor studies turning power utility into corporation (tentativa de privatização da Cemig em 2022)",
                     "publisher": "Valor International",
                     "url": "https://valorinternational.globo.com/business/news/2022/12/27/minas-gerais-governor-studies-turning-power-utility-into-corporation.ghtml",
-                    "date": "2022-12-27",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2022-12-27",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "confirmado",
@@ -89907,10 +89552,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Com privatização da Copasa concluída, governo de Minas arrecada R$ 13,9 bi",
                     "publisher": "Valor Econômico",
                     "url": "https://valor.globo.com/empresas/noticia/2026/06/11/com-privatizacao-da-copasa-concluida-governo-de-minas-arrecada-r-139-bi.ghtml",
-                    "date": "2026-06-11",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-06-11",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-zema-76",
@@ -90022,10 +89666,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Congresso aprova R$ 4,9 bi ao fundão eleitoral e esconde voto de parlamentares",
                     "publisher": "UOL Notícias",
                     "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/12/04/congresso-aprova-r-49-bi-a-fundao-eleitoral-e-esconde-voto-de-par",
-                    "date": "2025-12-04",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2025-12-04",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-zema-21",
@@ -90070,10 +89713,9 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Contas de Zema em MG têm melhora, mas caixa segue negativo e renúncias disparam",
                     "publisher": "Política Livre",
                     "url": "https://www.politicalivre.com.br/2026/08/contas-de-zema-em-mg-tem-melhora-mas-caixa-segue-negativo-e-renuncias-disparam",
-                    "date": "2026-08",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-08",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -90247,21 +89889,19 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Zema propõe poupança de R$ 1.000 para crianças nascidas no Brasil",
                     "publisher": "Poder360",
                     "url": "https://www.poder360.com.br/poder-eleicoes-2026/zema-propoe-poupanca-de-r-1-000-para-criancas-nascidas-no-brasil/",
-                    "date": "2026-09-06",
-                    "type": "imprensa",
                     "notes": "Estimativa de custo de cerca de R$ 2,5 bilhões por ano, segundo a campanha.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-09-06",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-re-r1propostas-54",
                     "title": "Zema quer poupança de R$ 1 mil para recém-nascidos com recurso do combate à corrupção",
                     "publisher": "InfoMoney",
                     "url": "https://www.infomoney.com.br/politica/zema-quer-poupanca-de-r-1-mil-para-recem-nascidos-com-recurso-do-combate-a-corrupcao/",
-                    "date": "2026-09",
-                    "type": "imprensa",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-09",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -90277,11 +89917,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Zema propõe poupança de R$ 1.000 para crianças nascidas no Brasil",
                     "publisher": "Poder360",
                     "url": "https://www.poder360.com.br/poder-eleicoes-2026/zema-propoe-poupanca-de-r-1-000-para-criancas-nascidas-no-brasil/",
-                    "date": "2026-09-06",
-                    "type": "imprensa",
                     "notes": "Estimativa de custo de cerca de R$ 2,5 bilhões por ano, segundo a campanha.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-09-06",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-zema-12",
@@ -90397,11 +90036,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Emenda à Constituição da reforma da Previdência é promulgada pela ALMG (EC 104/2020)",
                     "publisher": "SINFAZ-MG",
                     "url": "https://sinfazfiscomg.org.br/emenda-a-constituicao-da-reforma-da-previdencia-e-promulgada-pela-almg/",
-                    "date": "2020-09-15",
-                    "type": "imprensa",
                     "notes": "Idade mínima de 65 anos para homens e 62 para mulheres no regime estadual.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2020-09-15",
+                    "accessedAt": ""
                   }
                 ],
                 "evidenceStatus": "parcial",
@@ -90735,11 +90373,10 @@ export const researched: Partial<Candidate>[] = [
                     "title": "Aumento do Bolsa Família: veja perguntas e respostas",
                     "publisher": "g1",
                     "url": "https://g1.globo.com/economia/noticia/2026/09/18/aumento-do-bolsa-familia-veja-perguntas-e-respostas.ghtml",
-                    "date": "2026-09-18",
-                    "type": "imprensa",
                     "notes": "Reajuste do piso de R$ 600 para R$ 691 e benefício médio de R$ 675 para R$ 777; representação no TSE pedindo suspensão.",
-                    "accessedAt": "",
-                    "sourceType": "imprensa"
+                    "sourceType": "imprensa",
+                    "publishedAt": "2026-09-18",
+                    "accessedAt": ""
                   },
                   {
                     "id": "src-zema-12",
@@ -91655,33 +91292,30 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-02",
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -92004,33 +91638,30 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-02",
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -92287,11 +91918,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "parcial",
@@ -92507,33 +92137,30 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-02",
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -92901,11 +92528,10 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -93425,33 +93051,30 @@ export const researched: Partial<Candidate>[] = [
                   "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
                   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
                   "publisher": "Presidência da República — Planalto",
-                  "date": "1988-10-05",
-                  "type": "oficial_legislacao",
                   "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-02",
                   "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
                   "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
                   "publisher": "Senado Federal — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 },
                 {
                   "id": "src-re-r1capacidades-03",
                   "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
                   "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
                   "publisher": "Câmara dos Deputados — Dados Abertos",
-                  "date": "2026-09-29",
-                  "type": "oficial_dados_abertos",
                   "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-                  "accessedAt": "",
-                  "sourceType": "imprensa"
+                  "sourceType": "imprensa",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": ""
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -93520,9 +93143,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Gazeta do Povo (Diógenes Freire Feitosa)",
                 "url": "https://gazetadopovo.com.br/eleicoes/2026/zema-chama-trump-de-fanfarrao-e-culpa-lula-e-familia-bolsonaro-por-tarifaco/",
                 "publishedAt": "2026-08-06",
-                "date": "2026-08-06",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -93531,9 +93152,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Poder360",
                 "url": "https://www.poder360.com.br/poder-eleicoes-2026/zema-defende-retaliar-eua-por-taxas-e-critica-atuacoes-de-lula-e-flavio/",
                 "publishedAt": "2026-08-06",
-                "date": "2026-08-06",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -93542,9 +93161,7 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "O Globo",
                 "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/06/zema-defende-mudanca-profunda-no-judiciario-e-diz-que-pais-vive-estado-de-excecao.ghtml",
                 "publishedAt": "2026-08-06",
-                "date": "2026-08-06",
                 "accessedAt": "2026-09-29",
-                "type": "imprensa",
                 "sourceType": "imprensa"
               },
               {
@@ -93592,10 +93209,8 @@ export const researched: Partial<Candidate>[] = [
                 "publisher": "Câmara dos Deputados",
                 "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
                 "publishedAt": "2026-02-02",
-                "date": "2026-02-02",
                 "accessedAt": "2026-09-29",
-                "type": "legislativo",
-                "sourceType": "imprensa"
+                "sourceType": "legislativo"
               },
               {
                 "id": "src-zema-11",
@@ -97453,33 +97068,30 @@ export const researched: Partial<Candidate>[] = [
         "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
         "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
         "publisher": "Câmara dos Deputados — Dados Abertos",
-        "date": "2026-09-29",
-        "type": "oficial_dados_abertos",
         "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1capacidades-02",
         "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
         "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
         "publisher": "Senado Federal — Dados Abertos",
-        "date": "2026-09-29",
-        "type": "oficial_dados_abertos",
         "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1capacidades-01",
         "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
         "publisher": "Presidência da República — Planalto",
-        "date": "1988-10-05",
-        "type": "oficial_legislacao",
         "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "1988-10-05",
+        "accessedAt": ""
       },
       {
         "id": "src-re-11",
@@ -97487,9 +97099,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Poder360",
         "url": "https://www.poder360.com.br/poder-eleicoes-2026/zema-defende-retaliar-eua-por-taxas-e-critica-atuacoes-de-lula-e-flavio/",
         "publishedAt": "2026-08-06",
-        "date": "2026-08-06",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -97498,9 +97108,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Gazeta do Povo (Diógenes Freire Feitosa)",
         "url": "https://gazetadopovo.com.br/eleicoes/2026/zema-chama-trump-de-fanfarrao-e-culpa-lula-e-familia-bolsonaro-por-tarifaco/",
         "publishedAt": "2026-08-06",
-        "date": "2026-08-06",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -97509,9 +97117,7 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "O Globo",
         "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/06/zema-defende-mudanca-profunda-no-judiciario-e-diz-que-pais-vive-estado-de-excecao.ghtml",
         "publishedAt": "2026-08-06",
-        "date": "2026-08-06",
         "accessedAt": "2026-09-29",
-        "type": "imprensa",
         "sourceType": "imprensa"
       },
       {
@@ -97520,178 +97126,160 @@ export const researched: Partial<Candidate>[] = [
         "publisher": "Câmara dos Deputados",
         "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
         "publishedAt": "2026-02-02",
-        "date": "2026-02-02",
         "accessedAt": "2026-09-29",
-        "type": "legislativo",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo"
       },
       {
         "id": "src-re-r1propostas-48",
         "title": "Derrubada de veto ao reajuste dos servidores ganha força na Assembleia de MG",
         "publisher": "Estado de Minas",
         "url": "https://www.em.com.br/app/noticia/politica/2020/03/13/interna_politica,1128413/queda-de-veto-ao-reajuste-dos-servidores-ganha-forca-na-assembleia.shtml",
-        "date": "2020-03-13",
-        "type": "imprensa",
         "notes": "Veto ao reajuste de 41,7% concedido pela ALMG; o governo sancionou 13%.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2020-03-13",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-45",
         "title": "Privatização da Cemig sai do radar com a eleição em Minas Gerais",
         "publisher": "Investidor10",
         "url": "https://investidor10.com.br/noticias/privatizacao-da-cemig-cmig4-sai-do-radar-com-eleicao-em-minas-gerais-122742/",
-        "date": "2026",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-44",
         "title": "Minas Gerais governor studies turning power utility into corporation (tentativa de privatização da Cemig em 2022)",
         "publisher": "Valor International",
         "url": "https://valorinternational.globo.com/business/news/2022/12/27/minas-gerais-governor-studies-turning-power-utility-into-corporation.ghtml",
-        "date": "2022-12-27",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2022-12-27",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-49",
         "title": "Em MG, deputados mantêm veto de Zema à recomposição das perdas dos servidores",
         "publisher": "CUT Nacional",
         "url": "https://www.cut.org.br/noticias/em-mg-deputados-mantem-veto-de-zema-a-recomposicao-das-perdas-dos-servidores-09fb",
-        "date": "2020-06-18",
-        "type": "imprensa",
         "notes": "Veto mantido em votação de 17/06/2020.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2020-06-18",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-10",
         "title": "Aumento do Bolsa Família: veja perguntas e respostas",
         "publisher": "g1",
         "url": "https://g1.globo.com/economia/noticia/2026/09/18/aumento-do-bolsa-familia-veja-perguntas-e-respostas.ghtml",
-        "date": "2026-09-18",
-        "type": "imprensa",
         "notes": "Reajuste do piso de R$ 600 para R$ 691 e benefício médio de R$ 675 para R$ 777; representação no TSE pedindo suspensão.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-18",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-52",
         "title": "Congresso aprova R$ 4,9 bi ao fundão eleitoral e esconde voto de parlamentares",
         "publisher": "UOL Notícias",
         "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/12/04/congresso-aprova-r-49-bi-a-fundao-eleitoral-e-esconde-voto-de-par",
-        "date": "2025-12-04",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2025-12-04",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-54",
         "title": "Zema quer poupança de R$ 1 mil para recém-nascidos com recurso do combate à corrupção",
         "publisher": "InfoMoney",
         "url": "https://www.infomoney.com.br/politica/zema-quer-poupanca-de-r-1-mil-para-recem-nascidos-com-recurso-do-combate-a-corrupcao/",
-        "date": "2026-09",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-43",
         "title": "Privatização da Copasa: as outras estatais na mira do governo de MG",
         "publisher": "Estado de Minas",
         "url": "https://www.em.com.br/politica/2026/06/amp/7442711-privatizacao-da-copasa-as-outras-estatais-na-mira-do-governo-de-mg.html",
-        "date": "2026-06-17",
-        "type": "imprensa",
         "notes": "Cita Cemig, Codemig e Gasmig entre os ativos na agenda do governo estadual.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-06-17",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-50",
         "title": "Contas de Zema em MG têm melhora, mas caixa segue negativo e renúncias disparam",
         "publisher": "Política Livre",
         "url": "https://www.politicalivre.com.br/2026/08/contas-de-zema-em-mg-tem-melhora-mas-caixa-segue-negativo-e-renuncias-disparam",
-        "date": "2026-08",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-08",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-47",
         "title": "Emenda à Constituição da reforma da Previdência é promulgada pela ALMG (EC 104/2020)",
         "publisher": "SINFAZ-MG",
         "url": "https://sinfazfiscomg.org.br/emenda-a-constituicao-da-reforma-da-previdencia-e-promulgada-pela-almg/",
-        "date": "2020-09-15",
-        "type": "imprensa",
         "notes": "Idade mínima de 65 anos para homens e 62 para mulheres no regime estadual.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2020-09-15",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-38",
         "title": "Privatização da Copasa é concluída; venda movimentou R$ 8,38 bilhões",
         "publisher": "g1 Minas",
         "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/16/privatizacao-da-copasa-liquidacao.ghtml",
-        "date": "2026-06-16",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-06-16",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-39",
         "title": "Com privatização da Copasa concluída, governo de Minas arrecada R$ 13,9 bi",
         "publisher": "Valor Econômico",
         "url": "https://valor.globo.com/empresas/noticia/2026/06/11/com-privatizacao-da-copasa-concluida-governo-de-minas-arrecada-r-139-bi.ghtml",
-        "date": "2026-06-11",
-        "type": "imprensa",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-06-11",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-42",
         "title": "Sob protestos, deputados de Minas Gerais aprovam privatização da Copasa",
         "publisher": "Hora do Povo",
         "url": "https://horadopovo.com.br/sob-protestos-deputados-de-minas-gerais-aprovam-privatizacao-da-copasa",
-        "date": "2025-12-18",
-        "type": "imprensa",
         "notes": "Aprovação do projeto de privatização na ALMG em 17/12/2025.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2025-12-18",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-55",
         "title": "Fundo Partidário: 19 partidos receberam mais de R$ 1 bilhão em 2025; NOVO ficou fora por não atingir a cláusula de desempenho",
         "publisher": "TSE — Tribunal Superior Eleitoral",
         "url": "https://tse.jus.br/comunicacao/noticias/2026/Janeiro/fundo-partidario-19-partidos-receberam-mais-de-r-1-bilhao-em-2025",
-        "date": "2026-01",
-        "type": "oficial_eleitoral",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "oficial_eleitoral",
+        "publishedAt": "2026-01",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-53",
         "title": "Zema propõe poupança de R$ 1.000 para crianças nascidas no Brasil",
         "publisher": "Poder360",
         "url": "https://www.poder360.com.br/poder-eleicoes-2026/zema-propoe-poupanca-de-r-1-000-para-criancas-nascidas-no-brasil/",
-        "date": "2026-09-06",
-        "type": "imprensa",
         "notes": "Estimativa de custo de cerca de R$ 2,5 bilhões por ano, segundo a campanha.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "imprensa",
+        "publishedAt": "2026-09-06",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1propostas-40",
         "title": "Proposta que facilita privatização da Copasa é aprovada em definitivo",
         "publisher": "Assembleia Legislativa de Minas Gerais",
         "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Proposta-que-facilita-privatizacao-da-Copasa-e-aprovada-em-definitivo",
-        "date": "2025-11-05",
-        "type": "legislativo",
         "notes": "PEC aprovada em 2º turno retirou a exigência de referendo prevista na Constituição estadual para a Copasa.",
-        "accessedAt": "",
-        "sourceType": "imprensa"
+        "sourceType": "legislativo",
+        "publishedAt": "2025-11-05",
+        "accessedAt": ""
       },
       {
         "id": "src-re-r1temas-14",

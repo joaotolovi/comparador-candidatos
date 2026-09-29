@@ -55,9 +55,17 @@ export type SourceType =
   | "partidaria" // site/oficial de partido ou campanha
   | "pesquisa_eleitoral" // instituto de pesquisa registrado no TSE
   | "imprensa"
-  | "editorial"; // verbetes enciclopédicos (ex.: Wikipédia)
+  | "editorial" // verbetes enciclopédicos (ex.: Wikipédia)
+  | "oficial" // fonte oficial sem esfera única (ex.: portal do órgão)
+  | "eleitoral" // justiça/administração eleitoral
+  | "agencia_publica"
+  | "estatal"
+  | "primaria" // documento primário do próprio objeto analisado
+  | "estadistico"; // variante de grafia registrada pelos pesquisadores
 
 export interface Source {
+  /** data de publicação/consulta da fonte, quando o pesquisador registra */
+  date?: string;
   id: string;
   title: string;
   publisher: string;
@@ -500,7 +508,7 @@ export interface RealityCheck {
   support?: {
     partySeats?: string;
     coalitionSeats?: string;
-    federations?: string;
+    federations?: string | string[];
     documentedAgreements: number;
     note: string;
   };

@@ -301,11 +301,23 @@ const mapReality = (rc) => {
       }
     : undefined;
   const sup = rc.support && typeof rc.support === "object" ? rc.support : null;
+  // Bancadas vêm como texto ("PL: 92 dep / 8 sen") ou objeto ({camara, senado})
+  const seatText = (v) => {
+    if (typeof v === "string") return v;
+    if (Array.isArray(v)) return v.filter((x) => typeof x === "string").join(" · ");
+    if (v && typeof v === "object") {
+      return Object.entries(v)
+        .filter(([, n]) => n !== undefined && n !== null && n !== "")
+        .map(([casa, n]) => `${casa === "camara" ? "Câmara" : casa === "senado" ? "Senado" : casa}: ${n}`)
+        .join(" · ");
+    }
+    return undefined;
+  };
   const support = sup
     ? {
-        partySeats: sup.partySeats ?? undefined,
-        coalitionSeats: sup.coalitionSeats ?? undefined,
-        federations: sup.federations ?? undefined,
+        partySeats: seatText(sup.partySeats),
+        coalitionSeats: seatText(sup.coalitionSeats),
+        federations: seatText(sup.federations),
         documentedAgreements: Number(sup.documentedAgreements ?? 0),
         note: sup.note ?? "Retrato atual, não previsão do próximo Congresso.",
       }
@@ -370,6 +382,46 @@ const seen = new Set();
 const today = new Date().toISOString().slice(0, 10);
 let invalid = 0;
 
+// Os patches escrevem a fonte como `type`/`date`; o domínio usa
+// `sourceType`/`publishedAt`. Normalizar aqui, no carregamento, evita
+// propriedade desconhecida no literal gerado (quebra o tsc) e mantém o
+// rótulo correto da fonte.
+const SOURCE_TYPE_ALIAS = {
+  partidario: "partidaria",
+  partidaria: "partidaria",
+  agregador: "editorial",
+  oficial: "oficial",
+  eleitoral: "eleitoral",
+  primaria: "primaria",
+  primário: "primaria",
+  estadistico: "estadistico",
+  estatistico: "estatistico",
+  agencia_publica: "agencia_publica",
+  estatal: "estatal",
+};
+const SOURCE_TYPES = new Set([
+  "oficial_eleitoral", "legislativo", "executivo_federal", "diario_oficial", "transparencia",
+  "tribunal", "tribunal_de_contas", "estatistico", "economico", "estadual", "municipal",
+  "plano_de_governo", "partidaria", "pesquisa_eleitoral", "imprensa", "editorial",
+  "oficial", "eleitoral", "agencia_publica", "estatal", "primaria",
+]);
+
+function normalizeSources(node) {
+  if (Array.isArray(node)) return node.map(normalizeSources);
+  if (!node || typeof node !== "object") return node;
+  const out = {};
+  for (const [k, v] of Object.entries(node)) out[k] = normalizeSources(v);
+  if (typeof out.url === "string" && typeof out.id === "string" && !("metricId" in out)) {
+    const raw = out.sourceType ?? out.type;
+    const alias = SOURCE_TYPE_ALIAS[String(raw ?? "").toLowerCase()];
+    out.sourceType = SOURCE_TYPES.has(raw) ? raw : alias ?? "imprensa";
+    if (out.publishedAt === undefined && out.date !== undefined) out.publishedAt = out.date;
+    delete out.type;
+    delete out.date;
+  }
+  return out;
+}
+
 for (const f of files) {
   let d;
   try {
@@ -379,6 +431,7 @@ for (const f of files) {
     invalid++;
     continue;
   }
+  d = normalizeSources(d);
   const slug = d.slug ?? f.replace(/\.json$/, "");
   if (!d.name || !d.ballotNumber) {
     console.warn(`⚠ ${f}: sem name/ballotNumber — ignorado`);
