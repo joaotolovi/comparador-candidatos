@@ -958,11 +958,31 @@
       "unit": "anos",
       "metricType": "duration",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada (governador estadual não conta como cargo federal).",
+      "methodology": "Soma de períodos em cargos federais (Executivo, Legislativo ou Judiciário). Nenhuma ocupação federal localizada: o histórico eleitoral em fontes eleitorais oficiais (TSE/DivulgaCand) registra apenas candidaturas a governador de Minas Gerais (2018 e 2022) e à Presidência (2026) — governador estadual não é cargo federal. Verbete da Wikipédia mantido como referência secundária.",
       "evidenceStatus": "confirmado",
       "confidenceLevel": "high",
       "availability": "zero",
       "sources": [
+        {
+          "id": "src-zema-39",
+          "title": "Zema (NOVO) 30 — ficha e histórico eleitoral",
+          "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+          "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+          "publishedAt": "2026-09-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Agregador de dados abertos do TSE; coleta em 25/09/2026."
+        },
+        {
+          "id": "src-zema-02",
+          "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Nota: nascimento registrado como 27/10/1964, divergindo de O Tempo/Wikipédia/Wikidata (28/10/1964)."
+        },
         {
           "id": "src-zema-01",
           "title": "Romeu Zema — verbete (Wikipédia em português)",

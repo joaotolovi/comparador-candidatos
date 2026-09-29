@@ -572,11 +572,31 @@
       "unit": "anos",
       "metricType": "duration",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Anos entre o início documentado da atividade política (1976, na ditadura militar, segundo a Wikipédia) e 29/09/2026. Referências cruzadas: fundador do PT (1980), diretor da CUT (1985), fundador e presidente do PCO (desde 1995) — trajetória contínua.",
+      "methodology": "Anos entre o início documentado da atividade política e 29/09/2026. O marco de 1976 (atividade na ditadura militar) consta apenas no verbete da Wikipédia — fonte secundária; os marcos posteriores têm lastro documental: fundação do PT (1980), direção na CUT (1985), fundação e presidência do PCO (1995) e candidaturas presidenciais desde 1998, registradas em fontes eleitorais oficiais. Valor aproximado, sensível ao marco inicial adotado.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "medium",
       "availability": "available",
       "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-15",
+          "title": "Rui Costa Pimenta, candidato à Presidência pelo PCO, fala sobre propostas de governo",
+          "publisher": "g1 (Globo) — Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/rui-costa-pimenta-candidato-a-presidencia-pelo-pco-fala-sobre-propostas-de-governo.ghtml",
+          "publishedAt": "2026-09-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevista do Jornal Nacional para candidatos fora do grupo dos mais bem colocados nas pesquisas; defesa do salário mínimo vital, estatização do sistema financeiro e revogação das reformas trabalhistas."
+        },
         {
           "id": "src-rp-02",
           "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",

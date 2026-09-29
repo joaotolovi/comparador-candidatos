@@ -1,6 +1,6 @@
 // ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
 // 13 candidato(s) com pesquisa profunda; os demais ficam só no seed.
-// Gerado em: 2026-09-29T18:32:58.190Z
+// Gerado em: 2026-09-29T18:37:13.375Z
 import type { Candidate } from "@/types";
 
 export const researched: Partial<Candidate>[] = [
@@ -3434,11 +3434,21 @@ export const researched: Partial<Candidate>[] = [
         "unit": "anos",
         "metricType": "duration",
         "directionality": "higher_is_descriptively_more",
-        "methodology": "Entre a presidência da UDR (1986–1989), seu primeiro cargo público dirigencial, e 29/09/2026. Se contada a fundação da UDR (1985), ≈41 anos.",
+        "methodology": "Entre a presidência da UDR (1986–1989), seu primeiro cargo público dirigencial, e 29/09/2026. Se contada a fundação da UDR (1985), ≈41 anos. Marcos iniciais da trajetória (presidência da UDR, 1986) são de fonte secundária.",
         "evidenceStatus": "confirmado",
         "confidenceLevel": "medium",
         "availability": "available",
         "sources": [
+          {
+            "id": "src-cg-63",
+            "title": "Biografia — Deputado Federal Ronaldo Caiado (mandatos, partidos e datas de posse)",
+            "publisher": "Câmara dos Deputados",
+            "url": "https://www.camara.leg.br/deputados/74813/biografia",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mandatos listados na fonte oficial: Deputado Federal 1991–1995 (Congresso Revisor), 1999–2003, 2003–2007, 2007–2011; Senador 2015–2019; Governador 2019–2023."
+          },
           {
             "id": "src-cg-01",
             "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
@@ -3462,11 +3472,21 @@ export const researched: Partial<Candidate>[] = [
         "unit": "anos",
         "metricType": "duration",
         "directionality": "higher_is_descriptively_more",
-        "methodology": "Soma dos períodos em mandatos legislativos federais sem dupla contagem: 4 anos na Câmara (1991–1995) + 16 anos na Câmara (1999–fev/2015) + ~4 anos no Senado (fev/2015–jan/2019).",
+        "methodology": "Soma dos períodos em mandatos legislativos federais sem dupla contagem: 4 anos na Câmara (1991–1995) + 16 anos na Câmara (1999–fev/2015) + ~4 anos no Senado (fev/2015–jan/2019). Períodos conferidos na biografia oficial da Câmara (mandatos e datas de posse).",
         "evidenceStatus": "confirmado",
         "confidenceLevel": "medium",
         "availability": "available",
         "sources": [
+          {
+            "id": "src-cg-63",
+            "title": "Biografia — Deputado Federal Ronaldo Caiado (mandatos, partidos e datas de posse)",
+            "publisher": "Câmara dos Deputados",
+            "url": "https://www.camara.leg.br/deputados/74813/biografia",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mandatos listados na fonte oficial: Deputado Federal 1991–1995 (Congresso Revisor), 1999–2003, 2003–2007, 2007–2011; Senador 2015–2019; Governador 2019–2023."
+          },
           {
             "id": "src-cg-01",
             "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
@@ -3490,11 +3510,21 @@ export const researched: Partial<Candidate>[] = [
         "unit": "anos",
         "metricType": "duration",
         "directionality": "higher_is_descriptively_more",
-        "methodology": "Soma dos mandatos no Legislativo federal (Câmara dos Deputados e Senado), sem dupla contagem. Nunca ocupou cargo no Executivo federal.",
+        "methodology": "Soma dos mandatos no Legislativo federal (Câmara dos Deputados e Senado), sem dupla contagem. Nunca ocupou cargo no Executivo federal. Períodos conferidos na biografia oficial da Câmara (mandatos e datas de posse).",
         "evidenceStatus": "confirmado",
         "confidenceLevel": "medium",
         "availability": "available",
         "sources": [
+          {
+            "id": "src-cg-63",
+            "title": "Biografia — Deputado Federal Ronaldo Caiado (mandatos, partidos e datas de posse)",
+            "publisher": "Câmara dos Deputados",
+            "url": "https://www.camara.leg.br/deputados/74813/biografia",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mandatos listados na fonte oficial: Deputado Federal 1991–1995 (Congresso Revisor), 1999–2003, 2003–2007, 2007–2011; Senador 2015–2019; Governador 2019–2023."
+          },
           {
             "id": "src-cg-01",
             "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
@@ -3517,11 +3547,21 @@ export const researched: Partial<Candidate>[] = [
         "unit": "mandatos",
         "metricType": "number",
         "directionality": "higher_is_descriptively_more",
-        "methodology": "Contagem de mandatos eletivos conquistados: deputado federal em 1990, 1998, 2002, 2006 e 2010 (5); senador em 2014 (1); governador de Goiás em 2018 e 2022 (2). Não contabiliza derrotas (1989 Presidência, 1994 governo de GO).",
+        "methodology": "Contagem de mandatos eletivos conquistados: deputado federal em 1990, 1998, 2002, 2006 e 2010 (5); senador em 2014 (1); governador de Goiás em 2018 e 2022 (2). Não contabiliza derrotas (1989 Presidência, 1994 governo de GO). Mandatos conferidos na biografia oficial da Câmara; eleições de 2014 (Senado) e 2018/2022 (governo) nas fichas do TSE.",
         "evidenceStatus": "confirmado",
         "confidenceLevel": "medium",
         "availability": "available",
         "sources": [
+          {
+            "id": "src-cg-63",
+            "title": "Biografia — Deputado Federal Ronaldo Caiado (mandatos, partidos e datas de posse)",
+            "publisher": "Câmara dos Deputados",
+            "url": "https://www.camara.leg.br/deputados/74813/biografia",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mandatos listados na fonte oficial: Deputado Federal 1991–1995 (Congresso Revisor), 1999–2003, 2003–2007, 2007–2011; Senador 2015–2019; Governador 2019–2023."
+          },
           {
             "id": "src-cg-01",
             "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
@@ -3955,28 +3995,49 @@ export const researched: Partial<Candidate>[] = [
         "id": "aprovacao_gestao",
         "category": "historico-experiencia",
         "name": "Aprovação da gestão (pesquisas)",
-        "displayValue": "84% de aprovação / 11% de desaprovação (pesquisa de 2026)",
-        "value": 84,
+        "displayValue": "84,7% de aprovação / 13,2% de desaprovação (Paraná Pesquisas, abr/2026)",
+        "value": 84.7,
         "unit": "%",
         "metricType": "percentage",
         "directionality": "higher_is_descriptively_more",
-        "methodology": "Percentual citado no verbete da campanha (Wikipédia em inglês) como '2026 poll' sobre aprovação da administração de Caiado em Goiás; instituto, amostra e data não capturados no dump — tratar como dado de baixa verificabilidade.",
-        "evidenceStatus": "parcial",
-        "confidenceLevel": "low",
+        "methodology": "Pesquisas de aprovação da gestão estadual, com instituto e data identificados: Paraná Pesquisas divulgada em 07/04/2026 (84,7% de aprovação; 13,2% de desaprovação) e Genial/Quaest divulgada em 30/04/2026 (84% de aprovação; positivo 69% / regular 21% / negativo 5% na avaliação do governo). O campo value usa a medição do Paraná Pesquisas, a mais próxima do encerramento do mandato. Complemento: Genial/Quaest de julho/2026 (88% de aprovação em Goiás, grupo 'quase unânimes'). Percentuais de pesquisa; não são juízo sobre a gestão.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
         "availability": "available",
         "sources": [
           {
-            "id": "src-cg-02",
-            "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
-            "publisher": "Wikipédia (en)",
-            "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
-            "publishedAt": "2026-09-29",
+            "id": "src-cg-60",
+            "title": "Pesquisa: Caiado deixa governo aprovado por 84,7%; desaprovação vai a 13,2%",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/pesquisa-caiado-deixa-governo-aprovado-por-847-desaprovacao-vai-a-132/",
+            "publishedAt": "2026-04-07",
             "accessedAt": "2026-09-29",
-            "sourceType": "imprensa",
-            "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt; fonte primária da pesquisa não identificada."
+            "sourceType": "pesquisa_eleitoral",
+            "notes": "Paraná Pesquisas, divulgada em 07/04/2026: 84,7% de aprovação e 13,2% de desaprovação do governo de Goiás."
+          },
+          {
+            "id": "src-cg-61",
+            "title": "Antipetista declarado, Caiado é aprovado por 77% dos lulistas e 75% da esquerda de Goiás",
+            "publisher": "Veja",
+            "url": "https://veja.abril.com.br/politica/antipetista-declarado-caiado-e-aprovado-por-77-dos-lulistas-e-75-da-esquerda-de-goias/",
+            "publishedAt": "2026-04-30",
+            "accessedAt": "2026-09-29",
+            "sourceType": "pesquisa_eleitoral",
+            "notes": "Genial/Quaest divulgada em 30/04/2026: 84% de aprovação em Goiás; avaliação do governo: positivo 69%, regular 21%, negativo 5%."
+          },
+          {
+            "id": "src-cg-62",
+            "title": "Avaliação dos governadores e cenários eleitorais 2026 (Genial/Quaest)",
+            "publisher": "Quaest",
+            "url": "https://quaest.com.br/avaliacao-dos-governadores-cenarios-eleitorais-2026/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "pesquisa_eleitoral",
+            "notes": "Rodada de julho/2026: Caiado no grupo 'quase unânimes' em Goiás, com 88% de aprovação registrados no levantamento."
           }
         ],
         "updatedAt": "2026-09-29",
+        "context": "Avaliação final do governo de Goiás: Caiado deixou o mandato em abril de 2026 para disputar a Presidência, e a última medição do governo dele é de abril/2026 — dois institutos convergem (Paraná Pesquisas: 84,7%; Genial/Quaest: 84%). Na rodada de julho/2026 da Genial/Quaest, Goiás aparece no grupo 'quase unânimes', com 88% de aprovação registrados.",
         "dataPresentation": "notes_only"
       },
       {
@@ -4179,13 +4240,13 @@ export const researched: Partial<Candidate>[] = [
         "category": "historico-experiencia",
         "metricType": "number",
         "unit": "leis",
-        "value": 4,
-        "displayValue": "4 leis de autoria (2 na Câmara; 2 no Senado)",
-        "context": "Câmara: PL 5498/2009 e PL 742/2011 (transformados em norma jurídica). Senado: PLS 209/2015 (Lei 14.052/2020) e PLS 206/2017 (Lei 13.487/2017). Excluídos por tipo: PLV 33/2002 (conversão) e PRC 189/2005 (resolução — CPI).",
+        "value": 5,
+        "displayValue": "5 leis de autoria (3 na Câmara; 2 no Senado)",
+        "context": "Câmara: PL 5498/2009, PL 742/2011 e PLV 33/2002 — proposições de autoria dele transformadas em norma jurídica. Senado: PLS 209/2015 (Lei 14.052/2020) e PLS 206/2017 (Lei 13.487/2017). Fora da conta apenas o PRC 189/2005, por ser projeto de resolução (criação de CPI), que não gera lei.",
         "availability": "available",
         "evidenceStatus": "parcial",
         "confidenceLevel": "medium",
-        "methodology": "Contagem em fontes primárias: API de Dados Abertos da Câmara — varredura das 1.751 proposições de autoria do deputado 74813 (das quais 42 são projetos de lei; demais tipos, como emendas e requerimentos, fora do escopo) — com 2 PLs em situação 'Transformado em Norma Jurídica' (PL 5498/2009 e PL 742/2011) — e fichas de matéria do Senado (PLS 209/2015 → Lei 14.052/2020; PLS 206/2017 → Lei 13.487/2017). Não entram na contagem outras proposições de autoria convertidas em norma jurídica que não são projetos de lei: PLV 33/2002 (projeto de lei de conversão) e PRC 189/2005 (projeto de resolução que criou a CPI do tráfico de armas). Contagem aproximada e piso: mandatos de 1987–1995 não são cobertos pela base digital consultada.",
+        "methodology": "Contagem em fontes primárias: API de Dados Abertos da Câmara — varredura das 1.751 proposições de autoria do deputado 74813 (42 delas projetos de lei; demais tipos como emendas e requerimentos fora do escopo) — com 3 proposições de lei convertidas em norma jurídica (PL 5498/2009, PL 742/2011 e PLV 33/2002); e fichas de matéria do Senado (PLS 209/2015 → Lei 14.052/2020; PLS 206/2017 → Lei 13.487/2017). Excluído da contagem o PRC 189/2005 (projeto de resolução que criou a CPI do tráfico de armas), que não se converte em lei. Contagem aproximada e piso: mandatos de 1987–1995 não cobertos pela base digital e a produção do Senado 2015–2019 foi conferida apenas nas fichas de matéria localizadas.",
         "sources": [
           {
             "id": "src-cg-50",
@@ -4660,6 +4721,46 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "PLS 206/2017 converteu-se na Lei 13.487/2017 (registro na busca do Senado)."
+      },
+      {
+        "id": "src-cg-60",
+        "title": "Pesquisa: Caiado deixa governo aprovado por 84,7%; desaprovação vai a 13,2%",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/pesquisa-caiado-deixa-governo-aprovado-por-847-desaprovacao-vai-a-132/",
+        "publishedAt": "2026-04-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "pesquisa_eleitoral",
+        "notes": "Paraná Pesquisas, divulgada em 07/04/2026: 84,7% de aprovação e 13,2% de desaprovação do governo de Goiás."
+      },
+      {
+        "id": "src-cg-61",
+        "title": "Antipetista declarado, Caiado é aprovado por 77% dos lulistas e 75% da esquerda de Goiás",
+        "publisher": "Veja",
+        "url": "https://veja.abril.com.br/politica/antipetista-declarado-caiado-e-aprovado-por-77-dos-lulistas-e-75-da-esquerda-de-goias/",
+        "publishedAt": "2026-04-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "pesquisa_eleitoral",
+        "notes": "Genial/Quaest divulgada em 30/04/2026: 84% de aprovação em Goiás; avaliação do governo: positivo 69%, regular 21%, negativo 5%."
+      },
+      {
+        "id": "src-cg-62",
+        "title": "Avaliação dos governadores e cenários eleitorais 2026 (Genial/Quaest)",
+        "publisher": "Quaest",
+        "url": "https://quaest.com.br/avaliacao-dos-governadores-cenarios-eleitorais-2026/",
+        "publishedAt": "2026-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "pesquisa_eleitoral",
+        "notes": "Rodada de julho/2026: Caiado no grupo 'quase unânimes' em Goiás, com 88% de aprovação registrados no levantamento."
+      },
+      {
+        "id": "src-cg-63",
+        "title": "Biografia — Deputado Federal Ronaldo Caiado (mandatos, partidos e datas de posse)",
+        "publisher": "Câmara dos Deputados",
+        "url": "https://www.camara.leg.br/deputados/74813/biografia",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Mandatos listados na fonte oficial: Deputado Federal 1991–1995 (Congresso Revisor), 1999–2003, 2003–2007, 2007–2011; Senador 2015–2019; Governador 2019–2023."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -21298,11 +21399,31 @@ export const researched: Partial<Candidate>[] = [
         "unit": "anos",
         "metricType": "duration",
         "directionality": "higher_is_descriptively_more",
-        "methodology": "Anos entre o início documentado da atividade política (1976, na ditadura militar, segundo a Wikipédia) e 29/09/2026. Referências cruzadas: fundador do PT (1980), diretor da CUT (1985), fundador e presidente do PCO (desde 1995) — trajetória contínua.",
+        "methodology": "Anos entre o início documentado da atividade política e 29/09/2026. O marco de 1976 (atividade na ditadura militar) consta apenas no verbete da Wikipédia — fonte secundária; os marcos posteriores têm lastro documental: fundação do PT (1980), direção na CUT (1985), fundação e presidência do PCO (1995) e candidaturas presidenciais desde 1998, registradas em fontes eleitorais oficiais. Valor aproximado, sensível ao marco inicial adotado.",
         "evidenceStatus": "parcial",
         "confidenceLevel": "medium",
         "availability": "available",
         "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-rp-15",
+            "title": "Rui Costa Pimenta, candidato à Presidência pelo PCO, fala sobre propostas de governo",
+            "publisher": "g1 (Globo) — Jornal Nacional",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/rui-costa-pimenta-candidato-a-presidencia-pelo-pco-fala-sobre-propostas-de-governo.ghtml",
+            "publishedAt": "2026-09-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Entrevista do Jornal Nacional para candidatos fora do grupo dos mais bem colocados nas pesquisas; defesa do salário mínimo vital, estatização do sistema financeiro e revogação das reformas trabalhistas."
+          },
           {
             "id": "src-rp-02",
             "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
@@ -27955,11 +28076,31 @@ export const researched: Partial<Candidate>[] = [
         "unit": "anos",
         "metricType": "duration",
         "directionality": "higher_is_descriptively_more",
-        "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada (governador estadual não conta como cargo federal).",
+        "methodology": "Soma de períodos em cargos federais (Executivo, Legislativo ou Judiciário). Nenhuma ocupação federal localizada: o histórico eleitoral em fontes eleitorais oficiais (TSE/DivulgaCand) registra apenas candidaturas a governador de Minas Gerais (2018 e 2022) e à Presidência (2026) — governador estadual não é cargo federal. Verbete da Wikipédia mantido como referência secundária.",
         "evidenceStatus": "confirmado",
         "confidenceLevel": "high",
         "availability": "zero",
         "sources": [
+          {
+            "id": "src-zema-39",
+            "title": "Zema (NOVO) 30 — ficha e histórico eleitoral",
+            "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+            "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+            "publishedAt": "2026-09-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Agregador de dados abertos do TSE; coleta em 25/09/2026."
+          },
+          {
+            "id": "src-zema-02",
+            "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Nota: nascimento registrado como 27/10/1964, divergindo de O Tempo/Wikipédia/Wikidata (28/10/1964)."
+          },
           {
             "id": "src-zema-01",
             "title": "Romeu Zema — verbete (Wikipédia em português)",
