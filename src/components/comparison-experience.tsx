@@ -1,20 +1,13 @@
 "use client";
 
-// Orquestrador da comparação: estado de seleção vive na URL (?c=slug,slug[,slug])
-// — deep-linkável. Sticky header colapsa ao rolar. Dois modos de diferença:
-// "destacar" (diminui iguais) e "somente" (oculta linhas equivalentes).
-//
-// V4 — analítico. A ordem da tela segue as 12 seções do blueprint:
-// 01 resumo · 02 projeto de país · 03 prioridades e propostas · 04 viabilidade e
-// instrumentos · 05 experiência demonstrada · 06 Brasil no mundo · 07 posições por
-// grandes temas · 08 histórico × proposta · 09 situação institucional e jurídica ·
-// 10 opinião pública · 11 trajetória · 12 fontes. Cada assunto carrega o seu
-// teste de realidade — não existe "seção da nossa análise".
+// Orquestrador da comparação. A página segue uma pirâmide de informação:
+// 01 síntese visual -> projeto/plano/capacidades -> posições e coerência -> áreas
+// de consulta. O conteúdo mais importante vem antes; currículo e opinião ficam no fim.
 
 import { useEffect, useMemo, useState } from "react";
 import type { Candidate, SectionSlug } from "@/types";
 import { SECTIONS } from "@/types";
-import { buildRows, keyDifferences, type MetricRow } from "@/lib/data";
+import { buildRows, type MetricRow } from "@/lib/data";
 import { ComparisonHeader } from "@/components/comparison-header";
 import { ComparisonRow } from "@/components/comparison-row";
 import { ComparisonSummary } from "@/components/comparison-summary";
@@ -31,6 +24,19 @@ import { MetricsBlock } from "@/components/metrics-block";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
+const SECTION_RANK: Record<SectionSlug, number> = {
+  pais: 1,
+  caminho: 2,
+  viabilidade: 3,
+  capacidades: 4,
+  mundo: 5,
+  temas: 6,
+  coerencia: 7,
+  integridade: 8,
+  opiniao: 9,
+  historico: 10,
+};
+
 export function ComparisonExperience({
   candidates,
   allCandidates,
@@ -42,7 +48,6 @@ export function ComparisonExperience({
   const [only, setOnly] = useState(false);
   const [stuck, setStuck] = useState(false);
 
-  // Cabeçalho compacto sticky ao rolar (§16)
   useEffect(() => {
     const onScroll = () => setStuck(window.scrollY > 240);
     onScroll();
@@ -51,12 +56,11 @@ export function ComparisonExperience({
   }, []);
 
   const rows = useMemo(() => buildRows(candidates), [candidates]);
-  const diffs = useMemo(
-    () => keyDifferences(rows, candidates),
-    [rows, candidates],
+  const orderedSections = useMemo(
+    () => [...SECTIONS].sort((a, b) => SECTION_RANK[a.slug] - SECTION_RANK[b.slug]),
+    [],
   );
 
-  /** Linhas de dados agrupadas pela seção a que pertencem. */
   const rowsBySection = useMemo(() => {
     const map = new Map<SectionSlug, MetricRow[]>();
     for (const r of rows) {
@@ -69,12 +73,10 @@ export function ComparisonExperience({
 
   const candLite = candidates.map((c) => ({ name: c.name, slug: c.slug }));
 
-  // Numeração: o resumo é a seção 01, então as seções do corpo começam em 02.
-  // Currículo, opinião e integridade aparecem como áreas separadas.
   let mainCount = 1;
-  const sectionLabels = SECTIONS.map((s) => {
+  const sectionLabels = orderedSections.map((s) => {
     if (!s.secondary) mainCount += 1;
-    return s.secondary ? "Área separada" : `Seção ${mainCount}`;
+    return s.secondary ? "Área de consulta" : `Seção ${mainCount}`;
   });
 
   function sectionBody(slug: SectionSlug, secRows: MetricRow[]) {
@@ -101,18 +103,11 @@ export function ComparisonExperience({
           <div className="flex flex-col gap-8">
             <ViabilitySection candidates={candidates} />
             {secRows.length > 0 ? (
-              <div className="flex flex-col gap-3 border-t border-border pt-6">
-                <div className="flex flex-col gap-0.5">
-                  <h3 className="text-base font-semibold leading-snug">
-                    O que o documento informa por proposta
-                  </h3>
-                  <p className="max-w-2xl text-xs leading-relaxed text-muted-foreground">
-                    Custo, prazo e dependência do Congresso contam o que o plano
-                    declara — não são nota de viabilidade. O caminho institucional
-                    de cada proposta aparece no painel acima.
-                  </p>
-                </div>
-                <div className="flex flex-col divide-y divide-border/70 border-t border-border">
+              <details className="rounded-md border border-border/70">
+                <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
+                  Ver métricas brutas do plano
+                </summary>
+                <div className="flex flex-col divide-y divide-border/70 border-t border-border px-4">
                   {secRows.map((r) => (
                     <ComparisonRow
                       key={r.metricId}
@@ -127,7 +122,7 @@ export function ComparisonExperience({
                     />
                   ))}
                 </div>
-              </div>
+              </details>
             ) : null}
           </div>
         );
@@ -136,19 +131,11 @@ export function ComparisonExperience({
           <div className="flex flex-col gap-8">
             <CapacitiesSection candidates={candidates} />
             {secRows.length > 0 ? (
-              <div className="flex flex-col gap-3 border-t border-border pt-6">
-                <div className="flex flex-col gap-0.5">
-                  <h3 className="text-base font-semibold leading-snug">
-                    Governabilidade institucional
-                  </h3>
-                  <p className="max-w-2xl text-xs leading-relaxed text-muted-foreground">
-                    Dados verificáveis que sustentam a leitura acima — coligação
-                    registrada, votos válidos e base no Legislativo. São contexto
-                    comparável, não nota de capacidade. A base formal mede o
-                    retrato de hoje, não o resultado de uma eleição futura.
-                  </p>
-                </div>
-                <div className="flex flex-col divide-y divide-border/70 border-t border-border">
+              <details className="rounded-md border border-border/70">
+                <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
+                  Ver contexto institucional e métricas brutas
+                </summary>
+                <div className="flex flex-col divide-y divide-border/70 border-t border-border px-4">
                   {secRows.map((r) => (
                     <ComparisonRow
                       key={r.metricId}
@@ -163,7 +150,7 @@ export function ComparisonExperience({
                     />
                   ))}
                 </div>
-              </div>
+              </details>
             ) : null}
           </div>
         );
@@ -200,7 +187,7 @@ export function ComparisonExperience({
             highlightDifferences={highlight}
             onlyDifferences={only}
             bare
-            subtitle="Cargos, tempo, orçamento, equipe e patrimônio — percurso, não capacidade"
+            subtitle="Cargos, tempo, orçamento, equipe e patrimônio — contexto de trajetória"
           />
         );
       case "integridade":
@@ -212,7 +199,6 @@ export function ComparisonExperience({
 
   return (
     <div className="flex flex-col gap-8">
-      {/* Sticky compacto: aparece quando o cabeçalho sai da tela */}
       {stuck ? (
         <div
           className="sticky top-0 z-40 -mx-4 border-b border-border bg-background/95 px-4 py-2 backdrop-blur supports-[backdrop-filter]:bg-background/85 sm:-mx-6 sm:px-6"
@@ -228,7 +214,6 @@ export function ComparisonExperience({
         </div>
       ) : null}
 
-      {/* Cabeçalho de comparação */}
       <section aria-label="Cabeçalho da comparação" className="flex flex-col gap-3">
         <Link
           href="/"
@@ -245,38 +230,28 @@ export function ComparisonExperience({
         />
       </section>
 
-      {/* Seção 01 — resumo curto: o que salta aos olhos, em linhas */}
-      <ComparisonSummary candidates={candidates} differences={diffs} />
+      <ComparisonSummary candidates={candidates} />
 
-      {/* Controles de diferença */}
       <section
         aria-label="Modos de exibição de diferenças"
         className="flex flex-col gap-3 border-y border-border py-3 sm:flex-row sm:items-center sm:justify-end sm:gap-6"
       >
         <div className="flex items-center gap-3">
-          <Switch
-            id="highlight"
-            checked={highlight}
-            onCheckedChange={setHighlight}
-          />
-          <label
-            htmlFor="highlight"
-            className="cursor-pointer text-sm font-medium"
-          >
-            Destacar diferenças
+          <Switch id="highlight" checked={highlight} onCheckedChange={setHighlight} />
+          <label htmlFor="highlight" className="cursor-pointer text-sm font-medium">
+            Destacar valores diferentes
           </label>
         </div>
         <div className="flex items-center gap-3">
           <Switch id="only" checked={only} onCheckedChange={setOnly} />
           <label htmlFor="only" className="cursor-pointer text-sm font-medium">
-            Mostrar somente diferenças
+            Mostrar somente valores diferentes
           </label>
         </div>
       </section>
 
-      {/* Seções 02 a 11, na ordem do blueprint */}
       <div className="flex flex-col gap-12">
-        {SECTIONS.map((s, i) => {
+        {orderedSections.map((s, i) => {
           const secRows = rowsBySection.get(s.slug) ?? [];
           if (s.kind === "metrics" && secRows.length === 0) return null;
           return (
