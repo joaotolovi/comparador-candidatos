@@ -1,14 +1,16 @@
 "use client";
 
-// Casca das seções da V3 + utilidades compartilhadas: cabeçalho de seção,
-// etiqueta de candidato (com o mesmo indicador A/B/C de todos) e lista de
-// fontes. Nenhuma seção usa nota, score ou ranking.
+// Casca das seções + utilidades compartilhadas. A regra de UX é progressive
+// disclosure: síntese e métricas ficam visíveis; metodologia, fontes e detalhe
+// ficam a um clique. Isso mantém rastreabilidade sem transformar a página em um
+// relatório textual.
 
 import type { ReactNode } from "react";
 import type { Source } from "@/types";
 import { SLOT } from "@/components/slot";
 import { SourceItem } from "@/components/evidence-drawer";
 import { cn } from "@/lib/utils";
+import { ChevronDown } from "lucide-react";
 
 /** Ordem canônica dos slots A/B/C — o MESMO indicador visual em toda a tela. */
 export const SLOTS = ["a", "b", "c"] as const;
@@ -91,15 +93,29 @@ export function ContentEmpty({ what, why }: { what: string; why: string }) {
   );
 }
 
-/** Camada 3 — fontes, sempre clicáveis. */
+/**
+ * Camada 3 — fontes ficam recolhidas por padrão. A tela principal deve permitir
+ * comparar primeiro; a comprovação continua disponível no mesmo contexto.
+ */
 export function SourcesInline({ sources }: { sources: Source[] }) {
   if (sources.length === 0) return null;
   return (
-    <div className="flex flex-col gap-2">
-      {sources.map((s, i) => (
-        <SourceItem key={s.id ?? `src-${i}`} source={s} />
-      ))}
-    </div>
+    <details className="group rounded-md border border-border/70 bg-background/40">
+      <summary className="flex cursor-pointer list-none items-center justify-between gap-3 px-3 py-2 text-xs font-medium text-muted-foreground transition-colors hover:text-foreground [&::-webkit-details-marker]:hidden">
+        <span className="flex items-center gap-2">
+          Fontes
+          <span className="tabular rounded bg-muted px-1.5 py-0.5 text-[10px] font-semibold text-foreground/75">
+            {sources.length}
+          </span>
+        </span>
+        <ChevronDown aria-hidden className="size-3.5 transition-transform group-open:rotate-180" />
+      </summary>
+      <div className="flex flex-col gap-2 border-t border-border/70 px-3 py-3">
+        {sources.map((s, i) => (
+          <SourceItem key={s.id ?? `src-${i}`} source={s} />
+        ))}
+      </div>
+    </details>
   );
 }
 
