@@ -599,7 +599,106 @@
             "sourceType": "imprensa",
             "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Declarar 'guerra ao crime' no 1º dia, com GLO e estado de defesa em áreas dominadas por facções, Direito Penal do Inimigo e superpresídios",
+          "requirement": {
+            "kind": "misto",
+            "label": "Ato do Executivo (GLO e decreto de estado de defesa), lei ordinária (marco penal) e lei orçamentária (presídios)",
+            "quorum": "Estado de defesa: decreto do Presidente submetido ao Congresso em 24 horas, que decide por maioria absoluta em 10 dias, com vigência de até 30 dias (CF, art. 136). Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "GLO é decretada pelo Presidente com base na LC 97/1999; criar tipos penais e ampliar penas exige lei do Congresso. O plano cita 10 presídios federais de 30 a 40 mil vagas ao custo de R$ 6 bi.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato próprio em segurança pública: nunca exerceu mandato nem cargo executivo; marcos são atos de movimento, partido e campanha.",
+            "aligned": "Defesa pública de penas mais duras, grandes presídios e Direito Penal do Inimigo em 2026, incluindo 'regime de exceção em favelas' (26/08).",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas.",
+            "positionChange": "Em 05/08/2026 disse que a GLO respeitaria limites legais e o STF; em 26/08 afirmou que não cumpriria decisões que considerasse ilegais."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 1,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação; vice Coronel Medina (MISSÃO).",
+            "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo).",
+            "documentedAgreements": 4
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Estado de defesa exige aval do Congresso em 10 dias e vigência máxima de 30 dias",
+              "detail": "O plano trata o estado de defesa como instrumento do primeiro dia. O art. 136 da Constituição exige decreto presidencial submetido ao Congresso em 24 horas, decisão por maioria absoluta em 10 dias e vigência de até 30 dias, prorrogável uma vez; o novo marco penal ('Direito Penal do Inimigo') e a criação de tipos penais dependem de lei aprovada pelo Congresso.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-rs-47",
+                  "title": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo (GLO, Estado de Defesa, Direito Penal do Inimigo no 1º dia)",
+                  "publisher": "Valor Econômico",
+                  "url": "https://valor.globo.com/politica/noticia/2026/07/21/renan-santos-propoe-guerra-ao-crime-e-ajuste-fiscal-em-versao-resumida-de-plano-de-governo.ghtml",
+                  "publishedAt": "2026-07-21",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Declaração de não cumprir decisões do STF que o candidato considerar ilegais",
+              "detail": "Em sabatina da TV Globo (26/08/2026) o candidato afirmou que não cumprirá decisões do STF que considere ilegais; em 05/08/2026 havia dito que as operações de GLO respeitariam os limites da legislação e do Supremo. As competências do STF estão no art. 102 da Constituição e as fontes consultadas não detalham como a recusa seria operacionalizada.",
+              "sources": [
+                {
+                  "id": "src-rs-90",
+                  "title": "Em sabatina, Renan Santos defende que Brasil desenvolva armas nucleares",
+                  "publisher": "CBN (Globo)",
+                  "url": "https://cbn.globo.com/politica/noticia/2026/08/26/em-sabatina-renan-santos-defende-que-brasil-desenvolva-armas-nucleares.ghtml",
+                  "publishedAt": "2026-08-26",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Sabatina da TV Globo de 26/08/2026: defesa de armamento nuclear, cita Coreia do Norte, defende Bukele, R$ 6 bi para 10 presídios de 30 a 40 mil vagas e recusa de cumprir decisões do STF que considere ilegais."
+                },
+                {
+                  "id": "src-re-r2propostas-06",
+                  "title": "Renan Santos diz que não cumprirá decisões monocráticas do STF que considerar ilegais",
+                  "publisher": "Valor Econômico",
+                  "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/05/renan-santos-diz-que-vai-compor-com-centrao-se-eleito.ghtml",
+                  "publishedAt": "2026-08-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Sabatina da GloboNews: disposição de compor com o Centrão e recusa de cumprir decisões do STF consideradas ilegais."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo total das 300 mil a 500 mil vagas em superpresídios, além dos R$ 6 bi anunciados para 10 unidades?"
+            },
+            {
+              "question": "Qual o prazo e como o estado de defesa seria renovado após o limite de 30 dias previsto na Constituição?"
+            },
+            {
+              "question": "Qual o texto previsto para o 'Direito Penal do Inimigo' e o que ele altera no Código Penal?"
+            }
+          ],
+          "publicExplanation": "Sobre o atraso no registro de perfis no TSE, o candidato atribuiu a 'problema técnico' e classificou a decisão do relator como ilegal; sobre a diferença entre os prazos de 30 e 10 anos para a desfavelação, não foi localizada declaração específica.",
+          "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "'Desfavelação integral do Brasil'",
@@ -640,7 +739,114 @@
             "sourceType": "imprensa",
             "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "'Desfavelação integral do Brasil' em 10 anos, transformando favelas em bairros com infraestrutura de saúde e segurança",
+          "requirement": {
+            "kind": "depende-de-municipios",
+            "label": "Programa federal de desfavelação, com execução municipal e lei para as novas tipificações penais",
+            "quorum": "Não se aplica ao programa em si — depende de convênios com os municípios, que detêm as regras urbanísticas; a criação do crime de 'favelização' exigiria lei ordinária.",
+            "note": "A campanha estima o projeto em R$ 1,2 bi a R$ 1,5 bi, com R$ 50 bi a R$ 85 bi de despesas do Tesouro, financiados por hipotecas e IPTU segundo o plano.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato próprio em política urbana: nunca exerceu mandato, cargo executivo ou função em habitação; marcos são campanha e partido.",
+            "aligned": "Defesa pública do tema e fixação da meta em 10 anos na prévia do plano (21/07/2026) e no resumo executivo registrado.",
+            "positionChange": "Declarações anteriores, citadas em verbete, indicavam transformação das favelas em até 30 anos; em 2026 o plano registrado fixa 10 anos."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 1,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo).",
+            "documentedAgreements": 4
+          },
+          "tensions": [
+            {
+              "kind": "mudanca-de-posicao",
+              "title": "Prazo da desfavelação passa de 'até 30 anos', em declarações anteriores, para 10 anos no plano de 2026",
+              "detail": "Declarações anteriores de 2026, registradas em verbete enciclopédico, indicavam transformação das favelas em até 30 anos; a prévia do plano (21/07/2026) e o resumo executivo registrado fixam a 'desfavelação integral' em 10 anos. As fontes consultadas não trazem explicação para a diferença de prazo.",
+              "sources": [
+                {
+                  "id": "src-rs-25",
+                  "title": "Renan Santos — verbete (Wikipédia em português)",
+                  "publisher": "Wikipédia",
+                  "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+                },
+                {
+                  "id": "src-rs-20",
+                  "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                  "publishedAt": "2026-07-21",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                },
+                {
+                  "id": "src-rs-94",
+                  "title": "Plano de governo de Renan Santos promete extinguir favelas, sistema de cotas e modelo atual do Bolsa Família",
+                  "publisher": "O Globo",
+                  "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-promete-extinguir-favelas-sistema-de-cotas-e-modelo-atual-do-bolsa-familia.ghtml",
+                  "publishedAt": "2026-07-21",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Descreve a prévia do plano: desfavelização em 10 anos, financiamento por IPTU, regularização de energia, títulos e Minha Casa Minha Vida; extinção do modelo atual do Bolsa Família; e a passagem sobre repasses de Fundo Partidário e Fundo Eleitoral calculados pela 'qualidade gerencial dos mandatários'."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Meta de 10 anos depende das prefeituras e das regras urbanísticas locais",
+              "detail": "A meta de desfavelação alcança 5.570 municípios, que controlam regras urbanísticas e licenciamento; a campanha estima R$ 1,2 bi a R$ 1,5 bi para o projeto e R$ 50 bi a R$ 85 bi de despesas do Tesouro, com financiamento por hipotecas e IPTU, e a mesma reportagem registra que esses gastos superam os limites de aumento definidos pelo arcabouço fiscal.",
+              "sources": [
+                {
+                  "id": "src-rs-95",
+                  "title": "Renan Santos propõe R$ 6 bilhões para construir presídios e defende regime de exceção em favelas",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/26/renan-santos-construcao-presidios-regime-de-excecao-em-favelas.ghtml",
+                  "publishedAt": "2026-08-26",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Entrevista à Globo: 'Vai ter um regime de exceção em favelas para eu retomar a favela'; 10 presídios federais de 30 a 40 mil vagas ao custo de R$ 6 bi; fusão de municípios de 5.570 para cerca de 1.600."
+                },
+                {
+                  "id": "src-rs-20",
+                  "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                  "publishedAt": "2026-07-21",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo por domicílio e qual o papel de estados e municípios na execução do programa?"
+            },
+            {
+              "question": "Como ficam as famílias das áreas retomadas: aluguel social, hipoteca de R$ 200 a R$ 500 ou outra solução?"
+            },
+            {
+              "question": "Qual o cronograma por município e como o programa se relaciona com o Minha Casa Minha Vida?"
+            }
+          ],
+          "publicExplanation": "O plano justifica a retomada territorial pela existência de áreas sob controle de facções e milícias, condicionando a desfavelação à 'guerra ao crime'; não foi localizada declaração específica sobre a diferença entre os prazos de 30 e 10 anos citados em fontes distintas.",
+          "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "PEC de Transição Fiscal: ajuste de R$ 1,1 trilhão até 2031",
@@ -681,7 +887,86 @@
             "sourceType": "imprensa",
             "notes": "Setembro/2026; dia exato não capturado."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "PEC de Transição Fiscal com ajuste de R$ 1,1 trilhão até 2031, desindexação de benefícios, revisão do abono e desvinculação de pisos",
+          "requirement": {
+            "kind": "pec",
+            "label": "Emenda constitucional (PEC), com parte do ajuste em lei ordinária",
+            "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "A 'PEC do Equilíbrio Fiscal' foi protocolada na Câmara pelo coordenador econômico da campanha, deputado Kim Kataguiri. A desindexação responde, segundo a campanha econômica, por R$ 486 bi em cinco anos.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato próprio em cargo público: nunca exerceu mandato nem cargo executivo; o histórico vem de movimento, partido e campanha.",
+            "aligned": "O MBL, que ele cofundou e coordenou, apoiou a reforma da Previdência (EC 103/2019) e o teto de gastos — apoio de movimento, não voto próprio.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 1,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo).",
+            "documentedAgreements": 4
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Ajuste por PEC com 1 deputado federal e nenhum senador na bancada atual",
+              "detail": "A PEC exige 308 votos na Câmara e 49 no Senado, em dois turnos. O MISSÃO tem 1 dos 513 deputados federais e nenhum dos 81 senadores; o partido informou ter aberto mão da cota de R$ 3,3 mi do Fundo Eleitoral para priorizar candidaturas ao Legislativo.",
+              "sources": [
+                {
+                  "id": "src-rs-36",
+                  "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+                  "publisher": "Wikipédia",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+                },
+                {
+                  "id": "src-rs-30",
+                  "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+                  "publisher": "CNN Brasil",
+                  "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+                  "publishedAt": "2026-07-01",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                },
+                {
+                  "id": "src-rs-90",
+                  "title": "Em sabatina, Renan Santos defende que Brasil desenvolva armas nucleares",
+                  "publisher": "CBN (Globo)",
+                  "url": "https://cbn.globo.com/politica/noticia/2026/08/26/em-sabatina-renan-santos-defende-que-brasil-desenvolva-armas-nucleares.ghtml",
+                  "publishedAt": "2026-08-26",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Sabatina da TV Globo de 26/08/2026: defesa de armamento nuclear, cita Coreia do Norte, defende Bukele, R$ 6 bi para 10 presídios de 30 a 40 mil vagas e recusa de cumprir decisões do STF que considere ilegais."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual a memória de cálculo do ajuste de R$ 1,1 trilhão até 2031 e quanto depende de PEC e de lei?"
+            },
+            {
+              "question": "Qual a regra de transição e a idade mínima para quem já contribui com o INSS?"
+            },
+            {
+              "question": "Como a revisão do abono salarial e das renúncias fiscais seria escalonada no tempo?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública com a memória de cálculo do ajuste nem com a regra de transição; o coordenador econômico da campanha detalhou a desindexação (R$ 486 bi em cinco anos) em entrevista de setembro de 2026.",
+          "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Reforma da Previdência com idade mínima automática e capitalização via FGTS",
@@ -752,7 +1037,85 @@
             "sourceType": "imprensa",
             "notes": "Mês; dia exato não capturado."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Substituir o Bolsa Família por 'frentes de trabalho remuneradas' (Frentes Cidadãs), vinculando a assistência à prestação de serviços",
+          "requirement": {
+            "kind": "lei-ordinaria",
+            "label": "Lei ordinária (redesenho do programa de transferência de renda) e lei orçamentária",
+            "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "O Bolsa Família foi recriado pela Lei 14.601/2023; alterar público, condicionalidades e valores exige projeto aprovado pelo Congresso, sanção e previsão orçamentária.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato próprio em assistência social: nunca exerceu mandato nem gerenciou programa público; marcos são o movimento e o partido que preside.",
+            "aligned": "Defesa pública, desde julho de 2026, de substituir o modelo atual por trabalho remunerado para beneficiários com 15 anos ou mais.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 1,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo).",
+            "documentedAgreements": 4
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "Frentes de trabalho em um ajuste que limita o reajuste dos benefícios assistenciais à inflação",
+              "detail": "O ajuste de R$ 1,1 trilhão até 2031 prevê reajuste de benefícios previdenciários e assistenciais apenas pela inflação, enquanto o plano propõe frentes de trabalho remuneradas para beneficiários com 15 anos ou mais e o benefício restrito a quem não puder trabalhar. As fontes consultadas não detalham o custo das frentes nem a transição dos atuais beneficiários.",
+              "sources": [
+                {
+                  "id": "src-rs-21",
+                  "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                  "publisher": "Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                  "publishedAt": "2026-09",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Setembro/2026; dia exato não capturado."
+                },
+                {
+                  "id": "src-rs-20",
+                  "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                  "publishedAt": "2026-07-21",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                },
+                {
+                  "id": "src-rs-31",
+                  "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+                  "publisher": "Valor Internacional",
+                  "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+                  "publishedAt": "2026-09-18",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o número estimado de pessoas nas frentes de trabalho e o custo anual do programa?"
+            },
+            {
+              "question": "Quem avaliaria a incapacidade para o trabalho e por qual critério o benefício seria mantido?"
+            },
+            {
+              "question": "Como se daria a transição dos atuais beneficiários e o pagamento das frentes (municipal, estadual ou federal)?"
+            }
+          ],
+          "publicExplanation": "Não foram localizadas, nas fontes consultadas, explicação pública sobre a transição dos atuais beneficiários nem estimativa de custo das frentes de trabalho.",
+          "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Fusão de municípios e tutela federal de municípios 'ineficientes'",
@@ -783,7 +1146,87 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Fusão de municípios, de 5.570 para cerca de 1.600, e 'tutela federal' de municípios considerados ineficientes",
+          "requirement": {
+            "kind": "pec",
+            "label": "PEC/lei complementar federal, com lei estadual e consulta prévia às populações",
+            "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei complementar: 257 na Câmara e 41 no Senado (maioria absoluta).",
+            "note": "Pelo art. 18, §4º, da Constituição, criação, incorporação, fusão e desmembramento de municípios dependem de lei estadual, dentro de período fixado por lei complementar federal, e de consulta prévia às populações envolvidas.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato próprio em organização territorial: nunca exerceu mandato nem cargo executivo; marcos são a presidência do MISSÃO e a campanha.",
+            "different": "Em declarações, a proposta foi estendida à fusão de estados; o resumo registrado no TSE trata de municípios.",
+            "aligned": "Defesa pública da reorganização do pacto federativo e da gestão por metas no plano de 2026."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 1,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo).",
+            "documentedAgreements": 4
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Fusão de municípios exige lei complementar, lei estadual e consulta prévia às populações",
+              "detail": "O art. 18, §4º, da Constituição condiciona a fusão de municípios a lei estadual, dentro de período fixado por lei complementar federal, e a consulta prévia às populações envolvidas por plebiscito. O plano registrado indica a redução de 5.570 para cerca de 1.600 municípios, sem critério de 'ineficiência' nem lista de entes nas fontes consultadas.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-rs-95",
+                  "title": "Renan Santos propõe R$ 6 bilhões para construir presídios e defende regime de exceção em favelas",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/26/renan-santos-construcao-presidios-regime-de-excecao-em-favelas.ghtml",
+                  "publishedAt": "2026-08-26",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Entrevista à Globo: 'Vai ter um regime de exceção em favelas para eu retomar a favela'; 10 presídios federais de 30 a 40 mil vagas ao custo de R$ 6 bi; fusão de municípios de 5.570 para cerca de 1.600."
+                },
+                {
+                  "id": "src-rs-21",
+                  "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                  "publisher": "Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                  "publishedAt": "2026-09",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Setembro/2026; dia exato não capturado."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o critério de 'ineficiência' e quais municípios seriam alcançados pela fusão?"
+            },
+            {
+              "question": "Como se daria a consulta prévia às populações prevista na Constituição?"
+            },
+            {
+              "question": "O que ocorre com servidores, câmaras municipais e dívidas dos municípios fundidos?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública com o critério de eficiência, a lista de municípios ou o desenho da 'tutela federal'.",
+          "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Educação: substituir cotas por bolsas de mérito e ampliar escolas militares",
@@ -814,7 +1257,85 @@
             "sourceType": "imprensa",
             "notes": "Mês; dia exato não capturado."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Substituir o sistema de cotas por bolsas de mérito e ampliar o alcance de escolas militares",
+          "requirement": {
+            "kind": "lei-ordinaria",
+            "label": "Lei ordinária e políticas de educação, com autonomia das universidades",
+            "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "A Lei 14.723/2023 atualizou a lei de cotas na educação federal e está em vigor; universidades federais têm autonomia didático-científica e administrativa (CF, art. 207) para definir processos seletivos, e a maior parte das matrículas do ensino médio está em redes estaduais.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato próprio em educação: nunca exerceu mandato nem cargo executivo; marcos são o movimento (MBL), a presidência do MISSÃO e a campanha.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 1,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo).",
+            "documentedAgreements": 4
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Troca do sistema de cotas envolve lei em vigor e a autonomia das universidades",
+              "detail": "A Lei 14.723/2023 atualizou a lei de cotas na educação federal (Lei 12.711/2012); universidades federais definem seus próprios processos seletivos com base na autonomia do art. 207 da Constituição e as redes estaduais respondem pela maior parte das matrículas do ensino médio. O plano não indica valor, número de bolsas nem prazo para a troca do modelo nas fontes consultadas.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-rs-20",
+                  "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                  "publishedAt": "2026-07-21",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                },
+                {
+                  "id": "src-rs-22",
+                  "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+                  "publisher": "Exame",
+                  "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+                  "publishedAt": "2026-07",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Mês; dia exato não capturado."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o valor e o número de bolsas de mérito e como os critérios seriam definidos?"
+            },
+            {
+              "question": "Qual o instrumento para alterar a lei de cotas em vigor e como ficam as matrículas já ocupadas?"
+            },
+            {
+              "question": "Como a ampliação de escolas militares se daria em redes estaduais e municipais?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública com o desenho das bolsas de mérito nem com o número de escolas militares previsto.",
+          "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Programa nuclear militar (armas atômicas) — posicionamento público",
@@ -3225,6 +3746,141 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Evento fechado com o corpo diplomático em Brasília (25/06/2026); Renan falou em inglês; terceiro convidado da série, após o ministro Kassio Nunes Marques e o ex-governador Romeu Zema. Detalha propostas apresentadas aos diplomatas (terras raras, energia para data centers, investimento e imigração qualificada, crítica à atuação europeia)."
+    },
+    {
+      "id": "src-re-r2capacidades-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publisher": "Presidência da República — Planalto",
+      "date": "1988-10-05",
+      "type": "oficial_legislacao",
+      "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+    },
+    {
+      "id": "src-re-206",
+      "title": "Eleição 2026: quais são as propostas dos candidatos à Presidência",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
+      "publishedAt": "2026-08-17",
+      "date": "2026-08-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Guia com as propostas por tema ('Política Externa' e 'Segurança') de cada candidatura, atualizado em 23/09/2026; é a base que registra os itens de natureza externa de Leonardo Avalanche, Clariana Barão e Samara Martins."
+    },
+    {
+      "id": "src-mundo-02",
+      "title": "O que Lula e Flávio prometem para a política externa",
+      "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+      "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+      "publishedAt": "2026-09-17",
+      "date": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
+    },
+    {
+      "id": "src-re-212",
+      "title": "'PEC Bomba Nuclear': Kim Kataguiri propõe emenda que autoriza Brasil a produzir bomba atômica",
+      "publisher": "Estadão — Geovanna Hora",
+      "url": "https://www.estadao.com.br/politica/pec-kim-kataguiri-autoriza-brasil-bomba-nuclear-npr/",
+      "publishedAt": "2025-10-08",
+      "date": "2025-10-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha o texto protocolado em 08/10/2025, o dispositivo constitucional alterado e a exigência de assinaturas (171 deputados)."
+    },
+    {
+      "id": "src-re-201",
+      "title": "EUA, China e bomba atômica: veja propostas dos presidenciáveis para política externa",
+      "publisher": "Estadão — Felipe Frazão",
+      "url": "https://www.estadao.com.br/internacional/eua-china-e-bomba-atomica-veja-propostas-dos-presidenciaveis-para-politica-externa/",
+      "publishedAt": "2026-08-31",
+      "date": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento das propostas de política externa dos cinco candidatos mais bem colocados nas pesquisas, com o quadro do art. 21, XXIII, 'a' da Constituição sobre fins pacíficos e aprovação congressional."
+    },
+    {
+      "id": "src-re-202",
+      "title": "PEB nas urnas 2026: Renan Santos – Missão",
+      "publisher": "OPEB — Observatório da Política Externa Brasileira",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
+      "publishedAt": "2026-09-27",
+      "date": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
+    },
+    {
+      "id": "src-re-213",
+      "title": "Legislativo terá papel importante na implementação do acordo Mercosul-UE, diz Trad",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
+      "publishedAt": "2026-05-04",
+      "date": "2026-05-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
+    },
+    {
+      "id": "src-re-211",
+      "title": "Kim Kataguiri apresenta PEC que autoriza Brasil a produzir armas nucleares",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/kim-kataguiri-apresenta-pec-que-autoriza-brasil-a-produzir-armas-nucleares/",
+      "publishedAt": "2025-10-08",
+      "date": "2025-10-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "PEC apresentada em 08/10/2025 que retira a menção a 'fins pacíficos' do art. 21, XXIII, 'a' e autoriza armas nucleares para fins dissuasórios; depende de 171 assinaturas para começar a tramitar."
+    },
+    {
+      "id": "src-re-205",
+      "title": "Sovereignty takes center stage in foreign policy electoral platforms",
+      "publisher": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
+      "publishedAt": "2026-09-22",
+      "date": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
+    },
+    {
+      "id": "src-re-r2propostas-06",
+      "title": "Renan Santos diz que não cumprirá decisões monocráticas do STF que considerar ilegais",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/05/renan-santos-diz-que-vai-compor-com-centrao-se-eleito.ghtml",
+      "publishedAt": "2026-08-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina da GloboNews: disposição de compor com o Centrão e recusa de cumprir decisões do STF consideradas ilegais."
+    },
+    {
+      "id": "src-re-r2propostas-03",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+    },
+    {
+      "id": "src-re-t03",
+      "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+      "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+      "publisher": "Portal Amazônia",
+      "date": "2026-09-29",
+      "type": "imprensa",
+      "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+    },
+    {
+      "id": "src-re-t01",
+      "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+      "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+      "publisher": "Plano de Governo 2026",
+      "date": "2026-09-29",
+      "type": "agregador",
+      "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -3515,7 +4171,115 @@
       "name": "Capacidade de execução",
       "question": "Consegue transformar prioridades em entregas concretas?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "'Guerra ao crime organizado' declarada para o primeiro dia de mandato, com GLO, estado de defesa, superpresídios e novo marco legal",
+        "requirement": {
+          "path": "lei-ordinaria",
+          "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+          "note": "A GLO é ato federal mediante pedido do governador do estado afetado e o estado de defesa é decreto presidencial apreciado pelo Congresso em 5 dias; superpresídios e 'Direito Penal do Inimigo' dependem de lei aprovada no Congresso."
+        },
+        "history": {
+          "aligned": [
+            "Legenda registrada por unanimidade no TSE em 04/11/2025, após estatuto publicado no DOU em 18/10/2023 (TSE, 2025)",
+            "535 candidaturas lançadas em 25 estados e no DF na primeira eleição do partido (Partido Missão, 2026)",
+            "Campanha arrecadou cerca de R$ 1,2 milhão por vaquinha na 1ª prestação parcial (g1, 2026)"
+          ],
+          "divergent": [
+            "Estrutura da campanha descrita como enxuta, com imprensa registrando limites fora dos grandes centros (Poder360, 2026-08)",
+            "Em entrevista à Globo (26/08/2026), o candidato ressalvou que o governo federal não tem poder de polícia para executar a política no território"
+          ],
+          "noComparablePrecedent": "Não localizamos execução anterior de política pública em cargo eletivo; a base são atos de partido e de campanha (TSE; imprensa, 2023-2026)"
+        },
+        "support": {
+          "partySeats": "1 de 513 deputados federais (MISSÃO, 2026-09)",
+          "coalitionSeats": "Chapa pura, sem coligação ou federação; vice Aroldo Medina (MISSÃO)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "Chapa deferida em 09/09/2026, sem coligação ou federação. Os apoios públicos de PL e Novo durante a crise do registro não se converteram em apoio no 2º turno. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Guerra ao crime no primeiro dia depende de lei e de pedido de governador para a GLO",
+            "detail": "O plano prevê GLO e estado de defesa no primeiro dia de mandato. A GLO é ato federal mediante pedido do governador do estado afetado e o estado de defesa é decreto presidencial apreciado pelo Congresso em 5 dias; superpresídios e 'Direito Penal do Inimigo' dependem de lei aprovada no Congresso.",
+            "sources": [
+              {
+                "id": "src-rs-20",
+                "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-95",
+                "title": "Renan Santos propõe R$ 6 bilhões para construir presídios e defende regime de exceção em favelas",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/26/renan-santos-construcao-presidios-regime-de-excecao-em-favelas.ghtml",
+                "publishedAt": "2026-08-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Entrevista à Globo: 'Vai ter um regime de exceção em favelas para eu retomar a favela'; 10 presídios federais de 30 a 40 mil vagas ao custo de R$ 6 bi; fusão de municípios de 5.570 para cerca de 1.600."
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Desfavelação integral em 10 anos é declarada sem instrumento no resumo executivo",
+            "detail": "O plano declara 'desfavelação integral do Brasil' com prazo de 10 anos em declaração pública (g1, 21/07/2026); versões anteriores citavam até 30 anos e o resumo executivo registrado no TSE não especifica instrumento nem custo da frente.",
+            "sources": [
+              {
+                "id": "src-rs-20",
+                "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-25",
+                "title": "Renan Santos — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o custo unitário e a fonte de recursos das frentes de segurança e dos superpresídios?",
+            "why": "O resumo executivo registrado no TSE não estima o custo dessas frentes; a menção de R$ 6 bilhões aparece em declaração pública (g1, 26/08/2026)."
+          },
+          {
+            "question": "Como seria a transição entre o estado de defesa e um marco legal permanente de combate às facções?",
+            "why": "O plano encadeia medida imediata por decreto e marco legal posterior, sem detalhar vigência, critérios de saída ou indicador de resultado."
+          }
+        ],
+        "publicExplanation": "Em entrevista à Globo (26/08/2026), o candidato apresentou um plano gerencial com indicadores de desempenho para prefeitos e governadores e ressalvou que o governo federal não tem poder de polícia para executar a política no território.",
+        "methodology": "Trajetória sem mandato federal: a análise usa atos de partido, de movimento e de campanha (criação do MISSÃO, mobilizações de 2015-2016, campanha de 2026). O teste confronta a entrega declarada para o primeiro dia com o instrumento exigido e com a base formal atual. Ficaram fora a obra integral do plano (~500 páginas) e atos não publicados.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "dialogo-negociacao",
@@ -3704,7 +4468,117 @@
       "name": "Diálogo, negociação e articulação",
       "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "PEC de Transição Fiscal: ajuste declarado de R$ 1,1 trilhão até 2031, com desindexação e desvinculação de pisos",
+        "requirement": {
+          "path": "pec",
+          "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+          "note": "A PEC foi protocolada na Câmara pelo coordenador econômico da campanha, deputado Kim Kataguiri; desindexar benefícios e desvincular pisos de saúde e educação altera texto constitucional."
+        },
+        "history": {
+          "aligned": [
+            "Comitê do Impeachment: reuniões com o presidente da Câmara e com líder da oposição (Agência Câmara, 2015-12)",
+            "Apoio material de PSDB, PMDB, DEM e Solidariedade às mobilizações do MBL (imprensa, 2016)",
+            "Agenda com Santander e AmCham e apresentação do plano econômico a investidores (Gazeta do Povo, 2026-08)",
+            "Apoio público de Flávio Bolsonaro (PL) e Romeu Zema (Novo) durante a crise do registro (O Globo, 2026-08)"
+          ],
+          "divergent": [
+            "Ao fim da agenda empresarial, a imprensa registrava que o apoio declarado de empresários seguia restrito (Gazeta do Povo, 2026-08)",
+            "Manteve a recusa de apoio a PL e Novo no 2º turno após os gestos de aproximação (Valor Econômico, 21/09/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos negociação com bancadas para aprovar reforma constitucional; a base é a articulação de 2015-2016 e a agenda empresarial de 2026"
+        },
+        "support": {
+          "partySeats": "1 de 513 deputados federais (MISSÃO)",
+          "coalitionSeats": "Sem coligação ou federação (partido isolado no registro de 2026)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "A base formal registrada é de 1 deputado federal e nenhuma coligação. Os gestos públicos de PL e Novo ocorreram durante a crise do registro e não foram formalizados como apoio eleitoral. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Movimento apresentado como apartidário recebeu apoio material de partidos em 2016",
+            "detail": "O MBL foi apresentado como movimento apartidário e sem financiamento partidário; gravação divulgada em fevereiro de 2016 registra apoio material de PSDB, PMDB, DEM e Solidariedade às mobilizações, admitido por um de seus coordenadores.",
+            "sources": [
+              {
+                "id": "src-rs-25",
+                "title": "Renan Santos — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+              },
+              {
+                "id": "src-rs-43",
+                "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+                "publisher": "Câmara dos Deputados (Agência)",
+                "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+                "publishedAt": "2015-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Desindexação de benefícios e desvinculação de pisos exigem PEC com 3/5 nas duas Casas",
+            "detail": "Desindexar o salário mínimo e desvincular os pisos de saúde e educação altera texto constitucional. A PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa, e a campanha estima ajuste de R$ 1,1 trilhão até 2031.",
+            "sources": [
+              {
+                "id": "src-rs-21",
+                "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              },
+              {
+                "id": "src-rs-31",
+                "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+                "publisher": "Valor Internacional",
+                "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Quais legendas declararam apoio à PEC de Transição Fiscal até o registro do plano?",
+            "why": "O plano cita a frente empresarial, mas não lista partidos que sustentariam a votação de 3/5 nas duas Casas."
+          },
+          {
+            "question": "Como ficam os benefícios cujo reajuste hoje acompanha o salário mínimo?",
+            "why": "O plano cita desindexação e revisão do abono salarial sem detalhar regra de transição ou compensação."
+          }
+        ],
+        "publicExplanation": "Em evento da Unecs (18/08/2026), o candidato anunciou uma 'Liga da Justiça' com segmentos empresariais por reformas estruturais e declarou que parte do empresariado atua de forma isolada (Money Times, 18/08/2026).",
+        "methodology": "Trajetória sem mandato federal: o teste usa atos de movimento, de partido e de campanha (Comitê do Impeachment, mobilizações de 2015-2016, agenda empresarial de 2026). Confronta a exigência de votos da PEC com os acordos documentados. Ficaram fora entrevistas sem repercussão pública registrada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "lideranca-equipes",
@@ -3879,7 +4753,75 @@
       "name": "Liderança e formação de equipes",
       "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
       "coverage": "parcial",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Substituição do Bolsa Família por frentes de trabalho remuneradas, com benefício restrito a quem não puder trabalhar",
+        "requirement": {
+          "path": "lei-ordinaria",
+          "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+          "note": "O redesign do programa de transferência de renda depende de lei; a operação das frentes envolve municípios e cadastro federal, sem estrutura detalhada no resumo executivo."
+        },
+        "history": {
+          "aligned": [
+            "Presidência nacional do MISSÃO desde 17/10/2023, com legenda registrada em 04/11/2025 (TSE, 2025)",
+            "Montagem de 535 candidaturas em 25 estados e no DF na primeira eleição do partido (Partido Missão, 2026)",
+            "Coordenação de campanha atribuída a Amanda Vettorazzo, com coordenação nomeada (Estadão, 2026)"
+          ],
+          "divergent": [
+            "Partido e campanha não publicam quadro de pessoal, organograma ou número de integrantes da equipe (lacuna nas fontes consultadas)"
+          ],
+          "noComparablePrecedent": "Não localizamos direção de equipe de governo ou de órgão público; a base é a estruturação de partido e de campanha"
+        },
+        "support": {
+          "partySeats": "1 de 513 deputados federais (MISSÃO)",
+          "coalitionSeats": "Sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "A estrutura de execução declarada é o plano gerencial com indicadores para prefeitos e governadores, apresentado em entrevista. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Frentes de trabalho em substituição ao Bolsa Família dependem de lei e da adesão de municípios",
+            "detail": "O plano substitui a transferência de renda por frentes de trabalho remuneradas. O resumo executivo não informa número de frentes, quantas pessoas seriam atendidas, custo total nem arranjo com estados e municípios, que hoje operam o cadastro e a busca ativa.",
+            "sources": [
+              {
+                "id": "src-rs-20",
+                "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-31",
+                "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+                "publisher": "Valor Internacional",
+                "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o custo do auxílio equivalente a um salário mínimo por pessoa sem vaga e por quanto tempo ele seria pago?",
+            "why": "A substituição do Bolsa Família por frentes de trabalho aparece no plano sem estimativa de custo total (Valor Internacional, 2026-09)."
+          },
+          {
+            "question": "Quem executa e fiscaliza as frentes de trabalho: União, estados ou municípios?",
+            "why": "O documento registrado não descreve o arranjo federativo nem o órgão responsável pela operação."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal e sem publicação de organograma: a análise usa atos de partido e de campanha (fundação do MISSÃO, montagem de chapas, coordenação nomeada). O teste confronta a estrutura declarada com a operação exigida pelas frentes de trabalho.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "tomada-decisao",
@@ -4044,7 +4986,105 @@
       "name": "Tomada de decisão",
       "question": "Como enfrentou decisões difíceis, trade-offs e pressão?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Desindexação de benefícios previdenciários e assistenciais do salário mínimo, revisão do abono e redução do teto do INSS",
+        "requirement": {
+          "path": "pec",
+          "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+          "note": "O plano cita a PEC de Transição Fiscal para a desindexação; idade mínima automática e parcela capitalizada via FGTS dependem de PEC e de legislação previdenciária."
+        },
+        "history": {
+          "aligned": [
+            "Recusa de coligações nas duas eleições disputadas, com chapa própria (SBT News, 2026)",
+            "Abertura de mão da cota do Fundo Eleitoral na campanha presidencial (CNN Brasil, 01/07/2026)",
+            "Recusa de apoio a Lula e a Flávio Bolsonaro no 2º turno, mantida em entrevistas sucessivas (Valor Econômico, 21/09/2026)"
+          ],
+          "divergent": [
+            "Defende o fim da Justiça do Trabalho e afirma que a CLT 'já era', ao mesmo tempo em que propõe frentes de trabalho (g1, 18/08/2026)",
+            "Prazo da desfavelação declarado em 10 anos, contra até 30 anos em versões anteriores (g1, 21/07/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos decisão de governo com trade-off orçamentário; as decisões documentadas são de direção partidária e de campanha (2026)"
+        },
+        "support": {
+          "partySeats": "1 de 513 deputados federais (MISSÃO)",
+          "coalitionSeats": "Sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "As medidas de desindexação exigem quórum de emenda sem base partidária registrada além de 1 deputado federal. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Fim da Justiça do Trabalho e revisão da CLT convivem com frentes de trabalho remuneradas",
+            "detail": "O candidato defende a extinção da Justiça do Trabalho e afirma que a CLT 'já era' (g1, 18/08/2026); o plano propõe substituir o Bolsa Família por frentes de trabalho remuneradas. O resumo executivo não detalha o instrumento de nenhuma das duas medidas nem a ordem de implementação.",
+            "sources": [
+              {
+                "id": "src-rs-97",
+                "title": "Renan diz que acabar com 6x1 é 'maluquice', afirma que CLT 'já era' e defende fim da Justiça do Trabalho (sabatina da Unecs)",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/renan-diz-que-acabar-com-6x1-e-maluquice-afirma-que-clt-ja-era-e-defende-fim-da-justica-do-trabalho.ghtml",
+                "publishedAt": "2026-08-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da Unecs (18/08/2026), em Brasília: o candidato classificou o fim da escala 6x1 como 'maluquice' e propôs a extinção da Justiça do Trabalho e a substituição da CLT."
+              },
+              {
+                "id": "src-rs-20",
+                "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Reajuste do mínimo limitado à inflação convive com benefícios vinculados ao mínimo",
+            "detail": "A desindexação do salário mínimo é o eixo do ajuste declarado, enquanto benefícios previdenciários e assistenciais acompanham o mínimo por regra vigente. O plano não descreve a regra de transição nem a compensação para quem já recebe os benefícios.",
+            "sources": [
+              {
+                "id": "src-rs-31",
+                "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+                "publisher": "Valor Internacional",
+                "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-48",
+                "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+                "publisher": "Folha de S.Paulo (C-Level)",
+                "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual a ordem de votação prevista entre a PEC de transição, a PEC da Previdência e o redesign do Bolsa Família?",
+            "why": "O plano lista as três frentes em sequência, mas não define prioridade nem dependência entre elas."
+          },
+          {
+            "question": "Qual o critério para definir quem não tem condições de trabalhar no novo programa?",
+            "why": "A restrição do benefício é atribuída ao coordenador econômico, sem detalhamento no documento registrado (Valor Internacional, 2026-09)."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: o teste usa decisões de direção partidária, de financiamento de campanha e de posicionamento eleitoral (2026). Confronta as escolhas declaradas com o trade-off exigido pelas medidas fiscais. Ficou fora a votação da reforma previdenciária de 2019, sem participação do candidato.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "gestao-crises",
@@ -4226,7 +5266,85 @@
       "name": "Gestão de crises e mudança",
       "question": "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Acionamento de GLO e estado de defesa para romper o controle territorial de facções, com resultados divulgados",
+        "requirement": {
+          "path": "ato-executivo",
+          "note": "A GLO é ato federal mediante pedido do governador do estado afetado; o estado de defesa é decreto presidencial apreciado pelo Congresso em 5 dias; prisão perpétua e pena de morte dependem de PEC."
+        },
+        "history": {
+          "aligned": [
+            "Suspensão cautelar da campanha pelo relator do TSE em 30/08/2026 respondida em 72h, com liberação parcial em 01/09 (ConJur, 2026)",
+            "Registro da candidatura deferido por unanimidade em 09/09/2026 após diligências (CNN Brasil, 2026-09)",
+            "Denúncia do MP-SP por tráfico de influência rejeitada pela Justiça em novembro de 2020 (Folha de S.Paulo, 06/11/2020)"
+          ],
+          "divergent": [
+            "Decisão judicial determinou a exclusão de vídeos publicados pelo candidato sobre o cantor Wesley Safadão (g1, 27/04/2026)",
+            "Justiça negou pedidos do candidato para remover publicações sobre a acusação de 2021 (g1, 22/06/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos atuação em crise de governo; os episódios documentados são de campanha e de processos judiciais próprios (2020-2026)"
+        },
+        "support": {
+          "partySeats": "1 de 513 deputados federais (MISSÃO)",
+          "coalitionSeats": "Sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "Os instrumentos de crise citados são atos do Executivo federal que dependem de apreciação do Congresso e de pedido de governadores. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Estado de defesa e GLO têm prazo e condição previstos na Constituição",
+            "detail": "O estado de defesa é decreto presidencial apreciado pelo Congresso em 5 dias e a GLO depende de pedido do governador do estado afetado. Prisão perpétua e pena de morte exigem PEC com 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+            "sources": [
+              {
+                "id": "src-rs-20",
+                "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-47",
+                "title": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo (GLO, Estado de Defesa, Direito Penal do Inimigo no 1º dia)",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/noticia/2026/07/21/renan-santos-propoe-guerra-ao-crime-e-ajuste-fiscal-em-versao-resumida-de-plano-de-governo.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o custo unitário e o número previsto de superpresídios, dado o valor de R$ 6 bilhões citado em declaração pública?",
+            "why": "O resumo executivo não estima a obra; o valor aparece em entrevista (g1, 26/08/2026)."
+          },
+          {
+            "question": "Qual o critério de saída do estado de defesa e como as operações passariam ao marco legal permanente?",
+            "why": "O plano encadeia medidas imediatas e marco posterior sem definir vigência, prorrogação ou indicador de resultado."
+          }
+        ],
+        "publicExplanation": "Sobre a suspensão cautelar, o candidato afirmou que o atraso no registro de 16 perfis de redes sociais foi um 'problema técnico' e classificou a restrição à campanha digital como ilegal (O Globo, 31/08/2026).",
+        "methodology": "Trajetória sem mandato federal: o teste usa episódios de campanha e processos próprios (suspensão cautelar no TSE em 2026, decisões sobre conteúdo publicado, denúncia de 2020 rejeitada). Não há resposta a crise de governo no material consultado.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "coordenacao-institucional",
@@ -4337,7 +5455,84 @@
       "name": "Coordenação institucional",
       "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
       "coverage": "parcial",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Fusão de municípios e tutela federal de municípios 'ineficientes' na reorganização do pacto federativo",
+        "requirement": {
+          "path": "depende-estados",
+          "note": "O plano cita PEC e lei para o pacto federativo; a Constituição atribui a lei estadual a criação, incorporação, fusão e desmembramento de municípios, com consulta prévia às populações, e reserva a lei complementar federal a fixação do período."
+        },
+        "history": {
+          "aligned": [
+            "Interlocução com o setor empresarial e apresentação do plano econômico a investidores (Gazeta do Povo, 2026-08)",
+            "Apoio público de Flávio Bolsonaro (PL) e Romeu Zema (Novo) durante a crise do registro (O Globo, 2026-08)",
+            "Coordenação entre a candidatura presidencial e 14 palanques estaduais próprios (g1, 2026-08)"
+          ],
+          "divergent": [
+            "Manteve a recusa de apoio a PL e Novo no 2º turno após os gestos de aproximação (Valor Econômico, 21/09/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos ato de articulação federativa ou de governo; a base é a interlocução com setores organizados e a coordenação partidária de 2026"
+        },
+        "support": {
+          "partySeats": "1 de 513 deputados federais (MISSÃO)",
+          "coalitionSeats": "Sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "Nas duas Casas, a legenda registra 1 deputado federal e nenhuma coligação; a medida federativa depende de assembleias estaduais e de consulta às populações. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Fusão de municípios passa por lei estadual e consulta prévia às populações",
+            "detail": "A Constituição atribui a lei estadual a criação, incorporação, fusão e desmembramento de municípios, mediante consulta prévia às populações, e reserva a lei complementar federal a fixação do período. A 'tutela federal' de municípios aparece no plano sem instrumento declarado.",
+            "sources": [
+              {
+                "id": "src-rs-20",
+                "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-21",
+                "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual instrumento viabilizaria a tutela federal de municípios e quem avaliaria a ineficiência?",
+            "why": "O resumo executivo cita a tutela sem indicar instrumento, critério de avaliação ou órgão responsável."
+          },
+          {
+            "question": "Como seriam tratados servidores, contratos e dívidas dos municípios afetados por fusão?",
+            "why": "O plano não descreve a transição administrativa nem o passivo das prefeituras envolvidas."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: o teste usa interlocução com entidades empresariais, coordenação de palanques partidários e resposta a decisão da Justiça Eleitoral (2026). Confronta a proposta federativa com a competência estadual prevista na Constituição. Ficaram fora atos não publicados de campanha.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "comunicacao-publica",
@@ -4526,7 +5721,116 @@
       "name": "Comunicação pública",
       "question": "Consegue explicar prioridades, decisões e posições de forma compreensível e consistente?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Programa nuclear militar, com eventual produção de armas atômicas, defendido publicamente como condição de soberania",
+        "requirement": {
+          "path": "negociacao-internacional",
+          "note": "A Constituição restringe as atividades nucleares a usos pacíficos e o Brasil é parte do Tratado de Não Proliferação e do Tratado de Tlatelolco, o que implica revisão de compromissos internacionais assumidos."
+        },
+        "history": {
+          "aligned": [
+            "Canal próprio de vídeos mantido desde novembro de 2014 como veículo de posicionamento e divulgação de propostas (YouTube, 2026)",
+            "Rodada de entrevistas individuais em Globo, GloboNews, Flow e SBT entre agosto e setembro de 2026 (imprensa, 2026)",
+            "Projeto de segurança apresentado em três medidas no primeiro debate presidencial (Band, 23/08/2026)"
+          ],
+          "divergent": [
+            "Checagem registrou duas afirmações incorretas na entrevista ao Flow (02/09/2026), sobre propostas de Lula e sobre quem ataca (Agência Lupa, 2026)",
+            "A obra integral do plano é declarada com mais de 500 páginas; o resumo executivo registrado tem 51 (Valor Econômico, 2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos comunicação de governo exercida; a base é o canal próprio, o movimento, os debates e as sabatinas de 2026"
+        },
+        "support": {
+          "partySeats": "1 de 513 deputados federais (MISSÃO)",
+          "coalitionSeats": "Sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "A proposta nuclear foi apresentada em sabatinas e entrevistas; não consta do resumo executivo do plano registrado no TSE. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Programa nuclear militar contraria o uso pacífico previsto na Constituição e compromissos internacionais",
+            "detail": "A Constituição restringe as atividades nucleares a usos pacíficos e o Brasil é parte do Tratado de Não Proliferação e do Tratado de Tlatelolco. A proposta de armas atômicas foi defendida em declarações públicas e não foi localizada no resumo executivo do plano registrado.",
+            "sources": [
+              {
+                "id": "src-rs-93",
+                "title": "O Brasil tem bomba nuclear? Veja o que diz a legislação sobre projeto de Renan Santos para dar protagonismo ao Brasil",
+                "publisher": "Portal Terra (checagem)",
+                "url": "https://www.terra.com.br/noticias/eleicoes/o-brasil-tem-bomba-nuclear-veja-o-que-diz-a-legislacao-sobre-projeto-de-renan-santos-para-dar-protagonismo-ao-brasil,4d714f72a63dfaee3d626827b59876acyqtypl31.html",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Checagem que descreve o art. 21, XXIII, da Constituição (atividade nuclear apenas para fins pacíficos, com aprovação do Congresso), o TNP e o Tratado de Tlatelolco, e a 'PEC Bomba Nuclear' protocolada pelo deputado Kim Kataguiri (Missão) em outubro de 2025. Mês; dia exato não capturado."
+              },
+              {
+                "id": "src-rs-90",
+                "title": "Em sabatina, Renan Santos defende que Brasil desenvolva armas nucleares",
+                "publisher": "CBN (Globo)",
+                "url": "https://cbn.globo.com/politica/noticia/2026/08/26/em-sabatina-renan-santos-defende-que-brasil-desenvolva-armas-nucleares.ghtml",
+                "publishedAt": "2026-08-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da TV Globo de 26/08/2026: defesa de armamento nuclear, cita Coreia do Norte, defende Bukele, R$ 6 bi para 10 presídios de 30 a 40 mil vagas e recusa de cumprir decisões do STF que considere ilegais."
+              },
+              {
+                "id": "src-rs-92",
+                "title": "Brasil precisa de bomba atômica para ser respeitado, diz Renan Santos",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-diz-que-brasil-precisa-de-bomba-atomica-para-ser-respeitado",
+                "publishedAt": "2026-08-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Transcreve a declaração de que o país 'não teria condições' de desenvolver o armamento nos próximos 10 anos e cita o TNP e o caso da Coreia do Norte."
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Checagem registrou afirmações incorretas em entrevista sobre propostas de adversários",
+            "detail": "A checagem da Agência Lupa (02/09/2026) registrou como incorreta a afirmação de que Lula não tem proposta para segurança pública e a de que o candidato seria o único a atacar os dois primeiros colocados nas pesquisas.",
+            "sources": [
+              {
+                "id": "src-rs-68",
+                "title": "Ao vivo: checagem da entrevista de Renan Santos ao Flow",
+                "publisher": "Agência Lupa",
+                "url": "https://www.agencialupa.org/checagem/2026/09/02/ao-vivo-checagem-da-entrevista-de-renan-santos-ao-flow/",
+                "publishedAt": "2026-09-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Checagem de afirmações feitas em sabatina do Flow Podcast: duas falas registradas como incorretas (ausência de proposta de segurança no programa de Lula e afirmação de ser 'o único que ataca' Flávio e Lula)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o caminho previsto para revisar os compromissos internacionais em matéria nuclear e qual o custo do programa?",
+            "why": "A proposta aparece em declarações públicas, sem instrumento, prazo ou custo estimado nas fontes consultadas (Portal Terra, 2026-09)."
+          },
+          {
+            "question": "Por que o programa nuclear militar não consta do resumo executivo registrado no TSE?",
+            "why": "A verificação do resumo executivo não localizou a proposta; a menção está em sabatinas e no verbete do candidato."
+          }
+        ],
+        "publicExplanation": "'As nações mais poderosas do mundo dispõem de armas nucleares e elas se fazem respeitadas por causa disso'; o candidato afirmou não precisar de estudo científico para concluir que o país precisa de força política para se proteger (declarações registradas, 2026).",
+        "methodology": "Trajetória sem mandato federal: o teste usa comunicação de movimento, canal próprio, debates e sabatinas de 2026. Confronta a posição declarada com o texto constitucional e com os compromissos internacionais. Ficaram fora programas eleitorais de TV e publicações sem repercussão registrada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "visao-estrategica",
@@ -4775,7 +6079,113 @@
       "name": "Visão estratégica",
       "question": "Consegue definir prioridades e conectar decisões de curto prazo a objetivos maiores?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "14 pilares, 5 metas para 2030 e horizonte fiscal em 2031, com desfavelação integral declarada em 10 anos",
+        "requirement": {
+          "path": "pec",
+          "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+          "note": "O eixo fiscal é apresentado como PEC de transição; para a desfavelação integral o resumo executivo não especifica instrumento nem custo."
+        },
+        "history": {
+          "aligned": [
+            "Documento registrado no TSE em 07/08/2026 e usado como referência programática na campanha (TSE, 2026)",
+            "Sequenciamento declarado na segurança: medida imediata por decreto e marco legal posterior (Band, 23/08/2026)",
+            "Plano gerencial com indicadores de desempenho para prefeitos e governadores (g1, 26/08/2026)"
+          ],
+          "divergent": [
+            "Prazo da desfavelação declarado em 10 anos, contra até 30 anos em versões anteriores (g1, 21/07/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos plano de governo executado em cargo público; a base é o documento registrado no TSE e as declarações de campanha de 2026"
+        },
+        "support": {
+          "partySeats": "1 de 513 deputados federais (MISSÃO)",
+          "coalitionSeats": "Sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "As metas de 2030 e o ajuste até 2031 dependem de votação de emenda constitucional, sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "mudanca-de-posicao",
+            "title": "Prazo da desfavelação reduzido de até 30 anos para 10 anos entre versões",
+            "detail": "A cobertura do plano registra prazo de 10 anos para a desfavelação integral (g1, 21/07/2026), enquanto versões anteriores do candidato citavam transformação em até 30 anos. O resumo executivo não associa o prazo a instrumento ou orçamento.",
+            "sources": [
+              {
+                "id": "src-rs-20",
+                "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-25",
+                "title": "Renan Santos — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Metas de 2030 e ajuste até 2031 exigem PEC com 3/5 nas duas Casas",
+            "detail": "O horizonte fiscal de 2031 é vinculado à PEC de Transição Fiscal, que exige 308 deputados e 49 senadores em dois turnos em cada Casa. O plano encadeia atos de efeito imediato a marcos que dependem de votação no Congresso.",
+            "sources": [
+              {
+                "id": "src-rs-22",
+                "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+                "publisher": "Exame",
+                "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+                "publishedAt": "2026-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Mês; dia exato não capturado."
+              },
+              {
+                "id": "src-rs-47",
+                "title": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo (GLO, Estado de Defesa, Direito Penal do Inimigo no 1º dia)",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/noticia/2026/07/21/renan-santos-propoe-guerra-ao-crime-e-ajuste-fiscal-em-versao-resumida-de-plano-de-governo.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o indicador de resultado de cada uma das 5 metas para 2030?",
+            "why": "O plano registra os pilares e as metas, sem indicador de aferição por meta (Valor Econômico, 2026-08)."
+          },
+          {
+            "question": "Como o plano gerencial se aplica às áreas fora da competência federal?",
+            "why": "O próprio candidato ressalvou em entrevista que o governo federal não tem poder de polícia para executar a política no território (g1, 26/08/2026)."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: a análise usa o documento registrado no TSE, declarações de campanha e o encadeamento apresentado em debate e entrevistas (2026). Confronta prazos declarados com o instrumento exigido. Ficou fora a obra integral do plano, declarada com mais de 500 páginas.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     }
   ],
   "countryProject": {
@@ -4972,7 +6382,361 @@
     ],
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
-    "methodology": "Extração do capítulo 'Brasil Poderoso' do Livro Amarelo — resumo executivo registrado no TSE (espelho público, lido integralmente; falas sobre BRICS+, sub-hegemonia regional, Pacto Interamericano, ciclo nuclear, parceiros de 1º/2º/3º escalão) e das respostas da campanha à Folha (12/09/2026), cruzadas com CBN/Globo e CNN Brasil (03/09/2026), R7 (08/09/2026) e Valor International (24/09/2026) para o registro eleitoral. Para experiência internacional e projeção, uso do relato do 'Debating Brazil' (The Brazilian Report, 26/06/2026) e do perfil do The Epoch Times. Limites: o documento registrado no TSE é um resumo de 51 páginas (a obra completa de 500 páginas não está pública); não foi localizada posição sobre Rússia/Ucrânia, Venezuela, Índia e arquitetura de segurança europeia. Nada de política externa foi inferido do partido: todas as posições acima são declarações ou documentos do próprio candidato."
+    "methodology": "Extração do capítulo 'Brasil Poderoso' do Livro Amarelo — resumo executivo registrado no TSE (espelho público, lido integralmente; falas sobre BRICS+, sub-hegemonia regional, Pacto Interamericano, ciclo nuclear, parceiros de 1º/2º/3º escalão) e das respostas da campanha à Folha (12/09/2026), cruzadas com CBN/Globo e CNN Brasil (03/09/2026), R7 (08/09/2026) e Valor International (24/09/2026) para o registro eleitoral. Para experiência internacional e projeção, uso do relato do 'Debating Brazil' (The Brazilian Report, 26/06/2026) e do perfil do The Epoch Times. Limites: o documento registrado no TSE é um resumo de 51 páginas (a obra completa de 500 páginas não está pública); não foi localizada posição sobre Rússia/Ucrânia, Venezuela, Índia e arquitetura de segurança europeia. Nada de política externa foi inferido do partido: todas as posições acima são declarações ou documentos do próprio candidato.",
+    "reality": {
+      "proposal": "Não alinhamento instrumental: EUA e UE como parceiros em tecnologia e minerais, Brics sem agenda antiocidental, Mercosul aberto e bomba atômica.",
+      "requirement": {
+        "path": "pec",
+        "instrument": "pec + negociacao_internacional + ato_do_executivo + lei_ordinaria",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "description": "Bomba atômica: exige PEC porque o art. 21, XXIII, 'a' da Constituição admite atividade nuclear no país só para fins pacíficos e mediante aprovação do Congresso, e envolve o TNP e o Tratado de Tlatelolco, com efeitos sobre salvaguardas da Aiea e da Abacc; há PEC nesse sentido protocolada em 08/10/2025 e ainda em coleta de assinaturas. Tarifas e Mercosul dependem dos demais Estados-partes e de ato do Executivo; taxar minério bruto exige lei ordinária.",
+        "congressStep": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa; a proposta protocolada em 08/10/2025 precisa de 171 assinaturas para começar a tramitar. Acordos internacionais: aprovação pelo Congresso (art. 49, I)."
+      },
+      "history": {
+        "statedPosition": "À Folha (12/09/2026): não alinhamento 'estritamente instrumental', Brics sem 'agenda antiocidental' e ciclo nuclear completo.",
+        "aligned": [
+          "19/08/2026: defendeu bomba atômica e saída do TNP (Metrópoles).",
+          "26/08/2026: repetiu a defesa da bomba atômica (Poder360).",
+          "02/06 e 16/07/2026: criticou o tarifaço dos EUA e a condução do tema (Gazeta do Povo; Metrópoles)."
+        ],
+        "divergent": [
+          "Guia da BBC (17/08/2026): 'aliança estratégica com os EUA para substituir importações chinesas'.",
+          "03/09/2026 (CBN): indicou a China como parceira prioritária no curto prazo."
+        ],
+        "noComparablePrecedent": "Não localizamos episódios comparáveis de negociação internacional conduzida em nome do Estado; a interlocução documentada é de campanha (corpo diplomático em Brasília, 25/06/2026) e a defesa da bomba atômica é a primeira posição registrada sobre o tema, em agosto de 2026.",
+        "positionChange": "Não localizamos mudança de posição documentada: o ciclo nuclear consta do plano registrado e a defesa da saída do TNP é de 19/08/2026."
+      },
+      "support": {
+        "note": "Retrato atual, não previsão do próximo Congresso. Missão (nº 14) concorre sem coligação e sem federação; tem 1 deputado federal — Kim Kataguiri, autor da PEC que autoriza armas nucleares (08/10/2025). Não localizamos apoio parlamentar declarado às demais propostas de política externa. Acordos documentados: 4 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-rs-15",
+            "title": "TSE valida candidatura de Renan Santos à Presidência da República",
+            "publisher": "CBN",
+            "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/09/10/tse-valida-candidatura-de-renan-santos-a-presidencia-da-republica.ghtml",
+            "publishedAt": "2026-09-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-33",
+            "title": "Quase 30% dos deputados mudam de legenda na janela partidária (Kataguiri é o 1º integrante do Missão no Congresso)",
+            "publisher": "Poder360",
+            "url": "https://poder360.com.br/poder-congresso/janela-partidaria-2026-pl-lidera-filiacoes",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado (janela partidária de 2026)."
+          },
+          {
+            "id": "src-re-211",
+            "title": "Kim Kataguiri apresenta PEC que autoriza Brasil a produzir armas nucleares",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/kim-kataguiri-apresenta-pec-que-autoriza-brasil-a-produzir-armas-nucleares/",
+            "publishedAt": "2025-10-08",
+            "date": "2025-10-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "PEC apresentada em 08/10/2025 que retira a menção a 'fins pacíficos' do art. 21, XXIII, 'a' e autoriza armas nucleares para fins dissuasórios; depende de 171 assinaturas para começar a tramitar."
+          }
+        ],
+        "documentedAgreements": 4
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Bomba atômica x art. 21, XXIII, 'a' da Constituição e tratados de não proliferação",
+          "detail": "Desenvolver bombas atômicas e sair do TNP exige alterar o art. 21, XXIII, 'a' da Constituição, que admite atividade nuclear só para fins pacíficos e com aprovação do Congresso, e implica o TNP e o Tratado de Tlatelolco, com efeitos sobre as salvaguardas da Aiea e da Abacc. A PEC apresentada em 08/10/2025 aguardava 171 assinaturas para tramitar.",
+          "sources": [
+            {
+              "id": "src-re-201",
+              "title": "EUA, China e bomba atômica: veja propostas dos presidenciáveis para política externa",
+              "publisher": "Estadão — Felipe Frazão",
+              "url": "https://www.estadao.com.br/internacional/eua-china-e-bomba-atomica-veja-propostas-dos-presidenciaveis-para-politica-externa/",
+              "publishedAt": "2026-08-31",
+              "date": "2026-08-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento das propostas de política externa dos cinco candidatos mais bem colocados nas pesquisas, com o quadro do art. 21, XXIII, 'a' da Constituição sobre fins pacíficos e aprovação congressional."
+            },
+            {
+              "id": "src-re-202",
+              "title": "PEB nas urnas 2026: Renan Santos – Missão",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
+            },
+            {
+              "id": "src-re-205",
+              "title": "Sovereignty takes center stage in foreign policy electoral platforms",
+              "publisher": "Valor International",
+              "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
+              "publishedAt": "2026-09-22",
+              "date": "2026-09-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
+            },
+            {
+              "id": "src-re-211",
+              "title": "Kim Kataguiri apresenta PEC que autoriza Brasil a produzir armas nucleares",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/politica/kim-kataguiri-apresenta-pec-que-autoriza-brasil-a-produzir-armas-nucleares/",
+              "publishedAt": "2025-10-08",
+              "date": "2025-10-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "PEC apresentada em 08/10/2025 que retira a menção a 'fins pacíficos' do art. 21, XXIII, 'a' e autoriza armas nucleares para fins dissuasórios; depende de 171 assinaturas para começar a tramitar."
+            },
+            {
+              "id": "src-re-212",
+              "title": "'PEC Bomba Nuclear': Kim Kataguiri propõe emenda que autoriza Brasil a produzir bomba atômica",
+              "publisher": "Estadão — Geovanna Hora",
+              "url": "https://www.estadao.com.br/politica/pec-kim-kataguiri-autoriza-brasil-bomba-nuclear-npr/",
+              "publishedAt": "2025-10-08",
+              "date": "2025-10-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Detalha o texto protocolado em 08/10/2025, o dispositivo constitucional alterado e a exigência de assinaturas (171 deputados)."
+            },
+            {
+              "id": "src-rs-91",
+              "title": "Renan Santos proposes delinking spending, developing atomic bomb",
+              "publisher": "Valor International",
+              "url": "https://valorinternational.globo.com/politics/news/2026/08/27/renan-santos-proposes-delinking-spending-developing-atomic-bomb.ghtml",
+              "publishedAt": "2026-08-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra a defesa de desvincular pisos de saúde e educação, o programa nuclear com objetivo de bombas atômicas, a menção à saída do TNP e a referência à Constituição (atividade nuclear só para fins pacíficos, com aprovação do Congresso)."
+            },
+            {
+              "id": "src-rs-92",
+              "title": "Brasil precisa de bomba atômica para ser respeitado, diz Renan Santos",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-diz-que-brasil-precisa-de-bomba-atomica-para-ser-respeitado",
+              "publishedAt": "2026-08-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Transcreve a declaração de que o país 'não teria condições' de desenvolver o armamento nos próximos 10 anos e cita o TNP e o caso da Coreia do Norte."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Abertura do Mercosul x regra de negociação em bloco do próprio Mercosul",
+          "detail": "A proposta de abrir o Mercosul a acordos fora do bloco depende de decisão por consenso dos Estados-partes; o acordo Mercosul-União Europeia está em implementação e passa por apreciação do Legislativo (Senado, 04/05/2026). O capítulo do plano analisado pelo OPEB não menciona o Mercosul.",
+          "sources": [
+            {
+              "id": "src-re-202",
+              "title": "PEB nas urnas 2026: Renan Santos – Missão",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
+            },
+            {
+              "id": "src-re-213",
+              "title": "Legislativo terá papel importante na implementação do acordo Mercosul-UE, diz Trad",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
+              "publishedAt": "2026-05-04",
+              "date": "2026-05-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
+            },
+            {
+              "id": "src-rs-98",
+              "title": "Veja o que os candidatos pensam sobre política externa (Brics e China, Mercosul, operações dos EUA contra o 'narcoterrorismo', OCDE, minerais críticos, Israel e Gaza, Estados Unidos)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+              "publishedAt": "2026-09-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Respostas das campanhas de Renan Santos (Missão) e Augusto Cury (Avante) enviadas à Folha tema a tema; a reportagem informa que a campanha de Flávio Bolsonaro não respondeu. Cópia integral obtida por requisição direta (curl)."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-outra-proposta",
+          "title": "'Aliança estratégica com os EUA' no guia da BBC x não alinhamento declarado à Folha",
+          "detail": "O guia de propostas da BBC (17/08/2026, atualizado em 23/09/2026) registra 'aliança estratégica com os EUA para substituir importações chinesas por brasileiras'; na entrevista à CBN (03/09/2026) o candidato indicou a China como parceira prioritária no curto prazo e o plano descreve não alinhamento 'estritamente instrumental'.",
+          "sources": [
+            {
+              "id": "src-re-206",
+              "title": "Eleição 2026: quais são as propostas dos candidatos à Presidência",
+              "publisher": "BBC News Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
+              "publishedAt": "2026-08-17",
+              "date": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Guia com as propostas por tema ('Política Externa' e 'Segurança') de cada candidatura, atualizado em 23/09/2026; é a base que registra os itens de natureza externa de Leonardo Avalanche, Clariana Barão e Samara Martins."
+            },
+            {
+              "id": "src-rs-83",
+              "title": "Renan Santos volta a atacar Cury e diz que China é melhor parceira do que os EUA",
+              "publisher": "CBN / Globo",
+              "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/09/03/renan-santos-volta-a-atacar-cury-e-diz-que-china-e-melhor-parceira-do-que-os-eua.ghtml",
+              "publishedAt": "2026-09-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Coletiva com jornalistas da Europa e da Ásia; não-alinhamento, parceria industrial e militar com os EUA com transferência de tecnologia, proposta de cartel internacional de terras raras com a China."
+            },
+            {
+              "id": "src-rs-98",
+              "title": "Veja o que os candidatos pensam sobre política externa (Brics e China, Mercosul, operações dos EUA contra o 'narcoterrorismo', OCDE, minerais críticos, Israel e Gaza, Estados Unidos)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+              "publishedAt": "2026-09-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Respostas das campanhas de Renan Santos (Missão) e Augusto Cury (Avante) enviadas à Folha tema a tema; a reportagem informa que a campanha de Flávio Bolsonaro não respondeu. Cópia integral obtida por requisição direta (curl)."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "O capítulo analisado não explicita o objetivo do investimento: o plano define 'poder nuclear' como ciclo do combustível ou como arma?",
+          "sources": [
+            {
+              "id": "src-re-202",
+              "title": "PEB nas urnas 2026: Renan Santos – Missão",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
+            }
+          ]
+        },
+        {
+          "question": "Plano e entrevistas não trazem valores nem cronograma: quanto custaria o ciclo nuclear completo e a bomba, e qual a fonte de recursos?",
+          "sources": [
+            {
+              "id": "src-re-202",
+              "title": "PEB nas urnas 2026: Renan Santos – Missão",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
+            },
+            {
+              "id": "src-rs-91",
+              "title": "Renan Santos proposes delinking spending, developing atomic bomb",
+              "publisher": "Valor International",
+              "url": "https://valorinternational.globo.com/politics/news/2026/08/27/renan-santos-proposes-delinking-spending-developing-atomic-bomb.ghtml",
+              "publishedAt": "2026-08-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra a defesa de desvincular pisos de saúde e educação, o programa nuclear com objetivo de bombas atômicas, a menção à saída do TNP e a referência à Constituição (atividade nuclear só para fins pacíficos, com aprovação do Congresso)."
+            }
+          ]
+        },
+        {
+          "question": "O capítulo do plano analisado não cita o bloco: qual o detalhamento da proposta de 'abrir o Mercosul'?",
+          "sources": [
+            {
+              "id": "src-re-202",
+              "title": "PEB nas urnas 2026: Renan Santos – Missão",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
+            },
+            {
+              "id": "src-rs-98",
+              "title": "Veja o que os candidatos pensam sobre política externa (Brics e China, Mercosul, operações dos EUA contra o 'narcoterrorismo', OCDE, minerais críticos, Israel e Gaza, Estados Unidos)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+              "publishedAt": "2026-09-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Respostas das campanhas de Renan Santos (Missão) e Augusto Cury (Avante) enviadas à Folha tema a tema; a reportagem informa que a campanha de Flávio Bolsonaro não respondeu. Cópia integral obtida por requisição direta (curl)."
+            }
+          ]
+        },
+        {
+          "question": "Nada foi localizado até 29/09/2026 nas bases consultadas: qual a posição sobre a guerra na Ucrânia, sanções à Rússia e Otan?",
+          "sources": [
+            {
+              "id": "src-mundo-02",
+              "title": "O que Lula e Flávio prometem para a política externa",
+              "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+              "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+              "publishedAt": "2026-09-17",
+              "date": "2026-09-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
+            },
+            {
+              "id": "src-re-202",
+              "title": "PEB nas urnas 2026: Renan Santos – Missão",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
+            }
+          ]
+        },
+        {
+          "question": "Não localizamos etapa, prazo ou órgão responsável no material analisado: o que se propõe para a OCDE além de retomar a acessão?",
+          "sources": [
+            {
+              "id": "src-rs-98",
+              "title": "Veja o que os candidatos pensam sobre política externa (Brics e China, Mercosul, operações dos EUA contra o 'narcoterrorismo', OCDE, minerais críticos, Israel e Gaza, Estados Unidos)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+              "publishedAt": "2026-09-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Respostas das campanhas de Renan Santos (Missão) e Augusto Cury (Avante) enviadas à Folha tema a tema; a reportagem informa que a campanha de Flávio Bolsonaro não respondeu. Cópia integral obtida por requisição direta (curl)."
+            },
+            {
+              "id": "src-re-201",
+              "title": "EUA, China e bomba atômica: veja propostas dos presidenciáveis para política externa",
+              "publisher": "Estadão — Felipe Frazão",
+              "url": "https://www.estadao.com.br/internacional/eua-china-e-bomba-atomica-veja-propostas-dos-presidenciaveis-para-politica-externa/",
+              "publishedAt": "2026-08-31",
+              "date": "2026-08-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento das propostas de política externa dos cinco candidatos mais bem colocados nas pesquisas, com o quadro do art. 21, XXIII, 'a' da Constituição sobre fins pacíficos e aprovação congressional."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "À Folha (12/09/2026) explicou o não alinhamento como 'estritamente instrumental', recusando a 'agenda antiocidental' no Brics e mantendo EUA e UE como parceiros de tecnologia e minerais críticos. À CBN (03/09/2026) indicou a China como parceira prioritária no curto prazo. À Gazeta do Povo (02/06/2026) tratou o anúncio de tarifas de Trump como 'favor a Lula' na disputa doméstica.",
+      "methodology": "Bases: capítulo 'Brasil Poderoso' do Livro Amarelo (resumo registrado no TSE) e respostas da campanha à Folha (12/09/2026), cruzados com OPEB (27/09/2026), Estadão (31/08/2026), BBC (17/08/2026), Metrópoles, Gazeta do Povo, CBN, CNN, Poder360 e Contee. Limites: páginas de Metrópoles e Valor não renderizaram sem JavaScript (usados título e chamada); nada foi inferido de posição do partido.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
   },
   "coherence": [
     {
@@ -5338,6 +7102,717 @@
       "methodology": "Linha montada sobre a prévia do plano (julho/2026), o resumo executivo registrado no TSE e a reportagem da Agência Brasil (19/09/2026). Por nunca ter exercido cargo público, o histórico disponível é a defesa pública do tema, não a execução de política assistencial.",
       "evidenceStatus": "confirmado",
       "confidenceLevel": "high"
+    }
+  ],
+  "themes": [
+    {
+      "slug": "economia",
+      "name": "Economia",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 5-10): 'PEC de Transição' com ajuste de R$ 250 bi/ano antes da posse; zonas econômicas e mineração.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-rs-19",
+          "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 5-10): 'PEC de Transição' com ajuste de R$ 250 bi/ano antes da posse; zonas econômicas e mineração.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Ajuste por emenda antes da posse convive com renúncia fiscal em zonas especiais",
+            "detail": "O plano propõe substituir o arcabouço por emenda constitucional negociada antes da posse e, no mesmo documento, criar regimes tributários reduzidos nas Zonas Econômicas Especiais e acelerar licenças.",
+            "sources": [
+              {
+                "id": "src-rs-23",
+                "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+                "publisher": "TSE — DivulgaCandContas",
+                "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+              },
+              {
+                "id": "src-re-t01",
+                "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+                "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+                "publisher": "Plano de Governo 2026",
+                "date": "2026-09-29",
+                "type": "agregador",
+                "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o cronograma de votação da 'PEC de Transição' antes da posse?",
+            "why": "Sem esse dado não é possível medir o ajuste fiscal nem o efeito sobre a arrecadação."
+          },
+          {
+            "question": "Quanto o pacote arrecada e corta em cada ano do mandato?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "seguranca",
+      "name": "Segurança pública",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 12-13): 'guerra ao crime' com Direito Penal do Inimigo, Estado de Defesa em áreas dominadas, superpresídios e Forças Armadas.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-rs-22",
+          "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+          "publisher": "Exame",
+          "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+          "publishedAt": "2026-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Mês; dia exato não capturado."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 12-13): 'guerra ao crime' com Direito Penal do Inimigo, Estado de Defesa em áreas dominadas, superpresídios e Forças Armadas.",
+        "requirement": {
+          "path": "lei-ordinaria"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Estado de Defesa depende de decreto com aval do Congresso em 24 horas",
+            "detail": "Estado de Defesa exige decreto presidencial submetido ao Congresso em 24 horas, com prazo definido; o resumo registrado não descreve o mecanismo de controle nem a duração pretendida.",
+            "sources": [
+              {
+                "id": "src-rs-23",
+                "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+                "publisher": "TSE — DivulgaCandContas",
+                "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+              },
+              {
+                "id": "src-re-t01",
+                "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+                "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+                "publisher": "Plano de Governo 2026",
+                "date": "2026-09-29",
+                "type": "agregador",
+                "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o texto e o prazo previstos para o regime penal dos faccionados?",
+            "why": "Sem esse dado não é possível medir custo, prazo e competência federativa da medida."
+          },
+          {
+            "question": "Como o Estado de Defesa seria delimitado sem afetar áreas vizinhas?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "saude",
+      "name": "Saúde",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 25): 'SUS Fila Zero', fila por risco clínico, telemedicina e IA no diagnóstico; pisos de saúde revistos no ajuste fiscal.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 25): 'SUS Fila Zero', fila por risco clínico, telemedicina e IA no diagnóstico; pisos de saúde revistos no ajuste fiscal.",
+        "requirement": {
+          "path": "ato-executivo"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o custo estimado do sistema de triagem por risco clínico?",
+            "why": "Sem esse dado não é possível medir meta, financiamento e prazo do que se propõe."
+          },
+          {
+            "question": "Como fica a fila de cirurgia eletiva durante a implantação?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "educacao",
+      "name": "Educação",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 31-32): método fônico, modelo do Ceará em escala nacional, código de disciplina, escolas cívico-militares e fim das cotas.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-rs-94",
+          "title": "Plano de governo de Renan Santos promete extinguir favelas, sistema de cotas e modelo atual do Bolsa Família",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-promete-extinguir-favelas-sistema-de-cotas-e-modelo-atual-do-bolsa-familia.ghtml",
+          "publishedAt": "2026-07-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Descreve a prévia do plano: desfavelização em 10 anos, financiamento por IPTU, regularização de energia, títulos e Minha Casa Minha Vida; extinção do modelo atual do Bolsa Família; e a passagem sobre repasses de Fundo Partidário e Fundo Eleitoral calculados pela 'qualidade gerencial dos mandatários'."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 31-32): método fônico, modelo do Ceará em escala nacional, código de disciplina, escolas cívico-militares e fim das cotas.",
+        "requirement": {
+          "path": "lei-ordinaria"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o instrumento previsto para substituir as cotas por bolsas de mérito?",
+            "why": "Sem esse dado não é possível medir meta, responsável e prazo do que se propõe."
+          },
+          {
+            "question": "Como o método fônico seria adotado por redes estaduais e municipais?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "clima",
+      "name": "Clima e meio ambiente",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 24): sem capítulo ambiental; licenças aceleradas, padrões de mineração, monitoramento por satélite, hidrogênio verde na Amazônia.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-re-t03",
+          "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+          "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+          "publisher": "Portal Amazônia",
+          "date": "2026-09-29",
+          "type": "imprensa",
+          "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 24): sem capítulo ambiental; licenças aceleradas, padrões de mineração, monitoramento por satélite, hidrogênio verde na Amazônia.",
+        "requirement": {
+          "path": "lei-ordinaria"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Quais os prazos e as contrapartidas ambientais do licenciamento acelerado?",
+            "why": "Sem esse dado não é possível medir meta, prazo e instrumento da política ambiental."
+          },
+          {
+            "question": "Qual a meta de redução de desmatamento, se houver?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "trabalho",
+      "name": "Trabalho e renda",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 5-6): flexibilizar as leis trabalhistas, apontadas como entrave ao emprego, e trocar o Bolsa Família por 'Frentes Cidadãs'.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-rs-19",
+          "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 5-6): flexibilizar as leis trabalhistas, apontadas como entrave ao emprego, e trocar o Bolsa Família por 'Frentes Cidadãs'.",
+        "requirement": {
+          "path": "lei-ordinaria"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Quais dispositivos da legislação trabalhista o plano pretende alterar?",
+            "why": "Sem esse dado não é possível medir efeito sobre emprego, renda e custo de contratação."
+          },
+          {
+            "question": "Qual o valor da remuneração e o público das 'Frentes Cidadãs'?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "tributacao",
+      "name": "Tributação",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 10 e 35): cortar renúncias fiscais na 'PEC de Transição' e criar tributos menores nas Zonas Econômicas Especiais.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 10 e 35): cortar renúncias fiscais na 'PEC de Transição' e criar tributos menores nas Zonas Econômicas Especiais.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Quanto a redução de renúncias economiza por ano?",
+            "why": "Sem esse dado não é possível medir o efeito sobre a arrecadação e a partilha federativa."
+          },
+          {
+            "question": "Quais setores entram nas zonas com tributação reduzida?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "previdencia",
+      "name": "Previdência",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 10): desvincular aposentadorias e benefícios do salário mínimo, corrigindo pela inflação, e revisar o abono salarial.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-rs-22",
+          "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+          "publisher": "Exame",
+          "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+          "publishedAt": "2026-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Mês; dia exato não capturado."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 10): desvincular aposentadorias e benefícios do salário mínimo, corrigindo pela inflação, e revisar o abono salarial.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual a economia projetada com a desvinculação do salário mínimo?",
+            "why": "Sem esse dado não é possível medir o efeito fiscal e quem assume o custo da mudança."
+          },
+          {
+            "question": "Quais benefícios assistenciais entram na revisão, além do abono salarial?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "habitacao",
+      "name": "Habitação",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 49): 'desfavelização' em 10 anos, com título de propriedade e financiamento de 50 anos, parcelas de R$ 200 a R$ 500.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-rs-94",
+          "title": "Plano de governo de Renan Santos promete extinguir favelas, sistema de cotas e modelo atual do Bolsa Família",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-promete-extinguir-favelas-sistema-de-cotas-e-modelo-atual-do-bolsa-familia.ghtml",
+          "publishedAt": "2026-07-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Descreve a prévia do plano: desfavelização em 10 anos, financiamento por IPTU, regularização de energia, títulos e Minha Casa Minha Vida; extinção do modelo atual do Bolsa Família; e a passagem sobre repasses de Fundo Partidário e Fundo Eleitoral calculados pela 'qualidade gerencial dos mandatários'."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 49): 'desfavelização' em 10 anos, com título de propriedade e financiamento de 50 anos, parcelas de R$ 200 a R$ 500.",
+        "requirement": {
+          "path": "depende-municipios"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o custo total estimado da 'desfavelização' e quem financia?",
+            "why": "Sem esse dado não é possível medir meta, custo e instrumento habitacional."
+          },
+          {
+            "question": "Como será feita a regularização fundiária nas áreas de risco?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "instituicoes",
+      "name": "Instituições",
+      "kind": "proposta",
+      "position": "Plano registrado: fusão de municípios, repasses federais por desempenho e ajuste por emenda negociada antes da posse.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-re-t01",
+          "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-rs-72",
+          "title": "O que diz o plano de governo de Renan Santos (Missão)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-renan-santos-pretende-restaurar-o-brasil-plano-de-governo-candidato-missao/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Detalha a 'Grande Consolidação Municipal' (5.570 para 1.656 municípios) e a frente AgroBrasil 2030 com cinco pilares."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado: fusão de municípios, repasses federais por desempenho e ajuste por emenda negociada antes da posse.",
+        "requirement": {
+          "path": "lei-complementar",
+          "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Quais critérios definem os municípios a serem fundidos?",
+            "why": "Sem esse dado não é possível medir o que depende de emenda e de articulação no Congresso."
+          },
+          {
+            "question": "Como os repasses por desempenho seriam medidos e verificados?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     }
   ]
 }

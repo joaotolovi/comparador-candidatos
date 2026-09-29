@@ -1,0 +1,631 @@
+{
+  "grupo": "r2",
+  "escopo": "mundo",
+  "sources": [
+    {
+      "id": "src-mundo-02",
+      "title": "O que Lula e Flávio prometem para a política externa",
+      "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+      "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+      "publishedAt": "2026-09-17",
+      "date": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
+    },
+    {
+      "id": "src-re-201",
+      "title": "EUA, China e bomba atômica: veja propostas dos presidenciáveis para política externa",
+      "publisher": "Estadão — Felipe Frazão",
+      "url": "https://www.estadao.com.br/internacional/eua-china-e-bomba-atomica-veja-propostas-dos-presidenciaveis-para-politica-externa/",
+      "publishedAt": "2026-08-31",
+      "date": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento das propostas de política externa dos cinco candidatos mais bem colocados nas pesquisas, com o quadro do art. 21, XXIII, 'a' da Constituição sobre fins pacíficos e aprovação congressional."
+    },
+    {
+      "id": "src-re-202",
+      "title": "PEB nas urnas 2026: Renan Santos – Missão",
+      "publisher": "OPEB — Observatório da Política Externa Brasileira",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-renan-santos-missao/",
+      "publishedAt": "2026-09-27",
+      "date": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise da série 'PEB nas urnas' sobre o Livro Amarelo (resumo registrado no TSE): ciclo nuclear, 'árbitro do Sul Global', Pacto Interamericano, Brics+ e ausência de menção ao Mercosul no capítulo lido; página lida por inteiro via curl."
+    },
+    {
+      "id": "src-re-203",
+      "title": "PEB nas urnas 2026: Augusto Cury – Avante",
+      "publisher": "OPEB — Observatório da Política Externa Brasileira",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-augusto-cury-avante/",
+      "publishedAt": "2026-09-27",
+      "date": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano de 200 páginas 'O Brasil dos Nossos Sonhos': capítulo de relações internacionais, embaixadas orientadas a negócios, Brics, Mercosul e OCDE; página lida por inteiro via curl."
+    },
+    {
+      "id": "src-re-204",
+      "title": "PEB nas urnas 2026: Clariana Barão – Democracia Cristã",
+      "publisher": "OPEB — Observatório da Política Externa Brasileira",
+      "url": "https://opeb.org/2026/09/29/peb-nas-urnas-2026-clariana-barao-democracia-crista/",
+      "publishedAt": "2026-09-29",
+      "date": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano registrado (15 páginas, seis eixos): a dimensão externa aparece apenas em segurança de fronteiras e cooperação internacional contra narcotráfico e tráfico de armas; página lida por inteiro via curl."
+    },
+    {
+      "id": "src-re-205",
+      "title": "Sovereignty takes center stage in foreign policy electoral platforms",
+      "publisher": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
+      "publishedAt": "2026-09-22",
+      "date": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
+    },
+    {
+      "id": "src-re-206",
+      "title": "Eleição 2026: quais são as propostas dos candidatos à Presidência",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
+      "publishedAt": "2026-08-17",
+      "date": "2026-08-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Guia com as propostas por tema ('Política Externa' e 'Segurança') de cada candidatura, atualizado em 23/09/2026; é a base que registra os itens de natureza externa de Leonardo Avalanche, Clariana Barão e Samara Martins."
+    },
+    {
+      "id": "src-re-207",
+      "title": "Presidential candidates converge on critical minerals policy",
+      "publisher": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/29/presidential-candidates-converge-on-critical-minerals-policy.ghtml",
+      "publishedAt": "2026-09-29",
+      "date": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 29/09/2026 sobre a convergência dos planos em industrializar minerais críticos e reduzir a exportação de matéria-prima bruta; o corpo da página não renderizou sem JavaScript, usados título e chamada."
+    },
+    {
+      "id": "src-re-208",
+      "title": "Renan Santos vê 'favor a Lula' em anúncio de novas tarifas por Trump",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-ve-favor-a-lula-em-anuncio-de-novas-tarifas-por-trump/",
+      "publishedAt": "2026-06-02",
+      "date": "2026-06-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração de 02/06/2026 em que o candidato trata o anúncio de novas tarifas dos EUA como elemento da disputa eleitoral brasileira."
+    },
+    {
+      "id": "src-re-209",
+      "title": "Renan Santos ataca Lula e Flávio por tarifa dos EUA: 'Humilhante'",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/renan-santos-ataca-lula-e-flavio-por-tarifa-dos-eua-humilhante",
+      "publishedAt": "2026-07-16",
+      "date": "2026-07-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Crítica de 16/07/2026 à condução da tarifa dos EUA pelos dois campos; o corpo da página não renderizou sem JavaScript, usados título e chamada."
+    },
+    {
+      "id": "src-re-210",
+      "title": "Renan Santos associa bomba atômica à retomada da soberania do Brasil",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/colunas/grande-angular/renan-santos-associa-bomba-atomica-a-retomada-da-soberania-do-brasil",
+      "publishedAt": "2026-08-19",
+      "date": "2026-08-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista de 19/08/2026 em que o candidato defende o desenvolvimento de bomba atômica e a saída do Brasil do Tratado de Não Proliferação; usados título e chamada (corpo em JavaScript)."
+    },
+    {
+      "id": "src-re-211",
+      "title": "Kim Kataguiri apresenta PEC que autoriza Brasil a produzir armas nucleares",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/kim-kataguiri-apresenta-pec-que-autoriza-brasil-a-produzir-armas-nucleares/",
+      "publishedAt": "2025-10-08",
+      "date": "2025-10-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "PEC apresentada em 08/10/2025 que retira a menção a 'fins pacíficos' do art. 21, XXIII, 'a' e autoriza armas nucleares para fins dissuasórios; depende de 171 assinaturas para começar a tramitar."
+    },
+    {
+      "id": "src-re-212",
+      "title": "'PEC Bomba Nuclear': Kim Kataguiri propõe emenda que autoriza Brasil a produzir bomba atômica",
+      "publisher": "Estadão — Geovanna Hora",
+      "url": "https://www.estadao.com.br/politica/pec-kim-kataguiri-autoriza-brasil-bomba-nuclear-npr/",
+      "publishedAt": "2025-10-08",
+      "date": "2025-10-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha o texto protocolado em 08/10/2025, o dispositivo constitucional alterado e a exigência de assinaturas (171 deputados)."
+    },
+    {
+      "id": "src-re-213",
+      "title": "Legislativo terá papel importante na implementação do acordo Mercosul-UE, diz Trad",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
+      "publishedAt": "2026-05-04",
+      "date": "2026-05-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
+    },
+    {
+      "id": "src-re-214",
+      "title": "Eleição 2026: sair do Brics, alinhamento com EUA ou ator global?",
+      "publisher": "Contee",
+      "url": "https://contee.org.br/eleicao-2026-sair-do-brics-alinhamento-com-eua-ou-ator-global/",
+      "publishedAt": "2026-08-18",
+      "date": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sistematiza as doutrinas de política externa em disputa na campanha, incluindo a proposta de não alinhamento de Renan Santos; usado como base de contexto da busca."
+    },
+    {
+      "id": "src-re-215",
+      "title": "Pré-candidata do DC, Clariana Barão prega 'Brasil de conciliação' e critica postura do governo com o agronegócio",
+      "publisher": "Jovem Pan — Bruno Pinheiro",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/pre-candidata-do-dc-clariana-barao-prega-brasil-de-conciliacao-e-critica-postura-do-governo-com-o-agronegocio/",
+      "publishedAt": "2026-08-02",
+      "date": "2026-08-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Coluna de 02/08/2026 sobre a pré-candidatura, com a agenda de conciliação e agronegócio; usados título e chamada (corpo em JavaScript)."
+    }
+  ],
+  "candidates": {
+    "renan-santos": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "Não alinhamento instrumental: EUA e UE como parceiros em tecnologia e minerais, Brics sem agenda antiocidental, Mercosul aberto e bomba atômica.",
+          "requirement": {
+            "path": "pec",
+            "instrument": "pec + negociacao_internacional + ato_do_executivo + lei_ordinaria",
+            "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+            "description": "Bomba atômica: exige PEC porque o art. 21, XXIII, 'a' da Constituição admite atividade nuclear no país só para fins pacíficos e mediante aprovação do Congresso, e envolve o TNP e o Tratado de Tlatelolco, com efeitos sobre salvaguardas da Aiea e da Abacc; há PEC nesse sentido protocolada em 08/10/2025 e ainda em coleta de assinaturas. Tarifas e Mercosul dependem dos demais Estados-partes e de ato do Executivo; taxar minério bruto exige lei ordinária.",
+            "congressStep": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa; a proposta protocolada em 08/10/2025 precisa de 171 assinaturas para começar a tramitar. Acordos internacionais: aprovação pelo Congresso (art. 49, I)."
+          },
+          "history": {
+            "statedPosition": "À Folha (12/09/2026): não alinhamento 'estritamente instrumental', Brics sem 'agenda antiocidental' e ciclo nuclear completo.",
+            "aligned": [
+              "19/08/2026: defendeu bomba atômica e saída do TNP (Metrópoles).",
+              "26/08/2026: repetiu a defesa da bomba atômica (Poder360).",
+              "02/06 e 16/07/2026: criticou o tarifaço dos EUA e a condução do tema (Gazeta do Povo; Metrópoles)."
+            ],
+            "divergent": [
+              "Guia da BBC (17/08/2026): 'aliança estratégica com os EUA para substituir importações chinesas'.",
+              "03/09/2026 (CBN): indicou a China como parceira prioritária no curto prazo."
+            ],
+            "noComparablePrecedent": "Não localizamos episódios comparáveis de negociação internacional conduzida em nome do Estado; a interlocução documentada é de campanha (corpo diplomático em Brasília, 25/06/2026) e a defesa da bomba atômica é a primeira posição registrada sobre o tema, em agosto de 2026.",
+            "positionChange": "Não localizamos mudança de posição documentada: o ciclo nuclear consta do plano registrado e a defesa da saída do TNP é de 19/08/2026."
+          },
+          "support": {
+            "note": "Retrato atual, não previsão do próximo Congresso. Missão (nº 14) concorre sem coligação e sem federação; tem 1 deputado federal — Kim Kataguiri, autor da PEC que autoriza armas nucleares (08/10/2025). Não localizamos apoio parlamentar declarado às demais propostas de política externa.",
+            "sources": [
+              "src-rs-15",
+              "src-rs-33",
+              "src-re-211"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Bomba atômica x art. 21, XXIII, 'a' da Constituição e tratados de não proliferação",
+              "detail": "Desenvolver bombas atômicas e sair do TNP exige alterar o art. 21, XXIII, 'a' da Constituição, que admite atividade nuclear só para fins pacíficos e com aprovação do Congresso, e implica o TNP e o Tratado de Tlatelolco, com efeitos sobre as salvaguardas da Aiea e da Abacc. A PEC apresentada em 08/10/2025 aguardava 171 assinaturas para tramitar.",
+              "sources": [
+                "src-re-201",
+                "src-re-202",
+                "src-re-205",
+                "src-re-211",
+                "src-re-212",
+                "src-rs-91",
+                "src-rs-92"
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Abertura do Mercosul x regra de negociação em bloco do próprio Mercosul",
+              "detail": "A proposta de abrir o Mercosul a acordos fora do bloco depende de decisão por consenso dos Estados-partes; o acordo Mercosul-União Europeia está em implementação e passa por apreciação do Legislativo (Senado, 04/05/2026). O capítulo do plano analisado pelo OPEB não menciona o Mercosul.",
+              "sources": [
+                "src-re-202",
+                "src-re-213",
+                "src-rs-98"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "'Aliança estratégica com os EUA' no guia da BBC x não alinhamento declarado à Folha",
+              "detail": "O guia de propostas da BBC (17/08/2026, atualizado em 23/09/2026) registra 'aliança estratégica com os EUA para substituir importações chinesas por brasileiras'; na entrevista à CBN (03/09/2026) o candidato indicou a China como parceira prioritária no curto prazo e o plano descreve não alinhamento 'estritamente instrumental'.",
+              "sources": [
+                "src-re-206",
+                "src-rs-83",
+                "src-rs-98"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "O capítulo analisado não explicita o objetivo do investimento: o plano define 'poder nuclear' como ciclo do combustível ou como arma?",
+              "sources": [
+                "src-re-202"
+              ]
+            },
+            {
+              "question": "Plano e entrevistas não trazem valores nem cronograma: quanto custaria o ciclo nuclear completo e a bomba, e qual a fonte de recursos?",
+              "sources": [
+                "src-re-202",
+                "src-rs-91"
+              ]
+            },
+            {
+              "question": "O capítulo do plano analisado não cita o bloco: qual o detalhamento da proposta de 'abrir o Mercosul'?",
+              "sources": [
+                "src-re-202",
+                "src-rs-98"
+              ]
+            },
+            {
+              "question": "Nada foi localizado até 29/09/2026 nas bases consultadas: qual a posição sobre a guerra na Ucrânia, sanções à Rússia e Otan?",
+              "sources": [
+                "src-mundo-02",
+                "src-re-202"
+              ]
+            },
+            {
+              "question": "Não localizamos etapa, prazo ou órgão responsável no material analisado: o que se propõe para a OCDE além de retomar a acessão?",
+              "sources": [
+                "src-rs-98",
+                "src-re-201"
+              ]
+            }
+          ],
+          "publicExplanation": "À Folha (12/09/2026) explicou o não alinhamento como 'estritamente instrumental', recusando a 'agenda antiocidental' no Brics e mantendo EUA e UE como parceiros de tecnologia e minerais críticos. À CBN (03/09/2026) indicou a China como parceira prioritária no curto prazo. À Gazeta do Povo (02/06/2026) tratou o anúncio de tarifas de Trump como 'favor a Lula' na disputa doméstica.",
+          "methodology": "Bases: capítulo 'Brasil Poderoso' do Livro Amarelo (resumo registrado no TSE) e respostas da campanha à Folha (12/09/2026), cruzados com OPEB (27/09/2026), Estadão (31/08/2026), BBC (17/08/2026), Metrópoles, Gazeta do Povo, CBN, CNN, Poder360 e Contee. Limites: páginas de Metrópoles e Valor não renderizaram sem JavaScript (usados título e chamada); nada foi inferido de posição do partido.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    },
+    "leonardo-avalanche": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "Sem posição de política externa no plano (19 propostas): a formulação de natureza externa é a Proposta 12, de soberania e defesa.",
+          "requirement": {
+            "path": "indefinido",
+            "instrument": "ausente",
+            "description": "Não há proposta de política externa a classificar. A Proposta 12 (defesa e soberania) menciona produção nacional de equipamento e vigilância por drones na Amazônia, sem instrumento, prazo, custo ou fonte de recursos declarados no plano. A redução da dependência de fertilizantes importados aparece como meta doméstica, sem medida de comércio exterior associada.",
+            "congressStep": "Não aplicável: não localizamos proposta de política externa no plano registrado nem em declarações de campanha até 29/09/2026."
+          },
+          "history": {
+            "statedPosition": "Sem posição localizada: o plano registrado (48 páginas, 19 propostas) não tem capítulo nem item de política externa.",
+            "aligned": [
+              "Nada localizado em sentido semelhante: 2026 é sua primeira disputa eleitoral e não há cargo público anterior nas fontes consultadas."
+            ],
+            "divergent": [
+              "Nada localizado em sentido diferente nas fontes consultadas até 29/09/2026."
+            ],
+            "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada: sem cargo público, sem cargo diplomático e sem negociação internacional documentada; a única formulação de natureza externa no plano é a Proposta 12, de defesa e vigilância de fronteiras.",
+            "positionChange": "Não localizamos mudança de posição: não há posição anterior documentada sobre temas externos para comparar."
+          },
+          "tensions": [],
+          "openQuestions": [
+            {
+              "question": "O plano registrado (48 páginas, 19 propostas) não tem capítulo nem item de política externa: qual seria a orientação externa de um governo do PRTB?",
+              "sources": [
+                "src-la-17",
+                "src-re-206"
+              ]
+            },
+            {
+              "question": "Nióbio, terras raras e lítio aparecem como reservas a vigiar na fronteira: haveria política de comércio ou de processamento desses minerais?",
+              "sources": [
+                "src-re-206",
+                "src-re-207"
+              ]
+            },
+            {
+              "question": "Nada foi localizado nas bases consultadas: qual a posição sobre EUA, China, Mercosul, Brics, Otan e a guerra na Ucrânia?",
+              "sources": [
+                "src-re-206",
+                "src-la-91"
+              ]
+            }
+          ],
+          "methodology": "Bases: leitura integral do plano registrado no TSE (48 páginas, 19 propostas), guia de propostas da BBC (17/08/2026, atualizado em 23/09/2026), sabatina do Correio Braziliense (julho/2026, cobertura agregada pela Anfip) e buscas em português e inglês por política externa. Nada foi localizado sobre o tema e ele não consta da série do OPEB. Não foi preenchido por inferência a partir do PRTB.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    },
+    "augusto-cury": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "Política externa 'ativa, equilibrada e pragmática': manter o Brics sem agenda geopolítica, flexibilizar o Mercosul e retomar a acessão à OCDE.",
+          "requirement": {
+            "path": "lei-ordinaria",
+            "instrument": "lei_ordinaria + negociacao_internacional + ato_do_executivo",
+            "description": "Flexibilizar o Mercosul sem exigência de negociação em bloco depende de decisão por consenso dos Estados-partes; retomar a acessão à OCDE depende de negociação com a organização e de etapas internas; o remanejamento de cerca de 20% do efetivo lotado nos EUA e 10% do efetivo na Europa, o treinamento de embaixadores como influenciadores e a criação de secretaria de comércio exterior são atos do Executivo. A meta de dobrar o comércio com o mundo em oito anos não indica instrumento.",
+            "congressStep": "Acordos comerciais: aprovação pelo Congresso (art. 49, I). O plano não propõe projeto de lei específico nem indica fonte de recursos para as medidas de comércio exterior."
+          },
+          "history": {
+            "statedPosition": "À Folha (12/09/2026): 'Não tiro o Brasil do Brics. Tiro o Brasil do papel que ele aceitou dentro do Brics'.",
+            "aligned": [
+              "Plano registrado (ago/2026): 'Embaixadas Empreendedoras', projetos de exportação e meta de dobrar o comércio com o mundo em oito anos.",
+              "Proposta de remanejar cerca de 20% do efetivo lotado nos EUA e 10% do efetivo na Europa (Valor International, 22/09/2026)."
+            ],
+            "divergent": [
+              "O plano reivindica a tradição diplomática e, na mesma seção, orienta embaixadas à captação de investimento para minérios (OPEB, 27/09/2026)."
+            ],
+            "noComparablePrecedent": "Não localizamos episódios comparáveis de negociação internacional: sem cargo público anterior, a interlocução documentada é de campanha e a obra editorial publicada no exterior (livros e prêmio na China em 2009), registrada no próprio plano.",
+            "positionChange": "Não localizamos mudança de posição: 2026 é sua primeira disputa eleitoral e não há posição anterior documentada sobre temas externos."
+          },
+          "support": {
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante (nº 70) concorre sem coligação e sem federação, com Júlio Delgado (ex-deputado federal) como vice; não localizamos apoio parlamentar declarado às propostas de política externa do plano.",
+            "sources": [
+              "src-ac-42",
+              "src-ac-23"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Programa de embaixadores e influenciadores estrangeiros sem equivalente localizado no Itamaraty",
+              "detail": "A proposta de treinar embaixadores para atuar como influenciadores e de trazer influenciadores estrangeiros em imersão com passagens e hospedagem custeadas aparece no plano e na entrevista ao Valor International (22/09/2026); não localizamos programa equivalente na estrutura do Ministério das Relações Exteriores.",
+              "sources": [
+                "src-re-203",
+                "src-re-205",
+                "src-ac-23"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Flexibilizar o Mercosul x regra de negociação em bloco e acordo com a União Europeia em curso",
+              "detail": "Retirar a exigência de negociação em bloco para avançar acordos bilaterais depende de decisão por consenso dos Estados-partes; o acordo Mercosul-União Europeia está em implementação e passa por apreciação do Legislativo (Senado, 04/05/2026).",
+              "sources": [
+                "src-re-203",
+                "src-re-213",
+                "src-ac-80"
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "O plano não declara linha de base, custo ou instrumento: qual a base da meta de dobrar o comércio com o mundo em oito anos?",
+              "sources": [
+                "src-ac-23",
+                "src-re-203"
+              ]
+            },
+            {
+              "question": "Quais critérios definem o remanejamento de 20% do efetivo diplomático nos EUA e 10% na Europa, e qual o custo da medida?",
+              "sources": [
+                "src-ac-23",
+                "src-ac-80"
+              ]
+            },
+            {
+              "question": "Não localizamos detalhamento no plano ou em entrevistas: retomar a acessão à OCDE envolve quais etapas e qual prazo?",
+              "sources": [
+                "src-ac-23",
+                "src-re-203"
+              ]
+            },
+            {
+              "question": "Nada foi localizado até 29/09/2026 nas bases consultadas: qual a posição sobre a guerra na Ucrânia, sanções à Rússia e Otan?",
+              "sources": [
+                "src-mundo-02",
+                "src-ac-80"
+              ]
+            }
+          ],
+          "publicExplanation": "À Folha (12/09/2026) explicou a permanência no Brics: 'Não tiro o Brasil do Brics. Tiro o Brasil do papel que ele aceitou dentro do Brics', e recusou declarações sobre desdolarização e arquitetura de segurança global — 'essas não são as nossas brigas, e cada vez que entramos nelas nós pagamos a conta em tarifa, não em prestígio'.",
+          "methodology": "Bases: capítulo 15 ('Relações internacionais') do plano registrado no TSE 'O Brasil dos Nossos Sonhos' (200 páginas, lido por inteiro), respostas da campanha à Folha (12/09/2026), OPEB (27/09/2026) e Senado (04/05/2026). Limites: sem custo, cronograma ou indicador por item; a única meta numérica localizada é dobrar o comércio com o mundo em oito anos. Nada foi inferido do programa do Avante.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    },
+    "clariana-barao": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "Sem capítulo de política externa: a dimensão externa do plano é a segurança de fronteiras e a cooperação contra narcotráfico e armas.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "instrument": "negociacao_internacional + ato_do_executivo + depende_de_agentes_privados",
+            "description": "A cooperação internacional contra narcotráfico e tráfico de armas depende de acordos com outros países e organismos e da execução federal; o plano não define parceiros, mecanismos nem órgão responsável. A atração de capital dos EUA e da China para industrializar minerais críticos, citada em entrevista, depende de agentes privados e do marco regulatório, sem contrapartida ou prazo declarados.",
+            "congressStep": "A cooperação policial e aduaneira com outros países passa por acordos aprovados pelo Congresso (art. 49, I). O plano não propõe projeto de lei específico para comércio exterior ou minerais críticos."
+          },
+          "history": {
+            "statedPosition": "Entrevista ao BM&C Talks (09/09/2026): capital dos EUA e da China para industrializar minerais críticos e terras raras no Brasil.",
+            "aligned": [
+              "Plano registrado (15 páginas): eixo de segurança com 'fronteiras inteligentes e integradas' e cooperação contra o narcotráfico.",
+              "Entrevistas de campanha (02 e 09/09/2026) ligam a atração de capital à reindustrialização e à redução de importados."
+            ],
+            "divergent": [
+              "Nada localizado em sentido diferente nas fontes consultadas até 29/09/2026."
+            ],
+            "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada: sem cargo público anterior e sem negociação internacional documentada; a única passagem de natureza externa no plano é o eixo de fronteiras e cooperação em segurança.",
+            "positionChange": "Não localizamos mudança de posição: 2026 é sua primeira disputa eleitoral e não há posição anterior documentada sobre temas externos."
+          },
+          "support": {
+            "note": "Retrato atual, não previsão do próximo Congresso. Democracia Cristã (nº 27) concorre sem coligação e sem federação, com chapa 100% feminina; o partido não tem deputados federais nem senadores nas fontes consultadas. Não localizamos apoio parlamentar às propostas de dimensão externa.",
+            "sources": [
+              "src-cb-05",
+              "src-cb-19",
+              "src-cb-28"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Cooperação internacional em fronteiras sem instrumento definido no plano",
+              "detail": "O plano prevê compartilhamento de dados e cooperação interestadual e internacional contra narcotráfico e tráfico de armas, sem indicar países, mecanismos jurídicos ou órgão responsável; a análise do OPEB (29/09/2026) registra que o documento não trata de comércio exterior nem de diplomacia.",
+              "sources": [
+                "src-re-204",
+                "src-cb-19"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Os EUA e a China foram citados como fontes de capital para minerais críticos: haveria contrapartidas, prazos ou exigência de processamento local?",
+              "sources": [
+                "src-cb-80",
+                "src-re-207"
+              ]
+            },
+            {
+              "question": "O plano não define parceiros, instrumento ou órgão: como seria a cooperação internacional contra o narcotráfico?",
+              "sources": [
+                "src-re-204",
+                "src-cb-19"
+              ]
+            },
+            {
+              "question": "O programa não trata dos temas: qual a posição sobre EUA, China, União Europeia, Brics, Mercosul e comércio exterior?",
+              "sources": [
+                "src-re-204",
+                "src-re-206"
+              ]
+            }
+          ],
+          "methodology": "Bases: leitura integral do plano registrado no TSE ('Proteger Hoje, Transformar o Amanhã', 15 páginas), guia de propostas da BBC (17/08/2026), OPEB (29/09/2026), entrevistas ao BM&C Talks (09/09/2026) e ao Canal MyNews (02/09/2026), coluna da Jovem Pan (02/08/2026) e Poder360. Limites: não localizamos explicação pública da candidata sobre temas externos; nada foi inferido do programa do DC.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    },
+    "samara-martins": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "Política externa anti-imperialista: romper tratados de submissão a EUA, Otan ou China, cortar relações com Israel e estatizar o comércio exterior.",
+          "requirement": {
+            "path": "lei-ordinaria",
+            "instrument": "lei_ordinaria + ato_do_executivo + negociacao_internacional",
+            "description": "O rompimento de relações diplomáticas com Israel é ato do Presidente (art. 84, VII); a denúncia de tratados segue o art. 49, I da Constituição e as cláusulas do próprio tratado, com notificação às outras partes; estatização do comércio exterior e proibição de remessas de lucros, dividendos e royalties exigem lei; a suspensão de pagamentos da dívida externa depende de negociação com credores e de decisão orçamentária.",
+            "congressStep": "Tratados: exame e aprovação pelo Congresso (art. 49, I). Estatização do comércio exterior e controle de remessas: lei ordinária, por maioria dos votos presentes. O documento não indica projeto de lei nem minuta de denúncia."
+          },
+          "history": {
+            "statedPosition": "Programa da UP ('Política Externa Anti-Imperialista'): ruptura de tratados de submissão, apoio a Venezuela e Cuba e estatização do comércio exterior.",
+            "aligned": [
+              "2022: vice na chapa de Leonardo Péricles (UP), com 53.519 votos (0,05%), em programa de ruptura.",
+              "2026: chapa isolada do UP, registrada após tratativas com outras legendas que não avançaram."
+            ],
+            "divergent": [
+              "10/10/2022: o UP anunciou apoio a Lula no segundo turno (g1).",
+              "O programa de 2026 rejeita o acordo Mercosul-União Europeia, em implementação com apreciação do Legislativo (Senado, 04/05/2026)."
+            ],
+            "noComparablePrecedent": "Não localizamos episódios comparáveis de negociação internacional conduzida pela candidata ou pelo UP nas fontes consultadas; a experiência internacional associada é programática e o partido não tem assento no Legislativo federal.",
+            "positionChange": "Não localizamos mudança de posição registrada entre 2022 e 2026; o programa de 2026 repete a linha anti-imperialista de 2022."
+          },
+          "support": {
+            "note": "Retrato atual, não previsão do próximo Congresso. Unidade Popular (nº 80) concorre sem coligação e sem federação, com Raquel Brício como vice; o partido não tem deputados federais nem senadores nas fontes consultadas. Não localizamos apoio parlamentar às propostas de ruptura.",
+            "sources": [
+              "src-sm-02",
+              "src-sm-03",
+              "src-sm-41"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Rompimento de tratados e de relações x competência do Congresso e cláusulas de denúncia",
+              "detail": "A ruptura de tratados anunciada no programa passa pelo art. 49, I da Constituição e pelas cláusulas de denúncia de cada acordo, com notificação às outras partes; o corte de relações com Israel é ato do Presidente (art. 84, VII). O documento não lista quais tratados seriam denunciados nem o procedimento previsto.",
+              "sources": [
+                "src-sm-41",
+                "src-sm-60",
+                "src-re-205"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Rejeição do acordo Mercosul-União Europeia x acordo em implementação com apreciação legislativa",
+              "detail": "O acordo Mercosul-União Europeia está em implementação e passa por apreciação do Legislativo (Senado, 04/05/2026); o programa da UP rejeita o acordo e não indica como um governo proporia a reversão nem o efeito sobre o bloco.",
+              "sources": [
+                "src-sm-41",
+                "src-re-213",
+                "src-sm-61"
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Estatização do comércio exterior e proibição de remessas sem instrumento declarado",
+              "detail": "O programa propõe estatizar o comércio exterior, proibir remessas de lucros e royalties sem autorização estatal e anular dívidas com capitalistas estrangeiros; o levantamento do R7 (02/09/2026) e a análise do OPEB (27/09/2026) registram que o documento não detalha instrumentos de comércio, investimento ou integração regional, e não localizamos registro de aplicação anterior no Brasil.",
+              "sources": [
+                "src-sm-41",
+                "src-sm-60",
+                "src-sm-61"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "O programa cita 'tratados de submissão' sem listá-los: quais seriam denunciados e por qual procedimento?",
+              "sources": [
+                "src-sm-41",
+                "src-sm-60"
+              ]
+            },
+            {
+              "question": "Sem detalhamento de instrumentos de comércio ou investimento: como se sustentaria a autonomia econômica com o comércio exterior estatizado?",
+              "sources": [
+                "src-sm-60",
+                "src-sm-61"
+              ]
+            },
+            {
+              "question": "O programa cita o conflito no diagnóstico e não propõe medida: qual a posição sobre sanções à Rússia e negociação de paz na Ucrânia?",
+              "sources": [
+                "src-sm-41",
+                "src-mundo-02"
+              ]
+            },
+            {
+              "question": "O documento não detalha: há proposta para o Brics e o Mercosul além da rejeição do acordo com a União Europeia?",
+              "sources": [
+                "src-sm-60",
+                "src-sm-41"
+              ]
+            }
+          ],
+          "publicExplanation": "À Alma Preta (24/08/2026) explicou a linha do programa como de enfrentamento, sem conciliação com banqueiros, grandes empresários e agronegócio, e sustentou que 'falar de soberania e não fazer reforma agrária não faz sentido'; citou o risco de intervenção dos EUA e a designação de facções como terroristas.",
+          "methodology": "Bases: programa da UP 'Pelo Socialismo' (67 páginas, seções 'Solidariedade Internacionalista' e 'Política Externa Anti-Imperialista'), 16 propostas registradas no TSE, OPEB (27/09/2026), R7 (02/09/2026), Alma Preta (24/08/2026), BBC (17/08/2026) e Agência Brasil. Limites: posições de documento programático do partido (bloco parcial); nada foi preenchido por inferência.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    }
+  },
+  "dataGaps": [
+    "Nenhum dos cinco candidatos tem proposta específica sobre a guerra na Ucrânia: o programa da UP cita o conflito no diagnóstico e não propõe medida; nos demais planos e declarações nada foi localizado até 29/09/2026 (DW, 17/09/2026; OPEB, 27 e 29/09/2026).",
+    "Nenhum dos cinco planos traz meta quantificada, cronograma ou fonte de recursos para política externa; a única meta numérica localizada no conjunto é dobrar o comércio com o mundo em oito anos (Augusto Cury), sem linha de base declarada.",
+    "Plano de Leonardo Avalanche (48 páginas, 19 propostas) sem capítulo ou item de política externa: a única formulação de natureza externa é de defesa e vigilância de fronteiras.",
+    "Clariana Barão citou capital dos Estados Unidos e da China para minerais críticos em entrevista (09/09/2026); o plano registrado não trata de comércio exterior nem de minerais críticos.",
+    "Instrumento previsto por Renan Santos para 'abrir o Mercosul' e para a acessão à OCDE: não detalhado na entrevista à Folha (12/09/2026) nem no capítulo do plano analisado pelo OPEB (27/09/2026).",
+    "Programa da UP não detalha instrumentos de comércio, investimento ou integração regional além da estatização do comércio exterior (OPEB, 27/09/2026)."
+  ]
+}

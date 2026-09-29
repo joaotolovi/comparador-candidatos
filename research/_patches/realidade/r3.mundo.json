@@ -1,0 +1,620 @@
+{
+  "grupo": "r3",
+  "escopo": "mundo",
+  "sources": [
+    {
+      "id": "src-re-r3mundo-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — art. 49, I (competência exclusiva do Congresso sobre tratados) e art. 84, VIII (celebrar tratados)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional. Art. 49, I: 'resolver definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos ou compromissos gravosos ao patrimônio nacional'. Art. 84, VIII: celebrar tratados sujeitos a referendo do Congresso. Página aberta por acesso direto em 29/09/2026."
+    },
+    {
+      "id": "src-re-r3mundo-02",
+      "title": "A Constituição Federal e a Aprovação de Tratados (publicação da Comissão Parlamentar Conjunta do Mercosul)",
+      "publisher": "Câmara dos Deputados — CPCMS",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-mistas/cpcms/publicacoeseeventos/livros.html/interna-normas.html/const-fed-aprov.html",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Explica o percurso de aprovação: competência exclusiva do Congresso (art. 49, I) e competência privativa do Executivo para celebrar tratados (art. 84, VIII); a aprovação se dá por decreto legislativo. Página aberta por acesso direto em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-re-r3mundo-03",
+      "title": "Protocolo de Ouro Preto (1994) — art. 37: 'As decisões dos órgãos do Mercosul serão tomadas por consenso e com a presença de todos os Estados Partes'",
+      "publisher": "OEA/SICE — repositório de acordos comerciais (Protocolo Adicional ao Tratado de Assunção)",
+      "url": "http://www.sice.oas.org/trade/mrcsrp/ourop/ourop_p.asp",
+      "publishedAt": "1994-12-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto integral do Protocolo de Ouro Preto, Capítulo III (Sistema de Tomada de Decisões). Página aberta por acesso direto em 29/09/2026 (HTTP 200); citação conferida no artigo 37."
+    },
+    {
+      "id": "src-re-r3mundo-04",
+      "title": "Entrevista de Edmilson para Opera Mundi – 2 (o PCB diante do governo Lula / o programa político do PCB)",
+      "publisher": "Opera Mundi (transcrição no site do PCB)",
+      "url": "https://pcb.org.br/portal2/33794",
+      "publishedAt": "2026-04-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Entrevista de Breno Altman com Edmilson Costa, publicada pelo PCB em 10/04/2026 (parte 2). Página aberta por acesso direto nesta rodada (HTTP 200, 29/09/2026). O candidato afirma: 'quando Lula resiste às sanções do governo Trump e não se submete, isso é um movimento importante do ponto de vista das relações internacionais. Da mesma forma, a participação nos BRICS também é relevante', descrevendo os BRICS como contraponto ao governo norte-americano. Transcrição hospedada no site do partido — usada com marcação partidária."
+    },
+    {
+      "id": "src-re-r3mundo-01",
+      "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+      "publisher": "Folha de S.Paulo (dados: TSE)",
+      "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+    },
+    {
+      "id": "src-re-r3mundo-19",
+      "title": "Brazilian Communist Party candidate for presidency gives interview",
+      "publisher": "International Communist Press (icp.org.tr)",
+      "url": "https://icp.org.tr/news/brazilian-communist-party-candidate-presidency-gives-interview",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista durante visita a Rio Branco (AC), publicada em agosto de 2026 (a página não expõe data exata): o candidato responde sobre a diferença entre PCdoB e PCB e afirma que o PCB 'em geral apoia algumas candidaturas do PSOL', citando como poucos os casos de apoio fora desse espectro."
+    },
+    {
+      "id": "src-re-r3mundo-60",
+      "title": "PEB NAS URNAS: Edmilson Costa (PCB)",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-edmilson-costa/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do programa do PCB (autores Clara Parra Dias, Leonardo Cezar Tesser e Patricia Lima Rego). Descreve a diretriz de ruptura revolucionária, a leitura Norte-Sul, a ausência de detalhamento sobre BRICS, governança climática e mecanismos de interdependência econômica global."
+    },
+    {
+      "id": "src-re-r3mundo-61",
+      "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/16925",
+      "publishedAt": "2017-11-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Registro do próprio partido: o PCB enviou delegação ao XIX Encontro Internacional de Partidos Comunistas e Operários, em Petrogrado (ex-Leningrado) e Moscou, Rússia, no ano do centenário da Revolução de 1917. A delegação era composta por Edmílson Costa (secretário-geral), Edílson Neves (secretário de Organização), Eduardo Serra (secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); a intervenção do PCB no Encontro foi proferida por Eduardo Serra."
+    },
+    {
+      "id": "src-re-r3mundo-62",
+      "title": "Edmilson Costa, Secretário Internacional do PCB, no Congresso do Partido Comunista Colombiano",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/3224",
+      "publishedAt": "2012-07-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Publicação do PCB (categoria Colômbia) informando a presença de Edmilson Costa, então secretário de Relações Internacionais, no congresso do Partido Comunista Colombiano. A intervenção em nome do PCB no congresso colombiano é registrada também em transcrição de divulgação partidária (gracietesantana.blogspot.com, jul/2012)."
+    },
+    {
+      "id": "src-re-r3mundo-70",
+      "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+      "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+    },
+    {
+      "id": "src-re-r3mundo-01",
+      "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+      "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+      "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+    },
+    {
+      "id": "src-re-r3mundo-04",
+      "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+    },
+    {
+      "id": "src-re-r3mundo-60",
+      "title": "PEB NAS URNAS 2026: Hertz Dias (PSTU)",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-hertz-dias-pstu/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano do PSTU (autores Marcelo Balloti Monteiro e Laís Eugênio Lobue dos Santos). Descreve imperialismo e dependência como categorias estruturantes, a soberania digital (vedação de dados governamentais sensíveis em servidores privados internacionais e IA pública nacional), a crítica ao acordo Mercosul–União Europeia e as lacunas do documento (ONU, OMC, G20, BRICS, Mercosul, agenda bilateral sul-americana, defesa e clima)."
+    },
+    {
+      "id": "src-re-r3mundo-71",
+      "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+      "publisher": "International Worker's League / LIT-QI (litci.org)",
+      "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+      "publishedAt": "2026-08-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+    },
+    {
+      "id": "src-re-r3mundo-01",
+      "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+      "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+      "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+      "publishedAt": "2026-08-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+    },
+    {
+      "id": "src-re-r3mundo-101",
+      "title": "PEB nas Urnas 2026: Rui Costa Pimenta (PCO)",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-rui-costa-pimenta-pco/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do programa do PCO (autores Michel Adriano Szurkalo e Scarlett Rodrigues da Cunha). Trata dívidas de empresas, taxação de grandes fortunas, reestatizações, Petrobras 100% estatal, terras raras (Brasil com 23% das reservas globais) e da necessidade de articulação multilateral, citando o comércio bilateral no BRICS como caminho sem detalhamento de instrumentos no plano."
+    },
+    {
+      "id": "src-re-r3mundo-102",
+      "title": "About — Partido da Causa Operária (versão em inglês da página institucional do partido)",
+      "publisher": "Partido da Causa Operária (PCO)",
+      "url": "https://pco.org.br/about",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Página institucional em inglês. Afirma: apoio à Rússia desde o início da operação militar na Ucrânia (2022), com envio de dois correspondentes ao Donbass; apoio ao Hamas desde 07/10/2023, quando Rui Costa Pimenta declarou o partido '1.000% com o Hamas'; em fevereiro de 2024, delegação chefiada por Rui Pimenta foi ao Catar e se reuniu com o bureau político do Hamas, incluindo Ismail Haniyeh, encontro do qual resultou o livro 'O Hamas conta seu lado da história'. Data exata da publicação não informada na página."
+    },
+    {
+      "id": "src-re-r3mundo-104",
+      "title": "PCO monta palanque para chefe do Hamas",
+      "publisher": "O Antagonista",
+      "url": "https://oantagonista.com.br/mundo/pco-monta-palanque-para-chefe-do-hamas/",
+      "publishedAt": "2024-03-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de Murilo Pavini (03/03/2024) sobre a divulgação pelo PCO, em vídeo, de mensagem de Ismail Haniyeh ao público brasileiro, no contexto do encontro da delegação do partido no Catar."
+    },
+    {
+      "id": "src-re-r3mundo-70",
+      "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+      "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+    },
+    {
+      "id": "src-re-r3mundo-77",
+      "title": "PCO se organiza e cresce pelos 4 cantos do mundo",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2022/pco-se-organiza-e-cresce-pelos-4-cantos-do-mundo/",
+      "publishedAt": "2022",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Relata a Primeira Conferência Internacional do PCO em Frankfurt (Alemanha, julho de 2019), antecedida por rodada internacional de palestras e debates de Rui Costa Pimenta. Acesso direto respondeu 403; consultada via Wayback Machine."
+    },
+    {
+      "id": "src-re-r3mundo-79",
+      "title": "Rui Costa Pimenta: o eterno chefe do PCO curte a Europa e o Hamas",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/ideias/a-dolce-vita-de-rui-costa-pimenta-o-eterno-chefe-do-pco-curte-a-europa-e-o-hamas/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Artigo de opinião que registra o encontro de Rui Costa Pimenta com o líder do braço político do Hamas, Ismail Haniyeh, e as viagens internacionais do dirigente."
+    },
+    {
+      "id": "src-re-r3mundo-03",
+      "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+    },
+    {
+      "id": "src-re-r3mundo-10",
+      "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+    },
+    {
+      "id": "src-re-r3mundo-15",
+      "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+      "publisher": "Câmara dos Deputados (dados abertos)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+    },
+    {
+      "id": "src-re-r3mundo-98",
+      "title": "PEB nas Urnas: Wilson Grassi (Democrata)",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-wilson-grassi-democrata/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano 'Brasil em Primeiro Lugar' (autores Paulo Vitor Nascimento dos Santos e Pedro Henrique Thuler de Oliveira). Reproduz os cinco tópicos de política externa do documento e o adendo sobre cooperação fronteiriça: rejeição de acordos que não abram mercados; reciprocidade a barreiras sanitárias ou tarifárias; contrapartida em conteúdo nacional, tecnologia e emprego para investimento estrangeiro em setor estratégico; posição em foro multilateral caso a caso, 'por conveniência nacional declarada, e não por alinhamento automático'; diplomacia comercial e sanitária com presença técnica permanente nos países compradores. Registra também que o plano declara que doutrina e diplomacia serão tratadas com o Itamaraty após a posse."
+    },
+    {
+      "id": "src-re-r3mundo-99",
+      "title": "Eleição 2026: quais são as propostas dos candidatos?",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento por candidato e por tema, com capítulo de política externa. Para Wilson Grassi (Democrata): atuação internacional baseada no interesse brasileiro, inclusive em negociações comerciais, ambientais, sanitárias, tecnológicas e de defesa; cooperação com países vizinhos para combater crimes transfronteiriços; defesa sanitária, rastreabilidade da produção agropecuária e padrões de bem-estar animal compatíveis com exigências internacionais, com diplomacia sanitária para abrir e reabrir mercados. Data exata da publicação não capturada."
+    }
+  ],
+  "candidates": {
+    "edmilson-costa": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "PCB (TSE, 2026): política externa anti-imperialista, nova ordem internacional e solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "Tratados e atos internacionais com encargos: celebrados pelo Executivo (art. 84, VIII) e resolvidos definitivamente pelo Congresso, por decreto legislativo, antes da ratificação (art. 49, I). Monopólio estatal de telecomunicações e internet e reestruturação dos comandos militares dependem de lei ou de ato do Executivo. Encontros partidários internacionalistas não passam pelo Estado.",
+            "sources": [
+              "src-re-r3mundo-01",
+              "src-re-r3mundo-02"
+            ]
+          },
+          "history": {
+            "aligned": [
+              "jul/2012 — secretário de Relações Internacionais do PCB no congresso do Partido Comunista Colombiano; interveio em nome do partido (representou).",
+              "nov/2017 — integrou a delegação do PCB ao XIX Encontro Internacional de Partidos Comunistas e Operários, na Rússia (participou).",
+              "abr/2026 — entrevista a Opera Mundi (parte 2): defende a integração regional e a articulação internacional, no mesmo sentido do programa.",
+              "ago/2026 — entrevista publicada pelo International Communist Press (icp.org.tr), veículo de imprensa comunista internacional.",
+              "Programa registrado em 01/08/2026 declara solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental."
+            ],
+            "divergent": [
+              "Em 10/04/2026 avaliou como relevantes a resistência de Lula às sanções de Trump e a participação nos BRICS, tema não detalhado no programa (OPEB).",
+              "Entrevista de ago/2026 registra apoio do PCB a candidaturas do PSOL; em 2012 o partido integrou frente eleitoral com o PSOL em São Paulo."
+            ],
+            "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada: os registros de atuação internacional são de representação partidária (Colômbia, 2012) e de integração de delegação (Rússia, 2017), sem negociação entre Estados, acordo assinado ou cargo em organismo internacional. O encontro em Caracas (2023) consta apenas em sítio crítico ao PCB."
+          },
+          "support": {
+            "partySeats": "0/513 deputados federais e 0 senadores (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "0 — chapa pura, sem coligação",
+            "federations": "Nenhuma",
+            "documentedAgreements": 0,
+            "note": "Nenhuma negociação entre Estados localizada; os atos datados são de representação partidária. A estrutura internacional registrada é do PCB — encontros de partidos comunistas e publicações próprias. Retrato atual, não previsão do próximo Congresso.",
+            "sources": [
+              "src-re-r3mundo-01",
+              "src-re-r3mundo-61",
+              "src-re-r3mundo-19"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Programa de ruptura internacional e avaliação positiva da diplomacia em curso (BRICS e sanções dos EUA)",
+              "detail": "O programa de 01/08/2026 propõe substituir o 'universalismo pragmático' da diplomacia brasileira por leitura de enfrentamento; em entrevista a Opera Mundi (10/04/2026) o candidato avaliou como relevantes a resistência de Lula às sanções de Trump e a participação nos BRICS, descritos como contraponto ao governo norte-americano.",
+              "sources": [
+                "src-re-r3mundo-70",
+                "src-re-r3mundo-04",
+                "src-re-r3mundo-60"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Ato internacional registrado na trajetória é de representação partidária, e não de negociação entre Estados",
+              "detail": "Os registros localizados são o congresso do Partido Comunista Colombiano (jul/2012), em que representou o PCB, e o XIX Encontro Internacional de Partidos Comunistas e Operários (nov/2017), em que integrou a delegação. Não localizamos negociação entre Estados, acordo internacional ou cargo em organismo internacional, enquanto o programa propõe nova ordem internacional e reforço da integração.",
+              "sources": [
+                "src-re-r3mundo-62",
+                "src-re-r3mundo-61",
+                "src-re-r3mundo-60"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "O programa prevê instrumentos de comércio, finanças internacionais e governança global?",
+              "why": "A análise do OPEB (27/09/2026) registra ausência de detalhamento sobre BRICS, governança climática e mecanismos de interdependência econômica global: o documento apresenta a diretriz, sem instrumentos."
+            },
+            {
+              "question": "A participação em encontro internacional em Caracas (2023) ocorreu e em que condições?",
+              "why": "A informação consta apenas em sítio crítico ao PCB, sem registro do partido ou fonte primária localizada; por isso ficou fora das evidências em linha."
+            },
+            {
+              "question": "O PDF do programa no TSE respondeu HTTP 403; o texto lido no Wayback (28/09/2026) é idêntico ao registrado?",
+              "why": "O WAF do TSE bloqueia acesso automatizado; a leitura foi feita no snapshot de 28/09/2026, descrito na nota da fonte como idêntico à versão publicada pelo partido em 15/08/2026."
+            },
+            {
+              "question": "Há entrevista a veículo estrangeiro de grande circulação em 2025–2026?",
+              "why": "Não localizamos. A circulação fora do país identificada é de veículo de imprensa comunista internacional (icp.org.tr), de transcrições partidárias de entrevistas a Sputnik Brasil e Opera Mundi e de síntese em inglês do OPEB."
+            }
+          ],
+          "publicExplanation": "Explicação localizada nas próprias entrevistas: ao International Communist Press (ago/2026), o candidato afirma que o PCB 'em geral apoia algumas candidaturas do PSOL', dizendo serem poucos os apoios fora desse espectro; em 10/04/2026 explica os pontos que considera positivos no governo Lula, entre eles a resistência às sanções e os BRICS.",
+          "methodology": "Apurado a partir do programa do PCB no TSE (PDF lido via Wayback, 28/09/2026), da análise do OPEB (27/09/2026) e de registros do próprio partido (2012, 2017); nesta rodada abrimos por acesso direto a entrevista a Opera Mundi (parte 2, 10/04/2026). Ficaram fora: negociação entre Estados e cargo internacional, não localizados; encontro de Caracas (2023), sem fonte primária; PDF do TSE, com 403.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    },
+    "hertz-dias": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "PSTU (TSE, 2026): soberania econômica e digital, rejeição da dependência dos EUA, da China e da Europa e crítica ao acordo Mercosul–União Europeia.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "Tratados e atos internacionais com encargos: celebrados pelo Executivo (art. 84, VIII) e resolvidos definitivamente pelo Congresso, por decreto legislativo, antes da ratificação (art. 49, I). No Mercosul, as decisões principais são tomadas por consenso entre os Estados Partes (Protocolo de Ouro Preto, art. 37). Rejeitar o acordo Mercosul–União Europeia é ato do Executivo; suspender o pagamento da dívida altera contratos e depende de lei.",
+            "sources": [
+              "src-re-r3mundo-01",
+              "src-re-r3mundo-03",
+              "src-re-r3mundo-60"
+            ]
+          },
+          "history": {
+            "aligned": [
+              "08/03/2017 — entrevista à Em Luta, publicação da corrente internacional; declara-se militante do PSTU, 'seção brasileira da LIT-QI'.",
+              "ago/2026 — a LIT-QI, organização internacional do partido, publica em inglês a convenção que confirmou a candidatura (vínculo partidário)."
+            ],
+            "divergent": [
+              "A projeção internacional registrada é do partido (LIT-QI, 22/08/2026); não localizamos ato internacional do candidato em 2025–2026."
+            ],
+            "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada: não há registro de viagem ao exterior, delegação, fórum internacional ou negociação atribuída ao candidato nas fontes consultadas — perfis de imprensa, publicação da organização internacional do partido e plano registrado no TSE. O vínculo com a LIT-QI é do partido."
+          },
+          "support": {
+            "partySeats": "0/513 deputados federais e 0 senadores (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "0 — chapa pura, sem coligação ou federação localizada",
+            "federations": "Nenhuma",
+            "documentedAgreements": 0,
+            "note": "Nenhuma negociação entre Estados localizada. O vínculo internacional registrado é partidário (LIT-QI). Retrato atual, não previsão do próximo Congresso.",
+            "sources": [
+              "src-re-r3mundo-01",
+              "src-re-r3mundo-71",
+              "src-re-r3mundo-60"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Rejeição do acordo Mercosul–União Europeia e reestatizações dependem de decisão coletiva e de contratos vigentes",
+              "detail": "O plano propõe rejeitar o acordo Mercosul–União Europeia, expropriar e reestatizar mineração, petróleo, energia, siderurgia, celulose e agronegócio e suspender o pagamento da dívida pública. No Mercosul as decisões são tomadas por consenso entre os Estados Partes; o OPEB registra que reestatizações e cancelamentos podem gerar indenizações e acionar mecanismos de proteção a investimentos.",
+              "sources": [
+                "src-re-r3mundo-60",
+                "src-re-r3mundo-04",
+                "src-re-r3mundo-03"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "O plano prevê instrumento para ONU, OMC, G20, BRICS e Mercosul?",
+              "why": "A análise do OPEB (27/09/2026) registra que o documento não formula estratégia para esses foros: critica o acordo Mercosul–União Europeia sem apresentar alternativa de integração, agenda bilateral sul-americana, doutrina de defesa ou estratégia climática."
+            },
+            {
+              "question": "Soberania digital e IA pública nacional: qual o instrumento legal e a fonte de recursos previstos?",
+              "why": "O plano prevê vedação à hospedagem de dados governamentais sensíveis em servidores privados internacionais e criação de inteligência artificial pública nacional, sem detalhar instrumento jurídico, custo ou fonte de recursos."
+            },
+            {
+              "question": "O índice de propostas do TSE foi lido por proxy (bloqueio Akamai); o PDF registrado pôde ser aberto?",
+              "why": "A captura direta da página oficial respondeu Access Denied da Akamai e a leitura foi feita via proxy em 29/09/2026; o PDF registrado no TSE não foi localizado aberto nesta rodada."
+            },
+            {
+              "question": "Há ato internacional do candidato além do vínculo do PSTU com a LIT-QI?",
+              "why": "Não localizamos em 2025–2026: a divulgação internacional da candidatura e da convenção (22/08/2026) foi feita pela organização internacional do partido, e as atividades internacionais do PSTU citadas no período não foram atribuídas ao candidato."
+            }
+          ],
+          "methodology": "Apurado a partir do plano no TSE (índice lido por proxy) e da análise do OPEB (27/09/2026), que registra temas ausentes no documento como ausência de formulação. A atuação internacional foi buscada em perfis de imprensa, na publicação da LIT-QI e em entrevista de 2017 à imprensa da corrente internacional. Ficaram fora: atos do candidato, não localizados; PDF do TSE, bloqueado.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    },
+    "rui-costa-pimenta": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "PCO (TSE, 2026): fortalecimento do BRICS, oposição à OTAN, apoio ao Irã e fim do bloqueio a Cuba; cancelamento das dívidas externa e interna.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "Tratados e atos internacionais com encargos: celebrados pelo Executivo (art. 84, VIII) e resolvidos definitivamente pelo Congresso, por decreto legislativo, antes da ratificação (art. 49, I). Ampliar o BRICS depende de negociação com outros Estados; o OPEB registra que reestatizações e cancelamentos podem gerar indenizações e proteção a investimentos. Encontro partidário com movimento não estatal não é ato de Estado.",
+            "sources": [
+              "src-re-r3mundo-01",
+              "src-re-r3mundo-101",
+              "src-re-r3mundo-102"
+            ]
+          },
+          "history": {
+            "aligned": [
+              "fev/2024 — chefiou a delegação do PCO que ficou mais de dez dias no Catar e se reuniu com a liderança do Hamas, incluindo Ismail Haniyeh.",
+              "jul/2019 — rodada internacional de palestras e debates antecedeu a Primeira Conferência Internacional do PCO, em Frankfurt (Alemanha).",
+              "mai–jul/2018 — 'maratona' de palestras e debates em 10 países sobre a política brasileira, iniciada pela Irlanda (RFI Brasil, 31/05/2018).",
+              "2024 — viagem da direção do PCO à China, descrita pelo partido como 'o Brasil que poderia ser e não é' (Diário Causa Operária).",
+              "2026 — curso do partido sobre a Revolução Iraniana de 1979, na Universidade Marxista do PCO."
+            ],
+            "divergent": [
+              "O ato internacional documentado é de interlocução partidária com movimento não estatal (Catar, 2024); o programa projeta a via multilateral (BRICS).",
+              "As fontes divergem sobre a data do encontro no Catar: fev/2024 no relato do partido e na Gazeta do Povo; mar/2024 no verbete da Wikipédia."
+            ],
+            "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada quanto a negociação entre Estados: os atos datados são de direção partidária — delegação ao Catar (2024), rodada internacional com conferência em Frankfurt (2019), rodada em 10 países (2018) e curso sobre a Revolução Iraniana (2026). Não localizamos acordo internacional assinado nem cargo em organismo internacional."
+          },
+          "support": {
+            "partySeats": "0/513 deputados federais e 0 senadores (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "0 — chapa pura, sem coligação",
+            "federations": "Nenhuma",
+            "documentedAgreements": 0,
+            "note": "Nenhuma negociação entre Estados localizada; os atos datados são de direção partidária. Estrutura internacional registrada no partido: conferência internacional em Frankfurt (2019). Retrato atual, não previsão do próximo Congresso.",
+            "sources": [
+              "src-re-r3mundo-01",
+              "src-re-r3mundo-77",
+              "src-re-r3mundo-102"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Ato internacional documentado é interlocução com movimento não estatal, e o programa projeta a via multilateral estatal",
+              "detail": "A delegação chefiada pelo candidato ao Catar (fev/2024) reuniu-se com a liderança do Hamas e resultou no livro 'O Hamas conta seu lado da história'; três fontes independentes registram o encontro, e o vídeo de Ismail Haniyeh ao público brasileiro foi divulgado em mar/2024. O programa registrado no TSE propõe ampliação do BRICS e comércio multilateral: naturezas distintas de atuação.",
+              "sources": [
+                "src-re-r3mundo-102",
+                "src-re-r3mundo-104",
+                "src-re-r3mundo-79",
+                "src-re-r3mundo-70"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Cancelamento de dívidas e reestatizações dependem de lei, de credores e de mecanismos de proteção a investimentos",
+              "detail": "O programa propõe cancelar as dívidas externa e interna, criar banco estatal único e nacionalizar o petróleo. O OPEB registra que reestatizações e nacionalizações podem gerar indenizações, quebra de contratos e acionamento de mecanismos internacionais de proteção a investimentos, e que a sustentação externa das medidas depende de articulação multilateral.",
+              "sources": [
+                "src-re-r3mundo-101",
+                "src-re-r3mundo-70"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual é a lista completa da delegação que foi ao Catar em 2024 e a agenda integral da viagem?",
+              "why": "A página do Diário Causa Operária sobre o retorno da viagem respondeu HTTP 403 a acesso automatizado; os trechos usados vieram de indexação de busca e a composição da delegação não foi localizada."
+            },
+            {
+              "question": "As fontes divergem sobre a data do encontro com Ismail Haniyeh (fevereiro ou março de 2024). Qual é a data correta?",
+              "why": "A página institucional em inglês e o Diário Causa Operária registram fevereiro de 2024; o verbete da Wikipédia registra março de 2024; a Gazeta do Povo publicou o relato em 10/03/2024, sem fixar o dia do encontro."
+            },
+            {
+              "question": "O programa detalha instrumentos para reestatizações, dívidas canceladas e ampliação do BRICS?",
+              "why": "A análise do OPEB (27/09/2026) registra que o plano cita o comércio bilateral no BRICS como caminho sem detalhar instrumentos e que reestatizações podem gerar indenizações e quebra de contratos."
+            },
+            {
+              "question": "Páginas do Diário Causa Operária e do Poder360 responderam HTTP 403; os trechos são verificáveis em fonte aberta?",
+              "why": "As duas páginas bloquearam acesso automatizado; os trechos usados (retorno da viagem ao Catar e a declaração de 2023) foram obtidos por indexação de busca, como registrado nas notas das fontes."
+            },
+            {
+              "question": "Há entrevista a veículo estrangeiro de grande circulação em 2025–2026?",
+              "why": "Não localizamos. A última identificada é de 2018, à RFI Brasil (emissora pública francesa), além da divulgação da agenda internacional do dirigente em veículos nacionais."
+            }
+          ],
+          "publicExplanation": "Explicação do próprio partido: a página institucional em inglês afirma apoio ao Hamas desde 07/10/2023 e descreve o encontro no Catar como reunião com o bureau político do Hamas, da qual resultou o livro 'O Hamas conta seu lado da história'; em 2024 o dirigente descreveu o Hamas como organização política cuja atuação no Catar corresponderia a um 'governo palestino em exílio'.",
+          "methodology": "Apurado a partir do programa no TSE (índice de propostas e OPEB, 27/09/2026), da página do PCO em inglês e de três fontes sobre a viagem ao Catar (partido, O Antagonista, Gazeta do Povo); as rodadas de 2019 e 2018 constam em publicações do partido. Ficaram fora: lista completa da delegação; páginas com 403 (Diário Causa Operária, Poder360), lidas por indexação; data do encontro, divergente.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    },
+    "wilson-grassi": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "Plano 'Brasil em Primeiro Lugar' (TSE, 2026): política externa comercial, com reciprocidade a barreiras e contrapartidas a investimento estrangeiro.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "Tratados e atos internacionais com encargos: celebrados pelo Executivo (art. 84, VIII) e resolvidos definitivamente pelo Congresso, por decreto legislativo, antes da ratificação (art. 49, I). No Mercosul, as decisões principais são tomadas por consenso entre os Estados Partes (Protocolo de Ouro Preto, art. 37). A reciprocidade a barreiras sanitárias e tarifárias é aplicada por atos do Executivo, dentro dos acordos vigentes.",
+            "sources": [
+              "src-re-r3mundo-01",
+              "src-re-r3mundo-03",
+              "src-re-r3mundo-98"
+            ]
+          },
+          "history": {
+            "aligned": [
+              "Plano e reportagem da BBC News Brasil trazem a diretriz: atuação internacional por interesse brasileiro, defesa sanitária e cooperação fronteiriça."
+            ],
+            "divergent": [
+              "O plano declara que doutrina e diplomacia serão tratadas com o Itamaraty depois da posse e traz cinco tópicos sem blocos econômicos."
+            ],
+            "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada: não há registro de viagem, delegação, fórum multilateral ou negociação internacional atribuída ao candidato; a trajetória documentada é privada e associativa — médico-veterinário, rede de clínicas, conselheiro da Anclivepa-SP e participação nas discussões sobre hospital veterinário público (2012)."
+          },
+          "support": {
+            "partySeats": "0/513 deputados federais e 0 senadores (APIs oficiais, 29/09/2026)",
+            "coalitionSeats": "0 — chapa pura, partido isolado",
+            "federations": "Nenhuma",
+            "documentedAgreements": 0,
+            "note": "Nenhuma negociação entre Estados e nenhuma estrutura partidária internacional identificadas; o partido não tem cadeiras no Congresso e, segundo a Wikipédia, não tem horário eleitoral. Retrato atual, não previsão do próximo Congresso.",
+            "sources": [
+              "src-re-r3mundo-15",
+              "src-re-r3mundo-10",
+              "src-re-r3mundo-98"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Reciprocidade comercial e rejeição de acordos passam pela decisão coletiva do Mercosul e pelo Congresso",
+              "detail": "O plano trata a política externa como agenda comercial e propõe responder a barreiras com os instrumentos do direito internacional. No Mercosul, as decisões são por consenso entre os Estados Partes, e acordos negociados pela União dependem do Congresso antes da ratificação. O OPEB registra que o plano não menciona BRICS, Mercosul, China, Estados Unidos, clima nem governança global.",
+              "sources": [
+                "src-re-r3mundo-98",
+                "src-re-r3mundo-99",
+                "src-re-r3mundo-03",
+                "src-re-r3mundo-01"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-sem-precedente",
+              "title": "Agenda internacional do plano sem atos internacionais correspondentes na trajetória do candidato",
+              "detail": "A trajetória documentada é privada e associativa — médico-veterinário, rede de clínicas, conselheiro da Anclivepa-SP e participação nas discussões sobre hospital veterinário público (2012). Não localizamos viagem, delegação, fórum multilateral ou negociação internacional, enquanto o plano projeta presença técnica permanente em países compradores e cooperação fronteiriça.",
+              "sources": [
+                "src-re-r3mundo-98",
+                "src-re-r3mundo-03"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "O plano não menciona BRICS, Mercosul, China, Estados Unidos, clima nem governança global: qual será a posição nesses temas?",
+              "why": "A análise do OPEB (27/09/2026) registra a ausência desses temas na área internacional do documento, que tem cinco tópicos e um adendo sobre cooperação fronteiriça."
+            },
+            {
+              "question": "A reciprocidade a barreiras será aplicada de forma individual ou no âmbito do Mercosul, onde as decisões são por consenso?",
+              "why": "No Mercosul, as decisões de seus órgãos são tomadas por consenso entre os Estados Partes (Protocolo de Ouro Preto, art. 37); o plano propõe reciprocidade pelos instrumentos do direito internacional sem indicar o foro de aplicação."
+            },
+            {
+              "question": "O plano declara que doutrina e diplomacia serão tratadas com o Itamaraty depois da posse. O que será definido antes?",
+              "why": "O documento registra a definição posterior 'conforme o cenário internacional do momento' e não apresenta posição sobre blocos econômicos, clima ou governança global."
+            },
+            {
+              "question": "Há atos internacionais do candidato em 2025–2026 que não tenham sido divulgados?",
+              "why": "Não localizamos registro de viagem, delegação, fórum internacional ou negociação; a projeção registrada é doméstica — Jornal Nacional (03/09/2026), sabatinas e agenda em Brasília e São Paulo."
+            },
+            {
+              "question": "Há entrevista a veículo estrangeiro de grande circulação em 2025–2026?",
+              "why": "Não localizamos: a circulação internacional identificada é de verbetes enciclopédicos em português e de agregadores de conteúdo."
+            }
+          ],
+          "methodology": "Apurado sobre o plano 'Brasil em Primeiro Lugar' (PDF do TSE com 403; tópicos lidos na reprodução do OPEB, 27/09/2026) e o levantamento da BBC News Brasil. Sustentação: partido isolado, sem cadeiras. Não localizamos estrutura partidária internacional, atos internacionais do candidato nem entrevista a veículo estrangeiro de grande circulação em 2025–2026.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    }
+  },
+  "dataGaps": [
+    "Bloco 'Brasil no mundo' (r3 — Edmilson Costa, Hertz Dias, Rui Costa Pimenta, Wilson Grassi): a realidade foi apurada sobre o bloco de política externa já registrado no perfil de cada candidato; nos quatro casos a base é documento programático registrado no TSE, declarado no methodology e marcado como 'parcial'.",
+    "PDFs do TSE (PCB, PCO, Democrata) e páginas do Diário Causa Operária e do Poder360 responderam HTTP 403 a acesso automatizado; os trechos usados vieram de Wayback Machine, de reprodução de imprensa e de indexação de busca, identificados nas notas das fontes. O índice do PSTU no TSE exige proxy (bloqueio Akamai).",
+    "Nenhum dos quatro candidatos tem entrevista localizada a veículo estrangeiro de grande circulação em 2025–2026: a circulação fora do país identificada é de veículos partidários, traduções e verbetes enciclopédicos.",
+    "Nenhum dos quatro tem registro localizado de negociação internacional conduzida em nome do Estado, de acordo assinado ou de cargo em organismo internacional: os atos datados são de direção partidária (Edmilson Costa e Rui Costa Pimenta) e de vínculo organizativo (Hertz Dias, LIT-QI); em Wilson Grassi não localizamos atos internacionais.",
+    "Pendências específicas: encontro internacional de Edmilson Costa em Caracas (2023) citado apenas por sítio crítico ao PCB, sem fonte primária; lista completa da delegação do PCO ao Catar (2024) e data exata do encontro (fevereiro ou março de 2024) divergentes entre as fontes.",
+    "As fontes institucionais do requirement (Constituição, art. 49, I e art. 84, VIII; Protocolo de Ouro Preto, art. 37) foram acrescentadas neste patch como base geral de competências, não como fonte sobre os candidatos."
+  ]
+}

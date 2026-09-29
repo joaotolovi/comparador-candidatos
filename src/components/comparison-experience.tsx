@@ -4,8 +4,12 @@
 // — deep-linkável. Sticky header colapsa ao rolar. Dois modos de diferença:
 // "destacar" (diminui iguais) e "somente" (oculta linhas equivalentes).
 //
-// V3 — a ordem da tela segue a mudança conceitual: capacidades demonstradas
-// primeiro, currículo e opinião depois, como áreas separadas.
+// V4 — analítico. A ordem da tela segue as 12 seções do blueprint:
+// 01 resumo · 02 projeto de país · 03 prioridades e propostas · 04 viabilidade e
+// instrumentos · 05 experiência demonstrada · 06 Brasil no mundo · 07 posições por
+// grandes temas · 08 histórico × proposta · 09 situação institucional e jurídica ·
+// 10 opinião pública · 11 trajetória · 12 fontes. Cada assunto carrega o seu
+// teste de realidade — não existe "seção da nossa análise".
 
 import { useEffect, useMemo, useState } from "react";
 import type { Candidate, SectionSlug } from "@/types";
@@ -18,6 +22,8 @@ import { Switch } from "@/components/ui/switch";
 import { SectionShell } from "@/components/section-shell";
 import { CountryProjectSection } from "@/components/country-project-section";
 import { CapacitiesSection } from "@/components/capacities-section";
+import { ViabilitySection } from "@/components/viability-section";
+import { ThemeSection } from "@/components/theme-section";
 import { ForeignPolicySection } from "@/components/foreign-policy-section";
 import { CoherenceSection } from "@/components/coherence-section";
 import { IntegritySection } from "@/components/integrity-section";
@@ -50,7 +56,7 @@ export function ComparisonExperience({
     [rows, candidates],
   );
 
-  /** Linhas de dados agrupadas pela seção V3 a que pertencem. */
+  /** Linhas de dados agrupadas pela seção a que pertencem. */
   const rowsBySection = useMemo(() => {
     const map = new Map<SectionSlug, MetricRow[]>();
     for (const r of rows) {
@@ -63,9 +69,9 @@ export function ComparisonExperience({
 
   const candLite = candidates.map((c) => ({ name: c.name, slug: c.slug }));
 
-  // Numeração: só as seções principais recebem "Seção N"; currículo, opinião e
-  // integridade aparecem como áreas separadas.
-  let mainCount = 0;
+  // Numeração: o resumo é a seção 01, então as seções do corpo começam em 02.
+  // Currículo, opinião e integridade aparecem como áreas separadas.
+  let mainCount = 1;
   const sectionLabels = SECTIONS.map((s) => {
     if (!s.secondary) mainCount += 1;
     return s.secondary ? "Área separada" : `Seção ${mainCount}`;
@@ -90,6 +96,41 @@ export function ComparisonExperience({
             subtitle="O que o plano informa por proposta"
           />
         );
+      case "viabilidade":
+        return (
+          <div className="flex flex-col gap-8">
+            <ViabilitySection candidates={candidates} />
+            {secRows.length > 0 ? (
+              <div className="flex flex-col gap-3 border-t border-border pt-6">
+                <div className="flex flex-col gap-0.5">
+                  <h3 className="text-base font-semibold leading-snug">
+                    O que o documento informa por proposta
+                  </h3>
+                  <p className="max-w-2xl text-xs leading-relaxed text-muted-foreground">
+                    Custo, prazo e dependência do Congresso contam o que o plano
+                    declara — não são nota de viabilidade. O caminho institucional
+                    de cada proposta aparece no painel acima.
+                  </p>
+                </div>
+                <div className="flex flex-col divide-y divide-border/70 border-t border-border">
+                  {secRows.map((r) => (
+                    <ComparisonRow
+                      key={r.metricId}
+                      label={r.name}
+                      methodology={r.methodology}
+                      values={r.values}
+                      candidates={candLite}
+                      deltaDisplay={r.delta?.display}
+                      equal={r.equal}
+                      highlightDifferences={highlight}
+                      onlyDifferences={only}
+                    />
+                  ))}
+                </div>
+              </div>
+            ) : null}
+          </div>
+        );
       case "capacidades":
         return (
           <div className="flex flex-col gap-8">
@@ -98,12 +139,13 @@ export function ComparisonExperience({
               <div className="flex flex-col gap-3 border-t border-border pt-6">
                 <div className="flex flex-col gap-0.5">
                   <h3 className="text-base font-semibold leading-snug">
-                    Indicadores objetivos
+                    Governabilidade institucional
                   </h3>
                   <p className="max-w-2xl text-xs leading-relaxed text-muted-foreground">
-                    Dados verificáveis que sustentam as capacidades acima —
-                    coligação registrada, produção legislativa e base no
-                    Legislativo. São contexto comparável, não nota de capacidade.
+                    Dados verificáveis que sustentam a leitura acima — coligação
+                    registrada, votos válidos e base no Legislativo. São contexto
+                    comparável, não nota de capacidade. A base formal mede o
+                    retrato de hoje, não o resultado de uma eleição futura.
                   </p>
                 </div>
                 <div className="flex flex-col divide-y divide-border/70 border-t border-border">
@@ -127,6 +169,8 @@ export function ComparisonExperience({
         );
       case "mundo":
         return <ForeignPolicySection candidates={candidates} />;
+      case "temas":
+        return <ThemeSection candidates={candidates} />;
       case "coerencia":
         return <CoherenceSection candidates={candidates} />;
       case "opiniao":
@@ -201,12 +245,8 @@ export function ComparisonExperience({
         />
       </section>
 
-      {/* Resumo curto: o que salta aos olhos, em linhas */}
-      <ComparisonSummary
-        candidates={candidates}
-        rows={rows}
-        differences={diffs}
-      />
+      {/* Seção 01 — resumo curto: o que salta aos olhos, em linhas */}
+      <ComparisonSummary candidates={candidates} differences={diffs} />
 
       {/* Controles de diferença */}
       <section
@@ -234,7 +274,7 @@ export function ComparisonExperience({
         </div>
       </section>
 
-      {/* Seções da V3, na ordem conceitual */}
+      {/* Seções 02 a 11, na ordem do blueprint */}
       <div className="flex flex-col gap-12">
         {SECTIONS.map((s, i) => {
           const secRows = rowsBySection.get(s.slug) ?? [];

@@ -334,7 +334,116 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Nacionalizar o sistema bancário, colocar o Banco Central sob controle estatal e suspender juros e amortizações da dívida até auditoria",
+          "requirement": {
+            "kind": "pec",
+            "label": "Emenda constitucional e lei complementar (sistema financeiro e dívida pública)",
+            "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei complementar: 257 na Câmara e 41 no Senado (maioria absoluta).",
+            "note": "O sistema financeiro é disciplinado por lei complementar (CF, art. 192) e a autonomia do Banco Central foi fixada pela LC 179/2021; a suspensão de juros e amortizações depende de decisão do Congresso sobre o orçamento e de negociação com credores.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca ocupou mandato nem cargo de nomeação; marcos vêm da direção nacional do UP, da militância e do trabalho no SUS.",
+            "aligned": "Como vice-presidente nacional do UP participou do programa aprovado nos congressos de 2019 e 2021, com controle estatal de setores estratégicos.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 0,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação; vice Raquel Brício (UP).",
+            "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Nacionalização bancária e auditoria da dívida dependem de PEC, de lei complementar e de decisão sobre o orçamento",
+              "detail": "O sistema financeiro é disciplinado por lei complementar (CF, art. 192) e a autonomia do Banco Central foi fixada pela LC 179/2021; uma PEC exige 308 votos na Câmara e 49 no Senado, em dois turnos, e o partido não tem cadeiras nas duas Casas. As fontes consultadas não informam custo, forma de indenização nem cronograma da nacionalização e da auditoria.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-sm-10",
+                  "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                  "publisher": "Metrópoles",
+                  "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                  "publishedAt": "2026-08-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+                },
+                {
+                  "id": "src-sm-06",
+                  "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+                  "publisher": "Band",
+                  "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Suspensão de juros e amortizações da dívida pública até a auditoria",
+              "detail": "A proposta prevê suspender imediatamente o pagamento de juros e amortizações da dívida pública até a conclusão de auditoria, com redirecionamento dos recursos a políticas sociais; o serviço da dívida está previsto na lei orçamentária anual e a reprogramação depende do Congresso. As fontes consultadas não trazem parecer técnico nem estimativa do valor suspenso.",
+              "sources": [
+                {
+                  "id": "src-sm-10",
+                  "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                  "publisher": "Metrópoles",
+                  "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                  "publishedAt": "2026-08-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+                },
+                {
+                  "id": "src-sm-06",
+                  "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+                  "publisher": "Band",
+                  "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o desenho da nacionalização (compra, indenização, estatização) e o custo estimado?"
+            },
+            {
+              "question": "Quem conduziria a auditoria da dívida e qual o critério de revisão dos contratos?"
+            },
+            {
+              "question": "Como ficariam a poupança dos correntistas e os contratos com credores durante a suspensão?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública com o desenho da nacionalização nem com o tratamento a ser dado a contratos, poupança e credores.",
+          "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Fim da jornada de 6×1 e redução para 30 horas semanais; emprego garantido",
@@ -374,7 +483,126 @@
             "sourceType": "imprensa",
             "notes": "Cita fim da escala 6×1 e valorização do salário mínimo como propostas da candidatura presidencial."
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Acabar com a escala 6x1, reduzir a jornada para 30 horas semanais e pagar um salário mínimo a quem não tiver vaga",
+          "requirement": {
+            "kind": "pec",
+            "label": "Emenda constitucional (jornada) e lei (emprego garantido e auxílio), com lei orçamentária",
+            "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "A jornada de oito horas diárias e 44 semanais, com redução por acordo ou convenção coletiva, está no art. 7º, XIII, da Constituição; alterar o limite para 30 horas depende de PEC, e o auxílio a quem não tiver vaga exige lei e dotação.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita (2020 e 2022) nem ocupou cargo de nomeação; o histórico vem da direção do UP e da militância sindical.",
+            "aligned": "Defesa pública do fim da escala 6x1 e do reajuste de 100% do mínimo em 29/08/2026, mantida nas versões do programa com jornada de 30 horas.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 0,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Fim da escala 6x1 e jornada de 30 horas exigem PEC",
+              "detail": "O art. 7º, XIII, da Constituição fixa jornada de oito horas diárias e 44 semanais, com redução por acordo ou convenção coletiva; alterar o limite para 30 horas depende de PEC (308 votos na Câmara e 49 no Senado, em dois turnos) e o UP não tem cadeiras nas duas Casas. As fontes consultadas não indicam regra de transição para quem já trabalha nessa escala.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-sm-14",
+                  "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+                  "publisher": "Today in Brazil",
+                  "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+                },
+                {
+                  "id": "src-sm-10",
+                  "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                  "publisher": "Metrópoles",
+                  "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                  "publishedAt": "2026-08-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "Auxílio de um salário mínimo por pessoa sem vaga sem custo estimado, no mesmo programa que suspende o serviço da dívida",
+              "detail": "O programa garante emprego a toda pessoa apta e pagamento de auxílio equivalente a um salário mínimo até que haja vaga, sem estimativa de custo nas fontes consultadas, e prevê suspender juros e amortizações da dívida pública até auditoria, com os recursos redirecionados a políticas sociais. As fontes não trazem o número de pessoas sem vaga nem o impacto fiscal das medidas.",
+              "sources": [
+                {
+                  "id": "src-sm-14",
+                  "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+                  "publisher": "Today in Brazil",
+                  "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+                },
+                {
+                  "id": "src-sm-15",
+                  "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+                  "publisher": "Paraíba Online",
+                  "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+                  "publishedAt": "2026-07-25",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Candidatura própria sem coligações; propostas de valorização do salário mínimo e fim da 6×1."
+                },
+                {
+                  "id": "src-sm-10",
+                  "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                  "publisher": "Metrópoles",
+                  "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                  "publishedAt": "2026-08-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo anual do auxílio de um salário mínimo por pessoa sem vaga?"
+            },
+            {
+              "question": "Como seria feita a transição dos contratos atuais na escala 6x1?"
+            },
+            {
+              "question": "Qual o impacto fiscal projetado do reajuste de 100% do salário mínimo?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública de custeio: nas fontes consultadas não há estimativa para o auxílio de um salário mínimo por pessoa sem vaga nem para o efeito fiscal do reajuste de 100%.",
+          "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Desmilitarização das polícias e fim da PM na forma atual",
@@ -404,7 +632,87 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Desmilitarizar as polícias estaduais e acabar com a Polícia Militar na forma atual",
+          "requirement": {
+            "kind": "pec",
+            "label": "PEC federal e alterações nas constituições dos estados e do Distrito Federal",
+            "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa; nas unidades, a mudança alcança as constituições estaduais.",
+            "note": "Polícias militares e corpos de bombeiros militares são forças estaduais, auxiliares e reserva do Exército (CF, art. 144, §5º), sob comando dos governadores.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em segurança pública: nunca exerceu mandato nem cargo de nomeação; marcos são a direção do UP, a militância sindical e a campanha.",
+            "aligned": "Apresentação da desmilitarização e da reorganização da segurança com participação popular no programa registrado.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 0,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Desmilitarização depende de PEC e das 27 unidades federativas",
+              "detail": "O art. 144 da Constituição define as polícias militares como forças estaduais, auxiliares e reserva do Exército, sob comando dos governadores; alterar esse desenho exige PEC no Congresso e mudanças nas constituições estaduais, com impacto nas carreiras de policiais e bombeiros. O programa registrado não informa prazo, custo nem regra de transição.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-sm-10",
+                  "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                  "publisher": "Metrópoles",
+                  "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                  "publishedAt": "2026-08-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+                },
+                {
+                  "id": "src-sm-14",
+                  "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+                  "publisher": "Today in Brazil",
+                  "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o modelo de polícia previsto (civil, municipal, comunitária) no lugar da PM?"
+            },
+            {
+              "question": "Como se daria a transição de carreira de policiais e bombeiros militares?"
+            },
+            {
+              "question": "Qual o custo estimado da reestruturação e quem financiaria a mudança?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública com o modelo de polícia previsto nem com a regra de transição das carreiras militares.",
+          "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Educação: fim do vestibular, revogação do Novo Ensino Médio e ampliação da educação gratuita",
@@ -434,7 +742,87 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Acabar com o vestibular e outros processos seletivos no ingresso em universidades e cursos técnicos públicos, revogando o Novo Ensino Médio",
+          "requirement": {
+            "kind": "lei-ordinaria",
+            "label": "Lei de diretrizes e bases da educação, com autonomia das universidades",
+            "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "Universidades federais têm autonomia didático-científica, administrativa e de gestão financeira (CF, art. 207) e definem seus processos seletivos; a maior parte das matrículas do ensino médio está nas redes estaduais.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita (2020 e 2022) nem ocupou cargo de nomeação; o histórico vem da direção do UP, da militância e do SUS.",
+            "aligned": "O programa do UP de 2022 já trazia educação pública gratuita como eixo; a revogação do Novo Ensino Médio consta do programa registrado em 2026.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 0,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Fim do vestibular alcança universidades com autonomia e redes estaduais",
+              "detail": "O ingresso em universidades federais é definido por cada instituição, com autonomia prevista no art. 207 da Constituição, e o acesso às vagas federais também passa por sistema nacional de seleção; universidades estaduais e municipais dependem dos respectivos entes. O documento registrado não indica o mecanismo que substituiria o vestibular nem o prazo de transição.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                },
+                {
+                  "id": "src-sm-10",
+                  "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                  "publisher": "Metrópoles",
+                  "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                  "publishedAt": "2026-08-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+                },
+                {
+                  "id": "src-sm-14",
+                  "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+                  "publisher": "Today in Brazil",
+                  "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual seria o mecanismo de ingresso no lugar do vestibular e como a demanda seria ordenada?"
+            },
+            {
+              "question": "Como a mudança alcançaria universidades estaduais, municipais e privadas?"
+            },
+            {
+              "question": "Como se daria a revogação do Novo Ensino Médio junto às redes estaduais?"
+            }
+          ],
+          "publicExplanation": "A campanha declarou que o primeiro documento enviado ao TSE foi protocolado 'pela exigência legal' enquanto o programa definitivo estava em revisão, e que a versão ampliada foi anexada após a repercussão.",
+          "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Saúde e moradia: fortalecimento do SUS, exigência de uso público pelos políticos e imóveis abandonados para moradia",
@@ -473,7 +861,77 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Ampliar o SUS e exigir que todos os políticos, de vereador a presidente, usem o serviço público de saúde",
+          "requirement": {
+            "kind": "depende-de-municipios",
+            "label": "Políticas de saúde e habitação e regras de uso do serviço por agentes públicos",
+            "quorum": "Não se aplica ao uso do serviço; leis de saúde, habitação e penal seguem maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "O SUS é gerido de forma compartilhada entre União, estados e municípios; exigir o uso do serviço por agentes políticos alcança carreiras e entes distintos, cada um com regras próprias de assistência à saúde.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita nem ocupou cargo de nomeação; marcos são a direção do UP, a militância e o trabalho profissional no SUS.",
+            "aligned": "Atua como cirurgiã-dentista da Estratégia Saúde da Família no SUS (RN) e defendeu em agosto de 2026 que agentes políticos usem o serviço público.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 0,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Uso obrigatório do SUS por políticos alcança carreiras e entes distintos",
+              "detail": "Planos e serviços de saúde de agentes públicos são organizados por cada ente e carreira (federal, estadual e municipal), e o atendimento do SUS é gerido de forma compartilhada; o documento registrado não detalha instrumento, prazo nem sanção para a exigência, segundo as fontes consultadas.",
+              "sources": [
+                {
+                  "id": "src-sm-07",
+                  "title": "Samara Martins defende que políticos usem o SUS",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+                },
+                {
+                  "id": "src-sm-14",
+                  "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+                  "publisher": "Today in Brazil",
+                  "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o instrumento para tornar obrigatório o uso do SUS por agentes políticos?"
+            },
+            {
+              "question": "A exigência alcançaria servidores e dependentes ou apenas ocupantes de mandato?"
+            },
+            {
+              "question": "Qual o investimento adicional previsto para ampliar a rede pública de saúde?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública sobre como a exigência de uso do SUS por agentes políticos seria implementada e fiscalizada.",
+          "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Reforma agrária popular, controle estatal de preços dos alimentos e estatização dos transportes coletivos",
@@ -503,7 +961,87 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Fazer a reforma agrária popular, controlar estatalmente os preços dos alimentos e estatizar os transportes coletivos",
+          "requirement": {
+            "kind": "misto",
+            "label": "Lei (reforma agrária e controle de preços), emenda constitucional e contratos de reestatização",
+            "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "A desapropriação para reforma agrária é feita pela União por interesse social, com prévia e justa indenização em títulos (CF, art. 184); ônibus, metrôs e trens são operados por municípios e estados, com contratos de concessão em vigor.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita nem ocupou cargo de nomeação; o histórico vem da direção do UP, da militância em moradia e da campanha.",
+            "aligned": "Declaração pública de agosto de 2026 de que 'falar de soberania e não fazer reforma agrária não faz sentido', em linha com o eixo agrário do programa.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 0,
+              "senado": 0
+            },
+            "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Controle estatal de preços e estatização de transportes dependem de leis, de indenizações e de contratos vigentes",
+              "detail": "O transporte coletivo é operado por concessionárias municipais e estaduais, com contratos em vigor, e a reestatização depende de decisão de cada ente e de indenização; o controle de preços dos alimentos e a nacionalização da terra dependem de lei e de emenda constitucional. As fontes consultadas não trazem custo de indenização nem cronograma.",
+              "sources": [
+                {
+                  "id": "src-sm-06",
+                  "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+                  "publisher": "Band",
+                  "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+                  "publishedAt": "2026",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+                },
+                {
+                  "id": "src-sm-10",
+                  "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                  "publisher": "Metrópoles",
+                  "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                  "publishedAt": "2026-08-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+                },
+                {
+                  "id": "src-re-r2propostas-03",
+                  "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                  "publisher": "Presidência da República — Planalto",
+                  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                  "publishedAt": "1988-10-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o custo das indenizações e quantos imóveis rurais seriam alcançados pela reforma agrária?"
+            },
+            {
+              "question": "Como funcionaria o controle estatal de preços dos alimentos (tabelamento, estoques públicos)?"
+            },
+            {
+              "question": "Como se daria a reestatização dos transportes com contratos de concessão vigentes?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública sobre custo de indenizações, desenho do controle de preços ou cronograma da reestatização dos transportes.",
+          "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Judiciário com juízes eleitos pelo voto popular; legalização do aborto; tributação de grandes fortunas",
@@ -2242,6 +2780,67 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Compara a extensão dos documentos registrados: UP com menos de duas páginas e 16 propostas; Avante com 200 páginas."
+    },
+    {
+      "id": "src-re-r2capacidades-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publisher": "Presidência da República — Planalto",
+      "date": "1988-10-05",
+      "type": "oficial_legislacao",
+      "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+    },
+    {
+      "id": "src-mundo-02",
+      "title": "O que Lula e Flávio prometem para a política externa",
+      "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+      "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+      "publishedAt": "2026-09-17",
+      "date": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
+    },
+    {
+      "id": "src-re-213",
+      "title": "Legislativo terá papel importante na implementação do acordo Mercosul-UE, diz Trad",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
+      "publishedAt": "2026-05-04",
+      "date": "2026-05-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
+    },
+    {
+      "id": "src-re-205",
+      "title": "Sovereignty takes center stage in foreign policy electoral platforms",
+      "publisher": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
+      "publishedAt": "2026-09-22",
+      "date": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
+    },
+    {
+      "id": "src-re-r2propostas-03",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+    },
+    {
+      "id": "src-re-t03",
+      "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+      "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+      "publisher": "Portal Amazônia",
+      "date": "2026-09-29",
+      "type": "imprensa",
+      "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2529,7 +3128,87 @@
       "name": "Capacidade de execução",
       "question": "Consegue transformar prioridades em entregas concretas?",
       "coverage": "parcial",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Prioridades para os primeiros 100 dias do programa de 25 pontos, incluindo aumento de 100% do salário mínimo",
+        "requirement": {
+          "path": "indefinido",
+          "note": "O programa registrado não especifica instrumento nem fonte de recursos para o reajuste; 6 das 7 propostas-chave dependem do Congresso, e 0 das 7 têm custo ou prazo declarado."
+        },
+        "history": {
+          "aligned": [
+            "Programa registrado no TSE em 06/08/2026, após correção do documento protocolado (Canal MyNews; Fonte 83, 2026)",
+            "Candidatura oficializada em convenção nacional de 26/07/2026, na Universidade Zumbi dos Palmares (Agência Brasil; Estadão)",
+            "Agenda de pré-campanha e campanha em capitais: Fortaleza, Belém, Salvador e Teresina (O Povo; g1, 2026)"
+          ],
+          "divergent": [
+            "O plano protocolado inicialmente no TSE era a plataforma de 2022 e foi substituído após identificação do erro (Canal MyNews, 2026)",
+            "O documento registrado tem menos de uma página e meia, segundo a cobertura de imprensa (Fonte 83, 13/08/2026)",
+            "A campanha foi conduzida com R$ 0 de fundo eleitoral e partidário (Plural, 2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos execução de orçamento ou de programa público; a base é a atuação na atenção básica do SUS, a direção partidária e a campanha"
+        },
+        "support": {
+          "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+          "coalitionSeats": "Partido isolado, chapa pura 100% feminina; vice Raquel Brício (UP)",
+          "federations": "Nenhuma (federação recusada em 2026)",
+          "documentedAgreements": 0,
+          "note": "A legenda disputa sem coligação, federação ou mandato parlamentar, e a campanha informa arrecadação própria com R$ 0 de fundos públicos. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Prioridades dos 100 dias dependem do Congresso e não têm custo ou fonte de recursos declarados",
+            "detail": "O programa concentra as prioridades nos primeiros 100 dias com 6 das 7 propostas-chave dependentes do Congresso e 0 das 7 com custo ou prazo declarado. O reajuste de 100% do salário mínimo, o auxílio a pessoas sem vaga e a jornada de 30 horas não têm fonte de recursos indicada.",
+            "sources": [
+              {
+                "id": "src-sm-10",
+                "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+              },
+              {
+                "id": "src-sm-14",
+                "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+                "publisher": "Today in Brazil",
+                "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+              },
+              {
+                "id": "src-sm-30",
+                "title": "Plano da UP para a Presidência registrado no TSE tem menos de uma página e meia; documento repercute na internet (16 propostas)",
+                "publisher": "Fonte 83",
+                "url": "https://fonte83.com.br/politica/eleicoes-2026/plano-da-up-para-a-presidencia-registrado-no-tse-tem-menos-de-uma-pagina-e-meia-documento-repercute-na-internet",
+                "publishedAt": "2026-08-13",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual a fonte de recursos do reajuste de 100% do salário mínimo e do auxílio a pessoas sem vaga?",
+            "why": "O programa registrado não estima impacto fiscal nem indica origem dos recursos."
+          },
+          {
+            "question": "Qual o instrumento previsto para cada uma das prioridades dos primeiros 100 dias?",
+            "why": "O documento tem menos de uma página e meia e não vincula medida, instrumento e prazo por item."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal e sem cargo público exercido: a análise usa a atuação na atenção básica do SUS, a direção partidária nacional e a organização da campanha (2016-2026). O teste confronta as prioridades declaradas com o instrumento e o custo exigidos.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "dialogo-negociacao",
@@ -2755,7 +3434,86 @@
       "name": "Diálogo, negociação e articulação",
       "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
       "coverage": "parcial",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Candidatura própria sem coligação ou federação, após tratativas com outras legendas que não avançaram",
+        "requirement": {
+          "path": "indefinido",
+          "note": "A decisão não envolve mudança legal: o registro no TSE é de partido isolado, sem federação e sem coligação, e as tratativas de aliança não resultaram em acordo assinado."
+        },
+        "history": {
+          "aligned": [
+            "Recusa de federação partidária e manutenção de candidatura própria em 2026 (A Notícia do Vale; Wikipedia, 2026)",
+            "Apoio do partido a Lula no segundo turno de 2022, após concorrer com chapa própria (g1, 10/10/2022)",
+            "Composição de chapa com dirigente sindical portuária como vice (Estadão; Unidade Popular, 2026)"
+          ],
+          "divergent": [
+            "O partido declarou que os diálogos com outras legendas não avançaram, segundo dirigente estadual (Paraíba Online, 25/07/2026)",
+            "A candidata registrou publicamente a dificuldade de acesso a espaços tradicionais de propaganda (CNN Brasil; Alma Preta, 2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos acordo formal assinado ou mesa de negociação documentada; a base são declarações da direção e material partidário"
+        },
+        "support": {
+          "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+          "coalitionSeats": "Partido isolado, sem coligação ou federação",
+          "federations": "Nenhuma (recusada em 2026)",
+          "documentedAgreements": 0,
+          "note": "Não há coligação, federação ou acordo formal assinado; o partido disputa governos estaduais com candidaturas próprias. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-sem-precedente",
+            "title": "Não localizamos acordo formal ou mesa de negociação registrada em ata",
+            "detail": "As tratativas de coligação e federação em 2026 são relatadas em entrevistas e material partidário, sem documento assinado. A candidata declarou como método que a negociação política deve colocar o programa acima das pessoas, sem registro de aplicação em mesa documentada.",
+            "sources": [
+              {
+                "id": "src-sm-15",
+                "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+                "publisher": "Paraíba Online",
+                "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+                "publishedAt": "2026-07-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Candidatura própria sem coligações; propostas de valorização do salário mínimo e fim da 6×1."
+              },
+              {
+                "id": "src-sm-34",
+                "title": "Única mulher negra candidata a presidente promete dobrar salário mínimo (rejeita federação com PT/PSOL/PSTU/PCB e prioriza alianças 'programáticas')",
+                "publisher": "A Notícia do Vale",
+                "url": "https://anoticiadovale.com/2026/08/30/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo/",
+                "publishedAt": "2026-08-30",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-25",
+                "title": "Samara Martins: Negociação política: programa acima de pessoas",
+                "publisher": "Ceticismo.com — transcrição classificada",
+                "url": "https://ceticismo.com.br/en/transcript/7eae4400-716d-465d-9616-b9018310a7a3",
+                "publishedAt": "2026-08-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Com quais partidos houve tratativa e quais critérios foram usados para encerrá-las?",
+            "why": "A informação disponível é a declaração de que os diálogos não avançaram, sem lista de legendas ou registro dos pontos negociados."
+          },
+          {
+            "question": "Em caso de segundo turno, qual será a posição do partido sobre apoio a outra candidatura?",
+            "why": "Em 2022 houve apoio no segundo turno após a votação; a posição de 2026 não foi declarada até 29/09/2026."
+          }
+        ],
+        "publicExplanation": "A candidata declarou que 'a negociação política deve colocar o programa acima das pessoas' e que as alianças prioritárias são em pautas, como o fim da escala 6x1, não acordos eleitorais entre legendas (declaração de 12/08/2026).",
+        "methodology": "Trajetória sem mandato federal: o teste usa declarações da direção partidária, material de campanha e o registro no TSE (2022-2026). Confronta a posição de não coligar com os acordos formalizados. Ficaram fora conversas sem registro público.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "lideranca-equipes",
@@ -2948,7 +3706,87 @@
       "name": "Liderança e formação de equipes",
       "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
       "coverage": "parcial",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Desmilitarização das polícias estaduais e fim da Polícia Militar na forma atual, com reorganização da segurança pública",
+        "requirement": {
+          "path": "pec",
+          "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+          "note": "A Constituição atribui às polícias militares a polícia ostensiva e a preservação da ordem pública, subordinadas aos governadores; a mudança do desenho exige emenda constitucional e envolve os estados."
+        },
+        "history": {
+          "aligned": [
+            "Vice-presidência nacional do partido entre 2016 e 2026, com organização de estrutura militante (Wikipedia; imprensa, 2026)",
+            "Direção de movimentos sociais, como o Movimento de Mulheres Olga Benário e a Frente Negra Revolucionária (Alma Preta; CNN Brasil, 2026)",
+            "Montagem da chapa e condução da convenção nacional de 2026 com indicação da vice (Unidade Popular; R7, 2026)"
+          ],
+          "divergent": [
+            "Não há dados de pessoal, organograma ou estrutura de campanha publicados pelo partido (lacuna nas fontes consultadas)",
+            "A direção partidária é exercida em legenda sem mandato parlamentar e com arrecadação própria (Plural, 2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos direção de equipe de governo ou de órgão público; a base é a direção partidária, movimentos sociais e a campanha"
+        },
+        "support": {
+          "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+          "coalitionSeats": "Partido isolado, chapa pura 100% feminina; vice Raquel Brício (UP)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "A organização partidária se apoia em militância e movimentos populares, sem mandato parlamentar e sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Mudança no desenho das polícias militares passa por emenda constitucional e pelos estados",
+            "detail": "A reorganização proposta altera a estrutura prevista na Constituição, que atribui às polícias militares a polícia ostensiva e a preservação da ordem pública sob subordinação aos governadores. Emenda constitucional exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+            "sources": [
+              {
+                "id": "src-sm-10",
+                "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+              },
+              {
+                "id": "src-sm-14",
+                "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+                "publisher": "Today in Brazil",
+                "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o desenho previsto para as forças de segurança após a desmilitarização e quem assumiria o policiamento ostensivo?",
+            "why": "O programa indica a desmilitarização e maior inteligência, sem descrever a estrutura que substituiria a atual."
+          },
+          {
+            "question": "Como seria feita a transição de efetivos, carreiras e comando das polícias nos estados?",
+            "why": "O documento não trata de transição funcional nem do custo da reorganização."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: a análise usa a direção partidária nacional, a direção de movimentos populares e a composição da chapa (2016-2026). O teste confronta a reorganização proposta com o texto constitucional e com a competência estadual. Ficaram fora dados de pessoal não publicados.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "tomada-decisao",
@@ -3114,7 +3952,126 @@
       "name": "Tomada de decisão",
       "question": "Como enfrentou decisões difíceis, trade-offs e pressão?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Tributação de grandes fortunas e socialização dos grandes veículos de comunicação, com eleição de juízes por voto popular",
+        "requirement": {
+          "path": "lei-complementar",
+          "quorum": "Lei complementar: 257 na Câmara e 41 no Senado (maioria absoluta)",
+          "note": "O imposto sobre grandes fortunas está previsto na Constituição e não há lei complementar que o discipline; a socialização dos veículos de comunicação não tem instrumento declarado no programa."
+        },
+        "history": {
+          "aligned": [
+            "Pré-candidatura aprovada por unanimidade pelo Diretório Nacional em 01/02/2026 (Agemt, 2026)",
+            "Chapa integralmente feminina composta com dirigente sindical portuária como vice (R7; Unidade Popular, 2026)",
+            "Manutenção de candidatura própria sem federação e sem coligações estaduais (A Notícia do Vale; SBT News, 2026)"
+          ],
+          "divergent": [
+            "Jornal do partido adversário afirma que a candidata não respondeu a convite para debate, sem confirmação independente (Diário Causa Operária, 2026)",
+            "A legenda não tem mandato parlamentar para sustentar a agenda tributária e institucional (TSE; Wikipedia, 2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos decisão de governo com trade-off orçamentário; as decisões documentadas são partidárias e de campanha (2022-2026)"
+        },
+        "support": {
+          "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+          "coalitionSeats": "Partido isolado, sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "A agenda tributária e institucional depende de lei complementar e de emenda, sem bancada federal registrada para sustentá-las. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Imposto sobre grandes fortunas depende de lei complementar ainda não editada",
+            "detail": "O programa propõe aumentar a tributação sobre grandes fortunas. O tributo está previsto na Constituição e depende de lei complementar, que exige maioria absoluta: 257 votos na Câmara e 41 no Senado. O partido não tem mandato parlamentar registrado.",
+            "sources": [
+              {
+                "id": "src-sm-10",
+                "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+              },
+              {
+                "id": "src-sm-06",
+                "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+                "publisher": "Band",
+                "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-sem-precedente",
+            "title": "Socialização dos grandes veículos de comunicação é proposta sem instrumento declarado",
+            "detail": "O programa prevê a socialização dos grandes veículos de comunicação, sem indicar veículo normativo, forma de transição ou tratamento de contratos e outorgas existentes. Não localizamos iniciativa comparável na trajetória analisada.",
+            "sources": [
+              {
+                "id": "src-sm-10",
+                "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+              },
+              {
+                "id": "src-sm-06",
+                "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+                "publisher": "Band",
+                "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+              },
+              {
+                "id": "src-sm-14",
+                "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+                "publisher": "Today in Brazil",
+                "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual a alíquota e a base de cálculo previstas para o imposto sobre grandes fortunas?",
+            "why": "O programa cita o aumento da tributação sem parâmetros de alíquota, faixa ou estimativa de arrecadação."
+          },
+          {
+            "question": "Qual o instrumento e a regra de transição previstos para a socialização dos veículos de comunicação?",
+            "why": "A proposta aparece no programa sem desenho de implementação ou tratamento de contratos vigentes."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: o teste usa decisões do Diretório Nacional, a composição da chapa e a condução da campanha (2022-2026). Confronta as escolhas declaradas com o instrumento exigido por cada medida. Fatos judiciais e eleitorais são reproduzidos como constam das fontes.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "gestao-crises",
@@ -3244,7 +4201,86 @@
       "name": "Gestão de crises e mudança",
       "question": "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
       "coverage": "parcial",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Correção do plano de governo protocolado com a plataforma de 2022 e condução da campanha sem fundos públicos",
+        "requirement": {
+          "path": "indefinido",
+          "note": "Não há mudança legal envolvida: a correção foi feita no protocolo do TSE e a campanha foi conduzida com arrecadação própria e estrutura de militância."
+        },
+        "history": {
+          "aligned": [
+            "Correção apresentada pela campanha após o protocolo do documento de 2022 (Canal MyNews; Fonte 83, 2026)",
+            "Retorno aos debates com confirmação de presença em 18/09/2026 (Metrópoles, 2026)",
+            "Campanha realizada em estados com uso de rádios e podcasts, sem cota de fundo eleitoral (Plural; g1, 2026)"
+          ],
+          "divergent": [
+            "Ausência no primeiro debate presidencial de 2026, com manifestação de militantes no local do debate (Estadão, 23/08/2026)",
+            "A campanha registrou dificuldade de acesso a espaços tradicionais de propaganda, segundo a própria candidata (Folha de S.Paulo; Alma Preta, 2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos gestão de crise de governo; os episódios documentados são de campanha e de organização partidária em 2026"
+        },
+        "support": {
+          "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+          "coalitionSeats": "Partido isolado, sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "A campanha é sustentada por arrecadação própria e militância, sem fundos públicos e sem bancada federal. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Presença em debates televisivos depende de critérios das emissoras e da representação partidária",
+            "detail": "A candidata ficou fora do primeiro debate presidencial de agosto de 2026, quando militantes se manifestaram no local, e voltou a ser confirmada em debate posterior, em 18/09/2026. O partido não tem bancada no Congresso e a presença em debates depende de critérios de representatividade definidos pelas emissoras.",
+            "sources": [
+              {
+                "id": "src-sm-73",
+                "title": "Bastidores: debate da Band e do 'Estadão' tem ameaça de desistência, protesto e jogo de cena",
+                "publisher": "Estadão",
+                "url": "https://www.estadao.com.br/politica/bastidores-debate-da-band-e-do-estadao-tem-ameaca-de-desistencia-protesto-e-jogo-de-cena",
+                "publishedAt": "2026-08-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra que militantes da UP se manifestaram no debate contra a ausência de Samara Martins."
+              },
+              {
+                "id": "src-sm-74",
+                "title": "Samara Martins confirma presença em debate",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/metropoles-e-inteligencia-ltda-samara-martins-confirma-presenca-em-debate",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Confirmação de presença em debate marcado para 18/09/2026."
+              },
+              {
+                "id": "src-sm-48",
+                "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Salvador",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-salvador.ghtml",
+                "publishedAt": "2026-09-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o protocolo previsto pela campanha para substituição de documentos e correção de protocolos eleitorais?",
+            "why": "O plano foi protocolado com a versão de 2022 e corrigido depois, sem descrição pública do procedimento adotado."
+          },
+          {
+            "question": "Como a campanha pretende disputar visibilidade fora dos debates e do horário eleitoral?",
+            "why": "A própria candidata registrou dificuldade de acesso a espaços tradicionais de propaganda em 2026."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: o teste usa episódios de campanha em 2026 (correção de documento, ausência e retorno a debates, campanha sem fundos públicos). Não há resposta a crise de governo no material consultado. Ficaram fora conteúdos partidários internos.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "coordenacao-institucional",
@@ -3375,7 +4411,87 @@
       "name": "Coordenação institucional",
       "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
       "coverage": "parcial",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Articulação com o movimento sindical portuário e com movimentos populares na composição da chapa e na campanha",
+        "requirement": {
+          "path": "indefinido",
+          "note": "A articulação registrada é com organizações da sociedade civil e o movimento sindical, sem mudança legal envolvida; não localizamos negociação com Poderes ou entes federados."
+        },
+        "history": {
+          "aligned": [
+            "Composição da chapa com a presidenta do Sindiporto-PA/AP como vice (Estadão; Unidade Popular, 2026)",
+            "Atuação na direção nacional do partido junto a movimentos populares ligados à legenda (Wikipedia; Alma Preta, 2026)",
+            "Trajetória em entidades estudantis, com direção de mulheres da UNE e atuação em associação de estudantes (Wikipedia; imprensa, 2026)"
+          ],
+          "divergent": [
+            "A vice-presidência nacional foi exercida em legenda sem mandato parlamentar e sem representação institucional registrada (TSE; Wikipedia, 2026)",
+            "A interlocução sindical registrada é com uma entidade estadual, sem acordo nacional documentado (Estadão; Unidade Popular, 2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos interlocução com ministérios, estados ou municípios; a coordenação documentada é com movimentos sociais e sindicais"
+        },
+        "support": {
+          "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+          "coalitionSeats": "Partido isolado, chapa pura 100% feminina; vice Raquel Brício (UP)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "A base organizativa registrada são movimentos populares e uma entidade sindical estadual, sem representação no Congresso. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-sem-precedente",
+            "title": "Não localizamos negociação entre Poderes ou com entes federados na trajetória analisada",
+            "detail": "A coordenação documentada ocorre com movimentos populares, uma entidade sindical portuária estadual e entidades estudantis. O programa prevê mudanças que dependem de estados e de municípios, sem registro de interlocução com esses entes.",
+            "sources": [
+              {
+                "id": "src-sm-01",
+                "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+                "publisher": "Unidade Popular (site oficial do partido)",
+                "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+              },
+              {
+                "id": "src-sm-04",
+                "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+                "publisher": "Estadão",
+                "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Chapa pura'; segunda disputa presidencial de Samara."
+              },
+              {
+                "id": "src-sm-75",
+                "title": "Quem é e o que defende Samara Martins, candidata do UP à Presidência da República",
+                "publisher": "Alma Preta",
+                "url": "https://almapreta.com.br/sessao/politica/quem-e-samara-martins-candidata-a-presidencia-da-republica",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil: chapa com a ativista Raquel Brício como vice; única mulher negra na disputa."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Como o partido pretende construir apoio no Congresso e nos estados para as medidas propostas?",
+            "why": "A interlocução documentada é com movimentos sociais e sindicatos, sem registro de negociação com bancadas ou governos."
+          },
+          {
+            "question": "Há compromissos assumidos com as entidades sindicais e populares que sustentam a chapa?",
+            "why": "A candidata firmou compromissos de campanha com pautas de trabalhadores em atos e entrevistas, sem documento de acordo publicado."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: o teste usa a direção partidária, a direção de movimentos, a trajetória estudantil e a composição da chapa (2010-2026). Confronta a articulação declarada com os entes exigidos pelas propostas. Ficaram fora reuniões sem registro público.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "comunicacao-publica",
@@ -3545,7 +4661,79 @@
       "name": "Comunicação pública",
       "question": "Consegue explicar prioridades, decisões e posições de forma compreensível e consistente?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Proposta de que todos os políticos, de vereador a presidente, usem o serviço público de saúde",
+        "requirement": {
+          "path": "lei-ordinaria",
+          "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+          "note": "A exigência de uso do SUS por agentes públicos dependeria de lei e de mecanismo de fiscalização; o programa não descreve o instrumento nem a forma de verificação."
+        },
+        "history": {
+          "aligned": [
+            "Mensagem central repetida em agenda de rua em Teresina (g1, 24/08/2026)",
+            "Entrevistas de formato longo em podcast e em veículo de imprensa voltado à população negra (Alma Preta; transcrições, 2026)",
+            "Atos públicos de pré-campanha em capitais apresentando o programa, de abril a maio de 2026 (A Verdade, 2026)"
+          ],
+          "divergent": [
+            "Publicação do jornal do partido adversário afirma que a UP recusou debate, sem confirmação independente localizada (Diário Causa Operária, 24/09/2026)",
+            "A candidata declarou ser ignorada nas sondagens de intenção de voto no início da pré-campanha (Folha de S.Paulo, 08/04/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos comunicação de governo exercida; a base são atos públicos, debates, podcasts e entrevistas de 2026"
+        },
+        "support": {
+          "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+          "coalitionSeats": "Partido isolado, sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "A comunicação ocorre por atos de rua, redes, podcasts e entrevistas, sem bancada federal e sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Exigir uso do SUS por agentes públicos demanda lei e mecanismo de fiscalização não descritos",
+            "detail": "A proposta é apresentada como forma de forçar investimento na rede pública, alcançando todos os cargos eletivos. Não há indicação do instrumento normativo, do órgão fiscalizador nem do tratamento de situações de urgência e de atendimento privado fora do país.",
+            "sources": [
+              {
+                "id": "src-sm-07",
+                "title": "Samara Martins defende que políticos usem o SUS",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+              },
+              {
+                "id": "src-sm-10",
+                "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Como a exigência de uso do SUS por agentes públicos seria implementada e fiscalizada?",
+            "why": "A proposta é repetida em atos e entrevistas sem detalhamento de instrumento, exceções ou sanção."
+          },
+          {
+            "question": "Qual o custo estimado da ampliação do SUS prevista no programa?",
+            "why": "O programa propõe ampliar o investimento em saúde sem estimativa de despesa ou fonte de receita."
+          }
+        ],
+        "publicExplanation": "A candidata declarou que 'falar de soberania e não fazer reforma agrária não faz sentido', vinculando a mensagem econômica do programa à reforma agrária (Alma Preta, 24/08/2026).",
+        "methodology": "Trajetória sem mandato federal: o teste usa atos públicos, debates, podcasts e entrevistas de 2026. Confronta a proposta repetida publicamente com o instrumento e a fiscalização exigidos. Ficaram fora conteúdos de redes sociais sem repercussão registrada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "visao-estrategica",
@@ -3735,7 +4923,126 @@
       "name": "Visão estratégica",
       "question": "Consegue definir prioridades e conectar decisões de curto prazo a objetivos maiores?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Programa 'Revolução e Socialismo' com 25 pontos, prioridades para os 100 dias e horizonte declarado de reorganização socialista",
+        "requirement": {
+          "path": "pec",
+          "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+          "note": "A eleição de juízes por voto popular altera o texto constitucional e exige emenda; a nacionalização do sistema bancário e a estatização dos transportes dependem de lei e de indenizações não estimadas."
+        },
+        "history": {
+          "aligned": [
+            "Programa registrado no TSE em 06/08/2026, com prioridades para os primeiros 100 dias (TSE; Metrópoles, 2026)",
+            "Encadeamento declarado entre pauta imediata e projeto de longo prazo em ato de pré-campanha (A Verdade, 2026)",
+            "Detalhamento de instrumentos em entrevistas, citando leis, titulação de territórios e fortalecimento de órgãos (Alma Preta, 2026)"
+          ],
+          "divergent": [
+            "O documento registrado tem menos de uma página e meia e repete pontos da plataforma anterior (Fonte 83; O Globo, 2026)",
+            "0 das 7 propostas-chave têm custo estimado e 0 têm prazo declarado (levantamento do plano registrado, 2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos plano de governo executado em cargo público; a base é o programa registrado no TSE e as declarações de campanha de 2026"
+        },
+        "support": {
+          "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+          "coalitionSeats": "Partido isolado, sem coligação ou federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 0,
+          "note": "O programa propõe mudanças constitucionais e estatizações em legenda sem representação no Congresso e sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Eleição de juízes e mudanças no Judiciário exigem emenda com 3/5 nas duas Casas",
+            "detail": "A proposta de juízes eleitos por voto popular, com mandato e avaliação populares, altera a estrutura do Judiciário prevista na Constituição e exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+            "sources": [
+              {
+                "id": "src-sm-10",
+                "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+              },
+              {
+                "id": "src-sm-06",
+                "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+                "publisher": "Band",
+                "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Suspensão do pagamento da dívida e nacionalizações convivem com ampliação de gastos sem estimativa",
+            "detail": "O programa prevê suspensão de juros e amortizações da dívida, nacionalização do sistema bancário, reestatização de empresas e ampliação de gastos sociais. Não há estimativa de indenizações, de impacto na dívida ou de receita para o conjunto de medidas.",
+            "sources": [
+              {
+                "id": "src-sm-10",
+                "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+              },
+              {
+                "id": "src-sm-06",
+                "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+                "publisher": "Band",
+                "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+              },
+              {
+                "id": "src-sm-14",
+                "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+                "publisher": "Today in Brazil",
+                "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o custo estimado das reestatizações e da suspensão do pagamento da dívida?",
+            "why": "O programa cita as medidas sem estimativa de valores, prazos ou impacto fiscal."
+          },
+          {
+            "question": "Qual o caminho previsto para as propostas que exigem emenda constitucional?",
+            "why": "O documento registrado tem menos de uma página e meia e não descreve estratégia de votação para as mudanças institucionais."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: a análise usa o programa registrado no TSE, o detalhamento em entrevistas e os atos de campanha de 2026. Confronta o horizonte declarado com instrumento, custo e indicador. Ficou fora a íntegra das plataformas partidárias anteriores.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     }
   ],
   "countryProject": {
@@ -3884,7 +5191,293 @@
     ],
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
-    "methodology": "As posições internacionais de Samara Martins vêm do programa da UP — documento partidário divulgado pela campanha (67 páginas, com as seções 'Solidariedade Internacionalista' e 'Política Externa Anti-Imperialista'), posterior ao documento de 16 propostas protocolado no TSE em 06/08/2026, cuja versão inicial era de menos de duas páginas. Por ser a posição extraída de documento programático do partido, o bloco está marcado como 'parcial'. Texto conferido na versão do PDF divulgada pela campanha (espelho Poder360) e cruzado com a cobertura do R7 Planalto (02/09/2026) e com a análise do OPEB (27/09/2026). Onde a fonte é a fala da candidata reproduzida no próprio programa, isso está identificado no texto. Não foram localizados registros de atuação internacional própria. Campos sem juízo de valor e sem ordenação entre candidatos."
+    "methodology": "As posições internacionais de Samara Martins vêm do programa da UP — documento partidário divulgado pela campanha (67 páginas, com as seções 'Solidariedade Internacionalista' e 'Política Externa Anti-Imperialista'), posterior ao documento de 16 propostas protocolado no TSE em 06/08/2026, cuja versão inicial era de menos de duas páginas. Por ser a posição extraída de documento programático do partido, o bloco está marcado como 'parcial'. Texto conferido na versão do PDF divulgada pela campanha (espelho Poder360) e cruzado com a cobertura do R7 Planalto (02/09/2026) e com a análise do OPEB (27/09/2026). Onde a fonte é a fala da candidata reproduzida no próprio programa, isso está identificado no texto. Não foram localizados registros de atuação internacional própria. Campos sem juízo de valor e sem ordenação entre candidatos.",
+    "reality": {
+      "proposal": "Política externa anti-imperialista: romper tratados de submissão a EUA, Otan ou China, cortar relações com Israel e estatizar o comércio exterior.",
+      "requirement": {
+        "path": "lei-ordinaria",
+        "instrument": "lei_ordinaria + ato_do_executivo + negociacao_internacional",
+        "description": "O rompimento de relações diplomáticas com Israel é ato do Presidente (art. 84, VII); a denúncia de tratados segue o art. 49, I da Constituição e as cláusulas do próprio tratado, com notificação às outras partes; estatização do comércio exterior e proibição de remessas de lucros, dividendos e royalties exigem lei; a suspensão de pagamentos da dívida externa depende de negociação com credores e de decisão orçamentária.",
+        "congressStep": "Tratados: exame e aprovação pelo Congresso (art. 49, I). Estatização do comércio exterior e controle de remessas: lei ordinária, por maioria dos votos presentes. O documento não indica projeto de lei nem minuta de denúncia."
+      },
+      "history": {
+        "statedPosition": "Programa da UP ('Política Externa Anti-Imperialista'): ruptura de tratados de submissão, apoio a Venezuela e Cuba e estatização do comércio exterior.",
+        "aligned": [
+          "2022: vice na chapa de Leonardo Péricles (UP), com 53.519 votos (0,05%), em programa de ruptura.",
+          "2026: chapa isolada do UP, registrada após tratativas com outras legendas que não avançaram."
+        ],
+        "divergent": [
+          "10/10/2022: o UP anunciou apoio a Lula no segundo turno (g1).",
+          "O programa de 2026 rejeita o acordo Mercosul-União Europeia, em implementação com apreciação do Legislativo (Senado, 04/05/2026)."
+        ],
+        "noComparablePrecedent": "Não localizamos episódios comparáveis de negociação internacional conduzida pela candidata ou pelo UP nas fontes consultadas; a experiência internacional associada é programática e o partido não tem assento no Legislativo federal.",
+        "positionChange": "Não localizamos mudança de posição registrada entre 2022 e 2026; o programa de 2026 repete a linha anti-imperialista de 2022."
+      },
+      "support": {
+        "note": "Retrato atual, não previsão do próximo Congresso. Unidade Popular (nº 80) concorre sem coligação e sem federação, com Raquel Brício como vice; o partido não tem deputados federais nem senadores nas fontes consultadas. Não localizamos apoio parlamentar às propostas de ruptura. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-sm-02",
+            "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Vice na chapa de Leonardo Péricles em 2022."
+          },
+          {
+            "id": "src-sm-03",
+            "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+            "publishedAt": "2026-08-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Natural de Belo Horizonte/MG, 38 anos, formada em Odontologia pela UFRN; chapa exclusivamente negra em 2022."
+          },
+          {
+            "id": "src-sm-41",
+            "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+            "publisher": "Poder360 (espelho do documento da campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+          }
+        ],
+        "documentedAgreements": 2
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Rompimento de tratados e de relações x competência do Congresso e cláusulas de denúncia",
+          "detail": "A ruptura de tratados anunciada no programa passa pelo art. 49, I da Constituição e pelas cláusulas de denúncia de cada acordo, com notificação às outras partes; o corte de relações com Israel é ato do Presidente (art. 84, VII). O documento não lista quais tratados seriam denunciados nem o procedimento previsto.",
+          "sources": [
+            {
+              "id": "src-sm-41",
+              "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+            },
+            {
+              "id": "src-sm-60",
+              "title": "PEB NAS URNAS 2026: Samara Martins – Unidade Popular (UP)",
+              "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-samara-martins-unidade-popular-up/",
+              "publishedAt": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise do programa da UP no projeto 'PEB nas Urnas 2026' (autoras Dara Maria Marques da Silva e Eliza Odila Conceição Silva Donda). Registra a seção 'Solidariedade Internacionalista' e a 'Política Externa Anti-Imperialista', o rompimento com Israel, o apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen e os temas em que o documento oferece menos detalhamento (BRICS, Mercosul, ONU, integração regional)."
+            },
+            {
+              "id": "src-re-205",
+              "title": "Sovereignty takes center stage in foreign policy electoral platforms",
+              "publisher": "Valor International",
+              "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
+              "publishedAt": "2026-09-22",
+              "date": "2026-09-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Rejeição do acordo Mercosul-União Europeia x acordo em implementação com apreciação legislativa",
+          "detail": "O acordo Mercosul-União Europeia está em implementação e passa por apreciação do Legislativo (Senado, 04/05/2026); o programa da UP rejeita o acordo e não indica como um governo proporia a reversão nem o efeito sobre o bloco.",
+          "sources": [
+            {
+              "id": "src-sm-41",
+              "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+            },
+            {
+              "id": "src-re-213",
+              "title": "Legislativo terá papel importante na implementação do acordo Mercosul-UE, diz Trad",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
+              "publishedAt": "2026-05-04",
+              "date": "2026-05-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
+            },
+            {
+              "id": "src-sm-61",
+              "title": "OCDE, Brics e Mercosul: as apostas dos presidenciáveis para o Brasil no mundo",
+              "publisher": "R7 Planalto (Record)",
+              "url": "https://noticias.r7.com/prisma/r7-planalto/sair-do-brics-e-romper-com-israel-as-propostas-de-politica-externa-dos-candidatos-a-presidencia-02092026/",
+              "publishedAt": "2026-09-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Resumo, por candidato, das propostas de política externa dos planos registrados. Trecho de Samara Martins (UP): rompimento de tratados de submissão militar e econômica aos EUA, à OTAN ou à China; rejeição do acordo Mercosul–União Europeia; rompimento de relações diplomáticas, militares e comerciais com Israel; apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen, com envio solidário de petróleo a Cuba; estatização e transferência do comércio exterior para órgãos do Estado e proibição de remessa de lucros, dividendos e royalties."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "proposta-sem-precedente",
+          "title": "Estatização do comércio exterior e proibição de remessas sem instrumento declarado",
+          "detail": "O programa propõe estatizar o comércio exterior, proibir remessas de lucros e royalties sem autorização estatal e anular dívidas com capitalistas estrangeiros; o levantamento do R7 (02/09/2026) e a análise do OPEB (27/09/2026) registram que o documento não detalha instrumentos de comércio, investimento ou integração regional, e não localizamos registro de aplicação anterior no Brasil.",
+          "sources": [
+            {
+              "id": "src-sm-41",
+              "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+            },
+            {
+              "id": "src-sm-60",
+              "title": "PEB NAS URNAS 2026: Samara Martins – Unidade Popular (UP)",
+              "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-samara-martins-unidade-popular-up/",
+              "publishedAt": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise do programa da UP no projeto 'PEB nas Urnas 2026' (autoras Dara Maria Marques da Silva e Eliza Odila Conceição Silva Donda). Registra a seção 'Solidariedade Internacionalista' e a 'Política Externa Anti-Imperialista', o rompimento com Israel, o apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen e os temas em que o documento oferece menos detalhamento (BRICS, Mercosul, ONU, integração regional)."
+            },
+            {
+              "id": "src-sm-61",
+              "title": "OCDE, Brics e Mercosul: as apostas dos presidenciáveis para o Brasil no mundo",
+              "publisher": "R7 Planalto (Record)",
+              "url": "https://noticias.r7.com/prisma/r7-planalto/sair-do-brics-e-romper-com-israel-as-propostas-de-politica-externa-dos-candidatos-a-presidencia-02092026/",
+              "publishedAt": "2026-09-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Resumo, por candidato, das propostas de política externa dos planos registrados. Trecho de Samara Martins (UP): rompimento de tratados de submissão militar e econômica aos EUA, à OTAN ou à China; rejeição do acordo Mercosul–União Europeia; rompimento de relações diplomáticas, militares e comerciais com Israel; apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen, com envio solidário de petróleo a Cuba; estatização e transferência do comércio exterior para órgãos do Estado e proibição de remessa de lucros, dividendos e royalties."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "O programa cita 'tratados de submissão' sem listá-los: quais seriam denunciados e por qual procedimento?",
+          "sources": [
+            {
+              "id": "src-sm-41",
+              "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+            },
+            {
+              "id": "src-sm-60",
+              "title": "PEB NAS URNAS 2026: Samara Martins – Unidade Popular (UP)",
+              "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-samara-martins-unidade-popular-up/",
+              "publishedAt": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise do programa da UP no projeto 'PEB nas Urnas 2026' (autoras Dara Maria Marques da Silva e Eliza Odila Conceição Silva Donda). Registra a seção 'Solidariedade Internacionalista' e a 'Política Externa Anti-Imperialista', o rompimento com Israel, o apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen e os temas em que o documento oferece menos detalhamento (BRICS, Mercosul, ONU, integração regional)."
+            }
+          ]
+        },
+        {
+          "question": "Sem detalhamento de instrumentos de comércio ou investimento: como se sustentaria a autonomia econômica com o comércio exterior estatizado?",
+          "sources": [
+            {
+              "id": "src-sm-60",
+              "title": "PEB NAS URNAS 2026: Samara Martins – Unidade Popular (UP)",
+              "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-samara-martins-unidade-popular-up/",
+              "publishedAt": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise do programa da UP no projeto 'PEB nas Urnas 2026' (autoras Dara Maria Marques da Silva e Eliza Odila Conceição Silva Donda). Registra a seção 'Solidariedade Internacionalista' e a 'Política Externa Anti-Imperialista', o rompimento com Israel, o apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen e os temas em que o documento oferece menos detalhamento (BRICS, Mercosul, ONU, integração regional)."
+            },
+            {
+              "id": "src-sm-61",
+              "title": "OCDE, Brics e Mercosul: as apostas dos presidenciáveis para o Brasil no mundo",
+              "publisher": "R7 Planalto (Record)",
+              "url": "https://noticias.r7.com/prisma/r7-planalto/sair-do-brics-e-romper-com-israel-as-propostas-de-politica-externa-dos-candidatos-a-presidencia-02092026/",
+              "publishedAt": "2026-09-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Resumo, por candidato, das propostas de política externa dos planos registrados. Trecho de Samara Martins (UP): rompimento de tratados de submissão militar e econômica aos EUA, à OTAN ou à China; rejeição do acordo Mercosul–União Europeia; rompimento de relações diplomáticas, militares e comerciais com Israel; apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen, com envio solidário de petróleo a Cuba; estatização e transferência do comércio exterior para órgãos do Estado e proibição de remessa de lucros, dividendos e royalties."
+            }
+          ]
+        },
+        {
+          "question": "O programa cita o conflito no diagnóstico e não propõe medida: qual a posição sobre sanções à Rússia e negociação de paz na Ucrânia?",
+          "sources": [
+            {
+              "id": "src-sm-41",
+              "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+            },
+            {
+              "id": "src-mundo-02",
+              "title": "O que Lula e Flávio prometem para a política externa",
+              "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+              "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+              "publishedAt": "2026-09-17",
+              "date": "2026-09-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
+            }
+          ]
+        },
+        {
+          "question": "O documento não detalha: há proposta para o Brics e o Mercosul além da rejeição do acordo com a União Europeia?",
+          "sources": [
+            {
+              "id": "src-sm-60",
+              "title": "PEB NAS URNAS 2026: Samara Martins – Unidade Popular (UP)",
+              "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-samara-martins-unidade-popular-up/",
+              "publishedAt": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise do programa da UP no projeto 'PEB nas Urnas 2026' (autoras Dara Maria Marques da Silva e Eliza Odila Conceição Silva Donda). Registra a seção 'Solidariedade Internacionalista' e a 'Política Externa Anti-Imperialista', o rompimento com Israel, o apoio a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen e os temas em que o documento oferece menos detalhamento (BRICS, Mercosul, ONU, integração regional)."
+            },
+            {
+              "id": "src-sm-41",
+              "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "À Alma Preta (24/08/2026) explicou a linha do programa como de enfrentamento, sem conciliação com banqueiros, grandes empresários e agronegócio, e sustentou que 'falar de soberania e não fazer reforma agrária não faz sentido'; citou o risco de intervenção dos EUA e a designação de facções como terroristas.",
+      "methodology": "Bases: programa da UP 'Pelo Socialismo' (67 páginas, seções 'Solidariedade Internacionalista' e 'Política Externa Anti-Imperialista'), 16 propostas registradas no TSE, OPEB (27/09/2026), R7 (02/09/2026), Alma Preta (24/08/2026), BBC (17/08/2026) e Agência Brasil. Limites: posições de documento programático do partido (bloco parcial); nada foi preenchido por inferência.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
   },
   "coherence": [
     {
@@ -4228,6 +5821,724 @@
       "methodology": "Coerência entre o documento inicial, a entrevista de 29/08/2026 e as versões posteriores do programa. Sem mandato exercido, o histórico disponível é a militância sindical e a atuação profissional, não a execução de política de trabalho e renda.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "medium"
+    }
+  ],
+  "themes": [
+    {
+      "slug": "economia",
+      "name": "Economia",
+      "kind": "proposta",
+      "position": "Programa registrado (25 pontos): nacionalizar o sistema bancário e o Banco Central e auditar a dívida pública.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        },
+        {
+          "id": "src-sm-06",
+          "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+          "publisher": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado (25 pontos): nacionalizar o sistema bancário e o Banco Central e auditar a dívida pública.",
+        "requirement": {
+          "path": "lei-complementar",
+          "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o instrumento previsto para a nacionalização dos bancos e do Banco Central?",
+            "why": "Sem esse dado não é possível medir o ajuste fiscal nem o efeito sobre a arrecadação."
+          },
+          {
+            "question": "Qual o resultado esperado da auditoria da dívida pública?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "seguranca",
+      "name": "Segurança pública",
+      "kind": "proposta",
+      "position": "Programa registrado: desmilitarizar as polícias e acabar com a PM na forma atual; criminalizar condutas de exploração e ódio contra mulheres.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        },
+        {
+          "id": "src-sm-14",
+          "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+          "publisher": "Today in Brazil",
+          "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado: desmilitarizar as polícias e acabar com a PM na forma atual; criminalizar condutas de exploração e ódio contra mulheres.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o desenho institucional proposto para substituir a PM?",
+            "why": "Sem esse dado não é possível medir custo, prazo e competência federativa da medida."
+          },
+          {
+            "question": "Como se daria a transição dos efetivos e das corporações estaduais?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "saude",
+      "name": "Saúde",
+      "kind": "proposta",
+      "position": "Programa registrado: ampliar o SUS e exigir que políticos, de vereador a presidente, usem exclusivamente a saúde pública.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-07",
+          "title": "Samara Martins defende que políticos usem o SUS",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado: ampliar o SUS e exigir que políticos, de vereador a presidente, usem exclusivamente a saúde pública.",
+        "requirement": {
+          "path": "lei-ordinaria"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o instrumento para obrigar agentes públicos a usar o SUS?",
+            "why": "Sem esse dado não é possível medir meta, financiamento e prazo do que se propõe."
+          },
+          {
+            "question": "Qual o aporte adicional previsto para ampliar o SUS?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "educacao",
+      "name": "Educação",
+      "kind": "proposta",
+      "position": "Programa registrado: 10% do PIB para educação, revogação do Novo Ensino Médio e fim do vestibular no acesso ao ensino público.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        },
+        {
+          "id": "src-sm-14",
+          "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+          "publisher": "Today in Brazil",
+          "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado: 10% do PIB para educação, revogação do Novo Ensino Médio e fim do vestibular no acesso ao ensino público.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Como será alcançado o patamar de 10% do PIB e em quanto tempo?",
+            "why": "Sem esse dado não é possível medir meta, responsável e prazo do que se propõe."
+          },
+          {
+            "question": "Qual critério substituiria o vestibular no acesso às universidades públicas?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "clima",
+      "name": "Clima e meio ambiente",
+      "kind": "proposta",
+      "position": "Programa registrado: transição de matrizes energéticas e de extração, contra desmatamento ilegal, garimpo, grilagem e contaminação por mercúrio.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-52",
+          "title": "Samara Martins propõe ampliar SUS, combater racismo e reduzir violência contra população negra",
+          "publisher": "Alma Preta",
+          "url": "https://almapreta.com.br/sessao/politica/samara-martins-programa-governo-eleicoes-2026",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Detalha o programa registrado: ampliação do SUS com gestão direta do Estado (retirada de organizações sociais, fundações privadas e cooperativas), aumento de 100% do salário mínimo, fim da escala 6x1 com duas referências de jornada no próprio documento (36 horas semanais em um trecho; 30 horas/4x3 em outro), reserva de vagas para pessoas negras no setor público, titulação de territórios quilombolas via Incra e Fundação Cultural Palmares, e fim do vestibular."
+        },
+        {
+          "id": "src-re-t03",
+          "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+          "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+          "publisher": "Portal Amazônia",
+          "date": "2026-09-29",
+          "type": "imprensa",
+          "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado: transição de matrizes energéticas e de extração, contra desmatamento ilegal, garimpo, grilagem e contaminação por mercúrio.",
+        "requirement": {
+          "path": "ato-executivo"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o cronograma da transição de matrizes energéticas prevista no programa?",
+            "why": "Sem esse dado não é possível medir meta, prazo e instrumento da política ambiental."
+          },
+          {
+            "question": "Como o programa trata a exploração de nióbio e terras raras?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "trabalho",
+      "name": "Trabalho e renda",
+      "kind": "proposta",
+      "position": "Programa registrado: fim da escala 6x1, jornada de 30 horas sem redução salarial e reajuste de 100% do salário mínimo como medida emergencial.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        },
+        {
+          "id": "src-sm-15",
+          "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+          "publisher": "Paraíba Online",
+          "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+          "publishedAt": "2026-07-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Candidatura própria sem coligações; propostas de valorização do salário mínimo e fim da 6×1."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado: fim da escala 6x1, jornada de 30 horas sem redução salarial e reajuste de 100% do salário mínimo como medida emergencial.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Jornada de 30 horas e fim da escala 6x1 passam por emenda constitucional",
+            "detail": "Jornada e duração do trabalho são definidas na Constituição; a redução para 30 horas semanais e o fim da escala 6x1 exigem emenda com 308 deputados e 49 senadores, em dois turnos em cada Casa, sem que o programa detalhe a transição.",
+            "sources": [
+              {
+                "id": "src-sm-41",
+                "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+                "publisher": "Poder360 (espelho do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+              },
+              {
+                "id": "src-sm-10",
+                "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o efeito fiscal estimado do reajuste de 100% do salário mínimo?",
+            "why": "Sem esse dado não é possível medir efeito sobre emprego, renda e custo de contratação."
+          },
+          {
+            "question": "Como a jornada de 30 horas seria negociada com setores dependentes de turnos?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "tributacao",
+      "name": "Tributação",
+      "kind": "proposta",
+      "position": "Programa registrado: taxar grandes fortunas, isentar trabalhadores e acabar com subsídios fiscais e financeiros a monopólios.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-92",
+          "title": "Candidata à Presidência registra plano de governo de duas páginas e é criticada nas redes",
+          "publisher": "Folha de S.Paulo (#Hashtag)",
+          "url": "https://www1.folha.uol.com.br/blogs/hashtag/2026/08/candidata-a-presidencia-registra-plano-de-governo-de-duas-paginas-e-e-criticada-nas-redes.shtml",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Documento com 16 pontos em uma página e meia, 'reajuste de 100% do salário mínimo', revogação das reformas trabalhistas e da Previdência, documento pula do ponto três para o cinco; partido anexou outra versão em 16/08 e a nova versão tem 67 páginas e cerca de 20 eixos."
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado: taxar grandes fortunas, isentar trabalhadores e acabar com subsídios fiscais e financeiros a monopólios.",
+        "requirement": {
+          "path": "lei-complementar",
+          "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual a alíquota pretendida para o imposto sobre grandes fortunas?",
+            "why": "Sem esse dado não é possível medir o efeito sobre a arrecadação e a partilha federativa."
+          },
+          {
+            "question": "Qual a renúncia de arrecadação estimada com a isenção dos trabalhadores?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "previdencia",
+      "name": "Previdência",
+      "kind": "proposta",
+      "position": "Programa registrado: revogar a reforma da Previdência, junto com a revogação da reforma trabalhista.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-92",
+          "title": "Candidata à Presidência registra plano de governo de duas páginas e é criticada nas redes",
+          "publisher": "Folha de S.Paulo (#Hashtag)",
+          "url": "https://www1.folha.uol.com.br/blogs/hashtag/2026/08/candidata-a-presidencia-registra-plano-de-governo-de-duas-paginas-e-e-criticada-nas-redes.shtml",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Documento com 16 pontos em uma página e meia, 'reajuste de 100% do salário mínimo', revogação das reformas trabalhistas e da Previdência, documento pula do ponto três para o cinco; partido anexou outra versão em 16/08 e a nova versão tem 67 páginas e cerca de 20 eixos."
+        },
+        {
+          "id": "src-sm-90",
+          "title": "Candidata da UP, Samara Martins quer dobrar salário mínimo",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo.shtml",
+          "publishedAt": "2026-08-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevista: aumento de 100% do salário mínimo, fim da escala 6x1, rejeição de federação com PT/PSOL/PSTU/PCB, alianças 'programáticas', resistência a antecipar apoio no 2º turno e declaração de que o texto inicial foi registrado no TSE 'pela exigência legal', com proposta de 67 páginas lançada depois."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado: revogar a reforma da Previdência, junto com a revogação da reforma trabalhista.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Quais regras da reforma de 2019 seriam revertidas e com que financiamento?",
+            "why": "Sem esse dado não é possível medir o efeito fiscal e quem assume o custo da mudança."
+          },
+          {
+            "question": "Qual o efeito fiscal estimado da reversão previdenciária?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "habitacao",
+      "name": "Habitação",
+      "kind": "proposta",
+      "position": "Programa registrado: usar imóveis abandonados para moradia, no eixo 'Saúde e moradia' da plataforma.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-07",
+          "title": "Samara Martins defende que políticos usem o SUS",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado: usar imóveis abandonados para moradia, no eixo 'Saúde e moradia' da plataforma.",
+        "requirement": {
+          "path": "depende-municipios"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Como seria feita a desapropriação ou o uso compulsório dos imóveis abandonados?",
+            "why": "Sem esse dado não é possível medir meta, custo e instrumento habitacional."
+          },
+          {
+            "question": "Qual a meta de unidades habitacionais e o custo previsto?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "instituicoes",
+      "name": "Instituições",
+      "kind": "proposta",
+      "position": "Programa registrado: Judiciário com juízes eleitos pelo voto popular; chapa própria, sem federação ou coligação.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        },
+        {
+          "id": "src-sm-06",
+          "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+          "publisher": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+        }
+      ],
+      "reality": {
+        "proposal": "Programa registrado: Judiciário com juízes eleitos pelo voto popular; chapa própria, sem federação ou coligação.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o modelo de eleição de juízes e o desenho de mandato propostos?",
+            "why": "Sem esse dado não é possível medir o que depende de emenda e de articulação no Congresso."
+          },
+          {
+            "question": "Quais outras mudanças institucionais o programa prevê para o Judiciário?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     }
   ]
 }

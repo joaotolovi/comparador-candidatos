@@ -1,8 +1,8 @@
 "use client";
 
-// Bloco 3 da V3 — capacidades demonstradas.
-// Cada capacidade: pergunta (camada 1), síntese, cobertura e "ver evidências"
-// (camada 2), com a fonte na camada 3. Nunca nota, nunca ranking.
+// Seção 05 — Experiência demonstrada (painel de capacidades).
+// Cartão: nome, nº de casos documentados, síntese curta e o clique. O texto
+// longo, as evidências e o teste de realidade vivem no detalhe.
 
 import { useState } from "react";
 import type { Candidate, Capacity } from "@/types";
@@ -16,6 +16,8 @@ import {
   SourcesInline,
   SLOTS,
 } from "@/components/section-shell";
+import { ExpandableText } from "@/components/expandable-text";
+import { RealityBlock, RealityMissing } from "@/components/reality-check";
 import {
   Sheet,
   SheetContent,
@@ -51,11 +53,28 @@ function EvidenceSheet({
         </SheetHeader>
 
         <div className="flex flex-col gap-4 p-6 pt-4">
+          <div className="flex flex-col gap-1">
+            <h3 className="label-field">Síntese</h3>
+            <p className="text-sm leading-relaxed text-foreground/90">
+              {capacity.synthesis || "Síntese em consolidação."}
+            </p>
+          </div>
+
           {capacity.coverageNote ? (
             <p className="rounded-md border border-dashed border-border p-3 text-xs leading-relaxed text-muted-foreground">
               {capacity.coverageNote}
             </p>
           ) : null}
+
+          {capacity.reality ? (
+            <RealityBlock reality={capacity.reality} />
+          ) : (
+            <RealityMissing />
+          )}
+
+          <h3 className="label-field">
+            Casos documentados ({capacity.evidences.length})
+          </h3>
 
           {capacity.evidences.length === 0 ? (
             <p className="text-sm text-muted-foreground">
@@ -130,6 +149,7 @@ function CapacityCard({
   const [open, setOpen] = useState(false);
   const capacity = candidate.capacities?.find((c) => c.slug === slug);
   const count = capacity?.evidences.length ?? 0;
+  const support = capacity?.reality?.support;
 
   return (
     <div className="flex h-full flex-col gap-2 rounded-md border border-border bg-card p-4">
@@ -140,17 +160,24 @@ function CapacityCard({
           <div className="flex flex-wrap items-center gap-2">
             <CoverageBadge coverage={capacity.coverage} note={capacity.coverageNote} />
             <span className="tabular text-xs text-muted-foreground">
-              {count} {count === 1 ? "evidência" : "evidências"}
+              {count} {count === 1 ? "caso documentado" : "casos documentados"}
             </span>
           </div>
 
-          <p className="text-sm leading-relaxed text-foreground/90">
-            {capacity.synthesis || "Síntese em consolidação."}
-          </p>
+          <ExpandableText
+            text={capacity.synthesis || "Síntese em consolidação."}
+            limit={150}
+            label="Ver síntese completa"
+          />
 
-          {capacity.coverageNote ? (
+          {support ? (
             <p className="text-xs leading-relaxed text-muted-foreground">
-              {capacity.coverageNote}
+              {[support.partySeats, support.coalitionSeats, support.federations]
+                .filter(Boolean)
+                .join(" · ")}
+              {support.documentedAgreements
+                ? ` · ${support.documentedAgreements} acordos documentados`
+                : ""}
             </p>
           ) : null}
 
@@ -159,10 +186,14 @@ function CapacityCard({
               variant="outline"
               size="sm"
               onClick={() => setOpen(true)}
-              disabled={count === 0}
-              aria-label={`Ver evidências de ${name} — ${candidate.name}`}
+              disabled={count === 0 && !capacity.reality}
+              aria-label={`Ver casos e teste de realidade de ${name} — ${candidate.name}`}
             >
-              {count > 0 ? `Ver evidências (${count})` : "Sem evidências"}
+              {count > 0
+                ? `Ver casos e teste (${count})`
+                : capacity.reality
+                ? "Ver teste de realidade"
+                : "Sem evidências"}
             </Button>
           </div>
 
@@ -197,16 +228,13 @@ export function CapacitiesSection({
         // Enquanto nenhum candidato tem evidências desta capacidade, mostra uma
         // linha honesta em vez de N cartões vazios.
         const anyData = candidates.some((c) =>
-          c.capacities?.some((x) => x.slug === cat.slug && x.evidences.length > 0),
+          c.capacities?.some((x) => x.slug === cat.slug && (x.evidences.length > 0 || x.reality)),
         );
         return (
           <div key={cat.slug} className="flex flex-col gap-3">
             <div className="flex flex-col gap-0.5">
               <h3 className="text-base font-semibold leading-snug">{cat.name}</h3>
               <p className="text-xs leading-relaxed text-muted-foreground">{cat.question}</p>
-              <p className="text-xs leading-relaxed text-muted-foreground/80">
-                Não conta como evidência: {cat.excludes}
-              </p>
             </div>
             {anyData ? (
               <CandidateColumns count={candidates.length}>
@@ -220,8 +248,8 @@ export function CapacitiesSection({
                     excludes={cat.excludes}
                     slot={SLOTS[i] ?? "a"}
                     hideTag={hideTag}
-                    />
-                    ))}
+                  />
+                ))}
               </CandidateColumns>
             ) : (
               <ContentEmpty

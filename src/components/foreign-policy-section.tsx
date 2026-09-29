@@ -1,7 +1,8 @@
 "use client";
 
-// Bloco 4 da V3 — como cada candidato enxerga o Brasil no mundo.
-// Visibilidade internacional é separada de capacidade diplomática.
+// Seção 06 — Brasil no mundo: visão, estratégia, atuação e projeção, sempre
+// separadas. O externo que existe como ato não recebe o peso de quem conduziu
+// negociação em nome do Estado.
 
 import type { Candidate } from "@/types";
 import {
@@ -12,6 +13,8 @@ import {
   SLOTS,
 } from "@/components/section-shell";
 import { EvidenceBadge, ConfidenceBadge } from "@/components/badges";
+import { ExpandableText } from "@/components/expandable-text";
+import { RealityBlock, RealityMissing } from "@/components/reality-check";
 
 const FIELD = "text-[11px] font-medium uppercase tracking-wide text-muted-foreground";
 
@@ -20,7 +23,6 @@ export function ForeignPolicySection({
   hideTag,
 }: {
   candidates: Candidate[];
-  /** perfil individual: não repetir a etiqueta de slot A/B/C */
   hideTag?: boolean;
 }) {
   return (
@@ -36,26 +38,30 @@ export function ForeignPolicySection({
             {f ? (
               <>
                 <div className="flex flex-col gap-1">
-                  <h3 className={FIELD}>Visão de mundo</h3>
-                  <p className="text-sm leading-relaxed text-foreground/90">{f.worldView}</p>
+                  <h3 className={FIELD}>O que propõe — visão de mundo</h3>
+                  <ExpandableText text={f.worldView} limit={150} />
                 </div>
                 <div className="flex flex-col gap-1">
-                  <h3 className={FIELD}>Estratégia de política externa</h3>
-                  <p className="text-sm leading-relaxed text-foreground/90">{f.strategy}</p>
+                  <h3 className={FIELD}>Estratégia</h3>
+                  <ExpandableText text={f.strategy} limit={150} />
                 </div>
                 <div className="flex flex-col gap-1">
-                  <h3 className={FIELD}>Experiência e articulação internacional</h3>
-                  <p className="text-sm leading-relaxed text-foreground/90">
-                    {f.internationalExperience}
-                  </p>
+                  <h3 className={FIELD}>Atuação internacional — o que já fez</h3>
+                  <ExpandableText text={f.internationalExperience} limit={150} />
                 </div>
                 <div className="flex flex-col gap-1">
                   <h3 className={FIELD}>Projeção internacional</h3>
-                  <p className="text-sm leading-relaxed text-foreground/90">{f.projection}</p>
+                  <ExpandableText text={f.projection} limit={150} />
                   <p className="border-l-2 border-border pl-2 text-xs leading-relaxed text-muted-foreground">
                     {f.projectionNote}
                   </p>
                 </div>
+
+                {f.reality ? (
+                  <RealityBlock reality={f.reality} title="Discurso × ações" />
+                ) : (
+                  <RealityMissing />
+                )}
 
                 <div className="mt-auto flex flex-col gap-2 border-t border-border pt-3">
                   <div className="flex flex-wrap items-center gap-2">
@@ -63,9 +69,7 @@ export function ForeignPolicySection({
                     <ConfidenceBadge level={f.confidenceLevel} />
                   </div>
                   {f.methodology ? (
-                    <p className="text-xs leading-relaxed text-muted-foreground">
-                      {f.methodology}
-                    </p>
+                    <p className="text-xs leading-relaxed text-muted-foreground">{f.methodology}</p>
                   ) : null}
                   <SourcesInline sources={f.sources} />
                 </div>

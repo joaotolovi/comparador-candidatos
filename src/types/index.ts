@@ -150,6 +150,8 @@ export interface PlanProposal {
   resultIndicator?: string;
   identifiedRisks?: string[];
   methodologyStatus: EvidenceStatus;
+  /** V4 — viabilidade e instrumentos: caminho institucional, tensões, lacunas */
+  reality?: RealityCheck;
   sources: Source[];
 }
 
@@ -252,6 +254,8 @@ export interface Candidate {
   foreignPolicy?: ForeignPolicy;
   /** V3 — transversal: coerência entre posições, propostas e histórico */
   coherence?: CoherenceItem[];
+  /** V4 — seção 07: posições por grandes temas (10 fixos) */
+  themes?: ThemePosition[];
   metrics: Metric[];
   sources: Source[];
   updatedAt: string; // ISO — última atualização do perfil
@@ -356,6 +360,8 @@ export interface Capacity {
   coverageNote?: string;
   /** camada 2 — 3 a 6 evidências concretas */
   evidences: CapacityEvidence[];
+  /** V4 — teste de realidade da capacidade (exigência institucional, tensões) */
+  reality?: RealityCheck;
   updatedAt: string;
 }
 
@@ -364,6 +370,8 @@ export interface CountryProject {
   /** 5–7 prioridades declaradas pelo próprio candidato */
   nationalPriorities: string[];
   developmentModel: string;
+  /** V4 — teste de realidade do projeto: instrumentos, metas, dependências */
+  reality?: RealityCheck;
   sources: Source[];
   evidenceStatus: EvidenceStatus;
   confidenceLevel: ConfidenceLevel;
@@ -378,6 +386,8 @@ export interface ForeignPolicy {
   projection: string;
   /** "projeção internacional mede notoriedade, não capacidade diplomática" */
   projectionNote: string;
+  /** V4 — discurso × ações: convergências, divergências e justificativa pública */
+  reality?: RealityCheck;
   sources: Source[];
   evidenceStatus: EvidenceStatus;
   confidenceLevel: ConfidenceLevel;
@@ -402,6 +412,152 @@ export interface CoherenceItem {
   tensionNote?: string;
   evidenceStatus: EvidenceStatus;
   confidenceLevel: ConfidenceLevel;
+}
+
+// ─── V4: camada analítica — TESTE DE REALIDADE ───────────────────────────────
+// A análise mostra a distância entre promessa e realidade observável: histórico,
+// instrumento legal, base institucional, custo, prazo e evidências em sentido
+// contrário. Ela NUNCA conclui sobre qualidade, viabilidade, intenção ou
+// capacidade futura — quem conclui é o leitor.
+
+export type InstitutionalPath =
+  | "ato-executivo"
+  | "lei-ordinaria"
+  | "lei-complementar"
+  | "pec"
+  | "depende-estados"
+  | "depende-municipios"
+  | "depende-privado"
+  | "negociacao-internacional"
+  | "indefinido";
+
+export const PATH_LABELS: Record<InstitutionalPath, string> = {
+  "ato-executivo": "Ato do Executivo",
+  "lei-ordinaria": "Precisa de lei ordinária",
+  "lei-complementar": "Precisa de lei complementar",
+  pec: "Precisa de emenda constitucional (PEC)",
+  "depende-estados": "Depende também dos estados",
+  "depende-municipios": "Depende também dos municípios",
+  "depende-privado": "Depende de agentes privados",
+  "negociacao-internacional": "Depende de negociação internacional",
+  indefinido: "Instrumento não especificado no documento",
+};
+
+export interface InstitutionalRequirement {
+  path: InstitutionalPath;
+  /** fato, quando o caminho exige o Congresso */
+  quorum?: string;
+  /** por que depende de estados, municípios, privados ou de outro país */
+  note?: string;
+}
+
+export type TensionKind =
+  | "mudanca-de-posicao"
+  | "acao-em-sentido-diferente"
+  | "proposta-sem-precedente"
+  | "proposta-x-restricao-institucional"
+  | "proposta-x-outra-proposta";
+
+export const TENSION_LABELS: Record<TensionKind, string> = {
+  "mudanca-de-posicao": "Mudança de posição",
+  "acao-em-sentido-diferente": "Ação em sentido diferente",
+  "proposta-sem-precedente": "Proposta sem precedente",
+  "proposta-x-restricao-institucional": "Proposta × restrição institucional",
+  "proposta-x-outra-proposta": "Proposta × outra proposta",
+};
+
+export interface Tension {
+  kind: TensionKind;
+  /** ≤150 caracteres, factual */
+  title: string;
+  /** ≤400 caracteres, factual */
+  detail: string;
+  sources: Source[];
+  evidenceStatus: EvidenceStatus;
+  confidenceLevel: ConfidenceLevel;
+}
+
+/** Fato datado do histórico relacionado — permite mostrar data e fonte por item. */
+export interface HistoryFact {
+  date?: string;
+  fact: string;
+  sources?: Source[];
+}
+
+export type HistoryEntry = string | HistoryFact;
+
+export interface RealityCheck {
+  /** o que propõe, em uma frase (≤150 caracteres) */
+  proposal: string;
+  requirement?: InstitutionalRequirement;
+  /** o registro existente, sem presumir comportamento futuro */
+  history?: {
+    aligned: HistoryEntry[];
+    divergent: HistoryEntry[];
+    noComparablePrecedent?: string;
+  };
+  /** sustentação observável hoje — nunca previsão do próximo Congresso */
+  support?: {
+    partySeats?: string;
+    coalitionSeats?: string;
+    federations?: string;
+    documentedAgreements: number;
+    note: string;
+  };
+  tensions: Tension[];
+  /** o que os documentos não esclarecem — sempre em forma de pergunta */
+  openQuestions: { question: string; why: string }[];
+  /** justificativa pública do próprio candidato, quando existir */
+  publicExplanation?: string;
+  methodology: string;
+  evidenceStatus: EvidenceStatus;
+  confidenceLevel: ConfidenceLevel;
+}
+
+/** Seção 07 — posições por grandes temas (conjunto fixo, igual para todos). */
+export type ThemeSlug =
+  | "economia"
+  | "seguranca"
+  | "saude"
+  | "educacao"
+  | "clima"
+  | "trabalho"
+  | "tributacao"
+  | "previdencia"
+  | "habitacao"
+  | "instituicoes";
+
+export const THEMES: { slug: ThemeSlug; name: string; question: string }[] = [
+  { slug: "economia", name: "Economia", question: "Que política econômica e de desenvolvimento propõe?" },
+  { slug: "seguranca", name: "Segurança pública", question: "O que propõe para segurança e qual é a competência federal?" },
+  { slug: "saude", name: "Saúde", question: "Que meta e que financiamento para a saúde?" },
+  { slug: "educacao", name: "Educação", question: "O que propõe para educação e com que responsável e prazo?" },
+  { slug: "clima", name: "Clima e meio ambiente", question: "Qual posição sobre clima, desmatamento e transição?" },
+  { slug: "trabalho", name: "Trabalho e renda", question: "O que propõe para emprego, renda e relações de trabalho?" },
+  { slug: "tributacao", name: "Tributação", question: "O que propõe em tributos e como compensa a arrecadação?" },
+  { slug: "previdencia", name: "Previdência", question: "Qual posição sobre previdência e financiamento?" },
+  { slug: "habitacao", name: "Habitação", question: "Que meta habitacional, com que custo e instrumento?" },
+  { slug: "instituicoes", name: "Instituições", question: "O que propõe para o sistema político, Judiciário e federalismo?" },
+];
+
+/** De onde vem a posição do tema: do candidato, do partido (rotulado) ou ausente. */
+export type ThemeSourceKind = "candidato" | "partido" | "ausente";
+
+export const THEME_SOURCE_LABELS: Record<ThemeSourceKind, string> = {
+  candidato: "Posição do candidato",
+  partido: "Posição do partido (não é declaração do candidato)",
+  ausente: "Sem posição localizada",
+};
+
+export interface ThemePosition {
+  slug: ThemeSlug;
+  name: string;
+  kind: ClaimKind;
+  /** ≤150 caracteres */
+  position: string;
+  sourceKind: ThemeSourceKind;
+  sources: Source[];
+  reality?: RealityCheck;
 }
 
 export const CAPACITY_CATALOG: {
@@ -469,6 +625,8 @@ export const CAPACITY_CATALOG: {
 export type SectionSlug =
   | "pais"
   | "caminho"
+  | "viabilidade"
+  | "temas"
   | "capacidades"
   | "mundo"
   | "coerencia"
@@ -487,32 +645,44 @@ export const SECTIONS: {
 }[] = [
   {
     slug: "pais",
-    name: "Para onde querem levar o Brasil?",
-    question: "Qual país cada candidato descreve para os próximos 10–20 anos?",
+    name: "Projeto de país",
+    question: "Onde cada candidato quer chegar — e o que o projeto deixa em aberto?",
     kind: "content",
   },
   {
     slug: "caminho",
-    name: "Como pretendem chegar lá?",
+    name: "Prioridades e propostas",
     question: "Como as prioridades declaradas se transformam em propostas concretas?",
     kind: "content",
   },
   {
+    slug: "viabilidade",
+    name: "Viabilidade e instrumentos",
+    question: "Prazo, custo, instrumento legal e dependência institucional de cada proposta.",
+    kind: "metrics",
+  },
+  {
     slug: "capacidades",
-    name: "Que capacidades suas trajetórias demonstram?",
+    name: "Experiência demonstrada",
     question: "Que evidências concretas existem de cada capacidade necessária para governar?",
     kind: "content",
   },
   {
     slug: "mundo",
-    name: "Como enxergam o Brasil no mundo?",
-    question: "Qual visão de política externa, estratégia e experiência internacional?",
+    name: "Brasil no mundo",
+    question: "Visão, estratégia e atuação internacional — sem misturar as três.",
+    kind: "content",
+  },
+  {
+    slug: "temas",
+    name: "Posições por grandes temas",
+    question: "O que cada candidato (ou seu partido) propõe em cada tema — e o que a realidade diz.",
     kind: "content",
   },
   {
     slug: "coerencia",
-    name: "O que suas trajetórias mostram?",
-    question: "Existe continuidade entre o que dizem, propõem e fizeram?",
+    name: "Histórico × proposta atual",
+    question: "Posição, proposta e ato praticado, lado a lado ao longo do tempo.",
     kind: "content",
   },
   {
@@ -540,11 +710,12 @@ export const SECTIONS: {
 
 /** Métrica do currículo/plano/opinião → seção onde ela aparece. */
 export const SECTION_OF_METRIC: Record<string, SectionSlug> = {
-  // plano (Como pretendem chegar lá)
+  // prioridades e propostas
   propostas_total: "caminho",
-  propostas_com_custo: "caminho",
-  propostas_com_prazo: "caminho",
-  propostas_dependentes_congresso: "caminho",
+  // viabilidade e instrumentos (prazo, custo, dependência)
+  propostas_com_custo: "viabilidade",
+  propostas_com_prazo: "viabilidade",
+  propostas_dependentes_congresso: "viabilidade",
   // opinião pública
   aprovacao_gestao: "opiniao",
   intencao_voto_recente: "opiniao",

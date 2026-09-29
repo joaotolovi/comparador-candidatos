@@ -1,0 +1,697 @@
+{
+  "grupo": "r1",
+  "escopo": "mundo",
+  "sources": [
+    {
+      "id": "src-re-01",
+      "title": "Às vésperas de audiência nos EUA, Flávio acusa Lula de usar soberania como 'falsa narrativa' para favorecer o tarifaço",
+      "publisher": "O Globo (Luísa Marzullo)",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/07/06/as-vesperas-de-audiencia-nos-eua-flavio-acusa-lula-de-usar-soberania-como-falsa-narrativa-para-favorecer-o-tarifaco.ghtml",
+      "publishedAt": "2026-07-06",
+      "date": "2026-07-06",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-02",
+      "title": "Flávio atua contra tarifaço e enfraquece narrativa de Lula",
+      "publisher": "Gazeta do Povo (Wesley Oliveira)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-eua-tarifaco-lula-discurso-sobre-soberania",
+      "publishedAt": "2026-07-07",
+      "date": "2026-07-07",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-03",
+      "title": "Escudo das Américas: Flávio Bolsonaro promete adesão, enquanto especialista alerta para riscos",
+      "publisher": "Veja (Nicholas Shores)",
+      "url": "https://veja.abril.com.br/politica/escudo-das-americas-flavio-bolsonaro-promete-adesao-enquanto-especialista-alerta-para-riscos",
+      "publishedAt": "2026-09-26",
+      "date": "2026-09-26",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-04",
+      "title": "Flávio Bolsonaro consolida seu viralatismo ao oferecer transição aos EUA",
+      "publisher": "CONTEE (Confederação Nacional dos Trabalhadores em Estabelecimentos de Ensino)",
+      "url": "https://contee.org.br/flavio-bolsonaro-consolida-seu-viralatismo-ao-oferecer-transicao-aos-eua/",
+      "publishedAt": "2026-06-29",
+      "date": "2026-06-29",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-05",
+      "title": "Tarifaço: o que o governo Lula ofereceu e o que vetou nas negociações para evitar as novas taxas de Trump",
+      "publisher": "O Globo (Bernardo Lima)",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/07/17/tarifaco-o-que-o-governo-lula-ofereceu-e-o-que-vetou-nas-negociacoes-para-evitar-em-vao-as-novas-taxas-de-trump.ghtml",
+      "publishedAt": "2026-07-17",
+      "date": "2026-07-17",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-06",
+      "title": "Trump exigiu 21 medidas do Brasil para aliviar o tarifaço",
+      "publisher": "Jornal do Brasil",
+      "url": "https://www.jb.com.br/brasil/politica/2026/09/1060936-trump-impos-21-exigencias-ao-brasil-para-aliviar-tarifaco-de-50.html",
+      "publishedAt": "2026-09-17",
+      "date": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-07",
+      "title": "Caiado negociou terras raras direto com os EUA. Mas quem pode fazer isso no Brasil?",
+      "publisher": "Lawletter (Filippe Augusto)",
+      "url": "https://lawletter.com.br/articulista/filippe-augusto/caiado-negociou-terras-raras-direto-com-os-eua-mas-quem-pode-fazer-isso-no-brasil",
+      "publishedAt": "2026-04-03",
+      "date": "2026-04-03",
+      "accessedAt": "2026-09-29",
+      "type": "editorial"
+    },
+    {
+      "id": "src-re-08",
+      "title": "Acordo Goiás-Estados Unidos sobre terras raras é inconstitucional",
+      "publisher": "Consultor Jurídico (Conjur)",
+      "url": "https://conjur.com.br/2026-abr-26/acordo-goias-eua-sobre-terras-raras-e-totalmente-inconstitucional-2/",
+      "publishedAt": "2026-04-26",
+      "date": "2026-04-26",
+      "accessedAt": "2026-09-29",
+      "type": "editorial"
+    },
+    {
+      "id": "src-re-09",
+      "title": "MPF abre procedimento para acompanhar acordo de Goiás com os EUA sobre terras raras",
+      "publisher": "Veja",
+      "url": "https://veja.abril.com.br/brasil/mpf-abre-procedimento-para-acompanhar-acordo-sobre-terras-raras-de-goias-com-os-eua/",
+      "publishedAt": "2026-07-26",
+      "date": "2026-07-26",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-10",
+      "title": "Zema chama Trump de 'fanfarrão' e culpa Lula e família Bolsonaro por tarifaço",
+      "publisher": "Gazeta do Povo (Diógenes Freire Feitosa)",
+      "url": "https://gazetadopovo.com.br/eleicoes/2026/zema-chama-trump-de-fanfarrao-e-culpa-lula-e-familia-bolsonaro-por-tarifaco/",
+      "publishedAt": "2026-08-06",
+      "date": "2026-08-06",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-11",
+      "title": "Zema defende retaliar EUA por taxas e critica atuações de Lula e Flávio",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/zema-defende-retaliar-eua-por-taxas-e-critica-atuacoes-de-lula-e-flavio/",
+      "publishedAt": "2026-08-06",
+      "date": "2026-08-06",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-12",
+      "title": "Zema defende retaliação aos EUA por tarifaço, 'mudança profunda' no Judiciário e modelo de segurança inspirado em Bukele",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/06/zema-defende-mudanca-profunda-no-judiciario-e-diz-que-pais-vive-estado-de-excecao.ghtml",
+      "publishedAt": "2026-08-06",
+      "date": "2026-08-06",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-13",
+      "title": "Tarifaço levou governo Lula a adotar discurso sobre soberania",
+      "publisher": "Poder360 (Lara Brito)",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarifaco-levou-governo-lula-a-adotar-discurso-sobre-soberania/",
+      "publishedAt": "2026-09-22",
+      "date": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-14",
+      "title": "Lula diz que não veta EUA ou China em exploração de terras raras, mas soberania é inegociável",
+      "publisher": "Valor Econômico (Joelmir Tavares)",
+      "url": "https://valor.globo.com/brasil/noticia/2026/05/18/lula-diz-que-nao-veta-eua-ou-china-em-exploracao-de-terras-raras-mas-soberania-e-inegociavel.ghtml",
+      "publishedAt": "2026-05-18",
+      "date": "2026-05-18",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-15",
+      "title": "Congresso Nacional promulga acordo Mercosul-União Europeia",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/congresso-nacional-promulga-acordo-mercosul-uniao-europeia",
+      "publishedAt": "2026-03-17",
+      "date": "2026-03-17",
+      "accessedAt": "2026-09-29",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-16",
+      "title": "Após tarifaço de Trump, Lula discute acordo China-Mercosul com Xi Jinping",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cn8nvwv6wg3o",
+      "publishedAt": "2026-07-27",
+      "date": "2026-07-27",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-17",
+      "title": "'Não existe ajuda do governo americano', diz Flávio sobre exigência dos EUA para que 'dissidentes políticos' participem da eleição",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/17/nao-existe-ajuda-do-governo-americano-diz-flavio-sobre-exigencia-dos-eua-para-que-dissidentes-politicos-participem-da-eleicao.ghtml",
+      "publishedAt": "2026-09-17",
+      "date": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-18",
+      "title": "Negociações do Brasil com os EUA foram 'intensas', mas 'improdutivas', afirma agência",
+      "publisher": "CBN/Globo (com Reuters)",
+      "url": "https://cbn.globo.com/economia/noticia/2026/07/15/negociacoes-do-brasil-com-os-eua-foram-intensas-mas-improdutivas-afirma-agencia.ghtml",
+      "publishedAt": "2026-07-15",
+      "date": "2026-07-15",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-19",
+      "title": "Flávio diz que terá relação pragmática com a China",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-tera-relacao-pragmatica-com-a-china/",
+      "publishedAt": "2026-09-21",
+      "date": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-20",
+      "title": "Lula says Trump wants to 'colonise' and capture Brazil's resources by meddling in election",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+      "publishedAt": "2026-09-25",
+      "date": "2026-09-25",
+      "accessedAt": "2026-09-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-21",
+      "title": "Plano Brasil Soberano 2026 — medidas do BNDES frente à instabilidade internacional",
+      "publisher": "BNDES",
+      "url": "https://www.bndes.gov.br/wps/portal/site/home/emergenciais/brasil-soberano",
+      "publishedAt": "2026-07-22",
+      "date": "2026-07-22",
+      "accessedAt": "2026-09-29",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-22",
+      "title": "Tramitação do Projeto de Decreto Legislativo 41/2026 — Acordo Mercosul-União Europeia",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600290",
+      "publishedAt": "2026-02-02",
+      "date": "2026-02-02",
+      "accessedAt": "2026-09-29",
+      "type": "legislativo"
+    }
+  ],
+  "candidates": {
+    "lula": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "Soberania e independência como eixos do programa; diversificação de mercados e negociação com os EUA para retirar as tarifas.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "A retirada das tarifas depende de decisão do governo dos EUA (sobretaxa de 25% vigente desde 22/07/2026). Acordos de comércio dependem de consenso dos Estados-partes e do Congresso: o Mercosul-UE foi promulgado em 17/03/2026, após o PDL 41/2026. A negociação com a China segue sem texto assinado até 29/09/2026 e a acessão à OCDE depende de consenso dos membros."
+          },
+          "history": {
+            "aligned": [
+              "18/05/2026: diz não ter 'veto nem preferência' por EUA ou China nas terras raras e condiciona parcerias à soberania.",
+              "22/07/2026: Plano Brasil Soberano 2026 reúne medidas de crédito do BNDES para empresas afetadas pelas tarifas.",
+              "06/09/2026: em pronunciamento de 7 de Setembro, afirma que 'não somos colônia e não seremos colônia de ninguém'.",
+              "17/09/2026: governo rejeita a exigência dos EUA sobre participação de 'dissidentes políticos' na eleição.",
+              "22/09/2026: na abertura da Assembleia Geral da ONU, condena interferência externa em assuntos internos do país."
+            ],
+            "divergent": [
+              "07/05/2026: em Washington, discute crime organizado, tarifas e minerais críticos com Trump e propõe grupo de trabalho bilateral.",
+              "15/07/2026: EUA confirmam tarifa adicional de 25%, em vigor desde 22/07; a Reuters relata tratativas 'intensas' e 'improdutivas'.",
+              "17/07/2026: o governo relata abertura de mercados aos EUA e veto ao Pix e ao etanol na negociação.",
+              "27/07/2026: telefonema com Xi Jinping trata de acelerar a negociação do acordo China-Mercosul.",
+              "25/09/2026: em campanha, diz que Trump quer 'colonizar' o Brasil e capturar seus recursos naturais."
+            ]
+          },
+          "support": {
+            "partySeats": "PT: 67/513 deputados federais (2ª maior bancada); federação Brasil da Esperança (PT+PCdoB+PV): 84",
+            "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026, com 7 partidos",
+            "documentedAgreements": 30,
+            "note": "Retrato atual, não previsão do próximo Congresso. Contagem = atos internacionais documentados: 'mais de 30 reuniões entre autoridades dos dois países desde março de 2025', segundo o chanceler Mauro Vieira (O Globo, 17/07/2026). Acordos passam pelo Congresso.",
+            "sources": [
+              "src-re-05"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Acordo Mercosul-China e acessão à OCDE dependem de consenso externo e do Congresso",
+              "detail": "A negociação com a China é conduzida no âmbito do Mercosul e não há texto assinado até 29/09/2026; a internalização de acordos do bloco passou pelo Congresso em 2026 (Mercosul-UE promulgado em 17/03/2026, após o PDL 41/2026). A acessão à OCDE, com processo paralisado, depende de consenso entre os membros.",
+              "sources": [
+                "src-re-15",
+                "src-re-22",
+                "src-re-16",
+                "src-mundo-05"
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Soberania como eixo do discurso e mesa de negociação tarifária com Washington no mesmo período",
+              "detail": "Em 2026 o governo adotou a soberania como eixo do discurso (Plano Brasil Soberano, jul; condenação de interferência externa na ONU, 22/09) e manteve mais de 30 reuniões bilaterais com os EUA, oferta de abertura de mercados e proposta de grupo de trabalho (Casa Branca, 07/05). As tarifas de 25% vigoram desde 22/07 e exigências americanas foram rejeitadas em 17/09.",
+              "sources": [
+                "src-re-13",
+                "src-re-05",
+                "src-re-06",
+                "src-re-18",
+                "src-re-21",
+                "src-lula-107",
+                "src-mundo-10"
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Condena operações dos EUA na região e propõe cooperação em segurança com Washington",
+              "detail": "O Brasil condenou operações militares americanas de combate ao 'narcoterrorismo' (Caribe, 2025; Venezuela, jan/2026) e não aderiu ao Escudo das Américas (2026); no mesmo período propôs aos EUA cooperação em segurança com compartilhamento de inteligência.",
+              "sources": [
+                "src-mundo-01",
+                "src-mundo-03"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o escopo e o resultado do grupo de trabalho bilateral de 30 dias proposto em 07/05/2026?",
+              "why": "Não há resultado publicado até 29/09/2026; as fontes registram a proposta e a ausência de acordos assinados no encontro.",
+              "sources": [
+                "src-mundo-10",
+                "src-re-18"
+              ]
+            },
+            {
+              "question": "Qual o percentual de tarifas americanas em vigor por produto em 29/09/2026?",
+              "why": "As fontes registram a tarifa adicional de 25% e exceções parciais, sem consolidação por produto.",
+              "sources": [
+                "src-mundo-09",
+                "src-re-18"
+              ]
+            },
+            {
+              "question": "Qual o prazo previsto para o acordo Mercosul-China e o que depende do consenso dos Estados-partes?",
+              "why": "A negociação foi tratada em telefonema com Xi Jinping (27/07/2026) e segue sem texto assinado até 29/09/2026.",
+              "sources": [
+                "src-re-16",
+                "src-mundo-05"
+              ]
+            },
+            {
+              "question": "Qual o argumento oficial para manter paralisada a acessão à OCDE?",
+              "why": "As fontes consultadas registram a paralisação e o argumento sobre cláusulas de investimento, sem novo prazo divulgado.",
+              "sources": [
+                "src-mundo-01"
+              ]
+            }
+          ],
+          "publicExplanation": "Em 18/05/2026 disse não ter 'veto nem preferência' por EUA ou China nas terras raras, condicionando parcerias ao respeito à soberania ('os minerais críticos são nossos'); em 06/09/2026 afirmou que 'não somos colônia'; em 22/09/2026, na ONU, condenou interferência externa em assuntos brasileiros.",
+          "methodology": "Análise aproximada a partir do programa registrado no TSE (ago/2026) e de fontes de 2025-2026 (O Globo, g1, Folha, Estadão, Valor, JB, Poder360, BBC, CBN, Agência Brasil, BNDES, Guardian). Contagem de atos internacionais = reuniões, missões, memorandos ou acordos localizados. Ficou fora: resultado do grupo de trabalho bilateral, tarifas por produto e texto do acordo Mercosul-China.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "high"
+        }
+      }
+    },
+    "flavio-bolsonaro": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "Diplomacia 'pragmática, não ideológica': aproximar o Brasil de EUA, Argentina e Israel, retomar a OCDE e negociar fora do Mercosul.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "Parte das medidas depende de ato do Executivo e parte de negociação com outros países: sair do BRICS, negociar fora do Mercosul e aderir ao Escudo das Américas atingem tratados e blocos; acordos bilaterais e a mudança de embaixada exigiriam tratados aprovados pelo Congresso (art. 49, I, CF); a acessão à OCDE depende de consenso dos membros."
+          },
+          "history": {
+            "aligned": [
+              "07/07/2026: antes de audiência nos EUA, diz que o tarifaço é 'ruim para o Brasil e os americanos' e pede suspensão por 180 dias.",
+              "29/08/2026: em entrevista ao Jornal Nacional, afirma que respeitará o resultado da eleição.",
+              "17/09/2026: nega que a oposição receba ajuda do governo americano, após a revelação da exigência sobre 'dissidentes'.",
+              "21/09/2026: diz que a relação com a China será 'sempre pragmática economicamente'."
+            ],
+            "divergent": [
+              "28/03/2026: na CPAC, diz que o Brasil é 'a solução' para os EUA em terras raras e pede 'pressão diplomática' sobre instituições.",
+              "26-27/05/2026: é recebido por Trump na Casa Branca e se reúne com JD Vance e Marco Rubio; volta a pedir a designação de PCC e CV como terroristas.",
+              "Junho/2026: em carta a Marco Rubio, coloca sua 'equipe de transição' à disposição dos EUA caso seja eleito; Rubio responde em 23/06/2026.",
+              "Janeiro/2026: primeira viagem internacional como pré-candidato é a Israel, com encontro com Netanyahu; promete mudar a embaixada para Jerusalém.",
+              "06/07/2026: em vídeo gravado em Washington, diz que o governo usa 'falsa narrativa' de soberania e que Lula 'é o único que quer a tarifa'.",
+              "26/09/2026: promete que o Brasil aderirá ao Escudo das Américas, coalizão liderada pelos EUA."
+            ]
+          },
+          "support": {
+            "partySeats": "PL: 98/513 deputados federais (2ª maior bancada)",
+            "coalitionSeats": "PL isolado, sem coligação ou federação formal (chapa PL, vice Alfredo Gaspar, oficializada em 25/07/2026)",
+            "documentedAgreements": 6,
+            "note": "Retrato atual, não previsão do próximo Congresso. Contagem = atos internacionais documentados (missões, reuniões e manifestações em foro estrangeiro): Israel (jan/2026), CPAC (28/03), Casa Branca e gabinetes americanos (26-27/05), carta ao secretário de Estado (jun) e audiência do USTR (07/07).",
+            "sources": [
+              "src-re-02"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Crítica ao tarifaço e à soberania como 'falsa narrativa' com atos datados de aproximação ao governo dos EUA",
+              "detail": "Em 2026 criticou o tarifaço, pediu ao USTR suspensão por 180 dias e chamou de 'falsa narrativa' a defesa da soberania feita pelo governo (06-07/07). No mesmo período reuniu-se com Trump na Casa Branca (26-27/05), discursou na CPAC pedindo pressão externa sobre instituições brasileiras (28/03), ofereceu por carta equipe de transição aos EUA (jun) e prometeu adesão ao Escudo das Américas (26/09).",
+              "sources": [
+                "src-re-01",
+                "src-re-02",
+                "src-re-03",
+                "src-re-04",
+                "src-mundo-07",
+                "src-mundo-08",
+                "src-flavio-bolsonaro-21",
+                "src-flavio-bolsonaro-22"
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Promessa de adesão ao Escudo das Américas e ressalva pública contra intervenção americana",
+              "detail": "Em 26/09/2026 o candidato prometeu incorporar o Brasil ao Escudo das Américas, coalizão liderada pelos EUA, e, no mesmo período, declarou que não aceitaria intervenção americana no país. O governo classificou a iniciativa como risco à soberania e a cobertura registra alerta de especialistas sobre compromissos implícitos de defesa.",
+              "sources": [
+                "src-re-03",
+                "src-mundo-01"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Negociar fora do Mercosul e rever a permanência no BRICS atingem tratados e dependem do Congresso",
+              "detail": "O programa registrado não menciona BRICS nem Mercosul; o senador defende que o Brasil se liberte 'das amarras do Mercosul' (07/07/2026) e afirma que o bloco é 'muito ideológico'. Acordos de comércio dependem dos Estados-partes e do Congresso (art. 49, I, CF): em 2026 a internalização de acordos do bloco passou por PDLs (Mercosul-UE e Mercosul-EFTA).",
+              "sources": [
+                "src-flavio-bolsonaro-22",
+                "src-flavio-bolsonaro-25",
+                "src-re-22",
+                "src-mundo-02"
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Não há plano divulgado sobre flexibilização ou saída do Mercosul: quais Estados-partes seriam consultados e qual o instrumento?",
+              "why": "O programa registrado (ago/2026) não menciona Mercosul nem BRICS; a defesa de negociar fora do bloco aparece em manifestação de 07/07/2026.",
+              "sources": [
+                "src-flavio-bolsonaro-25",
+                "src-flavio-bolsonaro-22"
+              ]
+            },
+            {
+              "question": "A adesão ao Escudo das Américas se daria por tratado, acordo executivo ou memorando, e com quais condições?",
+              "why": "A promessa foi feita em 26/09/2026 e o Brasil não participou da iniciativa lançada em março; não há texto divulgado até 29/09/2026.",
+              "sources": [
+                "src-re-03"
+              ]
+            },
+            {
+              "question": "Qual o desenho do acordo bilateral com os EUA em minerais críticos e como ele se relaciona com a competência da União?",
+              "why": "A oferta de ser 'a solução' em terras raras foi feita na CPAC (28/03/2026); o programa não detalha instrumento nem contrapartidas.",
+              "sources": [
+                "src-flavio-bolsonaro-20",
+                "src-mundo-01"
+              ]
+            },
+            {
+              "question": "A mudança da embaixada para Jerusalém e a adesão aos 'Acordos de Isaac': qual o desenho e o que dependeria do Congresso?",
+              "why": "A promessa é de alinhamento a Israel a partir de 2027; não há texto ou prazo divulgado nas fontes consultadas.",
+              "sources": [
+                "src-flavio-119",
+                "src-flavio-bolsonaro-23"
+              ]
+            },
+            {
+              "question": "Qual a posição sobre a permanência no BRICS além da declaração de que o bloco é 'muito ideológico' (jun/2026)?",
+              "why": "O programa não cita o BRICS e a manifestação registrada trata de pragmatismo com a China, sem instrumento previsto.",
+              "sources": [
+                "src-fb-11",
+                "src-mundo-02"
+              ]
+            }
+          ],
+          "publicExplanation": "Em vídeo de Washington (06/07/2026) disse que o governo usa 'falsa narrativa' de defesa da soberania e que Lula 'é o único que quer a tarifa'; em 07/07/2026 pediu ao USTR a suspensão das tarifas por 180 dias e defendeu libertar o Brasil 'das amarras do Mercosul'; em 21/09/2026 disse que a relação com a China será 'sempre pragmática economicamente'.",
+          "methodology": "Análise aproximada a partir do programa registrado (ago/2026) e de cobertura de 2025-2026 (O Globo, Folha, Veja, BBC, CNN, Gazeta do Povo, Congresso em Foco, Poder360, Reuters, SBT, Estadão). Ficou fora: íntegra das cartas trocadas com o governo dos EUA, resultado da audiência do USTR, desenho do Escudo das Américas e desenho do acordo de minerais.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "high"
+        }
+      }
+    },
+    "caiado": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "Plano sem 'alinhamentos automáticos', prioridade a Ásia, África e Indo-Pacífico; minerais críticos com processamento local, SULPOL e adesão à OCDE.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "O memorando com os EUA foi assinado por governador em 18/03/2026 e análises jurídicas apontam competência da União para manter relações com Estados estrangeiros (art. 21, I, e art. 84, VIII, CF) e reserva de lei federal sobre jazidas e minas. Acordos exigem aprovação do Congresso (art. 49, I); a SULPOL exigiria tratados com os vizinhos; a OCDE depende de consenso dos membros."
+          },
+          "history": {
+            "aligned": [
+              "07/08/2026: em sabatina, diz que não quer bravata com os EUA e que haveria 'nova orientação' no Itamaraty.",
+              "Agosto/2026: propõe a SULPOL, agência policial sul-americana, e rejeita operações dos EUA em território brasileiro.",
+              "Desde julho/2025: negocia memorando com a estatal japonesa JOGMEC para separação e processamento de terras raras em Goiás.",
+              "12/08/2026: define o objetivo como atrair tecnologia para processar minerais no país e nega entregar terras raras aos EUA."
+            ],
+            "divergent": [
+              "18/03/2026: assina memorando com os EUA em São Paulo, com cinco eixos, sem passar pela União nem pelo Congresso.",
+              "24/03/2026: a Folha acessa o texto, que prevê sigilo de cinco anos e possível exclusividade sobre dados geológicos.",
+              "03 e 26/04/2026: análises jurídicas apontam competência da União e questionam a validade do acordo estadual (Lawletter e Conjur).",
+              "26/07/2026: o MPF abre procedimento para acompanhar as negociações de Goiás com os EUA.",
+              "08/04/2026: Lula afirma que Caiado e Flávio Bolsonaro vão 'vender o Brasil' ao tratar de minerais críticos."
+            ]
+          },
+          "support": {
+            "partySeats": "PSD: 49/513 deputados federais (posição após a janela partidária de 2026)",
+            "coalitionSeats": "PSD em chapa própria, partido isolado no registro do DJE/TSE de 18/09/2026 (vice: Gilberto Kassab)",
+            "documentedAgreements": 2,
+            "note": "Retrato atual, não previsão do próximo Congresso. Contagem = atos internacionais documentados: memorando com os EUA (18/03/2026) e memorando em negociação com a estatal japonesa JOGMEC (desde jul/2025). Acordos e tratados passam pelo Congresso.",
+            "sources": [
+              "src-caiado-84",
+              "src-caiado-86"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Memorando de Goiás com os EUA: competência da União e etapa congressual apontadas por juristas",
+              "detail": "Assinado em 18/03/2026 por um governador, sem passar pela União ou pelo Congresso, o memorando prevê sigilo de cinco anos e possível exclusividade de dados geológicos. Análises jurídicas de abril de 2026 apontam competência da União para relações internacionais e jazidas e minas; Goiás sustenta respaldo estadual e trata o documento como não vinculante; o MPF abriu procedimento em julho.",
+              "sources": [
+                "src-caiado-85",
+                "src-re-07",
+                "src-re-08",
+                "src-re-09"
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Discurso de negociar sem submissão e memorando assinado diretamente com o governo dos EUA",
+              "detail": "No mesmo período em que afirma que não fará bravata com os EUA e rejeita submissão (07/08/2026), o candidato mantém o memorando assinado em 18/03/2026, com cláusulas de sigilo e exclusividade, e responde às críticas dizendo que busca atrair tecnologia para processar minerais no país (12/08/2026). A campanha rejeita operações americanas em território brasileiro.",
+              "sources": [
+                "src-caiado-84",
+                "src-caiado-87",
+                "src-caiado-88",
+                "src-mundo-01"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "SULPOL, agência policial sul-americana, exigiria tratados e aprovação do Congresso",
+              "detail": "A criação de uma polícia sul-americana integrada é apresentada em agosto de 2026 sem instrumento definido nas fontes consultadas; uma agência com atuação em outros países exigiria tratados negociados pelo Executivo e aprovados pelo Congresso (art. 49, I, CF).",
+              "sources": [
+                "src-caiado-130",
+                "src-re-22"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "A íntegra do memorando de Goiás com os EUA não foi divulgada: quais são os cinco eixos e o que é vinculante?",
+              "why": "O texto foi obtido pela Folha em 24/03/2026, com cláusulas de sigilo de cinco anos, e a íntegra não estava pública até 29/09/2026.",
+              "sources": [
+                "src-caiado-85",
+                "src-caiado-84"
+              ]
+            },
+            {
+              "question": "Como Goiás pretende compatibilizar sigilo e exclusividade de dados geológicos com a competência da União sobre minerais?",
+              "why": "O estado sustenta respaldo na Lei estadual 23.597/2025 e trata o documento como não vinculante; juristas apontam competência federal e reserva de lei.",
+              "sources": [
+                "src-re-07",
+                "src-re-08"
+              ]
+            },
+            {
+              "question": "Qual o instrumento previsto para a SULPOL (tratado ou acordo entre Executivos) e qual o custo estimado da estrutura?",
+              "why": "A proposta foi apresentada em entrevista ao g1 e à GloboNews (07/08/2026) sem instrumento, prazo ou custo divulgados.",
+              "sources": [
+                "src-caiado-130"
+              ]
+            },
+            {
+              "question": "O plano fala em 'liderar coalizões de potências médias': com quais países e em quais foros, até 29/09/2026?",
+              "why": "O programa registrado não nomeia parceiros nem foros para essa coalizão.",
+              "sources": [
+                "src-mundo-01",
+                "src-mundo-03"
+              ]
+            },
+            {
+              "question": "Qual a posição documentada do candidato sobre o BRICS e sobre a guerra na Ucrânia?",
+              "why": "As fontes consultadas registram a posição do coordenador do programa sobre o BRICS, mas não localizamos posição do candidato sobre a Ucrânia até 29/09/2026.",
+              "sources": [
+                "src-mundo-03",
+                "src-caiado-80"
+              ]
+            }
+          ],
+          "publicExplanation": "Em 12/08/2026, ao responder a Lula, disse que 'dizer que quero entregar terras raras aos EUA é burrice e mau-caratismo' e definiu o objetivo como atrair tecnologia para processar minerais no país; o governo de Goiás classifica o memorando como declaração de intenções não vinculante (Agência Brasil, 27/04/2026); em sabatina (07/08/2026) disse que não quer bravata com os EUA.",
+          "methodology": "Análise aproximada a partir do plano registrado (ago/2026), de fonte do governo de Goiás, de reportagens de 2026 (Folha, Agência Brasil, Poder360, BP Money, O Povo, Veja, g1) e de análises jurídicas (Lawletter e Conjur). Ficou fora: íntegra do memorando, conclusão do procedimento do MPF, detalhamento da SULPOL e posição sobre a Ucrânia.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    },
+    "zema": {
+      "foreignPolicy": {
+        "reality": {
+          "proposal": "'Pragmatismo comercial': sair do BRICS mantendo o comércio, Mercosul como zona de livre comércio, adesão à OCDE e acordos bilaterais.",
+          "requirement": {
+            "path": "negociacao-internacional",
+            "note": "A saída do BRICS é apresentada como ato do Executivo, mantendo o comércio com os países do bloco e sem detalhar compromissos assumidos. Converter o Mercosul em zona de livre comércio implica renegociar o Tratado de Assunção com os Estados-partes; acordos bilaterais exigem aprovação do Congresso (art. 49, I, CF); a acessão à OCDE depende de consenso dos membros."
+          },
+          "history": {
+            "aligned": [
+              "Maio a outubro de 2025: chefia missões à América Central, à China e ao Japão e à Europa para atrair investimento para Minas Gerais.",
+              "09/05/2023: lança o projeto 'Vale do Lítio' em Nova York, na Nasdaq, para atrair mineradoras.",
+              "08/08/2026: o plano propõe sair do BRICS, retomar a adesão à OCDE e converter o Mercosul em zona de livre comércio.",
+              "20/09/2026: diz que a diplomacia será orientada pelo 'pragmatismo comercial' e defende adesão imediata à OCDE.",
+              "12/09/2026: afirma que o Brasil não precisa 'fazer parte do clubinho da China' para ser parceiro comercial do país."
+            ],
+            "divergent": [
+              "06/08/2026: em sabatina, diz que retaliará as tarifas dos EUA e que 'não vamos ser capachos dos EUA nem de ninguém'.",
+              "06/08/2026: chama Trump de 'fanfarrão' e critica a dependência do Brasil em relação à China.",
+              "Agosto/2026: o plano propõe coordenação com os EUA e outros países no combate ao crime organizado, no mesmo período das declarações de retaliação."
+            ]
+          },
+          "support": {
+            "partySeats": "NOVO: 5/513 deputados federais (antes da eleição de 2026)",
+            "coalitionSeats": "Partido isolado (NOVO, nº 30), chapa composta só por integrantes do partido; vice Eduardo Girão (NOVO)",
+            "documentedAgreements": 4,
+            "note": "Retrato atual, não previsão do próximo Congresso. Contagem = atos internacionais documentados: missões estaduais de atração de investimento (América Central, Ásia e Europa, 2025) e lançamento mundial do Vale do Lítio (2023). Não localizamos acordo internacional formal assinado por ele. Acordos passam pelo Congresso.",
+            "sources": [
+              "src-zema-84",
+              "src-zema-85"
+            ]
+          },
+          "tensions": [
+            {
+              "kind": "acao-em-sentido-diferente",
+              "title": "Retaliação anunciada aos EUA e plano de coordenação com os EUA contra o crime organizado",
+              "detail": "Em 06/08/2026, na sabatina, o candidato disse que retaliará as tarifas e chamou Trump de 'fanfarrão', afirmando que o país 'não vai ser capacho' de ninguém; o plano registrado propõe coordenação com os EUA e outros países no combate ao crime organizado. Não há detalhamento publicado sobre setores atingidos nem sobre o desenho da coordenação.",
+              "sources": [
+                "src-re-10",
+                "src-re-11",
+                "src-re-12",
+                "src-zema-83"
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Sair do BRICS e converter o Mercosul em zona de livre comércio dependem de outros países e do Congresso",
+              "detail": "A saída do BRICS é apresentada como decisão do Executivo, sem detalhamento sobre compromissos do agrupamento, e o plano prevê manter o comércio com os países do bloco. A conversão do Mercosul em zona de livre comércio exigiria renegociar o Tratado de Assunção e o Protocolo de Ouro Preto com os Estados-partes; acordos de comércio passam pelo Congresso.",
+              "sources": [
+                "src-zema-82",
+                "src-zema-83",
+                "src-re-22",
+                "src-zema-11"
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Quais setores seriam atingidos pela retaliação anunciada aos EUA e qual o custo estimado, segundo a campanha?",
+              "why": "A retaliação foi anunciada em sabatina (06/08/2026) sem lista de setores, valores ou instrumento previsto nas fontes consultadas.",
+              "sources": [
+                "src-re-11",
+                "src-re-12"
+              ]
+            },
+            {
+              "question": "Não há estudo público sobre efeitos da saída do BRICS para as exportações: qual a base usada para a proposta?",
+              "why": "O plano registrado não traz avaliação de efeitos e as fontes consultadas não localizaram estudo da campanha até 29/09/2026.",
+              "sources": [
+                "src-zema-82",
+                "src-zema-11"
+              ]
+            },
+            {
+              "question": "Como se daria a conversão do Mercosul em zona de livre comércio com os Estados-partes e o que iria ao Congresso?",
+              "why": "O plano não detalha proposta de renegociação do Tratado de Assunção nem os instrumentos a submeter ao Congresso.",
+              "sources": [
+                "src-zema-83",
+                "src-re-22",
+                "src-zema-15"
+              ]
+            },
+            {
+              "question": "A participação no Novo Banco de Desenvolvimento não foi tratada na proposta de saída do BRICS: qual o desenho previsto?",
+              "why": "A saída do bloco foi anunciada sem menção à participação do Brasil no banco do BRICS.",
+              "sources": [
+                "src-zema-11"
+              ]
+            }
+          ],
+          "publicExplanation": "Zema afirma que 'para o Brasil ser um grande parceiro comercial da China, ele não precisa fazer parte do clubinho da China, que é o BRICS' (12/09/2026) e chama a agenda de desdolarização de 'ideia de jerico'; em sabatina (06/08/2026) disse que 'não vamos ser capachos dos EUA nem de ninguém' e que retaliará as sobretaxas, defendendo relações 'pragmáticas' com Washington.",
+          "methodology": "Análise aproximada a partir do plano registrado (ago/2026), de fontes estaduais de Minas Gerais (2023-2025) e de reportagens de 2026 (Folha, G1, Gazeta do Povo, Poder360, O Globo, Agência Brasil, Correio do Povo). Ficou fora: efeitos comerciais estimados da saída do BRICS, instrumento previsto para a retaliação e detalhamento da conversão do Mercosul.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      }
+    }
+  },
+  "dataGaps": [
+    "Íntegra do memorando de Goiás com os EUA (18/03/2026) não divulgada até 29/09/2026 (cláusulas de sigilo e exclusividade conhecidas por reportagem).",
+    "Sem resultado publicado do grupo de trabalho bilateral Brasil-EUA de 30 dias proposto em 07/05/2026.",
+    "Posição documentada de Caiado e Zema sobre a guerra na Ucrânia: não localizada nas fontes consultadas.",
+    "Instrumento previsto para a SULPOL (Caiado) e para a adesão ao Escudo das Américas (Flávio Bolsonaro): não detalhado até 29/09/2026.",
+    "Percentual de tarifas americanas em vigor por produto em 29/09/2026: não consolidado nas fontes consultadas.",
+    "Efeitos comerciais estimados da saída do BRICS e da conversão do Mercosul em zona de livre comércio: sem estudo público localizado.",
+    "Procedimento do MPF sobre o memorando de Goiás: em acompanhamento, sem conclusão publicada até 29/09/2026."
+  ]
+}

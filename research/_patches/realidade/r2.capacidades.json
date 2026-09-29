@@ -1,0 +1,2734 @@
+{
+  "grupo": "r2",
+  "escopo": "capacidades",
+  "sources": [
+    {
+      "id": "src-re-r2capacidades-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publisher": "Presidência da República — Planalto",
+      "date": "1988-10-05",
+      "type": "oficial_legislacao",
+      "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+    }
+  ],
+  "candidates": {
+    "renan-santos": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "reality": {
+            "proposal": "'Guerra ao crime organizado' declarada para o primeiro dia de mandato, com GLO, estado de defesa, superpresídios e novo marco legal",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "A GLO é ato federal mediante pedido do governador do estado afetado e o estado de defesa é decreto presidencial apreciado pelo Congresso em 5 dias; superpresídios e 'Direito Penal do Inimigo' dependem de lei aprovada no Congresso."
+            },
+            "history": {
+              "aligned": [
+                "Legenda registrada por unanimidade no TSE em 04/11/2025, após estatuto publicado no DOU em 18/10/2023 (TSE, 2025)",
+                "535 candidaturas lançadas em 25 estados e no DF na primeira eleição do partido (Partido Missão, 2026)",
+                "Campanha arrecadou cerca de R$ 1,2 milhão por vaquinha na 1ª prestação parcial (g1, 2026)"
+              ],
+              "divergent": [
+                "Estrutura da campanha descrita como enxuta, com imprensa registrando limites fora dos grandes centros (Poder360, 2026-08)",
+                "Em entrevista à Globo (26/08/2026), o candidato ressalvou que o governo federal não tem poder de polícia para executar a política no território"
+              ],
+              "noComparablePrecedent": "Não localizamos execução anterior de política pública em cargo eletivo; a base são atos de partido e de campanha (TSE; imprensa, 2023-2026)"
+            },
+            "support": {
+              "partySeats": "1 de 513 deputados federais (MISSÃO, 2026-09)",
+              "coalitionSeats": "Chapa pura, sem coligação ou federação; vice Aroldo Medina (MISSÃO)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "Chapa deferida em 09/09/2026, sem coligação ou federação. Os apoios públicos de PL e Novo durante a crise do registro não se converteram em apoio no 2º turno. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Guerra ao crime no primeiro dia depende de lei e de pedido de governador para a GLO",
+                "detail": "O plano prevê GLO e estado de defesa no primeiro dia de mandato. A GLO é ato federal mediante pedido do governador do estado afetado e o estado de defesa é decreto presidencial apreciado pelo Congresso em 5 dias; superpresídios e 'Direito Penal do Inimigo' dependem de lei aprovada no Congresso.",
+                "sources": [
+                  {
+                    "id": "src-rs-20"
+                  },
+                  {
+                    "id": "src-rs-95"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Desfavelação integral em 10 anos é declarada sem instrumento no resumo executivo",
+                "detail": "O plano declara 'desfavelação integral do Brasil' com prazo de 10 anos em declaração pública (g1, 21/07/2026); versões anteriores citavam até 30 anos e o resumo executivo registrado no TSE não especifica instrumento nem custo da frente.",
+                "sources": [
+                  {
+                    "id": "src-rs-20"
+                  },
+                  {
+                    "id": "src-rs-25"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo unitário e a fonte de recursos das frentes de segurança e dos superpresídios?",
+                "why": "O resumo executivo registrado no TSE não estima o custo dessas frentes; a menção de R$ 6 bilhões aparece em declaração pública (g1, 26/08/2026)."
+              },
+              {
+                "question": "Como seria a transição entre o estado de defesa e um marco legal permanente de combate às facções?",
+                "why": "O plano encadeia medida imediata por decreto e marco legal posterior, sem detalhar vigência, critérios de saída ou indicador de resultado."
+              }
+            ],
+            "publicExplanation": "Em entrevista à Globo (26/08/2026), o candidato apresentou um plano gerencial com indicadores de desempenho para prefeitos e governadores e ressalvou que o governo federal não tem poder de polícia para executar a política no território.",
+            "methodology": "Trajetória sem mandato federal: a análise usa atos de partido, de movimento e de campanha (criação do MISSÃO, mobilizações de 2015-2016, campanha de 2026). O teste confronta a entrega declarada para o primeiro dia com o instrumento exigido e com a base formal atual. Ficaram fora a obra integral do plano (~500 páginas) e atos não publicados.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "reality": {
+            "proposal": "PEC de Transição Fiscal: ajuste declarado de R$ 1,1 trilhão até 2031, com desindexação e desvinculação de pisos",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "A PEC foi protocolada na Câmara pelo coordenador econômico da campanha, deputado Kim Kataguiri; desindexar benefícios e desvincular pisos de saúde e educação altera texto constitucional."
+            },
+            "history": {
+              "aligned": [
+                "Comitê do Impeachment: reuniões com o presidente da Câmara e com líder da oposição (Agência Câmara, 2015-12)",
+                "Apoio material de PSDB, PMDB, DEM e Solidariedade às mobilizações do MBL (imprensa, 2016)",
+                "Agenda com Santander e AmCham e apresentação do plano econômico a investidores (Gazeta do Povo, 2026-08)",
+                "Apoio público de Flávio Bolsonaro (PL) e Romeu Zema (Novo) durante a crise do registro (O Globo, 2026-08)"
+              ],
+              "divergent": [
+                "Ao fim da agenda empresarial, a imprensa registrava que o apoio declarado de empresários seguia restrito (Gazeta do Povo, 2026-08)",
+                "Manteve a recusa de apoio a PL e Novo no 2º turno após os gestos de aproximação (Valor Econômico, 21/09/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos negociação com bancadas para aprovar reforma constitucional; a base é a articulação de 2015-2016 e a agenda empresarial de 2026"
+            },
+            "support": {
+              "partySeats": "1 de 513 deputados federais (MISSÃO)",
+              "coalitionSeats": "Sem coligação ou federação (partido isolado no registro de 2026)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A base formal registrada é de 1 deputado federal e nenhuma coligação. Os gestos públicos de PL e Novo ocorreram durante a crise do registro e não foram formalizados como apoio eleitoral. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Movimento apresentado como apartidário recebeu apoio material de partidos em 2016",
+                "detail": "O MBL foi apresentado como movimento apartidário e sem financiamento partidário; gravação divulgada em fevereiro de 2016 registra apoio material de PSDB, PMDB, DEM e Solidariedade às mobilizações, admitido por um de seus coordenadores.",
+                "sources": [
+                  {
+                    "id": "src-rs-25"
+                  },
+                  {
+                    "id": "src-rs-43"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Desindexação de benefícios e desvinculação de pisos exigem PEC com 3/5 nas duas Casas",
+                "detail": "Desindexar o salário mínimo e desvincular os pisos de saúde e educação altera texto constitucional. A PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa, e a campanha estima ajuste de R$ 1,1 trilhão até 2031.",
+                "sources": [
+                  {
+                    "id": "src-rs-21"
+                  },
+                  {
+                    "id": "src-rs-31"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais legendas declararam apoio à PEC de Transição Fiscal até o registro do plano?",
+                "why": "O plano cita a frente empresarial, mas não lista partidos que sustentariam a votação de 3/5 nas duas Casas."
+              },
+              {
+                "question": "Como ficam os benefícios cujo reajuste hoje acompanha o salário mínimo?",
+                "why": "O plano cita desindexação e revisão do abono salarial sem detalhar regra de transição ou compensação."
+              }
+            ],
+            "publicExplanation": "Em evento da Unecs (18/08/2026), o candidato anunciou uma 'Liga da Justiça' com segmentos empresariais por reformas estruturais e declarou que parte do empresariado atua de forma isolada (Money Times, 18/08/2026).",
+            "methodology": "Trajetória sem mandato federal: o teste usa atos de movimento, de partido e de campanha (Comitê do Impeachment, mobilizações de 2015-2016, agenda empresarial de 2026). Confronta a exigência de votos da PEC com os acordos documentados. Ficaram fora entrevistas sem repercussão pública registrada.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "lideranca-equipes",
+          "reality": {
+            "proposal": "Substituição do Bolsa Família por frentes de trabalho remuneradas, com benefício restrito a quem não puder trabalhar",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "O redesign do programa de transferência de renda depende de lei; a operação das frentes envolve municípios e cadastro federal, sem estrutura detalhada no resumo executivo."
+            },
+            "history": {
+              "aligned": [
+                "Presidência nacional do MISSÃO desde 17/10/2023, com legenda registrada em 04/11/2025 (TSE, 2025)",
+                "Montagem de 535 candidaturas em 25 estados e no DF na primeira eleição do partido (Partido Missão, 2026)",
+                "Coordenação de campanha atribuída a Amanda Vettorazzo, com coordenação nomeada (Estadão, 2026)"
+              ],
+              "divergent": [
+                "Partido e campanha não publicam quadro de pessoal, organograma ou número de integrantes da equipe (lacuna nas fontes consultadas)"
+              ],
+              "noComparablePrecedent": "Não localizamos direção de equipe de governo ou de órgão público; a base é a estruturação de partido e de campanha"
+            },
+            "support": {
+              "partySeats": "1 de 513 deputados federais (MISSÃO)",
+              "coalitionSeats": "Sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A estrutura de execução declarada é o plano gerencial com indicadores para prefeitos e governadores, apresentado em entrevista. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Frentes de trabalho em substituição ao Bolsa Família dependem de lei e da adesão de municípios",
+                "detail": "O plano substitui a transferência de renda por frentes de trabalho remuneradas. O resumo executivo não informa número de frentes, quantas pessoas seriam atendidas, custo total nem arranjo com estados e municípios, que hoje operam o cadastro e a busca ativa.",
+                "sources": [
+                  {
+                    "id": "src-rs-20"
+                  },
+                  {
+                    "id": "src-rs-31"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo do auxílio equivalente a um salário mínimo por pessoa sem vaga e por quanto tempo ele seria pago?",
+                "why": "A substituição do Bolsa Família por frentes de trabalho aparece no plano sem estimativa de custo total (Valor Internacional, 2026-09)."
+              },
+              {
+                "question": "Quem executa e fiscaliza as frentes de trabalho: União, estados ou municípios?",
+                "why": "O documento registrado não descreve o arranjo federativo nem o órgão responsável pela operação."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal e sem publicação de organograma: a análise usa atos de partido e de campanha (fundação do MISSÃO, montagem de chapas, coordenação nomeada). O teste confronta a estrutura declarada com a operação exigida pelas frentes de trabalho.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tomada-decisao",
+          "reality": {
+            "proposal": "Desindexação de benefícios previdenciários e assistenciais do salário mínimo, revisão do abono e redução do teto do INSS",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "O plano cita a PEC de Transição Fiscal para a desindexação; idade mínima automática e parcela capitalizada via FGTS dependem de PEC e de legislação previdenciária."
+            },
+            "history": {
+              "aligned": [
+                "Recusa de coligações nas duas eleições disputadas, com chapa própria (SBT News, 2026)",
+                "Abertura de mão da cota do Fundo Eleitoral na campanha presidencial (CNN Brasil, 01/07/2026)",
+                "Recusa de apoio a Lula e a Flávio Bolsonaro no 2º turno, mantida em entrevistas sucessivas (Valor Econômico, 21/09/2026)"
+              ],
+              "divergent": [
+                "Defende o fim da Justiça do Trabalho e afirma que a CLT 'já era', ao mesmo tempo em que propõe frentes de trabalho (g1, 18/08/2026)",
+                "Prazo da desfavelação declarado em 10 anos, contra até 30 anos em versões anteriores (g1, 21/07/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos decisão de governo com trade-off orçamentário; as decisões documentadas são de direção partidária e de campanha (2026)"
+            },
+            "support": {
+              "partySeats": "1 de 513 deputados federais (MISSÃO)",
+              "coalitionSeats": "Sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "As medidas de desindexação exigem quórum de emenda sem base partidária registrada além de 1 deputado federal. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Fim da Justiça do Trabalho e revisão da CLT convivem com frentes de trabalho remuneradas",
+                "detail": "O candidato defende a extinção da Justiça do Trabalho e afirma que a CLT 'já era' (g1, 18/08/2026); o plano propõe substituir o Bolsa Família por frentes de trabalho remuneradas. O resumo executivo não detalha o instrumento de nenhuma das duas medidas nem a ordem de implementação.",
+                "sources": [
+                  {
+                    "id": "src-rs-97"
+                  },
+                  {
+                    "id": "src-rs-20"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Reajuste do mínimo limitado à inflação convive com benefícios vinculados ao mínimo",
+                "detail": "A desindexação do salário mínimo é o eixo do ajuste declarado, enquanto benefícios previdenciários e assistenciais acompanham o mínimo por regra vigente. O plano não descreve a regra de transição nem a compensação para quem já recebe os benefícios.",
+                "sources": [
+                  {
+                    "id": "src-rs-31"
+                  },
+                  {
+                    "id": "src-rs-48"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a ordem de votação prevista entre a PEC de transição, a PEC da Previdência e o redesign do Bolsa Família?",
+                "why": "O plano lista as três frentes em sequência, mas não define prioridade nem dependência entre elas."
+              },
+              {
+                "question": "Qual o critério para definir quem não tem condições de trabalhar no novo programa?",
+                "why": "A restrição do benefício é atribuída ao coordenador econômico, sem detalhamento no documento registrado (Valor Internacional, 2026-09)."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa decisões de direção partidária, de financiamento de campanha e de posicionamento eleitoral (2026). Confronta as escolhas declaradas com o trade-off exigido pelas medidas fiscais. Ficou fora a votação da reforma previdenciária de 2019, sem participação do candidato.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "gestao-crises",
+          "reality": {
+            "proposal": "Acionamento de GLO e estado de defesa para romper o controle territorial de facções, com resultados divulgados",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "A GLO é ato federal mediante pedido do governador do estado afetado; o estado de defesa é decreto presidencial apreciado pelo Congresso em 5 dias; prisão perpétua e pena de morte dependem de PEC."
+            },
+            "history": {
+              "aligned": [
+                "Suspensão cautelar da campanha pelo relator do TSE em 30/08/2026 respondida em 72h, com liberação parcial em 01/09 (ConJur, 2026)",
+                "Registro da candidatura deferido por unanimidade em 09/09/2026 após diligências (CNN Brasil, 2026-09)",
+                "Denúncia do MP-SP por tráfico de influência rejeitada pela Justiça em novembro de 2020 (Folha de S.Paulo, 06/11/2020)"
+              ],
+              "divergent": [
+                "Decisão judicial determinou a exclusão de vídeos publicados pelo candidato sobre o cantor Wesley Safadão (g1, 27/04/2026)",
+                "Justiça negou pedidos do candidato para remover publicações sobre a acusação de 2021 (g1, 22/06/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos atuação em crise de governo; os episódios documentados são de campanha e de processos judiciais próprios (2020-2026)"
+            },
+            "support": {
+              "partySeats": "1 de 513 deputados federais (MISSÃO)",
+              "coalitionSeats": "Sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "Os instrumentos de crise citados são atos do Executivo federal que dependem de apreciação do Congresso e de pedido de governadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Estado de defesa e GLO têm prazo e condição previstos na Constituição",
+                "detail": "O estado de defesa é decreto presidencial apreciado pelo Congresso em 5 dias e a GLO depende de pedido do governador do estado afetado. Prisão perpétua e pena de morte exigem PEC com 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+                "sources": [
+                  {
+                    "id": "src-rs-20"
+                  },
+                  {
+                    "id": "src-rs-47"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo unitário e o número previsto de superpresídios, dado o valor de R$ 6 bilhões citado em declaração pública?",
+                "why": "O resumo executivo não estima a obra; o valor aparece em entrevista (g1, 26/08/2026)."
+              },
+              {
+                "question": "Qual o critério de saída do estado de defesa e como as operações passariam ao marco legal permanente?",
+                "why": "O plano encadeia medidas imediatas e marco posterior sem definir vigência, prorrogação ou indicador de resultado."
+              }
+            ],
+            "publicExplanation": "Sobre a suspensão cautelar, o candidato afirmou que o atraso no registro de 16 perfis de redes sociais foi um 'problema técnico' e classificou a restrição à campanha digital como ilegal (O Globo, 31/08/2026).",
+            "methodology": "Trajetória sem mandato federal: o teste usa episódios de campanha e processos próprios (suspensão cautelar no TSE em 2026, decisões sobre conteúdo publicado, denúncia de 2020 rejeitada). Não há resposta a crise de governo no material consultado.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "reality": {
+            "proposal": "Fusão de municípios e tutela federal de municípios 'ineficientes' na reorganização do pacto federativo",
+            "requirement": {
+              "path": "depende-estados",
+              "note": "O plano cita PEC e lei para o pacto federativo; a Constituição atribui a lei estadual a criação, incorporação, fusão e desmembramento de municípios, com consulta prévia às populações, e reserva a lei complementar federal a fixação do período."
+            },
+            "history": {
+              "aligned": [
+                "Interlocução com o setor empresarial e apresentação do plano econômico a investidores (Gazeta do Povo, 2026-08)",
+                "Apoio público de Flávio Bolsonaro (PL) e Romeu Zema (Novo) durante a crise do registro (O Globo, 2026-08)",
+                "Coordenação entre a candidatura presidencial e 14 palanques estaduais próprios (g1, 2026-08)"
+              ],
+              "divergent": [
+                "Manteve a recusa de apoio a PL e Novo no 2º turno após os gestos de aproximação (Valor Econômico, 21/09/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos ato de articulação federativa ou de governo; a base é a interlocução com setores organizados e a coordenação partidária de 2026"
+            },
+            "support": {
+              "partySeats": "1 de 513 deputados federais (MISSÃO)",
+              "coalitionSeats": "Sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "Nas duas Casas, a legenda registra 1 deputado federal e nenhuma coligação; a medida federativa depende de assembleias estaduais e de consulta às populações. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fusão de municípios passa por lei estadual e consulta prévia às populações",
+                "detail": "A Constituição atribui a lei estadual a criação, incorporação, fusão e desmembramento de municípios, mediante consulta prévia às populações, e reserva a lei complementar federal a fixação do período. A 'tutela federal' de municípios aparece no plano sem instrumento declarado.",
+                "sources": [
+                  {
+                    "id": "src-rs-20"
+                  },
+                  {
+                    "id": "src-rs-21"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual instrumento viabilizaria a tutela federal de municípios e quem avaliaria a ineficiência?",
+                "why": "O resumo executivo cita a tutela sem indicar instrumento, critério de avaliação ou órgão responsável."
+              },
+              {
+                "question": "Como seriam tratados servidores, contratos e dívidas dos municípios afetados por fusão?",
+                "why": "O plano não descreve a transição administrativa nem o passivo das prefeituras envolvidas."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa interlocução com entidades empresariais, coordenação de palanques partidários e resposta a decisão da Justiça Eleitoral (2026). Confronta a proposta federativa com a competência estadual prevista na Constituição. Ficaram fora atos não publicados de campanha.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "comunicacao-publica",
+          "reality": {
+            "proposal": "Programa nuclear militar, com eventual produção de armas atômicas, defendido publicamente como condição de soberania",
+            "requirement": {
+              "path": "negociacao-internacional",
+              "note": "A Constituição restringe as atividades nucleares a usos pacíficos e o Brasil é parte do Tratado de Não Proliferação e do Tratado de Tlatelolco, o que implica revisão de compromissos internacionais assumidos."
+            },
+            "history": {
+              "aligned": [
+                "Canal próprio de vídeos mantido desde novembro de 2014 como veículo de posicionamento e divulgação de propostas (YouTube, 2026)",
+                "Rodada de entrevistas individuais em Globo, GloboNews, Flow e SBT entre agosto e setembro de 2026 (imprensa, 2026)",
+                "Projeto de segurança apresentado em três medidas no primeiro debate presidencial (Band, 23/08/2026)"
+              ],
+              "divergent": [
+                "Checagem registrou duas afirmações incorretas na entrevista ao Flow (02/09/2026), sobre propostas de Lula e sobre quem ataca (Agência Lupa, 2026)",
+                "A obra integral do plano é declarada com mais de 500 páginas; o resumo executivo registrado tem 51 (Valor Econômico, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos comunicação de governo exercida; a base é o canal próprio, o movimento, os debates e as sabatinas de 2026"
+            },
+            "support": {
+              "partySeats": "1 de 513 deputados federais (MISSÃO)",
+              "coalitionSeats": "Sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A proposta nuclear foi apresentada em sabatinas e entrevistas; não consta do resumo executivo do plano registrado no TSE. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Programa nuclear militar contraria o uso pacífico previsto na Constituição e compromissos internacionais",
+                "detail": "A Constituição restringe as atividades nucleares a usos pacíficos e o Brasil é parte do Tratado de Não Proliferação e do Tratado de Tlatelolco. A proposta de armas atômicas foi defendida em declarações públicas e não foi localizada no resumo executivo do plano registrado.",
+                "sources": [
+                  {
+                    "id": "src-rs-93"
+                  },
+                  {
+                    "id": "src-rs-90"
+                  },
+                  {
+                    "id": "src-rs-92"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Checagem registrou afirmações incorretas em entrevista sobre propostas de adversários",
+                "detail": "A checagem da Agência Lupa (02/09/2026) registrou como incorreta a afirmação de que Lula não tem proposta para segurança pública e a de que o candidato seria o único a atacar os dois primeiros colocados nas pesquisas.",
+                "sources": [
+                  {
+                    "id": "src-rs-68"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o caminho previsto para revisar os compromissos internacionais em matéria nuclear e qual o custo do programa?",
+                "why": "A proposta aparece em declarações públicas, sem instrumento, prazo ou custo estimado nas fontes consultadas (Portal Terra, 2026-09)."
+              },
+              {
+                "question": "Por que o programa nuclear militar não consta do resumo executivo registrado no TSE?",
+                "why": "A verificação do resumo executivo não localizou a proposta; a menção está em sabatinas e no verbete do candidato."
+              }
+            ],
+            "publicExplanation": "'As nações mais poderosas do mundo dispõem de armas nucleares e elas se fazem respeitadas por causa disso'; o candidato afirmou não precisar de estudo científico para concluir que o país precisa de força política para se proteger (declarações registradas, 2026).",
+            "methodology": "Trajetória sem mandato federal: o teste usa comunicação de movimento, canal próprio, debates e sabatinas de 2026. Confronta a posição declarada com o texto constitucional e com os compromissos internacionais. Ficaram fora programas eleitorais de TV e publicações sem repercussão registrada.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "visao-estrategica",
+          "reality": {
+            "proposal": "14 pilares, 5 metas para 2030 e horizonte fiscal em 2031, com desfavelação integral declarada em 10 anos",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "O eixo fiscal é apresentado como PEC de transição; para a desfavelação integral o resumo executivo não especifica instrumento nem custo."
+            },
+            "history": {
+              "aligned": [
+                "Documento registrado no TSE em 07/08/2026 e usado como referência programática na campanha (TSE, 2026)",
+                "Sequenciamento declarado na segurança: medida imediata por decreto e marco legal posterior (Band, 23/08/2026)",
+                "Plano gerencial com indicadores de desempenho para prefeitos e governadores (g1, 26/08/2026)"
+              ],
+              "divergent": [
+                "Prazo da desfavelação declarado em 10 anos, contra até 30 anos em versões anteriores (g1, 21/07/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos plano de governo executado em cargo público; a base é o documento registrado no TSE e as declarações de campanha de 2026"
+            },
+            "support": {
+              "partySeats": "1 de 513 deputados federais (MISSÃO)",
+              "coalitionSeats": "Sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "As metas de 2030 e o ajuste até 2031 dependem de votação de emenda constitucional, sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "mudanca-de-posicao",
+                "title": "Prazo da desfavelação reduzido de até 30 anos para 10 anos entre versões",
+                "detail": "A cobertura do plano registra prazo de 10 anos para a desfavelação integral (g1, 21/07/2026), enquanto versões anteriores do candidato citavam transformação em até 30 anos. O resumo executivo não associa o prazo a instrumento ou orçamento.",
+                "sources": [
+                  {
+                    "id": "src-rs-20"
+                  },
+                  {
+                    "id": "src-rs-25"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Metas de 2030 e ajuste até 2031 exigem PEC com 3/5 nas duas Casas",
+                "detail": "O horizonte fiscal de 2031 é vinculado à PEC de Transição Fiscal, que exige 308 deputados e 49 senadores em dois turnos em cada Casa. O plano encadeia atos de efeito imediato a marcos que dependem de votação no Congresso.",
+                "sources": [
+                  {
+                    "id": "src-rs-22"
+                  },
+                  {
+                    "id": "src-rs-47"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o indicador de resultado de cada uma das 5 metas para 2030?",
+                "why": "O plano registra os pilares e as metas, sem indicador de aferição por meta (Valor Econômico, 2026-08)."
+              },
+              {
+                "question": "Como o plano gerencial se aplica às áreas fora da competência federal?",
+                "why": "O próprio candidato ressalvou em entrevista que o governo federal não tem poder de polícia para executar a política no território (g1, 26/08/2026)."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: a análise usa o documento registrado no TSE, declarações de campanha e o encadeamento apresentado em debate e entrevistas (2026). Confronta prazos declarados com o instrumento exigido. Ficou fora a obra integral do plano, declarada com mais de 500 páginas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "leonardo-avalanche": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "reality": {
+            "proposal": "Mutirões para zerar a fila do SUS, apresentados como entrega do programa, sem prazo, meta quantificada ou orçamento",
+            "requirement": {
+              "path": "depende-estados",
+              "note": "O SUS é financiado em regime tripartite e a fila de atendimento é gerida por estados e municípios; o programa registrado não indica instrumento, meta quantificada, prazo ou fonte de recursos."
+            },
+            "history": {
+              "aligned": [
+                "Substituição da chapa presidencial protocolada no último dia do prazo e publicada no DJE de 18/09/2026 (TSE, 2026)",
+                "Reformulação organizacional com convenção nacional realizada em 29/07/2026 (Wikipedia; imprensa, 2026)",
+                "Coordenou politicamente a campanha municipal de São Paulo em 2024, concluída com 28,14% dos votos (CNN Brasil, 2024)"
+              ],
+              "divergent": [
+                "O PRTB foi a legenda com menos candidatos registrados em 2026 (Correio Braziliense, 19/08/2026)",
+                "Não houve divulgação de agenda pública do candidato em fim de semana monitorado (Agência Brasil, 20/09/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos execução de política pública ou de orçamento; a base são atos de direção partidária, campanha e disputas eleitorais próprias"
+            },
+            "support": {
+              "partySeats": "0 de 513 deputados federais (PRTB, legislatura 2023-2027)",
+              "coalitionSeats": "Partido isolado no DJE de 18/09/2026; vice Silvia Hellen da Silva Pereira, do próprio partido",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "A única frente formal documentada no material consultado é a aliança estadual em Goiás, confirmada em comunicado de 08/09/2026 e depois desfeita. Na Câmara não há deputados do partido. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Zerar a fila do SUS depende de estados e municípios em gestão tripartite",
+                "detail": "A fila de atendimento é gerida por estados e municípios, com financiamento federal em regime tripartite. O programa registra a meta de eliminá-la sem prazo, meta quantificada, orçamento ou instrumento indicado nas fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-la-06"
+                  },
+                  {
+                    "id": "src-la-40"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo estimado dos mutirões e como as filas seriam medidas em cada estado?",
+                "why": "O programa cita a eliminação das filas sem indicador, prazo ou estimativa de despesa nas fontes consultadas."
+              },
+              {
+                "question": "A proposta prevê mudança no financiamento federal do SUS ou apenas a realização de mutirões?",
+                "why": "As fontes localizadas registram a meta de zerar a fila sem detalhar o instrumento de financiamento."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal e sem cargo eletivo exercido: a análise usa atos de direção partidária, de campanha e de processos na Justiça Eleitoral (2016-2026). O teste confronta a entrega prometida com a gestão tripartite do SUS. Ficaram fora documentos internos do partido.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "reality": {
+            "proposal": "Imposto único de 3,5% em substituição a onze tributos, apresentado como eixo central do programa 'Reconstrução Nacional'",
+            "requirement": {
+              "path": "indefinido",
+              "note": "O programa registrado não indica o veículo normativo; a substituição de tributos é matéria disciplinada na Constituição e, se veiculada por emenda, exigiria 308 deputados e 49 senadores, em dois turnos em cada Casa."
+            },
+            "history": {
+              "aligned": [
+                "Aliança com Marconi Perillo (PSDB) no governo de Goiás confirmada em comunicado do partido (Jornal Opção, 08/09/2026)",
+                "Oferta pública da legenda a lideranças da direita para a eleição de 2026, declarada em entrevistas (Wikipedia; CNN Brasil, 2025)",
+                "Filiação de Pablo Marçal e registro da chapa presidencial em agosto de 2026 (TSE; g1, 2026)"
+              ],
+              "divergent": [
+                "O partido deixou a coligação de Goiás e abriu negociação por novo apoio no estado (Poder Goiás, 2026)",
+                "Registro da chapa Marçal/Avalanche indeferido por unanimidade pelo TSE em 11/09/2026 (TSE; g1, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos mesa de negociação com atas ou documento de coligação nacional; a base são comunicados do partido e imprensa regional (2026)"
+            },
+            "support": {
+              "partySeats": "0 de 513 deputados federais (PRTB, legislatura 2023-2027)",
+              "coalitionSeats": "Partido isolado no DJE de 18/09/2026, sem coligação para a Presidência",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "O acordo documentado é estadual (Goiás, com o PSDB), confirmado em comunicado e depois desfeito. Não há coligação nacional registrada nem bancada federal do partido. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Aliança com o PSDB em Goiás foi confirmada em comunicado e depois desfeita",
+                "detail": "O partido divulgou comunicado em 08/09/2026 mantendo a aliança com Marconi Perillo (PSDB) no governo de Goiás, após notícias de rompimento; em seguida deixou a coligação e abriu negociação por novo apoio no estado.",
+                "sources": [
+                  {
+                    "id": "src-la-25"
+                  },
+                  {
+                    "id": "src-la-26"
+                  },
+                  {
+                    "id": "src-la-33"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Imposto único de 3,5% em substituição a onze tributos não tem instrumento declarado",
+                "detail": "O programa registra o imposto único como eixo central e não indica o veículo normativo. A substituição de tributos é matéria constitucional e, se feita por emenda, exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+                "sources": [
+                  {
+                    "id": "src-la-40"
+                  },
+                  {
+                    "id": "src-la-41"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais partidos foram procurados e quais responderam às tratativas para a eleição de 2026?",
+                "why": "Os entendimentos são relatados em entrevistas e comunicados, sem lista de legendas nem resposta formal registrada."
+              },
+              {
+                "question": "Qual o caminho normativo previsto para o imposto único e como ficariam os tributos que hoje têm base constitucional?",
+                "why": "O programa não indica instrumento, transição ou tratamento dos tributos vinculados."
+              }
+            ],
+            "publicExplanation": "Na sabatina do Correio Braziliense (28/07/2026), o candidato defendeu o imposto único de 3,5% e afirmou que o modelo reduziria a sonegação e ampliaria a arrecadação federal.",
+            "methodology": "Trajetória sem mandato federal: o teste usa atos de direção partidária e de campanha, comunicados oficiais e cobertura regional (2024-2026). Confronta a proposta tributária com a exigência de votos e com os acordos formalizados. Ficaram fora tratativas sem registro público.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          }
+        },
+        {
+          "slug": "lideranca-equipes",
+          "reality": {
+            "proposal": "Redução da estrutura federal e desoneração, prioridades declaradas no lançamento da pré-candidatura ao Planalto",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "A organização dos ministérios e da administração federal é disciplinada por lei e por decretos de organização; o programa não indica o corte pretendido nem a estrutura de pessoal."
+            },
+            "history": {
+              "aligned": [
+                "Recomposição da direção nacional do PRTB a partir de 23/02/2024, com novo comando estadual em Goiás (Jornal Hora Extra, 2026)",
+                "Coordenação política da campanha à Prefeitura de São Paulo em 2024, com equipe própria (CNN Brasil, 2024)",
+                "Composição da chapa presidencial com vice do próprio partido, registrada no DJE de 18/09/2026 (TSE, 2026)"
+              ],
+              "divergent": [
+                "Não há publicação de organograma, quadro de pessoal ou composição da equipe de campanha do PRTB (lacuna nas fontes consultadas)"
+              ],
+              "noComparablePrecedent": "Não localizamos direção de equipe de governo ou de órgão público; a base é a direção partidária e a coordenação de campanha"
+            },
+            "support": {
+              "partySeats": "0 de 513 deputados federais (PRTB, legislatura 2023-2027)",
+              "coalitionSeats": "Partido isolado, sem coligação registrada para a Presidência em 2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "A estrutura partidária registrada é de diretórios estaduais e nacional, sem bancada federal e sem coligação nacional. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Redução da estrutura federal depende de lei e de decretos de organização administrativa",
+                "detail": "O programa declara desoneração e redução da estrutura federal como prioridades, sem indicar quais órgãos seriam atingidos. A organização dos ministérios e da administração federal é disciplinada por lei e por decretos, com impacto sobre quadros de pessoal não detalhado nas fontes.",
+                "sources": [
+                  {
+                    "id": "src-la-39"
+                  },
+                  {
+                    "id": "src-la-42"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "low"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantos e quais órgãos seriam extintos ou fundidos na redução da estrutura federal?",
+                "why": "A prioridade é declarada sem lista de órgãos, número de servidores atingidos ou economia estimada."
+              },
+              {
+                "question": "Como seria mantida a operação das políticas afetadas durante a transição administrativa?",
+                "why": "O programa não trata de transição, redistribuição de equipes ou continuidade dos serviços."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal e sem cargo eletivo exercido: a análise usa atos de direção partidária, de coordenação de campanha e de composição de chapa (2024-2026). O teste confronta a prioridade declarada com o instrumento e a estrutura exigidos.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          }
+        },
+        {
+          "slug": "tomada-decisao",
+          "reality": {
+            "proposal": "Registro da chapa presidencial com titular declarado inelegível até 2032 e assunção da cabeça da chapa no último dia do prazo",
+            "requirement": {
+              "path": "indefinido",
+              "note": "A substituição depende de prazo e de registro na Justiça Eleitoral, não de mudança legal; na decisão de indeferimento, o TSE informou que o partido poderia indicar substituto."
+            },
+            "history": {
+              "aligned": [
+                "Assunção da cabeça da chapa protocolada no último dia do prazo e publicada no DJE de 18/09/2026 (TSE, 2026)",
+                "Disputou a vereança de Goiânia em 2016 (717 votos) e a Câmara federal por Goiás em 2018 (173 votos) (Plural; Wikipedia, 2026)",
+                "Coordenou politicamente a candidatura municipal de 2024 até a votação (CNN Brasil, 2024)"
+              ],
+              "divergent": [
+                "Registro da chapa original homologado em 04/09/2026 e indeferido por unanimidade pelo TSE em 11/09/2026 (TSE; g1, 2026)",
+                "O titular renunciou em 14/09/2026, após a decisão do TSE (g1; Agência Brasil, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos decisão de governo com trade-off orçamentário; as decisões documentadas são eleitorais e de direção partidária (2016-2026)"
+            },
+            "support": {
+              "partySeats": "0 de 513 deputados federais (PRTB, legislatura 2023-2027)",
+              "coalitionSeats": "Partido isolado, sem coligação registrada para a Presidência em 2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "A chapa substituta foi registrada sem coligação e sem bancada federal de apoio no Congresso. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Partido registrou chapa com titular inelegível até 2032 e dirigente como vice",
+                "detail": "A direção nacional registrou a chapa com Pablo Marçal à cabeça e o dirigente como candidato a vice, homologada em 04/09/2026 e indeferida por unanimidade pelo TSE em 11/09/2026, por não comprovação de filiação partidária do titular até abril de 2026; a decisão declarou o titular inelegível até 2032 por irregularidades de prestação de contas.",
+                "sources": [
+                  {
+                    "id": "src-la-89"
+                  },
+                  {
+                    "id": "src-la-11"
+                  },
+                  {
+                    "id": "src-la-04"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual foi o cálculo registrado para manter a chapa com um titular inelegível declarado?",
+                "why": "As fontes descrevem a decisão e o resultado no TSE, sem documento do partido com a justificativa."
+              },
+              {
+                "question": "Qual a agenda de campanha prevista para as três semanas até o primeiro turno?",
+                "why": "A imprensa registrou campanha de três semanas; não há plano de agenda público divulgado pelo partido."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa decisões de direção partidária, candidaturas próprias anteriores e o desfecho do registro na Justiça Eleitoral (2016-2026). Fatos judiciais são reproduzidos como constam das fontes, sem apreciação de mérito.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "gestao-crises",
+          "reality": {
+            "proposal": "Retomada do comando nacional do PRTB após destituição, com reconhecimento em certidão da Justiça Eleitoral em 2026",
+            "requirement": {
+              "path": "indefinido",
+              "note": "A disputa pelo comando foi resolvida na Justiça Eleitoral, não por mudança legal; a nova composição da Executiva Nacional foi registrada em certidão de 17/06/2026."
+            },
+            "history": {
+              "aligned": [
+                "Manifestação do Ministério Público Eleitoral contrária à destituição do dirigente (Poder360, 12/09/2024)",
+                "Reversão do cancelamento de filiação em 06/02/2026 e reconhecimento do comando em 17/06/2026 (Jornal Opção; Tribuna do ABC, 2026)",
+                "Resposta pública às acusações sobre áudios, com negativa do dirigente e da direção (Gazeta do Povo; CartaCapital, 2024)"
+              ],
+              "divergent": [
+                "Justiça Eleitoral confirmou a expulsão em setembro de 2025, com Amauri Pinho assumindo a presidência (Tribuna do ABC, 30/09/2025)",
+                "Denúncia do Ministério Público de São Paulo sobre a eleição interna de 2024 segue em tramitação sob sigilo (Wikipedia; imprensa, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos gestão de crise de governo; os episódios documentados são de direção partidária e de processos na Justiça Eleitoral (2024-2026)"
+            },
+            "support": {
+              "partySeats": "0 de 513 deputados federais (PRTB, legislatura 2023-2027)",
+              "coalitionSeats": "Partido isolado, sem coligação registrada para a Presidência em 2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "O comando nacional foi reconhecido por certidão da Justiça Eleitoral em 17/06/2026, sem bancada federal e sem coligação nacional. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Manutenção do comando do partido dependeu de decisões da Justiça Eleitoral entre 2024 e 2026",
+                "detail": "A direção nacional foi destituída em congresso do partido em agosto de 2025 e a expulsão foi confirmada pela Justiça Eleitoral em setembro de 2025; em fevereiro de 2026 a filiação foi reativada e em 17/06/2026 uma certidão registrou nova composição da Executiva Nacional sob a presidência do candidato.",
+                "sources": [
+                  {
+                    "id": "src-la-80"
+                  },
+                  {
+                    "id": "src-la-82"
+                  },
+                  {
+                    "id": "src-la-83"
+                  },
+                  {
+                    "id": "src-la-81"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desfecho do processo sobre a eleição interna de 2024 que tramita sob sigilo?",
+                "why": "As fontes consultadas registram tramitação sem decisão de mérito localizada."
+              },
+              {
+                "question": "Como ficou a composição dos diretórios estaduais após as duas mudanças de comando?",
+                "why": "As fontes registram a nova Executiva Nacional e o caso de Goiás, sem panorama dos demais estados."
+              }
+            ],
+            "publicExplanation": "O dirigente e a direção do partido declararam publicamente que as acusações são infundadas e integram uma campanha de difamação política, e a defesa afirmou não haver condenação que comprove vínculo com facção (CartaCapital; imprensa, 2024).",
+            "methodology": "Trajetória sem mandato federal: o teste usa episódios de direção partidária e decisões da Justiça Eleitoral (2024-2026). Fatos judiciais são reproduzidos como constam das fontes, sem apreciação de mérito. Ficaram fora autos sob sigilo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "reality": {
+            "proposal": "Interface com a Justiça Eleitoral no registro e na substituição da chapa presidencial e na reorganização de diretórios",
+            "requirement": {
+              "path": "indefinido",
+              "note": "O caminho é processual, com prazos da Justiça Eleitoral; a substituição da chapa foi protocolada no último dia do prazo e o comando do partido foi confirmado por certidão."
+            },
+            "history": {
+              "aligned": [
+                "Protocolos de substituição da chapa assinados pela direção e publicados no DJE de 18/09/2026 (TSE, 2026)",
+                "Litígio pelo comando do partido resolvido com certidão da Justiça Eleitoral em 17/06/2026 (Tribuna do ABC, 2026)",
+                "Comunicados com o diretório estadual após o rompimento da coligação em Goiás (Jornal Opção; Poder Goiás, 2026)"
+              ],
+              "divergent": [
+                "A aliança com a coligação governista de Goiás não foi restabelecida nas fontes consultadas (Poder Goiás, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos interlocução com ministérios, estados ou municípios; a coordenação documentada é com a Justiça Eleitoral e o diretório estadual"
+            },
+            "support": {
+              "partySeats": "0 de 513 deputados federais (PRTB, legislatura 2023-2027)",
+              "coalitionSeats": "Partido isolado, sem coligação registrada para a Presidência em 2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "A interlocução institucional registrada é eleitoral e partidária: Justiça Eleitoral, diretório de Goiás e coligação estadual. Não há coligação nacional. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Prazos e condições do registro eleitoral são definidos pela Justiça Eleitoral e condicionaram a candidatura",
+                "detail": "O registro da chapa original foi indeferido em 11/09/2026 e a substituição foi protocolada no último dia do prazo, com publicação no DJE de 18/09/2026. O desenho da candidatura passou a depender do calendário e das condições fixadas pela Justiça Eleitoral.",
+                "sources": [
+                  {
+                    "id": "src-la-01"
+                  },
+                  {
+                    "id": "src-la-05"
+                  },
+                  {
+                    "id": "src-la-13"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como se dará a relação entre a direção nacional e os diretórios estaduais após as mudanças de comando?",
+                "why": "O caso de Goiás está documentado, mas as fontes consultadas não trazem panorama dos demais estados."
+              },
+              {
+                "question": "Há interlocução com órgãos de controle ou com outras legendas para além da Justiça Eleitoral?",
+                "why": "A documentação localizada cobre processos eleitorais e comunicados do partido, sem agenda institucional registrada."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa protocolos eleitorais, certidões e comunicados do partido (2024-2026). Confronta a candidatura com prazos e condições fixados pela Justiça Eleitoral. Ficaram fora autos sob sigilo e tratativas sem registro público.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "comunicacao-publica",
+          "reality": {
+            "proposal": "Apresentação do programa 'Reconstrução Nacional' em sabatinas e comunicados, com IPVA fixo e imposto único como destaques",
+            "requirement": {
+              "path": "indefinido",
+              "note": "Não há mudança legal envolvida na comunicação; o programa é apresentado em sabatinas, comunicados partidários e veículos de alcance nacional e regional."
+            },
+            "history": {
+              "aligned": [
+                "Sabatina do Correio Braziliense (28/07/2026) com apresentação das propostas do programa (Correio Braziliense, 2026)",
+                "Programa replicado em veículos nacionais e regionais, com destaque para o imposto único de 3,5% (GRU Diário; Jornal Ribeirão, 2026)",
+                "Comunicados do partido com posicionamento público sobre as acusações dirigidas à direção (Wikipedia; imprensa, 2024-2026)"
+              ],
+              "divergent": [
+                "Não houve divulgação de agenda pública do candidato em fim de semana monitorado (Agência Brasil, 20/09/2026)",
+                "A comunicação seguiu por comunicados e redes do partido, sem entrevistas coletivas registradas no período (imprensa, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos comunicação de governo exercida; a base é a comunicação de campanha e de direção partidária em 2026"
+            },
+            "support": {
+              "partySeats": "0 de 513 deputados federais (PRTB, legislatura 2023-2027)",
+              "coalitionSeats": "Partido isolado, sem coligação registrada para a Presidência em 2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "A comunicação registrada é de sabatinas, comunicados partidários e imprensa, em legenda sem bancada federal e sem coligação nacional. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Comunicação concentrada em canais partidários e sabatinas, com agenda pública não divulgada em período monitorado",
+                "detail": "A cobertura consultada registra ausência de divulgação de agenda pública do candidato em fim de semana de campanha, com a comunicação mantida por comunicados do partido e redes sociais, em legenda sem tempo relevante de propaganda e sem bancada federal.",
+                "sources": [
+                  {
+                    "id": "src-la-44"
+                  },
+                  {
+                    "id": "src-la-43"
+                  },
+                  {
+                    "id": "src-la-10"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a agenda pública e a estratégia de comunicação previstas para as semanas finais da campanha?",
+                "why": "As fontes registram comunicados e sabatinas, sem calendário público divulgado pelo partido."
+              },
+              {
+                "question": "Como o programa será detalhado em propostas individualizadas com custo e prazo?",
+                "why": "Os veículos replicam os eixos do programa, sem documento individualizado disponível nas fontes desta rodada."
+              }
+            ],
+            "publicExplanation": "O dirigente declarou que o partido 'não está aqui para ser apenas mais uma opção no papel' (comunicado do PRTB, 15/07/2026), ao anunciar as prioridades de desoneração, livre mercado e redução da estrutura federal.",
+            "methodology": "Trajetória sem mandato federal: o teste usa sabatinas, comunicados oficiais do partido e cobertura de imprensa nacional e regional (2024-2026). Confronta o que é apresentado publicamente com a agenda divulgada e com os documentos disponíveis.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "visao-estrategica",
+          "reality": {
+            "proposal": "Programa 'Reconstrução Nacional' com imposto único de 3,5% e metas de longo prazo em tecnologia, agricultura e saúde",
+            "requirement": {
+              "path": "indefinido",
+              "note": "O programa registrado não traz cronograma nem custo por proposta; o eixo tributário, se veiculado por emenda, exigiria 308 deputados e 49 senadores, em dois turnos em cada Casa."
+            },
+            "history": {
+              "aligned": [
+                "Prioridades declaradas no lançamento da pré-candidatura: desoneração, livre mercado e redução da estrutura federal (Viva; imprensa, 15/07/2026)",
+                "Encadeamento público entre carga tributária, jornada e produtividade em sabatina (Correio Braziliense, 28/07/2026)",
+                "Convenção nacional de 29/07/2026 que oficializou a candidatura e o programa (Gazeta do Paraná, 2026)"
+              ],
+              "divergent": [
+                "O programa registrado não está disponível com propostas individualizadas e custos nas fontes desta rodada (Agência Brasil, 2026)",
+                "Metas de tecnologia e saúde aparecem sem prazo ou indicador nas fontes consultadas (Jornal Ribeirão, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos plano de governo executado em cargo público; a base é o documento registrado no TSE e as declarações de 2026"
+            },
+            "support": {
+              "partySeats": "0 de 513 deputados federais (PRTB, legislatura 2023-2027)",
+              "coalitionSeats": "Partido isolado, sem coligação registrada para a Presidência em 2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "As metas de longo prazo são declaradas em legenda sem bancada federal e sem coligação nacional registrada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Eixo tributário central é declarado sem veículo normativo, cronograma ou estimativa de arrecadação",
+                "detail": "O programa concentra as propostas em um imposto único de 3,5% em substituição a onze tributos e declara metas de longo prazo em tecnologia, agricultura e saúde, sem cronograma, custo por proposta ou regra de transição nas fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-la-40"
+                  },
+                  {
+                    "id": "src-la-41"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Meta de polo tecnológico de referência mundial é declarada sem instrumento ou indicador",
+                "detail": "A meta aparece vinculada a desoneração da indústria, fertilizantes e insumos agrícolas, sem órgão responsável, orçamento ou indicador de aferição; não localizamos iniciativa comparável na trajetória analisada do candidato.",
+                "sources": [
+                  {
+                    "id": "src-la-41"
+                  },
+                  {
+                    "id": "src-la-42"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "low"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o indicador de cada meta de longo prazo e em quanto tempo seria aferida?",
+                "why": "As metas de tecnologia, agricultura e saúde são declaradas sem prazo ou indicador nas fontes consultadas."
+              },
+              {
+                "question": "Qual a regra de transição prevista entre os tributos atuais e o imposto único?",
+                "why": "O programa apresenta o imposto único como eixo central sem detalhar transição, alíquotas ou exceções."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa o programa apresentado em comunicados, sabatinas e cobertura nacional (2026). Confronta as metas declaradas com instrumento, prazo e indicador. Ficou fora o documento integral do programa, não disponível com propostas individualizadas no pool.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          }
+        }
+      ]
+    },
+    "augusto-cury": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "reality": {
+            "proposal": "Fundo Nacional do Empreendedor de R$ 30 a 50 bilhões, ministério próprio e 10.000 escolas de empreendedorismo",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "A criação do fundo e do ministério depende de lei; o plano cita o valor do fundo sem indicar a origem dos recursos nem a vinculação orçamentária da despesa."
+            },
+            "history": {
+              "aligned": [
+                "Escola da Inteligência: venda de 60% do controle à Arco Educação, aprovada pelo CADE sem condicionantes em 02/12/2020 (Valor Econômico)",
+                "Metodologia licenciada a redes públicas em dez unidades da federação, em contratos somando mais de R$ 30 milhões (Fórum Investiga, 04/09/2026)",
+                "Empresa com cerca de 116 colaboradores e rede declarada de cerca de 900 escolas (LinkedIn; imprensa, 2026)"
+              ],
+              "divergent": [
+                "Contratações por dispensa de licitação e inexigibilidade estão registradas em diários oficiais de municípios (Fórum Investiga; Jornal Opção, 2026)",
+                "Programa substituído em Itajaí (SC) em setembro de 2026, após gastos municipais com os programas (DIARINHO, 14/09/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos execução de política pública ou de orçamento federal; a base é a gestão da empresa e o licenciamento da metodologia"
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+              "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação; vice Júlio Delgado (Avante)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "A coligação registrada com o Agir é o acordo formal documentado; não há federação nem maioria própria no Congresso. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fundo de R$ 30 a 50 bilhões depende de lei e de fonte de recursos não indicada",
+                "detail": "A criação do Fundo Nacional do Empreendedor e do ministério depende de lei. O plano cita o valor do fundo (R$ 30 bilhões a R$ 50 bilhões) sem indicar a origem dos recursos nem a vinculação orçamentária, em um documento com 18 tópicos, 1 de 9 propostas-chave com custo e 2 de 9 com prazo.",
+                "sources": [
+                  {
+                    "id": "src-ac-05"
+                  },
+                  {
+                    "id": "src-ac-08"
+                  },
+                  {
+                    "id": "src-ac-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a fonte de recursos do Fundo Nacional do Empreendedor e em quanto tempo ele seria integralizado?",
+                "why": "O plano informa a faixa de R$ 30 bilhões a R$ 50 bilhões sem indicar origem dos recursos ou cronograma de liberação."
+              },
+              {
+                "question": "Como seria feita a ligação entre as 10.000 escolas de empreendedorismo e a rede de ensino existente?",
+                "why": "A meta é declarada sem indicador, não consta o órgão responsável nem o custo por unidade."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: a análise usa a gestão da empresa criada pelo candidato, o licenciamento da metodologia a redes públicas e a operação da campanha (2010-2026). O teste confronta a execução empresarial com o instrumento exigido para um fundo público. Ficaram fora documentos contratuais não públicos.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "reality": {
+            "proposal": "Reforma do regime de governo para o semipresidencialismo e mandato de 8 anos para ministros do STF",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "Adoção do semipresidencialismo e fim da vitaliciedade dos ministros do STF alteram texto constitucional; o candidato declarou que pretende 'provocar o Congresso' para a reforma."
+            },
+            "history": {
+              "aligned": [
+                "Rodada de contatos com dirigentes de MDB, PSD, PSDB, Podemos, PSC e Novo antes da filiação ao Avante (Metrópoles, 05/04/2026)",
+                "Coligação 'Brasil dos Nossos Sonhos' registrada com o Agir e chapa deferida em 11/09/2026 (TSE; Folha de S.Paulo, 2026)",
+                "Agenda com a cúpula da Assembleia de Deus em São Paulo (g1, 03/09/2026)"
+              ],
+              "divergent": [
+                "Convite público a Ronaldo Caiado (PSD) para o Ministério da Segurança sem resposta formal registrada até 29/09/2026 (GZH; Gazeta do Povo)",
+                "Composição com o Novo foi descartada e a chapa mantida com Júlio Delgado (Poder360; O Globo, 08/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos negociação com bancadas ou relatoria para viabilizar emenda constitucional; a base são filiações e composições de chapa"
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+              "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "O acordo formal registrado é a coligação com o Agir, que reúne 5 deputados federais do Avante e um senador; a PEC exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Semipresidencialismo e mandato no STF exigem PEC com 3/5 nas duas Casas",
+                "detail": "A adoção do semipresidencialismo e o mandato de oito anos para ministros do STF alteram texto constitucional e exigem 308 deputados e 49 senadores, em dois turnos em cada Casa. A base registrada da coligação é de 5 deputados federais e 1 senador.",
+                "sources": [
+                  {
+                    "id": "src-ac-06"
+                  },
+                  {
+                    "id": "src-ac-36"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Não localizamos mesa de negociação com o Congresso para a reforma institucional proposta",
+                "detail": "As tratativas documentadas em 2026 são de filiação partidária, composição de chapa e agenda setorial. Não localizamos relatoria, frente parlamentar ou acordo de votação associado à PEC do semipresidencialismo e do STF.",
+                "sources": [
+                  {
+                    "id": "src-ac-09"
+                  },
+                  {
+                    "id": "src-ac-50"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a proposta de transição e de vigência para o semipresidencialismo, incluindo a escolha do primeiro-ministro?",
+                "why": "A proposta aparece em entrevistas e no documento sem desenho de transição, data de vigência ou fórmula de escolha."
+              },
+              {
+                "question": "Quais bancadas assumiram compromisso de votar a PEC até o registro do plano?",
+                "why": "Os contatos partidários registrados são anteriores à filiação; não há lista de apoio à reforma institucional."
+              }
+            ],
+            "publicExplanation": "O candidato afirmou em entrevista que pretende 'provocar o Congresso' para a reforma do STF e do regime de governo e que a proposta é atribuída ao vice Júlio Delgado (Metrópoles, 03/2026; Agência Brasil, 2026).",
+            "methodology": "Trajetória sem mandato federal: o teste usa contatos partidários, composição de chapa e agenda setorial de 2026. Confronta a exigência de 3/5 nas duas Casas com os acordos formalizados. Ficaram fora conversas sem registro público e respostas não confirmadas por cada partido citado.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "lideranca-equipes",
+          "reality": {
+            "proposal": "Enxugamento do Executivo: corte de 8 a 10 ministérios e criação das pastas da Segurança Pública e da Inteligência Artificial",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "A organização dos ministérios é disciplinada por lei e por decretos de organização administrativa; o candidato não divulgou critério de corte nem desenho das novas pastas."
+            },
+            "history": {
+              "aligned": [
+                "Direção da Escola da Inteligência por mais de uma década, com rede declarada de cerca de 900 escolas (LinkedIn; Valor Econômico, 2026)",
+                "Montagem da equipe de campanha com nomeação de vice e contratação de responsáveis pela comunicação (O Globo, 18/08/2026)",
+                "Declaração de participações societárias no Brasil e nos Estados Unidos após correção (g1; Estadão, 05/09/2026)"
+              ],
+              "divergent": [
+                "Não há publicação de organograma ou do número de integrantes da equipe de campanha (lacuna nas fontes consultadas)"
+              ],
+              "noComparablePrecedent": "Não localizamos direção de equipe de governo ou de órgão público; a base é a empresa, as participações societárias e a campanha"
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+              "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "As equipes citadas na campanha não têm organograma publicado e a coligação registrada reúne dois partidos. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Corte de 8 a 10 ministérios convive com a criação de novas pastas no mesmo plano",
+                "detail": "O candidato declara corte de 8 a 10 ministérios como instrumento do ajuste e propõe a criação de um Ministério da Segurança Pública e de um Ministério da Inteligência Artificial. O plano não informa a economia estimada, o critério de corte nem quantas pastas seriam criadas e extintas.",
+                "sources": [
+                  {
+                    "id": "src-ac-19"
+                  },
+                  {
+                    "id": "src-ac-37"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantas pastas seriam extintas, quais seriam criadas e qual a economia líquida estimada?",
+                "why": "O plano cita faixas (8 a 10 ministérios) e novas pastas sem balanço de cargos, servidores e despesa."
+              },
+              {
+                "question": "Quem conduziria as equipes dos novos ministérios e com que estrutura de pessoal?",
+                "why": "Nenhum nome ou desenho de equipe foi anunciado até 29/09/2026, e a campanha trocou o responsável pela comunicação em agosto."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: a análise usa a direção da empresa criada pelo candidato, a rede de escolas licenciadas e a montagem da equipe de campanha (2010-2026). O teste confronta a reorganização proposta com critério, custo e estrutura declarados.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tomada-decisao",
+          "reality": {
+            "proposal": "Reajuste do salário mínimo pela inflação mais 1% ao ano, com ganho real declarado de 50% a 60% em quatro anos",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "O valor do salário mínimo é fixado por lei, com previsão orçamentária na lei de diretrizes e na lei orçamentária anual; o plano não indica a fonte de recursos do ganho real."
+            },
+            "history": {
+              "aligned": [
+                "Escolha do Avante após rodada de conversas com outras legendas, com candidatura própria mantida (Metrópoles; Gazeta do Povo, 04/2026)",
+                "Venda de 60% do controle da Escola da Inteligência, aprovada pelo CADE em 02/12/2020 sem condicionantes (Valor Econômico)",
+                "Decisão de não antecipar os nomes da equipe econômica durante a campanha (Terra; R7, 10/09/2026)"
+              ],
+              "divergent": [
+                "O candidato afirmou ter conversas com Mansueto Almeida e Marcos Lisboa sem apontar favorito (R7; Terra, 10/09/2026)",
+                "A composição com o Novo não avançou e a chapa foi mantida com Júlio Delgado (Poder360; O Globo, 08/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos decisão de governo com trade-off orçamentário; as decisões documentadas são societárias, partidárias e de campanha"
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+              "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "O reajuste depende de lei com previsão orçamentária; a coligação registrada reúne dois partidos e não há maioria própria. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Ganho real de 50% a 60% no mínimo convive com corte de ministérios como fonte do ajuste",
+                "detail": "O candidato estima ganho real acumulado de 50% a 60% em quatro anos e indica o corte de 8 a 10 ministérios como instrumento do ajuste. O plano não informa quanto o corte geraria de economia nem a fonte de recursos do reajuste.",
+                "sources": [
+                  {
+                    "id": "src-ac-19"
+                  },
+                  {
+                    "id": "src-ac-37"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como foi calculado o ganho real acumulado de 50% a 60% em quatro anos com reajuste de inflação mais 1%?",
+                "why": "A estimativa é declarada em entrevista sem memória de cálculo apresentada nas fontes consultadas."
+              },
+              {
+                "question": "Qual a fonte de recursos do reajuste acima da inflação e o que acontece se a arrecadação não acompanhar?",
+                "why": "O plano não vincula o reajuste a uma fonte específica nem descreve regra de contingência."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa decisões societárias, políticas e de campanha (2020-2026). Confronta o trade-off declarado no reajuste do mínimo com a fonte de recursos e com o instrumento legal. Ficou fora a íntegra do plano, não disponível item a item no pool.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "gestao-crises",
+          "reality": {
+            "proposal": "Resposta à controvérsia sobre o doutorado declarado no plano registrado no TSE e à omissão de empresas na declaração de bens",
+            "requirement": {
+              "path": "indefinido",
+              "note": "Não há mudança legal envolvida: o caminho é a resposta pública, o direito de resposta em veículo de imprensa e a retificação da declaração apresentada à Justiça Eleitoral."
+            },
+            "history": {
+              "aligned": [
+                "Direito de resposta publicado no Observatório da Imprensa (julho de 2026) sobre o título declarado (Observatório da Imprensa, 2026)",
+                "Campanha classificou as ausências como inconsistências pontuais e informou que retificaria a declaração (g1; Estadão, 05/09/2026)",
+                "Compromisso declarado de não manter contratos federais das empresas em eventual governo (Fórum Investiga; Folha de S.Paulo, 2026)"
+              ],
+              "divergent": [
+                "A assessoria não respondeu aos veículos sobre a permanência da informação no plano registrado (Folha; Valor Econômico, 01/09/2026)",
+                "O programa foi substituído em Itajaí em setembro de 2026 após questionamentos sobre gastos municipais (DIARINHO, 14/09/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos gestão de crise de governo; os episódios documentados são de campanha, do plano registrado e de contratos das empresas"
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+              "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "A resposta às controvérsias se deu por direito de resposta e comunicados de campanha, sem processo ou sanção localizada até 29/09/2026. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Plano registrado declara doutorado; o candidato afirma não apresentar o título como doutorado acadêmico",
+                "detail": "O plano protocolado no TSE declara doutorado em Psicologia Multifocal pela Florida Christian University (2013), e o currículo Lattes registra Doctor of Business Administration pela mesma instituição. Em direito de resposta de julho de 2026 o candidato afirmou que não apresenta o título como doutorado acadêmico em Psicologia.",
+                "sources": [
+                  {
+                    "id": "src-ac-11"
+                  },
+                  {
+                    "id": "src-ac-12"
+                  },
+                  {
+                    "id": "src-ac-13"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Empresas nos Estados Unidos não constavam da declaração de bens; campanha anunciou retificação",
+                "detail": "Três empresas não foram declaradas ao TSE e a campanha classificou as ausências como inconsistências pontuais, informando que retificaria a declaração. As participações declaradas depois foram consideradas inexpressivas no patrimônio pela campanha.",
+                "sources": [
+                  {
+                    "id": "src-ac-65"
+                  },
+                  {
+                    "id": "src-ac-72"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "A retificação da declaração de bens foi protocolada no TSE e quais empresas constam da versão final?",
+                "why": "A campanha anunciou a correção em setembro de 2026; o protocolo final não foi localizado nas fontes consultadas."
+              },
+              {
+                "question": "Qual a versão vigente do plano registrado quanto ao título declarado?",
+                "why": "O plano registrado e o currículo Lattes divergem e a assessoria não respondeu aos veículos que apontaram a divergência."
+              }
+            ],
+            "publicExplanation": "No direito de resposta de julho de 2026, o candidato afirmou que 'não apresenta esse título como doutorado acadêmico em Psicologia' e que a formação citada não é divulgada como título acadêmico (Observatório da Imprensa, 2026).",
+            "methodology": "Trajetória sem mandato federal: o teste usa o plano registrado, a declaração de bens, o direito de resposta e a cobertura de imprensa de 2026. Fatos são reproduzidos como constam das fontes, sem apreciação sobre o título ou sobre os contratos. Ficaram fora autos não localizados.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "reality": {
+            "proposal": "Telemedicina e inteligência artificial no SUS, com atendimento digital, plataformas e detecção precoce de doenças",
+            "requirement": {
+              "path": "depende-estados",
+              "note": "O SUS é financiado em regime tripartite e a implantação depende de estados e municípios; o plano não indica custo, padrão de integração ou instrumento normativo específico."
+            },
+            "history": {
+              "aligned": [
+                "Operação societária aprovada pelo CADE em 02/12/2020, sem condicionantes (Arco Educação; Valor Econômico)",
+                "Relação contratual das empresas que licenciam a metodologia com secretarias municipais em vários estados (Fórum Investiga; Jornal Opção, 2026)",
+                "Compromisso de não manter contratos federais das empresas em eventual governo (Fórum Investiga; Folha de S.Paulo, 2026)"
+              ],
+              "divergent": [
+                "Contratações foram feitas por dispensa de licitação e inexigibilidade, conforme diários oficiais municipais (Fórum Investiga; Jornal Opção, 2026)",
+                "Programa cancelado em Itajaí após gastos municipais de R$ 39 milhões com os programas (DIARINHO, 13 e 14/09/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos interlocução com governos estaduais ou ministérios; a base é a relação contratual com municípios e a operação aprovada pelo CADE"
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+              "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "A coordenação documentada é contratual (municípios que adquiriram o programa educacional) e societária (CADE). Não há contrato federal registrado. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Telemedicina no SUS depende de estados e municípios e de custeio não declarado",
+                "detail": "O candidato afirma que a telemedicina resolveria 80% dos atendimentos, com médicos 24 horas e uso de inteligência artificial. A implantação depende da gestão tripartite do SUS, e o plano não indica custo, padrão de integração nem responsabilidade pelo custeio.",
+                "sources": [
+                  {
+                    "id": "src-ac-05"
+                  },
+                  {
+                    "id": "src-ac-19"
+                  },
+                  {
+                    "id": "src-ac-74"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo de implantação da telemedicina por estado e quem paga a operação continuada?",
+                "why": "O plano apresenta o modelo como de baixo custo sem estimativa apresentada nas fontes consultadas."
+              },
+              {
+                "question": "Como ficam os contratos federais das empresas do candidato caso ele assuma o governo?",
+                "why": "O compromisso de não manter contratos federais foi declarado; a regra de desinvestimento e o prazo não foram detalhados."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: a análise usa a operação da empresa, os contratos com municípios, a decisão do CADE e a campanha de 2026. Confronta a proposta para o SUS com a gestão tripartite e com o custo não declarado.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "comunicacao-publica",
+          "reality": {
+            "proposal": "Educação: ensino em tempo integral com 'gestão da emoção' no currículo e 'Projeto Brasil Neuroinclusivo'",
+            "requirement": {
+              "path": "indefinido",
+              "note": "O plano não especifica o instrumento; currículo e diretrizes da educação básica são definidos em política nacional e pela base curricular comum, com execução compartilhada com redes estaduais e municipais."
+            },
+            "history": {
+              "aligned": [
+                "Rodada de entrevistas em TV Globo (29/08/2026) e sabatina do Flow Podcast (21/09/2026), com apresentação das propostas (g1; A Crítica, 2026)",
+                "Reforma do STF apresentada em entrevista ao Metrópoles (03/2026), com a intenção declarada de provocar o Congresso (Metrópoles, 2026)",
+                "Campanha digital com impulsionamento pago e 35 segundos de tempo na propaganda eleitoral de TV (Instituto Democracia em Xeque; Nexo Jornal, 2026)"
+              ],
+              "divergent": [
+                "Crescimento nas redes levantou suspeita de adversários sobre pagamento a influenciadores, negada pela campanha (Folha, 31/08/2026)",
+                "A assessoria não respondeu aos veículos sobre a divergência do título no plano registrado (Folha; Valor Econômico, 01/09/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos comunicação de governo exercida; a base são entrevistas, debates, campanha digital e material de campanha de 2026"
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+              "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "A comunicação ocorre sem coligação de TV relevante: 35 segundos de tempo e apoio em redes sociais e debates. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Crescimento em redes foi questionado por campanhas adversárias; campanha negou pagamento e uso de robôs",
+                "detail": "O crescimento do candidato em pesquisas no período coincidiu com campanha digital impulsionada; campanhas adversárias levantaram suspeita de pagamento a influenciadores e a campanha negou a prática e o uso de robôs em 31/08/2026.",
+                "sources": [
+                  {
+                    "id": "src-ac-24"
+                  },
+                  {
+                    "id": "src-ac-27"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Currículo com 'gestão da emoção' depende de política nacional e de adesão das redes de ensino",
+                "detail": "A proposta altera o currículo da educação básica com disciplinas de gestão da emoção, educação financeira e empreendedorismo e prevê o 'Projeto Brasil Neuroinclusivo'. O plano não especifica o instrumento nem o custo da mudança curricular, que depende de redes estaduais e municipais.",
+                "sources": [
+                  {
+                    "id": "src-ac-05"
+                  },
+                  {
+                    "id": "src-ac-93"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o instrumento previsto para inserir 'gestão da emoção' no currículo nacional e com que custo?",
+                "why": "O plano cita disciplinas novas sem indicar veículo normativo, formação docente ou orçamento."
+              },
+              {
+                "question": "Como a campanha responde à divergência entre o plano registrado e o currículo Lattes sobre o título?",
+                "why": "A assessoria não respondeu aos veículos sobre a permanência da informação no plano registrado."
+              }
+            ],
+            "publicExplanation": "Em sabatina, o candidato reconheceu sua ligação com empresa de telemedicina e afirmou que a experiência permite dizer que o modelo pode ser de baixo custo e eficiente (GZH, 29/08/2026).",
+            "methodology": "Trajetória sem mandato federal: o teste usa entrevistas, debates, campanha digital e o plano registrado (2026). Confronta as propostas educacionais com o instrumento e o custo. Ficaram fora programas eleitorais de TV e conteúdos de redes sem repercussão registrada.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "visao-estrategica",
+          "reality": {
+            "proposal": "Plano 'O Brasil dos Nossos Sonhos' com 18 tópicos em 200 páginas e metas de 4, 8 a 10 e 10 a 12 anos",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "O plano declara prazos para renda, salário mínimo e produção de alimentos sem indicar instrumento por meta; a reforma institucional proposta (semipresidencialismo e STF) exige emenda constitucional."
+            },
+            "history": {
+              "aligned": [
+                "Plano registrado no TSE e usado como base das entrevistas e do debate (TSE; Radioagência Nacional, 24/08/2026)",
+                "Encadeamento declarado entre medida de curto prazo (mínimo) e objetivos de longo prazo (renda e alimentos) (GZH, 29/08/2026)",
+                "Apresentação de metas de segurança alimentar em evento de pré-candidatura (g1, 06/05/2026)"
+              ],
+              "divergent": [
+                "1 de 9 propostas-chave tem custo estimado e 2 de 9 têm prazo declarado no documento registrado (levantamento, 2026)",
+                "Meta de dobrar a produção de alimentos para 700 milhões de toneladas é declarada em campanha, sem indicador no documento (Agência Brasil, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos plano de governo executado em cargo público; a base é o documento registrado no TSE e as declarações de campanha de 2026"
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+              "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "As metas de 8 a 12 anos dependem de votos que a coligação registrada (5 deputados federais e 1 senador) não reúne isoladamente. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Metas de 8 a 12 anos são declaradas sem indicador, instrumento ou custo por meta",
+                "detail": "O plano fixa prazos para renda por habitante, valor do salário mínimo e produção de alimentos, com 2 de 9 propostas-chave com prazo declarado e 1 de 9 com custo. Não há indicador de aferição nem instrumento vinculado a cada meta nas fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-ac-05"
+                  },
+                  {
+                    "id": "src-ac-19"
+                  },
+                  {
+                    "id": "src-ac-23"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reforma institucional proposta precisa de PEC antes de qualquer mudança de desenho do Estado",
+                "detail": "O semipresidencialismo e o mandato de oito anos para ministros do STF são apresentados como base da reorganização do Estado e exigem 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+                "sources": [
+                  {
+                    "id": "src-ac-06"
+                  },
+                  {
+                    "id": "src-ac-36"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o indicador de aferição de cada meta e a fonte de dados prevista para acompanhamento?",
+                "why": "As metas são declaradas com prazos, sem indicador ou sistema de acompanhamento no documento analisado."
+              },
+              {
+                "question": "Qual a sequência prevista entre a PEC institucional e as metas de renda, mínimo e alimentos?",
+                "why": "O plano apresenta as duas frentes sem ordem de votação ou dependência declarada."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: a análise usa o documento registrado no TSE, as metas declaradas em campanha e as entrevistas de 2026. Confronta prazos e metas com indicador e instrumento. Ficaram fora a obra editorial do candidato e o conteúdo integral do plano item a item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "clariana-barao": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "reality": {
+            "proposal": "Rede Nacional de Proteção e Resposta à Violência, com atendimento integrado à mulher e protocolo único",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "A rede integra saúde, assistência social, segurança pública e Judiciário; parte da operação depende de estados e municípios e o plano não estima custo por proposta."
+            },
+            "history": {
+              "aligned": [
+                "Registro do programa de governo no TSE e apresentação das propostas em entrevistas entre agosto e setembro de 2026 (TSE, 2026)",
+                "Agenda de campanha cumprida em Mato Grosso, Pernambuco e Paraíba, com eventos e entrevistas locais (g1; imprensa regional, 2026)",
+                "Coordenação de grupo de voluntários de Mato Grosso no auxílio às vítimas das enchentes do Rio Grande do Sul (VGN, 2024)"
+              ],
+              "divergent": [
+                "O plano registrado não estima custo (0 de 9 propostas-chave) nem prazo por proposta (levantamento, 2026)",
+                "O partido não tem bancada na Câmara dos Deputados para sustentar a pauta (TSE; Wikipedia, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos execução de programa ou orçamento público; a base é a direção partidária estadual, o conselho municipal e o voluntariado"
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação; vice Fabiana Torquato (DC)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A legenda tem 251 vereadores e 2 prefeitos eleitos em 2024, sem representação federal. A cota de campanha informada é de R$ 1,5 milhão. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Rede nacional de proteção depende de estados e municípios e de custo não estimado",
+                "detail": "A proposta integra delegacia, acolhimento e encaminhamento à profissionalização em protocolo único, com atendimento em saúde, assistência social e segurança. O plano não informa custo, número de unidades ou pactuação federativa necessária para operar a rede.",
+                "sources": [
+                  {
+                    "id": "src-cb-05"
+                  },
+                  {
+                    "id": "src-cb-12"
+                  },
+                  {
+                    "id": "src-cb-04"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo estimado da rede e quantos centros de atendimento seriam instalados por estado?",
+                "why": "O plano não estima custos por proposta nem informa a estrutura física prevista."
+              },
+              {
+                "question": "Como se daria a pactuação com estados e municípios para operar o protocolo único?",
+                "why": "A execução passa por delegacias estaduais e serviços municipais, sem desenho federativo no documento."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal e primeira disputa eleitoral: a análise usa a direção estadual do partido, a presidência de comissão na OAB, o voluntariado de 2024 e a campanha de 2026. O teste confronta a entrega proposta com custo e pactuação exigidos.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "reality": {
+            "proposal": "Governo de diálogo declarado contra o extremismo, com candidatura própria em partido isolado e sem coligação",
+            "requirement": {
+              "path": "indefinido",
+              "note": "O plano não vincula a proposta a uma mudança legal específica; a articulação observável em 2026 é interna ao partido (21 diretórios estaduais) e não há coligação ou federação registrada."
+            },
+            "history": {
+              "aligned": [
+                "Aprovação do nome em reunião nacional do DC em 08/07/2026, com dirigentes e presidentes de 21 diretórios estaduais (Agência Brasil, 2026)",
+                "Oficialização da chapa em convenção nacional de 05/08/2026, em composição exclusivamente feminina (CNN Brasil, 2026)",
+                "Agenda com lideranças e entidades locais em estados do Nordeste e do Centro-Oeste (g1; portais regionais, 2026)"
+              ],
+              "divergent": [
+                "Sem registro de apoio formal de outras legendas ou de lideranças estaduais à candidatura (lacuna nas fontes consultadas)",
+                "A legenda trocou de candidato três vezes antes da indicação, com desistências de Rebelo e Barbosa (BBC; Poder360, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos negociação conduzida com outras legendas ou com o Congresso; a base é o processo interno do partido em 2026"
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "Não há coligação nem federação registrada para a Presidência em 2026 e a legenda não tem representação federal. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Não localizamos episódio de negociação com outras legendas conduzido pela candidata",
+                "detail": "As tratativas partidárias documentadas no DC em 2026 ocorreram dentro da legenda, com a substituição de três candidatos antes da indicação. Não localizamos mesa de negociação com outros partidos, acordo formal ou apoio suprapartidário associado à candidatura.",
+                "sources": [
+                  {
+                    "id": "src-cb-16"
+                  },
+                  {
+                    "id": "src-cb-28"
+                  },
+                  {
+                    "id": "src-cb-03"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Houve convite ou tratativa formal com outros partidos para compor a chapa em 2026?",
+                "why": "A candidatura foi registrada como partido isolado e as fontes consultadas não registram tratativas com outras legendas."
+              },
+              {
+                "question": "Como o diálogo declarado se converteria em votos para as propostas que dependem do Congresso?",
+                "why": "Duas das nove propostas-chave dependem do Congresso e a legenda não tem bancada federal."
+              }
+            ],
+            "publicExplanation": "A candidata declarou ter 'valores da direita' e afirmar rejeição ao extremismo, apresentando o diálogo como marca da candidatura (Poder360, 25/08/2026).",
+            "methodology": "Trajetória sem mandato federal e primeira disputa eleitoral: o teste usa o processo interno do partido, a composição da chapa e as agendas de 2026. Confronta o diálogo declarado com os acordos formalizados. Ficaram fora conversas sem registro público.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "lideranca-equipes",
+          "reality": {
+            "proposal": "Responsabilidade fiscal com revisão de gastos, subsídios e benefícios e avaliação de impacto de programas públicos",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "A revisão depende de lei orçamentária e de leis de avaliação de programas; o plano não informa valores, fontes de dados ou estrutura técnica de avaliação."
+            },
+            "history": {
+              "aligned": [
+                "Presidência do diretório estadual do DC em Mato Grosso e indicação do nome à direção nacional (Agência Brasil; Potência MT, 2026)",
+                "Formação de chapa e manutenção de campanha itinerante com diretórios estaduais (g1; portais regionais, 2026)",
+                "Coordenação de grupo de voluntários em situação de emergência, sem relatório público de execução (VGN, 2024)"
+              ],
+              "divergent": [
+                "Não há publicação de estrutura, organograma ou número de integrantes da equipe de campanha (lacuna nas fontes consultadas)"
+              ],
+              "noComparablePrecedent": "Não localizamos direção de equipe de governo; a base é o diretório estadual, a comissão na OAB e a campanha de 2026"
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A estrutura partidária é de diretório estadual, sem representação federal e sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Avaliação de impacto de programas exige estrutura técnica e dados não detalhados no plano",
+                "detail": "O eixo fiscal prevê avaliação de impacto e possibilidade de encerramento de programas considerados ineficazes. O plano não indica órgão responsável, metodologia, base de dados ou vinculação da avaliação à decisão orçamentária.",
+                "sources": [
+                  {
+                    "id": "src-cb-04"
+                  },
+                  {
+                    "id": "src-cb-17"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual órgão conduziria a avaliação de impacto e com que equipe técnica?",
+                "why": "O plano cita a avaliação como instrumento, sem indicar responsável, estrutura ou critério de encerramento."
+              },
+              {
+                "question": "Como a avaliação de programas se relaciona com a decisão orçamentária anual?",
+                "why": "Não há no documento vínculo entre resultado da avaliação e elaboração da lei orçamentária."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: a análise usa a direção do diretório estadual, a presidência de comissão na OAB, o conselho municipal e a campanha de 2026. O teste confronta o instrumento de avaliação proposto com a estrutura necessária para operá-lo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tomada-decisao",
+          "reality": {
+            "proposal": "Assunção da candidatura presidencial após duas desistências e campanha itinerante com a cota de R$ 1,5 milhão do partido",
+            "requirement": {
+              "path": "indefinido",
+              "note": "A decisão não envolve mudança legal: trata-se de alocação de recursos de campanha e de definição de agenda, com registro na Justiça Eleitoral em 11/09/2026."
+            },
+            "history": {
+              "aligned": [
+                "Assunção da candidatura em 24/07/2026, após as desistências de Aldo Rebelo e Joaquim Barbosa (Band; CartaCapital, 2026)",
+                "Opção por campanha itinerante com agenda própria e viagens estaduais até a semana anterior ao 1º turno (g1; portais regionais, 2026)",
+                "Sustentação da criação de banco de doadores de medula no hemocentro municipal, aprovada no conselho de saúde (VGN, 2025)"
+              ],
+              "divergent": [
+                "A legenda havia lançado e substituído dois candidatos no mesmo ano antes da indicação (BBC; Poder360, 2026)",
+                "O partido não tem bancada na Câmara para sustentar a campanha (TSE; Wikipedia, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos decisão de governo com trade-off orçamentário; a primeira disputa eleitoral da candidata é a de 2026"
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A campanha foi conduzida com a cota partidária informada de R$ 1,5 milhão e sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Decisões documentadas são de campanha e de conselho municipal, sem precedente de governo",
+                "detail": "As escolhas registradas em 2026 são a assunção da candidatura após duas desistências e a definição de campanha itinerante. Anteriormente, a atuação documentada é em conselhos municipais e em presidência de subseção da OAB, arenas com competência deliberativa própria.",
+                "sources": [
+                  {
+                    "id": "src-cb-70"
+                  },
+                  {
+                    "id": "src-cb-71"
+                  },
+                  {
+                    "id": "src-cb-74"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o plano de alocação da cota partidária entre estados e tipos de despesa?",
+                "why": "A candidata informou campanha itinerante com a cota recebida, sem detalhamento de alocação nas fontes consultadas."
+              },
+              {
+                "question": "Como a experiência em conselhos municipais seria convertida em decisão federal de orçamento?",
+                "why": "As deliberações documentadas têm alcance municipal e o plano federal usa instrumentos de outra natureza."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal e primeira disputa eleitoral: o teste usa a assunção da candidatura, a condução da campanha com cota informada e a atuação em conselhos municipais. Confronta as decisões registradas com o trade-off exigido em orçamento federal.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "gestao-crises",
+          "reality": {
+            "proposal": "Atuação em crise orçamentária da assistência social municipal, com deliberação do conselho que destravou recursos",
+            "requirement": {
+              "path": "depende-municipios",
+              "note": "A deliberação registrada ocorreu em conselho municipal de assistência social, com alcance no município; o plano federal prevê a Rede Nacional de Proteção sem detalhar a resposta a crises."
+            },
+            "history": {
+              "aligned": [
+                "Deliberação do conselho municipal de assistência social que, conforme a conselheira, destravou recursos da área (VGN, 2025)",
+                "Coordenação de grupo de voluntários de Mato Grosso no auxílio às vítimas das enchentes do Rio Grande do Sul (VGN, 2024)",
+                "Condução da campanha após duas desistências na legenda, com chapa mantida e registrada (Band; BBC, 2026)"
+              ],
+              "divergent": [
+                "Crítica pública à atuação de políticos do Rio Grande do Sul durante as enchentes, registrada em reportagem local (VGN, 2024)",
+                "Parte das fontes locais sobre os episódios foi acessada por resumo indexado, com bloqueio de acesso na coleta (registro metodológico, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos atuação em crise de governo; os episódios documentados são de voluntariado, conselho municipal e campanha de 2026"
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "Os episódios de crise documentados ocorreram em arenas municipal e voluntária, sem estrutura federal de resposta registrada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Resposta federal a crises depende de fundos e repasses que o plano não detalha",
+                "detail": "A experiência documentada é municipal (conselho de assistência social) e de voluntariado nas enchentes de 2024. O plano registrado prevê a Rede Nacional de Proteção e Resposta à Violência sem indicar fonte de recursos, fundo ou regra de repasse para resposta a situações críticas.",
+                "sources": [
+                  {
+                    "id": "src-cb-19"
+                  },
+                  {
+                    "id": "src-cb-04"
+                  },
+                  {
+                    "id": "src-cb-73"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o instrumento federal previsto para resposta a desastres e crises de assistência social?",
+                "why": "Os episódios documentados são municipais e voluntários; o plano não descreve o arranjo federal de resposta."
+              },
+              {
+                "question": "Como ficariam os cofres municipais e os fundos de assistência em caso de queda de arrecadação?",
+                "why": "A experiência do conselho municipal tratou de recursos locais, sem regra federal de apoio descrita no documento."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa a atuação em conselho municipal de assistência social, o voluntariado nas enchentes de 2024 e a condução da campanha em 2026. Parte das fontes locais foi lida por resumo indexado, o que limita o detalhamento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          }
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "reality": {
+            "proposal": "Federalismo de resultados: transferências federais parcialmente vinculadas a indicadores de desempenho de estados e municípios",
+            "requirement": {
+              "path": "depende-municipios",
+              "note": "O eixo 'Estado que funciona' vincula parte das transferências a indicadores; a medida depende de lei federal e da adesão de estados e municípios, não aferida nas fontes consultadas."
+            },
+            "history": {
+              "aligned": [
+                "Representação da OAB de Várzea Grande em conselhos municipais de saúde, assistência social e saneamento (VGN; Wikipedia, 2026)",
+                "Presidência da Subseção Várzea Grande da OAB-MT em 2025, com atuação em conselhos registrada em reportagens (VGN, 2025)",
+                "Interlocução do diretório estadual com a direção nacional do partido no processo de indicação (Potência MT; Congresso em Foco, 2026)"
+              ],
+              "divergent": [
+                "Sem registro de agenda institucional com governadores ou prefeitos durante a campanha (lacuna nas fontes consultadas)",
+                "O partido não tem representação no Congresso nem governos estaduais (TSE; Wikipedia, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos interlocução com Poderes ou entes federados em cargo público; a base é a OAB, conselhos municipais e a direção partidária"
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A coordenação institucional registrada é com conselhos municipais e a OAB, em legenda sem representação federal e sem governos estaduais. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Transferências vinculadas a indicadores dependem de lei e da adesão de estados e municípios",
+                "detail": "O eixo de gestão propõe vincular parte das transferências federais a indicadores de desempenho e prevê governo digital e compras rastreáveis. A medida depende de lei federal e da adesão de entes que hoje têm autonomia orçamentária, não aferida nas fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-cb-17"
+                  },
+                  {
+                    "id": "src-cb-06"
+                  },
+                  {
+                    "id": "src-cb-04"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais indicadores condicionariam as transferências e qual o percentual vinculado?",
+                "why": "O plano cita o federalismo de resultados sem definir indicadores, percentuais ou período de transição."
+              },
+              {
+                "question": "Como seria tratada a adesão de municípios que não alcançarem os indicadores?",
+                "why": "O documento não descreve consequências, apoio técnico ou regra de transição para os entes."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa a atuação em conselhos municipais, a presidência de subseção da OAB e a interlocução partidária de 2026. Confronta a proposta federativa com a autonomia de estados e municípios e com o instrumento legal exigido.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "comunicacao-publica",
+          "reality": {
+            "proposal": "Posições apresentadas em telejornal de rede nacional e em entrevistas longas, com mulheres e crianças como eixo declarado",
+            "requirement": {
+              "path": "indefinido",
+              "note": "Não há mudança legal envolvida na comunicação; as posições são apresentadas em entrevistas, agendas regionais e resposta pública a críticas sobre o plano."
+            },
+            "history": {
+              "aligned": [
+                "Entrevista de 39 minutos ao Poder360 (25/08/2026), com posicionamento político declarado (Poder360, 2026)",
+                "Participação no Jornal Nacional (05/09/2026) apresentando propostas de governo (g1, 2026)",
+                "Agenda em Pernambuco, Paraíba e Mato Grosso com entrevistas a veículos regionais (g1; portais regionais, 2026)"
+              ],
+              "divergent": [
+                "Resposta a críticas sobre o plano: a candidata afirmou que candidatos não cumprem promessas (MidiaNews, 2026)",
+                "O plano registrado não estima custo nem prazo por proposta, conforme levantamento sobre o documento (Plano Aberto, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos comunicação de governo exercida; a base são entrevistas nacionais, agendas regionais e material de campanha de 2026"
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A comunicação se apoia em entrevistas e agendas regionais, sem tempo relevante de propaganda e sem bancada federal. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Candidata afirma que candidatos não cumprem promessas; o plano registrado não tem custo nem prazo por proposta",
+                "detail": "Em resposta pública a críticas (MidiaNews), a candidata afirmou que candidatos não cumprem promessas e rebateu as críticas ao plano. O documento registrado no TSE não estima custo (0 de 9 propostas-chave) nem prazo por proposta (0 de 9).",
+                "sources": [
+                  {
+                    "id": "src-cb-37"
+                  },
+                  {
+                    "id": "src-cb-04"
+                  },
+                  {
+                    "id": "src-cb-19"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como as 30 promessas do plano seriam verificadas ao longo do mandato?",
+                "why": "O documento não traz indicador nem cronograma por proposta, o que dificulta a aferição declarada pela própria candidata."
+              },
+              {
+                "question": "Qual o custo total estimado do conjunto de propostas e a fonte de recursos?",
+                "why": "O plano não estima custo por proposta; a candidata citou a Selic como obstáculo ao crédito em entrevista."
+              }
+            ],
+            "publicExplanation": "Em entrevista ao Jornal Nacional (05/09/2026), a candidata citou a Selic de 14% ao ano como obstáculo ao crédito e defendeu revisão do ajuste fiscal (g1, 2026).",
+            "methodology": "Trajetória sem mandato federal: o teste usa entrevistas nacionais, agendas regionais, resposta pública a críticas e o plano registrado (2026). Confronta o que é declarado publicamente com o detalhamento apresentado. Ficaram fora conteúdos de redes sem repercussão registrada.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "visao-estrategica",
+          "reality": {
+            "proposal": "Plano 'Proteger Hoje, Transformar o Amanhã': seis eixos com mulheres e crianças como prioridade e matriz por horizonte de gestão",
+            "requirement": {
+              "path": "indefinido",
+              "note": "O plano registrado é autodeclarado preliminar e não vincula metas a instrumento; duas das nove propostas-chave dependem do Congresso (responsabilidade fiscal e 'Estado que funciona')."
+            },
+            "history": {
+              "aligned": [
+                "Plano registrado no TSE e apresentado publicamente em agosto de 2026, com a proteção a mulheres e crianças como eixo transversal (TSE; Agência Brasil)",
+                "Matriz de implementação por horizontes de gestão citada no documento registrado (Plano Aberto, 2026)",
+                "Eixos de segurança, saúde e gestão apresentados em entrevistas com objetivos declarados (Poder360; g1, 2026)"
+              ],
+              "divergent": [
+                "O plano não traz metas quantitativas nem custos por proposta, segundo o acompanhamento do documento registrado (Plano Aberto, 2026)",
+                "A candidata defende o fim da escala 6x1 e, no mesmo plano, revisão de gastos sem detalhar a conciliação (Poder360, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos plano de governo executado em cargo público; a base é o documento registrado no TSE e as declarações de campanha de 2026"
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "As metas de longo prazo são declaradas em legenda sem representação federal e sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Fim da escala 6x1 e revisão de gastos com avaliação de impacto são defendidos sem conciliação declarada",
+                "detail": "A candidata defende o fim da escala 6x1 (Poder360, 25/08/2026) e, no eixo fiscal, a revisão de gastos, subsídios e benefícios com avaliação de impacto. O plano não informa o custo da mudança de jornada nem como ela se concilia com a revisão de despesas e com a meta de responsabilidade fiscal.",
+                "sources": [
+                  {
+                    "id": "src-cb-43"
+                  },
+                  {
+                    "id": "src-cb-04"
+                  },
+                  {
+                    "id": "src-cb-12"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo estimado da mudança de jornada e como ela se relaciona com a revisão de gastos?",
+                "why": "As duas propostas são apresentadas no mesmo conjunto sem estimativa de custo ou ordem de implementação."
+              },
+              {
+                "question": "Qual o indicador de resultado previsto para cada um dos seis eixos do plano?",
+                "why": "O documento cita matriz por horizonte de gestão, sem metas quantitativas ou indicadores por eixo."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: a análise usa o documento registrado no TSE, o acompanhamento apartidário do plano e as entrevistas de 2026. Confronta prioridades declaradas com meta, custo e instrumento. Ficou fora a contagem item a item das 155 ações citadas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "samara-martins": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "reality": {
+            "proposal": "Prioridades para os primeiros 100 dias do programa de 25 pontos, incluindo aumento de 100% do salário mínimo",
+            "requirement": {
+              "path": "indefinido",
+              "note": "O programa registrado não especifica instrumento nem fonte de recursos para o reajuste; 6 das 7 propostas-chave dependem do Congresso, e 0 das 7 têm custo ou prazo declarado."
+            },
+            "history": {
+              "aligned": [
+                "Programa registrado no TSE em 06/08/2026, após correção do documento protocolado (Canal MyNews; Fonte 83, 2026)",
+                "Candidatura oficializada em convenção nacional de 26/07/2026, na Universidade Zumbi dos Palmares (Agência Brasil; Estadão)",
+                "Agenda de pré-campanha e campanha em capitais: Fortaleza, Belém, Salvador e Teresina (O Povo; g1, 2026)"
+              ],
+              "divergent": [
+                "O plano protocolado inicialmente no TSE era a plataforma de 2022 e foi substituído após identificação do erro (Canal MyNews, 2026)",
+                "O documento registrado tem menos de uma página e meia, segundo a cobertura de imprensa (Fonte 83, 13/08/2026)",
+                "A campanha foi conduzida com R$ 0 de fundo eleitoral e partidário (Plural, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos execução de orçamento ou de programa público; a base é a atuação na atenção básica do SUS, a direção partidária e a campanha"
+            },
+            "support": {
+              "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, chapa pura 100% feminina; vice Raquel Brício (UP)",
+              "federations": "Nenhuma (federação recusada em 2026)",
+              "documentedAgreements": 0,
+              "note": "A legenda disputa sem coligação, federação ou mandato parlamentar, e a campanha informa arrecadação própria com R$ 0 de fundos públicos. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Prioridades dos 100 dias dependem do Congresso e não têm custo ou fonte de recursos declarados",
+                "detail": "O programa concentra as prioridades nos primeiros 100 dias com 6 das 7 propostas-chave dependentes do Congresso e 0 das 7 com custo ou prazo declarado. O reajuste de 100% do salário mínimo, o auxílio a pessoas sem vaga e a jornada de 30 horas não têm fonte de recursos indicada.",
+                "sources": [
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-14"
+                  },
+                  {
+                    "id": "src-sm-30"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a fonte de recursos do reajuste de 100% do salário mínimo e do auxílio a pessoas sem vaga?",
+                "why": "O programa registrado não estima impacto fiscal nem indica origem dos recursos."
+              },
+              {
+                "question": "Qual o instrumento previsto para cada uma das prioridades dos primeiros 100 dias?",
+                "why": "O documento tem menos de uma página e meia e não vincula medida, instrumento e prazo por item."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal e sem cargo público exercido: a análise usa a atuação na atenção básica do SUS, a direção partidária nacional e a organização da campanha (2016-2026). O teste confronta as prioridades declaradas com o instrumento e o custo exigidos.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "reality": {
+            "proposal": "Candidatura própria sem coligação ou federação, após tratativas com outras legendas que não avançaram",
+            "requirement": {
+              "path": "indefinido",
+              "note": "A decisão não envolve mudança legal: o registro no TSE é de partido isolado, sem federação e sem coligação, e as tratativas de aliança não resultaram em acordo assinado."
+            },
+            "history": {
+              "aligned": [
+                "Recusa de federação partidária e manutenção de candidatura própria em 2026 (A Notícia do Vale; Wikipedia, 2026)",
+                "Apoio do partido a Lula no segundo turno de 2022, após concorrer com chapa própria (g1, 10/10/2022)",
+                "Composição de chapa com dirigente sindical portuária como vice (Estadão; Unidade Popular, 2026)"
+              ],
+              "divergent": [
+                "O partido declarou que os diálogos com outras legendas não avançaram, segundo dirigente estadual (Paraíba Online, 25/07/2026)",
+                "A candidata registrou publicamente a dificuldade de acesso a espaços tradicionais de propaganda (CNN Brasil; Alma Preta, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos acordo formal assinado ou mesa de negociação documentada; a base são declarações da direção e material partidário"
+            },
+            "support": {
+              "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma (recusada em 2026)",
+              "documentedAgreements": 0,
+              "note": "Não há coligação, federação ou acordo formal assinado; o partido disputa governos estaduais com candidaturas próprias. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Não localizamos acordo formal ou mesa de negociação registrada em ata",
+                "detail": "As tratativas de coligação e federação em 2026 são relatadas em entrevistas e material partidário, sem documento assinado. A candidata declarou como método que a negociação política deve colocar o programa acima das pessoas, sem registro de aplicação em mesa documentada.",
+                "sources": [
+                  {
+                    "id": "src-sm-15"
+                  },
+                  {
+                    "id": "src-sm-34"
+                  },
+                  {
+                    "id": "src-sm-25"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Com quais partidos houve tratativa e quais critérios foram usados para encerrá-las?",
+                "why": "A informação disponível é a declaração de que os diálogos não avançaram, sem lista de legendas ou registro dos pontos negociados."
+              },
+              {
+                "question": "Em caso de segundo turno, qual será a posição do partido sobre apoio a outra candidatura?",
+                "why": "Em 2022 houve apoio no segundo turno após a votação; a posição de 2026 não foi declarada até 29/09/2026."
+              }
+            ],
+            "publicExplanation": "A candidata declarou que 'a negociação política deve colocar o programa acima das pessoas' e que as alianças prioritárias são em pautas, como o fim da escala 6x1, não acordos eleitorais entre legendas (declaração de 12/08/2026).",
+            "methodology": "Trajetória sem mandato federal: o teste usa declarações da direção partidária, material de campanha e o registro no TSE (2022-2026). Confronta a posição de não coligar com os acordos formalizados. Ficaram fora conversas sem registro público.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "lideranca-equipes",
+          "reality": {
+            "proposal": "Desmilitarização das polícias estaduais e fim da Polícia Militar na forma atual, com reorganização da segurança pública",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "A Constituição atribui às polícias militares a polícia ostensiva e a preservação da ordem pública, subordinadas aos governadores; a mudança do desenho exige emenda constitucional e envolve os estados."
+            },
+            "history": {
+              "aligned": [
+                "Vice-presidência nacional do partido entre 2016 e 2026, com organização de estrutura militante (Wikipedia; imprensa, 2026)",
+                "Direção de movimentos sociais, como o Movimento de Mulheres Olga Benário e a Frente Negra Revolucionária (Alma Preta; CNN Brasil, 2026)",
+                "Montagem da chapa e condução da convenção nacional de 2026 com indicação da vice (Unidade Popular; R7, 2026)"
+              ],
+              "divergent": [
+                "Não há dados de pessoal, organograma ou estrutura de campanha publicados pelo partido (lacuna nas fontes consultadas)",
+                "A direção partidária é exercida em legenda sem mandato parlamentar e com arrecadação própria (Plural, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos direção de equipe de governo ou de órgão público; a base é a direção partidária, movimentos sociais e a campanha"
+            },
+            "support": {
+              "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, chapa pura 100% feminina; vice Raquel Brício (UP)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A organização partidária se apoia em militância e movimentos populares, sem mandato parlamentar e sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Mudança no desenho das polícias militares passa por emenda constitucional e pelos estados",
+                "detail": "A reorganização proposta altera a estrutura prevista na Constituição, que atribui às polícias militares a polícia ostensiva e a preservação da ordem pública sob subordinação aos governadores. Emenda constitucional exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+                "sources": [
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-14"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho previsto para as forças de segurança após a desmilitarização e quem assumiria o policiamento ostensivo?",
+                "why": "O programa indica a desmilitarização e maior inteligência, sem descrever a estrutura que substituiria a atual."
+              },
+              {
+                "question": "Como seria feita a transição de efetivos, carreiras e comando das polícias nos estados?",
+                "why": "O documento não trata de transição funcional nem do custo da reorganização."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: a análise usa a direção partidária nacional, a direção de movimentos populares e a composição da chapa (2016-2026). O teste confronta a reorganização proposta com o texto constitucional e com a competência estadual. Ficaram fora dados de pessoal não publicados.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tomada-decisao",
+          "reality": {
+            "proposal": "Tributação de grandes fortunas e socialização dos grandes veículos de comunicação, com eleição de juízes por voto popular",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar: 257 na Câmara e 41 no Senado (maioria absoluta)",
+              "note": "O imposto sobre grandes fortunas está previsto na Constituição e não há lei complementar que o discipline; a socialização dos veículos de comunicação não tem instrumento declarado no programa."
+            },
+            "history": {
+              "aligned": [
+                "Pré-candidatura aprovada por unanimidade pelo Diretório Nacional em 01/02/2026 (Agemt, 2026)",
+                "Chapa integralmente feminina composta com dirigente sindical portuária como vice (R7; Unidade Popular, 2026)",
+                "Manutenção de candidatura própria sem federação e sem coligações estaduais (A Notícia do Vale; SBT News, 2026)"
+              ],
+              "divergent": [
+                "Jornal do partido adversário afirma que a candidata não respondeu a convite para debate, sem confirmação independente (Diário Causa Operária, 2026)",
+                "A legenda não tem mandato parlamentar para sustentar a agenda tributária e institucional (TSE; Wikipedia, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos decisão de governo com trade-off orçamentário; as decisões documentadas são partidárias e de campanha (2022-2026)"
+            },
+            "support": {
+              "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A agenda tributária e institucional depende de lei complementar e de emenda, sem bancada federal registrada para sustentá-las. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Imposto sobre grandes fortunas depende de lei complementar ainda não editada",
+                "detail": "O programa propõe aumentar a tributação sobre grandes fortunas. O tributo está previsto na Constituição e depende de lei complementar, que exige maioria absoluta: 257 votos na Câmara e 41 no Senado. O partido não tem mandato parlamentar registrado.",
+                "sources": [
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-06"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Socialização dos grandes veículos de comunicação é proposta sem instrumento declarado",
+                "detail": "O programa prevê a socialização dos grandes veículos de comunicação, sem indicar veículo normativo, forma de transição ou tratamento de contratos e outorgas existentes. Não localizamos iniciativa comparável na trajetória analisada.",
+                "sources": [
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-06"
+                  },
+                  {
+                    "id": "src-sm-14"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a alíquota e a base de cálculo previstas para o imposto sobre grandes fortunas?",
+                "why": "O programa cita o aumento da tributação sem parâmetros de alíquota, faixa ou estimativa de arrecadação."
+              },
+              {
+                "question": "Qual o instrumento e a regra de transição previstos para a socialização dos veículos de comunicação?",
+                "why": "A proposta aparece no programa sem desenho de implementação ou tratamento de contratos vigentes."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa decisões do Diretório Nacional, a composição da chapa e a condução da campanha (2022-2026). Confronta as escolhas declaradas com o instrumento exigido por cada medida. Fatos judiciais e eleitorais são reproduzidos como constam das fontes.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "gestao-crises",
+          "reality": {
+            "proposal": "Correção do plano de governo protocolado com a plataforma de 2022 e condução da campanha sem fundos públicos",
+            "requirement": {
+              "path": "indefinido",
+              "note": "Não há mudança legal envolvida: a correção foi feita no protocolo do TSE e a campanha foi conduzida com arrecadação própria e estrutura de militância."
+            },
+            "history": {
+              "aligned": [
+                "Correção apresentada pela campanha após o protocolo do documento de 2022 (Canal MyNews; Fonte 83, 2026)",
+                "Retorno aos debates com confirmação de presença em 18/09/2026 (Metrópoles, 2026)",
+                "Campanha realizada em estados com uso de rádios e podcasts, sem cota de fundo eleitoral (Plural; g1, 2026)"
+              ],
+              "divergent": [
+                "Ausência no primeiro debate presidencial de 2026, com manifestação de militantes no local do debate (Estadão, 23/08/2026)",
+                "A campanha registrou dificuldade de acesso a espaços tradicionais de propaganda, segundo a própria candidata (Folha de S.Paulo; Alma Preta, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos gestão de crise de governo; os episódios documentados são de campanha e de organização partidária em 2026"
+            },
+            "support": {
+              "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A campanha é sustentada por arrecadação própria e militância, sem fundos públicos e sem bancada federal. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Presença em debates televisivos depende de critérios das emissoras e da representação partidária",
+                "detail": "A candidata ficou fora do primeiro debate presidencial de agosto de 2026, quando militantes se manifestaram no local, e voltou a ser confirmada em debate posterior, em 18/09/2026. O partido não tem bancada no Congresso e a presença em debates depende de critérios de representatividade definidos pelas emissoras.",
+                "sources": [
+                  {
+                    "id": "src-sm-73"
+                  },
+                  {
+                    "id": "src-sm-74"
+                  },
+                  {
+                    "id": "src-sm-48"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o protocolo previsto pela campanha para substituição de documentos e correção de protocolos eleitorais?",
+                "why": "O plano foi protocolado com a versão de 2022 e corrigido depois, sem descrição pública do procedimento adotado."
+              },
+              {
+                "question": "Como a campanha pretende disputar visibilidade fora dos debates e do horário eleitoral?",
+                "why": "A própria candidata registrou dificuldade de acesso a espaços tradicionais de propaganda em 2026."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa episódios de campanha em 2026 (correção de documento, ausência e retorno a debates, campanha sem fundos públicos). Não há resposta a crise de governo no material consultado. Ficaram fora conteúdos partidários internos.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "reality": {
+            "proposal": "Articulação com o movimento sindical portuário e com movimentos populares na composição da chapa e na campanha",
+            "requirement": {
+              "path": "indefinido",
+              "note": "A articulação registrada é com organizações da sociedade civil e o movimento sindical, sem mudança legal envolvida; não localizamos negociação com Poderes ou entes federados."
+            },
+            "history": {
+              "aligned": [
+                "Composição da chapa com a presidenta do Sindiporto-PA/AP como vice (Estadão; Unidade Popular, 2026)",
+                "Atuação na direção nacional do partido junto a movimentos populares ligados à legenda (Wikipedia; Alma Preta, 2026)",
+                "Trajetória em entidades estudantis, com direção de mulheres da UNE e atuação em associação de estudantes (Wikipedia; imprensa, 2026)"
+              ],
+              "divergent": [
+                "A vice-presidência nacional foi exercida em legenda sem mandato parlamentar e sem representação institucional registrada (TSE; Wikipedia, 2026)",
+                "A interlocução sindical registrada é com uma entidade estadual, sem acordo nacional documentado (Estadão; Unidade Popular, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos interlocução com ministérios, estados ou municípios; a coordenação documentada é com movimentos sociais e sindicais"
+            },
+            "support": {
+              "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, chapa pura 100% feminina; vice Raquel Brício (UP)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A base organizativa registrada são movimentos populares e uma entidade sindical estadual, sem representação no Congresso. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Não localizamos negociação entre Poderes ou com entes federados na trajetória analisada",
+                "detail": "A coordenação documentada ocorre com movimentos populares, uma entidade sindical portuária estadual e entidades estudantis. O programa prevê mudanças que dependem de estados e de municípios, sem registro de interlocução com esses entes.",
+                "sources": [
+                  {
+                    "id": "src-sm-01"
+                  },
+                  {
+                    "id": "src-sm-04"
+                  },
+                  {
+                    "id": "src-sm-75"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como o partido pretende construir apoio no Congresso e nos estados para as medidas propostas?",
+                "why": "A interlocução documentada é com movimentos sociais e sindicatos, sem registro de negociação com bancadas ou governos."
+              },
+              {
+                "question": "Há compromissos assumidos com as entidades sindicais e populares que sustentam a chapa?",
+                "why": "A candidata firmou compromissos de campanha com pautas de trabalhadores em atos e entrevistas, sem documento de acordo publicado."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: o teste usa a direção partidária, a direção de movimentos, a trajetória estudantil e a composição da chapa (2010-2026). Confronta a articulação declarada com os entes exigidos pelas propostas. Ficaram fora reuniões sem registro público.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "comunicacao-publica",
+          "reality": {
+            "proposal": "Proposta de que todos os políticos, de vereador a presidente, usem o serviço público de saúde",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "A exigência de uso do SUS por agentes públicos dependeria de lei e de mecanismo de fiscalização; o programa não descreve o instrumento nem a forma de verificação."
+            },
+            "history": {
+              "aligned": [
+                "Mensagem central repetida em agenda de rua em Teresina (g1, 24/08/2026)",
+                "Entrevistas de formato longo em podcast e em veículo de imprensa voltado à população negra (Alma Preta; transcrições, 2026)",
+                "Atos públicos de pré-campanha em capitais apresentando o programa, de abril a maio de 2026 (A Verdade, 2026)"
+              ],
+              "divergent": [
+                "Publicação do jornal do partido adversário afirma que a UP recusou debate, sem confirmação independente localizada (Diário Causa Operária, 24/09/2026)",
+                "A candidata declarou ser ignorada nas sondagens de intenção de voto no início da pré-campanha (Folha de S.Paulo, 08/04/2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos comunicação de governo exercida; a base são atos públicos, debates, podcasts e entrevistas de 2026"
+            },
+            "support": {
+              "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A comunicação ocorre por atos de rua, redes, podcasts e entrevistas, sem bancada federal e sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Exigir uso do SUS por agentes públicos demanda lei e mecanismo de fiscalização não descritos",
+                "detail": "A proposta é apresentada como forma de forçar investimento na rede pública, alcançando todos os cargos eletivos. Não há indicação do instrumento normativo, do órgão fiscalizador nem do tratamento de situações de urgência e de atendimento privado fora do país.",
+                "sources": [
+                  {
+                    "id": "src-sm-07"
+                  },
+                  {
+                    "id": "src-sm-10"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como a exigência de uso do SUS por agentes públicos seria implementada e fiscalizada?",
+                "why": "A proposta é repetida em atos e entrevistas sem detalhamento de instrumento, exceções ou sanção."
+              },
+              {
+                "question": "Qual o custo estimado da ampliação do SUS prevista no programa?",
+                "why": "O programa propõe ampliar o investimento em saúde sem estimativa de despesa ou fonte de receita."
+              }
+            ],
+            "publicExplanation": "A candidata declarou que 'falar de soberania e não fazer reforma agrária não faz sentido', vinculando a mensagem econômica do programa à reforma agrária (Alma Preta, 24/08/2026).",
+            "methodology": "Trajetória sem mandato federal: o teste usa atos públicos, debates, podcasts e entrevistas de 2026. Confronta a proposta repetida publicamente com o instrumento e a fiscalização exigidos. Ficaram fora conteúdos de redes sociais sem repercussão registrada.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "visao-estrategica",
+          "reality": {
+            "proposal": "Programa 'Revolução e Socialismo' com 25 pontos, prioridades para os 100 dias e horizonte declarado de reorganização socialista",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "A eleição de juízes por voto popular altera o texto constitucional e exige emenda; a nacionalização do sistema bancário e a estatização dos transportes dependem de lei e de indenizações não estimadas."
+            },
+            "history": {
+              "aligned": [
+                "Programa registrado no TSE em 06/08/2026, com prioridades para os primeiros 100 dias (TSE; Metrópoles, 2026)",
+                "Encadeamento declarado entre pauta imediata e projeto de longo prazo em ato de pré-campanha (A Verdade, 2026)",
+                "Detalhamento de instrumentos em entrevistas, citando leis, titulação de territórios e fortalecimento de órgãos (Alma Preta, 2026)"
+              ],
+              "divergent": [
+                "O documento registrado tem menos de uma página e meia e repete pontos da plataforma anterior (Fonte 83; O Globo, 2026)",
+                "0 das 7 propostas-chave têm custo estimado e 0 têm prazo declarado (levantamento do plano registrado, 2026)"
+              ],
+              "noComparablePrecedent": "Não localizamos plano de governo executado em cargo público; a base é o programa registrado no TSE e as declarações de campanha de 2026"
+            },
+            "support": {
+              "partySeats": "UP: 0 de 513 deputados federais e 0 senadores (2026)",
+              "coalitionSeats": "Partido isolado, sem coligação ou federação",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "O programa propõe mudanças constitucionais e estatizações em legenda sem representação no Congresso e sem coligação registrada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Eleição de juízes e mudanças no Judiciário exigem emenda com 3/5 nas duas Casas",
+                "detail": "A proposta de juízes eleitos por voto popular, com mandato e avaliação populares, altera a estrutura do Judiciário prevista na Constituição e exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+                "sources": [
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-06"
+                  },
+                  {
+                    "id": "src-re-r2capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Suspensão do pagamento da dívida e nacionalizações convivem com ampliação de gastos sem estimativa",
+                "detail": "O programa prevê suspensão de juros e amortizações da dívida, nacionalização do sistema bancário, reestatização de empresas e ampliação de gastos sociais. Não há estimativa de indenizações, de impacto na dívida ou de receita para o conjunto de medidas.",
+                "sources": [
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-06"
+                  },
+                  {
+                    "id": "src-sm-14"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo estimado das reestatizações e da suspensão do pagamento da dívida?",
+                "why": "O programa cita as medidas sem estimativa de valores, prazos ou impacto fiscal."
+              },
+              {
+                "question": "Qual o caminho previsto para as propostas que exigem emenda constitucional?",
+                "why": "O documento registrado tem menos de uma página e meia e não descreve estratégia de votação para as mudanças institucionais."
+              }
+            ],
+            "methodology": "Trajetória sem mandato federal: a análise usa o programa registrado no TSE, o detalhamento em entrevistas e os atos de campanha de 2026. Confronta o horizonte declarado com instrumento, custo e indicador. Ficou fora a íntegra das plataformas partidárias anteriores.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "renan-santos: a obra integral do plano (Livro Amarelo, ~500 páginas) não foi analisada; o teste usa o resumo executivo registrado no TSE e a cobertura do plano.",
+    "leonardo-avalanche: o programa registrado não está disponível com propostas individualizadas, custo e cronograma; a base são comunicados do partido e cobertura de imprensa.",
+    "augusto-cury: a íntegra do plano de 200 páginas não foi lida item a item; a apuração usa a cobertura do documento e as nove propostas-chave.",
+    "clariana-barao: parte das fontes locais de Várzea Grande (MT) foi acessada por resumo indexado, com bloqueio de acesso direto na coleta.",
+    "samara-martins: a plataforma registrada tem menos de uma página e meia; não foram localizados instrumento, custo ou prazo por proposta.",
+    "Quóruns e vedações constitucionais citados nas tensões vêm do texto constitucional compilado (src-re-01); autos sob sigilo citados no caso de leonardo-avalanche não foram acessados."
+  ]
+}

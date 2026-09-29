@@ -1,0 +1,1144 @@
+{
+  "grupo": "r3",
+  "escopo": "propostas",
+  "sources": [
+    {
+      "id": "src-re-r3propostas-01",
+      "title": "Emenda Constitucional nº 26, de 27 de novembro de 1985 — convoca a Assembleia Nacional Constituinte",
+      "publisher": "Senado Federal — Anais das Constituintes",
+      "url": "https://www.senado.leg.br/publicacoes/anais/constituinte/emenda26-85.pdf",
+      "publishedAt": "1985-11-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial"
+    },
+    {
+      "id": "src-re-r3propostas-02",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial"
+    },
+    {
+      "id": "src-re-r3propostas-03",
+      "title": "Comissão aprova o fim da escala 6x1 e a redução da jornada de 44 para 40 horas semanais",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://camara.leg.br/noticias/1277012-comissao-aprova-texto-base-da-pec-que-acaba-com-a-escala-6x1",
+      "publishedAt": "2026-04-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo"
+    },
+    {
+      "id": "src-re-r3propostas-04",
+      "title": "Fim das 44 horas de trabalho semanais: com nova PEC, jornada de trabalho pode cair para 36 horas",
+      "publisher": "Estado de Minas (em.com.br)",
+      "url": "https://em.com.br/emfoco/2026/04/25/fim-das-44-horas-de-trabalho-semanais-com-nova-pec-reduz-jornada-para-36-horas",
+      "publishedAt": "2026-04-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-re-r3propostas-05",
+      "title": "Programa de Luta do PCO 2026 — 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (cópia do PDF registrado, 7 páginas)",
+      "publisher": "Partido da Causa Operária (cópia em poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_PCO_Rui_Costa_Pimenta2026.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo"
+    },
+    {
+      "id": "src-re-r3propostas-06",
+      "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular' (cópia arquivada do PDF registrado no TSE, 16 páginas)",
+      "publisher": "Internet Archive (cópia do arquivo do TSE)",
+      "url": "https://web.archive.org/web/20260928000956if_/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+      "archivedUrl": "https://web.archive.org/web/20260928000956if_/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo"
+    },
+    {
+      "id": "src-re-r3propostas-07",
+      "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema' (cópia arquivada do PDF registrado no TSE)",
+      "publisher": "Internet Archive (cópia do arquivo do TSE)",
+      "url": "https://web.archive.org/web/20260928000956if_/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+      "archivedUrl": "https://web.archive.org/web/20260928000956if_/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo"
+    }
+  ],
+  "candidates": {
+    "edmilson-costa": {
+      "proposals": [
+        {
+          "id": "kp-ec-7",
+          "title": "Assembleia Constituinte de Novo Tipo e Orçamento Popular deliberativo",
+          "reality": {
+            "proposal": "Convocar em dois anos uma Assembleia Constituinte de Novo Tipo (metade por organizações sociais, metade por voto) e o Orçamento Popular deliberativo.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "O programa fixa a convocação em dois anos, com o Senado extinto e substituído por Parlamento Unicameral; o precedente de 1987–88 veio da EC nº 26/1985, aprovada pelo Congresso."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o programa registrado inscreve a Constituinte na 1ª transformação, com prazo de dois anos (src-ec-05)",
+                "Set/2026: o candidato reiterou extinção do Senado e estatização em entrevista à Folha (29/08/2026) (src-ec-84)"
+              ],
+              "divergent": [
+                "Set/2026: o PCB tem 0 cadeiras na Câmara e no Senado, e a emenda depende de votos de outros partidos (src-ec-12)"
+              ],
+              "noComparablePrecedent": "Não localizamos no Brasil precedente de assembleia constituinte com metade dos membros escolhida por organizações sociais: a Constituinte de 1987–88 foi convocada pelo Congresso, pela EC nº 26/1985. Também não localizamos convocação por iniciativa do Executivo."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Assembleia com metade dos membros escolhida por organizações sociais sem precedente localizado",
+                "detail": "O programa prevê metade dos constituintes eleita em ENCLATs e metade por voto universal, em dois anos. No Brasil, a Constituinte de 1987–88 foi convocada pelo Congresso, por meio da EC nº 26/1985.",
+                "sources": [
+                  "src-ec-05",
+                  "src-re-r3propostas-01",
+                  "src-re-r3propostas-06"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Convocação depende de emenda e exige maioria que o partido não tem hoje",
+                "detail": "A convocação exige emenda constitucional (308 deputados + 49 senadores, dois turnos em cada Casa). O PCB tem 0 cadeiras nas duas Casas (APIs de 29/09/2026), e o programa atribui a mudança à própria Constituinte.",
+                "sources": [
+                  "src-ec-18",
+                  "src-ec-12",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o texto de emenda previsto para a convocação e como se escolhem os membros pelas organizações sociais?",
+                "why": "O programa indica o critério (metade em ENCLATs) e o prazo, sem minuta de emenda nem regra de credenciamento das entidades."
+              },
+              {
+                "question": "O Orçamento Popular deliberativo substitui a votação do Orçamento pelo Congresso ou convive com ela?",
+                "why": "A Constituição atribui ao Congresso a apreciação da lei orçamentária (art. 166); o programa não define a relação entre os dois processos."
+              }
+            ],
+            "methodology": "Leitura integral do Programa Político do PCB 2026 (16 p., PDF registrado no TSE) e do índice oficial de 35 itens do TSE, com apoio da entrevista à Folha de 29/08/2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "publicExplanation": "\"Acreditamos plenamente que as propostas que integram o Programa Político do PCB são viáveis porque o Brasil está maduro para o Socialismo\", diz o programa, que atribui a viabilidade ao grau de industrialização do país.",
+            "support": {
+              "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais, 29/09/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-ec-1",
+          "title": "Jornada de 30 horas semanais sem redução salarial e fim da escala 6x1",
+          "reality": {
+            "proposal": "Impulsionar a jornada de 30 horas semanais sem redução de salário e acabar com a escala 6x1.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "A jornada de 8 horas diárias e 44 semanais é direito constitucional (art. 7º, XIII); as propostas em tramitação na Câmara reduzem a 40 horas, e a PEC 221/2019 prevê 36 horas com transição de dez anos."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o item abre o índice oficial do TSE e o programa registrado, com fim da escala 6x1 (src-ec-04)",
+                "Ago/2026: o programa registrado inscreve o fim da escala 6x1 na transformação do mundo do trabalho (src-ec-05)"
+              ],
+              "divergent": [
+                "Abr/2026: a comissão da Câmara aprovou texto-base de 44 para 40 horas semanais; o programa indica 30 horas (src-re-r3propostas-03)"
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reduzir jornada exige emenda e o item não declara transição nem custo",
+                "detail": "Depende de PEC (308 deputados + 49 senadores, dois turnos em cada Casa). O programa não indica prazo de transição, estimativa de custo ou indicador; o texto aprovado na Câmara prevê 40 horas e a PEC 221/2019, 36 horas em dez anos.",
+                "sources": [
+                  "src-ec-05",
+                  "src-re-r3propostas-03",
+                  "src-re-r3propostas-04",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o prazo de transição e o custo estimado da jornada de 30 horas sem redução salarial?",
+                "why": "O programa não declara transição, custo ou indicador; o intervalo conhecido no Congresso é de 40 horas já aprovado em comissão e 36 horas em dez anos."
+              }
+            ],
+            "methodology": "Leitura integral do Programa Político do PCB 2026 (16 p., PDF registrado no TSE) e do índice oficial de 35 itens do TSE, com apoio da entrevista à Folha de 29/08/2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais, 29/09/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-ec-2",
+          "title": "Nacionalização e estatização do sistema monetário, financeiro e bancário (Banco dos Trabalhadores)",
+          "reality": {
+            "proposal": "Nacionalizar e estatizar o sistema monetário, financeiro e bancário, com criação de um Banco dos Trabalhadores.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "Estatizar bancos privados envolve desapropriação com indenização (art. 5º, XXIV) e altera o regime do sistema financeiro (art. 192); o programa inscreve a medida na Constituinte de Novo Tipo."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o item consta do programa registrado no TSE, no eixo de economia (src-ec-05)",
+                "Set/2026: o candidato defendeu estatizar o sistema financeiro em entrevista à Folha (29/08/2026) (src-ec-84)"
+              ],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos precedente federal de nacionalização do conjunto do sistema financeiro brasileiro: as estatizações bancárias do século XX foram de bancos estaduais, e a Constituição de 1988 passou a exigir lei e indenização para desapropriação."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Nacionalização do conjunto do sistema financeiro sem precedente localizado no país",
+                "detail": "O programa propõe estatizar bancos e criar banco estatal único, vinculando a medida à Constituinte de Novo Tipo. Não localizamos precedente federal de nacionalização do conjunto do sistema; desapropriação exige lei e indenização (art. 5º, XXIV).",
+                "sources": [
+                  "src-ec-05",
+                  "src-ec-84",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o valor estimado da indenização e como o Banco dos Trabalhadores se relaciona com o Banco Central?",
+                "why": "O programa não estima o custo da estatização nem define a relação entre o novo banco e a autoridade monetária (art. 192)."
+              }
+            ],
+            "methodology": "Leitura integral do Programa Político do PCB 2026 (16 p., PDF registrado no TSE) e do índice oficial de 35 itens do TSE, com apoio da entrevista à Folha de 29/08/2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais, 29/09/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-ec-4",
+          "title": "Saúde 100% pública com estatização do setor privado e 10% do PIB",
+          "reality": {
+            "proposal": "Saúde 100% pública e gratuita, com estatização do setor privado, fim das OSs e investimento de 10% do PIB.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "A Constituição autoriza a iniciativa privada na saúde (art. 199) e a execução por terceiros; restringir a atividade privada exige emenda, e a meta de 10% do PIB depende da lei orçamentária e do financiamento tripartite (art. 198)."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o programa registrado fixa saúde 100% pública com estatização do setor privado e 10% do PIB (src-ec-05)",
+                "Ago/2026: o item consta do índice oficial com fim das OSs e estatização do setor privado de saúde (src-ec-04)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Estatizar a saúde privada exige emenda e a meta de 10% do PIB depende de financiamento tripartite",
+                "detail": "A Constituição permite a iniciativa privada na saúde (art. 199), e estados e municípios executam a maior parte dos serviços do SUS (art. 198). O programa não estima o custo da estatização nem o caminho orçamentário para 10% do PIB.",
+                "sources": [
+                  "src-ec-05",
+                  "src-ec-04",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo estimado da estatização de hospitais e operadoras e o prazo para atingir 10% do PIB?",
+                "why": "O programa fixa a meta percentual sem prazo, sem estimativa de custo de aquisição e sem definir a partilha com estados e municípios."
+              }
+            ],
+            "methodology": "Leitura integral do Programa Político do PCB 2026 (16 p., PDF registrado no TSE) e do índice oficial de 35 itens do TSE, com apoio da entrevista à Folha de 29/08/2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais, 29/09/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-ec-6",
+          "title": "Desmilitarização e unificação das polícias; fim da 'guerra às drogas'",
+          "reality": {
+            "proposal": "Desmilitarizar a segurança pública, unificar as polícias com ciclo completo e encerrar a política de 'guerra às drogas'.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "As polícias militares são forças estaduais (art. 144, §5º); a unificação e o ciclo completo dependem de emenda e de adesão dos governos estaduais, que mantêm os efetivos."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: os itens de segurança integram o índice oficial de 35 itens e o programa registrado (src-ec-04)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Unificar polícias militares estaduais depende de emenda e de governos estaduais",
+                "detail": "A Constituição define as polícias militares como forças estaduais (art. 144, §5º), sob comando dos governadores. A medida exige PEC (308 deputados + 49 senadores, dois turnos em cada Casa) e envolve efetivos e corporações estaduais.",
+                "sources": [
+                  "src-ec-05",
+                  "src-ec-04",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como se dá a transição dos efetivos estaduais em uma polícia unificada de ciclo completo?",
+                "why": "O programa define o objetivo (unificação e ciclo completo) sem regra de transição, custo ou tratamento previdenciário dos efetivos."
+              }
+            ],
+            "methodology": "Leitura integral do Programa Político do PCB 2026 (16 p., PDF registrado no TSE) e do índice oficial de 35 itens do TSE, com apoio da entrevista à Folha de 29/08/2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais, 29/09/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-ec-8",
+          "title": "Rompimento de relações com o Estado de Israel e combate ao imperialismo",
+          "reality": {
+            "proposal": "Rompimento imediato de relações diplomáticas e econômicas com o Estado de Israel e combate ao imperialismo.",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "A condução das relações com Estados estrangeiros é competência do Presidente (art. 84, VII); acordos aprovados pelo Congresso seguem trâmite próprio (art. 49, I)."
+            },
+            "history": {
+              "aligned": [
+                "21/09/2026: o candidato assinou carta de compromisso com a defesa da Palestina junto a outros presidenciáveis (src-ec-94)",
+                "Ago/2026: o rompimento consta do programa registrado, no eixo de política externa (src-ec-05)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Rompimento é ato do Presidente, e acordos vigentes seguem exigindo decisão do Congresso",
+                "detail": "O governo decide sobre relações diplomáticas (art. 84, VII); acordos de comércio e cooperação aprovados pelo Congresso permanecem vigentes até decisão própria (art. 49, I). O programa não lista os acordos alcançados nem o efeito sobre contratos privados.",
+                "sources": [
+                  "src-ec-94",
+                  "src-ec-04",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais acordos com Israel serão denunciados e qual o efeito calculado sobre comércio e contratos privados?",
+                "why": "O programa indica 'imediato' sem data e não lista os instrumentos alcançados pelo rompimento."
+              }
+            ],
+            "methodology": "Leitura integral do Programa Político do PCB 2026 (16 p., PDF registrado no TSE) e do índice oficial de 35 itens do TSE, com apoio da entrevista à Folha de 29/08/2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais, 29/09/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        }
+      ]
+    },
+    "hertz-dias": {
+      "proposals": [
+        {
+          "id": "kp-hd-1",
+          "title": "Fim da escala 6x1 sem redução salarial e jornada de 36 horas semanais",
+          "reality": {
+            "proposal": "Fim da escala 6x1 e redução da jornada para 36 horas semanais, sem redução de salários e direitos.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "A jornada de 44 horas semanais é direito constitucional (art. 7º, XIII); as propostas em tramitação na Câmara reduzem a 40 horas, e a PEC 221/2019 prevê 36 horas com transição de dez anos."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o item abre o plano registrado, com 'trabalhar menos para que todos trabalhem' como justificativa (src-hd-05)",
+                "Ago/2026: o candidato defendeu redução da jornada e ampliação de cotas em agenda em Minas Gerais (19/08/2026) (src-hd-97)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reduzir jornada exige PEC e o plano não declara transição nem custo",
+                "detail": "Depende de emenda (308 deputados + 49 senadores, dois turnos em cada Casa). O plano não indica prazo de transição nem estimativa de custo; o texto aprovado em comissão na Câmara prevê 40 horas e a PEC 221/2019, 36 horas em dez anos.",
+                "sources": [
+                  "src-hd-05",
+                  "src-re-r3propostas-03",
+                  "src-re-r3propostas-04",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a transição prevista e o custo estimado da jornada de 36 horas sem redução de salários?",
+                "why": "O plano não declara prazo de transição nem estimativa de impacto; os parâmetros conhecidos no Congresso são 40 horas aprovadas em comissão e 36 horas em dez anos."
+              }
+            ],
+            "methodology": "Leitura do plano registrado no TSE (PDF oficial, cópia arquivada) e do índice oficial de 38 itens, com apoio de entrevistas e agendas de campanha de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PSTU: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PSTU nº 16; vice Vanessa Portugal, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. A convenção nacional de 31/07/2026 confirmou a chapa sem coligação; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-hd-2",
+          "title": "Aumento geral de salários com mínimo 100% maior e piso de R$ 5 mil para funcionários públicos federais",
+          "reality": {
+            "proposal": "Aumento de 100% no salário mínimo, rumo ao mínimo necessário do Dieese, com aumento geral de salários.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "O mínimo é fixado por lei (art. 7º, IV) e serve de piso para benefícios previdenciários e assistenciais; o plano aponta tributação progressiva sobre lucros, remessas e grandes fortunas como fonte, sem estimativa de valor."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o plano registrado fixa aumento de 100% do mínimo rumo ao piso do Dieese (src-hd-05)",
+                "Set/2026: o candidato citou expropriação de bilionários e ampliação de cotas em agenda de campanha (19/08/2026) (src-hd-97)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Aumento de 100% do mínimo exige lei e o plano não estima o custo anual",
+                "detail": "O valor é fixado por lei (art. 7º, IV) e repercute em aposentadorias, pensões e benefícios assistenciais. O plano indica tributação sobre lucros, remessas e grandes fortunas como fonte geral, sem valor nem estimativa de impacto.",
+                "sources": [
+                  "src-hd-05",
+                  "src-hd-04",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo anual do aumento de 100% do mínimo e de qual tributo vem o custeio?",
+                "why": "O plano cita fonte genérica (tributação progressiva sobre lucros e grandes fortunas) sem valor arrecadado nem estimativa de despesa."
+              }
+            ],
+            "methodology": "Leitura do plano registrado no TSE (PDF oficial, cópia arquivada) e do índice oficial de 38 itens, com apoio de entrevistas e agendas de campanha de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PSTU: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PSTU nº 16; vice Vanessa Portugal, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. A convenção nacional de 31/07/2026 confirmou a chapa sem coligação; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-hd-3",
+          "title": "Bolsa-filha/filho de 1 salário mínimo",
+          "reality": {
+            "proposal": "Bolsa equivalente a um salário mínimo para trabalhadores desempregados enquanto não houver pleno emprego.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "Criar benefício novo exige lei e dotação orçamentária; o plano não estima número de beneficiários nem custo anual."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o plano registrado prevê bolsa de um salário mínimo para desempregados (src-hd-05)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Benefício novo sem estimativa de beneficiários, custo ou fonte específica",
+                "detail": "A criação depende de lei e de dotação orçamentária (art. 169), e o plano não estima quantos trabalhadores seriam alcançados nem a despesa anual. A fonte declarada é a tributação sobre lucros e grandes fortunas.",
+                "sources": [
+                  "src-hd-05",
+                  "src-hd-04",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantos trabalhadores seriam alcançados pela bolsa e qual o custo anual estimado?",
+                "why": "O plano não traz estimativa de beneficiários nem de despesa, o que impede verificar o impacto fiscal declarado."
+              }
+            ],
+            "methodology": "Leitura do plano registrado no TSE (PDF oficial, cópia arquivada) e do índice oficial de 38 itens, com apoio de entrevistas e agendas de campanha de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PSTU: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PSTU nº 16; vice Vanessa Portugal, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. A convenção nacional de 31/07/2026 confirmou a chapa sem coligação; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-hd-4",
+          "title": "Revogação das reformas trabalhista e previdenciária e direitos plenos a aplicativos",
+          "reality": {
+            "proposal": "Revogar a reforma trabalhista e a reforma da Previdência (EC nº 103/2019) e estender direitos a trabalhadores de aplicativos.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "A reforma trabalhista veio em lei ordinária (Lei nº 13.467/2017) e a previdenciária em emenda (EC nº 103/2019); reverter a segunda exige PEC."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o plano registrado prevê revogação da reforma trabalhista e da lei das terceirizações (src-hd-05)",
+                "Jun/2022: o PSTU integrou a rodada de pré-candidatos que debateu as leis trabalhistas (src-hd-98)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reverter a EC nº 103/2019 exige PEC e o plano não indica regra de transição",
+                "detail": "A reversão da reforma previdenciária, aprovada por emenda constitucional, depende de nova PEC (308 deputados + 49 senadores, dois turnos em cada Casa); reportagem de 11/09/2026 registra quatro presidenciáveis com a mesma promessa. O plano do PSTU não declara transição nem cálculo atuarial.",
+                "sources": [
+                  "src-hd-96",
+                  "src-hd-05",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o impacto atuarial estimado da revogação da EC nº 103/2019 e a regra de transição prevista?",
+                "why": "Nem o plano nem a declaração de 11/09/2026 trazem cálculo ou transição, e a reforma alterou idade mínima, tempo de contribuição e cálculo do benefício."
+              }
+            ],
+            "methodology": "Leitura do plano registrado no TSE (PDF oficial, cópia arquivada) e do índice oficial de 38 itens, com apoio de entrevistas e agendas de campanha de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PSTU: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PSTU nº 16; vice Vanessa Portugal, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. A convenção nacional de 31/07/2026 confirmou a chapa sem coligação; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-hd-5",
+          "title": "Isenção do Imposto de Renda para trabalhadores assalariados",
+          "reality": {
+            "proposal": "Isenção de Imposto de Renda até dez salários mínimos, com tabela corrigida pela referência de 1996 e alíquotas progressivas acima.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "A tabela do IR é fixada por lei (art. 153, III); o imposto sobre grandes fortunas citado para compensar depende de lei complementar (art. 153, VII)."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o plano registrado traz a correção da tabela do IR até dez salários mínimos (src-hd-05)",
+                "Ago/2026: o candidato defendeu expropriar bilionários em agenda de campanha (19/08/2026) (src-hd-97)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "A compensação declarada depende de lei complementar sem estimativa de arrecadação",
+                "detail": "O plano compensa a isenção com imposto progressivo sobre fortunas acima de R$ 1 bilhão, previsto na Constituição (art. 153, VII) mas dependente de lei complementar (257 deputados e 41 senadores). Não há estimativa da renúncia da nova tabela.",
+                "sources": [
+                  "src-hd-05",
+                  "src-hd-04",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a renúncia fiscal estimada da nova tabela do IR e a arrecadação projetada do imposto sobre grandes fortunas?",
+                "why": "O plano não traz os dois lados da conta; sem eles não é possível comparar a renúncia com a compensação declarada."
+              }
+            ],
+            "methodology": "Leitura do plano registrado no TSE (PDF oficial, cópia arquivada) e do índice oficial de 38 itens, com apoio de entrevistas e agendas de campanha de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do partido em sentido contrário a este item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PSTU: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PSTU nº 16; vice Vanessa Portugal, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. A convenção nacional de 31/07/2026 confirmou a chapa sem coligação; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        }
+      ]
+    },
+    "rui-costa-pimenta": {
+      "proposals": [
+        {
+          "id": "kp-rp-2",
+          "title": "Aumento emergencial de 50% dos salários, aposentadorias e pensões em 45 dias",
+          "reality": {
+            "proposal": "Aumento emergencial de 50% nos salários e reposição integral das perdas, com escala móvel de reajuste a cada 3% de inflação.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "Parte dos salários é definida em negociação coletiva e parte depende de lei; o documento registrado não indica instrumento, custo nem fonte por tributo."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o item consta do plano registrado, no eixo Economia, Trabalho e Responsabilidade Fiscal (src-rp-07)",
+                "2014: naquela candidatura o dirigente apresentava programa com pauta salarial e 'causa operária' (src-rp-73)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Aumento de 50% e escala móvel sem instrumento, custo ou fonte indicados no documento",
+                "detail": "O índice oficial e o programa registram o aumento e a escala móvel sem indicar lei, decreto, estimativa de custo ou tributo de custeio. Parte dos salários do setor privado é fixada em negociação coletiva, fora do alcance de ato federal.",
+                "sources": [
+                  "src-rp-07",
+                  "src-rp-08",
+                  "src-re-r3propostas-05"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Por qual instrumento o aumento de 50% alcança os salários do setor privado?",
+                "why": "O documento registrado não indica lei, decreto ou acordo, e o plano é o mais curto entre os quatro analisados nesta leva (7 páginas, conforme levantamento de imprensa de 23/08/2026)."
+              }
+            ],
+            "methodology": "Leitura do programa registrado (PDF de 7 páginas, cópia do arquivo oficial) e do índice oficial de 51 itens do TSE, com apoio de reportagens de agosto e setembro de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Para estes itens não localizamos ato do partido em sentido contrário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "publicExplanation": "\"Concorro sem a menor ilusão. Não acreditamos que o sistema eleitoral nos permita ganhar\", declarou o candidato em 2014, ao afirmar que o objetivo da candidatura é debater o programa político do partido.",
+            "support": {
+              "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O partido informou candidaturas próprias em 18 estados e no DF (08/08/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-rp-3",
+          "title": "Salário mínimo mínimo de R$ 7.500 como meta de longo prazo",
+          "reality": {
+            "proposal": "Salário mínimo vital de pelo menos R$ 7.500, apresentado como meta de longo prazo.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+              "note": "O mínimo é fixado por lei (art. 7º, IV); o item é registrado como meta de longo prazo, sem prazo, custo ou indicador."
+            },
+            "history": {
+              "aligned": [
+                "Set/2026: o candidato repetiu a meta de R$ 7,5 mil em reportagem sobre o plano (src-rp-96)",
+                "Ago/2026: o item consta do índice oficial de propostas, no eixo Economia e Trabalho (src-rp-07)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Meta de R$ 7.500 convive com anulação de dívidas e cancelamento da dívida pública no mesmo eixo",
+                "detail": "O mesmo eixo reúne aumento emergencial, escala móvel, anulação das dívidas dos trabalhadores com o sistema financeiro e cancelamento das dívidas externa e interna, sem ordem de execução nem estimativa conjunta de impacto.",
+                "sources": [
+                  "src-rp-07",
+                  "src-rp-08",
+                  "src-re-r3propostas-05"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o prazo previsto para o mínimo de R$ 7.500 e com que custo fiscal?",
+                "why": "O item é apresentado como meta de longo prazo sem prazo, fonte de custeio ou indicador de resultado."
+              }
+            ],
+            "methodology": "Leitura do programa registrado (PDF de 7 páginas, cópia do arquivo oficial) e do índice oficial de 51 itens do TSE, com apoio de reportagens de agosto e setembro de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Para estes itens não localizamos ato do partido em sentido contrário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O partido informou candidaturas próprias em 18 estados e no DF (08/08/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-rp-5",
+          "title": "Jornada de 7 horas diárias/35 semanais com redução de salários para zero",
+          "reality": {
+            "proposal": "Redução da jornada de trabalho para no máximo 7 horas diárias e 35 horas semanais.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "A jornada de 44 horas semanais é direito constitucional (art. 7º, XIII); as propostas em tramitação reduzem a 40 horas e a PEC 221/2019 prevê 36 horas com transição de dez anos."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o item consta do plano registrado e do índice oficial, no eixo Economia (src-rp-07)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Jornada de 35 horas exige PEC sem transição declarada no documento",
+                "detail": "A redução depende de emenda (308 deputados + 49 senadores, dois turnos em cada Casa). O documento registrado não declara prazo de transição nem custo, e o texto aprovado em comissão na Câmara reduz a 40 horas.",
+                "sources": [
+                  "src-rp-07",
+                  "src-re-r3propostas-03",
+                  "src-re-r3propostas-04",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a transição prevista da jornada de 44 para 35 horas semanais?",
+                "why": "O documento não indica transição nem custo, enquanto as propostas em tramitação no Congresso preveem 40 horas já aprovadas em comissão e 36 horas em dez anos."
+              }
+            ],
+            "methodology": "Leitura do programa registrado (PDF de 7 páginas, cópia do arquivo oficial) e do índice oficial de 51 itens do TSE, com apoio de reportagens de agosto e setembro de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Para estes itens não localizamos ato do partido em sentido contrário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O partido informou candidaturas próprias em 18 estados e no DF (08/08/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-rp-1",
+          "title": "Redução de 50% nos preços de energia elétrica, gás e combustíveis",
+          "reality": {
+            "proposal": "Redução imediata de 50% no preço dos combustíveis e fim da paridade de preços com o dólar.",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "A política de preços da Petrobras é decisão de sua diretoria e conselho, com acionistas privados; o ICMS compõe o preço final e é fixado por estados e pelo Confaz."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o item consta do índice oficial e do programa registrado, no eixo Economia (src-rp-07)",
+                "Set/2026: o candidato defendeu reestatizações e a meta salarial em reportagem sobre o plano (src-rp-96)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Preço do combustível depende de decisão da estatal e de tributo estadual",
+                "detail": "A Petrobras define preços em ambiente societário com acionistas privados, e o ICMS é fixado por estados e pelo Confaz. O documento registrado não indica compensação, cronograma nem o efeito para as contas da União.",
+                "sources": [
+                  "src-rp-07",
+                  "src-rp-08",
+                  "src-re-r3propostas-05"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como se sustenta o corte de 50% com acionistas privados na estatal e ICMS estadual?",
+                "why": "O item não indica fonte de compensação nem separa o efeito federal (estatal e tributos federais) do efeito estadual sobre o preço final."
+              }
+            ],
+            "methodology": "Leitura do programa registrado (PDF de 7 páginas, cópia do arquivo oficial) e do índice oficial de 51 itens do TSE, com apoio de reportagens de agosto e setembro de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Para estes itens não localizamos ato do partido em sentido contrário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O partido informou candidaturas próprias em 18 estados e no DF (08/08/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-rp-4",
+          "title": "Imposto Único (0,5% na circulação de dinheiro; 1% sobre grandes fortunas) e fim de 32 tributos",
+          "reality": {
+            "proposal": "Fim dos impostos sobre o consumo e os salários, com tributação restrita a lucros, grandes fortunas e sistema financeiro.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar: 257 na Câmara e 41 no Senado (maioria absoluta)",
+              "note": "O imposto sobre grandes fortunas depende de lei complementar (art. 153, VII); tributos sobre consumo incluem ICMS e ISS, de estados e municípios, o que envolve pacto federativo."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o item consta do plano registrado e do índice oficial, no eixo Economia (src-rp-07)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Extinguir tributos sobre consumo envolve ICMS e ISS de estados e municípios",
+                "detail": "Os tributos sobre consumo no país incluem ICMS (estados) e ISS (municípios), além dos federais. A mudança depende de lei complementar (257 deputados e 41 senadores) e de acordo federativo, e o documento não estima a arrecadação de reposição.",
+                "sources": [
+                  "src-rp-07",
+                  "src-rp-08",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Com que base e alíquota o novo tributo sobre lucros e grandes fortunas repõe a arrecadação sobre consumo?",
+                "why": "O documento registrado não traz alíquota, base nem estimativa de arrecadação; o índice oficial do TSE descreve o item como fim dos impostos sobre consumo e salários, sem a expressão 'imposto único'."
+              }
+            ],
+            "methodology": "Leitura do programa registrado (PDF de 7 páginas, cópia do arquivo oficial) e do índice oficial de 51 itens do TSE, com apoio de reportagens de agosto e setembro de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Para estes itens não localizamos ato do partido em sentido contrário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O partido informou candidaturas próprias em 18 estados e no DF (08/08/2026); não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        }
+      ]
+    },
+    "wilson-grassi": {
+      "proposals": [
+        {
+          "id": "kp-wg-1",
+          "title": "Imposto Único Federal (IUF) sobre a movimentação financeira",
+          "reality": {
+            "proposal": "Substituir tributos federais sobre folha, faturamento e produção por Imposto Único Federal de 2% sobre cada lançamento financeiro.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+              "note": "O plano prevê emenda enviada entre os dias 60 e 100, transição em três etapas e lei complementar de regulamentação; a peça estima substituir R$ 1.562 bi e arrecadar R$ 1.828 bi por ano."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o plano registrado fixa a reforma tributária como proposta central, com três etapas de transição (src-wg-74)",
+                "Set/2026: o candidato defendeu o imposto único em entrevista à Agência Brasil (20/09/2026) (src-wg-100)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "IUF exige emenda, lei complementar e transição de anos previstas no próprio plano",
+                "detail": "O plano fixa emenda no primeiro semestre e transição em três etapas, com lei complementar de regulamentação. As projeções de carga por setor associadas ao IUF são estimativas dos autores do estudo citado, declaradas como tais na peça, e não medição independente.",
+                "sources": [
+                  "src-wg-74",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a alíquota e a base que a lei complementar fixará para o IUF, e por qual índice de preços correrá a partilha?",
+                "why": "O plano indica 2% por lançamento e R$ 1.828 bi a arrecadar, remetendo a definição fina à regulamentação, sem minuta apresentada."
+              }
+            ],
+            "methodology": "Leitura integral do plano registrado (cópia do PDF, 11 eixos, com quadros de instrumento, indicador e prazo) e do índice oficial de 44 itens do TSE, com apoio de reportagens de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do candidato em sentido contrário a estes itens.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "publicExplanation": "\"Reforma tributária depende de emenda constitucional, e emenda depende do Congresso. A transição leva anos\", diz o plano, que credita a origem técnica do IUF a estudo de Marcos Cintra e Luciano Bivar (JOTA, 10/03/2021) e marca as projeções como estimativas dos autores.",
+            "support": {
+              "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O plano registrado propõe pacto institucional com o Congresso e com os entes federados; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-wg-3",
+          "title": "Saúde Única: saúde humana, animal e ambiental integradas no SUS",
+          "reality": {
+            "proposal": "Integrar saúde humana, animal e ambiental no SUS sob a denominação Saúde Única, com vigilância de zoonoses e vacinação animal.",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "O plano indica portaria e programa federal com cofinanciamento, convênio federativo e ato do serviço veterinário oficial; a execução de vigilância e atenção primária é de estados e municípios, no financiamento tripartite do SUS."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o plano registrado abre o Eixo 4 com a integração das três saúdes e indicadores de raiva animal e zoonoses (src-wg-74)",
+                "2012: participou das discussões de implantação de hospital público para cães e gatos no Tatuapé, em São Paulo (src-wg-03)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Política nacional por portaria, com execução municipal e cofinanciamento a definir",
+                "detail": "O instrumento indicado no plano é portaria e programa federal com cofinanciamento e convênio federativo. A execução de vigilância e atenção primária é municipal, e o financiamento do SUS é partilhado entre União, estados e municípios.",
+                "sources": [
+                  "src-wg-74",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o valor do cofinanciamento federal previsto para a Saúde Única e como se dá a adesão de estados e municípios?",
+                "why": "O plano indica o instrumento (portaria, convênio e cofinanciamento) sem valor nem meta de adesão de entes; o instrumento federal por si não altera a rede municipal."
+              }
+            ],
+            "methodology": "Leitura integral do plano registrado (cópia do PDF, 11 eixos, com quadros de instrumento, indicador e prazo) e do índice oficial de 44 itens do TSE, com apoio de reportagens de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do candidato em sentido contrário a estes itens.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "publicExplanation": "\"Saúde humana, saúde animal e saúde ambiental são o mesmo problema visto de ângulos diferentes. A ideia não nasceu em campanha: é a base do trabalho da Organização Mundial da Saúde Animal e da Organização Mundial da Saúde há anos\", diz o plano.",
+            "support": {
+              "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O plano registrado propõe pacto institucional com o Congresso e com os entes federados; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-wg-4",
+          "title": "Fila única para cirurgias com posição e alertas ao paciente",
+          "reality": {
+            "proposal": "Criar fila única e pública de cirurgias e exames, com posição visível e alertas ao paciente, no primeiro ano.",
+            "requirement": {
+              "path": "depende-municipios",
+              "note": "O plano indica portaria, programa federal com cofinanciamento, lei orçamentária e contratualização por resultado; as filas e a regulação são operadas por estados e municípios, que detêm os serviços."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o plano registrado fixa fila pública nacional no primeiro ano e metas de cobertura ao longo do mandato (Eixo 7) (src-wg-74)",
+                "Ago/2026: a agenda de cem dias inclui a fila nacional no ar, ainda que em versão inicial, por portaria (src-wg-74)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fila nacional depende de bases de estados e municípios e de contratualização",
+                "detail": "A União financia, avalia e coordena; a marcação e a execução de cirurgias eletivas são de estados, municípios e prestadores contratados. O plano prevê integração e contratualização por resultado, com lei orçamentária para o custeio.",
+                "sources": [
+                  "src-wg-74"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como a fila única se integra aos sistemas de regulação estaduais e municipais já existentes?",
+                "why": "O plano prevê integração e contratualização por resultado, sem detalhar interoperabilidade com as centrais de regulação nem penalidade pelo descumprimento local."
+              }
+            ],
+            "methodology": "Leitura integral do plano registrado (cópia do PDF, 11 eixos, com quadros de instrumento, indicador e prazo) e do índice oficial de 44 itens do TSE, com apoio de reportagens de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do candidato em sentido contrário a estes itens.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O plano registrado propõe pacto institucional com o Congresso e com os entes federados; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-wg-5",
+          "title": "Segurança: isolamento total do comando em presídios, 'asfixia financeira' do crime e fronteiras tecnológicas",
+          "reality": {
+            "proposal": "Isolar lideranças em presídios federais de segurança máxima, asfixiar financeiramente o crime e vigiar fronteiras, com plebiscito sobre o modelo.",
+            "requirement": {
+              "path": "depende-estados",
+              "note": "Segurança pública é competência dos estados (art. 144); o plano prevê regulamentação da PEC nº 18/2025, decreto legislativo de convocação de plebiscito, emprego das Forças Armadas em fronteiras (LC nº 97/1999) e expansão penitenciária federal."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o plano registrado fixa isolamento de comando, asfixia financeira e fronteiras tecnológicas no Eixo 3 (src-wg-74)",
+                "Set/2026: o candidato defendeu imposto único e mais rigor contra facções em entrevista à Agência Brasil (20/09/2026) (src-wg-100)"
+              ],
+              "divergent": []
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Convocação de plebiscito não é ato do Presidente e a execução depende da resposta popular",
+                "detail": "O plano registra que a convocação se dá por decreto legislativo (art. 49, XV, e Lei nº 9.709/1998) e declara que não haverá execução por via alternativa se a resposta for negativa. Segurança pública é competência estadual, e a fronteira envolve o emprego das Forças Armadas (LC nº 97/1999).",
+                "sources": [
+                  "src-wg-74",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como será conduzida a expansão dos presídios federais se o decreto legislativo de plebiscito não for aprovado?",
+                "why": "O plano declara que, sem resposta popular favorável, não haverá tentativa por via alternativa, o que deixa o item dependente de decisão do Congresso."
+              }
+            ],
+            "methodology": "Leitura integral do plano registrado (cópia do PDF, 11 eixos, com quadros de instrumento, indicador e prazo) e do índice oficial de 44 itens do TSE, com apoio de reportagens de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do candidato em sentido contrário a estes itens.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "publicExplanation": "\"Porque a mudança altera a relação entre o Estado e a liberdade das pessoas. Decisão desse tamanho tomada por canetada nasce sem legitimidade e morre no primeiro habeas corpus\", diz o plano, que registra que o Presidente da República não convoca plebiscito (art. 49, XV, da Constituição e Lei nº 9.709/1998).",
+            "support": {
+              "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O plano registrado propõe pacto institucional com o Congresso e com os entes federados; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        },
+        {
+          "id": "kp-wg-7",
+          "title": "Método D35, painel de 100 dias e agenda legislativa enxuta",
+          "reality": {
+            "proposal": "Aplicar o Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver) e publicar painel de metas nos primeiros cem dias.",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "O plano fixa, nos dias 1 a 30, painel aberto com meta, indicador e responsável por decreto e interoperabilidade das bases federais; parte das metas depende de lei e de PEC (reforma tributária, PEC da Pesquisa)."
+            },
+            "history": {
+              "aligned": [
+                "Ago/2026: o plano registrado organiza onze eixos em cinco verbos e prevê painel público de metas nos cem dias (src-wg-74)",
+                "Ago/2026: a agenda de cem dias distribui entregas por decreto, portaria e ato ministerial, com prazos de 30 a 100 dias (src-wg-74)"
+              ],
+              "divergent": [],
+              "noComparablePrecedent": "A trajetória documentada do candidato é empresarial e de serviço veterinário (rede de clínicas, hospital veterinário público em parceria, faculdades); não localizamos registro de aplicação do método em estrutura de governo, estatal ou órgão público."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Método D35 sem aplicação anterior localizada em gestão pública",
+                "detail": "Não localizamos registro de aplicação do método em estrutura de governo ou estatal. As entregas dos cem dias dependem de decreto, portaria e ato ministerial, e parte das metas do plano depende de projetos enviados ao Congresso entre os dias 60 e 100.",
+                "sources": [
+                  "src-wg-74",
+                  "src-wg-03",
+                  "src-wg-71"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais metas integram o painel dos cem dias e como serão auditadas fora do governo?",
+                "why": "O plano prevê painel público e compromissos de transparência, sem lista fechada de metas por órgão responsável nem fonte externa de verificação."
+              }
+            ],
+            "methodology": "Leitura integral do plano registrado (cópia do PDF, 11 eixos, com quadros de instrumento, indicador e prazo) e do índice oficial de 44 itens do TSE, com apoio de reportagens de 2026. Nenhum dos quatro candidatos exerceu cargo público: a análise é sobre propostas e trajetória organizativa, não sobre mandato. Não localizamos ato do candidato em sentido contrário a estes itens.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "support": {
+              "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O plano registrado propõe pacto institucional com o Congresso e com os entes federados; não localizamos acordo suprapartidário documentado para 2026."
+            }
+          }
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "PCO: o próprio arquivo de research registra a divergência — os itens ('aumento de 50% em 45 dias', 'Imposto Único' de 0,5% na circulação de dinheiro e 1% sobre grandes fortunas, fim de 32 tributos, 600 mil concursos na saúde e Ronda Nacional) não aparecem no índice oficial de propostas do TSE nem no programa de 7 páginas lido em 29/09/2026; esta camada analisa os itens verificados (aumento emergencial, escala móvel, mínimo de R$ 7.500, jornada de 35 horas, combustíveis e tributação sobre capital).",
+    "PSTU: o índice oficial descreve 'bolsa de um salário mínimo para desempregados' e 'aumento de 100% do salário mínimo rumo ao piso do Dieese', sem menção a bolsa-filha/filho nem a piso de R$ 5 mil para servidores federais; a análise segue o indexado.",
+    "PCB: os destaques do arquivo de research não têm id (o plano traz 35 itens no índice oficial); neste patch os itens foram numerados kp-ec-1 a kp-ec-8 na ordem do arquivo.",
+    "Democrata: as projeções do Imposto Único Federal (R$ 1.562 bi substituídos, R$ 266 bi de isenção do IRPF e R$ 1.828 bi a arrecadar) são estimativas dos autores do estudo citado no plano e assim declaradas na peça; não localizamos medição independente.",
+    "Nenhum dos quatro exerceu cargo público eletivo ou de nomeação: não há orçamento administrado, votação em mandato nem ato de governo para os testes de discurso × ações; a base é o plano registrado, atas de convenção e a trajetória partidária.",
+    "Acesso: os PDFs do TSE responderam HTTP 403 a acesso automatizado em 29/09/2026; a leitura dos programas do PCB, do PSTU e do PCO usou cópia arquivada e espelho do arquivo oficial (fontes deste patch).",
+    "Não localizamos declaração pública dos quatro candidatos com o custo total do plano nem minuta de lei, decreto ou PEC associada às propostas analisadas.",
+    "Merge: os quatro arquivos de research ainda não têm governmentPlan.proposals (as propostas estão em keyProposals) e o merge-realidade casa por id e por título nesse campo; cada item deste patch leva o id e o título originais."
+  ]
+}

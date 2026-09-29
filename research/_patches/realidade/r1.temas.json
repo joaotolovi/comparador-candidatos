@@ -1,0 +1,2868 @@
+{
+  "grupo": "r1",
+  "escopo": "temas",
+  "sources": [
+    {
+      "id": "src-re-r1temas-01",
+      "title": "Lula sanciona isenção do Imposto de Renda para quem ganha até R$ 5 mil",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/26/lula-sanciona-isencao-do-imposto-de-renda-para-quem-ganha-ate-r-5-mil.ghtml",
+      "publishedAt": "2025-11-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sanção em 26/11/2025 da isenção do IR até R$ 5 mil mensais e desconto parcial até R$ 7.350, com vigência a partir de janeiro de 2026; compensação declarada por imposto mínimo sobre rendas acima de R$ 600 mil anuais; ~15 milhões de beneficiados segundo o Planalto."
+    },
+    {
+      "id": "src-re-r1temas-02",
+      "title": "Isenção do IR injeta R$ 28 bilhões na economia, diz Lula",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-11/isencao-do-ir-injeta-28-bi-na-economia-diz-lula",
+      "publishedAt": "2025-11-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cadeia nacional de rádio e TV em 30/11/2025: Lula cita injeção de R$ 28 bilhões e 140 mil contribuintes com renda acima de R$ 600 mil alcançados pela tributação mínima de 10%; registro de que a tabela do IR não foi integralmente corrigida."
+    },
+    {
+      "id": "src-re-r1temas-03",
+      "title": "Da jornada 6x1 às big techs: a pauta do governo Lula em 2026",
+      "publisher": "Congresso em Foco",
+      "url": "https://congressoemfoco.com.br/noticia/115264/da-jornada-6x1-as-big-techs-a-pauta-do-governo-lula-em-2026",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda legislativa do governo em oito frentes para 2026: redução da jornada, regulamentação do trabalho por aplicativos, lei antifacções, PL 2.338/2023 (IA) e PL 4.675/2025 (regulação econômica de big techs, relator Aliel Machado); menciona pressão de empresas de tecnologia e risco eleitoral na votação do projeto das plataformas. Data exata da publicação não legível na página."
+    },
+    {
+      "id": "src-re-r1temas-04",
+      "title": "Lula cobra regulação global de Big Techs e IA na Assembleia da ONU",
+      "publisher": "Telesíntese",
+      "url": "https://telesintese.com.br/lula-cobra-regulacao-global-de-big-techs-e-ia-na-assembleia-da-onu/",
+      "publishedAt": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Discurso na abertura da 81ª Assembleia Geral da ONU (22/09/2026) defendendo regulação de big techs e de inteligência artificial e criticando a ausência de regras e transparência."
+    },
+    {
+      "id": "src-re-r1temas-05",
+      "title": "Minha Casa, Minha Vida deve criar mais 2 milhões de imóveis",
+      "publisher": "Portas",
+      "url": "https://portas.com.br/noticias/minha-casa-minha-vida-deve-criar-mais-2-milhoes-de-imoveis",
+      "publishedAt": "2026-02-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declarações do ministro das Cidades (Jader Filho, fev/2026): 3 milhões de imóveis financiados entre 2023 e 2026, meta de 1 milhão por ano em 2026 e 2027, ampliação do público para renda de até R$ 12 mil e descarte de novas reduções nas taxas subsidiadas."
+    },
+    {
+      "id": "src-re-r1temas-06",
+      "title": "Lula entrega 576 apartamentos do Minha Casa, Minha Vida em Manaus",
+      "publisher": "g1 (Globo) — Amazonas",
+      "url": "https://g1.globo.com/google/am/amazonas/noticia/2026/05/26/lula-entrega-576-apartamentos-do-minha-casa-minha-vida-em-manaus.ghtml",
+      "publishedAt": "2026-05-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrega em 26/05/2026 de 576 unidades com R$ 92,16 milhões do FAR; declaração do presidente sobre varandas e bibliotecas nos conjuntos e sobre obras paralisadas encontradas em 2023."
+    },
+    {
+      "id": "src-re-r1temas-07",
+      "title": "Ronaldo Caiado fala sobre suas propostas na Globo: o que disse o candidato à Presidência na entrevista à emissora",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c1wxnj3wv58o",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista à TV Globo em 25/08/2026: Caiado afirma que fará uma reforma da Previdência, mas não responde se mudará a idade mínima de aposentadoria; defende anistia a condenados por atos de janeiro de 2023 e polícia conjunta sul-americana."
+    },
+    {
+      "id": "src-re-r1temas-08",
+      "title": "Caiado evita detalhar propostas para reforma da Previdência e ajuste fiscal em sabatina",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/eleicoes/caiado-evita-detalhar-propostas-para-reforma-da-previdencia-e-ajuste-fiscal-em-sabatina/",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina do Jornal Nacional (25/08/2026): ao ser questionado sobre sustentabilidade da Previdência, o candidato recusou detalhes técnicos; citou limitar despesas à correção da inflação e 'adequar' subvenções, incentivos, supersalários e emendas impositivas; afirmou que não mexeria nos pisos de saúde e educação nem no salário mínimo."
+    },
+    {
+      "id": "src-re-r1temas-09",
+      "title": "Pra Ter Onde Morar – Aluguel Nunca Mais",
+      "publisher": "AGEHAB — Governo de Goiás",
+      "url": "https://goias.gov.br/agehab/pra-ter-onde-morar-aluguel-nunca-mais",
+      "publishedAt": "2026-06-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Página oficial do programa habitacional estadual atualizada em 03/06/2026: subsídio de até R$ 47,4 mil para entrada ou financiamento, somado ao Minha Casa Minha Vida, para renda de até 3 salários mínimos; requisitos de não ter imóvel e vínculo municipal de 3 anos."
+    },
+    {
+      "id": "src-re-r1temas-10",
+      "title": "Caiado sanciona lei que cria programa de aluguel social do Pra Ter Onde Morar",
+      "publisher": "AGEHAB — Governo de Goiás",
+      "url": "https://goias.gov.br/agehab/caiado-sanciona-lei-que-cria-programa-de-aluguel-social-pra-ter-onde-morar",
+      "publishedAt": "2021-12-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Sanção da Lei nº 21.186, em 01/12/2021, que institui o aluguel social do programa habitacional estadual Pra Ter Onde Morar."
+    },
+    {
+      "id": "src-re-r1temas-11",
+      "title": "Flávio Bolsonaro promete retomar Casa Verde e Amarela e construir 2,5 milhões de residências",
+      "publisher": "UOL / Agência Estado",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/13/flavio-bolsonaro-promete-retomar-casa-verde-e-amarela-e-construir-25-milhoes-de-residencias.htm",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Leitura do plano registrado: retomada do Casa Verde e Amarela com meta de 2,5 milhões de residências e 'a menor taxa de juros possível', regularização fundiária, urbanização de áreas degradadas, PPPs e escrituras preferencialmente em nome das mulheres."
+    },
+    {
+      "id": "src-re-r1temas-12",
+      "title": "Flávio Bolsonaro propõe enxugar Estado e endurecer ações de segurança",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-bolsonaro-propoe-enxugar-estado-e-endurecer-acoes-de-seguranca",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Resumo do plano de 76 páginas em nove eixos: 'tesouraço' nos gastos, reforma administrativa com corte de dez ministérios, revisão do pacto federativo, retomada de desestatizações e 2,5 milhões de residências no Casa Verde e Amarela."
+    },
+    {
+      "id": "src-re-r1temas-13",
+      "title": "O que os candidatos à Presidência propõem para a saúde",
+      "publisher": "Futuro da Saúde",
+      "url": "https://futurodasaude.com.br/planos-para-a-saude-candidatos-presidencia/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Comparação das propostas de saúde por candidato: Flávio Bolsonaro (digitalização, prevenção, redução de filas, ampliação da Estratégia Saúde da Família, uso da capacidade ociosa da rede privada e prontuário eletrônico único); Zema (participação do setor privado, digitalização do SUS, atenção primária e prevenção); Lula (atenção primária, redução de filas, digitalização e indústria nacional); data exata não informada na página."
+    },
+    {
+      "id": "src-re-r1temas-14",
+      "title": "Romeu Zema: Veja as propostas do candidato a presidente",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/31/romeu-zema-veja-as-propostas-do-candidato-a-presidente.ghtml",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sistematização dos 20 tópicos do plano: segurança, sistema político (limite ao foro, supersalários), economia (redução de impostos, IR das empresas, agências reguladoras), educação (educação infantil, ensino integral, Pé-de-Meia vinculado ao aprendizado, transferência do ensino superior para C&T) e pobreza e moradia (Casas da Cidadania, prêmio de R$ 5 mil para quem sai de programas sociais, proibição de barracas em espaços públicos)."
+    },
+    {
+      "id": "src-re-r1temas-15",
+      "title": "Eleições 2026: As propostas econômicas dos candidatos",
+      "publisher": "Deutsche Welle (DW)",
+      "url": "https://www.dw.com/pt-br/os-planos-econ%C3%B4micos-dos-presidenci%C3%A1veis-para-o-brasil/a-79301755",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Comparativo de propostas econômicas por eixo. A seção sobre Previdência atribui a Ronaldo Caiado (PSD) uma nova reforma com reajuste automático de idade mínima, texto idêntico ao do plano de Romeu Zema (Plano Implacável, p. 14) e não localizado no plano de Caiado lido na íntegra; a fonte não foi usada para sustentar posição de candidato neste patch."
+    }
+  ],
+  "candidates": {
+    "lula": {
+      "themePositions": [
+        {
+          "slug": "economia",
+          "name": "Economia",
+          "kind": "proposta",
+          "position": "Plano (TSE) e atos 2023-26: manter o arcabouço fiscal (LC 200/2023), nova edição do Novo PAC e neoindustrialização",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-lula-06",
+            "src-lula-07",
+            "src-lula-105",
+            "src-lula-50"
+          ],
+          "reality": {
+            "proposal": "Manter o arcabouço fiscal, lançar nova edição do Novo PAC e dar continuidade à política de neoindustrialização.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar exige maioria absoluta: 257 deputados e 41 senadores.",
+              "note": "A regra fiscal em vigor é a LC 200/2023, já sancionada; a nova edição do PAC e a política industrial dependem de orçamento e de atos do Executivo. Depende de: Congresso, estados e municípios na execução dos investimentos.",
+              "sources": [
+                "src-lula-105",
+                "src-lula-06"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2023 — a LC 200/2023 substituiu o teto de gastos pelo regime fiscal sustentável, sancionada em 31/08/2023.",
+                "2026 — LOA 2026 sancionada em 14/01/2026 com vetos da ordem de R$ 393 milhões, sobretudo em emendas."
+              ],
+              "divergent": [
+                "2024-2025 — registro oficial do governo aponta R$ 711 bilhões executados pelo PAC até o fim de 2024, 53,7% do previsto para o período até 2026."
+              ]
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 1,
+              "note": "Coligação presidencial com 7 partidos e federações em funcionamento; acordos específicos sobre cada tema não foram localizados nas fontes consultadas. Cadeiras conforme a ficha do candidato (dados oficiais). Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Execução do Novo PAC registrada em 53,7% do previsto até 2026 em documento do próprio governo",
+                "detail": "O balanço oficial do governo federal registra R$ 711 bilhões executados pelo PAC até o fim de 2024, o equivalente a 53,7% do previsto para o período até 2026, enquanto o plano apresentado em 2026 propõe uma nova edição do programa sem estimativa de custo por item.",
+                "sources": [
+                  "src-lula-07"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Regras do orçamento e das emendas impositivas são fixadas pelo Congresso, com acordo no STF",
+                "detail": "O plano descreve as emendas parlamentares como responsáveis por parcela relevante dos recursos discricionários; as regras de transparência vigentes vieram da LC 210/2024 e de resolução do Congresso, no âmbito de plano acordado com o STF (ADPF 854), estendido a estados e municípios em 2025.",
+                "sources": [
+                  "src-lula-122",
+                  "src-lula-123"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo total previsto para a nova edição do Novo PAC e a fonte de recursos por exercício?",
+                "why": "O plano não informa custo por proposta e a execução do programa aparece em 53,7% do previsto em documento oficial."
+              },
+              {
+                "question": "Qual instrumento define a nova regra de gastos em substituição ao limite vigente?",
+                "why": "O plano mantém o arcabouço em vigor e não detalha mudança de regra fiscal."
+              }
+            ],
+            "publicExplanation": "O plano afirma que o volume de emendas parlamentares comprometeu o orçamento e apresenta a nova edição do PAC como retomada do investimento público; em agenda com empresários (25/09/2026) o candidato citou responsabilidade fiscal e estabilidade.",
+            "methodology": "Apurado por leitura do plano registrado no TSE (13 eixos) e das fontes de 2023 a 2026 já levantadas na ficha do candidato (LC 200/2023, LOA 2026, execução do PAC). Custos por proposta não constam do plano registrado.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "seguranca",
+          "name": "Segurança",
+          "kind": "proposta",
+          "position": "Plano (TSE) e PEC entregue em 2025: Ministério da Segurança Pública, SUSP constitucionalizado e câmeras corporais",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-lula-48",
+            "src-lula-49",
+            "src-lula-128",
+            "src-lula-129",
+            "src-lula-158"
+          ],
+          "reality": {
+            "proposal": "Criar o Ministério da Segurança Pública e constitucionalizar o SUSP, com ampliação de câmeras corporais e policiamento de proximidade.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "A criação do ministério e a constitucionalização do SUSP estão na PEC entregue ao Congresso em 23/04/2025; a ampliação de câmeras corporais e o policiamento de proximidade dependem de atos administrativos, convênios com estados e orçamento. Depende de: Congresso, estados e municípios.",
+              "sources": [
+                "src-lula-128",
+                "src-lula-48"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2025 — o Executivo entregou a PEC da segurança pública negociada com governadores (23/04/2025).",
+                "2026 — a Câmara aprovou a PEC em 05/03/2026 e a CCJ do Senado aprovou o texto em votação simbólica (02/09/2026)."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 2,
+              "note": "A PEC exige 308 deputados e 49 senadores em dois turnos; o tema entrou no acordo de pauta firmado com os presidentes da Câmara e do Senado em 26/08/2026. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "PEC da segurança tramita desde 2025 e a votação no Senado segue pendente em setembro de 2026",
+                "detail": "A proposta foi entregue em 23/04/2025, aprovada pela Câmara em 05/03/2026 e incluída no esforço concentrado do Senado em agosto de 2026, com parecer aprovado na CCJ em 02/09/2026; a criação do ministério depende da conclusão da votação em dois turnos nas duas Casas.",
+                "sources": [
+                  "src-lula-128",
+                  "src-lula-129",
+                  "src-lula-158"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a fonte de recursos para a criação do ministério e para a ampliação das câmeras corporais?",
+                "why": "O plano não informa custo nem vinculação orçamentária das medidas."
+              },
+              {
+                "question": "Como ficam as competências estaduais no desenho final do SUSP?",
+                "why": "A PEC está em tramitação e o plano não detalha a divisão de atribuições com os estados."
+              }
+            ],
+            "publicExplanation": "O plano afirma que a União ampliará a coordenação de ações com estados e municípios e cita o Ministério da Segurança Pública condicionado à aprovação da PEC entregue em 2025.",
+            "methodology": "Apurado no plano registrado no TSE e nas peças de tramitação (entrega em 23/04/2025, aprovação na Câmara em 05/03/2026, parecer na CCJ em 02/09/2026). O plano não informa custo nem meta quantificada de redução de crime; percentuais de votação não foram usados como resultado.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "saude",
+          "name": "Saúde",
+          "kind": "proposta",
+          "position": "Plano (TSE), Eixo 5: atenção primária digital, prontuário único, ampliação de UBS e produção nacional de vacinas e medicamentos",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-lula-07",
+            "src-lula-48",
+            "src-re-r1temas-13"
+          ],
+          "reality": {
+            "proposal": "Fortalecer a atenção primária, digitalizar o atendimento e ampliar a produção nacional de medicamentos, vacinas e insumos.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "A maior parte das medidas depende de atos administrativos e de repasses federais no âmbito do SUS, com execução por estados e municípios; a produção nacional de insumos envolve política industrial e contratos. Depende de: Congresso, estados e municípios, agentes privados.",
+              "sources": [
+                "src-lula-07",
+                "src-re-r1temas-13"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2013 — o programa Mais Médicos foi instituído pela Lei 12.871, no governo anterior do mesmo campo político.",
+                "2023 — decreto de emergência em saúde pública no território yanomami e ações federais de enfrentamento (jan/2023)."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 1,
+              "note": "A execução da atenção primária é de estados e municípios; não há PEC nesta área no plano registrado. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Emergência em saúde pública no território yanomami decretada em janeiro de 2023",
+                "detail": "Em 21/01/2023 o governo declarou emergência em saúde pública no território yanomami e, em 30/01/2023, editou decreto com medidas de enfrentamento e combate ao garimpo ilegal no início do mandato em curso. O registro consta como ação de saúde em área indígena, e não como posição sobre a proposta.",
+                "sources": [
+                  "src-lula-114",
+                  "src-lula-115"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo da expansão de UBS e da digitalização e a fonte de recursos por exercício?",
+                "why": "O plano não informa custo nem vinculação orçamentária; a execução é compartilhada com estados e municípios."
+              },
+              {
+                "question": "Quais metas quantificadas de fila e de cobertura acompanham o eixo de saúde?",
+                "why": "O plano descreve diretrizes sem indicador de fila ou de cobertura por período."
+              }
+            ],
+            "publicExplanation": "O plano apresenta o eixo como fortalecimento da saúde com equidade, inovação e soberania, citando digitalização do atendimento e produção nacional de insumos.",
+            "methodology": "Apurado no plano registrado no TSE (eixos de saúde) e nas fontes de 2013 a 2026 já levantadas na ficha do candidato (Lei 12.871/2013, decreto de emergência yanomami) e em sistematização de imprensa das propostas de saúde. Custos e metas de fila não constam do plano.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "educacao",
+          "name": "Educação",
+          "kind": "proposta",
+          "position": "Plano (TSE): 80% de crianças alfabetizadas na idade adequada, PNE 2026-2036, Pé-de-Meia e expansão de institutos federais",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-lula-07",
+            "src-lula-49",
+            "src-lula-94"
+          ],
+          "reality": {
+            "proposal": "Elevar a alfabetização na idade adequada de 66% (2025) para 80%, manter o Pé-de-Meia e ampliar institutos e universidades federais.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "O PNE 2026-2036 depende de lei ordinária; a alfabetização na idade adequada é executada pelas redes municipais e estaduais, com apoio federal; o Pé-de-Meia e a expansão de institutos dependem de orçamento. Depende de: Congresso, estados e municípios.",
+              "sources": [
+                "src-lula-49",
+                "src-lula-94"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — resultado oficial registra 66% dos alunos do 2º ano alfabetizados em 2025, acima da meta de 64% do Compromisso Nacional Criança Alfabetizada."
+              ],
+              "divergent": [
+                "2025 — a meta vigente do compromisso nacional era 64%; o plano registrado em 2026 passa a citar 80% de alfabetização na idade adequada."
+              ]
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 1,
+              "note": "O PNE é lei ordinária e a alfabetização depende de adesão de 27 redes estaduais e de mais de 5 mil redes municipais. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Meta de alfabetização depende de redes estaduais e municipais, não apenas de ato federal",
+                "detail": "A meta de 80% de alfabetização é medida em avaliação federal, mas a execução é das redes municipais e estaduais que aderiram ao Compromisso Nacional Criança Alfabetizada; o PNE 2026-2036 depende de lei ordinária. O plano não indica como a meta alcança as redes que ficaram abaixo da média nacional.",
+                "sources": [
+                  "src-lula-94",
+                  "src-lula-49"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo estimado do PNE 2026-2036 e a fonte de recursos por etapa?",
+                "why": "O plano cita o plano nacional sem valores por meta ou por exercício."
+              },
+              {
+                "question": "Em qual avaliação e em qual ano a meta de 80% será medida?",
+                "why": "O documento não define o indicador nem a linha de base usada para a nova meta."
+              }
+            ],
+            "publicExplanation": "O plano cita o PNE 2026-2036 como compromisso e mantém o Pé-de-Meia; não localizamos explicação pública do candidato sobre a diferença entre a meta vigente de 64% e a meta de 80% apresentada em 2026.",
+            "methodology": "Apurado no plano registrado no TSE e no resultado oficial do Compromisso Nacional Criança Alfabetizada (mar/2026). Custos não constam do plano; a classificação de dependência segue o instrumento declarado no documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "clima",
+          "name": "Clima",
+          "kind": "proposta",
+          "position": "Plano (TSE), Eixo 11 e atos 2023-26: desmatamento líquido zero até 2030, redução de 59%-67% das emissões e adaptação climática",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-lula-07",
+            "src-lula-159",
+            "src-lula-126",
+            "src-lula-157"
+          ],
+          "reality": {
+            "proposal": "Manter a meta de desmatamento líquido zero em 2030 e tornar a adaptação climática eixo permanente do planejamento público.",
+            "requirement": {
+              "path": "ato-executivo",
+              "quorum": "Ato do Executivo: fiscalização, planos setoriais e orçamento; metas de emissões dependem de estados e de agentes privados.",
+              "note": "Fiscalização e combate ao desmatamento ilegal são executados por órgãos federais e por cooperação com estados; a trajetória de emissões depende também de atividades privadas; o financiamento da adaptação envolve orçamento, fundos e mercado de carbono. Depende de: estados, municípios e agentes privados.",
+              "sources": [
+                "src-lula-07",
+                "src-lula-159"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2024-2025 — desmatamento na Amazônia caiu para 5.796 km² (-11,08%), a menor taxa em 11 anos, com queda de 11,49% no Cerrado.",
+                "2025 — COP30 realizada em Belém (nov/2025) e Pacto pela Transformação Ecológica firmado pelos três Poderes (2024)."
+              ],
+              "divergent": [
+                "2025 — Ibama concedeu licença de operação para poço na Foz do Amazonas em 20/10/2025, 20 dias antes da COP30; entidades anunciaram ação judicial."
+              ]
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 1,
+              "note": "A execução do combate ao desmatamento depende de cooperação com estados amazônicos e de órgãos federais; o financiamento climático envolve fundos e o mercado regulado. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Licença para exploração na Foz do Amazonas concedida 20 dias antes da COP30",
+                "detail": "Em 20/10/2025 o Ibama concedeu licença de operação à Petrobras para poço exploratório no bloco FZA-M-059, no Amapá, vinte dias antes da conferência sediada em Belém; entidades ambientalistas anunciaram ação judicial. O plano registrado em 2026 reafirma desmatamento líquido zero até 2030.",
+                "sources": [
+                  "src-lula-157",
+                  "src-lula-07"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo previsto para adaptação climática e qual a fonte de recursos?",
+                "why": "O plano trata adaptação como eixo permanente sem estimativa de custo ou fonte."
+              },
+              {
+                "question": "Qual instrumento define as metas de emissões por setor e como será verificada?",
+                "why": "O documento cita faixas de redução de emissões sem plano setorial detalhado."
+              }
+            ],
+            "publicExplanation": "O plano reafirma a meta de desmatamento líquido zero até 2030 e cita a COP30 de Belém como marco da agenda climática do mandato em curso.",
+            "methodology": "Apurado no plano registrado no TSE (Eixo 11) e nas fontes de 2024-2025 já levantadas na ficha do candidato (taxa de desmatamento medida por sistema oficial, COP30 em Belém, licença da Foz do Amazonas). Custos e metas setoriais de emissões não constam do plano.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "trabalho",
+          "name": "Trabalho",
+          "kind": "proposta",
+          "position": "Plano (TSE) e ato de 2026: fim da escala 6x1 e jornada de 40 horas sem redução salarial, com regras para aplicativos",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-lula-70",
+            "src-lula-71",
+            "src-lula-134",
+            "src-lula-48"
+          ],
+          "reality": {
+            "proposal": "Aprovar o fim da escala 6x1 e a jornada de 40 horas semanais sem redução salarial e regulamentar o trabalho por aplicativos.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "O envio ao Congresso ocorreu em regime de urgência em 14/04/2026, com tramitação conjunta de projeto de lei e PEC; a regulamentação do trabalho por aplicativos tramita como projeto de lei. Depende de: Congresso.",
+              "sources": [
+                "src-lula-70",
+                "src-lula-134"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — envio ao Congresso em 14/04/2026, em regime de urgência, da proposta de redução da escala 6x1.",
+                "2026 — acordo de pauta com Câmara e Senado em 26/08/2026 incluiu a redução da jornada entre as prioridades do ano."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 1,
+              "note": "A PEC exige 308 deputados e 49 senadores em dois turnos; a tramitação envolve acordo de pauta com as duas Casas e a agenda de 2026. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fim da escala 6x1 exige PEC, com 308 deputados e 49 senadores em dois turnos por Casa",
+                "detail": "O envio ocorreu em regime de urgência em 14/04/2026, com tramitação conjunta de PL e PEC; alterar a jornada na Constituição exige maioria de três quintos em dois turnos em cada Casa. Setores com escala contínua, como saúde e segurança, mantêm regimes próprios não detalhados no plano.",
+                "sources": [
+                  "src-lula-70",
+                  "src-lula-134"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho de transição para setores com escala contínua, como saúde e segurança?",
+                "why": "O plano não detalha regimes especiais nem regras de transição por setor."
+              },
+              {
+                "question": "Qual o impacto estimado sobre custos de contratação e sobre o emprego formal?",
+                "why": "Não há estimativa de custo ou de emprego no documento registrado."
+              }
+            ],
+            "publicExplanation": "O plano situa a redução da jornada na agenda de trabalho decente; o envio em urgência foi anunciado após agenda com o presidente da Câmara em 14/04/2026 e incluído no acordo de pauta de agosto de 2026.",
+            "methodology": "Apurado no plano registrado no TSE e nas fontes de tramitação e agenda legislativa de 2026 (envio em 14/04/2026, acordo de pauta de 26/08/2026, prioridades do governo para o ano).",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "tributacao",
+          "name": "Tributação",
+          "kind": "proposta",
+          "position": "Ato de 2025 e plano (TSE): isenção do IR até R$ 5 mil sancionada em 26/11/2025 e aprofundamento da reforma em vigor",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-re-r1temas-01",
+            "src-re-r1temas-02",
+            "src-lula-30",
+            "src-lula-124",
+            "src-lula-155"
+          ],
+          "reality": {
+            "proposal": "Manter a isenção do IR até R$ 5 mil mensais, tributar rendas mais altas e aprofundar a reforma tributária em vigor.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar exige maioria absoluta: 257 deputados e 41 senadores.",
+              "note": "A isenção até R$ 5.000 e o desconto parcial até R$ 7.350 foram sancionados em 26/11/2025, com vigência desde janeiro de 2026, e a compensação declarada é um imposto mínimo de 10% para rendas acima de R$ 600 mil anuais; a reforma (EC 132/2023) é regulamentada por lei complementar e pelo Comitê Gestor do IBS, com estados e municípios. Depende de: Congresso.",
+              "sources": [
+                "src-re-r1temas-01",
+                "src-lula-124"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2023 — reforma tributária promulgada (EC 132/2023), com regulamentação pela LC 214/2025 e instalação do Comitê Gestor do IBS.",
+                "2025-2026 — isenção do IR até R$ 5 mil sancionada em 26/11/2025, com cerca de 15 milhões de beneficiados segundo o Planalto."
+              ],
+              "divergent": [
+                "2026 — sanção, em 10/09/2026, da lei que zera a tarifa de importação de compras de até US$ 50, após medida provisória que suspendia a cobrança."
+              ]
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 1,
+              "note": "A reforma tributária é lei complementar e a regulamentação envolve o Comitê Gestor com estados e municípios. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Isenção do IR reduz arrecadação e a compensação declarada é o imposto mínimo sobre rendas acima de R$ 600 mil",
+                "detail": "A lei sancionada em 26/11/2025 isenta quem ganha até R$ 5 mil e cria desconto parcial até R$ 7.350, com compensação declarada pelo imposto mínimo de 10% sobre rendas acima de R$ 600 mil anuais; o mesmo plano mantém o arcabouço fiscal e a meta de resultado primário. Reportagens registram dúvida sobre o efeito fiscal a partir de 2027.",
+                "sources": [
+                  "src-re-r1temas-01",
+                  "src-re-r1temas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Zeramento da tarifa de importação de compras de até US$ 50 em setembro de 2026 reduz receita de importação",
+                "detail": "Em 10/09/2026 foi sancionada a lei que zera a tarifa de 20% para compras internacionais de até US$ 50, com a cobrança suspensa por medida provisória desde maio; o varejo e a indústria tentaram derrubar a proposta. O plano registrado mantém o aprofundamento da reforma e não menciona essa renúncia.",
+                "sources": [
+                  "src-lula-155"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o efeito fiscal projetado da isenção e qual a compensação por exercício?",
+                "why": "O documento não traz projeção por ano; os números citados são declarações do governo em cadeia de rádio e TV."
+              },
+              {
+                "question": "Que mudanças de tributação de renda e patrimônio o plano prevê além da lei de 2025?",
+                "why": "O plano cita aprofundamento da reforma sem listar novos tributos ou faixas."
+              }
+            ],
+            "publicExplanation": "O candidato afirmou em cadeia de rádio e TV (30/11/2025) que a isenção injeta R$ 28 bilhões na economia e que a compensação alcança 140 mil contribuintes com renda acima de R$ 600 mil anuais.",
+            "methodology": "Apurado no plano registrado no TSE e nas fontes de 2023 a 2026 já levantadas na ficha do candidato (EC 132/2023, LC 214/2025, sanção da isenção em 26/11/2025, fim da tarifa das compras internacionais em 10/09/2026). O plano não quantifica custo nem compensação por exercício.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "previdencia",
+          "name": "Previdência",
+          "kind": "proposta",
+          "position": "Plano (TSE) e atos 2025-26: sem nova reforma de regras de aposentadoria, com revisão de benefícios e da fila do INSS",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-lula-152",
+            "src-lula-153",
+            "src-lula-154",
+            "src-lula-100",
+            "src-lula-101"
+          ],
+          "reality": {
+            "proposal": "Não propor nova reforma das regras de aposentadoria, executar a revisão de benefícios e reduzir a fila do INSS.",
+            "requirement": {
+              "path": "ato-executivo",
+              "quorum": "Ato do Executivo e lei ordinária para a revisão de benefícios; alterar idade mínima exigiria PEC.",
+              "note": "A revisão de benefícios é executada por atos administrativos e perícia, com efeito orçamentário; mudar idade mínima ou regras de cálculo exigiria emenda constitucional (308 deputados e 49 senadores em dois turnos). O plano registrado não propõe alteração das regras de aposentadoria. Depende de: Congresso apenas se houver mudança constitucional.",
+              "sources": [
+                "src-lula-153",
+                "src-lula-154"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2025-2026 — pente-fino do BPC com economia estimada em R$ 1,1 bilhão em 2026 e R$ 4,8 bilhões em 2027-2028, segundo o governo.",
+                "2026 — o ministro da Previdência declarou ser contra nova reforma que aumente a idade de aposentadoria (jul/2026)."
+              ],
+              "divergent": [
+                "2026 — revisões de benefícios previstas para maio-outubro de 2026 foram remarcadas para a partir de janeiro de 2027, após as eleições."
+              ]
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 1,
+              "note": "Mudar regras de aposentadoria exigiria PEC com 308 deputados e 49 senadores em dois turnos; a revisão de benefícios é administrativa. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "mudanca-de-posicao",
+                "title": "Em 2003 sustentou a reforma da Previdência (EC 41); em 2026 a posição declarada é de não elevar a idade de aposentadoria",
+                "detail": "O primeiro mandato enviou e sustentou a reforma promulgada em 19/12/2003 (EC 41), com votos contrários na própria base aliada. Em 2026, o ministro da Previdência declarou ser contra nova reforma que aumente a idade de aposentadoria e o plano registrado não propõe mudança nas regras de aposentadoria.",
+                "sources": [
+                  "src-lula-100",
+                  "src-lula-101",
+                  "src-lula-153"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Revisões de benefícios do BPC remarcadas para depois das eleições, com economia mantida no orçamento",
+                "detail": "Reportagem de 10/06/2026 registra que o governo remarcou para janeiro de 2027 cerca de 280 mil consultas do BPC previstas para maio-outubro de 2026, mantendo a economia estimada em R$ 1,1 bilhão em 2026 e R$ 4,8 bilhões em 2027-2028; técnicos citados registram 33% de cancelamento nas revisões feitas.",
+                "sources": [
+                  "src-lula-152"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho da revisão de benefícios e quantos cadastros serão revistos por ano?",
+                "why": "O plano cita a revisão sem meta de processos ou cronograma publicado."
+              },
+              {
+                "question": "Como o plano trata a sustentabilidade previdenciária sem alterar idade mínima?",
+                "why": "O ministro da Fazenda defendeu o debate sobre sustentabilidade em set/2026, sem proposta apresentada no plano."
+              }
+            ],
+            "publicExplanation": "O ministro da Fazenda afirmou em 03/09/2026 que o tema não está em discussão, mas defendeu o debate sobre a sustentabilidade do sistema, com a decisão cabendo ao presidente.",
+            "methodology": "Apurado no plano registrado no TSE, no histórico de 2003 (EC 41) e nas fontes de 2026 já levantadas na ficha do candidato (adiamento do pente-fino do BPC, declarações dos ministros da Previdência e da Fazenda). Não há projeção atuarial nem meta de revisão no documento.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "habitacao",
+          "name": "Habitação",
+          "kind": "proposta",
+          "position": "Ato de 2023 e atos 2023-26: lei de 14/09/2023 retomou o Minha Casa Minha Vida; 3 milhões de imóveis financiados no mandato",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-lula-54",
+            "src-re-r1temas-05",
+            "src-re-r1temas-06"
+          ],
+          "reality": {
+            "proposal": "Manter a execução do Minha Casa Minha Vida com contratação de 1 milhão de unidades por ano em 2026 e 2027.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a execução depende de FGTS, FAR e de seleção de propostas.",
+              "note": "A retomada do programa se deu por lei sancionada em 14/09/2023, com recursos do Fundo de Arrendamento Residencial e do FGTS; a contratação depende de seleção de propostas de estados, municípios e construtoras. Depende de: Congresso, estados, municípios e agentes privados.",
+              "sources": [
+                "src-lula-54",
+                "src-re-r1temas-05"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2023 — lei sancionada em 14/09/2023 retoma o Minha Casa Minha Vida, criado em 2009.",
+                "2026 — 3 milhões de imóveis financiados de 2023 a 2026 e meta de 1 milhão de contratações por ano em 2026 e 2027, segundo o ministro das Cidades."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 1,
+              "note": "O programa é executado com FGTS e FAR e depende de seleção de propostas de estados, municípios e construtoras. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Meta de 1 milhão de contratações por ano depende de FGTS, FAR, municípios e construtoras",
+                "detail": "As contratações dependem de seleção pública de propostas e da disponibilidade do FGTS, principal fonte de recursos; em fev/2026 o ministério descartou novas reduções nas taxas subsidiadas ao mesmo tempo em que ampliou a faixa de renda atendida para até R$ 12 mil, o que altera o perfil do financiamento.",
+                "sources": [
+                  "src-re-r1temas-05"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo por unidade e o total previsto para 2026-2027 com a faixa de renda ampliada?",
+                "why": "O plano e as declarações do ministério não informam custo por unidade nem orçamento anual."
+              },
+              {
+                "question": "Qual a meta de entrega anual e o indicador de acompanhamento?",
+                "why": "As metas citadas são de contratação e financiamento, sem indicador de entrega por ano."
+              }
+            ],
+            "publicExplanation": "Na entrega de 576 unidades em Manaus (26/05/2026), o presidente afirmou que os conjuntos passaram a incluir varandas e bibliotecas e que encontrou obras paralisadas ao reassumir o governo em 2023.",
+            "methodology": "Apurado nas fontes de execução do programa já levantadas na ficha do candidato (lei de retomada de 14/09/2023) e em reportagens de 2026 com números declarados pelo ministério das Cidades e pela agenda presidencial.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "instituicoes",
+          "name": "Instituições",
+          "kind": "proposta",
+          "position": "Plano e agenda de 2026: regulação de big techs (PL 4.675/2025), regras para IA e rastreabilidade das emendas parlamentares",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-re-r1temas-03",
+            "src-re-r1temas-04",
+            "src-lula-122",
+            "src-lula-123"
+          ],
+          "reality": {
+            "proposal": "Regular economicamente plataformas digitais, criar regras para inteligência artificial e manter a rastreabilidade das emendas.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "O PL 4.675/2025 trata da regulação econômica de plataformas e o PL 2.338/2023, de inteligência artificial, ambos em tramitação; a transparência de emendas veio da LC 210/2024 e de resolução do Congresso, no âmbito de acordo com o STF. Depende de: Congresso e de acordo entre Poderes.",
+              "sources": [
+                "src-re-r1temas-03",
+                "src-lula-122"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2024-2025 — regras de transparência de emendas promulgadas (LC 210/2024) e estendidas a estados e municípios em 2025 (ADPF 854).",
+                "2026 — agenda do governo com oito frentes inclui IA e regulação econômica de plataformas, com relator designado no projeto das big techs."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "67/513 deputados federais e 9/81 senadores (PT); 84 deputados com a federação",
+              "coalitionSeats": "7 partidos na coligação presidencial registrada; total de cadeiras do conjunto não localizado nas fontes desta rodada",
+              "federations": "Federação Brasil da Esperança (PT, PCdoB, PV) e Federação PSOL/Rede",
+              "documentedAgreements": 1,
+              "note": "Os projetos de regulação de plataformas e de IA são lei ordinária e as regras de transparência de emendas foram fixadas com o Congresso e o STF. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Regulação de plataformas depende do Congresso, com pressão de empresas e custo eleitoral registrado",
+                "detail": "A cobertura da agenda legislativa de 2026 registra que empresas de tecnologia pressionam contra o PL 4.675/2025 e que parlamentares citam receio de ruído internacional e custo eleitoral, o que condiciona a votação do projeto sobre poder de mercado de plataformas consideradas sistêmicas.",
+                "sources": [
+                  "src-re-r1temas-03"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o arranjo institucional do órgão que regulará as plataformas e quais suas competências?",
+                "why": "O plano e a agenda citam a regulação sem definir o desenho do órgão."
+              },
+              {
+                "question": "Quais regras de conteúdo e de dados estão previstas além da regulação econômica?",
+                "why": "As fontes consultadas tratam do poder de mercado; regras de conteúdo não aparecem no plano lido."
+              }
+            ],
+            "publicExplanation": "Na abertura da 81ª Assembleia Geral da ONU (22/09/2026), o candidato defendeu a regulação de big techs e de inteligência artificial e criticou a ausência de regras e de transparência.",
+            "methodology": "Apurado nas fontes de 2024-2026 já levantadas na ficha do candidato (LC 210/2024, ADPF 854), na cobertura da agenda legislativa de 2026 (PL 4.675/2025 e PL 2.338/2023) e no discurso na ONU. Regras eleitorais e composição de tribunais não constam do plano registrado lido.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "flavio-bolsonaro": {
+      "themePositions": [
+        {
+          "slug": "economia",
+          "name": "Economia",
+          "kind": "proposta",
+          "position": "Plano (TSE): 'tesouraço' de gastos com novo teto, corte de 1,5% do PIB e Programa Nacional de Desestatização",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-flavio-80",
+            "src-fb-08",
+            "src-flavio-118",
+            "src-g1-plano"
+          ],
+          "reality": {
+            "proposal": "Cortar gastos federais com novo teto e revisar as regras fiscais, com desestatizações e sem detalhar a regra substituta.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "O plano prevê novo teto de gastos e controle de decisões do Judiciário, matérias de emenda constitucional; a reorganização administrativa e o Programa Nacional de Desestatização dependem de lei e de atos do Executivo. Depende de: Congresso.",
+              "sources": [
+                "src-flavio-80",
+                "src-g1-plano"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2023 — votou contra o novo arcabouço fiscal no Senado em 21/06/2023 (57 a 17).",
+                "2026 — o plano projeta R$ 900 bilhões de investimento em rodovias, hidrovias, portos, aeroportos e ferrovias em quatro anos."
+              ],
+              "divergent": [
+                "2026 — o plano anuncia corte de 1,5% do PIB (cerca de R$ 190 bilhões, base 2025) em quatro etapas, sem detalhar a regra fiscal substituta."
+              ]
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "A base de negociação documentada é a atuação no Senado e a bancada do partido; não localizamos acordo suprapartidário sobre a regra fiscal nas fontes consultadas. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Novo teto e corte de 1,5% do PIB sem regra fiscal definida no documento registrado",
+                "detail": "O plano prevê 'tesouraço' de gastos e novo teto, com mais controle sobre emendas, sem detalhar a regra fiscal; a equipe econômica descreveu corte equivalente a 1,5% do PIB em quatro etapas. Teto de despesas exige emenda constitucional, com 308 deputados e 49 senadores em dois turnos por Casa.",
+                "sources": [
+                  "src-flavio-80",
+                  "src-g1-plano"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a regra fiscal substituta e qual o ajuste previsto por exercício até 2030?",
+                "why": "O plano anuncia o corte e o novo teto sem apresentar a regra nem a trajetória anual."
+              },
+              {
+                "question": "Qual a fonte de recursos do pacote de R$ 900 bilhões em infraestrutura em quatro anos?",
+                "why": "O documento cita o volume de investimento sem indicar origem dos recursos."
+              }
+            ],
+            "publicExplanation": "O plano afirma que 'um plano de governo não vale pelo que promete, mas pelo que consegue sustentar' e apresenta o corte de gastos como lastro das demais propostas.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (76 páginas, nove eixos) e nas fontes de 2023 a 2026 já levantadas na ficha do candidato (voto no arcabouço em 2023, quatro etapas do ajuste descritas pela equipe econômica). O documento não traz regra fiscal detalhada nem custo por proposta.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "seguranca",
+          "name": "Segurança",
+          "kind": "proposta",
+          "position": "Plano (TSE) e atos no Senado: classificar facções como narcoterroristas, reduzir a maioridade penal e ampliar presídios",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-estadao-plano",
+            "src-flavio-02",
+            "src-fb-08",
+            "src-g1-plano"
+          ],
+          "reality": {
+            "proposal": "Tratar facções como organizações narcoterroristas, reduzir a maioridade penal para 16 anos e ampliar o sistema prisional.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "A definição legal de narcoterrorismo e o endurecimento de penas dependem de lei ordinária; a redução da maioridade penal exige emenda constitucional; a política prisional e ostensiva é executada por estados, com apoio federal. Depende de: Congresso, estados.",
+              "sources": [
+                "src-estadao-plano",
+                "src-fb-08"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2022-2024 — relator do PL 2253/2022 (fim da saída temporária e monitoração eletrônica), aprovado por 62 votos a 2 e convertido na Lei 14.843/2024.",
+                "2025 — presidiu a Comissão de Segurança Pública na condução do pacote anticrimes violentos (PL 4.809/2024), aprovado pelo Senado em 14/10/2025."
+              ],
+              "divergent": [
+                "2026 — levantamento de abril de 2026 registra 62 projetos de autoria principal, 2 aprovados no Senado e nenhum convertido em lei."
+              ]
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "A execução prisional e ostensiva é estadual; a redução da maioridade penal exige PEC com 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Redução da maioridade penal exige PEC e a execução prisional é dos estados",
+                "detail": "A redução da maioridade penal para 16 anos depende de emenda constitucional (308 deputados e 49 senadores em dois turnos por Casa); construção de presídios e operações de retomada de território envolvem estados e, no emprego das Forças Armadas, ato do Executivo federal. O plano não informa custo por vaga.",
+                "sources": [
+                  "src-fb-08",
+                  "src-estadao-plano"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Autoria legislativa principal sem lei aprovada até abril de 2026, com relatorias de impacto no tema",
+                "detail": "Levantamento de 02/04/2026 com dados oficiais registra 62 projetos de autoria do senador, 2 aprovados no Senado e nenhum convertido em lei; no mesmo período o candidato foi relator da Lei 14.843/2024 e conduziu o pacote anticrimes aprovado no Senado em 14/10/2025.",
+                "sources": [
+                  "src-brasildefato-legis",
+                  "src-flavio-02"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo por vaga prisional e a meta de vagas em quatro anos?",
+                "why": "O plano cita ampliação do sistema prisional sem valores ou metas por estado."
+              },
+              {
+                "question": "Qual o texto de definição de narcoterrorismo e qual órgão aplicaria a classificação?",
+                "why": "O documento anuncia a classificação sem apresentar o tipo penal."
+              }
+            ],
+            "publicExplanation": "O plano resume a proposta na ideia de que 'terrorista vai ser tratado como terrorista' e afirma que 'a soberania começa na porta da sua casa', situando a segurança como condição dos demais temas.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (eixo 'Brasil sem Medo'), nos registros de relatoria e tramitação já levantados na ficha do candidato (Lei 14.843/2024, PL 4.809/2024) e no levantamento de autoria legislativa de 2026. Custos por vaga não constam do plano.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "saude",
+          "name": "Saúde",
+          "kind": "proposta",
+          "position": "Plano (TSE) e anúncio de ministro: prontuário eletrônico único por CPF, digitalização do SUS e ampliação da atenção primária",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-plano-pdf",
+            "src-fb-03",
+            "src-re-r1temas-13"
+          ],
+          "reality": {
+            "proposal": "Implantar prontuário eletrônico único vinculado ao CPF, digitalizar o SUS e ampliar a atenção primária com uso da capacidade privada.",
+            "requirement": {
+              "path": "ato-executivo",
+              "quorum": "Ato do Executivo, com lei de dados (LGPD) e orçamento; depende de estados, municípios e prestadores privados.",
+              "note": "A integração de prontuário entre redes pública e privada depende de atos administrativos, de sistemas de estados e municípios e de consentimento do paciente sob a LGPD; a ampliação da atenção primária e o uso da capacidade ociosa privada envolvem contratos e orçamento. Depende de: estados, municípios, agentes privados.",
+              "sources": [
+                "src-plano-pdf",
+                "src-re-r1temas-13"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2019-2022 — o plano cita a rede nacional de dados de saúde iniciada no governo anterior do mesmo campo político como trabalho a concluir.",
+                "2026 — anúncio de Claudio Lottenberg como ministro da Saúde em entrevista ao Jornal Nacional (28/08/2026)."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "O SUS é executado por estados e municípios e a integração com a rede privada depende de adesão de prestadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Prontuário único interoperável entre rede pública e privada depende de adesão de prestadores e de integração de sistemas",
+                "detail": "O plano prevê prontuário vinculado ao CPF, integrado ao Gov.br e interoperável entre as redes pública e privada, observados a LGPD e o sigilo médico, com uso de inteligência artificial no agendamento. A integração depende de sistemas de estados e municípios e da adesão de prestadores privados, sem mecanismo de obrigatoriedade no documento.",
+                "sources": [
+                  "src-plano-pdf"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo da digitalização do SUS e a fonte de recursos para a integração nacional?",
+                "why": "O plano não informa custo nem cronograma de implantação por etapa."
+              },
+              {
+                "question": "Qual a meta de fila e de cobertura da atenção primária em quatro anos?",
+                "why": "O documento descreve diretrizes sem meta quantificada de fila ou cobertura."
+              }
+            ],
+            "publicExplanation": "O plano apresenta o prontuário digital declarando que 'agora vamos concluí-lo' e afirma que o médico do pronto-socorro passará a saber quais medicamentos o paciente usa.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (eixos de saúde e saúde digital) e nas fontes de 2026 já levantadas na ficha do candidato (anúncio do ministro em 28/08/2026) e em sistematização de imprensa das propostas de saúde. Custos não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "educacao",
+          "name": "Educação",
+          "kind": "proposta",
+          "position": "Plano (TSE): método fônico na alfabetização, Programa Acolher, orçamento por resultados e expansão de escolas cívico-militares",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-plano-pdf",
+            "src-fb-08",
+            "src-g1-plano"
+          ],
+          "reality": {
+            "proposal": "Alfabetizar pelo método fônico, condicionar repasses a metas de aprendizagem e ampliar escolas cívico-militares.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a execução da educação básica é de estados e municípios.",
+              "note": "Alfabetização e gestão escolar são executadas por estados e municípios, com apoio federal; mudar diretrizes curriculares e criar política nacional de alfabetização dependem de atos e de lei; o financiamento por resultados e o Programa Acolher dependem de orçamento e regulamentação. Depende de: Congresso, estados, municípios.",
+              "sources": [
+                "src-plano-pdf",
+                "src-fb-08"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2019-2022 — o plano cita o método fônico e experiências de alfabetização de estados e municípios como base a retomar.",
+                "2026 — o documento fixa a alfabetização na idade certa como primeiro compromisso do eixo de educação."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "A oferta da educação básica é de estados e municípios e o desenho curricular passa pelo Conselho Nacional de Educação. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Alfabetização e ensino médio são executados por redes estaduais e municipais, e o plano não detalha o repasse",
+                "detail": "O plano prevê repasses vinculados a metas de aprendizagem, sem abandonar regiões com dificuldades, bonificação a aluno-monitor do Programa Acolher e expansão das escolas cívico-militares; a meta de 'nenhuma escola sem água até 2030' depende de repasses a redes locais. O documento não informa o desenho do financiamento por resultados.",
+                "sources": [
+                  "src-plano-pdf",
+                  "src-g1-plano"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo do Programa Acolher e a fonte de recursos para a remuneração dos monitores?",
+                "why": "O plano cria o programa sem estimativa de custo ou de número de alunos atendidos."
+              },
+              {
+                "question": "Qual a meta quantificada de alfabetização e o indicador de aferição por ano?",
+                "why": "O documento define a diretriz sem indicador, linha de base ou prazo."
+              }
+            ],
+            "publicExplanation": "O plano afirma que 'escola boa é escola onde o aluno aprende' e vincula o incentivo à cobrança de resultados.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (seções de educação, escolas cívico-militares e jornada ampliada) e em sistematização de imprensa. Custos e metas quantificadas não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "clima",
+          "name": "Clima",
+          "kind": "proposta",
+          "position": "Plano (TSE): meio ambiente como 'ativo verde', mercado regulado de carbono, pagamento por serviços ambientais e saneamento",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-plano-pdf",
+            "src-flavio-81",
+            "src-fb-08"
+          ],
+          "reality": {
+            "proposal": "Consolidar o mercado regulado de carbono, remunerar quem preserva e levar adiante a universalização do saneamento.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a execução envolve agências, concessionárias e entes subnacionais.",
+              "note": "A consolidação do mercado de carbono depende da regulamentação do sistema de comércio de emissões e de atos do órgão regulador; o pagamento por serviços ambientais depende de orçamento e contratos; a universalização do saneamento segue o marco legal de 2020, com metas de 2033 e execução por concessionárias, estados e municípios. Depende de: Congresso, estados, municípios, agentes privados.",
+              "sources": [
+                "src-plano-pdf",
+                "src-flavio-81"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2020-2022 — o plano cita o Marco Legal do Saneamento, aprovado no governo anterior do mesmo campo político, como agenda ambiental a concluir."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "Saneamento e fiscalização ambiental envolvem agências reguladoras, concessionárias, estados e municípios. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Mercado de carbono e saneamento dependem de regulamentação e de contratos com agentes privados",
+                "detail": "O plano condiciona a posição do Brasil como fornecedor de ativos ambientais à consolidação do mercado regulado de carbono com segurança jurídica, que depende da regulamentação federal; a universalização do saneamento segue o marco legal de 2020, com metas para 2033 e execução por concessionárias e entes subnacionais. Não há metas de desmatamento no documento.",
+                "sources": [
+                  "src-plano-pdf",
+                  "src-flavio-81"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de redução de desmatamento e o indicador de acompanhamento?",
+                "why": "O plano trata o tema por ativos ambientais e saneamento, sem meta de desmatamento declarada."
+              },
+              {
+                "question": "Qual o custo previsto para pagamento por serviços ambientais e a fonte de recursos?",
+                "why": "O documento menciona remuneração de quem preserva sem valores ou fonte definidos."
+              }
+            ],
+            "publicExplanation": "O plano afirma tratar o meio ambiente 'como um ativo estratégico, não como um obstáculo ao desenvolvimento', com remuneração de quem conserva e preservação junto com produção.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (seções de meio ambiente, saneamento, mercado de carbono e serviços ambientais) e em cobertura de imprensa sobre o plano. Metas de desmatamento e de emissões não foram localizadas no documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "trabalho",
+          "name": "Trabalho",
+          "kind": "proposta",
+          "position": "Plano (TSE): reduzir o custo do trabalho, contrato de primeiro emprego de custo reduzido, capacitação no Sistema S e crédito pela CAIXA",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-plano-pdf",
+            "src-flavio-81",
+            "src-flavio-80"
+          ],
+          "reality": {
+            "proposal": "Reduzir o custo de contratação, criar contrato de primeiro emprego de custo reduzido e ampliar capacitação e crédito ao empreendedor.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; linhas de crédito dependem de banco público e de orçamento.",
+              "note": "Mudanças em regras de contratação e no custo do trabalho dependem de lei e de negociação no Congresso; a capacitação pelo Sistema S e o crédito pela CAIXA dependem de decisão do banco e de dotação. Não há PEC prevista no plano para a área. Depende de: Congresso, agentes privados (empregadores).",
+              "sources": [
+                "src-plano-pdf",
+                "src-flavio-80"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2017 — a reforma trabalhista do governo anterior do mesmo campo político é citada na plataforma econômica como referência a retomar.",
+                "2026 — o plano prevê contrato de custo reduzido para o primeiro emprego, capacitação pelo Sistema S e crédito da CAIXA a novos empreendedores."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "Mudanças na legislação trabalhista são lei ordinária e as linhas de crédito dependem da CAIXA; o desenho da negociação no Congresso não está detalhado no plano. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Redução do custo do trabalho convive com a manutenção dos benefícios sociais condicionados a trajetória de qualificação",
+                "detail": "O plano prevê contrato de custo reduzido para o primeiro emprego e redução de tributos sobre a produção, ao mesmo tempo em que mantém os programas de transferência e os condiciona a uma trajetória de qualificação e trabalho. O documento não informa quanto a redução de custo representa por vínculo nem a fonte do crédito novo.",
+                "sources": [
+                  "src-plano-pdf",
+                  "src-flavio-81"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho do contrato de primeiro emprego e o custo por vínculo para o empregador?",
+                "why": "O plano anuncia o contrato de custo reduzido sem parâmetros de remuneração, jornada ou contribuição."
+              },
+              {
+                "question": "Qual o valor e a fonte dos recursos da linha de crédito ao empreendedor pela CAIXA?",
+                "why": "O documento cita a linha de crédito sem valor, público-alvo ou dotação."
+              }
+            ],
+            "publicExplanation": "O plano situa a proteção social como o começo de uma trajetória que leva à qualificação, ao trabalho, ao crédito e ao patrimônio.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (seções de trabalho, negócio próprio e proteção social) e na cobertura de imprensa sobre manutenção de programas sociais e crédito pela CAIXA. Custos por vínculo não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tributacao",
+          "name": "Tributação",
+          "kind": "proposta",
+          "position": "Plano (TSE) e voto em 2023: 'reforma tributária corrigida' e menos imposto sobre consumo, energia, comida e crédito",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-plano-pdf",
+            "src-flavio-120",
+            "src-flavio-81"
+          ],
+          "reality": {
+            "proposal": "Rever pontos da reforma tributária e reduzir a carga sobre consumo, energia, alimentos e crédito.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "Alterar a estrutura definida pela EC 132/2023 exige nova emenda constitucional; ajustes de alíquotas e de regimes específicos dependem de leis complementares (257 na Câmara e 41 no Senado) e de atos do Comitê Gestor do IBS, com estados e municípios. O plano não indica o instrumento da revisão. Depende de: Congresso, estados e municípios.",
+              "sources": [
+                "src-plano-pdf",
+                "src-flavio-120"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2023 — votou 'sim' na PEC 45/2023 no Senado, em 08/11/2023, que instituiu IBS e CBS e a transição do sistema."
+              ],
+              "divergent": [
+                "2026 — o plano afirma que a reforma onerará o consumo e propõe corrigi-la, com redução de tributos sobre produção e folha, sem indicar dispositivos."
+              ]
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "Mudar a reforma promulgada exige nova PEC e ajustes de alíquotas dependem de lei complementar e do Comitê Gestor do IBS. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "mudanca-de-posicao",
+                "title": "Votou 'sim' na PEC 45/2023 e em 2026 propõe a 'reforma tributária corrigida'",
+                "detail": "O voto favorável no Senado em 08/11/2023 integrou a aprovação da emenda da reforma tributária (EC 132/2023); o plano registrado em 2026 afirma que o novo sistema onerará o consumo e propõe revisá-lo, sem indicar dispositivos nem instrumento. A revisão de pontos da estrutura exige nova emenda constitucional.",
+                "sources": [
+                  "src-flavio-120",
+                  "src-plano-pdf"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais dispositivos da EC 132/2023 o plano pretende alterar e por qual instrumento?",
+                "why": "O documento propõe corrigir a reforma sem listar dispositivos ou meio de alteração."
+              },
+              {
+                "question": "Qual o efeito estimado sobre a arrecadação da redução de tributos sobre consumo e crédito?",
+                "why": "O plano não quantifica a perda de receita nem a compensação."
+              }
+            ],
+            "publicExplanation": "O plano apresenta a redução de impostos como prioridade de preço ao consumidor, citando comida, conta de luz e crédito mais baratos.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (seções tributárias) e no registro de votação da PEC 45/2023 no Senado, já levantado na ficha do candidato. A redução de carga não é quantificada no documento.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "previdencia",
+          "name": "Previdência",
+          "kind": "proposta",
+          "position": "Plano (TSE), voto em 2019 e declaração de 2026: pacote antifraude e gestão do INSS, com rejeição a nova reforma",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-plano-pdf",
+            "src-flavio-100",
+            "src-flavio-101",
+            "src-flavio-116",
+            "src-fb-01"
+          ],
+          "reality": {
+            "proposal": "Reeditar pacote antifraude do INSS e manter as regras atuais de aposentadoria, excluindo a Previdência do ajuste fiscal.",
+            "requirement": {
+              "path": "ato-executivo",
+              "quorum": "Ato do Executivo e lei ordinária para revisão de benefícios; alterar idade mínima exigiria PEC.",
+              "note": "Revisão de benefícios por fraude e gestão do INSS dependem de atos administrativos e de lei; alterar idade mínima ou regras de cálculo exige emenda constitucional (308 deputados e 49 senadores em dois turnos), instrumento que o plano não menciona. Depende de: Congresso apenas se houver mudança constitucional.",
+              "sources": [
+                "src-plano-pdf",
+                "src-flavio-116"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2019 — votou 'sim' na reforma da Previdência do governo anterior do mesmo campo político (EC 103/2019), no primeiro ano de mandato no Senado.",
+                "2026 — o plano afirma que o ajuste fiscal poupará estados com dívidas da União, que têm a Previdência como principal despesa."
+              ],
+              "divergent": [
+                "2026 — declarou rejeitar nova reforma da Previdência e prometeu manter a valorização real do salário mínimo (jun/2026)."
+              ]
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "Alterar regras de aposentadoria exige PEC com 308 deputados e 49 senadores; a gestão do INSS é federal. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "mudanca-de-posicao",
+                "title": "Votou a reforma da Previdência de 2019 e em 2026 declara rejeitar nova reforma",
+                "detail": "O voto favorável no primeiro ano de mandato integrou a aprovação da EC 103/2019, que elevou idades mínimas e alterou regras de cálculo; em 2026 o plano trata a Previdência por gestão e antifraude e o candidato declarou rejeitar nova reforma, prometendo manter a valorização real do salário mínimo. O corte de gastos anunciado não detalha as despesas previdenciárias.",
+                "sources": [
+                  "src-flavio-100",
+                  "src-flavio-101",
+                  "src-flavio-116"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a economia estimada do pacote antifraude e a meta de processos revistos por ano?",
+                "why": "O plano descreve o pacote sem valores, metas ou cronograma."
+              },
+              {
+                "question": "Como o corte de 1,5% do PIB convive com o crescimento da despesa previdenciária?",
+                "why": "O documento prevê ajuste pelo gasto e afirma poupar a Previdência sem apresentar a trajetória das despesas."
+              }
+            ],
+            "publicExplanation": "O plano afirma que retirar a Previdência do ajuste protege quem já trabalhou a vida inteira e anuncia auditoria de benefícios; na entrevista ao Jornal Nacional (28/08/2026) o candidato repetiu a rejeição a nova reforma.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (seção sobre aposentados e gestão do INSS), no registro de votação de 2019 e nas declarações de 2026 já levantadas na ficha do candidato. Não há projeção atuarial no documento.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "habitacao",
+          "name": "Habitação",
+          "kind": "proposta",
+          "position": "Plano (TSE): retomar o Casa Verde e Amarela com 2,5 milhões de residências, título de propriedade e escrituras em nome das mulheres",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-plano-pdf",
+            "src-re-r1temas-11",
+            "src-re-r1temas-12"
+          ],
+          "reality": {
+            "proposal": "Retomar o programa habitacional com 2,5 milhões de residências em quatro anos e entregar títulos de propriedade.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; o financiamento depende de FGTS, orçamento e de construtoras.",
+              "note": "O financiamento de faixa de menor renda depende do FGTS, de programas federais e de taxas subsidiadas, com execução por estados, municípios e construtoras; a regularização fundiária depende de leis e de atos estaduais e municipais e de registros de imóveis. Depende de: estados, municípios, agentes privados.",
+              "sources": [
+                "src-plano-pdf",
+                "src-re-r1temas-11"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2020-2021 — criação do Casa Verde e Amarela no governo anterior (MP 996/2020, Lei 14.118/2021), que substituiu o Minha Casa Minha Vida.",
+                "2026 — o plano fixa a meta de 2,5 milhões de residências em quatro anos e vincula a entrega ao título de propriedade."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "O financiamento habitacional depende de FGTS, de programas federais e da CAIXA, com execução por estados, municípios e construtoras. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Meta de 2,5 milhões de residências depende de FGTS e de juros subsidiados, em ambiente de juros altos",
+                "detail": "O plano condiciona a meta de 2,5 milhões de residências em quatro anos à menor taxa de juros possível na faixa de menor renda, mas o custo do financiamento depende da política monetária e da disponibilidade do FGTS, além da execução por estados, municípios e construtoras. Não há custo por unidade no documento.",
+                "sources": [
+                  "src-plano-pdf",
+                  "src-re-r1temas-11"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo previsto por unidade e o orçamento total da meta de 2,5 milhões de residências?",
+                "why": "O plano informa a meta de unidades sem orçamento ou custo por unidade."
+              },
+              {
+                "question": "Qual programa orçamentário seria usado e quanto viria do FGTS e do Orçamento da União?",
+                "why": "O documento cita o uso do FGTS e de crédito sem detalhar a divisão de fontes."
+              }
+            ],
+            "publicExplanation": "O plano apresenta a casa própria entre os eixos de acolhimento, com títulos de propriedade e prioridade para mulheres nas escrituras.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (seção de habitação, com retomada do Casa Verde e Amarela, regularização fundiária e uso do FGTS) e em reportagens de 2026 sobre a meta de 2,5 milhões de residências.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "instituicoes",
+          "name": "Instituições",
+          "kind": "proposta",
+          "position": "Plano (TSE): reforma do Judiciário com limite a decisões monocráticas, fim da reeleição, revisão de atos e corte de ministérios",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-plano-pdf",
+            "src-estadao-plano",
+            "src-g1-plano",
+            "src-flavio-104"
+          ],
+          "reality": {
+            "proposal": "Aprovar reforma do Judiciário e do sistema político, revogar atos do governo atual e reduzir o número de ministérios.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "Fim da reeleição, mudanças no funcionamento do Supremo e revisão do sistema político são matérias de emenda constitucional; limites a decisões monocráticas foram objeto de projeto no Senado e envolvem o regimento da Corte; reorganizar a máquina federal e revogar atos depende de medida provisória, decreto e lei. Depende de: Congresso, Judiciário.",
+              "sources": [
+                "src-plano-pdf",
+                "src-g1-plano"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2019-2022 — o plano cita a revisão de atos e o corte de estruturas do governo anterior do mesmo campo político como diretriz a retomar."
+              ],
+              "divergent": [
+                "2025-2026 — tramitam no Congresso propostas de anistia aos atos de 08/01/2023, tema que o plano trata pela revisão de atos, sem detalhar instrumentos."
+              ]
+            },
+            "support": {
+              "partySeats": "98/513 deputados federais e 13/81 senadores (PL, 2ª maior bancada da Câmara)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (PL, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "Emenda constitucional exige 308 deputados e 49 senadores em dois turnos; a Câmara tem 513 e o Senado 81, e a chapa é de partido isolado. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fim da reeleição e mudanças no Supremo exigem emenda constitucional e envolvem outro Poder",
+                "detail": "Fim da reeleição, alteração do funcionamento do Supremo e revisão do sistema político dependem de emenda constitucional (308 deputados e 49 senadores em dois turnos por Casa); regras sobre decisões monocráticas envolvem o regimento interno da Corte e projetos em tramitação no Senado. O plano não informa o desenho final das mudanças.",
+                "sources": [
+                  "src-plano-pdf",
+                  "src-flavio-104"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho de mudança no Supremo e por qual instrumento ela seria feita?",
+                "why": "O documento anuncia limites ao Judiciário sem apresentar proposta de emenda ou de projeto."
+              },
+              {
+                "question": "Quantos ministérios seriam mantidos e qual a economia estimada da reorganização?",
+                "why": "O plano cita corte de ministérios sem lista final nem estimativa de economia."
+              }
+            ],
+            "publicExplanation": "O plano afirma que a reforma busca cortar a censura na raiz e que não haverá negociação sobre liberdade de expressão, com redução da máquina e limites ao ativismo judicial.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (eixos de instituições, reforma do Estado e do Judiciário) e em coberturas de 2026 sobre as propostas institucionais. O desenho das mudanças constitucionais não consta do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "caiado": {
+      "themePositions": [
+        {
+          "slug": "economia",
+          "name": "Economia",
+          "kind": "proposta",
+          "position": "Plano (TSE), Tema 4: estabilização fiscal com despesas obrigatórias abaixo do PIB nominal e revisão de subsídios",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-caiado-80",
+            "src-cg-20",
+            "src-cg-07"
+          ],
+          "reality": {
+            "proposal": "Estabilizar a dívida com ajuste pelo lado do gasto, sem cortes lineares nem aumento permanente de carga tributária.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar exige maioria absoluta: 257 deputados e 41 senadores.",
+              "note": "O plano prevê estratégia fiscal plurianual com metas anuais, medidas legislativas para desacelerar despesas obrigatórias e reordenação das emendas com o Congresso; a regra fiscal vigente é a LC 200/2023 e a publicação do diagnóstico de despesas é ato do Executivo. Depende de: Congresso, estados.",
+              "sources": [
+                "src-caiado-80",
+                "src-cg-07"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o TCE-GO aprovou o parecer prévio das contas do governo de Goiás de 2025 (16/06/2026), período em que o candidato governou o estado.",
+                "2026 — o plano fixa trajetória para a dívida com metas anuais, bandas de tolerância e prestação periódica de contas."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "A estratégia fiscal depende de medidas legislativas e de pactuação com o Congresso; o PSD tem a maior bancada da Câmara no retrato atual. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Ajuste pelo gasto depende de medidas legislativas e de reordenação das emendas pactuada com o Congresso",
+                "detail": "O plano propõe desacelerar despesas obrigatórias por medidas legislativas e de gestão, reordenar emendas com critérios pactuados e rever subsídios com prazo, custo e avaliação independente. As regras de emendas vigentes vieram da LC 210/2024 e de resolução do Congresso, no âmbito de acordo com o STF, e o plano não estima a economia de cada medida.",
+                "sources": [
+                  "src-caiado-80"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a economia projetada de cada medida de revisão de despesas obrigatórias, subsídios e emendas?",
+                "why": "O plano lista medidas com indicadores de acompanhamento, sem valores por item."
+              },
+              {
+                "question": "Qual o instrumento da nova trajetória fiscal: lei complementar, projeto específico ou metas na LDO?",
+                "why": "O documento não indica o veículo normativo da regra plurianual."
+              }
+            ],
+            "publicExplanation": "O plano afirma que o ajuste não se baseará em aumentos sucessivos de impostos nem em cortes lineares e apresenta a estabilização fiscal como ponto de partida para reduzir juros.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (26 temas; Tema 4, Estabilização Fiscal) e em fonte oficial de controle externo da gestão estadual (TCE-GO, contas de 2025). Valores por medida não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "seguranca",
+          "name": "Segurança",
+          "kind": "proposta",
+          "position": "Plano (TSE), Tema 6: Ministério da Segurança Pública, Lei do Terrorismo Doméstico e PEC da maioridade penal para 16 anos",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-caiado-80",
+            "src-caiado-130",
+            "src-caiado-147",
+            "src-caiado-148"
+          ],
+          "reality": {
+            "proposal": "Criar o Ministério da Segurança Pública, tipificar o terrorismo doméstico e reduzir a maioridade penal para 16 anos.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "A maioridade penal exige emenda constitucional; a criação do Ministério depende de medida provisória ou lei e de orçamento; a nova tipificação penal, as penas mínimas e a integração das Forças Armadas sem Garantia da Lei e da Ordem dependem de lei ordinária e de regulamentação. Depende de: Congresso, estados.",
+              "sources": [
+                "src-caiado-80"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2025-2026 — balanços oficiais de Goiás registram redução de crimes pelo sexto ano consecutivo (jan/2025) e nova queda de indicadores (mar/2026).",
+                "2026 — em entrevista ao g1 e à GloboNews (07/08/2026) defendeu polícia unificada da América do Sul e anistia aos condenados de janeiro de 2023."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "A execução prisional e ostensiva é estadual e a maioridade penal exige PEC com 308 deputados e 49 senadores; o plano prevê cooperação com estados e países vizinhos. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Maioridade penal exige PEC e o emprego das Forças Armadas sem GLO depende de lei e de regulamentação",
+                "detail": "O plano propõe PEC para reduzir a maioridade penal a 16 anos em crimes graves, nova lei de terrorismo doméstico com penas mínimas de 35 a 45 anos e regime disciplinar específico, além de integrar as Forças Armadas ao enfrentamento sem acionamento da GLO; o documento não indica cronograma nem custo do sistema prisional.",
+                "sources": [
+                  "src-caiado-80",
+                  "src-caiado-130"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo do Sistema Integrado de Proteção à Soberania Nacional e a fonte de recursos?",
+                "why": "O plano cria comandos e fundo financiado por bens recuperados, sem estimativa de custo anual."
+              },
+              {
+                "question": "Qual a meta de redução de crimes por estado e o indicador nacional adotado?",
+                "why": "O plano prevê indicadores de acompanhamento sem metas nacionais quantificadas."
+              }
+            ],
+            "publicExplanation": "O plano afirma que segurança é o primeiro dever do Estado e que a firmeza será exercida dentro da Constituição, com diferenciação entre lideranças de organizações criminosas e presos passíveis de reinserção.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (Tema 6) e nas fontes oficiais e de imprensa de 2025-2026 já levantadas na ficha do candidato (balanços criminais de Goiás, entrevista de 07/08/2026). Custos e metas nacionais não constam do documento.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "saude",
+          "name": "Saúde",
+          "kind": "proposta",
+          "position": "Plano (TSE), Tema 25 e plano setorial coordenado por Mandetta: fila transparente, atendimento no tempo certo e cuidado regionalizado",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-caiado-80",
+            "src-caiado-74",
+            "src-caiado-75",
+            "src-cg-24"
+          ],
+          "reality": {
+            "proposal": "Organizar o SUS com fila transparente, atendimento regionalizado no tempo certo e gestão por metas de entrega.",
+            "requirement": {
+              "path": "ato-executivo",
+              "quorum": "Ato do Executivo e orçamento; a gestão é tripartite (União, estados e municípios).",
+              "note": "A organização de filas, a regionalização e a digitalização do atendimento dependem de atos administrativos, de pactuação com estados e municípios e de financiamento tripartite; a proposta preserva os princípios do SUS e prevê mudança na capacidade de entrega. Depende de: estados, municípios, agentes privados prestadores.",
+              "sources": [
+                "src-caiado-80",
+                "src-caiado-75"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano de saúde foi apresentado em agosto de 2026 com coordenação de Luiz Henrique Mandetta, ex-ministro da Saúde."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "A execução da saúde é compartilhada entre União, estados e municípios, com financiamento tripartite. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fila transparente e cuidado regionalizado dependem de pactuação com estados e municípios e de financiamento tripartite",
+                "detail": "A proposta de organizar o SUS por fila transparente, tempo de espera e cuidado regionalizado depende de pactuação interfederativa e de recursos das três esferas; o plano não informa custo, meta de fila ou critério de prioridade, e as decisões de incorporação seguem regras próprias do SUS.",
+                "sources": [
+                  "src-caiado-80",
+                  "src-caiado-74"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de tempo de espera por especialidade e o indicador de acompanhamento nacional?",
+                "why": "O plano cita fila transparente e tempo certo sem definir indicador ou prazo."
+              },
+              {
+                "question": "Qual a fonte de recursos para a regionalização e o custo estimado?",
+                "why": "O documento não apresenta valores por programa nem vinculação orçamentária."
+              }
+            ],
+            "publicExplanation": "O plano declara que preservará os princípios do SUS mudando a capacidade de entrega, com cuidado preventivo e atenção regionalizada; o anúncio da coordenação por Mandetta foi apresentado como garantia de execução.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (Tema 25) e nas fontes de agosto de 2026 já levantadas na ficha do candidato (apresentação do plano de saúde e entrevista do coordenador). Custos e metas não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "educacao",
+          "name": "Educação",
+          "kind": "proposta",
+          "position": "Plano (TSE), Tema 11: Pacto Nacional pela Alfabetização e Matemática na Idade Certa, com metas e avaliação de aprendizagem",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-caiado-80",
+            "src-cg-20"
+          ],
+          "reality": {
+            "proposal": "Instituir pacto nacional de alfabetização e matemática na idade certa, com metas, avaliação e recomposição de aprendizagens.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a execução é de estados e municípios.",
+              "note": "O pacto nacional depende de adesão das redes estaduais e municipais e de apoio federal; metas de aprendizagem, avaliação e formação de professores envolvem regulamentação e orçamento; o plano cita indicador de percentual de crianças alfabetizadas ao fim do 2º ano. Depende de: estados, municípios.",
+              "sources": [
+                "src-caiado-80"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano apresenta a experiência de Goiás com metas, avaliação, alfabetização e recomposição como base do pacto nacional.",
+                "2026 — o documento fixa a alfabetização na idade certa entre as prioridades de gestão, com indicador de acompanhamento."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "A oferta da educação básica é de estados e municípios e a adesão ao pacto é voluntária; o plano prevê apoio técnico federal. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Pacto de alfabetização depende de adesão de redes estaduais e municipais e de financiamento",
+                "detail": "O plano propõe pacto nacional com metas de alfabetização e matemática, avaliação de aprendizagem e recomposição, mas a execução é das redes municipais e estaduais; o documento não informa a meta quantificada de alfabetização, o valor do apoio federal por rede nem o instrumento de adesão.",
+                "sources": [
+                  "src-caiado-80"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta quantificada de alfabetização e matemática e o prazo para alcançá-la?",
+                "why": "O plano adota o indicador de crianças alfabetizadas ao fim do 2º ano sem fixar meta numérica."
+              },
+              {
+                "question": "Qual o custo do pacto e a fonte de recursos para avaliação e formação de professores?",
+                "why": "O documento não apresenta valores nem vinculação orçamentária para o programa."
+              }
+            ],
+            "publicExplanation": "O plano situa a alfabetização como compromisso de gestão e associa a experiência estadual de metas e avaliação à proposta nacional.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (Tema 11 e seções de educação) e nas fontes de 2026 já levantadas na ficha do candidato. Custos e metas numéricas não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "clima",
+          "name": "Clima",
+          "kind": "proposta",
+          "position": "Plano (TSE), Tema 16: rigor contra desmatamento, grilagem e garimpo ilegal, metas por bioma e financiamento sem novo imposto",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-caiado-80",
+            "src-caiado-152",
+            "src-caiado-153"
+          ],
+          "reality": {
+            "proposal": "Combater desmatamento, grilagem e garimpo ilegal com monitoramento por satélite, drones e inteligência artificial e metas por bioma.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a fiscalização envolve órgãos federais, estados e agentes privados.",
+              "note": "O combate ao desmatamento depende de fiscalização federal e de cooperação com estados; o plano prevê política nacional de financiamento sem novo imposto geral, com receitas climáticas e contrapartidas, e indicadores de desmatamento por bioma. Depende de: Congresso, estados, agentes privados.",
+              "sources": [
+                "src-caiado-80"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2025-2026 — o plano define indicadores de desmatamento e incêndios por bioma, com distinção entre legal e ilegal, e monitoramento por satélites."
+              ],
+              "divergent": [
+                "2021 — o candidato sancionou lei estadual que alterou o licenciamento ambiental em Goiás (09/08/2021).",
+                "2025 — a Assembleia Legislativa de Goiás realizou audiência sobre dados de avanço do desmatamento e preservação do Cerrado."
+              ]
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "A fiscalização ambiental é federal e estadual, e a execução depende de cooperação federativa e de agentes privados. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Licenciamento ambiental estadual alterado em 2021, com audiência legislativa sobre avanço do desmatamento no Cerrado em 2025",
+                "detail": "Em 09/08/2021 foi sancionada em Goiás lei que alterou o licenciamento ambiental estadual, no período de governo do candidato; em 2025 a Assembleia Legislativa realizou audiência sobre dados de avanço do desmatamento no Cerrado. O plano federal registrado em 2026 prevê rigor contra desmatamento, grilagem e garimpo ilegal, com metas por bioma.",
+                "sources": [
+                  "src-caiado-152",
+                  "src-caiado-153"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de redução de desmatamento por bioma e em quanto tempo?",
+                "why": "O plano define indicadores por bioma sem metas numéricas declaradas."
+              },
+              {
+                "question": "Quais receitas compõem a política nacional de financiamento climático sem novo imposto geral?",
+                "why": "O documento cita receitas existentes, recursos climáticos e contrapartidas sem detalhar montantes."
+              }
+            ],
+            "publicExplanation": "O plano afirma que o Estado será rigoroso contra desmatamento, grilagem, garimpo ilegal e incêndios criminosos, com monitoramento tecnológico e sem criar imposto novo.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (Tema 16 e seções de Amazônia e meio ambiente) e nas fontes estaduais já levantadas na ficha do candidato (legislação ambiental de 2021 e audiência legislativa de 2025).",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "trabalho",
+          "name": "Trabalho",
+          "kind": "proposta",
+          "position": "Plano (TSE), Tema 20: proteção social conectada a qualificação, cuidado infantil e inclusão produtiva, com foco em emprego formal",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-caiado-80"
+          ],
+          "reality": {
+            "proposal": "Conectar benefícios sociais a qualificação, cuidado infantil e inclusão produtiva, com meta de emprego formal e produtividade.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a execução envolve municípios e serviços de cuidado.",
+              "note": "Condicionar benefícios a qualificação e inclusão produtiva depende de lei e de regulamentação dos programas; a oferta de cuidado infantil é municipal; o plano acompanha taxas de emprego, formalização e renda real como indicadores.",
+              "sources": [
+                "src-caiado-80"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano vincula proteção social a qualificação, trabalho, moradia e cuidado, com prioridade à infância, e adota indicadores de emprego."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "Programas de transferência e de qualificação dependem de lei e de execução por municípios e serviços locais. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Condicionar benefícios a qualificação e inclusão produtiva sem orçamento estimado para cuidado infantil e vagas de formação",
+                "detail": "O plano prevê integrar benefícios a qualificação, cuidado infantil e inclusão produtiva, mantendo a proteção aos mais vulneráveis e sem cortes lineares, e adota indicadores de emprego e formalização; o documento não estima quantas pessoas entram ou saem dos programas nem a capacidade de vagas de cuidado e formação necessária.",
+                "sources": [
+                  "src-caiado-80"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantas pessoas seriam alcançadas pela integração entre benefício e qualificação e com qual custo?",
+                "why": "O plano define a diretriz e indicadores sem dimensionar público ou orçamento."
+              },
+              {
+                "question": "Qual a meta de emprego formal e de formalização para o período?",
+                "why": "O documento acompanha taxas de emprego e formalização sem fixar meta."
+              }
+            ],
+            "publicExplanation": "O plano apresenta a proteção social como porta de entrada para qualificação, trabalho e moradia, com prioridade absoluta à infância.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (Temas 5 e 20 e seções de trabalho e proteção social). Custos e metas não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tributacao",
+          "name": "Tributação",
+          "kind": "proposta",
+          "position": "Plano (TSE), Tema 4: sem aumento permanente de carga, com revisão de subsídios e benefícios tributários e rastreabilidade",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-caiado-80",
+            "src-caiado-131"
+          ],
+          "reality": {
+            "proposal": "Não elevar a carga tributária de forma permanente e revisar subsídios, subvenções e benefícios tributários com avaliação.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar exige maioria absoluta: 257 deputados e 41 senadores.",
+              "note": "A revisão de benefícios tributários depende de lei e de avaliação de custo-benefício; mudanças estruturais na tributação do consumo seguem a EC 132/2023 regulamentada por leis complementares e pelo Comitê Gestor do IBS, com estados e municípios. Depende de: Congresso, estados e municípios.",
+              "sources": [
+                "src-caiado-80"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano define indicadores de valor, prazo e resultado de gastos tributários e subsídios e afasta aumentos permanentes de carga."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "Revisão de benefícios tributários e a reordenação de emendas dependem de lei e de acordo no Congresso; a regulamentação da reforma envolve estados e municípios. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Revisão de benefícios tributários e reordenação de emendas dependem de lei e de pactuação com o Congresso",
+                "detail": "O plano exige prazo, objetivo, beneficiário, estimativa de custo, contrapartida e avaliação independente para subsídios e benefícios tributários, que serão reduzidos ou encerrados quando sem resultado, e propõe reordenar emendas com critérios pactuados. As regras vigentes de emendas vieram da LC 210/2024 e de resolução do Congresso.",
+                "sources": [
+                  "src-caiado-80",
+                  "src-caiado-131"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a economia projetada com a revisão de subsídios e benefícios tributários e em qual prazo?",
+                "why": "O documento fixa critérios de avaliação sem estimar valores ou cronograma."
+              },
+              {
+                "question": "Como o plano posiciona a regulamentação da reforma tributária em relação a setores com regimes específicos?",
+                "why": "O plano cita coerência com a reforma sem detalhar regimes ou alíquotas."
+              }
+            ],
+            "publicExplanation": "O plano afirma que a carga tributária já é elevada e que a resposta não pode ser a criação contínua de receitas para acompanhar despesas que crescem automaticamente.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (Tema 4 e seções fiscais) e em fontes de 2026 já levantadas na ficha do candidato (sabatina e entrevistas). Valores não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "previdencia",
+          "name": "Previdência",
+          "kind": "proposta",
+          "position": "Entrevista à TV Globo e sabatina do Jornal Nacional (25/08/2026): afirma que fará reforma da Previdência, sem responder sobre a idade mínima",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-re-r1temas-07",
+            "src-re-r1temas-08",
+            "src-caiado-80"
+          ],
+          "reality": {
+            "proposal": "Fazer uma reforma da Previdência, sem detalhar parâmetros, e conter as despesas obrigatórias no plano fiscal.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "O candidato declarou que fará reforma da Previdência e não respondeu se muda a idade mínima de aposentadoria; alterar idade ou regras de cálculo exige emenda constitucional (308 deputados e 49 senadores em dois turnos), e o Tema 4 do plano trata de despesas obrigatórias por medidas legislativas e de gestão. Depende de: Congresso, estados, municípios.",
+              "sources": [
+                "src-re-r1temas-07",
+                "src-re-r1temas-08"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano inclui desacelerar as despesas obrigatórias e revisar subsídios entre as medidas de estabilização (Tema 4), sem citar aposentadoria.",
+                "2026 — apresentou o ajuste como limite das despesas à inflação, com revisão de supersalários e emendas, sem mexer nos pisos e no salário mínimo."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "Mudar regras de aposentadoria exige PEC com 308 deputados e 49 senadores em dois turnos; o plano federal não detalha parâmetros. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reforma da Previdência anunciada sem parâmetros, e a alteração de regras exige PEC",
+                "detail": "Em entrevista à TV Globo (25/08/2026) o candidato afirmou que fará reforma da Previdência e não respondeu se mudará a idade mínima; na sabatina do Jornal Nacional citou limitar despesas à correção da inflação e revisar supersalários, subvenções e emendas impositivas, sem apresentar desenho técnico. Alterar idade mínima ou cálculo exige emenda constitucional.",
+                "sources": [
+                  "src-re-r1temas-07",
+                  "src-re-r1temas-08"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais parâmetros a reforma da Previdência adotaria: idade mínima, regras de transição e regimes próprios?",
+                "why": "As duas entrevistas registram o anúncio da reforma sem parâmetros declarados."
+              },
+              {
+                "question": "Qual o efeito fiscal projetado da reforma e em que horizonte?",
+                "why": "O plano não traz projeção atuarial nem estimativa de economia."
+              }
+            ],
+            "publicExplanation": "O candidato afirmou nas entrevistas que fará a reforma e que o ajuste virá de despesas obrigatórias, supersalários e emendas impositivas, com preservação dos pisos constitucionais de saúde e educação.",
+            "methodology": "Apurado nas duas entrevistas de 25/08/2026 (TV Globo e sabatina do Jornal Nacional) e no plano registrado no TSE (Tema 4), que não trata de regras de aposentadoria. Uma compilação de imprensa atribuiu ao candidato texto de Previdência idêntico ao plano de Romeu Zema; o trecho não foi localizado no plano de Caiado lido na íntegra e não foi usado como posição.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "habitacao",
+          "name": "Habitação",
+          "kind": "proposta",
+          "position": "Plano (TSE), Tema 15, e histórico em Goiás: carteira nacional de projetos com habitação e famílias retiradas de risco, além de aluguel social estadual",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-caiado-80",
+            "src-re-r1temas-09",
+            "src-re-r1temas-10"
+          ],
+          "reality": {
+            "proposal": "Incluir habitação em carteira nacional de projetos de infraestrutura, com redução do déficit e retirada de famílias de áreas de risco.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a execução envolve estados, municípios e construtoras.",
+              "note": "O plano trata habitação dentro da carteira nacional de infraestrutura, com indicador de déficit e inadequação habitacional e de famílias retiradas de risco; a produção depende de programas federais, do FGTS e da execução por estados, municípios e construtoras, além de regularização fundiária. Depende de: estados, municípios, agentes privados.",
+              "sources": [
+                "src-caiado-80",
+                "src-re-r1temas-09"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2021 — o aluguel social do programa estadual Pra Ter Onde Morar foi criado pela Lei 21.186, sancionada em 01/12/2021 em Goiás.",
+                "2026 — a página oficial do programa estadual informa subsídio de até R$ 47,4 mil para entrada ou financiamento, somado ao Minha Casa Minha Vida."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "Programas habitacionais dependem de orçamento federal, do FGTS e da execução por estados, municípios e construtoras. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Habitação aparece no plano federal como indicador de uma carteira de infraestrutura, sem meta de unidades ou orçamento",
+                "detail": "O plano registrado adota déficit e inadequação habitacional e famílias retiradas de risco como indicadores da carteira nacional de projetos, e a experiência estadual cita subsídio e aluguel social; o documento federal não informa meta de unidades, custo por unidade nem vinculação orçamentária do eixo habitacional.",
+                "sources": [
+                  "src-caiado-80",
+                  "src-re-r1temas-09"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de unidades habitacionais e de famílias retiradas de risco no plano federal?",
+                "why": "O plano adota indicadores habitacionais sem meta numérica declarada."
+              },
+              {
+                "question": "Qual o orçamento previsto e quanto viria do FGTS e de subsídios federais?",
+                "why": "O documento não detalha fontes nem valores do eixo habitacional."
+              }
+            ],
+            "publicExplanation": "O plano associa a carteira de infraestrutura à redução de desigualdades territoriais e cita habitação entre os componentes; em Goiás, o programa estadual combina aluguel social e subsídio com o Minha Casa Minha Vida.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (Temas 15 e 18) e em fontes oficiais estaduais já levantadas na ficha do candidato (Lei 21.186/2021 e página do programa Pra Ter Onde Morar).",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "instituicoes",
+          "name": "Instituições",
+          "kind": "proposta",
+          "position": "Plano (TSE), Temas 2 e 3: fim da reeleição por PEC, sistema distrital misto, transparência integral das emendas e pacto de governabilidade",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-caiado-80",
+            "src-caiado-130",
+            "src-caiado-131"
+          ],
+          "reality": {
+            "proposal": "Propor o fim da reeleição por PEC, liderar a adoção do sistema distrital misto e tornar emendas e financiamento rastreáveis.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "Fim da reeleição e mudança do sistema eleitoral exigem emenda constitucional, com 308 deputados e 49 senadores em dois turnos por Casa; o plano prevê aplicação da regra ao mandato iniciado em 2027; transparência de emendas e financiamento depende de lei, resolução e painel do Executivo, no quadro da LC 210/2024. Depende de: Congresso, Justiça Eleitoral.",
+              "sources": [
+                "src-caiado-80"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano propõe PEC para extinguir a reeleição, com aplicação ao mandato iniciado em 2027, e liderar a adoção do sistema distrital misto."
+              ],
+              "divergent": [
+                "2026 — em entrevista ao g1 e à GloboNews (07/08/2026) defendeu anistia aos condenados pelos atos de janeiro de 2023, tema em tramitação no Congresso."
+              ]
+            },
+            "support": {
+              "partySeats": "49/513 deputados federais e 13/81 senadores (PSD, após a janela partidária de 2026)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (Caiado/Kassab, PSD, chapa própria no registro do TSE)",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 2,
+              "note": "Emendas constitucionais exigem 308 deputados e 49 senadores em dois turnos; a mudança eleitoral depende do Congresso e da Justiça Eleitoral e a chapa é de partido isolado. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fim da reeleição e sistema distrital misto dependem de PEC e alterariam o próprio pleito iniciado em 2027",
+                "detail": "O plano propõe PEC para extinguir a reeleição consecutiva no Executivo com aplicação ao mandato iniciado em 2027 e mudança para o sistema distrital misto com calendário de transição, proteção à representação regional e diálogo com a Justiça Eleitoral; as duas mudanças exigem 308 deputados e 49 senadores em dois turnos por Casa.",
+                "sources": [
+                  "src-caiado-80",
+                  "src-caiado-131"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho do sistema distrital misto, o número de distritos e o calendário de implantação?",
+                "why": "O plano descreve o modelo distrital misto sem definir número de distritos, regras de lista ou data de vigência."
+              },
+              {
+                "question": "Qual o tratamento dado às propostas de anistia aos atos de janeiro de 2023 no plano registrado?",
+                "why": "A defesa da anistia consta de entrevista; o plano trata do tema por pacificação e revisão de atos sem instrumento declarado."
+              }
+            ],
+            "publicExplanation": "O plano afirma que o Executivo voltará a exercer liderança com respeito às competências constitucionais e propõe um pacto nacional de governabilidade com Congresso, governadores e instituições de Estado.",
+            "methodology": "Apurado na leitura integral do plano registrado no TSE (Temas 2, 3 e 6) e nas entrevistas de 2026 já levantadas na ficha do candidato (07/08/2026 e sabatina de 26/08/2026). O desenho do sistema distrital misto não consta do documento.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        }
+      ]
+    },
+    "zema": {
+      "themePositions": [
+        {
+          "slug": "economia",
+          "name": "Economia",
+          "kind": "proposta",
+          "position": "Plano ('Plano Implacável') e gestão de MG: choque fiscal nos gastos, desengessamento do orçamento e privatizações",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-zema-11",
+            "src-zema-140",
+            "src-zema-158"
+          ],
+          "reality": {
+            "proposal": "Fazer choque fiscal com corte de gastos, desengessar o orçamento e privatizar empresas estatais.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar exige maioria absoluta: 257 deputados e 41 senadores.",
+              "note": "A revisão do crescimento automático das despesas obrigatórias e das emendas depende de leis complementares e de projetos específicos; cada privatização exige lei autorizativa e decisão do Executivo; o plano cita dívida próxima de 80% do PIB e carga de cerca de 32,4% do PIB. Depende de: Congresso, estados.",
+              "sources": [
+                "src-zema-12",
+                "src-zema-11"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2019 — reforma administrativa estadual sancionada com veto parcial em MG (Lei 23.304/2019).",
+                "2026 — privatização da Copasa avançou com oferta de ações (mai/2026) e o plano estadual prevê a Cemig no governo seguinte (jun/2026)."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "O plano projeta para o país o ajuste feito em MG; privatizações e regras de despesa dependem de lei e o NOVO tem a menor bancada entre os quatro candidatos analisados. Diálogos documentados no estado: CNI (jun/2026), Marcha dos Prefeitos (mai/2026) e agronegócio (mai/2026). Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Ajuste fiscal no estado passou pela Assembleia, com vetos mantidos, sanções parciais e derrubada de veto em debate",
+                "detail": "Em MG, a reforma administrativa foi sancionada com veto parcial (Lei 23.304/2019); o veto à recomposição salarial de servidores foi mantido (Veto 23/20) e a revisão salarial dos militares foi sancionada parcialmente (Lei 23.597/2020), com derrubada de veto em discussão na Assembleia; o orçamento de 2026 foi sancionado com veto parcial (15/01/2026).",
+                "sources": [
+                  "src-zema-71",
+                  "src-zema-100",
+                  "src-zema-101",
+                  "src-zema-07"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Choque fiscal e metas de redução de impostos caminham juntos e o plano não quantifica a perda de receita",
+                "detail": "O plano propõe choque fiscal nos gastos e metas progressivas de redução da carga tributária, com redução do imposto de renda das empresas e corte de impostos sobre empréstimos; o documento não apresenta estimativa de perda de receita nem a compensação por exercício.",
+                "sources": [
+                  "src-zema-12"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o corte por área no choque fiscal e qual a trajetória da dívida projetada até 2030?",
+                "why": "O plano cita os eixos do ajuste sem valores por área ou meta anual de dívida."
+              },
+              {
+                "question": "Quais estatais compõem o programa de privatização e qual a receita estimada?",
+                "why": "O plano cita privatizações e desestatizações sem lista ou valores."
+              }
+            ],
+            "publicExplanation": "O plano afirma que o ajuste exige atacar a raiz do problema, cortando gastos e reduzindo o peso do Estado onde não é essencial, com três eixos de ação em finanças públicas.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (Plano Implacável, seção de finanças públicas) e nas fontes de 2019 a 2026 já levantadas na ficha do candidato (reforma administrativa, vetos, Copasa, Cemig). Valores do ajuste não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "seguranca",
+          "name": "Segurança",
+          "kind": "proposta",
+          "position": "Plano: reduzir a maioridade penal para 16 anos, facilitar o porte de arma no campo e integrar forças contra o crime organizado",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-zema-09",
+            "src-zema-14",
+            "src-zema-161"
+          ],
+          "reality": {
+            "proposal": "Reduzir a maioridade penal, ampliar o acesso a armas no meio rural e integrar forças federais e estaduais.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "A redução da maioridade penal exige emenda constitucional; a ampliação do porte de arma depende de lei e de regulamentação; a integração de forças e a atuação contra organizações envolvem cooperação federativa, orçamento e, na faixa de fronteira, atos federais. Depende de: Congresso, estados.",
+              "sources": [
+                "src-zema-12",
+                "src-zema-09"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano lista a redução da maioridade penal para 16 anos ou menos e a responsabilização criminal correspondente entre as medidas de segurança."
+              ],
+              "divergent": [
+                "2026 — em março de 2026, o governo de MG negou recomposição salarial diferenciada para a segurança pública (registro da Assembleia Legislativa de MG)."
+              ]
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "A execução policial é estadual e a maioridade penal exige PEC com 308 deputados e 49 senadores; o NOVO tem 5 deputados federais. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Governo estadual negou recomposição diferenciada à segurança pública em março de 2026",
+                "detail": "Em março de 2026 o governo de Minas negou recomposição salarial diferenciada para a segurança pública, conforme registro da Assembleia Legislativa; o plano federal registrado no mesmo ano propõe endurecimento penal, porte de arma no campo e integração de forças. O documento não informa custo de pessoal nem estrutura federal nova.",
+                "sources": [
+                  "src-zema-161",
+                  "src-zema-12"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo e a estrutura federal previstos para a integração de forças?",
+                "why": "O plano menciona integração sem órgão, orçamento ou efetivo definidos."
+              },
+              {
+                "question": "Qual o alcance da mudança no porte de arma para o meio rural e por qual instrumento?",
+                "why": "A medida é citada em cobertura do plano sem minuta ou critério de elegibilidade."
+              }
+            ],
+            "publicExplanation": "O plano associa segurança à retomada de territórios e ao combate ao crime organizado, com a redução da maioridade penal entre as medidas destacadas e defesa do porte de arma para quem vive no campo.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (seção de segurança e diagnóstico do sistema judiciário) e nas fontes de 2026 já levantadas na ficha do candidato (cobertura do plano e registro da ALMG sobre recomposição).",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "saude",
+          "name": "Saúde",
+          "kind": "proposta",
+          "position": "Plano e entrevistas: participação do setor privado, digitalização do SUS, atenção primária e prevenção com metas sanitárias",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-re-r1temas-13",
+            "src-zema-42"
+          ],
+          "reality": {
+            "proposal": "Ampliar a participação do setor privado e digitalizar o SUS, com foco em atenção primária e prevenção.",
+            "requirement": {
+              "path": "ato-executivo",
+              "quorum": "Ato do Executivo, contratos e orçamento; a gestão é tripartite e envolve prestadores privados.",
+              "note": "A participação privada e a digitalização do atendimento dependem de regulação, contratos e credenciamento; a atenção primária e a prevenção são executadas por estados e municípios, com financiamento tripartite; o plano cita metas sanitárias sem detalhar valores. Depende de: estados, municípios, agentes privados.",
+              "sources": [
+                "src-re-r1temas-13",
+                "src-zema-12"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — sistematização de propostas de saúde registra para o candidato participação do setor privado, digitalização, atenção primária e prevenção."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "A saúde é executada por estados e municípios com financiamento tripartite, e a participação privada depende de contratos e regulação. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Ampliação da participação privada depende de regulação, contratos e pactuação com estados e municípios",
+                "detail": "A proposta de ampliar a participação do setor privado e digitalizar o SUS depende de contratos, regulação da saúde suplementar e pactuação interfederativa; o plano não informa custo, meta de fila ou indicador de cobertura, e a gestão segue tripartite.",
+                "sources": [
+                  "src-re-r1temas-13",
+                  "src-zema-12"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo e o desenho da participação privada no SUS, e como se dará a regulação?",
+                "why": "As fontes consultadas registram a diretriz sem modelo contratual ou valores."
+              },
+              {
+                "question": "Quais metas sanitárias e de fila são assumidas por período?",
+                "why": "O plano cita metas sanitárias sem indicadores ou prazos declarados."
+              }
+            ],
+            "publicExplanation": "O plano apresenta a saúde como área em que a gestão pode melhorar resultados com digitalização e prevenção; a sistematização de imprensa registra a mesma direção declarada pelo candidato.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (seções de saúde) e em sistematização de imprensa das propostas de saúde dos presidenciáveis, já levantada na ficha do candidato. Não localizamos, nas fontes desta rodada, valores ou metas quantificadas por programa.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "educacao",
+          "name": "Educação",
+          "kind": "proposta",
+          "position": "Plano e entrevistas: educação infantil e ensino integral, Pé-de-Meia vinculado ao aprendizado e graduação e pós-graduação transferidas para C&T",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-re-r1temas-14",
+            "src-zema-42"
+          ],
+          "reality": {
+            "proposal": "Ampliar educação infantil e ensino integral, condicionar o Pé-de-Meia ao aprendizado e dar foco em ciência e tecnologia.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a execução da educação básica é de estados e municípios.",
+              "note": "A oferta de educação infantil e de ensino integral depende de redes municipais e estaduais; vincular o Pé-de-Meia ao aprendizado altera programa criado por lei e depende de lei e de atos do Executivo; a transferência da graduação e da pós-graduação entre ministérios se dá por medida provisória ou lei de organização administrativa. Depende de: Congresso, estados, municípios.",
+              "sources": [
+                "src-re-r1temas-14",
+                "src-zema-12"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano adota educação infantil, ensino integral e vinculação do Pé-de-Meia ao aprendizado entre as prioridades de educação."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "Educação básica é executada por estados e municípios e o programa federal de incentivo depende de lei; o NOVO tem 5 deputados federais. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Vincular o Pé-de-Meia ao aprendizado muda critérios de programa criado por lei e o plano não indica os novos parâmetros",
+                "detail": "O plano propõe vincular o programa de incentivo à permanência escolar ao desempenho, sem indicar critério, limite de renda ou forma de verificação; o programa foi criado por lei e alterações de elegibilidade dependem de lei e de regulamentação. A proposta convive com a defesa de orçamento por resultados na educação.",
+                "sources": [
+                  "src-re-r1temas-14",
+                  "src-zema-12"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o critério de aprendizado adotado para o Pé-de-Meia e qual a avaliação usada?",
+                "why": "A sistematização registra a vinculação sem parâmetro de desempenho definido."
+              },
+              {
+                "question": "Qual o custo da expansão de educação infantil e de ensino integral e a fonte de recursos?",
+                "why": "O plano cita as diretrizes sem valores ou vinculação orçamentária."
+              }
+            ],
+            "publicExplanation": "O plano associa educação a resultados de aprendizagem e propõe transferir a graduação e a pós-graduação para a área de ciência e tecnologia como foco em conhecimento aplicado.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (seções de educação e de ciência, tecnologia e inovação) e na sistematização dos 20 tópicos já levantada na ficha do candidato. Custos e critérios não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "clima",
+          "name": "Clima",
+          "kind": "proposta",
+          "position": "Plano: combater grilagem e desmatamento ilegal integrando forças e converter o potencial ambiental em riqueza, sem novos tributos",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-zema-42",
+            "src-zema-11"
+          ],
+          "reality": {
+            "proposal": "Combater grilagem e desmatamento ilegal com integração de forças e converter o potencial ambiental em atividade econômica.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a fiscalização envolve órgãos federais, estados e agentes privados.",
+              "note": "A fiscalização é federal e estadual, com cooperação e agentes privados envolvidos; a conversão do potencial ambiental em renda depende de regulamentação de serviços ambientais, licenciamento e infraestrutura; o plano afirma realizar o ajuste sem criar novos tributos ou custos. Depende de: Congresso, estados, agentes privados.",
+              "sources": [
+                "src-zema-12",
+                "src-zema-42"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano adota a agenda ambiental como oportunidade econômica, com combate à grilagem, ao desmatamento ilegal e cidades preparadas para o clima."
+              ],
+              "divergent": [
+                "2026 — o plano registra agenda de preservação fraca e alta de 44% na degradação da Amazônia, com metade do desmatamento ligada a irregularidades."
+              ]
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "Ambiente e fiscalização envolvem órgãos federais, estados, proprietários e cadeias produtivas; o ajuste proposto é declarado sem novos tributos. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Combate à grilagem e ao desmatamento depende de fiscalização federal e cooperação com estados, sem meta declarada no plano",
+                "detail": "O plano propõe integrar forças para enfrentar grilagem e desmatamento ilegal e converter potencial ambiental em riqueza sem novos tributos, citando preparação das cidades para o clima; o documento não informa meta de redução de desmatamento, indicador por bioma nem fonte de recursos para fiscalização.",
+                "sources": [
+                  "src-zema-12",
+                  "src-zema-42"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de redução do desmatamento ilegal e em qual prazo?",
+                "why": "O plano trata o tema por diagnóstico e integração de forças, sem meta numérica."
+              },
+              {
+                "question": "Qual a fonte de recursos para fiscalização e adaptação climática sem novos tributos?",
+                "why": "O documento afirma não criar tributos nem custos, sem indicar a origem dos recursos."
+              }
+            ],
+            "publicExplanation": "O plano apresenta o potencial ambiental como riqueza a ser convertida em desenvolvimento, com combate à grilagem e ao desmatamento ilegal e cidades preparadas para o clima.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (seções de meio ambiente e desenvolvimento sustentável) e nas fontes de 2026 já levantadas na ficha do candidato (coberturas do plano). Metas de desmatamento não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "trabalho",
+          "name": "Trabalho",
+          "kind": "proposta",
+          "position": "Plano (p. 23): regime alternativo à CLT, com jornada diária acima de 8 horas no limite semanal de 44 horas e negociado sobre o legislado",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-zema-42",
+            "src-zema-11"
+          ],
+          "reality": {
+            "proposal": "Criar regime alternativo à CLT, com prevalência do negociado sobre o legislado e redução do custo de contratação.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a negociação coletiva já é prevista na Constituição para compensação de jornada.",
+              "note": "O regime alternativo exige lei ordinária; a Constituição já admite compensação de horários e redução de jornada mediante acordo ou convenção coletiva (art. 7º, XIII); o plano cita 38,5 milhões de trabalhadores fora da CLT (37,5% da população ocupada) e 1,7 milhão em plataformas em 2024. Depende de: Congresso, agentes privados.",
+              "sources": [
+                "src-zema-12",
+                "src-zema-42"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano propõe ajuste de remuneração variável, periodicidade de pagamento, jornada diária acima de 8 horas e divisão de férias."
+              ],
+              "divergent": [
+                "2026 — o próprio plano registra que 83% dos brasileiros citam a flexibilidade de horário como prioridade ao escolher emprego."
+              ]
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "A negociação coletiva e a compensação de jornada já existem no ordenamento, mas o regime alternativo depende de lei e de aceitação das partes. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Flexibilizar jornada e remuneração no regime alternativo sem estimar quantos trabalhadores migrariam da CLT",
+                "detail": "O plano propõe regime paralelo à CLT com jornada diária acima de 8 horas respeitado o limite de 44 horas semanais, pagamento diário, semanal ou quinzenal e remuneração variável por desempenho, além de redução do custo de contratação para retirar trabalhadores da informalidade; o documento não estima adesão nem efeito sobre a formalização.",
+                "sources": [
+                  "src-zema-12"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantos trabalhadores adeririam ao regime alternativo e qual o efeito estimado sobre a formalização?",
+                "why": "O plano não projeta adesão nem impacto sobre o emprego formal."
+              },
+              {
+                "question": "Como ficam saúde, segurança e serviços contínuos no regime proposto?",
+                "why": "O documento não trata de setores com jornada especial ou de risco."
+              }
+            ],
+            "publicExplanation": "O plano afirma que as regras trabalhistas continuam no século passado e que é preciso modernizar, reduzir o custo de contratar e combinar liberdade econômica com proteção social.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (seção de trabalho e emprego, p. 23) e nas fontes de 2026 já levantadas na ficha do candidato (cobertura do plano). Custos e projeções não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tributacao",
+          "name": "Tributação",
+          "kind": "proposta",
+          "position": "Plano: metas progressivas de corte de impostos, redução do IR das empresas e implementação da reforma com neutralidade de carga",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-zema-11",
+            "src-re-r1temas-14"
+          ],
+          "reality": {
+            "proposal": "Fixar metas de redução da carga tributária, cortar o imposto de renda das empresas e implementar a reforma com neutralidade.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar exige maioria absoluta: 257 deputados e 41 senadores.",
+              "note": "Metas de redução de carga e corte do imposto de renda das empresas dependem de lei e de decisão sobre renúncia de receita; a regulamentação da reforma (EC 132/2023) se dá por lei complementar e pelo Comitê Gestor do IBS, com estados e municípios; o plano pede compromisso verificável de neutralidade de carga. Depende de: Congresso, estados e municípios.",
+              "sources": [
+                "src-zema-12",
+                "src-zema-11"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano fixa metas progressivas de redução da carga tributária, redução do imposto de renda das empresas e corte de tributos sobre empréstimos."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "Mudanças de carga dependem de lei e de compensação, e a implantação da reforma envolve o Comitê Gestor com estados e municípios. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Reduzir impostos e fazer choque fiscal simultâneos sem indicar a compensação da perda de receita",
+                "detail": "O plano adota metas progressivas de redução da carga tributária, corte do imposto de renda das empresas e redução de tributos sobre empréstimos, ao mesmo tempo em que propõe choque fiscal nos gastos; o documento não apresenta estimativa de perda de arrecadação nem a trajetória de compensação.",
+                "sources": [
+                  "src-zema-12",
+                  "src-zema-11"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de redução de carga por ano e qual a perda de receita estimada?",
+                "why": "O plano fixa metas progressivas sem números anuais ou estimativa de renúncia."
+              },
+              {
+                "question": "Como o plano assegura a neutralidade de carga na implementação da reforma?",
+                "why": "O documento pede compromisso verificável de neutralidade sem definir o mecanismo de aferição."
+              }
+            ],
+            "publicExplanation": "O plano afirma que o país entrou em 2026 com a maior carga tributária da história, em torno de 32,4% do PIB, e propõe cortar impostos como caminho para destravar investimento.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (seções de finanças públicas e de cortar impostos) e nas fontes de 2026 já levantadas na ficha do candidato (coberturas do plano e dos tópicos econômicos).",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "previdencia",
+          "name": "Previdência",
+          "kind": "proposta",
+          "position": "Plano (p. 14): 'reforma da Previdência de forma definitiva', com estados, municípios, rural e militar e reajuste automático da idade mínima",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-zema-11",
+            "src-zema-78",
+            "src-zema-79"
+          ],
+          "reality": {
+            "proposal": "Fazer reforma da Previdência que alcance estados, municípios, trabalhadores rurais e militares, com reajuste automático da idade mínima.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "A reforma proposta envolve regimes próprios de estados e municípios, previdência rural e militar, e criação de mecanismo automático de idade mínima por expectativa de vida, matérias de emenda constitucional, com 308 deputados e 49 senadores em dois turnos por Casa, além de articulação com estados. Depende de: Congresso, estados, municípios.",
+              "sources": [
+                "src-zema-12",
+                "src-zema-78"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2020 — em MG, a Assembleia aprovou o projeto de reforma da Previdência estadual (PLC 46/2020), sancionado em 22/09/2020.",
+                "2026 — o plano federal prevê reforma com alcance em regimes próprios, previdência rural e militar e reajuste automático da idade mínima."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "Alterar regras de aposentadoria exige PEC e o alcance em estados, municípios e militares passa por regimes próprios e por articulação federativa. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Reajuste automático da idade mínima por expectativa de vida não tem precedente nas regras vigentes",
+                "detail": "As regras em vigor (EC 103/2019) estabeleceram idades mínimas com regras de transição e não preveem gatilho automático vinculado à expectativa de vida; o plano propõe mecanismo de reajuste automático da idade mínima com base na expectativa de vida e na sustentabilidade do sistema, sem detalhar a fórmula.",
+                "sources": [
+                  "src-zema-12"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reforma com estados, municípios, rural e militar exige PEC e negociação federativa",
+                "detail": "A proposta alcança regimes próprios de estados e municípios, a previdência rural e a militar, que hoje têm regras distintas, e exige emenda constitucional com 308 deputados e 49 senadores em dois turnos por Casa; o plano não informa regras de transição, idades finais nem efeito fiscal projetado.",
+                "sources": [
+                  "src-zema-12",
+                  "src-zema-78"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a fórmula do reajuste automático da idade mínima e a partir de quando valeria?",
+                "why": "O plano descreve o mecanismo sem fórmula, índice ou vigência."
+              },
+              {
+                "question": "Qual a economia projetada da reforma e em que horizonte?",
+                "why": "O documento não traz projeção atuarial nem estimativa de economia."
+              }
+            ],
+            "publicExplanation": "O plano afirma que o reajuste automático garante que as futuras gerações tenham segurança de serem protegidas na velhice e situa a reforma no eixo de choque fiscal nos gastos do governo.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (p. 14, finanças públicas) e nas fontes de 2020 já levantadas na ficha do candidato (tramitação e sanção da reforma previdenciária estadual). Projeções não constam do documento.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "habitacao",
+          "name": "Habitação",
+          "kind": "proposta",
+          "position": "Plano e entrevistas: 'Casas da Cidadania', adensamento em áreas centrais, remoção de moradias irregulares e críticas ao Minha Casa Minha Vida",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-re-r1temas-14",
+            "src-zema-15"
+          ],
+          "reality": {
+            "proposal": "Criar as Casas da Cidadania, adensar áreas centrais e remover moradias irregulares, com foco em moradia digna.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "Lei ordinária exige maioria dos votos presentes; a execução envolve municípios, Judiciário e assistência social.",
+              "note": "Programas habitacionais federais dependem de orçamento e de execução por municípios e agentes privados; a remoção de moradias irregulares e de barracas envolve decisões judiciais, assistência social e políticas municipais; o plano cita déficit de 5,9 milhões de moradias. Depende de: municípios, agentes privados.",
+              "sources": [
+                "src-zema-12",
+                "src-re-r1temas-14"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2026 — o plano prevê as Casas da Cidadania, adensamento urbano em áreas centrais e moradia em áreas seguras, conforme sistematização dos tópicos."
+              ],
+              "divergent": [
+                "2026 — o plano registra que o Minha Casa Minha Vida não tratou da qualidade das moradias na última década e cita déficit de 5,9 milhões.",
+                "2026 — o plano propõe facilitar a remoção de moradias irregulares, como barracas e abrigos improvisados, e prêmio em dinheiro a quem sai de programas sociais."
+              ]
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "A política habitacional depende de orçamento federal e de execução municipal, com impactos que passam por decisões judiciais e assistência social. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Remoção de moradias irregulares e adensamento dependem de municípios, Judiciário e assistência social",
+                "detail": "O plano propõe facilitar a remoção de moradias irregulares e incentivar adensamento em áreas centrais, medidas que passam por planos diretores, decisões judiciais e oferta de assistência; o documento não informa meta de unidades, custo por unidade nem origem dos recursos para as Casas da Cidadania.",
+                "sources": [
+                  "src-zema-12",
+                  "src-re-r1temas-14"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de unidades e o custo das Casas da Cidadania?",
+                "why": "O plano descreve o programa sem meta de unidades, orçamento ou prazo."
+              },
+              {
+                "question": "Qual o desenho do prêmio em dinheiro para quem sai de programas sociais e como se evita a perda de renda?",
+                "why": "A proposta consta das sistematizações do plano sem valor final, critério de saída ou avaliação de impacto."
+              }
+            ],
+            "publicExplanation": "O plano apresenta moradia digna e inclusão produtiva como parte do eixo de pobreza e cidadania, com crítica à qualidade das unidades entregues na última década e defesa de adensamento em áreas centrais.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (seções de pobreza, moradia e cidades) e nas sistematizações de imprensa dos tópicos, já levantadas na ficha do candidato. Custos e metas não constam do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "instituicoes",
+          "name": "Instituições",
+          "kind": "proposta",
+          "position": "Plano: restringir competências do STF, criar corregedoria na Corte, endurecer requisitos de indicação e acabar com o foro especial",
+          "sourceKind": "candidato",
+          "sources": [
+            "src-zema-12",
+            "src-zema-11",
+            "src-zema-71"
+          ],
+          "reality": {
+            "proposal": "Reformar o Judiciário e os órgãos de controle, restringindo competências do Supremo e alterando requisitos de indicação.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "Restringir competências do Supremo, criar corregedoria na Corte e endurecer requisitos de indicação são matérias de emenda constitucional e de normas internas do Judiciário, com 308 deputados e 49 senadores em dois turnos por Casa; o plano também prevê corte de supersalários e fim de privilégios, além de revisão de compromissos internacionais. Depende de: Congresso, Judiciário.",
+              "sources": [
+                "src-zema-12",
+                "src-zema-11"
+              ]
+            },
+            "history": {
+              "aligned": [
+                "2019 — reforma administrativa estadual sancionada com veto parcial em MG (Lei 23.304/2019), no mesmo eixo de reorganização do Estado.",
+                "2026 — o plano propõe eliminar a aposentadoria compulsória como punição e proibir que membros do Judiciário e dos Tribunais de Contas tenham empresas."
+              ],
+              "divergent": []
+            },
+            "support": {
+              "partySeats": "5/513 deputados federais e nenhum senador (NOVO)",
+              "coalitionSeats": "0 — chapa própria, partido isolado (NOVO, sem coligação ou federação registrada)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 3,
+              "note": "Mudanças de competência do Supremo e de requisitos de indicação exigem PEC com 308 deputados e 49 senadores; a chapa é de partido isolado com 5 deputados federais. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Restringir competências do STF e acabar com o foro especial exigem emenda constitucional",
+                "detail": "O plano propõe retirar da Corte matérias tributárias e penais, criar corregedoria independente, endurecer requisitos para indicação de ministros e acabar com o foro especial, além de tornar obrigatória a investigação de ministros; essas mudanças dependem de emenda constitucional e de normas do próprio Judiciário, sem desenho final no documento.",
+                "sources": [
+                  "src-zema-12",
+                  "src-zema-11"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o texto de emenda para restringir competências do STF e criar a corregedoria?",
+                "why": "O plano lista as medidas sem minuta, alcance ou cronograma."
+              },
+              {
+                "question": "Como se daria a revisão de compromissos internacionais anunciada no plano, como a saída do Brics?",
+                "why": "As coberturas registram a proposta sem indicar o instrumento ou os efeitos previstos."
+              }
+            ],
+            "publicExplanation": "O plano afirma que o Supremo extrapola atribuições constitucionais e que é preciso restabelecer os limites entre os Poderes, com moralização do Judiciário e dos órgãos de controle.",
+            "methodology": "Apurado na leitura do plano registrado no TSE (seções de reforma do Judiciário e dos órgãos de controle) e nas fontes de 2019 a 2026 já levantadas na ficha do candidato (reforma administrativa estadual e coberturas do plano).",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "Seção 07 (r1 — Lula, Flávio Bolsonaro, Caiado e Zema): as posições por tema foram apuradas sobre o material já registrado no perfil de cada candidato (plano registrado no TSE, atos de mandato, votações nominais, entrevistas e sabatinas), complementado pela leitura integral dos quatro planos registrados nesta rodada; sourceKind 'candidato' marca declaração, ato ou voto do próprio candidato, com a origem rotulada em cada position.",
+    "Nenhuma posição por tema exigiu o fallback partidário: nos 40 itens a origem é ato, voto, declaração ou documento do próprio candidato.",
+    "Nos quatro planos registrados não há valores orçamentários medida a medida; os itens do teste 6 (proposta × detalhes de implementação) ficaram concentrados em 'O que falta explicar', em forma de pergunta.",
+    "A contagem de cadeiras e de acordos documentados vem das métricas já apuradas na ficha de cada candidato; os acordos foram contados por agendas e relatorias registradas, sem estimar apoios não documentados.",
+    "Uma compilação de imprensa (DW) atribuiu a Ronaldo Caiado texto de Previdência idêntico ao do plano de Romeu Zema; o trecho não foi localizado no plano de Caiado lido na íntegra e não foi usado como posição (registrado em src-re-r1temas-15)."
+  ]
+}

@@ -1,0 +1,2684 @@
+{
+  "grupo": "r1",
+  "escopo": "propostas",
+  "sources": [
+    {
+      "id": "src-re-r1propostas-01",
+      "title": "Governo anuncia crescimento dos gastos federais para 2026 e eleva para quase R$ 24 bilhões o bloqueio de despesas no Orçamento",
+      "publisher": "g1 / Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/22/governo-anuncia-crescimento-dos-gastos-federais-para-2026-e-eleva-para-quase-r-24-bilhoes-o-bloqueio-de-despesas-no-orcamento.ghtml",
+      "date": "2026-05-22",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-02",
+      "title": "Governo reduz bloqueio, anuncia contingenciamento e congela R$ 16,1 bi",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+      "date": "2026-09-24",
+      "type": "imprensa",
+      "notes": "Relatório bimestral de setembro de 2026."
+    },
+    {
+      "id": "src-re-r1propostas-03",
+      "title": "Governo corta R$ 22,1 bilhões do Orçamento para conter fila do INSS",
+      "publisher": "Folha de Pernambuco",
+      "url": "https://www.folhape.com.br/economia/governo-corta-r-221-bilhoes-do-orcamento-para-conter-fila-do-inss/489320",
+      "date": "2026",
+      "type": "imprensa",
+      "notes": "Contenção em investimentos, custeio e emendas para cumprir o limite de gastos."
+    },
+    {
+      "id": "src-re-r1propostas-04",
+      "title": "Quase 70% das despesas do governo federal crescem acima do limite do arcabouço fiscal",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/economia/quase-70-das-despesas-do-governo-federal-crescem-acima-do-limite-do-arcabouco-fiscal/",
+      "date": "2026",
+      "type": "imprensa",
+      "notes": "Levantamento com dados do Orçamento de 2026; teto de crescimento real de 2,5% ao ano."
+    },
+    {
+      "id": "src-re-r1propostas-05",
+      "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação (retirada da regra sobre bets)",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
+      "date": "2026-09-02",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-r1propostas-06",
+      "title": "Senado aprova regras do Comitê Gestor do IBS na reforma tributária",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/videos/2025/10/senado-aprova-regras-do-comite-gestor-do-ibs-na-reforma-tributaria",
+      "date": "2025-10",
+      "type": "legislativo",
+      "notes": "Regulamentação da EC 132/2023; 2026 é o primeiro ano de implementação do IBS/CBS."
+    },
+    {
+      "id": "src-re-r1propostas-07",
+      "title": "PEC do fim da escala 6x1 é aprovada em 1º e 2º turnos na Câmara dos Deputados",
+      "publisher": "Contraf-CUT",
+      "url": "https://contrafcut.com.br/noticias/pec-do-fim-da-escala-6x1-e-aprovada-na-camara-dos-deputados",
+      "date": "2026-05-28",
+      "type": "imprensa",
+      "notes": "1º turno 472x22; 2º turno 461x19, em 27/05/2026."
+    },
+    {
+      "id": "src-re-r1propostas-08",
+      "title": "CCJ do Senado aprova PEC que acaba com jornada 6x1",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1",
+      "date": "2026-09-02",
+      "type": "imprensa",
+      "notes": "Matéria ainda depende do plenário do Senado em dois turnos."
+    },
+    {
+      "id": "src-re-r1propostas-09",
+      "title": "Randolfe: votação da PEC do fim da escala 6x1 acontecerá até outubro",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/randolfe-votacao-da-pec-do-fim-da-escala-6x1-acontecera-ate-outubro",
+      "date": "2026-09-02",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-r1propostas-10",
+      "title": "Aumento do Bolsa Família: veja perguntas e respostas",
+      "publisher": "g1",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/18/aumento-do-bolsa-familia-veja-perguntas-e-respostas.ghtml",
+      "date": "2026-09-18",
+      "type": "imprensa",
+      "notes": "Reajuste do piso de R$ 600 para R$ 691 e benefício médio de R$ 675 para R$ 777; representação no TSE pedindo suspensão."
+    },
+    {
+      "id": "src-re-r1propostas-11",
+      "title": "Ministério da Saúde lança cartilha que detalha as fases do Programa SUS Digital",
+      "publisher": "SBIS — Sociedade Brasileira de Informática em Saúde",
+      "url": "https://sbis.org.br/noticia/ministerio-da-saude-lanca-cartilha-que-detalha-as-fases-do-programa-sus-digital",
+      "date": "2025-02-27",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-12",
+      "title": "Comissão de Saúde debate adoção de prontuário eletrônico único no SUS",
+      "publisher": "Câmara dos Deputados — Agência Câmara",
+      "url": "https://www.camara.leg.br/noticias/1057930-comissao-de-saude-debate-adocao-de-prontuario-eletronico-unico-no-sus/",
+      "date": "2024-05-07",
+      "type": "legislativo",
+      "notes": "Nota registra 30 projetos de lei sobre o tema em discussão na Câmara."
+    },
+    {
+      "id": "src-re-r1propostas-13",
+      "title": "Lula sanciona novo licenciamento ambiental com 63 vetos",
+      "publisher": "Câmara dos Deputados — Agência Câmara",
+      "url": "https://camara.leg.br/noticias/1186832-lula-sanciona-novo-licenciamento-ambiental-com-63-vetos",
+      "date": "2025-08-08",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-r1propostas-14",
+      "title": "Congresso derruba 52 vetos da Lei Geral do Licenciamento Ambiental",
+      "publisher": "ANDES-SN",
+      "url": "https://andes.org.br/conteudos/noticia/em-retrocesso-historico-congresso-derruba-52-vetos-da-lei-geral-do-licenciamento-ambiental1",
+      "date": "2025-11-28",
+      "type": "imprensa",
+      "notes": "Sessão do Congresso de 27/11/2025."
+    },
+    {
+      "id": "src-re-r1propostas-15",
+      "title": "Novos dados do Prodes são atualizados pelo Programa BiomasBR (taxa consolidada 2025: 5.731 km² na Amazônia Legal)",
+      "publisher": "INPE — Programa BiomasBR",
+      "url": "https://data.inpe.br/biomasbr/novos-dados-do-prodes-sao-atualizados-pelo-programa-biomasbr/",
+      "date": "2026-08-18",
+      "type": "estatistico",
+      "notes": "Em 2024 a taxa foi de 6.518 km²."
+    },
+    {
+      "id": "src-re-r1propostas-16",
+      "title": "Alertas de desmatamento na Amazônia caem 35% em junho de 2026",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/alertas-de-desmatamento-na-amazonia-caem-35-em-junho-de-2026",
+      "date": "2026-07-10",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-17",
+      "title": "Votações da matéria PEC 8/2021 (limite a decisões monocráticas) — votação nominal de 22/11/2023",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/148030/votacoes",
+      "date": "2023-11-22",
+      "type": "legislativo",
+      "notes": "Registro nominal: Flávio Bolsonaro votou 'Sim' nas votações em 1º e 2º turno."
+    },
+    {
+      "id": "src-re-r1propostas-18",
+      "title": "Votações da matéria PEC 6/2019 (reforma da Previdência) — votação nominal de 01/10/2019",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/137999/votacoes",
+      "date": "2019-10-01",
+      "type": "legislativo",
+      "notes": "Registro nominal: Flávio Bolsonaro votou 'Sim' na votação em 1º turno."
+    },
+    {
+      "id": "src-re-r1propostas-19",
+      "title": "PEC 54/2024 (pacote de revisão de gastos) — ficha da matéria e emendas",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889",
+      "date": "2024-12-20",
+      "type": "legislativo",
+      "notes": "Emenda nº 1 ao plenário tem entre os autores o senador Flávio Bolsonaro; votações nominais em 19 e 20/12/2024."
+    },
+    {
+      "id": "src-re-r1propostas-20",
+      "title": "Flávio planeja 'PEC da Transição' com corte de gastos de R$ 300 bilhões",
+      "publisher": "CNN Brasil — blog do Caio Junqueira",
+      "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-planeja-pec-da-transicao-com-corte-de-gastos-de-r-300-bilhoes/",
+      "date": "2026-08",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-21",
+      "title": "Flávio Bolsonaro defende redução da maioridade penal para 14 anos",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/06/11/flavio-bolsonaro-defende-reducao-da-maioridade-penal-para-14-anos.ghtml",
+      "date": "2026-06-11",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-22",
+      "title": "Entenda os próximos passos do projeto para reduzir a maioridade penal",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/entenda-os-proximos-passos-do-projeto-para-reduzir-maioridade-penal",
+      "date": "2026-06",
+      "type": "imprensa",
+      "notes": "CCJ da Câmara aprovou texto que reduz a maioridade para 16 anos em 10/06/2026 (44x18)."
+    },
+    {
+      "id": "src-re-r1propostas-23",
+      "title": "Restrição de 'saidão' para presos condenados vai a Plenário",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/audios/2024/02/fim-do-saidao-para-presos-condenados-vai-a-plenario",
+      "date": "2024-02-06",
+      "type": "legislativo",
+      "notes": "Comissão de Segurança Pública aprovou o PL 2.253/2022, relatado por Flávio Bolsonaro."
+    },
+    {
+      "id": "src-re-r1propostas-24",
+      "title": "Comissão aprova proposta que cria marco legal contra facções e milícias",
+      "publisher": "Câmara dos Deputados — Agência Câmara",
+      "url": "https://www.camara.leg.br/noticias/1237005-comissao-aprova-proposta-que-cria-marco-legal-contra-faccoes-e-milicias",
+      "date": "2026-01-06",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-r1propostas-25",
+      "title": "Ficha de tramitação do PL 2680/2025 (inclusão de facções na Lei Antiterrorismo)",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2519924",
+      "date": "2025-06",
+      "type": "legislativo",
+      "notes": "Registro de aguardando designação de relator na CCJC em maio de 2025."
+    },
+    {
+      "id": "src-re-r1propostas-26",
+      "title": "Votações da matéria PEC 54/2024 — votações nominais do plenário em 19 e 20/12/2024",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889/votacoes",
+      "date": "2024-12-20",
+      "type": "legislativo",
+      "notes": "Listas nominais do plenário: consta voto 'Não' de Flávio Bolsonaro em votação nominal da proposta e voto 'Sim' no destaque da Emenda nº 1."
+    },
+    {
+      "id": "src-re-r1propostas-27",
+      "title": "PEC do fim da escala 6x1 é aprovada com 22 votos contrários; PL orientou contra",
+      "publisher": "Contraf-CUT",
+      "url": "https://contrafcut.com.br/noticias/pec-do-fim-da-escala-6x1-e-aprovada-na-camara-dos-deputados",
+      "date": "2026-05-28",
+      "type": "imprensa",
+      "notes": "Placar de 27/05/2026: 472x22 no 1º turno, com 11 dos votos contrários de deputados do PL."
+    },
+    {
+      "id": "src-re-r1propostas-28",
+      "title": "Governo Caiado: de ajuste fiscal a R$ 1,9 bilhão em investimentos",
+      "publisher": "A Redação",
+      "url": "https://aredacao.com.br/noticias/176323/governo-caiado-de-ajuste-fiscal-a-r-19-bilhao-em-investimentos",
+      "date": "2025-08-28",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-29",
+      "title": "Governo Caiado: de ajuste fiscal a R$ 23,7 bilhões em investimentos",
+      "publisher": "Empreender em Goiás",
+      "url": "https://empreenderemgoias.com.br/2026/03/29/governo-caiado-de-ajuste-fiscal-a-r-237-bilhoes-em-investimentos",
+      "date": "2026-03-29",
+      "type": "imprensa",
+      "notes": "Somatório de investimentos em oito anos de governo, segundo o governo estadual."
+    },
+    {
+      "id": "src-re-r1propostas-30",
+      "title": "Comissão Mista de Orçamento analisa recuperação fiscal de Goiás (superávit primário de R$ 3,1 bi em 2024)",
+      "publisher": "Câmara dos Deputados — Agência Câmara",
+      "url": "https://www.camara.leg.br/noticias/1148865-comissao-mista-de-orcamento-analisa-recuperacao-fiscal-de-goias",
+      "date": "2025-03-24",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-r1propostas-31",
+      "title": "Governo oficializa saída de Goiás do RRF, passo necessário para adesão ao Propag",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2025/12/10/governo-oficializa-sada-de-gois-do-rrf-passo-necessrio-para-adeso-ao-propag.ghtml",
+      "date": "2025-12-10",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-32",
+      "title": "Programa de Pleno Pagamento de Dívidas dos Estados (Propag) — Lei Complementar 212/2025",
+      "publisher": "Governo do Estado de Goiás",
+      "url": "https://goias.gov.br/economia/programa-de-pleno-pagamento-de-dividas-dos-estados-propag/",
+      "date": "2025",
+      "type": "executivo_estadual"
+    },
+    {
+      "id": "src-re-r1propostas-33",
+      "title": "Goiás registra queda nos índices de criminalidade (7º ano consecutivo)",
+      "publisher": "Agência Goiás de Notícias",
+      "url": "https://agencia.go.gov.br/goias-registra-queda-nos-indices-de-criminalidade",
+      "date": "2026",
+      "type": "executivo_estadual"
+    },
+    {
+      "id": "src-re-r1propostas-34",
+      "title": "Saída do Estado do RRF e adesão ao Propag recebem aval definitivo",
+      "publisher": "Assembleia Legislativa de Goiás",
+      "url": "https://portal.al.go.leg.br/noticias/154770/saida-do-estado-do-rrf-e-adesao-ao-propag-recebem-aval-definitivo",
+      "date": "2025-05-15",
+      "type": "legislativo",
+      "notes": "Aval legislativo à saída do Regime de Recuperação Fiscal e à adesão ao Propag (LC 212/2025)."
+    },
+    {
+      "id": "src-re-r1propostas-35",
+      "title": "Saúde realiza mais de 338 mil cirurgias eletivas em dois anos em Goiás",
+      "publisher": "Agência Goiás de Notícias",
+      "url": "https://agencia.go.gov.br/saude-realiza-mais-de-338-mil-cirurgias-eletivas-em-dois-anos/",
+      "date": "2024",
+      "type": "executivo_estadual",
+      "notes": "Jan/2023 a nov/2024: 338.883 cirurgias eletivas, com fila única e regulação por critério clínico."
+    },
+    {
+      "id": "src-re-r1propostas-36",
+      "title": "Plenário mantém suspensão de normas de Goiás sobre remuneração acima do teto",
+      "publisher": "STF — Portal de Notícias",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=513780",
+      "date": "2023-09-11",
+      "type": "tribunal"
+    },
+    {
+      "id": "src-re-r1propostas-37",
+      "title": "André Mendonça suspende pagamento acima do teto a magistrados de Goiás",
+      "publisher": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/390454/andre-mendonca-suspende-pagamento-acima-do-teto-a-magistrados-de-goias",
+      "date": "2023-07-23",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-38",
+      "title": "Privatização da Copasa é concluída; venda movimentou R$ 8,38 bilhões",
+      "publisher": "g1 Minas",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/16/privatizacao-da-copasa-liquidacao.ghtml",
+      "date": "2026-06-16",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-39",
+      "title": "Com privatização da Copasa concluída, governo de Minas arrecada R$ 13,9 bi",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/11/com-privatizacao-da-copasa-concluida-governo-de-minas-arrecada-r-139-bi.ghtml",
+      "date": "2026-06-11",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-40",
+      "title": "Proposta que facilita privatização da Copasa é aprovada em definitivo",
+      "publisher": "Assembleia Legislativa de Minas Gerais",
+      "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Proposta-que-facilita-privatizacao-da-Copasa-e-aprovada-em-definitivo",
+      "date": "2025-11-05",
+      "type": "legislativo",
+      "notes": "PEC aprovada em 2º turno retirou a exigência de referendo prevista na Constituição estadual para a Copasa."
+    },
+    {
+      "id": "src-re-r1propostas-41",
+      "title": "PEC que abre caminho para privatização da Copasa é aprovada em 1º turno em Minas Gerais",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2025/10/pec-que-abre-caminho-para-privatizacao-da-copasa-e-aprovada-em-1o-turno-em-minas-gerais.shtml",
+      "date": "2025-10",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-42",
+      "title": "Sob protestos, deputados de Minas Gerais aprovam privatização da Copasa",
+      "publisher": "Hora do Povo",
+      "url": "https://horadopovo.com.br/sob-protestos-deputados-de-minas-gerais-aprovam-privatizacao-da-copasa",
+      "date": "2025-12-18",
+      "type": "imprensa",
+      "notes": "Aprovação do projeto de privatização na ALMG em 17/12/2025."
+    },
+    {
+      "id": "src-re-r1propostas-43",
+      "title": "Privatização da Copasa: as outras estatais na mira do governo de MG",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/politica/2026/06/amp/7442711-privatizacao-da-copasa-as-outras-estatais-na-mira-do-governo-de-mg.html",
+      "date": "2026-06-17",
+      "type": "imprensa",
+      "notes": "Cita Cemig, Codemig e Gasmig entre os ativos na agenda do governo estadual."
+    },
+    {
+      "id": "src-re-r1propostas-44",
+      "title": "Minas Gerais governor studies turning power utility into corporation (tentativa de privatização da Cemig em 2022)",
+      "publisher": "Valor International",
+      "url": "https://valorinternational.globo.com/business/news/2022/12/27/minas-gerais-governor-studies-turning-power-utility-into-corporation.ghtml",
+      "date": "2022-12-27",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-45",
+      "title": "Privatização da Cemig sai do radar com a eleição em Minas Gerais",
+      "publisher": "Investidor10",
+      "url": "https://investidor10.com.br/noticias/privatizacao-da-cemig-cmig4-sai-do-radar-com-eleicao-em-minas-gerais-122742/",
+      "date": "2026",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-46",
+      "title": "Consórcio vencedor da Copasa reúne Cemig, Equatorial, Aegea, IG4 e Perfin",
+      "publisher": "g1 Minas",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/05/21/copasa-governo-de-minas-conhece-propostas.ghtml",
+      "date": "2026-05-21",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-47",
+      "title": "Emenda à Constituição da reforma da Previdência é promulgada pela ALMG (EC 104/2020)",
+      "publisher": "SINFAZ-MG",
+      "url": "https://sinfazfiscomg.org.br/emenda-a-constituicao-da-reforma-da-previdencia-e-promulgada-pela-almg/",
+      "date": "2020-09-15",
+      "type": "imprensa",
+      "notes": "Idade mínima de 65 anos para homens e 62 para mulheres no regime estadual."
+    },
+    {
+      "id": "src-re-r1propostas-48",
+      "title": "Derrubada de veto ao reajuste dos servidores ganha força na Assembleia de MG",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2020/03/13/interna_politica,1128413/queda-de-veto-ao-reajuste-dos-servidores-ganha-forca-na-assembleia.shtml",
+      "date": "2020-03-13",
+      "type": "imprensa",
+      "notes": "Veto ao reajuste de 41,7% concedido pela ALMG; o governo sancionou 13%."
+    },
+    {
+      "id": "src-re-r1propostas-49",
+      "title": "Em MG, deputados mantêm veto de Zema à recomposição das perdas dos servidores",
+      "publisher": "CUT Nacional",
+      "url": "https://www.cut.org.br/noticias/em-mg-deputados-mantem-veto-de-zema-a-recomposicao-das-perdas-dos-servidores-09fb",
+      "date": "2020-06-18",
+      "type": "imprensa",
+      "notes": "Veto mantido em votação de 17/06/2020."
+    },
+    {
+      "id": "src-re-r1propostas-50",
+      "title": "Contas de Zema em MG têm melhora, mas caixa segue negativo e renúncias disparam",
+      "publisher": "Política Livre",
+      "url": "https://www.politicalivre.com.br/2026/08/contas-de-zema-em-mg-tem-melhora-mas-caixa-segue-negativo-e-renuncias-disparam",
+      "date": "2026-08",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-51",
+      "title": "Projeto da LDO para 2026 é aprovado com previsão de déficit de R$ 2,3 bilhões",
+      "publisher": "Assembleia Legislativa de Minas Gerais",
+      "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Projeto-da-LDO-para-2026-e-aprovado-com-previsao-de-deficit-de-R$-23-bilhoes",
+      "date": "2025",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-r1propostas-52",
+      "title": "Congresso aprova R$ 4,9 bi ao fundão eleitoral e esconde voto de parlamentares",
+      "publisher": "UOL Notícias",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/12/04/congresso-aprova-r-49-bi-a-fundao-eleitoral-e-esconde-voto-de-par",
+      "date": "2025-12-04",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-53",
+      "title": "Zema propõe poupança de R$ 1.000 para crianças nascidas no Brasil",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/zema-propoe-poupanca-de-r-1-000-para-criancas-nascidas-no-brasil/",
+      "date": "2026-09-06",
+      "type": "imprensa",
+      "notes": "Estimativa de custo de cerca de R$ 2,5 bilhões por ano, segundo a campanha."
+    },
+    {
+      "id": "src-re-r1propostas-54",
+      "title": "Zema quer poupança de R$ 1 mil para recém-nascidos com recurso do combate à corrupção",
+      "publisher": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/zema-quer-poupanca-de-r-1-mil-para-recem-nascidos-com-recurso-do-combate-a-corrupcao/",
+      "date": "2026-09",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-r1propostas-55",
+      "title": "Fundo Partidário: 19 partidos receberam mais de R$ 1 bilhão em 2025; NOVO ficou fora por não atingir a cláusula de desempenho",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://tse.jus.br/comunicacao/noticias/2026/Janeiro/fundo-partidario-19-partidos-receberam-mais-de-r-1-bilhao-em-2025",
+      "date": "2026-01",
+      "type": "oficial_eleitoral"
+    },
+    {
+      "id": "src-re-r1propostas-56",
+      "title": "Bancada dos partidos na Câmara dos Deputados",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+      "date": "2026",
+      "type": "oficial_dados_abertos"
+    },
+    {
+      "id": "src-re-r1propostas-57",
+      "title": "Câmara aprova em segundo turno PEC da Segurança Pública (461x14 no 2º turno; texto segue ao Senado)",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/camara-aprova-em-segundo-turno-pec-da-seguranca-publica",
+      "date": "2026-03-05",
+      "type": "imprensa"
+    }
+  ],
+  "candidates": {
+    "lula": {
+      "proposals": [
+        {
+          "id": "lula-prop-economia-arcabouco",
+          "title": "Economia: manter o arcabouço fiscal, aprofundar reforma tributária e Novo PAC",
+          "reality": {
+            "proposal": "Manter o arcabouço fiscal, aprofundar a reforma tributária sobre o consumo e lançar nova edição do Novo PAC.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "257 deputados e 41 senadores — maioria absoluta (CF, art. 69)",
+              "note": "A regra fiscal está na LC 200/2023, sancionada em 30/08/2023; a reforma tributária foi promulgada na EC 132/2023 e segue em leis complementares. O Novo PAC depende de orçamento e de atos do Executivo."
+            },
+            "history": {
+              "aligned": [
+                "LC 200/2023 sancionada em 30/08/2023 substituiu o teto de gastos pelo regime fiscal sustentável.",
+                "EC 132/2023 promulgada em 20/12/2023; regulamentação seguiu em leis complementares aprovadas em 2025 e 2026.",
+                "Senado aprovou as regras do Comitê Gestor do IBS em out/2025; 2026 é o primeiro ano de implementação do IBS e da CBS."
+              ],
+              "divergent": [
+                "Quase 70% das despesas sujeitas ao arcabouço crescem acima do teto de 2,5% real em 2026 (Estadão).",
+                "Em 22/05/2026 o bloqueio de despesas foi elevado para quase R$ 24 bi; em 24/09/2026 houve congelamento de R$ 16,1 bi."
+              ],
+              "sources": [
+                {
+                  "id": "src-lula-105"
+                },
+                {
+                  "id": "src-lula-106"
+                },
+                {
+                  "id": "src-lula-29"
+                },
+                {
+                  "id": "src-re-r1propostas-06"
+                },
+                {
+                  "id": "src-re-r1propostas-01"
+                },
+                {
+                  "id": "src-re-r1propostas-02"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 67 de 513 deputados federais (janela partidária de 2026) e 9 de 81 senadores em exercício",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais' — única coligação presidencial de 2026, com 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 3,
+              "note": "Coligação registrada no TSE com 7 partidos; 3 episódios de negociação documentados no histórico do candidato. Acordos suprapartidários específicos sobre cada proposta não foram localizados nas fontes consultadas. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-19"
+                },
+                {
+                  "id": "src-lula-37"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Teto de 2,5% real exige bloqueio e contingenciamento quando a despesa obrigatória cresce",
+                "detail": "Em 22/05/2026 o governo elevou o bloqueio para quase R$ 24 bilhões e, em 24/09/2026, congelou R$ 16,1 bilhões para cumprir o limite do arcabouço; em reportagem do mesmo ano, o corte chegou a R$ 22,1 bilhões, incluindo investimentos, custeio e emendas.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-01"
+                  },
+                  {
+                    "id": "src-re-r1propostas-02"
+                  },
+                  {
+                    "id": "src-re-r1propostas-03"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Novo PAC e despesas obrigatórias disputam o mesmo espaço dentro do limite de gastos",
+                "detail": "O Orçamento de 2026 fixou piso de R$ 83 bilhões para investimentos públicos e R$ 61 bilhões em emendas parlamentares, enquanto o Executivo bloqueava despesas para caber no teto; quase 70% das despesas sujeitas à regra crescem acima de 2,5% real.",
+                "sources": [
+                  {
+                    "id": "src-lula-11"
+                  },
+                  {
+                    "id": "src-re-r1propostas-04"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a fonte de recursos da nova edição do Novo PAC dentro do limite de 2,5% real ao ano?",
+                "why": "O plano não informa custo por proposta; a disputa por espaço no teto aparece nos relatórios fiscais de 2026."
+              },
+              {
+                "question": "Quais leis complementares da reforma tributária ficaram pendentes e têm cronograma definido?",
+                "why": "A transição do IBS e da CBS está em andamento e parte das regras foi aprovada em 2025 e 2026."
+              }
+            ],
+            "publicExplanation": "O governo apresentou a LC 200/2023 como regra que 'facilita o crescimento da economia sem comprometer a responsabilidade fiscal', em substituição ao teto de gastos (Agência Câmara, 31/08/2023).",
+            "methodology": "Apurado por leitura das propostas-chave do plano registrado no TSE, checagem de tramitação no Congresso (LC 200/2023, EC 132/2023, Comitê Gestor do IBS) e dos relatórios fiscais de 2026. Não foram lidos item a item os 13 eixos do programa; o plano não traz custo por proposta.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "id": "lula-prop-seguranca-pec",
+          "title": "Segurança pública: Ministério da Segurança Pública (via PEC) e cooperação federativa",
+          "reality": {
+            "proposal": "Criar o Ministério da Segurança Pública, se aprovada a PEC enviada pelo governo, e ampliar a cooperação federativa.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "A PEC 18/2025 altera competências federativas em segurança pública e foi entregue pelo Executivo em 23/04/2025; a criação do ministério e a lei do Sistema Único de Segurança Pública dependem da emenda e de lei posterior."
+            },
+            "history": {
+              "aligned": [
+                "PEC 18/2025 aprovada na Câmara em dois turnos em 04/03/2026: 487x15 no 1º turno e 461x14 no 2º, com a maioridade penal retirada do texto.",
+                "CCJ do Senado aprovou o texto-base em 02/09/2026, mas não concluiu a votação; a regra sobre 30% das bets foi retirada no parecer.",
+                "O governo incluiu a PEC da Segurança entre as prioridades do esforço concentrado do Congresso em 27/08/2026."
+              ],
+              "divergent": [
+                "A PEC chegou ao Senado em março de 2026; em 02/09/2026 a CCJ ainda não havia concluído a votação e o plenário seguia sem data marcada."
+              ],
+              "sources": [
+                {
+                  "id": "src-lula-129"
+                },
+                {
+                  "id": "src-lula-128"
+                },
+                {
+                  "id": "src-re-r1propostas-05"
+                },
+                {
+                  "id": "src-lula-158"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 67 de 513 deputados federais (janela partidária de 2026) e 9 de 81 senadores em exercício",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais' — única coligação presidencial de 2026, com 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 3,
+              "note": "Coligação registrada no TSE com 7 partidos; 3 episódios de negociação documentados no histórico do candidato. Acordos suprapartidários específicos sobre cada proposta não foram localizados nas fontes consultadas. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-19"
+                },
+                {
+                  "id": "src-lula-37"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Criação do ministério depende de PEC com 49 votos no Senado em dois turnos",
+                "detail": "A PEC 18/2025 foi aprovada na Câmara em 04/03/2026, mas em 02/09/2026 a CCJ do Senado ainda não havia concluído a votação e o plenário não tinha data marcada; o texto ainda precisa de dois turnos em cada Casa para ser promulgado.",
+                "sources": [
+                  {
+                    "id": "src-lula-129"
+                  },
+                  {
+                    "id": "src-re-r1propostas-05"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Fonte de financiamento destinada à segurança foi alterada no Senado",
+                "detail": "O parecer aprovado na CCJ do Senado em 02/09/2026 retirou a regra que vinculava 30% da arrecadação das bets a fundos de segurança; o financiamento previsto no texto original não foi mantido na comissão.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-05"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual será a fonte de custeio do ministério se a vinculação das bets for retirada do texto final?",
+                "why": "A vinculação de 30% das bets constava do texto da Câmara e não foi mantida no parecer da comissão do Senado."
+              },
+              {
+                "question": "A estrutura do ministério será criada por lei depois da promulgação e em qual prazo?",
+                "why": "A PEC altera competências federativas; o desenho da estrutura não foi detalhado nas fontes consultadas."
+              }
+            ],
+            "publicExplanation": "Em 27/08/2026 o governo incluiu a PEC da Segurança Pública entre as prioridades do esforço concentrado no Congresso, ao lado da PEC do fim da escala 6x1.",
+            "methodology": "Apurado por checagem da ficha de tramitação e das votações da PEC 18/2025, do parecer da CCJ do Senado de 02/09/2026 e da agenda de prioridades do Executivo. Não foram consultados anexos de custo do novo ministério, ausentes das fontes localizadas.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "id": "lula-prop-trabalho-jornada",
+          "title": "Trabalho: fim da escala 6x1 e jornada de 40 horas sem redução salarial",
+          "reality": {
+            "proposal": "Atuar no Congresso pelo fim da escala 6x1 e pela jornada de 40 horas semanais sem redução salarial.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "A PEC 221/2019 é de autoria parlamentar; a jornada de 44 horas está no art. 7º, XIII, da Constituição. Regras de trabalho por aplicativos exigem lei ordinária."
+            },
+            "history": {
+              "aligned": [
+                "Câmara aprovou a PEC 221/2019 em dois turnos em 27/05/2026: 472x22 no 1º e 461x19 no 2º turno.",
+                "CCJ do Senado aprovou o texto em 02/09/2026, com 4 votos contrários; o líder do governo no Congresso anunciou votação no plenário até outubro.",
+                "O fim da escala 6x1 consta das prioridades do governo para 2026 no Congresso."
+              ],
+              "divergent": [
+                "Em 26/05/2026 o líder do PT na Câmara afirmou que o PL atuava para impedir a aprovação; 11 dos 22 votos contrários no 1º turno eram do PL."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-07"
+                },
+                {
+                  "id": "src-re-r1propostas-08"
+                },
+                {
+                  "id": "src-re-r1propostas-09"
+                },
+                {
+                  "id": "src-lula-134"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 67 de 513 deputados federais (janela partidária de 2026) e 9 de 81 senadores em exercício",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais' — única coligação presidencial de 2026, com 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 3,
+              "note": "Coligação registrada no TSE com 7 partidos; 3 episódios de negociação documentados no histórico do candidato. Acordos suprapartidários específicos sobre cada proposta não foram localizados nas fontes consultadas. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-19"
+                },
+                {
+                  "id": "src-lula-37"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Após aprovação na Câmara, a PEC depende de dois turnos no plenário do Senado",
+                "detail": "A Câmara concluiu a votação em 27/05/2026; a CCJ do Senado aprovou o texto em 02/09/2026, mas o plenário não tinha data marcada. O líder do governo no Congresso declarou intenção de votar a PEC até outubro de 2026.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-07"
+                  },
+                  {
+                    "id": "src-re-r1propostas-08"
+                  },
+                  {
+                    "id": "src-re-r1propostas-09"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Plano não informa custo da redução de jornada nem regra para setores de atividade contínua",
+                "detail": "O plano registrado não traz estimativa de custo por proposta e não detalha compensação para setores que operam 24 horas; a PEC aprovada na Câmara prevê transição em duas etapas, sem regra específica por categoria.",
+                "sources": [
+                  {
+                    "id": "src-lula-06"
+                  },
+                  {
+                    "id": "src-re-r1propostas-07"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o prazo previsto para a votação no plenário do Senado em dois turnos?",
+                "why": "A CCJ aprovou em 02/09/2026 e o plenário não tinha data; a intenção declarada pela liderança do governo era votar até outubro."
+              },
+              {
+                "question": "Como ficam as escalas em saúde, segurança e transporte, que operam 24 horas?",
+                "why": "O plano não detalha setores com escala especial nem regra de transição por categoria."
+              }
+            ],
+            "publicExplanation": "A liderança do governo no Congresso defendeu publicamente a votação da PEC no plenário do Senado até outubro de 2026 (02/09/2026).",
+            "methodology": "Apurado por checagem das votações nominais da PEC 221/2019 na Câmara e na CCJ do Senado, do despacho da matéria à comissão (21/08/2026) e das prioridades declaradas do Executivo. Não foram consultados pareceres de custo, ausentes do plano.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "id": "lula-prop-desigualdades",
+          "title": "Eixo 2 — Combater as desigualdades (Bolsa Família, salário mínimo, saída do Mapa da Fome)",
+          "reality": {
+            "proposal": "Manter e ampliar o Bolsa Família, valorizar o salário mínimo e retirar o Brasil do Mapa da Fome.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "O Bolsa Família está em lei ordinária; o reajuste de 2026 foi feito por decreto e depende de dotação na lei orçamentária, dentro do limite do arcabouço fiscal."
+            },
+            "history": {
+              "aligned": [
+                "Reajuste do piso do Bolsa Família de R$ 600 para R$ 691 anunciado em 17/09/2026; benefício médio passaria de R$ 675 para R$ 777.",
+                "Orçamento de 2026 sancionado em 15/01/2026 com previsão de superávit de R$ 34,2 bilhões.",
+                "O plano registrado mantém a saída do Mapa da Fome como meta e amplia transferências de renda."
+              ],
+              "divergent": [
+                "O reajuste foi questionado no TSE em 17/09/2026 por candidato adversário, com pedido de suspensão dos efeitos do decreto.",
+                "Em 2026 o Executivo cortou R$ 22,1 bilhões do Orçamento, com contenção no Pé-de-Meia e no Auxílio Gás no texto aprovado."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-10"
+                },
+                {
+                  "id": "src-lula-11"
+                },
+                {
+                  "id": "src-lula-06"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 67 de 513 deputados federais (janela partidária de 2026) e 9 de 81 senadores em exercício",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais' — única coligação presidencial de 2026, com 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 3,
+              "note": "Coligação registrada no TSE com 7 partidos; 3 episódios de negociação documentados no histórico do candidato. Acordos suprapartidários específicos sobre cada proposta não foram localizados nas fontes consultadas. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-19"
+                },
+                {
+                  "id": "src-lula-37"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reajuste anunciado em setembro de 2026 foi levado ao TSE antes da eleição",
+                "detail": "Em 17/09/2026 o governo anunciou o reajuste; no mesmo dia um candidato à Presidência entrou com representação no TSE pedindo liminar para suspender os efeitos do decreto até a posse, com alegação de isonomia entre candidatos. O caso seguia em análise.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-10"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Custo da ampliação do Bolsa Família concorre com o corte de despesas no mesmo orçamento",
+                "detail": "O reajuste foi anunciado junto com corte de R$ 22,1 bilhões no Orçamento para conter a fila do INSS e cumprir o limite de gastos; no texto do Orçamento de 2026 houve contenção em programas como Pé-de-Meia e Auxílio Gás.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-03"
+                  },
+                  {
+                    "id": "src-re-r1propostas-10"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a dotação orçamentária prevista para o reajuste do Bolsa Família em 2027?",
+                "why": "O plano não informa custo por proposta nem fonte de recursos para a ampliação anunciada."
+              },
+              {
+                "question": "Qual é a regra de correção prevista para os benefícios nos próximos anos?",
+                "why": "O reajuste de 2026 foi feito por decreto; o plano não detalha índice nem periodicidade."
+              }
+            ],
+            "publicExplanation": "O Ministério do Planejamento informou que, com a atualização, o benefício médio passaria de R$ 675 para R$ 777 (g1, 18/09/2026).",
+            "methodology": "Apurado por noticiário de setembro de 2026 sobre o reajuste e a representação no TSE, pela sanção do Orçamento de 2026 e por reportagens sobre corte e bloqueio de despesas em 2026. Custos por proposta não constam do plano registrado.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "lula-prop-saude-sus",
+          "title": "Eixo 5 — Saúde: atenção primária digital, prontuário único e soberania sanitária",
+          "reality": {
+            "proposal": "Ampliar telemedicina, consolidar o prontuário único no celular e produzir medicamentos, vacinas e insumos no país.",
+            "requirement": {
+              "path": "ato-executivo",
+              "quorum": "não se aplica a programas e decretos do Executivo federal",
+              "note": "A gestão do SUS é compartilhada entre União, estados e municípios; cerca de 30 projetos de lei sobre prontuário eletrônico único tramitavam na Câmara em 2024, o que exigiria lei aprovada e integração entre entes."
+            },
+            "history": {
+              "aligned": [
+                "O Programa SUS Digital teve as fases divulgadas em cartilha do Ministério da Saúde em 27/02/2025.",
+                "O prontuário eletrônico único foi tema de debate na Comissão de Saúde da Câmara em 07/05/2024.",
+                "O plano registrado mantém o complexo econômico-industrial da saúde e a produção local de vacinas e insumos como diretrizes."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-11"
+                },
+                {
+                  "id": "src-re-r1propostas-12"
+                },
+                {
+                  "id": "src-lula-06"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Prontuário único nacional depende de integração com sistemas estaduais e municipais",
+                "detail": "A gestão do SUS é compartilhada entre União, estados e municípios; em 07/05/2024 a Comissão de Saúde da Câmara registrava cerca de 30 projetos sobre prontuário eletrônico único em discussão, sem texto aprovado. O plano descreve a meta sem prazo de integração.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-12"
+                  },
+                  {
+                    "id": "src-re-r1propostas-11"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Não localizamos registro de prontuário único nacional em operação até 29/09/2026",
+                "detail": "As fontes consultadas descrevem o programa de saúde digital em fases de implementação e projetos de lei em tramitação; não foi localizado documento de implantação nacional concluída do prontuário único até 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-11"
+                  },
+                  {
+                    "id": "src-re-r1propostas-12"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o custo estimado da integração dos sistemas estaduais e municipais ao prontuário único?",
+                "why": "O plano não traz custo por proposta; os dados de execução localizados são de fases do programa federal de saúde digital."
+              },
+              {
+                "question": "Qual é o prazo previsto para o prontuário único funcionar em todo o território nacional?",
+                "why": "O plano descreve a meta sem data; as fontes localizadas tratam de fases de implementação."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o cronograma ou o custo da integração do prontuário único entre os entes nas fontes consultadas.",
+            "methodology": "Apurado por notícias do Ministério da Saúde e da Câmara (2024-2025) e pela leitura do eixo de saúde do plano registrado. Como a proposta é executada por programa federal, a base política de voto não foi aplicada a esta unidade; não houve checagem em sistemas estaduais de implantação.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "lula-prop-meio-ambiente",
+          "title": "Eixo 11 — Meio ambiente: desmatamento líquido zero até 2030 e adaptação climática permanente",
+          "reality": {
+            "proposal": "Reafirmar desmatamento líquido zero até 2030 e redução de emissões, com adaptação climática permanente.",
+            "requirement": {
+              "path": "ato-executivo",
+              "quorum": "não se aplica a planos e decretos federais",
+              "note": "A meta depende também de leis aprovadas no Congresso (licenciamento ambiental) e do comportamento de agentes privados no desmatamento ilegal."
+            },
+            "history": {
+              "aligned": [
+                "Taxa consolidada do PRODES para a Amazônia Legal em 2025: 5.731 km², ante 6.518 km² em 2024.",
+                "Dados divulgados em 30/10/2025 apontaram a menor taxa de desmatamento na Amazônia em 11 anos.",
+                "Alertas de desmatamento na Amazônia caíram 35% em junho de 2026 na comparação com o mesmo mês de 2025."
+              ],
+              "divergent": [
+                "O governo sancionou a Lei Geral do Licenciamento Ambiental com 63 vetos em 08/08/2025; em 27/11/2025 o Congresso derrubou 52 desses vetos."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-15"
+                },
+                {
+                  "id": "src-lula-159"
+                },
+                {
+                  "id": "src-re-r1propostas-16"
+                },
+                {
+                  "id": "src-re-r1propostas-13"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Regras de licenciamento definidas pelo Congresso afetam a meta de desmatamento zero",
+                "detail": "Em 08/08/2025 o governo sancionou a Lei Geral do Licenciamento com 63 vetos e informou que enviaria novo projeto e medida provisória; em 27/11/2025 o Congresso derrubou 52 vetos, restabelecendo dispositivos vetados.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-13"
+                  },
+                  {
+                    "id": "src-re-r1propostas-14"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Dispositivos vetados pelo Executivo foram restabelecidos pelo Congresso no licenciamento",
+                "detail": "A derrubada de 52 vetos em 27/11/2025 alcançou dispositivos que o governo havia vetado ao sancionar a lei em agosto, no mesmo ano em que o plano reafirma a meta de desmatamento líquido zero até 2030.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-14"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a trajetória anual prevista de desmatamento entre 2027 e 2030 para chegar a zero?",
+                "why": "O plano fixa a meta de 2030 sem metas anuais por bioma nas fontes consultadas."
+              },
+              {
+                "question": "Qual é o custo previsto da adaptação climática como eixo permanente do orçamento?",
+                "why": "O plano não informa custo nem fonte de recursos por proposta."
+              }
+            ],
+            "publicExplanation": "O governo divulgou em 30/10/2025 a menor taxa de desmatamento na Amazônia em 11 anos como resultado do plano de prevenção e controle em vigor.",
+            "methodology": "Apurado por dados oficiais do PRODES/INPE (2024 e 2025), por alertas de monitoramento de 2026 e pelo histórico de sanção e derrubada de vetos do licenciamento em 2025. Não foram analisados os planos estaduais de prevenção e controle.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        }
+      ]
+    },
+    "flavio-bolsonaro": {
+      "proposals": [
+        {
+          "id": "fb-prop-narcoterrorismo",
+          "title": "Declarar PCC, CV e milícias como organizações narcoterroristas",
+          "reality": {
+            "proposal": "Classificar PCC, Comando Vermelho e milícias como organizações narcoterroristas e ampliar a tipificação penal.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "A Lei 13.260/2016 tipifica o terrorismo no Brasil; incluir facções depende de projeto de lei aprovado pelo Congresso — o PL 2680/2025 aguardava relator na CCJC em 2025 e o PL 2428/2025 tramitava em 2026."
+            },
+            "history": {
+              "aligned": [
+                "Em 06/01/2026 comissão da Câmara aprovou proposta que cria marco legal de combate a facções e milícias.",
+                "Foi relator do PL 2.253/2022 no Senado, que restringiu a saída temporária de presos, aprovado na comissão de segurança em 06/02/2024."
+              ],
+              "divergent": [
+                "O PL 2680/2025, que inclui facções na Lei Antiterrorismo, aguardava designação de relator na CCJC em 30/05/2025 (ficha de tramitação)."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-24"
+                },
+                {
+                  "id": "src-re-r1propostas-23"
+                },
+                {
+                  "id": "src-re-r1propostas-25"
+                },
+                {
+                  "id": "src-plano-pdf"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados federais e 15 de 81 senadores (bancada do partido em 2026)",
+              "coalitionSeats": "Chapa pura do PL, sem federação ou coligação formal; vice Alfredo Gaspar (PL-AL), convenção nacional de 25/07/2026",
+              "federations": "Nenhuma federação ou coligação registrada para a chapa presidencial",
+              "documentedAgreements": 3,
+              "note": "O PL tem a maior bancada da Câmara (98 deputados) e 15 senadores; 3 episódios de negociação constam do histórico do candidato (2019, 2024 e 2026), sem coligação formal para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-11"
+                },
+                {
+                  "id": "src-valor-convencao"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Nova tipificação penal depende de projeto de lei com relator e votação no Congresso",
+                "detail": "A classificação de facções como narcoterroristas exige alterar a Lei 13.260/2016 por projeto de lei: o PL 2680/2025 aguardava relator na CCJC (30/05/2025) e o PL 2428/2025 tramitava em comissão em 2026, sem votação de plenário registrada.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-25"
+                  },
+                  {
+                    "id": "src-re-r1propostas-24"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o texto previsto para a tipificação e as penas da classificação narcoterrorista?",
+                "why": "O plano descreve a medida sem anexar minuta; as fontes consultadas citam apenas a alteração da lei antiterrorismo."
+              },
+              {
+                "question": "A classificação alcançaria organização já tipificada como milícia pela Lei 14.478/2022 ou seria criada nova figura penal?",
+                "why": "As fontes consultadas não informam a relação entre a proposta e as leis de organizações criminosas e de milícias."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública sobre o texto da tipificação narcoterrorista nas fontes consultadas.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pela ficha de tramitação dos projetos de lei sobre terrorismo e facções (2025-2026) e pelo histórico de relatoria do candidato no Senado. Não foram lidos os 69 itens do programa item a item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "fb-prop-tesouraco",
+          "title": "Tesouraço de gastos e limite a decisões do STF",
+          "reality": {
+            "proposal": "Fazer corte de gastos federais ('tesouraço'), criar nova regra fiscal de transição e limitar decisões do STF.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "O corte foi anunciado como 'PEC da Transição' e a limitação de decisões depende de emenda constitucional; a reorganização de ministérios e estruturas pode ser feita por ato do Executivo e por lei."
+            },
+            "history": {
+              "aligned": [
+                "Votou 'Sim' na PEC 8/2021, que limita decisões monocráticas no STF, nas votações nominais de 22/11/2023 no Senado.",
+                "É autor da Emenda nº 1 ao plenário da PEC 54/2024, da revisão de gastos; há registro de voto contrário em votação nominal da proposta."
+              ],
+              "divergent": [
+                "Em 21/06/2023 votou contra o arcabouço fiscal aprovado no Senado (57x17), com 10 votos contrários de senadores do PL."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-17"
+                },
+                {
+                  "id": "src-re-r1propostas-19"
+                },
+                {
+                  "id": "src-re-r1propostas-26"
+                },
+                {
+                  "id": "src-flavio-117"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados federais e 15 de 81 senadores (bancada do partido em 2026)",
+              "coalitionSeats": "Chapa pura do PL, sem federação ou coligação formal; vice Alfredo Gaspar (PL-AL), convenção nacional de 25/07/2026",
+              "federations": "Nenhuma federação ou coligação registrada para a chapa presidencial",
+              "documentedAgreements": 3,
+              "note": "O PL tem a maior bancada da Câmara (98 deputados) e 15 senadores; 3 episódios de negociação constam do histórico do candidato (2019, 2024 e 2026), sem coligação formal para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-11"
+                },
+                {
+                  "id": "src-valor-convencao"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Corte anunciado como PEC antes da posse exige 308 votos na Câmara e 49 no Senado",
+                "detail": "A campanha anunciou uma 'PEC da Transição' com meta de corte de R$ 300 bilhões, a ser votada antes da posse; o instrumento exige 3/5 dos votos nas duas Casas, em dois turnos, no intervalo entre a eleição e o início do mandato.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-20"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Voto contrário ao arcabouço fiscal em 2023 e proposta de nova regra de transição",
+                "detail": "Em 21/06/2023 o candidato votou contra a LC 200/2023, a regra fiscal em vigor, aprovada por 57 votos a 17 com 10 contrários do PL; em 2026 o plano propõe nova regra fiscal de transição com corte de despesas.",
+                "sources": [
+                  {
+                    "id": "src-flavio-117"
+                  },
+                  {
+                    "id": "src-re-r1propostas-20"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a lista de programas e despesas alcançados pelo corte de R$ 300 bilhões?",
+                "why": "O anúncio informa o valor agregado e não a memória de cálculo nem os itens afetados."
+              },
+              {
+                "question": "Qual é o texto da limitação de decisões do STF e a quem ela alcança?",
+                "why": "O plano cita limites ao STF sem anexar minuta; a PEC 8/2021, votada em 2023, tratava de decisões monocráticas."
+              }
+            ],
+            "publicExplanation": "O candidato afirmou publicamente que fará 'tesouraço' em ministérios e apresentou, em agosto de 2026, a intenção de uma PEC de transição com corte de gastos (Valor, 18/08/2026; CNN, 2026).",
+            "methodology": "Apurado por registro nominal de votações no Senado (PEC 8/2021, PEC 54/2024 e arcabouço fiscal), pelo anúncio da equipe econômica da campanha e pela leitura das propostas-chave do plano registrado no TSE.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "id": "fb-prop-maioridade-penal",
+          "title": "Redução da maioridade penal para 16 anos",
+          "reality": {
+            "proposal": "Reduzir a maioridade penal para 16 anos por emenda constitucional, com proposta protocolada no Senado.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "A maioridade penal está no art. 228 da Constituição; o senador apresentou a PEC 32/2019, cujo parecer foi lido na CCJ do Senado em 2025. A Câmara aprovou outra PEC (16 anos) em comissão especial em 10/06/2026."
+            },
+            "history": {
+              "aligned": [
+                "É autor da PEC 32/2019, que reduz a maioridade penal para 16 anos, com parecer lido na CCJ do Senado em 2025.",
+                "A CCJ da Câmara aprovou em 10/06/2026, por 44 votos a 18, proposta que reduz a maioridade penal para 16 anos."
+              ],
+              "divergent": [
+                "A proposta segue sem votação de plenário em qualquer das Casas; o texto da Câmara ainda depende de comissão especial e de dois turnos."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-22"
+                },
+                {
+                  "id": "src-plano-pdf"
+                },
+                {
+                  "id": "src-fb-07"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados federais e 15 de 81 senadores (bancada do partido em 2026)",
+              "coalitionSeats": "Chapa pura do PL, sem federação ou coligação formal; vice Alfredo Gaspar (PL-AL), convenção nacional de 25/07/2026",
+              "federations": "Nenhuma federação ou coligação registrada para a chapa presidencial",
+              "documentedAgreements": 3,
+              "note": "O PL tem a maior bancada da Câmara (98 deputados) e 15 senadores; 3 episódios de negociação constam do histórico do candidato (2019, 2024 e 2026), sem coligação formal para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-11"
+                },
+                {
+                  "id": "src-valor-convencao"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "mudanca-de-posicao",
+                "title": "Plano registra 16 anos; em junho de 2026 o candidato defendeu redução para 14 anos",
+                "detail": "O plano registrado no TSE fixa a redução da maioridade penal para 16 anos, enquanto em 11/06/2026 o candidato defendeu publicamente a redução para 14 anos. As fontes consultadas não explicam a diferença entre as duas referências.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-21"
+                  },
+                  {
+                    "id": "src-plano-pdf"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Emenda constitucional sem votação de plenário em nenhuma das Casas",
+                "detail": "A PEC 32/2019, de autoria do candidato, teve parecer na CCJ do Senado em 2025 sem votação de plenário; a PEC aprovada em comissão especial da Câmara em 10/06/2026 ainda precisa de comissão especial concluída e de dois turnos em cada Casa.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-22"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "A idade mínima defendida é 16 ou 14 anos, e qual texto seria levado ao plenário?",
+                "why": "O plano registrado cita 16 anos e a declaração de junho de 2026 cita 14 anos."
+              },
+              {
+                "question": "Quais crimes e faixas de pena alcançariam a redução e como ficaria o sistema socioeducativo?",
+                "why": "As fontes consultadas descrevem a idade e não detalham a lista de crimes nem a execução das medidas."
+              }
+            ],
+            "publicExplanation": "Em 11/06/2026 o candidato defendeu publicamente a redução da maioridade penal para 14 anos.",
+            "methodology": "Apurado pelo plano registrado no TSE, pela ficha e pelo parecer da PEC 32/2019 no Senado e pela tramitação da proposta equivalente na Câmara em 2026. Não foi consultada a íntegra dos pareceres das comissões.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "id": "fb-prop-presidios",
+          "title": "Mais presídios, menos bandidos soltos",
+          "reality": {
+            "proposal": "Ampliar presídios federais e reduzir saídas temporárias de presos condenados.",
+            "requirement": {
+              "path": "ato-executivo",
+              "quorum": "não se aplica a programa federal de expansão, que depende de dotação orçamentária",
+              "note": "A construção e a operação de vagas dependem de orçamento federal e de cooperação com os estados, que administram a maior parte do sistema prisional; as regras de saída temporária foram alteradas por lei aprovada no Congresso."
+            },
+            "history": {
+              "aligned": [
+                "Foi relator do PL 2.253/2022, aprovado na Comissão de Segurança Pública do Senado em 06/02/2024, que restringe a saída temporária.",
+                "Em pronunciamento de 20/02/2024 defendeu a restrição das saídas temporárias de presos condenados."
+              ],
+              "divergent": [
+                "O plano registrado não informa custo por vaga nem dotação para a expansão prisional; 4,3% das 69 propostas tinham estimativa de custo."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-23"
+                },
+                {
+                  "id": "src-senado-pronunciamento"
+                },
+                {
+                  "id": "src-plano-pdf"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados federais e 15 de 81 senadores (bancada do partido em 2026)",
+              "coalitionSeats": "Chapa pura do PL, sem federação ou coligação formal; vice Alfredo Gaspar (PL-AL), convenção nacional de 25/07/2026",
+              "federations": "Nenhuma federação ou coligação registrada para a chapa presidencial",
+              "documentedAgreements": 3,
+              "note": "O PL tem a maior bancada da Câmara (98 deputados) e 15 senadores; 3 episódios de negociação constam do histórico do candidato (2019, 2024 e 2026), sem coligação formal para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-11"
+                },
+                {
+                  "id": "src-valor-convencao"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Expansão de vagas prisionais convive com corte de gastos sem custo estimado no plano",
+                "detail": "O plano propõe ampliar presídios e restringir saídas temporárias no mesmo programa que anuncia corte de despesas federais; o documento registrado não informa custo por vaga nem dotação prevista para a construção, e apenas 4,3% das propostas traziam estimativa de custo.",
+                "sources": [
+                  {
+                    "id": "src-plano-pdf"
+                  },
+                  {
+                    "id": "src-g1-plano"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantas vagas e qual o custo por vaga previstos para a expansão do sistema prisional federal?",
+                "why": "O plano não informa custo nem cronograma de construção."
+              },
+              {
+                "question": "Como seria a divisão de responsabilidade com os estados, que operam a maior parte das vagas?",
+                "why": "As fontes consultadas descrevem a proposta sem detalhar o arranjo federativo de execução."
+              }
+            ],
+            "publicExplanation": "Como relator do PL 2.253/2022, defendeu em pronunciamento no Senado (20/02/2024) o fim da saída temporária para presos condenados.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado, pelas fichas de tramitação no Senado e pelo histórico de relatoria do candidato em segurança pública. Não foram consultados dados do sistema prisional por estado.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "fb-prop-primeiro-emprego",
+          "title": "Jornada do negócio próprio e primeiro emprego",
+          "reality": {
+            "proposal": "Criar jornada para o negócio próprio e incentivar o primeiro emprego, com contratação de custo reduzido.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "Alterar modalidades de contratação exige lei aprovada pelo Congresso; o plano registrado descreve o regime sem indicar projeto de lei ou medida provisória."
+            },
+            "history": {
+              "noComparablePrecedent": "Não localizamos, nas fontes consultadas, regime federal em vigor com contratação de custo reduzido para o primeiro emprego; o plano o descreve como proposta nova.",
+              "aligned": [
+                "O plano registrado inclui 'jornada do negócio próprio' com apoio a empreendedorismo e primeiro emprego como eixo econômico."
+              ],
+              "sources": [
+                {
+                  "id": "src-plano-pdf"
+                },
+                {
+                  "id": "src-fb-07"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados federais e 15 de 81 senadores (bancada do partido em 2026)",
+              "coalitionSeats": "Chapa pura do PL, sem federação ou coligação formal; vice Alfredo Gaspar (PL-AL), convenção nacional de 25/07/2026",
+              "federations": "Nenhuma federação ou coligação registrada para a chapa presidencial",
+              "documentedAgreements": 3,
+              "note": "O PL tem a maior bancada da Câmara (98 deputados) e 15 senadores; 3 episódios de negociação constam do histórico do candidato (2019, 2024 e 2026), sem coligação formal para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-11"
+                },
+                {
+                  "id": "src-valor-convencao"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Novo regime de contratação exige lei aprovada pelo Congresso",
+                "detail": "O plano registrado descreve contratação de custo reduzido e jornada para o negócio próprio sem indicar projeto de lei; a criação de nova modalidade de contrato exige lei ordinária aprovada pelo Congresso e sanção, com efeito sobre o regime atual de contratação.",
+                "sources": [
+                  {
+                    "id": "src-plano-pdf"
+                  },
+                  {
+                    "id": "src-fb-07"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "PEC do fim da escala 6x1 foi aprovada na Câmara em 2026 com votos contrários do PL",
+                "detail": "A PEC 221/2019, que acaba com a escala 6x1 e reduz a jornada, foi aprovada na Câmara em 27/05/2026 com 22 votos contrários, 11 deles de deputados do PL; o plano do candidato propõe jornada para o negócio próprio e contratação de custo reduzido.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-27"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o desenho do contrato de custo reduzido (encargos, jornada, prazo) e o impacto sobre a arrecadação?",
+                "why": "O plano descreve a medida sem minuta, sem alíquotas e sem estimativa de renúncia."
+              },
+              {
+                "question": "Qual é a fonte de recursos das linhas de crédito anunciadas para o primeiro emprego?",
+                "why": "As fontes consultadas citam apoio a empreendedorismo sem detalhar dotação ou agente financeiro."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o desenho do contrato de custo reduzido nem com o custo da medida.",
+            "methodology": "Apurado pela leitura do eixo econômico do plano registrado no TSE e pela tramitação da PEC da jornada em 2026. Não foram consultadas notas técnicas sobre impacto da nova modalidade de contratação.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "fb-prop-infraestrutura",
+          "title": "R$ 900 bilhões em infraestrutura em quatro anos",
+          "reality": {
+            "proposal": "Investir R$ 900 bilhões em infraestrutura em quatro anos, com rodovias, ferrovias, portos e concessões.",
+            "requirement": {
+              "path": "depende-privado",
+              "quorum": "não se aplica a concessões e parcerias, que dependem de leilões e de aporte privado",
+              "note": "Parte do valor depende de concessões e de investimento privado; outra parte depende de orçamento federal, cujo piso de investimentos na lei orçamentária foi de R$ 83 bilhões para 2026."
+            },
+            "history": {
+              "aligned": [
+                "O plano registrado lista rodovias, ferrovias, hidrovias, portos e aeroportos como eixos de investimento, com previsão de obras estruturantes.",
+                "Projetos de concessão e leilões de infraestrutura ocorreram em anos anteriores em rodovias e portos, com participação de investidores privados."
+              ],
+              "divergent": [
+                "O plano registrado não informa a fonte dos R$ 900 bilhões nem a divisão entre orçamento público e aporte privado."
+              ],
+              "sources": [
+                {
+                  "id": "src-plano-pdf"
+                },
+                {
+                  "id": "src-fb-07"
+                },
+                {
+                  "id": "src-g1-plano"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados federais e 15 de 81 senadores (bancada do partido em 2026)",
+              "coalitionSeats": "Chapa pura do PL, sem federação ou coligação formal; vice Alfredo Gaspar (PL-AL), convenção nacional de 25/07/2026",
+              "federations": "Nenhuma federação ou coligação registrada para a chapa presidencial",
+              "documentedAgreements": 3,
+              "note": "O PL tem a maior bancada da Câmara (98 deputados) e 15 senadores; 3 episódios de negociação constam do histórico do candidato (2019, 2024 e 2026), sem coligação formal para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-11"
+                },
+                {
+                  "id": "src-valor-convencao"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "R$ 900 bilhões em obras no mesmo programa que anuncia corte de gastos federais",
+                "detail": "O plano promete investimento de R$ 900 bilhões em quatro anos e corte de despesas federais, sem informar a fonte dos recursos nem a parcela de aporte privado; as fontes consultadas não trazem memória de cálculo por obra.",
+                "sources": [
+                  {
+                    "id": "src-plano-pdf"
+                  },
+                  {
+                    "id": "src-g1-plano"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Parte do investimento depende de leilões e de aporte de investidores privados",
+                "detail": "Concessões de rodovias, ferrovias e portos dependem de editais, de agências reguladoras e de participação de investidores; as fontes consultadas não detalham quantos leilões nem qual cronograma sustentaria a meta de quatro anos.",
+                "sources": [
+                  {
+                    "id": "src-plano-pdf"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a fonte de recursos dos R$ 900 bilhões e qual a divisão entre orçamento e investimento privado?",
+                "why": "O plano informa o valor agregado e não traz memória de cálculo nem origem dos recursos."
+              },
+              {
+                "question": "Quantas concessões e leilões estão previstos por ano para sustentar a meta?",
+                "why": "As fontes consultadas descrevem os eixos sem cronograma de editais."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com a memória de cálculo da meta de R$ 900 bilhões nas fontes consultadas.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE e por reportagens de 2026 sobre o programa. Não foram consultados os estudos de viabilidade das obras citadas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "caiado": {
+      "proposals": [
+        {
+          "id": "rc-prop-sus",
+          "title": "Reforma do SUS com fila por critério clínico, prontuário eletrônico nacional e inteligência artificial",
+          "reality": {
+            "proposal": "Reforma do SUS com fila única por critério clínico, prontuário eletrônico nacional e uso de inteligência artificial.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "Parte da medida depende de regulação federal e de projeto de lei; a execução é tripartite, com estados e municípios operando a rede e as filas, como no arranjo adotado em Goiás."
+            },
+            "history": {
+              "aligned": [
+                "Goiás realizou 338.883 cirurgias eletivas entre jan/2023 e nov/2024, com fila única e regulação por critério clínico.",
+                "O plano de governo apresenta a fila única e o prontuário eletrônico nacional como eixos da saúde, com equipe de saúde anunciada em 18/08/2026."
+              ],
+              "divergent": [
+                "O plano não informa custo nem prazo para a integração de sistemas estaduais e municipais ao prontuário nacional."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-35"
+                },
+                {
+                  "id": "src-caiado-74"
+                },
+                {
+                  "id": "src-caiado-80"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 49 de 513 deputados federais (bancada do partido em 2026) e 13 de 81 senadores segundo informe do partido em abr/2026",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação ou federação declarada nas fontes consultadas; vice Gilberto Kassab, presidente nacional do partido",
+              "federations": "Nenhuma federação declarada",
+              "documentedAgreements": 4,
+              "note": "O PSD é o partido do vice, com 6 governadores e bancada de 49 deputados; 4 episódios de negociação constam do histórico do candidato. Não foram localizadas coligações formais para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-cg-30"
+                },
+                {
+                  "id": "src-re-r1propostas-56"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fila e prontuário nacionais dependem de estados e municípios e de regulação federal",
+                "detail": "O SUS é gerido de forma compartilhada entre União, estados e municípios; em Goiás, a fila única de cirurgias eletivas foi executada no âmbito estadual (338.883 cirurgias entre jan/2023 e nov/2024). As fontes consultadas não informam prazo nem custo da integração nacional dos sistemas.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-35"
+                  },
+                  {
+                    "id": "src-re-r1propostas-12"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o custo e o cronograma da implantação nacional do prontuário eletrônico e da fila única?",
+                "why": "O plano fixa os eixos e não detalha valores; a experiência estadual registrada é de cirurgias eletivas."
+              },
+              {
+                "question": "Como seria o critério clínico de priorização e quem o aplicaria nas filas estaduais e municipais?",
+                "why": "A proposta cita critério clínico sem definir protocolo nem ente responsável nas fontes consultadas."
+              }
+            ],
+            "publicExplanation": "O plano de saúde foi apresentado publicamente em 18/08/2026, com coordenação anunciada e referência à fila única e à regulação por critério clínico.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado, por notícia da apresentação do plano de saúde (18/08/2026) e pelos dados estaduais de cirurgias eletivas publicados pelo governo de Goiás. Não foram consultados os sistemas de regulação de outros estados.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "rc-prop-compromissos-2030",
+          "title": "Compromissos nacionais para 2030 (7 metas do plano)",
+          "reality": {
+            "proposal": "Cumprir sete compromissos nacionais para 2030, com metas de gestão em fiscal, segurança, educação, saúde, agro, saneamento e proteção social.",
+            "requirement": {
+              "path": "indefinido",
+              "quorum": "não se aplica: o plano não informa o instrumento por compromisso",
+              "note": "O documento registrado lista as metas sem indicar, para cada uma, se dependem de lei, de emenda constitucional, de ato do Executivo ou de adesão de estados e municípios."
+            },
+            "history": {
+              "aligned": [
+                "Em Goiás o governo registra sete anos consecutivos de queda nos índices de criminalidade.",
+                "O estado saiu do Regime de Recuperação Fiscal e aderiu ao Propag em 2025, após ajuste iniciado com o decreto de calamidade financeira de 2019.",
+                "O governo estadual informa R$ 23,7 bilhões em investimentos em oito anos de mandato."
+              ],
+              "divergent": [
+                "O plano registrado não traz custo por compromisso; nos dados do plano, nenhuma das 26 propostas tinha custo estimado."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-33"
+                },
+                {
+                  "id": "src-re-r1propostas-29"
+                },
+                {
+                  "id": "src-caiado-100"
+                },
+                {
+                  "id": "src-caiado-80"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 49 de 513 deputados federais (bancada do partido em 2026) e 13 de 81 senadores segundo informe do partido em abr/2026",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação ou federação declarada nas fontes consultadas; vice Gilberto Kassab, presidente nacional do partido",
+              "federations": "Nenhuma federação declarada",
+              "documentedAgreements": 4,
+              "note": "O PSD é o partido do vice, com 6 governadores e bancada de 49 deputados; 4 episódios de negociação constam do histórico do candidato. Não foram localizadas coligações formais para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-cg-30"
+                },
+                {
+                  "id": "src-re-r1propostas-56"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Sete metas nacionais sem custo estimado no mesmo plano de equilíbrio fiscal",
+                "detail": "O plano registra no TSE fixa sete compromissos para 2030, incluindo fiscal, segurança, educação, saúde, agro, saneamento e proteção social; o documento não informa custo por meta, e os dados do plano indicam que nenhuma das 26 propostas trazia estimativa de custo.",
+                "sources": [
+                  {
+                    "id": "src-caiado-80"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Metas nacionais alcançam áreas com execução de estados e municípios",
+                "detail": "Segurança, educação, saúde e saneamento são executados em grande parte por estados e municípios, com repasses federais condicionados a regras próprias; o plano não detalha como as metas nacionais seriam convertidas em obrigações dos entes.",
+                "sources": [
+                  {
+                    "id": "src-caiado-80"
+                  },
+                  {
+                    "id": "src-re-r1propostas-35"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o instrumento previsto para cada um dos sete compromissos de 2030?",
+                "why": "O plano não associa lei, emenda constitucional ou ato do Executivo a cada meta."
+              },
+              {
+                "question": "Qual é o custo total previsto e a fonte de recursos das metas que exigem investimento federal?",
+                "why": "Nenhuma proposta do plano registrado trazia estimativa de custo nos dados consultados."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o detalhamento de instrumento, custo e prazo dos sete compromissos de 2030.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pelos dados de execução do governo de Goiás (investimentos, segurança e ajuste fiscal) e pela tramitação da dívida estadual (RRF e Propag). Não foram lidos os 26 itens do programa item a item.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "rc-prop-fiscal",
+          "title": "Estratégia fiscal plurianual, teto constitucional efetivo e combate a supersalários",
+          "reality": {
+            "proposal": "Adotar estratégia fiscal plurianual com teto constitucional efetivo de gastos e combate a supersalários em todos os Poderes.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "O plano cita lei e/ou emenda constitutiva para o teto de gastos; a aplicação do teto remuneratório aos três Poderes depende de atos dos próprios órgãos e de decisões do Judiciário."
+            },
+            "history": {
+              "aligned": [
+                "Goiás decretou calamidade financeira em 21/01/2019 e aderiu ao Regime de Recuperação Fiscal, com saída formalizada em dezembro de 2025.",
+                "O estado registrou superávit primário de R$ 3,1 bilhões em 2024, segundo relatório fiscal apresentado à Comissão Mista de Orçamento.",
+                "Como governador, vetou em 2020 o reajuste de 41,7% aprovado pela Assembleia, mantendo recomposição de 13%; veto mantido em 17/06/2020."
+              ],
+              "divergent": [
+                "Normas de Goiás que permitiam pagamentos acima do teto remuneratório foram suspensas e mantidas suspensas pelo STF em julgamento de 11/09/2023."
+              ],
+              "sources": [
+                {
+                  "id": "src-caiado-100"
+                },
+                {
+                  "id": "src-re-r1propostas-31"
+                },
+                {
+                  "id": "src-re-r1propostas-30"
+                },
+                {
+                  "id": "src-re-r1propostas-48"
+                },
+                {
+                  "id": "src-re-r1propostas-49"
+                },
+                {
+                  "id": "src-re-r1propostas-36"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 49 de 513 deputados federais (bancada do partido em 2026) e 13 de 81 senadores segundo informe do partido em abr/2026",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação ou federação declarada nas fontes consultadas; vice Gilberto Kassab, presidente nacional do partido",
+              "federations": "Nenhuma federação declarada",
+              "documentedAgreements": 4,
+              "note": "O PSD é o partido do vice, com 6 governadores e bancada de 49 deputados; 4 episódios de negociação constam do histórico do candidato. Não foram localizadas coligações formais para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-cg-30"
+                },
+                {
+                  "id": "src-re-r1propostas-56"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "STF suspendeu normas de Goiás sobre remuneração acima do teto em 2023",
+                "detail": "Em 23/07/2023 o ministro André Mendonça suspendeu pagamentos acima do teto remuneratório a magistrados de Goiás, e em 11/09/2023 o Plenário do STF manteve a suspensão de normas estaduais sobre remuneração acima do teto; o plano propõe aplicação do teto constitucional em todos os Poderes.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-37"
+                  },
+                  {
+                    "id": "src-re-r1propostas-36"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Teto constitucional de gastos e aplicação do teto remuneratório exigem emenda e atos dos Poderes",
+                "detail": "Fixar teto de gastos como regra constitucional exige PEC com 308 votos e 49 senadores, em dois turnos; a remuneração dos três Poderes é definida por atos de cada órgão, e o descumprimento é levado ao Judiciário, como no caso das normas de Goiás suspensas em 2023.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-36"
+                  },
+                  {
+                    "id": "src-caiado-80"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o texto do teto constitucional de gastos e o prazo de vigência previsto?",
+                "why": "O plano cita lei e/ou emenda constitutiva sem anexar minuta nem período de aplicação."
+              },
+              {
+                "question": "Como seria feita a aplicação do teto remuneratório a magistrados e parlamentares, que hoje dependem de atos de cada Poder?",
+                "why": "A suspensão de normas estaduais pelo STF em 2023 indica a participação do Judiciário na matéria."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com minuta ou memória de cálculo do teto constitucional de gastos proposto.",
+            "methodology": "Apurado pelo histórico fiscal do governo de Goiás (calamidade financeira, RRF, Propag e superávit de 2024), pelo registro do veto ao reajuste de 41,7% em 2020 e por decisões do STF de 2023 sobre remuneração acima do teto no estado.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "id": "rc-prop-pacto-governabilidade",
+          "title": "Pacto Nacional de Governabilidade e Resultados e financiamento político rastreável",
+          "reality": {
+            "proposal": "Firmar pacto nacional de governabilidade e resultados, com financiamento político rastreável e gestão orientada a metas.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "O pacto é compromisso político entre Poderes e entes; a rastreabilidade do financiamento político depende de lei e de regras da Justiça Eleitoral, e a fixação dos valores dos fundos é feita pelo Congresso na lei orçamentária."
+            },
+            "history": {
+              "aligned": [
+                "Como governador, presidiu o Consórcio Brasil Central, arranjo de cooperação entre estados do Centro-Oeste e do Norte.",
+                "O plano registrado inclui o pacto de governabilidade e a rastreabilidade do financiamento político entre as propostas de gestão."
+              ],
+              "divergent": [
+                "O Congresso fixou R$ 4,9 bilhões para o Fundo Eleitoral em 2026, no ciclo orçamentário federal, sem vínculo com a proposta do plano."
+              ],
+              "sources": [
+                {
+                  "id": "src-caiado-112"
+                },
+                {
+                  "id": "src-caiado-80"
+                },
+                {
+                  "id": "src-re-r1propostas-52"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 49 de 513 deputados federais (bancada do partido em 2026) e 13 de 81 senadores segundo informe do partido em abr/2026",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação ou federação declarada nas fontes consultadas; vice Gilberto Kassab, presidente nacional do partido",
+              "federations": "Nenhuma federação declarada",
+              "documentedAgreements": 4,
+              "note": "O PSD é o partido do vice, com 6 governadores e bancada de 49 deputados; 4 episódios de negociação constam do histórico do candidato. Não foram localizadas coligações formais para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-cg-30"
+                },
+                {
+                  "id": "src-re-r1propostas-56"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Rastreabilidade do financiamento político depende de lei e de decisão do Congresso",
+                "detail": "Os valores dos fundos eleitoral e partidário são definidos pelo Congresso no ciclo orçamentário — em 2026 o Fundo Eleitoral recebeu R$ 4,9 bilhões — e as regras de prestação de contas são da Justiça Eleitoral; o plano descreve a meta sem indicar projeto de lei.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-52"
+                  },
+                  {
+                    "id": "src-re-r1propostas-55"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o instrumento previsto para tornar rastreável o financiamento político?",
+                "why": "O plano cita a meta sem indicar projeto de lei, resolução ou modelo de prestação de contas."
+              },
+              {
+                "question": "Como o pacto de governabilidade seria firmado com Poderes e entes que têm autonomia própria?",
+                "why": "O plano descreve o pacto sem definir participantes, prazo ou indicadores de resultado."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o desenho do pacto de governabilidade nem com o modelo de rastreabilidade do financiamento político.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado, pelo histórico de cooperação federativa do candidato (Consórcio Brasil Central) e pelo ciclo orçamentário dos fundos eleitoral e partidário de 2025-2026.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "rc-prop-seguranca",
+          "title": "Segurança pública: recuperação de territórios, combate a facções e cooperação sul-americana (SULPOL)",
+          "reality": {
+            "proposal": "Recuperar territórios, combater facções e criar cooperação policial sul-americana (SULPOL).",
+            "requirement": {
+              "path": "negociacao-internacional",
+              "quorum": "não se aplica a acordo entre governos; tratados passam pelo Congresso (CF, art. 49, I)",
+              "note": "A cooperação policial com países vizinhos depende de acordos e de adesão de outros governos; a recuperação de territórios envolve as polícias estaduais e a PEC da Segurança em tramitação no Congresso."
+            },
+            "history": {
+              "aligned": [
+                "Goiás registra sete anos consecutivos de queda nos índices de criminalidade, segundo o governo estadual.",
+                "O candidato propôs publicamente a criação de polícia unificada em entrevista de 07/08/2026.",
+                "A PEC da Segurança Pública foi aprovada na Câmara em dois turnos em 04/03/2026 e trata das competências federativas na área."
+              ],
+              "divergent": [
+                "O plano não informa custo, efetivo nem cronograma da cooperação sul-americana e da recuperação de territórios."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-33"
+                },
+                {
+                  "id": "src-caiado-130"
+                },
+                {
+                  "id": "src-re-r1propostas-57"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 49 de 513 deputados federais (bancada do partido em 2026) e 13 de 81 senadores segundo informe do partido em abr/2026",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação ou federação declarada nas fontes consultadas; vice Gilberto Kassab, presidente nacional do partido",
+              "federations": "Nenhuma federação declarada",
+              "documentedAgreements": 4,
+              "note": "O PSD é o partido do vice, com 6 governadores e bancada de 49 deputados; 4 episódios de negociação constam do histórico do candidato. Não foram localizadas coligações formais para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-cg-30"
+                },
+                {
+                  "id": "src-re-r1propostas-56"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Cooperação policial sul-americana depende de acordos com outros governos",
+                "detail": "A proposta de agência sul-americana de cooperação policial (SULPOL) envolve negociação com governos de outros países e, se virar tratado, aprovação pelo Congresso; as fontes consultadas não trazem países participantes, prazo nem modelo de financiamento.",
+                "sources": [
+                  {
+                    "id": "src-caiado-80"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Polícia unificada e recuperação de territórios alcançam competências estaduais e federais",
+                "detail": "A unificação de polícias e a recuperação de territórios envolvem as polícias estaduais, que respondem ao governador, e a PEC da Segurança em tramitação no Congresso, que altera competências federativas; o plano não detalha a divisão de atribuições.",
+                "sources": [
+                  {
+                    "id": "src-caiado-130"
+                  },
+                  {
+                    "id": "src-re-r1propostas-57"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais países participariam da SULPOL e qual o instrumento previsto (acordo, tratado ou rede de cooperação)?",
+                "why": "O plano cita a agência sul-americana sem lista de países nem instrumento jurídico."
+              },
+              {
+                "question": "Como ficaria a divisão de atribuições entre a polícia unificada proposta e as polícias estaduais?",
+                "why": "As fontes consultadas registram a proposta sem detalhar comando, efetivo ou transição."
+              }
+            ],
+            "publicExplanation": "Na entrevista de 07/08/2026 o candidato defendeu a criação de polícia unificada e a cooperação internacional contra facções.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado, pela entrevista de 07/08/2026, pelos dados de criminalidade publicados pelo governo de Goiás e pela tramitação da PEC da Segurança no Congresso.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "rc-prop-protecao-social",
+          "title": "Proteção social: manutenção das transferências de renda com transição para o trabalho",
+          "reality": {
+            "proposal": "Manter as transferências de renda e criar regra de transição do benefício para o trabalho.",
+            "requirement": {
+              "path": "depende-municipios",
+              "quorum": "não se aplica a programa com execução municipal; a alteração das regras do programa federal exige lei ordinária",
+              "note": "A gestão do Cadastro Único e dos serviços de assistência é feita por municípios, com cofinanciamento estadual e federal; alterar o programa federal de transferência exige lei aprovada pelo Congresso."
+            },
+            "history": {
+              "aligned": [
+                "Goiás manteve o ajuste fiscal iniciado em 2019 e aderiu ao Propag em 2025, com aval do Legislativo estadual para a saída do RRF.",
+                "O governo federal reajustou o piso do Bolsa Família em 17/09/2026, de R$ 600 para R$ 691."
+              ],
+              "divergent": [
+                "O plano não informa complemento estadual nem dotação para a transição do benefício ao trabalho."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-31"
+                },
+                {
+                  "id": "src-re-r1propostas-34"
+                },
+                {
+                  "id": "src-re-r1propostas-10"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 49 de 513 deputados federais (bancada do partido em 2026) e 13 de 81 senadores segundo informe do partido em abr/2026",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação ou federação declarada nas fontes consultadas; vice Gilberto Kassab, presidente nacional do partido",
+              "federations": "Nenhuma federação declarada",
+              "documentedAgreements": 4,
+              "note": "O PSD é o partido do vice, com 6 governadores e bancada de 49 deputados; 4 episódios de negociação constam do histórico do candidato. Não foram localizadas coligações formais para a chapa presidencial. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-cg-30"
+                },
+                {
+                  "id": "src-re-r1propostas-56"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Manutenção das transferências depende de decisão federal e de gestão municipal",
+                "detail": "O programa federal foi reajustado por decisão do Executivo federal em 17/09/2026 e a verificação de condicionalidades e o atendimento passam pelo Cadastro Único e pelos serviços municipais; o plano não informa dotação estadual nem regra de transição própria.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-10"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a regra de transição prevista do benefício para o trabalho e em qual prazo?",
+                "why": "O plano cita transição sem detalhar critérios de saída nem público alcançado."
+              },
+              {
+                "question": "Haverá complemento estadual às transferências federais e qual a dotação prevista?",
+                "why": "As fontes consultadas não trazem valor de complemento nem fonte de recursos para a transição."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com a regra de transição entre benefício e trabalho nas fontes consultadas.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado, pelo histórico fiscal de Goiás (ajuste de 2019 e adesão ao Propag em 2025) e pelo reajuste do programa federal anunciado em 17/09/2026. Não foram consultados os planos municipais de assistência social.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "zema": {
+      "proposals": [
+        {
+          "id": "zema-prop-privatizacoes",
+          "title": "Privatização de 100% das estatais e ampliação de PPPs",
+          "reality": {
+            "proposal": "Privatizar 100% das estatais federais e ampliar parcerias público-privadas em infraestrutura.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "Cada estatal exige autorização legislativa própria; em Minas Gerais a venda da Copasa exigiu PEC que afastou o referendo previsto na Constituição estadual, além de lei autorizativa. Ativos estratégicos podem exigir mudança regulatória."
+            },
+            "history": {
+              "aligned": [
+                "Privatização da Copasa concluída em 16/06/2026, com venda de R$ 8,38 bilhões e arrecadação estadual de R$ 13,9 bilhões.",
+                "ALMG aprovou em 05/11/2025 a PEC que retirou a exigência de referendo para desestatizar a Copasa; a lei autorizativa passou em dezembro de 2025.",
+                "Em junho de 2026 o governo estadual citava Cemig, Codemig e Gasmig entre os ativos na agenda de desestatização."
+              ],
+              "divergent": [
+                "A tentativa de conversão da Cemig em corporação em 2022 não avançou; em 2026 a privatização da Cemig saiu do radar com a eleição estadual.",
+                "O plano federal não informa a lista de estatais nem a ordem de venda; em Minas o processo exigiu PEC, lei e leilão."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-38"
+                },
+                {
+                  "id": "src-re-r1propostas-39"
+                },
+                {
+                  "id": "src-re-r1propostas-40"
+                },
+                {
+                  "id": "src-re-r1propostas-42"
+                },
+                {
+                  "id": "src-re-r1propostas-43"
+                },
+                {
+                  "id": "src-re-r1propostas-44"
+                },
+                {
+                  "id": "src-re-r1propostas-45"
+                },
+                {
+                  "id": "src-zema-157"
+                },
+                {
+                  "id": "src-zema-140"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador eleito (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO, sem coligação ou federação; vice Eduardo Girão (NOVO-CE), confirmado em 04/08/2026",
+              "federations": "Sem federação ou coligação registrada",
+              "documentedAgreements": 5,
+              "note": "O NOVO tem 5 deputados federais e 1 senador eleito (licenciado para a campanha), sem coligação para a chapa presidencial; 5 episódios de negociação constam do histórico do candidato (2020, 2021, 2024 e 2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-zema-57"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Cada estatal depende de autorização legislativa e, em alguns casos, de mudança constitucional",
+                "detail": "No caso que o candidato conduziu em Minas Gerais, a desestatização da Copasa exigiu PEC estadual aprovada em 05/11/2025 para afastar a exigência de referendo e lei autorizativa aprovada em 17/12/2025, além de leilão concluído em 16/06/2026; a Cemig, alvo em 2022, seguiu sem venda.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-40"
+                  },
+                  {
+                    "id": "src-re-r1propostas-42"
+                  },
+                  {
+                    "id": "src-re-r1propostas-38"
+                  },
+                  {
+                    "id": "src-re-r1propostas-44"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Aumento de arrecadação com ativos e dívida estadual de R$ 161 bilhões em Minas",
+                "detail": "O governo de Minas informou arrecadação de R$ 13,9 bilhões com a venda da Copasa, valor apresentado como reforço fiscal no mesmo estado cuja dívida com a União foi renegociada no Propag em 2025; o plano federal não informa valor esperado por estatal.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-39"
+                  },
+                  {
+                    "id": "src-zema-76"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a lista de estatais a privatizar e o valor esperado de cada venda?",
+                "why": "O plano registrado não traz a relação de ativos nem estimativa de arrecadação por empresa."
+              },
+              {
+                "question": "Quais ativos exigiriam emenda constitucional ou mudança regulatória prévia?",
+                "why": "Em Minas a venda exigiu PEC estadual e lei; a operação da Copasa envolvia concessão de saneamento regulada por agência e contrato de programa com municípios."
+              },
+              {
+                "question": "Como ficariam contratos de concessão e tarifas das empresas vendidas?",
+                "why": "As fontes consultadas não detalham cláusulas de reajuste nem compromissos de investimento assumidos pelos compradores."
+              }
+            ],
+            "publicExplanation": "Em 25/08/2026, em sabatina, o candidato defendeu a privatização de estatais como parte do ajuste fiscal; na campanha estadual, a venda da Copasa foi apresentada como medida de redução da dívida e de ampliação de investimentos.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE (11 propostas-chave, 20 no total, 18% com custo estimado), pelo histórico da desestatização da Copasa em Minas Gerais (PEC, lei, leilão e conclusão em 2026) e pela tramitação da dívida estadual (RRF e Propag). Não foram consultados os editais completos das operações.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "id": "zema-prop-fundos",
+          "title": "Fim do Fundo Eleitoral e do Fundo Partidário",
+          "reality": {
+            "proposal": "Acabar com o Fundo Eleitoral e o Fundo Partidário e destinar os valores a outras áreas.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "Os fundos foram criados pela EC 96/2019, o que exige emenda para extingui-los; os valores anuais são fixados pelo Congresso na lei orçamentária — R$ 4,9 bilhões ao Fundo Eleitoral em 2026."
+            },
+            "history": {
+              "aligned": [
+                "Como governador, vetou em 2020 o reajuste de 41,7% aprovado pela Assembleia de Minas, mantendo 13%; o veto foi mantido em 17/06/2020.",
+                "Minas Gerais registrou superávit primário em quatro anos seguidos do mandato, com renúncias fiscais ainda em expansão em 2026.",
+                "O partido do candidato não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho."
+              ],
+              "divergent": [
+                "O Congresso fixou R$ 4,9 bilhões para o Fundo Eleitoral em 2026 e o Orçamento de Minas para 2026 foi sancionado com déficit de R$ 5,2 bilhões.",
+                "O plano registrado estima economia de R$ 6,3 bilhões com o fim dos dois fundos, sem detalhar a composição entre eles."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-48"
+                },
+                {
+                  "id": "src-re-r1propostas-49"
+                },
+                {
+                  "id": "src-re-r1propostas-52"
+                },
+                {
+                  "id": "src-zema-08"
+                },
+                {
+                  "id": "src-zema-12"
+                },
+                {
+                  "id": "src-re-r1propostas-55"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador eleito (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO, sem coligação ou federação; vice Eduardo Girão (NOVO-CE), confirmado em 04/08/2026",
+              "federations": "Sem federação ou coligação registrada",
+              "documentedAgreements": 5,
+              "note": "O NOVO tem 5 deputados federais e 1 senador eleito (licenciado para a campanha), sem coligação para a chapa presidencial; 5 episódios de negociação constam do histórico do candidato (2020, 2021, 2024 e 2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-zema-57"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Extinção dos fundos exige PEC com 308 votos e 49 senadores",
+                "detail": "Os fundos eleitoral e partidário foram criados pela EC 96/2019 e os valores são fixados pelo Congresso no ciclo orçamentário — R$ 4,9 bilhões ao Fundo Eleitoral em 2026; o partido do candidato tem 5 dos 513 deputados federais e 1 senador.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-52"
+                  },
+                  {
+                    "id": "src-zema-21"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Economia estimada de R$ 6,3 bilhões no plano diante de orçamento estadual com déficit de R$ 5,2 bilhões",
+                "detail": "O plano registrado estima economia de R$ 6,3 bilhões com o fim dos fundos, valor que corresponde a cerca de 2% do Fundo Eleitoral e Partidário projetados; em Minas, o orçamento de 2026 foi sancionado com déficit previsto de R$ 5,2 bilhões e as contas seguiam com caixa negativo.",
+                "sources": [
+                  {
+                    "id": "src-zema-12"
+                  },
+                  {
+                    "id": "src-zema-08"
+                  },
+                  {
+                    "id": "src-re-r1propostas-50"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a memória de cálculo da economia de R$ 6,3 bilhões com o fim dos dois fundos?",
+                "why": "O plano informa o total sem detalhar a composição entre Fundo Eleitoral, Fundo Partidário e valores projetados."
+              },
+              {
+                "question": "Para onde seriam destinados os recursos e por qual instrumento orçamentário?",
+                "why": "O plano cita investimento em áreas prioritárias sem indicar dotação nem programa."
+              }
+            ],
+            "publicExplanation": "Em sabatina de 25/08/2026 o candidato defendeu o corte de gastos e a extinção de fundos; não foi localizada explicação sobre o destino dos recursos.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pelo ciclo orçamentário federal dos fundos eleitoral e partidário (2025-2026), pela nota oficial do TSE sobre o Fundo Partidário de 2025 e pelo histórico fiscal do governo de Minas (veto ao reajuste de 2020, superávits e orçamento de 2026).",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "zema-prop-previdencia",
+          "title": "Nova reforma da Previdência com idade mínima por gatilho automático e desvinculação do reajuste do salário mínimo",
+          "reality": {
+            "proposal": "Fazer nova reforma da Previdência com idade mínima por gatilho automático e desvincular o reajuste do salário mínimo.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "Regras de idade mínima, gatilho automático e desvinculação do reajuste em benefícios federais exigem emenda constitucional; a EC 103/2019 fixou a idade mínima atual e regras de transição."
+            },
+            "history": {
+              "aligned": [
+                "A reforma previdenciária estadual de 2020 fixou idade mínima de 65 anos (homens) e 62 (mulheres) em Minas; a emenda foi promulgada em 14/09/2020.",
+                "O plano registrado inclui a nova reforma previdenciária entre as 20 propostas, com gatilho automático de idade."
+              ],
+              "divergent": [
+                "O texto aprovado em Minas em 2020 resultou de mudanças da Assembleia no projeto original; o plano federal não informa idade nem transição."
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-79"
+                },
+                {
+                  "id": "src-re-r1propostas-47"
+                },
+                {
+                  "id": "src-zema-12"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador eleito (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO, sem coligação ou federação; vice Eduardo Girão (NOVO-CE), confirmado em 04/08/2026",
+              "federations": "Sem federação ou coligação registrada",
+              "documentedAgreements": 5,
+              "note": "O NOVO tem 5 deputados federais e 1 senador eleito (licenciado para a campanha), sem coligação para a chapa presidencial; 5 episódios de negociação constam do histórico do candidato (2020, 2021, 2024 e 2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-zema-57"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Nova reforma previdenciária exige PEC e regra de transição para quem já contribui",
+                "detail": "Alterar idade mínima e vincular o reajuste exige emenda constitucional com 308 votos e 49 senadores, em dois turnos; a EC 103/2019 fixou a idade mínima federal e regras de transição, e a reforma estadual de Minas foi aprovada em 2020 com mudanças feitas pela Assembleia.",
+                "sources": [
+                  {
+                    "id": "src-zema-79"
+                  },
+                  {
+                    "id": "src-re-r1propostas-47"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Desvinculação do reajuste convive com a promessa de correção do salário mínimo pela inflação",
+                "detail": "O plano propõe desvincular o reajuste de benefícios do salário mínimo, e em 24/08/2026 o candidato afirmou que o salário mínimo terá correção pela inflação; as fontes consultadas não detalham o efeito da desvinculação sobre aposentadorias e benefícios assistenciais.",
+                "sources": [
+                  {
+                    "id": "src-zema-163"
+                  },
+                  {
+                    "id": "src-zema-12"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a idade mínima de referência e a regra de transição para quem já contribui?",
+                "why": "O plano cita gatilho automático sem fixar idade nem período de transição."
+              },
+              {
+                "question": "Quais benefícios seriam desvinculados do salário mínimo e qual o efeito fiscal estimado?",
+                "why": "As fontes consultadas não trazem memória de cálculo nem lista de benefícios alcançados."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com idade de referência ou memória de cálculo da nova reforma da Previdência proposta.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pela tramitação e pelo resultado da reforma da Previdência estadual de Minas Gerais (2020) e pelas declarações públicas de agosto de 2026 sobre salário mínimo. Não foram consultados estudos atuariais.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "zema-prop-clt",
+          "title": "Regime de contratação opcional alternativo à CLT",
+          "reality": {
+            "proposal": "Criar regime de contratação opcional alternativo à CLT, com menos encargos e regras próprias.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "Criar nova modalidade de contratação exige lei aprovada pelo Congresso; o plano registrado descreve a medida sem indicar projeto de lei ou minuta, e a CLT segue como regime geral."
+            },
+            "history": {
+              "noComparablePrecedent": "Não localizamos, nas fontes consultadas, regime federal em vigor equivalente ao proposto; o plano o apresenta como opção ao regime atual de contratação.",
+              "aligned": [
+                "O plano registrado inclui o regime alternativo de contratação entre as 20 propostas e o apresenta como medida de redução do custo do trabalho."
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-12"
+                },
+                {
+                  "id": "src-zema-135"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador eleito (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO, sem coligação ou federação; vice Eduardo Girão (NOVO-CE), confirmado em 04/08/2026",
+              "federations": "Sem federação ou coligação registrada",
+              "documentedAgreements": 5,
+              "note": "O NOVO tem 5 deputados federais e 1 senador eleito (licenciado para a campanha), sem coligação para a chapa presidencial; 5 episódios de negociação constam do histórico do candidato (2020, 2021, 2024 e 2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-zema-57"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Nova modalidade de contratação exige lei aprovada pelo Congresso",
+                "detail": "O plano registrado descreve o regime alternativo sem indicar projeto de lei; a criação de modalidade própria de contrato depende de lei ordinária e de sanção, com efeitos sobre o regime geral de contratação e sobre a arrecadação de encargos.",
+                "sources": [
+                  {
+                    "id": "src-zema-12"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Regime com menos encargos sem estimativa de impacto na arrecadação do plano",
+                "detail": "O plano propõe alternativa à CLT com menos encargos no mesmo programa que promete ajuste fiscal; as fontes consultadas não trazem estimativa de renúncia nem número de trabalhadores alcançados.",
+                "sources": [
+                  {
+                    "id": "src-zema-12"
+                  },
+                  {
+                    "id": "src-zema-140"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o desenho do regime alternativo (jornada, encargos, contribuição previdenciária, representação)?",
+                "why": "O plano descreve a proposta sem minuta nem parâmetros de custo."
+              },
+              {
+                "question": "Qual é o impacto estimado na arrecadação previdenciária e trabalhista?",
+                "why": "As fontes consultadas não trazem memória de cálculo nem número de trabalhadores que poderiam migrar de regime."
+              }
+            ],
+            "publicExplanation": "Em sabatina de 25/08/2026 o candidato defendeu flexibilização das regras de contratação; não foi localizada explicação pública com o desenho do novo regime.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE e pela cobertura das sabatinas de agosto de 2026. Não foram consultados projetos de lei em tramitação sobre o mesmo tema, nem notas técnicas de impacto na arrecadação.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "zema-prop-bolsa-familia",
+          "title": "Condicionar o Bolsa Família à aceitação de ofertas formais de trabalho",
+          "reality": {
+            "proposal": "Condicionar o Bolsa Família à aceitação de ofertas formais de trabalho e revisar o cadastro de beneficiários.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "Alterar as regras do programa exige lei aprovada pelo Congresso; a oferta de vagas depende da rede de intermediação de emprego, operada com estados e municípios, e a verificação de dados passa pelo Cadastro Único."
+            },
+            "history": {
+              "noComparablePrecedent": "Não localizamos, nas fontes consultadas, regra federal em vigor que suspenda o benefício por recusa de oferta formal de trabalho; o plano registrado propõe a mudança como nova regra.",
+              "aligned": [
+                "O plano registrado prevê suspensão do benefício em caso de recusa de oferta formal de trabalho, com revisão do cadastro."
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-12"
+                },
+                {
+                  "id": "src-re-r1propostas-10"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador eleito (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO, sem coligação ou federação; vice Eduardo Girão (NOVO-CE), confirmado em 04/08/2026",
+              "federations": "Sem federação ou coligação registrada",
+              "documentedAgreements": 5,
+              "note": "O NOVO tem 5 deputados federais e 1 senador eleito (licenciado para a campanha), sem coligação para a chapa presidencial; 5 episódios de negociação constam do histórico do candidato (2020, 2021, 2024 e 2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-zema-57"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Mudança de regra do programa exige lei e depende da oferta de vagas e do Cadastro Único",
+                "detail": "Alterar condicionalidades e sanções do programa federal depende de lei aprovada pelo Congresso; a oferta formal de trabalho passa pela rede de intermediação e pelo Cadastro Único, com participação de estados e municípios. O reajuste do benefício foi definido pelo Executivo federal em 17/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-10"
+                  },
+                  {
+                    "id": "src-zema-12"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Suspensão do benefício por recusa de vaga sem estimativa da oferta disponível",
+                "detail": "O plano condiciona a manutenção do benefício à aceitação de oferta formal de trabalho; as fontes consultadas não informam quantas vagas formais seriam oferecidas nem o custo da intermediação de emprego no novo desenho.",
+                "sources": [
+                  {
+                    "id": "src-zema-12"
+                  },
+                  {
+                    "id": "src-zema-135"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantas ofertas formais de trabalho seriam disponibilizadas por ano para sustentar a regra?",
+                "why": "O plano condiciona o benefício à aceitação de vaga sem estimar o número de vagas nem a capacidade da intermediação."
+              },
+              {
+                "question": "Como seria verificada a recusa e qual o critério de suspensão e de retorno ao benefício?",
+                "why": "As fontes consultadas descrevem a regra sem procedimento, prazo nem instância de recurso."
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o procedimento de verificação da recusa nem com o critério de suspensão do benefício.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pelo reajuste do programa federal de 17/09/2026 e pela cobertura das sabatinas de agosto de 2026. Não foram consultados dados do Cadastro Único nem a fila de vagas do sistema de emprego.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "zema-prop-socios",
+          "title": "Programa 'Sócios do Brasil': R$ 1.000 para cada brasileiro ao nascer",
+          "reality": {
+            "proposal": "Criar o programa 'Sócios do Brasil', com depósito de R$ 1.000 para cada brasileiro ao nascer.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "O programa depende de lei e de dotação orçamentária anual; a estimativa de custo divulgada foi de cerca de R$ 2,5 bilhões por ano, com origem dos recursos citada pelo candidato em economia com combate à corrupção e revisão de privilégios."
+            },
+            "history": {
+              "noComparablePrecedent": "Não localizamos, nas fontes consultadas, programa federal em vigor equivalente, com depósito em conta para cada pessoa ao nascer; o plano o apresenta como proposta nova.",
+              "aligned": [
+                "O candidato apresentou o programa em setembro de 2026, com estimativa de custo divulgada pela campanha de cerca de R$ 2,5 bilhões por ano."
+              ],
+              "sources": [
+                {
+                  "id": "src-re-r1propostas-53"
+                },
+                {
+                  "id": "src-re-r1propostas-54"
+                },
+                {
+                  "id": "src-zema-12"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador eleito (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO, sem coligação ou federação; vice Eduardo Girão (NOVO-CE), confirmado em 04/08/2026",
+              "federations": "Sem federação ou coligação registrada",
+              "documentedAgreements": 5,
+              "note": "O NOVO tem 5 deputados federais e 1 senador eleito (licenciado para a campanha), sem coligação para a chapa presidencial; 5 episódios de negociação constam do histórico do candidato (2020, 2021, 2024 e 2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-zema-57"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Custo estimado de R$ 2,5 bilhões por ano com origem dos recursos citada em economia de gastos",
+                "detail": "A campanha estimou em cerca de R$ 2,5 bilhões por ano o custo do depósito de R$ 1.000 por nascimento, com origem dos recursos citada em economia no combate à corrupção e na revisão de privilégios; o plano registrado não traz dotação prevista nem memória de cálculo.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-53"
+                  },
+                  {
+                    "id": "src-re-r1propostas-54"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Depósito anual por nascimento depende de lei e de dotação orçamentária",
+                "detail": "O programa exige lei e previsão na lei orçamentária de cada ano, além de estrutura para abertura de contas e gestão dos valores; as fontes consultadas não informam o instrumento previsto nem a estimativa de quantos nascimentos por ano seriam alcançados.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-53"
+                  },
+                  {
+                    "id": "src-zema-12"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a memória de cálculo do custo anual do programa e a fonte de recursos prevista?",
+                "why": "A estimativa de R$ 2,5 bilhões por ano foi divulgada pela campanha; o plano registrado não detalha origem nem dotação."
+              },
+              {
+                "question": "Como seriam abertas e movimentadas as contas e a partir de que idade o valor poderia ser usado?",
+                "why": "As fontes consultadas descrevem o depósito ao nascer sem regras de saque, rendimento ou administração dos recursos."
+              }
+            ],
+            "publicExplanation": "Em setembro de 2026 o candidato apresentou o programa e afirmou que os recursos viriam de economia no combate à corrupção e de ajustes no funcionalismo.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE e pelas reportagens de setembro de 2026 com a estimativa de custo divulgada pela campanha. Não foram consultados estudos sobre custo por coorte de nascimentos nem a íntegra do desenho financeiro.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "Análise limitada às propostas-chave já cadastradas no JSON principal: 6 de 8 para Lula, 6 de 69 para Flávio Bolsonaro, 6 de 26 para Caiado e 6 de 20 para Zema; os demais itens dos programas não foram lidos item a item.",
+    "Nenhuma das 8 propostas-chave de Lula traz estimativa de custo, e os dados do plano indicam 0% com custo para Lula e Caiado, 4,3% para Flávio Bolsonaro e 18% para Zema — a checagem de fonte de recursos ficou restrita ao que a imprensa e os relatórios fiscais informaram.",
+    "Votos nominais foram conferidos em páginas de votação do Senado (PEC 8/2021, PEC 6/2019 e PEC 54/2024); nas votações da PEC 54/2024 a página registra voto contrário em votação nominal e favorável no destaque da Emenda nº 1, sem individualizar aqui o turno de cada registro.",
+    "Duas páginas usadas como fonte não responderam à consulta automatizada em 29/09/2026 (portal do STF e site da ALMG para a LDO 2026); as informações foram conferidas pelo título e pelo trecho indexado nos resultados de busca, sem leitura do texto integral.",
+    "Para Caiado, os dados de execução estadual vêm de publicações do próprio governo de Goiás (investimentos, cirurgias eletivas e criminalidade); não foram consultados os relatórios fiscais completos do estado nem os anuários de segurança.",
+    "Para Zema, a checagem do custo do 'Sócios do Brasil' e do volume de recursos dos fundos usa estimativas divulgadas por campanha e imprensa, sem nota técnica oficial localizada.",
+    "Não foi consultado o inteiro teor dos planos PDFs registrados no TSE (Lula 84 páginas, Flávio 76 páginas, Caiado e Zema com documentos próprios): a apuração usou as propostas-chave cadastradas, as fontes do pool de cada candidato e a cobertura de imprensa de 2026."
+  ]
+}

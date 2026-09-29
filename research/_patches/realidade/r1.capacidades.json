@@ -1,0 +1,3738 @@
+{
+  "grupo": "r1",
+  "escopo": "capacidades",
+  "sources": [
+    {
+      "id": "src-re-r1capacidades-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publisher": "Presidência da República — Planalto",
+      "date": "1988-10-05",
+      "type": "oficial_legislacao",
+      "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes."
+    },
+    {
+      "id": "src-re-r1capacidades-02",
+      "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+      "publisher": "Senado Federal — Dados Abertos",
+      "date": "2026-09-29",
+      "type": "oficial_dados_abertos",
+      "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício."
+    },
+    {
+      "id": "src-re-r1capacidades-03",
+      "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
+      "publisher": "Câmara dos Deputados — Dados Abertos",
+      "date": "2026-09-29",
+      "type": "oficial_dados_abertos",
+      "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras."
+    }
+  ],
+  "candidates": {
+    "lula": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "reality": {
+            "proposal": "Executar Novo PAC, Bolsa Família, alfabetização (80%) e a reestruturação de carreiras do Executivo no novo mandato",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "note": "A LOA 2026 (Lei 15.346/2026) foi sancionada em 14/01/2026 com vetos de R$ 393–400 mi em emendas; os programas citados já estão instituídos (Lei 14.601/2023 e Decreto 11.632/2023) e a entrega anual depende do orçamento aprovado.",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação (CF art. 47)"
+            },
+            "history": {
+              "aligned": [
+                "3 atos de 2023–2026: Lei 14.601/2023 (Bolsa Família), Decreto 11.632/2023 (Novo PAC) e sanção da LOA 2026 (Lei 15.346/2026)"
+              ],
+              "divergent": [
+                "O PAC executou 53,7% do previsto até 2026 (R$ 711 bi até dez/2024)",
+                "a LOA 2026 teve R$ 393–400 mi vetados em emendas"
+              ],
+              "sources": [
+                {
+                  "id": "src-lula-92"
+                },
+                {
+                  "id": "src-lula-90"
+                },
+                {
+                  "id": "src-lula-40"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 67 deputados após a janela partidária)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 1,
+              "note": "O plano depende da LOA anual; a coligação de 7 partidos e a bancada do PT (65 deputados e 9 senadores em exercício) são a base observável no mandato em curso. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-41"
+                },
+                {
+                  "id": "src-lula-19"
+                },
+                {
+                  "id": "src-lula-22"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                },
+                {
+                  "id": "src-re-r1capacidades-03"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Plano mantém o arcabouço fiscal sem indicar corte de despesa e propõe jornada de 40 h",
+                "detail": "O programa registrado no TSE em 08/08/2026 mantém o arcabouço fiscal (Lei 14.751/2023) e não menciona redução de gastos (Folha, 13/08/2026); no mesmo documento estão o fim da escala 6x1 e a jornada de 40 horas sem redução salarial. O texto não detalha como conciliar as duas medidas.",
+                "sources": [
+                  {
+                    "id": "src-lula-50"
+                  },
+                  {
+                    "id": "src-lula-48"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Carteira do PAC executada em 53,7% e orçamento sancionado com vetos a emendas",
+                "detail": "Até dez/2024 o Novo PAC havia executado R$ 711 bi, 53,7% do previsto até 2026 (Secom, abr/2025). A LOA 2026, sancionada em 14/01/2026, vetou R$ 393–400 mi em emendas modificadas pelo Congresso, com superávit previsto de R$ 34,2 bi.",
+                "sources": [
+                  {
+                    "id": "src-lula-91"
+                  },
+                  {
+                    "id": "src-lula-40"
+                  },
+                  {
+                    "id": "src-lula-11"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a fonte de recursos da jornada de 40 horas sem redução salarial?"
+              },
+              {
+                "question": "Como o plano trata a diferença entre o ritmo do PAC e o total previsto até 2026?"
+              },
+              {
+                "question": "Qual é o custo por item das diretrizes registradas no TSE?"
+              }
+            ],
+            "publicExplanation": "Não localizamos manifestação pública do candidato, nesta rodada, explicando a diferença entre a execução do PAC e o total previsto até 2026.",
+            "methodology": "Comparação entre o programa registrado no TSE (documento 280017016005, 13 eixos) e atos oficiais do período 2023–2026 (leis, decreto, LOA) e dados de execução da Secom. Não foram levantadas as metas físicas de cada obra do PAC nem o detalhamento por item do plano.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-lula-91"
+              },
+              {
+                "id": "src-lula-40"
+              },
+              {
+                "id": "src-lula-11"
+              },
+              {
+                "id": "src-lula-50"
+              },
+              {
+                "id": "src-lula-48"
+              },
+              {
+                "id": "src-lula-06"
+              },
+              {
+                "id": "src-lula-80"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "reality": {
+            "proposal": "Aprovar no Congresso o fim da escala 6x1, a jornada de 40 h e o Ministério da Segurança Pública (por PEC)",
+            "requirement": {
+              "path": "pec",
+              "note": "O plano lista PEC para a jornada de 40 h/escala 6x1 e para o Ministério da Segurança Pública; a regulação da reforma tributária depende de lei complementar.",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "EC 132/2023 promulgada em 20/12/2023",
+                "LC 200/2023 sancionada em 31/08/2023",
+                "PEC da Segurança aprovada na Câmara em 05/03/2026"
+              ],
+              "divergent": [
+                "União Brasil e PP deixaram o governo em 02/09/2025",
+                "alinhamento no Senado caiu de 75% (2025) para 38,5% (2026)"
+              ],
+              "sources": [
+                {
+                  "id": "src-lula-30"
+                },
+                {
+                  "id": "src-lula-106"
+                },
+                {
+                  "id": "src-lula-128"
+                },
+                {
+                  "id": "src-lula-21"
+                },
+                {
+                  "id": "src-lula-20"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 67 deputados após a janela partidária)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 4,
+              "note": "A base registrada em 2026 é a coligação de 7 partidos e o PT com 65 deputados e 9 senadores em exercício; houve 4 acordos de pauta documentados no mandato, com Poderes e governadores. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-41"
+                },
+                {
+                  "id": "src-lula-22"
+                },
+                {
+                  "id": "src-lula-20"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                },
+                {
+                  "id": "src-re-r1capacidades-03"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Pauta de PEC e alinhamento da base no Senado de 38,5% em 2026",
+                "detail": "O programa lista emenda constitucional para a jornada de 40 h/escala 6x1 e para o ministério da segurança. No mesmo período, painel citado pelo Poder360 registra 38,5% de alinhamento da base no Senado em 2026; a Agência Senado registra 72% de votos favoráveis entre deputados de partidos com ministérios. Os números medem o mandato em curso.",
+                "sources": [
+                  {
+                    "id": "src-lula-20"
+                  },
+                  {
+                    "id": "src-lula-22"
+                  },
+                  {
+                    "id": "src-lula-48"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Saída de União Brasil e PP do governo em 2025 e acordo de pauta fechado em agosto de 2026",
+                "detail": "União Brasil e PP decidiram deixar o governo em 02/09/2025 apoiando a pauta da anistia (Folha); em 26/08/2026 o Executivo fechou acordo de pauta com os presidentes da Câmara e do Senado (redução da jornada, PEC da segurança, Redata e terras raras). As fontes não registram retorno dos dois partidos à base.",
+                "sources": [
+                  {
+                    "id": "src-lula-21"
+                  },
+                  {
+                    "id": "src-lula-70"
+                  },
+                  {
+                    "id": "src-lula-71"
+                  },
+                  {
+                    "id": "src-lula-72"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o cronograma previsto para as PECs listadas no plano?"
+              },
+              {
+                "question": "Como o plano pretende recompor votos no Senado depois da queda registrada em 2026?"
+              }
+            ],
+            "publicExplanation": "Em 26/08/2026 o presidente anunciou publicamente o acordo de pauta com os presidentes da Câmara e do Senado (redução da jornada/escala 6x1, PEC da segurança pública, Redata e terras raras).",
+            "methodology": "Contagem das matérias aprovadas no mandato (EC 132/2023, LC 200/2023, PEC da Segurança) e consulta a painéis de votação e às fontes sobre rompimentos e acordos de pauta. A série completa de votações nominais do período não foi levantada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-lula-29"
+              },
+              {
+                "id": "src-lula-30"
+              },
+              {
+                "id": "src-lula-105"
+              },
+              {
+                "id": "src-lula-106"
+              },
+              {
+                "id": "src-lula-128"
+              },
+              {
+                "id": "src-lula-129"
+              },
+              {
+                "id": "src-lula-21"
+              },
+              {
+                "id": "src-lula-20"
+              },
+              {
+                "id": "src-lula-22"
+              },
+              {
+                "id": "src-lula-70"
+              },
+              {
+                "id": "src-lula-71"
+              },
+              {
+                "id": "src-lula-72"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "lideranca-equipes",
+          "reality": {
+            "proposal": "Manter e recompor o primeiro escalão federal (38 pastas) e conduzir a reestruturação de carreiras do Executivo",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "Nomeações e decretos não passam pelo Congresso; a lei de reestruturação de carreiras foi sancionada em mar/2026 (maioria dos votos presentes, CF art. 47)."
+            },
+            "history": {
+              "aligned": [
+                "3 precedentes: 37 ministros na posse de 2023, troca da articulação política em 13/02/2025 e lei de carreiras sancionada em mar/2026"
+              ],
+              "divergent": [
+                "Não localizamos no recorte registro de mudança da estrutura ministerial por lei",
+                "as alterações do primeiro escalão localizadas são por nomeação"
+              ],
+              "sources": [
+                {
+                  "id": "src-lula-96"
+                },
+                {
+                  "id": "src-lula-22"
+                },
+                {
+                  "id": "src-lula-95"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 67 deputados após a janela partidária)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 1,
+              "note": "A composição do primeiro escalão é ato do Executivo; a base partidária é a coligação de 7 partidos e o PT com 65 deputados e 9 senadores em exercício (APIs, 29/09/2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-41"
+                },
+                {
+                  "id": "src-lula-96"
+                },
+                {
+                  "id": "src-lula-22"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reestruturação de carreiras sancionada em lei e estrutura ministerial alterada por nomeação",
+                "detail": "A reestruturação de carreiras do Executivo federal (Projeto de Transformação do Estado) foi conduzida pelo Ministério da Gestão desde 2023 e sancionada em mar/2026; a composição do ministério (37 nomes em 2023; 38 pastas em 2025–2026) consta de atos de nomeação.",
+                "sources": [
+                  {
+                    "id": "src-lula-95"
+                  },
+                  {
+                    "id": "src-lula-96"
+                  },
+                  {
+                    "id": "src-lula-97"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o custo da reestruturação de carreiras por exercício?"
+              },
+              {
+                "question": "Como o plano trata a substituição de titulares de pasta?"
+              }
+            ],
+            "publicExplanation": "Não localizamos, nesta rodada, explicação pública do candidato sobre a troca do comando da articulação política em fevereiro de 2025.",
+            "methodology": "Levantamento de atos de nomeação e de sanção no período 2023–2026 e do decreto de governança do Novo PAC. Não foram apuradas a composição partidária de cada pasta nem o custo por exercício das medidas de pessoal.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-lula-95"
+              },
+              {
+                "id": "src-lula-96"
+              },
+              {
+                "id": "src-lula-97"
+              },
+              {
+                "id": "src-lula-90"
+              },
+              {
+                "id": "src-lula-41"
+              },
+              {
+                "id": "src-re-r1capacidades-02"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "tomada-decisao",
+          "reality": {
+            "proposal": "Sustentar a trajetória fiscal do arcabouço (LC 200/2023) e decidir metas anuais do orçamento e da Previdência",
+            "requirement": {
+              "path": "lei-complementar",
+              "note": "A regra fiscal vigente é a LC 200/2023, aprovada nas duas Casas e sancionada em 31/08/2023 com dois vetos; a substituição depende de nova LC ou de PEC (308 + 49).",
+              "quorum": "Lei complementar: maioria absoluta — 257 de 513 deputados e 41 de 81 senadores (CF art. 69)"
+            },
+            "history": {
+              "aligned": [
+                "2 precedentes próprios: EC 41/2003 (Previdência, com votos contrários na base) e LC 200/2023 (arcabouço, aprovada nas duas Casas)"
+              ],
+              "divergent": [
+                "1 episódio de divergência interna documentado: a manutenção da meta de déficit zero para 2024 foi decidida depois de disputa no governo (2023)"
+              ],
+              "sources": [
+                {
+                  "id": "src-lula-100"
+                },
+                {
+                  "id": "src-lula-105"
+                },
+                {
+                  "id": "src-lula-102"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 67 deputados após a janela partidária)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 2,
+              "note": "A LC 200/2023 foi aprovada com a base de 7 partidos; o PT tem 65 deputados e 9 senadores em exercício e 72% de votos favoráveis entre partidos com ministérios na Câmara. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-41"
+                },
+                {
+                  "id": "src-lula-105"
+                },
+                {
+                  "id": "src-lula-22"
+                },
+                {
+                  "id": "src-re-r1capacidades-03"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Arcabouço mantido sem plano de corte de despesa ao lado de propostas com custo",
+                "detail": "O plano registrado no TSE mantém o arcabouço fiscal e não menciona redução de gastos (Folha, 13/08/2026), enquanto lista jornada de 40 h sem redução salarial e ampliação de programas. O documento não informa a fonte de recursos nem a ordem das medidas.",
+                "sources": [
+                  {
+                    "id": "src-lula-50"
+                  },
+                  {
+                    "id": "src-lula-48"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Regra fiscal por lei complementar exige 257 votos na Câmara e 41 no Senado",
+                "detail": "A LC 200/2023 foi aprovada nas duas Casas e sancionada em 31/08/2023 com dois vetos. O programa de 2026 mantém o instrumento, cuja alteração ou substituição depende de nova lei complementar (257 + 41) ou de emenda constitucional (308 + 49).",
+                "sources": [
+                  {
+                    "id": "src-lula-105"
+                  },
+                  {
+                    "id": "src-lula-106"
+                  },
+                  {
+                    "id": "src-lula-50"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual regra fiscal substitui o arcabouço depois de 2027?"
+              },
+              {
+                "question": "Qual é o plano de contingência se a meta anual não for atingida?"
+              }
+            ],
+            "publicExplanation": "Não localizamos, nesta rodada, explicação pública do candidato sobre a convivência entre a manutenção do arcabouço e as propostas com custo no plano de 2026.",
+            "methodology": "Comparação das decisões fiscais registradas no mandato (LC 200/2023, meta de déficit zero de 2024, contencioso tarifário) com o texto do programa de 2026 e com as regras de votação da Constituição. A série de vetos e bloqueios orçamentários não foi levantada item a item.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-lula-100"
+              },
+              {
+                "id": "src-lula-101"
+              },
+              {
+                "id": "src-lula-102"
+              },
+              {
+                "id": "src-lula-103"
+              },
+              {
+                "id": "src-lula-104"
+              },
+              {
+                "id": "src-lula-105"
+              },
+              {
+                "id": "src-lula-106"
+              },
+              {
+                "id": "src-lula-50"
+              },
+              {
+                "id": "src-lula-48"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "gestao-crises",
+          "reality": {
+            "proposal": "Responder a eventos extremos e a choques externos, com medidas fora do teto e da meta quando necessário",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "Medidas provisórias e crédito extraordinário são atos do Executivo (apreciação em até 120 dias, CF art. 62); ampliar o espaço fiscal em calamidade exigiu lei complementar (LC 206/2024 e PLP 168/2025)."
+            },
+            "history": {
+              "aligned": [
+                "3 respostas com norma federal: LC 206/2024 (enchentes do RS), MP das queimadas de 2024 e MP 1.309/2025 com o PLP 168/2025 (64 a 0 no Senado)"
+              ],
+              "divergent": [],
+              "sources": [
+                {
+                  "id": "src-lula-111"
+                },
+                {
+                  "id": "src-lula-113"
+                },
+                {
+                  "id": "src-lula-118"
+                },
+                {
+                  "id": "src-lula-119"
+                }
+              ],
+              "noComparablePrecedent": "Não localizamos, no recorte, registro de rejeição ou de bloqueio das medidas de crise pelo Congresso"
+            },
+            "support": {
+              "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 67 deputados após a janela partidária)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 2,
+              "note": "As medidas de calamidade passaram por lei complementar com apoio amplo (64 a 0 no Senado no PLP 168/2025); o PT tem 65 deputados e 9 senadores em exercício (APIs, 29/09/2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-41"
+                },
+                {
+                  "id": "src-lula-118"
+                },
+                {
+                  "id": "src-lula-22"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Resposta a calamidade exigiu retirar valores do teto e da meta por lei complementar",
+                "detail": "O PLP 168/2025 foi aprovado em texto-base por 64 votos a 0 no Senado em 24/09/2025, retirando do teto e da meta R$ 4,5 bi em fundos garantidores e R$ 5 bi de Reintegra; a LC 206/2024, para as enchentes do RS, seguiu o mesmo caminho de maioria absoluta.",
+                "sources": [
+                  {
+                    "id": "src-lula-118"
+                  },
+                  {
+                    "id": "src-lula-119"
+                  },
+                  {
+                    "id": "src-lula-120"
+                  },
+                  {
+                    "id": "src-lula-111"
+                  },
+                  {
+                    "id": "src-lula-112"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual critério reconhece a calamidade que libera gasto fora do teto?"
+              },
+              {
+                "question": "Como as medidas de 2025 foram financiadas no exercício seguinte?"
+              }
+            ],
+            "publicExplanation": "Em 2025 o governo anunciou o Plano Brasil Soberano por medida provisória e enviou ao Congresso o projeto que retirou as medidas do teto e da meta de resultado primário.",
+            "methodology": "Levantamento das normas federais emitidas em cinco episódios (RS 2024, queimadas 2024, yanomami 2023, crise de 2008 e contencioso tarifário de 2025) e das regras de apreciação de MP e de lei complementar. Os valores totais por evento não foram apurados.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-lula-111"
+              },
+              {
+                "id": "src-lula-112"
+              },
+              {
+                "id": "src-lula-113"
+              },
+              {
+                "id": "src-lula-114"
+              },
+              {
+                "id": "src-lula-115"
+              },
+              {
+                "id": "src-lula-116"
+              },
+              {
+                "id": "src-lula-117"
+              },
+              {
+                "id": "src-lula-118"
+              },
+              {
+                "id": "src-lula-119"
+              },
+              {
+                "id": "src-lula-120"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "reality": {
+            "proposal": "Manter pactos entre Poderes e com estados e municípios (emendas, IBS, COP30, segurança pública)",
+            "requirement": {
+              "path": "pec",
+              "note": "A PEC da Segurança Pública foi aprovada na Câmara em 05/03/2026; emendas e IBS foram tratados por leis complementares (LC 210/2024 e LC 214/2025).",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "4 atos: pacto dos três Poderes (21/08/2024), LC 210/2024 (emendas), LC 214/2025 (IBS) e PEC da Segurança aprovada na Câmara em 05/03/2026"
+              ],
+              "divergent": [
+                "1 episódio documentado: as emendas parlamentares exigiram plano conjunto com Câmara e Senado e homologação pelo STF (2024–2025)"
+              ],
+              "sources": [
+                {
+                  "id": "src-lula-121"
+                },
+                {
+                  "id": "src-lula-122"
+                },
+                {
+                  "id": "src-lula-124"
+                },
+                {
+                  "id": "src-lula-128"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 67 deputados após a janela partidária)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 4,
+              "note": "Há 4 atos conjuntos documentados no mandato (pacto dos três Poderes, LC 210/2024, LC 214/2025 e PEC da Segurança); o PT tem 65 deputados e 9 senadores em exercício. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-41"
+                },
+                {
+                  "id": "src-lula-124"
+                },
+                {
+                  "id": "src-lula-22"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Emendas parlamentares: execução condicionada a resolução conjunta e homologação no STF",
+                "detail": "O plano conjunto dos três Poderes foi convertido na LC 210/2024 e em resolução conjunta, com extensão a estados e municípios determinada pelo STF; a PEC da Segurança Pública foi aprovada na Câmara em 05/03/2026 após negociação com governadores.",
+                "sources": [
+                  {
+                    "id": "src-lula-121"
+                  },
+                  {
+                    "id": "src-lula-122"
+                  },
+                  {
+                    "id": "src-lula-123"
+                  },
+                  {
+                    "id": "src-lula-128"
+                  },
+                  {
+                    "id": "src-lula-129"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o desenho final da PEC da Segurança no Senado?"
+              },
+              {
+                "question": "Como os municípios entram na execução do IBS após a instalação do comitê gestor?"
+              }
+            ],
+            "publicExplanation": "O Executivo apresentou publicamente o Pacto pela Transformação Ecológica (21/08/2024) e a entrega da PEC da Segurança ao Congresso (23/04/2025).",
+            "methodology": "Mapeamento de atos conjuntos entre Poderes e entes no mandato (pacto de 2024, LC 210/2024, LC 214/2025, COP30, PEC da Segurança). O grau de adesão de cada estado às medidas não foi apurado.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-lula-121"
+              },
+              {
+                "id": "src-lula-122"
+              },
+              {
+                "id": "src-lula-123"
+              },
+              {
+                "id": "src-lula-124"
+              },
+              {
+                "id": "src-lula-125"
+              },
+              {
+                "id": "src-lula-126"
+              },
+              {
+                "id": "src-lula-127"
+              },
+              {
+                "id": "src-lula-128"
+              },
+              {
+                "id": "src-lula-129"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "comunicacao-publica",
+          "reality": {
+            "proposal": "Explicar prioridades por rede nacional, mensagem ao Congresso e entrevistas a rádios locais",
+            "history": {
+              "aligned": [
+                "7 convocações de rede nacional entre fev/2025 e set/2026 e mensagem ao Congresso lida em plenário em 02/02/2026"
+              ],
+              "divergent": [
+                "1 mudança de formato: o programa semanal 'Conversa com o Presidente' foi substituído por entrevistas a rádios locais após baixa audiência (fev/2024)"
+              ],
+              "sources": [
+                {
+                  "id": "src-lula-130"
+                },
+                {
+                  "id": "src-lula-134"
+                },
+                {
+                  "id": "src-lula-136"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Pauta anunciada ao Congresso em 02/02/2026 e alinhamento no Senado de 38,5% no mesmo ano",
+                "detail": "A mensagem presidencial de abertura do ano legislativo (02/02/2026) listou o fim da escala 6x1, o trabalho por aplicativos e a segurança como temas prioritários; no mesmo ano, painel citado pelo Poder360 registra 38,5% de alinhamento da base no Senado. Os dois registros são do mesmo período.",
+                "sources": [
+                  {
+                    "id": "src-lula-134"
+                  },
+                  {
+                    "id": "src-lula-135"
+                  },
+                  {
+                    "id": "src-lula-22"
+                  },
+                  {
+                    "id": "src-lula-20"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como o plano mede o alcance das mensagens em rede nacional?"
+              },
+              {
+                "question": "Qual é o orçamento de comunicação previsto para 2027?"
+              }
+            ],
+            "publicExplanation": "O pronunciamento de 06/09/2026 e a coletiva de 07/05/2026, em Washington, são os registros públicos mais recentes de explicação de prioridades e de decisão.",
+            "methodology": "Este eixo não depende de votação no Congresso; por isso não há base formal de sustentação a registrar. Foram levantadas as convocações em rede nacional, a mensagem ao Congresso e as coletivas. O conteúdo integral de cada pronunciamento e a audiência por veículo não foram analisados.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-lula-130"
+              },
+              {
+                "id": "src-lula-131"
+              },
+              {
+                "id": "src-lula-132"
+              },
+              {
+                "id": "src-lula-133"
+              },
+              {
+                "id": "src-lula-134"
+              },
+              {
+                "id": "src-lula-135"
+              },
+              {
+                "id": "src-lula-136"
+              },
+              {
+                "id": "src-mundo-09"
+              },
+              {
+                "id": "src-mundo-10"
+              }
+            ],
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "A convocação de rede nacional e a mensagem ao Congresso são atos do Executivo; não há quórum próprio nem dependência de votação neste eixo."
+            },
+            "support": {
+              "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 67 deputados após a janela partidária)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 0,
+              "note": "A base de votos não se aplica a este eixo: a comunicação é ato do Executivo (rede nacional, mensagem ao Congresso e entrevistas), sem quórum exigido. Retrato atual, não previsão do próximo Congresso.",
+              "sources": []
+            }
+          }
+        },
+        {
+          "slug": "visao-estrategica",
+          "reality": {
+            "proposal": "Conectar metas datadas (desmatamento zero em 2030, PNE 2026–2036, PPA 2028–2031) ao orçamento anual",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "note": "O PPA 2024-2027 foi aprovado como Lei 14.802/2024; o PPA 2028-2031 e o orçamento anual passam pelo Congresso, e a meta climática é comunicação do Executivo à UNFCCC.",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação (CF art. 47)"
+            },
+            "history": {
+              "aligned": [
+                "3 instrumentos: PPA 2024-2027 (Lei 14.802/2024), Nova Indústria Brasil (2024) e PBIA (2024–2028)",
+                "meta climática apresentada em nov/2024"
+              ],
+              "divergent": [
+                "O programa registrado em 08/08/2026 não quantifica custo por proposta",
+                "o percentual de propostas com custo e prazo ficou em under_analysis"
+              ],
+              "sources": [
+                {
+                  "id": "src-lula-137"
+                },
+                {
+                  "id": "src-lula-141"
+                },
+                {
+                  "id": "src-lula-140"
+                },
+                {
+                  "id": "src-lula-139"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 67 deputados após a janela partidária)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 1,
+              "note": "O PPA 2028-2031 depende do Congresso e será encaminhado pelo governo eleito em 2026; o PT tem 65 deputados e 9 senadores em exercício (APIs, 29/09/2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-41"
+                },
+                {
+                  "id": "src-lula-137"
+                },
+                {
+                  "id": "src-lula-22"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Metas de 2030 e de 2036 ligadas a instrumentos aprovados no Congresso (PPA e PNE)",
+                "detail": "O programa conecta metas datadas (desmatamento líquido zero em 2030, PNE 2026–2036, PPA 2028–2031) a instrumentos que dependem de aprovação legislativa; o PPA 2024-2027 foi aprovado como Lei 14.802/2024 e a meta climática foi apresentada como comunicação do Executivo (NDC, nov/2024).",
+                "sources": [
+                  {
+                    "id": "src-lula-137"
+                  },
+                  {
+                    "id": "src-lula-139"
+                  },
+                  {
+                    "id": "src-lula-48"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o custo estimado do PPA 2028–2031 por missão?"
+              },
+              {
+                "question": "Como as metas de 2030 serão medidas e publicadas a cada ano?"
+              }
+            ],
+            "publicExplanation": "O documento 'Pilares de um projeto de nação', com horizonte 2035, foi entregue ao presidente pelo Conselho de Desenvolvimento Econômico Social Sustentável em dez/2025.",
+            "methodology": "Leitura do programa registrado no TSE e dos instrumentos de planejamento do mandato (PPA 2024-2027, Nova Indústria Brasil, PBIA, NDC). Não foram analisados os anexos de metas por ministério.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-lula-06"
+              },
+              {
+                "id": "src-lula-80"
+              },
+              {
+                "id": "src-lula-137"
+              },
+              {
+                "id": "src-lula-138"
+              },
+              {
+                "id": "src-lula-139"
+              },
+              {
+                "id": "src-lula-140"
+              },
+              {
+                "id": "src-lula-141"
+              },
+              {
+                "id": "src-lula-142"
+              },
+              {
+                "id": "src-lula-143"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "flavio-bolsonaro": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "reality": {
+            "proposal": "Tesouraço de gastos com novo teto, redução de impostos, 500 mil vagas prisionais e R$ 900 bi em infraestrutura em 4 anos",
+            "requirement": {
+              "path": "pec",
+              "note": "O novo teto de gastos e os limites a decisões monocráticas do STF exigem PEC; tributos e orçamento passam por lei ordinária (maioria dos votos presentes, CF art. 47).",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "1 entrega legislativa própria: relatoria do PL 2253/2022, convertido na Lei 14.843/2024 e aprovado por 62 votos a 2 no Senado"
+              ],
+              "divergent": [
+                "2 projetos aprovados em 7 anos de Senado, sem lei própria convertida",
+                "como coautor, 2 leis (Agenda do Poder",
+                "Brasil de Fato)"
+              ],
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-02"
+                },
+                {
+                  "id": "src-agenda-poder-legis"
+                },
+                {
+                  "id": "src-brasildefato-legis"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "O PL tem 98 deputados e 15 senadores em exercício; 1 entrega legislativa própria documentada (relatoria da Lei 14.843/2024) e a meta de infraestrutura depende de orçamento aprovado. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-10"
+                },
+                {
+                  "id": "src-flavio-bolsonaro-11"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                },
+                {
+                  "id": "src-re-r1capacidades-03"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Tesouraço com novo teto e R$ 900 bilhões em infraestrutura no mesmo plano",
+                "detail": "O plano propõe corte de gastos com novo teto e mais controle sobre emendas (Folha, 13/08/2026) e, no mesmo documento, R$ 900 bi em infraestrutura em quatro anos. As fontes consultadas não registram a fonte de recursos nem a ordem das medidas.",
+                "sources": [
+                  {
+                    "id": "src-flavio-80"
+                  },
+                  {
+                    "id": "src-plano-pdf"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Novo teto de gastos e limites a decisões do STF exigem PEC (308 + 49)",
+                "detail": "O plano lista emenda constitucional e reorganização administrativa para o corte de gastos e para limites a decisões do STF, com metas em quatro anos. PEC exige 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa; o PL tem 98 deputados e 15 senadores em exercício em 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-g1-plano"
+                  },
+                  {
+                    "id": "src-flavio-80"
+                  },
+                  {
+                    "id": "src-plano-pdf"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a fonte de recursos dos R$ 900 bi em infraestrutura?"
+              },
+              {
+                "question": "Qual é o desenho do novo teto de gastos proposto?"
+              },
+              {
+                "question": "Como o novo teto convive com a manutenção dos programas sociais citados no plano?"
+              }
+            ],
+            "publicExplanation": "Em ago/2026 o candidato afirmou publicamente que fará 'tesouraço' em ministérios; auxiliar da área econômica descreveu cortes de 1,5% do PIB (~R$ 190 bi, base 2025) em quatro etapas, entre elas um Conselho Superior de Governança Fiscal e a revisão do arcabouço.",
+            "methodology": "Cruzamento do plano registrado no TSE (76 páginas, 9 eixos) e da entrevista da equipe econômica com as regras de votação da Constituição. A execução orçamentária federal não é observável na trajetória (sem cargo no Executivo); por isso o teste usa atos legislativos e propostas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-plano-pdf"
+              },
+              {
+                "id": "src-fb-08"
+              },
+              {
+                "id": "src-g1-plano"
+              },
+              {
+                "id": "src-flavio-80"
+              },
+              {
+                "id": "src-flavio-118"
+              },
+              {
+                "id": "src-fb-09"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "reality": {
+            "proposal": "Aprovar a maioridade penal aos 16 (PEC), tipificar facções como narcoterroristas (lei) e sustentar a pauta no Congresso",
+            "requirement": {
+              "path": "pec",
+              "note": "A redução da maioridade penal a 16 anos exige PEC; a tipificação de narcoterrorismo depende de lei ordinária.",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "Janela partidária de abr/2026: maior ganho líquido de deputados na Câmara (DIAP)",
+                "47 candidatos ao Senado apoiados em 9 partidos"
+              ],
+              "divergent": [
+                "Chapa registrada sem coligação ou federação",
+                "a imprensa registrou isolamento partidário até a convenção de 25/07/2026"
+              ],
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-15"
+                },
+                {
+                  "id": "src-flavio-bolsonaro-14"
+                },
+                {
+                  "id": "src-valor-convencao"
+                },
+                {
+                  "id": "src-platobr-convencao"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "A chapa foi registrada sem coligação ou federação, com 98 deputados e 15 senadores do PL em exercício; 2 entendimentos documentados na janela partidária de 2026, com 9 partidos. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-10"
+                },
+                {
+                  "id": "src-flavio-bolsonaro-14"
+                },
+                {
+                  "id": "src-flavio-bolsonaro-15"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                },
+                {
+                  "id": "src-re-r1capacidades-03"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "PEC da maioridade penal e limite a decisões do STF dependem de 308 + 49 votos",
+                "detail": "O plano registra emenda constitucional para reduzir a maioridade penal a 16 anos e para limites a decisões monocráticas do STF. PEC exige 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa; o PL tem 98 deputados e 15 senadores em exercício em 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-plano-pdf"
+                  },
+                  {
+                    "id": "src-estadao-plano"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Discurso de soberania na campanha e pedido de pressão externa registrado na CPAC (28/03/2026)",
+                "detail": "Em 28/03/2026, no Texas, o candidato pediu 'pressão diplomática' do 'mundo livre' e acompanhamento internacional do processo eleitoral; em 02/08/2026 atribuiu o tarifaço à 'incompetência' do governo e defendeu relações pragmáticas com os EUA. Ministros do governo classificaram o discurso como 'lesa-pátria'.",
+                "sources": [
+                  {
+                    "id": "src-flavio-bolsonaro-19"
+                  },
+                  {
+                    "id": "src-flavio-bolsonaro-21"
+                  },
+                  {
+                    "id": "src-flavio-bolsonaro-24"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a articulação prevista para obter 308 votos na Câmara?"
+              },
+              {
+                "question": "A anistia defendida na campanha tramitaria por projeto de lei, PEC ou indulto?"
+              }
+            ],
+            "publicExplanation": "Não localizamos, nesta rodada, explicação pública do candidato sobre como as PECs listadas no plano serão votadas nem sobre a convivência entre o pedido de pressão externa e o discurso de soberania.",
+            "methodology": "Contagem dos apoios declarados e do ganho de bancada na janela partidária, comparação com os quóruns da Constituição e leitura do plano registrado no TSE. A lista completa de votações nominais de seu mandato no Senado não foi levantada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-plano-pdf"
+              },
+              {
+                "id": "src-estadao-plano"
+              },
+              {
+                "id": "src-flavio-bolsonaro-14"
+              },
+              {
+                "id": "src-flavio-bolsonaro-15"
+              },
+              {
+                "id": "src-flavio-bolsonaro-19"
+              },
+              {
+                "id": "src-flavio-bolsonaro-21"
+              },
+              {
+                "id": "src-flavio-bolsonaro-24"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "lideranca-equipes",
+          "reality": {
+            "proposal": "Montar a equipe de governo (equipe setorial e Saúde anunciadas) e reduzir ministérios com o 'tesouraço'",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "A nomeação de ministros é ato do Executivo; a redução de estrutura depende de medida provisória (apreciação em até 120 dias, CF art. 62) ou de lei."
+            },
+            "history": {
+              "aligned": [
+                "3 precedentes: presidência de comissões na ALERJ (2003–2011), 3ª-Secretaria da Mesa do Senado (2019–2021) e coordenação-geral da campanha de 2026"
+              ],
+              "divergent": [
+                "Não localizamos registro de gestão de secretariado ou de órgão executivo na trajetória",
+                "a equipe observável é de comissão parlamentar e de campanha"
+              ],
+              "sources": [
+                {
+                  "id": "src-flavio-01"
+                },
+                {
+                  "id": "src-flavio-05"
+                },
+                {
+                  "id": "src-flavio-04"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A base observável é o PL com 98 deputados e 15 senadores em exercício; a equipe registrada até aqui é de campanha (equipe setorial e futuro ministro da Saúde). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-10"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reorganização ministerial por medida provisória ou lei, com apreciação pelo Congresso",
+                "detail": "O corte de ministérios anunciado depende de medida provisória, cuja apreciação o Congresso faz em até 120 dias, ou de lei ordinária. Os registros de montagem de equipe de 2026 são a equipe setorial anunciada em 18/08/2026 e a troca do comando da comunicação em 30/07/2026.",
+                "sources": [
+                  {
+                    "id": "src-fb-09"
+                  },
+                  {
+                    "id": "src-flavio-03"
+                  },
+                  {
+                    "id": "src-flavio-04"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantas pastas o plano prevê extinguir ou fundir?"
+              },
+              {
+                "question": "Quem coordena cada área de governo a partir de 2027?"
+              }
+            ],
+            "publicExplanation": "Em 28/08/2026 o candidato anunciou publicamente Cláudio Lottenberg como futuro ministro da Saúde, em entrevista de alcance nacional.",
+            "methodology": "Levantamento dos cargos de direção exercidos (comissões na ALERJ e Mesa do Senado) e dos anúncios de equipe da campanha. Não há registro, na trajetória, de gestão de secretariado ou de órgão executivo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-flavio-01"
+              },
+              {
+                "id": "src-flavio-05"
+              },
+              {
+                "id": "src-flavio-03"
+              },
+              {
+                "id": "src-flavio-04"
+              },
+              {
+                "id": "src-fb-03"
+              },
+              {
+                "id": "src-fb-09"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "tomada-decisao",
+          "reality": {
+            "proposal": "Cortar 1,5% do PIB (~R$ 190 bi) com Conselho Superior de Governança Fiscal e revisar o arcabouço",
+            "requirement": {
+              "path": "lei-complementar",
+              "note": "O ajuste proposto prevê PEC para o novo teto e lei complementar para a revisão do arcabouço (precedente: LC 200/2023, sancionada em 31/08/2023).",
+              "quorum": "Lei complementar: maioria absoluta — 257 de 513 deputados e 41 de 81 senadores (CF art. 69)"
+            },
+            "history": {
+              "aligned": [
+                "1 decisão com custo registrado: voto 'Sim' e defesa pública da reforma da Previdência no plenário do Senado em 2019"
+              ],
+              "divergent": [
+                "1 mudança de posição documentada: em 19/06/2026 declarou que não fará nova reforma da Previdência, mantendo a valorização do salário mínimo"
+              ],
+              "sources": [
+                {
+                  "id": "src-flavio-100"
+                },
+                {
+                  "id": "src-flavio-101"
+                },
+                {
+                  "id": "src-flavio-116"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "O PL tem 98 deputados e 15 senadores em exercício (APIs, 29/09/2026); 1 decisão legislativa com custo registrado (voto de 2019 na Previdência) e nenhuma negociação fiscal documentada na trajetória. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-10"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "mudanca-de-posicao",
+                "title": "Voto favorável à Previdência em 2019 e rejeição de nova reforma em 2026",
+                "detail": "Em 2019 votou 'Sim' e defendeu publicamente a reforma da Previdência no plenário do Senado; em 19/06/2026 declarou que não pretende promover nova reforma previdenciária, defendendo o ajuste por corte de gastos. Não localizamos explicação pública sobre a diferença de contexto entre as duas posições.",
+                "sources": [
+                  {
+                    "id": "src-flavio-100"
+                  },
+                  {
+                    "id": "src-flavio-101"
+                  },
+                  {
+                    "id": "src-flavio-116"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como o corte de 1,5% do PIB se distribui entre despesas obrigatórias e discricionárias?"
+              },
+              {
+                "question": "Qual é o instrumento legal de cada etapa do ajuste fiscal?"
+              }
+            ],
+            "publicExplanation": "Em 19/06/2026 o candidato explicou publicamente que o ajuste será feito por corte de gastos e redução de impostos ('tesouraço'), sem nova reforma da Previdência, mantendo a valorização do salário mínimo.",
+            "methodology": "Comparação entre a decisão legislativa com custo registrado em votação nominal (2019) e as declarações de 2026, com os quóruns da Constituição. As votações nominais intermediárias do mandato não foram levantadas uma a uma.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-flavio-100"
+              },
+              {
+                "id": "src-flavio-101"
+              },
+              {
+                "id": "src-flavio-116"
+              },
+              {
+                "id": "src-flavio-117"
+              },
+              {
+                "id": "src-flavio-118"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "gestao-crises",
+          "reality": {
+            "proposal": "Conduzir a resposta a crises por instrumentos jurídicos e políticos e assumir a candidatura em 2025–2026",
+            "history": {
+              "aligned": [
+                "3 respostas públicas: arquivamento das 'rachadinhas' (2022), inquérito do 'Dark Horse' (11/09/2026) e reportagem dos 51 imóveis (2025)"
+              ],
+              "divergent": [],
+              "sources": [
+                {
+                  "id": "src-agencia-brasil-arquiv"
+                },
+                {
+                  "id": "src-valor-darkhorse"
+                },
+                {
+                  "id": "src-uol-51-imoveis"
+                }
+              ],
+              "noComparablePrecedent": "Não localizamos, no recorte, plano de resposta a desastres ou emergências no documento registrado no TSE"
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A base de votos não se aplica às respostas registradas; o PL tem 98 deputados e 15 senadores em exercício em 29/09/2026 (APIs oficiais). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-10"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Resposta judicial à reportagem dos 51 imóveis e pedido de 'transparência total' no inquérito",
+                "detail": "Na reportagem sobre os 51 imóveis comprados em dinheiro vivo (2025), a resposta registrada foi judicial, com decisão de exclusão da matéria; no inquérito sobre o financiamento do filme 'Dark Horse' (divulgado em 11/09/2026), o candidato afirmou que se tratou de patrocínio privado e pediu 'transparência total'.",
+                "sources": [
+                  {
+                    "id": "src-uol-51-imoveis"
+                  },
+                  {
+                    "id": "src-uol-51-liminar"
+                  },
+                  {
+                    "id": "src-valor-darkhorse"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o plano de resposta a desastres e emergências do governo proposto?"
+              },
+              {
+                "question": "Como o plano trata situações de crise institucional durante o mandato?"
+              }
+            ],
+            "publicExplanation": "Sobre o inquérito do 'Dark Horse', o candidato afirmou publicamente que o financiamento foi patrocínio privado e pediu 'transparência total'; sobre a reportagem dos 51 imóveis, a resposta registrada foi judicial.",
+            "methodology": "Levantamento dos episódios de crise do período e das respostas registradas (jurídicas e políticas). O inquérito do 'Dark Horse' é investigação em curso, sem denúncia ou condenação até a data; a sucessão da candidatura se apoia em reportagens, sem documento primário consultado.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-valor-rachadinha"
+              },
+              {
+                "id": "src-g1-stj-anula"
+              },
+              {
+                "id": "src-agencia-brasil-arquiv"
+              },
+              {
+                "id": "src-valor-darkhorse"
+              },
+              {
+                "id": "src-folha-darkhorse"
+              },
+              {
+                "id": "src-uol-51-imoveis"
+              },
+              {
+                "id": "src-uol-51-liminar"
+              },
+              {
+                "id": "src-flavio-bolsonaro-10"
+              }
+            ],
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "As respostas documentadas foram jurídicas e políticas (atos processuais e anúncios), sem instrumento legislativo próprio; não há mudança legal exigida neste eixo."
+            }
+          }
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "reality": {
+            "proposal": "Reforma do Judiciário (limites a decisões monocráticas) e articulação federativa na pauta de segurança",
+            "requirement": {
+              "path": "pec",
+              "note": "A reforma do Judiciário e os limites a decisões monocráticas do STF exigem PEC; a pauta penal depende de lei ordinária.",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "2 entregas legislativas: PL 4.809/2024 aprovado pelo Senado em 14/10/2025 e urgência do Estatuto da Vítima levada ao Plenário em 08/10/2025"
+              ],
+              "divergent": [],
+              "sources": [
+                {
+                  "id": "src-flavio-105"
+                },
+                {
+                  "id": "src-flavio-106"
+                },
+                {
+                  "id": "src-senado-perfil"
+                }
+              ],
+              "noComparablePrecedent": "Não localizamos atos com governos estaduais ou corporações na CSP, nem produto dos 7 grupos parlamentares bilaterais de que é titular"
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "O PL tem 98 deputados e 15 senadores em exercício em 29/09/2026; 2 entregas da comissão de segurança documentadas em 2025 e 7 grupos bilaterais de diplomacia parlamentar sob titularidade. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-10"
+                },
+                {
+                  "id": "src-flavio-105"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reforma do Judiciário e limites a decisões do STF dependem de PEC (308 + 49)",
+                "detail": "O eixo 'Brasil que cumpre a Constituição' reúne reforma do Judiciário, reforma política e limites a decisões monocráticas do STF. PEC exige 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa; o PL tem 98 deputados e 15 senadores em exercício em 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-estadao-plano"
+                  },
+                  {
+                    "id": "src-plano-pdf"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais PECs da reforma do Judiciário serão apresentadas e em que ordem?"
+              },
+              {
+                "question": "Como será feita a articulação com governadores na pauta de segurança?"
+              }
+            ],
+            "publicExplanation": "Não localizamos, nesta rodada, explicação pública do candidato sobre a tramitação prevista para a reforma do Judiciário.",
+            "methodology": "Levantamento das entregas da Comissão de Segurança Pública e dos cargos de diplomacia parlamentar, comparados com os quóruns da Constituição. A interação com governos estaduais e corporações policiais aparece nas fontes sem ato ou resultado verificável.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-flavio-104"
+              },
+              {
+                "id": "src-flavio-105"
+              },
+              {
+                "id": "src-flavio-106"
+              },
+              {
+                "id": "src-senado-perfil"
+              },
+              {
+                "id": "src-estadao-plano"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "comunicacao-publica",
+          "reality": {
+            "proposal": "Comunicar por entrevistas nacionais, pronunciamentos no plenário do Senado e eventos internacionais (CPAC)",
+            "history": {
+              "aligned": [
+                "3 registros: entrevista na Globo (28/08/2026), explicações em plenário sobre o Banco Master (2026) e discurso na CPAC (28/03/2026)"
+              ],
+              "divergent": [
+                "1 divergência registrada: presença na Comissão de Segurança Pública em jun/2026, tema priorizado na campanha (Agenda do Poder)"
+              ],
+              "sources": [
+                {
+                  "id": "src-fb-01"
+                },
+                {
+                  "id": "src-fb-05"
+                },
+                {
+                  "id": "src-flavio-bolsonaro-19"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Eixo de segurança priorizado na campanha e presença na comissão no mandato (jun/2026)",
+                "detail": "Reportagem de 2026 registra que o candidato manteve distância do tema segurança durante o mandato, com uma ida à reunião da Comissão de Segurança Pública em junho, enquanto a campanha prioriza o eixo 'Brasil sem medo'. Em 28/08/2026 ele defendeu publicamente a anistia e disse que respeitará o resultado da eleição.",
+                "sources": [
+                  {
+                    "id": "src-fb-10"
+                  },
+                  {
+                    "id": "src-flavio-104"
+                  },
+                  {
+                    "id": "src-fb-02"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como o plano comunica metas de segurança por indicador?"
+              },
+              {
+                "question": "Qual é o orçamento de comunicação proposto para o governo?"
+              }
+            ],
+            "publicExplanation": "Em entrevista de 28/08/2026 o candidato afirmou que vai respeitar o resultado da eleição e anunciou Cláudio Lottenberg como ministro da Saúde.",
+            "methodology": "Este eixo não depende de votação no Congresso; por isso não há base formal de sustentação a registrar. Foram levantadas entrevistas nacionais, pronunciamentos registrados no Senado e eventos internacionais; o conteúdo integral de cada fala e a audiência por veículo não foram analisados.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-fb-01"
+              },
+              {
+                "id": "src-fb-02"
+              },
+              {
+                "id": "src-fb-03"
+              },
+              {
+                "id": "src-fb-05"
+              },
+              {
+                "id": "src-flavio-bolsonaro-19"
+              },
+              {
+                "id": "src-fb-10"
+              }
+            ],
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "Entrevistas, pronunciamentos e eventos internacionais não dependem de votação nem de quórum; não há instrumento legal exigido neste eixo."
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A base de votos não se aplica a este eixo; o PL tem 98 deputados e 15 senadores em exercício em 29/09/2026 (APIs oficiais). Retrato atual, não previsão do próximo Congresso.",
+              "sources": []
+            }
+          }
+        },
+        {
+          "slug": "visao-estrategica",
+          "reality": {
+            "proposal": "Fazer do ajuste fiscal a condição das demais metas, com 500 mil vagas prisionais e 2,5 milhões de residências",
+            "requirement": {
+              "path": "pec",
+              "note": "As metas quantificadas foram condicionadas a equilíbrio fiscal e reforma do Estado, que dependem de PEC e de lei; os programas e o orçamento passam pelo Congresso.",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "1 instrumento preparado: equipe setorial anunciada em 18/08/2026 e futuro ministro da Saúde apresentado em 28/08/2026"
+              ],
+              "divergent": [
+                "Parte das metas é declarada sem cronograma ou indicador por etapa no texto publicado, e vários pontos dependem de PECs não enviadas ao Congresso"
+              ],
+              "sources": [
+                {
+                  "id": "src-flavio-03"
+                },
+                {
+                  "id": "src-fb-03"
+                },
+                {
+                  "id": "src-fb-08"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar)",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "O PL tem 98 deputados e 15 senadores em exercício em 29/09/2026 e a chapa não registrou coligação ou federação; as PECs correspondentes não constam como enviadas. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-10"
+                },
+                {
+                  "id": "src-plano-pdf"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Metas quantificadas dependentes de PECs e de lei orçamentária ainda não enviadas",
+                "detail": "O plano fixa 500 mil vagas no sistema prisional em quatro anos, 2,5 milhões de residências no Casa Verde e Amarela e nenhuma escola sem água até 2030; o eixo 'Brasil que Não Volta Atrás' condiciona as promessas a equilíbrio fiscal, reforma do Estado e menos impostos. As PECs e os projetos correspondentes não constam como enviados nas fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-fb-08"
+                  },
+                  {
+                    "id": "src-plano-pdf"
+                  },
+                  {
+                    "id": "src-flavio-80"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Plano mantém programas do governo atual ao lado do eixo 'Brasil que Não Volta Atrás'",
+                "detail": "Em 13/08/2026 a imprensa registrou que o plano propõe manter programas criados nos governos do PT, com Caixa repaginada e foco em terras raras e data centers, no mesmo documento que traz o eixo 'Brasil que Não Volta Atrás' e a crítica ao Estado que enxerga a realidade em pedaços.",
+                "sources": [
+                  {
+                    "id": "src-flavio-81"
+                  },
+                  {
+                    "id": "src-plano-pdf"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a fonte de recursos das metas de 2030?"
+              },
+              {
+                "question": "Como o plano liga as metas anuais ao PPA e ao orçamento federal?"
+              }
+            ],
+            "publicExplanation": "O candidato declarou que o plano vale 'pelo que consegue sustentar', condicionando as demais promessas a equilíbrio fiscal, reforma do Estado e menos impostos.",
+            "methodology": "Leitura do plano registrado no TSE (76 páginas, 9 eixos) e das metas por área, comparadas com instrumentos orçamentários. Parte das metas é declarada sem cronograma ou indicador por etapa, e o percentual de propostas com custo não foi calculado.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-fb-07"
+              },
+              {
+                "id": "src-fb-08"
+              },
+              {
+                "id": "src-plano-pdf"
+              },
+              {
+                "id": "src-flavio-80"
+              },
+              {
+                "id": "src-flavio-81"
+              },
+              {
+                "id": "src-flavio-03"
+              },
+              {
+                "id": "src-fb-03"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "caiado": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "reality": {
+            "proposal": "Estratégia fiscal plurianual com teto efetivo, metas do PPA por missões e pactos federativos",
+            "requirement": {
+              "path": "pec",
+              "note": "O teto constitucional efetivo e a regra fiscal plurianual exigem PEC; o PPA e o orçamento passam por lei ordinária (CF art. 47) e há atos do Executivo.",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "3 exercícios com parecer prévio favorável do TCE-GO (2023, 2024 e 2025, o último por unanimidade em 16/06/2026)"
+              ],
+              "divergent": [
+                "A adesão ao Regime de Recuperação Fiscal não se concluiu em 2019",
+                "a saída do regime para o Propag ocorreu em 2026 (fonte estadual)"
+              ],
+              "sources": [
+                {
+                  "id": "src-cg-07"
+                },
+                {
+                  "id": "src-cg-09"
+                },
+                {
+                  "id": "src-cg-10"
+                },
+                {
+                  "id": "src-cg-32"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 49 deputados e 13 senadores no informe do partido em abr/2026)",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+              "federations": "Nenhuma federação declarada na chapa",
+              "documentedAgreements": 1,
+              "note": "O PSD tem 48 deputados e 14 senadores em exercício (APIs, 29/09/2026) e 3 exercícios estaduais com parecer prévio favorável do TCE-GO; 1 ato de ajuste fiscal por decreto e lei estadual. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-cg-26"
+                },
+                {
+                  "id": "src-cg-29"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                },
+                {
+                  "id": "src-re-r1capacidades-03"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Teto efetivo e supersalários ao lado da manutenção das transferências de renda",
+                "detail": "O plano reúne estratégia fiscal plurianual com teto constitucional efetivo e combate a supersalários e, no mesmo documento, manutenção das transferências de renda com transição para o trabalho. As fontes consultadas não registram a fonte de recursos nem a ordem das medidas.",
+                "sources": [
+                  {
+                    "id": "src-cg-20"
+                  },
+                  {
+                    "id": "src-cg-22"
+                  },
+                  {
+                    "id": "src-cg-23"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Teto constitucional efetivo depende de PEC (308 + 49) e o instrumento não é informado por compromisso",
+                "detail": "O plano propõe estratégia fiscal plurianual, teto constitucional efetivo e combate a supersalários; PEC exige 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa, e o PSD tem 48 deputados e 14 senadores em exercício em 29/09/2026. O instrumento legal por compromisso não é informado no material consultado.",
+                "sources": [
+                  {
+                    "id": "src-cg-20"
+                  },
+                  {
+                    "id": "src-cg-22"
+                  },
+                  {
+                    "id": "src-cg-23"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a fonte de recursos da manutenção das transferências com transição para o trabalho?"
+              },
+              {
+                "question": "Qual é o desenho do teto constitucional efetivo proposto?"
+              }
+            ],
+            "publicExplanation": "Não localizamos, nesta rodada, explicação pública do candidato sobre a conciliação entre a estratégia fiscal e as despesas mantidas no plano.",
+            "methodology": "Comparação dos resultados fiscais e das contas estaduais (TCE-GO, 2023–2026) com o programa presidencial de 2027–2030 e com as regras de votação da Constituição. O custo por compromisso do plano não foi informado nas fontes desta rodada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-cg-07"
+              },
+              {
+                "id": "src-cg-08"
+              },
+              {
+                "id": "src-cg-09"
+              },
+              {
+                "id": "src-cg-10"
+              },
+              {
+                "id": "src-cg-20"
+              },
+              {
+                "id": "src-cg-22"
+              },
+              {
+                "id": "src-caiado-76"
+              },
+              {
+                "id": "src-caiado-70"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "reality": {
+            "proposal": "Aprovar o Pacto Nacional de Governabilidade e Resultados e o fim da reeleição no Executivo",
+            "requirement": {
+              "path": "pec",
+              "note": "O fim da reeleição no Executivo e a reforma política exigem PEC; financiamento e transparência dependem de lei ordinária.",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "3 negociações: migração ao PSD (27/01/2026) com dois governadores, pacto de apoio mútuo no PSD (mar/2026) e consórcio de 7 UFs"
+              ],
+              "divergent": [
+                "1 rompimento documentado: divergência pública com o governo federal em 25/03/2020 sobre o isolamento, com fim da aliança nacional"
+              ],
+              "sources": [
+                {
+                  "id": "src-cg-01"
+                },
+                {
+                  "id": "src-cg-45"
+                },
+                {
+                  "id": "src-caiado-112"
+                },
+                {
+                  "id": "src-caiado-103"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 49 deputados e 13 senadores no informe do partido em abr/2026)",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+              "federations": "Nenhuma federação declarada na chapa",
+              "documentedAgreements": 3,
+              "note": "O PSD tem 48 deputados e 14 senadores em exercício (APIs, 29/09/2026) e a chapa foi registrada sem coligação; 3 negociações documentadas, com dois governadores e 7 unidades federativas. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-cg-01"
+                },
+                {
+                  "id": "src-cg-26"
+                },
+                {
+                  "id": "src-cg-45"
+                },
+                {
+                  "id": "src-cg-46"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Pacto de governabilidade e fim da reeleição exigem PEC, sem coligação registrada",
+                "detail": "O plano propõe um Pacto Nacional de Governabilidade e Resultados e o fim da reeleição no Executivo; a chapa foi registrada pelo PSD sem coligação (TSE, 18/09/2026). PEC exige 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa, e o PSD tem 48 deputados e 14 senadores em exercício em 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-cg-20"
+                  },
+                  {
+                    "id": "src-cg-46"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "mudanca-de-posicao",
+                "title": "Apoio público à anistia (30/07/2026) e trajetória anterior de crítica aos ataques de 8 de janeiro",
+                "detail": "O candidato apoiou publicamente a anistia de Bolsonaro em 30/07/2026; entre 2021 e 2023 adotou discurso institucionalista, com crítica aos ataques de 8 de janeiro, depois de romper com o governo federal em 2020. Não localizamos explicação pública sobre a mudança.",
+                "sources": [
+                  {
+                    "id": "src-cg-01"
+                  },
+                  {
+                    "id": "src-cg-02"
+                  },
+                  {
+                    "id": "src-caiado-103"
+                  },
+                  {
+                    "id": "src-caiado-130"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o conteúdo do Pacto Nacional de Governabilidade e como ele será votado?"
+              },
+              {
+                "question": "Como o plano articula a base congressual sem coligação registrada?"
+              }
+            ],
+            "publicExplanation": "Em sabatina de 26/08/2026 e entrevista de 07/08/2026 o candidato apresentou publicamente posições sobre anistia, segurança pública e revisão da reforma tributária.",
+            "methodology": "Contagem das negociações partidárias e federativas documentadas, consulta ao registro de chapa no TSE e às fontes sobre rupturas e reaproximações. Contatos não registrados publicamente não foram computados.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-cg-01"
+              },
+              {
+                "id": "src-cg-02"
+              },
+              {
+                "id": "src-cg-20"
+              },
+              {
+                "id": "src-cg-45"
+              },
+              {
+                "id": "src-cg-46"
+              },
+              {
+                "id": "src-caiado-112"
+              },
+              {
+                "id": "src-caiado-130"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "lideranca-equipes",
+          "reality": {
+            "proposal": "Reorganizar e reduzir a máquina federal e compor a equipe por área (saúde com Mandetta)",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "A nomeação de ministros é ato do Executivo; a reorganização administrativa depende de lei (CF art. 47) ou de medida provisória apreciada em até 120 dias (CF art. 62)."
+            },
+            "history": {
+              "aligned": [
+                "2 reformas administrativas (2019 e 2023), com corte de 20% da máquina e economia estimada em R$ 422 mi em quatro anos"
+              ],
+              "divergent": [
+                "Não localizamos organização de equipe no Executivo federal na trajetória",
+                "os registros são do governo de Goiás e da campanha de 2026"
+              ],
+              "sources": [
+                {
+                  "id": "src-caiado-70"
+                },
+                {
+                  "id": "src-caiado-71"
+                },
+                {
+                  "id": "src-caiado-72"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 49 deputados e 13 senadores no informe do partido em abr/2026)",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+              "federations": "Nenhuma federação declarada na chapa",
+              "documentedAgreements": 0,
+              "note": "As 2 reformas administrativas documentadas são estaduais (2019 e 2023); o PSD tem 48 deputados e 14 senadores em exercício e nenhum registro de equipe federal na trajetória. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-caiado-70"
+                },
+                {
+                  "id": "src-cg-26"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reorganização administrativa por lei ou medida provisória, com apreciação pelo Congresso",
+                "detail": "A segunda etapa da reforma administrativa de Goiás (2023) saiu por decreto a partir de projeto enviado à Assembleia; no plano federal, a redução de estrutura depende de lei ou de medida provisória, com apreciação pelo Congresso em até 120 dias. A transmissão do governo de Goiás ao vice ocorreu em 31/03/2026.",
+                "sources": [
+                  {
+                    "id": "src-caiado-71"
+                  },
+                  {
+                    "id": "src-caiado-73"
+                  },
+                  {
+                    "id": "src-cg-32"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantas pastas o plano prevê manter?"
+              },
+              {
+                "question": "Quais áreas terão coordenação anunciada antes da posse?"
+              }
+            ],
+            "publicExplanation": "Em abril de 2026 o candidato anunciou publicamente Luiz Henrique Mandetta na coordenação da área de saúde do plano e escalou a articulação evangélica a um deputado federal.",
+            "methodology": "Levantamento das duas reformas administrativas estaduais e dos anúncios de coordenação da campanha. Não há registro, na trajetória, de composição de equipe de governo no Executivo federal.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-caiado-70"
+              },
+              {
+                "id": "src-caiado-71"
+              },
+              {
+                "id": "src-caiado-72"
+              },
+              {
+                "id": "src-caiado-73"
+              },
+              {
+                "id": "src-caiado-74"
+              },
+              {
+                "id": "src-caiado-75"
+              },
+              {
+                "id": "src-cg-40"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "tomada-decisao",
+          "reality": {
+            "proposal": "Decidir sobre teto efetivo, supersalários e trajetória da dívida com regra plurianual",
+            "requirement": {
+              "path": "pec",
+              "note": "O teto efetivo e o combate a supersalários exigem PEC; a regra plurianual de dívida depende de lei complementar (257 + 41) ou ordinária.",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "3 decisões com custo e resultado datado: calamidade financeira (21/01/2019), manutenção do decreto sanitário (25/03/2020) e reabertura em 31/03/2021"
+              ],
+              "divergent": [
+                "1 decisão com percurso alterado: a adesão ao RRF em 2019 não se concluiu e o estado saiu do regime para o Propag em 2026"
+              ],
+              "sources": [
+                {
+                  "id": "src-caiado-100"
+                },
+                {
+                  "id": "src-caiado-103"
+                },
+                {
+                  "id": "src-caiado-106"
+                },
+                {
+                  "id": "src-cg-32"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 49 deputados e 13 senadores no informe do partido em abr/2026)",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+              "federations": "Nenhuma federação declarada na chapa",
+              "documentedAgreements": 1,
+              "note": "O PSD tem 48 deputados e 14 senadores em exercício (APIs, 29/09/2026); 3 decisões com custo registrado no governo estadual e 1 acordo federativo sobre a dívida com o Tesouro. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-cg-26"
+                },
+                {
+                  "id": "src-cg-20"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Teto efetivo e supersalários dependem de PEC (308 + 49) e de lei complementar (257 + 41)",
+                "detail": "As medidas fiscais do plano (teto constitucional efetivo, combate a supersalários e regra plurianual) dependem de emenda constitucional ou de lei complementar; o PSD tem 48 deputados e 14 senadores em exercício em 29/09/2026. O detalhamento legal por medida não é informado no material consultado.",
+                "sources": [
+                  {
+                    "id": "src-cg-20"
+                  },
+                  {
+                    "id": "src-cg-22"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "O plano detalha o instrumento de cada medida fiscal?"
+              },
+              {
+                "question": "Qual é a meta de dívida e o prazo previsto para a trajetória plurianual?"
+              }
+            ],
+            "publicExplanation": "Em 18/01/2019 o candidato explicou publicamente a situação das contas estaduais ao assumir o governo, com folha escalonada e calamidade financeira decretada em 21/01/2019.",
+            "methodology": "Comparação das decisões com custo registrado no governo de Goiás (2019–2021) com as medidas fiscais propostas para 2027–2030 e com os quóruns da Constituição. O detalhamento legal por medida não é informado no material consultado.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-caiado-100"
+              },
+              {
+                "id": "src-caiado-101"
+              },
+              {
+                "id": "src-caiado-102"
+              },
+              {
+                "id": "src-caiado-103"
+              },
+              {
+                "id": "src-caiado-104"
+              },
+              {
+                "id": "src-caiado-106"
+              },
+              {
+                "id": "src-caiado-107"
+              },
+              {
+                "id": "src-cg-20"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "gestao-crises",
+          "reality": {
+            "proposal": "Responder à crise fiscal herdada e a emergências sanitárias com corte de máquina e repasses a municípios",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "As respostas estaduais registradas saíram por decreto (calamidade financeira em 21/01/2019) e por crédito; no plano federal, o crédito extraordinário é ato do Executivo apreciado pelo Congresso (CF art. 62)."
+            },
+            "history": {
+              "aligned": [
+                "3 respostas: crise fiscal de 2019 (corte de 20% da máquina), pandemia em 2020 (decretos próprios) e colapso de 2021 (repasse a 237 municípios)"
+              ],
+              "divergent": [
+                "Não localizamos episódio de emergência federal sob responsabilidade do candidato",
+                "as respostas registradas são do governo estadual"
+              ],
+              "sources": [
+                {
+                  "id": "src-caiado-108"
+                },
+                {
+                  "id": "src-caiado-104"
+                },
+                {
+                  "id": "src-caiado-110"
+                },
+                {
+                  "id": "src-caiado-107"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 49 deputados e 13 senadores no informe do partido em abr/2026)",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+              "federations": "Nenhuma federação declarada na chapa",
+              "documentedAgreements": 1,
+              "note": "As 3 respostas documentadas são do governo estadual; o PSD tem 48 deputados e 14 senadores em exercício (APIs, 29/09/2026) e não há episódio federal sob sua responsabilidade. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-caiado-114"
+                },
+                {
+                  "id": "src-cg-26"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Calamidade financeira decretada em 2019 e adesão ao Regime de Recuperação Fiscal não concluída",
+                "detail": "Goiás decretou calamidade financeira em 21/01/2019, com escalonamento da folha de dezembro/2018 e envio da matéria à Assembleia; a adesão ao Regime de Recuperação Fiscal não se concluiu naquele período e o estado saiu do RRF para o Propag em 2026, conforme fontes estaduais e de imprensa.",
+                "sources": [
+                  {
+                    "id": "src-caiado-100"
+                  },
+                  {
+                    "id": "src-caiado-114"
+                  },
+                  {
+                    "id": "src-cg-32"
+                  },
+                  {
+                    "id": "src-cg-07"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o protocolo federal de resposta a desastres proposto no plano?"
+              },
+              {
+                "question": "Como o plano financia repasses emergenciais a municípios?"
+              }
+            ],
+            "publicExplanation": "Em 25/03/2020 o candidato respondeu publicamente ao pronunciamento do presidente e explicou a manutenção das medidas estaduais de isolamento, declarando o rompimento com o governo federal.",
+            "methodology": "Levantamento das medidas, valores e repasses dos três episódios estaduais com fonte oficial e de imprensa. O passo federal de reconhecimento da emergência em episódios subsequentes não foi localizado nas fontes consultadas.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-caiado-108"
+              },
+              {
+                "id": "src-caiado-114"
+              },
+              {
+                "id": "src-caiado-100"
+              },
+              {
+                "id": "src-caiado-104"
+              },
+              {
+                "id": "src-caiado-109"
+              },
+              {
+                "id": "src-caiado-110"
+              },
+              {
+                "id": "src-caiado-107"
+              },
+              {
+                "id": "src-caiado-70"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "reality": {
+            "proposal": "Pactos federativos (consórcios, segurança e cooperação sul-americana) e relação com a União",
+            "requirement": {
+              "path": "depende-estados",
+              "note": "Consórcios e pactos federativos dependem de adesão de estados e municípios; acordos internacionais passam pelo Congresso (CF art. 49, I) e a PEC da segurança exigiria 308 + 49."
+            },
+            "history": {
+              "aligned": [
+                "3 atos com outros entes: presidência do Consórcio Brasil Central (2024), missão com o Tesouro (jan/2019) e adesão ao Brasil Sem Fome (jan/2024)"
+              ],
+              "divergent": [
+                "1 acordo estadual com os EUA com cláusulas de sigilo e exclusividade (24/03/2026), questionado quanto à competência da União"
+              ],
+              "sources": [
+                {
+                  "id": "src-caiado-112"
+                },
+                {
+                  "id": "src-caiado-108"
+                },
+                {
+                  "id": "src-caiado-85"
+                },
+                {
+                  "id": "src-caiado-86"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 49 deputados e 13 senadores no informe do partido em abr/2026)",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+              "federations": "Nenhuma federação declarada na chapa",
+              "documentedAgreements": 3,
+              "note": "O PSD tem 48 deputados e 14 senadores em exercício (APIs, 29/09/2026), 6 governadores e mais de 1,3 mil prefeitos; 3 atos conjuntos documentados com outros entes. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-caiado-112"
+                },
+                {
+                  "id": "src-cg-26"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Acordo de Goiás com os EUA prevê sigilo de cinco anos e exclusividade para minerais críticos",
+                "detail": "O memorando entre Goiás e os EUA (24/03/2026) prevê confidencialidade de cinco anos de dados geológicos e possibilidade de exclusividade a entidades designadas pelos EUA; juristas ouvidos classificaram o acordo como inconstitucional por tratar de competência da União. O plano federal propõe transformar minerais estratégicos em cadeias de maior valor agregado no Brasil.",
+                "sources": [
+                  {
+                    "id": "src-caiado-85"
+                  },
+                  {
+                    "id": "src-caiado-86"
+                  },
+                  {
+                    "id": "src-cg-20"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o desenho da cooperação sul-americana em segurança proposta no plano?"
+              },
+              {
+                "question": "Como o plano trataria acordos com outros países sobre minerais críticos?"
+              }
+            ],
+            "publicExplanation": "O governo de Goiás defendeu publicamente o acordo com os EUA para exploração de minerais críticos em abril de 2026, citando o financiamento de US$ 565 milhões do DFC à Serra Verde e o memorando com a estatal japonesa JOGMEC.",
+            "methodology": "Mapeamento dos atos conjuntos com outros entes no governo estadual e do memorando assinado com os EUA em 2026, comparados com as propostas federais de cooperação. A interação com municípios na pandemia está tratada na capacidade de gestão de crises.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-caiado-111"
+              },
+              {
+                "id": "src-caiado-112"
+              },
+              {
+                "id": "src-caiado-113"
+              },
+              {
+                "id": "src-caiado-85"
+              },
+              {
+                "id": "src-caiado-86"
+              },
+              {
+                "id": "src-caiado-108"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "comunicacao-publica",
+          "reality": {
+            "proposal": "Explicar decisões e prioridades por entrevistas nacionais, sabatinas e pronunciamentos",
+            "history": {
+              "aligned": [
+                "3 registros: entrevista de 1h30 ao g1 e à GloboNews (07/08/2026), sabatina O GLOBO/CBN/Valor (26/08/2026) e resposta pública em 25/03/2020"
+              ],
+              "divergent": [],
+              "sources": [
+                {
+                  "id": "src-caiado-130"
+                },
+                {
+                  "id": "src-caiado-131"
+                },
+                {
+                  "id": "src-caiado-105"
+                }
+              ],
+              "noComparablePrecedent": "Não localizamos, na campanha de 2026, divergência entre discurso e atos neste eixo nas fontes desta rodada"
+            },
+            "openQuestions": [
+              {
+                "question": "Como o plano comunica as metas anuais por indicador?"
+              },
+              {
+                "question": "Qual é o orçamento de comunicação proposto para o governo?"
+              }
+            ],
+            "publicExplanation": "O candidato justificou publicamente mudanças de posicionamento na campanha de 2026 e defendeu a revisão da reforma tributária em sabatinas e entrevistas de agosto de 2026.",
+            "methodology": "Este eixo não depende de votação no Congresso; por isso não há base formal de sustentação a registrar. Foram levantadas entrevistas de alcance nacional e manifestações públicas entre 2019 e 2026; o conteúdo integral de cada fala e a audiência por veículo não foram analisados. Nenhum ponto de tensão específico deste eixo foi documentado nesta rodada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-caiado-130"
+              },
+              {
+                "id": "src-caiado-131"
+              },
+              {
+                "id": "src-caiado-132"
+              },
+              {
+                "id": "src-caiado-104"
+              },
+              {
+                "id": "src-caiado-102"
+              }
+            ],
+            "tensions": [],
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "Entrevistas, sabatinas e pronunciamentos não dependem de votação nem de quórum; não há instrumento legal exigido neste eixo."
+            },
+            "support": {
+              "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 49 deputados e 13 senadores no informe do partido em abr/2026)",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+              "federations": "Nenhuma federação declarada na chapa",
+              "documentedAgreements": 0,
+              "note": "A base de votos não se aplica a este eixo; o PSD tem 48 deputados e 14 senadores em exercício em 29/09/2026 (APIs oficiais). Retrato atual, não previsão do próximo Congresso.",
+              "sources": []
+            }
+          }
+        },
+        {
+          "slug": "visao-estrategica",
+          "reality": {
+            "proposal": "Dez compromissos nacionais para 2030, PPA 2028–2031 por missões e painel público de indicadores",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "note": "O PPA 2028-2031 e o orçamento passam pelo Congresso; os 10 compromissos para 2030 incluem itens que dependem de PEC (308 + 49) e de lei.",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação (CF art. 47)"
+            },
+            "history": {
+              "aligned": [
+                "2 instrumentos estaduais: PPA 2024-2027 (Lei 22.317/2023, alterado em 2024 e revisado em 2026) e planos decenais de segurança (2022–2031 e 2026–2035)"
+              ],
+              "divergent": [
+                "O plano apresenta 26 temas e 10 compromissos para 2030 sem detalhamento legal ou de custo por compromisso no material consultado"
+              ],
+              "sources": [
+                {
+                  "id": "src-caiado-134"
+                },
+                {
+                  "id": "src-caiado-135"
+                },
+                {
+                  "id": "src-caiado-136"
+                },
+                {
+                  "id": "src-cg-20"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026; 49 deputados e 13 senadores no informe do partido em abr/2026)",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+              "federations": "Nenhuma federação declarada na chapa",
+              "documentedAgreements": 1,
+              "note": "O PSD tem 48 deputados e 14 senadores em exercício (APIs, 29/09/2026) e o PPA estadual 2024-2027 foi aprovado por lei; o detalhamento legal por compromisso não é informado. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-caiado-134"
+                },
+                {
+                  "id": "src-cg-26"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Compromissos para 2030 ligados a instrumentos que dependem do Congresso (PPA, PEC e lei)",
+                "detail": "O plano organiza 26 temas, 10 itens de método de governo e 10 compromissos nacionais para 2030, com painel público de indicadores e PPA estruturado por missões; o detalhamento legal por compromisso não é informado. O PPA é aprovado por maioria dos votos presentes e as PECs do programa exigem 308 + 49.",
+                "sources": [
+                  {
+                    "id": "src-cg-20"
+                  },
+                  {
+                    "id": "src-caiado-80"
+                  },
+                  {
+                    "id": "src-caiado-133"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o custo de cada compromisso nacional para 2030?"
+              },
+              {
+                "question": "Como o painel público de indicadores será atualizado e verificado?"
+              }
+            ],
+            "publicExplanation": "O candidato apresentou publicamente o método de governo e os compromissos nacionais para 2030 na convenção do PSD (26/07/2026) e em entrevistas de agosto de 2026.",
+            "methodology": "Leitura do plano registrado no TSE e comparação com os instrumentos de planejamento do governo de Goiás (PPA 2024-2027 e planos decenais de segurança). O custo e o instrumento legal por compromisso não foram informados nas fontes consultadas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-cg-20"
+              },
+              {
+                "id": "src-cg-21"
+              },
+              {
+                "id": "src-caiado-80"
+              },
+              {
+                "id": "src-caiado-133"
+              },
+              {
+                "id": "src-caiado-134"
+              },
+              {
+                "id": "src-caiado-135"
+              },
+              {
+                "id": "src-caiado-136"
+              },
+              {
+                "id": "src-caiado-113"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "zema": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "reality": {
+            "proposal": "Privatizar 100% das estatais, aplicar choque fiscal e unir municípios sem sustentação financeira",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "note": "A venda de estatais federais depende de lei autorizativa por empresa (e de PEC conforme o ativo); o choque fiscal depende de PEC (308 + 49) e a fusão de municípios, de lei complementar (257 + 41).",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação (CF art. 47)"
+            },
+            "history": {
+              "aligned": [
+                "4 atos em MG: LC 156/2020, Lei 23.304/2019, acordo de Brumadinho (2021) e contrato de adesão ao Propag (31/12/2025)"
+              ],
+              "divergent": [
+                "A Lei 23.304/2019 foi sancionada com nove vetos parciais",
+                "o orçamento de 2026 mantém déficit projetado de R$ 5,2 bi"
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-79"
+                },
+                {
+                  "id": "src-zema-71"
+                },
+                {
+                  "id": "src-zema-80"
+                },
+                {
+                  "id": "src-zema-74"
+                },
+                {
+                  "id": "src-zema-05"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício na lista oficial de 29/09/2026 (o vice Eduardo Girão é senador pelo Ceará e não consta na lista de exercício)",
+              "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "O NOVO tem 5 deputados e nenhum senador em exercício (API, 29/09/2026); o partido registrou 4 atos de governo em MG e nenhuma negociação federal, e a mudança institucional proposta exige PEC. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                },
+                {
+                  "id": "src-re-r1capacidades-03"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Privatização de 100% das estatais e choque fiscal exigem lei autorizativa e PEC",
+                "detail": "O plano propõe privatização de 100% das estatais e choque fiscal para estabilizar a dívida. A venda de estatais federais depende de lei autorizativa específica (e de emenda constitucional conforme o ativo) e a regra fiscal, de PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa. O NOVO tem 5 deputados e nenhum senador em exercício em 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-zema-09"
+                  },
+                  {
+                    "id": "src-zema-14"
+                  },
+                  {
+                    "id": "src-zema-15"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Choque fiscal e R$ 1.000 por brasileiro ao nascer no mesmo plano",
+                "detail": "O plano prevê choque fiscal para estabilizar a dívida e, no mesmo documento, o programa 'Sócios do Brasil', com R$ 1.000 para cada brasileiro ao nascer e saque a partir dos 18 anos. As fontes consultadas não registram estimativa de custo nem a fonte de recursos do programa.",
+                "sources": [
+                  {
+                    "id": "src-zema-15"
+                  },
+                  {
+                    "id": "src-zema-10"
+                  },
+                  {
+                    "id": "src-zema-09"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o custo estimado do programa 'Sócios do Brasil'?"
+              },
+              {
+                "question": "Qual é o instrumento previsto para a privatização de cada estatal?"
+              }
+            ],
+            "publicExplanation": "O candidato apresentou o plano como 'plano implantável', com metas anuais e progressivas, e defendeu a saída do RRF para o Propag como resultado fiscal do estado.",
+            "methodology": "Comparação dos atos do governo de Minas (2019–2025) com o plano federal registrado no TSE e com as regras de votação da Constituição. O custo por proposta e o instrumento por empresa não são informados nas fontes consultadas; o patrimônio dos ativos estaduais não foi auditado aqui.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-zema-09"
+              },
+              {
+                "id": "src-zema-14"
+              },
+              {
+                "id": "src-zema-15"
+              },
+              {
+                "id": "src-zema-70"
+              },
+              {
+                "id": "src-zema-71"
+              },
+              {
+                "id": "src-zema-74"
+              },
+              {
+                "id": "src-zema-75"
+              },
+              {
+                "id": "src-zema-05"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "reality": {
+            "proposal": "Extinguir o Fundo Eleitoral e o Fundo Partidário (PEC), fazer nova Previdência e unir municípios",
+            "requirement": {
+              "path": "pec",
+              "note": "O fim do Fundo Eleitoral e do Fundo Partidário (criados pela EC 96/2019) e a nova Previdência exigem PEC; a fusão de municípios depende de lei complementar.",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "2 negociações de porte: dívida com a União (contrato assinado em 31/12/2025) e orçamento 2026 aprovado na ALMG em 10/12/2025"
+              ],
+              "divergent": [
+                "1 conflito registrado: a Associação Mineira de Municípios apontou demandas de set/2025 sem atendimento um mês depois"
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-75"
+                },
+                {
+                  "id": "src-zema-74"
+                },
+                {
+                  "id": "src-zema-06"
+                },
+                {
+                  "id": "src-zema-58"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício na lista oficial de 29/09/2026 (o vice Eduardo Girão é senador pelo Ceará e não consta na lista de exercício)",
+              "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "O NOVO tem 5 deputados e nenhum senador em exercício (API, 29/09/2026), chapa de partido isolado, e 2 negociações de porte documentadas no governo estadual (dívida com a União e orçamento). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-zema-74"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                },
+                {
+                  "id": "src-re-r1capacidades-03"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fim dos fundos eleitorais, nova Previdência e fusão de municípios exigem PEC e lei complementar",
+                "detail": "O plano registra PEC para o fim do Fundo Eleitoral e do Fundo Partidário (criados pela EC 96/2019), PEC para nova reforma da Previdência e lei complementar para a fusão de municípios. PEC exige 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa, e o NOVO tem 5 deputados e nenhum senador em exercício em 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-zema-14"
+                  },
+                  {
+                    "id": "src-zema-09"
+                  },
+                  {
+                    "id": "src-zema-15"
+                  },
+                  {
+                    "id": "src-zema-11"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Austeridade defendida no plano federal e adesão de Minas ao Propag com repasse de R$ 35,8 bi em ativos",
+                "detail": "O plano federal propõe choque fiscal para estabilizar a dívida; no governo de Minas, o contrato de adesão ao Propag (31/12/2025) previu repasse de R$ 35,8 bi em ativos e redução de juros, após a saída do RRF por decreto federal de 22/12/2025. O plano não relaciona a medida estadual à proposta federal.",
+                "sources": [
+                  {
+                    "id": "src-zema-75"
+                  },
+                  {
+                    "id": "src-zema-74"
+                  },
+                  {
+                    "id": "src-zema-76"
+                  },
+                  {
+                    "id": "src-zema-09"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como serão obtidos os votos para a PEC que extingue os fundos eleitorais?"
+              },
+              {
+                "question": "Qual é a estimativa de economia da fusão de municípios?"
+              }
+            ],
+            "publicExplanation": "Não localizamos, nesta rodada, explicação pública do candidato sobre a convivência entre a austeridade proposta no plano federal e o repasse de ativos recebido pelo estado na adesão ao Propag.",
+            "methodology": "Contagem das negociações de porte documentadas no governo estadual (dívida com a União e orçamento na ALMG), consulta às fontes sobre conflitos federativos e comparação com os quóruns da Constituição. Tratativas não registradas publicamente não foram computadas.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-zema-74"
+              },
+              {
+                "id": "src-zema-75"
+              },
+              {
+                "id": "src-zema-76"
+              },
+              {
+                "id": "src-zema-06"
+              },
+              {
+                "id": "src-zema-58"
+              },
+              {
+                "id": "src-zema-09"
+              },
+              {
+                "id": "src-zema-14"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "lideranca-equipes",
+          "reality": {
+            "proposal": "Manter estrutura enxuta (12 secretarias) e montar a equipe federal para privatizações e choque fiscal",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "A nomeação de secretários e ministros é ato do Executivo; a reorganização administrativa depende de lei ou de medida provisória (apreciação em até 120 dias, CF art. 62)."
+            },
+            "history": {
+              "aligned": [
+                "2 precedentes: secretariado formado antes da posse (dez/2018) e redução de 21 para 12 secretarias em 2019, com 3,6 mil cargos comissionados extintos"
+              ],
+              "divergent": [
+                "1 substituição registrada: secretário de Saúde trocado em mar/2021 após o caso dos 'fura-filas' na vacinação"
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-72"
+                },
+                {
+                  "id": "src-zema-70"
+                },
+                {
+                  "id": "src-zema-71"
+                },
+                {
+                  "id": "src-zema-77"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício na lista oficial de 29/09/2026 (o vice Eduardo Girão é senador pelo Ceará e não consta na lista de exercício)",
+              "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A estrutura de 12 secretarias foi criada por lei estadual em 2019; o NOVO tem 5 deputados e nenhum senador em exercício (API, 29/09/2026) e a equipe federal registrada é de campanha. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-70"
+                },
+                {
+                  "id": "src-zema-72"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Estrutura enxuta aprovada em lei estadual e redução federal dependente de lei ou medida provisória",
+                "detail": "A estrutura de 12 secretarias foi criada por lei estadual em 2019, com nove vetos parciais na sanção; no Executivo federal, a redução de estrutura depende de lei ou de medida provisória, com apreciação pelo Congresso em até 120 dias. O plano não informa o número de pastas pretendido nas fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-zema-70"
+                  },
+                  {
+                    "id": "src-zema-71"
+                  },
+                  {
+                    "id": "src-zema-09"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantas pastas o plano prevê para o Executivo federal?"
+              },
+              {
+                "question": "Quem coordena as áreas de privatização e de regulação?"
+              }
+            ],
+            "publicExplanation": "A troca do secretário de Saúde em março de 2021 foi oficializada publicamente após o caso dos 'fura-filas' na vacinação.",
+            "methodology": "Levantamento da estrutura administrativa criada em Minas (2019) e das substituições registradas (2021) e dos anúncios de equipe. Não foram apuradas as lotações por pasta nem o custo de pessoal por exercício.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-zema-70"
+              },
+              {
+                "id": "src-zema-71"
+              },
+              {
+                "id": "src-zema-72"
+              },
+              {
+                "id": "src-zema-77"
+              },
+              {
+                "id": "src-zema-09"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "tomada-decisao",
+          "reality": {
+            "proposal": "Decidir sobre choque fiscal, Previdência por gatilho e uso das Forças Armadas na retomada de territórios",
+            "requirement": {
+              "path": "pec",
+              "note": "A nova Previdência com idade mínima por gatilho e a ampliação de competência estadual em segurança exigem PEC; o emprego das Forças Armadas depende de lei complementar federal.",
+              "quorum": "PEC: 308 de 513 deputados e 49 de 81 senadores, em dois turnos em cada Casa (CF art. 60, §2º)"
+            },
+            "history": {
+              "aligned": [
+                "3 decisões com custo: veto a 41% mantido na ALMG em 17/06/2020 (33 a 35), onda roxa em mar/2021 e renúncia ao governo em 22/03/2026"
+              ],
+              "divergent": [
+                "1 divergência com o próprio partido: o NOVO nacional recomendou veto total ao reajuste e o vice Paulo Brant deixou a legenda (2020)"
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-100"
+                },
+                {
+                  "id": "src-zema-103"
+                },
+                {
+                  "id": "src-zema-106"
+                },
+                {
+                  "id": "src-zema-01"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício na lista oficial de 29/09/2026 (o vice Eduardo Girão é senador pelo Ceará e não consta na lista de exercício)",
+              "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "O NOVO tem 5 deputados e nenhum senador em exercício (API, 29/09/2026); 3 decisões com custo político documentadas no governo estadual, entre elas o veto a 41% mantido pela Assembleia. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                },
+                {
+                  "id": "src-re-r1capacidades-02"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Nova Previdência e emprego das Forças Armadas dependem de PEC e de lei complementar",
+                "detail": "O plano propõe nova reforma da Previdência com idade mínima por gatilho e desvinculação do reajuste, além do emprego das Forças Armadas na retomada de territórios, com ampliação de competência estadual. PEC exige 308 + 49, LC exige 257 + 41; o NOVO tem 5 deputados e nenhum senador em exercício em 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-zema-15"
+                  },
+                  {
+                    "id": "src-zema-11"
+                  },
+                  {
+                    "id": "src-zema-09"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é o desenho do gatilho automático de idade mínima?"
+              },
+              {
+                "question": "Qual instrumento autoriza o emprego das Forças Armadas proposto?"
+              }
+            ],
+            "publicExplanation": "Sobre o veto ao reajuste de 41%, mantido pela Assembleia, o candidato defendeu publicamente a decisão fiscal; a renúncia ao governo em 22/03/2026 foi comunicada publicamente para disputar a Presidência.",
+            "methodology": "Comparação das decisões com custo político registrado no governo de Minas (2020, 2021 e 2026) com as medidas propostas no plano federal e com os quóruns da Constituição. As negociações internas do partido em 2020 não foram reconstituídas além do registrado nas fontes.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-zema-100"
+              },
+              {
+                "id": "src-zema-101"
+              },
+              {
+                "id": "src-zema-102"
+              },
+              {
+                "id": "src-zema-103"
+              },
+              {
+                "id": "src-zema-104"
+              },
+              {
+                "id": "src-zema-105"
+              },
+              {
+                "id": "src-zema-106"
+              },
+              {
+                "id": "src-zema-107"
+              },
+              {
+                "id": "src-zema-15"
+              },
+              {
+                "id": "src-zema-11"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "gestao-crises",
+          "reality": {
+            "proposal": "Responder a desastres e ao colapso assistencial com estrutura própria e cooperação com municípios",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "As respostas estaduais registradas saíram por decreto de emergência e contratos emergenciais; no plano federal, o crédito extraordinário é ato do Executivo apreciado pelo Congresso (CF art. 62)."
+            },
+            "history": {
+              "aligned": [
+                "3 respostas registradas: Brumadinho (jan/2019, com bloqueio judicial de R$ 11 bi da Vale), crise fiscal herdada e colapso assistencial de 2021"
+              ],
+              "divergent": [
+                "Não localizamos, no recorte, episódio federal de crise sob responsabilidade do candidato",
+                "as respostas registradas são do governo estadual"
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-108"
+                },
+                {
+                  "id": "src-zema-102"
+                },
+                {
+                  "id": "src-zema-104"
+                },
+                {
+                  "id": "src-zema-105"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício na lista oficial de 29/09/2026 (o vice Eduardo Girão é senador pelo Ceará e não consta na lista de exercício)",
+              "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 1,
+              "note": "As 3 respostas documentadas são do governo estadual (Brumadinho, crise fiscal herdada e colapso de 2021); o NOVO tem 5 deputados e nenhum senador em exercício (API, 29/09/2026). Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-108"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "openQuestions": [
+              {
+                "question": "Qual é o protocolo federal de resposta a desastres do plano?"
+              },
+              {
+                "question": "Como será feito o reconhecimento federal de emergências?"
+              }
+            ],
+            "publicExplanation": "No dia do rompimento da barragem de Brumadinho (25/01/2019) o candidato concedeu entrevista coletiva com o anúncio da força-tarefa estadual; em março de 2021 anunciou publicamente a onda roxa e a orientação aos 853 municípios.",
+            "methodology": "Levantamento das respostas registradas nos três episódios (Brumadinho, crise fiscal herdada e colapso de 2021) com fontes estaduais e de imprensa. O reconhecimento federal da emergência de 2020 não foi localizado nas fontes consultadas e nenhum ponto de tensão específico deste eixo foi documentado nesta rodada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-zema-108"
+              },
+              {
+                "id": "src-zema-109"
+              },
+              {
+                "id": "src-zema-110"
+              },
+              {
+                "id": "src-zema-102"
+              },
+              {
+                "id": "src-zema-104"
+              },
+              {
+                "id": "src-zema-105"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ],
+            "tensions": []
+          }
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "reality": {
+            "proposal": "Repactuação de Mariana e cooperação com os 853 municípios; no plano federal, unir municípios e usar as Forças Armadas",
+            "requirement": {
+              "path": "lei-complementar",
+              "note": "A fusão de municípios sem sustentação financeira depende de lei complementar ou de emenda constitucional; o acordo de Mariana foi homologado no STF em 06/11/2024, sem quórum legislativo.",
+              "quorum": "Lei complementar: maioria absoluta — 257 de 513 deputados e 41 de 81 senadores (CF art. 69)"
+            },
+            "history": {
+              "aligned": [
+                "2 atos com outros entes: acordo de Mariana (R$ 132 bi, homologado no STF em 06/11/2024) e decreto de emergência para 47 municípios (jan/2020)"
+              ],
+              "divergent": [
+                "1 divergência federativa: a Associação Mineira de Municípios registrou demandas de set/2025 sem atendimento um mês depois"
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-112"
+                },
+                {
+                  "id": "src-zema-111"
+                },
+                {
+                  "id": "src-zema-58"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício na lista oficial de 29/09/2026 (o vice Eduardo Girão é senador pelo Ceará e não consta na lista de exercício)",
+              "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 2,
+              "note": "O NOVO tem 5 deputados e nenhum senador em exercício (API, 29/09/2026); 2 atos conjuntos documentados com outros entes e 1 divergência federativa registrada com a associação de municípios. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-112"
+                },
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fusão de municípios por lei complementar e cooperação federativa coercitiva no estado",
+                "detail": "O plano propõe um programa nacional de união progressiva de municípios sem sustentação financeira, por lei complementar ou emenda constitucional. LC exige 257 de 513 deputados e 41 de 81 senadores; no estado, as deliberações da pandemia foram aplicadas de forma impositiva aos 853 municípios (2021) e o decreto de emergência de 2020 alcançou 47 municípios.",
+                "sources": [
+                  {
+                    "id": "src-zema-09"
+                  },
+                  {
+                    "id": "src-zema-103"
+                  },
+                  {
+                    "id": "src-zema-105"
+                  },
+                  {
+                    "id": "src-zema-111"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais critérios definem município sem sustentação financeira?"
+              },
+              {
+                "question": "Como o plano trataria a autonomia municipal no processo de união?"
+              }
+            ],
+            "publicExplanation": "O candidato defendeu publicamente a repactuação de Mariana como negociação entre União, estados atingidos, Ministérios Públicos e empresas, e criticou o que chamou de 'abandono federativo' na Marcha dos Prefeitos (maio/2026).",
+            "methodology": "Mapeamento dos acordos com outros entes no governo estadual (Mariana, cooperação com municípios e emergências) e comparação com as propostas federais. A interação com prefeitos em 2026 tem fonte jornalística; o reconhecimento federal de emergências do período não foi localizado.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-zema-112"
+              },
+              {
+                "id": "src-zema-113"
+              },
+              {
+                "id": "src-zema-114"
+              },
+              {
+                "id": "src-zema-111"
+              },
+              {
+                "id": "src-zema-103"
+              },
+              {
+                "id": "src-zema-105"
+              },
+              {
+                "id": "src-zema-55"
+              },
+              {
+                "id": "src-zema-58"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        },
+        {
+          "slug": "comunicacao-publica",
+          "reality": {
+            "proposal": "Comunicar decisões por protocolos públicos (Minas Consciente), anúncios de onda e sabatinas",
+            "history": {
+              "aligned": [
+                "3 registros: coletiva no dia de Brumadinho (25/01/2019), protocolo Minas Consciente (2020–2021) e sabatina O Globo/CBN/Valor (25/08/2026)"
+              ],
+              "divergent": [],
+              "sources": [
+                {
+                  "id": "src-zema-130"
+                },
+                {
+                  "id": "src-zema-133"
+                },
+                {
+                  "id": "src-zema-134"
+                }
+              ],
+              "noComparablePrecedent": "Não localizamos, no recorte, episódio de comunicação pública federal sob responsabilidade do candidato"
+            },
+            "openQuestions": [
+              {
+                "question": "Como o plano comunica as metas anuais por indicador?"
+              },
+              {
+                "question": "Qual é o orçamento de comunicação proposto para o governo?"
+              }
+            ],
+            "publicExplanation": "O candidato apresentou publicamente as diretrizes do plano de governo em 16/04/2026 e abriu a série de sabatinas O GLOBO/CBN/Valor em 25/08/2026, com posições sobre dívida pública, Previdência e privatizações.",
+            "methodology": "Este eixo não depende de votação no Congresso; por isso não há base formal de sustentação a registrar. Foram levantados protocolos, anúncios e sabatinas do período. Nenhum ponto de tensão específico deste eixo foi documentado nesta rodada e o alcance por veículo não foi medido.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-zema-130"
+              },
+              {
+                "id": "src-zema-133"
+              },
+              {
+                "id": "src-zema-132"
+              },
+              {
+                "id": "src-zema-131"
+              },
+              {
+                "id": "src-zema-134"
+              },
+              {
+                "id": "src-zema-135"
+              },
+              {
+                "id": "src-zema-136"
+              }
+            ],
+            "tensions": [],
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "Protocolos, anúncios e sabatinas não dependem de votação nem de quórum; não há instrumento legal exigido neste eixo."
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício na lista oficial de 29/09/2026 (o vice Eduardo Girão é senador pelo Ceará e não consta na lista de exercício)",
+              "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "A base de votos não se aplica a este eixo; o NOVO tem 5 deputados e nenhum senador em exercício em 29/09/2026 (API oficial). Retrato atual, não previsão do próximo Congresso.",
+              "sources": []
+            }
+          }
+        },
+        {
+          "slug": "visao-estrategica",
+          "reality": {
+            "proposal": "Plano 'implantável' com metas anuais e progressivas; PMDI e PPAG no estado e privatizações como prioridade",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "note": "O PPA e o orçamento passam por lei ordinária; cada privatização depende de lei autorizativa e as demais mudanças institucionais, de PEC (308 + 49) ou de lei complementar (257 + 41).",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação (CF art. 47)"
+            },
+            "history": {
+              "aligned": [
+                "2 instrumentos estaduais: PMDI 2019-2030 (10 objetivos e 31 indicadores com metas) e PPAG 2024-2027 (Lei 24.677/2024)"
+              ],
+              "divergent": [
+                "O plano registrado no TSE (81 páginas e 20 temas) não apresenta capítulo com horizonte de 10 a 20 anos nem metas quantificadas de longo prazo"
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-137"
+                },
+                {
+                  "id": "src-zema-138"
+                },
+                {
+                  "id": "src-zema-10"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício na lista oficial de 29/09/2026 (o vice Eduardo Girão é senador pelo Ceará e não consta na lista de exercício)",
+              "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+              "federations": "Nenhuma",
+              "documentedAgreements": 0,
+              "note": "O NOVO tem 5 deputados e nenhum senador em exercício (API, 29/09/2026); o horizonte de 10 a 20 anos do estado veio do PMDI 2019-2030 e o plano federal de 2026 não traz metas quantificadas de longo prazo. Retrato atual, não previsão do próximo Congresso.",
+              "sources": [
+                {
+                  "id": "src-zema-21"
+                },
+                {
+                  "id": "src-zema-10"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Privatizações e horizonte longo com instrumentos que dependem do Legislativo",
+                "detail": "O plano prioriza privatizações e venda de ativos diante de déficit projetado de R$ 5,2 bi e dívida de R$ 187 bi (mar/2026). Cada venda de estatal depende de lei autorizativa e as demais mudanças institucionais (fundos eleitorais, Previdência e fusão de municípios) dependem de PEC ou LC; o NOVO tem 5 deputados e nenhum senador em exercício em 29/09/2026.",
+                "sources": [
+                  {
+                    "id": "src-zema-12"
+                  },
+                  {
+                    "id": "src-zema-140"
+                  },
+                  {
+                    "id": "src-zema-141"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-03"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual é a sequência de metas anuais do plano?"
+              },
+              {
+                "question": "Qual é a estimativa de arrecadação com a venda de ativos?"
+              }
+            ],
+            "publicExplanation": "O candidato apresentou o plano de 2026 como 'plano implantável', com metas anuais e progressivas, e relacionou a prioridade em privatizações ao déficit e à dívida do estado.",
+            "methodology": "Leitura do plano registrado no TSE e dos instrumentos estaduais (PMDI 2019-2030 e PPAG 2024-2027), comparados com as regras de votação da Constituição. O custo por meta e a estimativa de arrecadação com ativos não são informados nas fontes consultadas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium",
+            "sources": [
+              {
+                "id": "src-zema-137"
+              },
+              {
+                "id": "src-zema-138"
+              },
+              {
+                "id": "src-zema-145"
+              },
+              {
+                "id": "src-zema-12"
+              },
+              {
+                "id": "src-zema-10"
+              },
+              {
+                "id": "src-zema-09"
+              },
+              {
+                "id": "src-zema-140"
+              },
+              {
+                "id": "src-zema-141"
+              },
+              {
+                "id": "src-re-r1capacidades-01"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "Cadeiras por partido variam entre o informe partidário (abr/2026) e as APIs oficiais consultadas em 29/09/2026 (PT 67 vs 65; PSD 49 vs 48 e 13 vs 14 senadores); a divergência está registrada em cada support.",
+    "Os planos registrados no TSE não informam custo e prazo por proposta na maior parte dos itens; o percentual de propostas com custo e prazo por candidato não foi calculado nesta rodada.",
+    "Não localizamos manifestação pública dos candidatos sobre a distância entre a base formal observável e os quóruns exigidos pelas mudanças propostas (PEC 308+49; LC 257+41).",
+    "Para comunicação pública, o teste de sustentação formal não se aplica e o alcance por veículo não foi medido; os eixos sem base de votos estão explicitados no methodology de cada candidato."
+  ]
+}

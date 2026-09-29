@@ -467,7 +467,87 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Adotar o semipresidencialismo, com primeiro-ministro, e mandato de oito anos para ministros do STF no lugar da vitaliciedade",
+          "requirement": {
+            "kind": "pec",
+            "label": "Emenda constitucional (PEC)",
+            "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+            "note": "A PEC 2/25, em tramitação na Câmara, trata do semipresidencialismo e do voto distrital misto e precisava de 171 assinaturas para avançar; mudanças no STF (vitaliciedade e tempo de mandato) também dependem de PEC.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: 2026 é sua primeira candidatura e ele nunca exerceu cargo eletivo ou de nomeação; marcos são empresa, partido e campanha.",
+            "aligned": "Proposta apresentada em maio de 2026 e reafirmada na convenção, com a declaração de que convidaria Tarcísio de Freitas para primeiro-ministro.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 5,
+              "senado": 1
+            },
+            "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante).",
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Mudança de regime por PEC com 5 deputados e 1 senador na bancada atual",
+              "detail": "Semipresidencialismo, fim da reeleição e mandato de oito anos no STF dependem de PEC (308 votos na Câmara e 49 no Senado, em dois turnos), e o Avante tem 5 dos 513 deputados federais e 1 dos 81 senadores. A PEC 2/25, que trata do tema na Câmara, precisava de apoio de 171 deputados para tramitar.",
+              "sources": [
+                {
+                  "id": "src-re-r2propostas-04",
+                  "title": "Proposta muda a Constituição para instituir o semipresidencialismo no Brasil (PEC 2/25, com voto distrital misto; 171 assinaturas para tramitar)",
+                  "publisher": "Câmara dos Deputados — Agência",
+                  "url": "https://www.camara.leg.br/noticias/1131679-PROPOSTA-MUDA-A-CONSTITUICAO-PARA-INSTITUIR-O-SEMIPRESIDENCIALISMO-NO-BRASIL",
+                  "publishedAt": "2025",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial",
+                  "notes": "Registra a apresentação da PEC 2/25 e a exigência de apoio de 171 deputados para tramitação."
+                },
+                {
+                  "id": "src-ac-17",
+                  "title": "Avante — verbete (Wikipédia em português)",
+                  "publisher": "Wikipédia",
+                  "url": "https://pt.wikipedia.org/wiki/Avante",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Bancada 2026 (5 federais, 1 senador), 243.296 filiados, desempenho na janela partidária."
+                },
+                {
+                  "id": "src-ac-06",
+                  "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+                  "publisher": "Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+                  "publishedAt": "2026-09",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Setembro/2026; dia exato não capturado."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual o desenho do semipresidencialismo (poderes do primeiro-ministro, moção de censura, dissolução)?"
+            },
+            {
+              "question": "Como se daria a transição de regime em um mandato já iniciado?"
+            },
+            {
+              "question": "Qual a regra para os ministros atuais do STF no modelo de mandato de oito anos?"
+            }
+          ],
+          "publicExplanation": "O candidato declarou em entrevistas e na convenção que o presidente cuidaria das questões de Estado e um primeiro-ministro governaria o país, e afirmou que convidaria Tarcísio de Freitas (governador de São Paulo) para o cargo.",
+          "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Saúde digital: telemedicina, inteligência artificial e plataformas digitais no SUS",
@@ -497,7 +577,77 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Estruturar telemedicina com médicos 24 horas e uso de IA no SUS, com a avaliação de que resolveria 80% dos atendimentos",
+          "requirement": {
+            "kind": "depende-de-estados",
+            "label": "Política pública do SUS, com pactuação tripartite e atos administrativos",
+            "quorum": "Não se aplica — portarias e atos administrativos, com pactuação entre União, estados e municípios.",
+            "note": "A telemedicina em todo o país já é disciplinada pela Lei 14.510/2022; o atendimento depende de profissionais, banda larga e sistemas nos três níveis de governo.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu cargo eletivo ou de nomeação nem dirigiu serviço público de saúde; marcos são empresa, partido e campanha.",
+            "aligned": "A metodologia socioemocional que criou foi licenciada a redes públicas em dez estados, em 25 contratos identificados pela imprensa (mais de R$ 30 mi).",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 5,
+              "senado": 1
+            },
+            "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Telemedicina 24 horas depende de profissionais e de conexão nos três níveis de governo",
+              "detail": "O SUS é gerido de forma compartilhada entre União, estados e municípios, e o atendimento por telemedicina exige profissionais disponíveis, banda larga e sistemas integrados em cada ente. O plano registrado não indica custo, prazo nem indicador de resultado para a meta de resolver 80% dos atendimentos, segundo as fontes consultadas.",
+              "sources": [
+                {
+                  "id": "src-ac-19",
+                  "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                  "publisher": "GZH (Estadão Conteúdo)",
+                  "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                  "publishedAt": "2026-08-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+                },
+                {
+                  "id": "src-ac-05",
+                  "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                  "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "De onde viriam os médicos para o atendimento 24 horas em todas as regiões?"
+            },
+            {
+              "question": "Qual o custo da estrutura de telemedicina e qual indicador mediria a meta de 80% dos casos?"
+            },
+            {
+              "question": "Como o plano trata a cobertura de internet nas áreas sem conexão constante?"
+            }
+          ],
+          "publicExplanation": "Em sabatina na TV Globo (29/08/2026) o candidato reconheceu sua ligação com uma empresa de telemedicina e disse que a experiência lhe permite afirmar que o modelo pode ser 'barato' e 'eficiente'.",
+          "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Salário mínimo reajustado pela inflação mais 1% ao ano e enxugamento do Executivo (corte de 8 a 10 ministérios)",
@@ -527,7 +677,86 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Reajustar o salário mínimo pela inflação mais 1% ao ano e cortar de 8 a 10 ministérios, com criação de novas pastas",
+          "requirement": {
+            "kind": "misto",
+            "label": "Lei (valorização do mínimo), medida provisória e lei de organização do Executivo",
+            "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "A política de valorização do mínimo e a criação ou extinção de ministérios passam pelo Congresso e pela lei orçamentária; o plano não traz a memória de cálculo do ganho real declarado de 50% a 60% em quatro anos.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: 2026 é sua primeira candidatura e ele nunca exerceu cargo eletivo ou de nomeação; marcos são empresa, partido e campanha.",
+            "aligned": "Apresentou o reajuste pela inflação mais 1% e o corte de pastas em sabatina da TV Globo (29/08/2026), com meta de mínimo de US$ 300 em 8 a 10 anos.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 5,
+              "senado": 1
+            },
+            "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-outra-proposta",
+              "title": "Corte de 8 a 10 ministérios e criação simultânea de ao menos três pastas citadas",
+              "detail": "O candidato declarou corte de 8 a 10 ministérios e, no mesmo período, a criação de um Ministério da Segurança Pública — com convite declarado a Ronaldo Caiado (PSD) —, de um Ministério da Inteligência Artificial e de uma pasta de empreendedorismo, além da substituição do chanceler por secretário de Estado. As fontes consultadas não apresentam o saldo entre pastas extintas e criadas.",
+              "sources": [
+                {
+                  "id": "src-ac-19",
+                  "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                  "publisher": "GZH (Estadão Conteúdo)",
+                  "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                  "publishedAt": "2026-08-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+                },
+                {
+                  "id": "src-ac-37",
+                  "title": "Cury defende mudanças no Bolsa Família e quer criar Ministério da IA",
+                  "publisher": "Band",
+                  "url": "https://www.band.com.br/politica/eleicoes/2026/cury-defende-mudancas-no-bolsa-familia-e-quer-criar-ministerio-da-ia-202608292154",
+                  "publishedAt": "2026-08-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                },
+                {
+                  "id": "src-ac-05",
+                  "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                  "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Quais ministérios seriam extintos e qual a economia anual estimada com o corte?"
+            },
+            {
+              "question": "Como convivem o corte de pastas e a criação de Segurança Pública, IA e Empreendedorismo?"
+            },
+            {
+              "question": "Qual a memória de cálculo do ganho real de 50% a 60% em quatro anos para o salário mínimo?"
+            }
+          ],
+          "publicExplanation": "O candidato afirmou que o ganho real acumulado do mínimo chegaria a 50%-60% em quatro anos e que a meta de US$ 300 levaria 8 a 10 anos; não foi localizada explicação sobre o saldo de ministérios.",
+          "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Educação: ensino em tempo integral, gestão da emoção no currículo e 'Projeto Brasil Neuroinclusivo'",
@@ -578,7 +807,77 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Criar ministério e 10.000 escolas de empreendedorismo, com Fundo Nacional do Empreendedor de R$ 30 bi a R$ 50 bi",
+          "requirement": {
+            "kind": "lei-ordinaria",
+            "label": "Lei de criação do fundo e do ministério, com dotação orçamentária",
+            "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "A criação de fundo público e de ministério passa pelo Congresso e pela lei orçamentária; a origem dos R$ 30 bi a R$ 50 bi não consta das fontes consultadas.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu cargo eletivo ou de nomeação; o histórico comparável é empresarial e partidário.",
+            "aligned": "Fundou e desenvolveu a Escola da Inteligência, com controle adquirido pela Arco Educação em 2020 por R$ 288 mi, em negócio com cerca de 900 escolas.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 5,
+              "senado": 1
+            },
+            "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "10.000 escolas de empreendedorismo dependem das redes estaduais e municipais",
+              "detail": "O ensino fundamental e médio é operado por estados e municípios; instalar 10.000 escolas de empreendedorismo nessas redes depende de adesão dos entes e de espaço na carga horária. As fontes consultadas não indicam o custo por escola nem a origem dos R$ 30 bi a R$ 50 bi previstos para o fundo.",
+              "sources": [
+                {
+                  "id": "src-ac-05",
+                  "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                  "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+                },
+                {
+                  "id": "src-ac-08",
+                  "title": "Avante faz evento de lançamento da pré-candidatura de Augusto Cury em BH",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/05/06/avante-faz-evento-de-lancamento-da-pre-candidatura-de-augusto-cury-em-bh.ghtml",
+                  "publishedAt": "2026-05-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Nasceu em Colina (SP) em 1958; metas de produção de alimentos e escolas de empreendedorismo."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual a origem dos R$ 30 bi a R$ 50 bi do fundo e o modelo de governança previsto?"
+            },
+            {
+              "question": "Como as 10.000 escolas se integrariam à carga horária da rede pública?"
+            },
+            {
+              "question": "Qual o indicador de resultado definido para o programa de empreendedorismo?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública sobre a origem dos recursos do fundo nem sobre o modelo de implantação das escolas.",
+          "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Segurança pública: integração nacional das forças de segurança e núcleos municipais contra o crime organizado",
@@ -608,7 +907,77 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Criar o Ministério da Segurança Pública, integrar nacionalmente as forças e apoiar núcleos municipais contra o crime organizado",
+          "requirement": {
+            "kind": "lei-ordinaria",
+            "label": "Lei e atos de organização administrativa, com cooperação federativa",
+            "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+            "note": "A recriação do ministério depende de ato do Executivo e de previsão orçamentária; polícias militares e civis são estaduais (CF, art. 144) e a integração exige convênios com os 27 entes.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em segurança pública ou gestão de forças: nunca exerceu cargo público; marcos são atos de empresa, partido e campanha.",
+            "aligned": "Apresentou a integração nacional e o monitoramento de fronteiras no programa, com o convite declarado a Ronaldo Caiado para o ministério.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 5,
+              "senado": 1
+            },
+            "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Integração nacional de segurança depende de forças estaduais e de convênios",
+              "detail": "As polícias militares e civis são forças estaduais (CF, art. 144) e o sistema integrado de informações depende de adesão dos 27 entes; o programa registrado não indica custo, prazo nem a divisão de atribuições entre o novo ministério e as secretarias estaduais.",
+              "sources": [
+                {
+                  "id": "src-ac-05",
+                  "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                  "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+                },
+                {
+                  "id": "src-ac-19",
+                  "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                  "publisher": "GZH (Estadão Conteúdo)",
+                  "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                  "publishedAt": "2026-08-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual a divisão de atribuições entre o novo ministério e as secretarias estaduais de segurança?"
+            },
+            {
+              "question": "O convite declarado a Ronaldo Caiado (PSD) foi aceito e como a composição seria formalizada?"
+            },
+            {
+              "question": "Qual o custo estimado da integração nacional dos sistemas de segurança e fronteiras?"
+            }
+          ],
+          "publicExplanation": "O candidato declarou em sabatina que convidaria Ronaldo Caiado (PSD) — que é candidato à Presidência — para comandar um eventual Ministério da Segurança Pública.",
+          "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Meio ambiente e energia: 'Floresta viva', hidrogênio verde e tecnologia em terras raras",
@@ -668,7 +1037,77 @@
             "accessedAt": "2026-09-29",
             "sourceType": "imprensa"
           }
-        ]
+        ],
+        "reality": {
+          "proposal": "Criar fundo internacional de combate à fome e apoiar a agricultura familiar, dobrando a produção para 700 milhões de toneladas em 10 a 12 anos",
+          "requirement": {
+            "kind": "negociacao-internacional",
+            "label": "Negociação internacional (fundo) e políticas agrícolas domésticas de crédito, seguro e pesquisa",
+            "quorum": "Não se aplica ao fundo; acordo internacional depende de aprovação do Congresso por maioria dos votos presentes.",
+            "note": "A produção agrícola é majoritariamente privada: a meta depende de crédito, seguro, pesquisa e de condições de mercado e clima, não de decisão direta do Executivo.",
+            "path": "indefinido"
+          },
+          "history": {
+            "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu cargo eletivo ou de nomeação nem atuou em política agrícola; marcos são empresa, partido e campanha.",
+            "aligned": "Meta declarada em campanha em maio de 2026 e apresentada no plano registrado, com apoio à agricultura familiar como base da segurança alimentar.",
+            "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+          },
+          "support": {
+            "partySeats": {
+              "camara": 5,
+              "senado": 1
+            },
+            "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+            "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+            "documentedAgreements": 2
+          },
+          "tensions": [
+            {
+              "kind": "proposta-x-restricao-institucional",
+              "title": "Meta de produção agrícola depende de agentes privados e das condições de mercado",
+              "detail": "A meta de dobrar a produção de alimentos para 700 milhões de toneladas em 10 a 12 anos foi declarada em campanha (06/05/2026); a produção é privada e os instrumentos federais são crédito, seguro, pesquisa e infraestrutura de escoamento. As fontes consultadas não indicam custo, área, produtividade projetada nem o desenho do fundo internacional.",
+              "sources": [
+                {
+                  "id": "src-ac-08",
+                  "title": "Avante faz evento de lançamento da pré-candidatura de Augusto Cury em BH",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/05/06/avante-faz-evento-de-lancamento-da-pre-candidatura-de-augusto-cury-em-bh.ghtml",
+                  "publishedAt": "2026-05-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Nasceu em Colina (SP) em 1958; metas de produção de alimentos e escolas de empreendedorismo."
+                },
+                {
+                  "id": "src-ac-05",
+                  "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                  "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ],
+          "openQuestions": [
+            {
+              "question": "Qual a projeção de área e produtividade por cultura para a meta de 700 milhões de toneladas?"
+            },
+            {
+              "question": "Qual o valor, a origem e a governança do fundo internacional de combate à fome?"
+            },
+            {
+              "question": "Qual a participação prevista da agricultura familiar no volume projetado?"
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública com o cálculo da meta de produção nem com o desenho do fundo internacional.",
+          "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
       },
       {
         "title": "Programa 'Você é Insubstituível' — prevenção do suicídio e valorização da vida",
@@ -2284,6 +2723,96 @@
       "accessedAt": "2026-09-29",
       "sourceType": "editorial",
       "notes": "Análise comparativa de diretrizes dos presidenciáveis; registra que Cury prioriza déficit zero e empreendedorismo e é o único a defender o semipresidencialismo. Ano apenas; dia/mês não capturados."
+    },
+    {
+      "id": "src-re-r2capacidades-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publisher": "Presidência da República — Planalto",
+      "date": "1988-10-05",
+      "type": "oficial_legislacao",
+      "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+    },
+    {
+      "id": "src-mundo-02",
+      "title": "O que Lula e Flávio prometem para a política externa",
+      "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+      "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+      "publishedAt": "2026-09-17",
+      "date": "2026-09-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
+    },
+    {
+      "id": "src-re-213",
+      "title": "Legislativo terá papel importante na implementação do acordo Mercosul-UE, diz Trad",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
+      "publishedAt": "2026-05-04",
+      "date": "2026-05-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
+    },
+    {
+      "id": "src-re-205",
+      "title": "Sovereignty takes center stage in foreign policy electoral platforms",
+      "publisher": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
+      "publishedAt": "2026-09-22",
+      "date": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
+    },
+    {
+      "id": "src-re-203",
+      "title": "PEB nas urnas 2026: Augusto Cury – Avante",
+      "publisher": "OPEB — Observatório da Política Externa Brasileira",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-augusto-cury-avante/",
+      "publishedAt": "2026-09-27",
+      "date": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano de 200 páginas 'O Brasil dos Nossos Sonhos': capítulo de relações internacionais, embaixadas orientadas a negócios, Brics, Mercosul e OCDE; página lida por inteiro via curl."
+    },
+    {
+      "id": "src-re-r2propostas-04",
+      "title": "Proposta muda a Constituição para instituir o semipresidencialismo no Brasil (PEC 2/25, com voto distrital misto; 171 assinaturas para tramitar)",
+      "publisher": "Câmara dos Deputados — Agência",
+      "url": "https://www.camara.leg.br/noticias/1131679-PROPOSTA-MUDA-A-CONSTITUICAO-PARA-INSTITUIR-O-SEMIPRESIDENCIALISMO-NO-BRASIL",
+      "publishedAt": "2025",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Registra a apresentação da PEC 2/25 e a exigência de apoio de 171 deputados para tramitação."
+    },
+    {
+      "id": "src-re-t02",
+      "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+      "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+      "publisher": "Plano de Governo 2026",
+      "date": "2026-09-29",
+      "type": "agregador",
+      "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+    },
+    {
+      "id": "src-re-t03",
+      "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+      "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+      "publisher": "Portal Amazônia",
+      "date": "2026-09-29",
+      "type": "imprensa",
+      "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+    },
+    {
+      "id": "src-re-t05",
+      "title": "Cury propõe cortar 15 mil comissionados e dividir BNDES",
+      "url": "https://www.spacemoney.com.br/politica/augusto-cury-reforma-administrativa",
+      "publisher": "SpaceMoney",
+      "date": "2026-08-18",
+      "type": "imprensa",
+      "notes": "Declarações do candidato em entrevista ao SBT News (18/08/2026)."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2554,7 +3083,88 @@
       "name": "Capacidade de execução",
       "question": "Consegue transformar prioridades em entregas concretas?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Fundo Nacional do Empreendedor de R$ 30 a 50 bilhões, ministério próprio e 10.000 escolas de empreendedorismo",
+        "requirement": {
+          "path": "lei-ordinaria",
+          "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+          "note": "A criação do fundo e do ministério depende de lei; o plano cita o valor do fundo sem indicar a origem dos recursos nem a vinculação orçamentária da despesa."
+        },
+        "history": {
+          "aligned": [
+            "Escola da Inteligência: venda de 60% do controle à Arco Educação, aprovada pelo CADE sem condicionantes em 02/12/2020 (Valor Econômico)",
+            "Metodologia licenciada a redes públicas em dez unidades da federação, em contratos somando mais de R$ 30 milhões (Fórum Investiga, 04/09/2026)",
+            "Empresa com cerca de 116 colaboradores e rede declarada de cerca de 900 escolas (LinkedIn; imprensa, 2026)"
+          ],
+          "divergent": [
+            "Contratações por dispensa de licitação e inexigibilidade estão registradas em diários oficiais de municípios (Fórum Investiga; Jornal Opção, 2026)",
+            "Programa substituído em Itajaí (SC) em setembro de 2026, após gastos municipais com os programas (DIARINHO, 14/09/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos execução de política pública ou de orçamento federal; a base é a gestão da empresa e o licenciamento da metodologia"
+        },
+        "support": {
+          "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+          "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação; vice Júlio Delgado (Avante)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "A coligação registrada com o Agir é o acordo formal documentado; não há federação nem maioria própria no Congresso. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Fundo de R$ 30 a 50 bilhões depende de lei e de fonte de recursos não indicada",
+            "detail": "A criação do Fundo Nacional do Empreendedor e do ministério depende de lei. O plano cita o valor do fundo (R$ 30 bilhões a R$ 50 bilhões) sem indicar a origem dos recursos nem a vinculação orçamentária, em um documento com 18 tópicos, 1 de 9 propostas-chave com custo e 2 de 9 com prazo.",
+            "sources": [
+              {
+                "id": "src-ac-05",
+                "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+              },
+              {
+                "id": "src-ac-08",
+                "title": "Avante faz evento de lançamento da pré-candidatura de Augusto Cury em BH",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/05/06/avante-faz-evento-de-lancamento-da-pre-candidatura-de-augusto-cury-em-bh.ghtml",
+                "publishedAt": "2026-05-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Nasceu em Colina (SP) em 1958; metas de produção de alimentos e escolas de empreendedorismo."
+              },
+              {
+                "id": "src-ac-19",
+                "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                "publisher": "GZH (Estadão Conteúdo)",
+                "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                "publishedAt": "2026-08-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual a fonte de recursos do Fundo Nacional do Empreendedor e em quanto tempo ele seria integralizado?",
+            "why": "O plano informa a faixa de R$ 30 bilhões a R$ 50 bilhões sem indicar origem dos recursos ou cronograma de liberação."
+          },
+          {
+            "question": "Como seria feita a ligação entre as 10.000 escolas de empreendedorismo e a rede de ensino existente?",
+            "why": "A meta é declarada sem indicador, não consta o órgão responsável nem o custo por unidade."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: a análise usa a gestão da empresa criada pelo candidato, o licenciamento da metodologia a redes públicas e a operação da campanha (2010-2026). O teste confronta a execução empresarial com o instrumento exigido para um fundo público. Ficaram fora documentos contratuais não públicos.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "dialogo-negociacao",
@@ -2757,7 +3367,115 @@
       "name": "Diálogo, negociação e articulação",
       "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Reforma do regime de governo para o semipresidencialismo e mandato de 8 anos para ministros do STF",
+        "requirement": {
+          "path": "pec",
+          "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+          "note": "Adoção do semipresidencialismo e fim da vitaliciedade dos ministros do STF alteram texto constitucional; o candidato declarou que pretende 'provocar o Congresso' para a reforma."
+        },
+        "history": {
+          "aligned": [
+            "Rodada de contatos com dirigentes de MDB, PSD, PSDB, Podemos, PSC e Novo antes da filiação ao Avante (Metrópoles, 05/04/2026)",
+            "Coligação 'Brasil dos Nossos Sonhos' registrada com o Agir e chapa deferida em 11/09/2026 (TSE; Folha de S.Paulo, 2026)",
+            "Agenda com a cúpula da Assembleia de Deus em São Paulo (g1, 03/09/2026)"
+          ],
+          "divergent": [
+            "Convite público a Ronaldo Caiado (PSD) para o Ministério da Segurança sem resposta formal registrada até 29/09/2026 (GZH; Gazeta do Povo)",
+            "Composição com o Novo foi descartada e a chapa mantida com Júlio Delgado (Poder360; O Globo, 08/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos negociação com bancadas ou relatoria para viabilizar emenda constitucional; a base são filiações e composições de chapa"
+        },
+        "support": {
+          "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+          "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "O acordo formal registrado é a coligação com o Agir, que reúne 5 deputados federais do Avante e um senador; a PEC exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Semipresidencialismo e mandato no STF exigem PEC com 3/5 nas duas Casas",
+            "detail": "A adoção do semipresidencialismo e o mandato de oito anos para ministros do STF alteram texto constitucional e exigem 308 deputados e 49 senadores, em dois turnos em cada Casa. A base registrada da coligação é de 5 deputados federais e 1 senador.",
+            "sources": [
+              {
+                "id": "src-ac-06",
+                "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              },
+              {
+                "id": "src-ac-36",
+                "title": "Augusto Cury Names Júlio Delgado as Running Mate for Brazil Presidency",
+                "publisher": "Today in Brazil (relato da carta à nação divulgada pela CNN Brasil)",
+                "url": "https://todayinbrazil.com/article/augusto-cury-names-julio-delgado-running-mate-msgmzvhp",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-sem-precedente",
+            "title": "Não localizamos mesa de negociação com o Congresso para a reforma institucional proposta",
+            "detail": "As tratativas documentadas em 2026 são de filiação partidária, composição de chapa e agenda setorial. Não localizamos relatoria, frente parlamentar ou acordo de votação associado à PEC do semipresidencialismo e do STF.",
+            "sources": [
+              {
+                "id": "src-ac-09",
+                "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+                "publishedAt": "2026-04-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Filiação ao Avante; lista de políticos com quem conversou."
+              },
+              {
+                "id": "src-ac-50",
+                "title": "Escritor Augusto Cury se filia ao Avante para disputar a Presidência (afirmou ter conversado com dirigentes de outros partidos, como Gilberto Kassab)",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/eleicoes/2026/escritor-e-psiquiatra-augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+                "publishedAt": "2026-04-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual a proposta de transição e de vigência para o semipresidencialismo, incluindo a escolha do primeiro-ministro?",
+            "why": "A proposta aparece em entrevistas e no documento sem desenho de transição, data de vigência ou fórmula de escolha."
+          },
+          {
+            "question": "Quais bancadas assumiram compromisso de votar a PEC até o registro do plano?",
+            "why": "Os contatos partidários registrados são anteriores à filiação; não há lista de apoio à reforma institucional."
+          }
+        ],
+        "publicExplanation": "O candidato afirmou em entrevista que pretende 'provocar o Congresso' para a reforma do STF e do regime de governo e que a proposta é atribuída ao vice Júlio Delgado (Metrópoles, 03/2026; Agência Brasil, 2026).",
+        "methodology": "Trajetória sem mandato federal: o teste usa contatos partidários, composição de chapa e agenda setorial de 2026. Confronta a exigência de 3/5 nas duas Casas com os acordos formalizados. Ficaram fora conversas sem registro público e respostas não confirmadas por cada partido citado.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "lideranca-equipes",
@@ -2888,7 +3606,76 @@
       "name": "Liderança e formação de equipes",
       "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
       "coverage": "parcial",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Enxugamento do Executivo: corte de 8 a 10 ministérios e criação das pastas da Segurança Pública e da Inteligência Artificial",
+        "requirement": {
+          "path": "lei-ordinaria",
+          "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+          "note": "A organização dos ministérios é disciplinada por lei e por decretos de organização administrativa; o candidato não divulgou critério de corte nem desenho das novas pastas."
+        },
+        "history": {
+          "aligned": [
+            "Direção da Escola da Inteligência por mais de uma década, com rede declarada de cerca de 900 escolas (LinkedIn; Valor Econômico, 2026)",
+            "Montagem da equipe de campanha com nomeação de vice e contratação de responsáveis pela comunicação (O Globo, 18/08/2026)",
+            "Declaração de participações societárias no Brasil e nos Estados Unidos após correção (g1; Estadão, 05/09/2026)"
+          ],
+          "divergent": [
+            "Não há publicação de organograma ou do número de integrantes da equipe de campanha (lacuna nas fontes consultadas)"
+          ],
+          "noComparablePrecedent": "Não localizamos direção de equipe de governo ou de órgão público; a base é a empresa, as participações societárias e a campanha"
+        },
+        "support": {
+          "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+          "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "As equipes citadas na campanha não têm organograma publicado e a coligação registrada reúne dois partidos. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Corte de 8 a 10 ministérios convive com a criação de novas pastas no mesmo plano",
+            "detail": "O candidato declara corte de 8 a 10 ministérios como instrumento do ajuste e propõe a criação de um Ministério da Segurança Pública e de um Ministério da Inteligência Artificial. O plano não informa a economia estimada, o critério de corte nem quantas pastas seriam criadas e extintas.",
+            "sources": [
+              {
+                "id": "src-ac-19",
+                "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                "publisher": "GZH (Estadão Conteúdo)",
+                "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                "publishedAt": "2026-08-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+              },
+              {
+                "id": "src-ac-37",
+                "title": "Cury defende mudanças no Bolsa Família e quer criar Ministério da IA",
+                "publisher": "Band",
+                "url": "https://www.band.com.br/politica/eleicoes/2026/cury-defende-mudancas-no-bolsa-familia-e-quer-criar-ministerio-da-ia-202608292154",
+                "publishedAt": "2026-08-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Quantas pastas seriam extintas, quais seriam criadas e qual a economia líquida estimada?",
+            "why": "O plano cita faixas (8 a 10 ministérios) e novas pastas sem balanço de cargos, servidores e despesa."
+          },
+          {
+            "question": "Quem conduziria as equipes dos novos ministérios e com que estrutura de pessoal?",
+            "why": "Nenhum nome ou desenho de equipe foi anunciado até 29/09/2026, e a campanha trocou o responsável pela comunicação em agosto."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: a análise usa a direção da empresa criada pelo candidato, a rede de escolas licenciadas e a montagem da equipe de campanha (2010-2026). O teste confronta a reorganização proposta com critério, custo e estrutura declarados.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "tomada-decisao",
@@ -3052,7 +3839,77 @@
       "name": "Tomada de decisão",
       "question": "Como enfrentou decisões difíceis, trade-offs e pressão?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Reajuste do salário mínimo pela inflação mais 1% ao ano, com ganho real declarado de 50% a 60% em quatro anos",
+        "requirement": {
+          "path": "lei-ordinaria",
+          "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação",
+          "note": "O valor do salário mínimo é fixado por lei, com previsão orçamentária na lei de diretrizes e na lei orçamentária anual; o plano não indica a fonte de recursos do ganho real."
+        },
+        "history": {
+          "aligned": [
+            "Escolha do Avante após rodada de conversas com outras legendas, com candidatura própria mantida (Metrópoles; Gazeta do Povo, 04/2026)",
+            "Venda de 60% do controle da Escola da Inteligência, aprovada pelo CADE em 02/12/2020 sem condicionantes (Valor Econômico)",
+            "Decisão de não antecipar os nomes da equipe econômica durante a campanha (Terra; R7, 10/09/2026)"
+          ],
+          "divergent": [
+            "O candidato afirmou ter conversas com Mansueto Almeida e Marcos Lisboa sem apontar favorito (R7; Terra, 10/09/2026)",
+            "A composição com o Novo não avançou e a chapa foi mantida com Júlio Delgado (Poder360; O Globo, 08/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos decisão de governo com trade-off orçamentário; as decisões documentadas são societárias, partidárias e de campanha"
+        },
+        "support": {
+          "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+          "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "O reajuste depende de lei com previsão orçamentária; a coligação registrada reúne dois partidos e não há maioria própria. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Ganho real de 50% a 60% no mínimo convive com corte de ministérios como fonte do ajuste",
+            "detail": "O candidato estima ganho real acumulado de 50% a 60% em quatro anos e indica o corte de 8 a 10 ministérios como instrumento do ajuste. O plano não informa quanto o corte geraria de economia nem a fonte de recursos do reajuste.",
+            "sources": [
+              {
+                "id": "src-ac-19",
+                "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                "publisher": "GZH (Estadão Conteúdo)",
+                "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                "publishedAt": "2026-08-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+              },
+              {
+                "id": "src-ac-37",
+                "title": "Cury defende mudanças no Bolsa Família e quer criar Ministério da IA",
+                "publisher": "Band",
+                "url": "https://www.band.com.br/politica/eleicoes/2026/cury-defende-mudancas-no-bolsa-familia-e-quer-criar-ministerio-da-ia-202608292154",
+                "publishedAt": "2026-08-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Como foi calculado o ganho real acumulado de 50% a 60% em quatro anos com reajuste de inflação mais 1%?",
+            "why": "A estimativa é declarada em entrevista sem memória de cálculo apresentada nas fontes consultadas."
+          },
+          {
+            "question": "Qual a fonte de recursos do reajuste acima da inflação e o que acontece se a arrecadação não acompanhar?",
+            "why": "O plano não vincula o reajuste a uma fonte específica nem descreve regra de contingência."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: o teste usa decisões societárias, políticas e de campanha (2020-2026). Confronta o trade-off declarado no reajuste do mínimo com a fonte de recursos e com o instrumento legal. Ficou fora a íntegra do plano, não disponível item a item no pool.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "gestao-crises",
@@ -3203,7 +4060,117 @@
       "name": "Gestão de crises e mudança",
       "question": "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Resposta à controvérsia sobre o doutorado declarado no plano registrado no TSE e à omissão de empresas na declaração de bens",
+        "requirement": {
+          "path": "indefinido",
+          "note": "Não há mudança legal envolvida: o caminho é a resposta pública, o direito de resposta em veículo de imprensa e a retificação da declaração apresentada à Justiça Eleitoral."
+        },
+        "history": {
+          "aligned": [
+            "Direito de resposta publicado no Observatório da Imprensa (julho de 2026) sobre o título declarado (Observatório da Imprensa, 2026)",
+            "Campanha classificou as ausências como inconsistências pontuais e informou que retificaria a declaração (g1; Estadão, 05/09/2026)",
+            "Compromisso declarado de não manter contratos federais das empresas em eventual governo (Fórum Investiga; Folha de S.Paulo, 2026)"
+          ],
+          "divergent": [
+            "A assessoria não respondeu aos veículos sobre a permanência da informação no plano registrado (Folha; Valor Econômico, 01/09/2026)",
+            "O programa foi substituído em Itajaí em setembro de 2026 após questionamentos sobre gastos municipais (DIARINHO, 14/09/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos gestão de crise de governo; os episódios documentados são de campanha, do plano registrado e de contratos das empresas"
+        },
+        "support": {
+          "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+          "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "A resposta às controvérsias se deu por direito de resposta e comunicados de campanha, sem processo ou sanção localizada até 29/09/2026. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Plano registrado declara doutorado; o candidato afirma não apresentar o título como doutorado acadêmico",
+            "detail": "O plano protocolado no TSE declara doutorado em Psicologia Multifocal pela Florida Christian University (2013), e o currículo Lattes registra Doctor of Business Administration pela mesma instituição. Em direito de resposta de julho de 2026 o candidato afirmou que não apresenta o título como doutorado acadêmico em Psicologia.",
+            "sources": [
+              {
+                "id": "src-ac-11",
+                "title": "Cury se contradiz sobre doutorado em psicologia / Augusto Cury declara doutorado em psicologia que não fez",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml",
+                "publishedAt": "2026-09-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Detalha a divergência entre plano de governo e Lattes e a falta de acreditação da FCU."
+              },
+              {
+                "id": "src-ac-12",
+                "title": "Cury inclui no currículo entregue ao TSE doutorado internacional que não teria feito",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/cury-inclui-no-curriculo-entregue-ao-tse-doutorado-internacional-que-nao-teria-feito.ghtml",
+                "publishedAt": "2026-09-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Título do plano: 'O Brasil dos Nossos Sonhos'; LinkedIn: pós-graduação PUC-SP e Marmottan."
+              },
+              {
+                "id": "src-ac-13",
+                "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+                "publisher": "Observatório da Imprensa",
+                "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+                "publishedAt": "2026-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Declaração do candidato sobre formação (DBA, PUC-SP, Illes Balears)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Empresas nos Estados Unidos não constavam da declaração de bens; campanha anunciou retificação",
+            "detail": "Três empresas não foram declaradas ao TSE e a campanha classificou as ausências como inconsistências pontuais, informando que retificaria a declaração. As participações declaradas depois foram consideradas inexpressivas no patrimônio pela campanha.",
+            "sources": [
+              {
+                "id": "src-ac-65",
+                "title": "Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/augusto-cury-nao-declarou-tres-empresas-nos-eua-ao-tse-campanha-diz-que-e-erro-e-corrigira-dados.ghtml",
+                "publishedAt": "2026-09-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Participações societárias em Cury Academia Comportamental, Contemplare Investments e Free Mind Publish."
+              },
+              {
+                "id": "src-ac-72",
+                "title": "Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE",
+                "publisher": "Estadão",
+                "url": "https://www.estadao.com.br/politica/eleicoes/augusto-cury-omitiu-empresas-nos-estados-unidos-e-no-brasil-em-declaracao-ao-tse/",
+                "publishedAt": "2026-09-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Patrimônio declarado de R$ 242,2 milhões; empresas na Flórida e no Brasil não constavam da autodeclaração; campanha diz que corrigirá."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "A retificação da declaração de bens foi protocolada no TSE e quais empresas constam da versão final?",
+            "why": "A campanha anunciou a correção em setembro de 2026; o protocolo final não foi localizado nas fontes consultadas."
+          },
+          {
+            "question": "Qual a versão vigente do plano registrado quanto ao título declarado?",
+            "why": "O plano registrado e o currículo Lattes divergem e a assessoria não respondeu aos veículos que apontaram a divergência."
+          }
+        ],
+        "publicExplanation": "No direito de resposta de julho de 2026, o candidato afirmou que 'não apresenta esse título como doutorado acadêmico em Psicologia' e que a formação citada não é divulgada como título acadêmico (Observatório da Imprensa, 2026).",
+        "methodology": "Trajetória sem mandato federal: o teste usa o plano registrado, a declaração de bens, o direito de resposta e a cobertura de imprensa de 2026. Fatos são reproduzidos como constam das fontes, sem apreciação sobre o título ou sobre os contratos. Ficaram fora autos não localizados.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "coordenacao-institucional",
@@ -3356,7 +4323,87 @@
       "name": "Coordenação institucional",
       "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
       "coverage": "parcial",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Telemedicina e inteligência artificial no SUS, com atendimento digital, plataformas e detecção precoce de doenças",
+        "requirement": {
+          "path": "depende-estados",
+          "note": "O SUS é financiado em regime tripartite e a implantação depende de estados e municípios; o plano não indica custo, padrão de integração ou instrumento normativo específico."
+        },
+        "history": {
+          "aligned": [
+            "Operação societária aprovada pelo CADE em 02/12/2020, sem condicionantes (Arco Educação; Valor Econômico)",
+            "Relação contratual das empresas que licenciam a metodologia com secretarias municipais em vários estados (Fórum Investiga; Jornal Opção, 2026)",
+            "Compromisso de não manter contratos federais das empresas em eventual governo (Fórum Investiga; Folha de S.Paulo, 2026)"
+          ],
+          "divergent": [
+            "Contratações foram feitas por dispensa de licitação e inexigibilidade, conforme diários oficiais municipais (Fórum Investiga; Jornal Opção, 2026)",
+            "Programa cancelado em Itajaí após gastos municipais de R$ 39 milhões com os programas (DIARINHO, 13 e 14/09/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos interlocução com governos estaduais ou ministérios; a base é a relação contratual com municípios e a operação aprovada pelo CADE"
+        },
+        "support": {
+          "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+          "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "A coordenação documentada é contratual (municípios que adquiriram o programa educacional) e societária (CADE). Não há contrato federal registrado. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Telemedicina no SUS depende de estados e municípios e de custeio não declarado",
+            "detail": "O candidato afirma que a telemedicina resolveria 80% dos atendimentos, com médicos 24 horas e uso de inteligência artificial. A implantação depende da gestão tripartite do SUS, e o plano não indica custo, padrão de integração nem responsabilidade pelo custeio.",
+            "sources": [
+              {
+                "id": "src-ac-05",
+                "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+              },
+              {
+                "id": "src-ac-19",
+                "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                "publisher": "GZH (Estadão Conteúdo)",
+                "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                "publishedAt": "2026-08-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+              },
+              {
+                "id": "src-ac-74",
+                "title": "Programa de Augusto Cury é cancelado em Itajaí",
+                "publisher": "DIARINHO",
+                "url": "https://diarinho.net/materia/675213/Programa-de-Augusto-Cury-e-cancelado-em-Itajai",
+                "publishedAt": "2026-09-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Prefeitura substituiu os programas 'Escola da Inteligência' e 'Gênios Socioemocional' pelo 'Vida na Escola', abrangendo 27 mil estudantes."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o custo de implantação da telemedicina por estado e quem paga a operação continuada?",
+            "why": "O plano apresenta o modelo como de baixo custo sem estimativa apresentada nas fontes consultadas."
+          },
+          {
+            "question": "Como ficam os contratos federais das empresas do candidato caso ele assuma o governo?",
+            "why": "O compromisso de não manter contratos federais foi declarado; a regra de desinvestimento e o prazo não foram detalhados."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: a análise usa a operação da empresa, os contratos com municípios, a decisão do CADE e a campanha de 2026. Confronta a proposta para o SUS com a gestão tripartite e com o custo não declarado.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "comunicacao-publica",
@@ -3551,7 +4598,107 @@
       "name": "Comunicação pública",
       "question": "Consegue explicar prioridades, decisões e posições de forma compreensível e consistente?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Educação: ensino em tempo integral com 'gestão da emoção' no currículo e 'Projeto Brasil Neuroinclusivo'",
+        "requirement": {
+          "path": "indefinido",
+          "note": "O plano não especifica o instrumento; currículo e diretrizes da educação básica são definidos em política nacional e pela base curricular comum, com execução compartilhada com redes estaduais e municipais."
+        },
+        "history": {
+          "aligned": [
+            "Rodada de entrevistas em TV Globo (29/08/2026) e sabatina do Flow Podcast (21/09/2026), com apresentação das propostas (g1; A Crítica, 2026)",
+            "Reforma do STF apresentada em entrevista ao Metrópoles (03/2026), com a intenção declarada de provocar o Congresso (Metrópoles, 2026)",
+            "Campanha digital com impulsionamento pago e 35 segundos de tempo na propaganda eleitoral de TV (Instituto Democracia em Xeque; Nexo Jornal, 2026)"
+          ],
+          "divergent": [
+            "Crescimento nas redes levantou suspeita de adversários sobre pagamento a influenciadores, negada pela campanha (Folha, 31/08/2026)",
+            "A assessoria não respondeu aos veículos sobre a divergência do título no plano registrado (Folha; Valor Econômico, 01/09/2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos comunicação de governo exercida; a base são entrevistas, debates, campanha digital e material de campanha de 2026"
+        },
+        "support": {
+          "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+          "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "A comunicação ocorre sem coligação de TV relevante: 35 segundos de tempo e apoio em redes sociais e debates. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Crescimento em redes foi questionado por campanhas adversárias; campanha negou pagamento e uso de robôs",
+            "detail": "O crescimento do candidato em pesquisas no período coincidiu com campanha digital impulsionada; campanhas adversárias levantaram suspeita de pagamento a influenciadores e a campanha negou a prática e o uso de robôs em 31/08/2026.",
+            "sources": [
+              {
+                "id": "src-ac-24",
+                "title": "Augusto Cury cresce nas redes e levanta suspeita de rivais",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/poder/2026/08/cury-inunda-redes-sociais-com-influenciadores-dispara-em-pesquisa-e-levanta-suspeita-entre-adversarios.shtml",
+                "publishedAt": "2026-08-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Chamada do próprio veículo: 'Cury inunda redes sociais com influenciadores, dispara em pesquisa e levanta suspeita entre adversários'; o subtítulo registra 11% no levantamento BTG/Nexus e ganho de 2,5 milhões de seguidores no Instagram em duas semanas; o candidato negou o uso de robôs em agenda pública (31/08) e o marqueteiro Sergio Lima atribuiu o desempenho a adesão espontânea."
+              },
+              {
+                "id": "src-ac-27",
+                "title": "DX na Mídia — compilação de levantamentos sobre a campanha de 2026 (impulsionamento pago e ecossistema evangélico)",
+                "publisher": "Instituto Democracia em Xeque (compilação de reportagens: Termômetro da Política, Casa Galileia, Policy Livre)",
+                "url": "https://institutodx.org/dx-na-midia/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Página-agregadora que reproduz levantamentos e reportagens de terceiros: relatório Casa Galileia/Instituto Democracia em Xeque sobre 573 perfis monitorados entre 17 e 30/08 (19.429 publicações, cerca de 135,4 milhões de interações no ecossistema evangélico) e item sobre o gasto de R$ 116 mil com impulsionamento na Meta, atribuído ao g1. Os relatórios originais não foram abertos por linha de comando."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Currículo com 'gestão da emoção' depende de política nacional e de adesão das redes de ensino",
+            "detail": "A proposta altera o currículo da educação básica com disciplinas de gestão da emoção, educação financeira e empreendedorismo e prevê o 'Projeto Brasil Neuroinclusivo'. O plano não especifica o instrumento nem o custo da mudança curricular, que depende de redes estaduais e municipais.",
+            "sources": [
+              {
+                "id": "src-ac-05",
+                "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+              },
+              {
+                "id": "src-ac-93",
+                "title": "Diretrizes e propostas de governo para a presidência do Brasil",
+                "publisher": "Migalhas",
+                "url": "https://www.migalhas.com.br/depeso/462757/diretrizes-e-propostas-de-governo-para-a-presidencia-do-brasil",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Análise comparativa de diretrizes dos presidenciáveis; registra que Cury prioriza déficit zero e empreendedorismo e é o único a defender o semipresidencialismo. Ano apenas; dia/mês não capturados."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o instrumento previsto para inserir 'gestão da emoção' no currículo nacional e com que custo?",
+            "why": "O plano cita disciplinas novas sem indicar veículo normativo, formação docente ou orçamento."
+          },
+          {
+            "question": "Como a campanha responde à divergência entre o plano registrado e o currículo Lattes sobre o título?",
+            "why": "A assessoria não respondeu aos veículos sobre a permanência da informação no plano registrado."
+          }
+        ],
+        "publicExplanation": "Em sabatina, o candidato reconheceu sua ligação com empresa de telemedicina e afirmou que a experiência permite dizer que o modelo pode ser de baixo custo e eficiente (GZH, 29/08/2026).",
+        "methodology": "Trajetória sem mandato federal: o teste usa entrevistas, debates, campanha digital e o plano registrado (2026). Confronta as propostas educacionais com o instrumento e o custo. Ficaram fora programas eleitorais de TV e conteúdos de redes sem repercussão registrada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     },
     {
       "slug": "visao-estrategica",
@@ -3718,7 +4865,124 @@
       "name": "Visão estratégica",
       "question": "Consegue definir prioridades e conectar decisões de curto prazo a objetivos maiores?",
       "coverage": "documentada",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "reality": {
+        "proposal": "Plano 'O Brasil dos Nossos Sonhos' com 18 tópicos em 200 páginas e metas de 4, 8 a 10 e 10 a 12 anos",
+        "requirement": {
+          "path": "pec",
+          "quorum": "PEC: 308 deputados + 49 senadores, em dois turnos em cada Casa",
+          "note": "O plano declara prazos para renda, salário mínimo e produção de alimentos sem indicar instrumento por meta; a reforma institucional proposta (semipresidencialismo e STF) exige emenda constitucional."
+        },
+        "history": {
+          "aligned": [
+            "Plano registrado no TSE e usado como base das entrevistas e do debate (TSE; Radioagência Nacional, 24/08/2026)",
+            "Encadeamento declarado entre medida de curto prazo (mínimo) e objetivos de longo prazo (renda e alimentos) (GZH, 29/08/2026)",
+            "Apresentação de metas de segurança alimentar em evento de pré-candidatura (g1, 06/05/2026)"
+          ],
+          "divergent": [
+            "1 de 9 propostas-chave tem custo estimado e 2 de 9 têm prazo declarado no documento registrado (levantamento, 2026)",
+            "Meta de dobrar a produção de alimentos para 700 milhões de toneladas é declarada em campanha, sem indicador no documento (Agência Brasil, 2026)"
+          ],
+          "noComparablePrecedent": "Não localizamos plano de governo executado em cargo público; a base é o documento registrado no TSE e as declarações de campanha de 2026"
+        },
+        "support": {
+          "partySeats": "Avante: 5 de 513 deputados federais e 1 senador (2026)",
+          "coalitionSeats": "Coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), sem federação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "As metas de 8 a 12 anos dependem de votos que a coligação registrada (5 deputados federais e 1 senador) não reúne isoladamente. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Metas de 8 a 12 anos são declaradas sem indicador, instrumento ou custo por meta",
+            "detail": "O plano fixa prazos para renda por habitante, valor do salário mínimo e produção de alimentos, com 2 de 9 propostas-chave com prazo declarado e 1 de 9 com custo. Não há indicador de aferição nem instrumento vinculado a cada meta nas fontes consultadas.",
+            "sources": [
+              {
+                "id": "src-ac-05",
+                "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+              },
+              {
+                "id": "src-ac-19",
+                "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                "publisher": "GZH (Estadão Conteúdo)",
+                "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                "publishedAt": "2026-08-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+              },
+              {
+                "id": "src-ac-23",
+                "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                "publisher": "Poder360 (cópia do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Reforma institucional proposta precisa de PEC antes de qualquer mudança de desenho do Estado",
+            "detail": "O semipresidencialismo e o mandato de oito anos para ministros do STF são apresentados como base da reorganização do Estado e exigem 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+            "sources": [
+              {
+                "id": "src-ac-06",
+                "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              },
+              {
+                "id": "src-ac-36",
+                "title": "Augusto Cury Names Júlio Delgado as Running Mate for Brazil Presidency",
+                "publisher": "Today in Brazil (relato da carta à nação divulgada pela CNN Brasil)",
+                "url": "https://todayinbrazil.com/article/augusto-cury-names-julio-delgado-running-mate-msgmzvhp",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "date": "1988-10-05",
+                "type": "oficial_legislacao",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o indicador de aferição de cada meta e a fonte de dados prevista para acompanhamento?",
+            "why": "As metas são declaradas com prazos, sem indicador ou sistema de acompanhamento no documento analisado."
+          },
+          {
+            "question": "Qual a sequência prevista entre a PEC institucional e as metas de renda, mínimo e alimentos?",
+            "why": "O plano apresenta as duas frentes sem ordem de votação ou dependência declarada."
+          }
+        ],
+        "methodology": "Trajetória sem mandato federal: a análise usa o documento registrado no TSE, as metas declaradas em campanha e as entrevistas de 2026. Confronta prazos e metas com indicador e instrumento. Ficaram fora a obra editorial do candidato e o conteúdo integral do plano item a item.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
     }
   ],
   "countryProject": {
@@ -3854,7 +5118,241 @@
     ],
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
-    "methodology": "Extração do capítulo 15 ('Relações internacionais e diplomacia estratégica') e dos projetos de exportação, terras raras, segurança e agro do plano registrado no TSE 'O Brasil dos Nossos Sonhos' (200 páginas, lido integralmente a partir do espelho público em PDF), com cruzamento das respostas da campanha à Folha (12/09/2026). Confiança média: a política externa aparece em um capítulo do plano e em respostas pontuais à imprensa, sem custo, cronograma ou metas quantificadas por item (a única meta numérica localizada é dobrar o comércio com o mundo em oito anos). As afirmações de projeção internacional (livros em dezenas de países, prêmio na China, TOUCHPEACE em 100 países) vêm do próprio plano e de texto promocional de editora, sem checagem independente nesta rodada — por isso estão declaradas como declaração. Não há posição documentada localizada sobre Rússia/Ucrânia, Venezuela, África, Índia ou segurança europeia, e nenhuma posição foi inferida do partido Avante."
+    "methodology": "Extração do capítulo 15 ('Relações internacionais e diplomacia estratégica') e dos projetos de exportação, terras raras, segurança e agro do plano registrado no TSE 'O Brasil dos Nossos Sonhos' (200 páginas, lido integralmente a partir do espelho público em PDF), com cruzamento das respostas da campanha à Folha (12/09/2026). Confiança média: a política externa aparece em um capítulo do plano e em respostas pontuais à imprensa, sem custo, cronograma ou metas quantificadas por item (a única meta numérica localizada é dobrar o comércio com o mundo em oito anos). As afirmações de projeção internacional (livros em dezenas de países, prêmio na China, TOUCHPEACE em 100 países) vêm do próprio plano e de texto promocional de editora, sem checagem independente nesta rodada — por isso estão declaradas como declaração. Não há posição documentada localizada sobre Rússia/Ucrânia, Venezuela, África, Índia ou segurança europeia, e nenhuma posição foi inferida do partido Avante.",
+    "reality": {
+      "proposal": "Política externa 'ativa, equilibrada e pragmática': manter o Brics sem agenda geopolítica, flexibilizar o Mercosul e retomar a acessão à OCDE.",
+      "requirement": {
+        "path": "lei-ordinaria",
+        "instrument": "lei_ordinaria + negociacao_internacional + ato_do_executivo",
+        "description": "Flexibilizar o Mercosul sem exigência de negociação em bloco depende de decisão por consenso dos Estados-partes; retomar a acessão à OCDE depende de negociação com a organização e de etapas internas; o remanejamento de cerca de 20% do efetivo lotado nos EUA e 10% do efetivo na Europa, o treinamento de embaixadores como influenciadores e a criação de secretaria de comércio exterior são atos do Executivo. A meta de dobrar o comércio com o mundo em oito anos não indica instrumento.",
+        "congressStep": "Acordos comerciais: aprovação pelo Congresso (art. 49, I). O plano não propõe projeto de lei específico nem indica fonte de recursos para as medidas de comércio exterior."
+      },
+      "history": {
+        "statedPosition": "À Folha (12/09/2026): 'Não tiro o Brasil do Brics. Tiro o Brasil do papel que ele aceitou dentro do Brics'.",
+        "aligned": [
+          "Plano registrado (ago/2026): 'Embaixadas Empreendedoras', projetos de exportação e meta de dobrar o comércio com o mundo em oito anos.",
+          "Proposta de remanejar cerca de 20% do efetivo lotado nos EUA e 10% do efetivo na Europa (Valor International, 22/09/2026)."
+        ],
+        "divergent": [
+          "O plano reivindica a tradição diplomática e, na mesma seção, orienta embaixadas à captação de investimento para minérios (OPEB, 27/09/2026)."
+        ],
+        "noComparablePrecedent": "Não localizamos episódios comparáveis de negociação internacional: sem cargo público anterior, a interlocução documentada é de campanha e a obra editorial publicada no exterior (livros e prêmio na China em 2009), registrada no próprio plano.",
+        "positionChange": "Não localizamos mudança de posição: 2026 é sua primeira disputa eleitoral e não há posição anterior documentada sobre temas externos."
+      },
+      "support": {
+        "note": "Retrato atual, não previsão do próximo Congresso. Avante (nº 70) concorre sem coligação e sem federação, com Júlio Delgado (ex-deputado federal) como vice; não localizamos apoio parlamentar declarado às propostas de política externa do plano. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-ac-42",
+            "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+            "publishedAt": "2026-08-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-23",
+            "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+            "publisher": "Poder360 (cópia do documento da campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "documentedAgreements": 2
+      },
+      "tensions": [
+        {
+          "kind": "proposta-sem-precedente",
+          "title": "Programa de embaixadores e influenciadores estrangeiros sem equivalente localizado no Itamaraty",
+          "detail": "A proposta de treinar embaixadores para atuar como influenciadores e de trazer influenciadores estrangeiros em imersão com passagens e hospedagem custeadas aparece no plano e na entrevista ao Valor International (22/09/2026); não localizamos programa equivalente na estrutura do Ministério das Relações Exteriores.",
+          "sources": [
+            {
+              "id": "src-re-203",
+              "title": "PEB nas urnas 2026: Augusto Cury – Avante",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-augusto-cury-avante/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise do plano de 200 páginas 'O Brasil dos Nossos Sonhos': capítulo de relações internacionais, embaixadas orientadas a negócios, Brics, Mercosul e OCDE; página lida por inteiro via curl."
+            },
+            {
+              "id": "src-re-205",
+              "title": "Sovereignty takes center stage in foreign policy electoral platforms",
+              "publisher": "Valor International",
+              "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
+              "publishedAt": "2026-09-22",
+              "date": "2026-09-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Compara as plataformas em torno de 'soberania' e registra os limites constitucionais e de tratados para o desenvolvimento de armas nucleares (fins pacíficos, aprovação congressional, TNP e Tlatelolco)."
+            },
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Flexibilizar o Mercosul x regra de negociação em bloco e acordo com a União Europeia em curso",
+          "detail": "Retirar a exigência de negociação em bloco para avançar acordos bilaterais depende de decisão por consenso dos Estados-partes; o acordo Mercosul-União Europeia está em implementação e passa por apreciação do Legislativo (Senado, 04/05/2026).",
+          "sources": [
+            {
+              "id": "src-re-203",
+              "title": "PEB nas urnas 2026: Augusto Cury – Avante",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-augusto-cury-avante/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise do plano de 200 páginas 'O Brasil dos Nossos Sonhos': capítulo de relações internacionais, embaixadas orientadas a negócios, Brics, Mercosul e OCDE; página lida por inteiro via curl."
+            },
+            {
+              "id": "src-re-213",
+              "title": "Legislativo terá papel importante na implementação do acordo Mercosul-UE, diz Trad",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/videos/2026/05/legislativo-tera-papel-importante-na-implementacao-do-acordo-mercosul-ue-diz-trad",
+              "publishedAt": "2026-05-04",
+              "date": "2026-05-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Declaração de 04/05/2026 sobre a implementação do acordo Mercosul-União Europeia e a apreciação pelo Legislativo."
+            },
+            {
+              "id": "src-ac-80",
+              "title": "Veja o que os candidatos pensam sobre política externa (seção Augusto Cury: Brics e China, Mercosul, OCDE, operações dos EUA, minerais críticos, Israel e Gaza, Estados Unidos)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+              "publishedAt": "2026-09-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Respostas enviadas pela campanha de Cury à Folha, tema a tema. Mesma matéria citada para Renan Santos (id src-rs-80)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "O plano não declara linha de base, custo ou instrumento: qual a base da meta de dobrar o comércio com o mundo em oito anos?",
+          "sources": [
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-re-203",
+              "title": "PEB nas urnas 2026: Augusto Cury – Avante",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-augusto-cury-avante/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise do plano de 200 páginas 'O Brasil dos Nossos Sonhos': capítulo de relações internacionais, embaixadas orientadas a negócios, Brics, Mercosul e OCDE; página lida por inteiro via curl."
+            }
+          ]
+        },
+        {
+          "question": "Quais critérios definem o remanejamento de 20% do efetivo diplomático nos EUA e 10% na Europa, e qual o custo da medida?",
+          "sources": [
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-ac-80",
+              "title": "Veja o que os candidatos pensam sobre política externa (seção Augusto Cury: Brics e China, Mercosul, OCDE, operações dos EUA, minerais críticos, Israel e Gaza, Estados Unidos)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+              "publishedAt": "2026-09-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Respostas enviadas pela campanha de Cury à Folha, tema a tema. Mesma matéria citada para Renan Santos (id src-rs-80)."
+            }
+          ]
+        },
+        {
+          "question": "Não localizamos detalhamento no plano ou em entrevistas: retomar a acessão à OCDE envolve quais etapas e qual prazo?",
+          "sources": [
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-re-203",
+              "title": "PEB nas urnas 2026: Augusto Cury – Avante",
+              "publisher": "OPEB — Observatório da Política Externa Brasileira",
+              "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-augusto-cury-avante/",
+              "publishedAt": "2026-09-27",
+              "date": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Análise do plano de 200 páginas 'O Brasil dos Nossos Sonhos': capítulo de relações internacionais, embaixadas orientadas a negócios, Brics, Mercosul e OCDE; página lida por inteiro via curl."
+            }
+          ]
+        },
+        {
+          "question": "Nada foi localizado até 29/09/2026 nas bases consultadas: qual a posição sobre a guerra na Ucrânia, sanções à Rússia e Otan?",
+          "sources": [
+            {
+              "id": "src-mundo-02",
+              "title": "O que Lula e Flávio prometem para a política externa",
+              "publisher": "Deutsche Welle (DW) Brasil — Jean-Philip Struck",
+              "url": "https://www.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+              "publishedAt": "2026-09-17",
+              "date": "2026-09-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Compara os programas de Lula e Flávio Bolsonaro tema a tema (EUA, Brics, Mercosul, Israel, OCDE) e registra os silêncios dos documentos; usado como base do registro de ausência do tema Ucrânia nos programas."
+            },
+            {
+              "id": "src-ac-80",
+              "title": "Veja o que os candidatos pensam sobre política externa (seção Augusto Cury: Brics e China, Mercosul, OCDE, operações dos EUA, minerais críticos, Israel e Gaza, Estados Unidos)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+              "publishedAt": "2026-09-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Respostas enviadas pela campanha de Cury à Folha, tema a tema. Mesma matéria citada para Renan Santos (id src-rs-80)."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "À Folha (12/09/2026) explicou a permanência no Brics: 'Não tiro o Brasil do Brics. Tiro o Brasil do papel que ele aceitou dentro do Brics', e recusou declarações sobre desdolarização e arquitetura de segurança global — 'essas não são as nossas brigas, e cada vez que entramos nelas nós pagamos a conta em tarifa, não em prestígio'.",
+      "methodology": "Bases: capítulo 15 ('Relações internacionais') do plano registrado no TSE 'O Brasil dos Nossos Sonhos' (200 páginas, lido por inteiro), respostas da campanha à Folha (12/09/2026), OPEB (27/09/2026) e Senado (04/05/2026). Limites: sem custo, cronograma ou indicador por item; a única meta numérica localizada é dobrar o comércio com o mundo em oito anos. Nada foi inferido do programa do Avante.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
   },
   "coherence": [
     {
@@ -4162,6 +5660,628 @@
       "methodology": "Duas fontes de campanha (sabatina da Globo em 29/08/2026 e plano registrado) mais uma análise editorial que resume as diretrizes fiscais. Cury nunca exerceu mandato: o item compara declarações e documentos, não decisões de governo.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "medium"
+    }
+  ],
+  "themes": [
+    {
+      "slug": "economia",
+      "name": "Economia",
+      "kind": "proposta",
+      "position": "Plano registrado: responsabilidade fiscal, simplificação tributária e reindustrialização; reforma administrativa com corte de 15 mil cargos.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-re-t02",
+          "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-re-t05",
+          "title": "Cury propõe cortar 15 mil comissionados e dividir BNDES",
+          "url": "https://www.spacemoney.com.br/politica/augusto-cury-reforma-administrativa",
+          "publisher": "SpaceMoney",
+          "date": "2026-08-18",
+          "type": "imprensa",
+          "notes": "Declarações do candidato em entrevista ao SBT News (18/08/2026)."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado: responsabilidade fiscal, simplificação tributária e reindustrialização; reforma administrativa com corte de 15 mil cargos.",
+        "requirement": {
+          "path": "lei-ordinaria"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual a meta fiscal anual declarada para o mandato?",
+            "why": "Sem esse dado não é possível medir o ajuste fiscal nem o efeito sobre a arrecadação."
+          },
+          {
+            "question": "Qual a economia projetada com o corte de 15 mil cargos comissionados?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "seguranca",
+      "name": "Segurança pública",
+      "kind": "proposta",
+      "position": "Plano registrado: Forças Armadas nas fronteiras, portos e rotas aéreas; câmeras inteligentes, drones e análise preditiva contra o crime.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-re-t02",
+          "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-ac-20",
+          "title": "Debate presidencial tem críticas ao STF e propostas sobre segurança e economia",
+          "publisher": "A Crítica",
+          "url": "https://acritica.net/eleicoes-2026/debate-presidencial-tem-criticas-ao-stf-e-propostas-sobre-seguranca-e-economia/",
+          "publishedAt": "2026-09-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Debate promovido pelo Flow Podcast em 21/09/2026 (Caiado, Cury e Zema): Cury defendeu integração entre as polícias Civil e Militar, valorização dos profissionais e uso de novas tecnologias, e questionou dados de feminicídio de Goiás em pergunta a Caiado."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado: Forças Armadas nas fronteiras, portos e rotas aéreas; câmeras inteligentes, drones e análise preditiva contra o crime.",
+        "requirement": {
+          "path": "lei-ordinaria"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o custo e o cronograma da rede de câmeras e drones?",
+            "why": "Sem esse dado não é possível medir custo, prazo e competência federativa da medida."
+          },
+          {
+            "question": "Qual o papel das Forças Armadas na segurança pública urbana?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "saude",
+      "name": "Saúde",
+      "kind": "proposta",
+      "position": "Plano registrado: telemedicina no SUS, prevenção ao câncer, saúde mental e 'gestão da emoção' na atenção básica; Brasil Neuroinclusivo.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-re-t02",
+          "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-ac-05",
+          "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+          "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado: telemedicina no SUS, prevenção ao câncer, saúde mental e 'gestão da emoção' na atenção básica; Brasil Neuroinclusivo.",
+        "requirement": {
+          "path": "ato-executivo"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o custo e a cobertura previstos para a telemedicina no SUS?",
+            "why": "Sem esse dado não é possível medir meta, financiamento e prazo do que se propõe."
+          },
+          {
+            "question": "Como a 'gestão da emoção' seria integrada à formação das equipes de saúde?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "educacao",
+      "name": "Educação",
+      "kind": "proposta",
+      "position": "Plano registrado: educação em tempo integral, 'gestão da emoção' na formação de professores e inclusão de alunos neurodivergentes.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-re-t02",
+          "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-ac-05",
+          "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+          "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado: educação em tempo integral, 'gestão da emoção' na formação de professores e inclusão de alunos neurodivergentes.",
+        "requirement": {
+          "path": "lei-ordinaria"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o cronograma para universalizar a educação em tempo integral?",
+            "why": "Sem esse dado não é possível medir meta, responsável e prazo do que se propõe."
+          },
+          {
+            "question": "Como o projeto Brasil Neuroinclusivo seria financiado nas redes municipais?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "clima",
+      "name": "Clima e meio ambiente",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 176-182): 'Floresta Viva' com IA e drones contra incêndios, 90% de matriz limpa até 2040 e diplomacia climática.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-re-t02",
+          "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        },
+        {
+          "id": "src-re-t03",
+          "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+          "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+          "publisher": "Portal Amazônia",
+          "date": "2026-09-29",
+          "type": "imprensa",
+          "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 176-182): 'Floresta Viva' com IA e drones contra incêndios, 90% de matriz limpa até 2040 e diplomacia climática.",
+        "requirement": {
+          "path": "ato-executivo"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual a trajetória anual para chegar a 90% de matriz limpa em 2040?",
+            "why": "Sem esse dado não é possível medir meta, prazo e instrumento da política ambiental."
+          },
+          {
+            "question": "Como o mercado de carbono regulamentado remunera quem preserva?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      }
+    },
+    {
+      "slug": "trabalho",
+      "name": "Trabalho e renda",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 39 e 95): 10 milhões de microempreendedores e Banco do Empreendedor; sem proposta sobre jornada ou escala 6x1.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-re-t02",
+          "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 39 e 95): 10 milhões de microempreendedores e Banco do Empreendedor; sem proposta sobre jornada ou escala 6x1.",
+        "requirement": {
+          "path": "lei-ordinaria"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o custo do crédito de até R$ 20 mil a juros de 5% a 6% ao ano?",
+            "why": "Sem esse dado não é possível medir efeito sobre emprego, renda e custo de contratação."
+          },
+          {
+            "question": "O plano trata de jornada ou de relação de emprego assalariado?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    },
+    {
+      "slug": "tributacao",
+      "name": "Tributação",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 37-38): concluir a reforma tributária com carga menor ao fim da transição, simplificação e mais tributos para municípios.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-re-t02",
+          "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 37-38): concluir a reforma tributária com carga menor ao fim da transição, simplificação e mais tributos para municípios.",
+        "requirement": {
+          "path": "lei-complementar",
+          "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual a carga pretendida ao fim da transição da reforma?",
+            "why": "Sem esse dado não é possível medir o efeito sobre a arrecadação e a partilha federativa."
+          },
+          {
+            "question": "Quanto da arrecadação federal seria transferido aos municípios?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      }
+    },
+    {
+      "slug": "previdencia",
+      "name": "Previdência",
+      "kind": "posicao",
+      "position": "Não localizamos posição documentada do candidato nem do partido neste tema",
+      "sourceKind": "ausente",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        }
+      ],
+      "reality": {
+        "proposal": "Não localizamos posição documentada do candidato nem do partido neste tema",
+        "requirement": {
+          "path": "indefinido"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "O candidato pretende alterar idade mínima, tempo de contribuição ou regras de cálculo?",
+            "why": "Sem esse dado não é possível medir o efeito fiscal e quem assume o custo da mudança."
+          },
+          {
+            "question": "Qual a proposta para o financiamento do Regime Geral de Previdência?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base de busca: plano registrado (200 p.) com busca textual por 'previdência', 'aposentadoria' e 'INSS' sem proposta localizada; sabatinas e declarações de 2026; programa do Avante não localizado em URL verificável em 29/09/2026.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low"
+      }
+    },
+    {
+      "slug": "habitacao",
+      "name": "Habitação",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 105 e 109): regularizar 5 milhões de moradias em favelas em 10 anos, via REURB, e urbanizar com saneamento sem remoção.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-re-t02",
+          "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 105 e 109): regularizar 5 milhões de moradias em favelas em 10 anos, via REURB, e urbanizar com saneamento sem remoção.",
+        "requirement": {
+          "path": "depende-municipios"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [],
+        "openQuestions": [
+          {
+            "question": "Qual o custo médio por moradia regularizada e quem executa?",
+            "why": "Sem esse dado não é possível medir meta, custo e instrumento habitacional."
+          },
+          {
+            "question": "Como seria financiada a urbanização das áreas regularizadas?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      }
+    },
+    {
+      "slug": "instituicoes",
+      "name": "Instituições",
+      "kind": "proposta",
+      "position": "Plano registrado (p. 39, 64 e 66): semipresidencialismo com primeiro-ministro; STF com 9 ministros e mandato de 8 anos; metas por ministério.",
+      "sourceKind": "candidato",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-re-t02",
+          "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+          "publisher": "Plano de Governo 2026",
+          "date": "2026-09-29",
+          "type": "agregador",
+          "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+        }
+      ],
+      "reality": {
+        "proposal": "Plano registrado (p. 39, 64 e 66): semipresidencialismo com primeiro-ministro; STF com 9 ministros e mandato de 8 anos; metas por ministério.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+        },
+        "history": {
+          "aligned": [],
+          "divergent": [],
+          "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+        },
+        "support": {
+          "documentedAgreements": 0,
+          "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Semipresidencialismo e mudanças no STF exigem PEC e o plano não indica votos",
+            "detail": "Adotar o semipresidencialismo e mudar composição, mandato e critério de escolha dos ministros do STF exigem emenda constitucional com 308 deputados e 49 senadores, em dois turnos em cada Casa; o plano não detalha a articulação para esse quórum.",
+            "sources": [
+              {
+                "id": "src-ac-23",
+                "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                "publisher": "Poder360 (cópia do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o desenho da relação entre presidente e primeiro-ministro na proposta?",
+            "why": "Sem esse dado não é possível medir o que depende de emenda e de articulação no Congresso."
+          },
+          {
+            "question": "Como seria a transição caso a PEC do semipresidencialismo seja aprovada?",
+            "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+          }
+        ],
+        "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      }
     }
   ]
 }

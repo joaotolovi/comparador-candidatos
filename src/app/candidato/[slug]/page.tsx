@@ -10,6 +10,8 @@ import { planStats } from "@/lib/comparison";
 import { ProportionalBar } from "@/components/proportional-bar";
 import { CountryProjectSection } from "@/components/country-project-section";
 import { CapacitiesSection } from "@/components/capacities-section";
+import { ViabilitySection } from "@/components/viability-section";
+import { ThemeSection } from "@/components/theme-section";
 import { ForeignPolicySection } from "@/components/foreign-policy-section";
 import { CoherenceSection } from "@/components/coherence-section";
 import { IntegritySection } from "@/components/integrity-section";
@@ -45,7 +47,10 @@ export default async function CandidatePage({ params }: Props) {
 
   // V3: currículo, plano e opinião vivem em áreas próprias — nunca como prova
   // de capacidade. O nível principal é capacidade demonstrada + evidências.
-  const metrCaminho = candidate.metrics.filter((m) => sectionOfMetric(m.id) === "caminho");
+  const metrCaminho = candidate.metrics.filter((m) => {
+    const s = sectionOfMetric(m.id);
+    return s === "caminho" || s === "viabilidade";
+  });
   const metrOpiniao = candidate.metrics.filter((m) => sectionOfMetric(m.id) === "opiniao");
   const metrHistorico = candidate.metrics.filter((m) => sectionOfMetric(m.id) === "historico");
   const metrObjetivos = candidate.metrics.filter(
@@ -111,7 +116,7 @@ export default async function CandidatePage({ params }: Props) {
         <section aria-labelledby="h-pais" className="flex flex-col gap-4">
           <div className="flex flex-col gap-1">
             <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-              Seção 1
+              Seção 2
             </span>
             <h2 id="h-pais" className="display-2">
               Para onde quer levar o Brasil?
@@ -128,7 +133,7 @@ export default async function CandidatePage({ params }: Props) {
         <section aria-labelledby="h-capacidades" className="flex flex-col gap-4">
           <div className="flex flex-col gap-1">
             <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-              Seção 2
+              Seção 5
             </span>
             <h2 id="h-capacidades" className="display-2">
               Que capacidades sua trajetória demonstra?
@@ -168,7 +173,7 @@ export default async function CandidatePage({ params }: Props) {
         <section aria-labelledby="h-mundo" className="flex flex-col gap-4">
           <div className="flex flex-col gap-1">
             <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-              Seção 3
+              Seção 6
             </span>
             <h2 id="h-mundo" className="display-2">
               Como enxerga o Brasil no mundo?
@@ -182,14 +187,36 @@ export default async function CandidatePage({ params }: Props) {
           <ForeignPolicySection candidates={[candidate]} hideTag />
         </section>
 
-        {/* 4 — Coerência e trajetória */}
+        {/* 7 — Posições por grandes temas */}
+        <section
+          aria-labelledby="h-temas"
+          className="flex flex-col gap-4 border-t border-border pt-10"
+        >
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              Seção 7
+            </span>
+            <h2 id="h-temas" className="display-2">
+              Posições por grandes temas
+            </h2>
+            <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+              Dez temas, o mesmo roteiro para todos. Cada célula diz de quem é a
+              posição — do candidato ou do partido — e confronta a proposta com o
+              histórico, o instrumento legal necessário e as evidências
+              disponíveis. As fontes de cada tema abrem no clique.
+            </p>
+          </div>
+          <ThemeSection candidates={[candidate]} hideTag />
+        </section>
+
+        {/* 8 — Histórico x proposta atual */}
         <section aria-labelledby="h-coerencia" className="flex flex-col gap-4">
           <div className="flex flex-col gap-1">
             <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-              Seção 4
+              Seção 8
             </span>
             <h2 id="h-coerencia" className="display-2">
-              O que a trajetória mostra?
+              Histórico × proposta atual
             </h2>
             <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
               Posição, proposta e ato praticado aparecem rotulados e lado a lado
@@ -307,9 +334,14 @@ export default async function CandidatePage({ params }: Props) {
 
         {/* Plano de governo */}
         <section aria-labelledby="h-plano" className="flex flex-col gap-4 border-t border-border pt-10">
-          <h2 id="h-plano" className="display-2">
-            Plano de governo
-          </h2>
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              Seção 3
+            </span>
+            <h2 id="h-plano" className="display-2">
+              Prioridades e propostas
+            </h2>
+          </div>
           {metrCaminho.length > 0 ? (
             <dl className="grid gap-px overflow-hidden rounded-md border border-border bg-border sm:grid-cols-2 lg:grid-cols-4">
               {metrCaminho.map((m) => (
@@ -390,6 +422,28 @@ export default async function CandidatePage({ params }: Props) {
               </ul>
             </>
           )}
+        </section>
+
+        {/* 4 — Viabilidade e instrumentos */}
+        <section
+          aria-labelledby="h-viabilidade"
+          className="flex flex-col gap-4 border-t border-border pt-10"
+        >
+          <div className="flex flex-col gap-1">
+            <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+              Seção 4
+            </span>
+            <h2 id="h-viabilidade" className="display-2">
+              Viabilidade e instrumentos
+            </h2>
+            <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+              Para cada proposta analisada, o que ela exige para sair do papel:
+              ato do próprio Executivo, lei ordinária, lei complementar, emenda
+              constitucional, estados, municípios, agentes privados. A lista é
+              descritiva — quem mede viabilidade política é quem vota.
+            </p>
+          </div>
+          <ViabilitySection candidates={[candidate]} hideTag />
         </section>
 
         {/* Área separada — Integridade */}

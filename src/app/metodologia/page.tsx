@@ -76,6 +76,41 @@ const DIFFS = [
   },
 ];
 
+const REALITY_TESTS = [
+  {
+    t: "Proposta × histórico",
+    d: "Existem ações anteriores no mesmo sentido? Existem no sentido oposto? Houve mudança de posição? O resultado é factual, nunca uma nota.",
+  },
+  {
+    t: "Proposta × poder real do cargo",
+    d: "O que a proposta exige para sair do papel: ato do Executivo, lei ordinária, lei complementar, emenda constitucional, estados, municípios, agentes privados ou negociação internacional — com o quórum factual de cada caminho.",
+  },
+  {
+    t: "Proposta × sustentação política",
+    d: "Apenas elementos observáveis hoje: cadeiras do partido, coligação formalizada, federação e acordos documentados. Sempre com o aviso de que é o retrato atual, não a previsão do próximo Congresso.",
+  },
+  {
+    t: "Proposta × capacidade de articulação",
+    d: "Quantas negociações documentadas, com quantos atores diferentes e quantas envolveram posições inicialmente divergentes. Sem material suficiente, isso é dito — não estimado.",
+  },
+  {
+    t: "Discurso × ações",
+    d: "Para conceitos amplos — soberania, democracia, responsabilidade fiscal, liberdade, combate à corrupção, meio ambiente, segurança, direitos sociais: posição atual, ações relacionadas datadas, evidências em linha, evidências em sentido diferente e a explicação pública do próprio candidato quando existir.",
+  },
+  {
+    t: "Proposta × detalhes de implementação",
+    d: "Meta, prazo, custo, fonte de recursos, instrumento legal, dependência do Congresso e indicador de resultado. O que não estiver no documento vira pergunta, não acusação.",
+  },
+];
+
+const TENSIONS = [
+  ["Mudança de posição", "defendia um caminho antes e apresenta outro agora, com as duas datas na fonte."],
+  ["Ação em sentido diferente", "o discurso atual e um ato praticado apontam para direções distintas — o fato e a explicação do candidato aparecem juntos."],
+  ["Proposta sem precedente", "não localizamos na trajetória analisada nenhum episódio diretamente comparável com o que é prometido."],
+  ["Proposta × restrição institucional", "o que se promete depende de decisão que não está nas mãos do cargo — o quórum e o caminho aparecem no lugar do veredito."],
+  ["Proposta × outra proposta", "duas promessas do mesmo documento apontam para direções que se limitam entre si."],
+];
+
 const LAYERS = [
   {
     t: "Camada 1 — entendimento",
@@ -233,6 +268,67 @@ export default function MetodologiaPage() {
             afirmação traz o rótulo da sua natureza para que a leitura não
             confunda intenção com ato praticado.
           </p>
+        </section>
+
+{/* Teste de realidade — a camada analítica */}
+        <section className="flex flex-col gap-4 border-t border-border pt-10">
+          <h2 className="display-2 !text-2xl">Teste de realidade — como a análise aparece</h2>
+          <p className="max-w-3xl text-sm leading-relaxed text-foreground/85">
+            Em vez de dizer se uma proposta é boa ou ruim, ou se um candidato
+            &ldquo;consegue&rdquo; ou &ldquo;não consegue&rdquo;, o comparador
+            confronta a promessa com fatos observáveis e mostra a distância entre
+            elas. A análise aparece dentro de cada assunto — nunca como uma seção
+            de opinião da casa — e nunca conclui no lugar de quem lê.
+          </p>
+          <ul className="flex flex-col divide-y divide-border rounded-md border border-border">
+            {REALITY_TESTS.map((x) => (
+              <li key={x.t} className="flex flex-col gap-1 p-5 sm:grid sm:grid-cols-[16rem_1fr] sm:gap-8">
+                <span className="text-sm font-semibold">{x.t}</span>
+                <span className="text-sm leading-relaxed text-muted-foreground">{x.d}</span>
+              </li>
+            ))}
+          </ul>
+          <h3 className="text-sm font-semibold">Pontos de tensão — cinco tipos, todos factuais</h3>
+          <ul className="flex flex-col gap-2">
+            {TENSIONS.map(([t, d]) => (
+              <li key={t} className="text-sm leading-relaxed text-muted-foreground">
+                <span className="font-medium text-foreground">{t}:</span> {d}
+              </li>
+            ))}
+          </ul>
+          <div className="flex flex-col gap-3 rounded-md border border-border bg-card p-5">
+            <h3 className="text-sm font-semibold">Limites que nos impomos</h3>
+            <ul className="flex flex-col gap-2 text-sm leading-relaxed text-muted-foreground">
+              <li>
+                <span className="font-medium text-foreground">Sem veredito.</span> Nenhuma
+                tensão recebe nota, selo de &ldquo;inviável&rdquo; ou frase de
+                conclusão. Um revisor automático reprova o texto antes da
+                publicação se aparecer juízo de valor ou adjetivo comparativo.
+              </li>
+              <li>
+                <span className="font-medium text-foreground">Versão do candidato</span>{" "}
+                sempre que existir. Mostrar a tensão e omitir a explicação pública
+                de quem foi questionado seria propaganda — nossa, no sentido
+                contrário.
+              </li>
+              <li>
+                <span className="font-medium text-foreground">Ausência declarada.</span>{" "}
+                Quando não há precedente comparável, isso é escrito com essas
+                palavras. Lacuna nunca é preenchida por inferência sobre o partido.
+              </li>
+              <li>
+                <span className="font-medium text-foreground">Posição do partido, rotulada.</span>{" "}
+                Se o candidato não se pronunciou sobre um tema, a posição do partido
+                pode aparecer — sempre marcada como posição partidária, nunca
+                atribuída ao candidato.
+              </li>
+              <li>
+                <span className="font-medium text-foreground">Em consolidação.</span>{" "}
+                Onde a apuração ainda não terminou, a interface diz que está em
+                consolidação. Nada é estimado para preencher espaço.
+              </li>
+            </ul>
+          </div>
         </section>
 
         {/* Cobertura e honestidade */}

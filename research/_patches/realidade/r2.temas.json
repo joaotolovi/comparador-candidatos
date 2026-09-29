@@ -1,0 +1,2479 @@
+{
+  "grupo": "r2",
+  "escopo": "temas",
+  "sources": [
+    {
+      "id": "src-re-t01",
+      "title": "Plano de governo de Renan Santos 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+      "url": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+      "publisher": "Plano de Governo 2026",
+      "date": "2026-09-29",
+      "type": "agregador",
+      "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+    },
+    {
+      "id": "src-re-t02",
+      "title": "Plano de governo de Augusto Cury 2026 — síntese por tema (leitura do PDF registrado, com páginas)",
+      "url": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+      "publisher": "Plano de Governo 2026",
+      "date": "2026-09-29",
+      "type": "agregador",
+      "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+    },
+    {
+      "id": "src-re-t03",
+      "title": "Planos de governo e a Amazônia nas Eleições 2026 — o que cada candidato propõe",
+      "url": "https://portalamazonia.com/amazonia/planos-governo-presidencia-amazonia-26/",
+      "publisher": "Portal Amazônia",
+      "date": "2026-09-29",
+      "type": "imprensa",
+      "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+    },
+    {
+      "id": "src-re-t04",
+      "title": "Programa do Partido Democracia Cristã (documento programático do partido)",
+      "url": "https://www.democraciacrista.org.br/programa/",
+      "publisher": "Democracia Cristã (DC)",
+      "date": "2026-09-29",
+      "type": "partidario",
+      "notes": "Programa publicado pelo próprio DC; consulta em 29/09/2026. O documento não traz data de publicação no site."
+    },
+    {
+      "id": "src-re-t05",
+      "title": "Cury propõe cortar 15 mil comissionados e dividir BNDES",
+      "url": "https://www.spacemoney.com.br/politica/augusto-cury-reforma-administrativa",
+      "publisher": "SpaceMoney",
+      "date": "2026-08-18",
+      "type": "imprensa",
+      "notes": "Declarações do candidato em entrevista ao SBT News (18/08/2026)."
+    }
+  ],
+  "candidates": {
+    "renan-santos": {
+      "themes": [
+        {
+          "slug": "economia",
+          "name": "Economia",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 5-10): 'PEC de Transição' com ajuste de R$ 250 bi/ano antes da posse; zonas econômicas e mineração.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-re-t01"
+            },
+            {
+              "id": "src-rs-19"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 5-10): 'PEC de Transição' com ajuste de R$ 250 bi/ano antes da posse; zonas econômicas e mineração.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Ajuste por emenda antes da posse convive com renúncia fiscal em zonas especiais",
+                "detail": "O plano propõe substituir o arcabouço por emenda constitucional negociada antes da posse e, no mesmo documento, criar regimes tributários reduzidos nas Zonas Econômicas Especiais e acelerar licenças.",
+                "sources": [
+                  {
+                    "id": "src-rs-23"
+                  },
+                  {
+                    "id": "src-re-t01"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o cronograma de votação da 'PEC de Transição' antes da posse?",
+                "why": "Sem esse dado não é possível medir o ajuste fiscal nem o efeito sobre a arrecadação."
+              },
+              {
+                "question": "Quanto o pacote arrecada e corta em cada ano do mandato?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "seguranca",
+          "name": "Segurança pública",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 12-13): 'guerra ao crime' com Direito Penal do Inimigo, Estado de Defesa em áreas dominadas, superpresídios e Forças Armadas.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-rs-22"
+            },
+            {
+              "id": "src-re-t01"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 12-13): 'guerra ao crime' com Direito Penal do Inimigo, Estado de Defesa em áreas dominadas, superpresídios e Forças Armadas.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Estado de Defesa depende de decreto com aval do Congresso em 24 horas",
+                "detail": "Estado de Defesa exige decreto presidencial submetido ao Congresso em 24 horas, com prazo definido; o resumo registrado não descreve o mecanismo de controle nem a duração pretendida.",
+                "sources": [
+                  {
+                    "id": "src-rs-23"
+                  },
+                  {
+                    "id": "src-re-t01"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o texto e o prazo previstos para o regime penal dos faccionados?",
+                "why": "Sem esse dado não é possível medir custo, prazo e competência federativa da medida."
+              },
+              {
+                "question": "Como o Estado de Defesa seria delimitado sem afetar áreas vizinhas?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "saude",
+          "name": "Saúde",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 25): 'SUS Fila Zero', fila por risco clínico, telemedicina e IA no diagnóstico; pisos de saúde revistos no ajuste fiscal.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-re-t01"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 25): 'SUS Fila Zero', fila por risco clínico, telemedicina e IA no diagnóstico; pisos de saúde revistos no ajuste fiscal.",
+            "requirement": {
+              "path": "ato-executivo"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o custo estimado do sistema de triagem por risco clínico?",
+                "why": "Sem esse dado não é possível medir meta, financiamento e prazo do que se propõe."
+              },
+              {
+                "question": "Como fica a fila de cirurgia eletiva durante a implantação?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "educacao",
+          "name": "Educação",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 31-32): método fônico, modelo do Ceará em escala nacional, código de disciplina, escolas cívico-militares e fim das cotas.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-re-t01"
+            },
+            {
+              "id": "src-rs-94"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 31-32): método fônico, modelo do Ceará em escala nacional, código de disciplina, escolas cívico-militares e fim das cotas.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o instrumento previsto para substituir as cotas por bolsas de mérito?",
+                "why": "Sem esse dado não é possível medir meta, responsável e prazo do que se propõe."
+              },
+              {
+                "question": "Como o método fônico seria adotado por redes estaduais e municipais?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "clima",
+          "name": "Clima e meio ambiente",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 24): sem capítulo ambiental; licenças aceleradas, padrões de mineração, monitoramento por satélite, hidrogênio verde na Amazônia.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-re-t01"
+            },
+            {
+              "id": "src-re-t03"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 24): sem capítulo ambiental; licenças aceleradas, padrões de mineração, monitoramento por satélite, hidrogênio verde na Amazônia.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Quais os prazos e as contrapartidas ambientais do licenciamento acelerado?",
+                "why": "Sem esse dado não é possível medir meta, prazo e instrumento da política ambiental."
+              },
+              {
+                "question": "Qual a meta de redução de desmatamento, se houver?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "trabalho",
+          "name": "Trabalho e renda",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 5-6): flexibilizar as leis trabalhistas, apontadas como entrave ao emprego, e trocar o Bolsa Família por 'Frentes Cidadãs'.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-re-t01"
+            },
+            {
+              "id": "src-rs-19"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 5-6): flexibilizar as leis trabalhistas, apontadas como entrave ao emprego, e trocar o Bolsa Família por 'Frentes Cidadãs'.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Quais dispositivos da legislação trabalhista o plano pretende alterar?",
+                "why": "Sem esse dado não é possível medir efeito sobre emprego, renda e custo de contratação."
+              },
+              {
+                "question": "Qual o valor da remuneração e o público das 'Frentes Cidadãs'?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tributacao",
+          "name": "Tributação",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 10 e 35): cortar renúncias fiscais na 'PEC de Transição' e criar tributos menores nas Zonas Econômicas Especiais.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-re-t01"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 10 e 35): cortar renúncias fiscais na 'PEC de Transição' e criar tributos menores nas Zonas Econômicas Especiais.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Quanto a redução de renúncias economiza por ano?",
+                "why": "Sem esse dado não é possível medir o efeito sobre a arrecadação e a partilha federativa."
+              },
+              {
+                "question": "Quais setores entram nas zonas com tributação reduzida?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "previdencia",
+          "name": "Previdência",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 10): desvincular aposentadorias e benefícios do salário mínimo, corrigindo pela inflação, e revisar o abono salarial.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-re-t01"
+            },
+            {
+              "id": "src-rs-22"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 10): desvincular aposentadorias e benefícios do salário mínimo, corrigindo pela inflação, e revisar o abono salarial.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a economia projetada com a desvinculação do salário mínimo?",
+                "why": "Sem esse dado não é possível medir o efeito fiscal e quem assume o custo da mudança."
+              },
+              {
+                "question": "Quais benefícios assistenciais entram na revisão, além do abono salarial?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "habitacao",
+          "name": "Habitação",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 49): 'desfavelização' em 10 anos, com título de propriedade e financiamento de 50 anos, parcelas de R$ 200 a R$ 500.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-re-t01"
+            },
+            {
+              "id": "src-rs-94"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 49): 'desfavelização' em 10 anos, com título de propriedade e financiamento de 50 anos, parcelas de R$ 200 a R$ 500.",
+            "requirement": {
+              "path": "depende-municipios"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o custo total estimado da 'desfavelização' e quem financia?",
+                "why": "Sem esse dado não é possível medir meta, custo e instrumento habitacional."
+              },
+              {
+                "question": "Como será feita a regularização fundiária nas áreas de risco?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "instituicoes",
+          "name": "Instituições",
+          "kind": "proposta",
+          "position": "Plano registrado: fusão de municípios, repasses federais por desempenho e ajuste por emenda negociada antes da posse.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-rs-23"
+            },
+            {
+              "id": "src-re-t01"
+            },
+            {
+              "id": "src-rs-72"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado: fusão de municípios, repasses federais por desempenho e ajuste por emenda negociada antes da posse.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Quais critérios definem os municípios a serem fundidos?",
+                "why": "Sem esse dado não é possível medir o que depende de emenda e de articulação no Congresso."
+              },
+              {
+                "question": "Como os repasses por desempenho seriam medidos e verificados?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: resumo executivo do plano registrado no TSE (51 p.) e sínteses de terceiro que citam páginas do PDF; declarações de 2026. Votos e atos de mandato federal não foram analisados: a chapa não tem mandato federal anterior.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "leonardo-avalanche": {
+      "themes": [
+        {
+          "slug": "economia",
+          "name": "Economia",
+          "kind": "proposta",
+          "position": "Plano registrado (propostas 9, 10 e 11): industrializar o país, polo tecnológico mundial, infraestrutura pesada e fertilizantes nacionais.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            },
+            {
+              "id": "src-la-27"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (propostas 9, 10 e 11): industrializar o país, polo tecnológico mundial, infraestrutura pesada e fertilizantes nacionais.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o custo fiscal dos incentivos à indústria e ao polo tecnológico?",
+                "why": "Sem esse dado não é possível medir o ajuste fiscal nem o efeito sobre a arrecadação."
+              },
+              {
+                "question": "Qual o cronograma das obras de hidrovias e ferrovias previstas?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "seguranca",
+          "name": "Segurança pública",
+          "kind": "proposta",
+          "position": "Plano registrado (proposta 5): 'tolerância zero contra o crime', mais policiamento nas ruas, presídios de isolamento e plano coordenado por delegado.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (proposta 5): 'tolerância zero contra o crime', mais policiamento nas ruas, presídios de isolamento e plano coordenado por delegado.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Quantas vagas de presídio de segurança máxima serão abertas e em quais regiões?",
+                "why": "Sem esse dado não é possível medir custo, prazo e competência federativa da medida."
+              },
+              {
+                "question": "Qual o texto previsto para endurecer penas e reduzir recursos processuais?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "saude",
+          "name": "Saúde",
+          "kind": "proposta",
+          "position": "Plano registrado (proposta 3): 'zerar a fila do SUS', tecnologia no estoque de remédios, medicamentos atualizados e saúde da mulher e do idoso.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (proposta 3): 'zerar a fila do SUS', tecnologia no estoque de remédios, medicamentos atualizados e saúde da mulher e do idoso.",
+            "requirement": {
+              "path": "ato-executivo"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o prazo e o custo para zerar a fila do SUS?",
+                "why": "Sem esse dado não é possível medir meta, financiamento e prazo do que se propõe."
+              },
+              {
+                "question": "De onde sai o dinheiro para os medicamentos injetáveis e a ampliação de geriatras?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "educacao",
+          "name": "Educação",
+          "kind": "proposta",
+          "position": "Plano registrado (proposta 6): educação com IA e foco em empreendedorismo, técnico a partir dos 14-15 anos e educação domiciliar regulamentada.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (proposta 6): educação com IA e foco em empreendedorismo, técnico a partir dos 14-15 anos e educação domiciliar regulamentada.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o projeto de lei previsto para a educação domiciliar?",
+                "why": "Sem esse dado não é possível medir meta, responsável e prazo do que se propõe."
+              },
+              {
+                "question": "Como o ensino técnico paralelo seria financiado nas redes públicas?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "clima",
+          "name": "Clima e meio ambiente",
+          "kind": "proposta",
+          "position": "Plano registrado (propostas 12 e 19): sem capítulo de clima; drones na Amazônia, saneamento e coleta de lixo com aproveitamento energético.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            },
+            {
+              "id": "src-re-t03"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (propostas 12 e 19): sem capítulo de clima; drones na Amazônia, saneamento e coleta de lixo com aproveitamento energético.",
+            "requirement": {
+              "path": "ato-executivo"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de redução de desmatamento associada à rede de drones?",
+                "why": "Sem esse dado não é possível medir meta, prazo e instrumento da política ambiental."
+              },
+              {
+                "question": "Qual o prazo para universalizar água tratada e coleta de esgoto?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "trabalho",
+          "name": "Trabalho e renda",
+          "kind": "proposta",
+          "position": "Plano registrado (propostas 4 e 18): taxa de 3,5% e financiamento do carro do motorista de aplicativo; primeiro emprego para jovens.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (propostas 4 e 18): taxa de 3,5% e financiamento do carro do motorista de aplicativo; primeiro emprego para jovens.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o projeto de lei para limitar a taxa das plataformas de transporte?",
+                "why": "Sem esse dado não é possível medir efeito sobre emprego, renda e custo de contratação."
+              },
+              {
+                "question": "Quantos jovens o programa de primeiro emprego pretende atender por ano?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "tributacao",
+          "name": "Tributação",
+          "kind": "proposta",
+          "position": "Plano registrado (propostas 1 e 7): imposto único de 3,5% no lugar de ICMS, ISS, PIS, Cofins, IPI, INSS e IR; IPVA fixo de R$ 50 por mês.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (propostas 1 e 7): imposto único de 3,5% no lugar de ICMS, ISS, PIS, Cofins, IPI, INSS e IR; IPVA fixo de R$ 50 por mês.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a alíquota efetiva necessária para manter a arrecadação atual?",
+                "why": "Sem esse dado não é possível medir o efeito sobre a arrecadação e a partilha federativa."
+              },
+              {
+                "question": "Como ficariam a partilha com estados e municípios e o Fundo de Participação?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "previdencia",
+          "name": "Previdência",
+          "kind": "proposta",
+          "position": "Plano registrado (proposta 1): extinguir a contribuição patronal ao INSS e substituí-la pelo imposto único; regras de aposentadoria não são tratadas.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (proposta 1): extinguir a contribuição patronal ao INSS e substituí-la pelo imposto único; regras de aposentadoria não são tratadas.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Fim da contribuição patronal muda o financiamento da Previdência junto com a queda de carga",
+                "detail": "A substituição da contribuição patronal ao INSS pelo imposto único de 3,5% altera uma fonte de custeio da seguridade e ocorre no mesmo plano que reduz de forma expressiva a carga sobre empresas e salários.",
+                "sources": [
+                  {
+                    "id": "src-la-16"
+                  },
+                  {
+                    "id": "src-la-17"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como o Regime Geral de Previdência seria financiado após o fim da contribuição patronal?",
+                "why": "Sem esse dado não é possível medir o efeito fiscal e quem assume o custo da mudança."
+              },
+              {
+                "question": "O plano prevê alguma alteração nas regras de aposentadoria?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "habitacao",
+          "name": "Habitação",
+          "kind": "proposta",
+          "position": "Plano registrado (proposta 19): reassentamento de famílias em área de risco ou ocupação irregular, com moradia digna e regularização do terreno.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (proposta 19): reassentamento de famílias em área de risco ou ocupação irregular, com moradia digna e regularização do terreno.",
+            "requirement": {
+              "path": "depende-municipios"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o prazo definido para o reassentamento das famílias em área de risco?",
+                "why": "Sem esse dado não é possível medir meta, custo e instrumento habitacional."
+              },
+              {
+                "question": "Quanto será investido em moradia nova e regularização fundiária?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "instituicoes",
+          "name": "Instituições",
+          "kind": "proposta",
+          "position": "Plano registrado (proposta 14): 'segurança jurídica para todos', com mutirão de processos parados e meta de redução do tempo de julgamento.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-la-16"
+            },
+            {
+              "id": "src-la-17"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (proposta 14): 'segurança jurídica para todos', com mutirão de processos parados e meta de redução do tempo de julgamento.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o prazo máximo de julgamento pretendido e por qual instrumento?",
+                "why": "Sem esse dado não é possível medir o que depende de emenda e de articulação no Congresso."
+              },
+              {
+                "question": "Como o mutirão atua sobre os 84 milhões de processos citados no plano?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano de governo registrado no TSE (8 p., 19 propostas) lido integralmente e sínteses de terceiro. Sem mandato federal anterior para comparar; o PDF é a única fonte programática identificada.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        }
+      ]
+    },
+    "augusto-cury": {
+      "themes": [
+        {
+          "slug": "economia",
+          "name": "Economia",
+          "kind": "proposta",
+          "position": "Plano registrado: responsabilidade fiscal, simplificação tributária e reindustrialização; reforma administrativa com corte de 15 mil cargos.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            },
+            {
+              "id": "src-re-t02"
+            },
+            {
+              "id": "src-re-t05"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado: responsabilidade fiscal, simplificação tributária e reindustrialização; reforma administrativa com corte de 15 mil cargos.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a meta fiscal anual declarada para o mandato?",
+                "why": "Sem esse dado não é possível medir o ajuste fiscal nem o efeito sobre a arrecadação."
+              },
+              {
+                "question": "Qual a economia projetada com o corte de 15 mil cargos comissionados?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "seguranca",
+          "name": "Segurança pública",
+          "kind": "proposta",
+          "position": "Plano registrado: Forças Armadas nas fronteiras, portos e rotas aéreas; câmeras inteligentes, drones e análise preditiva contra o crime.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            },
+            {
+              "id": "src-re-t02"
+            },
+            {
+              "id": "src-ac-20"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado: Forças Armadas nas fronteiras, portos e rotas aéreas; câmeras inteligentes, drones e análise preditiva contra o crime.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o custo e o cronograma da rede de câmeras e drones?",
+                "why": "Sem esse dado não é possível medir custo, prazo e competência federativa da medida."
+              },
+              {
+                "question": "Qual o papel das Forças Armadas na segurança pública urbana?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "saude",
+          "name": "Saúde",
+          "kind": "proposta",
+          "position": "Plano registrado: telemedicina no SUS, prevenção ao câncer, saúde mental e 'gestão da emoção' na atenção básica; Brasil Neuroinclusivo.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            },
+            {
+              "id": "src-re-t02"
+            },
+            {
+              "id": "src-ac-05"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado: telemedicina no SUS, prevenção ao câncer, saúde mental e 'gestão da emoção' na atenção básica; Brasil Neuroinclusivo.",
+            "requirement": {
+              "path": "ato-executivo"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o custo e a cobertura previstos para a telemedicina no SUS?",
+                "why": "Sem esse dado não é possível medir meta, financiamento e prazo do que se propõe."
+              },
+              {
+                "question": "Como a 'gestão da emoção' seria integrada à formação das equipes de saúde?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "educacao",
+          "name": "Educação",
+          "kind": "proposta",
+          "position": "Plano registrado: educação em tempo integral, 'gestão da emoção' na formação de professores e inclusão de alunos neurodivergentes.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            },
+            {
+              "id": "src-re-t02"
+            },
+            {
+              "id": "src-ac-05"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado: educação em tempo integral, 'gestão da emoção' na formação de professores e inclusão de alunos neurodivergentes.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o cronograma para universalizar a educação em tempo integral?",
+                "why": "Sem esse dado não é possível medir meta, responsável e prazo do que se propõe."
+              },
+              {
+                "question": "Como o projeto Brasil Neuroinclusivo seria financiado nas redes municipais?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "clima",
+          "name": "Clima e meio ambiente",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 176-182): 'Floresta Viva' com IA e drones contra incêndios, 90% de matriz limpa até 2040 e diplomacia climática.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            },
+            {
+              "id": "src-re-t02"
+            },
+            {
+              "id": "src-re-t03"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 176-182): 'Floresta Viva' com IA e drones contra incêndios, 90% de matriz limpa até 2040 e diplomacia climática.",
+            "requirement": {
+              "path": "ato-executivo"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a trajetória anual para chegar a 90% de matriz limpa em 2040?",
+                "why": "Sem esse dado não é possível medir meta, prazo e instrumento da política ambiental."
+              },
+              {
+                "question": "Como o mercado de carbono regulamentado remunera quem preserva?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "trabalho",
+          "name": "Trabalho e renda",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 39 e 95): 10 milhões de microempreendedores e Banco do Empreendedor; sem proposta sobre jornada ou escala 6x1.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            },
+            {
+              "id": "src-re-t02"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 39 e 95): 10 milhões de microempreendedores e Banco do Empreendedor; sem proposta sobre jornada ou escala 6x1.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o custo do crédito de até R$ 20 mil a juros de 5% a 6% ao ano?",
+                "why": "Sem esse dado não é possível medir efeito sobre emprego, renda e custo de contratação."
+              },
+              {
+                "question": "O plano trata de jornada ou de relação de emprego assalariado?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tributacao",
+          "name": "Tributação",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 37-38): concluir a reforma tributária com carga menor ao fim da transição, simplificação e mais tributos para municípios.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            },
+            {
+              "id": "src-re-t02"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 37-38): concluir a reforma tributária com carga menor ao fim da transição, simplificação e mais tributos para municípios.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a carga pretendida ao fim da transição da reforma?",
+                "why": "Sem esse dado não é possível medir o efeito sobre a arrecadação e a partilha federativa."
+              },
+              {
+                "question": "Quanto da arrecadação federal seria transferido aos municípios?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "previdencia",
+          "name": "Previdência",
+          "kind": "posicao",
+          "position": "Não localizamos posição documentada do candidato nem do partido neste tema",
+          "sourceKind": "ausente",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            }
+          ],
+          "reality": {
+            "proposal": "Não localizamos posição documentada do candidato nem do partido neste tema",
+            "requirement": {
+              "path": "indefinido"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "O candidato pretende alterar idade mínima, tempo de contribuição ou regras de cálculo?",
+                "why": "Sem esse dado não é possível medir o efeito fiscal e quem assume o custo da mudança."
+              },
+              {
+                "question": "Qual a proposta para o financiamento do Regime Geral de Previdência?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base de busca: plano registrado (200 p.) com busca textual por 'previdência', 'aposentadoria' e 'INSS' sem proposta localizada; sabatinas e declarações de 2026; programa do Avante não localizado em URL verificável em 29/09/2026.",
+            "evidenceStatus": "indeterminado",
+            "confidenceLevel": "low"
+          }
+        },
+        {
+          "slug": "habitacao",
+          "name": "Habitação",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 105 e 109): regularizar 5 milhões de moradias em favelas em 10 anos, via REURB, e urbanizar com saneamento sem remoção.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            },
+            {
+              "id": "src-re-t02"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 105 e 109): regularizar 5 milhões de moradias em favelas em 10 anos, via REURB, e urbanizar com saneamento sem remoção.",
+            "requirement": {
+              "path": "depende-municipios"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o custo médio por moradia regularizada e quem executa?",
+                "why": "Sem esse dado não é possível medir meta, custo e instrumento habitacional."
+              },
+              {
+                "question": "Como seria financiada a urbanização das áreas regularizadas?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "instituicoes",
+          "name": "Instituições",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 39, 64 e 66): semipresidencialismo com primeiro-ministro; STF com 9 ministros e mandato de 8 anos; metas por ministério.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-ac-23"
+            },
+            {
+              "id": "src-re-t02"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 39, 64 e 66): semipresidencialismo com primeiro-ministro; STF com 9 ministros e mandato de 8 anos; metas por ministério.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Semipresidencialismo e mudanças no STF exigem PEC e o plano não indica votos",
+                "detail": "Adotar o semipresidencialismo e mudar composição, mandato e critério de escolha dos ministros do STF exigem emenda constitucional com 308 deputados e 49 senadores, em dois turnos em cada Casa; o plano não detalha a articulação para esse quórum.",
+                "sources": [
+                  {
+                    "id": "src-ac-23"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho da relação entre presidente e primeiro-ministro na proposta?",
+                "why": "Sem esse dado não é possível medir o que depende de emenda e de articulação no Congresso."
+              },
+              {
+                "question": "Como seria a transição caso a PEC do semipresidencialismo seja aprovada?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (200 p.) com busca textual por tema no texto integral, sínteses de terceiro e declarações de campanha de 2026. Primeira disputa eleitoral do candidato.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        }
+      ]
+    },
+    "clariana-barao": {
+      "themes": [
+        {
+          "slug": "economia",
+          "name": "Economia",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 5-6): responsabilidade fiscal, revisão de gastos e subsídios com transparência, crédito produtivo e simplificação regulatória.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-cb-19"
+            },
+            {
+              "id": "src-cb-25"
+            },
+            {
+              "id": "src-cb-06"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 5-6): responsabilidade fiscal, revisão de gastos e subsídios com transparência, crédito produtivo e simplificação regulatória.",
+            "requirement": {
+              "path": "ato-executivo"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a meta fiscal e o tamanho da revisão de gastos prevista?",
+                "why": "Sem esse dado não é possível medir o ajuste fiscal nem o efeito sobre a arrecadação."
+              },
+              {
+                "question": "Quais subsídios seriam revistos e com que critério de impacto?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "seguranca",
+          "name": "Segurança pública",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 9-10): fronteiras monitoradas, inteligência, sufocamento financeiro de facções e separação de lideranças em presídios.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-cb-19"
+            },
+            {
+              "id": "src-cb-25"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 9-10): fronteiras monitoradas, inteligência, sufocamento financeiro de facções e separação de lideranças em presídios.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o instrumento previsto para o sufocamento financeiro das facções?",
+                "why": "Sem esse dado não é possível medir custo, prazo e competência federativa da medida."
+              },
+              {
+                "question": "Como o plano trata o armamento e a formação das polícias estaduais?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "saude",
+          "name": "Saúde",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 3): atenção primária territorial, filas informatizadas e telemedicina; eixo de primeira infância com rede de cuidado.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-cb-19"
+            },
+            {
+              "id": "src-cb-25"
+            },
+            {
+              "id": "src-cb-04"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 3): atenção primária territorial, filas informatizadas e telemedicina; eixo de primeira infância com rede de cuidado.",
+            "requirement": {
+              "path": "ato-executivo"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o cronograma para informatizar as filas do SUS?",
+                "why": "Sem esse dado não é possível medir meta, financiamento e prazo do que se propõe."
+              },
+              {
+                "question": "Qual o público-alvo e o custo do eixo de primeira infância?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "educacao",
+          "name": "Educação",
+          "kind": "proposta",
+          "position": "Plano registrado (p. 3 e 8): alfabetização, ensino técnico ligado ao emprego, orientação de carreira e aprendizagem com o setor produtivo.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-cb-19"
+            },
+            {
+              "id": "src-cb-25"
+            },
+            {
+              "id": "src-cb-06"
+            }
+          ],
+          "reality": {
+            "proposal": "Plano registrado (p. 3 e 8): alfabetização, ensino técnico ligado ao emprego, orientação de carreira e aprendizagem com o setor produtivo.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de alfabetização na idade certa e o prazo?",
+                "why": "Sem esse dado não é possível medir meta, responsável e prazo do que se propõe."
+              },
+              {
+                "question": "Como as parcerias com o setor produtivo seriam formalizadas?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "clima",
+          "name": "Clima e meio ambiente",
+          "kind": "posicao",
+          "position": "Programa do DC: proteger o meio ambiente e a harmonia entre atividade econômica, fauna, flora e equilíbrio ecológico.",
+          "sourceKind": "partido",
+          "sources": [
+            {
+              "id": "src-re-t04"
+            },
+            {
+              "id": "src-re-t03"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa do DC: proteger o meio ambiente e a harmonia entre atividade econômica, fauna, flora e equilíbrio ecológico.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "O DC tem meta quantificada de emissão, desmatamento ou transição energética?",
+                "why": "Sem esse dado não é possível medir meta, prazo e instrumento da política ambiental."
+              },
+              {
+                "question": "A candidata assume na campanha o programa ambiental do partido?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata. O plano registrado é silente no tema (sem capítulo ambiental, segundo síntese de terceiro); a posição apresentada é do programa do partido (DC) e está rotulada como posição do partido, não declaração da candidata.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "trabalho",
+          "name": "Trabalho e renda",
+          "kind": "proposta",
+          "position": "Declaração (Poder360, 25/08/2026): defender o fim da escala 6x1; o plano trata trabalho como empregabilidade, sem proposta de jornada.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-cb-43"
+            },
+            {
+              "id": "src-cb-25"
+            },
+            {
+              "id": "src-cb-19"
+            }
+          ],
+          "reality": {
+            "proposal": "Declaração (Poder360, 25/08/2026): defender o fim da escala 6x1; o plano trata trabalho como empregabilidade, sem proposta de jornada.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o texto previsto para o fim da escala 6x1 e a transição para as empresas?",
+                "why": "Sem esse dado não é possível medir efeito sobre emprego, renda e custo de contratação."
+              },
+              {
+                "question": "Qual a posição sobre jornada de 40 horas e negociação coletiva?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tributacao",
+          "name": "Tributação",
+          "kind": "posicao",
+          "position": "Programa do DC: reforma tributária com redução da carga, sobretudo em pequenas e médias empresas, e reformulação do IR da pessoa física.",
+          "sourceKind": "partido",
+          "sources": [
+            {
+              "id": "src-re-t04"
+            },
+            {
+              "id": "src-cb-25"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa do DC: reforma tributária com redução da carga, sobretudo em pequenas e médias empresas, e reformulação do IR da pessoa física.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a alíquota ou faixa de IR pretendida na reforma do partido?",
+                "why": "Sem esse dado não é possível medir o efeito sobre a arrecadação e a partilha federativa."
+              },
+              {
+                "question": "A candidata mantém a redução de carga em setores hoje beneficiados?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata. O plano registrado trata apenas do lado da despesa (revisão de gastos e subsídios) e não propõe mudança de alíquotas, isenções ou desenho de impostos; a posição apresentada é do programa do DC.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "previdencia",
+          "name": "Previdência",
+          "kind": "posicao",
+          "position": "Programa do DC: assegurar aos aposentados e pensionistas dignidade dos proventos e sua atualização correta.",
+          "sourceKind": "partido",
+          "sources": [
+            {
+              "id": "src-re-t04"
+            },
+            {
+              "id": "src-cb-25"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa do DC: assegurar aos aposentados e pensionistas dignidade dos proventos e sua atualização correta.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "O partido propõe mudar idade mínima, tempo de contribuição ou regra de cálculo?",
+                "why": "Sem esse dado não é possível medir o efeito fiscal e quem assume o custo da mudança."
+              },
+              {
+                "question": "Qual a proposta de financiamento da Previdência no longo prazo?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata. O plano registrado não trata de regras de aposentadoria, cálculo de benefícios ou idade mínima; a posição apresentada é do programa do DC, rotulada como posição do partido.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "habitacao",
+          "name": "Habitação",
+          "kind": "posicao",
+          "position": "Programa do DC: garantir a cada família o direito a uma moradia digna.",
+          "sourceKind": "partido",
+          "sources": [
+            {
+              "id": "src-re-t04"
+            },
+            {
+              "id": "src-cb-25"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa do DC: garantir a cada família o direito a uma moradia digna.",
+            "requirement": {
+              "path": "ato-executivo"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o volume de moradias e o instrumento de financiamento propostos pelo partido?",
+                "why": "Sem esse dado não é possível medir meta, custo e instrumento habitacional."
+              },
+              {
+                "question": "Como o DC trataria a regularização fundiária urbana?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata. O plano registrado não trata de habitação: não há programa de moradia, financiamento imobiliário ou urbanização entre os seis eixos; a posição apresentada é do programa do DC.",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        },
+        {
+          "slug": "instituicoes",
+          "name": "Instituições",
+          "kind": "proposta",
+          "position": "Declaração (Poder360, 25/08/2026): defende reforma no STF; o plano propõe pactos com estados e transferências por indicadores.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-cb-43"
+            },
+            {
+              "id": "src-cb-25"
+            },
+            {
+              "id": "src-cb-19"
+            }
+          ],
+          "reality": {
+            "proposal": "Declaração (Poder360, 25/08/2026): defende reforma no STF; o plano propõe pactos com estados e transferências por indicadores.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Reforma no STF declarada em entrevista exige PEC e não tem texto público",
+                "detail": "Mudança na composição, mandato ou critério de escolha de ministros do STF exige emenda constitucional com 308 deputados e 49 senadores, em dois turnos em cada Casa; a declaração de 25/08/2026 não apresenta texto nem articulação para o quórum.",
+                "sources": [
+                  {
+                    "id": "src-cb-43"
+                  },
+                  {
+                    "id": "src-cb-25"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o conteúdo da reforma do STF defendida e por qual instrumento?",
+                "why": "Sem esse dado não é possível medir o que depende de emenda e de articulação no Congresso."
+              },
+              {
+                "question": "Quais indicadores condicionariam as transferências a estados e municípios?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: plano registrado no TSE (seis eixos) e sínteses de terceiro; entrevista ao Poder360 (25/08/2026) e programa do DC publicado pelo partido. Primeira disputa eleitoral da candidata.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "samara-martins": {
+      "themes": [
+        {
+          "slug": "economia",
+          "name": "Economia",
+          "kind": "proposta",
+          "position": "Programa registrado (25 pontos): nacionalizar o sistema bancário e o Banco Central e auditar a dívida pública.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-10"
+            },
+            {
+              "id": "src-sm-06"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado (25 pontos): nacionalizar o sistema bancário e o Banco Central e auditar a dívida pública.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o instrumento previsto para a nacionalização dos bancos e do Banco Central?",
+                "why": "Sem esse dado não é possível medir o ajuste fiscal nem o efeito sobre a arrecadação."
+              },
+              {
+                "question": "Qual o resultado esperado da auditoria da dívida pública?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "seguranca",
+          "name": "Segurança pública",
+          "kind": "proposta",
+          "position": "Programa registrado: desmilitarizar as polícias e acabar com a PM na forma atual; criminalizar condutas de exploração e ódio contra mulheres.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-10"
+            },
+            {
+              "id": "src-sm-14"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado: desmilitarizar as polícias e acabar com a PM na forma atual; criminalizar condutas de exploração e ódio contra mulheres.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho institucional proposto para substituir a PM?",
+                "why": "Sem esse dado não é possível medir custo, prazo e competência federativa da medida."
+              },
+              {
+                "question": "Como se daria a transição dos efetivos e das corporações estaduais?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "saude",
+          "name": "Saúde",
+          "kind": "proposta",
+          "position": "Programa registrado: ampliar o SUS e exigir que políticos, de vereador a presidente, usem exclusivamente a saúde pública.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-07"
+            },
+            {
+              "id": "src-sm-10"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado: ampliar o SUS e exigir que políticos, de vereador a presidente, usem exclusivamente a saúde pública.",
+            "requirement": {
+              "path": "lei-ordinaria"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o instrumento para obrigar agentes públicos a usar o SUS?",
+                "why": "Sem esse dado não é possível medir meta, financiamento e prazo do que se propõe."
+              },
+              {
+                "question": "Qual o aporte adicional previsto para ampliar o SUS?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "educacao",
+          "name": "Educação",
+          "kind": "proposta",
+          "position": "Programa registrado: 10% do PIB para educação, revogação do Novo Ensino Médio e fim do vestibular no acesso ao ensino público.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-10"
+            },
+            {
+              "id": "src-sm-14"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado: 10% do PIB para educação, revogação do Novo Ensino Médio e fim do vestibular no acesso ao ensino público.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Como será alcançado o patamar de 10% do PIB e em quanto tempo?",
+                "why": "Sem esse dado não é possível medir meta, responsável e prazo do que se propõe."
+              },
+              {
+                "question": "Qual critério substituiria o vestibular no acesso às universidades públicas?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "clima",
+          "name": "Clima e meio ambiente",
+          "kind": "proposta",
+          "position": "Programa registrado: transição de matrizes energéticas e de extração, contra desmatamento ilegal, garimpo, grilagem e contaminação por mercúrio.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-52"
+            },
+            {
+              "id": "src-re-t03"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado: transição de matrizes energéticas e de extração, contra desmatamento ilegal, garimpo, grilagem e contaminação por mercúrio.",
+            "requirement": {
+              "path": "ato-executivo"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o cronograma da transição de matrizes energéticas prevista no programa?",
+                "why": "Sem esse dado não é possível medir meta, prazo e instrumento da política ambiental."
+              },
+              {
+                "question": "Como o programa trata a exploração de nióbio e terras raras?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "trabalho",
+          "name": "Trabalho e renda",
+          "kind": "proposta",
+          "position": "Programa registrado: fim da escala 6x1, jornada de 30 horas sem redução salarial e reajuste de 100% do salário mínimo como medida emergencial.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-10"
+            },
+            {
+              "id": "src-sm-15"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado: fim da escala 6x1, jornada de 30 horas sem redução salarial e reajuste de 100% do salário mínimo como medida emergencial.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Jornada de 30 horas e fim da escala 6x1 passam por emenda constitucional",
+                "detail": "Jornada e duração do trabalho são definidas na Constituição; a redução para 30 horas semanais e o fim da escala 6x1 exigem emenda com 308 deputados e 49 senadores, em dois turnos em cada Casa, sem que o programa detalhe a transição.",
+                "sources": [
+                  {
+                    "id": "src-sm-41"
+                  },
+                  {
+                    "id": "src-sm-10"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o efeito fiscal estimado do reajuste de 100% do salário mínimo?",
+                "why": "Sem esse dado não é possível medir efeito sobre emprego, renda e custo de contratação."
+              },
+              {
+                "question": "Como a jornada de 30 horas seria negociada com setores dependentes de turnos?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "tributacao",
+          "name": "Tributação",
+          "kind": "proposta",
+          "position": "Programa registrado: taxar grandes fortunas, isentar trabalhadores e acabar com subsídios fiscais e financeiros a monopólios.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-92"
+            },
+            {
+              "id": "src-sm-10"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado: taxar grandes fortunas, isentar trabalhadores e acabar com subsídios fiscais e financeiros a monopólios.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "maioria absoluta: 257 na Câmara e 41 no Senado"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual a alíquota pretendida para o imposto sobre grandes fortunas?",
+                "why": "Sem esse dado não é possível medir o efeito sobre a arrecadação e a partilha federativa."
+              },
+              {
+                "question": "Qual a renúncia de arrecadação estimada com a isenção dos trabalhadores?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "previdencia",
+          "name": "Previdência",
+          "kind": "proposta",
+          "position": "Programa registrado: revogar a reforma da Previdência, junto com a revogação da reforma trabalhista.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-92"
+            },
+            {
+              "id": "src-sm-90"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado: revogar a reforma da Previdência, junto com a revogação da reforma trabalhista.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Quais regras da reforma de 2019 seriam revertidas e com que financiamento?",
+                "why": "Sem esse dado não é possível medir o efeito fiscal e quem assume o custo da mudança."
+              },
+              {
+                "question": "Qual o efeito fiscal estimado da reversão previdenciária?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "habitacao",
+          "name": "Habitação",
+          "kind": "proposta",
+          "position": "Programa registrado: usar imóveis abandonados para moradia, no eixo 'Saúde e moradia' da plataforma.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-07"
+            },
+            {
+              "id": "src-sm-10"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado: usar imóveis abandonados para moradia, no eixo 'Saúde e moradia' da plataforma.",
+            "requirement": {
+              "path": "depende-municipios"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Como seria feita a desapropriação ou o uso compulsório dos imóveis abandonados?",
+                "why": "Sem esse dado não é possível medir meta, custo e instrumento habitacional."
+              },
+              {
+                "question": "Qual a meta de unidades habitacionais e o custo previsto?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "slug": "instituicoes",
+          "name": "Instituições",
+          "kind": "proposta",
+          "position": "Programa registrado: Judiciário com juízes eleitos pelo voto popular; chapa própria, sem federação ou coligação.",
+          "sourceKind": "candidato",
+          "sources": [
+            {
+              "id": "src-sm-41"
+            },
+            {
+              "id": "src-sm-10"
+            },
+            {
+              "id": "src-sm-06"
+            }
+          ],
+          "reality": {
+            "proposal": "Programa registrado: Judiciário com juízes eleitos pelo voto popular; chapa própria, sem federação ou coligação.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa"
+            },
+            "history": {
+              "aligned": [],
+              "divergent": [],
+              "noComparablePrecedent": "Não localizamos episódios comparáveis suficientes na trajetória analisada."
+            },
+            "support": {
+              "documentedAgreements": 0,
+              "note": "Chapa própria: nenhuma coligação ou federação registrada no TSE; cadeiras do partido na Câmara não localizadas na base analisada. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [],
+            "openQuestions": [
+              {
+                "question": "Qual o modelo de eleição de juízes e o desenho de mandato propostos?",
+                "why": "Sem esse dado não é possível medir o que depende de emenda e de articulação no Congresso."
+              },
+              {
+                "question": "Quais outras mudanças institucionais o programa prevê para o Judiciário?",
+                "why": "A resposta delimita o instrumento e a dependência de outros Poderes ou entes federativos."
+              }
+            ],
+            "methodology": "Base: programa de governo registrado no TSE (25 pontos; versão de 67 p. anexada em 16/08/2026) e declarações de 2026. Histórico eleitoral anterior não foi detalhado neste escopo.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "Renan Santos: as posições desta seção foram apuradas sobre o resumo executivo do plano registrado (51 p.) e sobre sínteses de terceiro que citam páginas do PDF; a obra integral (Livro Amarelo) não foi lida neste bloco.",
+    "Leonardo Avalanche: previdência, clima e habitação não têm capítulo próprio no plano registrado (8 p.) e aparecem por medidas conexas (contribuição patronal ao INSS, drones e saneamento, reassentamento); a seção registra apenas o que o documento declara.",
+    "Leonardo Avalanche: o estatuto do PRTB publicado pelo partido está digitalizado sem camada de texto pesquisável e o programa do partido não foi localizado em URL verificável em 29/09/2026; por isso não houve fallback partidário neste bloco.",
+    "Augusto Cury: previdência ficou como ausente — busca textual no plano registrado (200 p.) por 'previdência', 'aposentadoria' e 'INSS' sem ocorrência de proposta, e nenhum documento programático do Avante localizado.",
+    "Clariana Barão: clima, tributação, previdência e habitação estão rotulados como posição do partido (programa do DC), porque o plano registrado é silente nesses temas; a interface deve exibir o aviso de posição partidária.",
+    "Clima/Amazônia: a leitura por candidato usa também o levantamento do Portal Amazônia sobre os planos registrados (consulta em 29/09/2026)."
+  ]
+}

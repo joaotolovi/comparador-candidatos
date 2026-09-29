@@ -1,7 +1,8 @@
 "use client";
 
-// Bloco 1 da V3 — para onde cada candidato quer levar o país.
-// Síntese neutra + prioridades DECLARADAS + modelo de desenvolvimento.
+// Seção 02 — Projeto de país: onde quer chegar, o que pretende transformar e
+// o caminho declarado. Resumo curto na tela; explicação completa no clique;
+// teste de realidade confrontando instrumentos, metas e dependências.
 
 import type { Candidate } from "@/types";
 import {
@@ -12,6 +13,8 @@ import {
   SLOTS,
 } from "@/components/section-shell";
 import { EvidenceBadge, ConfidenceBadge } from "@/components/badges";
+import { ExpandableText } from "@/components/expandable-text";
+import { RealityBlock, RealityMissing } from "@/components/reality-check";
 
 const FIELD = "text-[11px] font-medium uppercase tracking-wide text-muted-foreground";
 
@@ -20,7 +23,6 @@ export function CountryProjectSection({
   hideTag,
 }: {
   candidates: Candidate[];
-  /** perfil individual: não repetir a etiqueta de slot A/B/C */
   hideTag?: boolean;
 }) {
   return (
@@ -36,13 +38,13 @@ export function CountryProjectSection({
             {p ? (
               <>
                 <div className="flex flex-col gap-1">
-                  <h3 className={FIELD}>Visão de país</h3>
-                  <p className="text-sm leading-relaxed text-foreground/90">{p.vision}</p>
+                  <h3 className={FIELD}>Onde quer chegar</h3>
+                  <ExpandableText text={p.vision} limit={150} />
                 </div>
 
                 {p.nationalPriorities.length > 0 ? (
                   <div className="flex flex-col gap-1.5">
-                    <h3 className={FIELD}>Prioridades declaradas</h3>
+                    <h3 className={FIELD}>O que pretende transformar</h3>
                     <ul className="flex flex-wrap gap-1.5">
                       {p.nationalPriorities.map((t) => (
                         <li
@@ -59,11 +61,15 @@ export function CountryProjectSection({
                 {p.developmentModel ? (
                   <div className="flex flex-col gap-1">
                     <h3 className={FIELD}>Modelo de desenvolvimento</h3>
-                    <p className="text-sm leading-relaxed text-foreground/90">
-                      {p.developmentModel}
-                    </p>
+                    <ExpandableText text={p.developmentModel} limit={150} />
                   </div>
                 ) : null}
+
+                {p.reality ? (
+                  <RealityBlock reality={p.reality} title="Teste de realidade do projeto" />
+                ) : (
+                  <RealityMissing />
+                )}
 
                 <div className="mt-auto flex flex-col gap-2 border-t border-border pt-3">
                   <div className="flex flex-wrap items-center gap-2">
@@ -71,9 +77,7 @@ export function CountryProjectSection({
                     <ConfidenceBadge level={p.confidenceLevel} />
                   </div>
                   {p.methodology ? (
-                    <p className="text-xs leading-relaxed text-muted-foreground">
-                      {p.methodology}
-                    </p>
+                    <p className="text-xs leading-relaxed text-muted-foreground">{p.methodology}</p>
                   ) : null}
                   <SourcesInline sources={p.sources} />
                 </div>

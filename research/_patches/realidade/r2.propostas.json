@@ -1,0 +1,1847 @@
+{
+  "grupo": "r2",
+  "escopo": "propostas",
+  "sources": [
+    {
+      "id": "src-re-r2propostas-01",
+      "title": "Fundo Partidário: 19 partidos receberam mais de R$ 1 bilhão em 2025; dez legendas ficaram fora por não atingir a cláusula de desempenho (Agir, DC, Mobiliza, Novo, PCB, PCO, O Democrata, PRTB, PSTU e UP)",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://tse.jus.br/comunicacao/noticias/2026/Janeiro/fundo-partidario-19-partidos-receberam-mais-de-r-1-bilhao-em-2025",
+      "publishedAt": "2026-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Nota oficial do TSE com a lista de legendas sem recursos do Fundo Partidário em 2025."
+    },
+    {
+      "id": "src-re-r2propostas-02",
+      "title": "Reforma Tributária começa em 2026 com período de adaptação, destaque informativo dos novos tributos e dispensa de penalidades",
+      "publisher": "CGIBS — Comitê Gestor do IBS",
+      "url": "https://www.cgibs.gov.br/reforma-tributaria-comeca-em-2026-com-periodo-de-adaptacao-destaque-informativo-dos-novos-tributos-e-dispensa-de-penalidades",
+      "publishedAt": "2025-12-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Início em 1º/01/2026 da transição para IBS e CBS, criados pela EC 132/2023, com calendário até 2033."
+    },
+    {
+      "id": "src-re-r2propostas-03",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+    },
+    {
+      "id": "src-re-r2propostas-04",
+      "title": "Proposta muda a Constituição para instituir o semipresidencialismo no Brasil (PEC 2/25, com voto distrital misto; 171 assinaturas para tramitar)",
+      "publisher": "Câmara dos Deputados — Agência",
+      "url": "https://www.camara.leg.br/noticias/1131679-PROPOSTA-MUDA-A-CONSTITUICAO-PARA-INSTITUIR-O-SEMIPRESIDENCIALISMO-NO-BRASIL",
+      "publishedAt": "2025",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Registra a apresentação da PEC 2/25 e a exigência de apoio de 171 deputados para tramitação."
+    },
+    {
+      "id": "src-re-r2propostas-05",
+      "title": "Augusto Cury propõe semipresidencialismo e diz que chamaria Tarcísio para ser primeiro-ministro",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/augusto-cury-propoe-semipresidencialismo-e-diz-que-chamaria-tarcisio-para-ser-primeiro-ministro",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração na convenção do Avante (03/08/2026)."
+    },
+    {
+      "id": "src-re-r2propostas-06",
+      "title": "Renan Santos diz que não cumprirá decisões monocráticas do STF que considerar ilegais",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/05/renan-santos-diz-que-vai-compor-com-centrao-se-eleito.ghtml",
+      "publishedAt": "2026-08-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina da GloboNews: disposição de compor com o Centrão e recusa de cumprir decisões do STF consideradas ilegais."
+    }
+  ],
+  "candidates": {
+    "renan-santos": {
+      "proposals": [
+        {
+          "id": "renan-santos-prop-1",
+          "title": "'Guerra ao crime organizado' com Direito Penal do Inimigo e superpresídios",
+          "reality": {
+            "proposal": "Declarar 'guerra ao crime' no 1º dia, com GLO e estado de defesa em áreas dominadas por facções, Direito Penal do Inimigo e superpresídios",
+            "requirement": {
+              "kind": "misto",
+              "label": "Ato do Executivo (GLO e decreto de estado de defesa), lei ordinária (marco penal) e lei orçamentária (presídios)",
+              "quorum": "Estado de defesa: decreto do Presidente submetido ao Congresso em 24 horas, que decide por maioria absoluta em 10 dias, com vigência de até 30 dias (CF, art. 136). Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "GLO é decretada pelo Presidente com base na LC 97/1999; criar tipos penais e ampliar penas exige lei do Congresso. O plano cita 10 presídios federais de 30 a 40 mil vagas ao custo de R$ 6 bi."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato próprio em segurança pública: nunca exerceu mandato nem cargo executivo; marcos são atos de movimento, partido e campanha.",
+              "aligned": "Defesa pública de penas mais duras, grandes presídios e Direito Penal do Inimigo em 2026, incluindo 'regime de exceção em favelas' (26/08).",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas.",
+              "positionChange": "Em 05/08/2026 disse que a GLO respeitaria limites legais e o STF; em 26/08 afirmou que não cumpriria decisões que considerasse ilegais."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 1,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação; vice Coronel Medina (MISSÃO).",
+              "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Estado de defesa exige aval do Congresso em 10 dias e vigência máxima de 30 dias",
+                "detail": "O plano trata o estado de defesa como instrumento do primeiro dia. O art. 136 da Constituição exige decreto presidencial submetido ao Congresso em 24 horas, decisão por maioria absoluta em 10 dias e vigência de até 30 dias, prorrogável uma vez; o novo marco penal ('Direito Penal do Inimigo') e a criação de tipos penais dependem de lei aprovada pelo Congresso.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-rs-47"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Declaração de não cumprir decisões do STF que o candidato considerar ilegais",
+                "detail": "Em sabatina da TV Globo (26/08/2026) o candidato afirmou que não cumprirá decisões do STF que considere ilegais; em 05/08/2026 havia dito que as operações de GLO respeitariam os limites da legislação e do Supremo. As competências do STF estão no art. 102 da Constituição e as fontes consultadas não detalham como a recusa seria operacionalizada.",
+                "sources": [
+                  {
+                    "id": "src-rs-90"
+                  },
+                  {
+                    "id": "src-re-r2propostas-06"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo total das 300 mil a 500 mil vagas em superpresídios, além dos R$ 6 bi anunciados para 10 unidades?"
+              },
+              {
+                "question": "Qual o prazo e como o estado de defesa seria renovado após o limite de 30 dias previsto na Constituição?"
+              },
+              {
+                "question": "Qual o texto previsto para o 'Direito Penal do Inimigo' e o que ele altera no Código Penal?"
+              }
+            ],
+            "publicExplanation": "Sobre o atraso no registro de perfis no TSE, o candidato atribuiu a 'problema técnico' e classificou a decisão do relator como ilegal; sobre a diferença entre os prazos de 30 e 10 anos para a desfavelação, não foi localizada declaração específica.",
+            "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "renan-santos-prop-3",
+          "title": "PEC de Transição Fiscal: ajuste de R$ 1,1 trilhão até 2031",
+          "reality": {
+            "proposal": "PEC de Transição Fiscal com ajuste de R$ 1,1 trilhão até 2031, desindexação de benefícios, revisão do abono e desvinculação de pisos",
+            "requirement": {
+              "kind": "pec",
+              "label": "Emenda constitucional (PEC), com parte do ajuste em lei ordinária",
+              "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "A 'PEC do Equilíbrio Fiscal' foi protocolada na Câmara pelo coordenador econômico da campanha, deputado Kim Kataguiri. A desindexação responde, segundo a campanha econômica, por R$ 486 bi em cinco anos."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato próprio em cargo público: nunca exerceu mandato nem cargo executivo; o histórico vem de movimento, partido e campanha.",
+              "aligned": "O MBL, que ele cofundou e coordenou, apoiou a reforma da Previdência (EC 103/2019) e o teto de gastos — apoio de movimento, não voto próprio.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 1,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Ajuste por PEC com 1 deputado federal e nenhum senador na bancada atual",
+                "detail": "A PEC exige 308 votos na Câmara e 49 no Senado, em dois turnos. O MISSÃO tem 1 dos 513 deputados federais e nenhum dos 81 senadores; o partido informou ter aberto mão da cota de R$ 3,3 mi do Fundo Eleitoral para priorizar candidaturas ao Legislativo.",
+                "sources": [
+                  {
+                    "id": "src-rs-36"
+                  },
+                  {
+                    "id": "src-rs-30"
+                  },
+                  {
+                    "id": "src-rs-90"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a memória de cálculo do ajuste de R$ 1,1 trilhão até 2031 e quanto depende de PEC e de lei?"
+              },
+              {
+                "question": "Qual a regra de transição e a idade mínima para quem já contribui com o INSS?"
+              },
+              {
+                "question": "Como a revisão do abono salarial e das renúncias fiscais seria escalonada no tempo?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com a memória de cálculo do ajuste nem com a regra de transição; o coordenador econômico da campanha detalhou a desindexação (R$ 486 bi em cinco anos) em entrevista de setembro de 2026.",
+            "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "renan-santos-prop-2",
+          "title": "'Desfavelação integral do Brasil' em 10 anos",
+          "reality": {
+            "proposal": "'Desfavelação integral do Brasil' em 10 anos, transformando favelas em bairros com infraestrutura de saúde e segurança",
+            "requirement": {
+              "kind": "depende-de-municipios",
+              "label": "Programa federal de desfavelação, com execução municipal e lei para as novas tipificações penais",
+              "quorum": "Não se aplica ao programa em si — depende de convênios com os municípios, que detêm as regras urbanísticas; a criação do crime de 'favelização' exigiria lei ordinária.",
+              "note": "A campanha estima o projeto em R$ 1,2 bi a R$ 1,5 bi, com R$ 50 bi a R$ 85 bi de despesas do Tesouro, financiados por hipotecas e IPTU segundo o plano."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato próprio em política urbana: nunca exerceu mandato, cargo executivo ou função em habitação; marcos são campanha e partido.",
+              "aligned": "Defesa pública do tema e fixação da meta em 10 anos na prévia do plano (21/07/2026) e no resumo executivo registrado.",
+              "positionChange": "Declarações anteriores, citadas em verbete, indicavam transformação das favelas em até 30 anos; em 2026 o plano registrado fixa 10 anos."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 1,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
+            },
+            "tensions": [
+              {
+                "kind": "mudanca-de-posicao",
+                "title": "Prazo da desfavelação passa de 'até 30 anos', em declarações anteriores, para 10 anos no plano de 2026",
+                "detail": "Declarações anteriores de 2026, registradas em verbete enciclopédico, indicavam transformação das favelas em até 30 anos; a prévia do plano (21/07/2026) e o resumo executivo registrado fixam a 'desfavelação integral' em 10 anos. As fontes consultadas não trazem explicação para a diferença de prazo.",
+                "sources": [
+                  {
+                    "id": "src-rs-25"
+                  },
+                  {
+                    "id": "src-rs-20"
+                  },
+                  {
+                    "id": "src-rs-94"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Meta de 10 anos depende das prefeituras e das regras urbanísticas locais",
+                "detail": "A meta de desfavelação alcança 5.570 municípios, que controlam regras urbanísticas e licenciamento; a campanha estima R$ 1,2 bi a R$ 1,5 bi para o projeto e R$ 50 bi a R$ 85 bi de despesas do Tesouro, com financiamento por hipotecas e IPTU, e a mesma reportagem registra que esses gastos superam os limites de aumento definidos pelo arcabouço fiscal.",
+                "sources": [
+                  {
+                    "id": "src-rs-95"
+                  },
+                  {
+                    "id": "src-rs-20"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo por domicílio e qual o papel de estados e municípios na execução do programa?"
+              },
+              {
+                "question": "Como ficam as famílias das áreas retomadas: aluguel social, hipoteca de R$ 200 a R$ 500 ou outra solução?"
+              },
+              {
+                "question": "Qual o cronograma por município e como o programa se relaciona com o Minha Casa Minha Vida?"
+              }
+            ],
+            "publicExplanation": "O plano justifica a retomada territorial pela existência de áreas sob controle de facções e milícias, condicionando a desfavelação à 'guerra ao crime'; não foi localizada declaração específica sobre a diferença entre os prazos de 30 e 10 anos citados em fontes distintas.",
+            "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "renan-santos-prop-5",
+          "title": "Substituição do Bolsa Família por frentes de trabalho remuneradas",
+          "reality": {
+            "proposal": "Substituir o Bolsa Família por 'frentes de trabalho remuneradas' (Frentes Cidadãs), vinculando a assistência à prestação de serviços",
+            "requirement": {
+              "kind": "lei-ordinaria",
+              "label": "Lei ordinária (redesenho do programa de transferência de renda) e lei orçamentária",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "O Bolsa Família foi recriado pela Lei 14.601/2023; alterar público, condicionalidades e valores exige projeto aprovado pelo Congresso, sanção e previsão orçamentária."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato próprio em assistência social: nunca exerceu mandato nem gerenciou programa público; marcos são o movimento e o partido que preside.",
+              "aligned": "Defesa pública, desde julho de 2026, de substituir o modelo atual por trabalho remunerado para beneficiários com 15 anos ou mais.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 1,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Frentes de trabalho em um ajuste que limita o reajuste dos benefícios assistenciais à inflação",
+                "detail": "O ajuste de R$ 1,1 trilhão até 2031 prevê reajuste de benefícios previdenciários e assistenciais apenas pela inflação, enquanto o plano propõe frentes de trabalho remuneradas para beneficiários com 15 anos ou mais e o benefício restrito a quem não puder trabalhar. As fontes consultadas não detalham o custo das frentes nem a transição dos atuais beneficiários.",
+                "sources": [
+                  {
+                    "id": "src-rs-21"
+                  },
+                  {
+                    "id": "src-rs-20"
+                  },
+                  {
+                    "id": "src-rs-31"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o número estimado de pessoas nas frentes de trabalho e o custo anual do programa?"
+              },
+              {
+                "question": "Quem avaliaria a incapacidade para o trabalho e por qual critério o benefício seria mantido?"
+              },
+              {
+                "question": "Como se daria a transição dos atuais beneficiários e o pagamento das frentes (municipal, estadual ou federal)?"
+              }
+            ],
+            "publicExplanation": "Não foram localizadas, nas fontes consultadas, explicação pública sobre a transição dos atuais beneficiários nem estimativa de custo das frentes de trabalho.",
+            "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "renan-santos-prop-6",
+          "title": "Fusão de municípios e tutela federal de municípios 'ineficientes'",
+          "reality": {
+            "proposal": "Fusão de municípios, de 5.570 para cerca de 1.600, e 'tutela federal' de municípios considerados ineficientes",
+            "requirement": {
+              "kind": "pec",
+              "label": "PEC/lei complementar federal, com lei estadual e consulta prévia às populações",
+              "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei complementar: 257 na Câmara e 41 no Senado (maioria absoluta).",
+              "note": "Pelo art. 18, §4º, da Constituição, criação, incorporação, fusão e desmembramento de municípios dependem de lei estadual, dentro de período fixado por lei complementar federal, e de consulta prévia às populações envolvidas."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato próprio em organização territorial: nunca exerceu mandato nem cargo executivo; marcos são a presidência do MISSÃO e a campanha.",
+              "different": "Em declarações, a proposta foi estendida à fusão de estados; o resumo registrado no TSE trata de municípios.",
+              "aligned": "Defesa pública da reorganização do pacto federativo e da gestão por metas no plano de 2026."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 1,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fusão de municípios exige lei complementar, lei estadual e consulta prévia às populações",
+                "detail": "O art. 18, §4º, da Constituição condiciona a fusão de municípios a lei estadual, dentro de período fixado por lei complementar federal, e a consulta prévia às populações envolvidas por plebiscito. O plano registrado indica a redução de 5.570 para cerca de 1.600 municípios, sem critério de 'ineficiência' nem lista de entes nas fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-rs-95"
+                  },
+                  {
+                    "id": "src-rs-21"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o critério de 'ineficiência' e quais municípios seriam alcançados pela fusão?"
+              },
+              {
+                "question": "Como se daria a consulta prévia às populações prevista na Constituição?"
+              },
+              {
+                "question": "O que ocorre com servidores, câmaras municipais e dívidas dos municípios fundidos?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o critério de eficiência, a lista de municípios ou o desenho da 'tutela federal'.",
+            "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "renan-santos-prop-7",
+          "title": "Substituir cotas por bolsas de mérito e ampliar escolas militares",
+          "reality": {
+            "proposal": "Substituir o sistema de cotas por bolsas de mérito e ampliar o alcance de escolas militares",
+            "requirement": {
+              "kind": "lei-ordinaria",
+              "label": "Lei ordinária e políticas de educação, com autonomia das universidades",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "A Lei 14.723/2023 atualizou a lei de cotas na educação federal e está em vigor; universidades federais têm autonomia didático-científica e administrativa (CF, art. 207) para definir processos seletivos, e a maior parte das matrículas do ensino médio está em redes estaduais."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato próprio em educação: nunca exerceu mandato nem cargo executivo; marcos são o movimento (MBL), a presidência do MISSÃO e a campanha.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 1,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. MISSÃO: 1 de 513 deputados federais (Kim Kataguiri, eleito em 2022 pelo União Brasil e filiado ao partido na janela de 2026), 0 de 81 senadores, 1 deputado estadual e 3 vereadores; chapa presidencial sem cota do Fundo Eleitoral (R$ 3,3 mi destinados às candidaturas ao Legislativo)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Troca do sistema de cotas envolve lei em vigor e a autonomia das universidades",
+                "detail": "A Lei 14.723/2023 atualizou a lei de cotas na educação federal (Lei 12.711/2012); universidades federais definem seus próprios processos seletivos com base na autonomia do art. 207 da Constituição e as redes estaduais respondem pela maior parte das matrículas do ensino médio. O plano não indica valor, número de bolsas nem prazo para a troca do modelo nas fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-rs-20"
+                  },
+                  {
+                    "id": "src-rs-22"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o valor e o número de bolsas de mérito e como os critérios seriam definidos?"
+              },
+              {
+                "question": "Qual o instrumento para alterar a lei de cotas em vigor e como ficam as matrículas já ocupadas?"
+              },
+              {
+                "question": "Como a ampliação de escolas militares se daria em redes estaduais e municipais?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o desenho das bolsas de mérito nem com o número de escolas militares previsto.",
+            "methodology": "Análise do resumo executivo registrado no TSE (51 páginas), de reportagens de 2026 e de atos de movimento, partido e campanha. Renan Santos nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem do MBL, da presidência do MISSÃO e da campanha, não de votos ou decisões de governo. Ficaram de fora a obra integral (Livro Amarelo) e o inteiro teor do RRC.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "leonardo-avalanche": {
+      "proposals": [
+        {
+          "id": "la-prop-1",
+          "title": "Reduzir impostos com imposto único de 3,5%",
+          "reality": {
+            "proposal": "Reduzir impostos com um imposto único de 3,5% que substituiria ICMS, ISS, IPI, PIS, Cofins, IOF, IRPJ, CSLL, IRPF e INSS",
+            "requirement": {
+              "kind": "pec",
+              "label": "Emenda constitucional (reforma tributária) e lei complementar",
+              "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei complementar: 257 na Câmara e 41 no Senado (maioria absoluta).",
+              "note": "ICMS é tributo estadual e ISS, municipal. A EC 132/2023 substituiu ICMS e ISS pelo IBS e PIS, Cofins e IPI pela CBS, com transição iniciada em 1º/01/2026 e conclusão prevista para 2033."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo; marcos são atos de partido e a campanha.",
+              "aligned": "Defesa do imposto único em sabatinas de 2026; o percentual de 3,5% foi fixado na convenção de 29/07/2026, como meio de reduzir sonegação.",
+              "different": "Na sabatina de julho criticou a redução da escala 6x1 sem mudança tributária prévia e o TST, condicionando outras mudanças ao tema."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "PRTB — partido isolado (DJE de 18/09/2026); vice Silvia Hellen (PRTB).",
+              "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Imposto único sobre tributos estaduais e municipais e a transição da reforma tributária em curso",
+                "detail": "ICMS é estadual e ISS municipal: substituí-los nacionalmente exige emenda constitucional e coordenação com as 27 unidades, além de 308 votos na Câmara e 49 no Senado. Desde 1º/01/2026 vigora a fase de adaptação do IBS e da CBS criados pela EC 132/2023, com transição até 2033; o programa não informa como a proposta conviveria com o novo sistema.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-02"
+                  },
+                  {
+                    "id": "src-la-41"
+                  },
+                  {
+                    "id": "src-la-06"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Redução de tributos e as despesas de saúde, segurança e educação sem fonte de receita indicada",
+                "detail": "O programa declara a redução progressiva da carga tributária como eixo central e, no mesmo documento, promete zerar a fila do SUS com mutirões, telemedicina e hospitais privados, criar sistema de IA para estoque de medicamentos e um Sistema Único Nacional de Segurança. Das 19 propostas do documento, 17 não trazem custo e 16 não trazem prazo, e as fontes não indicam receita compensatória.",
+                "sources": [
+                  {
+                    "id": "src-la-06"
+                  },
+                  {
+                    "id": "src-la-40"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a alíquota efetiva final e a estimativa de perda de arrecadação do imposto único de 3,5%?"
+              },
+              {
+                "question": "Como o imposto único se relacionaria com o IBS e a CBS já em funcionamento desde 2026?"
+              },
+              {
+                "question": "Qual a divisão da arrecadação do imposto único entre União, estados, municípios e a Previdência?"
+              }
+            ],
+            "publicExplanation": "O candidato afirmou em sabatina que o imposto único reduziria a sonegação e ampliaria a arrecadação; não foi localizada explicação pública sobre a convivência com o IBS e a CBS nem sobre a compensação da perda de receita.",
+            "methodology": "Análise do programa registrado no TSE e da cobertura da Agência Brasil (18/09/2026), com atos da presidência nacional do partido e da campanha. Leonardo Avalanche nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido e das candidaturas de 2006, 2008, 2016 e 2018, sem eleição. Ficaram de fora atas do congresso partidário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "la-prop-2",
+          "title": "Zerar a fila do SUS",
+          "reality": {
+            "proposal": "Zerar a fila do SUS com mutirões, telemedicina, parceria com hospitais privados ociosos e IA no controle de estoques",
+            "requirement": {
+              "kind": "depende-de-estados",
+              "label": "Ato do Executivo federal e pactuação com estados e municípios (SUS tripartite)",
+              "quorum": "Não se aplica — atos administrativos, portarias e pactuação federativa; contratação e credenciamento seguem a lei de licitações.",
+              "note": "Consultas, exames e internações são majoritariamente estaduais e municipais; o programa registrado não indica meta quantitativa, prazo nem custo por ente nas fontes consultadas."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em gestão de saúde pública: nunca exerceu mandato nem cargo executivo nem dirigiu serviço de saúde; marcos são partido e campanha.",
+              "aligned": "Apresentação do eixo saúde na convenção de 29/07/2026 e no programa registrado, com mutirões, telemedicina e hospitais privados.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "PRTB — partido isolado (DJE de 18/09/2026); vice Silvia Hellen (PRTB).",
+              "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fila do SUS depende de estados e municípios e do credenciamento de hospitais privados",
+                "detail": "A gestão do SUS é compartilhada entre União, estados e municípios, e os atendimentos da fila são executados principalmente por estados e municípios; a parceria com hospitais privados ociosos depende de chamamento, contrato e regras de remuneração. O programa registrado não indica meta por especialidade, prazo nem custo, segundo as fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-la-06"
+                  },
+                  {
+                    "id": "src-la-41"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o quantitativo atual da fila por especialidade e a meta de redução definida?"
+              },
+              {
+                "question": "Como os mutirões e os hospitais privados ociosos seriam remunerados (contrato, convênio ou credenciamento)?"
+              },
+              {
+                "question": "Qual o custo da telemedicina com médicos 24 horas e do sistema de IA para estoque de medicamentos?"
+              }
+            ],
+            "publicExplanation": "O candidato afirmou que zeraria a fila com mutirões e telemedicina; não foi localizada explicação pública com meta, custo, prazo ou fonte de recursos.",
+            "methodology": "Análise do programa registrado no TSE e da cobertura da Agência Brasil (18/09/2026), com atos da presidência nacional do partido e da campanha. Leonardo Avalanche nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido e das candidaturas de 2006, 2008, 2016 e 2018, sem eleição. Ficaram de fora atas do congresso partidário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "la-prop-3",
+          "title": "IPVA em taxa fixa de R$ 50 por mês e isenção para caminhoneiros",
+          "reality": {
+            "proposal": "IPVA em taxa fixa de R$ 50 mensais para todos os veículos, isenção nacional para caminhoneiros e crédito facilitado a motoristas de aplicativo",
+            "requirement": {
+              "kind": "pec",
+              "label": "PEC de alteração de competência tributária e pactuação com as 27 unidades federativas",
+              "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "O IPVA é imposto estadual e do Distrito Federal (CF, art. 155, III); fixar valor nacional, uniformizar alíquota ou isentar categorias depende de alteração constitucional e de adesão das 27 unidades."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo; o histórico vem da presidência do PRTB e das campanhas.",
+              "aligned": "Taxa fixa de IPVA apresentada na convenção de 29/07/2026 e no programa, com isenção para motoristas profissionais e no veículo financiado.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "PRTB — partido isolado (DJE de 18/09/2026); vice Silvia Hellen (PRTB).",
+              "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fixar o IPVA nacionalmente esbarra na competência dos estados",
+                "detail": "O IPVA é tributo estadual e do Distrito Federal (CF, art. 155, III), com alíquotas definidas por cada unidade; a taxa fixa de R$ 50 mensais e a isenção nacional para caminhoneiros exigiriam emenda constitucional ou adesão dos 27 estados. O programa registrado não indica caminho jurídico, prazo nem estimativa de perda de arrecadação estadual.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-la-41"
+                  },
+                  {
+                    "id": "src-la-06"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o caminho jurídico para uniformizar um imposto estadual e como ficariam as receitas dos estados?"
+              },
+              {
+                "question": "Qual a arrecadação estimada do IPVA com a taxa fixa de R$ 50 mensais por veículo?"
+              },
+              {
+                "question": "Como seria definido o rol de motoristas profissionais isentos e quem faria o controle?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública sobre como a taxa fixa de IPVA se compatibilizaria com a competência estadual nem estimativa de impacto nas receitas estaduais.",
+            "methodology": "Análise do programa registrado no TSE e da cobertura da Agência Brasil (18/09/2026), com atos da presidência nacional do partido e da campanha. Leonardo Avalanche nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido e das candidaturas de 2006, 2008, 2016 e 2018, sem eleição. Ficaram de fora atas do congresso partidário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "la-prop-4",
+          "title": "Cursos de empreendedorismo com doação de smartphone e pagamento por hora",
+          "reality": {
+            "proposal": "Doar smartphone 'de última geração' com um ano de internet a quem concluir curso de empreendedorismo, custeado com gastos federais de publicidade",
+            "requirement": {
+              "kind": "lei-ordinaria",
+              "label": "Programa federal de qualificação e lei orçamentária (dotações de publicidade oficial)",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "O programa informa que os recursos viriam das despesas federais com publicidade; as fontes consultadas não trazem o valor anual dessa verba, o custo por aparelho nem o instrumento jurídico do repasse."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo; o histórico vem de atos de partido e da campanha.",
+              "aligned": "Defesa, em sabatina de julho de 2026, da remuneração por hora e de programas de empreendedorismo, com o curso e a doação do aparelho no programa.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "PRTB — partido isolado (DJE de 18/09/2026); vice Silvia Hellen (PRTB).",
+              "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Doação de aparelhos custeada por verba de publicidade sem valor ou quantidade indicados",
+                "detail": "O plano prevê doar um smartphone 'de última geração com um ano de internet gratuita' a quem concluir o curso de empreendedorismo, com recursos das despesas da administração federal com publicidade. As fontes consultadas não informam o valor anual da verba de publicidade, o custo unitário do aparelho nem a quantidade prevista de beneficiários, e o programa registra custo em 2 das 19 propostas.",
+                "sources": [
+                  {
+                    "id": "src-la-06"
+                  },
+                  {
+                    "id": "src-la-41"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo unitário por beneficiário e o volume de aparelhos previsto no programa?"
+              },
+              {
+                "question": "Qual o valor anual da verba federal de publicidade que financiaria a proposta e como o repasse seria feito?"
+              },
+              {
+                "question": "Como a remuneração por hora se relacionaria com a legislação trabalhista em vigor?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública sobre custo, quantidade ou forma de repasse dos aparelhos.",
+            "methodology": "Análise do programa registrado no TSE e da cobertura da Agência Brasil (18/09/2026), com atos da presidência nacional do partido e da campanha. Leonardo Avalanche nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido e das candidaturas de 2006, 2008, 2016 e 2018, sem eleição. Ficaram de fora atas do congresso partidário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "la-prop-5",
+          "title": "Sistema Único Nacional de Segurança com reconhecimento facial",
+          "reality": {
+            "proposal": "Criar o Sistema Único Nacional de Segurança, com câmeras, reconhecimento facial e mais policiais nas ruas",
+            "requirement": {
+              "kind": "depende-de-estados",
+              "label": "Lei federal, convênios com estados e atos administrativos",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação; a adesão de cada estado é formalizada em convênio.",
+              "note": "As polícias militares e civis são forças estaduais (CF, art. 144); um sistema nacional depende de adesão dos 27 entes e de regras de tratamento de dados para o reconhecimento facial."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em segurança pública: nunca exerceu mandato nem cargo executivo; o histórico vem de atos de partido e de candidaturas sem eleição.",
+              "aligned": "Apresentação do tema no programa registrado, com uso intensivo de câmeras e reconhecimento facial e mais policiais nas ruas.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "PRTB — partido isolado (DJE de 18/09/2026); vice Silvia Hellen (PRTB).",
+              "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); a legenda não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Sistema nacional de segurança depende de adesão dos estados e de regras sobre reconhecimento facial",
+                "detail": "As polícias militares e civis são forças estaduais (CF, art. 144) e o compartilhamento de dados entre os 27 entes é formalizado por convênio; o uso de reconhecimento facial está sujeito a regras de proteção de dados. As fontes consultadas não indicam instrumento, prazo, custo nem salvaguardas previstas para o sistema.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-la-06"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo e o cronograma de implantação do Sistema Único Nacional de Segurança?"
+              },
+              {
+                "question": "Como se daria o compartilhamento de dados entre União, estados e municípios?"
+              },
+              {
+                "question": "Quais salvaguardas de privacidade e de revisão de erros acompanhariam o reconhecimento facial?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública sobre custo, cronograma ou regras de uso do reconhecimento facial.",
+            "methodology": "Análise do programa registrado no TSE e da cobertura da Agência Brasil (18/09/2026), com atos da presidência nacional do partido e da campanha. Leonardo Avalanche nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido e das candidaturas de 2006, 2008, 2016 e 2018, sem eleição. Ficaram de fora atas do congresso partidário.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "augusto-cury": {
+      "proposals": [
+        {
+          "id": "augusto-cury-prop-1",
+          "title": "Semipresidencialismo e mandato de oito anos para ministros do STF",
+          "reality": {
+            "proposal": "Adotar o semipresidencialismo, com primeiro-ministro, e mandato de oito anos para ministros do STF no lugar da vitaliciedade",
+            "requirement": {
+              "kind": "pec",
+              "label": "Emenda constitucional (PEC)",
+              "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+              "note": "A PEC 2/25, em tramitação na Câmara, trata do semipresidencialismo e do voto distrital misto e precisava de 171 assinaturas para avançar; mudanças no STF (vitaliciedade e tempo de mandato) também dependem de PEC."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: 2026 é sua primeira candidatura e ele nunca exerceu cargo eletivo ou de nomeação; marcos são empresa, partido e campanha.",
+              "aligned": "Proposta apresentada em maio de 2026 e reafirmada na convenção, com a declaração de que convidaria Tarcísio de Freitas para primeiro-ministro.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 5,
+                "senado": 1
+              },
+              "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante).",
+              "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Mudança de regime por PEC com 5 deputados e 1 senador na bancada atual",
+                "detail": "Semipresidencialismo, fim da reeleição e mandato de oito anos no STF dependem de PEC (308 votos na Câmara e 49 no Senado, em dois turnos), e o Avante tem 5 dos 513 deputados federais e 1 dos 81 senadores. A PEC 2/25, que trata do tema na Câmara, precisava de apoio de 171 deputados para tramitar.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-04"
+                  },
+                  {
+                    "id": "src-ac-17"
+                  },
+                  {
+                    "id": "src-ac-06"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho do semipresidencialismo (poderes do primeiro-ministro, moção de censura, dissolução)?"
+              },
+              {
+                "question": "Como se daria a transição de regime em um mandato já iniciado?"
+              },
+              {
+                "question": "Qual a regra para os ministros atuais do STF no modelo de mandato de oito anos?"
+              }
+            ],
+            "publicExplanation": "O candidato declarou em entrevistas e na convenção que o presidente cuidaria das questões de Estado e um primeiro-ministro governaria o país, e afirmou que convidaria Tarcísio de Freitas (governador de São Paulo) para o cargo.",
+            "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "augusto-cury-prop-2",
+          "title": "Telemedicina e inteligência artificial no SUS",
+          "reality": {
+            "proposal": "Estruturar telemedicina com médicos 24 horas e uso de IA no SUS, com a avaliação de que resolveria 80% dos atendimentos",
+            "requirement": {
+              "kind": "depende-de-estados",
+              "label": "Política pública do SUS, com pactuação tripartite e atos administrativos",
+              "quorum": "Não se aplica — portarias e atos administrativos, com pactuação entre União, estados e municípios.",
+              "note": "A telemedicina em todo o país já é disciplinada pela Lei 14.510/2022; o atendimento depende de profissionais, banda larga e sistemas nos três níveis de governo."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu cargo eletivo ou de nomeação nem dirigiu serviço público de saúde; marcos são empresa, partido e campanha.",
+              "aligned": "A metodologia socioemocional que criou foi licenciada a redes públicas em dez estados, em 25 contratos identificados pela imprensa (mais de R$ 30 mi).",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 5,
+                "senado": 1
+              },
+              "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Telemedicina 24 horas depende de profissionais e de conexão nos três níveis de governo",
+                "detail": "O SUS é gerido de forma compartilhada entre União, estados e municípios, e o atendimento por telemedicina exige profissionais disponíveis, banda larga e sistemas integrados em cada ente. O plano registrado não indica custo, prazo nem indicador de resultado para a meta de resolver 80% dos atendimentos, segundo as fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-ac-19"
+                  },
+                  {
+                    "id": "src-ac-05"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "De onde viriam os médicos para o atendimento 24 horas em todas as regiões?"
+              },
+              {
+                "question": "Qual o custo da estrutura de telemedicina e qual indicador mediria a meta de 80% dos casos?"
+              },
+              {
+                "question": "Como o plano trata a cobertura de internet nas áreas sem conexão constante?"
+              }
+            ],
+            "publicExplanation": "Em sabatina na TV Globo (29/08/2026) o candidato reconheceu sua ligação com uma empresa de telemedicina e disse que a experiência lhe permite afirmar que o modelo pode ser 'barato' e 'eficiente'.",
+            "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "augusto-cury-prop-3",
+          "title": "Salário mínimo com ganho real e corte de 8 a 10 ministérios",
+          "reality": {
+            "proposal": "Reajustar o salário mínimo pela inflação mais 1% ao ano e cortar de 8 a 10 ministérios, com criação de novas pastas",
+            "requirement": {
+              "kind": "misto",
+              "label": "Lei (valorização do mínimo), medida provisória e lei de organização do Executivo",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "A política de valorização do mínimo e a criação ou extinção de ministérios passam pelo Congresso e pela lei orçamentária; o plano não traz a memória de cálculo do ganho real declarado de 50% a 60% em quatro anos."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: 2026 é sua primeira candidatura e ele nunca exerceu cargo eletivo ou de nomeação; marcos são empresa, partido e campanha.",
+              "aligned": "Apresentou o reajuste pela inflação mais 1% e o corte de pastas em sabatina da TV Globo (29/08/2026), com meta de mínimo de US$ 300 em 8 a 10 anos.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 5,
+                "senado": 1
+              },
+              "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Corte de 8 a 10 ministérios e criação simultânea de ao menos três pastas citadas",
+                "detail": "O candidato declarou corte de 8 a 10 ministérios e, no mesmo período, a criação de um Ministério da Segurança Pública — com convite declarado a Ronaldo Caiado (PSD) —, de um Ministério da Inteligência Artificial e de uma pasta de empreendedorismo, além da substituição do chanceler por secretário de Estado. As fontes consultadas não apresentam o saldo entre pastas extintas e criadas.",
+                "sources": [
+                  {
+                    "id": "src-ac-19"
+                  },
+                  {
+                    "id": "src-ac-37"
+                  },
+                  {
+                    "id": "src-ac-05"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais ministérios seriam extintos e qual a economia anual estimada com o corte?"
+              },
+              {
+                "question": "Como convivem o corte de pastas e a criação de Segurança Pública, IA e Empreendedorismo?"
+              },
+              {
+                "question": "Qual a memória de cálculo do ganho real de 50% a 60% em quatro anos para o salário mínimo?"
+              }
+            ],
+            "publicExplanation": "O candidato afirmou que o ganho real acumulado do mínimo chegaria a 50%-60% em quatro anos e que a meta de US$ 300 levaria 8 a 10 anos; não foi localizada explicação sobre o saldo de ministérios.",
+            "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "augusto-cury-prop-5",
+          "title": "Fundo Nacional do Empreendedor e 10.000 escolas de empreendedorismo",
+          "reality": {
+            "proposal": "Criar ministério e 10.000 escolas de empreendedorismo, com Fundo Nacional do Empreendedor de R$ 30 bi a R$ 50 bi",
+            "requirement": {
+              "kind": "lei-ordinaria",
+              "label": "Lei de criação do fundo e do ministério, com dotação orçamentária",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "A criação de fundo público e de ministério passa pelo Congresso e pela lei orçamentária; a origem dos R$ 30 bi a R$ 50 bi não consta das fontes consultadas."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu cargo eletivo ou de nomeação; o histórico comparável é empresarial e partidário.",
+              "aligned": "Fundou e desenvolveu a Escola da Inteligência, com controle adquirido pela Arco Educação em 2020 por R$ 288 mi, em negócio com cerca de 900 escolas.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 5,
+                "senado": 1
+              },
+              "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "10.000 escolas de empreendedorismo dependem das redes estaduais e municipais",
+                "detail": "O ensino fundamental e médio é operado por estados e municípios; instalar 10.000 escolas de empreendedorismo nessas redes depende de adesão dos entes e de espaço na carga horária. As fontes consultadas não indicam o custo por escola nem a origem dos R$ 30 bi a R$ 50 bi previstos para o fundo.",
+                "sources": [
+                  {
+                    "id": "src-ac-05"
+                  },
+                  {
+                    "id": "src-ac-08"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a origem dos R$ 30 bi a R$ 50 bi do fundo e o modelo de governança previsto?"
+              },
+              {
+                "question": "Como as 10.000 escolas se integrariam à carga horária da rede pública?"
+              },
+              {
+                "question": "Qual o indicador de resultado definido para o programa de empreendedorismo?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública sobre a origem dos recursos do fundo nem sobre o modelo de implantação das escolas.",
+            "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "augusto-cury-prop-6",
+          "title": "Ministério da Segurança Pública e integração nacional das forças",
+          "reality": {
+            "proposal": "Criar o Ministério da Segurança Pública, integrar nacionalmente as forças e apoiar núcleos municipais contra o crime organizado",
+            "requirement": {
+              "kind": "lei-ordinaria",
+              "label": "Lei e atos de organização administrativa, com cooperação federativa",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "A recriação do ministério depende de ato do Executivo e de previsão orçamentária; polícias militares e civis são estaduais (CF, art. 144) e a integração exige convênios com os 27 entes."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em segurança pública ou gestão de forças: nunca exerceu cargo público; marcos são atos de empresa, partido e campanha.",
+              "aligned": "Apresentou a integração nacional e o monitoramento de fronteiras no programa, com o convite declarado a Ronaldo Caiado para o ministério.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 5,
+                "senado": 1
+              },
+              "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Integração nacional de segurança depende de forças estaduais e de convênios",
+                "detail": "As polícias militares e civis são forças estaduais (CF, art. 144) e o sistema integrado de informações depende de adesão dos 27 entes; o programa registrado não indica custo, prazo nem a divisão de atribuições entre o novo ministério e as secretarias estaduais.",
+                "sources": [
+                  {
+                    "id": "src-ac-05"
+                  },
+                  {
+                    "id": "src-ac-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a divisão de atribuições entre o novo ministério e as secretarias estaduais de segurança?"
+              },
+              {
+                "question": "O convite declarado a Ronaldo Caiado (PSD) foi aceito e como a composição seria formalizada?"
+              },
+              {
+                "question": "Qual o custo estimado da integração nacional dos sistemas de segurança e fronteiras?"
+              }
+            ],
+            "publicExplanation": "O candidato declarou em sabatina que convidaria Ronaldo Caiado (PSD) — que é candidato à Presidência — para comandar um eventual Ministério da Segurança Pública.",
+            "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "augusto-cury-prop-8",
+          "title": "Combate à fome no mundo e agricultura familiar",
+          "reality": {
+            "proposal": "Criar fundo internacional de combate à fome e apoiar a agricultura familiar, dobrando a produção para 700 milhões de toneladas em 10 a 12 anos",
+            "requirement": {
+              "kind": "negociacao-internacional",
+              "label": "Negociação internacional (fundo) e políticas agrícolas domésticas de crédito, seguro e pesquisa",
+              "quorum": "Não se aplica ao fundo; acordo internacional depende de aprovação do Congresso por maioria dos votos presentes.",
+              "note": "A produção agrícola é majoritariamente privada: a meta depende de crédito, seguro, pesquisa e de condições de mercado e clima, não de decisão direta do Executivo."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu cargo eletivo ou de nomeação nem atuou em política agrícola; marcos são empresa, partido e campanha.",
+              "aligned": "Meta declarada em campanha em maio de 2026 e apresentada no plano registrado, com apoio à agricultura familiar como base da segurança alimentar.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 5,
+                "senado": 1
+              },
+              "coalition": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); chapa pura com o vice Júlio Delgado, ex-deputado federal por Minas Gerais com seis períodos de mandato."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Meta de produção agrícola depende de agentes privados e das condições de mercado",
+                "detail": "A meta de dobrar a produção de alimentos para 700 milhões de toneladas em 10 a 12 anos foi declarada em campanha (06/05/2026); a produção é privada e os instrumentos federais são crédito, seguro, pesquisa e infraestrutura de escoamento. As fontes consultadas não indicam custo, área, produtividade projetada nem o desenho do fundo internacional.",
+                "sources": [
+                  {
+                    "id": "src-ac-08"
+                  },
+                  {
+                    "id": "src-ac-05"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a projeção de área e produtividade por cultura para a meta de 700 milhões de toneladas?"
+              },
+              {
+                "question": "Qual o valor, a origem e a governança do fundo internacional de combate à fome?"
+              },
+              {
+                "question": "Qual a participação prevista da agricultura familiar no volume projetado?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o cálculo da meta de produção nem com o desenho do fundo internacional.",
+            "methodology": "Análise do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas/18 tópicos), da cobertura de 2026 e de atos de empresa, partido e campanha. Augusto Cury nunca exerceu cargo público, inclusive federal: 2026 é sua primeira candidatura, e o histórico comparável vem da Escola da Inteligência, do Avante e da campanha. Ficou de fora o texto integral do documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "clariana-barao": {
+      "proposals": [
+        {
+          "id": "clariana-barao-prop-1",
+          "title": "Rede Nacional de Proteção e Resposta à Violência",
+          "reality": {
+            "proposal": "Criar rede nacional integrada de proteção à mulher e à criança, com centros de atendimento e protocolo único",
+            "requirement": {
+              "kind": "depende-de-estados",
+              "label": "Política federal integrada, com estados, municípios e Judiciário",
+              "quorum": "Não se aplica — leis e atos administrativos; o atendimento passa por delegacias (estaduais), assistência (municipal) e Judiciário.",
+              "note": "O plano registrado prevê matriz de implementação por horizontes de gestão e não traz estimativa de custo por eixo nas fontes consultadas."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
+              "aligned": "Como representante da OAB no Conselho Municipal de Saúde de Várzea Grande defendeu banco de doadores de medula (2025).",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC).",
+              "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Rede nacional de atendimento depende de estados, municípios e Judiciário",
+                "detail": "Delegacias, acolhimento e encaminhamento profissional passam por estruturas estaduais e municipais e pelo Judiciário; o plano registrado prevê matriz de implementação por horizontes, e as fontes consultadas não trazem custo por eixo, meta de cobertura nem número de centros previstos.",
+                "sources": [
+                  {
+                    "id": "src-cb-04"
+                  },
+                  {
+                    "id": "src-cb-05"
+                  },
+                  {
+                    "id": "src-cb-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo por centro de atendimento e quantas unidades seriam instaladas?"
+              },
+              {
+                "question": "Como se daria a integração com delegacias estaduais, assistência social municipal e Judiciário?"
+              },
+              {
+                "question": "Qual a meta de cobertura por município e em qual horizonte de gestão?"
+              }
+            ],
+            "publicExplanation": "A candidata afirmou em campanha que criaria centros especializados no atendimento à mulher e que a rede substituiria a atual 'lista de endereços'; não foi localizada explicação sobre custo ou meta de cobertura.",
+            "methodology": "Análise do plano registrado no TSE, de entrevistas de 2026 e de atos partidários e de conselhos municipais. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido, de conselhos municipais em Várzea Grande e de trabalho voluntário. Ficou de fora a conferência na fonte primária do dossiê de terceiro.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "clariana-barao-prop-2",
+          "title": "Primeira infância como prioridade nacional",
+          "reality": {
+            "proposal": "Estabelecer a primeira infância como prioridade nacional, do pré-natal à creche, com prevenção ao abuso e ambiente digital seguro",
+            "requirement": {
+              "kind": "depende-de-municipios",
+              "label": "Políticas de educação infantil e assistência, com execução municipal e financiamento federal",
+              "quorum": "Não se aplica ao programa; leis de diretrizes e de financiamento seguem maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "Creches e pré-escolas são majoritariamente municipais, com apoio do Fundeb e de programas federais; a expansão de vagas depende de adesão dos municípios e de obra."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são atos de conselhos municipais, do partido e da campanha.",
+              "aligned": "Atuação no Conselho Municipal de Assistência Social de Várzea Grande (2025), com manifestação sobre o destravamento de recursos da assistência social.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Expansão de creches e pré-escolas é executada por municípios",
+                "detail": "A oferta de creche e pré-escola é municipal, com financiamento do Fundeb e apoio de programas federais; metas de vagas dependem de adesão dos municípios, de obra e de pessoal. As fontes consultadas não trazem número de vagas, custo por vaga nem prazo para a prioridade declarada.",
+                "sources": [
+                  {
+                    "id": "src-cb-04"
+                  },
+                  {
+                    "id": "src-cb-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de vagas em creche e pré-escola e em qual horizonte de gestão?"
+              },
+              {
+                "question": "Qual a fonte de financiamento da expansão (Fundeb, orçamento direto ou emendas)?"
+              },
+              {
+                "question": "Como o 'ambiente digital seguro' para crianças seria implementado e fiscalizado?"
+              }
+            ],
+            "publicExplanation": "Não foram localizadas, nas fontes consultadas, explicação pública sobre meta de vagas ou fonte de financiamento da expansão da educação infantil.",
+            "methodology": "Análise do plano registrado no TSE, de entrevistas de 2026 e de atos partidários e de conselhos municipais. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido, de conselhos municipais em Várzea Grande e de trabalho voluntário. Ficou de fora a conferência na fonte primária do dossiê de terceiro.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "clariana-barao-prop-3",
+          "title": "Autonomia econômica das mulheres: microcrédito e formalização",
+          "reality": {
+            "proposal": "Ampliar a autonomia econômica das mulheres com microcrédito responsável, qualificação profissional e apoio à formalização de negócios",
+            "requirement": {
+              "kind": "lei-ordinaria",
+              "label": "Programas federais e linha de crédito operada por bancos públicos, com regras do Conselho Monetário Nacional",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação; condições de crédito são definidas por normativos do CMN.",
+              "note": "O plano não indica valor, número de beneficiárias, taxa de juros ou prazo para a linha de microcrédito, segundo as fontes consultadas."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; a trajetória vem de atos partidários, conselhos municipais e voluntariado.",
+              "different": "Não localizamos atos anteriores em crédito ou empreendedorismo feminino na trajetória analisada; o marco mais próximo é a prioridade 01 do programa.",
+              "aligned": "Proposta registrada como um dos eixos do primeiro bloco do plano, com qualificação e reinserção profissional e apoio à formalização."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Linha de microcrédito depende de bancos públicos e de regras do Conselho Monetário Nacional",
+                "detail": "Condições de crédito, taxas e garantias são definidas por normativos do Conselho Monetário Nacional e operadas por instituições financeiras, inclusive públicas; criar linha específica exige dotação e desenho de risco. As fontes consultadas não trazem o custo, o público estimado nem a taxa prevista.",
+                "sources": [
+                  {
+                    "id": "src-cb-06"
+                  },
+                  {
+                    "id": "src-cb-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o valor previsto para a linha de microcrédito e a meta de mulheres atendidas?"
+              },
+              {
+                "question": "Qual a taxa de juros e o desenho de garantia para o crédito considerado responsável?"
+              },
+              {
+                "question": "Como a qualificação profissional se conectaria aos serviços já existentes de emprego e renda?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública sobre valor, taxa ou número de beneficiárias da linha de microcrédito proposta.",
+            "methodology": "Análise do plano registrado no TSE, de entrevistas de 2026 e de atos partidários e de conselhos municipais. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido, de conselhos municipais em Várzea Grande e de trabalho voluntário. Ficou de fora a conferência na fonte primária do dossiê de terceiro.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "clariana-barao-prop-4",
+          "title": "Responsabilidade fiscal: revisão de gastos, subsídios e benefícios",
+          "reality": {
+            "proposal": "Revisar gastos, subsídios e benefícios com avaliação de impacto, e conduzir revisão do ajuste fiscal",
+            "requirement": {
+              "kind": "lei-ordinaria",
+              "label": "Lei orçamentária e leis de avaliação de programas, com despesas obrigatórias definidas em lei",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação; despesas obrigatórias e vinculações mudam por lei e, em parte, por emenda constitucional.",
+              "note": "A candidata citou a Selic de 14% ao ano como obstáculo ao crédito em entrevista de 05/09/2026; a taxa é definida pelo Comitê de Política Monetária do Banco Central."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo; o histórico vem de atos partidários e de conselhos municipais.",
+              "aligned": "A revisão de gastos e subsídios com avaliação de impacto integra o eixo de economia do plano registrado, com matriz de implementação por horizontes.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Defesa de Selic a 7% e a autonomia do Banco Central",
+                "detail": "Em entrevistas a candidata defendeu Selic a 7% ao ano, citando a taxa de 14% como obstáculo ao crédito (05/09 e 09/09/2026); a taxa é definida pelo Comitê de Política Monetária, cuja autonomia foi estabelecida pela Lei Complementar 179/2021. O plano registrado não detalha o caminho para a taxa declarada nem o desenho da revisão de gastos.",
+                "sources": [
+                  {
+                    "id": "src-cb-80"
+                  },
+                  {
+                    "id": "src-cb-12"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais gastos, subsídios e benefícios seriam revisados e qual a economia estimada?"
+              },
+              {
+                "question": "Como a avaliação de impacto definiria o encerramento de programas e quem decidiria?"
+              },
+              {
+                "question": "Qual o caminho declarado para a Selic a 7% sem alterar o regime de metas de inflação?"
+              }
+            ],
+            "publicExplanation": "Em entrevista ao Jornal Nacional (05/09/2026) a candidata citou a Selic de 14% ao ano como obstáculo ao crédito e defendeu revisão do ajuste fiscal; não foi localizada explicação com o detalhamento da revisão de gastos.",
+            "methodology": "Análise do plano registrado no TSE, de entrevistas de 2026 e de atos partidários e de conselhos municipais. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido, de conselhos municipais em Várzea Grande e de trabalho voluntário. Ficou de fora a conferência na fonte primária do dossiê de terceiro.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "clariana-barao-prop-8",
+          "title": "'Estado que funciona': governo digital e compras rastreáveis",
+          "reality": {
+            "proposal": "Implantar governo 100% digital com dados pedidos uma única vez, compras públicas rastreáveis e federalismo de resultados",
+            "requirement": {
+              "kind": "lei-ordinaria",
+              "label": "Atos administrativos e legislação de compras e transparência, com integração federativa",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "O compartilhamento de dados alcança bases estaduais e municipais (saúde, educação, segurança) e as compras rastreáveis dependem da lei de licitações e de sistemas usados por outros entes."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em gestão pública: nunca exerceu mandato nem cargo executivo; marcos são atos partidários, conselhos municipais e campanha.",
+              "aligned": "Apresentação do eixo 'Estado que funciona' no plano registrado, com governo digital, dados pedidos uma única vez e compras 100% rastreáveis.",
+              "different": "Não localizamos atos anteriores de gestão ou digitalização na trajetória analisada."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); a legenda não recebeu Fundo Partidário em 2025 por não atingir a cláusula de desempenho e destinou R$ 1,5 mi do Fundo Eleitoral à candidatura presidencial (45,3% do recebido)."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Governo digital e 'dado uma única vez' dependem de estados e municípios",
+                "detail": "A integração de bases e o atendimento digital alcançam serviços operados por estados e municípios; o plano prevê vincular parte das transferências a resultados, e as fontes consultadas não detalham indicadores, prazos nem consequências do não cumprimento.",
+                "sources": [
+                  {
+                    "id": "src-cb-06"
+                  },
+                  {
+                    "id": "src-cb-17"
+                  },
+                  {
+                    "id": "src-cb-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais indicadores definiriam as transferências vinculadas a resultados?"
+              },
+              {
+                "question": "Qual o cronograma de digitalização de cada serviço e o custo da integração dos sistemas?"
+              },
+              {
+                "question": "Como a proteção de dados seria tratada no compartilhamento entre os entes?"
+              }
+            ],
+            "publicExplanation": "A candidata afirmou em entrevista ao Poder360 (25/08/2026) ter valores de centro-direita e rejeitar extremismo, defendendo diálogo; não foi localizada explicação sobre o desenho das transferências vinculadas a resultados.",
+            "methodology": "Análise do plano registrado no TSE, de entrevistas de 2026 e de atos partidários e de conselhos municipais. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem de atos de partido, de conselhos municipais em Várzea Grande e de trabalho voluntário. Ficou de fora a conferência na fonte primária do dossiê de terceiro.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "samara-martins": {
+      "proposals": [
+        {
+          "id": "samara-martins-prop-1",
+          "title": "Nacionalização do sistema bancário e auditoria da dívida pública",
+          "reality": {
+            "proposal": "Nacionalizar o sistema bancário, colocar o Banco Central sob controle estatal e suspender juros e amortizações da dívida até auditoria",
+            "requirement": {
+              "kind": "pec",
+              "label": "Emenda constitucional e lei complementar (sistema financeiro e dívida pública)",
+              "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei complementar: 257 na Câmara e 41 no Senado (maioria absoluta).",
+              "note": "O sistema financeiro é disciplinado por lei complementar (CF, art. 192) e a autonomia do Banco Central foi fixada pela LC 179/2021; a suspensão de juros e amortizações depende de decisão do Congresso sobre o orçamento e de negociação com credores."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca ocupou mandato nem cargo de nomeação; marcos vêm da direção nacional do UP, da militância e do trabalho no SUS.",
+              "aligned": "Como vice-presidente nacional do UP participou do programa aprovado nos congressos de 2019 e 2021, com controle estatal de setores estratégicos.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação; vice Raquel Brício (UP).",
+              "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Nacionalização bancária e auditoria da dívida dependem de PEC, de lei complementar e de decisão sobre o orçamento",
+                "detail": "O sistema financeiro é disciplinado por lei complementar (CF, art. 192) e a autonomia do Banco Central foi fixada pela LC 179/2021; uma PEC exige 308 votos na Câmara e 49 no Senado, em dois turnos, e o partido não tem cadeiras nas duas Casas. As fontes consultadas não informam custo, forma de indenização nem cronograma da nacionalização e da auditoria.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-06"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Suspensão de juros e amortizações da dívida pública até a auditoria",
+                "detail": "A proposta prevê suspender imediatamente o pagamento de juros e amortizações da dívida pública até a conclusão de auditoria, com redirecionamento dos recursos a políticas sociais; o serviço da dívida está previsto na lei orçamentária anual e a reprogramação depende do Congresso. As fontes consultadas não trazem parecer técnico nem estimativa do valor suspenso.",
+                "sources": [
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-06"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o desenho da nacionalização (compra, indenização, estatização) e o custo estimado?"
+              },
+              {
+                "question": "Quem conduziria a auditoria da dívida e qual o critério de revisão dos contratos?"
+              },
+              {
+                "question": "Como ficariam a poupança dos correntistas e os contratos com credores durante a suspensão?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o desenho da nacionalização nem com o tratamento a ser dado a contratos, poupança e credores.",
+            "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "samara-martins-prop-2",
+          "title": "Fim da escala 6x1, jornada de 30 horas e emprego garantido",
+          "reality": {
+            "proposal": "Acabar com a escala 6x1, reduzir a jornada para 30 horas semanais e pagar um salário mínimo a quem não tiver vaga",
+            "requirement": {
+              "kind": "pec",
+              "label": "Emenda constitucional (jornada) e lei (emprego garantido e auxílio), com lei orçamentária",
+              "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "A jornada de oito horas diárias e 44 semanais, com redução por acordo ou convenção coletiva, está no art. 7º, XIII, da Constituição; alterar o limite para 30 horas depende de PEC, e o auxílio a quem não tiver vaga exige lei e dotação."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita (2020 e 2022) nem ocupou cargo de nomeação; o histórico vem da direção do UP e da militância sindical.",
+              "aligned": "Defesa pública do fim da escala 6x1 e do reajuste de 100% do mínimo em 29/08/2026, mantida nas versões do programa com jornada de 30 horas.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fim da escala 6x1 e jornada de 30 horas exigem PEC",
+                "detail": "O art. 7º, XIII, da Constituição fixa jornada de oito horas diárias e 44 semanais, com redução por acordo ou convenção coletiva; alterar o limite para 30 horas depende de PEC (308 votos na Câmara e 49 no Senado, em dois turnos) e o UP não tem cadeiras nas duas Casas. As fontes consultadas não indicam regra de transição para quem já trabalha nessa escala.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-sm-14"
+                  },
+                  {
+                    "id": "src-sm-10"
+                  }
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Auxílio de um salário mínimo por pessoa sem vaga sem custo estimado, no mesmo programa que suspende o serviço da dívida",
+                "detail": "O programa garante emprego a toda pessoa apta e pagamento de auxílio equivalente a um salário mínimo até que haja vaga, sem estimativa de custo nas fontes consultadas, e prevê suspender juros e amortizações da dívida pública até auditoria, com os recursos redirecionados a políticas sociais. As fontes não trazem o número de pessoas sem vaga nem o impacto fiscal das medidas.",
+                "sources": [
+                  {
+                    "id": "src-sm-14"
+                  },
+                  {
+                    "id": "src-sm-15"
+                  },
+                  {
+                    "id": "src-sm-10"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo anual do auxílio de um salário mínimo por pessoa sem vaga?"
+              },
+              {
+                "question": "Como seria feita a transição dos contratos atuais na escala 6x1?"
+              },
+              {
+                "question": "Qual o impacto fiscal projetado do reajuste de 100% do salário mínimo?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública de custeio: nas fontes consultadas não há estimativa para o auxílio de um salário mínimo por pessoa sem vaga nem para o efeito fiscal do reajuste de 100%.",
+            "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "samara-martins-prop-3",
+          "title": "Desmilitarização das polícias estaduais",
+          "reality": {
+            "proposal": "Desmilitarizar as polícias estaduais e acabar com a Polícia Militar na forma atual",
+            "requirement": {
+              "kind": "pec",
+              "label": "PEC federal e alterações nas constituições dos estados e do Distrito Federal",
+              "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa; nas unidades, a mudança alcança as constituições estaduais.",
+              "note": "Polícias militares e corpos de bombeiros militares são forças estaduais, auxiliares e reserva do Exército (CF, art. 144, §5º), sob comando dos governadores."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em segurança pública: nunca exerceu mandato nem cargo de nomeação; marcos são a direção do UP, a militância sindical e a campanha.",
+              "aligned": "Apresentação da desmilitarização e da reorganização da segurança com participação popular no programa registrado.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Desmilitarização depende de PEC e das 27 unidades federativas",
+                "detail": "O art. 144 da Constituição define as polícias militares como forças estaduais, auxiliares e reserva do Exército, sob comando dos governadores; alterar esse desenho exige PEC no Congresso e mudanças nas constituições estaduais, com impacto nas carreiras de policiais e bombeiros. O programa registrado não informa prazo, custo nem regra de transição.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-14"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o modelo de polícia previsto (civil, municipal, comunitária) no lugar da PM?"
+              },
+              {
+                "question": "Como se daria a transição de carreira de policiais e bombeiros militares?"
+              },
+              {
+                "question": "Qual o custo estimado da reestruturação e quem financiaria a mudança?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública com o modelo de polícia previsto nem com a regra de transição das carreiras militares.",
+            "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "samara-martins-prop-4",
+          "title": "Fim do vestibular e revogação do Novo Ensino Médio",
+          "reality": {
+            "proposal": "Acabar com o vestibular e outros processos seletivos no ingresso em universidades e cursos técnicos públicos, revogando o Novo Ensino Médio",
+            "requirement": {
+              "kind": "lei-ordinaria",
+              "label": "Lei de diretrizes e bases da educação, com autonomia das universidades",
+              "quorum": "Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "Universidades federais têm autonomia didático-científica, administrativa e de gestão financeira (CF, art. 207) e definem seus processos seletivos; a maior parte das matrículas do ensino médio está nas redes estaduais."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita (2020 e 2022) nem ocupou cargo de nomeação; o histórico vem da direção do UP, da militância e do SUS.",
+              "aligned": "O programa do UP de 2022 já trazia educação pública gratuita como eixo; a revogação do Novo Ensino Médio consta do programa registrado em 2026.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fim do vestibular alcança universidades com autonomia e redes estaduais",
+                "detail": "O ingresso em universidades federais é definido por cada instituição, com autonomia prevista no art. 207 da Constituição, e o acesso às vagas federais também passa por sistema nacional de seleção; universidades estaduais e municipais dependem dos respectivos entes. O documento registrado não indica o mecanismo que substituiria o vestibular nem o prazo de transição.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-sm-14"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual seria o mecanismo de ingresso no lugar do vestibular e como a demanda seria ordenada?"
+              },
+              {
+                "question": "Como a mudança alcançaria universidades estaduais, municipais e privadas?"
+              },
+              {
+                "question": "Como se daria a revogação do Novo Ensino Médio junto às redes estaduais?"
+              }
+            ],
+            "publicExplanation": "A campanha declarou que o primeiro documento enviado ao TSE foi protocolado 'pela exigência legal' enquanto o programa definitivo estava em revisão, e que a versão ampliada foi anexada após a repercussão.",
+            "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "samara-martins-prop-5",
+          "title": "Fortalecimento do SUS e uso do serviço por políticos",
+          "reality": {
+            "proposal": "Ampliar o SUS e exigir que todos os políticos, de vereador a presidente, usem o serviço público de saúde",
+            "requirement": {
+              "kind": "depende-de-municipios",
+              "label": "Políticas de saúde e habitação e regras de uso do serviço por agentes públicos",
+              "quorum": "Não se aplica ao uso do serviço; leis de saúde, habitação e penal seguem maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "O SUS é gerido de forma compartilhada entre União, estados e municípios; exigir o uso do serviço por agentes políticos alcança carreiras e entes distintos, cada um com regras próprias de assistência à saúde."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita nem ocupou cargo de nomeação; marcos são a direção do UP, a militância e o trabalho profissional no SUS.",
+              "aligned": "Atua como cirurgiã-dentista da Estratégia Saúde da Família no SUS (RN) e defendeu em agosto de 2026 que agentes políticos usem o serviço público.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Uso obrigatório do SUS por políticos alcança carreiras e entes distintos",
+                "detail": "Planos e serviços de saúde de agentes públicos são organizados por cada ente e carreira (federal, estadual e municipal), e o atendimento do SUS é gerido de forma compartilhada; o documento registrado não detalha instrumento, prazo nem sanção para a exigência, segundo as fontes consultadas.",
+                "sources": [
+                  {
+                    "id": "src-sm-07"
+                  },
+                  {
+                    "id": "src-sm-14"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o instrumento para tornar obrigatório o uso do SUS por agentes políticos?"
+              },
+              {
+                "question": "A exigência alcançaria servidores e dependentes ou apenas ocupantes de mandato?"
+              },
+              {
+                "question": "Qual o investimento adicional previsto para ampliar a rede pública de saúde?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública sobre como a exigência de uso do SUS por agentes políticos seria implementada e fiscalizada.",
+            "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "samara-martins-prop-6",
+          "title": "Reforma agrária, controle de preços e estatização dos transportes",
+          "reality": {
+            "proposal": "Fazer a reforma agrária popular, controlar estatalmente os preços dos alimentos e estatizar os transportes coletivos",
+            "requirement": {
+              "kind": "misto",
+              "label": "Lei (reforma agrária e controle de preços), emenda constitucional e contratos de reestatização",
+              "quorum": "PEC: 308 deputados e 49 senadores, em dois turnos em cada Casa. Lei ordinária: maioria dos votos presentes, observado o quórum de deliberação.",
+              "note": "A desapropriação para reforma agrária é feita pela União por interesse social, com prévia e justa indenização em títulos (CF, art. 184); ônibus, metrôs e trens são operados por municípios e estados, com contratos de concessão em vigor."
+            },
+            "history": {
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca foi eleita nem ocupou cargo de nomeação; o histórico vem da direção do UP, da militância em moradia e da campanha.",
+              "aligned": "Declaração pública de agosto de 2026 de que 'falar de soberania e não fazer reforma agrária não faz sentido', em linha com o eixo agrário do programa.",
+              "different": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+            },
+            "support": {
+              "partySeats": {
+                "camara": 0,
+                "senado": 0
+              },
+              "coalition": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação.",
+              "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); R$ 0 de Fundo Partidário e de Fundo Eleitoral em 2026 por não atingir a cláusula de desempenho, com R$ 21.746,41 repassados a um candidato até 25/08/2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Controle estatal de preços e estatização de transportes dependem de leis, de indenizações e de contratos vigentes",
+                "detail": "O transporte coletivo é operado por concessionárias municipais e estaduais, com contratos em vigor, e a reestatização depende de decisão de cada ente e de indenização; o controle de preços dos alimentos e a nacionalização da terra dependem de lei e de emenda constitucional. As fontes consultadas não trazem custo de indenização nem cronograma.",
+                "sources": [
+                  {
+                    "id": "src-sm-06"
+                  },
+                  {
+                    "id": "src-sm-10"
+                  },
+                  {
+                    "id": "src-re-r2propostas-03"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo das indenizações e quantos imóveis rurais seriam alcançados pela reforma agrária?"
+              },
+              {
+                "question": "Como funcionaria o controle estatal de preços dos alimentos (tabelamento, estoques públicos)?"
+              },
+              {
+                "question": "Como se daria a reestatização dos transportes com contratos de concessão vigentes?"
+              }
+            ],
+            "publicExplanation": "Não foi localizada explicação pública sobre custo de indenizações, desenho do controle de preços ou cronograma da reestatização dos transportes.",
+            "methodology": "Análise do programa registrado no TSE (16 propostas e texto ampliado), da cobertura de 2026 e de atos de partido, sindicato e campanha. Samara Martins nunca exerceu mandato nem cargo executivo, inclusive federal: o histórico comparável vem da direção nacional do UP, da militância e do trabalho como cirurgiã-dentista do SUS. Ficou de fora a leitura direta do arquivo no TSE (bloqueio).",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "Avalanche: as propostas la-prop-3, la-prop-4 e la-prop-5 (IPVA fixo, cursos com doação de aparelhos e Sistema Único Nacional de Segurança) descrevem itens do programa registrado e da cobertura da Agência Brasil (18/09/2026) que não constavam do campo de propostas-chave do JSON principal, que trazia duas propostas.",
+    "Avalanche, Clariana e Samara: números de bancada, de dirigentes municipais e de recursos partidários usam dados de 2024-2026 (TSE e verbetes), e a ausência de cota do Fundo Partidário em 2025 vem de nota oficial de janeiro de 2026; não houve consulta às prestações de contas de 2026, ainda em curso.",
+    "Renan Santos: a obra integral (Livro Amarelo) e o inteiro teor do RRC não foram analisados item a item; as propostas analisadas vêm do resumo executivo registrado no TSE e da imprensa de 2026.",
+    "Augusto Cury: o documento registrado não individualiza propostas em itens; as seis analisadas são as detalhadas nas fontes de 2026, e não houve acesso ao texto das 200 páginas.",
+    "Clariana Barão: a página de propostas do TSE bloqueia leitura automatizada e o plano registrado não numera propostas; a contagem de promessas e ações por eixo vem de dossiê de terceiro (Plano Aberto), conferido apenas na fonte primária das propostas analisadas.",
+    "Samara Martins: o arquivo oficial do plano no TSE não foi lido diretamente (bloqueio) e há divergência documentada sobre qual versão é a vigente (16 propostas, 67 páginas ou registro de 2022); as análises usam espelho da campanha, imprensa e o documento registrado.",
+    "Tensões: os dispositivos constitucionais citados (arts. 7º, XIII; 18, §4º; 136; 144; 155, III; 184; 192; 207) foram conferidos no texto compilado; não houve consulta a pareceres, notas técnicas do Legislativo ou projeções de custo para cada proposta."
+  ]
+}

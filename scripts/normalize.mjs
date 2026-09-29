@@ -185,6 +185,7 @@ const mapCapacities = (list, slug, fallbackDate) =>
         coverage,
         coverageNote: c.coverageNote ?? undefined,
         evidences,
+        reality: mapReality(c.reality),
         updatedAt: c.updatedAt ?? fallbackDate,
       };
     });
@@ -198,6 +199,7 @@ const mapCountryProject = (p, fallbackDate) =>
           ? p.nationalPriorities.filter((x) => typeof x === "string").slice(0, 8)
           : [],
         developmentModel: textField(p.developmentModel),
+        reality: mapReality(p.reality),
         sources: p.sources ?? [],
         evidenceStatus: pick(EV, p.evidenceStatus, (p.sources ?? []).length ? "parcial" : "indeterminado"),
         confidenceLevel: pick(CF, p.confidenceLevel, (p.sources ?? []).length ? "medium" : "low"),
@@ -216,6 +218,7 @@ const mapForeignPolicy = (p, fallbackDate) =>
         projectionNote:
           textField(p.projectionNote) ||
           "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        reality: mapReality(p.reality),
         sources: p.sources ?? [],
         evidenceStatus: pick(EV, p.evidenceStatus, (p.sources ?? []).length ? "parcial" : "indeterminado"),
         confidenceLevel: pick(CF, p.confidenceLevel, (p.sources ?? []).length ? "medium" : "low"),
@@ -240,6 +243,121 @@ const mapCoherence = (list) =>
       evidenceStatus: pick(EV, c.evidenceStatus, "parcial"),
       confidenceLevel: pick(CF, c.confidenceLevel, "low"),
     }));
+
+// ─── V4: camada analítica — teste de realidade ──────────────────────────────
+const PATHS = new Set([
+  "ato-executivo", "lei-ordinaria", "lei-complementar", "pec", "depende-estados",
+  "depende-municipios", "depende-privado", "negociacao-internacional", "indefinido",
+]);
+const TENSION_KINDS = new Set([
+  "mudanca-de-posicao", "acao-em-sentido-diferente", "proposta-sem-precedente",
+  "proposta-x-restricao-institucional", "proposta-x-outra-proposta",
+]);
+const THEME_CATALOG = [
+  ["economia", "Economia"],
+  ["seguranca", "Segurança pública"],
+  ["saude", "Saúde"],
+  ["educacao", "Educação"],
+  ["clima", "Clima e meio ambiente"],
+  ["trabalho", "Trabalho e renda"],
+  ["tributacao", "Tributação"],
+  ["previdencia", "Previdência"],
+  ["habitacao", "Habitação"],
+  ["instituicoes", "Instituições"],
+];
+const THEME_SOURCE = new Set(["candidato", "partido", "ausente"]);
+const strList = (v) => (Array.isArray(v) ? v.filter((x) => typeof x === "string") : []);
+/** Histórico aceita linha simples ou fato datado com fontes próprias. */
+const mapHistory = (v) =>
+  (Array.isArray(v) ? v : [])
+    .map((item) => {
+      if (typeof item === "string") return item;
+      if (item && typeof item === "object" && typeof item.fact === "string") {
+        return { date: item.date ?? undefined, fact: item.fact, sources: item.sources ?? [] };
+      }
+      return null;
+    })
+    .filter(Boolean);
+
+/** Teste de realidade: nunca inventa campo, descarta o que estiver fora do domínio. */
+const mapReality = (rc) => {
+  if (!rc || typeof rc !== "object") return undefined;
+  const proposal = textField(rc.proposal);
+  if (!proposal) return undefined;
+  const req = rc.requirement && typeof rc.requirement === "object" ? rc.requirement : null;
+  const requirement = req && PATHS.has(req.path)
+    ? {
+        path: req.path,
+        quorum: req.quorum ?? undefined,
+        note: req.note ?? undefined,
+      }
+    : undefined;
+  const hist = rc.history && typeof rc.history === "object" ? rc.history : null;
+  const history = hist
+    ? {
+        aligned: mapHistory(hist.aligned),
+        divergent: mapHistory(hist.divergent),
+        noComparablePrecedent: hist.noComparablePrecedent ?? undefined,
+      }
+    : undefined;
+  const sup = rc.support && typeof rc.support === "object" ? rc.support : null;
+  const support = sup
+    ? {
+        partySeats: sup.partySeats ?? undefined,
+        coalitionSeats: sup.coalitionSeats ?? undefined,
+        federations: sup.federations ?? undefined,
+        documentedAgreements: Number(sup.documentedAgreements ?? 0),
+        note: sup.note ?? "Retrato atual, não previsão do próximo Congresso.",
+      }
+    : undefined;
+  const tensions = (rc.tensions ?? [])
+    .filter((t) => t && TENSION_KINDS.has(t.kind) && (t.title ?? "").trim())
+    .map((t) => ({
+      kind: t.kind,
+      title: t.title,
+      detail: textField(t.detail),
+      sources: t.sources ?? [],
+      evidenceStatus: pick(EV, t.evidenceStatus, "parcial"),
+      confidenceLevel: pick(CF, t.confidenceLevel, "low"),
+    }));
+  const openQuestions = (rc.openQuestions ?? [])
+    .filter((q) => q && typeof q.question === "string" && q.question.trim().endsWith("?"))
+    .map((q) => ({ question: q.question.trim(), why: textField(q.why) }));
+  return {
+    proposal,
+    requirement,
+    history,
+    support,
+    tensions,
+    openQuestions,
+    publicExplanation: rc.publicExplanation ?? undefined,
+    methodology: textField(rc.methodology),
+    evidenceStatus: pick(EV, rc.evidenceStatus, "parcial"),
+    confidenceLevel: pick(CF, rc.confidenceLevel, "low"),
+  };
+};
+
+/** Seção 07: 10 temas fixos, na ordem canônica; tema sem nada é descartado. */
+const mapThemes = (list) => {
+  const byslug = new Map((list ?? []).map((t) => [t?.slug, t]));
+  return THEME_CATALOG.flatMap(([slug, name]) => {
+    const t = byslug.get(slug);
+    if (!t) return [];
+    const position = textField(t.position);
+    if (!position) return [];
+    return [
+      {
+        slug,
+        name,
+        kind: pick(CLAIM, t.kind, "proposta"),
+        position,
+        sourceKind: THEME_SOURCE.has(t.sourceKind) ? t.sourceKind : "ausente",
+        sources: t.sources ?? [],
+        reality: mapReality(t.reality),
+      },
+    ];
+  });
+};
 
 const files = existsSync(researchDir)
   ? readdirSync(researchDir).filter(
@@ -316,6 +434,7 @@ for (const f of files) {
             ? [String(p.identifiedRisks)]
             : undefined,
           methodologyStatus: pick(EV, p.methodologyStatus, "indeterminado"),
+          reality: mapReality(p.reality),
           sources: p.sources ?? [],
         })),
         sources: gp.sources ?? [],
@@ -370,6 +489,7 @@ for (const f of files) {
     capacities: mapCapacities(d.capacities, slug, d.updatedAt ?? today),
     foreignPolicy: mapForeignPolicy(d.foreignPolicy, d.updatedAt ?? today),
     coherence: mapCoherence(d.coherence),
+    themes: mapThemes(d.themes),
     metrics,
     sources: (d.sources ?? []).map(coerceSource),
     updatedAt: d.updatedAt ?? new Date().toISOString().slice(0, 10),
