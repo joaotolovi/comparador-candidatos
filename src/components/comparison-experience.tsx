@@ -24,6 +24,7 @@ import { CountryProjectSection } from "@/components/country-project-section";
 import { CapacitiesSection } from "@/components/capacities-section";
 import { ViabilitySection } from "@/components/viability-section";
 import { ThemeSection } from "@/components/theme-section";
+import { ProposalsSection } from "@/components/proposals-section";
 import { ForeignPolicySection } from "@/components/foreign-policy-section";
 import { CoherenceSection } from "@/components/coherence-section";
 import { IntegritySection } from "@/components/integrity-section";
@@ -83,18 +84,34 @@ export function ComparisonExperience({
         return <CountryProjectSection candidates={candidates} />;
       case "caminho":
         return (
-          <MetricsBlock
-            id="s-caminho-plano"
-            index=""
-            title="Estrutura das propostas"
-            question=""
-            rows={secRows}
-            candidates={candLite}
-            highlightDifferences={highlight}
-            onlyDifferences={only}
-            bare
-            subtitle="O que o plano informa por proposta"
-          />
+          <div className="flex flex-col gap-8">
+            <MetricsBlock
+              id="s-caminho-plano"
+              index=""
+              title="Estrutura das propostas"
+              question=""
+              rows={secRows}
+              candidates={candLite}
+              highlightDifferences={highlight}
+              onlyDifferences={only}
+              bare
+              subtitle="O que o plano informa por proposta"
+            />
+            <div className="flex flex-col gap-3 border-t border-border pt-6">
+              <div className="flex flex-col gap-0.5">
+                <h3 className="text-base font-semibold leading-snug">
+                  Propostas-chave, com teste de realidade
+                </h3>
+                <p className="max-w-2xl text-xs leading-relaxed text-muted-foreground">
+                  Cada proposta declarada confrontada com histórico, instrumento
+                  legal necessário, sustentação observável e o que os documentos
+                  não esclarecem. A lista descreve o que existe — não é nota de
+                  viabilidade nem conclusão sobre o que vai acontecer.
+                </p>
+              </div>
+              <ProposalsSection candidates={candidates} />
+            </div>
+          </div>
         );
       case "viabilidade":
         return (

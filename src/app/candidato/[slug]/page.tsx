@@ -11,6 +11,7 @@ import { ProportionalBar } from "@/components/proportional-bar";
 import { CountryProjectSection } from "@/components/country-project-section";
 import { CapacitiesSection } from "@/components/capacities-section";
 import { ViabilitySection } from "@/components/viability-section";
+import { ProposalsSection } from "@/components/proposals-section";
 import { ThemeSection } from "@/components/theme-section";
 import { ForeignPolicySection } from "@/components/foreign-policy-section";
 import { CoherenceSection } from "@/components/coherence-section";
@@ -407,19 +408,19 @@ export default async function CandidatePage({ params }: Props) {
                   />
                 ))}
               </div>
-              <ul className="flex flex-col divide-y divide-border/70 rounded-md border border-border">
-                {plan.proposals.slice(0, 12).map((p) => (
-                  <li key={p.id} className="flex flex-col gap-1.5 p-4">
-                    <span className="text-xs font-medium text-muted-foreground">
-                      {p.theme}
-                    </span>
-                    <span className="text-sm font-semibold">{p.title}</span>
-                    <p className="max-w-2xl text-sm leading-relaxed text-foreground/80">
-                      {p.description}
-                    </p>
-                  </li>
-                ))}
-              </ul>
+              <div className="flex flex-col gap-3">
+                <div className="flex flex-col gap-0.5">
+                  <h3 className="text-base font-semibold leading-snug">
+                    Propostas-chave, com teste de realidade
+                  </h3>
+                  <p className="max-w-2xl text-xs leading-relaxed text-muted-foreground">
+                    Cada proposta confrontada com histórico, instrumento legal
+                    necessário, sustentação observável e o que os documentos não
+                    esclarecem. Quem conclui é quem lê.
+                  </p>
+                </div>
+                <ProposalsSection candidates={[candidate]} hideTag />
+              </div>
             </>
           )}
         </section>
