@@ -1582,11 +1582,11 @@
       "unit": "leis",
       "value": 4,
       "displayValue": "4 leis de autoria (2 na Câmara; 2 no Senado)",
-      "context": "Câmara: PL 5498/2009 e PL 742/2011 (transformados em norma jurídica). Senado: PLS 209/2015 (Lei 14.052/2020) e PLS 206/2017 (Lei 13.487/2017).",
+      "context": "Câmara: PL 5498/2009 e PL 742/2011 (transformados em norma jurídica). Senado: PLS 209/2015 (Lei 14.052/2020) e PLS 206/2017 (Lei 13.487/2017). Excluídos por tipo: PLV 33/2002 (conversão) e PRC 189/2005 (resolução — CPI).",
       "availability": "available",
       "evidenceStatus": "parcial",
       "confidenceLevel": "medium",
-      "methodology": "Contagem em fontes primárias: API de Dados Abertos da Câmara (42 PLs de autoria, 2 com situação 'Transformado em Norma Jurídica') e fichas de matéria do Senado (2 projetos com norma gerada). Contagem aproximada e piso: mandatos de 1987–1995 não são cobertos pela base digital consultada.",
+      "methodology": "Contagem em fontes primárias: API de Dados Abertos da Câmara (varredura de 4.940 proposições de autoria do deputado 74813; filtro por projetos de lei) — 2 PLs com situação 'Transformado em Norma Jurídica' (PL 5498/2009 e PL 742/2011) — e fichas de matéria do Senado (PLS 209/2015 → Lei 14.052/2020; PLS 206/2017 → Lei 13.487/2017). Não entram na contagem outras proposições de autoria convertidas em norma jurídica que não são projetos de lei: PLV 33/2002 (projeto de lei de conversão) e PRC 189/2005 (projeto de resolução que criou a CPI do tráfico de armas). Contagem aproximada e piso: mandatos de 1987–1995 não são cobertos pela base digital consultada.",
       "sources": [
         {
           "id": "src-cg-50",
