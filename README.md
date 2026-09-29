@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Comparador de Candidatos — Eleição 2026
 
-## Getting Started
+Comparador editorial de candidaturas à Presidência da República do Brasil
+(Eleição 2026, 1º turno em 4 de outubro): currículo, experiência, plano de
+governo e histórico público lado a lado, no modelo de comparadores de
+produtos — cada afirmação com fonte, metodologia e status de evidência.
 
-First, run the development server:
+## Stack
+- Next.js 16 (App Router) + TypeScript
+- Tailwind CSS 4 + shadcn/ui (Radix)
+- Tipografia: Archivo variable (eixo de largura como hierarquia)
+- Dados: `src/data/candidates.ts` gerado por `scripts/normalize.mjs` a
+  partir de `research/*.json` (pesquisa estruturada com fontes).
 
+## Princípios editoriais (não negociáveis)
+- Os mesmos critérios para todos os candidatos.
+- Diferenças objetivas são mostradas com assertividade; nenhuma métrica é
+  transformada automaticamente em "melhor/pior" ou recomendação de voto.
+- Ausência de informação não é zero: `not_found` / `not_informed` /
+  `not_applicable` / `under_analysis` são estados visuais distintos.
+- Integridade: categoria jurídica exata de cada registro (denúncia ≠
+  processo ≠ condenação ≠ condenação definitiva), com absolvições e
+  arquivamentos no mesmo destaque.
+- Toda afirmação relevante tem fonte clicável e data.
+
+## Desenvolvimento
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run dev        # http://localhost:3000
+npm run build      # build de produção
+node scripts/normalize.mjs   # regenera o dataset a partir de research/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Deploy
+Docker Compose atrás do Traefik (rede `traefik_public`), host
+`candidato.joaotolovi.com`:
+```bash
+docker build -t comparador-candidatos:latest .
+docker stack deploy -c docker-compose.yml comparador
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Rotas
+- `/` — seleção de candidatos (até 3 simultâneos)
+- `/comparar?c=slug,slug[,slug]` — comparação lado a lado (deep-linkável)
+- `/candidato/[slug]` — perfil completo com timeline e plano
+- `/metodologia` — definições, fórmulas e estados de evidência
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Fontes de dados
+Prioridade a documentação primária: TSE, Câmara, Senado, Executivo
+federal, Diários Oficiais, portais de transparência, tribunais, tribunais
+de contas, órgãos estatísticos, governos estaduais e prefeituras.
+Fontes jornalísticas apenas como contexto complementar, identificadas.

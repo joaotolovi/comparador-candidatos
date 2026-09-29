@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  comparador:
+    image: comparador-candidatos:latest
+    build: .
+    environment:
+      - NODE_ENV=production
+    networks:
+      - traefik_public
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: any
+      labels:
+        - "traefik.enable=true"
+        - "traefik.http.routers.comparador.rule=Host(`candidato.joaotolovi.com`)"
+        - "traefik.http.routers.comparador.entrypoints=websecure"
+        - "traefik.http.routers.comparador.tls.certresolver=le"
+        - "traefik.http.services.comparador.loadbalancer.server.port=3000"
+        - "traefik.http.routers.comparador.middlewares=comp-headers"
+        - "traefik.http.middlewares.comp-headers.headers.browserXssFilter=true"
+        - "traefik.http.middlewares.comp-headers.headers.contentTypeNosniff=true"
+        - "traefik.http.middlewares.comp-headers.headers.frameDeny=true"
+
+networks:
+  traefik_public:
+    external: true

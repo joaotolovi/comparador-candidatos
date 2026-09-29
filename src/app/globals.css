@@ -1,26 +1,191 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@custom-variant dark (&:is(.dark *));
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-sans);
+  --font-heading: var(--font-sans);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  /* ── Slots de identidade: cor = candidato, nunca julgamento ── */
+  --color-slot-a: var(--slot-a);
+  --color-slot-b: var(--slot-b);
+  --color-slot-c: var(--slot-c);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+:root {
+  /* Mundo "ficha técnica": papel quase-branco, tinta, fios finos */
+  --background: #fbfbf9;
+  --foreground: #17191c;
+  --card: #ffffff;
+  --card-foreground: #17191c;
+  --popover: #ffffff;
+  --popover-foreground: #17191c;
+  --primary: #17191c;
+  --primary-foreground: #fbfbf9;
+  --secondary: #f1f1ee;
+  --secondary-foreground: #2a2d31;
+  --muted: #f2f2ef;
+  --muted-foreground: #5c6065;
+  --accent: #ecece8;
+  --accent-foreground: #17191c;
+  --destructive: #a8321f;
+  --border: #e3e3df;
+  --input: #d6d6d1;
+  --ring: #43474c;
+  --chart-1: #0e7177;
+  --chart-2: #a65b14;
+  --chart-3: #6b4e9b;
+  --chart-4: #5c6065;
+  --chart-5: #17191c;
+  /* Identidade de candidato — mesmo peso, mesmo croma, matizes distintos */
+  --slot-a: #0e7177;
+  --slot-b: #a65b14;
+  --slot-c: #6b4e9b;
+  --radius: 0.375rem;
+  --sidebar: #fbfbf9;
+  --sidebar-foreground: #17191c;
+  --sidebar-primary: #17191c;
+  --sidebar-primary-foreground: #fbfbf9;
+  --sidebar-accent: #f1f1ee;
+  --sidebar-accent-foreground: #17191c;
+  --sidebar-border: #e3e3df;
+  --sidebar-ring: #43474c;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+    font-variant-numeric: normal;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  /* Foco visível sempre, para teclado */
+  *:focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+
+  /* Superfícies do navegador pertencem ao design (craft-floor) */
+  ::selection {
+    background: #17191c;
+    color: #fbfbf9;
+  }
+  ::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--background);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #cfcfca;
+    border: 3px solid var(--background);
+    border-radius: 8px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b4b4ae;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer utilities {
+  /* Números da ficha técnica: colunas alinháveis */
+  .tabular {
+    font-variant-numeric: tabular-nums lining-nums;
+  }
+  /* Archivo variável — eixo de largura usado como sistema tipográfico */
+  .stretch-expanded {
+    font-stretch: 118%;
+  }
+  .stretch-condensed {
+    font-stretch: 85%;
+  }
+  /* Escada tipográfica com passos óbvios */
+  .display-1 {
+    font-size: clamp(2.75rem, 7vw, 5.25rem);
+    line-height: 0.96;
+    letter-spacing: -0.03em;
+    font-weight: 700;
+    font-stretch: 115%;
+  }
+  .display-2 {
+    font-size: clamp(1.75rem, 3.4vw, 2.5rem);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    font-weight: 650;
+  }
+  .num-hero {
+    font-size: clamp(2rem, 4.5vw, 3.25rem);
+    line-height: 1;
+    letter-spacing: -0.03em;
+    font-weight: 700;
+    font-stretch: 112%;
+    font-variant-numeric: tabular-nums lining-nums;
+  }
+  .measure {
+    max-width: 70ch;
+  }
+  /* Etiqueta de campo de ficha técnica (sentence case, sem tracking) */
+  .label-field {
+    font-size: 0.8125rem;
+    line-height: 1.3;
+    font-weight: 550;
+    color: var(--muted-foreground);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
