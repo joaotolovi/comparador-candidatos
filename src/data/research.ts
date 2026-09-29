@@ -1,6 +1,6 @@
 // ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
 // 13 candidato(s) com pesquisa profunda; os demais ficam só no seed.
-// Gerado em: 2026-09-29T18:23:15.791Z
+// Gerado em: 2026-09-29T18:28:10.850Z
 import type { Candidate } from "@/types";
 
 export const researched: Partial<Candidate>[] = [
@@ -3980,24 +3980,6 @@ export const researched: Partial<Candidate>[] = [
         "dataPresentation": "notes_only"
       },
       {
-        "id": "projetos_lei_aprovados",
-        "category": "historico-experiencia",
-        "name": "Leis aprovadas como autor principal",
-        "displayValue": "—",
-        "value": null,
-        "unit": "leis",
-        "metricType": "number",
-        "directionality": "higher_is_descriptively_more",
-        "methodology": "Métrica adicionada em 29/09/2026; coleta de fontes em andamento nesta rodada.",
-        "evidenceStatus": "indeterminado",
-        "confidenceLevel": "low",
-        "availability": "not_found",
-        "sources": [],
-        "updatedAt": "2026-09-29",
-        "context": "Dado em levantamento em 29/09/2026 (enriquecimento em andamento) — será publicado na próxima atualização.",
-        "dataPresentation": "notes_only"
-      },
-      {
         "id": "capacidade_dialogo",
         "category": "articulacao",
         "name": "Capacidade de diálogo",
@@ -4189,6 +4171,55 @@ export const researched: Partial<Candidate>[] = [
         ],
         "updatedAt": "2026-09-29",
         "context": "Não há coligação formal registrada: a chapa é do PSD isolado, com Kassab como vice. Apoios informais de outras legendas e acordos estaduais (por exemplo, o apoio do PSD-MG) não integram a coligação presidencial e por isso não elevam o número.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "projetos_lei_aprovados",
+        "name": "Leis aprovadas como autor principal",
+        "category": "historico-experiencia",
+        "metricType": "number",
+        "unit": "leis",
+        "value": 4,
+        "displayValue": "4 leis de autoria (2 na Câmara; 2 no Senado)",
+        "context": "Câmara: PL 5498/2009 e PL 742/2011 (transformados em norma jurídica). Senado: PLS 209/2015 (Lei 14.052/2020) e PLS 206/2017 (Lei 13.487/2017).",
+        "availability": "available",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Contagem em fontes primárias: API de Dados Abertos da Câmara (42 PLs de autoria, 2 com situação 'Transformado em Norma Jurídica') e fichas de matéria do Senado (2 projetos com norma gerada). Contagem aproximada e piso: mandatos de 1987–1995 não são cobertos pela base digital consultada.",
+        "sources": [
+          {
+            "id": "src-cg-50",
+            "title": "API de Dados Abertos — proposições de autoria do deputado Ronaldo Caiado (id 74813)",
+            "publisher": "Câmara dos Deputados",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=74813&siglaTipo=PL&itens=200",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "42 PLs de autoria (1999–2015); consulta individual de situação: 2 com 'Transformado em Norma Jurídica' (PL 5498/2009 e PL 742/2011); 32 arquivadas."
+          },
+          {
+            "id": "src-cg-51",
+            "title": "PLS 209/2015 — Autoria: Senador Ronaldo Caiado; norma gerada: Lei 14.052/2020",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/129782",
+            "publishedAt": "2017",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ficha da matéria com norma gerada."
+          },
+          {
+            "id": "src-cg-52",
+            "title": "PLS 206/2017 — Autoria: Senador Ronaldo Caiado; norma gerada: Lei 13.487/2017",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/129782",
+            "publishedAt": "2017",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "PLS 206/2017 converteu-se na Lei 13.487/2017 (registro na busca do Senado)."
+          }
+        ],
+        "directionality": "neutral",
+        "updatedAt": "2026-09-29",
         "dataPresentation": "notes_only"
       }
     ],
@@ -4599,6 +4630,36 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "legislativo",
         "notes": "Consulta direta à API oficial em 29/09/2026 (rodada do comparador): varredura das proposições dos anos 1991–2015 associadas ao nome 'Ronaldo Caiado', com verificação do campo de autoria (/proposicoes/{id}/autores) e da situação final (/proposicoes/{id} → statusProposicao.descricaoSituacao). Id de deputado na base: 74813."
+      },
+      {
+        "id": "src-cg-50",
+        "title": "API de Dados Abertos — proposições de autoria do deputado Ronaldo Caiado (id 74813)",
+        "publisher": "Câmara dos Deputados",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=74813&siglaTipo=PL&itens=200",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "42 PLs de autoria (1999–2015); consulta individual de situação: 2 com 'Transformado em Norma Jurídica' (PL 5498/2009 e PL 742/2011); 32 arquivadas."
+      },
+      {
+        "id": "src-cg-51",
+        "title": "PLS 209/2015 — Autoria: Senador Ronaldo Caiado; norma gerada: Lei 14.052/2020",
+        "publisher": "Senado Federal",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/129782",
+        "publishedAt": "2017",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ficha da matéria com norma gerada."
+      },
+      {
+        "id": "src-cg-52",
+        "title": "PLS 206/2017 — Autoria: Senador Ronaldo Caiado; norma gerada: Lei 13.487/2017",
+        "publisher": "Senado Federal",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/129782",
+        "publishedAt": "2017",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "PLS 206/2017 converteu-se na Lei 13.487/2017 (registro na busca do Senado)."
       }
     ],
     "updatedAt": "2026-09-29"

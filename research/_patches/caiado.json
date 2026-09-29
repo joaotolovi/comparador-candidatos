@@ -466,7 +466,45 @@
       ],
       "updatedAt": "2026-09-29",
       "context": "Não há coligação formal registrada: a chapa é do PSD isolado, com Kassab como vice. Apoios informais de outras legendas e acordos estaduais (por exemplo, o apoio do PSD-MG) não integram a coligação presidencial e por isso não elevam o número."
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "4 proposições transformadas em norma jurídica com o candidato na autoria (Câmara, 1991–2015) — 1 delas como autor único",
+      "value": 4,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem na API de Dados Abertos da Câmara dos Deputados (consulta de 29/09/2026): das proposições dos anos 1991–2015 associadas ao nome do candidato (4.940 registros varridos), 1.751 têm 'Ronaldo Caiado' no campo de autoria (endpoint /proposicoes/{id}/autores) e, dessas, 4 constam com situação final 'Transformado em Norma Jurídica': PLV 33/2002 (autoria única — proponente principal), PRC 189/2005 (CPI do tráfico de armas; 336 coautores), PL 5498/2009 (Lei dos Partidos Políticos; 15 coautores) e PL 742/2011 (alteração da CLT; 9 coautores). Nenhuma falha de consulta nas duas varreduras (0 erros). Limitações declaradas: (a) a API não expõe filtro confiável por autor (idAutor/idAutorParlamentar retornam vazio), então a varredura usou o parâmetro por nome com verificação item a item da autoria; (b) a produção legislativa do Senado (2015–2019) não foi computada — a API de dados abertos do Senado retornou 404 para as matérias do parlamentar 456 e a página 'matérias apresentadas' está fora do ar; (c) a contagem inclui leis, decretos legislativos e resoluções. O número é um piso: estimativa aproximada por baixo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-48",
+          "title": "API de Dados Abertos da Câmara dos Deputados — proposições e autoria (autor 'Ronaldo Caiado', 1991–2015)",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?autor=RONALDO%20CAIADO&ano=2011&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada do comparador): varredura das proposições dos anos 1991–2015 associadas ao nome 'Ronaldo Caiado', com verificação do campo de autoria (/proposicoes/{id}/autores) e da situação final (/proposicoes/{id} → statusProposicao.descricaoSituacao). Id de deputado na base: 74813."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O candidato exerceu cinco mandatos de deputado federal (1991–1995 e 1999–2015) e um de senador (2015–2019); esta contagem cobre apenas a Câmara. Números de apoio: 42 PLs, 76 PECs e 4 PLPs de autoria no período, a maioria de emendas (EMC) e requerimentos (REQ)."
     }
   ],
-  "dataGaps": []
+  "dataGaps": [
+    "Leis de autoria no Senado (2015–2019) não computadas: a API de dados abertos do Senado retornou 404 para as matérias do parlamentar 456 e a página 'matérias apresentadas' está fora do ar; projetos_lei_aprovados cobre apenas a Câmara (1991–2015) e é um piso.",
+    "Filtro por autor não é exposto de forma confiável na API da Câmara (idAutor/idAutorParlamentar retornam vazio); a varredura usou o parâmetro por nome, com verificação item a item do campo de autoria — a contagem de leis pode subestimar.",
+    "Leitura item a item do PDF do plano (mais de 100 páginas) não realizada; as contagens de custo, prazo e dependência do Congresso são aproximadas e referem-se às 7 propostas destacadas (keyProposals) do JSON do candidato.",
+    "Resultado final da ADI nº 6.200/GO (lei do amianto/crisotila) não localizado nas fontes consultadas.",
+    "Data e pena da condenação por propaganda eleitoral antecipada (2018) não capturadas.",
+    "Pesquisa de aprovação de 84% em Goiás (2026) sem instituto nem amostra identificados — o dado consta do verbete em inglês da Wikipédia, sem fonte primária capturada.",
+    "LOAs de 2019–2024 não capturadas: o maior orçamento anual administrado foi calculado apenas com as LOAs de 2025 e 2026.",
+    "Nº total de servidores estaduais com data exata (101.374, todos os Poderes) não capturado; o dado do Poder Executivo (90.428) é de mar/2025.",
+    "DivulgaCandContas do TSE não consultado diretamente (web_extract indisponível na sessão); os dados eleitorais vieram de páginas oficiais e de imprensa que replicam a plataforma."
+  ]
 }
