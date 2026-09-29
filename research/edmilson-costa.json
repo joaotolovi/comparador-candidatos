@@ -2710,6 +2710,36 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial_eleitoral",
       "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+    },
+    {
+      "id": "src-re-r3pais-03",
+      "title": "O PCB nas eleições de 2026",
+      "publisher": "Partido Comunista Brasileiro (pcb.org.br)",
+      "url": "https://pcb.org.br/portal2/34156",
+      "publishedAt": "2026-08-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partido",
+      "notes": "Texto do próprio partido, publicado em 16/08/2026 e atualizado em 06/09/2026, apresenta a 'plataforma política pelo Poder Popular', a convocação de 'uma Assembleia Constituinte de novo tipo, com participação direta das organizações populares', a extinção do Senado e o parlamento unicameral com Conselhos Populares. Lido por acesso direto em 29/09/2026."
+    },
+    {
+      "id": "src-re-r3pais-01",
+      "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+      "publisher": "Wikipédia (em português)",
+      "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "enciclopedia",
+      "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+    },
+    {
+      "id": "src-re-r3pais-02",
+      "title": "Comunicado sobre a alteração do nome de nosso Partido — XVII Congresso (Extraordinário)",
+      "publisher": "Em Defesa do Comunismo (documento do grupo que adotou a denominação PCBR)",
+      "url": "https://emdefesadocomunismo.com.br/comunicado-sobre-a-alteracao-do-nome-de-nosso-partido",
+      "publishedAt": "2024-06-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "documento_partidario",
+      "notes": "Comunicado datado de 02/06/2024 e publicado em 03/06/2024: 'Entre os dias 29/05 e 02/06, encerramos vitoriosamente a etapa nacional do XVII Congresso (Extraordinário)' e 'A partir deste XVII Congresso (Extraordinário), adotamos a denominação de Partido Comunista Brasileiro Revolucionário (PCBR)', com rompimento declarado com a 'legenda eleitoral'. É a versão de um dos polos da disputa interna; o verbete do PCB não registra o XVII congresso."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -6403,7 +6433,426 @@
     ],
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
-    "methodology": "Extraído do plano registrado no TSE — 'Programa do Partido Comunista Brasileiro (PCB) para as Eleições Presidenciais de 2026: Construir o Poder Popular, rumo ao Socialismo', 16 páginas, aprovado na convenção de 01/08/2026 —, do mesmo texto publicado pelo partido em 15/08/2026 e de entrevista do candidato ao jornal O Poder Popular. O documento registrado é o próprio programa do PCB adotado pela candidatura, e não um plano de governo redigido para o mandato: visão, prioridades e modelo de desenvolvimento são declarações programáticas do partido assumidas pelo candidato, o que motiva a marcação de 'parcial'. O índice do TSE agrupa as propostas da candidatura em 8 categorias fixas e iguais para todos os candidatos, e não em prioridades declaradas por este candidato; as prioridades acima vêm das seções do próprio programa (as cinco transformações estruturais e os 21 pontos da plataforma). Não foram extraídos custos, prazos, metas quantificadas nem fonte de financiamento por proposta, e não há registro de implementação: o candidato nunca exerceu cargo executivo ou legislativo."
+    "methodology": "Extraído do plano registrado no TSE — 'Programa do Partido Comunista Brasileiro (PCB) para as Eleições Presidenciais de 2026: Construir o Poder Popular, rumo ao Socialismo', 16 páginas, aprovado na convenção de 01/08/2026 —, do mesmo texto publicado pelo partido em 15/08/2026 e de entrevista do candidato ao jornal O Poder Popular. O documento registrado é o próprio programa do PCB adotado pela candidatura, e não um plano de governo redigido para o mandato: visão, prioridades e modelo de desenvolvimento são declarações programáticas do partido assumidas pelo candidato, o que motiva a marcação de 'parcial'. O índice do TSE agrupa as propostas da candidatura em 8 categorias fixas e iguais para todos os candidatos, e não em prioridades declaradas por este candidato; as prioridades acima vêm das seções do próprio programa (as cinco transformações estruturais e os 21 pontos da plataforma). Não foram extraídos custos, prazos, metas quantificadas nem fonte de financiamento por proposta, e não há registro de implementação: o candidato nunca exerceu cargo executivo ou legislativo.",
+    "reality": {
+      "proposal": "PCB (TSE, 01/08/2026): cinco transformações estruturais — Poder Popular, Constituinte de Novo Tipo em dois anos, extinção do Senado e estatizações.",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "A convocação da Assembleia Constituinte, a extinção do Senado e a revogação do arcabouço fiscal, da LRF e da autonomia do Banco Central exigem emenda constitucional; estatizações, jornada de 30 horas e Orçamento Popular deliberativo dependem de lei. A constituinte de 1987–1988 foi convocada por emenda do próprio Congresso (EC 26/1985).",
+        "sources": [
+          {
+            "id": "src-ec-70",
+            "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+            "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+          },
+          {
+            "id": "src-re-r3propostas-01",
+            "title": "Emenda Constitucional nº 26, de 27 de novembro de 1985 — convoca a Assembleia Nacional Constituinte",
+            "publisher": "Senado Federal — Anais das Constituintes",
+            "url": "https://www.senado.leg.br/publicacoes/anais/constituinte/emenda26-85.pdf",
+            "publishedAt": "1985-11-27",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial"
+          },
+          {
+            "id": "src-re-r3propostas-02",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+            "publisher": "Presidência da República — Planalto",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publishedAt": "1988-10-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial"
+          }
+        ]
+      },
+      "history": {
+        "aligned": [
+          {
+            "date": "1922–1993",
+            "fact": "Do congresso de fundação (1922) à cisão que formou o PPS (1992), o XI Congresso do PCB reafirmou a sigla em 25/03/1993 e o partido reconstruiu a estrutura própria.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-01",
+                "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "2000–2021",
+            "fact": "Os congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) aprovaram resoluções próprias: frente anticapitalista permanente, Bloco Revolucionário do Proletariado e a 'via revolucionária do Poder Popular'.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-01",
+                "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "2014–2015",
+            "fact": "O XV Congresso (2014) formulou o conceito de Poder Popular e o partido lançou o jornal O Poder Popular em 2015, com edições em arquivo público.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-01",
+                "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+              },
+              {
+                "id": "src-ec-88",
+                "title": "Jornal O Poder Popular — arquivo de edições (Nº 101 a Nº 109, 2026)",
+                "publisher": "Partido Comunista Brasileiro (PCB) — portal oficial",
+                "url": "https://pcb.org.br/portal2/category/s10-internacional/america-latina/s8-brasil/s4-pcb/c140-jornal-o-poder-popular",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Página de arquivo do jornal do PCB com numeração sequencial de edições (a Nº 105 é identificada como maio de 2026 e a Nº 109 como setembro de 2026) e 28 páginas de arquivo consultadas em 29/09/2026. Traz as 'Notas dos editores', que atribuem ao Secretariado Nacional do Comitê Central a decisão sobre o que é publicado como linha política do partido, e lista canais próprios de vídeo ('Canal Jornal O Poder Popular' e 'Canal Comuna Que Pariu!')."
+              }
+            ]
+          },
+          {
+            "date": "01/08/2026",
+            "fact": "A convenção nacional da candidatura aprovou o programa de 16 páginas e a chapa Edmilson Costa/Cleusa Santos, registrada no TSE.",
+            "sources": [
+              {
+                "id": "src-ec-70",
+                "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+                "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+              },
+              {
+                "id": "src-ec-18",
+                "title": "Edmilson Costa e Cleusa Santos são oficializados pelo PCB como candidatos a presidente e vice-presidente",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/noticia/2026/08/01/edmilson-costa-e-cleusa-santos-sao-oficializados-pelo-pcb-como-candidatos-a-presidente-e-vice-presidente.ghtml",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção nacional do PCB em 01/08/2026, na Câmara Municipal de São Paulo, oficializou a chapa; o partido decidiu não lançar candidatos a deputado federal e estadual nas eleições de 2026 e aprovou o programa com foco na desmilitarização da segurança pública e na saúde 100% estatal."
+              }
+            ]
+          },
+          {
+            "date": "ago/2026",
+            "fact": "O partido publicou no portal, em 16/08/2026, o texto 'O PCB nas eleições de 2026', que repete a Constituinte de novo tipo, a extinção do Senado e o parlamento unicameral.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-03",
+                "title": "O PCB nas eleições de 2026",
+                "publisher": "Partido Comunista Brasileiro (pcb.org.br)",
+                "url": "https://pcb.org.br/portal2/34156",
+                "publishedAt": "2026-08-16",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partido",
+                "notes": "Texto do próprio partido, publicado em 16/08/2026 e atualizado em 06/09/2026, apresenta a 'plataforma política pelo Poder Popular', a convocação de 'uma Assembleia Constituinte de novo tipo, com participação direta das organizações populares', a extinção do Senado e o parlamento unicameral com Conselhos Populares. Lido por acesso direto em 29/09/2026."
+              }
+            ]
+          }
+        ],
+        "divergent": [
+          {
+            "date": "1992–1994",
+            "fact": "Depois da cisão que formou o PPS, o PCB disputou na Justiça Eleitoral o uso do nome e da sigla e fez campanha de filiação até obter registro definitivo no TSE (1994).",
+            "sources": [
+              {
+                "id": "src-re-r3pais-01",
+                "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "2023–2024",
+            "fact": "A crise interna de 2023 teve desdobramento em congresso extraordinário encerrado em 02/06/2024, cujo grupo adotou a denominação PCBR e declarou rompimento com a 'legenda eleitoral', segundo comunicado do próprio grupo.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-02",
+                "title": "Comunicado sobre a alteração do nome de nosso Partido — XVII Congresso (Extraordinário)",
+                "publisher": "Em Defesa do Comunismo (documento do grupo que adotou a denominação PCBR)",
+                "url": "https://emdefesadocomunismo.com.br/comunicado-sobre-a-alteracao-do-nome-de-nosso-partido",
+                "publishedAt": "2024-06-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "documento_partidario",
+                "notes": "Comunicado datado de 02/06/2024 e publicado em 03/06/2024: 'Entre os dias 29/05 e 02/06, encerramos vitoriosamente a etapa nacional do XVII Congresso (Extraordinário)' e 'A partir deste XVII Congresso (Extraordinário), adotamos a denominação de Partido Comunista Brasileiro Revolucionário (PCBR)', com rompimento declarado com a 'legenda eleitoral'. É a versão de um dos polos da disputa interna; o verbete do PCB não registra o XVII congresso."
+              }
+            ]
+          },
+          {
+            "date": "2010–2022",
+            "fact": "O partido disputou a Presidência com candidatura própria em 2010, 2014 e 2022 (39.136, 47.845 e 45.620 votos) e apoiou a chapa do PSOL em 2018 (617.122 votos), dentro das eleições vigentes.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-01",
+                "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "29/09/2026",
+            "fact": "0 deputados federais e 0 senadores nas APIs oficiais; o verbete registra 12.117 filiados (2023) e nenhum cargo eletivo no levantamento de 2022–2024.",
+            "sources": [
+              {
+                "id": "src-ec-12",
+                "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                "publisher": "Câmara dos Deputados (dados abertos)",
+                "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+              },
+              {
+                "id": "src-ec-13",
+                "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                "publisher": "Senado Federal (dados abertos)",
+                "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+              },
+              {
+                "id": "src-re-r3pais-01",
+                "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          }
+        ],
+        "noComparablePrecedent": "Não localizamos episódio comparável de convocação de assembleia constituinte por governo popular, de extinção do Senado ou de nacionalização do sistema financeiro na trajetória do PCB: desde 1993 o partido atua por congressos internos, resoluções e disputa eleitoral, e a constituinte de 1987–1988 foi convocada por emenda do próprio Congresso (EC 26/1985)."
+      },
+      "support": {
+        "partySeats": "0/513 deputados federais e 0/81 senadores (APIs da Câmara e do Senado, 29/09/2026)",
+        "coalitionSeats": "0 — chapa pura, sem coligação",
+        "federations": "Nenhuma",
+        "note": "Base partidária: 12.117 filiados registrados no TSE (2023) e nenhum cargo eletivo no levantamento de 2022–2024; a candidatura concorre isolada. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-re-r3pais-01",
+            "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+            "publisher": "Wikipédia (em português)",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "enciclopedia",
+            "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+          },
+          {
+            "id": "src-ec-12",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+          },
+          {
+            "id": "src-ec-13",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+          }
+        ],
+        "documentedAgreements": 2
+      },
+      "tensions": [
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Projeto de ruptura institucional e trajetória do partido de disputa eleitoral desde 1993",
+          "detail": "O programa de 01/08/2026 projeta o Poder Popular e a Constituinte como via de chegada ao governo; a trajetória datada registra congressos internos desde 1993, campanha de filiação para obter registro próprio (1994) e candidaturas presidenciais próprias em 2010, 2014 e 2022, além do apoio à chapa do PSOL em 2018 — todas nos marcos eleitorais vigentes.",
+          "sources": [
+            {
+              "id": "src-re-r3pais-01",
+              "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+              "publisher": "Wikipédia (em português)",
+              "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "enciclopedia",
+              "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+            },
+            {
+              "id": "src-ec-70",
+              "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+              "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "A Constituinte prometida em dois anos depende de emenda aprovada pelo Congresso que o projeto propõe reestruturar",
+          "detail": "A convocação depende de emenda constitucional (308 deputados e 49 senadores, em dois turnos em cada Casa) e a de 1987–1988 veio por emenda do próprio Congresso (EC 26/1985); o projeto também propõe extinguir o Senado e criar parlamento unicameral, e o partido tem 0 cadeiras nas duas Casas (29/09/2026).",
+          "sources": [
+            {
+              "id": "src-ec-70",
+              "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+              "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+            },
+            {
+              "id": "src-re-r3propostas-01",
+              "title": "Emenda Constitucional nº 26, de 27 de novembro de 1985 — convoca a Assembleia Nacional Constituinte",
+              "publisher": "Senado Federal — Anais das Constituintes",
+              "url": "https://www.senado.leg.br/publicacoes/anais/constituinte/emenda26-85.pdf",
+              "publishedAt": "1985-11-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial"
+            },
+            {
+              "id": "src-re-r3propostas-02",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+              "publisher": "Presidência da República — Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publishedAt": "1988-10-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial"
+            },
+            {
+              "id": "src-ec-12",
+              "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+              "publisher": "Câmara dos Deputados (dados abertos)",
+              "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+            },
+            {
+              "id": "src-ec-13",
+              "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+              "publisher": "Senado Federal (dados abertos)",
+              "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Como a convocação da Constituinte ocorreria no mesmo processo que extingue o Senado?",
+          "why": "A emenda de convocação precisa ser aprovada nas duas Casas, incluindo o Senado que o projeto extinguiria; o documento não descreve a sequência.",
+          "sources": [
+            {
+              "id": "src-re-r3propostas-02",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+              "publisher": "Presidência da República — Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publishedAt": "1988-10-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial"
+            },
+            {
+              "id": "src-ec-70",
+              "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+              "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+            }
+          ]
+        },
+        {
+          "question": "Qual o custo anual e a fonte de recursos das estatizações e da jornada de 30 horas?",
+          "why": "O programa fixa prazos e metas (Constituinte em dois anos; 10% do PIB na saúde) e o índice oficial lista 35 itens; não localizamos planilha de custo anual por medida.",
+          "sources": [
+            {
+              "id": "src-ec-70",
+              "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+              "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+            }
+          ]
+        },
+        {
+          "question": "A crise interna de 2023–2024 alterou a estrutura organizativa que sustentaria o projeto?",
+          "why": "O comunicado do grupo que adotou a denominação PCBR (02/06/2024) registra cisão e rompimento com a legenda eleitoral; não localizamos documento do PCB com números de filiados ou de direções depois do episódio.",
+          "sources": [
+            {
+              "id": "src-re-r3pais-02",
+              "title": "Comunicado sobre a alteração do nome de nosso Partido — XVII Congresso (Extraordinário)",
+              "publisher": "Em Defesa do Comunismo (documento do grupo que adotou a denominação PCBR)",
+              "url": "https://emdefesadocomunismo.com.br/comunicado-sobre-a-alteracao-do-nome-de-nosso-partido",
+              "publishedAt": "2024-06-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "documento_partidario",
+              "notes": "Comunicado datado de 02/06/2024 e publicado em 03/06/2024: 'Entre os dias 29/05 e 02/06, encerramos vitoriosamente a etapa nacional do XVII Congresso (Extraordinário)' e 'A partir deste XVII Congresso (Extraordinário), adotamos a denominação de Partido Comunista Brasileiro Revolucionário (PCBR)', com rompimento declarado com a 'legenda eleitoral'. É a versão de um dos polos da disputa interna; o verbete do PCB não registra o XVII congresso."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "O texto 'O PCB nas eleições de 2026', do próprio partido, explica o eixo como a transformação da 'maioria social em maioria política': a Constituinte de novo tipo convocada com participação direta das organizações populares e os Conselhos Populares como forma permanente de participação nas decisões do país.",
+      "methodology": "Apurado sobre o programa registrado no TSE (16 p., 01/08/2026), o histórico de congressos e resoluções do PCB (referências datadas) e o comunicado do XVII Congresso (Extraordinário), de 2024. O candidato nunca exerceu cargo público: o projeto foi examinado contra a trajetória organizativa do partido, sem juízo sobre capacidade futura. Ficaram fora atas internas e entrevistas não transcritas.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
   },
   "foreignPolicy": {
     "worldView": "O programa do PCB ('Construir o Poder Popular, rumo ao Socialismo', registrado no TSE e publicado pelo partido em 15/08/2026) coloca a luta contra o imperialismo como eixo e define, entre as cinco transformações estruturais propostas, a das relações internacionais: afirmar o internacionalismo e a autodeterminação dos povos, 'fortalecer todos os processos de integração, tanto regionais quanto internacionais' e prestar solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental. O documento declara buscar uma 'nova ordem internacional' baseada na cooperação, na autodeterminação dos povos, no internacionalismo proletário e na paz entre as nações, com parcerias comerciais estratégicas que priorizem o desenvolvimento industrial e tecnológico e a retenção de riquezas e lucros no país. Prevê regulação das 'Big Techs e redes sociais imperialistas', monopólio estatal das telecomunicações e da internet e reestruturação dos comandos das Forças Armadas, com nova política de formação militar voltada à defesa da soberania. A análise do OPEB (27/09/2026) registra que o programa substitui o 'universalismo pragmático' e o legalismo institucional da diplomacia brasileira por uma leitura de enfrentamento e que não detalha BRICS, governança climática nem os mecanismos de interdependência econômica global.",

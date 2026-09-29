@@ -1,0 +1,2118 @@
+{
+  "grupo": "complemento1",
+  "escopo": "propostas",
+  "sources": [
+    {
+      "id": "src-re-complemento1propostas-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 21, XXIII; 30; 47; 49, I; 60, §2º; 69; 101; 142; 144; 175; 196-198; 211-212; 228)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional usado para conferir competências, quóruns e procedimentos citados nas tensões."
+    },
+    {
+      "id": "src-re-complemento1propostas-02",
+      "title": "Lei nº 13.260, de 16 de março de 2016 — disciplina o terrorismo e reformula o conceito de organização terrorista",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+      "publishedAt": "2016-03-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Regulamenta o art. 5º, XLIII, da Constituição; define terrorismo por finalidade e restringe o tipo às razões que enumera."
+    },
+    {
+      "id": "src-re-complemento1propostas-03",
+      "title": "Lei nº 10.826, de 22 de dezembro de 2003 — Estatuto do Desarmamento",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm",
+      "publishedAt": "2003-12-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Disciplina registro, posse e porte de arma de fogo e as competências de autorização e fiscalização."
+    },
+    {
+      "id": "src-re-complemento1propostas-04",
+      "title": "Lei nº 14.994, de 23 de setembro de 2024 — institui o Programa Pé-de-Meia",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm",
+      "publishedAt": "2024-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Cria incentivo financeiro-educacional a estudantes do ensino médio da rede pública."
+    },
+    {
+      "id": "src-re-complemento1propostas-05",
+      "title": "Emenda Constitucional nº 103, de 12 de novembro de 2019 — reforma da Previdência",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm",
+      "publishedAt": "2019-11-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Fixa idade mínima de 65 anos (homens) e 62 (mulheres) e as regras de transição do RGPS."
+    },
+    {
+      "id": "src-re-complemento1propostas-06",
+      "title": "Constituição Federal — art. 18, § 4º: dispositivos sujeitos a regulamentação (legislação complementar: Lei Complementar nº 230, de 15/04/2026)",
+      "publisher": "Câmara dos Deputados — Legislação Infraconstitucional",
+      "url": "https://www.camara.leg.br/internet/infdoc/novoconteudo/html/leginfra/ArtCF3440.htm",
+      "publishedAt": "2026-04-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Base oficial que lista a LC 230/2026 como norma regulamentadora do período para criação, fusão, incorporação e desmembramento de municípios."
+    },
+    {
+      "id": "src-re-complemento1propostas-07",
+      "title": "Senado aprova PEC que limita decisões individuais do STF e outros tribunais superiores (PEC 8/2021; 52 a 18 nos dois turnos, em 22/11/2023)",
+      "publisher": "IBDFAM",
+      "url": "https://ibdfam.org.br/noticias/11338/Senado+aprova+PEC+que+limita+decis%C3%B5es+individuais+do+STF+e+outros+tribunais+superiores",
+      "publishedAt": "2023-11-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a aprovação da PEC 8/2021 no Senado e o envio à Câmara dos Deputados."
+    },
+    {
+      "id": "src-re-complemento1propostas-08",
+      "title": "Decreto nº 1.246, de 7 de setembro de 1994 — promulga o Tratado para a Proscrição das Armas Nucleares na América Latina e no Caribe (Tratado de Tlatelolco)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d1246.htm",
+      "publishedAt": "1994-09-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Tratado de 1967 que estabelece a zona livre de armas nucleares na região; em vigor para o Brasil desde 1994."
+    }
+  ],
+  "candidates": {
+    "lula": {
+      "proposals": [
+        {
+          "title": "Educação: 80% de crianças alfabetizadas na idade adequada, Pé-de-Meia e expansão de institutos federais",
+          "reality": {
+            "proposal": "Elevar de 66% para 80% as crianças alfabetizadas na idade adequada e ampliar Pé-de-Meia, institutos federais e vagas no ensino superior.",
+            "requirement": {
+              "path": "depende-municipios",
+              "quorum": "não se aplica: a alfabetização é executada por redes municipais e estaduais e o novo PNE é fixado por lei ordinária",
+              "note": "A meta depende do regime de colaboração entre União, estados e municípios (CF, arts. 211 e 212) e de dotação orçamentária; o PNE 2026–2036 é fixado por lei ordinária e o Pé-de-Meia já é lei federal (Lei 14.994/2024)."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2024-09-23",
+                  "fact": "O Pé-de-Meia foi instituído por lei federal (Lei 14.994), com incentivo a alunos do ensino médio público.",
+                  "sources": [
+                    {
+                      "id": "src-re-complemento1propostas-04"
+                    }
+                  ]
+                },
+                {
+                  "date": "2025",
+                  "fact": "66% das crianças alfabetizadas na idade adequada, com 20 unidades da Federação atingindo a meta do INEP.",
+                  "sources": [
+                    {
+                      "id": "src-lula-94"
+                    }
+                  ]
+                },
+                {
+                  "date": "2005-01-13",
+                  "fact": "O ProUni foi criado por lei no primeiro mandato (Lei 11.096/2005), com bolsas em instituições privadas.",
+                  "sources": [
+                    {
+                      "id": "src-lula-25"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "2026-05-22",
+                  "fact": "O bloqueio de despesas foi elevado para quase R$ 24 bilhões, com investimentos entre as áreas afetadas.",
+                  "sources": [
+                    {
+                      "id": "src-re-r1propostas-01"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09-24",
+                  "fact": "Novo relatório trouxe congelamento de R$ 16,1 bilhões no Orçamento de 2026.",
+                  "sources": [
+                    {
+                      "id": "src-re-r1propostas-02"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08",
+                  "fact": "O plano registrado não informa dotação por meta nem quantos campi ou institutos federais seriam criados.",
+                  "sources": [
+                    {
+                      "id": "src-lula-07"
+                    }
+                  ]
+                }
+              ],
+              "sources": [
+                {
+                  "id": "src-re-complemento1propostas-04"
+                },
+                {
+                  "id": "src-lula-94"
+                },
+                {
+                  "id": "src-lula-25"
+                },
+                {
+                  "id": "src-lula-07"
+                },
+                {
+                  "id": "src-lula-49"
+                },
+                {
+                  "id": "src-re-r1propostas-01"
+                },
+                {
+                  "id": "src-re-r1propostas-02"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 67 de 513 deputados federais (2ª maior bancada) e 9 de 81 senadores; Federação Brasil da Esperança (PT-PCdoB-PV)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais' — única coligação presidencial de 2026, com 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 3,
+              "note": "Coligação registrada no TSE com 7 partidos e 3 episódios de negociação documentados no histórico do candidato; acordos específicos por proposta não foram localizados. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Alfabetização na idade adequada depende das redes municipais e estaduais",
+                "detail": "A meta é executada por redes municipais e estaduais no regime de colaboração da Constituição (arts. 211 e 212), com a União na coordenação e no apoio financeiro. O plano não traz dotação por meta, cronograma anual nem lista de municípios prioritários.",
+                "sources": [
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-lula-07"
+                  },
+                  {
+                    "id": "src-lula-94"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Meta de 80% sem dotação estimada em período de bloqueio de despesas",
+                "detail": "O plano não estima o custo da meta de alfabetização, da manutenção do Pé-de-Meia nem da expansão dos institutos federais; em 2026 houve bloqueio de quase R$ 24 bilhões (22/05) e congelamento de R$ 16,1 bilhões (24/09), com investimentos entre as áreas afetadas.",
+                "sources": [
+                  {
+                    "id": "src-re-r1propostas-01"
+                  },
+                  {
+                    "id": "src-re-r1propostas-02"
+                  },
+                  {
+                    "id": "src-lula-07"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a dotação anual e o cronograma por meta do PNE 2026–2036 para atingir os 80%?",
+                "why": "O plano registrado fixa a meta sem custo, prazo anual ou fonte de recursos por etapa."
+              },
+              {
+                "question": "Quantos institutos federais e campi universitários seriam criados e em quais municípios?",
+                "why": "A expansão é citada no plano sem número de unidades, custo ou cronograma."
+              },
+              {
+                "question": "Como o Pé-de-Meia seria mantido dentro do limite de despesas do arcabouço fiscal?",
+                "why": "O programa é lei federal e a continuidade depende de dotação anual; o plano não indica a fonte."
+              }
+            ],
+            "publicExplanation": "Em 11/08/2026, ao registrar o plano no TSE, a campanha apresentou a elevação da meta de alfabetização e o PNE 2026–2036 entre as prioridades; não foi localizada explicação com dotação ou cronograma por meta.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pelos dados do INEP de 2025 sobre alfabetização, pela legislação citada (Lei 14.994/2024 e Lei 11.096/2005) e pelos relatórios de bloqueio e contingenciamento de 2026. Ficaram de fora a execução por rede municipal e os planos estaduais de educação.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Eixo 13 — Soberania nacional e integração sul-americana",
+          "reality": {
+            "proposal": "Afirmar soberania e não subordinação na política externa, com integração econômica e de infraestrutura na América do Sul e proteção consular.",
+            "requirement": {
+              "path": "negociacao-internacional",
+              "quorum": "não se aplica a atos de governo; tratados e atos internacionais com encargos passam pelo Congresso (CF, art. 49, I)",
+              "note": "A integração física e econômica depende de acordos com os países vizinhos e de financiamento (BNDES e bancos regionais); a política consular é ato do Executivo e a retirada de tarifas depende de decisão de outro governo."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-03-17",
+                  "fact": "O Congresso promulgou o acordo Mercosul-União Europeia, após o PDL 41/2026.",
+                  "sources": [
+                    {
+                      "id": "src-re-15"
+                    },
+                    {
+                      "id": "src-re-22"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-07-27",
+                  "fact": "Telefonema com Xi Jinping tratou de acelerar a negociação do acordo China-Mercosul.",
+                  "sources": [
+                    {
+                      "id": "src-re-16"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09-22",
+                  "fact": "Na abertura da Assembleia Geral da ONU, condenou interferência externa em assuntos internos.",
+                  "sources": [
+                    {
+                      "id": "src-lula-132"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09-25",
+                  "fact": "A empresários, defendeu responsabilidade fiscal, estabilidade e soberania.",
+                  "sources": [
+                    {
+                      "id": "src-lula-68"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "2026-07-22",
+                  "fact": "A tarifa adicional de 25% dos EUA entrou em vigor e a negociação de retirada segue sem acordo até 29/09/2026.",
+                  "sources": [
+                    {
+                      "id": "src-re-05"
+                    },
+                    {
+                      "id": "src-mundo-01"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08",
+                  "fact": "O plano registrado não traz custo, cronograma nem lista de obras de integração na América do Sul.",
+                  "sources": [
+                    {
+                      "id": "src-lula-07"
+                    }
+                  ]
+                }
+              ],
+              "sources": [
+                {
+                  "id": "src-re-15"
+                },
+                {
+                  "id": "src-re-22"
+                },
+                {
+                  "id": "src-re-16"
+                },
+                {
+                  "id": "src-re-05"
+                },
+                {
+                  "id": "src-mundo-01"
+                },
+                {
+                  "id": "src-lula-132"
+                },
+                {
+                  "id": "src-lula-68"
+                },
+                {
+                  "id": "src-lula-07"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PT: 67 de 513 deputados federais (2ª maior bancada) e 9 de 81 senadores; Federação Brasil da Esperança (PT-PCdoB-PV)",
+              "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais' — única coligação presidencial de 2026, com 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+              "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+              "documentedAgreements": 3,
+              "note": "Coligação registrada no TSE com 7 partidos e 3 episódios de negociação documentados no histórico do candidato; acordos específicos por proposta não foram localizados. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Integração sul-americana depende de acordos com os vizinhos, de financiamento e do Congresso",
+                "detail": "Obras e acordos de integração física passam por negociação com os países vizinhos e pelo Congresso (CF, art. 49, I), além de financiamento público e privado. O plano não indica obras, custo ou cronograma, e a retirada da tarifa de 25% dos EUA depende de decisão do governo americano.",
+                "sources": [
+                  {
+                    "id": "src-mundo-01"
+                  },
+                  {
+                    "id": "src-re-05"
+                  },
+                  {
+                    "id": "src-re-15"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Discurso de soberania e negociação bilateral com os EUA no mesmo período",
+                "detail": "Em 07/05/2026 o governo discutiu tarifas, crime organizado e minerais críticos em Washington e propôs grupo de trabalho bilateral; em 25/09/2026, em campanha, o candidato afirmou que Trump quer 'colonizar' o Brasil e capturar recursos naturais.",
+                "sources": [
+                  {
+                    "id": "src-re-05"
+                  },
+                  {
+                    "id": "src-mundo-01"
+                  },
+                  {
+                    "id": "src-lula-132"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais obras de integração física o plano prioriza e com qual financiamento?",
+                "why": "O plano cita integração de infraestrutura sem lista de projetos, custo ou cronograma."
+              },
+              {
+                "question": "Como a política de reciprocidade será conduzida se a tarifa de 25% dos EUA permanecer?",
+                "why": "A sobretaxa está em vigor desde 22/07/2026 e não há acordo até 29/09/2026."
+              },
+              {
+                "question": "Qual o orçamento e o desenho da política de proteção à diáspora brasileira?",
+                "why": "A proteção consular e a participação da diáspora constam do plano sem metas ou recursos."
+              }
+            ],
+            "publicExplanation": "Em 07/09/2026, no pronunciamento da Independência, o candidato afirmou que o país 'não é colônia e não será colônia de ninguém'; a integração sul-americana e a proteção da diáspora aparecem no plano sem detalhamento de custo.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pela tramitação do acordo Mercosul-UE (PDL 41/2026), pelas negociações tarifárias de 2026 com EUA e China e por reportagens sobre política externa. Ficaram de fora a íntegra dos acordos e a execução orçamentária do BNDES.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "renan-santos": {
+      "proposals": [
+        {
+          "title": "Reforma da Previdência com idade mínima automática e capitalização via FGTS",
+          "reality": {
+            "proposal": "Fazer nova reforma previdenciária com idade mínima por gatilho de expectativa de vida e parcela da aposentadoria capitalizada via FGTS.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "Mudar idade mínima, teto e regra de benefício federal exige emenda à Constituição; a capitalização por FGTS e o uso do fundo no seguro-desemprego envolvem a Lei 8.036/1990 e lei específica, além de regra de transição (EC 103/2019)."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-09-18",
+                  "fact": "A equipe do candidato detalhou gatilho de idade ligado à expectativa de vida, dentro da PEC do Equilíbrio Fiscal de R$ 1,1 trilhão.",
+                  "sources": [
+                    {
+                      "id": "src-rs-31"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09",
+                  "fact": "O deputado do partido, Kim Kataguiri, defendeu o FGTS como poupança de aposentadoria, com teto do INSS e renda mínima.",
+                  "sources": [
+                    {
+                      "id": "src-rs-48"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09",
+                  "fact": "O resumo do plano registrado no TSE (51 páginas) inclui cortes na Previdência no ajuste de R$ 1,1 trilhão até 2031.",
+                  "sources": [
+                    {
+                      "id": "src-rs-21"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "2019-11-12",
+                  "fact": "A EC 103/2019 fixou idade mínima de 65 anos para homens e 62 para mulheres, com regras de transição.",
+                  "sources": [
+                    {
+                      "id": "src-re-complemento1propostas-05"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09",
+                  "fact": "O plano não apresenta memória de cálculo, idade de referência nem regra de transição para quem já contribui.",
+                  "sources": [
+                    {
+                      "id": "src-rs-21"
+                    },
+                    {
+                      "id": "src-rs-31"
+                    }
+                  ]
+                }
+              ],
+              "noComparablePrecedent": "Nenhum ato próprio em Previdência federal: nunca exerceu mandato nem cargo executivo; marcos são a presidência do MISSÃO e a campanha.",
+              "sources": [
+                {
+                  "id": "src-rs-31"
+                },
+                {
+                  "id": "src-rs-48"
+                },
+                {
+                  "id": "src-rs-21"
+                },
+                {
+                  "id": "src-re-complemento1propostas-05"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "MISSÃO: 1 de 513 deputados federais (Kim Kataguiri) e 0 de 81 senadores",
+              "coalitionSeats": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação nem federação; vice Coronel Medina",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 4,
+              "note": "MISSÃO tem 1 de 513 deputados federais, 0 de 81 senadores, 1 deputado estadual e 3 vereadores; 4 episódios de negociação documentados no histórico do candidato. Emenda constitucional exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Idade mínima automática e capitalização exigem PEC com 308 votos e 49 senadores",
+                "detail": "Mudar idade mínima, regra de cálculo e teto de benefício exige emenda à Constituição; a capitalização por FGTS e o uso do fundo no seguro-desemprego dependem de lei que altere a Lei 8.036/1990. O MISSÃO tem 1 de 513 deputados federais e 0 de 81 senadores no retrato atual.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-re-complemento1propostas-05"
+                  },
+                  {
+                    "id": "src-rs-31"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Corte previdenciário de R$ 486 bilhões em cinco anos sem regra de transição no plano",
+                "detail": "A equipe do candidato estima R$ 486 bilhões de economia em cinco anos com desindexação e cortes na Previdência, dentro do ajuste de R$ 1,1 trilhão; o plano não traz idade de referência, regra de transição nem cálculo do gatilho demográfico.",
+                "sources": [
+                  {
+                    "id": "src-rs-21"
+                  },
+                  {
+                    "id": "src-rs-31"
+                  },
+                  {
+                    "id": "src-rs-48"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a idade mínima inicial e como o gatilho de expectativa de vida seria atualizado?",
+                "why": "O plano e as entrevistas citam gatilho automático sem idade de partida ou periodicidade."
+              },
+              {
+                "question": "Como o FGTS seria usado na capitalização sem afetar habitação e saneamento?",
+                "why": "O fundo tem destinação vinculada (Lei 8.036/1990) e o plano não descreve a transição."
+              },
+              {
+                "question": "Qual a regra de transição para quem já está no mercado de trabalho?",
+                "why": "A EC 103/2019 criou transições e o plano não indica o que muda para quem já contribui."
+              }
+            ],
+            "publicExplanation": "Em sabatina de 26/08/2026 e em entrevistas de setembro de 2026, a equipe e aliados do candidato defenderam gatilho de idade e o FGTS como poupança para aposentadoria; não foi localizada explicação com idade inicial, transição ou cálculo do teto reduzido.",
+            "methodology": "Apurado pela leitura do resumo do plano registrado no TSE (51 páginas), por reportagens de setembro de 2026 sobre a PEC do Equilíbrio Fiscal e por declarações do candidato e do deputado do partido. Ficaram de fora a obra integral (Livro Amarelo) e o texto do projeto de PEC.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Programa nuclear militar (armas atômicas) — posicionamento público",
+          "reality": {
+            "proposal": "Defender programa nuclear para eventual produção de armas atômicas, apresentado como condição de soberania militar e respeito geopolítico.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "A Constituição (art. 21, XXIII, 'a') admite atividade nuclear em território nacional somente para fins pacíficos e mediante aprovação do Congresso; alterar essa regra exige emenda. O Brasil é parte do Tratado de Tlatelolco, que proíbe armas nucleares na região (Decreto 1.246/1994)."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2025-10-08",
+                  "fact": "O deputado Kim Kataguiri apresentou PEC que autoriza o Brasil a produzir armas nucleares.",
+                  "sources": [
+                    {
+                      "id": "src-re-212"
+                    },
+                    {
+                      "id": "src-re-211"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-26",
+                  "fact": "Em sabatina, o candidato defendeu que o país desenvolva armas nucleares para ser respeitado.",
+                  "sources": [
+                    {
+                      "id": "src-rs-90"
+                    },
+                    {
+                      "id": "src-rs-92"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-27",
+                  "fact": "A proposta foi repercutida pela imprensa internacional como desindexação de gastos e bomba atômica.",
+                  "sources": [
+                    {
+                      "id": "src-rs-91"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08",
+                  "fact": "O posicionamento consta de entrevistas e sabatinas; não foi localizado no resumo do plano registrado no TSE.",
+                  "sources": [
+                    {
+                      "id": "src-rs-23"
+                    },
+                    {
+                      "id": "src-rs-93"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "1988-10-05",
+                  "fact": "A Constituição admite atividade nuclear apenas para fins pacíficos (art. 21, XXIII) e o país é parte do Tratado de Tlatelolco (Decreto 1.246/1994).",
+                  "sources": [
+                    {
+                      "id": "src-re-r2propostas-03"
+                    },
+                    {
+                      "id": "src-re-complemento1propostas-08"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09",
+                  "fact": "O plano registrado projeta ajuste de R$ 1,1 trilhão até 2031 e não traz custo do programa nuclear.",
+                  "sources": [
+                    {
+                      "id": "src-rs-21"
+                    }
+                  ]
+                }
+              ],
+              "noComparablePrecedent": "Nenhum ato próprio em política nuclear: nunca exerceu mandato nem cargo executivo; o precedente citado é a PEC do deputado do partido.",
+              "sources": [
+                {
+                  "id": "src-rs-90"
+                },
+                {
+                  "id": "src-rs-91"
+                },
+                {
+                  "id": "src-rs-92"
+                },
+                {
+                  "id": "src-rs-93"
+                },
+                {
+                  "id": "src-rs-23"
+                },
+                {
+                  "id": "src-re-211"
+                },
+                {
+                  "id": "src-re-212"
+                },
+                {
+                  "id": "src-rs-21"
+                },
+                {
+                  "id": "src-re-r2propostas-03"
+                },
+                {
+                  "id": "src-re-complemento1propostas-08"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "MISSÃO: 1 de 513 deputados federais (Kim Kataguiri) e 0 de 81 senadores",
+              "coalitionSeats": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação nem federação; vice Coronel Medina",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 4,
+              "note": "MISSÃO tem 1 de 513 deputados federais, 0 de 81 senadores, 1 deputado estadual e 3 vereadores; 4 episódios de negociação documentados no histórico do candidato. Emenda constitucional exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Produção de armas nucleares exige emenda à Constituição e mudança de tratado",
+                "detail": "A Constituição (art. 21, XXIII, 'a') permite atividade nuclear só para fins pacíficos e mediante aprovação do Congresso; o Brasil é parte do Tratado de Tlatelolco (Decreto 1.246/1994), que proíbe armas nucleares na região. A medida exigiria emenda e saída do tratado, com 308 deputados e 49 senadores.",
+                "sources": [
+                  {
+                    "id": "src-re-r2propostas-03"
+                  },
+                  {
+                    "id": "src-re-complemento1propostas-08"
+                  },
+                  {
+                    "id": "src-rs-90"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Programa nuclear militar sem custo estimado no plano do ajuste de R$ 1,1 trilhão",
+                "detail": "O plano registrado projeta corte de R$ 1,1 trilhão até 2031 e não apresenta custo, prazo ou orçamento para o programa nuclear militar, defendido em sabatinas e objeto de PEC apresentada pelo deputado do partido em out/2025.",
+                "sources": [
+                  {
+                    "id": "src-rs-21"
+                  },
+                  {
+                    "id": "src-re-212"
+                  },
+                  {
+                    "id": "src-rs-92"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo, o prazo e a rota tecnológica previstos para o programa nuclear militar?",
+                "why": "A proposta é defendida em entrevistas e não consta do resumo do plano registrado."
+              },
+              {
+                "question": "O plano prevê sair do Tratado de Tlatelolco e do regime de salvaguardas da AIEA?",
+                "why": "A produção de armas exigiria mudar compromissos internacionais assumidos em 1994."
+              },
+              {
+                "question": "Como a proposta se concilia com o ajuste fiscal de R$ 1,1 trilhão até 2031?",
+                "why": "O plano apresenta corte de despesas e não estima o custo do programa nuclear."
+              }
+            ],
+            "publicExplanation": "Em sabatina de 26/08/2026 o candidato afirmou que o Brasil precisa de bomba atômica para ser respeitado; em 27/08/2026 a proposta foi repercutida pela imprensa. Não foi localizada explicação com custo, prazo ou rota tecnológica.",
+            "methodology": "Apurado por declarações do candidato em sabatinas e entrevistas de agosto de 2026, pela PEC apresentada pelo deputado do partido em out/2025, pelo resumo do plano registrado no TSE e pelo texto constitucional e pelo Tratado de Tlatelolco. Ficou de fora a obra integral (Livro Amarelo).",
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "zema": {
+      "proposals": [
+        {
+          "title": "Segurança: facções como terroristas, maioridade penal aos 16 e Forças Armadas na retomada de territórios",
+          "reality": {
+            "proposal": "Tratar facções como organizações terroristas, reduzir a maioridade penal a 16 anos e empregar as Forças Armadas na retomada de territórios.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "A maioridade penal está na Constituição (art. 228) e mudá-la exige emenda; a tipificação de facções como terroristas altera a Lei 13.260/2016 por lei ordinária; o emprego das Forças Armadas em operações de garantia da lei e da ordem é ato do Executivo (CF, art. 142)."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-08-11",
+                  "fact": "O plano registrado propõe classificar facções como terroristas, reduzir a maioridade penal a 16 anos e usar as Forças Armadas em territórios.",
+                  "sources": [
+                    {
+                      "id": "src-zema-09"
+                    },
+                    {
+                      "id": "src-zema-42"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-06",
+                  "fact": "Em declarações de campanha, defendeu 'mudança profunda' no Judiciário e um modelo de segurança próprio.",
+                  "sources": [
+                    {
+                      "id": "src-re-12"
+                    },
+                    {
+                      "id": "src-re-11"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-24",
+                  "fact": "Em entrevista, apresentou o endurecimento penal entre os eixos do plano de governo.",
+                  "sources": [
+                    {
+                      "id": "src-zema-162"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "1988-10-05",
+                  "fact": "As regras atuais fixam a inimputabilidade penal abaixo de 18 anos (CF, art. 228).",
+                  "sources": [
+                    {
+                      "id": "src-re-r1capacidades-01"
+                    }
+                  ]
+                },
+                {
+                  "date": "2016-03-16",
+                  "fact": "A lei de terrorismo restringe o tipo à finalidade e às razões que enumera na Lei 13.260/2016.",
+                  "sources": [
+                    {
+                      "id": "src-re-complemento1propostas-02"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08",
+                  "fact": "O plano não estima custo dos presídios de segurança máxima nem o efetivo necessário.",
+                  "sources": [
+                    {
+                      "id": "src-zema-42"
+                    }
+                  ]
+                }
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-09"
+                },
+                {
+                  "id": "src-zema-42"
+                },
+                {
+                  "id": "src-zema-162"
+                },
+                {
+                  "id": "src-re-11"
+                },
+                {
+                  "id": "src-re-12"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                },
+                {
+                  "id": "src-re-complemento1propostas-02"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO (nº 30), sem coligação ou federação; vice Eduardo Girão (NOVO)",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 5,
+              "note": "NOVO tem 5 de 513 deputados federais e a cadeira de senador do vice; sem coligação ou federação na disputa presidencial. 5 episódios de negociação documentados no histórico do candidato. Emenda constitucional exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Maioridade penal aos 16 anos exige emenda à Constituição (art. 228)",
+                "detail": "A inimputabilidade penal abaixo de 18 anos está na Constituição e só muda por emenda, com 308 deputados e 49 senadores em dois turnos por Casa; classificar facções como terroristas altera a Lei 13.260/2016 por lei ordinária e o emprego das Forças Armadas em territórios é ato do Executivo (CF, art. 142).",
+                "sources": [
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-complemento1propostas-02"
+                  },
+                  {
+                    "id": "src-zema-42"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Presídios de segurança máxima e efetivo militar sem custo no plano do choque fiscal",
+                "detail": "O plano prevê presídios de segurança máxima e operações das Forças Armadas sem estimativa de custo, prazo ou número de vagas, no mesmo documento que propõe 'choque fiscal' e corte de despesas.",
+                "sources": [
+                  {
+                    "id": "src-zema-42"
+                  },
+                  {
+                    "id": "src-zema-11"
+                  },
+                  {
+                    "id": "src-zema-135"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantos presídios de segurança máxima e quantos militares seriam empregados, e a que custo?",
+                "why": "O plano cita as medidas sem número de vagas, custo ou cronograma."
+              },
+              {
+                "question": "Qual o critério para classificar uma facção como organização terrorista?",
+                "why": "A tipificação exigiria alterar a Lei 13.260/2016 e o plano não define o critério."
+              },
+              {
+                "question": "Como a maioridade penal aos 16 anos se relacionaria às regras do ECA e às excepcionalidades citadas?",
+                "why": "A Constituição fixa a inimputabilidade abaixo de 18 e o plano não descreve a excepcionalidade prevista."
+              }
+            ],
+            "publicExplanation": "Em 24/08/2026, em entrevista, e em 25/08/2026, em sabatina, o candidato defendeu endurecimento penal e mencionou o modelo de El Salvador; em 06/08/2026 defendeu 'mudança profunda' no Judiciário. Não foi localizada explicação com custo ou número de vagas.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pelas declarações de campanha de agosto de 2026, pela legislação vigente (CF, art. 228 e Lei 13.260/2016) e por reportagens de campanha. Ficaram de fora os dados estaduais de criminalidade e a íntegra do plano.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Porte de armas em toda a extensão das propriedades rurais",
+          "reality": {
+            "proposal": "Permitir que produtores rurais portem armas em toda a extensão de suas propriedades, além da posse estendida já prevista em lei.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "quorum": "maioria dos votos presentes, observado o quórum de deliberação (CF, art. 47)",
+              "note": "A posse e o porte de armas são disciplinados pela Lei 10.826/2003 (Estatuto do Desarmamento); ampliar o porte a toda a extensão da propriedade rural exige lei ordinária, além das regras de registro e fiscalização do Exército."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-08-11",
+                  "fact": "O plano registrado propõe o porte em toda a extensão da propriedade rural, 'avançando para além da posse estendida já prevista em lei'.",
+                  "sources": [
+                    {
+                      "id": "src-zema-09"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-05-29",
+                  "fact": "Junto de outros presidenciáveis, buscou apoio do agronegócio em Minas Gerais.",
+                  "sources": [
+                    {
+                      "id": "src-zema-56"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "2003-12-22",
+                  "fact": "O Estatuto do Desarmamento restringe o porte às hipóteses que enumera; o plano não indica a compatibilização com o registro do Exército.",
+                  "sources": [
+                    {
+                      "id": "src-re-complemento1propostas-03"
+                    }
+                  ]
+                }
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-09"
+                },
+                {
+                  "id": "src-zema-56"
+                },
+                {
+                  "id": "src-re-complemento1propostas-03"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO (nº 30), sem coligação ou federação; vice Eduardo Girão (NOVO)",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 5,
+              "note": "NOVO tem 5 de 513 deputados federais e a cadeira de senador do vice; sem coligação ou federação na disputa presidencial. 5 episódios de negociação documentados no histórico do candidato. Emenda constitucional exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Porte em toda a propriedade rural exige lei federal e registro no Exército",
+                "detail": "O porte de arma é disciplinado pela Lei 10.826/2003 e depende de autorização federal; a ampliação a toda a extensão da propriedade rural exige lei ordinária e regras de registro e fiscalização, sem estimativa de impacto no plano registrado.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento1propostas-03"
+                  },
+                  {
+                    "id": "src-zema-09"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Ampliação do porte rural sem número de beneficiários, custo ou fiscalização no plano",
+                "detail": "O plano amplia o porte aos produtores rurais sem indicar quantos seriam alcançados, o custo do registro, o cronograma nem o papel dos estados e das polícias na fiscalização.",
+                "sources": [
+                  {
+                    "id": "src-zema-09"
+                  },
+                  {
+                    "id": "src-zema-135"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quantos produtores rurais seriam alcançados e qual o custo de registro e fiscalização?",
+                "why": "O plano não traz número de beneficiários, custo ou cronograma."
+              },
+              {
+                "question": "Como o porte em toda a propriedade rural se compatibilizaria com o Estatuto do Desarmamento?",
+                "why": "A lei vigente restringe o porte às hipóteses que enumera e o plano não descreve a alteração."
+              },
+              {
+                "question": "Qual o papel dos estados e das polícias na fiscalização do novo porte?",
+                "why": "A fiscalização envolve órgãos federais e estaduais, sem desenho no plano."
+              }
+            ],
+            "publicExplanation": "Em 11/08/2026 a imprensa destacou a promessa de arma no campo como um dos eixos do plano; não foi localizada explicação pública com número de beneficiários, custo ou regras de fiscalização.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE e da reportagem que reproduz o trecho sobre arma no campo, pela legislação vigente (Lei 10.826/2003) e pelas agendas de campanha com o agronegócio em 2026. Ficaram de fora a íntegra do plano e o histórico de atos estaduais sobre armas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Reforma do Judiciário: corregedoria independente para ministros, idade mínima de 60 para o STF e foro restrito ao presidente",
+          "reality": {
+            "proposal": "Criar corregedoria independente para ministros do STF, elevar a idade mínima de indicação a 60 anos e restringir o foro privilegiado ao presidente.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "Idade mínima de ministros (CF, art. 101), foro por prerrogativa de função (CF, arts. 52 e 53) e a estrutura de corregedoria do Judiciário exigem emenda constitucional; vedar decisões monocráticas tem precedente de PEC aprovada pelo Senado em 2023 e aguarda a Câmara."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2023-11-22",
+                  "fact": "O Senado aprovou a PEC 8/2021, que veda decisão monocrática que suspenda lei, por 52 a 18 nos dois turnos; a proposta aguarda a Câmara.",
+                  "sources": [
+                    {
+                      "id": "src-re-complemento1propostas-07"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-06",
+                  "fact": "Em declarações de campanha, defendeu 'mudança profunda' no Judiciário.",
+                  "sources": [
+                    {
+                      "id": "src-re-12"
+                    },
+                    {
+                      "id": "src-re-10"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-25",
+                  "fact": "Em sabatina, apresentou a limitação ao STF entre os eixos do plano 'Implacável'.",
+                  "sources": [
+                    {
+                      "id": "src-zema-135"
+                    },
+                    {
+                      "id": "src-zema-42"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "1988-10-05",
+                  "fact": "A idade atual para indicação ao STF é de mais de 35 e menos de 70 anos (CF, art. 101), e o plano não indica regra de transição.",
+                  "sources": [
+                    {
+                      "id": "src-re-r1capacidades-01"
+                    }
+                  ]
+                }
+              ],
+              "sources": [
+                {
+                  "id": "src-re-complemento1propostas-07"
+                },
+                {
+                  "id": "src-zema-42"
+                },
+                {
+                  "id": "src-zema-135"
+                },
+                {
+                  "id": "src-re-10"
+                },
+                {
+                  "id": "src-re-12"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO (nº 30), sem coligação ou federação; vice Eduardo Girão (NOVO)",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 5,
+              "note": "NOVO tem 5 de 513 deputados federais e a cadeira de senador do vice; sem coligação ou federação na disputa presidencial. 5 episódios de negociação documentados no histórico do candidato. Emenda constitucional exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Idade mínima, foro e corregedoria do STF exigem emenda à Constituição",
+                "detail": "A composição e as garantias do STF estão na Constituição (arts. 95, 101 e 102) e as mudanças exigem emenda com 308 deputados e 49 senadores em dois turnos por Casa; o plano não apresenta texto, autoria ou transição para as regras.",
+                "sources": [
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-zema-42"
+                  },
+                  {
+                    "id": "src-re-12"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Vedação de decisões monocráticas e prazo de vista já têm PEC em tramitação desde 2023",
+                "detail": "A vedação de decisão monocrática que suspenda lei foi aprovada pelo Senado na PEC 8/2021 (52 a 18, em 22/11/2023) e aguarda a Câmara; o plano não indica se adota esse texto ou propõe outro, nem como o prazo de vista seria fixado.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento1propostas-07"
+                  },
+                  {
+                    "id": "src-zema-42"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a composição da corregedoria independente e quem indicaria seus membros?",
+                "why": "O plano cita corregedoria com indicação por entidades independentes sem definir composição ou quórum."
+              },
+              {
+                "question": "A idade mínima de 60 anos alcançaria ministros em exercício ou só futuras indicações?",
+                "why": "O plano não indica regra de transição para a atual composição do STF."
+              },
+              {
+                "question": "Como 'obrigar' o Senado a analisar pedidos de impeachment se compatibiliza com a autonomia da Casa?",
+                "why": "A pauta do Senado é definida por sua própria direção (CF, arts. 52 e 57)."
+              }
+            ],
+            "publicExplanation": "Em 25/08/2026, em sabatina, e em 06/08/2026, em declarações de campanha, o candidato defendeu mudanças no Judiciário e a limitação ao STF; não foi localizada explicação com texto de PEC, composição da corregedoria ou regra de transição.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pela tramitação da PEC 8/2021 no Senado (aprovada em 22/11/2023) e pelas declarações de campanha de agosto de 2026. Ficaram de fora a íntegra do plano e os projetos de lei sobre prazo de vista.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Saída do BRICS, ingresso na OCDE e Mercosul como zona de livre comércio",
+          "reality": {
+            "proposal": "Retirar o Brasil do BRICS, retomar o ingresso na OCDE e transformar o Mercosul em zona de livre comércio.",
+            "requirement": {
+              "path": "negociacao-internacional",
+              "quorum": "não se aplica a atos de governo; tratados e atos internacionais com encargos passam pelo Congresso (CF, art. 49, I)",
+              "note": "O BRICS não tem tratado constitutivo com ratificação e a saída tende a ser ato de governo; a adesão à OCDE depende de convite e consenso dos membros e de reformas internas; converter o Mercosul em zona de livre comércio exige negociar com os sócios e passar pelo Congresso."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-08-08",
+                  "fact": "O candidato propôs tirar o Brasil do BRICS e aproximar o país do Ocidente.",
+                  "sources": [
+                    {
+                      "id": "src-zema-82"
+                    },
+                    {
+                      "id": "src-zema-15"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09-20",
+                  "fact": "Voltou a propor a saída do BRICS, com redução de supersalários e de impostos.",
+                  "sources": [
+                    {
+                      "id": "src-zema-83"
+                    }
+                  ]
+                },
+                {
+                  "date": "2025-10-10",
+                  "fact": "Como governador, chefiou missão internacional à Europa em busca de investimentos para Minas.",
+                  "sources": [
+                    {
+                      "id": "src-zema-84"
+                    }
+                  ]
+                },
+                {
+                  "date": "2023-05-09",
+                  "fact": "O governo de Minas lançou o projeto Vale do Lítio, voltado à atração de investimento estrangeiro.",
+                  "sources": [
+                    {
+                      "id": "src-zema-85"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "2026-08-06",
+                  "fact": "Chamou Trump de 'fanfarrão' e defendeu retaliar os EUA por tarifas.",
+                  "sources": [
+                    {
+                      "id": "src-re-10"
+                    },
+                    {
+                      "id": "src-re-11"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08",
+                  "fact": "O plano não indica prazo nem roteiro para a saída do BRICS ou para a adesão à OCDE.",
+                  "sources": [
+                    {
+                      "id": "src-zema-15"
+                    },
+                    {
+                      "id": "src-zema-82"
+                    }
+                  ]
+                }
+              ],
+              "sources": [
+                {
+                  "id": "src-zema-15"
+                },
+                {
+                  "id": "src-zema-82"
+                },
+                {
+                  "id": "src-zema-83"
+                },
+                {
+                  "id": "src-zema-84"
+                },
+                {
+                  "id": "src-zema-85"
+                },
+                {
+                  "id": "src-re-10"
+                },
+                {
+                  "id": "src-re-11"
+                },
+                {
+                  "id": "src-mundo-01"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO (nº 30), sem coligação ou federação; vice Eduardo Girão (NOVO)",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 5,
+              "note": "NOVO tem 5 de 513 deputados federais e a cadeira de senador do vice; sem coligação ou federação na disputa presidencial. 5 episódios de negociação documentados no histórico do candidato. Emenda constitucional exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Saída do BRICS, adesão à OCDE e zona de livre comércio seguem caminhos distintos",
+                "detail": "O BRICS não tem tratado constitutivo e a saída tende a ser ato de governo; a OCDE exige convite, processo técnico e consenso de membros; transformar o Mercosul em zona de livre comércio exige renegociar o bloco com os sócios e passar pelo Congresso (CF, art. 49, I).",
+                "sources": [
+                  {
+                    "id": "src-mundo-01"
+                  },
+                  {
+                    "id": "src-zema-15"
+                  },
+                  {
+                    "id": "src-zema-82"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Crítica pública a Trump e defesa de retaliação diante de plano pragmático e de adesão à OCDE",
+                "detail": "Em 06/08/2026 o candidato chamou Trump de 'fanfarrão' e defendeu retaliar os EUA por tarifas; o plano registrado propõe acordos individuais e a retomada do ingresso na OCDE, processo que depende de consenso de países-membros, incluindo os EUA.",
+                "sources": [
+                  {
+                    "id": "src-re-10"
+                  },
+                  {
+                    "id": "src-re-11"
+                  },
+                  {
+                    "id": "src-zema-82"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o roteiro e o prazo para a saída do BRICS e para a adesão à OCDE?",
+                "why": "O plano cita as duas medidas sem cronograma ou etapas."
+              },
+              {
+                "question": "Como o Brasil preservaria as relações comerciais com os países do bloco após a saída?",
+                "why": "O plano menciona preservação 'pragmática' sem instrumentos ou acordos indicados."
+              },
+              {
+                "question": "Quais reformas internas o plano lista como necessárias para a OCDE?",
+                "why": "A adesão depende de convergência regulatória e o plano não lista as reformas."
+              }
+            ],
+            "publicExplanation": "Em 08/08/2026 e em 20/09/2026 o candidato defendeu a saída do BRICS e a aproximação do Ocidente; não foi localizada explicação com roteiro, prazo ou lista de reformas para a OCDE.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pelas declarações de campanha de agosto e setembro de 2026 e pelas missões internacionais do governo de Minas em 2023 e 2025. Ficaram de fora a íntegra dos documentos de acessão à OCDE e os textos do Mercosul.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Programa nacional de fusão (união progressiva) de municípios sem sustentação financeira",
+          "reality": {
+            "proposal": "Criar programa nacional de estímulo à união progressiva de municípios sem sustentação financeira própria.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "257 deputados e 41 senadores — maioria absoluta (CF, art. 69)",
+              "note": "A fusão de municípios depende de lei estadual, dentro de período fixado por lei complementar federal, e de consulta prévia às populações (CF, art. 18, §4º); a Lei Complementar 230, de 15/04/2026, consta como norma regulamentadora desse dispositivo. Um programa federal de estímulo depende de lei e de dotação orçamentária."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-04-15",
+                  "fact": "A Lei Complementar 230/2026 consta como a norma que regulamenta o período do art. 18, §4º, da Constituição.",
+                  "sources": [
+                    {
+                      "id": "src-re-complemento1propostas-06"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-05-20",
+                  "fact": "O candidato criticou o 'abandono federativo' e cobrou mais recursos para municípios em desastres climáticos.",
+                  "sources": [
+                    {
+                      "id": "src-zema-55"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-11",
+                  "fact": "A reorganização do pacto federativo, com união progressiva de municípios, integra o plano registrado.",
+                  "sources": [
+                    {
+                      "id": "src-zema-09"
+                    },
+                    {
+                      "id": "src-zema-42"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "2025-10",
+                  "fact": "No mandato, o governo de Minas teve embate com prefeitos do estado sobre repasses e autonomia.",
+                  "sources": [
+                    {
+                      "id": "src-zema-58"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08",
+                  "fact": "O plano não indica critério de sustentação financeira nem lista de municípios, e a decisão depende de lei estadual e de plebiscito.",
+                  "sources": [
+                    {
+                      "id": "src-zema-09"
+                    }
+                  ]
+                }
+              ],
+              "sources": [
+                {
+                  "id": "src-re-complemento1propostas-06"
+                },
+                {
+                  "id": "src-zema-09"
+                },
+                {
+                  "id": "src-zema-42"
+                },
+                {
+                  "id": "src-zema-55"
+                },
+                {
+                  "id": "src-zema-58"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "NOVO: 5 de 513 deputados federais e 1 senador (Eduardo Girão, licenciado para integrar a chapa como vice)",
+              "coalitionSeats": "Partido isolado — chapa pura do NOVO (nº 30), sem coligação ou federação; vice Eduardo Girão (NOVO)",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 5,
+              "note": "NOVO tem 5 de 513 deputados federais e a cadeira de senador do vice; sem coligação ou federação na disputa presidencial. 5 episódios de negociação documentados no histórico do candidato. Emenda constitucional exige 308 deputados e 49 senadores. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Fusão de municípios depende de lei estadual, de plebiscito e de período fixado pela União",
+                "detail": "Pelo art. 18, §4º, da Constituição, a fusão se faz por lei estadual e depende de plebiscito das populações e de estudos de viabilidade; a União pode estimular, mas não decidir a fusão. O plano não define o critério de 'sem sustentação financeira' nem a lista de municípios.",
+                "sources": [
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-complemento1propostas-06"
+                  },
+                  {
+                    "id": "src-zema-55"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Estímulo à fusão de municípios sem dotação ou incentivo definido no plano do choque fiscal",
+                "detail": "O plano propõe união progressiva de municípios sem estimar custo, prazo ou incentivo federal, no mesmo documento que prevê corte de despesas e privatizações para o ajuste das contas estaduais.",
+                "sources": [
+                  {
+                    "id": "src-zema-09"
+                  },
+                  {
+                    "id": "src-zema-11"
+                  },
+                  {
+                    "id": "src-zema-42"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o critério de 'sem sustentação financeira' e quais municípios seriam alcançados?",
+                "why": "O plano cita a união progressiva sem indicador, lista ou limite de população."
+              },
+              {
+                "question": "Que incentivo federal o programa ofereceria e com qual dotação?",
+                "why": "O plano não indica recursos, prazo ou contrapartidas para a adesão dos municípios."
+              },
+              {
+                "question": "Como se dariam a consulta prévia às populações e o tratamento de dívidas e servidores?",
+                "why": "A Constituição exige plebiscito e estudos de viabilidade; o plano não descreve a transição."
+              }
+            ],
+            "publicExplanation": "Em 11/08/2026 a imprensa divulgou a proposta de reorganização federativa; em 20/05/2026 o candidato já havia criticado o 'abandono federativo' e cobrado mais recursos para municípios. Não foi localizada explicação com critério, dotação ou lista de entes.",
+            "methodology": "Apurado pela leitura das propostas-chave do plano registrado no TSE, pela norma que regulamenta o art. 18, §4º, da Constituição (LC 230/2026, conforme o portal da Câmara) e por declarações e reportagens de 2025 e 2026. Ficou de fora a íntegra do texto da lei complementar.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "caiado": {
+      "proposals": [
+        {
+          "title": "Posicionamentos públicos de campanha: anistia a Bolsonaro, minerais críticos e reforma política",
+          "reality": {
+            "proposal": "Defender a anistia a Bolsonaro e aos condenados de 8 de janeiro, o protagonismo em minerais críticos e uma reforma política.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "A anistia depende de lei do Congresso; a exploração de minerais críticos é competência da União (CF, art. 176) e envolve marco regulatório; mudanças no sistema político e nos critérios de indicação ao STF exigem emenda constitucional. Os posicionamentos foram registrados em discurso e entrevistas, não no PDF do plano."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-07-30",
+                  "fact": "Em discurso, apoiou a anistia de Jair Bolsonaro e de envolvidos nos ataques de 8 de janeiro.",
+                  "sources": [
+                    {
+                      "id": "src-cg-02"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-03-18",
+                  "fact": "Goiás firmou parceria com os EUA na área de minerais críticos, defendida pelo candidato.",
+                  "sources": [
+                    {
+                      "id": "src-caiado-84"
+                    },
+                    {
+                      "id": "src-caiado-86"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-12",
+                  "fact": "Rebateu acusações afirmando que 'dizer que quero entregar terras raras aos EUA é burrice'.",
+                  "sources": [
+                    {
+                      "id": "src-caiado-88"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-07",
+                  "fact": "Em entrevista, defendeu mudança nos critérios de indicação de ministros do STF.",
+                  "sources": [
+                    {
+                      "id": "src-cg-02"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "2020-03-25",
+                  "fact": "Rompeu com Bolsonaro, afirmando que 'a ignorância não é uma virtude', em divergência sobre a pandemia.",
+                  "sources": [
+                    {
+                      "id": "src-caiado-103"
+                    },
+                    {
+                      "id": "src-caiado-105"
+                    },
+                    {
+                      "id": "src-caiado-132"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-04-26",
+                  "fact": "O acordo de Goiás com os EUA sobre terras raras foi apontado como inconstitucional.",
+                  "sources": [
+                    {
+                      "id": "src-re-08"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-07-26",
+                  "fact": "O MPF abriu procedimento para acompanhar o acordo de Goiás com os EUA.",
+                  "sources": [
+                    {
+                      "id": "src-re-09"
+                    }
+                  ]
+                }
+              ],
+              "sources": [
+                {
+                  "id": "src-cg-02"
+                },
+                {
+                  "id": "src-caiado-84"
+                },
+                {
+                  "id": "src-caiado-86"
+                },
+                {
+                  "id": "src-caiado-88"
+                },
+                {
+                  "id": "src-caiado-103"
+                },
+                {
+                  "id": "src-caiado-105"
+                },
+                {
+                  "id": "src-caiado-132"
+                },
+                {
+                  "id": "src-re-08"
+                },
+                {
+                  "id": "src-re-09"
+                },
+                {
+                  "id": "src-caiado-130"
+                },
+                {
+                  "id": "src-re-r1capacidades-01"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSD: 49 de 513 deputados federais e 13 de 81 senadores (informe do partido, abr/2026)",
+              "coalitionSeats": "Chapa própria do PSD, sem coligação ou federação declarada nas fontes consultadas; vice Gilberto Kassab",
+              "federations": "Nenhuma registrada para a chapa",
+              "documentedAgreements": 4,
+              "note": "PSD tem 49 deputados federais, 13 senadores e 6 governadores no retrato atual; 4 episódios de negociação documentados no histórico do candidato; a chapa é de partido isolado. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "mudanca-de-posicao",
+                "title": "Apoio à anistia em 2026 após rompimento com Bolsonaro em 2020",
+                "detail": "Em 25/03/2020 o candidato rompeu com Bolsonaro por divergência sobre a pandemia; em 30/07/2026 declarou apoio à anistia de Bolsonaro e de envolvidos nos atos de 8 de janeiro, tema em tramitação no Congresso e ausente do PDF do plano registrado.",
+                "sources": [
+                  {
+                    "id": "src-caiado-105"
+                  },
+                  {
+                    "id": "src-caiado-132"
+                  },
+                  {
+                    "id": "src-cg-02"
+                  },
+                  {
+                    "id": "src-caiado-130"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Acordos sobre minerais críticos são competência da União, não dos estados",
+                "detail": "As jazidas e a lavra de minerais são disciplinadas pela União (CF, art. 176) e o acordo de Goiás com os EUA de março de 2026 foi apontado como inconstitucional e acompanhado por procedimento do MPF; o plano não define o marco regulatório dos minerais críticos nem o papel dos estados.",
+                "sources": [
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  },
+                  {
+                    "id": "src-re-08"
+                  },
+                  {
+                    "id": "src-re-09"
+                  },
+                  {
+                    "id": "src-caiado-85"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Mudança nos critérios de indicação ao STF exige emenda e não consta do plano",
+                "detail": "A entrevista de julho de 2026 trata da mudança nos critérios de indicação de ministros do STF, tema que exige emenda constitucional (CF, art. 101) e não foi localizado no PDF do plano registrado; o candidato não apresenta texto, idade mínima alternativa ou regra de transição.",
+                "sources": [
+                  {
+                    "id": "src-cg-02"
+                  },
+                  {
+                    "id": "src-re-r1capacidades-01"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o texto e o alcance da anistia defendida e a quem ela alcançaria?",
+                "why": "O apoio foi declarado em discurso e entrevista e não consta do PDF do plano registrado."
+              },
+              {
+                "question": "Qual o marco regulatório proposto para minerais críticos e qual o papel dos estados?",
+                "why": "A competência sobre jazidas é da União (CF, art. 176) e o plano não define o marco."
+              },
+              {
+                "question": "Qual o desenho da reforma política e dos novos critérios de indicação ao STF?",
+                "why": "As declarações citam 'racionalidade' e mudança de critérios sem texto ou parâmetro."
+              }
+            ],
+            "publicExplanation": "Em discurso de 30/07/2026 o candidato defendeu a anistia e o protagonismo em minerais críticos; em entrevista ao g1 e à GloboNews (07/08/2026) voltou ao tema da anistia. Não foi localizada explicação com texto, alcance ou custo das medidas.",
+            "methodology": "Apurado por discurso e entrevistas de 2026, pelo acordo de Goiás com os EUA sobre minerais críticos (mar/2026) e por reportagens sobre o acompanhamento do MPF. Os posicionamentos não constam do PDF do plano registrado no TSE; ficou de fora a íntegra das entrevistas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "clariana-barao": {
+      "proposals": [
+        {
+          "title": "Segurança: integração de fronteiras, policiamento baseado em dados e sufocamento financeiro das facções",
+          "reality": {
+            "proposal": "Monitorar fronteiras com sensores e drones, sufocar o financiamento das facções e orientar o policiamento urbano por dados.",
+            "requirement": {
+              "path": "depende-estados",
+              "quorum": "não se aplica a atos administrativos; acordos internacionais passam pelo Congresso (CF, art. 49, I)",
+              "note": "Fronteiras e crime organizado envolvem competências federais (Polícia Federal, PRF e Forças Armadas); o policiamento ostensivo é das polícias militares estaduais (CF, art. 144); a cooperação internacional depende de acordos e o plano não traz custo por eixo."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-08-24",
+                  "fact": "A segurança é um dos seis eixos apresentados, com integração de fronteiras, inteligência e dados.",
+                  "sources": [
+                    {
+                      "id": "src-cb-04"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-24",
+                  "fact": "O plano registrado organiza as propostas em eixos e matriz de implementação, sem custo por eixo.",
+                  "sources": [
+                    {
+                      "id": "src-cb-19"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": null,
+                  "fact": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+                }
+              ],
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
+              "sources": [
+                {
+                  "id": "src-cb-04"
+                },
+                {
+                  "id": "src-cb-19"
+                },
+                {
+                  "id": "src-cb-18"
+                },
+                {
+                  "id": "src-re-complemento1propostas-01"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 de 81 senadores",
+              "coalitionSeats": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 1,
+              "note": "DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); 1 episódio de negociação documentado no histórico da candidata. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Ações de fronteira são federais e o policiamento ostensivo é estadual",
+                "detail": "O patrulhamento de fronteiras e a investigação de facções envolvem a Polícia Federal, a PRF e as Forças Armadas; o policiamento ostensivo e a proteção de escolas e áreas vulneráveis dependem das polícias militares estaduais (CF, art. 144). O plano não traz custo, efetivo nem meta de cobertura.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento1propostas-01"
+                  },
+                  {
+                    "id": "src-cb-04"
+                  },
+                  {
+                    "id": "src-cb-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo e o cronograma do monitoramento remoto de fronteiras?",
+                "why": "O plano cita sensores, radares e drones sem valores, prazos ou extensão coberta."
+              },
+              {
+                "question": "Como o policiamento orientado por dados se integraria às polícias estaduais?",
+                "why": "A execução é estadual e o plano não descreve o arranjo federativo."
+              },
+              {
+                "question": "Qual o critério do 'sufocamento financeiro' das facções e quais órgãos executariam?",
+                "why": "O plano cita rastreamento de ativos e lavagem sem indicar instrumentos ou metas."
+              }
+            ],
+            "publicExplanation": "Em 24/08/2026 a candidata apresentou propostas para seis áreas de governo, entre elas segurança; não foi localizada explicação com custo, efetivo ou metas de cobertura nas fontes consultadas.",
+            "methodology": "Análise do plano registrado no TSE e das apresentações de campanha de agosto e setembro de 2026, além de atos de partido e de conselhos municipais em Várzea Grande. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal. Ficou de fora a conferência dos indicadores na fonte primária.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Saúde: atenção primária territorial, controle informatizado de filas e telemedicina no SUS",
+          "reality": {
+            "proposal": "Reforçar a atenção primária territorial, informatizar o controle de filas no SUS e integrar a telemedicina à rede pública.",
+            "requirement": {
+              "path": "depende-municipios",
+              "quorum": "não se aplica: a atenção primária é executada por municípios e o financiamento do SUS é tripartite",
+              "note": "A atenção primária é de execução municipal e o financiamento do SUS é tripartite (CF, arts. 196 e 198); o controle informatizado de filas e a telemedicina dependem de regulação federal e de sistemas estaduais e municipais; o plano não traz custo por eixo."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2025",
+                  "fact": "Como representante da OAB no Conselho Municipal de Saúde de Várzea Grande, defendeu a criação de banco de doadores de medula.",
+                  "sources": [
+                    {
+                      "id": "src-cb-74"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-24",
+                  "fact": "A saúde é um dos seis eixos apresentados, com atenção primária territorial e telemedicina.",
+                  "sources": [
+                    {
+                      "id": "src-cb-04"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09-05",
+                  "fact": "Em entrevista ao Jornal Nacional, apresentou prioridades da área social e de atendimento.",
+                  "sources": [
+                    {
+                      "id": "src-cb-12"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": null,
+                  "fact": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+                }
+              ],
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
+              "sources": [
+                {
+                  "id": "src-cb-04"
+                },
+                {
+                  "id": "src-cb-19"
+                },
+                {
+                  "id": "src-cb-74"
+                },
+                {
+                  "id": "src-cb-12"
+                },
+                {
+                  "id": "src-re-complemento1propostas-01"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 de 81 senadores",
+              "coalitionSeats": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 1,
+              "note": "DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); 1 episódio de negociação documentado no histórico da candidata. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Atenção primária e filas do SUS dependem de municípios e estados",
+                "detail": "A atenção primária é executada pelos municípios e o financiamento do SUS é tripartite (CF, arts. 196 e 198); filas, regulação e prontuários estão em sistemas estaduais e municipais. O plano não indica custo, meta de cobertura nem como a telemedicina seria regulada.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento1propostas-01"
+                  },
+                  {
+                    "id": "src-cb-04"
+                  },
+                  {
+                    "id": "src-cb-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo e a meta de cobertura da atenção primária territorial proposta?",
+                "why": "O plano cita acesso territorial sem número de equipes, custo ou prazo."
+              },
+              {
+                "question": "Como o controle informatizado de filas se integraria aos sistemas estaduais e municipais?",
+                "why": "As filas do SUS são geridas localmente e o plano não descreve a integração."
+              },
+              {
+                "question": "Qual a base normativa e os limites de privacidade do uso de inteligência artificial nas filas?",
+                "why": "O plano menciona inteligência artificial com privacidade preservada sem indicar salvaguardas."
+              }
+            ],
+            "publicExplanation": "Em 24/08/2026 a candidata apresentou os seis eixos, com atenção primária territorial e telemedicina; em 05/09/2026, no Jornal Nacional, detalhou prioridades da área social. Não foi localizada explicação com custo ou meta de cobertura.",
+            "methodology": "Análise do plano registrado no TSE e das apresentações de campanha de agosto e setembro de 2026, além de atos de partido e de conselhos municipais em Várzea Grande. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal. Ficou de fora a conferência dos indicadores na fonte primária.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Educação: alfabetização na idade adequada, formação técnica conectada a vocações regionais e tecnologia nas escolas",
+          "reality": {
+            "proposal": "Assegurar alfabetização na idade adequada, ampliar a formação técnica ligada às vocações regionais e usar tecnologia nas escolas.",
+            "requirement": {
+              "path": "depende-municipios",
+              "quorum": "não se aplica: a alfabetização e o ensino médio são executados por redes municipais e estaduais",
+              "note": "A educação básica é executada por municípios e estados, com colaboração e complementação federal (CF, arts. 211 e 212 e FUNDEB); as parcerias com empresas e o uso de tecnologia dependem de regulação e de financiamento; o plano não traz custo nem prazo por meta."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-08-24",
+                  "fact": "A educação é um dos seis eixos apresentados, com alfabetização na idade adequada e formação técnica.",
+                  "sources": [
+                    {
+                      "id": "src-cb-04"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09-05",
+                  "fact": "Em entrevista ao Jornal Nacional, apresentou as prioridades do plano na área social e educacional.",
+                  "sources": [
+                    {
+                      "id": "src-cb-12"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": null,
+                  "fact": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+                }
+              ],
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
+              "sources": [
+                {
+                  "id": "src-cb-04"
+                },
+                {
+                  "id": "src-cb-19"
+                },
+                {
+                  "id": "src-cb-12"
+                },
+                {
+                  "id": "src-re-complemento1propostas-01"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 de 81 senadores",
+              "coalitionSeats": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 1,
+              "note": "DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); 1 episódio de negociação documentado no histórico da candidata. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Alfabetização e ensino médio são executados por municípios e estados",
+                "detail": "A alfabetização na idade adequada depende das redes municipais e o ensino médio e técnico, das redes estaduais, com complementação federal pelo FUNDEB (CF, arts. 211 e 212). O plano não indica meta de alfabetização, custo por eixo nem como as parcerias com empresas seriam contratadas.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento1propostas-01"
+                  },
+                  {
+                    "id": "src-cb-04"
+                  },
+                  {
+                    "id": "src-cb-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual a meta de alfabetização na idade adequada e o prazo para alcançá-la?",
+                "why": "O plano cita o objetivo sem percentual, ano de referência ou indicador."
+              },
+              {
+                "question": "Como as parcerias com empresas para formação técnica seriam financiadas e fiscalizadas?",
+                "why": "O plano cita parcerias com empresas e instituições de ensino sem modelo ou recursos."
+              },
+              {
+                "question": "Qual o papel do Plano Nacional de Educação no plano da candidata?",
+                "why": "O plano não indica se adere ao PNE vigente nem como articula metas federais e estaduais."
+              }
+            ],
+            "publicExplanation": "Em 24/08/2026 a candidata apresentou a educação entre os seis eixos, com alfabetização na idade adequada e formação técnica conectada às vocações regionais; não foi localizada explicação com meta, custo ou prazo.",
+            "methodology": "Análise do plano registrado no TSE e das apresentações de campanha de agosto e setembro de 2026, além de atos de partido e de conselhos municipais em Várzea Grande. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal. Ficou de fora a conferência dos indicadores na fonte primária.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Economia: simplificação regulatória, crédito produtivo e infraestrutura por concessões",
+          "reality": {
+            "proposal": "Simplificar regras e digitalizar a abertura de empresas, ampliar o crédito a pequenos negócios e conceder infraestrutura à iniciativa privada.",
+            "requirement": {
+              "path": "depende-privado",
+              "quorum": "não se aplica: concessões exigem licitação e contratos com agentes privados",
+              "note": "Concessões e parcerias público-privadas dependem de lei, de licitação e de decisão de investidores (CF, art. 175); a simplificação regulatória e o crédito produtivo envolvem atos, leis e bancos públicos. As fontes localizadas não trazem valores das concessões previstas."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "2026-09-09",
+                  "fact": "Defendeu Selic a 7%, capital estrangeiro e industrialização de minerais críticos em entrevista.",
+                  "sources": [
+                    {
+                      "id": "src-cb-80"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-08-24",
+                  "fact": "A economia é um dos seis eixos apresentados, com simplificação regulatória e crédito a pequenos negócios.",
+                  "sources": [
+                    {
+                      "id": "src-cb-04"
+                    }
+                  ]
+                },
+                {
+                  "date": "2026-09-05",
+                  "fact": "Citou a Selic de 14% ao ano como obstáculo ao crédito em entrevista ao Jornal Nacional.",
+                  "sources": [
+                    {
+                      "id": "src-cb-12"
+                    }
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": null,
+                  "fact": "Não localizamos ação anterior em sentido diferente nas fontes consultadas."
+                }
+              ],
+              "noComparablePrecedent": "Nenhum ato em cargo público: nunca exerceu mandato nem cargo executivo; marcos são a presidência do DC em MT, conselhos municipais e voluntariado.",
+              "sources": [
+                {
+                  "id": "src-cb-04"
+                },
+                {
+                  "id": "src-cb-19"
+                },
+                {
+                  "id": "src-cb-80"
+                },
+                {
+                  "id": "src-cb-12"
+                },
+                {
+                  "id": "src-re-complemento1propostas-01"
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "DC: 0 de 513 deputados federais e 0 de 81 senadores",
+              "coalitionSeats": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+              "federations": "Sem federação registrada",
+              "documentedAgreements": 1,
+              "note": "DC: 0 de 513 deputados federais, 0 de 81 senadores e 0 governadores; 251 vereadores e 2 prefeitos (2024); 1 episódio de negociação documentado no histórico da candidata. Retrato atual, não previsão do próximo Congresso."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Concessões e crédito dependem de licitação, de bancos públicos e da taxa do Copom",
+                "detail": "Concessões e parcerias público-privadas dependem de lei, de licitação e de decisão de investidores (CF, art. 175 e Lei 8.987/1995); a taxa Selic é definida pelo Comitê de Política Monetária, com autonomia do Banco Central (LC 179/2021). O plano não traz valores, cronograma de leilões nem fonte de recursos.",
+                "sources": [
+                  {
+                    "id": "src-re-complemento1propostas-01"
+                  },
+                  {
+                    "id": "src-cb-80"
+                  },
+                  {
+                    "id": "src-cb-19"
+                  }
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais ativos e trechos seriam concedidos e com qual cronograma de leilões?",
+                "why": "O plano cita ferrovias, hidrovias, portos e cabotagem sem lista, prazo ou valor."
+              },
+              {
+                "question": "Qual a fonte de recursos e o desenho das garantias para o crédito a pequenos negócios?",
+                "why": "O plano cita crédito e garantias sem valores ou instrumento financeiro indicado."
+              },
+              {
+                "question": "Como a Selic a 7% conviveria com o regime de metas de inflação?",
+                "why": "A taxa é definida pelo Comitê de Política Monetária e o plano não indica o caminho para a redução."
+              }
+            ],
+            "publicExplanation": "Em 09/09/2026 a candidata defendeu Selic a 7%, fim das bets e mudanças no STF, citando capital estrangeiro para industrializar minerais críticos; o programa de governo registrado não detalha custo ou cronograma das concessões.",
+            "methodology": "Análise do plano registrado no TSE e das apresentações de campanha de agosto e setembro de 2026, além de atos de partido e de conselhos municipais em Várzea Grande. Clariana Barão nunca exerceu mandato nem cargo executivo, inclusive federal. Ficou de fora a conferência dos indicadores na fonte primária.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "Custo e cronograma por meta não constam dos planos registrados de lula, renan-santos, zema, caiado e clariana-barao nas fontes consultadas.",
+    "Não foram localizados estudos de viabilidade, memória de cálculo ou texto de projeto para as medidas que exigem emenda constitucional.",
+    "A íntegra da obra Livro Amarelo (renan-santos) e os textos integrais das leis complementares e PECs citadas ficaram fora da conferência.",
+    "Os posicionamentos de campanha de caiado sobre anistia e minerais críticos não constam do PDF do plano registrado no TSE."
+  ]
+}

@@ -2560,6 +2560,16 @@
       "date": "2026-09-29",
       "type": "partidario",
       "notes": "Programa publicado pelo próprio DC; consulta em 29/09/2026. O documento não traz data de publicação no site."
+    },
+    {
+      "id": "src-re-r2pais-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -4631,7 +4641,323 @@
     ],
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
-    "methodology": "Extração direta do documento registrado no TSE (15 páginas, lido integralmente a partir do PDF oficial, obtido via espelho de arquivo), com complemento de Agência Brasil (propostas para seis áreas; prioridade à mulher e à infância), Jornal Nacional, Poder360, Plano Aberto e análise do Contexto Brasil. As seis prioridades listadas são os seis capítulos do próprio documento (não são inferência nossa). Evidência marcada como parcial e confiança média porque o documento se autodeclara preliminar ('posterior definição de metas quantitativas'), não traz diagnóstico, linha de base, custos nem metas numéricas finais; a contagem item a item de promessas não foi refeita pela equipe (o dossiê independente Plano Aberto enumera ao menos 30 promessas numeradas)."
+    "methodology": "Extração direta do documento registrado no TSE (15 páginas, lido integralmente a partir do PDF oficial, obtido via espelho de arquivo), com complemento de Agência Brasil (propostas para seis áreas; prioridade à mulher e à infância), Jornal Nacional, Poder360, Plano Aberto e análise do Contexto Brasil. As seis prioridades listadas são os seis capítulos do próprio documento (não são inferência nossa). Evidência marcada como parcial e confiança média porque o documento se autodeclara preliminar ('posterior definição de metas quantitativas'), não traz diagnóstico, linha de base, custos nem metas numéricas finais; a contagem item a item de promessas não foi refeita pela equipe (o dossiê independente Plano Aberto enumera ao menos 30 promessas numeradas).",
+    "reality": {
+      "proposal": "'Proteger Hoje, Transformar o Amanhã': seis eixos com mulheres e crianças em primeiro lugar, Estado digital e avaliação de custo por política",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "As mudanças no STF defendidas em entrevistas alcançam o art. 101 da Constituição e passam por emenda; o corpo do projeto — rede de proteção à mulher, primeira infância, atenção primária, governo digital e transferências por indicadores — depende de lei, de orçamento e de estados e municípios, que executam creches, assistência social e segurança. O plano não vincula cada política a um instrumento.",
+        "sources": [
+          {
+            "id": "src-re-r2pais-01",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+            "publisher": "Presidência da República — Planalto",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publishedAt": "1988-10-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial",
+            "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+          },
+          {
+            "id": "src-cb-19",
+            "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+            "publisher": "TSE — Eleições 2026",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF do plano com matriz de implementação por horizontes."
+          },
+          {
+            "id": "src-cb-43",
+            "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6x1",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Entrevista ao vivo; a candidata falou sobre plano de governo, reforma do STF, revisão dos processos de 8 de janeiro e fim da escala 6x1."
+          }
+        ]
+      },
+      "history": {
+        "aligned": [
+          {
+            "date": "2026-07",
+            "fact": "Nome aprovado em reunião nacional do DC em Brasília, com dirigentes e presidentes de 21 diretórios estaduais (08/07/2026)",
+            "sources": [
+              {
+                "id": "src-cb-03",
+                "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+              }
+            ]
+          },
+          {
+            "date": "2026-08",
+            "fact": "Chapa 100% feminina oficializada em convenção nacional (05/08/2026); registro deferido pelo TSE em 11/09/2026",
+            "sources": [
+              {
+                "id": "src-cb-08",
+                "title": "DC oficializa Clariana Barão como candidata à Presidência",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção nacional; chapa exclusivamente feminina; aprovação por 21 diretórios em 08/07."
+              },
+              {
+                "id": "src-cb-01",
+                "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+                "publisher": "TSE — Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+                "publishedAt": "2026-09-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Chapa Clariana Barão/Fabiana Torquato deferida na sessão virtual encerrada em 11/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "2024-2025",
+            "fact": "Coordenação de grupo de voluntários no auxílio às enchentes do Rio Grande do Sul (2024) e atuação em conselhos municipais de Várzea Grande (2025)",
+            "sources": [
+              {
+                "id": "src-cb-75",
+                "title": "Advogada de VG que socorre vítimas de enchente critica políticos do RS: 'não estão nos ajudando'",
+                "publisher": "VGN (Várzea Grande)",
+                "url": "https://www.vgnoticias.com.br/cidades/advogada-de-vg-que-socorre-vitimas-de-enchente-critica-politicos-do-rs-nao-estao-nos-ajudando/116301",
+                "publishedAt": "2024-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registro da atuação de Clariana Barão no auxílio a vítimas das enchentes do Rio Grande do Sul, em 2024."
+              },
+              {
+                "id": "src-cb-74",
+                "title": "Advogada defende banco de medula no Hemocentro de VG: 'Baixo custo e enorme alcance social'",
+                "publisher": "VGN (Várzea Grande)",
+                "url": "https://www.vgnoticias.com.br/cidades/advogada-defende-banco-de-medula-no-hemocentro-de-vg-baixo-custo-e-enorme-alcance-social/132155",
+                "publishedAt": "2025",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Conselheira e advogada Clariana Barão, representante da OAB/Várzea Grande no Conselho Municipal de Saúde, defende a criação de banco de doadores de medula no futuro hemocentro. Página com bloqueio WAF na coleta; conteúdo lido por resumo indexado."
+              }
+            ]
+          }
+        ],
+        "divergent": [
+          {
+            "date": "2026-01 a 2026-07",
+            "fact": "O partido lançou dois nomes à Presidência antes dela no mesmo ciclo (Aldo Rebelo, em janeiro, e Joaquim Barbosa, em maio), com desistências sucessivas",
+            "sources": [
+              {
+                "id": "src-cb-28",
+                "title": "Saiba quem é a aposta do DC para substituir Barbosa e Rebelo (lançamento da candidatura de Clariana Barão)",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quem-e-a-aposta-do-dc-para-substituir-barbosa-e-rebelo/",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-cb-70",
+                "title": "Após desistência de Joaquim Barbosa, DC lança Clariana Barão à Presidência",
+                "publisher": "Band",
+                "url": "https://www.band.com.br/politica/apos-desistencia-de-joaquim-barbosa-dc-lanca-clariana-barao-a-presidencia",
+                "publishedAt": "2026-07-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ex-ministro do STF deixou a disputa por dificuldades na obtenção de recursos e estruturação da campanha; advogada é a terceira indicação do partido."
+              }
+            ]
+          }
+        ],
+        "noComparablePrecedent": "Primeira disputa eleitoral e nenhum cargo público ou eletivo: não há orçamento, votação ou decisão administrativa própria para comparar. O registro comparável é de direção partidária (presidência do diretório do DC em Mato Grosso), de conselhos municipais de Várzea Grande e de trabalho voluntário."
+      },
+      "support": {
+        "partySeats": "0 de 513 deputados federais e 0 de 81 senadores (DC, legislatura 2023-2027)",
+        "coalitionSeats": "Partido isolado: chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+        "federations": "Nenhuma",
+        "documentedAgreements": 1,
+        "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 senadores, 0 governadores, 251 vereadores e 2 prefeitos (2024), com cerca de 181 a 185 mil filiados em 2026; o partido recebeu R$ 3.307.679,85 de Fundo Eleitoral em 2026 e repassou R$ 1,5 milhão (45,3%) à candidatura presidencial até 01/09/2026.",
+        "sources": [
+          {
+            "id": "src-cb-10",
+            "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Bancada 2026 (0 federais, 0 senadores, 251 vereadores), filiados, história da legenda."
+          },
+          {
+            "id": "src-cb-11",
+            "title": "DC 2026: fundos, repasses e candidatos",
+            "publisher": "Plural (levantamento com dados do TSE)",
+            "url": "https://www.plural.jor.br/candidatos-2026-partido-dc/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "758 candidaturas do DC; FEFC R$ 3.307.679,85; R$ 1,5 mi repassados à candidatura de Clariana."
+          },
+          {
+            "id": "src-cb-08",
+            "title": "DC oficializa Clariana Barão como candidata à Presidência",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+            "publishedAt": "2026-08-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção nacional; chapa exclusivamente feminina; aprovação por 21 diretórios em 08/07."
+          }
+        ]
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Rede de proteção, creches e assistência são executadas por estados e municípios",
+          "detail": "As prioridades do plano — rede nacional de proteção, primeira infância do pré-natal à creche e atenção primária — dependem de delegacias estaduais, assistência social municipal, consórcios e Judiciário; o documento cita transferências associadas a indicadores 'quando juridicamente cabível'. O DC tem 0 de 513 deputados federais e 0 de 81 senadores e não registrou coligação.",
+          "sources": [
+            {
+              "id": "src-cb-19",
+              "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+              "publisher": "TSE — Eleições 2026",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "PDF do plano com matriz de implementação por horizontes."
+            },
+            {
+              "id": "src-cb-05",
+              "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Título do eixo 'Mulheres e Crianças em Primeiro Lugar' e Rede Nacional de Proteção."
+            },
+            {
+              "id": "src-cb-10",
+              "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Bancada 2026 (0 federais, 0 senadores, 251 vereadores), filiados, história da legenda."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "proposta-sem-precedente",
+          "title": "Documento registrado se declara preliminar, sem metas quantitativas nem custo por política",
+          "detail": "O plano registrado (15 páginas) define-se como 'versão estruturada para desenvolvimento programático, debate técnico e posterior definição de metas quantitativas' e não traz diagnóstico, linha de base, custo fiscal nem prazo por política; um dossiê independente enumera ao menos 30 promessas numeradas. Não há episódio de execução de programa público na trajetória apurada.",
+          "sources": [
+            {
+              "id": "src-cb-19",
+              "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+              "publisher": "TSE — Eleições 2026",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "PDF do plano com matriz de implementação por horizontes."
+            },
+            {
+              "id": "src-cb-17",
+              "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+              "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+              "url": "https://planoaberto.org/candidatos/clariana-barao",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Índice numerado de promessas (até 30) e avaliação de viabilidade de execução."
+            },
+            {
+              "id": "src-cb-60",
+              "title": "Seis planos à direita: o que dizem os documentos que quase ninguém leu",
+              "publisher": "Contexto Brasil",
+              "url": "https://contextobrasil.com.br/seis-planos-a-direita-o-que-dizem-os-documentos-que-quase-ninguem-leu/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Analisa o documento do DC como versão preliminar de 15 páginas, com seis capítulos e sem diagnóstico do país."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-outra-proposta",
+          "title": "Revisão de gastos e subsídios convive com rede nacional, primeira infância e Selic a 7%",
+          "detail": "O plano condiciona a proteção social ao crescimento e à revisão de gastos, subsídios e benefícios, com avaliação de impacto; nas mesmas semanas a candidata defendeu Selic a 7% ao ano, industrialização de minerais críticos com capital estrangeiro e revisão do ajuste fiscal. As fontes consultadas não trazem a conciliação entre a revisão de despesas e as novas redes e serviços.",
+          "sources": [
+            {
+              "id": "src-cb-19",
+              "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+              "publisher": "TSE — Eleições 2026",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "PDF do plano com matriz de implementação por horizontes."
+            },
+            {
+              "id": "src-cb-12",
+              "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+              "publisher": "g1 (Globo) — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+              "publishedAt": "2026-09-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+            },
+            {
+              "id": "src-cb-80",
+              "title": "Clariana Barão defende Selic a 7%, fim das bets e mudanças no STF (BM&C Talks)",
+              "publisher": "BM&C News",
+              "url": "https://bmcnews.com.br/programas-bmc/bmc-talks/clariana-barao-defende-selic-a-7-fim-das-bets-e-mudancas-no-stf/",
+              "publishedAt": "2026-09-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Entrevista em que a candidata declara intenção de buscar capital estrangeiro 'inclusive dos Estados Unidos e da China' para industrializar minerais críticos e terras raras no Brasil ('aqui nós vamos minerar, beneficiar, industrializar')."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Quais metas quantitativas, prazos e custos substituirão a versão preliminar do plano, e quando?",
+          "why": "O documento se declara em desenvolvimento programático, sem linha de base nem custo por política; o dossiê independente enumera ao menos 30 promessas numeradas que ainda não têm meta pública."
+        },
+        {
+          "question": "Qual o instrumento previsto para as mudanças no STF e para o fim da escala 6x1, ausentes do plano registrado?",
+          "why": "As duas posições foram registradas em entrevistas (25/08/2026 e 09/09/2026) e o plano registrado trata de 'Estado que funciona', governo digital e responsabilidade fiscal; não localizamos o desenho nem o veículo dessas mudanças."
+        },
+        {
+          "question": "Quais compromissos foram firmados com os 21 diretórios estaduais que aprovaram a candidatura?",
+          "why": "A aprovação interna envolveu dirigentes e presidentes de 21 diretórios e não há coligação ou federação registrada; as fontes consultadas não registram acordos programáticos documentados por escrito."
+        }
+      ],
+      "publicExplanation": "A candidata declarou ter 'valores da direita' e rejeitar o extremismo, com o diálogo como marca da candidatura, e que a legenda buscou renovação após as desistências. Não localizamos explicação pública sobre a ausência de metas e custos no plano nem sobre a destinação de 45,3% do Fundo Eleitoral recebido.",
+      "methodology": "Base: plano registrado no TSE (15 páginas), cobertura de 2026 (Agência Brasil, Jornal Nacional, Poder360), dossiê independente Plano Aberto e registros do partido. Nenhum dos cinco exerceu cargo executivo: o comparável de Clariana Barão vem da direção estadual do DC, de conselhos municipais e de trabalho voluntário. Ficaram fora a contagem item a item das promessas e o custo por política.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
   },
   "foreignPolicy": {
     "worldView": "Sem posicionamento documentado sobre EUA, China, Brics, Mercosul, União Europeia, conflitos, clima ou comércio. O plano registrado no TSE ('Proteger Hoje, Transformar o Amanhã', 15 páginas, seis capítulos) não menciona Brics, Mercosul, China, Estados Unidos, diplomacia, comércio exterior, Amazônia ou política de clima; a única passagem de natureza externa está no eixo de segurança — 'Fronteiras inteligentes e integradas' (sensores, radares, monitoramento remoto, drones e compartilhamento de dados; centro de comando) e 'cooperação interestadual e internacional' no combate ao narcotráfico e ao tráfico de armas, com prioridade a grandes organizações e sufocamento financeiro de facções. Em entrevista ao BM&C Talks (09/09/2026), declarou que pretende buscar capital estrangeiro, 'inclusive dos Estados Unidos e da China', para trazer unidades industriais ao Brasil e fazer com que o beneficiamento e a transformação de minerais críticos e terras raras ocorram no país ('aqui nós vamos minerar, beneficiar, industrializar'). Não foi localizada declaração dela sobre o tarifaço americano, sobre a política externa do governo Lula ou sobre qualquer tema bilateral. Nenhuma posição foi inferida do partido (DC): o partido não traz, nas fontes consultadas, posição de política externa atribuída à candidata.",

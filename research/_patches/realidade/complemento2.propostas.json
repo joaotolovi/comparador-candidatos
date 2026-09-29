@@ -1,0 +1,2036 @@
+{
+  "grupo": "complemento2",
+  "escopo": "propostas",
+  "sources": [
+    {
+      "id": "src-re-complemento2propostas-01",
+      "title": "August 19, 2009: A Historic day for Brazil — Parliament set up a Commission to audit the Brazilian public debt",
+      "publisher": "CADTM / Auditoria Cidadã da Dívida",
+      "url": "https://cadtm.org/August-19-2009-A-Historic-day-for",
+      "date": "2009-08-19",
+      "type": "movimento social",
+      "notes": "Relato da instalação, em 19/08/2009, da comissão parlamentar de auditoria da dívida pública."
+    },
+    {
+      "id": "src-re-complemento2propostas-02",
+      "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+      "date": "2023-08-31",
+      "type": "legislativo",
+      "notes": "Sanção da LC 200/2023."
+    },
+    {
+      "id": "src-re-complemento2propostas-03",
+      "title": "Dívida pública vai a R$ 9,29 trilhões em julho de 2026",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-economia/divida-publica-vai-a-r-929-trilhoes-em-julho-de-2026/",
+      "date": "2026-08",
+      "type": "imprensa",
+      "notes": "Estoque da Dívida Pública Federal e apropriação de juros de R$ 85,53 bi no mês."
+    },
+    {
+      "id": "src-re-complemento2propostas-04",
+      "title": "Custo da dívida pública dispara com Selic a 14% ao ano",
+      "publisher": "IstoÉ Dinheiro",
+      "url": "https://istoedinheiro.com.br/custo-divida-publica-selic-14-porcento-impacta-contas",
+      "date": "2026-08",
+      "type": "imprensa",
+      "notes": "Serviço da dívida de R$ 149 bilhões no 1º semestre de 2026."
+    },
+    {
+      "id": "src-re-complemento2propostas-05",
+      "title": "Governo reduz congelamento no Orçamento para R$ 16,1 bilhões em 2026",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+      "date": "2026-09-24",
+      "type": "imprensa",
+      "notes": "Relatório bimestral de setembro de 2026: bloqueio e contingenciamento."
+    },
+    {
+      "id": "src-re-complemento2propostas-06",
+      "title": "Sistema de Seleção Unificada (Sisu) — plataforma lançada pelo MEC em janeiro de 2010",
+      "publisher": "Wikipédia (em inglês)",
+      "url": "https://en.wikipedia.org/wiki/Sistema_de_Sele%C3%A7%C3%A3o_Unificada",
+      "date": "2010",
+      "type": "referência",
+      "notes": "Ingresso em instituições federais e estaduais pela nota do Enem."
+    },
+    {
+      "id": "src-re-complemento2propostas-07",
+      "title": "Lei de Cotas: o que muda com a atualização (sanção da Lei 14.723/2023)",
+      "publisher": "Estratégia Vestibulares",
+      "url": "https://vestibulares.estrategia.com/portal/enem-e-vestibulares/vestibulares/lei-de-cotas-o-que-muda-com-a-atualizacao/",
+      "date": "2023-11-13",
+      "type": "imprensa",
+      "notes": "Revisão da Lei 12.711/2012, sancionada sem vetos em 13/11/2023."
+    },
+    {
+      "id": "src-re-complemento2propostas-08",
+      "title": "Censo da Educação Superior 2024 — apresentação dos resultados",
+      "publisher": "Inep / Ministério da Educação",
+      "url": "https://download.inep.gov.br/educacao_superior/censo_superior/documentos/2024/apresentacao_censo_da_educacao_superior_2024.pdf",
+      "date": "2025",
+      "type": "oficial",
+      "notes": "Matrículas por categoria administrativa (pública e privada)."
+    },
+    {
+      "id": "src-re-complemento2propostas-09",
+      "title": "Por 7 votos a 4, STF confirma suspensão do piso da enfermagem",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2022-09/por-7-votos-4-stf-confirma-suspensao-do-piso-da-enfermagem",
+      "date": "2022-09-15",
+      "type": "imprensa",
+      "notes": "Lei 14.434/2022 e suspensão cautelar até a definição da fonte de custeio."
+    },
+    {
+      "id": "src-re-complemento2propostas-10",
+      "title": "Domingueira nº 24 — julho de 2023: o custeio do piso da enfermagem e a Emenda Constitucional 127/2022",
+      "publisher": "IDISA — Instituto de Direito Sanitário Aplicado",
+      "url": "http://idisa.org.br/domingueira/domingueira-n-24-julho-2023?lang=pt",
+      "date": "2023-07",
+      "type": "análise",
+      "notes": "A EC 127/2022 estabeleceu o dever da União de prestar assistência financeira aos entes para o piso."
+    },
+    {
+      "id": "src-re-complemento2propostas-11",
+      "title": "Mais Médicos: Saúde anuncia 2,2 mil novas vagas e cadastro reserva",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2025-03/mais-medicos-saude-anuncia-22-mil-novas-vagas-e-cadastro-reserva",
+      "date": "2025-03-17",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-12",
+      "title": "Pacientes do SUS aguardam há pelo menos 6 anos por exames simples no RS",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/24/pacientes-do-sus-aguardam-ha-pelo-menos-6-anos-por-exames-simples-no-rs.ghtml",
+      "date": "2026-04-24",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-13",
+      "title": "Ministro anuncia recorde de cirurgias no SUS; deputado diz que falta transparência nas filas",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://www.camara.leg.br/noticias/1276870-ministro-anuncia-recorde-de-cirurgias-no-sus-deputado-diz-que-falta-transparencia-nas-filas/",
+      "date": "2026",
+      "type": "legislativo",
+      "notes": "14,9 milhões de cirurgias eletivas em 2025, segundo o Ministério da Saúde."
+    },
+    {
+      "id": "src-re-complemento2propostas-14",
+      "title": "Com aprovação na Câmara, PEC da Segurança segue para o Senado (461 votos a 14 em 2º turno)",
+      "publisher": "Fundação Perseu Abramo",
+      "url": "https://fpabramo.org.br/com-aprovacao-na-camara-pec-da-seguranca-segue-para-o-senado",
+      "date": "2026-03-04",
+      "type": "imprensa",
+      "notes": "PEC 18/2025: 487 a 15 no 1º turno e 461 a 14 no 2º turno."
+    },
+    {
+      "id": "src-re-complemento2propostas-15",
+      "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
+      "date": "2026-09-02",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-16",
+      "title": "Operação no Rio é a maior em 15 anos e a mais letal no estado",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-10/acao-no-rio-e-maior-em-15-anos-e-mais-letal",
+      "date": "2025-10-28",
+      "type": "imprensa",
+      "notes": "64 mortos e 81 presos durante operação policial."
+    },
+    {
+      "id": "src-re-complemento2propostas-17",
+      "title": "Lei Complementar nº 97, de 9 de junho de 1999 — normas gerais para a organização, o preparo e o emprego das Forças Armadas (art. 15)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm",
+      "date": "1999-06-09",
+      "type": "oficial",
+      "notes": "Emprego na garantia da lei e da ordem depende de decreto presidencial."
+    },
+    {
+      "id": "src-re-complemento2propostas-18",
+      "title": "Brazil formally recognises Palestinian statehood (dezembro de 2010)",
+      "publisher": "Parlamento Europeu — documento de reunião",
+      "url": "https://www.europarl.europa.eu/meetdocs/2009_2014/documents/dplc/dv/1_brazilrecognisespalesti/1_brazilrecognisespalestine.pdf",
+      "date": "2010-12",
+      "type": "internacional"
+    },
+    {
+      "id": "src-re-complemento2propostas-19",
+      "title": "Brics pede solução de dois Estados na Palestina; Irã quer Estado único",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-07/brics-pede-solucao-de-dois-estados-na-palestina-ira-quer-estado-unico",
+      "date": "2025-07-06",
+      "type": "imprensa",
+      "notes": "Cúpula do BRICS sob presidência brasileira."
+    },
+    {
+      "id": "src-re-complemento2propostas-20",
+      "title": "Israel declara 'persona non grata' a Lula por comparar a guerra em Gaza com o Holocausto",
+      "publisher": "El País",
+      "url": "https://elpais.com/internacional/2024-02-19/israel-declara-persona-non-grata-a-lula-por-comparar-los-ataques-en-gaza-con-el-holocausto.html",
+      "date": "2024-02-19",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-21",
+      "title": "Brasil retira a su embajador en Israel por tensiones sobre Gaza",
+      "publisher": "DW",
+      "url": "https://www.dw.com/es/brasil-retira-a-su-embajador-en-israel-por-las-tensiones-sobre-gaza/a-69217765",
+      "date": "2024-05-29",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-22",
+      "title": "STF mantém reoneração gradual da folha de pagamento até 2027",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/stf-mantem-reoneracao-gradual-da-folha-de-pagamento-ate-2027",
+      "date": "2026-04-30",
+      "type": "imprensa",
+      "notes": "Benefício a 17 setores intensivos em mão de obra revertido ano a ano."
+    },
+    {
+      "id": "src-re-complemento2propostas-23",
+      "title": "Senado aprova IR isento até R$ 5 mil/mês e imposto mínimo a partir de R$ 600 mil/ano (PL 1.087/2025, sancionado como Lei 15.270/2025)",
+      "publisher": "JOTA / Reforma Tributária",
+      "url": "https://reformatributaria.com/senado-aprova-ir-isento-ate-r-5-mil-mes-e-imposto-minimo-a-partir-de-r-600-mil-ano-texto-vai-a-sancao",
+      "date": "2025-11-05",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-24",
+      "title": "Salário mínimo passa a valer R$ 1.621 a partir de 1º de janeiro",
+      "publisher": "Radioagência Nacional / EBC",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2025-12/salario-minimo-passa-valer-r-1621-partir-de-1o-de-janeiro",
+      "date": "2025-12-24",
+      "type": "imprensa",
+      "notes": "Reajuste de 6,8% para 2026."
+    },
+    {
+      "id": "src-re-complemento2propostas-25",
+      "title": "Governo apresenta mais 7 projetos ferroviários e inclui transporte de passageiros",
+      "publisher": "Folha de S.Paulo (C-Level)",
+      "url": "https://c-level.folha.uol.com.br/infraestrutura/2026/09/governo-apresenta-ao-mercado-mais-7-projetos-de-ferrovias-e-inclui-transporte-de-passageiros.shtml",
+      "date": "2026-09-16",
+      "type": "imprensa",
+      "notes": "Carteira de trechos 'shortline' apresentada a empresas e bancos."
+    },
+    {
+      "id": "src-re-complemento2propostas-26",
+      "title": "Apresentação da carteira de projetos ferroviários de 2026 — oito leilões e R$ 656 bilhões",
+      "publisher": "Ministério dos Transportes",
+      "url": "https://www.gov.br/transportes/pt-br/assuntos/concessoes/conteudo-ferrovias/apresentacao-carteira_de_projetos-2026-1.pdf",
+      "date": "2026",
+      "type": "oficial",
+      "notes": "R$ 140 bilhões previstos em investimento em malha ferroviária."
+    },
+    {
+      "id": "src-re-complemento2propostas-27",
+      "title": "Governo planeja entregar 4 editais de leilão de ferrovias ao TCU até fim de 2026",
+      "publisher": "ABIFER / Jornal do Commercio",
+      "url": "https://abifer.org.br/en/governo-planeja-entregar-4-editais-de-leilao-de-ferrovias-ao-tcu-ate-fim-de-2026",
+      "date": "2026-06-22",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-28",
+      "title": "Transnordestina Railway reaches 82% completion between Ceará and Piauí",
+      "publisher": "DatamarNews",
+      "url": "https://datamarnews.com/noticias/transnordestina-railway-reaches-82-completion-between-ceara-and-piaui",
+      "date": "2026-07-03",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-29",
+      "title": "Portaria Conjunta nº 5, de 22 de março de 2022 — Protocolo Clínico e Diretrizes Terapêuticas da Espasticidade (inclui toxina botulínica)",
+      "publisher": "Ministério da Saúde",
+      "url": "https://admin.saude.rs.gov.br/upload/arquivos/202303/15104057-20220323-portal-portaria-conjunta-no-5-pcdt-espasticidade.pdf",
+      "date": "2022-03-22",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-30",
+      "title": "Relatório para a sociedade nº 742 — toxina botulínica A para o tratamento profilático de migrânea crônica: recomendação inicial de não incorporação",
+      "publisher": "CONITEC — Ministério da Saúde",
+      "url": "https://www.gov.br/conitec/pt-br/midias/consultas/relatorios/2026/sociedade/relatorio-para-sociedade-final-no-742-toxina-botulinica-a/@@display-file/file",
+      "date": "2026-07-02",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-31",
+      "title": "Projeto libera produção do Mounjaro para ampliar oferta no SUS",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/02/projeto-libera-producao-do-mounjaro-para-ampliar-oferta-no-sus",
+      "date": "2026-02",
+      "type": "legislativo",
+      "notes": "Proposta sobre a tirzepatida em análise no Senado."
+    },
+    {
+      "id": "src-re-complemento2propostas-32",
+      "title": "Fundo Especial de Financiamento de Campanha (FEFC) — critérios de distribuição e uso",
+      "publisher": "Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/prestacao-de-contas/fundo-especial-de-financiamento-de-campanha-fefc",
+      "date": "2026",
+      "type": "oficial",
+      "notes": "Fundo previsto na Lei 9.504/1997, art. 16-C, destinado a despesas de campanha."
+    },
+    {
+      "id": "src-re-complemento2propostas-33",
+      "title": "Lei nº 15.388, de 14 de abril de 2026 — aprova o Plano Nacional de Educação (2026–2036)",
+      "publisher": "Câmara dos Deputados — Legislação",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15388-14-abril-2026-798950-publicacaooriginal-178891-pl.html",
+      "date": "2026-04-14",
+      "type": "legislativo",
+      "notes": "19 objetivos, incluindo educação integral e investimento de 10% do PIB até 2036."
+    },
+    {
+      "id": "src-re-complemento2propostas-34",
+      "title": "Lei nº 12.764, de 27 de dezembro de 2012 — Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista",
+      "publisher": "Câmara dos Deputados — Legislação",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-normaatualizada-pl.pdf",
+      "date": "2012-12-27",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-35",
+      "title": "Em 2025, desmatamento tem redução de 11,08% na Amazônia e 11,49% no Cerrado",
+      "publisher": "Ibama / Inpe",
+      "url": "https://www.gov.br/ibama/pt-br/assuntos/noticias/2025/em-2025-desmatamento-tem-reducao-de-11-08-na-amazonia-e-11-49-no-cerrado",
+      "date": "2025-10-30",
+      "type": "oficial",
+      "notes": "5.796 km² entre agosto de 2024 e julho de 2025; menor taxa em onze anos."
+    },
+    {
+      "id": "src-re-complemento2propostas-36",
+      "title": "Marco legal do hidrogênio de baixo carbono é sancionado (Lei 14.948/2024)",
+      "publisher": "Senado Federal — Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/08/05/marco-legal-do-hidrogenio-de-baixo-carbono-e-sancionado",
+      "date": "2024-08-05",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-37",
+      "title": "Quem está vendendo as terras raras brasileiras: 'o Brasil é a solução dos EUA'",
+      "publisher": "Brasil de Fato",
+      "url": "https://brasildefato.com.br/2026/05/20/quem-esta-vendendo-as-terras-raras-brasileiras-o-brasil-e-a-solucao-dos-eua",
+      "date": "2026-05-20",
+      "type": "imprensa",
+      "notes": "Venda da Serra Verde (GO) e destino da produção."
+    },
+    {
+      "id": "src-re-complemento2propostas-38",
+      "title": "Augusto Cury lança programa gratuito de prevenção ao suicídio 'Você é Insubstituível'",
+      "publisher": "R7",
+      "url": "https://noticias.r7.com/saude/augusto-cury-lanca-programa-gratuito-de-prevencao-ao-suicidio-22112018/",
+      "date": "2018-11-22",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-39",
+      "title": "Lei nº 13.819, de 26 de abril de 2019 — institui a Política Nacional de Prevenção da Automutilação e do Suicídio",
+      "publisher": "Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/cgpnpas/atos-normativos/lei-no-13-819-de-26-de-abril-de-2019.pdf/view",
+      "date": "2019-04-26",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-40",
+      "title": "Parecer SF nº 82, de 2025 — altera a Lei nº 13.819/2019 para prever ações direcionadas às pessoas com deficiência",
+      "publisher": "Senado Federal",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10040069&mime=application%2Fpdf",
+      "date": "2025-09-03",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-41",
+      "title": "RQS nº 661/2025 — requerimento de informações ao Ministro da Saúde sobre as ações do Setembro Amarelo",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170314",
+      "date": "2025",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-42",
+      "title": "STF reconhece omissão do Congresso na criação do Imposto sobre Grandes Fortunas (ADO 55)",
+      "publisher": "Supremo Tribunal Federal — notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reconhece-omissao-do-congresso-na-criacao-do-imposto-sobre-grandes-fortunas",
+      "date": "2025-10",
+      "type": "judiciário",
+      "notes": "Decisão não fixou prazo para a edição da lei complementar."
+    },
+    {
+      "id": "src-re-complemento2propostas-43",
+      "title": "PLP nº 05/2026: instituição do Imposto Sobre Grandes Fortunas (art. 153, VII, da Constituição)",
+      "publisher": "VPBG — Insights",
+      "url": "https://vpbg.com.br/pt/insights/articles/2026/february/26/plp-n-05-2026-instituicao-do-imposto-sobre-grandes-fortunas",
+      "date": "2026-02-26",
+      "type": "análise"
+    },
+    {
+      "id": "src-re-complemento2propostas-44",
+      "title": "Ministro Barroso vota pela descriminalização do aborto até 12 semanas de gestação (ADPF 442)",
+      "publisher": "Supremo Tribunal Federal — notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ministro-barroso-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao",
+      "date": "2025-10-17",
+      "type": "judiciário",
+      "notes": "Sessão virtual extraordinária; houve pedido de destaque e o julgamento vai ao plenário físico."
+    },
+    {
+      "id": "src-re-complemento2propostas-45",
+      "title": "Projeto de lei prevê pena de homicídio simples para aborto após 22 semanas de gestação (PL 1904/2024)",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://www.camara.leg.br/noticias/1071458-projeto-de-lei-preve-pena-de-homicidio-simples-para-aborto-apos-22-semanas-de-gestacao/",
+      "date": "2024-06-11",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-46",
+      "title": "Votos brancos e nulos superam 65% em votação sobre judiciário da Bolívia",
+      "publisher": "RFI Brasil",
+      "url": "https://www.rfi.fr/br/americas/20171204-linha-direta",
+      "date": "2017-12-04",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-47",
+      "title": "Eleição de magistrados na Bolívia registra 40% de votos brancos e nulos",
+      "publisher": "AMAERJ",
+      "url": "https://amaerj.org.br/noticias/eleicao-de-magistrados-na-bolivia-registra-40-de-votos-brancos-e-nulos/",
+      "date": "2011-10-17",
+      "type": "imprensa"
+    },
+    {
+      "id": "src-re-complemento2propostas-48",
+      "title": "Balanço das Greves de 2025 (Estudos e Pesquisas nº 113)",
+      "publisher": "DIEESE",
+      "url": "https://www.dieese.org.br/estudosepesquisas/2026/estPesq113greves.pdf",
+      "date": "2026-04",
+      "type": "sindical",
+      "notes": "1.006 greves em 2025."
+    },
+    {
+      "id": "src-re-complemento2propostas-49",
+      "title": "Atrasos salariais e condições de trabalho: greves no Brasil têm alta de 14% puxada por paralisações no setor privado",
+      "publisher": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2026/04/20/atrasos-salariais-e-condicoes-de-trabalho-greves-no-brasil-tem-alta-de-14-puxada-por-paralisacoes-no-setor-privado",
+      "date": "2026-04-20",
+      "type": "imprensa",
+      "notes": "880 greves em 2024 e 1.006 em 2025."
+    },
+    {
+      "id": "src-re-complemento2propostas-50",
+      "title": "Professores de universidades e instituições federais encerram greve",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2024-06/professores-de-universidades-e-instituicoes-federais-encerram-greve",
+      "date": "2024-06-24",
+      "type": "imprensa",
+      "notes": "Acordo assinado em 26/06/2024, com recomposição salarial posterior."
+    },
+    {
+      "id": "src-re-complemento2propostas-51",
+      "title": "Plenário ratifica extinção da contribuição sindical obrigatória e conclui reforma trabalhista (Lei 13.467/2017)",
+      "publisher": "Agência Câmara de Notícias",
+      "url": "https://www.camara.leg.br/noticias/512663-plenario-ratifica-extincao-da-contribuicao-sindical-obrigatoria-e-conclui-reforma-trabalhista",
+      "date": "2017-04",
+      "type": "legislativo"
+    },
+    {
+      "id": "src-re-complemento2propostas-52",
+      "title": "Lula oficializa retorno do Brasil à Unasul (decreto de 06/04/2023)",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/mundo/noticia/2023/04/lula-oficializa-retorno-do-brasil-a-unasul-bloco-fundado-por-governos-de-esquerda.ghtml",
+      "date": "2023-04-06",
+      "type": "imprensa",
+      "notes": "Vigência a partir de 6 de maio de 2023."
+    },
+    {
+      "id": "src-re-complemento2propostas-53",
+      "title": "A Política Externa Independente em ação: a Conferência de Punta del Este de 1962",
+      "publisher": "Revista Brasileira de Política Internacional (SciELO)",
+      "url": "https://scielo.br/j/rbpi/a/LPmXQQHXrCBLpyXK5SxtBtz/abstract?ilang=en&lang=en",
+      "date": "1962",
+      "type": "acadêmico",
+      "notes": "Divergência com os EUA sobre Cuba na conferência de Punta del Este."
+    },
+    {
+      "id": "src-re-complemento2propostas-54",
+      "title": "Lei nº 7.783, de 28 de junho de 1989 — dispõe sobre o exercício do direito de greve e define as atividades essenciais",
+      "publisher": "Presidência da República — Planalto",
+      "url": "http://planalto.gov.br/ccivil_03/leis/l7783.htm",
+      "date": "1989-06-28",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-55",
+      "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=UP&idLegislatura=57&itens=100",
+      "date": "2026-09-29",
+      "type": "oficial"
+    },
+    {
+      "id": "src-re-complemento2propostas-56",
+      "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+      "publisher": "Senado Federal",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+      "date": "2026-09-29",
+      "type": "oficial"
+    }
+  ],
+  "candidates": {
+    "edmilson-costa": {
+      "proposals": [
+        {
+          "title": "Auditoria e suspensão de juros da dívida pública; revogação do arcabouço fiscal e da LRF",
+          "reality": {
+            "proposal": "Auditar a dívida pública e suspender o pagamento de juros, revogando o arcabouço fiscal e a Lei de Responsabilidade Fiscal.",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar: 257 deputados e 41 senadores — maioria absoluta (CF, art. 69)",
+              "note": "A LRF é a LC 101/2000 e o arcabouço fiscal, a LC 200/2023, sancionada em 2023 e vigente em 2026; revogar matéria reservada a lei complementar exige maioria absoluta nas duas Casas. A suspensão de juros afeta a rolagem da Dívida Pública Federal, de R$ 9,29 trilhões em julho de 2026."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Ago/2009",
+                  "fact": "A Câmara instalou comissão para auditoria da dívida pública, demanda de movimentos sociais desde a Constituinte.",
+                  "sources": [
+                    "src-re-complemento2propostas-01"
+                  ]
+                },
+                {
+                  "date": "Ago/2026",
+                  "fact": "O programa registrado inscreve auditoria e suspensão de juros da dívida entre as transformações propostas.",
+                  "sources": [
+                    "src-ec-05"
+                  ]
+                },
+                {
+                  "date": "Ago/2026",
+                  "fact": "O candidato cita a dívida interna como limite do fundo público em entrevista publicada pelo partido.",
+                  "sources": [
+                    "src-ec-16"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Jul/2026",
+                  "fact": "A Dívida Pública Federal chegou a R$ 9,29 trilhões, com apropriação de juros de R$ 85,53 bilhões no mês.",
+                  "sources": [
+                    "src-re-complemento2propostas-03"
+                  ]
+                },
+                {
+                  "date": "Ago/2023",
+                  "fact": "O arcabouço fiscal foi sancionado como LC 200/2023 e substituiu o teto de gastos, com limite de crescimento real de 2,5% ao ano.",
+                  "sources": [
+                    "src-re-complemento2propostas-02"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "O Orçamento de 2026 seguiu as regras vigentes, com contenção de R$ 16,1 bilhões entre bloqueio e contingenciamento.",
+                  "sources": [
+                    "src-re-complemento2propostas-05"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Revogar a LRF e o arcabouço exige lei complementar nas duas Casas",
+                "detail": "A LRF é a LC 101/2000 e o arcabouço é a LC 200/2023: revogar essas normas exige maioria absoluta, 257 deputados e 41 senadores. O programa não indica o texto substituto nem o efeito da suspensão sobre a rolagem da dívida de R$ 9,29 trilhões (jul/2026) e sobre contratos em vigor.",
+                "sources": [
+                  "src-ec-05",
+                  "src-re-complemento2propostas-02",
+                  "src-re-complemento2propostas-03"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Suspender juros convive com 10% do PIB na saúde e estatização do ensino, sem custo estimado",
+                "detail": "O mesmo programa prevê 10% do PIB para a saúde, estatização do ensino privado, jornada de 30 horas e aumento de salários. Não localizamos no documento registrado estimativa de custo, prazo de transição ou fonte de recursos para o conjunto das medidas.",
+                "sources": [
+                  "src-ec-05",
+                  "src-ec-04"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "A suspensão alcança juros da dívida interna, externa ou ambas, e quais credores seriam afetados?",
+                "why": "O programa cita auditoria e suspensão sem distinguir estoque, credores públicos e privados, fundos de pensão e contratos em vigor.",
+                "sources": [
+                  "src-ec-05"
+                ]
+              },
+              {
+                "question": "Qual norma passaria a limitar as despesas no lugar da LRF e do arcabouço fiscal?",
+                "why": "Os dois regimes fixam limites de gasto e pisos de saúde e educação; o documento registrado não indica o substituto nem a regra de transição.",
+                "sources": [
+                  "src-ec-05",
+                  "src-re-complemento2propostas-02"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato liga o item ao destino do fundo público: em entrevista publicada pelo partido, afirma que a dívida interna limita a capacidade de investimento social. O programa atribui a viabilidade das transformações ao grau de industrialização do país e à mobilização popular, sem quantificar o efeito da suspensão de juros.",
+            "methodology": "Leitura do programa do PCB registrado no TSE e do índice oficial de propostas, de entrevista e artigos do candidato no site do partido, da LC 200/2023 e de dados de dívida divulgados pela imprensa em 2026. O candidato nunca exerceu cargo público. Ficaram de fora a composição da dívida por detentor e a minuta de revogação, não localizadas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Ensino 100% público e gratuito da creche à pós-graduação, fim do vestibular e cotas ampliadas",
+          "reality": {
+            "proposal": "Estatizar o ensino privado, acabar com o vestibular nas federais e ampliar as cotas, com piso salarial nacional da educação.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "Estatizar instituições privadas de ensino altera o art. 209 da Constituição e exige indenização (art. 5º, XXIV); hoje o ingresso nas federais se dá pelo Sisu, com a nota do Enem, sob autonomia didático-científica (art. 207), e as cotas são definidas em lei ordinária (Lei 12.711/2012, revisada pela Lei 14.723/2023)."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Jan/2010",
+                  "fact": "O MEC criou o Sisu, e as instituições federais passaram a selecionar alunos pela nota do Enem.",
+                  "sources": [
+                    "src-re-complemento2propostas-06"
+                  ]
+                },
+                {
+                  "date": "Nov/2023",
+                  "fact": "O Congresso revisou a Lei de Cotas (Lei 14.723/2023), mantendo a reserva de 50% das vagas nas instituições federais.",
+                  "sources": [
+                    "src-re-complemento2propostas-07"
+                  ]
+                },
+                {
+                  "date": "Ago/2026",
+                  "fact": "O programa registrado propõe fim do vestibular, cotas de 54% para pessoas negras e piso salarial nacional da educação.",
+                  "sources": [
+                    "src-ec-05"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "2024",
+                  "fact": "A maior parte das matrículas do ensino superior está na rede privada, segundo o Censo da Educação Superior.",
+                  "sources": [
+                    "src-re-complemento2propostas-08"
+                  ]
+                },
+                {
+                  "date": "2026",
+                  "fact": "A Constituição admite a iniciativa privada no ensino (art. 209) e condiciona expropriações a indenização prévia e justa (art. 5º, XXIV).",
+                  "sources": [
+                    "src-re-r3propostas-02"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PCB: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCB nº 21; vice Cleusa Santos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCB tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Estatizar o ensino privado altera o art. 209 e exige indenização prévia",
+                "detail": "A Constituição assegura a liberdade de iniciativa no ensino (art. 209) e condiciona desapropriações a indenização justa e prévia (art. 5º, XXIV). A mudança envolve emenda constitucional, com 308 deputados e 49 senadores em dois turnos, e o programa não estima custo nem cronograma.",
+                "sources": [
+                  "src-ec-05",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Ingresso sem processo seletivo nas universidades federais sem precedente localizado",
+                "detail": "Desde 2010 a seleção nas federais é feita pelo Sisu, com a nota do Enem, dentro da autonomia didático-científica (art. 207). Não localizamos precedente de ingresso em universidades públicas sem processo seletivo nem projeto de lei em tramitação que o preveja.",
+                "sources": [
+                  "src-re-complemento2propostas-06",
+                  "src-re-r3propostas-02"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Sem vestibular, como se definiria o acesso às vagas — inscrição, sorteio ou critério de escola pública?",
+                "why": "O documento fixa o fim do processo seletivo, mas não indica o mecanismo de distribuição das vagas nas universidades federais.",
+                "sources": [
+                  "src-ec-05"
+                ]
+              },
+              {
+                "question": "Qual o custo previsto para incorporar as instituições privadas de ensino e como seria a indenização?",
+                "why": "O programa prevê estatização do ensino privado, que concentra a maior parte das matrículas do ensino superior, sem estimativa de custo ou cronograma.",
+                "sources": [
+                  "src-ec-05",
+                  "src-re-complemento2propostas-08"
+                ]
+              }
+            ],
+            "publicExplanation": "\"Acreditamos plenamente que as propostas do Programa Político do PCB são viáveis porque o Brasil está maduro para o Socialismo\", diz o programa, que liga o fim do vestibular à universalização do acesso e não trata do custo da estatização do ensino privado nem do modelo de seleção sem vestibular.",
+            "methodology": "Leitura do programa do PCB e do índice oficial de propostas no TSE, da Lei de Cotas e de sua revisão de 2023, do texto constitucional (arts. 207, 209 e 5º) e do Censo da Educação Superior 2024. O candidato nunca exerceu cargo público. Ficaram de fora o custo da estatização e os critérios de transição, não detalhados.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "hertz-dias": {
+      "proposals": [
+        {
+          "id": "kp-hd-6",
+          "title": "Direito de greve e atuação sindical dos trabalhadores, com controle estatal de estatísticas e greves",
+          "reality": {
+            "proposal": "Garantir liberdade de greve em todos os setores, sem autorização do empregador, e tornar estatais as estatísticas de greves (eixo Governança).",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "note": "O direito de greve é o art. 9º da Constituição, regulamentado pela Lei 7.783/1989, que lista atividades essenciais e o atendimento à comunidade; para servidores públicos não há lei específica, e o STF aplica a lei geral. A unicidade sindical está no art. 8º, II, e sua remoção exigiria emenda; o registro de greves depende de lei ou ato que o crie."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Jun/1989",
+                  "fact": "A Lei 7.783/1989 regulamentou o direito de greve, definiu atividades essenciais e exigiu aviso prévio e manutenção de serviços.",
+                  "sources": [
+                    "src-re-complemento2propostas-54"
+                  ]
+                },
+                {
+                  "date": "Jun/2024",
+                  "fact": "A greve de professores de universidades e institutos federais terminou em acordo, com recomposição salarial prevista na MP 1.286/2024.",
+                  "sources": [
+                    "src-re-complemento2propostas-50"
+                  ]
+                },
+                {
+                  "date": "Abr/2026",
+                  "fact": "O DIEESE contabilizou 1.006 greves em 2025, alta de 14% sobre 2024 (880 paralisações), com avanço no setor privado.",
+                  "sources": [
+                    "src-re-complemento2propostas-48",
+                    "src-re-complemento2propostas-49"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Abr/2017",
+                  "fact": "A reforma trabalhista (Lei 13.467/2017) extinguiu a contribuição sindical obrigatória e alterou a representação dos trabalhadores.",
+                  "sources": [
+                    "src-re-complemento2propostas-51"
+                  ]
+                },
+                {
+                  "date": "Abr/2026",
+                  "fact": "A estatística de greves não é produzida pelo Estado: o balanço anual usado no debate é do DIEESE, entidade sindical.",
+                  "sources": [
+                    "src-re-complemento2propostas-48"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSTU: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PSTU nº 16; vice Vanessa Portugal, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PSTU tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Ampliar a greve em serviços essenciais colide com a Lei 7.783/1989",
+                "detail": "A lei de 1989 lista atividades essenciais com atendimento obrigatório à população e exige aviso prévio; para servidores públicos não há lei específica. Mudar esse desenho depende de lei ordinária no Congresso, onde o PSTU tem 0 cadeiras na Câmara e no Senado.",
+                "sources": [
+                  "src-re-complemento2propostas-54",
+                  "src-hd-11",
+                  "src-hd-12"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Estatísticas de greves produzidas pelo Estado sem precedente localizado",
+                "detail": "Não localizamos órgão público que consolide greves no Brasil: o balanço anual disponível é o do DIEESE (nº 113, abril de 2026), entidade sindical, com 1.006 greves em 2025. O plano não indica órgão nem critério de contagem.",
+                "sources": [
+                  "src-re-complemento2propostas-48",
+                  "src-re-complemento2propostas-49",
+                  "src-hd-05"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Como o Estado passaria a registrar greves: por declaração do sindicato, da empresa ou por órgão federal?",
+                "why": "O plano menciona estatísticas de greves no eixo Governança, sem indicar o órgão responsável, a periodicidade ou o critério de contagem.",
+                "sources": [
+                  "src-hd-05",
+                  "src-hd-04"
+                ]
+              },
+              {
+                "question": "A proposta alcança os servidores públicos e as atividades essenciais, com qual regra de atendimento à população?",
+                "why": "A lei vigente exige manutenção de serviços essenciais durante a greve; o plano não define o regime para esses setores nem para o funcionalismo.",
+                "sources": [
+                  "src-re-complemento2propostas-54",
+                  "src-hd-05"
+                ]
+              }
+            ],
+            "publicExplanation": "\"Queremos que a classe trabalhadora possa se organizar\", afirma o candidato em entrevista, tratando a greve como instrumento de organização e ação direta; o plano inscreve o item no eixo Governança. Não localizamos resposta pública sobre como seriam produzidas as estatísticas de greves.",
+            "methodology": "Leitura do plano registrado no TSE (PDF e índice de 38 itens), de entrevista do candidato ao Alma Preta e do balanço do DIEESE de abril de 2026, com o texto da Lei 7.783/1989. O candidato nunca exerceu cargo público: o histórico comparável é partidário e sindical. Ficou de fora o desenho do registro de greves.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "kp-hd-7",
+          "title": "'Enfrentar o imperialismo' como eixo central da política externa",
+          "reality": {
+            "proposal": "Adotar o enfrentamento do imperialismo como eixo da política externa, com alinhamento a blocos regionais e oposição a foros liderados pelos EUA.",
+            "requirement": {
+              "path": "negociacao-internacional",
+              "note": "A política externa é conduzida pelo Executivo (art. 84), e adesão a tratados e blocos passa pelo Congresso (art. 49, I). O eixo declarado depende de atos de governo e de negociação com outros Estados, sem instrumento único previsto no plano."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Ago/2026",
+                  "fact": "O plano registrado propõe enfrentar o imperialismo como eixo da política externa; o índice oficial traz um eixo próprio de inserção global.",
+                  "sources": [
+                    "src-hd-13",
+                    "src-hd-04"
+                  ]
+                },
+                {
+                  "date": "Jan/1962",
+                  "fact": "Na Conferência de Punta del Este, a delegação brasileira integrou o grupo que divergiu dos EUA sobre Cuba, na Política Externa Independente.",
+                  "sources": [
+                    "src-re-complemento2propostas-53"
+                  ]
+                },
+                {
+                  "date": "Mai/2023",
+                  "fact": "O Brasil formalizou o retorno à Unasul por decreto, com vigência a partir de 6 de maio de 2023.",
+                  "sources": [
+                    "src-re-complemento2propostas-52"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Fev/2024",
+                  "fact": "Israel declarou o presidente brasileiro 'persona non grata' após declarações sobre Gaza; em maio de 2024 o Brasil retirou o embaixador em Tel Aviv.",
+                  "sources": [
+                    "src-re-complemento2propostas-20",
+                    "src-re-complemento2propostas-21"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "O PSTU tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026).",
+                  "sources": [
+                    "src-hd-11",
+                    "src-hd-12"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PSTU: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PSTU nº 16; vice Vanessa Portugal, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PSTU tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Adesões e tratados que sustentam o eixo passam pelo Congresso",
+                "detail": "Aprovar tratados e aderir a blocos depende do Congresso (art. 49, I), onde o PSTU tem 0 cadeiras. O plano não indica quais adesões ou saídas seriam propostas, nem estima custo ou efeito sobre acordos comerciais vigentes.",
+                "sources": [
+                  "src-re-r3propostas-02",
+                  "src-hd-11",
+                  "src-hd-12"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Eixo de política externa definido como enfrentamento do imperialismo sem instrumento indicado",
+                "detail": "Não localizamos política externa brasileira organizada por esse eixo com instrumento definido no plano. Os episódios comparáveis são posições pontuais, como a divergência sobre Cuba em Punta del Este (1962), e a volta à Unasul por decreto, em 2023.",
+                "sources": [
+                  "src-re-complemento2propostas-53",
+                  "src-re-complemento2propostas-52",
+                  "src-hd-05"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais adesões e rupturas o eixo implica — saída da OEA, ingresso na ALBA e revisão de acordos com os EUA?",
+                "why": "O plano define o eixo em termos de postura e não lista atos, tratados ou acordos afetados pela reorientação.",
+                "sources": [
+                  "src-hd-05",
+                  "src-hd-13"
+                ]
+              },
+              {
+                "question": "Qual o efeito previsto sobre comércio e investimento com os países citados como adversários?",
+                "why": "Não localizamos no plano estimativa de impacto comercial ou de custo diplomático para o conjunto da proposta.",
+                "sources": [
+                  "src-hd-05"
+                ]
+              }
+            ],
+            "publicExplanation": "Publicações do partido tratam o apoio a Cuba e a oposição ao governo dos EUA como parte do mesmo eixo, e o candidato apresenta a política externa como frente de enfrentamento do sistema. Não localizamos resposta pública sobre efeitos comerciais da reorientação proposta.",
+            "methodology": "Leitura do plano registrado no TSE e do índice oficial, de reportagem do Metrópoles de agosto de 2026 sobre o eixo, de publicação do partido sobre Cuba e do texto constitucional (arts. 49 e 84). O candidato nunca exerceu cargo público. Ficaram de fora as posições do partido sobre cada país citado.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "rui-costa-pimenta": {
+      "proposals": [
+        {
+          "id": "kp-rp-6",
+          "title": "Plano emergencial para a saúde: pisos salariais e 600 mil concursos",
+          "reality": {
+            "proposal": "Criar plano emergencial com piso de R$ 8 mil para médicos, R$ 6,5 mil para enfermeiros e 600 mil concursos na saúde (eixo Saúde).",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "note": "Piso salarial na saúde foi fixado por lei federal no caso da enfermagem (Lei 14.434/2022), e o custeio exigiu fonte de recursos — a EC 127/2022 previu assistência financeira da União aos entes. A abertura de vagas depende de autorização e de lei orçamentária; o plano não estima o custo."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Ago/2022",
+                  "fact": "A Lei 14.434/2022 fixou o piso salarial nacional da enfermagem, precedente de piso por lei federal na área da saúde.",
+                  "sources": [
+                    "src-re-complemento2propostas-09"
+                  ]
+                },
+                {
+                  "date": "Dez/2022",
+                  "fact": "O Congresso aprovou a EC 127/2022, que atribuiu à União assistência financeira para o custeio do piso da enfermagem.",
+                  "sources": [
+                    "src-re-complemento2propostas-10"
+                  ]
+                },
+                {
+                  "date": "Mar/2025",
+                  "fact": "O Ministério da Saúde anunciou 2,2 mil novas vagas no programa Mais Médicos, com cadastro reserva.",
+                  "sources": [
+                    "src-re-complemento2propostas-11"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Set/2022",
+                  "fact": "O STF confirmou, por 7 votos a 4, a suspensão do piso da enfermagem até a definição da fonte de custeio.",
+                  "sources": [
+                    "src-re-complemento2propostas-09"
+                  ]
+                },
+                {
+                  "date": "Abr/2026",
+                  "fact": "No Rio Grande do Sul, pacientes do SUS aguardavam até seis anos por exames simples, segundo reportagem.",
+                  "sources": [
+                    "src-re-complemento2propostas-12"
+                  ]
+                },
+                {
+                  "date": "2025",
+                  "fact": "O Ministério da Saúde anunciou recorde de 14,9 milhões de cirurgias eletivas, com críticas parlamentares à transparência das filas.",
+                  "sources": [
+                    "src-re-complemento2propostas-13"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026); o partido informou candidaturas em 18 estados e no DF em 08/08/2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Pisos salariais na saúde dependem de lei e de fonte de custeio definida",
+                "detail": "O piso da enfermagem (Lei 14.434/2022) ficou suspenso pelo STF até a EC 127/2022 indicar o custeio pela União. O plano propõe pisos maiores, como R$ 8 mil para médicos, sem indicar fonte de recursos nem estimativa de impacto anual.",
+                "sources": [
+                  "src-re-complemento2propostas-09",
+                  "src-re-complemento2propostas-10",
+                  "src-rp-08"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Abertura de 600 mil vagas depende de lei orçamentária e do limite de gastos em vigor",
+                "detail": "Concursos federais exigem autorização e previsão na lei orçamentária, dentro do limite do arcabouço fiscal (LC 200/2023), que resultou em contenção de R$ 16,1 bilhões no Orçamento de 2026. O plano não indica prazo, cargos ou custo por exercício.",
+                "sources": [
+                  "src-rp-08",
+                  "src-re-complemento2propostas-02",
+                  "src-re-complemento2propostas-05"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo anual dos pisos propostos e de onde viria o recurso?",
+                "why": "O programa fixa valores de piso sem estimativa de impacto orçamentário, e o precedente da enfermagem exigiu emenda constitucional de custeio.",
+                "sources": [
+                  "src-rp-08",
+                  "src-re-complemento2propostas-10"
+                ]
+              },
+              {
+                "question": "Em quantos anos seriam abertos os 600 mil concursos e em quais carreiras?",
+                "why": "O documento indica o total de vagas sem cronograma, cargos definidos ou previsão orçamentária por exercício.",
+                "sources": [
+                  "src-rp-08",
+                  "src-rp-07"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato apresenta o plano emergencial como resposta às filas e aos salários da saúde, dentro da pauta de reajuste geral de 50% e do 'salário mínimo mínimo' de R$ 7.500 registrada no programa. Não localizamos resposta pública sobre a fonte de recursos dos pisos nem o cronograma dos concursos.",
+            "methodology": "Leitura do programa de governo registrado no TSE (PDF e índice de 51 itens), de reportagens de setembro de 2026 sobre o plano e da tramitação do piso da enfermagem (Lei 14.434/2022, decisão do STF e EC 127/2022). O candidato nunca exerceu cargo público. Ficaram de fora estimativas de custo, não apresentadas no documento.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "kp-rp-7",
+          "title": "Combate ao crime organizado com ações policiais coordenadas e apoio das Forças Armadas",
+          "reality": {
+            "proposal": "Integrar PF, PRF e Forças Armadas nas fronteiras e criar a 'Ronda Nacional' com 30 mil agentes, ampliando penas (eixo Segurança).",
+            "requirement": {
+              "path": "lei-complementar",
+              "quorum": "Lei complementar: 257 deputados e 41 senadores — maioria absoluta (CF, art. 69)",
+              "note": "O emprego das Forças Armadas na garantia da lei e da ordem é regido pela LC 97/1999, alterada por lei complementar, e depende de decreto presidencial após esgotados os instrumentos de segurança pública. A PEC 18/2025, que constitucionaliza o Sistema Único de Segurança Pública, foi aprovada em 2º turno na Câmara em 04/03/2026 (461 a 14) e está no Senado."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Mar/2026",
+                  "fact": "A Câmara aprovou em 2º turno a PEC 18/2025, por 461 votos a 14, levando o Sistema Único de Segurança Pública à Constituição.",
+                  "sources": [
+                    "src-re-complemento2propostas-14"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "A CCJ do Senado aprovou o texto-base da PEC da Segurança Pública, sem concluir a votação.",
+                  "sources": [
+                    "src-re-complemento2propostas-15"
+                  ]
+                },
+                {
+                  "date": "Out/2025",
+                  "fact": "Operação no Rio de Janeiro foi a maior em 15 anos e a mais letal do estado, com 64 mortos e 81 presos.",
+                  "sources": [
+                    "src-re-complemento2propostas-16"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Ago/2026",
+                  "fact": "O plano registrado prevê a Ronda Nacional com 30 mil agentes, sem indicar o efetivo disponível nem a fonte de custeio.",
+                  "sources": [
+                    "src-rp-08"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026).",
+                  "sources": [
+                    "src-rp-10",
+                    "src-rp-11"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026); o partido informou candidaturas em 18 estados e no DF em 08/08/2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Emprego das Forças Armadas em segurança depende de lei complementar e de decreto",
+                "detail": "A LC 97/1999 condiciona a garantia da lei e da ordem a decreto presidencial, após esgotados os instrumentos de segurança pública, e alterá-la exige maioria absoluta: 257 deputados e 41 senadores. O plano não detalha o decreto nem o efetivo militar envolvido.",
+                "sources": [
+                  "src-re-complemento2propostas-17",
+                  "src-rp-08"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Ronda Nacional com 30 mil agentes sem precedente localizado na área federal",
+                "detail": "Segurança pública é competência dos estados (art. 144 da Constituição), e não localizamos programa federal anterior com 30 mil agentes próprios em ronda nacional. A PEC da Segurança, em tramitação no Senado, redesenha essas competências.",
+                "sources": [
+                  "src-re-r3propostas-02",
+                  "src-re-complemento2propostas-15",
+                  "src-rp-08"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "De onde viriam os 30 mil agentes da Ronda Nacional — PF, PRF, guardas municipais ou novas contratações?",
+                "why": "O plano cita 30 mil agentes integrados sem definir a origem do efetivo nem a divisão de atribuições com os estados.",
+                "sources": [
+                  "src-rp-08",
+                  "src-rp-07"
+                ]
+              },
+              {
+                "question": "Em que hipóteses as Forças Armadas atuariam no policiamento e por qual decreto?",
+                "why": "A LC 97/1999 exige decreto presidencial e esgotamento prévio dos instrumentos de segurança; o documento não indica prazos nem condições.",
+                "sources": [
+                  "src-re-complemento2propostas-17",
+                  "src-rp-08"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato apresenta o combate ao crime organizado como parte do eixo de segurança do programa, com integração das forças policiais e apoio das Forças Armadas nas fronteiras. Não localizamos resposta pública sobre o efetivo e o custo da Ronda Nacional.",
+            "methodology": "Leitura do programa registrado no TSE e do índice oficial, da LC 97/1999, da tramitação da PEC 18/2025 na Câmara e no Senado e de reportagem sobre operação no Rio em outubro de 2025. O candidato nunca exerceu cargo público. Ficaram de fora os dados estaduais de criminalidade, não usados nas contas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "kp-rp-8",
+          "title": "Política externa soberana no BRICS e apoio aos povos palestino, libanês, sírio e ao Irã",
+          "reality": {
+            "proposal": "Fortalecer o BRICS e declarar apoio à autodeterminação dos povos palestino, libanês e sírio e ao Irã diante de ataques (eixo Política Externa).",
+            "requirement": {
+              "path": "negociacao-internacional",
+              "note": "Reconhecimentos e posições em foros são atos do Executivo (art. 84); adesão a tratados e blocos passa pelo Congresso (art. 49, I). O BRICS não tem carta com obrigações vinculantes para os membros, e o plano não indica instrumentos novos."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Dez/2010",
+                  "fact": "O Brasil reconheceu o Estado palestino, por ato do Executivo no fim do segundo mandato de Lula.",
+                  "sources": [
+                    "src-re-complemento2propostas-18"
+                  ]
+                },
+                {
+                  "date": "Jan/2024",
+                  "fact": "O Irã passou a integrar o BRICS na ampliação aprovada em 2023, com vigência a partir de 2024.",
+                  "sources": [
+                    "src-re-complemento2propostas-19"
+                  ]
+                },
+                {
+                  "date": "Jul/2025",
+                  "fact": "Na cúpula do BRICS sob presidência brasileira, a declaração final defendeu a solução de dois Estados para a Palestina.",
+                  "sources": [
+                    "src-re-complemento2propostas-19"
+                  ]
+                },
+                {
+                  "date": "Ago/2026",
+                  "fact": "O candidato assinou carta de compromisso em defesa da Palestina junto a outras candidaturas.",
+                  "sources": [
+                    "src-rp-91"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Fev/2024",
+                  "fact": "Israel declarou o presidente brasileiro 'persona non grata'; em maio de 2024 o Brasil retirou o embaixador em Tel Aviv.",
+                  "sources": [
+                    "src-re-complemento2propostas-20",
+                    "src-re-complemento2propostas-21"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026).",
+                  "sources": [
+                    "src-rp-10",
+                    "src-rp-11"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "PCO: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (PCO nº 29; vice Antônio Carlos, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O PCO tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026); o partido informou candidaturas em 18 estados e no DF em 08/08/2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Adesões e tratados passam pelo Congresso, onde o PCO tem 0 cadeiras",
+                "detail": "A aprovação de tratados e adesões depende do Congresso (art. 49, I). O PCO tem 0 cadeiras na Câmara e no Senado (APIs de 29/09/2026) e o plano não indica quais acordos ou adesões seriam submetidos ao Legislativo.",
+                "sources": [
+                  "src-re-r3propostas-02",
+                  "src-rp-10"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Apoio declarado ao Irã em plano de governo sem precedente localizado",
+                "detail": "O Brasil reconheceu o Estado palestino em 2010, por ato do Executivo. Não localizamos plano de governo brasileiro anterior com apoio explícito ao Irã diante de ataques; os episódios comparáveis são posições em foros multilaterais e declarações do governo em exercício.",
+                "sources": [
+                  "src-re-complemento2propostas-18",
+                  "src-re-complemento2propostas-19",
+                  "src-rp-101"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais atos concretos decorrem do apoio declarado — reconhecimentos, votações ou rupturas diplomáticas?",
+                "why": "O eixo de política externa do plano enuncia posições sem listar atos, tratados ou votações que seriam assumidos pelo governo.",
+                "sources": [
+                  "src-rp-08",
+                  "src-rp-101"
+                ]
+              },
+              {
+                "question": "Qual o efeito previsto sobre comércio e investimentos com países em conflito com os citados?",
+                "why": "Não localizamos estimativa de impacto comercial no documento nem posição pública do candidato sobre esse custo.",
+                "sources": [
+                  "src-rp-08",
+                  "src-rp-06"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato sustenta a política externa em oposição à OTAN e em apoio a governos e povos em conflito, e assinou, na campanha de 2026, carta de compromisso em defesa da Palestina ao lado de outras candidaturas. Não localizamos resposta pública sobre efeitos comerciais.",
+            "methodology": "Leitura do programa registrado no TSE e do índice oficial de 51 itens, da cobertura sobre política externa nas eleições de 2026 e da carta de compromisso assinada. O candidato nunca exerceu cargo público. Ficaram de fora as votações brasileiras em foros multilaterais e os dados de comércio, não usados nas contas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "wilson-grassi": {
+      "proposals": [
+        {
+          "id": "kp-wg-2",
+          "title": "Extinção da contribuição patronal e isenção do IRPF até 5 salários mínimos",
+          "reality": {
+            "proposal": "Extinguir a contribuição patronal da Previdência, com custeio pelo orçamento, e isentar o IRPF de quem recebe até 5 salários mínimos.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "A contribuição patronal está no art. 195, I, 'a', da Constituição: extingui-la ou mudar seu custeio exige emenda e nova fonte para a seguridade. A isenção do IRPF é matéria de lei ordinária — a Lei 15.270/2025 isentou rendas de até R$ 5.000 por mês, com imposto mínimo sobre altas rendas."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Nov/2025",
+                  "fact": "A Lei 15.270/2025 isentou do IRPF quem ganha até R$ 5.000 por mês e criou imposto mínimo sobre altas rendas.",
+                  "sources": [
+                    "src-re-complemento2propostas-23"
+                  ]
+                },
+                {
+                  "date": "Ago/2026",
+                  "fact": "O plano registrado propõe o fim da contribuição patronal, com o custeio da seguridade social pelo orçamento geral.",
+                  "sources": [
+                    "src-wg-12"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Abr/2026",
+                  "fact": "O STF manteve a reoneração gradual da folha de pagamento de 17 setores até 2027, no sentido inverso ao da extinção da contribuição.",
+                  "sources": [
+                    "src-re-complemento2propostas-22"
+                  ]
+                },
+                {
+                  "date": "Dez/2025",
+                  "fact": "O salário mínimo passou a R$ 1.621 em 2026: cinco salários mínimos equivalem a R$ 8.105, acima do corte de R$ 5.000 da lei em vigor.",
+                  "sources": [
+                    "src-re-complemento2propostas-24",
+                    "src-re-complemento2propostas-23"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O Democrata tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Extinguir a contribuição patronal exige emenda e nova fonte para a seguridade",
+                "detail": "A contribuição patronal é prevista no art. 195, I, 'a', da Constituição, e a seguridade social precisa de fonte de custeio própria. A mudança exige PEC, com 308 deputados e 49 senadores em dois turnos, e o plano não estima o valor nem indica a receita substituta.",
+                "sources": [
+                  "src-re-r3propostas-02",
+                  "src-wg-12",
+                  "src-re-complemento2propostas-22"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Isenção proposta alcança R$ 8.105, acima do corte de R$ 5.000 sancionado em 2025",
+                "detail": "A Lei 15.270/2025 isentou rendas de até R$ 5.000 por mês, com imposto mínimo sobre altas rendas; cinco salários mínimos de 2026 somam R$ 8.105. O plano não indica compensação para o trecho adicional de renda nem o custo da renúncia.",
+                "sources": [
+                  "src-re-complemento2propostas-23",
+                  "src-re-complemento2propostas-24",
+                  "src-wg-12"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o valor anual da contribuição patronal a ser extinta e qual a fonte substituta?",
+                "why": "O plano prevê custeio pelo orçamento geral sem valor estimado nem indicação de receita compensatória para a Previdência.",
+                "sources": [
+                  "src-wg-12",
+                  "src-wg-11"
+                ]
+              },
+              {
+                "question": "A isenção até cinco salários mínimos substituiria a lei de 2025 ou se somaria a ela?",
+                "why": "A lei em vigor isenta até R$ 5.000, com imposto mínimo sobre altas rendas; o plano fixa outro parâmetro sem indicar transição ou renúncia estimada.",
+                "sources": [
+                  "src-re-complemento2propostas-23",
+                  "src-wg-12"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato liga o fim da contribuição patronal ao fim da 'guerra fiscal' e à simplificação tributária, dentro da proposta de Imposto Único Federal do plano. Não localizamos resposta pública sobre a compensação da perda arrecadatória da Previdência nem sobre o custo da isenção ampliada.",
+            "methodology": "Leitura do plano registrado no TSE ('Brasil em Primeiro Lugar', 58 páginas) e do índice oficial de 44 itens, da Lei 15.270/2025, do valor do salário mínimo de 2026 e da decisão do STF sobre a folha em abril de 2026. Candidato sem cargo público: o histórico comparável é de empresa e partido. Ficaram de fora projeções atuariais, não apresentadas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "kp-wg-6",
+          "title": "Brasil nos Trilhos: trem de passageiros, transporte de commodities e interiorização",
+          "reality": {
+            "proposal": "Criar programa nacional ferroviário com trens de passageiros e transporte de commodities, integrando o interior aos portos.",
+            "requirement": {
+              "path": "depende-privado",
+              "note": "A expansão da malha depende de concessões e autorizações a empresas (Lei 14.273/2021, marco legal das ferrovias), de licenciamento ambiental e de capital privado. O Ministério dos Transportes previu oito leilões ferroviários em 2026, com carteira de R$ 656 bilhões e R$ 140 bilhões em investimentos."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Set/2026",
+                  "fact": "O Ministério dos Transportes apresentou sete trechos 'shortline' com potencial de cargas e passageiros a empresas e bancos.",
+                  "sources": [
+                    "src-re-complemento2propostas-25"
+                  ]
+                },
+                {
+                  "date": "2026",
+                  "fact": "A carteira federal previu oito leilões ferroviários, com R$ 656 bilhões em investimentos previstos no setor.",
+                  "sources": [
+                    "src-re-complemento2propostas-26"
+                  ]
+                },
+                {
+                  "date": "Jul/2026",
+                  "fact": "A Transnordestina alcançou 82% de conclusão no trecho que liga o interior do Piauí ao porto do Ceará.",
+                  "sources": [
+                    "src-re-complemento2propostas-28"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Jun/2026",
+                  "fact": "O governo planejava entregar quatro editais ferroviários ao TCU até o fim de 2026, etapa anterior aos leilões.",
+                  "sources": [
+                    "src-re-complemento2propostas-27"
+                  ]
+                },
+                {
+                  "date": "Ago/2026",
+                  "fact": "O plano registrado não indica custo por trecho nem prazo para as linhas de passageiros.",
+                  "sources": [
+                    "src-wg-12"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O Democrata tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Programa ferroviário depende de leilões, licenças e investimento privado",
+                "detail": "A malha se expande por concessões e autorizações (Lei 14.273/2021), com licenciamento ambiental e capital privado; os leilões passam pelo TCU e pela ANTT. O plano não define trechos, prazos ou custo por quilômetro, e a carteira federal em curso é anterior ao programa.",
+                "sources": [
+                  "src-wg-12",
+                  "src-re-complemento2propostas-26",
+                  "src-re-complemento2propostas-27"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Programa de infraestrutura convive com corte de ministérios e redução de despesas",
+                "detail": "O mesmo plano propõe reduzir o número de ministérios, cortar comissionados e extinguir tributos como a contribuição patronal, e apresenta programa ferroviário de longo prazo sem indicar fonte de recursos para a parcela pública.",
+                "sources": [
+                  "src-wg-12",
+                  "src-wg-11"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Quais trechos e prazos compõem o programa e qual o custo previsto por quilômetro?",
+                "why": "O plano enuncia o programa por eixos e não lista trechos, metas anuais ou estimativa de investimento público por obra.",
+                "sources": [
+                  "src-wg-12",
+                  "src-wg-11"
+                ]
+              },
+              {
+                "question": "Quais linhas de passageiros seriam operadas e com qual tarifa ou subsídio?",
+                "why": "Não localizamos no plano modelo de remuneração, tarifa ou subsídio para o serviço de passageiros de longa distância.",
+                "sources": [
+                  "src-wg-12",
+                  "src-re-complemento2propostas-25"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato apresenta as ferrovias dentro do Método D35, de desburocratização e desenvolvimento, e a integração territorial como eixo de interiorização. Não localizamos resposta pública sobre o modelo de financiamento das linhas de passageiros nem sobre a origem dos recursos públicos.",
+            "methodology": "Leitura do plano registrado no TSE e do índice oficial de 44 itens, da carteira de projetos ferroviários do Ministério dos Transportes de 2026 e de reportagens de junho e setembro de 2026. Candidato sem cargo público anterior. Ficaram de fora as modelagens econômicas dos leilões, não publicadas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "id": "kp-wg-8",
+          "title": "Programa 'Meu Botox, Minha Vida' pelo SUS",
+          "reality": {
+            "proposal": "Criar o programa 'Meu Botox, Minha Vida', com aplicação de toxina botulínica pelo SUS, financiado por remanejamento de recursos.",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "Incluir procedimento no SUS passa por avaliação da CONITEC e por portaria do Ministério da Saúde, com custeio no orçamento. A toxina botulínica já é ofertada para indicação terapêutica (PCDT da Espasticidade, Portaria Conjunta nº 5/2022) e a incorporação para migrânea crônica teve recomendação inicial contrária em julho de 2026."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Mar/2022",
+                  "fact": "A Portaria Conjunta nº 5/2022 aprovou o protocolo terapêutico que inclui a toxina botulínica no SUS para espasticidade.",
+                  "sources": [
+                    "src-re-complemento2propostas-29"
+                  ]
+                },
+                {
+                  "date": "Ago/2026",
+                  "fact": "O candidato anunciou o programa e também a inclusão da tirzepatida (Mounjaro) no SUS, com remanejamento de recursos.",
+                  "sources": [
+                    "src-wg-101",
+                    "src-re-complemento2propostas-31"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Jul/2026",
+                  "fact": "A CONITEC recomendou inicialmente a não incorporação da toxina botulínica A para migrânea crônica no SUS.",
+                  "sources": [
+                    "src-re-complemento2propostas-30"
+                  ]
+                },
+                {
+                  "date": "Fev/2026",
+                  "fact": "Projeto em análise no Senado propõe liberar a produção da tirzepatida para ampliar a oferta no SUS.",
+                  "sources": [
+                    "src-re-complemento2propostas-31"
+                  ]
+                },
+                {
+                  "date": "Ago/2026",
+                  "fact": "A cobertura de campanha registra a intenção de financiar o programa com remanejamento de recursos, citando o FEFC.",
+                  "sources": [
+                    "src-wg-04",
+                    "src-re-complemento2propostas-32"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "Democrata: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Chapa pura, sem coligação registrada (Democrata nº 35; vice Suêd Haidar, do próprio partido)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. O Democrata tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026) e não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Inclusão no SUS passa por avaliação da CONITEC e por custeio no orçamento",
+                "detail": "A oferta de procedimento depende de avaliação de tecnologia e de portaria; a toxina botulínica está no SUS para espasticidade (PCDT de 2022) e a incorporação para migrânea crônica teve recomendação inicial contrária em julho de 2026. O plano não estima custo nem público-alvo.",
+                "sources": [
+                  "src-re-complemento2propostas-29",
+                  "src-re-complemento2propostas-30",
+                  "src-wg-12"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Recursos do FEFC têm destinação eleitoral e não custeiam programa de saúde",
+                "detail": "O FEFC é destinado a despesas de campanha eleitoral, com prestação de contas própria (Lei 9.504/1997, art. 16-C). O plano vincula o programa a remanejamento de recursos citando o fundo, sem indicar dotação do Ministério da Saúde nem cronograma de incorporação.",
+                "sources": [
+                  "src-re-complemento2propostas-32",
+                  "src-wg-04",
+                  "src-wg-12"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o público-alvo e o custo previsto do programa, e por qual dotação ele seria pago?",
+                "why": "O anúncio indica aplicação pelo SUS com remanejamento de recursos, sem estimativa de custo, público anual ou fonte na lei orçamentária.",
+                "sources": [
+                  "src-wg-12",
+                  "src-wg-101"
+                ]
+              },
+              {
+                "question": "O programa abrangeria aplicações estéticas, indicações terapêuticas já protocoladas ou ambas?",
+                "why": "O SUS oferta toxina botulínica para espasticidade; o anúncio trata de autoestima e aplicação estética, sem definir a lista de indicações.",
+                "sources": [
+                  "src-re-complemento2propostas-29",
+                  "src-re-complemento2propostas-30"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato apresenta o programa como ação de autoestima feminina e o coloca ao lado da inclusão da tirzepatida no SUS, financiado por remanejamento de recursos. Não localizamos resposta pública sobre custo, público-alvo ou dotação orçamentária.",
+            "methodology": "Leitura do plano registrado no TSE e do índice oficial de 44 itens, do protocolo terapêutico do SUS para espasticidade, do relatório da CONITEC de julho de 2026 e da cobertura de campanha. Candidato sem cargo público. Ficaram de fora projeções de custo e a modelagem orçamentária, não divulgadas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "augusto-cury": {
+      "proposals": [
+        {
+          "title": "Educação: ensino em tempo integral, gestão da emoção no currículo e 'Projeto Brasil Neuroinclusivo'",
+          "reality": {
+            "proposal": "Adotar ensino em tempo integral com gestão da emoção no currículo e o 'Projeto Brasil Neuroinclusivo' para pessoas neurodivergentes.",
+            "requirement": {
+              "path": "lei-ordinaria",
+              "note": "Mudanças de currículo e de carga horária passam pela LDB (Lei 9.394/1996) e pelo Plano Nacional de Educação (Lei 15.388/2026); a oferta é executada por redes estaduais e municipais e o custeio envolve o FUNDEB, com metas de educação integral até 2036."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Abr/2026",
+                  "fact": "A Lei 15.388/2026 aprovou o novo PNE, com metas de educação integral e 10% do PIB para a educação até 2036.",
+                  "sources": [
+                    "src-re-complemento2propostas-33"
+                  ]
+                },
+                {
+                  "date": "Dez/2012",
+                  "fact": "A Lei 12.764/2012 instituiu a política nacional de proteção dos direitos da pessoa com transtorno do espectro autista.",
+                  "sources": [
+                    "src-re-complemento2propostas-34"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "O plano registrado inclui gestão da emoção no currículo e o projeto voltado a pessoas neurodivergentes.",
+                  "sources": [
+                    "src-ac-23"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Set/2026",
+                  "fact": "Levantamento identificou 25 contratos e instrumentos ligados à metodologia do candidato em dez estados, acima de R$ 30 milhões.",
+                  "sources": [
+                    "src-ac-47"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "O programa associado à metodologia foi cancelado pela prefeitura de Itajaí, onde os gastos somaram R$ 39 milhões.",
+                  "sources": [
+                    "src-ac-74",
+                    "src-ac-75"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 na Câmara e 1 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Mudar currículo e carga horária depende de lei federal e da adesão de redes",
+                "detail": "A LDB e o PNE fixam diretrizes e metas de tempo integral, com recursos do FUNDEB (Lei 15.388/2026), e a oferta é executada por redes estaduais e municipais. O plano não indica custo, cronograma ou regra de adesão para a mudança curricular proposta.",
+                "sources": [
+                  "src-re-complemento2propostas-33",
+                  "src-re-r2capacidades-01",
+                  "src-ac-23"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "acao-em-sentido-diferente",
+                "title": "Metodologia do autor é vendida a prefeituras e teve programa cancelado em 2026",
+                "detail": "A metodologia ligada ao candidato movimentou mais de R$ 30 milhões em 25 contratos e instrumentos em dez estados, segundo levantamento de setembro de 2026; em Itajaí, o programa foi cancelado após gastos de R$ 39 milhões. O plano prevê a gestão da emoção na rede pública.",
+                "sources": [
+                  "src-ac-47",
+                  "src-ac-74",
+                  "src-ac-75"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo e o cronograma da educação em tempo integral pretendida, e quem paga a expansão?",
+                "why": "O plano prevê tempo integral sem estimativa de custo, e a execução depende de redes estaduais e municipais e de recursos do FUNDEB.",
+                "sources": [
+                  "src-ac-23",
+                  "src-re-complemento2propostas-33"
+                ]
+              },
+              {
+                "question": "Como a gestão da emoção entraria no currículo sem provedor privado definido?",
+                "why": "A metodologia é comercializada por empresas ligadas ao candidato; o documento não indica licenciamento, contratação ou material público próprio.",
+                "sources": [
+                  "src-ac-23",
+                  "src-ac-47"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato defende a educação socioemocional como política pública e apresenta o projeto voltado a pessoas neurodivergentes como resposta às dificuldades de aprendizagem. Não localizamos resposta pública sobre o cancelamento do programa em Itajaí nem sobre o custo da expansão da jornada integral.",
+            "methodology": "Leitura do plano registrado no TSE (200 páginas e 18 tópicos), do índice oficial, do novo PNE (Lei 15.388/2026), da Lei 12.764/2012 e de levantamentos de setembro de 2026 sobre contratos da metodologia. Cury nunca exerceu cargo público. Ficaram de fora o texto integral do plano e as cláusulas dos contratos municipais.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Meio ambiente e energia: 'Floresta viva', hidrogênio verde e tecnologia em terras raras",
+          "reality": {
+            "proposal": "Executar o capítulo 'Floresta viva', tornar o país referência em hidrogênio verde e industrializar terras raras em vez de exportá-las brutas.",
+            "requirement": {
+              "path": "depende-privado",
+              "note": "O hidrogênio de baixa emissão já tem marco legal (Lei 14.948/2024), com certificação e incentivos; a mineração de terras raras e os projetos de energia dependem de licenciamento ambiental e de investimento privado, e a fiscalização é ato do Executivo, por Ibama e ICMBio."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Out/2025",
+                  "fact": "A taxa do Prodes para a Amazônia caiu 11,08% (5.796 km², de agosto de 2024 a julho de 2025), a menor em onze anos.",
+                  "sources": [
+                    "src-re-complemento2propostas-35"
+                  ]
+                },
+                {
+                  "date": "Ago/2024",
+                  "fact": "A Lei 14.948/2024 instituiu o marco legal do hidrogênio de baixa emissão de carbono, com certificação voluntária.",
+                  "sources": [
+                    "src-re-complemento2propostas-36"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "O plano registrado inclui o capítulo 'Floresta viva' e a industrialização de terras raras no país.",
+                  "sources": [
+                    "src-ac-23",
+                    "src-re-t03"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Abr/2026",
+                  "fact": "A maior produtora de terras raras do país, em Goiás, foi vendida a uma companhia americana em acordo avaliado em US$ 2,8 bilhões.",
+                  "sources": [
+                    "src-re-complemento2propostas-37"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "O plano não indica custo, prazo ou fonte de recursos para os itens de floresta, hidrogênio e mineração.",
+                  "sources": [
+                    "src-ac-23"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 na Câmara e 1 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Industrializar terras raras depende de licenciamento e de decisão de empresas privadas",
+                "detail": "A produção de terras raras no país é privada: a principal produtora, em Goiás, foi vendida a um grupo americano em abril de 2026, com contratos de fornecimento no exterior. O plano não define contrapartidas, regras para exportação de concentrados ou meta de beneficiamento local.",
+                "sources": [
+                  "src-re-complemento2propostas-37",
+                  "src-ac-23"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Referência mundial em hidrogênio verde sem projeto de exportação em operação localizado",
+                "detail": "O marco legal existe desde agosto de 2024 e prevê certificação e incentivos; não localizamos planta de exportação em operação no país nem meta de volume no plano, que trata a liderança como objetivo de longo prazo.",
+                "sources": [
+                  "src-re-complemento2propostas-36",
+                  "src-ac-23",
+                  "src-re-t03"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o volume, o prazo e o custo previstos para o hidrogênio verde e para a cadeia de terras raras?",
+                "why": "O plano enuncia a liderança e a industrialização sem metas quantificadas, cronograma ou estimativa de recursos públicos e privados.",
+                "sources": [
+                  "src-ac-23",
+                  "src-re-t03"
+                ]
+              },
+              {
+                "question": "Como se daria a redução da exportação de minerais brutos — regra de exportação, tributo ou exigência de beneficiamento local?",
+                "why": "Não localizamos no documento instrumento indicado para reter o beneficiamento no país, nem menção à destinação da produção atual.",
+                "sources": [
+                  "src-ac-23",
+                  "src-re-complemento2propostas-37"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato trata a proteção de biomas e a transição energética como políticas de Estado e afirma que o país pode liderar a energia limpa, com a tecnologia como base do capítulo 'Floresta viva'. Não localizamos resposta pública sobre a venda da produtora de terras raras em 2026.",
+            "methodology": "Leitura do plano registrado no TSE, do índice oficial, do marco legal do hidrogênio (Lei 14.948/2024), dos dados do Prodes divulgados em outubro de 2025 e de reportagens de 2026 sobre terras raras. Cury nunca exerceu cargo público. Ficaram de fora os estudos de viabilidade dos projetos, não divulgados.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        },
+        {
+          "title": "Programa 'Você é Insubstituível' — prevenção do suicídio e valorização da vida",
+          "reality": {
+            "proposal": "Criar o programa federal 'Você é Insubstituível', de prevenção do suicídio e valorização da vida, com foco em saúde.",
+            "requirement": {
+              "path": "ato-executivo",
+              "note": "A Política Nacional de Prevenção da Automutilação e do Suicídio foi instituída pela Lei 13.819/2019; criar um programa federal se dá por ato do Executivo, com execução pela rede do SUS e custeio na lei orçamentária anual."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Nov/2018",
+                  "fact": "O programa 'Você é Insubstituível' foi lançado pelo candidato como iniciativa gratuita, com vídeos e livro de apoio.",
+                  "sources": [
+                    "src-re-complemento2propostas-38"
+                  ]
+                },
+                {
+                  "date": "Abr/2019",
+                  "fact": "A Lei 13.819/2019 instituiu a política nacional de prevenção da automutilação e do suicídio, com comitê gestor federal.",
+                  "sources": [
+                    "src-re-complemento2propostas-39"
+                  ]
+                },
+                {
+                  "date": "Ago/2026",
+                  "fact": "O programa consta do plano registrado no TSE, voltado à prevenção do suicídio e à valorização da vida.",
+                  "sources": [
+                    "src-ac-23"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Set/2025",
+                  "fact": "Parecer do Senado propôs alterar a Lei 13.819/2019 para prever ações voltadas a pessoas com deficiência.",
+                  "sources": [
+                    "src-re-complemento2propostas-40"
+                  ]
+                },
+                {
+                  "date": "2025",
+                  "fact": "O Senado pediu informações ao Ministério da Saúde sobre as ações do Setembro Amarelo, acompanhando a política existente.",
+                  "sources": [
+                    "src-re-complemento2propostas-41"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "Avante: 5 de 513 na Câmara e 1 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Partido isolado — chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 de 81 senadores, 15 deputados estaduais e 136 prefeitos (2024); não localizamos acordo suprapartidário documentado para 2026."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Programa federal depende de ato do Executivo e de dotação no orçamento do SUS",
+                "detail": "A política nacional já existe (Lei 13.819/2019) e é executada pela rede do SUS; um programa novo exige portaria e dotação anual. O plano não indica custo, número de profissionais envolvidos ou fonte de recursos.",
+                "sources": [
+                  "src-re-complemento2propostas-39",
+                  "src-ac-23"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              },
+              {
+                "kind": "proposta-x-outra-proposta",
+                "title": "Programa homônimo já é oferecido gratuitamente pelo autor e convive com contratos municipais",
+                "detail": "O 'Você é Insubstituível' foi lançado como iniciativa gratuita em 2018, e a metodologia educacional ligada ao autor é comercializada em contratos com municípios, que somaram mais de R$ 30 milhões até setembro de 2026. O plano não define a interface entre as duas frentes.",
+                "sources": [
+                  "src-re-complemento2propostas-38",
+                  "src-ac-47",
+                  "src-ac-23"
+                ],
+                "evidenceStatus": "parcial",
+                "confidenceLevel": "medium"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "Qual o custo e a equipe previstos para o programa federal, e por qual dotação ele seria financiado?",
+                "why": "O plano descreve o programa e o foco em saúde sem estimativa de custo, metas de cobertura ou fonte orçamentária definida.",
+                "sources": [
+                  "src-ac-23"
+                ]
+              },
+              {
+                "question": "O programa federal usaria material e metodologia das empresas do autor, com qual regime de contratação?",
+                "why": "A metodologia é comercializada por empresas ligadas ao candidato, e o documento não define licenciamento, doação ou compra pública.",
+                "sources": [
+                  "src-ac-23",
+                  "src-ac-47"
+                ]
+              }
+            ],
+            "publicExplanation": "O candidato apresenta o programa como ação de valorização da vida, iniciada por ele em 2018 e ligada à sua atuação em saúde emocional. Não localizamos resposta pública sobre custo, desenho federativo ou interface com os contratos municipais existentes.",
+            "methodology": "Leitura do plano registrado no TSE, do índice oficial, da Lei 13.819/2019, de reportagem de 2018 sobre o lançamento do programa e de parecer e requerimento do Senado de 2025. Cury nunca exerceu cargo público. Ficaram de fora os dados epidemiológicos de suicídio do período, não usados nas contas.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    },
+    "samara-martins": {
+      "proposals": [
+        {
+          "title": "Judiciário com juízes eleitos pelo voto popular; legalização do aborto; tributação de grandes fortunas",
+          "reality": {
+            "proposal": "Elegar magistrados por voto popular, legalizar o aborto e criar tributo sobre grandes fortunas.",
+            "requirement": {
+              "path": "pec",
+              "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+              "note": "Eleição de magistrados e fim da vitaliciedade exigem emenda (arts. 93 e 95); o aborto depende de lei ordinária ou de decisão na ADPF 442; o imposto sobre grandes fortunas exige lei complementar — o PLP 5/2026 tramita na Câmara e o STF reconheceu a omissão na ADO 55, sem prazo."
+            },
+            "history": {
+              "aligned": [
+                {
+                  "date": "Out/2025",
+                  "fact": "O STF reconheceu a omissão do Congresso por não regulamentar o imposto sobre grandes fortunas (ADO 55), sem fixar prazo.",
+                  "sources": [
+                    "src-re-complemento2propostas-42"
+                  ]
+                },
+                {
+                  "date": "Fev/2026",
+                  "fact": "O PLP 5/2026 propôs instituir o imposto sobre grandes fortunas previsto no art. 153, VII, da Constituição.",
+                  "sources": [
+                    "src-re-complemento2propostas-43"
+                  ]
+                },
+                {
+                  "date": "Out/2025",
+                  "fact": "O ministro Barroso votou pela descriminalização do aborto até 12 semanas na ADPF 442; houve pedido de destaque e o caso vai ao plenário físico.",
+                  "sources": [
+                    "src-re-complemento2propostas-44"
+                  ]
+                }
+              ],
+              "divergent": [
+                {
+                  "date": "Jun/2024",
+                  "fact": "A Câmara pautou o PL 1904/2024, que prevê pena de homicídio para aborto após 22 semanas, inclusive em gravidez por estupro.",
+                  "sources": [
+                    "src-re-complemento2propostas-45"
+                  ]
+                },
+                {
+                  "date": "Dez/2017",
+                  "fact": "Na eleição judicial da Bolívia, votos brancos e nulos superaram 65%; em 2011, a taxa havia sido de 40%.",
+                  "sources": [
+                    "src-re-complemento2propostas-46",
+                    "src-re-complemento2propostas-47"
+                  ]
+                },
+                {
+                  "date": "Set/2026",
+                  "fact": "A UP tem 0 cadeiras na Câmara e no Senado (APIs oficiais de 29/09/2026).",
+                  "sources": [
+                    "src-re-complemento2propostas-55",
+                    "src-re-complemento2propostas-56"
+                  ]
+                }
+              ]
+            },
+            "support": {
+              "partySeats": "UP: 0 de 513 na Câmara e 0 de 81 no Senado (APIs oficiais, 29/09/2026)",
+              "coalitionSeats": "Partido isolado — chapa pura da UP (nº 80), sem coligação ou federação; vice Raquel Brício (UP)",
+              "federations": "Nenhuma federação partidária registrada",
+              "documentedAgreements": 0,
+              "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 de 81 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (2024); sem Fundo Partidário em 2026 por não atingir a cláusula de desempenho."
+            },
+            "tensions": [
+              {
+                "kind": "proposta-x-restricao-institucional",
+                "title": "Eleger magistrados exige emenda constitucional e maioria de 3/5 nas duas Casas",
+                "detail": "A eleição de juízes e o fim da vitaliciedade (arts. 93 e 95) exigem PEC: 308 deputados e 49 senadores, em dois turnos. A UP tem 0 cadeiras nas duas Casas, e o plano não define quais tribunais, mandatos ou critérios de candidatura seriam adotados.",
+                "sources": [
+                  "src-re-r2propostas-03",
+                  "src-re-complemento2propostas-55",
+                  "src-re-complemento2propostas-56"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              },
+              {
+                "kind": "proposta-sem-precedente",
+                "title": "Eleição de juízes por voto popular não tem precedente no Brasil; na Bolívia, nulos passaram de 65%",
+                "detail": "Não localizamos eleição de magistrados por voto popular no Brasil: o ingresso se dá por concurso público (art. 93, I). Na Bolívia, que adota o modelo desde 2011, votos brancos e nulos ficaram em 40% em 2011 e acima de 65% em 2017.",
+                "sources": [
+                  "src-re-complemento2propostas-47",
+                  "src-re-complemento2propostas-46",
+                  "src-re-r2propostas-03"
+                ],
+                "evidenceStatus": "confirmado",
+                "confidenceLevel": "high"
+              }
+            ],
+            "openQuestions": [
+              {
+                "question": "A eleição de magistrados alcançaria quais tribunais e como seriam escolhidos os candidatos?",
+                "why": "O plano define a eleição por voto popular sem indicar graus de jurisdição, duração dos mandatos, requisitos de candidatura ou regra de transição.",
+                "sources": [
+                  "src-sm-41",
+                  "src-re-r2propostas-03"
+                ]
+              },
+              {
+                "question": "A legalização do aborto viria por lei ou o partido apoiaria a decisão do STF na ADPF 442?",
+                "why": "A ADPF 442 tem voto favorável e pedido de destaque; o documento não define a via preferida nem o modelo de atendimento no SUS.",
+                "sources": [
+                  "src-re-complemento2propostas-44",
+                  "src-sm-41"
+                ]
+              }
+            ],
+            "publicExplanation": "A UP apresenta as três bandeiras como parte do programa socialista registrado no TSE, e a candidata defendeu na campanha a tributação de grandes fortunas e a manutenção de bandeiras históricas da esquerda. Não localizamos resposta pública sobre o desenho da eleição de juízes ou sobre a via para o aborto.",
+            "methodology": "Leitura do programa registrado no TSE (espelho em PDF), do índice oficial, do texto constitucional (arts. 93, 95 e 153), da ADO 55 e da ADPF 442 no STF, do PLP 5/2026 e do PL 1904/2024, além do histórico das eleições judiciais bolivianas. A leitura direta do arquivo no TSE ficou de fora por bloqueio.",
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "Estimativas de custo e de fonte de recursos das propostas de suspensão de juros da dívida, pisos da saúde, extinção da contribuição patronal e programas de saúde e educação não foram localizadas nos documentos registrados.",
+    "Efetivo e cronograma da 'Ronda Nacional' (30 mil agentes) e dos 600 mil concursos na saúde não estão detalhados nos planos analisados.",
+    "Não foi possível ler diretamente o arquivo do plano da UP no TSE (bloqueio); a análise usou o espelho em PDF."
+  ]
+}

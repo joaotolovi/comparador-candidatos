@@ -6382,7 +6382,323 @@
     "coverageNote": "Plano registrado no TSE (76 páginas, 11 capítulos) lido na íntegra no PDF espelhado pelo Poder360 e conferido na versão publicada pela campanha; a lei orçamentária e o detalhamento fiscal do 'tesouraço' não constam do documento.",
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
-    "methodology": "Lido do texto integral do plano 'Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030' (apresentação, valores, 'jornada do cidadão' e eixos temáticos) e conferido com a cobertura de imprensa de 13/08/2026. As 7 prioridades correspondem a eixos e capítulos declarados pelo próprio plano, na sua ordem de apresentação; eixos como 'Brasil por elas' e proteção social estão descritos no modelo de desenvolvimento em vez de contados como prioridade separada. A Folha registra que o documento prevê corte de gastos e novo teto sem detalhar a regra fiscal."
+    "methodology": "Lido do texto integral do plano 'Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030' (apresentação, valores, 'jornada do cidadão' e eixos temáticos) e conferido com a cobertura de imprensa de 13/08/2026. As 7 prioridades correspondem a eixos e capítulos declarados pelo próprio plano, na sua ordem de apresentação; eixos como 'Brasil por elas' e proteção social estão descritos no modelo de desenvolvimento em vez de contados como prioridade separada. A Folha registra que o documento prevê corte de gastos e novo teto sem detalhar a regra fiscal.",
+    "reality": {
+      "proposal": "Projeto liberal-conservador: facções como narcoterroristas, maioridade penal aos 16, corte de gastos, menos impostos e reforma do Judiciário.",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "O item mais exigente é emenda constitucional: o documento anuncia 'reformulação nas atuais regras fiscais' (p. 70), limites a decisões do STF e maioridade penal aos 16 anos (PEC 32/2019, de autoria do candidato); a campanha anunciou em agosto de 2026 uma 'PEC da Transição' com corte de R$ 300 bilhões. Nenhuma dessas emendas tinha votação de plenário registrada até 29/09/2026. Tipificar facções e criar novo regime de contratação exigiriam lei ordinária; a meta de R$ 900 bilhões depende de orçamento e de aporte privado."
+      },
+      "history": {
+        "aligned": [
+          "11/04/2024: Lei 14.843/2024 (PL 2.253/2022, de sua relatoria) endureceu a saída temporária de presos.",
+          "22/11/2023: votou 'Sim' à PEC 8/2021, que limita decisões monocráticas no STF, em 1º e 2º turnos no Senado.",
+          "19 e 20/12/2024: assinou a Emenda 1 ao plenário da PEC 54/2024, de revisão de gastos, e votou 'Sim' no destaque.",
+          "Outubro/2019: votou 'Sim' à PEC 6/2019, da reforma da Previdência, no plenário do Senado (Exame registra o voto)."
+        ],
+        "divergent": [
+          "21/06/2023: votou contra a LC 200/2023, o arcabouço fiscal em vigor, aprovada no Senado por 57 votos a 17.",
+          "19 e 20/12/2024: há registro de voto 'Não' em votação nominal da PEC 54/2024, o pacote de revisão de gastos.",
+          "Agosto/2026: o plano anuncia nova regra fiscal e a campanha cita corte de R$ 300 bilhões, sem texto enviado ao Congresso."
+        ],
+        "sources": [
+          {
+            "id": "src-flavio-02",
+            "title": "PL 2253/2022 — relatoria no Senado; norma gerada: Lei nº 14.843, de 11/04/2024",
+            "publisher": "Congresso Nacional — Atividade Legislativa",
+            "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/154451",
+            "publishedAt": "2024-04-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Ficha de tramitação da matéria relatada no Senado; votação de 20/02/2024 (62 a favor, 2 contra, 1 abstenção)."
+          },
+          {
+            "id": "src-re-r1propostas-17",
+            "title": "Votações da matéria PEC 8/2021 (limite a decisões monocráticas) — votação nominal de 22/11/2023",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/148030/votacoes",
+            "date": "2023-11-22",
+            "type": "legislativo",
+            "notes": "Registro nominal: Flávio Bolsonaro votou 'Sim' nas votações em 1º e 2º turno."
+          },
+          {
+            "id": "src-re-r1propostas-19",
+            "title": "PEC 54/2024 (pacote de revisão de gastos) — ficha da matéria e emendas",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889",
+            "date": "2024-12-20",
+            "type": "legislativo",
+            "notes": "Emenda nº 1 ao plenário tem entre os autores o senador Flávio Bolsonaro; votações nominais em 19 e 20/12/2024."
+          },
+          {
+            "id": "src-re-r1propostas-26",
+            "title": "Votações da matéria PEC 54/2024 — votações nominais do plenário em 19 e 20/12/2024",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889/votacoes",
+            "date": "2024-12-20",
+            "type": "legislativo",
+            "notes": "Listas nominais do plenário: consta voto 'Não' de Flávio Bolsonaro em votação nominal da proposta e voto 'Sim' no destaque da Emenda nº 1."
+          },
+          {
+            "id": "src-flavio-100",
+            "title": "Confira como cada senador votou na reforma da Previdência",
+            "publisher": "Exame",
+            "url": "https://exame.com/economia/confira-como-cada-senador-votou-na-reforma-da-previdencia",
+            "publishedAt": "2019-10-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Lista nominal da votação em segundo turno no Senado; registra 'Sim' para Flávio Bolsonaro (PSL-RJ)."
+          },
+          {
+            "id": "src-flavio-117",
+            "title": "Veja como votaram os senadores na aprovação do arcabouço fiscal",
+            "publisher": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2023/06/21/veja-como-votaram-os-senadores-na-aprovacao-do-arcabouco-fiscal.ghtml",
+            "publishedAt": "2023-06-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Senado aprovou o arcabouço fiscal por 57 votos a 17 em 21/06/2023; a lista nominal registra Flávio Bolsonaro (PL-RJ) entre os votos contrários."
+          },
+          {
+            "id": "src-re-r1propostas-20",
+            "title": "Flávio planeja 'PEC da Transição' com corte de gastos de R$ 300 bilhões",
+            "publisher": "CNN Brasil — blog do Caio Junqueira",
+            "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-planeja-pec-da-transicao-com-corte-de-gastos-de-r-300-bilhoes/",
+            "date": "2026-08",
+            "type": "imprensa"
+          },
+          {
+            "id": "src-plano-pdf",
+            "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+            "publisher": "Poder360 (cópia do documento de campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+          }
+        ]
+      },
+      "support": {
+        "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+        "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar, PL-AL)",
+        "federations": "Nenhuma federação ou coligação registrada para a chapa presidencial",
+        "note": "O projeto depende de PEC e de orçamento; a base observável é a bancada do PL, 98 deputados e 15 senadores em exercício (29/09/2026), sem coligação formal. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 3 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-re-r1capacidades-02",
+            "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+            "publisher": "Senado Federal — Dados Abertos",
+            "date": "2026-09-29",
+            "type": "oficial_dados_abertos",
+            "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício."
+          },
+          {
+            "id": "src-re-r1capacidades-03",
+            "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
+            "publisher": "Câmara dos Deputados — Dados Abertos",
+            "date": "2026-09-29",
+            "type": "oficial_dados_abertos",
+            "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras."
+          },
+          {
+            "id": "src-flavio-bolsonaro-11",
+            "title": "Bancada dos partidos — Portal da Câmara dos Deputados (PL: 98 deputados, líder Sóstenes Cavalcante)",
+            "publisher": "Câmara dos Deputados",
+            "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+            "publishedAt": null,
+            "accessedAt": "2026-09-29",
+            "sourceType": "transparencia",
+            "notes": "Página viva consultada em 29/09/2026."
+          },
+          {
+            "id": "src-valor-convencao",
+            "title": "Flávio Bolsonaro chega à convenção do PL hoje tentando superar isolamento",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/25/flavio-bolsonaro-chega-a-convencao-do-pl-hoje-tentando-superar-isolamento.ghtml",
+            "publishedAt": "2026-07-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": ""
+          }
+        ],
+        "documentedAgreements": 3
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Reforma fiscal, limites ao STF e maioridade penal dependem de PEC sem texto enviado",
+          "detail": "O documento diz que 'apresentaremos uma reformulação nas atuais regras fiscais' (p. 70) e propõe limites a decisões do STF; a maioridade penal consta como PEC 32/2019, do próprio candidato, com parecer lido na CCJ em 2025 e sem votação de plenário. A campanha anunciou em agosto de 2026 a 'PEC da Transição' com corte de R$ 300 bilhões.",
+          "sources": [
+            {
+              "id": "src-plano-pdf",
+              "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+              "publisher": "Poder360 (cópia do documento de campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+            },
+            {
+              "id": "src-re-r1propostas-20",
+              "title": "Flávio planeja 'PEC da Transição' com corte de gastos de R$ 300 bilhões",
+              "publisher": "CNN Brasil — blog do Caio Junqueira",
+              "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-planeja-pec-da-transicao-com-corte-de-gastos-de-r-300-bilhoes/",
+              "date": "2026-08",
+              "type": "imprensa"
+            },
+            {
+              "id": "src-re-r1propostas-22",
+              "title": "Entenda os próximos passos do projeto para reduzir a maioridade penal",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/entenda-os-proximos-passos-do-projeto-para-reduzir-maioridade-penal",
+              "date": "2026-06",
+              "type": "imprensa",
+              "notes": "CCJ da Câmara aprovou texto que reduz a maioridade para 16 anos em 10/06/2026 (44x18)."
+            },
+            {
+              "id": "src-re-r1propostas-17",
+              "title": "Votações da matéria PEC 8/2021 (limite a decisões monocráticas) — votação nominal de 22/11/2023",
+              "publisher": "Senado Federal",
+              "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/148030/votacoes",
+              "date": "2023-11-22",
+              "type": "legislativo",
+              "notes": "Registro nominal: Flávio Bolsonaro votou 'Sim' nas votações em 1º e 2º turno."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Corte de gastos prometido e voto contrário à regra fiscal em vigor em 2023",
+          "detail": "Em 21/06/2023 votou contra a LC 200/2023, aprovada por 57 a 17 com 10 votos contrários do PL; na PEC 54/2024, de revisão de gastos, assinou a Emenda 1, com registro de voto 'Não' na votação nominal de 19 e 20/12/2024 e 'Sim' no destaque da própria emenda. Em outubro de 2019 votou 'Sim' à PEC 6/2019 da Previdência no Senado.",
+          "sources": [
+            {
+              "id": "src-flavio-117",
+              "title": "Veja como votaram os senadores na aprovação do arcabouço fiscal",
+              "publisher": "G1",
+              "url": "https://g1.globo.com/politica/noticia/2023/06/21/veja-como-votaram-os-senadores-na-aprovacao-do-arcabouco-fiscal.ghtml",
+              "publishedAt": "2023-06-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Senado aprovou o arcabouço fiscal por 57 votos a 17 em 21/06/2023; a lista nominal registra Flávio Bolsonaro (PL-RJ) entre os votos contrários."
+            },
+            {
+              "id": "src-re-r1propostas-26",
+              "title": "Votações da matéria PEC 54/2024 — votações nominais do plenário em 19 e 20/12/2024",
+              "publisher": "Senado Federal",
+              "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889/votacoes",
+              "date": "2024-12-20",
+              "type": "legislativo",
+              "notes": "Listas nominais do plenário: consta voto 'Não' de Flávio Bolsonaro em votação nominal da proposta e voto 'Sim' no destaque da Emenda nº 1."
+            },
+            {
+              "id": "src-re-r1propostas-19",
+              "title": "PEC 54/2024 (pacote de revisão de gastos) — ficha da matéria e emendas",
+              "publisher": "Senado Federal",
+              "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889",
+              "date": "2024-12-20",
+              "type": "legislativo",
+              "notes": "Emenda nº 1 ao plenário tem entre os autores o senador Flávio Bolsonaro; votações nominais em 19 e 20/12/2024."
+            },
+            {
+              "id": "src-flavio-100",
+              "title": "Confira como cada senador votou na reforma da Previdência",
+              "publisher": "Exame",
+              "url": "https://exame.com/economia/confira-como-cada-senador-votou-na-reforma-da-previdencia",
+              "publishedAt": "2019-10-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Lista nominal da votação em segundo turno no Senado; registra 'Sim' para Flávio Bolsonaro (PSL-RJ)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Soberania no discurso de campanha e atos datados de aproximação com o governo dos EUA",
+          "detail": "Em 29/03/2026, na CPAC, pediu pressão diplomática dos EUA sobre instituições brasileiras; em 26 e 27/05/2026 foi recebido na Casa Branca; em 06/07/2026 disse que o governo usa 'falsa narrativa' de soberania; em 07/07/2026 pediu suspensão do tarifaço por 180 dias; em 26/09/2026 prometeu adesão ao 'Escudo das Américas'.",
+          "sources": [
+            {
+              "id": "src-flavio-bolsonaro-21",
+              "title": "Na CPAC, Flávio pede pressão dos EUA sobre eleições no Brasil",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/117674/na-cpac-flavio-pede-pressao-dos-eua-sobre-eleicoes-no-brasil",
+              "publishedAt": "2026-03-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Discurso de 28/03/2026: pedido de 'pressão diplomática' do 'mundo livre' sobre as instituições brasileiras, acompanhamento internacional do processo eleitoral e ênfase nas reservas minerais."
+            },
+            {
+              "id": "src-mundo-07",
+              "title": "Encontro com Trump é trunfo para Flávio Bolsonaro e acende alerta sobre papel da Casa Branca na eleição",
+              "publisher": "BBC News Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/c1m2y9g7yx4o",
+              "publishedAt": "2026-05-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra o encontro de Flávio com Trump na Casa Branca (26/05/2026), as versões divergentes sobre duração/formalidade e a leitura de analistas; menciona o encontro de Lula com Trump no início de maio de 2026."
+            },
+            {
+              "id": "src-re-01",
+              "title": "Às vésperas de audiência nos EUA, Flávio acusa Lula de usar soberania como 'falsa narrativa' para favorecer o tarifaço",
+              "publisher": "O Globo (Luísa Marzullo)",
+              "url": "https://oglobo.globo.com/politica/noticia/2026/07/06/as-vesperas-de-audiencia-nos-eua-flavio-acusa-lula-de-usar-soberania-como-falsa-narrativa-para-favorecer-o-tarifaco.ghtml",
+              "publishedAt": "2026-07-06",
+              "date": "2026-07-06",
+              "accessedAt": "2026-09-29",
+              "type": "imprensa"
+            },
+            {
+              "id": "src-flavio-bolsonaro-22",
+              "title": "Flávio diz, antes de audiência nos EUA, que tarifaço de Trump é ruim para o Brasil e os americanos e tenta reverter desgaste",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/noticia/2026/07/07/flavio-diz-antes-de-audiencia-nos-eua-que-tarifaco-de-trump-e-ruim-para-o-brasil-e-os-americanos-e-tenta-reverter-desgaste.ghtml",
+              "publishedAt": "2026-07-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Audiência pública do USTR em Washington (07/07/2026) e manifestação de 86 páginas entregue por Flávio: crítica às tarifas, defesa do Pix como infraestrutura pública, proposta de adiamento das tarifas e a frase 'o Brasil busca maneiras de se libertar das amarras do Mercosul'; o Itamaraty enviou observadora e classifica a audiência como espaço não formal de negociação."
+            },
+            {
+              "id": "src-re-03",
+              "title": "Escudo das Américas: Flávio Bolsonaro promete adesão, enquanto especialista alerta para riscos",
+              "publisher": "Veja (Nicholas Shores)",
+              "url": "https://veja.abril.com.br/politica/escudo-das-americas-flavio-bolsonaro-promete-adesao-enquanto-especialista-alerta-para-riscos",
+              "publishedAt": "2026-09-26",
+              "date": "2026-09-26",
+              "accessedAt": "2026-09-29",
+              "type": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Qual é o valor e a lista de despesas do corte fiscal, e qual o texto da nova regra?",
+          "why": "O documento anuncia reformulação das regras fiscais e a campanha cita R$ 300 bilhões, sem memória de cálculo, lista de itens nem minuta da regra que substituiria o arcabouço."
+        },
+        {
+          "question": "Como o corte de gastos convive com R$ 900 bilhões em infraestrutura em quatro anos?",
+          "why": "O plano informa o valor agregado da meta de logística e não traz a divisão entre orçamento federal e aporte privado, nem cronograma anual."
+        },
+        {
+          "question": "Qual é o responsável e o prazo de execução de cada eixo do plano?",
+          "why": "O documento organiza as propostas em eixos temáticos com índice remissivo, sem indicar ministério ou órgão responsável por eixo nem data por meta."
+        }
+      ],
+      "publicExplanation": "Em 06/07/2026, em vídeo gravado em Washington, disse que o governo usa 'falsa narrativa' de defesa da soberania; em 07/07/2026 pediu ao USTR a suspensão do tarifaço por 180 dias; em 18/08/2026 afirmou que fará 'tesouraço' em ministérios.",
+      "methodology": "Apurado pela leitura integral do plano registrado no TSE (76 páginas, 11 capítulos e índice temático), por votações nominais do Senado e pelo anúncio econômico da campanha. O documento traz valor agregado (R$ 900 bilhões em quatro anos em logística) e não informa a regra fiscal, o valor do corte, prazo por meta ou responsável; ficaram de fora notas técnicas da equipe e o orçamento de 2027.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    }
   },
   "foreignPolicy": {
     "worldView": "Programa registrado (ago/2026, duas páginas sobre política externa): afirma que 'a política externa brasileira trocou o interesse nacional pela ideologia, protegendo regimes propensos ao terror e seus criminosos' e propõe 'uma diplomacia guiada pelo profissionalismo e pelo pragmatismo, não pela ideologia'; prevê estreitar relações com 'Estados Unidos, Argentina e Israel', citados como parceiros 'mais importantes e tradicionais'; retomar 'com urgência' o cronograma de adesão à OCDE (com 'fim gradual' do IOF sobre câmbio); ampliar a abertura comercial (bens de capital, tecnologia e insumos) para 'evitar dependência excessiva em áreas críticas'; internacionalizar pequenas e médias empresas via BNDES e Apex; e receber investimentos estrangeiros para a transição energética. O programa não menciona BRICS nem Mercosul; China e União Europeia aparecem dentro da diversificação comercial. Posições e atos de 2026: na CPAC (Texas, 28/03/2026) afirmou que o Brasil é 'a solução para os Estados Unidos quebrarem a dependência da China por minerais críticos, especialmente terras raras', propôs celebrar 'a mais forte aliança conservadora da história do Hemisfério Ocidental' e pediu que os EUA apliquem 'pressão diplomática' sobre as instituições brasileiras; em podcast (03/06/2026) disse que vai 'reavaliar' a permanência no BRICS, 'um bloco muito ideológico, usado para provocar os Estados Unidos'; na manifestação ao USTR (jul/2026) defendeu que o Brasil 'se liberte das amarras do Mercosul' para negociar diretamente com os EUA e propôs que o Pix não seja conectado a mecanismos de compensação 'não ocidentais'; propôs zona de livre comércio nas Américas (Afta) e citou a Nafta como modelo; pediu pessoalmente aos EUA a designação de PCC e CV como organizações narcoterroristas e promete incorporar o Brasil ao 'Escudo das Américas', dizendo que não aceitaria intervenção americana no país; em comício (Natal, 21/09/2026) disse que a relação com a China seria 'sempre pragmática economicamente' e que 'a gente não tem que escolher um lado'. Israel: fez do país o destino da primeira viagem internacional como pré-candidato (jan/2026), com jantar oferecido por Netanyahu, promete transferir a embaixada para Jerusalém, aderir aos 'Acordos de Isaac' e restabelecer relações em nível de embaixadores, e defende as ações militares de Israel em Gaza. Sobre as tarifas: em 07/07/2026 disse que o tarifaço 'é muito ruim para o Brasil e também para os Estados Unidos' e em 28/08/2026 distanciou-se da decisão de julho do governo americano, ao mesmo tempo em que atribuiu a crise comercial à 'incompetência' e às 'provocações' do governo Lula.",

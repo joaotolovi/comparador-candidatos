@@ -7786,7 +7786,386 @@
     "coverageNote": "Plano registrado no TSE (81 páginas) lido na íntegra pelo PDF espelhado pelo Poder360; a URL oficial no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal).",
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
-    "methodology": "Lido do PDF do Plano Implacável (carta de abertura e sumário de 20 áreas). As 7 prioridades correspondem a títulos de capítulos do próprio plano, sem prioridades inferidas. Para posições atuais de campanha foram usadas as sabatinas do Jornal Nacional e a cobertura de imprensa de agosto de 2026 (reposição da inflação no salário mínimo; ajuste fiscal com meta citada de Selic a 6% ao ano, sem detalhamento do ajuste). O documento não traz custo nem prazo para a maior parte das propostas nem horizonte explícito de 10 a 20 anos."
+    "methodology": "Lido do PDF do Plano Implacável (carta de abertura e sumário de 20 áreas). As 7 prioridades correspondem a títulos de capítulos do próprio plano, sem prioridades inferidas. Para posições atuais de campanha foram usadas as sabatinas do Jornal Nacional e a cobertura de imprensa de agosto de 2026 (reposição da inflação no salário mínimo; ajuste fiscal com meta citada de Selic a 6% ao ano, sem detalhamento do ajuste). O documento não traz custo nem prazo para a maior parte das propostas nem horizonte explícito de 10 a 20 anos.",
+    "reality": {
+      "proposal": "Choque institucional: choque fiscal para estabilizar a dívida, privatizar todas as estatais, reformar o Judiciário e a Previdência por gatilho.",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "O item mais exigente é emenda constitucional: reforma do Judiciário com corregedoria independente para o STF, nova Previdência com reajuste automático da idade mínima (estados, municípios, rural e militar) e limites a decisões do STF. A expressão 'emenda à Constituição' não aparece no texto integral lido; privatizar todas as estatais e extinguir os fundos eleitoral e partidário exigem leis e emenda; sair do BRICS e converter o Mercosul em zona de livre comércio dependem de negociação internacional e do Congresso."
+      },
+      "history": {
+        "aligned": [
+          "2019: reforma administrativa estadual reduziu de 21 para 12 secretarias (PL 367/19; Lei 23.304/2019).",
+          "2020: reforma da Previdência estadual aprovada por lei (PLC 46/2020; LC 156/2020), com regras de idade mínima na EC 104/2020.",
+          "2025-2026: Minas aderiu ao Propag (Lei 25.282/2025) e a privatização da Copasa foi concluída em 16/06/2026 (R$ 8,38 bi na venda).",
+          "09/05/2023: lançou em Nova York o projeto 'Vale do Lítio' para atrair mineradoras, eixo que o plano retoma (terras raras, nióbio e lítio)."
+        ],
+        "divergent": [
+          "10/12/2025 e 15/01/2026: o orçamento de Minas para 2026 foi aprovado pela ALMG e sancionado com déficit previsto de R$ 5,2 bilhões.",
+          "27/03/2026 e agosto/2026: reportagens registram aposta em privatizações e venda de ativos para enfrentar o déficit, caixa negativo e alta de renúncias.",
+          "2024: parecer citado pela Folha, o conselho do RRF e o Tesouro Nacional apontaram que o aumento de 300% para governador, vice e secretários contrariava o regime de recuperação fiscal.",
+          "2022-2026: a privatização da Cemig não avançou; em junho/2026, o governador afirmou que o sucessor levaria a venda adiante."
+        ],
+        "sources": [
+          {
+            "id": "src-zema-70",
+            "title": "Zema envia projeto à ALMG para extinguir secretarias e cargos comissionados (21 para 12 secretarias)",
+            "publisher": "Estado de Minas",
+            "url": "https://www.em.com.br/app/noticia/politica/2019/02/05/interna_politica,1027984/zema-envia-projeto-a-almg-para-extinguir-secretarias-e-cargos.shtml",
+            "publishedAt": "2019-02-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "PL 367/2019 encaminhado à ALMG em 05/02/2019."
+          },
+          {
+            "id": "src-zema-71",
+            "title": "Reforma administrativa é sancionada com veto parcial (Lei 23.304/2019; PL 367/19)",
+            "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+            "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2019/05/31_sancao_reforma_administrativa.html",
+            "publishedAt": "2019-05-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Sanção publicada no Diário Oficial de 31/05/2019 com nove dispositivos vetados."
+          },
+          {
+            "id": "src-zema-78",
+            "title": "Com aprovação de PLC, Assembleia conclui votação da reforma da previdência (PLC 46/2020)",
+            "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+            "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/09/04_plenario_aprovacao_plc46_reforma.html",
+            "publishedAt": "2020-09-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": ""
+          },
+          {
+            "id": "src-re-r1propostas-47",
+            "title": "Emenda à Constituição da reforma da Previdência é promulgada pela ALMG (EC 104/2020)",
+            "publisher": "SINFAZ-MG",
+            "url": "https://sinfazfiscomg.org.br/emenda-a-constituicao-da-reforma-da-previdencia-e-promulgada-pela-almg/",
+            "date": "2020-09-15",
+            "type": "imprensa",
+            "notes": "Idade mínima de 65 anos para homens e 62 para mulheres no regime estadual."
+          },
+          {
+            "id": "src-zema-76",
+            "title": "Governo de Minas Gerais sanciona lei de adesão ao Propag (Lei 25.282/2025)",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/brasil/noticia/2025/06/05/governo-de-minas-gerais-sanciona-lei-de-adeso-ao-propag.ghtml",
+            "publishedAt": "2025-06-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Lei autoriza o Estado a sair do RRF e aderir ao Propag; aprovada na ALMG na mesma semana."
+          },
+          {
+            "id": "src-re-r1propostas-38",
+            "title": "Privatização da Copasa é concluída; venda movimentou R$ 8,38 bilhões",
+            "publisher": "g1 Minas",
+            "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/16/privatizacao-da-copasa-liquidacao.ghtml",
+            "date": "2026-06-16",
+            "type": "imprensa"
+          },
+          {
+            "id": "src-zema-08",
+            "title": "Zema sanciona orçamento de MG para 2026 com déficit de R$ 5,2 bilhões",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/01/15/zema-sanciona-orcamento-de-mg-para-2026-com-deficit-de-r-52-bilhoes.ghtml",
+            "publishedAt": "2026-01-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-06",
+            "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)",
+            "publisher": "ALMG",
+            "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/",
+            "publishedAt": "2025-12-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          },
+          {
+            "id": "src-zema-140",
+            "title": "Zema aposta em privatizações e venda de ativos para enfrentar déficit em MG",
+            "publisher": "Valor Econômico — Revista Minas Gerais",
+            "url": "https://valor.globo.com/publicacoes/especiais/revista-minas-gerais/noticia/2026/03/27/zema-aposta-em-privatizacoes-e-venda-de-ativos-para-enfrentar-deficit-em-mg.ghtml",
+            "publishedAt": "2026-03-27",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Registra déficit de R$ 5,2 bilhões e dívida de R$ 187 bilhões, e a aposta em privatizações e venda de ativos no fim do governo Zema."
+          },
+          {
+            "id": "src-re-r1propostas-50",
+            "title": "Contas de Zema em MG têm melhora, mas caixa segue negativo e renúncias disparam",
+            "publisher": "Política Livre",
+            "url": "https://www.politicalivre.com.br/2026/08/contas-de-zema-em-mg-tem-melhora-mas-caixa-segue-negativo-e-renuncias-disparam",
+            "date": "2026-08",
+            "type": "imprensa"
+          },
+          {
+            "id": "src-zema-29",
+            "title": "Aumento de salário de Zema descumpre RRF, diz parecer",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2024/07/aumento-de-salario-de-zema-e-secretarios-descumpre-regras-diz-conselho.shtml",
+            "publishedAt": "2024-07-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-31",
+            "title": "Conselho aponta que aumento salarial de 300% de Zema, vice e secretários viola RRF",
+            "publisher": "O Tempo",
+            "url": "https://www.otempo.com.br/politica/2024/7/23/conselho-aponta-que-aumento-salarial-de-300--de-zema--vice-e-sec",
+            "publishedAt": "2024-07-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-re-r1propostas-44",
+            "title": "Minas Gerais governor studies turning power utility into corporation (tentativa de privatização da Cemig em 2022)",
+            "publisher": "Valor International",
+            "url": "https://valorinternational.globo.com/business/news/2022/12/27/minas-gerais-governor-studies-turning-power-utility-into-corporation.ghtml",
+            "date": "2022-12-27",
+            "type": "imprensa"
+          },
+          {
+            "id": "src-re-r1propostas-45",
+            "title": "Privatização da Cemig sai do radar com a eleição em Minas Gerais",
+            "publisher": "Investidor10",
+            "url": "https://investidor10.com.br/noticias/privatizacao-da-cemig-cmig4-sai-do-radar-com-eleicao-em-minas-gerais-122742/",
+            "date": "2026",
+            "type": "imprensa"
+          },
+          {
+            "id": "src-zema-142",
+            "title": "Zema diz que sucessor em MG vai levar adiante privatização da Cemig",
+            "publisher": "UOL Notícias (Agência Estado)",
+            "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/15/zema-diz-que-sucessor-em-mg-vai-levar-adiante-privatizacao-da-cemig.amp.htm",
+            "publishedAt": "2026-06-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Declaração de 15/06/2026 sobre a continuidade do programa de privatização para além do seu mandato."
+          },
+          {
+            "id": "src-zema-47",
+            "title": "Tesouro Nacional a Zema: reajuste de 300% contraria RRF",
+            "publisher": "Estado de Minas",
+            "url": "https://www.em.com.br/politica/2024/06/6883764-tesouro-nacional-a-zema-reajuste-de-300-contraria-rrf.html",
+            "publishedAt": "2024-06-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-85",
+            "title": "Governo de Minas realiza lançamento mundial do projeto Vale do Lítio",
+            "publisher": "Agência Minas (governo estadual)",
+            "url": "https://agenciaminas.mg.gov.br/noticia/governo-de-minas-realiza-lancamento-mundial-do-projeto-vale-do-litio",
+            "publishedAt": "2023-05-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual",
+            "notes": "Fonte oficial estadual do lançamento do 'Vale do Lítio' (Lithium Valley Brazil) em Nova York, na Nasdaq, em 09/05/2023, para atrair mineradoras; 14 cidades envolvidas."
+          }
+        ]
+      },
+      "support": {
+        "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício (APIs oficiais, 29/09/2026; o vice Eduardo Girão é senador licenciado pelo Ceará)",
+        "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+        "federations": "Nenhuma",
+        "note": "As mudanças propostas exigem PEC e leis; a base observável é o NOVO com 5 deputados federais e nenhum senador em exercício (29/09/2026), em chapa de partido isolado. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 5 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-re-r1capacidades-02",
+            "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+            "publisher": "Senado Federal — Dados Abertos",
+            "date": "2026-09-29",
+            "type": "oficial_dados_abertos",
+            "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício."
+          },
+          {
+            "id": "src-re-r1capacidades-03",
+            "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
+            "publisher": "Câmara dos Deputados — Dados Abertos",
+            "date": "2026-09-29",
+            "type": "oficial_dados_abertos",
+            "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras."
+          },
+          {
+            "id": "src-zema-02",
+            "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Nota: nascimento registrado como 27/10/1964, divergindo de O Tempo/Wikipédia/Wikidata (28/10/1964)."
+          }
+        ],
+        "documentedAgreements": 5
+      },
+      "tensions": [
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "'Choque fiscal' no plano federal e contas estaduais com déficit previsto e caixa negativo",
+          "detail": "O orçamento de Minas para 2026 foi sancionado em 15/01/2026 com déficit previsto de R$ 5,2 bilhões após aprovação na ALMG em 10/12/2025; em 27/03/2026 reportagem registrou aposta em privatizações e venda de ativos para enfrentar o déficit e, em agosto/2026, caixa negativo e alta de renúncias.",
+          "sources": [
+            {
+              "id": "src-zema-08",
+              "title": "Zema sanciona orçamento de MG para 2026 com déficit de R$ 5,2 bilhões",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/01/15/zema-sanciona-orcamento-de-mg-para-2026-com-deficit-de-r-52-bilhoes.ghtml",
+              "publishedAt": "2026-01-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-06",
+              "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)",
+              "publisher": "ALMG",
+              "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/",
+              "publishedAt": "2025-12-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual"
+            },
+            {
+              "id": "src-zema-140",
+              "title": "Zema aposta em privatizações e venda de ativos para enfrentar déficit em MG",
+              "publisher": "Valor Econômico — Revista Minas Gerais",
+              "url": "https://valor.globo.com/publicacoes/especiais/revista-minas-gerais/noticia/2026/03/27/zema-aposta-em-privatizacoes-e-venda-de-ativos-para-enfrentar-deficit-em-mg.ghtml",
+              "publishedAt": "2026-03-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra déficit de R$ 5,2 bilhões e dívida de R$ 187 bilhões, e a aposta em privatizações e venda de ativos no fim do governo Zema."
+            },
+            {
+              "id": "src-re-r1propostas-50",
+              "title": "Contas de Zema em MG têm melhora, mas caixa segue negativo e renúncias disparam",
+              "publisher": "Política Livre",
+              "url": "https://www.politicalivre.com.br/2026/08/contas-de-zema-em-mg-tem-melhora-mas-caixa-segue-negativo-e-renuncias-disparam",
+              "date": "2026-08",
+              "type": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Reforma do Judiciário, nova Previdência e privatizações exigem PEC e leis com bancada de 5 deputados",
+          "detail": "O plano propõe corregedoria independente para o STF, reajuste automático da idade mínima da Previdência e privatização de todas as estatais, sem nomear o instrumento; em 29/09/2026 o NOVO tinha 5 deputados federais e nenhum senador em exercício nas listas oficiais, e a chapa foi registrada como partido isolado.",
+          "sources": [
+            {
+              "id": "src-zema-12",
+              "title": "Plano de governo Zema 2026 — PDF",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Mês inferido da URL."
+            },
+            {
+              "id": "src-re-r1capacidades-02",
+              "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
+              "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+              "publisher": "Senado Federal — Dados Abertos",
+              "date": "2026-09-29",
+              "type": "oficial_dados_abertos",
+              "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício."
+            },
+            {
+              "id": "src-re-r1capacidades-03",
+              "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
+              "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
+              "publisher": "Câmara dos Deputados — Dados Abertos",
+              "date": "2026-09-29",
+              "type": "oficial_dados_abertos",
+              "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Meta de privatizar todas as estatais: Copasa concluída em 2026 e Cemig fora da agenda",
+          "detail": "A ALMG aprovou a privatização da Copasa em dez/2025 e a operação foi concluída em 16/06/2026 (R$ 8,38 bi na venda; R$ 13,9 bi arrecadados no total); o estudo de transformar a Cemig em corporação de 2022 não avançou e, em 2026, reportagem registrou que a privatização saiu do radar, com declaração de que o sucessor levaria a venda adiante.",
+          "sources": [
+            {
+              "id": "src-re-r1propostas-40",
+              "title": "Proposta que facilita privatização da Copasa é aprovada em definitivo",
+              "publisher": "Assembleia Legislativa de Minas Gerais",
+              "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Proposta-que-facilita-privatizacao-da-Copasa-e-aprovada-em-definitivo",
+              "date": "2025-11-05",
+              "type": "legislativo",
+              "notes": "PEC aprovada em 2º turno retirou a exigência de referendo prevista na Constituição estadual para a Copasa."
+            },
+            {
+              "id": "src-re-r1propostas-38",
+              "title": "Privatização da Copasa é concluída; venda movimentou R$ 8,38 bilhões",
+              "publisher": "g1 Minas",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/16/privatizacao-da-copasa-liquidacao.ghtml",
+              "date": "2026-06-16",
+              "type": "imprensa"
+            },
+            {
+              "id": "src-re-r1propostas-39",
+              "title": "Com privatização da Copasa concluída, governo de Minas arrecada R$ 13,9 bi",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/empresas/noticia/2026/06/11/com-privatizacao-da-copasa-concluida-governo-de-minas-arrecada-r-139-bi.ghtml",
+              "date": "2026-06-11",
+              "type": "imprensa"
+            },
+            {
+              "id": "src-re-r1propostas-44",
+              "title": "Minas Gerais governor studies turning power utility into corporation (tentativa de privatização da Cemig em 2022)",
+              "publisher": "Valor International",
+              "url": "https://valorinternational.globo.com/business/news/2022/12/27/minas-gerais-governor-studies-turning-power-utility-into-corporation.ghtml",
+              "date": "2022-12-27",
+              "type": "imprensa"
+            },
+            {
+              "id": "src-re-r1propostas-45",
+              "title": "Privatização da Cemig sai do radar com a eleição em Minas Gerais",
+              "publisher": "Investidor10",
+              "url": "https://investidor10.com.br/noticias/privatizacao-da-cemig-cmig4-sai-do-radar-com-eleicao-em-minas-gerais-122742/",
+              "date": "2026",
+              "type": "imprensa"
+            },
+            {
+              "id": "src-zema-142",
+              "title": "Zema diz que sucessor em MG vai levar adiante privatização da Cemig",
+              "publisher": "UOL Notícias (Agência Estado)",
+              "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/15/zema-diz-que-sucessor-em-mg-vai-levar-adiante-privatizacao-da-cemig.amp.htm",
+              "publishedAt": "2026-06-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Declaração de 15/06/2026 sobre a continuidade do programa de privatização para além do seu mandato."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Qual é o valor do choque fiscal, a lista de despesas alcançadas e o prazo da trajetória da dívida?",
+          "why": "O plano fixa metas progressivas de redução da carga tributária e o objetivo de estabilizar a dívida, sem valores de corte, cronograma nem memória de cálculo da meta de juros citada em sabatina."
+        },
+        {
+          "question": "Qual é o instrumento previsto para o gatilho automático da idade mínima e para a corregedoria do STF?",
+          "why": "O documento não cita 'emenda à Constituição' no texto integral; as duas medidas alteram regras constitucionais e o plano não anexa minuta nem caminho de tramitação."
+        },
+        {
+          "question": "Qual é o custo estimado do depósito de R$ 1.000 a cada recém-nascido e a fonte dos recursos?",
+          "why": "A campanha estimou cerca de R$ 2,5 bilhões por ano em reportagem de 06/09/2026; o plano vincula a receita ao combate à corrupção, sem memória de cálculo."
+        }
+      ],
+      "publicExplanation": "Na carta de abertura do plano, descreve Minas em 2019 com 'contas no vermelho' e servidores sem salário; em 27/03/2026, reportagem registra que o governo aposta em privatizações e venda de ativos para enfrentar o déficit.",
+      "methodology": "Apurado pela leitura integral do PDF do plano (81 páginas; carta de abertura e 20 áreas), por leis orçamentárias e atos do governo de Minas (2019-2026) e por registros de votação e pareceres sobre o RRF. O documento não traz custo por proposta, prazo por meta, metas de longo prazo nem responsável; ficaram de fora estudos de viabilidade e o orçamento federal de 2027.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    }
   },
   "foreignPolicy": {
     "worldView": "O plano registrado ('Plano Implacável', ago/2026) define a diplomacia como 'pragmatismo comercial' e prevê: retirar o Brasil do BRICS 'preservando pragmaticamente as relações comerciais com todos os países do bloco'; retomar a adesão à OCDE; transformar o Mercosul em zona de livre comércio, para que os membros possam negociar acordos bilaterais (crítica à 'união aduaneira que impede os países membros de negociarem sozinhos'); política externa baseada em acordos individuais em vez de blocos; restabelecer parcerias com os países do Mercosul, especialmente a Argentina; aproximar-se da bacia do Pacífico e isentar de visto turistas de países considerados seguros. Declarou-se contra a agenda de desdolarização ('ideia de jerico') e afirmou que 'para o Brasil ser um grande parceiro comercial da China, ele não precisa fazer parte do clubinho da China, que é o BRICS' (Folha, 12/09/2026); o programa usa a formulação de que 'quem tem ido para o BRICS são regimes autoritários, em sua maioria, e inimigos dos Estados Unidos'. EUA: defende relações 'pragmáticas' com o governo Trump e coordenação contra o crime organizado; disse à BBC Brasil que aceitaria militares americanos no Brasil em operação contra o PCC desde que 'pré-acordada' (o coordenador do programa detalhou à Folha o modelo de cooperação autorizada, nos moldes da Colômbia); já chamou Trump de 'fanfarrão' e admite retaliar comercialmente os EUA. Israel: quer normalizar relações e retomar a participação na Aliança Internacional para a Memória do Holocausto. Minerais críticos: 'atração ativa' de investimento estrangeiro com segurança jurídica, controle majoritário brasileiro e processamento no país. Não localizei posição documentada sobre a guerra na Ucrânia, sobre a OTAN ou sobre conflitos no Oriente Médio além da questão Israel-Gaza.",

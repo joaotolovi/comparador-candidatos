@@ -2577,6 +2577,26 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial_eleitoral",
       "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+    },
+    {
+      "id": "src-re-r3pais-04",
+      "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+      "publisher": "Wikipédia (em português)",
+      "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "enciclopedia",
+      "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+    },
+    {
+      "id": "src-re-r3pais-05",
+      "title": "XIV Congresso Nacional do PSTU avança a construção de um programa para transformar o Brasil",
+      "publisher": "Opinião Socialista (jornal do PSTU)",
+      "url": "https://opiniaosocialista.com.br/xiv-congresso-nacional-do-pstu-avanca-a-construcao-de-um-programa-para-transformar-o-brasil",
+      "publishedAt": "2026-07-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partido",
+      "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -6447,7 +6467,434 @@
     ],
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
-    "methodology": "Extraído do plano registrado no TSE — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista', 33 páginas, que o próprio texto apresenta como 'o programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice' —, conferido com o índice oficial de propostas da candidatura no TSE e com a análise do plano publicada pelo OPEB em 27/09/2026. Trata-se de documento programático do partido adotado pela candidatura, e não de um plano de governo redigido para o mandato: por isso o bloco está marcado como 'parcial'. O índice do TSE usa 8 categorias fixas, iguais para todos os candidatos, e não prioridades declaradas pelo candidato; as prioridades acima foram retiradas das seções do próprio plano. O documento não informa custos, financiamento ou prazos por proposta e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo)."
+    "methodology": "Extraído do plano registrado no TSE — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista', 33 páginas, que o próprio texto apresenta como 'o programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice' —, conferido com o índice oficial de propostas da candidatura no TSE e com a análise do plano publicada pelo OPEB em 27/09/2026. Trata-se de documento programático do partido adotado pela candidatura, e não de um plano de governo redigido para o mandato: por isso o bloco está marcado como 'parcial'. O índice do TSE usa 8 categorias fixas, iguais para todos os candidatos, e não prioridades declaradas pelo candidato; as prioridades acima foram retiradas das seções do próprio plano. O documento não informa custos, financiamento ou prazos por proposta e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo).",
+    "reality": {
+      "proposal": "PSTU (TSE, 2026): expropriação das grandes empresas, serviços públicos 100% estatais e 'Estado operário revolucionário'; mobilização direta.",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "A revogação da EC 103/2019 (Previdência) e do teto de gastos e a jornada de 36 horas com fim da escala 6x1 exigem emenda constitucional; as expropriações e reestatizações dependem de lei, com atos de execução em estatais e decisão sobre concessões. O plano não declara instrumento por medida nem transição.",
+        "sources": [
+          {
+            "id": "src-hd-70",
+            "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+            "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+          },
+          {
+            "id": "src-re-r3propostas-02",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+            "publisher": "Presidência da República — Planalto",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publishedAt": "1988-10-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial"
+          }
+        ]
+      },
+      "history": {
+        "aligned": [
+          {
+            "date": "03–05/07/1994",
+            "fact": "Congresso de fundação do PSTU, depois da saída da Convergência Socialista do PT (1992) e do rompimento com o sindicalismo de Estado.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-04",
+                "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "19/12/1995",
+            "fact": "Registro definitivo no TSE; o partido se vincula à LIT-QI, publica o jornal Opinião Socialista e mantém o Coletivo Rebeldia como organização de juventude.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-04",
+                "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "fev/2018",
+            "fact": "O partido lançou o manifesto 'Rebelião Socialista' e disputou a Presidência com Vera Lúcia, tendo Hertz Dias como vice (55.762 votos).",
+            "sources": [
+              {
+                "id": "src-hd-100",
+                "title": "Manifesto Rebelião Socialista — PSTU (documento nacional, fevereiro de 2018)",
+                "publisher": "PSTU (Partido Socialista dos Trabalhadores Unificado)",
+                "url": "https://static.congressoemfoco.com.br/2018/03/PSTU-Nacional_2018-02-21_ManifestoRebelia%CC%83oSocialista_A4_Ver4_FINAL.pdf-1.pdf",
+                "publishedAt": "2018-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "PDF do manifesto nacional do PSTU (21/02/2018), base programática das eleições de 2018 — ano em que Hertz Dias foi candidato a vice-presidente na chapa do partido. Entre as propostas do documento estão 'Desmilitarização da Polícia Militar, fim da Força Nacional de Segurança, fim das intervenções militares nas comunidades pobres; direito dos trabalhadores e dos bairros pobres à autodefesa e ao armamento' e eleição direta para as polícias."
+              },
+              {
+                "id": "src-re-r3pais-04",
+                "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "02/03/2026",
+            "fact": "Manifesto de pré-candidatura de Hertz Dias anunciou o programa 'Com os trabalhadores contra o sistema'.",
+            "sources": [
+              {
+                "id": "src-hd-89",
+                "title": "Manifesto: por uma alternativa para romper as engrenagens do sistema capitalista (peça de pré-candidatura assinada por Hertz Dias)",
+                "publisher": "Opinião Socialista / PSTU (arquivo digital)",
+                "url": "https://opiniaosocialista.com.br/content/files/2026/05/Manifesto-Pre-Candidatura-Eleitoral-Digital.pdf",
+                "publishedAt": "2026-03-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Peça gráfica de página única (Adobe Illustrator, criada em 02/03/2026; 20.291 caracteres de texto extraídos) assinada 'HERTZ DIAS', com diagnóstico (cerca de 250 grandes empresas controlam a maior parte da economia; quase 60% dos trabalhadores em desemprego, subemprego ou trabalho precário e 68% com renda até R$ 2.424, dados do Anuário ILAESE 2025), eixos temáticos (trabalho e renda; terra, povos da floresta e ambiente; segurança pública; opressões de gênero, raça e LGBTIfobia; imperialismo), medidas declaradas (revogar o arcabouço fiscal, suspender o pagamento da dívida, proibir a remessa de lucros, taxar grandes fortunas, impor controle de capitais, expropriar monopólios sob controle democrático dos trabalhadores) e a forma de governo proposta (organismes de base, 'locais de trabalho, estudo e moradia'); termina com chamada para as redes @hertzdiaspstu e @opiniaosocialista. Baixado diretamente em 29/09/2026 (HTTP 200)."
+              }
+            ]
+          },
+          {
+            "date": "02–05/07/2026",
+            "fact": "O XIV Congresso Nacional, em São Paulo, debateu a proposta de programa e decidiu manter o documento em aberto, sem votar texto acabado.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-05",
+                "title": "XIV Congresso Nacional do PSTU avança a construção de um programa para transformar o Brasil",
+                "publisher": "Opinião Socialista (jornal do PSTU)",
+                "url": "https://opiniaosocialista.com.br/xiv-congresso-nacional-do-pstu-avanca-a-construcao-de-um-programa-para-transformar-o-brasil",
+                "publishedAt": "2026-07-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partido",
+                "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "31/07–01/08/2026",
+            "fact": "A convenção nacional confirmou a chapa Hertz Dias/Vanessa Portugal e o plano de 33 páginas registrado no TSE.",
+            "sources": [
+              {
+                "id": "src-hd-72",
+                "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+                "publisher": "Opinião Socialista",
+                "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+              },
+              {
+                "id": "src-hd-70",
+                "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+                "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+              }
+            ]
+          }
+        ],
+        "divergent": [
+          {
+            "date": "2016–2017",
+            "fact": "739 militantes assinaram manifesto de ruptura ('Arrancar alegria ao futuro') e formaram o MAIS, que ingressou no PSOL em julho de 2017.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-04",
+                "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "out/2021–dez/2022",
+            "fact": "O partido lançou o Polo Socialista Revolucionário em plenária com mais de 1.400 participantes para unificar candidaturas em 2022 e, depois das eleições, propôs encerrá-lo; parte das organizações discordou.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-04",
+                "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "2002–2022",
+            "fact": "Houve apoio crítico a candidaturas do PT nos segundos turnos de 2002, 2018 e 2022, e voto nulo em 2006, 2010 e 2014, conforme o histórico registrado.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-04",
+                "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "29/09/2026",
+            "fact": "0 deputados federais e 0 senadores nas APIs oficiais; o verbete registra 14.710 filiados (2026) e 0 governadores, 0 prefeitos e 0 vereadores nos levantamentos de 2022 e 2024.",
+            "sources": [
+              {
+                "id": "src-hd-11",
+                "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                "publisher": "Câmara dos Deputados (dados abertos)",
+                "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+              },
+              {
+                "id": "src-hd-12",
+                "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                "publisher": "Senado Federal (dados abertos)",
+                "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+              },
+              {
+                "id": "src-re-r3pais-04",
+                "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          }
+        ],
+        "noComparablePrecedent": "Não localizamos episódio comparável de expropriação de grandes empresas, estatização do conjunto dos serviços públicos ou revogação de reforma previdenciária na trajetória do PSTU: a organização nasceu de uma corrente sindical (Convergência Socialista), disputa eleições desde 1994 e não integrou Executivo federal, estadual ou municipal nos levantamentos consultados."
+      },
+      "support": {
+        "partySeats": "0/513 deputados federais e 0/81 senadores (APIs oficiais, 29/09/2026)",
+        "coalitionSeats": "0 — chapa pura, sem coligação",
+        "federations": "Nenhuma",
+        "note": "Base partidária: 14.710 filiados (TSE, 2025) e 0 governadores, 0 prefeitos e 0 vereadores nos levantamentos de 2022 e 2024; a candidatura concorre isolada, com vínculo internacional à LIT-QI. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-re-r3pais-04",
+            "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+            "publisher": "Wikipédia (em português)",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "enciclopedia",
+            "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+          },
+          {
+            "id": "src-hd-11",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+          },
+          {
+            "id": "src-hd-12",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+          }
+        ],
+        "documentedAgreements": 2
+      },
+      "tensions": [
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Programa declarado como 'guia para a ação' e trajetória de disputa eleitoral e de segundo turno",
+          "detail": "O documento registrado afirma que o programa 'não é um conjunto de promessas eleitorais' e que a mobilização direta é prioritária; o histórico registra candidaturas próprias desde 1994, o Polo Socialista Revolucionário (2021) para unificar candidaturas e o apoio crítico a candidatos do PT nos segundos turnos de 2002, 2018 e 2022.",
+          "sources": [
+            {
+              "id": "src-hd-70",
+              "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+              "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+            },
+            {
+              "id": "src-re-r3pais-04",
+              "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+              "publisher": "Wikipédia (em português)",
+              "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "enciclopedia",
+              "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-outra-proposta",
+          "title": "Congresso de julho/2026 manteve o programa em aberto e o TSE registra plano em nome da candidatura",
+          "detail": "O XIV Congresso Nacional (02–05/07/2026) decidiu manter o documento-base em aberto, com contribuições da militância e debate com movimentos sociais antes de 'um futuro congresso'; o plano registrado em agosto de 2026 apresenta-se como 'o programa do PSTU, representado nestas eleições' e o índice oficial registra 38 itens.",
+          "sources": [
+            {
+              "id": "src-re-r3pais-05",
+              "title": "XIV Congresso Nacional do PSTU avança a construção de um programa para transformar o Brasil",
+              "publisher": "Opinião Socialista (jornal do PSTU)",
+              "url": "https://opiniaosocialista.com.br/xiv-congresso-nacional-do-pstu-avanca-a-construcao-de-um-programa-para-transformar-o-brasil",
+              "publishedAt": "2026-07-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partido",
+              "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
+            },
+            {
+              "id": "src-hd-70",
+              "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+              "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Eixo de expropriação e de revogação de reformas exige emenda, e o plano não declara instrumento por medida",
+          "detail": "A revogação da EC 103/2019, o fim do teto e a jornada de 36 horas exigem emenda constitucional (CF, art. 60, §2º) e as expropriações dependem de lei; o plano de 33 páginas não indica instrumento, custo ou transição por medida, e o partido tem 0 cadeiras nas duas Casas.",
+          "sources": [
+            {
+              "id": "src-hd-70",
+              "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+              "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+            },
+            {
+              "id": "src-re-r3propostas-02",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+              "publisher": "Presidência da República — Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publishedAt": "1988-10-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial"
+            },
+            {
+              "id": "src-re-r3pais-05",
+              "title": "XIV Congresso Nacional do PSTU avança a construção de um programa para transformar o Brasil",
+              "publisher": "Opinião Socialista (jornal do PSTU)",
+              "url": "https://opiniaosocialista.com.br/xiv-congresso-nacional-do-pstu-avanca-a-construcao-de-um-programa-para-transformar-o-brasil",
+              "publishedAt": "2026-07-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partido",
+              "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Com qual instrumento o projeto revoga a EC 103/2019 e expropria as grandes empresas?",
+          "why": "O plano não declara instrumento jurídico por medida e o registro analítico aponta que custos, financiamento e prazos por proposta não constam do documento.",
+          "sources": [
+            {
+              "id": "src-hd-70",
+              "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+              "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+            }
+          ]
+        },
+        {
+          "question": "Qual o custo anual do aumento de 100% do salário mínimo e da bolsa de um salário mínimo?",
+          "why": "O índice oficial descreve as medidas sem estimativa de beneficiários, custo ou fonte; a compensação declarada depende de lei complementar.",
+          "sources": [
+            {
+              "id": "src-hd-70",
+              "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+              "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+            }
+          ]
+        },
+        {
+          "question": "O texto programático debatido no XIV Congresso será votado por um novo congresso antes da eleição?",
+          "why": "O próprio partido registrou que a proposta seguirá em construção e será debatida com ativistas e movimentos sociais antes de ser submetida a 'um futuro congresso'.",
+          "sources": [
+            {
+              "id": "src-re-r3pais-05",
+              "title": "XIV Congresso Nacional do PSTU avança a construção de um programa para transformar o Brasil",
+              "publisher": "Opinião Socialista (jornal do PSTU)",
+              "url": "https://opiniaosocialista.com.br/xiv-congresso-nacional-do-pstu-avanca-a-construcao-de-um-programa-para-transformar-o-brasil",
+              "publishedAt": "2026-07-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partido",
+              "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "O jornal do partido (Opinião Socialista, 10/07/2026) explica a decisão do congresso: o programa é resultado de elaboração em diálogo com as discussões programáticas da LIT-QI e foi mantido em aberto por não ser considerado acabado ou definitivo, com continuidade 'com o conjunto da militância'.",
+      "methodology": "Apurado sobre o plano registrado no TSE (33 p., 'Com os trabalhadores contra o sistema'), o histórico do partido (fundação em 1994, cisões de 2016–2017, Polo Socialista Revolucionário, segundos turnos) e a cobertura do XIV Congresso pelo jornal do partido. O candidato nunca exerceu cargo público: o projeto foi examinado contra a trajetória organizativa, sem juízo sobre capacidade futura.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
   },
   "foreignPolicy": {
     "worldView": "O plano registrado no TSE ('Com os trabalhadores contra o sistema — Por um Brasil soberano e socialista') trata a política externa como desdobramento das estruturas econômicas internas: o imperialismo é usado como categoria estrutural e a dependência brasileira é atribuída à posição do país na divisão internacional do trabalho como plataforma de exportação de produtos primários. O documento critica simultaneamente o bolsonarismo, pelo alinhamento aos Estados Unidos, e o governo Lula, por negociar com vários centros do capitalismo mundial sem alterar as estruturas internas, e rejeita explicitamente a substituição da dependência norte-americana por dependência chinesa ou europeia, citando a aquisição de ativos existentes em energia e mineração e a instalação da BYD como casos em que o núcleo tecnológico permanece no exterior. A noção de soberania digital é incorporada à política externa, com vedação à hospedagem de dados governamentais sensíveis em servidores privados internacionais e criação de inteligência artificial pública nacional. A análise do OPEB (27/09/2026) registra que o programa não desenvolve estratégia sistemática para ONU, OMC, G20, BRICS ou Mercosul — critica o acordo Mercosul–União Europeia por manter o Brasil na exportação primária, mas não formula alternativa de integração — e não apresenta agenda bilateral com países sul-americanos, doutrina de defesa ou estratégia para negociações climáticas e de minerais críticos.",

@@ -650,6 +650,16 @@
       "date": "2026-09-29",
       "type": "imprensa",
       "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+    },
+    {
+      "id": "src-re-r2pais-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
     }
   ],
   "education": [
@@ -4752,7 +4762,314 @@
     ],
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
-    "methodology": "Extração direta do plano registrado no TSE (48 páginas, 19 propostas numeradas, lido integralmente a partir do espelho público do Poder360) e da cobertura de Agência Brasil e g1. As sete prioridades listadas são as que aparecem como propostas próprias do documento e como eixos repetidos em entrevistas do candidato (redução de impostos e fila do SUS na Agência Brasil; reindustrialização e agro na entrevista ao g1). O que não foi possível extrair: estimativa de custo, compensação fiscal e cronograma das propostas; não há capítulo de política externa nem de clima no documento — a política externa do candidato não foi localizada em fontes 2025-2026 nesta rodada."
+    "methodology": "Extração direta do plano registrado no TSE (48 páginas, 19 propostas numeradas, lido integralmente a partir do espelho público do Poder360) e da cobertura de Agência Brasil e g1. As sete prioridades listadas são as que aparecem como propostas próprias do documento e como eixos repetidos em entrevistas do candidato (redução de impostos e fila do SUS na Agência Brasil; reindustrialização e agro na entrevista ao g1). O que não foi possível extrair: estimativa de custo, compensação fiscal e cronograma das propostas; não há capítulo de política externa nem de clima no documento — a política externa do candidato não foi localizada em fontes 2025-2026 nesta rodada.",
+    "reality": {
+      "proposal": "'Reconstrução Nacional' com 19 propostas: imposto único de 3,5%, fila do SUS zerada, reindustrialização, saneamento universal e IPVA fixo",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "O imposto único de 3,5% substitui tributos de competência federal, estadual e municipal (ICMS, ISS, IPI, PIS, Cofins, IRPJ, INSS patronal, IPVA, ITBI e ITCMD), o que alcança os arts. 153 a 156 da Constituição, com a transição para IBS e CBS em curso desde 2026; o IPVA fixo dependeria de lei estadual. O documento não indica veículo normativo, custo nem cronograma.",
+        "sources": [
+          {
+            "id": "src-re-r2pais-01",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+            "publisher": "Presidência da República — Planalto",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publishedAt": "1988-10-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial",
+            "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+          },
+          {
+            "id": "src-re-r2propostas-02",
+            "title": "Reforma Tributária começa em 2026 com período de adaptação, destaque informativo dos novos tributos e dispensa de penalidades",
+            "publisher": "CGIBS — Comitê Gestor do IBS",
+            "url": "https://www.cgibs.gov.br/reforma-tributaria-comeca-em-2026-com-periodo-de-adaptacao-destaque-informativo-dos-novos-tributos-e-dispensa-de-penalidades",
+            "publishedAt": "2025-12-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial",
+            "notes": "Início em 1º/01/2026 da transição para IBS e CBS, criados pela EC 132/2023, com calendário até 2033."
+          },
+          {
+            "id": "src-la-17",
+            "title": "Plano de Governo — Leonardo Avalanche | PRTB (espelho do arquivo registrado no TSE)",
+            "publisher": "Poder360 (espelho do documento registrado no TSE)",
+            "url": "https://static.poder360.com.br/uploads/2026/09/httpswww.tse_.jus_.breleicoeseleicoes-2026-contentarquivosproposta-prtb@@display-filefileproposta-prtb.pdf",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF de 48 páginas lido integralmente em 29/09/2026: a apresentação declara 'As dezenove propostas reunidas neste documento' e o índice lista as propostas 01 a 19. Espelho idêntico em static.ndmais.com.br/eleicoes/2026/planos-de-governo/BR/2026BR280002554479_01.pdf."
+          }
+        ]
+      },
+      "history": {
+        "aligned": [
+          {
+            "date": "2024-02",
+            "fact": "Assumiu a presidência nacional do PRTB em 23/02/2024, sucedendo direção provisória",
+            "sources": [
+              {
+                "id": "src-la-09",
+                "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+                "publishedAt": "2024-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+              }
+            ]
+          },
+          {
+            "date": "2026-06",
+            "fact": "Certidão da Justiça Eleitoral registra nova composição da Executiva Nacional com Avalanche na presidência (17/06/2026)",
+            "sources": [
+              {
+                "id": "src-la-81",
+                "title": "PRTB confirma Leonardo Avalanche na presidência nacional da legenda após disputa jurídica",
+                "publisher": "Tribuna do ABC",
+                "url": "https://tribunaabc.com.br/tag/leonardo-avalanche",
+                "publishedAt": "2026-06-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Certidão da Justiça Eleitoral registra nova composição da Executiva Nacional com Avalanche na presidência."
+              }
+            ]
+          },
+          {
+            "date": "2026-09",
+            "fact": "Programa 'Reconstrução Nacional' mantido na chapa substituta publicada no DJE de 18/09/2026",
+            "sources": [
+              {
+                "id": "src-la-01",
+                "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+                "publisher": "TSE — Diário da Justiça Eletrônico",
+                "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+              }
+            ]
+          }
+        ],
+        "divergent": [
+          {
+            "date": "2025-09 a 2026-06",
+            "fact": "Expulsão do partido confirmada pela Justiça Eleitoral em 30/09/2025 e reversão do cancelamento da filiação em 06/02/2026, com nova composição certificada em junho",
+            "sources": [
+              {
+                "id": "src-la-82",
+                "title": "Justiça Eleitoral confirma expulsão de Leonardo Avalanche do PRTB; Amauri Pinho assume presidência",
+                "publisher": "Tribuna do ABC",
+                "url": "https://tribunaabc.com.br/tag/justica-eleitoral",
+                "publishedAt": "2025-09-30",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Confirmação judicial da expulsão decidida no congresso de agosto de 2025."
+              },
+              {
+                "id": "src-la-83",
+                "title": "Leonardo Avalanche consegue reverter cancelamento de filiação e volta aos quadros do PRTB",
+                "publisher": "Jornal Opção",
+                "url": "https://www.jornalopcao.com.br/politica/leonardo-avalanche-consegue-reverter-cancelamento-de-filiacao-e-volta-aos-quadros-do-prtb-791776/",
+                "publishedAt": "2026-02-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Após pedido do PRTB à Justiça Eleitoral, filiação é reativada no sistema oficial (06/02/2026)."
+              }
+            ]
+          }
+        ],
+        "noComparablePrecedent": "Nenhum mandato ou cargo executivo: as candidaturas anteriores (2006, 2008, 2016 e 2018) não resultaram em eleição. O registro comparável vem da direção partidária (presidência nacional do PRTB), da convenção e da campanha; não localizamos gestão de orçamento público ou de programa federal."
+      },
+      "support": {
+        "partySeats": "0 de 513 deputados federais e 0 de 81 senadores (PRTB, legislatura 2023-2027)",
+        "coalitionSeats": "Partido isolado no DJE de 18/09/2026, sem coligação para a Presidência; vice Silvia Hellen (PRTB)",
+        "federations": "Nenhuma",
+        "documentedAgreements": 1,
+        "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho. Coordenação documentada com a Justiça Eleitoral e diretório estadual (Goiás).",
+        "sources": [
+          {
+            "id": "src-la-20",
+            "title": "Tabela com a representatividade dos partidos políticos e das federações na Câmara dos Deputados e no Senado Federal",
+            "publisher": "TSE",
+            "url": "https://www.tse.jus.br/eleicoes/tabela-com-a-representatividade-dos-partidos-politicos-e-das-federacoes-na-camara-dos-deputados-e-no-senado-federal",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial",
+            "notes": "Tabela oficial de partidos sem federação: a linha do PRTB aparece como 'Não | Nenhum | 0 | 0 | 0' (nenhuma cadeira na Câmara dos Deputados nem no Senado). Acesso direto bloqueado pelo CDN do TSE nesta rodada; a linha foi conferida no índice público do buscador e é corroborada por src-la-21."
+          },
+          {
+            "id": "src-la-21",
+            "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt): representantes atuais",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "editorial",
+            "notes": "Infobox lido em 29/09/2026: Deputados federais (2026) 0/513; Senadores (2026) 0/81; Governadores 0/27; Deputados estaduais (2022) 7/1.024; Vereadores (2024) 96/56.810; Prefeitos (2024) 1/5.569; 144.376 filiados (jan/2026)."
+          },
+          {
+            "id": "src-la-01",
+            "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+            "publisher": "TSE — Diário da Justiça Eletrônico",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+          },
+          {
+            "id": "src-la-90",
+            "title": "PRTB deixa coligação de Marconi e abre negociação por novo apoio em Goiás",
+            "publisher": "Poder Goiás",
+            "url": "https://www.podergoias.com.br/materia/27350/prtb-deixa-coligacao-de-marconi-e-abre-negociacao-por-novo-apoio-em-goias",
+            "publishedAt": "2026-09-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "12/09/2026: o PRTB retirou a participação da coligação de Marconi Perillo (PSDB) ao governo de Goiás e passou a negociar novo apoio; a definição caberia à direção nacional comandada por Avalanche; a vereadora Daniela da Gilka (PRTB) desistiu da candidatura ao governo."
+          }
+        ]
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-outra-proposta",
+          "title": "Eixo único de receita: imposto de 3,5% sustenta saúde, segurança, saneamento e reindustrialização",
+          "detail": "As 19 propostas incluem zerar a fila do SUS, saneamento universal, equipar as Forças Armadas e reindustrialização, financiadas pela redução da carga tributária a uma alíquota única de 3,5%. O documento afirma que a arrecadação 'triplicaria' com o fim da sonegação e não traz estimativa de compensação; o próprio arquivo registra custo ausente em 17 das 19 propostas e prazo ausente em 16.",
+          "sources": [
+            {
+              "id": "src-la-17",
+              "title": "Plano de Governo — Leonardo Avalanche | PRTB (espelho do arquivo registrado no TSE)",
+              "publisher": "Poder360 (espelho do documento registrado no TSE)",
+              "url": "https://static.poder360.com.br/uploads/2026/09/httpswww.tse_.jus_.breleicoeseleicoes-2026-contentarquivosproposta-prtb@@display-filefileproposta-prtb.pdf",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "PDF de 48 páginas lido integralmente em 29/09/2026: a apresentação declara 'As dezenove propostas reunidas neste documento' e o índice lista as propostas 01 a 19. Espelho idêntico em static.ndmais.com.br/eleicoes/2026/planos-de-governo/BR/2026BR280002554479_01.pdf."
+            },
+            {
+              "id": "src-la-16",
+              "title": "Plano de Governo — Leonardo Avalanche (arquivo registrado no TSE, Eleições 2026)",
+              "publisher": "TSE — propostas de governo dos candidatos à Presidência",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-prtb/@@display-file/file/proposta-prtb",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento oficial do programa 'Reconstrução Nacional' do candidato nº 28 (PRTB). O TSE bloqueia acesso automatizado nesta rodada; o arquivo foi lido pelo espelho público reproduzido em src-la-17."
+            },
+            {
+              "id": "src-la-06",
+              "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+              "publisher": "Agência Brasil",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Programa apresentado como 'reconstrução nacional'."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Mudar competências tributárias de estados e municípios depende de emenda com 0 cadeiras no Congresso",
+          "detail": "Substituir ICMS, ISS, IPVA e tributos federais por alíquota única toca os arts. 153 a 156 da Constituição e a transição para IBS e CBS em curso até 2033. O PRTB tem 0 de 513 deputados federais e 0 de 81 senadores na legislatura atual e não registrou coligação nacional; PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa, e 171 assinaturas para ser apresentada.",
+          "sources": [
+            {
+              "id": "src-re-r2pais-01",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+              "publisher": "Presidência da República — Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publishedAt": "1988-10-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+            },
+            {
+              "id": "src-re-r2propostas-02",
+              "title": "Reforma Tributária começa em 2026 com período de adaptação, destaque informativo dos novos tributos e dispensa de penalidades",
+              "publisher": "CGIBS — Comitê Gestor do IBS",
+              "url": "https://www.cgibs.gov.br/reforma-tributaria-comeca-em-2026-com-periodo-de-adaptacao-destaque-informativo-dos-novos-tributos-e-dispensa-de-penalidades",
+              "publishedAt": "2025-12-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Início em 1º/01/2026 da transição para IBS e CBS, criados pela EC 132/2023, com calendário até 2033."
+            },
+            {
+              "id": "src-la-21",
+              "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt): representantes atuais",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Infobox lido em 29/09/2026: Deputados federais (2026) 0/513; Senadores (2026) 0/81; Governadores 0/27; Deputados estaduais (2022) 7/1.024; Vereadores (2024) 96/56.810; Prefeitos (2024) 1/5.569; 144.376 filiados (jan/2026)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "proposta-sem-precedente",
+          "title": "Conjunto de 19 propostas sem episódio de execução: trajetória é de direção partidária e campanha",
+          "detail": "O programa reúne 19 propostas numeradas (redução da estrutura federal, saneamento universal, reindustrialização, polo tecnológico, sistema nacional de segurança). A trajetória apurada não tem episódio de execução de política pública: as candidaturas de 2006, 2008, 2016 e 2018 não resultaram em eleição e os atos documentados são de direção partidária e campanha.",
+          "sources": [
+            {
+              "id": "src-la-22",
+              "title": "Leonardo Avalanche — candidato a presidente nas eleições 2026 (dados do TSE)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/leonardo-avalanche.ghtml",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Seção 'Candidaturas anteriores' com dados do TSE: 2018 Deputado federal (PODE) — não eleito; 2016 Vereador (PTN) — não eleito; 2008 Vereador (PRTB) — não eleito."
+            },
+            {
+              "id": "src-la-17",
+              "title": "Plano de Governo — Leonardo Avalanche | PRTB (espelho do arquivo registrado no TSE)",
+              "publisher": "Poder360 (espelho do documento registrado no TSE)",
+              "url": "https://static.poder360.com.br/uploads/2026/09/httpswww.tse_.jus_.breleicoeseleicoes-2026-contentarquivosproposta-prtb@@display-filefileproposta-prtb.pdf",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "PDF de 48 páginas lido integralmente em 29/09/2026: a apresentação declara 'As dezenove propostas reunidas neste documento' e o índice lista as propostas 01 a 19. Espelho idêntico em static.ndmais.com.br/eleicoes/2026/planos-de-governo/BR/2026BR280002554479_01.pdf."
+            },
+            {
+              "id": "src-la-09",
+              "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+              "publishedAt": "2024-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Qual o custo total das 19 propostas e qual receita sustenta saúde, saneamento e reindustrialização?",
+          "why": "O arquivo registrado não traz custo em 17 das 19 propostas nem prazo em 16; a receita declarada é a substituição de tributos por alíquota única de 3,5%, com a afirmação de que a arrecadação 'triplicaria' com o fim da sonegação."
+        },
+        {
+          "question": "Quantos votos no Congresso cada proposta exige e quem seriam os relatores?",
+          "why": "As mudanças tributárias e a reorganização administrativa passam por emenda e por leis; o partido tem 0 deputados federais e 0 senadores e não registrou coligação nacional. Não localizamos cronograma legislativo no programa."
+        },
+        {
+          "question": "A chapa substituta mantém integralmente o programa, e quem coordena as 19 propostas na campanha?",
+          "why": "O titular da chapa original foi indeferido pelo TSE em 11/09/2026 e substituído em 14/09, com registro no DJE de 18/09/2026; o programa foi mantido e a composição da equipe não foi divulgada nas fontes consultadas."
+        }
+      ],
+      "publicExplanation": "O partido declarou que a substituição era necessária após a renúncia do titular e protocolou a troca no último dia do prazo, mantendo o programa. Não localizamos explicação pública do candidato sobre a ausência de custo e prazo nas propostas nem sobre o caminho legislativo do imposto único.",
+      "methodology": "Base: programa registrado no TSE (48 páginas, 19 propostas numeradas, lido pelo espelho público), cobertura de 2026 (Agência Brasil, g1, NC News, Gazeta do Paraná), registros do TSE (DJE de 18/09/2026) e atos de direção partidária. Nenhum dos cinco exerceu cargo executivo: o comparável de Avalanche é o comando do PRTB e a campanha. Ficaram fora projeções de arrecadação e o custo por proposta.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium"
+    }
   },
   "foreignPolicy": {
     "worldView": "Sem posição documentada. O plano de governo registrado no TSE (19 propostas, 48 páginas, espelho público lido integralmente) não tem capítulo nem item de política externa e não menciona Brics, Mercosul, China, União Europeia, conflitos ou clima; Estados Unidos, China e Israel aparecem apenas como referência de política pública doméstica (modelo de ensino técnico e de desregulamentação ferroviária nos EUA; matriz de transporte na China; 'Startup Nation' e gestão de água em Israel), não como posicionamento diplomático. A formulação de natureza externa que existe no plano é de soberania e defesa — Proposta 12, 'Equipar as Forças Armadas': 'soberania nacional não se terceiriza' e 'um país que investe na própria capacidade de defesa é um país que negocia de igual pra igual com qualquer potência, sem depender da caridade de terceiros'. Nas fontes de 2026 consultadas (sabatina do Correio Braziliense, julho/2026; cobertura de Agência Brasil, g1, Poder360, NC News) não foi localizada declaração dele sobre o tarifaço americano, sobre a política externa do governo Lula, sobre a China ou sobre qualquer tema bilateral. Não se inferiu posição a partir do partido (PRTB).",

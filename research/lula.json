@@ -8379,7 +8379,309 @@
     "coverageNote": "Plano registrado no TSE lido na íntegra (versão com camada de texto). O horizonte de 10–20 anos aparece de forma indireta: o programa fala em transformação estrutural sem data-limite, e o roteiro até 2035 localizado é documento do CDESS, órgão de governo.",
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
-    "methodology": "Extraído do texto integral do programa registrado no TSE em 08/08/2026 (versão publicada pelo PT, 84 páginas, com índice de 13 eixos e a seção 'Compromisso com o projeto de nação'). O espelho do Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR. As 7 prioridades listadas são os eixos declarados pelo próprio programa, sem prioridades inferidas; os compromissos de campanha de 2026 (fim da escala 6x1, reforma tributária, soberania) aparecem em cobertura de imprensa e em material partidário citados nas fontes."
+    "methodology": "Extraído do texto integral do programa registrado no TSE em 08/08/2026 (versão publicada pelo PT, 84 páginas, com índice de 13 eixos e a seção 'Compromisso com o projeto de nação'). O espelho do Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR. As 7 prioridades listadas são os eixos declarados pelo próprio programa, sem prioridades inferidas; os compromissos de campanha de 2026 (fim da escala 6x1, reforma tributária, soberania) aparecem em cobertura de imprensa e em material partidário citados nas fontes.",
+    "reality": {
+      "proposal": "Continuidade: soberania como princípio, Estado indutor (arcabouço fiscal, reforma tributária, Novo PAC) e ampliação de direitos.",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "O item mais exigente do conjunto é emenda constitucional: a PEC da segurança pública foi entregue pelo Executivo em 23/04/2025 e aprovada pela Câmara em março de 2026; a PEC do fim da escala 6x1 foi aprovada na Câmara em 27/05/2026 (472x22 e 461x19). As duas estavam no Senado em 29/09/2026. O programa também depende de leis complementares (regras fiscais e regulamentação tributária), de leis ordinárias (Bolsa Família, saúde digital, trabalho por aplicativos) e do orçamento anual."
+      },
+      "history": {
+        "aligned": [
+          "30/08/2023: LC 200/2023 sancionada substituiu o teto de gastos pelo arcabouço fiscal, que o programa declara manter.",
+          "20/12/2023: EC 132/2023 promulgou a reforma tributária do consumo, regulamentada em leis complementares de 2025 e 2026.",
+          "11/08/2023: Decreto 11.632 instituiu o Novo PAC; o programa cita carteira de R$ 1,3 trilhão até o fim de 2026.",
+          "23/04/2025: o Executivo entregou ao Congresso a PEC da segurança pública, citada no programa entre as reformas constitucionais necessárias."
+        ],
+        "divergent": [
+          "24/09/2025: o Senado aprovou o texto-base do PLP 168/2025, que retirou da meta fiscal de 2025 as despesas com o tarifaço.",
+          "22/05/2026: bloqueio de quase R$ 24 bilhões no Orçamento; 24/09/2026: contingenciamento de R$ 16,1 bilhões.",
+          "02/09/2026: a CCJ do Senado aprovou o texto-base da PEC da segurança sem concluir a votação; a PEC da jornada seguia sem data de plenário."
+        ],
+        "sources": [
+          {
+            "id": "src-lula-105",
+            "title": "Lei do arcabouço fiscal é sancionada; novo regime substitui o teto de gastos públicos",
+            "publisher": "Agência Câmara de Notícias",
+            "url": "https://camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos",
+            "publishedAt": "2023-08-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "PLP 93/2023 aprovado na Câmara em 22/08/2023 e sancionado com dois vetos em 31/08/2023 (LC 200/2023)."
+          },
+          {
+            "id": "src-lula-29",
+            "title": "Reforma tributária promulgada (EC 132)",
+            "publisher": "Agência Senado",
+            "url": "https://www12.senado.leg.br/noticias/materias/2023/12/21/reforma-tributaria-promulgada-principais-mudancas-dependem-de-novas-leis",
+            "publishedAt": "2023-12-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-lula-90",
+            "title": "Decreto nº 11.632, de 11 de agosto de 2023 — institui o Novo PAC, o Comitê Gestor e o Grupo Executivo do PAC",
+            "publisher": "Planalto — Presidência da República",
+            "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11632.htm",
+            "publishedAt": "2023-08-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "diario_oficial",
+            "notes": "Texto integral do decreto com a composição do Comitê Gestor e do Grupo Executivo."
+          },
+          {
+            "id": "src-lula-128",
+            "title": "Executivo entrega ao Congresso PEC que reformula a segurança pública",
+            "publisher": "Agência Senado",
+            "url": "https://www12.senado.leg.br/noticias/materias/2025/04/23/executivo-entrega-ao-congresso-pec-que-reformula-a-seguranca-publica",
+            "publishedAt": "2025-04-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Entrega da PEC da Segurança Pública pelos presidentes dos três Poderes."
+          },
+          {
+            "id": "src-lula-118",
+            "title": "Aprovado texto-base do projeto que retira despesas com 'tarifaço' do teto de gastos",
+            "publisher": "Agência Senado",
+            "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/aprovado-texto-base-do-projeto-que-retira-despesas-com-tarifaco-do-teto-de-gastos",
+            "publishedAt": "2025-09-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "PLP 168/2025 aprovado por 64 votos a 0 em texto-base; viabiliza a MP 1.309/2025 (Plano Brasil Soberano)."
+          },
+          {
+            "id": "src-re-r1propostas-01",
+            "title": "Governo anuncia crescimento dos gastos federais para 2026 e eleva para quase R$ 24 bilhões o bloqueio de despesas no Orçamento",
+            "publisher": "g1 / Jornal Nacional",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/22/governo-anuncia-crescimento-dos-gastos-federais-para-2026-e-eleva-para-quase-r-24-bilhoes-o-bloqueio-de-despesas-no-orcamento.ghtml",
+            "date": "2026-05-22",
+            "type": "imprensa"
+          },
+          {
+            "id": "src-re-r1propostas-02",
+            "title": "Governo reduz bloqueio, anuncia contingenciamento e congela R$ 16,1 bi",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+            "date": "2026-09-24",
+            "type": "imprensa",
+            "notes": "Relatório bimestral de setembro de 2026."
+          },
+          {
+            "id": "src-re-r1propostas-05",
+            "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação (retirada da regra sobre bets)",
+            "publisher": "Senado Federal — Agência Senado",
+            "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
+            "date": "2026-09-02",
+            "type": "legislativo"
+          }
+        ]
+      },
+      "support": {
+        "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+        "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+        "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+        "note": "O projeto depende do orçamento anual e de PECs em tramitação; a base observável é a coligação de 7 partidos e o PT com 65 deputados e 9 senadores em exercício (29/09/2026). Retrato atual, não previsão do próximo Congresso. Acordos documentados: 3 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-re-r1capacidades-02",
+            "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+            "publisher": "Senado Federal — Dados Abertos",
+            "date": "2026-09-29",
+            "type": "oficial_dados_abertos",
+            "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício."
+          },
+          {
+            "id": "src-re-r1capacidades-03",
+            "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
+            "publisher": "Câmara dos Deputados — Dados Abertos",
+            "date": "2026-09-29",
+            "type": "oficial_dados_abertos",
+            "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras."
+          },
+          {
+            "id": "src-lula-19",
+            "title": "Composição da Câmara após a janela partidária de 2026 (PT: 67)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/04/13/composicao-dos-partidos-na-camara-dos-deputados-muda-depois-do-fim-da-janela-partidaria.ghtml",
+            "publishedAt": "2026-04-13",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-lula-37",
+            "title": "Lista de partidos, federações e coligações — Eleição Geral Federal 2026",
+            "publisher": "TSE — Diário da Justiça Eletrônico",
+            "url": "https://sintse.tse.jus.br/documentos/2026/Set/23/diario-da-justica-eletronico-tres-destaques-edicoes-anteriores/lista-de-partidos-federacoes-coligacoes-candidatas-e-candidatos-eleicao-geral-federal-2026-1o-turno",
+            "publishedAt": "2026-09-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "documentedAgreements": 3
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Dois pilares do programa dependem de PEC e seguiam no Senado sem votação de plenário",
+          "detail": "A PEC da segurança foi aprovada pela Câmara em março de 2026 (Agência Senado, 05/03/2026) e a do fim da escala 6x1 em 27/05/2026 (472x22 e 461x19); em 02/09/2026 a CCJ do Senado aprovou o texto-base da primeira sem concluir a votação, retirando a regra sobre bets, e a segunda seguia com o plenário sem data. O quórum é 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+          "sources": [
+            {
+              "id": "src-re-r1propostas-05",
+              "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação (retirada da regra sobre bets)",
+              "publisher": "Senado Federal — Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
+              "date": "2026-09-02",
+              "type": "legislativo"
+            },
+            {
+              "id": "src-lula-129",
+              "title": "Câmara aprova PEC da Segurança; texto será analisado pelo Senado",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/materias/2026/03/05/camara-aprova-pec-da-seguranca-texto-sera-analisado-pelo-senado",
+              "publishedAt": "2026-03-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Aprovação na Câmara da PEC que constitucionaliza o Sistema Único de Segurança Pública."
+            },
+            {
+              "id": "src-re-r1propostas-07",
+              "title": "PEC do fim da escala 6x1 é aprovada em 1º e 2º turnos na Câmara dos Deputados",
+              "publisher": "Contraf-CUT",
+              "url": "https://contrafcut.com.br/noticias/pec-do-fim-da-escala-6x1-e-aprovada-na-camara-dos-deputados",
+              "date": "2026-05-28",
+              "type": "imprensa",
+              "notes": "1º turno 472x22; 2º turno 461x19, em 27/05/2026."
+            },
+            {
+              "id": "src-re-r1propostas-08",
+              "title": "CCJ do Senado aprova PEC que acaba com jornada 6x1",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1",
+              "date": "2026-09-02",
+              "type": "imprensa",
+              "notes": "Matéria ainda depende do plenário do Senado em dois turnos."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Programa declara manter o arcabouço e despesas do tarifaço saíram da meta fiscal por lei complementar",
+          "detail": "Em 24/09/2025 o Senado aprovou o texto-base do PLP 168/2025, retirando da meta fiscal de 2025 as despesas com o tarifaço; em 22/05/2026 o Executivo elevou o bloqueio para quase R$ 24 bilhões e em 24/09/2026 congelou R$ 16,1 bilhões para cumprir o limite do arcabouço, regra que o programa declara manter.",
+          "sources": [
+            {
+              "id": "src-lula-118",
+              "title": "Aprovado texto-base do projeto que retira despesas com 'tarifaço' do teto de gastos",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/aprovado-texto-base-do-projeto-que-retira-despesas-com-tarifaco-do-teto-de-gastos",
+              "publishedAt": "2025-09-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "PLP 168/2025 aprovado por 64 votos a 0 em texto-base; viabiliza a MP 1.309/2025 (Plano Brasil Soberano)."
+            },
+            {
+              "id": "src-lula-119",
+              "title": "Senado aprova texto-base de projeto que tira gastos com o tarifaço das metas fiscais de 2025 e 2026",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/noticia/2025/09/24/senado-aprova-texto-base-de-projeto-que-tira-gastos-com-o-tarifaco-das-metas-fiscais-de-2025-e-2026.ghtml",
+              "publishedAt": "2025-09-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "R$ 4,5 bilhões em fundos garantidores e R$ 5 bilhões de Reintegra fora da meta; dois destaques pendentes."
+            },
+            {
+              "id": "src-re-r1propostas-01",
+              "title": "Governo anuncia crescimento dos gastos federais para 2026 e eleva para quase R$ 24 bilhões o bloqueio de despesas no Orçamento",
+              "publisher": "g1 / Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/22/governo-anuncia-crescimento-dos-gastos-federais-para-2026-e-eleva-para-quase-r-24-bilhoes-o-bloqueio-de-despesas-no-orcamento.ghtml",
+              "date": "2026-05-22",
+              "type": "imprensa"
+            },
+            {
+              "id": "src-re-r1propostas-02",
+              "title": "Governo reduz bloqueio, anuncia contingenciamento e congela R$ 16,1 bi",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+              "date": "2026-09-24",
+              "type": "imprensa",
+              "notes": "Relatório bimestral de setembro de 2026."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Soberania como princípio do programa e mesa de negociação tarifária com Washington em 2026",
+          "detail": "Em 07/05/2026 o presidente discutiu com Trump crime organizado, tarifas e minerais críticos e propôs grupo de trabalho; os EUA mantêm sobretaxa de 25% em vigor desde 22/07/2026 e fizeram 21 exigências; em 17/09/2026 o governo rejeitou a exigência sobre 'dissidentes políticos' e em 06/09/2026 afirmou que 'não somos colônia'.",
+          "sources": [
+            {
+              "id": "src-lula-78",
+              "title": "Pix, minerais críticos e tarifas: o que o governo Lula quer discutir com Trump na economia",
+              "publisher": "BBC News Brasil",
+              "url": "https://bbc.com/portuguese/articles/cglpyzegwkko",
+              "publishedAt": "2026-05-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Pauta da visita de Lula a Washington (maio/2026): investigação da seção 301 sobre o Pix, tarifas remanescentes (estimativa do MDIC de 29% das exportações aos EUA com tarifas adicionais) e investimento em minerais críticos, com defesa de agregação de valor no país."
+            },
+            {
+              "id": "src-lula-109",
+              "title": "Governo Trump fez 21 exigências ao Brasil para negociar o tarifaço",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/governo-trump-impos-21-exigencias-brasil-negociar-tarifaco",
+              "publishedAt": "2026-09-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Lista de exigências apresentadas na negociação."
+            },
+            {
+              "id": "src-lula-107",
+              "title": "Governo Lula rejeitou incluir exigência dos EUA sobre participação de dissidentes políticos nas eleições",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/noticia/2026/09/17/governo-rejeitou-incluir-exigencia-sobre-participacao-de-dissidentes-politicos-nas-eleicoes-em-negociacao-de-tarifaco-com-os-eua.ghtml",
+              "publishedAt": "2026-09-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Exigência recusada na negociação do tarifaço."
+            },
+            {
+              "id": "src-lula-132",
+              "title": "Lula defende soberania do Brasil em pronunciamento pelo 7 de setembro",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lula-defende-soberania-do-brasil-em-pronunciamento-pelo-7-de-setembro",
+              "publishedAt": "2026-09-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "agencia_publica",
+              "notes": "Pronunciamento em rede nacional de rádio e TV na noite de 06/09/2026; cita a frase 'Não somos colônia e não seremos colônia de ninguém' e a defesa do livre comércio."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Qual é o custo por eixo do programa e a dotação prevista para o Novo PAC no Orçamento de 2027?",
+          "why": "O documento informa valores de execução de 2023-2026 (carteira de R$ 1,3 trilhão; esforço fiscal de R$ 240 bi) e uma fonte para segurança (FIIS de R$ 10 bi), sem custo por proposta nem dotação do próximo mandato."
+        },
+        {
+          "question": "Qual é o prazo de votação das PECs da segurança e da jornada no plenário do Senado, em dois turnos?",
+          "why": "Em 02/09/2026 a CCJ não concluiu a votação da PEC da segurança e a PEC da jornada seguia sem data; a liderança do governo declarou intenção de votar até outubro."
+        },
+        {
+          "question": "Quais metas anuais, prazos e responsáveis por programa constarão do PPA 2028-2031 a ser enviado?",
+          "why": "O programa cita o PPA 2024-2027 e propõe continuidade do planejamento, sem apresentar metas quantificadas por eixo nem responsáveis nomeados."
+        }
+      ],
+      "publicExplanation": "Em 06/09/2026, em pronunciamento de 7 de Setembro, afirmou que 'não somos colônia e não seremos colônia de ninguém'; em 25/09/2026, a empresários, defendeu responsabilidade fiscal, estabilidade e soberania (Valor).",
+      "methodology": "Apurado pela leitura integral do programa registrado no TSE (84 páginas, 13 eixos) e por checagem de tramitação, votações nominais e relatórios fiscais de 2025-2026. O documento informa valores de execução passada e uma fonte para segurança (FIIS), sem custo, prazo, meta mensurável ou responsável por eixo; ficaram de fora pareceres de custo e o PPA 2028-2031, não enviado.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    }
   },
   "foreignPolicy": {
     "worldView": "Programa registrado no TSE (ago/2026) afirma 'soberania' e 'independência' como princípios e descreve a integração sul-americana como 'primeiro círculo de projeção estratégica do Brasil'. EUA: não propõe alinhamento; em 2025-2026 o governo tratou o tarifaço como medida politicamente motivada, e no discurso de abertura da Assembleia Geral da ONU (set/2026) Lula afirmou que 'o Brasil não cabe no quintal de ninguém' e criticou interferência externa em processos eleitorais, sem citar Trump. China: em telefonema com Xi Jinping (26/07/2026) defendeu acelerar as negociações de acordo comercial Mercosul-China e reafirmou a diversificação de mercados e parceiros. BRICS: defende aprofundar a aproximação geopolítica com o bloco e o Sul Global e ampliar transações em moedas locais; em fev/2026 disse à imprensa indiana que acordos com a Índia não precisam ser feitos em dólares. Mercosul: consolidá-lo como principal plataforma de integração econômica e usar o acordo com a União Europeia (aplicação provisória desde 01/05/2026); rejeita convertê-lo em área de livre comércio para permitir acordos bilaterais. Multilateralismo: reforma do Conselho de Segurança da ONU e da OMC e mecanismos financeiros do BRICS. América Latina: condena operações militares dos EUA de combate ao 'narcoterrorismo' (Caribe, 2025; Venezuela, jan/2026), o Brasil não aderiu ao 'Escudo das Américas' (mar/2026) e, simultaneamente, propôs aos EUA cooperação em segurança com compartilhamento de inteligência. Oriente Médio: classifica as ações de Israel em Gaza como genocídio e defende Estado palestino; as relações com Israel estão rebaixadas ao nível de encarregado de negócios. OCDE: processo de acessão paralisado, com o argumento de que cláusulas de investimento seriam prejudiciais a países em desenvolvimento. Clima: sediou a COP30 em Belém (nov/2025), defendeu o Pacote de Belém e a capitalização do Fundo Florestas Tropicais para Sempre. Não há posição de campanha de 2026 documentada sobre a guerra na Ucrânia.",

@@ -7390,7 +7390,295 @@
     "coverageNote": "Plano da campanha (102 páginas) e espelho do mesmo PDF no Poder360 lidos na íntegra. A URL do arquivo no DivulgaCandContas não foi localizada nesta coleta; a base é o documento publicado pela campanha e a cobertura do registro em 14/08/2026.",
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
-    "methodology": "Lido diretamente da carta de compromisso, do sumário de 26 temas, do bloco de método de governo e da lista de 'Compromissos nacionais para 2030' (p. 7-8) do plano registrado. As 7 prioridades correspondem a itens declarados nesses blocos e a títulos de temas do próprio índice; o plano não apresenta, na maior parte dos itens, custo ou prazo por proposta, e não traz metas quantificadas para horizonte de 10 a 20 anos."
+    "methodology": "Lido diretamente da carta de compromisso, do sumário de 26 temas, do bloco de método de governo e da lista de 'Compromissos nacionais para 2030' (p. 7-8) do plano registrado. As 7 prioridades correspondem a itens declarados nesses blocos e a títulos de temas do próprio índice; o plano não apresenta, na maior parte dos itens, custo ou prazo por proposta, e não traz metas quantificadas para horizonte de 10 a 20 anos.",
+    "reality": {
+      "proposal": "Projeto de gestão: segurança como prioridade presidencial, estabilização fiscal com teto efetivo, PPA por missões e dez compromissos para 2030.",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "O item mais exigente é emenda constitucional: o método de governo (item 3) prevê encaminhar ao Congresso, no início do mandato, proposta de emenda à Constituição para extinguir a reeleição consecutiva nos cargos do Executivo; o tema de segurança aponta a PEC da maioridade penal aos 16 anos. O documento declara que o plano será traduzido em projetos de lei, atos administrativos, pactos federativos e metas do PPA 2028-2031, sem indicar o instrumento de cada um dos dez compromissos."
+      },
+      "history": {
+        "aligned": [
+          "2019-2025: Goiás saiu do Regime de Recuperação Fiscal e aderiu ao Propag (LC 212/2025), com aval da ALMG em 15/05/2025.",
+          "24/03/2025: comissão mista do Orçamento analisou a recuperação fiscal de Goiás, com superávit primário de R$ 3,1 bi em 2024.",
+          "29/03/2026: o governo estadual informa R$ 23,7 bilhões em investimentos em oito anos de mandato.",
+          "Goiás registra queda de indicadores criminais pelo 7º ano consecutivo, segundo o governo do estado."
+        ],
+        "divergent": [
+          "11/09/2023: o STF manteve a suspensão de normas de Goiás sobre pagamento acima do teto remuneratório (liminar de 23/07/2023).",
+          "25/08/2026: em sabatina, não detalhou o ajuste fiscal nem a reforma da Previdência (Estadão).",
+          "18/03/2026: assinou como governador memorando com os EUA sobre minerais críticos; o MPF abriu procedimento em 26/07/2026 e análises jurídicas apontaram competência da União."
+        ],
+        "sources": [
+          {
+            "id": "src-re-r1propostas-34",
+            "title": "Saída do Estado do RRF e adesão ao Propag recebem aval definitivo",
+            "publisher": "Assembleia Legislativa de Goiás",
+            "url": "https://portal.al.go.leg.br/noticias/154770/saida-do-estado-do-rrf-e-adesao-ao-propag-recebem-aval-definitivo",
+            "date": "2025-05-15",
+            "type": "legislativo",
+            "notes": "Aval legislativo à saída do Regime de Recuperação Fiscal e à adesão ao Propag (LC 212/2025)."
+          },
+          {
+            "id": "src-re-r1propostas-31",
+            "title": "Governo oficializa saída de Goiás do RRF, passo necessário para adesão ao Propag",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/brasil/noticia/2025/12/10/governo-oficializa-sada-de-gois-do-rrf-passo-necessrio-para-adeso-ao-propag.ghtml",
+            "date": "2025-12-10",
+            "type": "imprensa"
+          },
+          {
+            "id": "src-re-r1propostas-30",
+            "title": "Comissão Mista de Orçamento analisa recuperação fiscal de Goiás (superávit primário de R$ 3,1 bi em 2024)",
+            "publisher": "Câmara dos Deputados — Agência Câmara",
+            "url": "https://www.camara.leg.br/noticias/1148865-comissao-mista-de-orcamento-analisa-recuperacao-fiscal-de-goias",
+            "date": "2025-03-24",
+            "type": "legislativo"
+          },
+          {
+            "id": "src-re-r1propostas-29",
+            "title": "Governo Caiado: de ajuste fiscal a R$ 23,7 bilhões em investimentos",
+            "publisher": "Empreender em Goiás",
+            "url": "https://empreenderemgoias.com.br/2026/03/29/governo-caiado-de-ajuste-fiscal-a-r-237-bilhoes-em-investimentos",
+            "date": "2026-03-29",
+            "type": "imprensa",
+            "notes": "Somatório de investimentos em oito anos de governo, segundo o governo estadual."
+          },
+          {
+            "id": "src-re-r1propostas-33",
+            "title": "Goiás registra queda nos índices de criminalidade (7º ano consecutivo)",
+            "publisher": "Agência Goiás de Notícias",
+            "url": "https://agencia.go.gov.br/goias-registra-queda-nos-indices-de-criminalidade",
+            "date": "2026",
+            "type": "executivo_estadual"
+          },
+          {
+            "id": "src-re-r1propostas-36",
+            "title": "Plenário mantém suspensão de normas de Goiás sobre remuneração acima do teto",
+            "publisher": "STF — Portal de Notícias",
+            "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=513780",
+            "date": "2023-09-11",
+            "type": "tribunal"
+          },
+          {
+            "id": "src-re-r1propostas-37",
+            "title": "André Mendonça suspende pagamento acima do teto a magistrados de Goiás",
+            "publisher": "Migalhas",
+            "url": "https://www.migalhas.com.br/quentes/390454/andre-mendonca-suspende-pagamento-acima-do-teto-a-magistrados-de-goias",
+            "date": "2023-07-23",
+            "type": "imprensa"
+          },
+          {
+            "id": "src-re-r1temas-08",
+            "title": "Caiado evita detalhar propostas para reforma da Previdência e ajuste fiscal em sabatina",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/eleicoes/caiado-evita-detalhar-propostas-para-reforma-da-previdencia-e-ajuste-fiscal-em-sabatina/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Sabatina do Jornal Nacional (25/08/2026): ao ser questionado sobre sustentabilidade da Previdência, o candidato recusou detalhes técnicos; citou limitar despesas à correção da inflação e 'adequar' subvenções, incentivos, supersalários e emendas impositivas; afirmou que não mexeria nos pisos de saúde e educação nem no salário mínimo."
+          },
+          {
+            "id": "src-re-07",
+            "title": "Caiado negociou terras raras direto com os EUA. Mas quem pode fazer isso no Brasil?",
+            "publisher": "Lawletter (Filippe Augusto)",
+            "url": "https://lawletter.com.br/articulista/filippe-augusto/caiado-negociou-terras-raras-direto-com-os-eua-mas-quem-pode-fazer-isso-no-brasil",
+            "publishedAt": "2026-04-03",
+            "date": "2026-04-03",
+            "accessedAt": "2026-09-29",
+            "type": "editorial"
+          },
+          {
+            "id": "src-re-09",
+            "title": "MPF abre procedimento para acompanhar acordo de Goiás com os EUA sobre terras raras",
+            "publisher": "Veja",
+            "url": "https://veja.abril.com.br/brasil/mpf-abre-procedimento-para-acompanhar-acordo-sobre-terras-raras-de-goias-com-os-eua/",
+            "publishedAt": "2026-07-26",
+            "date": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "type": "imprensa"
+          }
+        ]
+      },
+      "support": {
+        "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+        "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+        "federations": "Nenhuma federação declarada na chapa",
+        "note": "O projeto depende do Congresso e de pactos com estados e municípios; a base observável é o PSD com 48 deputados e 14 senadores em exercício, 6 governadores e mais de 1,3 mil prefeitos. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 4 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-re-r1capacidades-02",
+            "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+            "publisher": "Senado Federal — Dados Abertos",
+            "date": "2026-09-29",
+            "type": "oficial_dados_abertos",
+            "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício."
+          },
+          {
+            "id": "src-re-r1capacidades-03",
+            "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
+            "publisher": "Câmara dos Deputados — Dados Abertos",
+            "date": "2026-09-29",
+            "type": "oficial_dados_abertos",
+            "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras."
+          },
+          {
+            "id": "src-cg-29",
+            "title": "Bancada ampliada do PSD faz sua primeira reunião",
+            "publisher": "PSD",
+            "url": "https://psd.org.br/noticias/bancada-ampliada-do-psd-faz-sua-primeira-reuniao/",
+            "publishedAt": "2026-04-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cg-30",
+            "title": "PSD nasce de ruptura com o DEM e vira força regional em 15 anos",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-partidos-politicos/psd-nasce-de-ruptura-com-o-dem-e-vira-forca-regional-em-15-anos/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "documentedAgreements": 4
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Fim da reeleição por PEC e dez compromissos de 2030 sem instrumento definido item a item",
+          "detail": "O método de governo prevê encaminhar PEC, no início do mandato, para extinguir a reeleição consecutiva no Executivo, e o tema de segurança apoia a PEC da maioridade penal aos 16 anos. Para os dez compromissos de 2030 o documento remete a projetos de lei, atos administrativos, pactos federativos e metas do PPA 2028-2031, sem instrumento por compromisso.",
+          "sources": [
+            {
+              "id": "src-caiado-80",
+              "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF publicado pela campanha)",
+              "publisher": "Poder360",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "PDF de 102 páginas com texto lido diretamente: carta de compromisso, 26 temas, 10 itens de método de governo, 10 'Compromissos nacionais para 2030' e seção de implementação/monitoramento."
+            },
+            {
+              "id": "src-re-r1capacidades-01",
+              "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publisher": "Presidência da República — Planalto",
+              "date": "1988-10-05",
+              "type": "oficial_legislacao",
+              "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Plano de estabilização fiscal e normas de Goiás sobre pagamento acima do teto suspensas pelo STF",
+          "detail": "Em 23/07/2023 o relator suspendeu o pagamento acima do teto a magistrados de Goiás e, em 11/09/2023, o plenário do STF manteve a suspensão das normas do estado; o plano vincula o crescimento a reorganização do gasto, revisão de subsídios e teto remuneratório, e em 25/08/2026 o candidato não detalhou o ajuste fiscal em sabatina.",
+          "sources": [
+            {
+              "id": "src-re-r1propostas-37",
+              "title": "André Mendonça suspende pagamento acima do teto a magistrados de Goiás",
+              "publisher": "Migalhas",
+              "url": "https://www.migalhas.com.br/quentes/390454/andre-mendonca-suspende-pagamento-acima-do-teto-a-magistrados-de-goias",
+              "date": "2023-07-23",
+              "type": "imprensa"
+            },
+            {
+              "id": "src-re-r1propostas-36",
+              "title": "Plenário mantém suspensão de normas de Goiás sobre remuneração acima do teto",
+              "publisher": "STF — Portal de Notícias",
+              "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=513780",
+              "date": "2023-09-11",
+              "type": "tribunal"
+            },
+            {
+              "id": "src-re-r1temas-08",
+              "title": "Caiado evita detalhar propostas para reforma da Previdência e ajuste fiscal em sabatina",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/eleicoes/caiado-evita-detalhar-propostas-para-reforma-da-previdencia-e-ajuste-fiscal-em-sabatina/",
+              "publishedAt": "2026-08-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina do Jornal Nacional (25/08/2026): ao ser questionado sobre sustentabilidade da Previdência, o candidato recusou detalhes técnicos; citou limitar despesas à correção da inflação e 'adequar' subvenções, incentivos, supersalários e emendas impositivas; afirmou que não mexeria nos pisos de saúde e educação nem no salário mínimo."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Plano de política externa sem 'alinhamentos automáticos' e memorando estadual com os EUA em 2026",
+          "detail": "Em 18/03/2026 o governador assinou memorando com os EUA sobre minerais críticos, com sigilo de cinco anos apontado pela Folha em 24/03/2026; análises jurídicas de abril de 2026 apontaram competência da União e, em 26/07/2026, o MPF abriu procedimento para acompanhar as negociações.",
+          "sources": [
+            {
+              "id": "src-re-07",
+              "title": "Caiado negociou terras raras direto com os EUA. Mas quem pode fazer isso no Brasil?",
+              "publisher": "Lawletter (Filippe Augusto)",
+              "url": "https://lawletter.com.br/articulista/filippe-augusto/caiado-negociou-terras-raras-direto-com-os-eua-mas-quem-pode-fazer-isso-no-brasil",
+              "publishedAt": "2026-04-03",
+              "date": "2026-04-03",
+              "accessedAt": "2026-09-29",
+              "type": "editorial"
+            },
+            {
+              "id": "src-caiado-85",
+              "title": "Acordo entre Goiás e EUA prevê exclusividade e sigilo no fornecimento de dados de minerais críticos",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/mercado/2026/03/acordo-entre-goias-e-eua-preve-exclusividade-e-sigilo-no-fornecimento-de-dados-de-minerais-criticos.shtml",
+              "publishedAt": "2026-03-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Acesso ao texto do MOU (11 seções): confidencialidade por cinco anos de dados geológicos, possibilidade de exclusividade a entidades designadas pelos EUA e apoio a políticas regulatórias; juristas ouvidos consideram o acordo inconstitucional por tratar de competência da União; o governo de Goiás sustenta respaldo constitucional estadual. Notícia registra também que o servidor federal recebeu o assunto com perplexidade."
+            },
+            {
+              "id": "src-re-08",
+              "title": "Acordo Goiás-Estados Unidos sobre terras raras é inconstitucional",
+              "publisher": "Consultor Jurídico (Conjur)",
+              "url": "https://conjur.com.br/2026-abr-26/acordo-goias-eua-sobre-terras-raras-e-totalmente-inconstitucional-2/",
+              "publishedAt": "2026-04-26",
+              "date": "2026-04-26",
+              "accessedAt": "2026-09-29",
+              "type": "editorial"
+            },
+            {
+              "id": "src-re-09",
+              "title": "MPF abre procedimento para acompanhar acordo de Goiás com os EUA sobre terras raras",
+              "publisher": "Veja",
+              "url": "https://veja.abril.com.br/brasil/mpf-abre-procedimento-para-acompanhar-acordo-sobre-terras-raras-de-goias-com-os-eua/",
+              "publishedAt": "2026-07-26",
+              "date": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "type": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Qual é o custo e a fonte de recursos de cada um dos dez compromissos nacionais de 2030?",
+          "why": "A leitura integral do PDF de 102 páginas não localizou valores em reais; o documento informa que cada programa terá responsável, cronograma, orçamento e indicador, sem apresentá-los."
+        },
+        {
+          "question": "Qual é o instrumento previsto de cada compromisso: lei, emenda constitucional, pacto federativo ou meta do PPA?",
+          "why": "O plano declara que será traduzido em projetos de lei, atos administrativos, pactos federativos e metas do Plano Plurianual, sem associar instrumento a compromisso."
+        },
+        {
+          "question": "Quais metas anuais e indicadores serão pactuados, e com quais estados e municípios?",
+          "why": "O documento prevê PPA 2028-2031 por missões, painel público e comitês federativos, sem listar as metas numéricas nem os entes pactuantes."
+        }
+      ],
+      "publicExplanation": "Em 12/08/2026 respondeu que 'dizer que quero entregar terras raras aos EUA é burrice e mau-caratismo' e definiu o objetivo como atrair tecnologia para processar minerais no país; o governo de Goiás classifica o memorando como declaração de intenções não vinculante (Agência Brasil, 27/04/2026).",
+      "methodology": "Apurado pela leitura integral do PDF de 102 páginas (carta, 26 temas, método de governo e dez compromissos de 2030), por atos estaduais e por decisões do STF sobre Goiás. O texto não traz valores em reais nem prazo por compromisso; a leitura localizou 0 ocorrências de 'R$' no documento. Ficaram de fora o PPA estadual detalhado e a íntegra do memorando com os EUA.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    }
   },
   "foreignPolicy": {
     "worldView": "O plano registrado (ago/2026) propõe agendas sem 'alinhamentos automáticos' e objetivos de 'abrir mercados, atrair investimento produtivo, proteger brasileiros no exterior, fortalecer a integração regional e defender regras multilaterais', com prioridade a Ásia, África e Indo-Pacífico; consolidação do acordo Mercosul-União Europeia; minerais estratégicos, energia limpa e biodiversidade como instrumentos de desenvolvimento; 'infraestrutura pública digital e diplomacia tecnológica' (Pix, gov.br e open finance como instrumentos de cooperação e exportação) e 'liderar coalizões de potências médias' para ampliar acesso a capacidade computacional; e o objetivo declarado de 'reposicionar o Brasil no mundo como parceiro previsível, potência ambiental, alimentar, energética e tecnológica'. Em entrevista da campanha à Folha (12/09/2026), o coordenador do programa, Roberto Brant, afirmou que o BRICS não deve ser usado para 'hostilizar as democracias ocidentais', que os EUA serão tratados 'com respeito, firmeza e profissionalismo' com rejeição a interferências nas eleições e às tarifas ('bravata não é diplomacia, assim como submissão não é negociação') e que a flexibilização do Mercosul é admitida para acordos bilaterais quando a negociação conjunta não for possível. Operações estrangeiras: a campanha apoia a designação de PCC e CV como organizações terroristas e a cooperação internacional, mas rejeita operações dos EUA em território brasileiro; Caiado admite operações de forças sul-americanas e propôs a criação da SULPOL, agência policial sul-americana. Israel: condena os ataques do Hamas e propõe normalizar as relações. Em sabatina (GloboNews, 07/08/2026) disse que não adotará postura de confronto com os EUA ('Eu não quero bravata') e que haveria 'nova orientação' no Itamaraty.",

@@ -340,7 +340,26 @@ def validate_reality(errs, where, rc):
 
 def main():
     dry = "--dry-run" in sys.argv
-    patches = sorted(glob.glob(os.path.join(PATCH_DIR, "*.json")))
+    # Merge por lote: caminhos/globs posicionais (ex.: research/_patches/realidade/r*.pais.json)
+    # permitem publicar um escopo fechado enquanto outro patch ainda está em escrita.
+    # Sem argumento, processa todos os patches do diretório.
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    if args:
+        patches = []
+        for arg in args:
+            found = sorted(glob.glob(arg)) or sorted(glob.glob(os.path.join(PATCH_DIR, arg)))
+            if not found:
+                print("patch não encontrado:", arg)
+                return 1
+            patches.extend(found)
+        seen, uniq = set(), []
+        for p in patches:
+            if p not in seen:
+                seen.add(p)
+                uniq.append(p)
+        patches = uniq
+    else:
+        patches = sorted(glob.glob(os.path.join(PATCH_DIR, "*.json")))
     if not patches:
         print("nenhum patch em", PATCH_DIR)
         return 1

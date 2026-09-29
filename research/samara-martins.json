@@ -2841,6 +2841,16 @@
       "date": "2026-09-29",
       "type": "imprensa",
       "notes": "Consulta em 29/09/2026; levantamento por candidato com base nos planos registrados."
+    },
+    {
+      "id": "src-re-r2pais-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -5139,7 +5149,312 @@
     ],
     "evidenceStatus": "confirmado",
     "confidenceLevel": "medium",
-    "methodology": "Extração direta da versão de 67 páginas do programa apresentado pela campanha (lida integralmente), confrontada com a versão de 16 propostas e com a cobertura de 2026 (Jornalismo Júnior, BNews, O Globo/Lauro Jardim, Metrópoles, Agência Brasil). Confiança média porque o registro no TSE passou por correção: o documento protocolado em 06/08/2026 reproduzia a versão de 2022 (relatado pela imprensa e pela coluna de O Globo, que mede menos de duas páginas e 16 propostas) e a versão ampliada de 67 páginas passou a circular em seguida; as prioridades listadas foram checadas nas duas versões e não há divergência de eixo, mas divergem em extensão — a versão de 16 propostas cita jornada de 36 horas enquanto o programa ampliado detalha proposta de 30 horas semanais. O que não foi possível extrair: cronograma, custo e fonte de financiamento por proposta (as duas versões são programáticas e não apresentam orçamento)."
+    "methodology": "Extração direta da versão de 67 páginas do programa apresentado pela campanha (lida integralmente), confrontada com a versão de 16 propostas e com a cobertura de 2026 (Jornalismo Júnior, BNews, O Globo/Lauro Jardim, Metrópoles, Agência Brasil). Confiança média porque o registro no TSE passou por correção: o documento protocolado em 06/08/2026 reproduzia a versão de 2022 (relatado pela imprensa e pela coluna de O Globo, que mede menos de duas páginas e 16 propostas) e a versão ampliada de 67 páginas passou a circular em seguida; as prioridades listadas foram checadas nas duas versões e não há divergência de eixo, mas divergem em extensão — a versão de 16 propostas cita jornada de 36 horas enquanto o programa ampliado detalha proposta de 30 horas semanais. O que não foi possível extrair: cronograma, custo e fonte de financiamento por proposta (as duas versões são programáticas e não apresentam orçamento).",
+    "reality": {
+      "proposal": "Programa 'Governo Popular dos Trabalhadores': controle público dos setores estratégicos, reajuste de 100% do mínimo e fim da escala 6x1",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "O programa reúne mudanças que dependem de emenda (fim da escala 6x1 e jornada de 30 horas, desmilitarização das polícias estaduais, eleição de juízes, nacionalização do sistema bancário), de lei complementar (imposto sobre grandes fortunas, ainda sem regra editada) e de decisão sobre a dívida pública, cuja suspensão alcança contratos e credores.",
+        "sources": [
+          {
+            "id": "src-re-r2pais-01",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+            "publisher": "Presidência da República — Planalto",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publishedAt": "1988-10-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial",
+            "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+          },
+          {
+            "id": "src-re-r2propostas-03",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+            "publisher": "Presidência da República — Planalto",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publishedAt": "1988-10-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial",
+            "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+          },
+          {
+            "id": "src-sm-41",
+            "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+            "publisher": "Poder360 (espelho do documento da campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+          }
+        ]
+      },
+      "history": {
+        "aligned": [
+          {
+            "date": "2019-2022",
+            "fact": "Programa nacional da UP aprovado nos congressos de 2019 e 2021 serviu de base ao documento de governo de 2022, do qual a candidata foi vice",
+            "sources": [
+              {
+                "id": "src-sm-93",
+                "title": "Proposta de governo da candidatura Leonardo Péricles e Samara Martins (2022) — documento registrado",
+                "publisher": "TSE — DivulgaCandContas",
+                "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280010871023",
+                "publishedAt": "2022",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Documento de 2022: derivação do programa nacional da UP aprovado nos congressos de 2019 e 2021."
+              }
+            ]
+          },
+          {
+            "date": "2022-10",
+            "fact": "Após o primeiro turno, o partido anunciou apoio a Lula no segundo turno, depois de obter 0,05% dos votos válidos na chapa própria",
+            "sources": [
+              {
+                "id": "src-sm-33",
+                "title": "Léo Péricles e Unidade Popular anunciam apoio a Lula no segundo turno das eleições",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/10/leo-pericles-e-unidade-popular-anunciam-apoio-a-lula-no-segundo-turno-das-eleicoes.ghtml",
+                "publishedAt": "2022-10-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ]
+          },
+          {
+            "date": "2026-07",
+            "fact": "Chapa 100% feminina oficializada em 26/07/2026, com candidatura própria e sem federação; a candidata é vice-presidente nacional do UP",
+            "sources": [
+              {
+                "id": "src-sm-01",
+                "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+                "publisher": "Unidade Popular (site oficial do partido)",
+                "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+              }
+            ]
+          }
+        ],
+        "divergent": [
+          {
+            "date": "2026-08",
+            "fact": "O arquivo protocolado no TSE reproduzia o plano de 2022; outra versão foi anexada em 16/08 e a campanha passou a citar o documento de 67 páginas",
+            "sources": [
+              {
+                "id": "src-sm-42",
+                "title": "Samara Martins registra candidatura no TSE, mas plano de governo protocolado é o de 2022",
+                "publisher": "Canal MyNews",
+                "url": "https://canalmynews.com.br/eleicoes-2026/samara-martins-candidatura-tse-plano-governo/",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Relata o envio da versão de 2022 por falha interna e a versão corrigida de 16 propostas (reajuste de 100% do salário mínimo, fim da escala 6x1, 36 horas, suspensão da dívida pública, nacionalização de bancos e de planos de saúde)."
+              },
+              {
+                "id": "src-sm-92",
+                "title": "Candidata à Presidência registra plano de governo de duas páginas e é criticada nas redes",
+                "publisher": "Folha de S.Paulo (#Hashtag)",
+                "url": "https://www1.folha.uol.com.br/blogs/hashtag/2026/08/candidata-a-presidencia-registra-plano-de-governo-de-duas-paginas-e-e-criticada-nas-redes.shtml",
+                "publishedAt": "2026-08-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Documento com 16 pontos em uma página e meia, 'reajuste de 100% do salário mínimo', revogação das reformas trabalhistas e da Previdência, documento pula do ponto três para o cinco; partido anexou outra versão em 16/08 e a nova versão tem 67 páginas e cerca de 20 eixos."
+              }
+            ]
+          }
+        ],
+        "noComparablePrecedent": "Nenhum mandato ou cargo de nomeação: as candidaturas de 2020 e 2022 não resultaram em eleição. O registro comparável vem da direção nacional do UP, da militância (movimento de mulheres e frente negra) e do trabalho como cirurgiã-dentista do SUS; não há orçamento público ou votação nominal para comparar."
+      },
+      "support": {
+        "partySeats": "0 de 513 deputados federais e 0 de 81 senadores (UP, legislatura 2023-2027)",
+        "coalitionSeats": "Partido isolado: chapa pura do UP (nº 80), 100% feminina, sem coligação ou federação; vice Raquel Brício (UP)",
+        "federations": "Nenhuma",
+        "documentedAgreements": 2,
+        "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores; R$ 0 de Fundo Eleitoral e de Fundo Partidário em 2026; 188 candidaturas no país, incluindo 17 a governos estaduais. Em 2022 a chapa própria obteve 0,05% dos votos válidos.",
+        "sources": [
+          {
+            "id": "src-sm-13",
+            "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice: estrutura, bancadas (0), filiados, ala feminina."
+          },
+          {
+            "id": "src-sm-19",
+            "title": "UP 2026: fundos, repasses e candidatos",
+            "publisher": "Plural (levantamento com dados do TSE)",
+            "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+          },
+          {
+            "id": "src-sm-23",
+            "title": "Unidade Popular quer Presidência e mira 17 governos",
+            "publisher": "SBT News",
+            "url": "https://sbtnews.sbt.com.br/noticia/politica/unidade-popular-quer-presidencia-e-mira-17-governos",
+            "publishedAt": "2026-08-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "17 candidaturas a governo, 12 femininas (~70%); ausência de recursos do fundo partidário."
+          },
+          {
+            "id": "src-sm-33",
+            "title": "Léo Péricles e Unidade Popular anunciam apoio a Lula no segundo turno das eleições",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/10/leo-pericles-e-unidade-popular-anunciam-apoio-a-lula-no-segundo-turno-das-eleicoes.ghtml",
+            "publishedAt": "2022-10-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Nacionalização, jornada de 30 h e desmilitarização exigem emenda e lei complementar com 0 cadeiras",
+          "detail": "O programa prevê nacionalização do sistema bancário, jornada de 30 horas, desmilitarização das polícias estaduais e eleição de juízes, alterações que passam por emenda constitucional (308 deputados e 49 senadores, em dois turnos em cada Casa), além do imposto sobre grandes fortunas, que depende de lei complementar (257 deputados e 41 senadores). O UP não tem cadeiras na Câmara nem no Senado.",
+          "sources": [
+            {
+              "id": "src-re-r2pais-01",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+              "publisher": "Presidência da República — Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publishedAt": "1988-10-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+            },
+            {
+              "id": "src-re-r2propostas-03",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+              "publisher": "Presidência da República — Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publishedAt": "1988-10-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+            },
+            {
+              "id": "src-sm-13",
+              "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice: estrutura, bancadas (0), filiados, ala feminina."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "proposta-x-outra-proposta",
+          "title": "Receitas previstas (grandes fortunas, fim de subsídios, suspensão da dívida) sem estimativa no programa",
+          "detail": "O programa prevê financiar as medidas com imposto sobre grandes fortunas, fim de subsídios fiscais e financeiros a monopólios e suspensão do pagamento da dívida seguida de auditoria, sem estimativa de arrecadação ou de economia por medida; o partido recebeu R$ 0 de Fundo Partidário e Eleitoral em 2026 e lança 188 candidaturas no país.",
+          "sources": [
+            {
+              "id": "src-sm-41",
+              "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+            },
+            {
+              "id": "src-sm-19",
+              "title": "UP 2026: fundos, repasses e candidatos",
+              "publisher": "Plural (levantamento com dados do TSE)",
+              "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+            },
+            {
+              "id": "src-sm-42",
+              "title": "Samara Martins registra candidatura no TSE, mas plano de governo protocolado é o de 2022",
+              "publisher": "Canal MyNews",
+              "url": "https://canalmynews.com.br/eleicoes-2026/samara-martins-candidatura-tse-plano-governo/",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Relata o envio da versão de 2022 por falha interna e a versão corrigida de 16 propostas (reajuste de 100% do salário mínimo, fim da escala 6x1, 36 horas, suspensão da dívida pública, nacionalização de bancos e de planos de saúde)."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-sem-precedente",
+          "title": "Planificação, controle estatal de preços e comércio exterior sem episódio comparável na trajetória",
+          "detail": "O controle estatal de preços dos alimentos, a estatização do comércio exterior e a planificação da economia não têm episódio de execução na trajetória apurada, de partido, sindicato e militância. Não localizamos acordo formal, ata ou mesa de negociação com bancadas ou governos sobre a execução desses eixos.",
+          "sources": [
+            {
+              "id": "src-sm-41",
+              "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+            },
+            {
+              "id": "src-sm-15",
+              "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+              "publisher": "Paraíba Online",
+              "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+              "publishedAt": "2026-07-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Candidatura própria sem coligações; propostas de valorização do salário mínimo e fim da 6×1."
+            },
+            {
+              "id": "src-sm-93",
+              "title": "Proposta de governo da candidatura Leonardo Péricles e Samara Martins (2022) — documento registrado",
+              "publisher": "TSE — DivulgaCandContas",
+              "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280010871023",
+              "publishedAt": "2022",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Documento de 2022: derivação do programa nacional da UP aprovado nos congressos de 2019 e 2021."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Qual o custo anual consolidado do conjunto e em que ordem as medidas entrariam em vigor?",
+          "why": "Reajuste de 100% do mínimo, auxílio de um salário mínimo a quem não tiver vaga, 10% do PIB para educação e auditoria da dívida são declarados sem estimativa nas fontes consultadas; o partido não recebeu fundos públicos em 2026."
+        },
+        {
+          "question": "Como o programa seria negociado no Congresso sem bancada, e qual a primeira votação prevista?",
+          "why": "As medidas dos 100 dias dependem de emenda e de lei complementar; o partido tem 0 cadeiras na Câmara e no Senado e não registrou coligação ou federação. Não localizamos cronograma legislativo no programa."
+        },
+        {
+          "question": "Há compromissos escritos com as entidades sindicais e movimentos que sustentam a chapa?",
+          "why": "A vice-presidente da chapa preside sindicato portuário e a candidata firmou compromissos de campanha com pautas sindicais e populares; não localizamos atas ou acordos programáticos formalizados."
+        }
+      ],
+      "publicExplanation": "A candidata declarou em 18/08/2026 que o texto inicial foi registrado no TSE 'pela exigência legal' enquanto o programa definitivo estava em revisão, e afirmou em 12/08/2026 que 'a negociação política deve colocar o programa acima das pessoas'. Não localizamos explicação pública de custeio do conjunto.",
+      "methodology": "Base: programa apresentado pela campanha (67 páginas, lido integralmente), versão de 16 propostas, cobertura de 2026 (Folha, Estadão, Metrópoles) e atos de partido e sindicato. Nenhum dos cinco exerceu cargo executivo: o comparável de Samara Martins vem da direção nacional do UP, da militância e do trabalho no SUS. Ficou fora a leitura direta do arquivo oficial do TSE.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium"
+    }
   },
   "foreignPolicy": {
     "worldView": "O documento da UP ('Programa da Unidade Popular pelo Socialismo', versão de 67 páginas divulgada pela campanha) descreve a ordem internacional como assimétrica e associa guerras e conflitos à disputa por mercados, recursos naturais, petróleo, rotas comerciais e áreas de influência, citando a guerra da Ucrânia, Gaza, o Irã e o Estreito de Ormuz, o Saara Ocidental e a ação militar dos Estados Unidos na Venezuela em janeiro de 2026. O anti-imperialismo declarado não se limita aos Estados Unidos: a seção 'Política Externa Anti-Imperialista' propõe o rompimento de tratados de submissão militar e econômica 'aos Estados Unidos, OTAN ou China', rejeita o acordo Mercosul–União Europeia e o acordo em discussão com a China, e defende a 'total independência econômica do Brasil frente aos países imperialistas'. Sobre Israel e Palestina, propõe o rompimento de relações diplomáticas, militares e comerciais com Israel enquanto persistirem as condições que o próprio documento qualifica como genocídio e apartheid, e manifesta apoio aberto a Venezuela, Cuba, Irã, Saara Ocidental e Iêmen, com crítica ao bloqueio a Cuba e proposta de envio solidário de petróleo brasileiro. A Amazônia aparece como território sob 'controle popular', com expulsão dos monopólios estrangeiros, e nióbio e terras raras são apresentados como recursos disputados por Estados Unidos, União Europeia e China; em declaração reproduzida no programa, a candidata afirma: 'É vergonhoso ver outros candidatos à Presidência do Brasil disputarem quem é mais amigo do presidente fascista Donald Trump, quem deles é que vai entregar as terras raras brasileiras aos Estados Unidos'. Não há no documento posição sobre África, Ásia, Oriente Médio fora do eixo palestino nem sobre regimes de segurança internacional.",

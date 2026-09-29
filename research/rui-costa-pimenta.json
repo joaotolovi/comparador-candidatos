@@ -2536,6 +2536,36 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial_eleitoral",
       "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+    },
+    {
+      "id": "src-re-r3pais-06",
+      "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+      "publisher": "Wikipédia (em português)",
+      "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "enciclopedia",
+      "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+    },
+    {
+      "id": "src-re-r3pais-08",
+      "title": "PCO convoca 38ª Conferência Nacional para 21 de fevereiro",
+      "publisher": "Partido da Causa Operária (pco.org.br)",
+      "url": "https://pco.org.br/2026/02/20/pco-convoca-38a-conferencia-nacional-para-21-de-fevereiro",
+      "publishedAt": "2026-02-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partido",
+      "notes": "Convocação da 38ª Conferência Nacional, realizada em 21/02/2026 no Centro Cultural Benjamin Péret (São Paulo). Registra que 'as deliberações serão submetidas ao conjunto da militância' e que 'o Partido estabeleceu a meta de 1.500 novas filiações nas próximas cinco semanas', antes do fechamento da janela partidária. Lida por acesso direto em 29/09/2026."
+    },
+    {
+      "id": "src-re-r3pais-07",
+      "title": "About us — Diário Causa Operária",
+      "publisher": "Diário Causa Operária (edição em inglês)",
+      "url": "https://en.causaoperaria.org.br/about",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "partido",
+      "notes": "Página institucional do jornal diário do partido: registra que o PCO 'has existed as a political current since 1979' e 'has been legalized since 1995', e que o jornal diário existe desde 2003, ao lado do semanário impresso. A página não declara data de publicação; material corrente lido em 29/09/2026."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -6671,7 +6701,484 @@
     ],
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
-    "methodology": "Extraído do plano registrado no TSE ('Programa do PCO – Eleições 2026', 7 páginas, 15 pontos centrais, datado de agosto de 2026), conferido com o índice oficial de propostas da candidatura (que remete às páginas 2 a 7 do próprio PDF) e com o levantamento do Poder360 de 23/08/2026 sobre extensão e estrutura dos planos. O documento registrado é o programa de luta do PCO adotado pela candidatura e afirma explicitamente que não se trata de um conjunto de promessas a executar pela via institucional: por isso o bloco está marcado como 'parcial'. Atenção de escopo: menções a 'Imposto Único' de 0,5% sobre a circulação de dinheiro e 1% sobre grandes fortunas, 'fim de 32 tributos', '600 mil concursos na saúde', 'Ronda Nacional de 30 mil agentes' e referências ao BRICS, registradas em rodadas anteriores deste trabalho, não foram localizadas no PDF registrado nem no índice oficial e não foram usadas neste bloco. Não há custos, cronograma ou indicadores por proposta, e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo)."
+    "methodology": "Extraído do plano registrado no TSE ('Programa do PCO – Eleições 2026', 7 páginas, 15 pontos centrais, datado de agosto de 2026), conferido com o índice oficial de propostas da candidatura (que remete às páginas 2 a 7 do próprio PDF) e com o levantamento do Poder360 de 23/08/2026 sobre extensão e estrutura dos planos. O documento registrado é o programa de luta do PCO adotado pela candidatura e afirma explicitamente que não se trata de um conjunto de promessas a executar pela via institucional: por isso o bloco está marcado como 'parcial'. Atenção de escopo: menções a 'Imposto Único' de 0,5% sobre a circulação de dinheiro e 1% sobre grandes fortunas, 'fim de 32 tributos', '600 mil concursos na saúde', 'Ronda Nacional de 30 mil agentes' e referências ao BRICS, registradas em rodadas anteriores deste trabalho, não foram localizadas no PDF registrado nem no índice oficial e não foram usadas neste bloco. Não há custos, cronograma ou indicadores por proposta, e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo).",
+    "reality": {
+      "proposal": "PCO (TSE, ago/2026): 15 pontos de ruptura — mínimo vital de R$ 7.500, jornada de 35 horas, reestatizações e 'revolução, governo operário e comunismo'.",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "O fim do teto de gastos e da LRF, o fim da autonomia do Banco Central, o fim do STF com eleição de juízes e procuradores e a dissolução das polícias militares exigem emenda constitucional; as estatizações e o reajuste emergencial dependem de lei, e parte dos preços, de decisão de estatais e de tributo estadual.",
+        "sources": [
+          {
+            "id": "src-rp-70",
+            "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+            "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+          },
+          {
+            "id": "src-re-r3propostas-02",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+            "publisher": "Presidência da República — Planalto",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publishedAt": "1988-10-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial"
+          }
+        ]
+      },
+      "history": {
+        "aligned": [
+          {
+            "date": "1978–1980",
+            "fact": "A Tendência Trotskista do Brasil foi formada no fim de 1978 e lançou o primeiro número do jornal Causa Operária em junho de 1979; em 1980 integrou-se ao PT como fração.",
+            "sources": [
+              {
+                "id": "src-rp-88",
+                "title": "Uma Breve História do PCO",
+                "publisher": "Partido da Causa Operária (PCO)",
+                "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                "publishedAt": null,
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+              },
+              {
+                "id": "src-re-r3pais-06",
+                "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "1995–1997",
+            "fact": "Depois das expulsões da corrente no PT (1991–1995), o PCO obteve registro provisório em 1995 e registro definitivo em 1997, após campanha de filiação nacional.",
+            "sources": [
+              {
+                "id": "src-rp-88",
+                "title": "Uma Breve História do PCO",
+                "publisher": "Partido da Causa Operária (PCO)",
+                "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                "publishedAt": null,
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+              },
+              {
+                "id": "src-re-r3pais-06",
+                "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "desde 2003",
+            "fact": "O partido mantém o Diário Causa Operária, jornal diário, ao lado do semanário impresso e de atividades próprias (Universidade Marxista, Biblioteca Socialista).",
+            "sources": [
+              {
+                "id": "src-re-r3pais-07",
+                "title": "About us — Diário Causa Operária",
+                "publisher": "Diário Causa Operária (edição em inglês)",
+                "url": "https://en.causaoperaria.org.br/about",
+                "publishedAt": null,
+                "accessedAt": "2026-09-29",
+                "sourceType": "partido",
+                "notes": "Página institucional do jornal diário do partido: registra que o PCO 'has existed as a political current since 1979' e 'has been legalized since 1995', e que o jornal diário existe desde 2003, ao lado do semanário impresso. A página não declara data de publicação; material corrente lido em 29/09/2026."
+              },
+              {
+                "id": "src-rp-76",
+                "title": "Universidade Marxista — plataforma online de cursos",
+                "publisher": "Universidade Marxista (PCO / Fundação João Jorge Costa Pimenta / AJR)",
+                "url": "https://unimarxista.org.br/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Plataforma de cursos descrita como ampliação da iniciativa do PCO, da Fundação João Jorge Costa Pimenta e da Aliança da Juventude Revolucionária e das 'universidades de férias', com quase 30 anos de história."
+              }
+            ]
+          },
+          {
+            "date": "21/02/2026",
+            "fact": "A 38ª Conferência Nacional, em São Paulo, fixou a linha do partido para 2026 e a meta de 1.500 novas filiações nas cinco semanas seguintes, antes do fechamento da janela partidária.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-08",
+                "title": "PCO convoca 38ª Conferência Nacional para 21 de fevereiro",
+                "publisher": "Partido da Causa Operária (pco.org.br)",
+                "url": "https://pco.org.br/2026/02/20/pco-convoca-38a-conferencia-nacional-para-21-de-fevereiro",
+                "publishedAt": "2026-02-20",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partido",
+                "notes": "Convocação da 38ª Conferência Nacional, realizada em 21/02/2026 no Centro Cultural Benjamin Péret (São Paulo). Registra que 'as deliberações serão submetidas ao conjunto da militância' e que 'o Partido estabeleceu a meta de 1.500 novas filiações nas próximas cinco semanas', antes do fechamento da janela partidária. Lida por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "08/08/2026",
+            "fact": "As convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no Distrito Federal, sem coligações ou federações, com 14 candidaturas ao Senado e 19 ao governo.",
+            "sources": [
+              {
+                "id": "src-rp-17",
+                "title": "PCO define candidaturas em 18 estados e no Distrito Federal para as eleições de 2026",
+                "publisher": "PCO — Partido da Causa Operária",
+                "url": "https://pco.org.br/2026/08/08/pco-define-candidaturas-em-18-estados-e-no-distrito-federal-para-as-eleicoes-de-2026/",
+                "publishedAt": "2026-08-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no DF; convenção nacional presidida por Rui Costa Pimenta confirmou a chapa com Antônio Carlos; o texto afirma que 'o Partido concorre isoladamente em todos os cargos, sem coligações ou federações'. Fonte do próprio partido — usada com marcação partidária."
+              }
+            ]
+          },
+          {
+            "date": "ago/2026",
+            "fact": "O programa registrado tem 7 páginas e 15 pontos centrais; o índice oficial da candidatura registra 51 itens em 8 eixos.",
+            "sources": [
+              {
+                "id": "src-rp-70",
+                "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+                "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+              },
+              {
+                "id": "src-rp-106",
+                "title": "Planos de candidatos à Presidência têm de 7 a 200 páginas",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+                "publishedAt": "2026-08-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Levantamento de extensão e estrutura dos planos registrados; descreve o programa do PCO como o mais enxuto (7 páginas, título 'Por salário, trabalho e terra/Revolução, governo operário e comunismo', 15 pontos centrais) e lista pontos como salário mínimo vital de R$ 7.500 com reajuste automático a cada 3% de custo de vida, jornada de 35 horas, dissolução da Polícia Militar, direito ao armamento e autodefesa para trabalhadores do campo e comunidades indígenas e cancelamento de concessões de grandes meios de comunicação. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
+              }
+            ]
+          }
+        ],
+        "divergent": [
+          {
+            "date": "1992–1994",
+            "fact": "Sem partido legalizado, o PCO não pôde lançar candidatos em 1992 e 1994 e apoiou candidatos operários do PT; em 1994 apoiou criticamente a candidatura de Lula, com programa próprio.",
+            "sources": [
+              {
+                "id": "src-rp-88",
+                "title": "Uma Breve História do PCO",
+                "publisher": "Partido da Causa Operária (PCO)",
+                "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                "publishedAt": null,
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+              }
+            ]
+          },
+          {
+            "date": "1990",
+            "fact": "Cerca de 20 candidatos da corrente a deputado federal e estadual foram cassados pela direção do PT, entre eles Rui Costa Pimenta, conforme o relato do próprio partido.",
+            "sources": [
+              {
+                "id": "src-rp-88",
+                "title": "Uma Breve História do PCO",
+                "publisher": "Partido da Causa Operária (PCO)",
+                "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                "publishedAt": null,
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+              }
+            ]
+          },
+          {
+            "date": "2006",
+            "fact": "O partido registra que teve as candidaturas presidenciais cassadas 'por um abuso do poder judiciário' e voltou a disputar em 2010 e 2014.",
+            "sources": [
+              {
+                "id": "src-rp-88",
+                "title": "Uma Breve História do PCO",
+                "publisher": "Partido da Causa Operária (PCO)",
+                "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                "publishedAt": null,
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+              }
+            ]
+          },
+          {
+            "date": "29/09/2026",
+            "fact": "0 deputados federais e 0 senadores nas APIs oficiais; o verbete registra 7.020 filiados (2026) e 0 governadores e 0 prefeitos (2024).",
+            "sources": [
+              {
+                "id": "src-rp-10",
+                "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                "publisher": "Câmara dos Deputados (dados abertos)",
+                "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+              },
+              {
+                "id": "src-rp-11",
+                "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                "publisher": "Senado Federal (dados abertos)",
+                "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+              },
+              {
+                "id": "src-re-r3pais-06",
+                "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          }
+        ],
+        "noComparablePrecedent": "Não localizamos episódio comparável de dissolução de polícias, de fim do Supremo com juízes eleitos ou de estatização do sistema financeiro na trajetória do PCO: a organização atuou como corrente interna do PT (1980–1995) e, com registro próprio desde 1995, mantém jornal diário e candidaturas presidenciais, sem mandato eletivo nos levantamentos consultados."
+      },
+      "support": {
+        "partySeats": "0/513 deputados federais e 0/81 senadores (APIs oficiais, 29/09/2026)",
+        "coalitionSeats": "0 — concorre isoladamente em todos os cargos, sem coligações ou federações (convenções de 08/08/2026)",
+        "federations": "Nenhuma",
+        "note": "Base partidária: 7.020 filiados (TSE, 2026) e 0 governadores e 0 prefeitos (2024), com 156 candidaturas em 18 estados e no Distrito Federal em 2026. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-re-r3pais-06",
+            "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+            "publisher": "Wikipédia (em português)",
+            "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "enciclopedia",
+            "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+          },
+          {
+            "id": "src-rp-17",
+            "title": "PCO define candidaturas em 18 estados e no Distrito Federal para as eleições de 2026",
+            "publisher": "PCO — Partido da Causa Operária",
+            "url": "https://pco.org.br/2026/08/08/pco-define-candidaturas-em-18-estados-e-no-distrito-federal-para-as-eleicoes-de-2026/",
+            "publishedAt": "2026-08-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria",
+            "notes": "Convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no DF; convenção nacional presidida por Rui Costa Pimenta confirmou a chapa com Antônio Carlos; o texto afirma que 'o Partido concorre isoladamente em todos os cargos, sem coligações ou federações'. Fonte do próprio partido — usada com marcação partidária."
+          },
+          {
+            "id": "src-rp-10",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+          },
+          {
+            "id": "src-rp-11",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+          }
+        ],
+        "documentedAgreements": 2
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Ruptura constitucional projetada com 0 cadeiras no Congresso e instrumento não declarado por medida",
+          "detail": "As medidas centrais (fim do teto e da LRF, fim da autonomia do Banco Central, fim do STF com eleição de juízes e procuradores, dissolução das polícias militares) exigem emenda constitucional; o programa de 7 páginas não declara instrumento nem ordem de execução, e o partido tem 0 deputados federais e 0 senadores (29/09/2026).",
+          "sources": [
+            {
+              "id": "src-rp-70",
+              "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+              "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+            },
+            {
+              "id": "src-re-r3propostas-02",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+              "publisher": "Presidência da República — Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publishedAt": "1988-10-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial"
+            },
+            {
+              "id": "src-rp-10",
+              "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+              "publisher": "Câmara dos Deputados (dados abertos)",
+              "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+            },
+            {
+              "id": "src-rp-11",
+              "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+              "publisher": "Senado Federal (dados abertos)",
+              "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-outra-proposta",
+          "title": "Programa afirma que não faz promessas e registra prazos imediatos (aumento em 45 dias e mínimos)",
+          "detail": "O texto declara que o partido 'não participa das eleições para fazer promessas' e trata o pleito como 'uma tribuna (e apenas mais uma) de propaganda', ao mesmo tempo em que fixa aumento emergencial de 50% em 45 dias, mínimo vital de R$ 7.500 com escala móvel e pisos de R$ 8 mil e R$ 8,5 mil para saúde e magistério.",
+          "sources": [
+            {
+              "id": "src-rp-70",
+              "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+              "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+            },
+            {
+              "id": "src-rp-106",
+              "title": "Planos de candidatos à Presidência têm de 7 a 200 páginas",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+              "publishedAt": "2026-08-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento de extensão e estrutura dos planos registrados; descreve o programa do PCO como o mais enxuto (7 páginas, título 'Por salário, trabalho e terra/Revolução, governo operário e comunismo', 15 pontos centrais) e lista pontos como salário mínimo vital de R$ 7.500 com reajuste automático a cada 3% de custo de vida, jornada de 35 horas, dissolução da Polícia Militar, direito ao armamento e autodefesa para trabalhadores do campo e comunidades indígenas e cancelamento de concessões de grandes meios de comunicação. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "acao-em-sentido-diferente",
+          "title": "Trajetória de corrente interna do PT até 1995 e projeto de ruptura com a ordem vigente em 2026",
+          "detail": "A história registrada é de atuação como corrente interna do PT (1980–1995), de apoio crítico a candidaturas do PT e de disputa eleitoral com registro próprio desde 1995; o programa registrado em 2026 projeta revolução e governo operário, com as eleições descritas como tribuna de propaganda.",
+          "sources": [
+            {
+              "id": "src-rp-88",
+              "title": "Uma Breve História do PCO",
+              "publisher": "Partido da Causa Operária (PCO)",
+              "url": "https://pco.org.br/uma-breve-historia-do-pco",
+              "publishedAt": null,
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+            },
+            {
+              "id": "src-re-r3pais-06",
+              "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+              "publisher": "Wikipédia (em português)",
+              "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "enciclopedia",
+              "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Qual o instrumento e a ordem de execução para o fim do Supremo e a eleição de juízes e procuradores?",
+          "why": "O documento de 7 páginas não declara instrumento nem sequência, e o registro analítico aponta que itens citados em rodadas anteriores não constam do PDF nem do índice oficial.",
+          "sources": [
+            {
+              "id": "src-rp-70",
+              "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+              "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+            },
+            {
+              "id": "src-rp-106",
+              "title": "Planos de candidatos à Presidência têm de 7 a 200 páginas",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+              "publishedAt": "2026-08-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento de extensão e estrutura dos planos registrados; descreve o programa do PCO como o mais enxuto (7 páginas, título 'Por salário, trabalho e terra/Revolução, governo operário e comunismo', 15 pontos centrais) e lista pontos como salário mínimo vital de R$ 7.500 com reajuste automático a cada 3% de custo de vida, jornada de 35 horas, dissolução da Polícia Militar, direito ao armamento e autodefesa para trabalhadores do campo e comunidades indígenas e cancelamento de concessões de grandes meios de comunicação. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
+            }
+          ]
+        },
+        {
+          "question": "Qual o custo do aumento emergencial de 50% e do mínimo vital de R$ 7.500, e a fonte dos recursos?",
+          "why": "O índice oficial registra 51 itens e o plano não informa custo, arrecadação ou fonte por medida.",
+          "sources": [
+            {
+              "id": "src-rp-70",
+              "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+              "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+            }
+          ]
+        },
+        {
+          "question": "A meta de 1.500 novas filiações nas cinco semanas seguintes à 38ª Conferência foi alcançada?",
+          "why": "A meta consta da convocação da conferência (fev/2026); não localizamos balanço publicado do período.",
+          "sources": [
+            {
+              "id": "src-re-r3pais-08",
+              "title": "PCO convoca 38ª Conferência Nacional para 21 de fevereiro",
+              "publisher": "Partido da Causa Operária (pco.org.br)",
+              "url": "https://pco.org.br/2026/02/20/pco-convoca-38a-conferencia-nacional-para-21-de-fevereiro",
+              "publishedAt": "2026-02-20",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partido",
+              "notes": "Convocação da 38ª Conferência Nacional, realizada em 21/02/2026 no Centro Cultural Benjamin Péret (São Paulo). Registra que 'as deliberações serão submetidas ao conjunto da militância' e que 'o Partido estabeleceu a meta de 1.500 novas filiações nas próximas cinco semanas', antes do fechamento da janela partidária. Lida por acesso direto em 29/09/2026."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "A explicação está no próprio documento e na convocação da 38ª Conferência: as conquistas viriam da organização e da mobilização, as eleições são tratadas como 'uma tribuna (e apenas mais uma) de propaganda' e as deliberações da conferência foram submetidas ao conjunto da militância.",
+      "methodology": "Apurado sobre o programa registrado no TSE (7 p., 15 pontos, ago/2026), o índice de 51 itens, a história publicada pelo próprio PCO (corrente desde 1978, registro em 1995/1997) e as convenções de 08/08/2026. O candidato nunca exerceu cargo público: o projeto foi examinado contra a trajetória organizativa, sem juízo sobre capacidade futura. Ficou fora o balanço da meta de filiações.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
   },
   "foreignPolicy": {
     "worldView": "O programa registrado no TSE ('Programa do PCO — Eleições 2026: Por salário, trabalho e terra') inclui, no eixo de política externa, o fortalecimento do BRICS, a oposição à OTAN, o reconhecimento do direito de autodeterminação dos povos palestino, libanês e sírio, o apoio ao Irã diante de ataques de Israel e dos Estados Unidos e o fim do bloqueio a Cuba; o mesmo documento propõe o cancelamento das dívidas externa e interna, a nacionalização do petróleo com Petrobras 100% estatal, a estatização do sistema financeiro com banco estatal único e o fim da 'independência' do Banco Central. Fora do programa, o dirigente declarou em outubro de 2023 que o PCO estava '1.000% com o Hamas' (Poder360) e, em 2024, descreveu o Hamas como 'grande organização política' cujas atividades no Catar corresponderiam a um 'governo palestino em exílio' (relato da viagem registrado pela Gazeta do Povo). Em 2026, afirmou que a classificação de PCC e Comando Vermelho como organizações terroristas pelos Estados Unidos abriria caminho para interferência na eleição brasileira (Brasil 247). Posições sobre a China aparecem em palestra de 2024 publicada pelo Diário Causa Operária, na qual o país é descrito como 'o Brasil que poderia ser e não é'.",

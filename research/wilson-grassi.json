@@ -2812,6 +2812,26 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial_eleitoral",
       "notes": "Nota oficial do TSE com a lista de legendas sem recursos do Fundo Partidário em 2025."
+    },
+    {
+      "id": "src-re-r3pais-10",
+      "title": "Partido da Mulher Brasileira (PMB) passará a se chamar Democrata",
+      "publisher": "Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2025/Dezembro/partido-da-mulher-brasileira-pmb-passara-a-se-chamar-democrata",
+      "publishedAt": "2025-12-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Notícia oficial do TSE sobre a autorização da mudança de nome para Democrata, citada como referência no verbete do partido. O acesso automatizado respondeu HTTP 403 em 29/09/2026; a API de disponibilidade do Internet Archive indica snapshot de 28/06/2026, e o conteúdo foi conferido pelas referências datadas que reproduzem a decisão."
+    },
+    {
+      "id": "src-re-r3pais-09",
+      "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+      "publisher": "Wikipédia (em português)",
+      "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "enciclopedia",
+      "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -6977,7 +6997,377 @@
     ],
     "evidenceStatus": "confirmado",
     "confidenceLevel": "medium",
-    "methodology": "Extraído do plano registrado no TSE — 'Brasil em Primeiro Lugar — Plano de Governo 2027–2030', 58 páginas, com carta ao eleitor assinada por Wilson Grassi e Suêd Haidar, diagnóstico das cinco travas, 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência —, conferido com a cobertura da Agência Brasil (20/09/2026) e com a cópia do PDF publicada pelo Poder360. Diferentemente dos demais documentos deste grupo, é um plano de governo redigido para o mandato, com instrumento jurídico, forma de medição e prazo declarados por eixo, embora seja o documento do partido Democrata, legenda presidida pela candidata a vice. O bloco está marcado como 'confirmado' por se tratar do documento do próprio candidato, lido diretamente na fonte; a confiança é 'medium' porque não há registro de implementação (nunca exerceu cargo executivo) e porque o próprio candidato declarou, em entrevista à Folha de S.Paulo reproduzida pelo Poder360 em 29/08/2026, que há propostas que pretende implementar e que não constam do programa. O plano não apresenta valores orçamentários por medida."
+    "methodology": "Extraído do plano registrado no TSE — 'Brasil em Primeiro Lugar — Plano de Governo 2027–2030', 58 páginas, com carta ao eleitor assinada por Wilson Grassi e Suêd Haidar, diagnóstico das cinco travas, 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência —, conferido com a cobertura da Agência Brasil (20/09/2026) e com a cópia do PDF publicada pelo Poder360. Diferentemente dos demais documentos deste grupo, é um plano de governo redigido para o mandato, com instrumento jurídico, forma de medição e prazo declarados por eixo, embora seja o documento do partido Democrata, legenda presidida pela candidata a vice. O bloco está marcado como 'confirmado' por se tratar do documento do próprio candidato, lido diretamente na fonte; a confiança é 'medium' porque não há registro de implementação (nunca exerceu cargo executivo) e porque o próprio candidato declarou, em entrevista à Folha de S.Paulo reproduzida pelo Poder360 em 29/08/2026, que há propostas que pretende implementar e que não constam do programa. O plano não apresenta valores orçamentários por medida.",
+    "reality": {
+      "proposal": "Democrata (TSE, 02/08/2026): 'Brasil em Primeiro Lugar' — Imposto Único Federal sobre movimentação financeira e painel de metas nos 100 dias iniciais.",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "O plano prevê emenda enviada entre os dias 60 e 100 para substituir nove tributos federais por Imposto Único Federal sobre movimentação financeira, com lei complementar e transição de anos; declara que ICMS e ISS ficam fora (estados e municípios), que a segurança é compartilhada com os estados e que o ensino fundamental é municipal, e parte da agenda dos 100 dias é por decreto.",
+        "sources": [
+          {
+            "id": "src-wg-70",
+            "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+            "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+          },
+          {
+            "id": "src-re-r3propostas-02",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+            "publisher": "Presidência da República — Planalto",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publishedAt": "1988-10-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial"
+          }
+        ]
+      },
+      "history": {
+        "aligned": [
+          {
+            "date": "2008–2015",
+            "fact": "O partido foi fundado em 13/09/2008 como Partido da Mulher Brasileira e obteve registro definitivo no TSE em 29/09/2015, como 35ª legenda.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-09",
+                "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "dez/2025",
+            "fact": "O TSE autorizou a mudança de nome para Democrata, noticiada pelo Tribunal em dezembro de 2025.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-10",
+                "title": "Partido da Mulher Brasileira (PMB) passará a se chamar Democrata",
+                "publisher": "Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2025/Dezembro/partido-da-mulher-brasileira-pmb-passara-a-se-chamar-democrata",
+                "publishedAt": "2025-12-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Notícia oficial do TSE sobre a autorização da mudança de nome para Democrata, citada como referência no verbete do partido. O acesso automatizado respondeu HTTP 403 em 29/09/2026; a API de disponibilidade do Internet Archive indica snapshot de 28/06/2026, e o conteúdo foi conferido pelas referências datadas que reproduzem a decisão."
+              },
+              {
+                "id": "src-re-r3pais-09",
+                "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "02/08/2026",
+            "fact": "A convenção nacional, no Rio de Janeiro, oficializou a primeira candidatura presidencial do partido (Wilson Grassi/Suêd Haidar, presidente e fundadora) e o plano de 58 páginas.",
+            "sources": [
+              {
+                "id": "src-wg-04",
+                "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+              },
+              {
+                "id": "src-wg-70",
+                "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+                "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+              }
+            ]
+          },
+          {
+            "date": "2026",
+            "fact": "O plano organiza 44 propostas em 8 eixos no índice oficial e declara instrumento, forma de medição e prazo por eixo, além do cronograma dos cem primeiros dias.",
+            "sources": [
+              {
+                "id": "src-wg-70",
+                "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+                "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+              },
+              {
+                "id": "src-wg-15",
+                "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                "publisher": "Câmara dos Deputados (dados abertos)",
+                "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+              }
+            ]
+          }
+        ],
+        "divergent": [
+          {
+            "date": "dez/2015–2016",
+            "fact": "O PMB atraiu 20 deputados federais em duas semanas (dez/2015) e, em 2016, foi apontado como o menor partido do Congresso.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-09",
+                "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "2021–2022",
+            "fact": "A tentativa de mudar o nome para 'Brasil 35' foi negada pelo TSE em abril de 2022 e o partido ficou de fora do grupo que alcançou a cláusula de barreira no mesmo ano.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-09",
+                "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+              }
+            ]
+          },
+          {
+            "date": "2022–2024",
+            "fact": "O partido elegeu 3 deputados estaduais (2022), 2 prefeitos e 107 vereadores (2024); tem 0 deputados federais e 0 senadores e 54.956 filiados (2026).",
+            "sources": [
+              {
+                "id": "src-re-r3pais-09",
+                "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "enciclopedia",
+                "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+              },
+              {
+                "id": "src-wg-15",
+                "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                "publisher": "Câmara dos Deputados (dados abertos)",
+                "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+              },
+              {
+                "id": "src-wg-16",
+                "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                "publisher": "Senado Federal (dados abertos)",
+                "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do Democrata."
+              }
+            ]
+          }
+        ],
+        "noComparablePrecedent": "Não localizamos episódio comparável de aplicação do Método D35 ou de um Imposto Único Federal sobre movimentação financeira na trajetória do partido e do candidato: o Democrata faz em 2026 a sua primeira candidatura presidencial (fundado em 2008, registrado em 2015) e o candidato nunca exerceu cargo público."
+      },
+      "support": {
+        "partySeats": "0/513 deputados federais e 0/81 senadores (APIs oficiais, 29/09/2026)",
+        "coalitionSeats": "0 — chapa pura, sem coligação",
+        "federations": "Nenhuma",
+        "note": "Base partidária: 54.956 filiados (TSE, 2026); 3 deputados estaduais (2022), 2 prefeitos e 107 vereadores (2024). O plano declara prazos e forma de medição por eixo. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 2 episódio(s) no histórico de negociação apurado.",
+        "sources": [
+          {
+            "id": "src-re-r3pais-09",
+            "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+            "publisher": "Wikipédia (em português)",
+            "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "enciclopedia",
+            "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+          },
+          {
+            "id": "src-wg-15",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+          },
+          {
+            "id": "src-wg-16",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do Democrata."
+          }
+        ],
+        "documentedAgreements": 2
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Reforma central por emenda com base eletiva municipal e estadual e nenhuma cadeira federal",
+          "detail": "O plano prevê emenda entre os dias 60 e 100 para o Imposto Único Federal e declara que ICMS e ISS permanecem com estados e municípios, que a segurança é compartilhada com os estados e o ensino fundamental é municipal; o partido tem 0 deputados federais e 0 senadores e sua base eletiva é de 3 deputados estaduais, 2 prefeitos e 107 vereadores (2022–2024).",
+          "sources": [
+            {
+              "id": "src-wg-70",
+              "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+              "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+            },
+            {
+              "id": "src-re-r3propostas-02",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+              "publisher": "Presidência da República — Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publishedAt": "1988-10-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial"
+            },
+            {
+              "id": "src-re-r3pais-09",
+              "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+              "publisher": "Wikipédia (em português)",
+              "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "enciclopedia",
+              "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "mudanca-de-posicao",
+          "title": "Agenda de fundação do partido em 2008 e plano de 2026 sobre tributos, segurança e saúde",
+          "detail": "O partido foi fundado em 2008 como Partido da Mulher Brasileira, tentou mudar o nome para 'Brasil 35' em 2021 (negado em 2022) e foi renomeado Democrata em dezembro de 2025; o plano de 2026 é assinado por Wilson Grassi e Suêd Haidar e organiza 14 eixos com tributos, segurança, saúde e infraestrutura.",
+          "sources": [
+            {
+              "id": "src-re-r3pais-09",
+              "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+              "publisher": "Wikipédia (em português)",
+              "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "enciclopedia",
+              "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+            },
+            {
+              "id": "src-re-r3pais-10",
+              "title": "Partido da Mulher Brasileira (PMB) passará a se chamar Democrata",
+              "publisher": "Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2025/Dezembro/partido-da-mulher-brasileira-pmb-passara-a-se-chamar-democrata",
+              "publishedAt": "2025-12-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Notícia oficial do TSE sobre a autorização da mudança de nome para Democrata, citada como referência no verbete do partido. O acesso automatizado respondeu HTTP 403 em 29/09/2026; a API de disponibilidade do Internet Archive indica snapshot de 28/06/2026, e o conteúdo foi conferido pelas referências datadas que reproduzem a decisão."
+            },
+            {
+              "id": "src-wg-70",
+              "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+              "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Qual o parâmetro de receita do Imposto Único Federal e o que ocorre se a arrecadação não cobrir os tributos substituídos?",
+          "why": "O plano declara não apresentar valores orçamentários medida a medida e não localizamos estimativa de arrecadação por alíquota.",
+          "sources": [
+            {
+              "id": "src-wg-70",
+              "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+              "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+            }
+          ]
+        },
+        {
+          "question": "Como o plano trata os tributos que ficam fora da substituição (ICMS e ISS)?",
+          "why": "O próprio documento declara que ICMS e ISS ficam fora por pertencerem a estados e municípios, sem indicar coordenação federativa.",
+          "sources": [
+            {
+              "id": "src-wg-70",
+              "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+              "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+            }
+          ]
+        },
+        {
+          "question": "Quais indicadores compõem o painel dos 100 dias e por qual ato serão publicados?",
+          "why": "O plano cita painel aberto por decreto e interoperabilidade de bases federais; não localizamos a lista de indicadores publicada.",
+          "sources": [
+            {
+              "id": "src-wg-70",
+              "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+              "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "A campanha apresenta o Método D35 e o painel de indicadores como forma de dar previsibilidade e medição às promessas; o documento declara evitar prometer o que a Presidência não decide sozinha e, ao comentar propostas ausentes do plano, o candidato atribuiu a exclusão ao partido, que 'não deixaria' apresentá-las.",
+      "methodology": "Apurado sobre o plano registrado no TSE ('Brasil em Primeiro Lugar', 58 p., 2027–2030, 14 eixos), o histórico do partido (fundação em 2008, registro em 2015) e as APIs oficiais. O candidato nunca exerceu cargo público: o projeto foi examinado contra a trajetória organizativa do partido, sem juízo sobre capacidade futura. Ficaram fora estimativas por alíquota e a lista de indicadores do painel.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium"
+    }
   },
   "foreignPolicy": {
     "worldView": "O plano registrado no TSE ('Brasil em Primeiro Lugar', 58 páginas, 14 eixos) trata a política externa como agenda comercial: rejeitar acordos que não abram mercados a produtos brasileiros ('acesso se troca por acesso'); responder a barreiras sanitárias ou tarifárias com reciprocidade pelos instrumentos do direito internacional, 'e não com nota de repúdio'; exigir contrapartida de conteúdo nacional, transferência de tecnologia e emprego em investimento estrangeiro em setor estratégico; definir a posição brasileira em foro multilateral caso a caso, 'por conveniência nacional declarada, e não por alinhamento automático'; e manter diplomacia comercial e sanitária com presença técnica permanente onde estão os compradores de carne, grão e minério. Somam-se a isso a cooperação com países vizinhos no policiamento de fronteiras contra crimes transfronteiriços e a defesa sanitária com rastreabilidade da produção agropecuária e padrões de bem-estar animal compatíveis com exigências internacionais (BBC News Brasil; OPEB). O plano declara que temas de doutrina e diplomacia serão tratados com o Itamaraty depois da posse, conforme o cenário internacional do momento, e a análise do OPEB (27/09/2026) registra que a área internacional do documento tem cinco tópicos e um adendo sobre fronteiras, sem menção a BRICS, Mercosul, China, Estados Unidos, clima ou governança global. O eixo de defesa do plano propõe piso de 2% do PIB, com no mínimo 35% vinculado à modernização (PEC 55/2023).",

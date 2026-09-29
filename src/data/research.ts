@@ -1,6 +1,6 @@
 // ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
 // 13 candidato(s) com pesquisa profunda; os demais ficam só no seed.
-// Gerado em: 2026-09-29T20:47:44.575Z
+// Gerado em: 2026-09-29T21:02:34.981Z
 import type { Candidate } from "@/types";
 
 export const researched: Partial<Candidate>[] = [
@@ -1398,6 +1398,255 @@ export const researched: Partial<Candidate>[] = [
         "combate à fome"
       ],
       "developmentModel": "O documento abre com teses de responsabilidade fiscal e crescimento (déficit próximo de zero, controle rigoroso de gastos com metas de eficiência por ministério, redução gradual e sustentável da dívida, reforma administrativa com estudos para redução do número de ministérios, segurança jurídica e simplificação tributária) e de 'Estado eficiente e digital' (governo totalmente digital, avaliação permanente de políticas públicas). Na economia, declara compromisso com carga tributária menor ao fim da transição da reforma tributária, avaliação caso a caso dos tratamentos diferenciados, revisão do formato de divisão federativa dos tributos com 'menos União Federal e mais municípios' e reajuste do salário mínimo pela inflação mais 1% ao ano, com redução declarada de 8 a 10 ministérios. Ao setor privado e à sociedade atribui o eixo de empreendedorismo (ministério do empreendedorismo, 10 mil escolas de empreendedorismo, Fundo Nacional do Empreendedor, cooperativismo, agroindústria, exportação e 'embaixadas empreendedoras'); à tecnologia, telemedicina ('maior telemedicina do mundo'), criação de ministério da IA e terras raras e minerais estratégicos (Petra BR); ao meio ambiente, 'Floresta Viva', hidrogênio verde e energias renováveis; à desigualdade, projetos de primeira infância, neuroinclusão, prevenção do suicídio ('Você é Insubstituível') e combate mundial à fome com fundo internacional e apoio à agricultura familiar. Segurança aparece como integração nacional das forças e núcleos municipais contra o crime organizado e como 'Força Alerta Total' (FATO); o plano também propõe semipresidencialismo e mandato de oito anos para ministros do STF.",
+      "reality": {
+        "proposal": "'O Brasil dos Nossos Sonhos' (18 projetos): semipresidencialismo, mandato de 8 anos no STF, telemedicina, empreendedorismo e déficit próximo de zero",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "Duas propostas do projeto exigem emenda: o semipresidencialismo, com a PEC 2/25 em tramitação na Câmara, e o mandato de oito anos para ministros do STF. O restante da pauta — telemedicina, escolas de empreendedorismo, Fundo Nacional do Empreendedor, corte de ministérios — depende de lei, de orçamento e da adesão de estados e municípios. O plano não indica veículo normativo por projeto."
+        },
+        "history": {
+          "aligned": [
+            {
+              "date": "2018-2021",
+              "fact": "Programa 'Escola da Inteligência' lançado em rede municipal de Cuiabá (2018) e, segundo o material do programa, em mais de mil escolas conveniadas (2021)",
+              "sources": [
+                {
+                  "id": "src-ac-91",
+                  "title": "Programa Escola da Inteligência desenvolve a consciência emocional de forma lúdica e divertida",
+                  "publisher": "Prefeitura de Cuiabá",
+                  "url": "https://cuiaba.mt.gov.br/noticias/programa-escola-da-inteligencia-desenvolve-a-consciencia-emocional-de-forma-ludica-e-divertida",
+                  "publishedAt": "2018-04-17",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Registro oficial do lançamento do programa idealizado por Augusto Cury na rede municipal, em estágio piloto com cinco mil alunos de oito escolas."
+                },
+                {
+                  "id": "src-ac-92",
+                  "title": "Programa Escola da Inteligência: desenvolva a educação socioemocional em seu colégio!",
+                  "publisher": "Escola da Inteligência (site do programa idealizado por Augusto Cury)",
+                  "url": "https://escoladainteligencia.com.br/blog/programa-escola-da-inteligencia",
+                  "publishedAt": "2021-04-28",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Material de divulgação do próprio programa: 'mais de 1 mil escolas conveniadas, 300 mil estudantes e 1,2 milhão de pessoas impactadas'; aplicação como disciplina ou dentro de matéria existente."
+                }
+              ]
+            },
+            {
+              "date": "2020",
+              "fact": "Arco Educação adquiriu o controle de 60% da Escola da Inteligência por R$ 288 milhões, em negócio com cerca de 900 escolas",
+              "sources": [
+                {
+                  "id": "src-ac-48",
+                  "title": "Arco Educação compra 60% da Escola da Inteligência por R$ 288 milhões",
+                  "publisher": "Valor Econômico",
+                  "url": "https://valor.globo.com/empresas/noticia/2020/08/28/arco-educacao-compra-60percent-da-escola-da-inteligencia-por-r-288-milhoes.ghtml",
+                  "publishedAt": "2020-08-28",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                }
+              ]
+            },
+            {
+              "date": "2026-08",
+              "fact": "Plano 'O Brasil dos Nossos Sonhos' (200 páginas, 18 projetos) registrado com a candidatura",
+              "sources": [
+                {
+                  "id": "src-ac-23",
+                  "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                  "publisher": "Poder360 (cópia do documento da campanha)",
+                  "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo"
+                },
+                {
+                  "id": "src-ac-05",
+                  "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                  "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                  "publishedAt": "2026-08-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+                }
+              ]
+            }
+          ],
+          "divergent": [
+            {
+              "date": "2026-09",
+              "fact": "Programas de educação socioemocional foram substituídos em Itajaí (SC) pelo 'Vida na Escola', que abrange 27 mil estudantes, após levantamento local",
+              "sources": [
+                {
+                  "id": "src-ac-74",
+                  "title": "Programa de Augusto Cury é cancelado em Itajaí",
+                  "publisher": "DIARINHO",
+                  "url": "https://diarinho.net/materia/675213/Programa-de-Augusto-Cury-e-cancelado-em-Itajai",
+                  "publishedAt": "2026-09-14",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Prefeitura substituiu os programas 'Escola da Inteligência' e 'Gênios Socioemocional' pelo 'Vida na Escola', abrangendo 27 mil estudantes."
+                },
+                {
+                  "id": "src-ac-75",
+                  "title": "Itajaí desembolsa R$ 39 milhões em gastos com programas ligados a Augusto Cury",
+                  "publisher": "DIARINHO",
+                  "url": "https://diarinho.net/materia/674946/Itajai-desembolsa-R--39-milhoes-em-gastos-com-programas-ligados-a-Augusto-Cury",
+                  "publishedAt": "2026-09-13",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Levantamento local sobre gastos municipais com os programas."
+                }
+              ]
+            }
+          ],
+          "noComparablePrecedent": "Nenhum mandato ou cargo público: 2026 é a primeira candidatura. O registro comparável é empresarial (Escola da Inteligência, licenciada a redes municipais), partidário (Avante, desde abril de 2026) e de campanha; não há orçamento público, votação ou decisão administrativa para comparar."
+        },
+        "support": {
+          "partySeats": "5 de 513 deputados federais e 1 de 81 senadores (Avante, legislatura 2023-2027)",
+          "coalitionSeats": "Partido isolado: chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 2,
+          "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 senador, 15 deputados estaduais e 136 prefeitos (2024). Contatos pré-filiação com MDB, PSD, PSDB, Podemos, PSC e Novo foram relatados pelo candidato (05/04/2026) e a aliança com o Novo foi descartada em convenção (03/08/2026)."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Semipresidencialismo e mandato no STF exigem PEC; o texto em tramitação é a PEC 2/25, na Câmara",
+            "detail": "As duas mudanças institucionais do projeto dependem de emenda constitucional (308 deputados e 49 senadores, em dois turnos em cada Casa) e alcançam os arts. 60, 76 e 101 da Constituição. O Avante tem 5 de 513 deputados federais e 1 de 81 senadores na legislatura atual, e o plano não registra apoio parlamentar declarado às emendas.",
+            "sources": [
+              {
+                "id": "src-re-r2propostas-04",
+                "title": "Proposta muda a Constituição para instituir o semipresidencialismo no Brasil (PEC 2/25, com voto distrital misto; 171 assinaturas para tramitar)",
+                "publisher": "Câmara dos Deputados — Agência",
+                "url": "https://www.camara.leg.br/noticias/1131679-PROPOSTA-MUDA-A-CONSTITUICAO-PARA-INSTITUIR-O-SEMIPRESIDENCIALISMO-NO-BRASIL",
+                "publishedAt": "2025",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra a apresentação da PEC 2/25 e a exigência de apoio de 171 deputados para tramitação."
+              },
+              {
+                "id": "src-re-r2capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares.",
+                "sourceType": "imprensa",
+                "publishedAt": "1988-10-05",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-ac-17",
+                "title": "Avante — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Avante",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Bancada 2026 (5 federais, 1 senador), 243.296 filiados, desempenho na janela partidária."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Déficit próximo de zero convive com fundo de R$ 30 bi a R$ 50 bi, novas pastas e reajuste acima da inflação",
+            "detail": "O plano declara déficit público próximo de zero no mandato e redução gradual da dívida e, no mesmo documento, prevê o Fundo Nacional do Empreendedor de R$ 30 bilhões a R$ 50 bilhões, corte de 8 a 10 ministérios com criação das pastas da Segurança Pública, de IA e do Empreendedorismo, telemedicina e 10 mil escolas de empreendedorismo.",
+            "sources": [
+              {
+                "id": "src-ac-05",
+                "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+              },
+              {
+                "id": "src-ac-19",
+                "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                "publisher": "GZH (Estadão Conteúdo)",
+                "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                "publishedAt": "2026-08-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+              },
+              {
+                "id": "src-ac-23",
+                "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                "publisher": "Poder360 (cópia do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-sem-precedente",
+            "title": "18 projetos declarados sem custo, fonte de recursos ou indicador por área",
+            "detail": "O documento reúne propostas para 18 áreas e não traz custo, fonte de recursos nem indicador por projeto; as metas quantitativas localizadas são o ganho real do salário mínimo e horizontes de 4, 8 a 10 e 10 a 12 anos. A trajetória apurada é empresarial e de campanha, sem execução de política pública federal para comparar.",
+            "sources": [
+              {
+                "id": "src-ac-05",
+                "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+              },
+              {
+                "id": "src-ac-23",
+                "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                "publisher": "Poder360 (cópia do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo"
+              },
+              {
+                "id": "src-ac-93",
+                "title": "Diretrizes e propostas de governo para a presidência do Brasil",
+                "publisher": "Migalhas",
+                "url": "https://www.migalhas.com.br/depeso/462757/diretrizes-e-propostas-de-governo-para-a-presidencia-do-brasil",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Análise comparativa de diretrizes dos presidenciáveis; registra que Cury prioriza déficit zero e empreendedorismo e é o único a defender o semipresidencialismo. Ano apenas; dia/mês não capturados."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o custo de cada um dos 18 projetos e qual a fonte de recursos de cada um?",
+            "why": "O documento não traz orçamento por área. As cifras divulgadas em 2026 são o fundo de R$ 30 bilhões a R$ 50 bilhões e o reajuste do mínimo pela inflação mais 1% ao ano, com ganho real estimado em 50% a 60% em quatro anos."
+          },
+          {
+            "question": "Qual o desenho de transição do semipresidencialismo e como ele se relaciona com a PEC 2/25 em tramitação?",
+            "why": "O plano atribui as mudanças de regime ao vice e não apresenta texto-base, cronograma nem fórmula de escolha e recondução do primeiro-ministro; o texto em trâmite na Câmara é a única peça localizada."
+          },
+          {
+            "question": "Quem conduziria a política econômica, já que o candidato não divulga o nome do ministro da Fazenda?",
+            "why": "Em 04/09/2026 e 10/09/2026 o candidato declarou evitar anunciar nomes para não criar polêmica antes da eleição; o plano fixa déficit próximo de zero e redução da dívida sem indicar quem responderia pelo ajuste."
+          }
+        ],
+        "publicExplanation": "O candidato declarou que evita anunciar os nomes da equipe econômica para não criar polêmica e que convidará especialistas. Não localizamos explicação pública sobre o custo dos 18 projetos nem sobre a substituição dos programas de educação socioemocional em Itajaí, que registrou R$ 39 milhões em gastos com esses programas.",
+        "methodology": "Base: plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas, lido pelo espelho público), cobertura de 2026 (Agência Brasil, GZH, Band, Nexo, Valor) e atos de empresa e campanha. Nenhum dos cinco exerceu cargo executivo: o comparável de Augusto Cury vem da Escola da Inteligência, do Avante e da campanha. Ficaram fora o detalhamento por item e os nomes da equipe econômica.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
       "sources": [
         {
           "id": "src-ac-23",
@@ -7840,6 +8089,166 @@ export const researched: Partial<Candidate>[] = [
         "Governabilidade e reforma do sistema político (Pacto Nacional de Governabilidade e Resultados e proposta de fim da reeleição no Executivo)"
       ],
       "developmentModel": "A carta de compromisso declara que 'a iniciativa privada será o principal motor da economia' e reserva ao Estado garantir estabilidade, concorrência, infraestrutura, capital humano, regulação de qualidade e instrumentos para investimento de longo prazo. O crescimento é vinculado a produtividade, ambiente de negócios, conectividade, saneamento, mobilidade e segurança hídrica, com reorganização do gasto, avaliação de programas, revisão de subsídios e regras de transição. A proteção social é descrita como combinação de 'acolhimento e emancipação', conectando benefícios a qualificação, cuidado infantil, inclusão produtiva, habitação, saúde e educação, com prioridade declarada à infância e políticas para mulheres, população negra, idosos, pessoas com deficiência, indígenas e quilombolas. Meio ambiente e desenvolvimento aparecem como aliados: combate a desmatamento, grilagem e mineração ilegal, com bioeconomia, pagamento por serviços ambientais, mercado de carbono e agricultura de baixo carbono. Em política externa, o plano propõe agendas sem 'alinhamentos automáticos', voltada a abrir mercados, atrair investimento produtivo, proteger brasileiros no exterior, fortalecer a integração regional e defender regras multilaterais, e trata minerais estratégicos, energia limpa e biodiversidade como instrumentos de desenvolvimento.",
+      "reality": {
+        "proposal": "Projeto de gestão: segurança como prioridade presidencial, estabilização fiscal com teto efetivo, PPA por missões e dez compromissos para 2030.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O item mais exigente é emenda constitucional: o método de governo (item 3) prevê encaminhar ao Congresso, no início do mandato, proposta de emenda à Constituição para extinguir a reeleição consecutiva nos cargos do Executivo; o tema de segurança aponta a PEC da maioridade penal aos 16 anos. O documento declara que o plano será traduzido em projetos de lei, atos administrativos, pactos federativos e metas do PPA 2028-2031, sem indicar o instrumento de cada um dos dez compromissos."
+        },
+        "history": {
+          "aligned": [
+            "2019-2025: Goiás saiu do Regime de Recuperação Fiscal e aderiu ao Propag (LC 212/2025), com aval da ALMG em 15/05/2025.",
+            "24/03/2025: comissão mista do Orçamento analisou a recuperação fiscal de Goiás, com superávit primário de R$ 3,1 bi em 2024.",
+            "29/03/2026: o governo estadual informa R$ 23,7 bilhões em investimentos em oito anos de mandato.",
+            "Goiás registra queda de indicadores criminais pelo 7º ano consecutivo, segundo o governo do estado."
+          ],
+          "divergent": [
+            "11/09/2023: o STF manteve a suspensão de normas de Goiás sobre pagamento acima do teto remuneratório (liminar de 23/07/2023).",
+            "25/08/2026: em sabatina, não detalhou o ajuste fiscal nem a reforma da Previdência (Estadão).",
+            "18/03/2026: assinou como governador memorando com os EUA sobre minerais críticos; o MPF abriu procedimento em 26/07/2026 e análises jurídicas apontaram competência da União."
+          ]
+        },
+        "support": {
+          "partySeats": "PSD: 48 de 513 deputados e 14 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+          "coalitionSeats": "Chapa própria do PSD, sem coligação declarada; vice Gilberto Kassab (PSD), confirmado em 01/07/2026",
+          "federations": "Nenhuma federação declarada na chapa",
+          "documentedAgreements": 4,
+          "note": "O projeto depende do Congresso e de pactos com estados e municípios; a base observável é o PSD com 48 deputados e 14 senadores em exercício, 6 governadores e mais de 1,3 mil prefeitos. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 4 episódio(s) no histórico de negociação apurado."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Fim da reeleição por PEC e dez compromissos de 2030 sem instrumento definido item a item",
+            "detail": "O método de governo prevê encaminhar PEC, no início do mandato, para extinguir a reeleição consecutiva no Executivo, e o tema de segurança apoia a PEC da maioridade penal aos 16 anos. Para os dez compromissos de 2030 o documento remete a projetos de lei, atos administrativos, pactos federativos e metas do PPA 2028-2031, sem instrumento por compromisso.",
+            "sources": [
+              {
+                "id": "src-caiado-80",
+                "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF publicado pela campanha)",
+                "publisher": "Poder360",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF de 102 páginas com texto lido diretamente: carta de compromisso, 26 temas, 10 itens de método de governo, 10 'Compromissos nacionais para 2030' e seção de implementação/monitoramento."
+              },
+              {
+                "id": "src-re-r1capacidades-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — arts. 47, 60 (PEC: 3/5 em dois turnos) e 69 (lei complementar)",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publisher": "Presidência da República — Planalto",
+                "notes": "Art. 60, §2º: PEC por 3/5 dos membros de cada Casa, em dois turnos = 308/513 e 49/81. Art. 69: lei complementar por maioria absoluta = 257/513 e 41/81. Art. 47: lei ordinária por maioria dos votos presentes.",
+                "sourceType": "imprensa",
+                "publishedAt": "1988-10-05",
+                "accessedAt": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Plano de estabilização fiscal e normas de Goiás sobre pagamento acima do teto suspensas pelo STF",
+            "detail": "Em 23/07/2023 o relator suspendeu o pagamento acima do teto a magistrados de Goiás e, em 11/09/2023, o plenário do STF manteve a suspensão das normas do estado; o plano vincula o crescimento a reorganização do gasto, revisão de subsídios e teto remuneratório, e em 25/08/2026 o candidato não detalhou o ajuste fiscal em sabatina.",
+            "sources": [
+              {
+                "id": "src-re-r1propostas-37",
+                "title": "André Mendonça suspende pagamento acima do teto a magistrados de Goiás",
+                "publisher": "Migalhas",
+                "url": "https://www.migalhas.com.br/quentes/390454/andre-mendonca-suspende-pagamento-acima-do-teto-a-magistrados-de-goias",
+                "sourceType": "imprensa",
+                "publishedAt": "2023-07-23",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-36",
+                "title": "Plenário mantém suspensão de normas de Goiás sobre remuneração acima do teto",
+                "publisher": "STF — Portal de Notícias",
+                "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=513780",
+                "sourceType": "tribunal",
+                "publishedAt": "2023-09-11",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1temas-08",
+                "title": "Caiado evita detalhar propostas para reforma da Previdência e ajuste fiscal em sabatina",
+                "publisher": "Estadão",
+                "url": "https://www.estadao.com.br/politica/eleicoes/caiado-evita-detalhar-propostas-para-reforma-da-previdencia-e-ajuste-fiscal-em-sabatina/",
+                "publishedAt": "2026-08-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina do Jornal Nacional (25/08/2026): ao ser questionado sobre sustentabilidade da Previdência, o candidato recusou detalhes técnicos; citou limitar despesas à correção da inflação e 'adequar' subvenções, incentivos, supersalários e emendas impositivas; afirmou que não mexeria nos pisos de saúde e educação nem no salário mínimo."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Plano de política externa sem 'alinhamentos automáticos' e memorando estadual com os EUA em 2026",
+            "detail": "Em 18/03/2026 o governador assinou memorando com os EUA sobre minerais críticos, com sigilo de cinco anos apontado pela Folha em 24/03/2026; análises jurídicas de abril de 2026 apontaram competência da União e, em 26/07/2026, o MPF abriu procedimento para acompanhar as negociações.",
+            "sources": [
+              {
+                "id": "src-re-07",
+                "title": "Caiado negociou terras raras direto com os EUA. Mas quem pode fazer isso no Brasil?",
+                "publisher": "Lawletter (Filippe Augusto)",
+                "url": "https://lawletter.com.br/articulista/filippe-augusto/caiado-negociou-terras-raras-direto-com-os-eua-mas-quem-pode-fazer-isso-no-brasil",
+                "publishedAt": "2026-04-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial"
+              },
+              {
+                "id": "src-caiado-85",
+                "title": "Acordo entre Goiás e EUA prevê exclusividade e sigilo no fornecimento de dados de minerais críticos",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/mercado/2026/03/acordo-entre-goias-e-eua-preve-exclusividade-e-sigilo-no-fornecimento-de-dados-de-minerais-criticos.shtml",
+                "publishedAt": "2026-03-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Acesso ao texto do MOU (11 seções): confidencialidade por cinco anos de dados geológicos, possibilidade de exclusividade a entidades designadas pelos EUA e apoio a políticas regulatórias; juristas ouvidos consideram o acordo inconstitucional por tratar de competência da União; o governo de Goiás sustenta respaldo constitucional estadual. Notícia registra também que o servidor federal recebeu o assunto com perplexidade."
+              },
+              {
+                "id": "src-re-08",
+                "title": "Acordo Goiás-Estados Unidos sobre terras raras é inconstitucional",
+                "publisher": "Consultor Jurídico (Conjur)",
+                "url": "https://conjur.com.br/2026-abr-26/acordo-goias-eua-sobre-terras-raras-e-totalmente-inconstitucional-2/",
+                "publishedAt": "2026-04-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial"
+              },
+              {
+                "id": "src-re-09",
+                "title": "MPF abre procedimento para acompanhar acordo de Goiás com os EUA sobre terras raras",
+                "publisher": "Veja",
+                "url": "https://veja.abril.com.br/brasil/mpf-abre-procedimento-para-acompanhar-acordo-sobre-terras-raras-de-goias-com-os-eua/",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual é o custo e a fonte de recursos de cada um dos dez compromissos nacionais de 2030?",
+            "why": "A leitura integral do PDF de 102 páginas não localizou valores em reais; o documento informa que cada programa terá responsável, cronograma, orçamento e indicador, sem apresentá-los."
+          },
+          {
+            "question": "Qual é o instrumento previsto de cada compromisso: lei, emenda constitucional, pacto federativo ou meta do PPA?",
+            "why": "O plano declara que será traduzido em projetos de lei, atos administrativos, pactos federativos e metas do Plano Plurianual, sem associar instrumento a compromisso."
+          },
+          {
+            "question": "Quais metas anuais e indicadores serão pactuados, e com quais estados e municípios?",
+            "why": "O documento prevê PPA 2028-2031 por missões, painel público e comitês federativos, sem listar as metas numéricas nem os entes pactuantes."
+          }
+        ],
+        "publicExplanation": "Em 12/08/2026 respondeu que 'dizer que quero entregar terras raras aos EUA é burrice e mau-caratismo' e definiu o objetivo como atrair tecnologia para processar minerais no país; o governo de Goiás classifica o memorando como declaração de intenções não vinculante (Agência Brasil, 27/04/2026).",
+        "methodology": "Apurado pela leitura integral do PDF de 102 páginas (carta, 26 temas, método de governo e dez compromissos de 2030), por atos estaduais e por decisões do STF sobre Goiás. O texto não traz valores em reais nem prazo por compromisso; a leitura localizou 0 ocorrências de 'R$' no documento. Ficaram de fora o PPA estadual detalhado e a íntegra do memorando com os EUA.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
       "sources": [
         {
           "id": "src-cg-20",
@@ -15142,6 +15551,258 @@ export const researched: Partial<Candidate>[] = [
         "Estado que funciona (governo digital e federalismo de resultados)"
       ],
       "developmentModel": "O plano atribui ao crescimento econômico a função de financiar proteção social ('prosperidade que protege') e organiza o modelo em três frentes: responsabilidade fiscal com revisão de gastos e subsídios indevidos, transparência de benefícios e avaliação de impacto de programas; ambiente de negócios com simplificação regulatória, digitalização, crédito produtivo e garantias para pequenos negócios e compras públicas acessíveis a micro e pequenas empresas; e infraestrutura por concessões, PPPs e planejamento de longo prazo (rodovias com manutenção baseada em desempenho, ferrovias, hidrovias, portos e cabotagem), além de segurança energética, conectividade e ambiente para indústria e economia digital. O Estado é descrito como prestador de serviços 100% digitais ('dados pedidos uma única vez', atendimento multicanal para quem está offline) e como coordenador federativo, com pactos com estados e municípios, consórcios e transferências associadas a indicadores 'quando juridicamente cabível'. Tecnologia aparece em IA com governança, auditoria e privacidade (regulação de filas no SUS, apoio clínico e administrativo) e em telemedicina integrada à rede; meio ambiente não tem capítulo próprio — comparece no eixo de energia e conectividade e na política de segurança (crimes contra o meio ambiente não são detalhados). Desigualdade é tratada prioritariamente pela proteção de mulheres, crianças e primeira infância e pela autonomia econômica das mulheres (microcrédito, qualificação, formalização). O documento não apresenta estimativa de custo por política.",
+      "reality": {
+        "proposal": "'Proteger Hoje, Transformar o Amanhã': seis eixos com mulheres e crianças em primeiro lugar, Estado digital e avaliação de custo por política",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "As mudanças no STF defendidas em entrevistas alcançam o art. 101 da Constituição e passam por emenda; o corpo do projeto — rede de proteção à mulher, primeira infância, atenção primária, governo digital e transferências por indicadores — depende de lei, de orçamento e de estados e municípios, que executam creches, assistência social e segurança. O plano não vincula cada política a um instrumento."
+        },
+        "history": {
+          "aligned": [
+            {
+              "date": "2026-07",
+              "fact": "Nome aprovado em reunião nacional do DC em Brasília, com dirigentes e presidentes de 21 diretórios estaduais (08/07/2026)",
+              "sources": [
+                {
+                  "id": "src-cb-03",
+                  "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+                  "publisher": "Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+                  "publishedAt": "2026-08-17",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+                }
+              ]
+            },
+            {
+              "date": "2026-08",
+              "fact": "Chapa 100% feminina oficializada em convenção nacional (05/08/2026); registro deferido pelo TSE em 11/09/2026",
+              "sources": [
+                {
+                  "id": "src-cb-08",
+                  "title": "DC oficializa Clariana Barão como candidata à Presidência",
+                  "publisher": "CNN Brasil",
+                  "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+                  "publishedAt": "2026-08-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Convenção nacional; chapa exclusivamente feminina; aprovação por 21 diretórios em 08/07."
+                },
+                {
+                  "id": "src-cb-01",
+                  "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+                  "publisher": "TSE — Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+                  "publishedAt": "2026-09-11",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial_eleitoral",
+                  "notes": "Chapa Clariana Barão/Fabiana Torquato deferida na sessão virtual encerrada em 11/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "2024-2025",
+              "fact": "Coordenação de grupo de voluntários no auxílio às enchentes do Rio Grande do Sul (2024) e atuação em conselhos municipais de Várzea Grande (2025)",
+              "sources": [
+                {
+                  "id": "src-cb-75",
+                  "title": "Advogada de VG que socorre vítimas de enchente critica políticos do RS: 'não estão nos ajudando'",
+                  "publisher": "VGN (Várzea Grande)",
+                  "url": "https://www.vgnoticias.com.br/cidades/advogada-de-vg-que-socorre-vitimas-de-enchente-critica-politicos-do-rs-nao-estao-nos-ajudando/116301",
+                  "publishedAt": "2024-05",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Registro da atuação de Clariana Barão no auxílio a vítimas das enchentes do Rio Grande do Sul, em 2024."
+                },
+                {
+                  "id": "src-cb-74",
+                  "title": "Advogada defende banco de medula no Hemocentro de VG: 'Baixo custo e enorme alcance social'",
+                  "publisher": "VGN (Várzea Grande)",
+                  "url": "https://www.vgnoticias.com.br/cidades/advogada-defende-banco-de-medula-no-hemocentro-de-vg-baixo-custo-e-enorme-alcance-social/132155",
+                  "publishedAt": "2025",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Conselheira e advogada Clariana Barão, representante da OAB/Várzea Grande no Conselho Municipal de Saúde, defende a criação de banco de doadores de medula no futuro hemocentro. Página com bloqueio WAF na coleta; conteúdo lido por resumo indexado."
+                }
+              ]
+            }
+          ],
+          "divergent": [
+            {
+              "date": "2026-01 a 2026-07",
+              "fact": "O partido lançou dois nomes à Presidência antes dela no mesmo ciclo (Aldo Rebelo, em janeiro, e Joaquim Barbosa, em maio), com desistências sucessivas",
+              "sources": [
+                {
+                  "id": "src-cb-28",
+                  "title": "Saiba quem é a aposta do DC para substituir Barbosa e Rebelo (lançamento da candidatura de Clariana Barão)",
+                  "publisher": "Poder360",
+                  "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quem-e-a-aposta-do-dc-para-substituir-barbosa-e-rebelo/",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                },
+                {
+                  "id": "src-cb-70",
+                  "title": "Após desistência de Joaquim Barbosa, DC lança Clariana Barão à Presidência",
+                  "publisher": "Band",
+                  "url": "https://www.band.com.br/politica/apos-desistencia-de-joaquim-barbosa-dc-lanca-clariana-barao-a-presidencia",
+                  "publishedAt": "2026-07-24",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Ex-ministro do STF deixou a disputa por dificuldades na obtenção de recursos e estruturação da campanha; advogada é a terceira indicação do partido."
+                }
+              ]
+            }
+          ],
+          "noComparablePrecedent": "Primeira disputa eleitoral e nenhum cargo público ou eletivo: não há orçamento, votação ou decisão administrativa própria para comparar. O registro comparável é de direção partidária (presidência do diretório do DC em Mato Grosso), de conselhos municipais de Várzea Grande e de trabalho voluntário."
+        },
+        "support": {
+          "partySeats": "0 de 513 deputados federais e 0 de 81 senadores (DC, legislatura 2023-2027)",
+          "coalitionSeats": "Partido isolado: chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "Retrato atual, não previsão do próximo Congresso. DC: 0 de 513 deputados federais, 0 senadores, 0 governadores, 251 vereadores e 2 prefeitos (2024), com cerca de 181 a 185 mil filiados em 2026; o partido recebeu R$ 3.307.679,85 de Fundo Eleitoral em 2026 e repassou R$ 1,5 milhão (45,3%) à candidatura presidencial até 01/09/2026."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Rede de proteção, creches e assistência são executadas por estados e municípios",
+            "detail": "As prioridades do plano — rede nacional de proteção, primeira infância do pré-natal à creche e atenção primária — dependem de delegacias estaduais, assistência social municipal, consórcios e Judiciário; o documento cita transferências associadas a indicadores 'quando juridicamente cabível'. O DC tem 0 de 513 deputados federais e 0 de 81 senadores e não registrou coligação.",
+            "sources": [
+              {
+                "id": "src-cb-19",
+                "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                "publisher": "TSE — Eleições 2026",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF do plano com matriz de implementação por horizontes."
+              },
+              {
+                "id": "src-cb-05",
+                "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Título do eixo 'Mulheres e Crianças em Primeiro Lugar' e Rede Nacional de Proteção."
+              },
+              {
+                "id": "src-cb-10",
+                "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Bancada 2026 (0 federais, 0 senadores, 251 vereadores), filiados, história da legenda."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-sem-precedente",
+            "title": "Documento registrado se declara preliminar, sem metas quantitativas nem custo por política",
+            "detail": "O plano registrado (15 páginas) define-se como 'versão estruturada para desenvolvimento programático, debate técnico e posterior definição de metas quantitativas' e não traz diagnóstico, linha de base, custo fiscal nem prazo por política; um dossiê independente enumera ao menos 30 promessas numeradas. Não há episódio de execução de programa público na trajetória apurada.",
+            "sources": [
+              {
+                "id": "src-cb-19",
+                "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                "publisher": "TSE — Eleições 2026",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF do plano com matriz de implementação por horizontes."
+              },
+              {
+                "id": "src-cb-17",
+                "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+                "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+                "url": "https://planoaberto.org/candidatos/clariana-barao",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Índice numerado de promessas (até 30) e avaliação de viabilidade de execução."
+              },
+              {
+                "id": "src-cb-60",
+                "title": "Seis planos à direita: o que dizem os documentos que quase ninguém leu",
+                "publisher": "Contexto Brasil",
+                "url": "https://contextobrasil.com.br/seis-planos-a-direita-o-que-dizem-os-documentos-que-quase-ninguem-leu/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Analisa o documento do DC como versão preliminar de 15 páginas, com seis capítulos e sem diagnóstico do país."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Revisão de gastos e subsídios convive com rede nacional, primeira infância e Selic a 7%",
+            "detail": "O plano condiciona a proteção social ao crescimento e à revisão de gastos, subsídios e benefícios, com avaliação de impacto; nas mesmas semanas a candidata defendeu Selic a 7% ao ano, industrialização de minerais críticos com capital estrangeiro e revisão do ajuste fiscal. As fontes consultadas não trazem a conciliação entre a revisão de despesas e as novas redes e serviços.",
+            "sources": [
+              {
+                "id": "src-cb-19",
+                "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                "publisher": "TSE — Eleições 2026",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF do plano com matriz de implementação por horizontes."
+              },
+              {
+                "id": "src-cb-12",
+                "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+                "publishedAt": "2026-09-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+              },
+              {
+                "id": "src-cb-80",
+                "title": "Clariana Barão defende Selic a 7%, fim das bets e mudanças no STF (BM&C Talks)",
+                "publisher": "BM&C News",
+                "url": "https://bmcnews.com.br/programas-bmc/bmc-talks/clariana-barao-defende-selic-a-7-fim-das-bets-e-mudancas-no-stf/",
+                "publishedAt": "2026-09-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Entrevista em que a candidata declara intenção de buscar capital estrangeiro 'inclusive dos Estados Unidos e da China' para industrializar minerais críticos e terras raras no Brasil ('aqui nós vamos minerar, beneficiar, industrializar')."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Quais metas quantitativas, prazos e custos substituirão a versão preliminar do plano, e quando?",
+            "why": "O documento se declara em desenvolvimento programático, sem linha de base nem custo por política; o dossiê independente enumera ao menos 30 promessas numeradas que ainda não têm meta pública."
+          },
+          {
+            "question": "Qual o instrumento previsto para as mudanças no STF e para o fim da escala 6x1, ausentes do plano registrado?",
+            "why": "As duas posições foram registradas em entrevistas (25/08/2026 e 09/09/2026) e o plano registrado trata de 'Estado que funciona', governo digital e responsabilidade fiscal; não localizamos o desenho nem o veículo dessas mudanças."
+          },
+          {
+            "question": "Quais compromissos foram firmados com os 21 diretórios estaduais que aprovaram a candidatura?",
+            "why": "A aprovação interna envolveu dirigentes e presidentes de 21 diretórios e não há coligação ou federação registrada; as fontes consultadas não registram acordos programáticos documentados por escrito."
+          }
+        ],
+        "publicExplanation": "A candidata declarou ter 'valores da direita' e rejeitar o extremismo, com o diálogo como marca da candidatura, e que a legenda buscou renovação após as desistências. Não localizamos explicação pública sobre a ausência de metas e custos no plano nem sobre a destinação de 45,3% do Fundo Eleitoral recebido.",
+        "methodology": "Base: plano registrado no TSE (15 páginas), cobertura de 2026 (Agência Brasil, Jornal Nacional, Poder360), dossiê independente Plano Aberto e registros do partido. Nenhum dos cinco exerceu cargo executivo: o comparável de Clariana Barão vem da direção estadual do DC, de conselhos municipais e de trabalho voluntário. Ficaram fora a contagem item a item das promessas e o custo por política.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
       "sources": [
         {
           "id": "src-cb-19",
@@ -19769,6 +20430,16 @@ export const researched: Partial<Candidate>[] = [
         "sourceType": "partidaria",
         "publishedAt": "2026-09-29",
         "accessedAt": ""
+      },
+      {
+        "id": "src-re-r2pais-01",
+        "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+        "publisher": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+        "publishedAt": "1988-10-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -21074,6 +21745,318 @@ export const researched: Partial<Candidate>[] = [
         "Relações internacionais: integração regional (ALBA e Unasul) e solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental"
       ],
       "developmentModel": "Atribui ao Estado o comando da economia: nacionalização e estatização do sistema monetário e financeiro, Banco dos Trabalhadores para os fundos previdenciários e de seguridade, reestatização das empresas privatizadas, Petrobras 100% estatal, controle do câmbio e do comércio exterior, revogação do arcabouço fiscal, da Lei de Responsabilidade Fiscal e da autonomia do Banco Central (cuja diretoria passaria a ter representantes de centrais sindicais, do Dieese e do Cofecon), substituição da LRF por uma 'Lei de Responsabilidade Social' e BNDES como financiador. Crescimento associado a reindustrialização, investimento público e 'fronteiras tecnológicas' (CEITEC/semicondutores, monopólio estatal de terras raras e minerais críticos) e a reforma tributária progressiva com imposto sobre lucros, dividendos, grandes fortunas, transações financeiras e heranças. O setor privado é objeto de estatização nos setores considerados estratégicos (saúde, ensino, comunicações, saneamento, energia e indústria bélica) e o agronegócio é expropriado pela reforma agrária popular. Desigualdade tratada por cotas (54% para a população negra e 70% a 80% para egressos de escola pública), recuperação do salário mínimo até o piso do Dieese em quatro anos, ampliação da licença-maternidade e paternidade para um ano e legalização do aborto. Meio ambiente descrito como 'luta anticapitalista', com revisão do Código Florestal, ampliação de unidades de conservação, restrição a descartáveis plásticos e taxação de emissões.",
+      "reality": {
+        "proposal": "PCB (TSE, 01/08/2026): cinco transformações estruturais — Poder Popular, Constituinte de Novo Tipo em dois anos, extinção do Senado e estatizações.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "A convocação da Assembleia Constituinte, a extinção do Senado e a revogação do arcabouço fiscal, da LRF e da autonomia do Banco Central exigem emenda constitucional; estatizações, jornada de 30 horas e Orçamento Popular deliberativo dependem de lei. A constituinte de 1987–1988 foi convocada por emenda do próprio Congresso (EC 26/1985)."
+        },
+        "history": {
+          "aligned": [
+            {
+              "date": "1922–1993",
+              "fact": "Do congresso de fundação (1922) à cisão que formou o PPS (1992), o XI Congresso do PCB reafirmou a sigla em 25/03/1993 e o partido reconstruiu a estrutura própria.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-01",
+                  "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "2000–2021",
+              "fact": "Os congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) aprovaram resoluções próprias: frente anticapitalista permanente, Bloco Revolucionário do Proletariado e a 'via revolucionária do Poder Popular'.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-01",
+                  "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "2014–2015",
+              "fact": "O XV Congresso (2014) formulou o conceito de Poder Popular e o partido lançou o jornal O Poder Popular em 2015, com edições em arquivo público.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-01",
+                  "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+                },
+                {
+                  "id": "src-ec-88",
+                  "title": "Jornal O Poder Popular — arquivo de edições (Nº 101 a Nº 109, 2026)",
+                  "publisher": "Partido Comunista Brasileiro (PCB) — portal oficial",
+                  "url": "https://pcb.org.br/portal2/category/s10-internacional/america-latina/s8-brasil/s4-pcb/c140-jornal-o-poder-popular",
+                  "publishedAt": "2026-09",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Página de arquivo do jornal do PCB com numeração sequencial de edições (a Nº 105 é identificada como maio de 2026 e a Nº 109 como setembro de 2026) e 28 páginas de arquivo consultadas em 29/09/2026. Traz as 'Notas dos editores', que atribuem ao Secretariado Nacional do Comitê Central a decisão sobre o que é publicado como linha política do partido, e lista canais próprios de vídeo ('Canal Jornal O Poder Popular' e 'Canal Comuna Que Pariu!')."
+                }
+              ]
+            },
+            {
+              "date": "01/08/2026",
+              "fact": "A convenção nacional da candidatura aprovou o programa de 16 páginas e a chapa Edmilson Costa/Cleusa Santos, registrada no TSE.",
+              "sources": [
+                {
+                  "id": "src-ec-70",
+                  "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+                  "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+                },
+                {
+                  "id": "src-ec-18",
+                  "title": "Edmilson Costa e Cleusa Santos são oficializados pelo PCB como candidatos a presidente e vice-presidente",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/politica/noticia/2026/08/01/edmilson-costa-e-cleusa-santos-sao-oficializados-pelo-pcb-como-candidatos-a-presidente-e-vice-presidente.ghtml",
+                  "publishedAt": "2026-08-01",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Convenção nacional do PCB em 01/08/2026, na Câmara Municipal de São Paulo, oficializou a chapa; o partido decidiu não lançar candidatos a deputado federal e estadual nas eleições de 2026 e aprovou o programa com foco na desmilitarização da segurança pública e na saúde 100% estatal."
+                }
+              ]
+            },
+            {
+              "date": "ago/2026",
+              "fact": "O partido publicou no portal, em 16/08/2026, o texto 'O PCB nas eleições de 2026', que repete a Constituinte de novo tipo, a extinção do Senado e o parlamento unicameral.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-03",
+                  "title": "O PCB nas eleições de 2026",
+                  "publisher": "Partido Comunista Brasileiro (pcb.org.br)",
+                  "url": "https://pcb.org.br/portal2/34156",
+                  "publishedAt": "2026-08-16",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Texto do próprio partido, publicado em 16/08/2026 e atualizado em 06/09/2026, apresenta a 'plataforma política pelo Poder Popular', a convocação de 'uma Assembleia Constituinte de novo tipo, com participação direta das organizações populares', a extinção do Senado e o parlamento unicameral com Conselhos Populares. Lido por acesso direto em 29/09/2026."
+                }
+              ]
+            }
+          ],
+          "divergent": [
+            {
+              "date": "1992–1994",
+              "fact": "Depois da cisão que formou o PPS, o PCB disputou na Justiça Eleitoral o uso do nome e da sigla e fez campanha de filiação até obter registro definitivo no TSE (1994).",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-01",
+                  "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "2023–2024",
+              "fact": "A crise interna de 2023 teve desdobramento em congresso extraordinário encerrado em 02/06/2024, cujo grupo adotou a denominação PCBR e declarou rompimento com a 'legenda eleitoral', segundo comunicado do próprio grupo.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-02",
+                  "title": "Comunicado sobre a alteração do nome de nosso Partido — XVII Congresso (Extraordinário)",
+                  "publisher": "Em Defesa do Comunismo (documento do grupo que adotou a denominação PCBR)",
+                  "url": "https://emdefesadocomunismo.com.br/comunicado-sobre-a-alteracao-do-nome-de-nosso-partido",
+                  "publishedAt": "2024-06-03",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Comunicado datado de 02/06/2024 e publicado em 03/06/2024: 'Entre os dias 29/05 e 02/06, encerramos vitoriosamente a etapa nacional do XVII Congresso (Extraordinário)' e 'A partir deste XVII Congresso (Extraordinário), adotamos a denominação de Partido Comunista Brasileiro Revolucionário (PCBR)', com rompimento declarado com a 'legenda eleitoral'. É a versão de um dos polos da disputa interna; o verbete do PCB não registra o XVII congresso."
+                }
+              ]
+            },
+            {
+              "date": "2010–2022",
+              "fact": "O partido disputou a Presidência com candidatura própria em 2010, 2014 e 2022 (39.136, 47.845 e 45.620 votos) e apoiou a chapa do PSOL em 2018 (617.122 votos), dentro das eleições vigentes.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-01",
+                  "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "29/09/2026",
+              "fact": "0 deputados federais e 0 senadores nas APIs oficiais; o verbete registra 12.117 filiados (2023) e nenhum cargo eletivo no levantamento de 2022–2024.",
+              "sources": [
+                {
+                  "id": "src-ec-12",
+                  "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                  "publisher": "Câmara dos Deputados (dados abertos)",
+                  "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+                },
+                {
+                  "id": "src-ec-13",
+                  "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                  "publisher": "Senado Federal (dados abertos)",
+                  "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+                },
+                {
+                  "id": "src-re-r3pais-01",
+                  "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            }
+          ],
+          "noComparablePrecedent": "Não localizamos episódio comparável de convocação de assembleia constituinte por governo popular, de extinção do Senado ou de nacionalização do sistema financeiro na trajetória do PCB: desde 1993 o partido atua por congressos internos, resoluções e disputa eleitoral, e a constituinte de 1987–1988 foi convocada por emenda do próprio Congresso (EC 26/1985)."
+        },
+        "support": {
+          "partySeats": "0/513 deputados federais e 0/81 senadores (APIs da Câmara e do Senado, 29/09/2026)",
+          "coalitionSeats": "0 — chapa pura, sem coligação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 2,
+          "note": "Base partidária: 12.117 filiados registrados no TSE (2023) e nenhum cargo eletivo no levantamento de 2022–2024; a candidatura concorre isolada. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
+        },
+        "tensions": [
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Projeto de ruptura institucional e trajetória do partido de disputa eleitoral desde 1993",
+            "detail": "O programa de 01/08/2026 projeta o Poder Popular e a Constituinte como via de chegada ao governo; a trajetória datada registra congressos internos desde 1993, campanha de filiação para obter registro próprio (1994) e candidaturas presidenciais próprias em 2010, 2014 e 2022, além do apoio à chapa do PSOL em 2018 — todas nos marcos eleitorais vigentes.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-01",
+                "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+              },
+              {
+                "id": "src-ec-70",
+                "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+                "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "A Constituinte prometida em dois anos depende de emenda aprovada pelo Congresso que o projeto propõe reestruturar",
+            "detail": "A convocação depende de emenda constitucional (308 deputados e 49 senadores, em dois turnos em cada Casa) e a de 1987–1988 veio por emenda do próprio Congresso (EC 26/1985); o projeto também propõe extinguir o Senado e criar parlamento unicameral, e o partido tem 0 cadeiras nas duas Casas (29/09/2026).",
+            "sources": [
+              {
+                "id": "src-ec-70",
+                "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+                "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+              },
+              {
+                "id": "src-re-r3propostas-01",
+                "title": "Emenda Constitucional nº 26, de 27 de novembro de 1985 — convoca a Assembleia Nacional Constituinte",
+                "publisher": "Senado Federal — Anais das Constituintes",
+                "url": "https://www.senado.leg.br/publicacoes/anais/constituinte/emenda26-85.pdf",
+                "publishedAt": "1985-11-27",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-re-r3propostas-02",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ec-12",
+                "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                "publisher": "Câmara dos Deputados (dados abertos)",
+                "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+              },
+              {
+                "id": "src-ec-13",
+                "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                "publisher": "Senado Federal (dados abertos)",
+                "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Como a convocação da Constituinte ocorreria no mesmo processo que extingue o Senado?",
+            "why": "A emenda de convocação precisa ser aprovada nas duas Casas, incluindo o Senado que o projeto extinguiria; o documento não descreve a sequência."
+          },
+          {
+            "question": "Qual o custo anual e a fonte de recursos das estatizações e da jornada de 30 horas?",
+            "why": "O programa fixa prazos e metas (Constituinte em dois anos; 10% do PIB na saúde) e o índice oficial lista 35 itens; não localizamos planilha de custo anual por medida."
+          },
+          {
+            "question": "A crise interna de 2023–2024 alterou a estrutura organizativa que sustentaria o projeto?",
+            "why": "O comunicado do grupo que adotou a denominação PCBR (02/06/2024) registra cisão e rompimento com a legenda eleitoral; não localizamos documento do PCB com números de filiados ou de direções depois do episódio."
+          }
+        ],
+        "publicExplanation": "O texto 'O PCB nas eleições de 2026', do próprio partido, explica o eixo como a transformação da 'maioria social em maioria política': a Constituinte de novo tipo convocada com participação direta das organizações populares e os Conselhos Populares como forma permanente de participação nas decisões do país.",
+        "methodology": "Apurado sobre o programa registrado no TSE (16 p., 01/08/2026), o histórico de congressos e resoluções do PCB (referências datadas) e o comunicado do XVII Congresso (Extraordinário), de 2024. O candidato nunca exerceu cargo público: o projeto foi examinado contra a trajetória organizativa do partido, sem juízo sobre capacidade futura. Ficaram fora atas internas e entrevistas não transcritas.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
       "sources": [
         {
           "id": "src-ec-70",
@@ -27790,6 +28773,36 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "oficial_eleitoral",
         "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+      },
+      {
+        "id": "src-re-r3pais-03",
+        "title": "O PCB nas eleições de 2026",
+        "publisher": "Partido Comunista Brasileiro (pcb.org.br)",
+        "url": "https://pcb.org.br/portal2/34156",
+        "publishedAt": "2026-08-16",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Texto do próprio partido, publicado em 16/08/2026 e atualizado em 06/09/2026, apresenta a 'plataforma política pelo Poder Popular', a convocação de 'uma Assembleia Constituinte de novo tipo, com participação direta das organizações populares', a extinção do Senado e o parlamento unicameral com Conselhos Populares. Lido por acesso direto em 29/09/2026."
+      },
+      {
+        "id": "src-re-r3pais-01",
+        "title": "Partido Comunista Brasileiro — verbete (história de 1922 a 2021, congressos XI a XVI, filiados e desempenho eleitoral)",
+        "publisher": "Wikipédia (em português)",
+        "url": "https://pt.wikipedia.org/wiki/Partido_Comunista_Brasileiro",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Verbete com seções datadas: fundação em 1922; XI Congresso de 25/03/1993, que reafirmou a sigla após a cisão que formou o PPS; congressos XII (abr/2000) a XVI (29/10 a 02/11/2021) com resoluções próprias (frente anticapitalista, Bloco Revolucionário do Proletariado, 'via revolucionária do Poder Popular'); XV Congresso (2014) e jornal O Poder Popular (2015); campanha de filiação de 1994 e registro próprio. Infobox e tabelas eleitorais citam TSE (filiados, cargos eletivos 2022–2024 e votos em eleições presidenciais). Página aberta por acesso direto em 29/09/2026."
+      },
+      {
+        "id": "src-re-r3pais-02",
+        "title": "Comunicado sobre a alteração do nome de nosso Partido — XVII Congresso (Extraordinário)",
+        "publisher": "Em Defesa do Comunismo (documento do grupo que adotou a denominação PCBR)",
+        "url": "https://emdefesadocomunismo.com.br/comunicado-sobre-a-alteracao-do-nome-de-nosso-partido",
+        "publishedAt": "2024-06-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Comunicado datado de 02/06/2024 e publicado em 03/06/2024: 'Entre os dias 29/05 e 02/06, encerramos vitoriosamente a etapa nacional do XVII Congresso (Extraordinário)' e 'A partir deste XVII Congresso (Extraordinário), adotamos a denominação de Partido Comunista Brasileiro Revolucionário (PCBR)', com rompimento declarado com a 'legenda eleitoral'. É a versão de um dos polos da disputa interna; o verbete do PCB não registra o XVII congresso."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -29351,6 +30364,208 @@ export const researched: Partial<Candidate>[] = [
         "Reforma do Judiciário, reforma política e limites a decisões monocráticas do STF ('Brasil que cumpre a Constituição')"
       ],
       "developmentModel": "O papel atribuído ao Estado é criar condições para que as famílias 'conquistem autonomia, prosperidade e liberdade'; a proteção social é mantida e aperfeiçoada, descrita como 'o começo de uma trilha que leva à qualificação, ao trabalho, ao crédito e ao patrimônio', e a imprensa registra a manutenção dos programas sociais existentes. O crescimento é associado a segurança jurídica ('a regra do início é a regra do fim'), marcos regulatórios estáveis, PPPs e concessões para infraestrutura, com investimento declarado de R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias, fundo lastreado na securitização de ativos e imóveis da União e BNDES voltado a obras em território brasileiro. Os eixos setoriais incluem energia, agronegócio, minerais críticos, meio ambiente tratado como 'ativo verde', turismo, desenvolvimento regional e tecnologia e inovação, com inteligência artificial 'a serviço do cidadão'. A redução de impostos sobre o consumo, o crédito via CAIXA para empreendedores e o corte de gastos federais aparecem como instrumentos para reduzir o custo de vida e a dívida pública. Há eixo específico para mulheres ('Brasil por elas') e a reforma institucional é apresentada em capítulo próprio ('Brasil que não volta atrás'), com enxugamento da máquina e profissionalização da gestão pública.",
+      "reality": {
+        "proposal": "Projeto liberal-conservador: facções como narcoterroristas, maioridade penal aos 16, corte de gastos, menos impostos e reforma do Judiciário.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O item mais exigente é emenda constitucional: o documento anuncia 'reformulação nas atuais regras fiscais' (p. 70), limites a decisões do STF e maioridade penal aos 16 anos (PEC 32/2019, de autoria do candidato); a campanha anunciou em agosto de 2026 uma 'PEC da Transição' com corte de R$ 300 bilhões. Nenhuma dessas emendas tinha votação de plenário registrada até 29/09/2026. Tipificar facções e criar novo regime de contratação exigiriam lei ordinária; a meta de R$ 900 bilhões depende de orçamento e de aporte privado."
+        },
+        "history": {
+          "aligned": [
+            "11/04/2024: Lei 14.843/2024 (PL 2.253/2022, de sua relatoria) endureceu a saída temporária de presos.",
+            "22/11/2023: votou 'Sim' à PEC 8/2021, que limita decisões monocráticas no STF, em 1º e 2º turnos no Senado.",
+            "19 e 20/12/2024: assinou a Emenda 1 ao plenário da PEC 54/2024, de revisão de gastos, e votou 'Sim' no destaque.",
+            "Outubro/2019: votou 'Sim' à PEC 6/2019, da reforma da Previdência, no plenário do Senado (Exame registra o voto)."
+          ],
+          "divergent": [
+            "21/06/2023: votou contra a LC 200/2023, o arcabouço fiscal em vigor, aprovada no Senado por 57 votos a 17.",
+            "19 e 20/12/2024: há registro de voto 'Não' em votação nominal da PEC 54/2024, o pacote de revisão de gastos.",
+            "Agosto/2026: o plano anuncia nova regra fiscal e a campanha cita corte de R$ 300 bilhões, sem texto enviado ao Congresso."
+          ]
+        },
+        "support": {
+          "partySeats": "PL: 98 de 513 deputados e 15 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+          "coalitionSeats": "Chapa registrada sem coligação ou federação, com vice do próprio partido (Alfredo Gaspar, PL-AL)",
+          "federations": "Nenhuma federação ou coligação registrada para a chapa presidencial",
+          "documentedAgreements": 3,
+          "note": "O projeto depende de PEC e de orçamento; a base observável é a bancada do PL, 98 deputados e 15 senadores em exercício (29/09/2026), sem coligação formal. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 3 episódio(s) no histórico de negociação apurado."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Reforma fiscal, limites ao STF e maioridade penal dependem de PEC sem texto enviado",
+            "detail": "O documento diz que 'apresentaremos uma reformulação nas atuais regras fiscais' (p. 70) e propõe limites a decisões do STF; a maioridade penal consta como PEC 32/2019, do próprio candidato, com parecer lido na CCJ em 2025 e sem votação de plenário. A campanha anunciou em agosto de 2026 a 'PEC da Transição' com corte de R$ 300 bilhões.",
+            "sources": [
+              {
+                "id": "src-plano-pdf",
+                "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+                "publisher": "Poder360 (cópia do documento de campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+              },
+              {
+                "id": "src-re-r1propostas-20",
+                "title": "Flávio planeja 'PEC da Transição' com corte de gastos de R$ 300 bilhões",
+                "publisher": "CNN Brasil — blog do Caio Junqueira",
+                "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/flavio-planeja-pec-da-transicao-com-corte-de-gastos-de-r-300-bilhoes/",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-08",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-22",
+                "title": "Entenda os próximos passos do projeto para reduzir a maioridade penal",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/entenda-os-proximos-passos-do-projeto-para-reduzir-maioridade-penal",
+                "notes": "CCJ da Câmara aprovou texto que reduz a maioridade para 16 anos em 10/06/2026 (44x18).",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-06",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-17",
+                "title": "Votações da matéria PEC 8/2021 (limite a decisões monocráticas) — votação nominal de 22/11/2023",
+                "publisher": "Senado Federal",
+                "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/148030/votacoes",
+                "notes": "Registro nominal: Flávio Bolsonaro votou 'Sim' nas votações em 1º e 2º turno.",
+                "sourceType": "legislativo",
+                "publishedAt": "2023-11-22",
+                "accessedAt": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Corte de gastos prometido e voto contrário à regra fiscal em vigor em 2023",
+            "detail": "Em 21/06/2023 votou contra a LC 200/2023, aprovada por 57 a 17 com 10 votos contrários do PL; na PEC 54/2024, de revisão de gastos, assinou a Emenda 1, com registro de voto 'Não' na votação nominal de 19 e 20/12/2024 e 'Sim' no destaque da própria emenda. Em outubro de 2019 votou 'Sim' à PEC 6/2019 da Previdência no Senado.",
+            "sources": [
+              {
+                "id": "src-flavio-117",
+                "title": "Veja como votaram os senadores na aprovação do arcabouço fiscal",
+                "publisher": "G1",
+                "url": "https://g1.globo.com/politica/noticia/2023/06/21/veja-como-votaram-os-senadores-na-aprovacao-do-arcabouco-fiscal.ghtml",
+                "publishedAt": "2023-06-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Senado aprovou o arcabouço fiscal por 57 votos a 17 em 21/06/2023; a lista nominal registra Flávio Bolsonaro (PL-RJ) entre os votos contrários."
+              },
+              {
+                "id": "src-re-r1propostas-26",
+                "title": "Votações da matéria PEC 54/2024 — votações nominais do plenário em 19 e 20/12/2024",
+                "publisher": "Senado Federal",
+                "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889/votacoes",
+                "notes": "Listas nominais do plenário: consta voto 'Não' de Flávio Bolsonaro em votação nominal da proposta e voto 'Sim' no destaque da Emenda nº 1.",
+                "sourceType": "legislativo",
+                "publishedAt": "2024-12-20",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-19",
+                "title": "PEC 54/2024 (pacote de revisão de gastos) — ficha da matéria e emendas",
+                "publisher": "Senado Federal",
+                "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166889",
+                "notes": "Emenda nº 1 ao plenário tem entre os autores o senador Flávio Bolsonaro; votações nominais em 19 e 20/12/2024.",
+                "sourceType": "legislativo",
+                "publishedAt": "2024-12-20",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-flavio-100",
+                "title": "Confira como cada senador votou na reforma da Previdência",
+                "publisher": "Exame",
+                "url": "https://exame.com/economia/confira-como-cada-senador-votou-na-reforma-da-previdencia",
+                "publishedAt": "2019-10-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lista nominal da votação em segundo turno no Senado; registra 'Sim' para Flávio Bolsonaro (PSL-RJ)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Soberania no discurso de campanha e atos datados de aproximação com o governo dos EUA",
+            "detail": "Em 29/03/2026, na CPAC, pediu pressão diplomática dos EUA sobre instituições brasileiras; em 26 e 27/05/2026 foi recebido na Casa Branca; em 06/07/2026 disse que o governo usa 'falsa narrativa' de soberania; em 07/07/2026 pediu suspensão do tarifaço por 180 dias; em 26/09/2026 prometeu adesão ao 'Escudo das Américas'.",
+            "sources": [
+              {
+                "id": "src-flavio-bolsonaro-21",
+                "title": "Na CPAC, Flávio pede pressão dos EUA sobre eleições no Brasil",
+                "publisher": "Congresso em Foco",
+                "url": "https://www.congressoemfoco.com.br/noticia/117674/na-cpac-flavio-pede-pressao-dos-eua-sobre-eleicoes-no-brasil",
+                "publishedAt": "2026-03-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Discurso de 28/03/2026: pedido de 'pressão diplomática' do 'mundo livre' sobre as instituições brasileiras, acompanhamento internacional do processo eleitoral e ênfase nas reservas minerais."
+              },
+              {
+                "id": "src-mundo-07",
+                "title": "Encontro com Trump é trunfo para Flávio Bolsonaro e acende alerta sobre papel da Casa Branca na eleição",
+                "publisher": "BBC News Brasil",
+                "url": "https://www.bbc.com/portuguese/articles/c1m2y9g7yx4o",
+                "publishedAt": "2026-05-27",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra o encontro de Flávio com Trump na Casa Branca (26/05/2026), as versões divergentes sobre duração/formalidade e a leitura de analistas; menciona o encontro de Lula com Trump no início de maio de 2026."
+              },
+              {
+                "id": "src-re-01",
+                "title": "Às vésperas de audiência nos EUA, Flávio acusa Lula de usar soberania como 'falsa narrativa' para favorecer o tarifaço",
+                "publisher": "O Globo (Luísa Marzullo)",
+                "url": "https://oglobo.globo.com/politica/noticia/2026/07/06/as-vesperas-de-audiencia-nos-eua-flavio-acusa-lula-de-usar-soberania-como-falsa-narrativa-para-favorecer-o-tarifaco.ghtml",
+                "publishedAt": "2026-07-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-flavio-bolsonaro-22",
+                "title": "Flávio diz, antes de audiência nos EUA, que tarifaço de Trump é ruim para o Brasil e os americanos e tenta reverter desgaste",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/politica/noticia/2026/07/07/flavio-diz-antes-de-audiencia-nos-eua-que-tarifaco-de-trump-e-ruim-para-o-brasil-e-os-americanos-e-tenta-reverter-desgaste.ghtml",
+                "publishedAt": "2026-07-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Audiência pública do USTR em Washington (07/07/2026) e manifestação de 86 páginas entregue por Flávio: crítica às tarifas, defesa do Pix como infraestrutura pública, proposta de adiamento das tarifas e a frase 'o Brasil busca maneiras de se libertar das amarras do Mercosul'; o Itamaraty enviou observadora e classifica a audiência como espaço não formal de negociação."
+              },
+              {
+                "id": "src-re-03",
+                "title": "Escudo das Américas: Flávio Bolsonaro promete adesão, enquanto especialista alerta para riscos",
+                "publisher": "Veja (Nicholas Shores)",
+                "url": "https://veja.abril.com.br/politica/escudo-das-americas-flavio-bolsonaro-promete-adesao-enquanto-especialista-alerta-para-riscos",
+                "publishedAt": "2026-09-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual é o valor e a lista de despesas do corte fiscal, e qual o texto da nova regra?",
+            "why": "O documento anuncia reformulação das regras fiscais e a campanha cita R$ 300 bilhões, sem memória de cálculo, lista de itens nem minuta da regra que substituiria o arcabouço."
+          },
+          {
+            "question": "Como o corte de gastos convive com R$ 900 bilhões em infraestrutura em quatro anos?",
+            "why": "O plano informa o valor agregado da meta de logística e não traz a divisão entre orçamento federal e aporte privado, nem cronograma anual."
+          },
+          {
+            "question": "Qual é o responsável e o prazo de execução de cada eixo do plano?",
+            "why": "O documento organiza as propostas em eixos temáticos com índice remissivo, sem indicar ministério ou órgão responsável por eixo nem data por meta."
+          }
+        ],
+        "publicExplanation": "Em 06/07/2026, em vídeo gravado em Washington, disse que o governo usa 'falsa narrativa' de defesa da soberania; em 07/07/2026 pediu ao USTR a suspensão do tarifaço por 180 dias; em 18/08/2026 afirmou que fará 'tesouraço' em ministérios.",
+        "methodology": "Apurado pela leitura integral do plano registrado no TSE (76 páginas, 11 capítulos e índice temático), por votações nominais do Senado e pelo anúncio econômico da campanha. O documento traz valor agregado (R$ 900 bilhões em quatro anos em logística) e não informa a regra fiscal, o valor do corte, prazo por meta ou responsável; ficaram de fora notas técnicas da equipe e o orçamento de 2027.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
       "sources": [
         {
           "id": "src-plano-pdf",
@@ -36644,6 +37859,344 @@ export const researched: Partial<Candidate>[] = [
         "Soberania digital: infraestrutura digital pública e inteligência artificial sob controle do Estado e dos trabalhadores"
       ],
       "developmentModel": "Planejamento econômico estatal como eixo: articular produção e consumo internos, converter ganhos de produtividade em redução de jornada e destinar os excedentes das empresas expropriadas a setores de alta complexidade tecnológica (refino, separação de terras raras e minerais críticos, máquinas e equipamentos, infraestrutura digital, química fina e defesa), com criação de empresa estatal de terras raras e limite de 25% na distribuição de dividendos das grandes empresas privadas remanescentes, com reinvestimento obrigatório no território nacional. Financiamento declarado: taxação fortemente progressiva sobre lucros de empresas bilionárias, controle da conta de capitais (o texto cita cerca de meio trilhão de reais evadidos por ano desde 2020) e controle do sistema financeiro e dos grandes bancos. Setor privado: expropriação do grande agronegócio e dos setores estratégicos; nas telecomunicações e internet, quebra do monopólio das grandes empresas privadas e internet gratuita. Tecnologia: semicondutores 'adquiridos estrategicamente' e inteligência artificial desenvolvida sob controle do Estado, com conselhos de produtores, usuários e detentores de direitos. Educação com verbas públicas destinadas exclusivamente ao ensino público e reconstrução da carreira docente; meio ambiente com fim de créditos e subsídios ao agronegócio, recuperação de áreas degradadas e agroecologia. Desigualdade tratada em eixos próprios (questão negra, mulheres, LGBTQIAPN+, povos indígenas, imigrantes e pessoas com deficiência), com cotas, reparação e autodefesa das comunidades.",
+      "reality": {
+        "proposal": "PSTU (TSE, 2026): expropriação das grandes empresas, serviços públicos 100% estatais e 'Estado operário revolucionário'; mobilização direta.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "A revogação da EC 103/2019 (Previdência) e do teto de gastos e a jornada de 36 horas com fim da escala 6x1 exigem emenda constitucional; as expropriações e reestatizações dependem de lei, com atos de execução em estatais e decisão sobre concessões. O plano não declara instrumento por medida nem transição."
+        },
+        "history": {
+          "aligned": [
+            {
+              "date": "03–05/07/1994",
+              "fact": "Congresso de fundação do PSTU, depois da saída da Convergência Socialista do PT (1992) e do rompimento com o sindicalismo de Estado.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-04",
+                  "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "19/12/1995",
+              "fact": "Registro definitivo no TSE; o partido se vincula à LIT-QI, publica o jornal Opinião Socialista e mantém o Coletivo Rebeldia como organização de juventude.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-04",
+                  "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "fev/2018",
+              "fact": "O partido lançou o manifesto 'Rebelião Socialista' e disputou a Presidência com Vera Lúcia, tendo Hertz Dias como vice (55.762 votos).",
+              "sources": [
+                {
+                  "id": "src-hd-100",
+                  "title": "Manifesto Rebelião Socialista — PSTU (documento nacional, fevereiro de 2018)",
+                  "publisher": "PSTU (Partido Socialista dos Trabalhadores Unificado)",
+                  "url": "https://static.congressoemfoco.com.br/2018/03/PSTU-Nacional_2018-02-21_ManifestoRebelia%CC%83oSocialista_A4_Ver4_FINAL.pdf-1.pdf",
+                  "publishedAt": "2018-02",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "PDF do manifesto nacional do PSTU (21/02/2018), base programática das eleições de 2018 — ano em que Hertz Dias foi candidato a vice-presidente na chapa do partido. Entre as propostas do documento estão 'Desmilitarização da Polícia Militar, fim da Força Nacional de Segurança, fim das intervenções militares nas comunidades pobres; direito dos trabalhadores e dos bairros pobres à autodefesa e ao armamento' e eleição direta para as polícias."
+                },
+                {
+                  "id": "src-re-r3pais-04",
+                  "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "02/03/2026",
+              "fact": "Manifesto de pré-candidatura de Hertz Dias anunciou o programa 'Com os trabalhadores contra o sistema'.",
+              "sources": [
+                {
+                  "id": "src-hd-89",
+                  "title": "Manifesto: por uma alternativa para romper as engrenagens do sistema capitalista (peça de pré-candidatura assinada por Hertz Dias)",
+                  "publisher": "Opinião Socialista / PSTU (arquivo digital)",
+                  "url": "https://opiniaosocialista.com.br/content/files/2026/05/Manifesto-Pre-Candidatura-Eleitoral-Digital.pdf",
+                  "publishedAt": "2026-03-02",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Peça gráfica de página única (Adobe Illustrator, criada em 02/03/2026; 20.291 caracteres de texto extraídos) assinada 'HERTZ DIAS', com diagnóstico (cerca de 250 grandes empresas controlam a maior parte da economia; quase 60% dos trabalhadores em desemprego, subemprego ou trabalho precário e 68% com renda até R$ 2.424, dados do Anuário ILAESE 2025), eixos temáticos (trabalho e renda; terra, povos da floresta e ambiente; segurança pública; opressões de gênero, raça e LGBTIfobia; imperialismo), medidas declaradas (revogar o arcabouço fiscal, suspender o pagamento da dívida, proibir a remessa de lucros, taxar grandes fortunas, impor controle de capitais, expropriar monopólios sob controle democrático dos trabalhadores) e a forma de governo proposta (organismes de base, 'locais de trabalho, estudo e moradia'); termina com chamada para as redes @hertzdiaspstu e @opiniaosocialista. Baixado diretamente em 29/09/2026 (HTTP 200)."
+                }
+              ]
+            },
+            {
+              "date": "02–05/07/2026",
+              "fact": "O XIV Congresso Nacional, em São Paulo, debateu a proposta de programa e decidiu manter o documento em aberto, sem votar texto acabado.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-05",
+                  "title": "XIV Congresso Nacional do PSTU avança a construção de um programa para transformar o Brasil",
+                  "publisher": "Opinião Socialista (jornal do PSTU)",
+                  "url": "https://opiniaosocialista.com.br/xiv-congresso-nacional-do-pstu-avanca-a-construcao-de-um-programa-para-transformar-o-brasil",
+                  "publishedAt": "2026-07-10",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "31/07–01/08/2026",
+              "fact": "A convenção nacional confirmou a chapa Hertz Dias/Vanessa Portugal e o plano de 33 páginas registrado no TSE.",
+              "sources": [
+                {
+                  "id": "src-hd-72",
+                  "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+                  "publisher": "Opinião Socialista",
+                  "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+                  "publishedAt": "2026-08-01",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+                },
+                {
+                  "id": "src-hd-70",
+                  "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+                  "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+                }
+              ]
+            }
+          ],
+          "divergent": [
+            {
+              "date": "2016–2017",
+              "fact": "739 militantes assinaram manifesto de ruptura ('Arrancar alegria ao futuro') e formaram o MAIS, que ingressou no PSOL em julho de 2017.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-04",
+                  "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "out/2021–dez/2022",
+              "fact": "O partido lançou o Polo Socialista Revolucionário em plenária com mais de 1.400 participantes para unificar candidaturas em 2022 e, depois das eleições, propôs encerrá-lo; parte das organizações discordou.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-04",
+                  "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "2002–2022",
+              "fact": "Houve apoio crítico a candidaturas do PT nos segundos turnos de 2002, 2018 e 2022, e voto nulo em 2006, 2010 e 2014, conforme o histórico registrado.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-04",
+                  "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "29/09/2026",
+              "fact": "0 deputados federais e 0 senadores nas APIs oficiais; o verbete registra 14.710 filiados (2026) e 0 governadores, 0 prefeitos e 0 vereadores nos levantamentos de 2022 e 2024.",
+              "sources": [
+                {
+                  "id": "src-hd-11",
+                  "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                  "publisher": "Câmara dos Deputados (dados abertos)",
+                  "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+                },
+                {
+                  "id": "src-hd-12",
+                  "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                  "publisher": "Senado Federal (dados abertos)",
+                  "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+                },
+                {
+                  "id": "src-re-r3pais-04",
+                  "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            }
+          ],
+          "noComparablePrecedent": "Não localizamos episódio comparável de expropriação de grandes empresas, estatização do conjunto dos serviços públicos ou revogação de reforma previdenciária na trajetória do PSTU: a organização nasceu de uma corrente sindical (Convergência Socialista), disputa eleições desde 1994 e não integrou Executivo federal, estadual ou municipal nos levantamentos consultados."
+        },
+        "support": {
+          "partySeats": "0/513 deputados federais e 0/81 senadores (APIs oficiais, 29/09/2026)",
+          "coalitionSeats": "0 — chapa pura, sem coligação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 2,
+          "note": "Base partidária: 14.710 filiados (TSE, 2025) e 0 governadores, 0 prefeitos e 0 vereadores nos levantamentos de 2022 e 2024; a candidatura concorre isolada, com vínculo internacional à LIT-QI. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
+        },
+        "tensions": [
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Programa declarado como 'guia para a ação' e trajetória de disputa eleitoral e de segundo turno",
+            "detail": "O documento registrado afirma que o programa 'não é um conjunto de promessas eleitorais' e que a mobilização direta é prioritária; o histórico registra candidaturas próprias desde 1994, o Polo Socialista Revolucionário (2021) para unificar candidaturas e o apoio crítico a candidatos do PT nos segundos turnos de 2002, 2018 e 2022.",
+            "sources": [
+              {
+                "id": "src-hd-70",
+                "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+                "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+              },
+              {
+                "id": "src-re-r3pais-04",
+                "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Congresso de julho/2026 manteve o programa em aberto e o TSE registra plano em nome da candidatura",
+            "detail": "O XIV Congresso Nacional (02–05/07/2026) decidiu manter o documento-base em aberto, com contribuições da militância e debate com movimentos sociais antes de 'um futuro congresso'; o plano registrado em agosto de 2026 apresenta-se como 'o programa do PSTU, representado nestas eleições' e o índice oficial registra 38 itens.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-05",
+                "title": "XIV Congresso Nacional do PSTU avança a construção de um programa para transformar o Brasil",
+                "publisher": "Opinião Socialista (jornal do PSTU)",
+                "url": "https://opiniaosocialista.com.br/xiv-congresso-nacional-do-pstu-avanca-a-construcao-de-um-programa-para-transformar-o-brasil",
+                "publishedAt": "2026-07-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
+              },
+              {
+                "id": "src-hd-70",
+                "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+                "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Eixo de expropriação e de revogação de reformas exige emenda, e o plano não declara instrumento por medida",
+            "detail": "A revogação da EC 103/2019, o fim do teto e a jornada de 36 horas exigem emenda constitucional (CF, art. 60, §2º) e as expropriações dependem de lei; o plano de 33 páginas não indica instrumento, custo ou transição por medida, e o partido tem 0 cadeiras nas duas Casas.",
+            "sources": [
+              {
+                "id": "src-hd-70",
+                "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+                "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+              },
+              {
+                "id": "src-re-r3propostas-02",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-re-r3pais-05",
+                "title": "XIV Congresso Nacional do PSTU avança a construção de um programa para transformar o Brasil",
+                "publisher": "Opinião Socialista (jornal do PSTU)",
+                "url": "https://opiniaosocialista.com.br/xiv-congresso-nacional-do-pstu-avanca-a-construcao-de-um-programa-para-transformar-o-brasil",
+                "publishedAt": "2026-07-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Com qual instrumento o projeto revoga a EC 103/2019 e expropria as grandes empresas?",
+            "why": "O plano não declara instrumento jurídico por medida e o registro analítico aponta que custos, financiamento e prazos por proposta não constam do documento."
+          },
+          {
+            "question": "Qual o custo anual do aumento de 100% do salário mínimo e da bolsa de um salário mínimo?",
+            "why": "O índice oficial descreve as medidas sem estimativa de beneficiários, custo ou fonte; a compensação declarada depende de lei complementar."
+          },
+          {
+            "question": "O texto programático debatido no XIV Congresso será votado por um novo congresso antes da eleição?",
+            "why": "O próprio partido registrou que a proposta seguirá em construção e será debatida com ativistas e movimentos sociais antes de ser submetida a 'um futuro congresso'."
+          }
+        ],
+        "publicExplanation": "O jornal do partido (Opinião Socialista, 10/07/2026) explica a decisão do congresso: o programa é resultado de elaboração em diálogo com as discussões programáticas da LIT-QI e foi mantido em aberto por não ser considerado acabado ou definitivo, com continuidade 'com o conjunto da militância'.",
+        "methodology": "Apurado sobre o plano registrado no TSE (33 p., 'Com os trabalhadores contra o sistema'), o histórico do partido (fundação em 1994, cisões de 2016–2017, Polo Socialista Revolucionário, segundos turnos) e a cobertura do XIV Congresso pelo jornal do partido. O candidato nunca exerceu cargo público: o projeto foi examinado contra a trajetória organizativa, sem juízo sobre capacidade futura.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
       "sources": [
         {
           "id": "src-hd-70",
@@ -43362,6 +44915,26 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "oficial_eleitoral",
         "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+      },
+      {
+        "id": "src-re-r3pais-04",
+        "title": "Partido Socialista dos Trabalhadores Unificado — verbete (fundação em 1994, registro em 1995, cisões, filiados e cargos eletivos)",
+        "publisher": "Wikipédia (em português)",
+        "url": "https://pt.wikipedia.org/wiki/Partido_Socialista_dos_Trabalhadores_Unificado",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Verbete com história datada: saída da Convergência Socialista do PT (1992); congresso de fundação de 03 a 05/07/1994; registro definitivo em 19/12/1995; afiliação à LIT-QI, jornal Opinião Socialista e juventude Coletivo Rebeldia; saída de 739 militantes rumo ao MAIS (2016–2017) e ingresso no PSOL; Polo Socialista Revolucionário (out/2021) e proposta de encerramento (dez/2022); segundos turnos de 2002, 2018 e 2022. Filiados 14.710 (2026) e cargos eletivos com dados do TSE. Página aberta por acesso direto em 29/09/2026."
+      },
+      {
+        "id": "src-re-r3pais-05",
+        "title": "XIV Congresso Nacional do PSTU avança a construção de um programa para transformar o Brasil",
+        "publisher": "Opinião Socialista (jornal do PSTU)",
+        "url": "https://opiniaosocialista.com.br/xiv-congresso-nacional-do-pstu-avanca-a-construcao-de-um-programa-para-transformar-o-brasil",
+        "publishedAt": "2026-07-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Cobertura do jornal do partido em 10/07/2026: o XIV Congresso Nacional foi realizado entre 02 e 05 de julho de 2026, no estado de São Paulo, como 'instância máxima de deliberação'; o documento-base foi debatido 'em diálogo com as discussões programáticas da LIT-QI'. Trecho literal: 'O congresso não votou um programa acabado ou definitivo. A decisão foi manter o documento em aberto', a ser debatido com ativistas e movimentos sociais 'antes de ser submetida a um futuro congresso'. Lido por acesso direto em 29/09/2026."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -44342,6 +45915,239 @@ export const researched: Partial<Candidate>[] = [
         "proteção à mulher e à criança, apoio à família atípica"
       ],
       "developmentModel": "O papel central atribuído ao Estado é reduzir e simplificar a tributação: substituição de ICMS, ISS, IPI, PIS, Cofins, IOF, IRPJ, CSLL, IRPF, INSS (patronal e do trabalhador), IPVA, ITBI, ITCMD e Imposto de Importação por alíquota única de 3,5% cobrada na fonte, com IPVA de R$ 50 por mês e regras específicas para motoristas de aplicativo. O documento ilustra o modelo com comparações internacionais (EUA, Paraguai — modelo '10-10-10' —, Suécia, Alemanha e Japão) e afirma que a arrecadação nacional 'triplicaria' com o fim da sonegação; não foi localizada, nas fontes consultadas, estimativa de compensação fiscal para a queda de alíquota. Ao setor privado e à indústria atribui reindustrialização (produção local de insumos, indústria automobilística nacional, fertilizantes e agro, polo tecnológico 'de escala mundial', infraestrutura pesada de rodovias, hidrovias e ferrovias, segurança jurídica). Tecnologia aparece na educação (IA e empreendedorismo) e no programa de acesso a dispositivos; defesa nacional aparece na proposta de equipar as Forças Armadas; saúde, na eliminação da fila do SUS e em saneamento básico com coleta seletiva e aproveitamento energético de resíduos. Desigualdade e proteção social são tratadas por saneamento, apoio à 'família atípica' (Abraço Azul), segurança da mulher e combate à exploração sexual infantil; meio ambiente comparece no plano por saneamento e resíduos sólidos, sem capítulo específico de clima.",
+      "reality": {
+        "proposal": "'Reconstrução Nacional' com 19 propostas: imposto único de 3,5%, fila do SUS zerada, reindustrialização, saneamento universal e IPVA fixo",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O imposto único de 3,5% substitui tributos de competência federal, estadual e municipal (ICMS, ISS, IPI, PIS, Cofins, IRPJ, INSS patronal, IPVA, ITBI e ITCMD), o que alcança os arts. 153 a 156 da Constituição, com a transição para IBS e CBS em curso desde 2026; o IPVA fixo dependeria de lei estadual. O documento não indica veículo normativo, custo nem cronograma."
+        },
+        "history": {
+          "aligned": [
+            {
+              "date": "2024-02",
+              "fact": "Assumiu a presidência nacional do PRTB em 23/02/2024, sucedendo direção provisória",
+              "sources": [
+                {
+                  "id": "src-la-09",
+                  "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+                  "publisher": "CNN Brasil",
+                  "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+                  "publishedAt": "2024-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+                }
+              ]
+            },
+            {
+              "date": "2026-06",
+              "fact": "Certidão da Justiça Eleitoral registra nova composição da Executiva Nacional com Avalanche na presidência (17/06/2026)",
+              "sources": [
+                {
+                  "id": "src-la-81",
+                  "title": "PRTB confirma Leonardo Avalanche na presidência nacional da legenda após disputa jurídica",
+                  "publisher": "Tribuna do ABC",
+                  "url": "https://tribunaabc.com.br/tag/leonardo-avalanche",
+                  "publishedAt": "2026-06-17",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Certidão da Justiça Eleitoral registra nova composição da Executiva Nacional com Avalanche na presidência."
+                }
+              ]
+            },
+            {
+              "date": "2026-09",
+              "fact": "Programa 'Reconstrução Nacional' mantido na chapa substituta publicada no DJE de 18/09/2026",
+              "sources": [
+                {
+                  "id": "src-la-01",
+                  "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+                  "publisher": "TSE — Diário da Justiça Eletrônico",
+                  "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+                  "publishedAt": "2026-09-18",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial_eleitoral",
+                  "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+                }
+              ]
+            }
+          ],
+          "divergent": [
+            {
+              "date": "2025-09 a 2026-06",
+              "fact": "Expulsão do partido confirmada pela Justiça Eleitoral em 30/09/2025 e reversão do cancelamento da filiação em 06/02/2026, com nova composição certificada em junho",
+              "sources": [
+                {
+                  "id": "src-la-82",
+                  "title": "Justiça Eleitoral confirma expulsão de Leonardo Avalanche do PRTB; Amauri Pinho assume presidência",
+                  "publisher": "Tribuna do ABC",
+                  "url": "https://tribunaabc.com.br/tag/justica-eleitoral",
+                  "publishedAt": "2025-09-30",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Confirmação judicial da expulsão decidida no congresso de agosto de 2025."
+                },
+                {
+                  "id": "src-la-83",
+                  "title": "Leonardo Avalanche consegue reverter cancelamento de filiação e volta aos quadros do PRTB",
+                  "publisher": "Jornal Opção",
+                  "url": "https://www.jornalopcao.com.br/politica/leonardo-avalanche-consegue-reverter-cancelamento-de-filiacao-e-volta-aos-quadros-do-prtb-791776/",
+                  "publishedAt": "2026-02-06",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Após pedido do PRTB à Justiça Eleitoral, filiação é reativada no sistema oficial (06/02/2026)."
+                }
+              ]
+            }
+          ],
+          "noComparablePrecedent": "Nenhum mandato ou cargo executivo: as candidaturas anteriores (2006, 2008, 2016 e 2018) não resultaram em eleição. O registro comparável vem da direção partidária (presidência nacional do PRTB), da convenção e da campanha; não localizamos gestão de orçamento público ou de programa federal."
+        },
+        "support": {
+          "partySeats": "0 de 513 deputados federais e 0 de 81 senadores (PRTB, legislatura 2023-2027)",
+          "coalitionSeats": "Partido isolado no DJE de 18/09/2026, sem coligação para a Presidência; vice Silvia Hellen (PRTB)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 1,
+          "note": "Retrato atual, não previsão do próximo Congresso. PRTB: 0 de 513 deputados federais, 0 de 81 senadores, 7 deputados estaduais, 96 vereadores e 1 prefeito (2024); não recebeu recursos do Fundo Partidário em 2025 por não atingir a cláusula de desempenho. Coordenação documentada com a Justiça Eleitoral e diretório estadual (Goiás)."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Eixo único de receita: imposto de 3,5% sustenta saúde, segurança, saneamento e reindustrialização",
+            "detail": "As 19 propostas incluem zerar a fila do SUS, saneamento universal, equipar as Forças Armadas e reindustrialização, financiadas pela redução da carga tributária a uma alíquota única de 3,5%. O documento afirma que a arrecadação 'triplicaria' com o fim da sonegação e não traz estimativa de compensação; o próprio arquivo registra custo ausente em 17 das 19 propostas e prazo ausente em 16.",
+            "sources": [
+              {
+                "id": "src-la-17",
+                "title": "Plano de Governo — Leonardo Avalanche | PRTB (espelho do arquivo registrado no TSE)",
+                "publisher": "Poder360 (espelho do documento registrado no TSE)",
+                "url": "https://static.poder360.com.br/uploads/2026/09/httpswww.tse_.jus_.breleicoeseleicoes-2026-contentarquivosproposta-prtb@@display-filefileproposta-prtb.pdf",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF de 48 páginas lido integralmente em 29/09/2026: a apresentação declara 'As dezenove propostas reunidas neste documento' e o índice lista as propostas 01 a 19. Espelho idêntico em static.ndmais.com.br/eleicoes/2026/planos-de-governo/BR/2026BR280002554479_01.pdf."
+              },
+              {
+                "id": "src-la-16",
+                "title": "Plano de Governo — Leonardo Avalanche (arquivo registrado no TSE, Eleições 2026)",
+                "publisher": "TSE — propostas de governo dos candidatos à Presidência",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-prtb/@@display-file/file/proposta-prtb",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento oficial do programa 'Reconstrução Nacional' do candidato nº 28 (PRTB). O TSE bloqueia acesso automatizado nesta rodada; o arquivo foi lido pelo espelho público reproduzido em src-la-17."
+              },
+              {
+                "id": "src-la-06",
+                "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+                "publisher": "Agência Brasil",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Programa apresentado como 'reconstrução nacional'."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Mudar competências tributárias de estados e municípios depende de emenda com 0 cadeiras no Congresso",
+            "detail": "Substituir ICMS, ISS, IPVA e tributos federais por alíquota única toca os arts. 153 a 156 da Constituição e a transição para IBS e CBS em curso até 2033. O PRTB tem 0 de 513 deputados federais e 0 de 81 senadores na legislatura atual e não registrou coligação nacional; PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa, e 171 assinaturas para ser apresentada.",
+            "sources": [
+              {
+                "id": "src-re-r2pais-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+              },
+              {
+                "id": "src-re-r2propostas-02",
+                "title": "Reforma Tributária começa em 2026 com período de adaptação, destaque informativo dos novos tributos e dispensa de penalidades",
+                "publisher": "CGIBS — Comitê Gestor do IBS",
+                "url": "https://www.cgibs.gov.br/reforma-tributaria-comeca-em-2026-com-periodo-de-adaptacao-destaque-informativo-dos-novos-tributos-e-dispensa-de-penalidades",
+                "publishedAt": "2025-12-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Início em 1º/01/2026 da transição para IBS e CBS, criados pela EC 132/2023, com calendário até 2033."
+              },
+              {
+                "id": "src-la-21",
+                "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt): representantes atuais",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Infobox lido em 29/09/2026: Deputados federais (2026) 0/513; Senadores (2026) 0/81; Governadores 0/27; Deputados estaduais (2022) 7/1.024; Vereadores (2024) 96/56.810; Prefeitos (2024) 1/5.569; 144.376 filiados (jan/2026)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-sem-precedente",
+            "title": "Conjunto de 19 propostas sem episódio de execução: trajetória é de direção partidária e campanha",
+            "detail": "O programa reúne 19 propostas numeradas (redução da estrutura federal, saneamento universal, reindustrialização, polo tecnológico, sistema nacional de segurança). A trajetória apurada não tem episódio de execução de política pública: as candidaturas de 2006, 2008, 2016 e 2018 não resultaram em eleição e os atos documentados são de direção partidária e campanha.",
+            "sources": [
+              {
+                "id": "src-la-22",
+                "title": "Leonardo Avalanche — candidato a presidente nas eleições 2026 (dados do TSE)",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/leonardo-avalanche.ghtml",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Seção 'Candidaturas anteriores' com dados do TSE: 2018 Deputado federal (PODE) — não eleito; 2016 Vereador (PTN) — não eleito; 2008 Vereador (PRTB) — não eleito."
+              },
+              {
+                "id": "src-la-17",
+                "title": "Plano de Governo — Leonardo Avalanche | PRTB (espelho do arquivo registrado no TSE)",
+                "publisher": "Poder360 (espelho do documento registrado no TSE)",
+                "url": "https://static.poder360.com.br/uploads/2026/09/httpswww.tse_.jus_.breleicoeseleicoes-2026-contentarquivosproposta-prtb@@display-filefileproposta-prtb.pdf",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF de 48 páginas lido integralmente em 29/09/2026: a apresentação declara 'As dezenove propostas reunidas neste documento' e o índice lista as propostas 01 a 19. Espelho idêntico em static.ndmais.com.br/eleicoes/2026/planos-de-governo/BR/2026BR280002554479_01.pdf."
+              },
+              {
+                "id": "src-la-09",
+                "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+                "publishedAt": "2024-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o custo total das 19 propostas e qual receita sustenta saúde, saneamento e reindustrialização?",
+            "why": "O arquivo registrado não traz custo em 17 das 19 propostas nem prazo em 16; a receita declarada é a substituição de tributos por alíquota única de 3,5%, com a afirmação de que a arrecadação 'triplicaria' com o fim da sonegação."
+          },
+          {
+            "question": "Quantos votos no Congresso cada proposta exige e quem seriam os relatores?",
+            "why": "As mudanças tributárias e a reorganização administrativa passam por emenda e por leis; o partido tem 0 deputados federais e 0 senadores e não registrou coligação nacional. Não localizamos cronograma legislativo no programa."
+          },
+          {
+            "question": "A chapa substituta mantém integralmente o programa, e quem coordena as 19 propostas na campanha?",
+            "why": "O titular da chapa original foi indeferido pelo TSE em 11/09/2026 e substituído em 14/09, com registro no DJE de 18/09/2026; o programa foi mantido e a composição da equipe não foi divulgada nas fontes consultadas."
+          }
+        ],
+        "publicExplanation": "O partido declarou que a substituição era necessária após a renúncia do titular e protocolou a troca no último dia do prazo, mantendo o programa. Não localizamos explicação pública do candidato sobre a ausência de custo e prazo nas propostas nem sobre o caminho legislativo do imposto único.",
+        "methodology": "Base: programa registrado no TSE (48 páginas, 19 propostas numeradas, lido pelo espelho público), cobertura de 2026 (Agência Brasil, g1, NC News, Gazeta do Paraná), registros do TSE (DJE de 18/09/2026) e atos de direção partidária. Nenhum dos cinco exerceu cargo executivo: o comparável de Avalanche é o comando do PRTB e a campanha. Ficaram fora projeções de arrecadação e o custo por proposta.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium"
+      },
       "sources": [
         {
           "id": "src-la-17",
@@ -49158,6 +50964,16 @@ export const researched: Partial<Candidate>[] = [
         "sourceType": "imprensa",
         "publishedAt": "2026-09-29",
         "accessedAt": ""
+      },
+      {
+        "id": "src-re-r2pais-01",
+        "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+        "publisher": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+        "publishedAt": "1988-10-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -51026,6 +52842,199 @@ export const researched: Partial<Candidate>[] = [
         "Defender a soberania nacional e o protagonismo internacional do Brasil"
       ],
       "developmentModel": "O programa atribui ao Estado papel de planejador e indutor: 'não há desenvolvimento sem soberania em áreas estratégicas, capacidade industrial, domínio tecnológico e projeto nacional', com ênfase em ampliar a capacidade de planejamento, fortalecer a base produtiva e tecnológica e democratizar o orçamento público. O crescimento é associado à manutenção do arcabouço fiscal, ao investimento público (Novo PAC, leilões de rodovias e ferrovias, Petrobras e Minha Casa Minha Vida) e a uma política de transição energética e climática (matriz limpa, meta de desmatamento líquido zero até 2030 e trajetória de redução de emissões de 59%–67%). Trabalho aparece como eixo próprio (fim da escala 6x1, jornada de 40 horas sem redução salarial, regras para trabalho por aplicativos), e a redução de desigualdades é objetivo declarado, combinada com a continuidade de transferências de renda e políticas de educação e saúde. O setor privado é tratado como parceiro de investimento em infraestrutura e inovação, subordinado, no texto, às prioridades de soberania tecnológica e industrial.",
+      "reality": {
+        "proposal": "Continuidade: soberania como princípio, Estado indutor (arcabouço fiscal, reforma tributária, Novo PAC) e ampliação de direitos.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O item mais exigente do conjunto é emenda constitucional: a PEC da segurança pública foi entregue pelo Executivo em 23/04/2025 e aprovada pela Câmara em março de 2026; a PEC do fim da escala 6x1 foi aprovada na Câmara em 27/05/2026 (472x22 e 461x19). As duas estavam no Senado em 29/09/2026. O programa também depende de leis complementares (regras fiscais e regulamentação tributária), de leis ordinárias (Bolsa Família, saúde digital, trabalho por aplicativos) e do orçamento anual."
+        },
+        "history": {
+          "aligned": [
+            "30/08/2023: LC 200/2023 sancionada substituiu o teto de gastos pelo arcabouço fiscal, que o programa declara manter.",
+            "20/12/2023: EC 132/2023 promulgou a reforma tributária do consumo, regulamentada em leis complementares de 2025 e 2026.",
+            "11/08/2023: Decreto 11.632 instituiu o Novo PAC; o programa cita carteira de R$ 1,3 trilhão até o fim de 2026.",
+            "23/04/2025: o Executivo entregou ao Congresso a PEC da segurança pública, citada no programa entre as reformas constitucionais necessárias."
+          ],
+          "divergent": [
+            "24/09/2025: o Senado aprovou o texto-base do PLP 168/2025, que retirou da meta fiscal de 2025 as despesas com o tarifaço.",
+            "22/05/2026: bloqueio de quase R$ 24 bilhões no Orçamento; 24/09/2026: contingenciamento de R$ 16,1 bilhões.",
+            "02/09/2026: a CCJ do Senado aprovou o texto-base da PEC da segurança sem concluir a votação; a PEC da jornada seguia sem data de plenário."
+          ]
+        },
+        "support": {
+          "partySeats": "PT: 65 de 513 deputados e 9 de 81 senadores em exercício (APIs oficiais, 29/09/2026)",
+          "coalitionSeats": "Coligação 'O Brasil Pronto pra Mais', única coligação presidencial de 2026: 7 partidos (PT, PCdoB, PV, PDT, PSB, PSOL, Rede)",
+          "federations": "Federação Brasil da Esperança (PT-PCdoB-PV) e Federação PSOL/Rede integram a coligação",
+          "documentedAgreements": 3,
+          "note": "O projeto depende do orçamento anual e de PECs em tramitação; a base observável é a coligação de 7 partidos e o PT com 65 deputados e 9 senadores em exercício (29/09/2026). Retrato atual, não previsão do próximo Congresso. Acordos documentados: 3 episódio(s) no histórico de negociação apurado."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Dois pilares do programa dependem de PEC e seguiam no Senado sem votação de plenário",
+            "detail": "A PEC da segurança foi aprovada pela Câmara em março de 2026 (Agência Senado, 05/03/2026) e a do fim da escala 6x1 em 27/05/2026 (472x22 e 461x19); em 02/09/2026 a CCJ do Senado aprovou o texto-base da primeira sem concluir a votação, retirando a regra sobre bets, e a segunda seguia com o plenário sem data. O quórum é 308 deputados e 49 senadores, em dois turnos em cada Casa.",
+            "sources": [
+              {
+                "id": "src-re-r1propostas-05",
+                "title": "CCJ aprova relatório da PEC da Segurança, mas não conclui votação (retirada da regra sobre bets)",
+                "publisher": "Senado Federal — Agência Senado",
+                "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
+                "sourceType": "legislativo",
+                "publishedAt": "2026-09-02",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-lula-129",
+                "title": "Câmara aprova PEC da Segurança; texto será analisado pelo Senado",
+                "publisher": "Agência Senado",
+                "url": "https://www12.senado.leg.br/noticias/materias/2026/03/05/camara-aprova-pec-da-seguranca-texto-sera-analisado-pelo-senado",
+                "publishedAt": "2026-03-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Aprovação na Câmara da PEC que constitucionaliza o Sistema Único de Segurança Pública."
+              },
+              {
+                "id": "src-re-r1propostas-07",
+                "title": "PEC do fim da escala 6x1 é aprovada em 1º e 2º turnos na Câmara dos Deputados",
+                "publisher": "Contraf-CUT",
+                "url": "https://contrafcut.com.br/noticias/pec-do-fim-da-escala-6x1-e-aprovada-na-camara-dos-deputados",
+                "notes": "1º turno 472x22; 2º turno 461x19, em 27/05/2026.",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-05-28",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-08",
+                "title": "CCJ do Senado aprova PEC que acaba com jornada 6x1",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1",
+                "notes": "Matéria ainda depende do plenário do Senado em dois turnos.",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-09-02",
+                "accessedAt": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Programa declara manter o arcabouço e despesas do tarifaço saíram da meta fiscal por lei complementar",
+            "detail": "Em 24/09/2025 o Senado aprovou o texto-base do PLP 168/2025, retirando da meta fiscal de 2025 as despesas com o tarifaço; em 22/05/2026 o Executivo elevou o bloqueio para quase R$ 24 bilhões e em 24/09/2026 congelou R$ 16,1 bilhões para cumprir o limite do arcabouço, regra que o programa declara manter.",
+            "sources": [
+              {
+                "id": "src-lula-118",
+                "title": "Aprovado texto-base do projeto que retira despesas com 'tarifaço' do teto de gastos",
+                "publisher": "Agência Senado",
+                "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/aprovado-texto-base-do-projeto-que-retira-despesas-com-tarifaco-do-teto-de-gastos",
+                "publishedAt": "2025-09-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "PLP 168/2025 aprovado por 64 votos a 0 em texto-base; viabiliza a MP 1.309/2025 (Plano Brasil Soberano)."
+              },
+              {
+                "id": "src-lula-119",
+                "title": "Senado aprova texto-base de projeto que tira gastos com o tarifaço das metas fiscais de 2025 e 2026",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/noticia/2025/09/24/senado-aprova-texto-base-de-projeto-que-tira-gastos-com-o-tarifaco-das-metas-fiscais-de-2025-e-2026.ghtml",
+                "publishedAt": "2025-09-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "R$ 4,5 bilhões em fundos garantidores e R$ 5 bilhões de Reintegra fora da meta; dois destaques pendentes."
+              },
+              {
+                "id": "src-re-r1propostas-01",
+                "title": "Governo anuncia crescimento dos gastos federais para 2026 e eleva para quase R$ 24 bilhões o bloqueio de despesas no Orçamento",
+                "publisher": "g1 / Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/22/governo-anuncia-crescimento-dos-gastos-federais-para-2026-e-eleva-para-quase-r-24-bilhoes-o-bloqueio-de-despesas-no-orcamento.ghtml",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-05-22",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-02",
+                "title": "Governo reduz bloqueio, anuncia contingenciamento e congela R$ 16,1 bi",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+                "notes": "Relatório bimestral de setembro de 2026.",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-09-24",
+                "accessedAt": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Soberania como princípio do programa e mesa de negociação tarifária com Washington em 2026",
+            "detail": "Em 07/05/2026 o presidente discutiu com Trump crime organizado, tarifas e minerais críticos e propôs grupo de trabalho; os EUA mantêm sobretaxa de 25% em vigor desde 22/07/2026 e fizeram 21 exigências; em 17/09/2026 o governo rejeitou a exigência sobre 'dissidentes políticos' e em 06/09/2026 afirmou que 'não somos colônia'.",
+            "sources": [
+              {
+                "id": "src-lula-78",
+                "title": "Pix, minerais críticos e tarifas: o que o governo Lula quer discutir com Trump na economia",
+                "publisher": "BBC News Brasil",
+                "url": "https://bbc.com/portuguese/articles/cglpyzegwkko",
+                "publishedAt": "2026-05-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Pauta da visita de Lula a Washington (maio/2026): investigação da seção 301 sobre o Pix, tarifas remanescentes (estimativa do MDIC de 29% das exportações aos EUA com tarifas adicionais) e investimento em minerais críticos, com defesa de agregação de valor no país."
+              },
+              {
+                "id": "src-lula-109",
+                "title": "Governo Trump fez 21 exigências ao Brasil para negociar o tarifaço",
+                "publisher": "Estadão",
+                "url": "https://www.estadao.com.br/politica/governo-trump-impos-21-exigencias-brasil-negociar-tarifaco",
+                "publishedAt": "2026-09-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lista de exigências apresentadas na negociação."
+              },
+              {
+                "id": "src-lula-107",
+                "title": "Governo Lula rejeitou incluir exigência dos EUA sobre participação de dissidentes políticos nas eleições",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/politica/noticia/2026/09/17/governo-rejeitou-incluir-exigencia-sobre-participacao-de-dissidentes-politicos-nas-eleicoes-em-negociacao-de-tarifaco-com-os-eua.ghtml",
+                "publishedAt": "2026-09-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Exigência recusada na negociação do tarifaço."
+              },
+              {
+                "id": "src-lula-132",
+                "title": "Lula defende soberania do Brasil em pronunciamento pelo 7 de setembro",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lula-defende-soberania-do-brasil-em-pronunciamento-pelo-7-de-setembro",
+                "publishedAt": "2026-09-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Pronunciamento em rede nacional de rádio e TV na noite de 06/09/2026; cita a frase 'Não somos colônia e não seremos colônia de ninguém' e a defesa do livre comércio."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual é o custo por eixo do programa e a dotação prevista para o Novo PAC no Orçamento de 2027?",
+            "why": "O documento informa valores de execução de 2023-2026 (carteira de R$ 1,3 trilhão; esforço fiscal de R$ 240 bi) e uma fonte para segurança (FIIS de R$ 10 bi), sem custo por proposta nem dotação do próximo mandato."
+          },
+          {
+            "question": "Qual é o prazo de votação das PECs da segurança e da jornada no plenário do Senado, em dois turnos?",
+            "why": "Em 02/09/2026 a CCJ não concluiu a votação da PEC da segurança e a PEC da jornada seguia sem data; a liderança do governo declarou intenção de votar até outubro."
+          },
+          {
+            "question": "Quais metas anuais, prazos e responsáveis por programa constarão do PPA 2028-2031 a ser enviado?",
+            "why": "O programa cita o PPA 2024-2027 e propõe continuidade do planejamento, sem apresentar metas quantificadas por eixo nem responsáveis nomeados."
+          }
+        ],
+        "publicExplanation": "Em 06/09/2026, em pronunciamento de 7 de Setembro, afirmou que 'não somos colônia e não seremos colônia de ninguém'; em 25/09/2026, a empresários, defendeu responsabilidade fiscal, estabilidade e soberania (Valor).",
+        "methodology": "Apurado pela leitura integral do programa registrado no TSE (84 páginas, 13 eixos) e por checagem de tramitação, votações nominais e relatórios fiscais de 2025-2026. O documento informa valores de execução passada e uma fonte para segurança (FIIS), sem custo, prazo, meta mensurável ou responsável por eixo; ficaram de fora pareceres de custo e o PPA 2028-2031, não enviado.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
       "sources": [
         {
           "id": "src-lula-06",
@@ -59924,6 +61933,227 @@ export const researched: Partial<Candidate>[] = [
         "saúde"
       ],
       "developmentModel": "O próprio plano declara adesão a pilares do pensamento liberal no aspecto econômico (contenção de gastos, reforma trabalhista e administrativa, redução de supersalários, austeridade) e rejeita explicitamente o que chama de 'versão vulgarizada' que 'falava vagamente em desburocratização e privatizações'. Ao Estado atribui: (a) fazer o ajuste fiscal já na transição de governo (PEC de Transição Fiscal, ajuste declarado de R$ 1,1 trilhão até 2031, com desindexação de benefícios do salário mínimo, revisão do abono salarial e nova reforma da Previdência com gatilho automático de idade e capitalização via FGTS); (b) reorganizar o pacto federativo (fusão de municípios — de 5.570 para 1.656, segundo a imprensa —, 'tutela federal' de municípios que não atingirem as metas de indicadores e Lei de Responsabilidade Gerencial, que condiciona recursos partidários e elegibilidade a metas de indicadores); (c) ampliar investimento em infraestrutura de cerca de 2% para pelo menos 4% do PIB, com metas como 40 mil km de malha ferroviária, Zonas Econômicas Especiais no Nordeste, planta-piloto de separação e refino de terras raras (2029-2030) e projetos de IA e agro (AgroBrasil 2030). O setor privado é destinatário declarado de segurança jurídica, de flexibilização das relações de trabalho e da substituição do Bolsa Família por frentes de trabalho remuneradas para a população em idade ativa. Tecnologia aparece como eixo transversal (IA no SUS com modelo de triagem por risco, semelhante ao DoctorSV de El Salvador, terras raras, agricultura); meio ambiente aparece como vantagem comparativa e como parte do projeto de 'civilização tropical'; desigualdade é tratada por desfavelização integral (prazo declarado de 10 anos) e por bolsas de mérito em substituição às cotas no ensino superior.",
+      "reality": {
+        "proposal": "14 pilares e 5 metas para 2030: ajuste por PEC, desfavelização em 10 anos, fusão de municípios, frentes de trabalho e troca das cotas",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O projeto combina ao menos três mudanças por emenda (transição fiscal, desvinculação de pisos e benefícios, nova regra previdenciária), a fusão de municípios — lei complementar federal, lei estadual e consulta prévia às populações (CF, arts. 18, §4º e 25, §3º) — e itens por lei ordinária e atos do Executivo. Peça formal do partido no Congresso: PEC protocolada em 08/10/2025."
+        },
+        "history": {
+          "aligned": [
+            {
+              "date": "2015-12",
+              "fact": "Articulação do 'Comitê do Impeachment' em Brasília, com reuniões na Câmara dos Deputados e entrega de pedido com assinaturas",
+              "sources": [
+                {
+                  "id": "src-rs-43",
+                  "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+                  "publisher": "Câmara dos Deputados (Agência)",
+                  "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+                  "publishedAt": "2015-12",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+                }
+              ]
+            },
+            {
+              "date": "2023-2025",
+              "fact": "Coleta de mais de 577 mil assinaturas validadas e registro do Missão, deferido pelo TSE em 04/11/2025",
+              "sources": [
+                {
+                  "id": "src-rs-36",
+                  "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+                  "publisher": "Wikipédia",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+                }
+              ]
+            },
+            {
+              "date": "2026-08",
+              "fact": "O partido registrou 535 candidaturas em 25 estados e no Distrito Federal",
+              "sources": [
+                {
+                  "id": "src-rs-50",
+                  "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+                  "publisher": "Partido Missão (site oficial)",
+                  "url": "https://candidatos.missao.org.br/",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Página oficial do partido; consultada em 29/09/2026."
+                }
+              ]
+            }
+          ],
+          "divergent": [
+            {
+              "date": "2026-09",
+              "fact": "O resumo executivo registra ajuste de R$ 1,1 trilhão até 2031 e, no mesmo documento, ampliação do investimento em infraestrutura de 2% para 4% do PIB",
+              "sources": [
+                {
+                  "id": "src-rs-21",
+                  "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                  "publisher": "Agência Brasil (EBC)",
+                  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                  "publishedAt": "2026-09",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Setembro/2026; dia exato não capturado."
+                }
+              ]
+            }
+          ],
+          "noComparablePrecedent": "Nenhum mandato ou cargo executivo em qualquer nível: não há gestão de orçamento, programa ou território para comparar. O registro comparável é de movimento, partido e campanha (2015-2026), e não localizamos episódio de articulação de uma PEC conduzido pelo próprio candidato."
+        },
+        "support": {
+          "partySeats": "1 de 513 deputados federais e 0 de 81 senadores (Missão, legislatura 2023-2027)",
+          "coalitionSeats": "Partido isolado: chapa pura do Missão (nº 14), sem coligação ou federação; vice Coronel Medina (Missão)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 4,
+          "note": "Retrato atual, não previsão do próximo Congresso. Missão: 1 deputado federal (Kim Kataguiri), 1 deputado estadual, 3 vereadores e 29.911 filiados (ago/2026); 577 mil assinaturas validadas no registro; 535 candidaturas em 2026; campanha sem cota do Fundo Eleitoral (R$ 3,3 mi ao Legislativo)."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Ajuste, desvinculação e previdência por PEC com 1 deputado federal na bancada atual do partido",
+            "detail": "O plano condiciona o ajuste a uma 'PEC de Transição Fiscal' e a mudanças de desindexação e de previdência, todas por emenda (308 deputados e 49 senadores, em dois turnos em cada Casa). A bancada atual do Missão é de 1 deputado federal e nenhum senador, e o partido concorre isolado, sem coligação ou federação; propor uma PEC exige 171 assinaturas de deputados ou 27 de senadores (CF, art. 60, I).",
+            "sources": [
+              {
+                "id": "src-re-r2pais-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+              },
+              {
+                "id": "src-rs-36",
+                "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+              },
+              {
+                "id": "src-rs-21",
+                "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Ajuste de R$ 1,1 trilhão até 2031 no mesmo documento que amplia investimento para 4% do PIB",
+            "detail": "O resumo executivo estima economia de R$ 1,1 trilhão até 2031 com desindexação de benefícios e revisão do abono e de renúncias, e prevê, no mesmo documento, elevar o investimento em infraestrutura de cerca de 2% para pelo menos 4% do PIB, 8 milhões de casas e desfavelização em 10 anos. O resumo não traz a memória de cálculo que concilia as metas.",
+            "sources": [
+              {
+                "id": "src-rs-19",
+                "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+                "publishedAt": "2026-08-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-21",
+                "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              },
+              {
+                "id": "src-rs-70",
+                "title": "O Brasil de 2030 — propostas (site oficial da campanha)",
+                "publisher": "Renan Santos / Partido Missão",
+                "url": "https://www.renanpresidente.com.br/propostas",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Página oficial de campanha com as cinco metas para 2030 e o compromisso declarado de não disputar a reeleição em caso de descumprimento."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-sem-precedente",
+            "title": "Fusão de municípios e 'tutela federal': sem episódio comparável na trajetória apurada",
+            "detail": "A 'Grande Consolidação Municipal' (de 5.570 para cerca de 1.656 municípios, segundo a imprensa) e a tutela federal de municípios que não atingirem metas de indicadores não têm episódio de execução na trajetória apurada, de movimento, partido e campanha. Não localizamos apoio parlamentar declarado à reorganização do pacto federativo fora da bancada do próprio partido.",
+            "sources": [
+              {
+                "id": "src-rs-72",
+                "title": "O que diz o plano de governo de Renan Santos (Missão)",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-renan-santos-pretende-restaurar-o-brasil-plano-de-governo-candidato-missao/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Detalha a 'Grande Consolidação Municipal' (5.570 para 1.656 municípios) e a frente AgroBrasil 2030 com cinco pilares."
+              },
+              {
+                "id": "src-rs-20",
+                "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-36",
+                "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "O caminho pretendido é PEC pontual ou convocação de Assembleia Constituinte, e em qual prazo?",
+            "why": "O plano cita a 'PEC de Transição Fiscal', desindexação e previdência; as fontes consultadas não registram proposta de Constituinte nem ordem de votação. PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa, e 171 assinaturas para ser apresentada."
+          },
+          {
+            "question": "Qual o custo total das cinco metas de 2030 e de onde viriam os recursos em cada uma?",
+            "why": "O resumo executivo consolida apenas a economia estimada de R$ 1,1 trilhão até 2031; para a desfavelização, a imprensa registra valores de R$ 1,2 bilhão a R$ 1,5 bilhão e R$ 50 bilhões a R$ 85 bilhões atribuídos ao Tesouro, sem consolidação por meta."
+          },
+          {
+            "question": "Quantas PECs o governo pretende apresentar no primeiro ano e quem relataria cada uma?",
+            "why": "O plano menciona ao menos três emendas e a imprensa registra a 'PEC de Transição' com ajuste de R$ 250 bilhões por ano antes da posse; as fontes consultadas não indicam cronograma de tramitação nem relatoria."
+          }
+        ],
+        "publicExplanation": "O site oficial da campanha declara o compromisso de o candidato não disputar a reeleição em caso de descumprimento das cinco metas de 2030. Sobre a diferença de prazos da desfavelização (30 e 10 anos) e sobre o custo total do projeto, não localizamos declaração específica.",
+        "methodology": "Base: documento registrado no TSE (resumo executivo de 51 páginas do Livro Amarelo, lido pelo espelho público), site oficial da campanha, imprensa de 2026 (Valor, g1, Exame) e atos de movimento e partido (MBL, Missão). Nenhum dos cinco exerceu cargo executivo: o comparável de Renan Santos é de movimento, partido e campanha. Ficaram fora a obra integral e o inteiro teor do RRC.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
       "sources": [
         {
           "id": "src-rs-23",
@@ -65763,6 +67993,16 @@ export const researched: Partial<Candidate>[] = [
         "sourceType": "editorial",
         "publishedAt": "2026-09-29",
         "accessedAt": ""
+      },
+      {
+        "id": "src-re-r2pais-01",
+        "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+        "publisher": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+        "publishedAt": "1988-10-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -66904,6 +69144,367 @@ export const researched: Partial<Candidate>[] = [
         "Reforma agrária com expropriação do latifúndio, demarcação de terras indígenas e soberania (não à internacionalização da Amazônia)"
       ],
       "developmentModel": "O programa não organiza o crescimento em torno de metas de expansão: o eixo é a redistribuição imediata e a ruptura com o sistema financeiro — anulação das dívidas dos trabalhadores com os bancos, fim dos impostos sobre consumo e salários com tributação restrita a lucros e grandes fortunas, estatização do sistema financeiro com banco estatal único sob controle dos trabalhadores e gestão dos fundos previdenciários pelos trabalhadores. Reestatização e nacionalização das riquezas naturais e empresas (petróleo, reservas minerais e refinarias, terras raras sob empresa estatal comandada pelos trabalhadores), com redução imediata de 50% no preço dos combustíveis e fim da política de paridade com o dólar, e destinação da renda do petróleo a saúde, educação, moradia e infraestrutura. Setor privado: expropriação de latifúndios, de imóveis vazios, do ensino pago e das grandes empresas de comunicação, com cancelamento de concessões dos grandes meios. Estado: dissolução da Polícia Militar e do aparato repressivo, com comitês de autodefesa dos trabalhadores e direito ao armamento no campo e nas comunidades indígenas; fim do STF com eleição de juízes e procuradores; partidos sob controle exclusivo dos filiados e cancelamento das leis restritivas. Educação: livre ingresso sem vestibular, verbas públicas exclusivas ao ensino público e jornada máxima de 30 horas semanais para professores. Relações exteriores: defesa da soberania da Amazônia e da unidade nacional e apoio a Cuba, Nicarágua e Venezuela contra a ingerência dos EUA e da OEA.",
+      "reality": {
+        "proposal": "PCO (TSE, ago/2026): 15 pontos de ruptura — mínimo vital de R$ 7.500, jornada de 35 horas, reestatizações e 'revolução, governo operário e comunismo'.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O fim do teto de gastos e da LRF, o fim da autonomia do Banco Central, o fim do STF com eleição de juízes e procuradores e a dissolução das polícias militares exigem emenda constitucional; as estatizações e o reajuste emergencial dependem de lei, e parte dos preços, de decisão de estatais e de tributo estadual."
+        },
+        "history": {
+          "aligned": [
+            {
+              "date": "1978–1980",
+              "fact": "A Tendência Trotskista do Brasil foi formada no fim de 1978 e lançou o primeiro número do jornal Causa Operária em junho de 1979; em 1980 integrou-se ao PT como fração.",
+              "sources": [
+                {
+                  "id": "src-rp-88",
+                  "title": "Uma Breve História do PCO",
+                  "publisher": "Partido da Causa Operária (PCO)",
+                  "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+                },
+                {
+                  "id": "src-re-r3pais-06",
+                  "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "1995–1997",
+              "fact": "Depois das expulsões da corrente no PT (1991–1995), o PCO obteve registro provisório em 1995 e registro definitivo em 1997, após campanha de filiação nacional.",
+              "sources": [
+                {
+                  "id": "src-rp-88",
+                  "title": "Uma Breve História do PCO",
+                  "publisher": "Partido da Causa Operária (PCO)",
+                  "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+                },
+                {
+                  "id": "src-re-r3pais-06",
+                  "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "desde 2003",
+              "fact": "O partido mantém o Diário Causa Operária, jornal diário, ao lado do semanário impresso e de atividades próprias (Universidade Marxista, Biblioteca Socialista).",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-07",
+                  "title": "About us — Diário Causa Operária",
+                  "publisher": "Diário Causa Operária (edição em inglês)",
+                  "url": "https://en.causaoperaria.org.br/about",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Página institucional do jornal diário do partido: registra que o PCO 'has existed as a political current since 1979' e 'has been legalized since 1995', e que o jornal diário existe desde 2003, ao lado do semanário impresso. A página não declara data de publicação; material corrente lido em 29/09/2026."
+                },
+                {
+                  "id": "src-rp-76",
+                  "title": "Universidade Marxista — plataforma online de cursos",
+                  "publisher": "Universidade Marxista (PCO / Fundação João Jorge Costa Pimenta / AJR)",
+                  "url": "https://unimarxista.org.br/",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Plataforma de cursos descrita como ampliação da iniciativa do PCO, da Fundação João Jorge Costa Pimenta e da Aliança da Juventude Revolucionária e das 'universidades de férias', com quase 30 anos de história."
+                }
+              ]
+            },
+            {
+              "date": "21/02/2026",
+              "fact": "A 38ª Conferência Nacional, em São Paulo, fixou a linha do partido para 2026 e a meta de 1.500 novas filiações nas cinco semanas seguintes, antes do fechamento da janela partidária.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-08",
+                  "title": "PCO convoca 38ª Conferência Nacional para 21 de fevereiro",
+                  "publisher": "Partido da Causa Operária (pco.org.br)",
+                  "url": "https://pco.org.br/2026/02/20/pco-convoca-38a-conferencia-nacional-para-21-de-fevereiro",
+                  "publishedAt": "2026-02-20",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Convocação da 38ª Conferência Nacional, realizada em 21/02/2026 no Centro Cultural Benjamin Péret (São Paulo). Registra que 'as deliberações serão submetidas ao conjunto da militância' e que 'o Partido estabeleceu a meta de 1.500 novas filiações nas próximas cinco semanas', antes do fechamento da janela partidária. Lida por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "08/08/2026",
+              "fact": "As convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no Distrito Federal, sem coligações ou federações, com 14 candidaturas ao Senado e 19 ao governo.",
+              "sources": [
+                {
+                  "id": "src-rp-17",
+                  "title": "PCO define candidaturas em 18 estados e no Distrito Federal para as eleições de 2026",
+                  "publisher": "PCO — Partido da Causa Operária",
+                  "url": "https://pco.org.br/2026/08/08/pco-define-candidaturas-em-18-estados-e-no-distrito-federal-para-as-eleicoes-de-2026/",
+                  "publishedAt": "2026-08-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no DF; convenção nacional presidida por Rui Costa Pimenta confirmou a chapa com Antônio Carlos; o texto afirma que 'o Partido concorre isoladamente em todos os cargos, sem coligações ou federações'. Fonte do próprio partido — usada com marcação partidária."
+                }
+              ]
+            },
+            {
+              "date": "ago/2026",
+              "fact": "O programa registrado tem 7 páginas e 15 pontos centrais; o índice oficial da candidatura registra 51 itens em 8 eixos.",
+              "sources": [
+                {
+                  "id": "src-rp-70",
+                  "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+                  "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+                },
+                {
+                  "id": "src-rp-106",
+                  "title": "Planos de candidatos à Presidência têm de 7 a 200 páginas",
+                  "publisher": "Poder360",
+                  "url": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+                  "publishedAt": "2026-08-23",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Levantamento de extensão e estrutura dos planos registrados; descreve o programa do PCO como o mais enxuto (7 páginas, título 'Por salário, trabalho e terra/Revolução, governo operário e comunismo', 15 pontos centrais) e lista pontos como salário mínimo vital de R$ 7.500 com reajuste automático a cada 3% de custo de vida, jornada de 35 horas, dissolução da Polícia Militar, direito ao armamento e autodefesa para trabalhadores do campo e comunidades indígenas e cancelamento de concessões de grandes meios de comunicação. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
+                }
+              ]
+            }
+          ],
+          "divergent": [
+            {
+              "date": "1992–1994",
+              "fact": "Sem partido legalizado, o PCO não pôde lançar candidatos em 1992 e 1994 e apoiou candidatos operários do PT; em 1994 apoiou criticamente a candidatura de Lula, com programa próprio.",
+              "sources": [
+                {
+                  "id": "src-rp-88",
+                  "title": "Uma Breve História do PCO",
+                  "publisher": "Partido da Causa Operária (PCO)",
+                  "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+                }
+              ]
+            },
+            {
+              "date": "1990",
+              "fact": "Cerca de 20 candidatos da corrente a deputado federal e estadual foram cassados pela direção do PT, entre eles Rui Costa Pimenta, conforme o relato do próprio partido.",
+              "sources": [
+                {
+                  "id": "src-rp-88",
+                  "title": "Uma Breve História do PCO",
+                  "publisher": "Partido da Causa Operária (PCO)",
+                  "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+                }
+              ]
+            },
+            {
+              "date": "2006",
+              "fact": "O partido registra que teve as candidaturas presidenciais cassadas 'por um abuso do poder judiciário' e voltou a disputar em 2010 e 2014.",
+              "sources": [
+                {
+                  "id": "src-rp-88",
+                  "title": "Uma Breve História do PCO",
+                  "publisher": "Partido da Causa Operária (PCO)",
+                  "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+                }
+              ]
+            },
+            {
+              "date": "29/09/2026",
+              "fact": "0 deputados federais e 0 senadores nas APIs oficiais; o verbete registra 7.020 filiados (2026) e 0 governadores e 0 prefeitos (2024).",
+              "sources": [
+                {
+                  "id": "src-rp-10",
+                  "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                  "publisher": "Câmara dos Deputados (dados abertos)",
+                  "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+                },
+                {
+                  "id": "src-rp-11",
+                  "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                  "publisher": "Senado Federal (dados abertos)",
+                  "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+                },
+                {
+                  "id": "src-re-r3pais-06",
+                  "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            }
+          ],
+          "noComparablePrecedent": "Não localizamos episódio comparável de dissolução de polícias, de fim do Supremo com juízes eleitos ou de estatização do sistema financeiro na trajetória do PCO: a organização atuou como corrente interna do PT (1980–1995) e, com registro próprio desde 1995, mantém jornal diário e candidaturas presidenciais, sem mandato eletivo nos levantamentos consultados."
+        },
+        "support": {
+          "partySeats": "0/513 deputados federais e 0/81 senadores (APIs oficiais, 29/09/2026)",
+          "coalitionSeats": "0 — concorre isoladamente em todos os cargos, sem coligações ou federações (convenções de 08/08/2026)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 2,
+          "note": "Base partidária: 7.020 filiados (TSE, 2026) e 0 governadores e 0 prefeitos (2024), com 156 candidaturas em 18 estados e no Distrito Federal em 2026. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Ruptura constitucional projetada com 0 cadeiras no Congresso e instrumento não declarado por medida",
+            "detail": "As medidas centrais (fim do teto e da LRF, fim da autonomia do Banco Central, fim do STF com eleição de juízes e procuradores, dissolução das polícias militares) exigem emenda constitucional; o programa de 7 páginas não declara instrumento nem ordem de execução, e o partido tem 0 deputados federais e 0 senadores (29/09/2026).",
+            "sources": [
+              {
+                "id": "src-rp-70",
+                "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+                "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+              },
+              {
+                "id": "src-re-r3propostas-02",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rp-10",
+                "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                "publisher": "Câmara dos Deputados (dados abertos)",
+                "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+              },
+              {
+                "id": "src-rp-11",
+                "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                "publisher": "Senado Federal (dados abertos)",
+                "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Programa afirma que não faz promessas e registra prazos imediatos (aumento em 45 dias e mínimos)",
+            "detail": "O texto declara que o partido 'não participa das eleições para fazer promessas' e trata o pleito como 'uma tribuna (e apenas mais uma) de propaganda', ao mesmo tempo em que fixa aumento emergencial de 50% em 45 dias, mínimo vital de R$ 7.500 com escala móvel e pisos de R$ 8 mil e R$ 8,5 mil para saúde e magistério.",
+            "sources": [
+              {
+                "id": "src-rp-70",
+                "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+                "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+              },
+              {
+                "id": "src-rp-106",
+                "title": "Planos de candidatos à Presidência têm de 7 a 200 páginas",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+                "publishedAt": "2026-08-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Levantamento de extensão e estrutura dos planos registrados; descreve o programa do PCO como o mais enxuto (7 páginas, título 'Por salário, trabalho e terra/Revolução, governo operário e comunismo', 15 pontos centrais) e lista pontos como salário mínimo vital de R$ 7.500 com reajuste automático a cada 3% de custo de vida, jornada de 35 horas, dissolução da Polícia Militar, direito ao armamento e autodefesa para trabalhadores do campo e comunidades indígenas e cancelamento de concessões de grandes meios de comunicação. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Trajetória de corrente interna do PT até 1995 e projeto de ruptura com a ordem vigente em 2026",
+            "detail": "A história registrada é de atuação como corrente interna do PT (1980–1995), de apoio crítico a candidaturas do PT e de disputa eleitoral com registro próprio desde 1995; o programa registrado em 2026 projeta revolução e governo operário, com as eleições descritas como tribuna de propaganda.",
+            "sources": [
+              {
+                "id": "src-rp-88",
+                "title": "Uma Breve História do PCO",
+                "publisher": "Partido da Causa Operária (PCO)",
+                "url": "https://pco.org.br/uma-breve-historia-do-pco",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Histórico oficial do partido: origem em 1978 como Tendência Trotskista do Brasil, com militantes rompidos com a Organização Socialista Internacionalista; primeiro número do jornal Causa Operária em junho de 1979; congresso de fundação da Organização IV Internacional em janeiro de 1980; ingresso no PT em 1980 como fração trotskista conhecida pelo nome do jornal, com a I Conferência Nacional centrada nas greves do ABC. Sem data de publicação na página."
+              },
+              {
+                "id": "src-re-r3pais-06",
+                "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o instrumento e a ordem de execução para o fim do Supremo e a eleição de juízes e procuradores?",
+            "why": "O documento de 7 páginas não declara instrumento nem sequência, e o registro analítico aponta que itens citados em rodadas anteriores não constam do PDF nem do índice oficial."
+          },
+          {
+            "question": "Qual o custo do aumento emergencial de 50% e do mínimo vital de R$ 7.500, e a fonte dos recursos?",
+            "why": "O índice oficial registra 51 itens e o plano não informa custo, arrecadação ou fonte por medida."
+          },
+          {
+            "question": "A meta de 1.500 novas filiações nas cinco semanas seguintes à 38ª Conferência foi alcançada?",
+            "why": "A meta consta da convocação da conferência (fev/2026); não localizamos balanço publicado do período."
+          }
+        ],
+        "publicExplanation": "A explicação está no próprio documento e na convocação da 38ª Conferência: as conquistas viriam da organização e da mobilização, as eleições são tratadas como 'uma tribuna (e apenas mais uma) de propaganda' e as deliberações da conferência foram submetidas ao conjunto da militância.",
+        "methodology": "Apurado sobre o programa registrado no TSE (7 p., 15 pontos, ago/2026), o índice de 51 itens, a história publicada pelo próprio PCO (corrente desde 1978, registro em 1995/1997) e as convenções de 08/08/2026. O candidato nunca exerceu cargo público: o projeto foi examinado contra a trajetória organizativa, sem juízo sobre capacidade futura. Ficou fora o balanço da meta de filiações.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      },
       "sources": [
         {
           "id": "src-rp-70",
@@ -73978,6 +76579,35 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "oficial_eleitoral",
         "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+      },
+      {
+        "id": "src-re-r3pais-06",
+        "title": "Partido da Causa Operária — verbete (fundação em 1995, registro em 1997, filiados e cargos eletivos)",
+        "publisher": "Wikipédia (em português)",
+        "url": "https://pt.wikipedia.org/wiki/Partido_da_Causa_Oper%C3%A1ria",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Verbete: fundação em 07/12/1995, registro definitivo em 30/09/1997, presidente Rui Costa Pimenta; membros 7.020 filiados (2026, TSE); governadores 0/27, prefeitos 0/5.569 (2024), senadores 0/81 e deputados federais 0/513. Página aberta por acesso direto em 29/09/2026."
+      },
+      {
+        "id": "src-re-r3pais-08",
+        "title": "PCO convoca 38ª Conferência Nacional para 21 de fevereiro",
+        "publisher": "Partido da Causa Operária (pco.org.br)",
+        "url": "https://pco.org.br/2026/02/20/pco-convoca-38a-conferencia-nacional-para-21-de-fevereiro",
+        "publishedAt": "2026-02-20",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Convocação da 38ª Conferência Nacional, realizada em 21/02/2026 no Centro Cultural Benjamin Péret (São Paulo). Registra que 'as deliberações serão submetidas ao conjunto da militância' e que 'o Partido estabeleceu a meta de 1.500 novas filiações nas próximas cinco semanas', antes do fechamento da janela partidária. Lida por acesso direto em 29/09/2026."
+      },
+      {
+        "id": "src-re-r3pais-07",
+        "title": "About us — Diário Causa Operária",
+        "publisher": "Diário Causa Operária (edição em inglês)",
+        "url": "https://en.causaoperaria.org.br/about",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Página institucional do jornal diário do partido: registra que o PCO 'has existed as a political current since 1979' e 'has been legalized since 1995', e que o jornal diário existe desde 2003, ao lado do semanário impresso. A página não declara data de publicação; material corrente lido em 29/09/2026."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -75322,6 +77952,238 @@ export const researched: Partial<Candidate>[] = [
         "direitos das mulheres e combate à discriminação"
       ],
       "developmentModel": "O modelo declarado é de superação do capitalismo: controle social dos monopólios e dos meios de produção nos setores estratégicos, planificação da economia para acabar com desigualdades regionais e sociais, nacionalização do sistema bancário (e, na versão corrigida de 16 propostas, também dos planos de saúde privados), reestatização das empresas privatizadas, estatização dos transportes coletivos e suspensão do pagamento da dívida pública seguida de auditoria. O programa defende ainda reajuste de 100% do salário mínimo como medida emergencial do primeiro momento de governo, fim da escala 6x1 com redução da jornada sem redução salarial, revogação das reformas trabalhista e da Previdência, isenção de impostos para trabalhadores, taxação de grandes fortunas, fim de subsídios fiscais e financeiros a monopólios, exigência de que políticos usem exclusivamente a saúde e a educação públicas, destinação de 10% do PIB para a educação e fim de vestibular e processos seletivos no acesso ao ensino público. Ciência e reindustrialização aparecem como eixos de desenvolvimento; o meio ambiente comparece pela proteção da Amazônia e dos biomas, pela demarcação de terras indígenas e pela oposição declarada à entrega de terras raras brasileiras a outros países; a desigualdade é tratada como resultado do sistema capitalista, a ser superado por controle público e planificação, não administrado. A candidata rejeita federação e coligação partidária na disputa presidencial (chapa própria, 100% feminina).",
+      "reality": {
+        "proposal": "Programa 'Governo Popular dos Trabalhadores': controle público dos setores estratégicos, reajuste de 100% do mínimo e fim da escala 6x1",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O programa reúne mudanças que dependem de emenda (fim da escala 6x1 e jornada de 30 horas, desmilitarização das polícias estaduais, eleição de juízes, nacionalização do sistema bancário), de lei complementar (imposto sobre grandes fortunas, ainda sem regra editada) e de decisão sobre a dívida pública, cuja suspensão alcança contratos e credores."
+        },
+        "history": {
+          "aligned": [
+            {
+              "date": "2019-2022",
+              "fact": "Programa nacional da UP aprovado nos congressos de 2019 e 2021 serviu de base ao documento de governo de 2022, do qual a candidata foi vice",
+              "sources": [
+                {
+                  "id": "src-sm-93",
+                  "title": "Proposta de governo da candidatura Leonardo Péricles e Samara Martins (2022) — documento registrado",
+                  "publisher": "TSE — DivulgaCandContas",
+                  "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280010871023",
+                  "publishedAt": "2022",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "oficial_eleitoral",
+                  "notes": "Documento de 2022: derivação do programa nacional da UP aprovado nos congressos de 2019 e 2021."
+                }
+              ]
+            },
+            {
+              "date": "2022-10",
+              "fact": "Após o primeiro turno, o partido anunciou apoio a Lula no segundo turno, depois de obter 0,05% dos votos válidos na chapa própria",
+              "sources": [
+                {
+                  "id": "src-sm-33",
+                  "title": "Léo Péricles e Unidade Popular anunciam apoio a Lula no segundo turno das eleições",
+                  "publisher": "g1 (Globo)",
+                  "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/10/leo-pericles-e-unidade-popular-anunciam-apoio-a-lula-no-segundo-turno-das-eleicoes.ghtml",
+                  "publishedAt": "2022-10-10",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa"
+                }
+              ]
+            },
+            {
+              "date": "2026-07",
+              "fact": "Chapa 100% feminina oficializada em 26/07/2026, com candidatura própria e sem federação; a candidata é vice-presidente nacional do UP",
+              "sources": [
+                {
+                  "id": "src-sm-01",
+                  "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+                  "publisher": "Unidade Popular (site oficial do partido)",
+                  "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+                  "publishedAt": "2026-07-26",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "partidaria",
+                  "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+                }
+              ]
+            }
+          ],
+          "divergent": [
+            {
+              "date": "2026-08",
+              "fact": "O arquivo protocolado no TSE reproduzia o plano de 2022; outra versão foi anexada em 16/08 e a campanha passou a citar o documento de 67 páginas",
+              "sources": [
+                {
+                  "id": "src-sm-42",
+                  "title": "Samara Martins registra candidatura no TSE, mas plano de governo protocolado é o de 2022",
+                  "publisher": "Canal MyNews",
+                  "url": "https://canalmynews.com.br/eleicoes-2026/samara-martins-candidatura-tse-plano-governo/",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Relata o envio da versão de 2022 por falha interna e a versão corrigida de 16 propostas (reajuste de 100% do salário mínimo, fim da escala 6x1, 36 horas, suspensão da dívida pública, nacionalização de bancos e de planos de saúde)."
+                },
+                {
+                  "id": "src-sm-92",
+                  "title": "Candidata à Presidência registra plano de governo de duas páginas e é criticada nas redes",
+                  "publisher": "Folha de S.Paulo (#Hashtag)",
+                  "url": "https://www1.folha.uol.com.br/blogs/hashtag/2026/08/candidata-a-presidencia-registra-plano-de-governo-de-duas-paginas-e-e-criticada-nas-redes.shtml",
+                  "publishedAt": "2026-08-18",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Documento com 16 pontos em uma página e meia, 'reajuste de 100% do salário mínimo', revogação das reformas trabalhistas e da Previdência, documento pula do ponto três para o cinco; partido anexou outra versão em 16/08 e a nova versão tem 67 páginas e cerca de 20 eixos."
+                }
+              ]
+            }
+          ],
+          "noComparablePrecedent": "Nenhum mandato ou cargo de nomeação: as candidaturas de 2020 e 2022 não resultaram em eleição. O registro comparável vem da direção nacional do UP, da militância (movimento de mulheres e frente negra) e do trabalho como cirurgiã-dentista do SUS; não há orçamento público ou votação nominal para comparar."
+        },
+        "support": {
+          "partySeats": "0 de 513 deputados federais e 0 de 81 senadores (UP, legislatura 2023-2027)",
+          "coalitionSeats": "Partido isolado: chapa pura do UP (nº 80), 100% feminina, sem coligação ou federação; vice Raquel Brício (UP)",
+          "federations": "Nenhuma",
+          "documentedAgreements": 2,
+          "note": "Retrato atual, não previsão do próximo Congresso. UP: 0 de 513 deputados federais, 0 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores; R$ 0 de Fundo Eleitoral e de Fundo Partidário em 2026; 188 candidaturas no país, incluindo 17 a governos estaduais. Em 2022 a chapa própria obteve 0,05% dos votos válidos."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Nacionalização, jornada de 30 h e desmilitarização exigem emenda e lei complementar com 0 cadeiras",
+            "detail": "O programa prevê nacionalização do sistema bancário, jornada de 30 horas, desmilitarização das polícias estaduais e eleição de juízes, alterações que passam por emenda constitucional (308 deputados e 49 senadores, em dois turnos em cada Casa), além do imposto sobre grandes fortunas, que depende de lei complementar (257 deputados e 41 senadores). O UP não tem cadeiras na Câmara nem no Senado.",
+            "sources": [
+              {
+                "id": "src-re-r2pais-01",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+              },
+              {
+                "id": "src-re-r2propostas-03",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 7º, XIII; 18, §4º; 21, XXIII; 136; 144; 155, III; 184; 192; 207)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Texto constitucional usado para conferir quóruns, competências e procedimentos citados nas tensões."
+              },
+              {
+                "id": "src-sm-13",
+                "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice: estrutura, bancadas (0), filiados, ala feminina."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-x-outra-proposta",
+            "title": "Receitas previstas (grandes fortunas, fim de subsídios, suspensão da dívida) sem estimativa no programa",
+            "detail": "O programa prevê financiar as medidas com imposto sobre grandes fortunas, fim de subsídios fiscais e financeiros a monopólios e suspensão do pagamento da dívida seguida de auditoria, sem estimativa de arrecadação ou de economia por medida; o partido recebeu R$ 0 de Fundo Partidário e Eleitoral em 2026 e lança 188 candidaturas no país.",
+            "sources": [
+              {
+                "id": "src-sm-41",
+                "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+                "publisher": "Poder360 (espelho do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+              },
+              {
+                "id": "src-sm-19",
+                "title": "UP 2026: fundos, repasses e candidatos",
+                "publisher": "Plural (levantamento com dados do TSE)",
+                "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+              },
+              {
+                "id": "src-sm-42",
+                "title": "Samara Martins registra candidatura no TSE, mas plano de governo protocolado é o de 2022",
+                "publisher": "Canal MyNews",
+                "url": "https://canalmynews.com.br/eleicoes-2026/samara-martins-candidatura-tse-plano-governo/",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Relata o envio da versão de 2022 por falha interna e a versão corrigida de 16 propostas (reajuste de 100% do salário mínimo, fim da escala 6x1, 36 horas, suspensão da dívida pública, nacionalização de bancos e de planos de saúde)."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "proposta-sem-precedente",
+            "title": "Planificação, controle estatal de preços e comércio exterior sem episódio comparável na trajetória",
+            "detail": "O controle estatal de preços dos alimentos, a estatização do comércio exterior e a planificação da economia não têm episódio de execução na trajetória apurada, de partido, sindicato e militância. Não localizamos acordo formal, ata ou mesa de negociação com bancadas ou governos sobre a execução desses eixos.",
+            "sources": [
+              {
+                "id": "src-sm-41",
+                "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+                "publisher": "Poder360 (espelho do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+              },
+              {
+                "id": "src-sm-15",
+                "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+                "publisher": "Paraíba Online",
+                "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+                "publishedAt": "2026-07-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Candidatura própria sem coligações; propostas de valorização do salário mínimo e fim da 6×1."
+              },
+              {
+                "id": "src-sm-93",
+                "title": "Proposta de governo da candidatura Leonardo Péricles e Samara Martins (2022) — documento registrado",
+                "publisher": "TSE — DivulgaCandContas",
+                "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280010871023",
+                "publishedAt": "2022",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Documento de 2022: derivação do programa nacional da UP aprovado nos congressos de 2019 e 2021."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o custo anual consolidado do conjunto e em que ordem as medidas entrariam em vigor?",
+            "why": "Reajuste de 100% do mínimo, auxílio de um salário mínimo a quem não tiver vaga, 10% do PIB para educação e auditoria da dívida são declarados sem estimativa nas fontes consultadas; o partido não recebeu fundos públicos em 2026."
+          },
+          {
+            "question": "Como o programa seria negociado no Congresso sem bancada, e qual a primeira votação prevista?",
+            "why": "As medidas dos 100 dias dependem de emenda e de lei complementar; o partido tem 0 cadeiras na Câmara e no Senado e não registrou coligação ou federação. Não localizamos cronograma legislativo no programa."
+          },
+          {
+            "question": "Há compromissos escritos com as entidades sindicais e movimentos que sustentam a chapa?",
+            "why": "A vice-presidente da chapa preside sindicato portuário e a candidata firmou compromissos de campanha com pautas sindicais e populares; não localizamos atas ou acordos programáticos formalizados."
+          }
+        ],
+        "publicExplanation": "A candidata declarou em 18/08/2026 que o texto inicial foi registrado no TSE 'pela exigência legal' enquanto o programa definitivo estava em revisão, e afirmou em 12/08/2026 que 'a negociação política deve colocar o programa acima das pessoas'. Não localizamos explicação pública de custeio do conjunto.",
+        "methodology": "Base: programa apresentado pela campanha (67 páginas, lido integralmente), versão de 16 propostas, cobertura de 2026 (Folha, Estadão, Metrópoles) e atos de partido e sindicato. Nenhum dos cinco exerceu cargo executivo: o comparável de Samara Martins vem da direção nacional do UP, da militância e do trabalho no SUS. Ficou fora a leitura direta do arquivo oficial do TSE.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium"
+      },
       "sources": [
         {
           "id": "src-sm-41",
@@ -80399,6 +83261,16 @@ export const researched: Partial<Candidate>[] = [
         "sourceType": "imprensa",
         "publishedAt": "2026-09-29",
         "accessedAt": ""
+      },
+      {
+        "id": "src-re-r2pais-01",
+        "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+        "publisher": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+        "publishedAt": "1988-10-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -81663,6 +84535,287 @@ export const researched: Partial<Candidate>[] = [
         "Estado digital, desburocratização e transparência (Método D35, integração de bases de dados e painel de indicadores)"
       ],
       "developmentModel": "Modelo declarado no Método D35 (desburocratizar, desonerar, digitalizar, democratizar, desenvolver): 'crescer reduzindo atrito, não expandindo gasto', deslocando o peso tributário do trabalho e da produção para uma base ampla e difícil de sonegar — a movimentação financeira, com arrecadação automática dentro do sistema bancário e sem declaração do contribuinte; ICMS e ISS ficam fora por pertencerem a estados e municípios. Papel atribuído ao Estado: licenciar rápido, garantir estabilidade regulatória, reduzir obrigações acessórias, integrar bases de dados federais e publicar indicadores verificáveis; o plano declara não apresentar valores orçamentários medida a medida e evitar prometer o que a Presidência não decide sozinha (reforma tributária por emenda constitucional; segurança compartilhada com estados; ensino fundamental municipal). Setor privado: execução em infraestrutura pelo regime de autorização ferroviária, com priorização por custo logístico por tonelada publicado por corredor, integração ferrovia-porto, hidrovia e cabotagem. Defesa: apoio à PEC 55/2023, com piso gradual de 2% do PIB e no mínimo 35% do valor vinculado à modernização, e recomposição de soldos concentrada na base da pirâmide. Tecnologia e educação: PEC da Pesquisa para transformar bolsistas em servidores públicos concursados; repasses federais à alfabetização condicionados a resultados em avaliações externas. Meio ambiente e questão indígena: cobrança das metas do marco legal do saneamento, prazos com responsáveis nomeados no licenciamento ambiental e projeto de lei regulamentando mineração em terra indígena com consulta prévia, participação econômica direta e proibição do uso de mercúrio. Trabalho e desigualdade aparecem nos eixos de emprego e renda (desoneração da contratação formal e cursos condicionados à demanda de contratação regional) e de habitação (portabilidade do aluguel para financiamento e titulação em massa).",
+      "reality": {
+        "proposal": "Democrata (TSE, 02/08/2026): 'Brasil em Primeiro Lugar' — Imposto Único Federal sobre movimentação financeira e painel de metas nos 100 dias iniciais.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O plano prevê emenda enviada entre os dias 60 e 100 para substituir nove tributos federais por Imposto Único Federal sobre movimentação financeira, com lei complementar e transição de anos; declara que ICMS e ISS ficam fora (estados e municípios), que a segurança é compartilhada com os estados e que o ensino fundamental é municipal, e parte da agenda dos 100 dias é por decreto."
+        },
+        "history": {
+          "aligned": [
+            {
+              "date": "2008–2015",
+              "fact": "O partido foi fundado em 13/09/2008 como Partido da Mulher Brasileira e obteve registro definitivo no TSE em 29/09/2015, como 35ª legenda.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-09",
+                  "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "dez/2025",
+              "fact": "O TSE autorizou a mudança de nome para Democrata, noticiada pelo Tribunal em dezembro de 2025.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-10",
+                  "title": "Partido da Mulher Brasileira (PMB) passará a se chamar Democrata",
+                  "publisher": "Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/comunicacao/noticias/2025/Dezembro/partido-da-mulher-brasileira-pmb-passara-a-se-chamar-democrata",
+                  "publishedAt": "2025-12-02",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Notícia oficial do TSE sobre a autorização da mudança de nome para Democrata, citada como referência no verbete do partido. O acesso automatizado respondeu HTTP 403 em 29/09/2026; a API de disponibilidade do Internet Archive indica snapshot de 28/06/2026, e o conteúdo foi conferido pelas referências datadas que reproduzem a decisão."
+                },
+                {
+                  "id": "src-re-r3pais-09",
+                  "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "02/08/2026",
+              "fact": "A convenção nacional, no Rio de Janeiro, oficializou a primeira candidatura presidencial do partido (Wilson Grassi/Suêd Haidar, presidente e fundadora) e o plano de 58 páginas.",
+              "sources": [
+                {
+                  "id": "src-wg-04",
+                  "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+                  "publisher": "Wikipédia",
+                  "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+                },
+                {
+                  "id": "src-wg-70",
+                  "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+                  "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+                }
+              ]
+            },
+            {
+              "date": "2026",
+              "fact": "O plano organiza 44 propostas em 8 eixos no índice oficial e declara instrumento, forma de medição e prazo por eixo, além do cronograma dos cem primeiros dias.",
+              "sources": [
+                {
+                  "id": "src-wg-70",
+                  "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+                  "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+                  "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                  "publishedAt": "2026-08",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "plano_de_governo",
+                  "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+                },
+                {
+                  "id": "src-wg-15",
+                  "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                  "publisher": "Câmara dos Deputados (dados abertos)",
+                  "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+                }
+              ]
+            }
+          ],
+          "divergent": [
+            {
+              "date": "dez/2015–2016",
+              "fact": "O PMB atraiu 20 deputados federais em duas semanas (dez/2015) e, em 2016, foi apontado como o menor partido do Congresso.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-09",
+                  "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "2021–2022",
+              "fact": "A tentativa de mudar o nome para 'Brasil 35' foi negada pelo TSE em abril de 2022 e o partido ficou de fora do grupo que alcançou a cláusula de barreira no mesmo ano.",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-09",
+                  "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+                }
+              ]
+            },
+            {
+              "date": "2022–2024",
+              "fact": "O partido elegeu 3 deputados estaduais (2022), 2 prefeitos e 107 vereadores (2024); tem 0 deputados federais e 0 senadores e 54.956 filiados (2026).",
+              "sources": [
+                {
+                  "id": "src-re-r3pais-09",
+                  "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                  "publisher": "Wikipédia (em português)",
+                  "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "imprensa",
+                  "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+                },
+                {
+                  "id": "src-wg-15",
+                  "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+                  "publisher": "Câmara dos Deputados (dados abertos)",
+                  "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+                },
+                {
+                  "id": "src-wg-16",
+                  "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+                  "publisher": "Senado Federal (dados abertos)",
+                  "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+                  "publishedAt": "2026-09-29",
+                  "accessedAt": "2026-09-29",
+                  "sourceType": "legislativo",
+                  "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do Democrata."
+                }
+              ]
+            }
+          ],
+          "noComparablePrecedent": "Não localizamos episódio comparável de aplicação do Método D35 ou de um Imposto Único Federal sobre movimentação financeira na trajetória do partido e do candidato: o Democrata faz em 2026 a sua primeira candidatura presidencial (fundado em 2008, registrado em 2015) e o candidato nunca exerceu cargo público."
+        },
+        "support": {
+          "partySeats": "0/513 deputados federais e 0/81 senadores (APIs oficiais, 29/09/2026)",
+          "coalitionSeats": "0 — chapa pura, sem coligação",
+          "federations": "Nenhuma",
+          "documentedAgreements": 2,
+          "note": "Base partidária: 54.956 filiados (TSE, 2026); 3 deputados estaduais (2022), 2 prefeitos e 107 vereadores (2024). O plano declara prazos e forma de medição por eixo. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 2 episódio(s) no histórico de negociação apurado."
+        },
+        "tensions": [
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Reforma central por emenda com base eletiva municipal e estadual e nenhuma cadeira federal",
+            "detail": "O plano prevê emenda entre os dias 60 e 100 para o Imposto Único Federal e declara que ICMS e ISS permanecem com estados e municípios, que a segurança é compartilhada com os estados e o ensino fundamental é municipal; o partido tem 0 deputados federais e 0 senadores e sua base eletiva é de 3 deputados estaduais, 2 prefeitos e 107 vereadores (2022–2024).",
+            "sources": [
+              {
+                "id": "src-wg-70",
+                "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+                "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+              },
+              {
+                "id": "src-re-r3propostas-02",
+                "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 5º, 7º, 49, 144, 153, 166, 192, 198, 199)",
+                "publisher": "Presidência da República — Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+                "publishedAt": "1988-10-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-re-r3pais-09",
+                "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "kind": "mudanca-de-posicao",
+            "title": "Agenda de fundação do partido em 2008 e plano de 2026 sobre tributos, segurança e saúde",
+            "detail": "O partido foi fundado em 2008 como Partido da Mulher Brasileira, tentou mudar o nome para 'Brasil 35' em 2021 (negado em 2022) e foi renomeado Democrata em dezembro de 2025; o plano de 2026 é assinado por Wilson Grassi e Suêd Haidar e organiza 14 eixos com tributos, segurança, saúde e infraestrutura.",
+            "sources": [
+              {
+                "id": "src-re-r3pais-09",
+                "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+                "publisher": "Wikipédia (em português)",
+                "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
+              },
+              {
+                "id": "src-re-r3pais-10",
+                "title": "Partido da Mulher Brasileira (PMB) passará a se chamar Democrata",
+                "publisher": "Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2025/Dezembro/partido-da-mulher-brasileira-pmb-passara-a-se-chamar-democrata",
+                "publishedAt": "2025-12-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Notícia oficial do TSE sobre a autorização da mudança de nome para Democrata, citada como referência no verbete do partido. O acesso automatizado respondeu HTTP 403 em 29/09/2026; a API de disponibilidade do Internet Archive indica snapshot de 28/06/2026, e o conteúdo foi conferido pelas referências datadas que reproduzem a decisão."
+              },
+              {
+                "id": "src-wg-70",
+                "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+                "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual o parâmetro de receita do Imposto Único Federal e o que ocorre se a arrecadação não cobrir os tributos substituídos?",
+            "why": "O plano declara não apresentar valores orçamentários medida a medida e não localizamos estimativa de arrecadação por alíquota."
+          },
+          {
+            "question": "Como o plano trata os tributos que ficam fora da substituição (ICMS e ISS)?",
+            "why": "O próprio documento declara que ICMS e ISS ficam fora por pertencerem a estados e municípios, sem indicar coordenação federativa."
+          },
+          {
+            "question": "Quais indicadores compõem o painel dos 100 dias e por qual ato serão publicados?",
+            "why": "O plano cita painel aberto por decreto e interoperabilidade de bases federais; não localizamos a lista de indicadores publicada."
+          }
+        ],
+        "publicExplanation": "A campanha apresenta o Método D35 e o painel de indicadores como forma de dar previsibilidade e medição às promessas; o documento declara evitar prometer o que a Presidência não decide sozinha e, ao comentar propostas ausentes do plano, o candidato atribuiu a exclusão ao partido, que 'não deixaria' apresentá-las.",
+        "methodology": "Apurado sobre o plano registrado no TSE ('Brasil em Primeiro Lugar', 58 p., 2027–2030, 14 eixos), o histórico do partido (fundação em 2008, registro em 2015) e as APIs oficiais. O candidato nunca exerceu cargo público: o projeto foi examinado contra a trajetória organizativa do partido, sem juízo sobre capacidade futura. Ficaram fora estimativas por alíquota e a lista de indicadores do painel.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium"
+      },
       "sources": [
         {
           "id": "src-wg-70",
@@ -89038,6 +92191,26 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "oficial_eleitoral",
         "notes": "Nota oficial do TSE com a lista de legendas sem recursos do Fundo Partidário em 2025."
+      },
+      {
+        "id": "src-re-r3pais-10",
+        "title": "Partido da Mulher Brasileira (PMB) passará a se chamar Democrata",
+        "publisher": "Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2025/Dezembro/partido-da-mulher-brasileira-pmb-passara-a-se-chamar-democrata",
+        "publishedAt": "2025-12-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Notícia oficial do TSE sobre a autorização da mudança de nome para Democrata, citada como referência no verbete do partido. O acesso automatizado respondeu HTTP 403 em 29/09/2026; a API de disponibilidade do Internet Archive indica snapshot de 28/06/2026, e o conteúdo foi conferido pelas referências datadas que reproduzem a decisão."
+      },
+      {
+        "id": "src-re-r3pais-09",
+        "title": "Democrata (Brasil) — verbete (fundação em 2008 como PMB, registro em 2015, mudança de nome em 2025, filiados e cargos eletivos)",
+        "publisher": "Wikipédia (em português)",
+        "url": "https://pt.wikipedia.org/wiki/Democrata_(Brasil)",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Verbete com infobox e referências datadas: fundação em 13/09/2008 como Partido da Mulher Brasileira; registro definitivo no TSE em 29/09/2015 (35ª legenda, Folha de 30/09/2015); 'atrai 20 deputados em 2 semanas' (O Globo, dez/2015); tentativa de mudança de nome para 'Brasil 35' (2021) negada pelo TSE em abril de 2022; cláusula de barreira de 2022 (Senado, 17/10/2022); mudança de nome para Democrata (TSE, dez/2025); filiados 54.956 (2026); prefeitos 2/5.569 e vereadores 107/58.026 (2024); deputados estaduais 3/1.024 (2022); senadores 0/81 e deputados federais 0/513 (2026). Página aberta por acesso direto em 29/09/2026."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -90949,6 +94122,205 @@ export const researched: Partial<Candidate>[] = [
         "Educação básica e educação superior, ciência e tecnologia"
       ],
       "developmentModel": "O plano atribui ao Estado o papel de regulação e fiscalização e propõe que ele deixe de participar diretamente de atividades produtivas e comerciais, com privatização de todas as empresas estatais, uso de PPPs e concessões e criação de alternativa ao Fundo Eleitoral e ao Fundo Partidário. O crescimento é associado à queda dos juros via choque fiscal, à simplificação de impostos, à segurança jurídica e à infraestrutura, com atração de investimento em data centers, inteligência artificial, energia limpa e minerais críticos (terras raras, nióbio e lítio), aproveitando a matriz elétrica com 88% de fontes renováveis e a posição declarada de neutralidade na disputa entre Estados Unidos e China. No mercado de trabalho, propõe regime de contratação alternativo à CLT, com 'prevalência do negociado sobre o legislado', buscando um sistema que 'combine liberdade econômica, proteção social e mais oportunidades'. O desenvolvimento social inclui o depósito de R$ 1.000 ao nascer ('Sócios do Brasil'), condicionamento do Bolsa Família à aceitação de ofertas formais para adultos aptos ao trabalho e uma nova reforma da Previdência com gatilho automático de idade mínima e desvinculação do salário mínimo. Meio ambiente aparece como área própria (agronegócio e meio ambiente em capítulos separados) e a política externa inclui saída do BRICS, ingresso na OCDE e Mercosul como zona de livre comércio.",
+      "reality": {
+        "proposal": "Choque institucional: choque fiscal para estabilizar a dívida, privatizar todas as estatais, reformar o Judiciário e a Previdência por gatilho.",
+        "requirement": {
+          "path": "pec",
+          "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+          "note": "O item mais exigente é emenda constitucional: reforma do Judiciário com corregedoria independente para o STF, nova Previdência com reajuste automático da idade mínima (estados, municípios, rural e militar) e limites a decisões do STF. A expressão 'emenda à Constituição' não aparece no texto integral lido; privatizar todas as estatais e extinguir os fundos eleitoral e partidário exigem leis e emenda; sair do BRICS e converter o Mercosul em zona de livre comércio dependem de negociação internacional e do Congresso."
+        },
+        "history": {
+          "aligned": [
+            "2019: reforma administrativa estadual reduziu de 21 para 12 secretarias (PL 367/19; Lei 23.304/2019).",
+            "2020: reforma da Previdência estadual aprovada por lei (PLC 46/2020; LC 156/2020), com regras de idade mínima na EC 104/2020.",
+            "2025-2026: Minas aderiu ao Propag (Lei 25.282/2025) e a privatização da Copasa foi concluída em 16/06/2026 (R$ 8,38 bi na venda).",
+            "09/05/2023: lançou em Nova York o projeto 'Vale do Lítio' para atrair mineradoras, eixo que o plano retoma (terras raras, nióbio e lítio)."
+          ],
+          "divergent": [
+            "10/12/2025 e 15/01/2026: o orçamento de Minas para 2026 foi aprovado pela ALMG e sancionado com déficit previsto de R$ 5,2 bilhões.",
+            "27/03/2026 e agosto/2026: reportagens registram aposta em privatizações e venda de ativos para enfrentar o déficit, caixa negativo e alta de renúncias.",
+            "2024: parecer citado pela Folha, o conselho do RRF e o Tesouro Nacional apontaram que o aumento de 300% para governador, vice e secretários contrariava o regime de recuperação fiscal.",
+            "2022-2026: a privatização da Cemig não avançou; em junho/2026, o governador afirmou que o sucessor levaria a venda adiante."
+          ]
+        },
+        "support": {
+          "partySeats": "NOVO: 5 de 513 deputados e nenhum senador em exercício (APIs oficiais, 29/09/2026; o vice Eduardo Girão é senador licenciado pelo Ceará)",
+          "coalitionSeats": "Partido isolado (NOVO), sem coligação ou federação; vice Eduardo Girão (NOVO), confirmado em 04/08/2026",
+          "federations": "Nenhuma",
+          "documentedAgreements": 5,
+          "note": "As mudanças propostas exigem PEC e leis; a base observável é o NOVO com 5 deputados federais e nenhum senador em exercício (29/09/2026), em chapa de partido isolado. Retrato atual, não previsão do próximo Congresso. Acordos documentados: 5 episódio(s) no histórico de negociação apurado."
+        },
+        "tensions": [
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "'Choque fiscal' no plano federal e contas estaduais com déficit previsto e caixa negativo",
+            "detail": "O orçamento de Minas para 2026 foi sancionado em 15/01/2026 com déficit previsto de R$ 5,2 bilhões após aprovação na ALMG em 10/12/2025; em 27/03/2026 reportagem registrou aposta em privatizações e venda de ativos para enfrentar o déficit e, em agosto/2026, caixa negativo e alta de renúncias.",
+            "sources": [
+              {
+                "id": "src-zema-08",
+                "title": "Zema sanciona orçamento de MG para 2026 com déficit de R$ 5,2 bilhões",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/01/15/zema-sanciona-orcamento-de-mg-para-2026-com-deficit-de-r-52-bilhoes.ghtml",
+                "publishedAt": "2026-01-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-zema-06",
+                "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)",
+                "publisher": "ALMG",
+                "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/",
+                "publishedAt": "2025-12-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual"
+              },
+              {
+                "id": "src-zema-140",
+                "title": "Zema aposta em privatizações e venda de ativos para enfrentar déficit em MG",
+                "publisher": "Valor Econômico — Revista Minas Gerais",
+                "url": "https://valor.globo.com/publicacoes/especiais/revista-minas-gerais/noticia/2026/03/27/zema-aposta-em-privatizacoes-e-venda-de-ativos-para-enfrentar-deficit-em-mg.ghtml",
+                "publishedAt": "2026-03-27",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra déficit de R$ 5,2 bilhões e dívida de R$ 187 bilhões, e a aposta em privatizações e venda de ativos no fim do governo Zema."
+              },
+              {
+                "id": "src-re-r1propostas-50",
+                "title": "Contas de Zema em MG têm melhora, mas caixa segue negativo e renúncias disparam",
+                "publisher": "Política Livre",
+                "url": "https://www.politicalivre.com.br/2026/08/contas-de-zema-em-mg-tem-melhora-mas-caixa-segue-negativo-e-renuncias-disparam",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-08",
+                "accessedAt": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "proposta-x-restricao-institucional",
+            "title": "Reforma do Judiciário, nova Previdência e privatizações exigem PEC e leis com bancada de 5 deputados",
+            "detail": "O plano propõe corregedoria independente para o STF, reajuste automático da idade mínima da Previdência e privatização de todas as estatais, sem nomear o instrumento; em 29/09/2026 o NOVO tinha 5 deputados federais e nenhum senador em exercício nas listas oficiais, e a chapa foi registrada como partido isolado.",
+            "sources": [
+              {
+                "id": "src-zema-12",
+                "title": "Plano de governo Zema 2026 — PDF",
+                "publisher": "Poder360 (espelho do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Mês inferido da URL."
+              },
+              {
+                "id": "src-re-r1capacidades-02",
+                "title": "Parlamentares em exercício por partido — Dados Abertos do Senado Federal (consulta em 29/09/2026)",
+                "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json",
+                "publisher": "Senado Federal — Dados Abertos",
+                "notes": "81 senadores em exercício: PL 15; PSD 14; MDB 9; PT 9; PSB 7; PP 7; Republicanos 6; PSDB 4; União 3; Pode 3; PDT 2; Avante 1; S/Partido 1. O NOVO não aparece na lista de exercício.",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-09-29",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1capacidades-03",
+                "title": "Deputados federais por partido — API de Dados Abertos da Câmara dos Deputados (consulta em 29/09/2026)",
+                "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PL&itens=100&ordem=ASC&ordenarPor=nome",
+                "publisher": "Câmara dos Deputados — Dados Abertos",
+                "notes": "Consulta por sigla em 29/09/2026: PL 98; PT 65; PSD 48; NOVO 5, de 513 cadeiras.",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-09-29",
+                "accessedAt": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "kind": "acao-em-sentido-diferente",
+            "title": "Meta de privatizar todas as estatais: Copasa concluída em 2026 e Cemig fora da agenda",
+            "detail": "A ALMG aprovou a privatização da Copasa em dez/2025 e a operação foi concluída em 16/06/2026 (R$ 8,38 bi na venda; R$ 13,9 bi arrecadados no total); o estudo de transformar a Cemig em corporação de 2022 não avançou e, em 2026, reportagem registrou que a privatização saiu do radar, com declaração de que o sucessor levaria a venda adiante.",
+            "sources": [
+              {
+                "id": "src-re-r1propostas-40",
+                "title": "Proposta que facilita privatização da Copasa é aprovada em definitivo",
+                "publisher": "Assembleia Legislativa de Minas Gerais",
+                "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Proposta-que-facilita-privatizacao-da-Copasa-e-aprovada-em-definitivo",
+                "notes": "PEC aprovada em 2º turno retirou a exigência de referendo prevista na Constituição estadual para a Copasa.",
+                "sourceType": "legislativo",
+                "publishedAt": "2025-11-05",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-38",
+                "title": "Privatização da Copasa é concluída; venda movimentou R$ 8,38 bilhões",
+                "publisher": "g1 Minas",
+                "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/16/privatizacao-da-copasa-liquidacao.ghtml",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-06-16",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-39",
+                "title": "Com privatização da Copasa concluída, governo de Minas arrecada R$ 13,9 bi",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/empresas/noticia/2026/06/11/com-privatizacao-da-copasa-concluida-governo-de-minas-arrecada-r-139-bi.ghtml",
+                "sourceType": "imprensa",
+                "publishedAt": "2026-06-11",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-44",
+                "title": "Minas Gerais governor studies turning power utility into corporation (tentativa de privatização da Cemig em 2022)",
+                "publisher": "Valor International",
+                "url": "https://valorinternational.globo.com/business/news/2022/12/27/minas-gerais-governor-studies-turning-power-utility-into-corporation.ghtml",
+                "sourceType": "imprensa",
+                "publishedAt": "2022-12-27",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-re-r1propostas-45",
+                "title": "Privatização da Cemig sai do radar com a eleição em Minas Gerais",
+                "publisher": "Investidor10",
+                "url": "https://investidor10.com.br/noticias/privatizacao-da-cemig-cmig4-sai-do-radar-com-eleicao-em-minas-gerais-122742/",
+                "sourceType": "imprensa",
+                "publishedAt": "2026",
+                "accessedAt": ""
+              },
+              {
+                "id": "src-zema-142",
+                "title": "Zema diz que sucessor em MG vai levar adiante privatização da Cemig",
+                "publisher": "UOL Notícias (Agência Estado)",
+                "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/15/zema-diz-que-sucessor-em-mg-vai-levar-adiante-privatizacao-da-cemig.amp.htm",
+                "publishedAt": "2026-06-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Declaração de 15/06/2026 sobre a continuidade do programa de privatização para além do seu mandato."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "openQuestions": [
+          {
+            "question": "Qual é o valor do choque fiscal, a lista de despesas alcançadas e o prazo da trajetória da dívida?",
+            "why": "O plano fixa metas progressivas de redução da carga tributária e o objetivo de estabilizar a dívida, sem valores de corte, cronograma nem memória de cálculo da meta de juros citada em sabatina."
+          },
+          {
+            "question": "Qual é o instrumento previsto para o gatilho automático da idade mínima e para a corregedoria do STF?",
+            "why": "O documento não cita 'emenda à Constituição' no texto integral; as duas medidas alteram regras constitucionais e o plano não anexa minuta nem caminho de tramitação."
+          },
+          {
+            "question": "Qual é o custo estimado do depósito de R$ 1.000 a cada recém-nascido e a fonte dos recursos?",
+            "why": "A campanha estimou cerca de R$ 2,5 bilhões por ano em reportagem de 06/09/2026; o plano vincula a receita ao combate à corrupção, sem memória de cálculo."
+          }
+        ],
+        "publicExplanation": "Na carta de abertura do plano, descreve Minas em 2019 com 'contas no vermelho' e servidores sem salário; em 27/03/2026, reportagem registra que o governo aposta em privatizações e venda de ativos para enfrentar o déficit.",
+        "methodology": "Apurado pela leitura integral do PDF do plano (81 páginas; carta de abertura e 20 áreas), por leis orçamentárias e atos do governo de Minas (2019-2026) e por registros de votação e pareceres sobre o RRF. O documento não traz custo por proposta, prazo por meta, metas de longo prazo nem responsável; ficaram de fora estudos de viabilidade e o orçamento federal de 2027.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
       "sources": [
         {
           "id": "src-zema-12",

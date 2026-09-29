@@ -3881,6 +3881,16 @@
       "date": "2026-09-29",
       "type": "agregador",
       "notes": "Consulta em 29/09/2026; resumo de terceiro sobre o plano registrado no TSE."
+    },
+    {
+      "id": "src-re-r2pais-01",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "publishedAt": "1988-10-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -6281,7 +6291,311 @@
     ],
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
-    "methodology": "Extração do documento registrado no TSE (resumo executivo de 51 páginas do Livro Amarelo, aberto e lido integralmente a partir do espelho público) e das cinco metas para 2030 divulgadas pelo candidato em site oficial e imprensa; complemento por cobertura de g1, Valor, Gazeta do Povo e Exame. As prioridades listadas são as declaradas pelo próprio documento como capítulos/pilares (14 no total, agrupados em 3 blocos) reduzidas às sete apresentadas como metas de 2030, capítulos de abertura e eixos de campanha. O que não foi possível extrair: custeio e cronograma financeiro por meta de 2030 e a íntegra da obra de 500 páginas (somente o resumo executivo está público)."
+    "methodology": "Extração do documento registrado no TSE (resumo executivo de 51 páginas do Livro Amarelo, aberto e lido integralmente a partir do espelho público) e das cinco metas para 2030 divulgadas pelo candidato em site oficial e imprensa; complemento por cobertura de g1, Valor, Gazeta do Povo e Exame. As prioridades listadas são as declaradas pelo próprio documento como capítulos/pilares (14 no total, agrupados em 3 blocos) reduzidas às sete apresentadas como metas de 2030, capítulos de abertura e eixos de campanha. O que não foi possível extrair: custeio e cronograma financeiro por meta de 2030 e a íntegra da obra de 500 páginas (somente o resumo executivo está público).",
+    "reality": {
+      "proposal": "14 pilares e 5 metas para 2030: ajuste por PEC, desfavelização em 10 anos, fusão de municípios, frentes de trabalho e troca das cotas",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "O projeto combina ao menos três mudanças por emenda (transição fiscal, desvinculação de pisos e benefícios, nova regra previdenciária), a fusão de municípios — lei complementar federal, lei estadual e consulta prévia às populações (CF, arts. 18, §4º e 25, §3º) — e itens por lei ordinária e atos do Executivo. Peça formal do partido no Congresso: PEC protocolada em 08/10/2025.",
+        "sources": [
+          {
+            "id": "src-re-r2pais-01",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+            "publisher": "Presidência da República — Planalto",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publishedAt": "1988-10-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial",
+            "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+          },
+          {
+            "id": "src-rs-21",
+            "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          },
+          {
+            "id": "src-rs-72",
+            "title": "O que diz o plano de governo de Renan Santos (Missão)",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-renan-santos-pretende-restaurar-o-brasil-plano-de-governo-candidato-missao/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Detalha a 'Grande Consolidação Municipal' (5.570 para 1.656 municípios) e a frente AgroBrasil 2030 com cinco pilares."
+          }
+        ]
+      },
+      "history": {
+        "aligned": [
+          {
+            "date": "2015-12",
+            "fact": "Articulação do 'Comitê do Impeachment' em Brasília, com reuniões na Câmara dos Deputados e entrega de pedido com assinaturas",
+            "sources": [
+              {
+                "id": "src-rs-43",
+                "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+                "publisher": "Câmara dos Deputados (Agência)",
+                "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+                "publishedAt": "2015-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+              }
+            ]
+          },
+          {
+            "date": "2023-2025",
+            "fact": "Coleta de mais de 577 mil assinaturas validadas e registro do Missão, deferido pelo TSE em 04/11/2025",
+            "sources": [
+              {
+                "id": "src-rs-36",
+                "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+              }
+            ]
+          },
+          {
+            "date": "2026-08",
+            "fact": "O partido registrou 535 candidaturas em 25 estados e no Distrito Federal",
+            "sources": [
+              {
+                "id": "src-rs-50",
+                "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+                "publisher": "Partido Missão (site oficial)",
+                "url": "https://candidatos.missao.org.br/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Página oficial do partido; consultada em 29/09/2026."
+              }
+            ]
+          }
+        ],
+        "divergent": [
+          {
+            "date": "2026-09",
+            "fact": "O resumo executivo registra ajuste de R$ 1,1 trilhão até 2031 e, no mesmo documento, ampliação do investimento em infraestrutura de 2% para 4% do PIB",
+            "sources": [
+              {
+                "id": "src-rs-21",
+                "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Setembro/2026; dia exato não capturado."
+              }
+            ]
+          }
+        ],
+        "noComparablePrecedent": "Nenhum mandato ou cargo executivo em qualquer nível: não há gestão de orçamento, programa ou território para comparar. O registro comparável é de movimento, partido e campanha (2015-2026), e não localizamos episódio de articulação de uma PEC conduzido pelo próprio candidato."
+      },
+      "support": {
+        "partySeats": "1 de 513 deputados federais e 0 de 81 senadores (Missão, legislatura 2023-2027)",
+        "coalitionSeats": "Partido isolado: chapa pura do Missão (nº 14), sem coligação ou federação; vice Coronel Medina (Missão)",
+        "federations": "Nenhuma",
+        "documentedAgreements": 4,
+        "note": "Retrato atual, não previsão do próximo Congresso. Missão: 1 deputado federal (Kim Kataguiri), 1 deputado estadual, 3 vereadores e 29.911 filiados (ago/2026); 577 mil assinaturas validadas no registro; 535 candidaturas em 2026; campanha sem cota do Fundo Eleitoral (R$ 3,3 mi ao Legislativo).",
+        "sources": [
+          {
+            "id": "src-rs-36",
+            "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+          },
+          {
+            "id": "src-rs-33",
+            "title": "Quase 30% dos deputados mudam de legenda na janela partidária (Kataguiri é o 1º integrante do Missão no Congresso)",
+            "publisher": "Poder360",
+            "url": "https://poder360.com.br/poder-congresso/janela-partidaria-2026-pl-lidera-filiacoes",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado (janela partidária de 2026)."
+          },
+          {
+            "id": "src-rs-50",
+            "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+            "publisher": "Partido Missão (site oficial)",
+            "url": "https://candidatos.missao.org.br/",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Página oficial do partido; consultada em 29/09/2026."
+          },
+          {
+            "id": "src-rs-30",
+            "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+            "publishedAt": "2026-07-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          }
+        ]
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Ajuste, desvinculação e previdência por PEC com 1 deputado federal na bancada atual do partido",
+          "detail": "O plano condiciona o ajuste a uma 'PEC de Transição Fiscal' e a mudanças de desindexação e de previdência, todas por emenda (308 deputados e 49 senadores, em dois turnos em cada Casa). A bancada atual do Missão é de 1 deputado federal e nenhum senador, e o partido concorre isolado, sem coligação ou federação; propor uma PEC exige 171 assinaturas de deputados ou 27 de senadores (CF, art. 60, I).",
+          "sources": [
+            {
+              "id": "src-re-r2pais-01",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (arts. 18, §4º; 25, §3º; 60; 101; 153 a 156)",
+              "publisher": "Presidência da República — Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publishedAt": "1988-10-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Texto constitucional usado para conferir quóruns, competências tributárias e procedimentos citados na análise do projeto de país."
+            },
+            {
+              "id": "src-rs-36",
+              "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+            },
+            {
+              "id": "src-rs-21",
+              "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Setembro/2026; dia exato não capturado."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "kind": "proposta-x-outra-proposta",
+          "title": "Ajuste de R$ 1,1 trilhão até 2031 no mesmo documento que amplia investimento para 4% do PIB",
+          "detail": "O resumo executivo estima economia de R$ 1,1 trilhão até 2031 com desindexação de benefícios e revisão do abono e de renúncias, e prevê, no mesmo documento, elevar o investimento em infraestrutura de cerca de 2% para pelo menos 4% do PIB, 8 milhões de casas e desfavelização em 10 anos. O resumo não traz a memória de cálculo que concilia as metas.",
+          "sources": [
+            {
+              "id": "src-rs-19",
+              "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+              "publishedAt": "2026-08-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-21",
+              "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Setembro/2026; dia exato não capturado."
+            },
+            {
+              "id": "src-rs-70",
+              "title": "O Brasil de 2030 — propostas (site oficial da campanha)",
+              "publisher": "Renan Santos / Partido Missão",
+              "url": "https://www.renanpresidente.com.br/propostas",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Página oficial de campanha com as cinco metas para 2030 e o compromisso declarado de não disputar a reeleição em caso de descumprimento."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-sem-precedente",
+          "title": "Fusão de municípios e 'tutela federal': sem episódio comparável na trajetória apurada",
+          "detail": "A 'Grande Consolidação Municipal' (de 5.570 para cerca de 1.656 municípios, segundo a imprensa) e a tutela federal de municípios que não atingirem metas de indicadores não têm episódio de execução na trajetória apurada, de movimento, partido e campanha. Não localizamos apoio parlamentar declarado à reorganização do pacto federativo fora da bancada do próprio partido.",
+          "sources": [
+            {
+              "id": "src-rs-72",
+              "title": "O que diz o plano de governo de Renan Santos (Missão)",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-renan-santos-pretende-restaurar-o-brasil-plano-de-governo-candidato-missao/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Detalha a 'Grande Consolidação Municipal' (5.570 para 1.656 municípios) e a frente AgroBrasil 2030 com cinco pilares."
+            },
+            {
+              "id": "src-rs-20",
+              "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+              "publishedAt": "2026-07-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-36",
+              "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "O caminho pretendido é PEC pontual ou convocação de Assembleia Constituinte, e em qual prazo?",
+          "why": "O plano cita a 'PEC de Transição Fiscal', desindexação e previdência; as fontes consultadas não registram proposta de Constituinte nem ordem de votação. PEC exige 308 deputados e 49 senadores, em dois turnos em cada Casa, e 171 assinaturas para ser apresentada."
+        },
+        {
+          "question": "Qual o custo total das cinco metas de 2030 e de onde viriam os recursos em cada uma?",
+          "why": "O resumo executivo consolida apenas a economia estimada de R$ 1,1 trilhão até 2031; para a desfavelização, a imprensa registra valores de R$ 1,2 bilhão a R$ 1,5 bilhão e R$ 50 bilhões a R$ 85 bilhões atribuídos ao Tesouro, sem consolidação por meta."
+        },
+        {
+          "question": "Quantas PECs o governo pretende apresentar no primeiro ano e quem relataria cada uma?",
+          "why": "O plano menciona ao menos três emendas e a imprensa registra a 'PEC de Transição' com ajuste de R$ 250 bilhões por ano antes da posse; as fontes consultadas não indicam cronograma de tramitação nem relatoria."
+        }
+      ],
+      "publicExplanation": "O site oficial da campanha declara o compromisso de o candidato não disputar a reeleição em caso de descumprimento das cinco metas de 2030. Sobre a diferença de prazos da desfavelização (30 e 10 anos) e sobre o custo total do projeto, não localizamos declaração específica.",
+      "methodology": "Base: documento registrado no TSE (resumo executivo de 51 páginas do Livro Amarelo, lido pelo espelho público), site oficial da campanha, imprensa de 2026 (Valor, g1, Exame) e atos de movimento e partido (MBL, Missão). Nenhum dos cinco exerceu cargo executivo: o comparável de Renan Santos é de movimento, partido e campanha. Ficaram fora a obra integral e o inteiro teor do RRC.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
   },
   "foreignPolicy": {
     "worldView": "Não-alinhamento declarado. Sobre EUA: critica o tarifaço de Trump e afirma que 'as interferências americanas nas eleições de 2022 e de 2026 demonstram que não há respeito pelas nossas instituições', mas chama os EUA de 'parceiros indispensáveis em tecnologia, defesa e minerais críticos' (Folha, 12/09/2026); à CNN (03/09/2026) disse que Trump 'vem se comportando muito mal nessas eleições' e que não seria seu primeiro interlocutor; ao The Epoch Times declarou que 'Lula colocou o Brasil submisso à China e os Bolsonaros nos colocaram submissos a Trump'. Sobre China: 'a China é nossa principal parceira comercial'; em coletiva à imprensa estrangeira (03/09/2026) afirmou que, no curto prazo, a China é parceira melhor que os EUA, mas sem alinhamento automático. Sobre Brics: não prega saída, defende participação 'estritamente instrumental', dizendo que o bloco 'passou a operar como extensão da política externa chinesa — inclusive na direção dos investimentos do Novo Banco de Desenvolvimento e na deriva de uma agenda declaradamente antiocidental que não é a nossa' (Folha, 12/09/2026); o Livro Amarelo registrado no TSE fala em 'estratégia pragmática no BRICS+' que reconhece 'a dominação crescente chinesa dentro do bloco'. Sobre Mercosul: propõe 'abrir o Mercosul' com redução tarifária em quatro anos, teto de 15%, revisão da Tarifa Externa Comum e corte do licenciamento não automático, sem flexibilizar a união aduaneira ('não faremos é permitir que cada sócio saia negociando bilateralmente por conta própria'). Sobre América Latina: propõe desdolarização regional com uso crescente do real, linhas de swap entre bancos centrais e cesta de moedas sul-americanas; no Livro Amarelo, 'sub-hegemonia brasileira' (liderança regional 'sem imperialismo') e Pacto Interamericano contra o crime organizado, liderado pelo Brasil e ancorado na Convenção de Palermo e na OEA. Sobre operações dos EUA contra o 'narcoterrorismo': aceita cooperação de inteligência, mas afirma que operações armadas em território brasileiro devem ser feitas por forças brasileiras; 'não concorda com a designação de facções como terroristas'. Sobre UE/Europa: EUA e União Europeia são os 'parceiros prioritários' (off-take e transferência tecnológica em terras raras) no Livro Amarelo, mas em 25/06/2026, diante de diplomatas, atacou o que chama de 'ditadura de ONGs' financiadas de fora e a postura europeia de 'pregação' sobre florestas. Sobre Israel/Gaza: critica tanto a 'defesa incondicional de Israel por setores evangélicos da direita' quanto a hostilidade da esquerda; defende que o Brasil 'arbitre e sustente o direito humanitário'. Sobre clima: critica o negacionismo climático do governo anterior e defende que o Brasil mostre ao mundo que preserva florestas e recupera áreas degradadas (CNN, 03/09/2026). Sobre OCDE: defende retomar o processo de acessão ('a OCDE é o melhor instrumento disponível' como ancoragem externa). Sobre foros multilaterais e Sul Global: propõe o Brasil como 'Árbitro do Sul Global' com diplomacia ativa na África, na Ásia (ASEAN, Timor-Leste como porta de entrada) e na América Latina, e fala em 'isolamento diplomático' atual em foros sobre minerais críticos. Sobre nuclear: propõe autonomia completa do ciclo do combustível nuclear, incluindo conversão industrial e reprocessamento, descrita no plano como ativo de dissuasão.",

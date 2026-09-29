@@ -5068,7 +5068,326 @@
     ],
     "evidenceStatus": "confirmado",
     "confidenceLevel": "high",
-    "methodology": "Extração direta do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas, lido a partir do espelho público em PDF; sumário com 18 projetos e capítulo final de apresentação do candidato), com complemento de Agência Brasil (18 áreas), GZH, Band e Nexo. As sete prioridades listadas correspondem a capítulos próprios do documento e a eixos repetidos em entrevistas de 2026. O que não foi possível extrair: custo e fonte de financiamento por projeto, metas quantificadas de cada projeto (o documento prioriza teses e programas; a meta quantitativa mais explícita localizada é o ganho real do salário mínimo) e os nomes da equipe econômica, que o candidato declarou evitar divulgar."
+    "methodology": "Extração direta do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas, lido a partir do espelho público em PDF; sumário com 18 projetos e capítulo final de apresentação do candidato), com complemento de Agência Brasil (18 áreas), GZH, Band e Nexo. As sete prioridades listadas correspondem a capítulos próprios do documento e a eixos repetidos em entrevistas de 2026. O que não foi possível extrair: custo e fonte de financiamento por projeto, metas quantificadas de cada projeto (o documento prioriza teses e programas; a meta quantitativa mais explícita localizada é o ganho real do salário mínimo) e os nomes da equipe econômica, que o candidato declarou evitar divulgar.",
+    "reality": {
+      "proposal": "'O Brasil dos Nossos Sonhos' (18 projetos): semipresidencialismo, mandato de 8 anos no STF, telemedicina, empreendedorismo e déficit próximo de zero",
+      "requirement": {
+        "path": "pec",
+        "quorum": "308 deputados e 49 senadores, em dois turnos em cada Casa (CF, art. 60, §2º)",
+        "note": "Duas propostas do projeto exigem emenda: o semipresidencialismo, com a PEC 2/25 em tramitação na Câmara, e o mandato de oito anos para ministros do STF. O restante da pauta — telemedicina, escolas de empreendedorismo, Fundo Nacional do Empreendedor, corte de ministérios — depende de lei, de orçamento e da adesão de estados e municípios. O plano não indica veículo normativo por projeto.",
+        "sources": [
+          {
+            "id": "src-re-r2propostas-04",
+            "title": "Proposta muda a Constituição para instituir o semipresidencialismo no Brasil (PEC 2/25, com voto distrital misto; 171 assinaturas para tramitar)",
+            "publisher": "Câmara dos Deputados — Agência",
+            "url": "https://www.camara.leg.br/noticias/1131679-PROPOSTA-MUDA-A-CONSTITUICAO-PARA-INSTITUIR-O-SEMIPRESIDENCIALISMO-NO-BRASIL",
+            "publishedAt": "2025",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial",
+            "notes": "Registra a apresentação da PEC 2/25 e a exigência de apoio de 171 deputados para tramitação."
+          },
+          {
+            "id": "src-re-r2capacidades-01",
+            "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+            "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "publisher": "Presidência da República — Planalto",
+            "date": "1988-10-05",
+            "type": "oficial_legislacao",
+            "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+          },
+          {
+            "id": "src-ac-23",
+            "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+            "publisher": "Poder360 (cópia do documento da campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ]
+      },
+      "history": {
+        "aligned": [
+          {
+            "date": "2018-2021",
+            "fact": "Programa 'Escola da Inteligência' lançado em rede municipal de Cuiabá (2018) e, segundo o material do programa, em mais de mil escolas conveniadas (2021)",
+            "sources": [
+              {
+                "id": "src-ac-91",
+                "title": "Programa Escola da Inteligência desenvolve a consciência emocional de forma lúdica e divertida",
+                "publisher": "Prefeitura de Cuiabá",
+                "url": "https://cuiaba.mt.gov.br/noticias/programa-escola-da-inteligencia-desenvolve-a-consciencia-emocional-de-forma-ludica-e-divertida",
+                "publishedAt": "2018-04-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Registro oficial do lançamento do programa idealizado por Augusto Cury na rede municipal, em estágio piloto com cinco mil alunos de oito escolas."
+              },
+              {
+                "id": "src-ac-92",
+                "title": "Programa Escola da Inteligência: desenvolva a educação socioemocional em seu colégio!",
+                "publisher": "Escola da Inteligência (site do programa idealizado por Augusto Cury)",
+                "url": "https://escoladainteligencia.com.br/blog/programa-escola-da-inteligencia",
+                "publishedAt": "2021-04-28",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial",
+                "notes": "Material de divulgação do próprio programa: 'mais de 1 mil escolas conveniadas, 300 mil estudantes e 1,2 milhão de pessoas impactadas'; aplicação como disciplina ou dentro de matéria existente."
+              }
+            ]
+          },
+          {
+            "date": "2020",
+            "fact": "Arco Educação adquiriu o controle de 60% da Escola da Inteligência por R$ 288 milhões, em negócio com cerca de 900 escolas",
+            "sources": [
+              {
+                "id": "src-ac-48",
+                "title": "Arco Educação compra 60% da Escola da Inteligência por R$ 288 milhões",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/empresas/noticia/2020/08/28/arco-educacao-compra-60percent-da-escola-da-inteligencia-por-r-288-milhoes.ghtml",
+                "publishedAt": "2020-08-28",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ]
+          },
+          {
+            "date": "2026-08",
+            "fact": "Plano 'O Brasil dos Nossos Sonhos' (200 páginas, 18 projetos) registrado com a candidatura",
+            "sources": [
+              {
+                "id": "src-ac-23",
+                "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                "publisher": "Poder360 (cópia do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo"
+              },
+              {
+                "id": "src-ac-05",
+                "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+              }
+            ]
+          }
+        ],
+        "divergent": [
+          {
+            "date": "2026-09",
+            "fact": "Programas de educação socioemocional foram substituídos em Itajaí (SC) pelo 'Vida na Escola', que abrange 27 mil estudantes, após levantamento local",
+            "sources": [
+              {
+                "id": "src-ac-74",
+                "title": "Programa de Augusto Cury é cancelado em Itajaí",
+                "publisher": "DIARINHO",
+                "url": "https://diarinho.net/materia/675213/Programa-de-Augusto-Cury-e-cancelado-em-Itajai",
+                "publishedAt": "2026-09-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Prefeitura substituiu os programas 'Escola da Inteligência' e 'Gênios Socioemocional' pelo 'Vida na Escola', abrangendo 27 mil estudantes."
+              },
+              {
+                "id": "src-ac-75",
+                "title": "Itajaí desembolsa R$ 39 milhões em gastos com programas ligados a Augusto Cury",
+                "publisher": "DIARINHO",
+                "url": "https://diarinho.net/materia/674946/Itajai-desembolsa-R--39-milhoes-em-gastos-com-programas-ligados-a-Augusto-Cury",
+                "publishedAt": "2026-09-13",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Levantamento local sobre gastos municipais com os programas."
+              }
+            ]
+          }
+        ],
+        "noComparablePrecedent": "Nenhum mandato ou cargo público: 2026 é a primeira candidatura. O registro comparável é empresarial (Escola da Inteligência, licenciada a redes municipais), partidário (Avante, desde abril de 2026) e de campanha; não há orçamento público, votação ou decisão administrativa para comparar."
+      },
+      "support": {
+        "partySeats": "5 de 513 deputados federais e 1 de 81 senadores (Avante, legislatura 2023-2027)",
+        "coalitionSeats": "Partido isolado: chapa pura do Avante (nº 70), sem coligação ou federação; vice Júlio Delgado (Avante)",
+        "federations": "Nenhuma",
+        "documentedAgreements": 2,
+        "note": "Retrato atual, não previsão do próximo Congresso. Avante: 5 de 513 deputados federais, 1 senador, 15 deputados estaduais e 136 prefeitos (2024). Contatos pré-filiação com MDB, PSD, PSDB, Podemos, PSC e Novo foram relatados pelo candidato (05/04/2026) e a aliança com o Novo foi descartada em convenção (03/08/2026).",
+        "sources": [
+          {
+            "id": "src-ac-17",
+            "title": "Avante — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Avante",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Bancada 2026 (5 federais, 1 senador), 243.296 filiados, desempenho na janela partidária."
+          },
+          {
+            "id": "src-ac-09",
+            "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+            "publishedAt": "2026-04-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Filiação ao Avante; lista de políticos com quem conversou."
+          },
+          {
+            "id": "src-ac-42",
+            "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+            "publishedAt": "2026-08-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-22",
+            "title": "Quem é Júlio Delgado, vice de Augusto Cury na disputa presidencial",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-e-julio-delgado-vice-de-augusto-cury-na-disputa-presidencial/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada. Juiz de Fora (MG), 59 anos, advogado, seis períodos de mandato."
+          }
+        ]
+      },
+      "tensions": [
+        {
+          "kind": "proposta-x-restricao-institucional",
+          "title": "Semipresidencialismo e mandato no STF exigem PEC; o texto em tramitação é a PEC 2/25, na Câmara",
+          "detail": "As duas mudanças institucionais do projeto dependem de emenda constitucional (308 deputados e 49 senadores, em dois turnos em cada Casa) e alcançam os arts. 60, 76 e 101 da Constituição. O Avante tem 5 de 513 deputados federais e 1 de 81 senadores na legislatura atual, e o plano não registra apoio parlamentar declarado às emendas.",
+          "sources": [
+            {
+              "id": "src-re-r2propostas-04",
+              "title": "Proposta muda a Constituição para instituir o semipresidencialismo no Brasil (PEC 2/25, com voto distrital misto; 171 assinaturas para tramitar)",
+              "publisher": "Câmara dos Deputados — Agência",
+              "url": "https://www.camara.leg.br/noticias/1131679-PROPOSTA-MUDA-A-CONSTITUICAO-PARA-INSTITUIR-O-SEMIPRESIDENCIALISMO-NO-BRASIL",
+              "publishedAt": "2025",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Registra a apresentação da PEC 2/25 e a exigência de apoio de 171 deputados para tramitação."
+            },
+            {
+              "id": "src-re-r2capacidades-01",
+              "title": "Constituição da República Federativa do Brasil de 1988 — texto compilado (competências, quóruns e vedações expressas)",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+              "publisher": "Presidência da República — Planalto",
+              "date": "1988-10-05",
+              "type": "oficial_legislacao",
+              "notes": "Fonte única desta rodada para os fatos constitucionais citados nas tensões: quórum de emenda (3/5 nas duas Casas, dois turnos), lei complementar por maioria absoluta, uso pacífico das atividades nucleares, competência estadual para fusão de municípios, limites dos atos de GLO e estado de defesa e organização das polícias militares."
+            },
+            {
+              "id": "src-ac-17",
+              "title": "Avante — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Avante",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Bancada 2026 (5 federais, 1 senador), 243.296 filiados, desempenho na janela partidária."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-x-outra-proposta",
+          "title": "Déficit próximo de zero convive com fundo de R$ 30 bi a R$ 50 bi, novas pastas e reajuste acima da inflação",
+          "detail": "O plano declara déficit público próximo de zero no mandato e redução gradual da dívida e, no mesmo documento, prevê o Fundo Nacional do Empreendedor de R$ 30 bilhões a R$ 50 bilhões, corte de 8 a 10 ministérios com criação das pastas da Segurança Pública, de IA e do Empreendedorismo, telemedicina e 10 mil escolas de empreendedorismo.",
+          "sources": [
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+            },
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+            },
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "kind": "proposta-sem-precedente",
+          "title": "18 projetos declarados sem custo, fonte de recursos ou indicador por área",
+          "detail": "O documento reúne propostas para 18 áreas e não traz custo, fonte de recursos nem indicador por projeto; as metas quantitativas localizadas são o ganho real do salário mínimo e horizontes de 4, 8 a 10 e 10 a 12 anos. A trajetória apurada é empresarial e de campanha, sem execução de política pública federal para comparar.",
+          "sources": [
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+            },
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-ac-93",
+              "title": "Diretrizes e propostas de governo para a presidência do Brasil",
+              "publisher": "Migalhas",
+              "url": "https://www.migalhas.com.br/depeso/462757/diretrizes-e-propostas-de-governo-para-a-presidencia-do-brasil",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Análise comparativa de diretrizes dos presidenciáveis; registra que Cury prioriza déficit zero e empreendedorismo e é o único a defender o semipresidencialismo. Ano apenas; dia/mês não capturados."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "openQuestions": [
+        {
+          "question": "Qual o custo de cada um dos 18 projetos e qual a fonte de recursos de cada um?",
+          "why": "O documento não traz orçamento por área. As cifras divulgadas em 2026 são o fundo de R$ 30 bilhões a R$ 50 bilhões e o reajuste do mínimo pela inflação mais 1% ao ano, com ganho real estimado em 50% a 60% em quatro anos."
+        },
+        {
+          "question": "Qual o desenho de transição do semipresidencialismo e como ele se relaciona com a PEC 2/25 em tramitação?",
+          "why": "O plano atribui as mudanças de regime ao vice e não apresenta texto-base, cronograma nem fórmula de escolha e recondução do primeiro-ministro; o texto em trâmite na Câmara é a única peça localizada."
+        },
+        {
+          "question": "Quem conduziria a política econômica, já que o candidato não divulga o nome do ministro da Fazenda?",
+          "why": "Em 04/09/2026 e 10/09/2026 o candidato declarou evitar anunciar nomes para não criar polêmica antes da eleição; o plano fixa déficit próximo de zero e redução da dívida sem indicar quem responderia pelo ajuste."
+        }
+      ],
+      "publicExplanation": "O candidato declarou que evita anunciar os nomes da equipe econômica para não criar polêmica e que convidará especialistas. Não localizamos explicação pública sobre o custo dos 18 projetos nem sobre a substituição dos programas de educação socioemocional em Itajaí, que registrou R$ 39 milhões em gastos com esses programas.",
+      "methodology": "Base: plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas, lido pelo espelho público), cobertura de 2026 (Agência Brasil, GZH, Band, Nexo, Valor) e atos de empresa e campanha. Nenhum dos cinco exerceu cargo executivo: o comparável de Augusto Cury vem da Escola da Inteligência, do Avante e da campanha. Ficaram fora o detalhamento por item e os nomes da equipe econômica.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
   },
   "foreignPolicy": {
     "worldView": "Posições declaradas tema a tema à Folha (12/09/2026). Brics e China: 'Não tiro o Brasil do Brics. Tiro o Brasil do papel que ele aceitou dentro do Brics' — quer manter o bloco como plataforma de comércio e financiamento e retirar a agenda geopolítica: 'o Brasil não tem por que assinar declaração sobre desdolarização, sobre arquitetura de segurança global ou sobre disputa entre grandes potências. Essas não são as nossas brigas, e cada vez que entramos nelas nós pagamos a conta em tarifa, não em prestígio'. Mercosul: propõe flexibilizar, retirando a exigência de negociação em bloco, com avanço em velocidades diferentes para permitir acordos de livre comércio ('o Brasil tem menos acordos de livre comércio que Chile, Peru e Colômbia... a décima economia do mundo negociando como se fosse uma ilha'). Estados Unidos: diz que a relação foi 'judicializada e politizada' e que 'quem pagou a conta foi o produtor de café, o fabricante de calçado e o operário de móvel'; defende retomar negociação com Trump em nível técnico — 'não se negocia com ele por microfone' — e diversificar parceiros comerciais para 'não ficar refém do humor de qualquer presidente americano'. Cooperação policial: quer FBI e DEA 'trabalhando ao lado da nossa Polícia Federal, não no lugar dela' (sem operações estrangeiras em solo brasileiro). OCDE: retomar a acessão 'desde o primeiro mês', tratada como 'selo de previsibilidade' e não clube de prestígio. Minerais críticos: não apoia restrição a capital estrangeiro, mas exige processamento no Brasil — 'quem quiser extrair mineral crítico e terra rara no Brasil, refina no Brasil e agrega valor no Brasil, com prazo e meta contratual. A Indonésia fez isso com o níquel'. Israel e Gaza: defende retomar relações diplomáticas plenas ('Israel é um parceiro histórico e não é papel do Brasil romper com um país democrático'), reconhece o direito do povo palestino a um Estado e diz que 'a guerra na Faixa de Gaza tem de terminar urgente'. No plano registrado, o capítulo 'Relações internacionais e diplomacia estratégica' declara: política externa 'ativa, equilibrada e pragmática', tratada como política de Estado; 'Brasil como potência diplomática global' com ampliação de influência em fóruns globais; 'Embaixada 4.0' (representação voltada também à promoção de negócios); diversificação de mercados e redução de dependências externas; diplomacia climática e ambiental com a Amazônia como ativo estratégico; 'cooperação Sul-Sul e multilateralismo'; proteção de interesses estratégicos em comércio, energia, tecnologia e recursos naturais 'sem manifestações agressivas'. Cooperação internacional contra o crime organizado transnacional com países vizinhos e organismos internacionais, e ampliação da atuação das Forças Armadas no controle de fronteiras. No agro, o plano propõe convidar Israel para liderar um eixo de irrigação de precisão e a China para liderar um eixo de mecanização leve, drones e automação. Não foram localizadas posições sobre Rússia/Ucrânia, Venezuela, África, Índia ou arquitetura de segurança europeia.",
