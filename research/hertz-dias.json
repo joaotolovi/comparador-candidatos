@@ -1,0 +1,1419 @@
+{
+  "id": "hertz-dias",
+  "slug": "hertz-dias",
+  "name": "Hertz Dias",
+  "ballotName": "Hertz Dias",
+  "ballotNumber": 16,
+  "party": "PSTU",
+  "coalition": "PSTU — partido isolado nas fichas consultadas (nenhuma coligação ou federação registrada nas fontes desta rodada; confirmação formal do registro: not_found) — chapa com vice Vanessa Portugal (PSTU)",
+  "photoUrl": null,
+  "birthDate": "1970-10-20",
+  "age": 55,
+  "birthplace": "São José de Ribamar, Maranhão (MA)",
+  "profession": "Professor de ensino fundamental (ocupação declarada ao TSE) — licenciado em História, mestre em Educação; rapper e ativista do movimento negro",
+  "currentRole": "Candidato à Presidência da República (PSTU, nº 16, registro DEFERIDO)",
+  "tagline": "Professor de História da rede pública de São Luís (MA), mestre em Educação, rapper e ativista do movimento negro; pela 5ª vez candidato do PSTU (vice-presidente em 2018) — nenhuma vitória eleitoral até 2026.",
+  "education": [
+    {
+      "id": "edu-hd-1",
+      "level": "graduacao",
+      "field": "Licenciatura em História",
+      "institution": "não informada nas fontes desta rodada (not_found)",
+      "conclusionYear": null,
+      "notes": "Licenciado em História, segundo a Wikipédia; instituição e ano não informados nas fontes consultadas.",
+      "sources": [
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        }
+      ]
+    },
+    {
+      "id": "edu-hd-2",
+      "level": "mestrado",
+      "field": "Educação",
+      "institution": "não informada nas fontes desta rodada (not_found)",
+      "conclusionYear": null,
+      "notes": "Mestre em Educação, segundo a Wikipédia; instituição e ano não informados nas fontes consultadas.",
+      "sources": [
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        }
+      ]
+    }
+  ],
+  "professionalExperience": [
+    {
+      "id": "prof-hd-1",
+      "role": "Professor da rede pública (estadual e municipal)",
+      "organization": "Redes de ensino do Maranhão (São Luís)",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Professor de História da rede pública em São Luís (MA), atuando nas redes estadual e municipal (BBC, Wikipédia); ao TSE, a ocupação declarada em 2026 é 'professor de ensino fundamental' (Nexo/g1). No cadastro de 2022 a ocupação declarada era 'empresário' (Wikipédia).",
+      "achievements": [
+        "Mestre em Educação",
+        "Professor de História nas redes pública estadual e municipal de São Luís (MA)"
+      ],
+      "sources": [
+        {
+          "id": "src-hd-07",
+          "title": "Quem são os candidatos à Presidência na Eleição 2026",
+          "publisher": "BBC News Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "'Hertz é professor de História da rede pública em São Luís, no Maranhão, rapper e ativista do movimento negro.'"
+        },
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        },
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        }
+      ]
+    },
+    {
+      "id": "prof-hd-2",
+      "role": "Rapper e ativista cultural",
+      "organization": "Grupo Gíria Vermelha; movimento hip hop Quilombo Urbano (MA)",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Atuação no cenário cultural como rapper, integrando o grupo Gíria Vermelha e participando do movimento hip hop Quilombo Urbano, no Maranhão; militante do movimento negro.",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        },
+        {
+          "id": "src-hd-06",
+          "title": "Hertz Dias: o rapper que representa o PSTU na disputa pelo Planalto",
+          "publisher": "Correio Braziliense",
+          "url": "https://www.correiobraziliense.com.br/politica/2026/08/7489635-quem-e-hertz-dias-o-rapper-candidato-a-presidente-pelo-pstu.html",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "'Professor, rapper e ativista do movimento negro, Hertz Dias leva à disputa presidencial um projeto socialista com foco na defesa dos trabalhadores'. Descreve professor da rede pública do Maranhão."
+        }
+      ]
+    }
+  ],
+  "politicalExperience": [
+    {
+      "id": "pol-hd-1",
+      "role": "Filiado ao Partido Socialista dos Trabalhadores Unificado (PSTU)",
+      "organization": "PSTU",
+      "startDate": "não informado nas fontes desta rodada (not_found)",
+      "endDate": null,
+      "description": "Militante do PSTU, partido pelo qual disputou todas as eleições desde 2010 até 2026. O ano exato da filiação não foi localizado nas fontes desta rodada (not_found). Cargo na direção nacional do partido: não confirmado (not_found) — as fontes o descrevem como candidato e militante, não como dirigente.",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        }
+      ]
+    },
+    {
+      "id": "pol-hd-2",
+      "role": "Candidato a vice-presidente da República (chapa de Vera Lúcia)",
+      "organization": "PSTU",
+      "startDate": "2018",
+      "endDate": "2018",
+      "description": "Em 2018, foi candidato a vice-presidente na chapa encabeçada por Vera Lúcia (PSTU): 55.762 votos (0,05%), 11ª de 13 chapas, segundo o histórico do TSE compilado pelo Nexo. A Wikipédia do candidato registra 25.625 votos (0,02%) — divergência documentada; adotado o dado do TSE.",
+      "achievements": [
+        "Vice na chapa presidencial do PSTU em 2018"
+      ],
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        }
+      ]
+    },
+    {
+      "id": "pol-hd-3",
+      "role": "Candidaturas estaduais e municipais pelo PSTU",
+      "organization": "PSTU",
+      "startDate": "2010",
+      "endDate": "2022",
+      "description": "2010: vice-governador do Maranhão (chapa com o candidato a governador Marcos Silva) — 14.685 votos, não eleito. 2020: prefeito de São Luís (MA) — 2.173 votos (0,42%), não eleito. 2022: governador do Maranhão — 5.191 votos (0,15%), não eleito. Nenhuma vitória (histórico TSE via Nexo/Wikipédia).",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        },
+        {
+          "id": "src-hd-03",
+          "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+        }
+      ]
+    },
+    {
+      "id": "pol-hd-4",
+      "role": "Candidato à Presidência da República",
+      "organization": "PSTU",
+      "startDate": "2026",
+      "endDate": null,
+      "description": "Candidato oficial do PSTU à Presidência em 2026, com a vice Vanessa Portugal (ambos do PSTU); registro DEFERIDO e chapas entre as 12 divulgadas pelo TSE em 11/09/2026. Campanha registrada com número 16.",
+      "achievements": [
+        "Candidato do PSTU à Presidência em 2026 — chapa entre as 12 válidas do TSE"
+      ],
+      "sources": [
+        {
+          "id": "src-hd-14",
+          "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+          "publisher": "Nexo Jornal",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-hd-15",
+          "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+        },
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        }
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-hd-1",
+      "title": "Mestre em Educação e professor da rede pública de São Luís (MA)",
+      "context": "Magistério público e pós-graduação",
+      "description": "Licenciado em História e mestre em Educação, professor nas redes pública estadual e municipal de São Luís; ocupação declarada ao TSE em 2026: 'professor de ensino fundamental'.",
+      "sources": [
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        },
+        {
+          "id": "src-hd-07",
+          "title": "Quem são os candidatos à Presidência na Eleição 2026",
+          "publisher": "BBC News Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "'Hertz é professor de História da rede pública em São Luís, no Maranhão, rapper e ativista do movimento negro.'"
+        },
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        }
+      ]
+    },
+    {
+      "id": "ach-hd-2",
+      "title": "Vice na chapa presidencial do PSTU em 2018",
+      "context": "Eleições presidenciais de 2018",
+      "description": "Candidato a vice-presidente na chapa de Vera Lúcia: 55.762 votos (0,05%) — a maior votação registrada em seu histórico eleitoral (dado do TSE via Nexo).",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        }
+      ]
+    },
+    {
+      "id": "ach-hd-3",
+      "title": "Candidato oficial do PSTU à Presidência em 2026",
+      "context": "Eleições de 2026",
+      "description": "Registro DEFERIDO com a vice Vanessa Portugal; entre as 12 chapas válidas à Presidência confirmadas pelo TSE em 11/09/2026 — a 5ª candidatura consecutiva pelo PSTU desde 2010.",
+      "sources": [
+        {
+          "id": "src-hd-14",
+          "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+          "publisher": "Nexo Jornal",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-hd-15",
+          "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+        }
+      ]
+    }
+  ],
+  "governmentPlan": {
+    "title": "Plano de governo registrado no TSE (proposta-pstu.pdf) — título de capa não capturado",
+    "totalProposals": 38,
+    "registeredWith": "TSE — DivulgaCandContas (página oficial 'Propostas de Governo' com índice de 38 itens em 8 eixos; PDF de 722 KB)",
+    "registeredUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+    "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+    "notes": "Índice oficial (capturado via proxy em 29/09/2026): 38 propostas distribuídas em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (6); Saúde Pública e Assistência (5); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (5); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (5); Governança, Transparência e Reformas de Estado (4). O Metrópoles descreveu o plano como proposta de 'enfrentar o imperialismo'; título de capa do PDF não capturado nesta rodada (not_found).",
+    "statsIfCounted": {
+      "objective": "Propostas majoritariamente descritivas no índice; números pontuais no texto (aumento de 100% no salário mínimo, jornada de 36h semanais, bolsa de 1 salário mínimo)",
+      "target": "Aumento de 100% do salário mínimo; jornada máxima de 36h semanais sem redução salarial; bolsa-filha/filho de 1 salário mínimo",
+      "deadline": "Prazos por proposta não informados no índice do TSE",
+      "cost": null,
+      "funding": null,
+      "fiscal": "Não informado no índice (o eixo 1 se chama 'Economia, Trabalho e Responsabilidade Fiscal', mas sem números de custo/orçamento capturados)",
+      "agency": null,
+      "instrument": "Legislação ordinária (CLT), revogação das reformas trabalhista e previdenciária; normas constitucionais no caso de direitos previdenciários",
+      "indicator": null,
+      "congress": "Propostas trabalhistas/previdenciárias dependem do Congresso; PSTU sem bancada (0/513). Contagem de custo/prazo por proposta não realizada pela equipe."
+    },
+    "statsEvidence": "indeterminado",
+    "keyProposals": [
+      {
+        "id": "kp-hd-1",
+        "title": "Fim da escala 6x1 sem redução salarial e jornada de 36 horas semanais",
+        "description": "Redução da jornada de 44 para 36 horas semanais com manutenção do salário e fim da escala 6x1; contratação de novos trabalhadores para substituição de plantões.",
+        "category": "Trabalho",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          },
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          }
+        ]
+      },
+      {
+        "id": "kp-hd-2",
+        "title": "Aumento geral de salários com mínimo 100% maior e piso de R$ 5 mil para funcionários públicos federais",
+        "description": "Aumento de 100% do salário mínimo; 20% para aposentados e pensionistas do INSS; piso salarial de R$ 5.000 para funcionários públicos federais; recuperação real dos salários desde 1989.",
+        "category": "Economia/Trabalho",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          }
+        ]
+      },
+      {
+        "id": "kp-hd-3",
+        "title": "Bolsa-filha/filho de 1 salário mínimo",
+        "description": "Renda mínima para mães desempregadas ou que precisam interromper o trabalho para cuidar de crianças de até 5 anos.",
+        "category": "Assistência Social",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          }
+        ]
+      },
+      {
+        "id": "kp-hd-4",
+        "title": "Revogação das reformas trabalhista e previdenciária e direitos plenos a aplicativos",
+        "description": "Reversão das mudanças na CLT e na previdência; equiparação total de direitos de trabalhadores de aplicativos aos demais trabalhadores.",
+        "category": "Trabalho/Previdência",
+        "quantified": false,
+        "sources": [
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          },
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          }
+        ]
+      },
+      {
+        "id": "kp-hd-5",
+        "title": "Isenção do Imposto de Renda para trabalhadores assalariados",
+        "description": "Isenção do IR para quem vive de salário; tributação sobre grandes fortunas e lucros (eixo Economia).",
+        "category": "Economia/Tributos",
+        "quantified": false,
+        "sources": [
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          },
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          }
+        ]
+      },
+      {
+        "id": "kp-hd-6",
+        "title": "Direito de greve e atuação sindical dos trabalhadores, com controle estatal de estatísticas e greves",
+        "description": "Liberdade de greve em todos os setores, sem permissão prévia do patronato; apelo a assembleias e ações diretas; o Estado divulga estatísticas e greves (eixo Governança).",
+        "category": "Trabalho/Democracia",
+        "quantified": false,
+        "sources": [
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          }
+        ]
+      },
+      {
+        "id": "kp-hd-7",
+        "title": "'Enfrentar o imperialismo' como eixo central da política externa",
+        "description": "Segundo o Metrópoles, o plano registrado no TSE propõe enfrentar o imperialismo como eixo da política externa; o índice oficial traz um eixo próprio de 'Política Externa e Inserção Global' (3 propostas).",
+        "category": "Política Externa",
+        "quantified": false,
+        "sources": [
+          {
+            "id": "src-hd-13",
+            "title": "Em plano, presidenciável do PSTU propõe 'enfrentar o imperialismo'",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/em-plano-presidenciavel-do-pstu-propoe-enfrentar-o-imperialismo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Candidato do PSTU, Hertz Dias registrou plano de governo no TSE'. Data exata da publicação não capturada nesta rodada; localizado via busca em 29/09/2026."
+          },
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  "metrics": [
+    {
+      "id": "anos_executivo",
+      "category": "capacidade-execucao",
+      "name": "Anos em cargos executivos públicos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum localizado: nunca venceu eleição e não há registro de nomeação — histórico TSE completo no Nexo mostra 5 candidaturas (2010, 2018, 2020, 2022, 2026), todas derrotadas ou em análise; buscas por cargos públicos não retornaram registros (not_found).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-03",
+          "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exerce funções partidárias e magistério — sem gestão de administração pública."
+    },
+    {
+      "id": "maior_orcamento",
+      "category": "capacidade-execucao",
+      "name": "Maior orçamento anual administrado",
+      "displayValue": "Não se aplica — nunca administrou orçamento público",
+      "value": null,
+      "unit": "R$ bi/ano",
+      "metricType": "currency",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Maior orçamento anual sob gestão em cargo público.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Equipes geridas no setor público",
+      "displayValue": "Não localizado",
+      "value": null,
+      "unit": "pessoas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Número de pessoas sob gestão em cargo público. Nenhum cargo público localizado (not_found) — dado tratado como não localizado, não como certidão negativa.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_politica",
+      "category": "historico-experiencia",
+      "name": "Anos de experiência política",
+      "displayValue": "16 anos (primeira candidatura documentada em 2010)",
+      "value": 16,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Anos entre a primeira candidatura documentada (vice-governador do Maranhão, eleições 2010, segundo o histórico do TSE no Nexo) e 29/09/2026. O início da filiação ao PSTU e da militância não estão datados nas fontes desta rodada (not_found); se a militância anterior fosse datada, o número seria maior. Portanto este valor é um piso.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Premissa do briefing ('metalúrgico/sindicalista') NÃO confirmada: a ficha TSE declara ocupação 'professor de ensino fundamental' e as fontes (BBC, Correio Braziliense, Wikipédia) descrevem professor de História da rede pública de São Luís (MA), licenciado em História e mestre em Educação — nenhum registro de filiação ou direção de sindicato de metalúrgicos localizado (not_found); tampouco foi confirmado cargo na direção nacional do PSTU (not_found)."
+    },
+    {
+      "id": "anos_legislativo",
+      "category": "historico-experiencia",
+      "name": "Anos em mandatos legislativos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em mandatos legislativos (vereador, deputado estadual/federal, senador). Nenhum mandato conquistado: histórico TSE completo (2010–2026) sem vitória eleitoral.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-03",
+          "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_federal",
+      "category": "historico-experiencia",
+      "name": "Anos em cargos federais (Executivo ou Legislativo)",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em cargos federais. Nunca ocupou mandato nem cargo federal (not_found).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "mandatos_eletivos",
+      "category": "historico-experiencia",
+      "name": "Mandatos eletivos conquistados",
+      "displayValue": "0 de 5 disputas (2010–2026)",
+      "value": 0,
+      "unit": "mandatos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem de eleições vencidas antes de 2026. Histórico TSE (Nexo/g1): 2010 vice-governador MA (não eleito), 2018 vice-presidente (não eleito), 2020 prefeito de São Luís (não eleito), 2022 governador MA (não eleito), 2026 presidente (em análise no snapshot de 29/09/2026).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-03",
+          "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "77.811 votos somados em 4 disputas derrotadas (2010–2022)",
+      "value": 77811,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos votos por disputa anterior a 2026: 14.685 (2010, votos da chapa de vice-governador do Maranhão — PSTU, candidato a governador Marcos Silva); 55.762 (2018, votos da chapa presidencial Vera Lúcia/Hertz Dias); 2.173 (2020, voto individual a prefeito de São Luís); 5.191 (2022, voto individual a governador do Maranhão). Mistura voto de chapa e voto individual, conforme registrados no TSE (via Nexo). Divergência documentada: a Wikipédia de Hertz Dias registra 25.625 votos para 2018 — adotado o número do TSE/Nexo (55.762, 0,05%, 11ª de 13 chapas).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_total",
+      "category": "plano",
+      "name": "Propostas no plano de governo registrado",
+      "displayValue": "38 propostas (índice do TSE, 8 eixos)",
+      "value": 38,
+      "unit": "propostas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem dos itens do índice oficial de 'Propostas de Governo' do TSE para a chapa do PSTU (38 itens em 8 eixos; a página contém 39 marcas contando o rodapé 'Erro da página'). Análise manual do PDF não realizada nesta rodada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-hd-04",
+          "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+        },
+        {
+          "id": "src-hd-05",
+          "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "Não informado no índice do TSE (0 de 38 com custo)",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com custo estimado. Nenhum custo identificado no índice oficial das 38 propostas; leitura item a item do PDF não realizada nesta rodada.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_informed",
+      "sources": [
+        {
+          "id": "src-hd-04",
+          "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+        },
+        {
+          "id": "src-hd-05",
+          "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "Não informado no índice do TSE (0 prazos identificados em 38 itens)",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com prazo definido. Nenhum prazo identificado no índice de 38 itens; contagem por item do PDF completa não realizada.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-hd-04",
+          "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+        },
+        {
+          "id": "src-hd-05",
+          "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "registro_tse",
+      "category": "integridade",
+      "name": "Situação do registro de candidatura no TSE",
+      "displayValue": "DEFERIDO — entre as 12 candidaturas válidas divulgadas pelo TSE (11/09/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026: Nexo ('Registro deferido'), g1 (dados TSE) e especial do Nexo com a lista de registros (14/08/2026). A ficha da Folha para Hertz não pôde ser capturada nesta rodada (a página devolveu apenas a navegação da home) e a página TSE de ficha individual bloqueou o acesso (Access Denied) — os dados vêm da mesma base TSE reproduzida por Nexo e g1. TSE confirmou em 11/09/2026 que a disputa terá 12 candidaturas à Presidência.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-03",
+          "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+        },
+        {
+          "id": "src-hd-14",
+          "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+          "publisher": "Nexo Jornal",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-hd-15",
+          "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "bens_declarados",
+      "category": "integridade",
+      "name": "Bens declarados à Justiça Eleitoral",
+      "displayValue": "R$ 170.000,00 (2026)",
+      "value": 170000,
+      "unit": "R$",
+      "metricType": "currency",
+      "directionality": "neutral",
+      "methodology": "Total de bens declarados no registro de 2026 (TSE, via Nexo/g1). Composição: apartamento de 45 m², 2 dormitórios, avaliado em R$ 170.000,00. Sem histórico anterior de bens localizado nas fontes desta rodada (not_found).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-03",
+          "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "bancada_partidaria_camara",
+      "category": "articulacao",
+      "name": "Bancada do partido no Congresso (antes da eleição de 2026)",
+      "displayValue": "0/513 deputados federais e 0 senadores",
+      "value": 0,
+      "unit": "cadeiras",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Consulta às APIs oficiais da Câmara dos Deputados (deputados em exercício na 57ª Legislatura com siglaPartido=PSTU) e do Senado (parlamentares em exercício em 29/09/2026): nenhum resultado.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-hd-11",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+        },
+        {
+          "id": "src-hd-12",
+          "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+          "publisher": "Senado Federal (dados abertos)",
+          "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Cargos estaduais, municipais e vereadores do PSTU não verificados nesta rodada."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "historico-experiencia",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "0% (não pontuou — Quaest/SP 23/09/2026; Datafolha/SP 25/09: 0)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Última sondagem estimulada localizada nesta rodada que inclui o candidato: Quaest em São Paulo (divulgada 23/09/2026; campo 19–22/09; 1.800 entrevistas; BR-08886/2026) — 0% (não pontuou). Datafolha/SP (divulgada 25/09/2026; BR-09355/2026) também registra 0 (não pontuou). Pesquisas REGIONAIS (SP); pesquisa nacional recente com valor de Hertz não localizado nesta rodada (a Datafolha nacional de 24/09/2026 incluiu os 13 candidatos, mas o recorte capturado não traz seu percentual).",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-hd-08",
+          "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+          "publisher": "NSC Total",
+          "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+          "publishedAt": "2026-09-23",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Pesquisa Quaest encomendada pela Globo no estado de São Paulo: campo 19–22/09/2026, 1.800 entrevistas, margem ±2 p.p., 95% de confiança, registro TSE BR-08886/2026. 1º turno: Hertz Dias (PSTU) 0%, Wilson Grassi 0%, Rui Costa Pimenta 0%, Edmilson Costa 0% (nenhum pontuou); Lula 31%, Flávio Bolsonaro 34%."
+        },
+        {
+          "id": "src-hd-09",
+          "title": "Quaest: no 2º turno de SP, Flávio tem 42% e Lula, 36%; no 1º, candidatos têm empate técnico",
+          "publisher": "Diário do Grande ABC (DGABC)",
+          "url": "https://www.dgabc.com.br/Noticia/4348729/quaest-no-2-turno-de-sp-flavio-tem-42-e-lula-36-no-1-candidatos-tem-empate-tecnico",
+          "publishedAt": "2026-09-23",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Confirma a Quaest/SP (1.800 eleitores, 19–22/09/2026, BR-08886/2026): 'Wilson Grassi, Samara Martins, Edmilson Costa, Rui Costa Pimenta, Lonardo Avalanche, Hertz Dias e Clariana Barão não pontuaram'."
+        },
+        {
+          "id": "src-hd-10",
+          "title": "Datafolha: Flávio Bolsonaro lidera em SP, RJ e DF; Lula fica a frente em PE",
+          "publisher": "O Paralelo 13",
+          "url": "https://www.oparalelo13.com.br/edicao-465/datafolha-flavio-bolsonaro-lidera-em-sp-rj-e-df-lula-fica-a-frente-em-pe-e-mg-tem-empate-tecnico-202609260919",
+          "publishedAt": "2026-09-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Datafolha/SP (divulgada em 25/09/2026; campo 22–24/09; 1.610 pessoas; registro TSE BR-09355/2026; encomenda Globo/Folha): Hertz Dias (PSTU) 0 (não pontuou); Wilson Grassi (Democrata) 1% (era 1%)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Amostra regional (maior colégio eleitoral do país); não representa a intenção nacional."
+    }
+  ],
+  "currentSupport": [
+    {
+      "id": "sup-hd-1",
+      "description": "Chapa do PSTU isolado (nenhuma coligação ou federação localizada nas fichas consultadas); vice: Vanessa Portugal (PSTU). PSTU sem representação federal: 0 deputados e 0 senadores em exercício em 29/09/2026 (APIs oficiais).",
+      "value": "PSTU — 0/513 na Câmara e 0/81 no Senado",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-14",
+          "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+          "publisher": "Nexo Jornal",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-hd-11",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+        },
+        {
+          "id": "src-hd-12",
+          "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+          "publisher": "Senado Federal (dados abertos)",
+          "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+        }
+      ]
+    },
+    {
+      "id": "sup-hd-2",
+      "description": "Financiamento da campanha presidencial até 08/09/2026 (prestação parcial ao TSE): receita de R$ 1.087.584,16 de 7 doadores — 99% vêm do PSTU (direção nacional, R$ 1.074.389,00); R$ 5.000,16 de pessoas físicas e R$ 4.985,00 de vaquinha. Gasto contratado de R$ 1.050.232,71 (1,2% do limite legal de R$ 88.944.030,80), dos quais R$ 655.232,71 já pagos. Principais destinos: serviços por terceiros R$ 520.000,00 (50%), materiais impressos R$ 42.700,00 e impulsionamento de conteúdo R$ 18.000,00.",
+      "value": "R$ 1.087.584,16 de receita até 08/09/2026 (7 doadores; 99% do partido)",
+      "date": "2026-09-08",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        }
+      ]
+    }
+  ],
+  "negotiationHistory": [
+    {
+      "id": "neg-hd-1",
+      "description": "Vice na chapa presidencial do PSTU em 2018 (Vera Lúcia para presidente, Hertz Dias para vice): 55.762 votos (0,05%) no primeiro turno — 11ª de 13 chapas. A Wikipédia do candidato diverge (25.625 votos); adotado o dado do TSE compilado pelo Nexo.",
+      "value": "Chapa presidencial PSTU 2018 — 55.762 votos (0,05%)",
+      "date": "2018-10",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-02",
+          "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+        }
+      ]
+    },
+    {
+      "id": "neg-hd-2",
+      "description": "Nenhuma negociação legislativa registrada: nunca ocupou mandato e o PSTU não tem bancada no Congresso (0 deputados e 0 senadores em exercício). Registros de articulação em votações não localizados (not_found).",
+      "value": "sem registros de negociação legislativa",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-hd-11",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+        },
+        {
+          "id": "src-hd-12",
+          "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+          "publisher": "Senado Federal (dados abertos)",
+          "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+        }
+      ]
+    }
+  ],
+  "institutionalHistory": [],
+  "sources": [
+    {
+      "id": "src-hd-01",
+      "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+      "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+      "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+    },
+    {
+      "id": "src-hd-02",
+      "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+    },
+    {
+      "id": "src-hd-03",
+      "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Dados do TSE: PSTU nº 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+    },
+    {
+      "id": "src-hd-04",
+      "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+    },
+    {
+      "id": "src-hd-05",
+      "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+      "publisher": "TSE — DivulgaCandContas (arquivos)",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+    },
+    {
+      "id": "src-hd-06",
+      "title": "Hertz Dias: o rapper que representa o PSTU na disputa pelo Planalto",
+      "publisher": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/08/7489635-quem-e-hertz-dias-o-rapper-candidato-a-presidente-pelo-pstu.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "'Professor, rapper e ativista do movimento negro, Hertz Dias leva à disputa presidencial um projeto socialista com foco na defesa dos trabalhadores'. Descreve professor da rede pública do Maranhão."
+    },
+    {
+      "id": "src-hd-07",
+      "title": "Quem são os candidatos à Presidência na Eleição 2026",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "'Hertz é professor de História da rede pública em São Luís, no Maranhão, rapper e ativista do movimento negro.'"
+    },
+    {
+      "id": "src-hd-08",
+      "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+      "publisher": "NSC Total",
+      "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+      "publishedAt": "2026-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Pesquisa Quaest encomendada pela Globo no estado de São Paulo: campo 19–22/09/2026, 1.800 entrevistas, margem ±2 p.p., 95% de confiança, registro TSE BR-08886/2026. 1º turno: Hertz Dias (PSTU) 0%, Wilson Grassi 0%, Rui Costa Pimenta 0%, Edmilson Costa 0% (nenhum pontuou); Lula 31%, Flávio Bolsonaro 34%."
+    },
+    {
+      "id": "src-hd-09",
+      "title": "Quaest: no 2º turno de SP, Flávio tem 42% e Lula, 36%; no 1º, candidatos têm empate técnico",
+      "publisher": "Diário do Grande ABC (DGABC)",
+      "url": "https://www.dgabc.com.br/Noticia/4348729/quaest-no-2-turno-de-sp-flavio-tem-42-e-lula-36-no-1-candidatos-tem-empate-tecnico",
+      "publishedAt": "2026-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Confirma a Quaest/SP (1.800 eleitores, 19–22/09/2026, BR-08886/2026): 'Wilson Grassi, Samara Martins, Edmilson Costa, Rui Costa Pimenta, Lonardo Avalanche, Hertz Dias e Clariana Barão não pontuaram'."
+    },
+    {
+      "id": "src-hd-10",
+      "title": "Datafolha: Flávio Bolsonaro lidera em SP, RJ e DF; Lula fica a frente em PE",
+      "publisher": "O Paralelo 13",
+      "url": "https://www.oparalelo13.com.br/edicao-465/datafolha-flavio-bolsonaro-lidera-em-sp-rj-e-df-lula-fica-a-frente-em-pe-e-mg-tem-empate-tecnico-202609260919",
+      "publishedAt": "2026-09-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Datafolha/SP (divulgada em 25/09/2026; campo 22–24/09; 1.610 pessoas; registro TSE BR-09355/2026; encomenda Globo/Folha): Hertz Dias (PSTU) 0 (não pontuou); Wilson Grassi (Democrata) 1% (era 1%)."
+    },
+    {
+      "id": "src-hd-11",
+      "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+      "publisher": "Câmara dos Deputados (dados abertos)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+    },
+    {
+      "id": "src-hd-12",
+      "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+      "publisher": "Senado Federal (dados abertos)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+    },
+    {
+      "id": "src-hd-13",
+      "title": "Em plano, presidenciável do PSTU propõe 'enfrentar o imperialismo'",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/em-plano-presidenciavel-do-pstu-propoe-enfrentar-o-imperialismo",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "'Candidato do PSTU, Hertz Dias registrou plano de governo no TSE'. Data exata da publicação não capturada nesta rodada; localizado via busca em 29/09/2026."
+    },
+    {
+      "id": "src-hd-14",
+      "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+      "publisher": "Nexo Jornal",
+      "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+      "publishedAt": "2026-08-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+    },
+    {
+      "id": "src-hd-15",
+      "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+    }
+  ],
+  "updatedAt": "2026-09-29"
+}

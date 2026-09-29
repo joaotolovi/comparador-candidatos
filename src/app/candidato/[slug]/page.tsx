@@ -174,6 +174,31 @@ export default async function CandidatePage({ params }: Props) {
           <h2 id="h-plano" className="display-2">
             Plano de governo
           </h2>
+          {plan.title ? (
+            <p className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
+              <span className="text-base font-semibold">{plan.title}</span>
+              {plan.planUrl ? (
+                <a
+                  href={plan.planUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs font-medium text-primary underline-offset-4 hover:underline"
+                >
+                  ver plano oficial ↗
+                </a>
+              ) : null}
+            </p>
+          ) : null}
+          {plan.summary ? (
+            <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+              {plan.summary}
+            </p>
+          ) : null}
+          {plan.notes ? (
+            <p className="max-w-2xl rounded-md border border-dashed border-border bg-card p-4 text-sm leading-relaxed text-muted-foreground">
+              {plan.notes}
+            </p>
+          ) : null}
           {plan.proposals.length === 0 ? (
             <p className="rounded-md border border-dashed border-border p-4 text-sm text-muted-foreground">
               Plano registrado: {plan.registeredWith}. Análise proposta a
@@ -183,8 +208,14 @@ export default async function CandidatePage({ params }: Props) {
           ) : (
             <>
               <p className="text-sm text-muted-foreground">
-                {plan.totalProposals} propostas registradas. Indicadores de
-                detalhamento documental:
+                {plan.totalProposals > 0
+                  ? `${plan.totalProposals.toLocaleString("pt-BR")} propostas registradas. `
+                  : ""}
+                Indicadores de detalhamento calculados sobre as{" "}
+                <span className="tabular font-medium text-foreground">
+                  {plan.proposals.length}
+                </span>{" "}
+                propostas analisadas:
               </p>
               <div className="grid gap-6 rounded-md border border-border bg-card p-6 sm:grid-cols-2 lg:grid-cols-3">
                 {pstats.map((s) => (

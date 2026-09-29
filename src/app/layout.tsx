@@ -13,6 +13,7 @@ const archivo = Archivo({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://candidato.joaotolovi.com"),
   title: {
     default: "Comparador de Candidatos à Presidência — Eleição 2026",
     template: "%s — Comparador de Candidatos 2026",
