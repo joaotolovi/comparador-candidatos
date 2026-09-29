@@ -1,8 +1,7 @@
 "use client";
 
-// Seção 06 — Brasil no mundo: visão, estratégia, atuação e projeção, sempre
-// separadas. O externo que existe como ato não recebe o peso de quem conduziu
-// negociação em nome do Estado.
+// Brasil no mundo: quatro dimensões separadas e curtas. A primeira leitura é
+// escaneável; discurso × ações, metodologia e fontes abrem sob demanda.
 
 import type { Candidate } from "@/types";
 import {
@@ -18,6 +17,17 @@ import { RealityBlock, RealityMissing } from "@/components/reality-check";
 
 const FIELD = "text-[11px] font-medium uppercase tracking-wide text-muted-foreground";
 
+function FieldCard({ label, text }: { label: string; text: string }) {
+  return (
+    <div className="rounded-md border border-border/70 bg-background/40 p-3">
+      <h3 className={FIELD}>{label}</h3>
+      <div className="mt-1">
+        <ExpandableText text={text} limit={105} />
+      </div>
+    </div>
+  );
+}
+
 export function ForeignPolicySection({
   candidates,
   hideTag,
@@ -30,57 +40,43 @@ export function ForeignPolicySection({
       {candidates.map((c, i) => {
         const f = c.foreignPolicy;
         return (
-          <div
-            key={c.slug}
-            className="flex h-full flex-col gap-3 rounded-md border border-border bg-card p-4"
-          >
+          <article key={c.slug} className="flex h-full flex-col gap-3 rounded-md border border-border bg-card p-4">
             {hideTag ? null : <CandidateTag name={c.name} slot={SLOTS[i] ?? "a"} />}
             {f ? (
               <>
-                <div className="flex flex-col gap-1">
-                  <h3 className={FIELD}>O que propõe — visão de mundo</h3>
-                  <ExpandableText text={f.worldView} limit={150} />
-                </div>
-                <div className="flex flex-col gap-1">
-                  <h3 className={FIELD}>Estratégia</h3>
-                  <ExpandableText text={f.strategy} limit={150} />
-                </div>
-                <div className="flex flex-col gap-1">
-                  <h3 className={FIELD}>Atuação internacional — o que já fez</h3>
-                  <ExpandableText text={f.internationalExperience} limit={150} />
-                </div>
-                <div className="flex flex-col gap-1">
-                  <h3 className={FIELD}>Projeção internacional</h3>
-                  <ExpandableText text={f.projection} limit={150} />
-                  <p className="border-l-2 border-border pl-2 text-xs leading-relaxed text-muted-foreground">
-                    {f.projectionNote}
-                  </p>
+                <div className="grid gap-2">
+                  <FieldCard label="Visão de mundo" text={f.worldView} />
+                  <FieldCard label="Estratégia externa" text={f.strategy} />
+                  <FieldCard label="Atuação internacional" text={f.internationalExperience} />
+                  <FieldCard label="Projeção internacional" text={f.projection} />
                 </div>
 
-                {f.reality ? (
-                  <RealityBlock reality={f.reality} title="Discurso × ações" />
-                ) : (
-                  <RealityMissing />
-                )}
+                {f.reality ? <RealityBlock reality={f.reality} title="Discurso × ações" /> : <RealityMissing />}
 
-                <div className="mt-auto flex flex-col gap-2 border-t border-border pt-3">
-                  <div className="flex flex-wrap items-center gap-2">
-                    <EvidenceBadge status={f.evidenceStatus} />
-                    <ConfidenceBadge level={f.confidenceLevel} />
+                <details className="mt-auto rounded-md border border-border/70 bg-background/40">
+                  <summary className="cursor-pointer list-none px-3 py-2 text-xs font-medium text-muted-foreground [&::-webkit-details-marker]:hidden">
+                    Ver contexto, metodologia e fontes
+                  </summary>
+                  <div className="flex flex-col gap-2 border-t border-border/70 p-3">
+                    <p className="border-l-2 border-border pl-2 text-xs leading-relaxed text-muted-foreground">
+                      {f.projectionNote}
+                    </p>
+                    <div className="flex flex-wrap items-center gap-2">
+                      <EvidenceBadge status={f.evidenceStatus} />
+                      <ConfidenceBadge level={f.confidenceLevel} />
+                    </div>
+                    {f.methodology ? <p className="text-xs leading-relaxed text-muted-foreground">{f.methodology}</p> : null}
+                    <SourcesInline sources={f.sources} />
                   </div>
-                  {f.methodology ? (
-                    <p className="text-xs leading-relaxed text-muted-foreground">{f.methodology}</p>
-                  ) : null}
-                  <SourcesInline sources={f.sources} />
-                </div>
+                </details>
               </>
             ) : (
               <ContentEmpty
                 what="Brasil no mundo em consolidação"
-                why="Aqui entram posições documentadas sobre política externa, estratégia, experiência internacional e projeção. Reunião protocolar não tem o mesmo peso de uma negociação conduzida — e projeção não é confundida com capacidade diplomática."
+                why="Aqui entram posições documentadas sobre política externa, estratégia, experiência internacional e projeção."
               />
             )}
-          </div>
+          </article>
         );
       })}
     </CandidateColumns>
