@@ -13,7 +13,7 @@
       "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
     },
     {
-      "id": "src-ec-71",
+      "id": "src-ec-98",
       "title": "Programa Anticapitalista e Anti-imperialista para o Brasil — Programa Político do PCB para as Eleições Presidenciais de 2026 (registrado no TSE)",
       "publisher": "Partido Comunista Brasileiro (PCB)",
       "url": "https://pcb.org.br/portal2/34147",
@@ -23,7 +23,7 @@
       "notes": "Versão do mesmo programa publicada no site do partido, usada para conferir o texto obtido do PDF registrado no TSE."
     },
     {
-      "id": "src-ec-72",
+      "id": "src-ec-99",
       "title": "Conversa com Edmilson Costa, candidato à presidência pelo PCB",
       "publisher": "O Poder Popular",
       "url": "https://opoderpopular.com.br/conversa-com-edmilson-costa-candidato-a-presidencia-pelo-pcb/",
@@ -43,7 +43,7 @@
       "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
     },
     {
-      "id": "src-hd-71",
+      "id": "src-hd-101",
       "title": "PEB nas urnas 2026: Hertz Dias (PSTU)",
       "publisher": "Observatório de Política Externa Brasileira (OPEB)",
       "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-hertz-dias-pstu/",
@@ -53,7 +53,7 @@
       "notes": "Análise do plano registrado, com foco em economia política internacional: expropriação e reestatização de mineração, energia, petróleo, siderurgia, celulose e agronegócio; Petrobras 100% estatal sob controle dos trabalhadores."
     },
     {
-      "id": "src-hd-72",
+      "id": "src-hd-102",
       "title": "Hertz Dias - Propostas de Governo (índice oficial das propostas por categoria)",
       "publisher": "Tribunal Superior Eleitoral (TSE)",
       "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
@@ -73,7 +73,7 @@
       "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
     },
     {
-      "id": "src-rp-71",
+      "id": "src-rp-106",
       "title": "Planos de candidatos à Presidência têm de 7 a 200 páginas",
       "publisher": "Poder360",
       "url": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
@@ -83,7 +83,7 @@
       "notes": "Levantamento de extensão e estrutura dos planos registrados; descreve o programa do PCO como o mais enxuto (7 páginas, título 'Por salário, trabalho e terra/Revolução, governo operário e comunismo', 15 pontos centrais) e lista pontos como salário mínimo vital de R$ 7.500 com reajuste automático a cada 3% de custo de vida, jornada de 35 horas, dissolução da Polícia Militar, direito ao armamento e autodefesa para trabalhadores do campo e comunidades indígenas e cancelamento de concessões de grandes meios de comunicação. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
     },
     {
-      "id": "src-rp-72",
+      "id": "src-rp-107",
       "title": "Rui Costa Pimenta - Propostas de Governo (índice oficial das propostas por categoria)",
       "publisher": "Tribunal Superior Eleitoral (TSE)",
       "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
@@ -103,7 +103,7 @@
       "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
     },
     {
-      "id": "src-wg-71",
+      "id": "src-wg-100",
       "title": "Wilson Grassi defende imposto único e mais rigor contra facções",
       "publisher": "Agência Brasil (EBC)",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/wilson-grassi-defende-imposto-unico-e-mais-rigor-contra-faccoes",
@@ -113,7 +113,7 @@
       "notes": "Confirma 58 páginas e 14 eixos, o Imposto Único Federal sobre movimentações bancárias em substituição a nove tributos federais, isenção do IRPF até cinco salários mínimos (R$ 8.105), extinção da contribuição previdenciária patronal, plebiscito sobre modelo penitenciário, Saúde Única, fila nacional pública de cirurgias, alfabetização na idade certa, PEC da Pesquisa, Brasil nos Trilhos, rastreabilidade bovina e PEC 55/2023 (2% do PIB para defesa, 35% para modernização)."
     },
     {
-      "id": "src-wg-72",
+      "id": "src-wg-101",
       "title": "Candidato ao Planalto quer criar 'Meu Botox, Minha Vida'",
       "publisher": "Poder360",
       "url": "https://www.poder360.com.br/poder-eleicoes-2026/candidato-ao-planalto-quer-criar-meu-botox-minha-vida/",
@@ -138,9 +138,15 @@
         ],
         "developmentModel": "Atribui ao Estado o comando da economia: nacionalização e estatização do sistema monetário e financeiro, Banco dos Trabalhadores para os fundos previdenciários e de seguridade, reestatização das empresas privatizadas, Petrobras 100% estatal, controle do câmbio e do comércio exterior, revogação do arcabouço fiscal, da Lei de Responsabilidade Fiscal e da autonomia do Banco Central (cuja diretoria passaria a ter representantes de centrais sindicais, do Dieese e do Cofecon), substituição da LRF por uma 'Lei de Responsabilidade Social' e BNDES como financiador. Crescimento associado a reindustrialização, investimento público e 'fronteiras tecnológicas' (CEITEC/semicondutores, monopólio estatal de terras raras e minerais críticos) e a reforma tributária progressiva com imposto sobre lucros, dividendos, grandes fortunas, transações financeiras e heranças. O setor privado é objeto de estatização nos setores considerados estratégicos (saúde, ensino, comunicações, saneamento, energia e indústria bélica) e o agronegócio é expropriado pela reforma agrária popular. Desigualdade tratada por cotas (54% para a população negra e 70% a 80% para egressos de escola pública), recuperação do salário mínimo até o piso do Dieese em quatro anos, ampliação da licença-maternidade e paternidade para um ano e legalização do aborto. Meio ambiente descrito como 'luta anticapitalista', com revisão do Código Florestal, ampliação de unidades de conservação, restrição a descartáveis plásticos e taxação de emissões.",
         "sources": [
-          { "id": "src-ec-70" },
-          { "id": "src-ec-71" },
-          { "id": "src-ec-72" }
+          {
+            "id": "src-ec-70"
+          },
+          {
+            "id": "src-ec-98"
+          },
+          {
+            "id": "src-ec-99"
+          }
         ],
         "evidenceStatus": "parcial",
         "confidenceLevel": "medium",
@@ -161,9 +167,15 @@
         ],
         "developmentModel": "Planejamento econômico estatal como eixo: articular produção e consumo internos, converter ganhos de produtividade em redução de jornada e destinar os excedentes das empresas expropriadas a setores de alta complexidade tecnológica (refino, separação de terras raras e minerais críticos, máquinas e equipamentos, infraestrutura digital, química fina e defesa), com criação de empresa estatal de terras raras e limite de 25% na distribuição de dividendos das grandes empresas privadas remanescentes, com reinvestimento obrigatório no território nacional. Financiamento declarado: taxação fortemente progressiva sobre lucros de empresas bilionárias, controle da conta de capitais (o texto cita cerca de meio trilhão de reais evadidos por ano desde 2020) e controle do sistema financeiro e dos grandes bancos. Setor privado: expropriação do grande agronegócio e dos setores estratégicos; nas telecomunicações e internet, quebra do monopólio das grandes empresas privadas e internet gratuita. Tecnologia: semicondutores 'adquiridos estrategicamente' e inteligência artificial desenvolvida sob controle do Estado, com conselhos de produtores, usuários e detentores de direitos. Educação com verbas públicas destinadas exclusivamente ao ensino público e reconstrução da carreira docente; meio ambiente com fim de créditos e subsídios ao agronegócio, recuperação de áreas degradadas e agroecologia. Desigualdade tratada em eixos próprios (questão negra, mulheres, LGBTQIAPN+, povos indígenas, imigrantes e pessoas com deficiência), com cotas, reparação e autodefesa das comunidades.",
         "sources": [
-          { "id": "src-hd-70" },
-          { "id": "src-hd-71" },
-          { "id": "src-hd-72" }
+          {
+            "id": "src-hd-70"
+          },
+          {
+            "id": "src-hd-101"
+          },
+          {
+            "id": "src-hd-102"
+          }
         ],
         "evidenceStatus": "parcial",
         "confidenceLevel": "medium",
@@ -184,9 +196,15 @@
         ],
         "developmentModel": "O programa não organiza o crescimento em torno de metas de expansão: o eixo é a redistribuição imediata e a ruptura com o sistema financeiro — anulação das dívidas dos trabalhadores com os bancos, fim dos impostos sobre consumo e salários com tributação restrita a lucros e grandes fortunas, estatização do sistema financeiro com banco estatal único sob controle dos trabalhadores e gestão dos fundos previdenciários pelos trabalhadores. Reestatização e nacionalização das riquezas naturais e empresas (petróleo, reservas minerais e refinarias, terras raras sob empresa estatal comandada pelos trabalhadores), com redução imediata de 50% no preço dos combustíveis e fim da política de paridade com o dólar, e destinação da renda do petróleo a saúde, educação, moradia e infraestrutura. Setor privado: expropriação de latifúndios, de imóveis vazios, do ensino pago e das grandes empresas de comunicação, com cancelamento de concessões dos grandes meios. Estado: dissolução da Polícia Militar e do aparato repressivo, com comitês de autodefesa dos trabalhadores e direito ao armamento no campo e nas comunidades indígenas; fim do STF com eleição de juízes e procuradores; partidos sob controle exclusivo dos filiados e cancelamento das leis restritivas. Educação: livre ingresso sem vestibular, verbas públicas exclusivas ao ensino público e jornada máxima de 30 horas semanais para professores. Relações exteriores: defesa da soberania da Amazônia e da unidade nacional e apoio a Cuba, Nicarágua e Venezuela contra a ingerência dos EUA e da OEA.",
         "sources": [
-          { "id": "src-rp-70" },
-          { "id": "src-rp-71" },
-          { "id": "src-rp-72" }
+          {
+            "id": "src-rp-70"
+          },
+          {
+            "id": "src-rp-106"
+          },
+          {
+            "id": "src-rp-107"
+          }
         ],
         "evidenceStatus": "parcial",
         "confidenceLevel": "medium",
@@ -207,9 +225,15 @@
         ],
         "developmentModel": "Modelo declarado no Método D35 (desburocratizar, desonerar, digitalizar, democratizar, desenvolver): 'crescer reduzindo atrito, não expandindo gasto', deslocando o peso tributário do trabalho e da produção para uma base ampla e difícil de sonegar — a movimentação financeira, com arrecadação automática dentro do sistema bancário e sem declaração do contribuinte; ICMS e ISS ficam fora por pertencerem a estados e municípios. Papel atribuído ao Estado: licenciar rápido, garantir estabilidade regulatória, reduzir obrigações acessórias, integrar bases de dados federais e publicar indicadores verificáveis; o plano declara não apresentar valores orçamentários medida a medida e evitar prometer o que a Presidência não decide sozinha (reforma tributária por emenda constitucional; segurança compartilhada com estados; ensino fundamental municipal). Setor privado: execução em infraestrutura pelo regime de autorização ferroviária, com priorização por custo logístico por tonelada publicado por corredor, integração ferrovia-porto, hidrovia e cabotagem. Defesa: apoio à PEC 55/2023, com piso gradual de 2% do PIB e no mínimo 35% do valor vinculado à modernização, e recomposição de soldos concentrada na base da pirâmide. Tecnologia e educação: PEC da Pesquisa para transformar bolsistas em servidores públicos concursados; repasses federais à alfabetização condicionados a resultados em avaliações externas. Meio ambiente e questão indígena: cobrança das metas do marco legal do saneamento, prazos com responsáveis nomeados no licenciamento ambiental e projeto de lei regulamentando mineração em terra indígena com consulta prévia, participação econômica direta e proibição do uso de mercúrio. Trabalho e desigualdade aparecem nos eixos de emprego e renda (desoneração da contratação formal e cursos condicionados à demanda de contratação regional) e de habitação (portabilidade do aluguel para financiamento e titulação em massa).",
         "sources": [
-          { "id": "src-wg-70" },
-          { "id": "src-wg-71" },
-          { "id": "src-wg-72" }
+          {
+            "id": "src-wg-70"
+          },
+          {
+            "id": "src-wg-100"
+          },
+          {
+            "id": "src-wg-101"
+          }
         ],
         "evidenceStatus": "confirmado",
         "confidenceLevel": "medium",

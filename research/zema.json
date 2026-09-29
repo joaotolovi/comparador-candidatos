@@ -2999,6 +2999,235 @@
       "accessedAt": "2026-09-29",
       "sourceType": "estadual",
       "notes": "Fonte oficial estadual do lançamento do 'Vale do Lítio' (Lithium Valley Brazil) em Nova York, na Nasdaq, em 09/05/2023, para atrair mineradoras; 14 cidades envolvidas."
+    },
+    {
+      "id": "src-zema-130",
+      "title": "'Muito provavelmente iremos resgatar somente corpos', diz Zema sobre desaparecidos",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/gerais/2019/01/25/interna_gerais,1024648/provavelmente-iremos-resgatar-somente-corpos-diz-zema.shtml",
+      "publishedAt": "2019-01-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista coletiva concedida à imprensa em Brumadinho, em 25/01/2019, no dia do rompimento da barragem da Vale."
+    },
+    {
+      "id": "src-zema-133",
+      "title": "Governo de Minas lança protocolo sanitário para retomada de atividade econômica nos municípios",
+      "publisher": "Portal O Lábaro",
+      "url": "https://www.jornalolabaro.com.br/governo-de-minas-lanca-protocolo-sanitario-para-retomada-de-atividade-economica-nos-municipios",
+      "publishedAt": "2020-04-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lançamento do protocolo 'Minas Consciente' em abril de 2020, com critérios sanitários e adesão dos municípios por onda; imprensa regional."
+    },
+    {
+      "id": "src-zema-132",
+      "title": "Macrorregião Triângulo do Sul é inserida na Onda Roxa, fase mais restritiva do programa 'Minas Consciente'",
+      "publisher": "G1 Triângulo e Alto Paranaíba",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2021/03/06/macrorregiao-triangulo-do-sul-e-inserida-na-onda-roxa-fase-mais-restritiva-do-programa-minas-consciente.ghtml",
+      "publishedAt": "2021-03-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Descreve a classificação por cores/ondas (branca, amarela, verde, vermelha e roxa) do programa Minas Consciente e a mudança de fase por macrorregião de saúde."
+    },
+    {
+      "id": "src-zema-131",
+      "title": "Zema anuncia medidas mais restritivas contra covid-19 em Minas Gerais",
+      "publisher": "UOL Notícias",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/03/15/zema-anuncia-medidas-mais-restritivas-contra-covid-19-em-minas-gerais.htm",
+      "publishedAt": "2021-03-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Anúncio público, em 15/03/2021, de que só serviços essenciais funcionariam e da orientação para que os 853 municípios seguissem a onda roxa."
+    },
+    {
+      "id": "src-zema-134",
+      "title": "O GLOBO, Valor e CBN sabatinam Romeu Zema com transmissão ao vivo e abrem série de entrevistas com presidenciáveis",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/25/o-globo-valor-e-cbn-iniciam-sabatinas-transmitidas-ao-vivo-com-candidatos-a-presidencia.ghtml",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina de 25/08/2026, primeira da série O GLOBO/CBN/Valor com presidenciáveis, com cerca de uma hora e meia de duração."
+    },
+    {
+      "id": "src-zema-135",
+      "title": "Zema é sabatinado por Valor, O Globo e CBN",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/zema-e-sabatinado-por-valor-o-globo-e-cbn.ghtml",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura da mesma sabatina; Lula e Flávio Bolsonaro declinaram do convite, segundo a publicação."
+    },
+    {
+      "id": "src-zema-136",
+      "title": "Novo apresenta diretrizes do plano de governo de Romeu Zema, pré-candidato do partido à Presidência da República",
+      "publisher": "G1 — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/04/16/novo-apresenta-diretrizes-do-plano-de-governo-de-romeu-zema-pre-candidato-do-partido-a-presidencia-da-republica.ghtml",
+      "publishedAt": "2026-04-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Apresentação pública das diretrizes do plano de governo pelo partido, em São Paulo, em 16/04/2026."
+    },
+    {
+      "id": "src-zema-137",
+      "title": "Plano Mineiro de Desenvolvimento Integrado (PMDI) 2019-2030",
+      "publisher": "Governo de Minas Gerais — Seplag (mg.gov.br)",
+      "url": "https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/plano-mineiro-de-desenvolvimento-integrado-pmdi/plano-mineiro-de",
+      "publishedAt": "2019",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Página oficial: o PMDI 19-30 estabelece medidas de recuperação fiscal e define 10 objetivos estratégicos, 31 indicadores com metas para 2022, 2026 e 2030 e 99 diretrizes estratégicas. Conteúdo conferido na página em 29/09/2026 (atualizada em 11/08/2026)."
+    },
+    {
+      "id": "src-zema-138",
+      "title": "PPAG 2024-2027 — Plano Plurianual de Ação Governamental de Minas Gerais (Lei 24.677, de 2024)",
+      "publisher": "Assembleia Legislativa de Minas Gerais",
+      "url": "https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/ppag/leis/PPAG-2024-2027",
+      "publishedAt": "2024",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Lei 24.677/2024 institui o PPAG para o quadriênio 2024-2027, conforme os artigos 153 e 154 da Constituição do Estado de Minas Gerais."
+    },
+    {
+      "id": "src-zema-145",
+      "title": "Assembleia dá início a revisão do Plano Plurianual de Ação Governamental",
+      "publisher": "O Tempo",
+      "url": "https://www.otempo.com.br/politica/2025/10/16/assembleia-da-inicio-a-revisao-do-plano-plurianual-de-acao-governamental",
+      "publishedAt": "2025-10-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Início da revisão do PPAG com audiência pública na Assembleia Legislativa em 16/10/2025."
+    },
+    {
+      "id": "src-zema-140",
+      "title": "Zema aposta em privatizações e venda de ativos para enfrentar déficit em MG",
+      "publisher": "Valor Econômico — Revista Minas Gerais",
+      "url": "https://valor.globo.com/publicacoes/especiais/revista-minas-gerais/noticia/2026/03/27/zema-aposta-em-privatizacoes-e-venda-de-ativos-para-enfrentar-deficit-em-mg.ghtml",
+      "publishedAt": "2026-03-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra déficit de R$ 5,2 bilhões e dívida de R$ 187 bilhões, e a aposta em privatizações e venda de ativos no fim do governo Zema."
+    },
+    {
+      "id": "src-zema-141",
+      "title": "Copasa lança oferta de ações que deve privatizar companhia",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/05/copasa-lanca-oferta-de-acoes-que-deve-privatizar-companhia.shtml",
+      "publishedAt": "2026-05-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Oferta de 171,1 milhões de ações ordinárias com movimentação prevista acima de R$ 10 bilhões, após autorização da Assembleia Legislativa de Minas Gerais."
+    },
+    {
+      "id": "src-zema-142",
+      "title": "Zema diz que sucessor em MG vai levar adiante privatização da Cemig",
+      "publisher": "UOL Notícias (Agência Estado)",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/15/zema-diz-que-sucessor-em-mg-vai-levar-adiante-privatizacao-da-cemig.amp.htm",
+      "publishedAt": "2026-06-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração de 15/06/2026 sobre a continuidade do programa de privatização para além do seu mandato."
+    },
+    {
+      "id": "src-zema-146",
+      "title": "Privatização da Copasa: Assembleia de Minas aprova em 2º turno projeto que autoriza desestatização",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/economia/negocios/privatizacao-da-copasa-assembleia-de-minas-aprova-em-2-turno-projeto-que-autoriza-desestatizacao",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Aprovação em 2º turno, pela ALMG, do projeto que autoriza a desestatização da Copasa; data exata do dia não capturada na coleta."
+    },
+    {
+      "id": "src-zema-139",
+      "title": "Romeu Zema apresenta reforma administrativa e prevê economia de R$ 1 bilhão durante mandato",
+      "publisher": "Governo do Estado de Minas Gerais",
+      "url": "https://www.governo.mg.gov.br/Noticias/Detalhe/5160",
+      "publishedAt": "2019-02-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Proposta de reforma administrativa enviada à ALMG em fev/2019, com previsão de economia de R$ 1 bilhão em quatro anos; conteúdo registrado em busca (página oficial com carregamento dinâmico, sem texto recuperável na coleta de 29/09/2026)."
+    },
+    {
+      "id": "src-zema-147",
+      "title": "Zema envia projeto à ALMG para extinguir secretarias e cargos comissionados",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2019/02/05/interna_politica,1027984/zema-envia-projeto-a-almg-para-extinguir-secretarias-e-cargos.shtml",
+      "publishedAt": "2019-02-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Projeto de reforma administrativa enviado à Assembleia em fev/2019."
+    },
+    {
+      "id": "src-zema-143",
+      "title": "Superávit de Zema foi feito com arrocho salarial nos servidores",
+      "publisher": "Alem do Fato (UAI)",
+      "url": "https://alemdofato.uai.com.br/politica/superavit-zema-feito-arrocho-salarial-servidores/",
+      "publishedAt": "2026-02-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a divulgação, em 30/01/2026, de equilíbrio fiscal com superávit de R$ 1,108 bilhão em 2025 (receitas de R$ 132,7 bi e despesas de R$ 131,6 bi) e a crítica do Sindifisco sobre recomposição salarial."
+    },
+    {
+      "id": "src-zema-144",
+      "title": "Contas de Zema em MG têm melhora, mas caixa segue negativo e renúncias disparam",
+      "publisher": "Política Livre",
+      "url": "https://www.politicalivre.com.br/2026/08/contas-de-zema-em-mg-tem-melhora-mas-caixa-segue-negativo-e-renuncias-disparam",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Balanço dos sete anos da gestão: melhora de indicadores fiscais com caixa líquido negativo e renúncias fiscais em alta. Data exata do dia não capturada."
+    },
+    {
+      "id": "src-zema-157",
+      "title": "Como Romeu Zema tornou plano de privatizar Copasa uma bandeira de seu governo",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2025/12/21/como-romeu-zema-tornou-plano-de-privatizar-copasa-uma-bandeira-de-seu-governo.ghtml",
+      "publishedAt": "2025-12-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Projeto que autoriza a privatização da Copasa aprovado na ALMG em dezembro de 2025; o governador também pretende transferir Condemge, Codemig e MGI para a União."
+    },
+    {
+      "id": "src-zema-158",
+      "title": "Privatização da Copasa: as outras estatais na mira do governo de MG",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/politica/2026/06/amp/7442711-privatizacao-da-copasa-as-outras-estatais-na-mira-do-governo-de-mg.html",
+      "publishedAt": "2026-06-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Venda concluída em 16-17/06/2026 transferiu participação relevante da Copasa ao Grupo Equatorial; Cemig, Codemig e Gasmig seguem na pauta de desestatização."
+    },
+    {
+      "id": "src-zema-161",
+      "title": "Governo nega recomposição diferenciada para segurança pública",
+      "publisher": "Assembleia Legislativa de Minas Gerais",
+      "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Governo-nega-recomposicao-diferenciada-para-seguranca-publica",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Policiais, bombeiros e agentes socioeducativos reivindicavam revisão de 52,33% (perdas desde 2015); o governo estadual negou tratamento diferenciado para a área de segurança."
+    },
+    {
+      "id": "src-zema-162",
+      "title": "Romeu Zema (Novo), candidato à Presidência, concede entrevista à Globo",
+      "publisher": "g1 (Globo) — sabatina do Jornal Nacional",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Candidato afirmou que garantirá reposição da inflação ao salário mínimo e citou ajuste fiscal para levar a Selic a 6% ao ano; não detalhou o ajuste."
+    },
+    {
+      "id": "src-zema-163",
+      "title": "Zema diz que salário mínimo terá correção pela inflação, mas não garante ganho real",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/zema-diz-que-vai-manter-correo-do-salrio-mnimo-mas-no-garante-ganho-real.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
     }
   ],
   "updatedAt": "2026-09-29",
@@ -3041,7 +3270,21 @@
     "Caiado: o teor integral do MOU com os EUA (18/03/2026) não é público; a descrição usa o comunicado estadual e a apuração da Folha, com a controvérsia jurídica registrada e sem juízo. Não localizei registro de atuação em comissão de relações exteriores no período parlamentar nem entrevista à imprensa estrangeira em 2025-2026.",
     "Zema: a missão aos EUA divulgada pelo partido Novo (mais de R$ 1,5 bilhão em investimentos) ficou sem data confirmada — página com erro 403 e sem snapshot no Wayback Machine em 29/09/2026 — e não foi usada como evidência. Não localizei entrevista ou artigo do candidato em veículo estrangeiro em 2025-2026.",
     "Flávio Bolsonaro: a campanha não respondeu à Folha (12/09/2026); a natureza do encontro com Trump (duração e formalidade) divergem entre fontes; o programa não menciona BRICS, Mercosul nem a China como prioridade.",
-    "Lula: as posições por país/tema foram montadas a partir de declarações e atos de 2025-2026, sem documento único; o telefonema com Xi (26/07/2026) é conhecido por relato da agência estatal chinesa reproduzido pelo Estadão e não consta do comunicado brasileiro; em 29/09/2026 não há resultado publicado do grupo de trabalho bilateral sobre comércio proposto em maio de 2026."
+    "Lula: as posições por país/tema foram montadas a partir de declarações e atos de 2025-2026, sem documento único; o telefonema com Xi (26/07/2026) é conhecido por relato da agência estatal chinesa reproduzido pelo Estadão e não consta do comunicado brasileiro; em 29/09/2026 não há resultado publicado do grupo de trabalho bilateral sobre comércio proposto em maio de 2026.",
+    "Lula: os pronunciamentos em cadeia nacional foram identificados pelo registro oficial de convocações da EBC e pela cobertura de imprensa; o áudio/texto integral dos pronunciamentos de 06/09/2025, 30/11/2025, 23-24/12/2025 e 30/04/2026 não foi recuperado nesta rodada (a fonte usada lista data e tema).",
+    "Lula: o PBIA 2024-2028 e a meta climática de 2035 foram confirmados por título e resumo das páginas oficiais (gov.br com bloqueio de WAF na coleta direta) e por veículos secundários; não foram lidos os documentos integrais.",
+    "Flávio Bolsonaro: a informação sobre anistia e sobre a indicação de Cláudio Lottenberg para a Saúde (entrevista de 28/08/2026) foi confirmada por Poder360, UOL e pela página do J1/G1; os trechos literais da fala não foram recuperados no texto do G1.",
+    "Flávio Bolsonaro: não há registro, nesta rodada, de uso de instrumento próprio de rádio/TV (programa ou cadeia) — a comunicação identificada é por entrevistas, plenário e eventos setoriais.",
+    "Caiado: a participação em sabatina da TV Globo (25/08/2026) foi registrada pela cobertura de O Globo sem texto próprio recuperado; o conteúdo usado é o da sabatina O GLOBO/CBN/Valor de 26/08/2026.",
+    "Caiado: o Plano Estadual de Segurança Pública de combate à violência contra a mulher (2026-2035) foi elaborado na gestão Caiado, mas publicado em abril/2026 sob o governo do sucessor, Daniel Vilela — a atribuição está explicitada nas evidências.",
+    "Zema: as páginas oficiais de Agência Minas estão com funcionalidades desativadas durante o período eleitoral, o que impediu recuperar as notícias oficiais sobre mudanças de onda do Minas Consciente e a página do ato de reforma administrativa de 2019; essas evidências usam imprensa e o texto da proposta.",
+    "Zema: PMDI 2019-2030 e PPAG 2024-2027 foram verificados nas páginas oficiais (Seplag e ALMG), mas os documentos anexos (metas por indicador e anexo de metas por exercício) não foram lidos integralmente.",
+    "Caiado: não foi localizado o texto completo do acordo Goiás-EUA sobre minerais críticos (mar/2026) nem cláusulas além das noticiadas (exclusividade e sigilo); a descrição do tensionNote se limita ao que a imprensa registrou.",
+    "Caiado e Zema: as fontes do plano de governo não trazem estimativa de custo das principais propostas setoriais (segurança, saúde, meio ambiente), o que limita a comparação entre proposta e restrição fiscal ao texto público.",
+    "Flávio Bolsonaro: não foram localizadas declarações do próprio candidato explicando a convivência entre o voto contrário ao arcabouço (2023) e o plano de revisão das regras fiscais; o material disponível é da equipe econômica e do documento do plano.",
+    "Lula: não há documento público do governo que concilie a revisão de benefícios (pente-fino) com a posição declarada pelos ministérios sobre nova reforma previdenciária; a divergência está registrada apenas em declarações de ministros.",
+    "Zema: o acompanhamento da destinação final de Condemge, Codemig e MGI (transferência à União noticiada em dez/2025) não foi localizado em fonte posterior.",
+    "Datas de publicação de parte dos textos legislativos (ALMG, Alego, Senado - páginas de votação) não constam da página; registradas pelo período do ato, não pela data da página."
   ],
   "capacities": [
     {
@@ -3942,6 +4185,407 @@
       "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
       "coverage": "documentada",
       "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "comunicacao-publica",
+      "coverageNote": null,
+      "synthesis": "Na gestão de Minas, Zema comunicou decisões de restrição por instrumentos públicos: o programa Minas Consciente (2020) organizou a retomada por ondas com critérios sanitários e classificação por macrorregião divulgada periodicamente, e em março de 2021 o governo anunciou publicamente a adoção da onda roxa e a orientação de que os 853 municípios a seguissem. No primeiro mês de governo, em 25/01/2019, concedeu entrevista coletiva no dia do rompimento da barragem de Brumadinho, com anúncio de força-tarefa estadual. Na campanha de 2026, apresentou publicamente as diretrizes do plano de governo (16/04/2026) e abriu a série de sabatinas O GLOBO/CBN/Valor (25/08/2026), com posições sobre dívida pública, reforma da Previdência e privatizações.",
+      "evidences": [
+        {
+          "id": "ev-cap-comunicacao-publica-zema-01",
+          "kind": "historico",
+          "title": "Entrevista coletiva no dia do rompimento da barragem de Brumadinho",
+          "role": "Governador de Minas Gerais, no 25º dia de mandato — entrevista coletiva à imprensa em Brumadinho, 25/01/2019",
+          "complexity": "Situação de emergência com vítimas e desaparecidos, cobertura nacional e internacional; no mesmo dia foi anunciada força-tarefa estadual com Defesa Civil e Batalhão de Emergências Ambientais; as declarações trataram do prognóstico de resgate, inclusive o cenário de resgatar apenas corpos",
+          "outcome": "Força-tarefa e prognóstico divulgados publicamente no dia do desastre; o governo estadual passou a dar declarações diárias nos dias seguintes",
+          "period": "2019-01",
+          "context": "Primeiro mês de um governo recém-empossado (01/01/2019), diante de um desastre de grandes proporções provocado por barragem da Vale.",
+          "sources": [
+            {
+              "id": "src-zema-130",
+              "title": "'Muito provavelmente iremos resgatar somente corpos', diz Zema sobre desaparecidos",
+              "publisher": "Estado de Minas",
+              "url": "https://www.em.com.br/app/noticia/gerais/2019/01/25/interna_gerais,1024648/provavelmente-iremos-resgatar-somente-corpos-diz-zema.shtml",
+              "publishedAt": "2019-01-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Entrevista coletiva concedida à imprensa em Brumadinho, em 25/01/2019, no dia do rompimento da barragem da Vale."
+            },
+            {
+              "id": "src-zema-108",
+              "title": "Governo de Minas cria força-tarefa para acompanhar barragem de Brumadinho",
+              "publisher": "Correio Braziliense",
+              "url": "https://www.correiobraziliense.com.br/app/noticia/brasil/2019/01/25/interna-brasil,732933/governo-de-minas-cria-forca-tarefa-para-acompanhar-barragem-de-brumadi.shtml",
+              "publishedAt": "2019-01-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Força-tarefa estadual com Defesa Civil e Batalhão de Emergências Ambientais e formação de gabinete estratégico de crise no dia do rompimento."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-comunicacao-publica-zema-02",
+          "kind": "historico",
+          "title": "Comunicação pública do protocolo Minas Consciente, com critérios e mudanças de onda por macrorregião",
+          "role": "Governador de Minas Gerais — programa estadual de retomada econômica com classificação por cores/ondas",
+          "complexity": "Protocolo sanitário com critérios publicados e adesão municipal por onda (branca, amarela, verde, vermelha e roxa); as mudanças de fase eram divulgadas por macrorregião de saúde e baseadas em indicadores de leitos e casos",
+          "outcome": "Mudanças de fase comunicadas periodicamente à população (ex.: inserção do Triângulo do Sul na onda roxa em 06/03/2021; avanço e recuo de macrorregiões ao longo de 2020-2021)",
+          "period": "2020–2021",
+          "context": "Pandemia de covid-19, com decisão estadual sobre funcionamento de atividades econômicas e divergência entre municípios sobre a adesão ao protocolo.",
+          "sources": [
+            {
+              "id": "src-zema-133",
+              "title": "Governo de Minas lança protocolo sanitário para retomada de atividade econômica nos municípios",
+              "publisher": "Portal O Lábaro",
+              "url": "https://www.jornalolabaro.com.br/governo-de-minas-lanca-protocolo-sanitario-para-retomada-de-atividade-economica-nos-municipios",
+              "publishedAt": "2020-04-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Lançamento do protocolo 'Minas Consciente' em abril de 2020, com critérios sanitários e adesão dos municípios por onda; imprensa regional."
+            },
+            {
+              "id": "src-zema-132",
+              "title": "Macrorregião Triângulo do Sul é inserida na Onda Roxa, fase mais restritiva do programa 'Minas Consciente'",
+              "publisher": "G1 Triângulo e Alto Paranaíba",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2021/03/06/macrorregiao-triangulo-do-sul-e-inserida-na-onda-roxa-fase-mais-restritiva-do-programa-minas-consciente.ghtml",
+              "publishedAt": "2021-03-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Descreve a classificação por cores/ondas (branca, amarela, verde, vermelha e roxa) do programa Minas Consciente e a mudança de fase por macrorregião de saúde."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-comunicacao-publica-zema-03",
+          "kind": "historico",
+          "title": "Anúncio público de medidas mais restritivas em março de 2021",
+          "role": "Governador de Minas Gerais — anúncio público em 15/03/2021",
+          "complexity": "Decisão de restringir o funcionamento a serviços essenciais, com orientação de que os 853 municípios seguissem a onda roxa; anúncio feito com antecedência e justificado por indicadores de ocupação de leitos",
+          "outcome": "Medidas anunciadas e aplicadas ao conjunto do estado; decisão comunicada antes da vigência, com orientação expressa às prefeituras",
+          "period": "2021-03",
+          "context": "Pior momento da pandemia em Minas, com pressão de setores econômicos e divergência de prefeitos sobre fechamento.",
+          "sources": [
+            {
+              "id": "src-zema-131",
+              "title": "Zema anuncia medidas mais restritivas contra covid-19 em Minas Gerais",
+              "publisher": "UOL Notícias",
+              "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/03/15/zema-anuncia-medidas-mais-restritivas-contra-covid-19-em-minas-gerais.htm",
+              "publishedAt": "2021-03-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Anúncio público, em 15/03/2021, de que só serviços essenciais funcionariam e da orientação para que os 853 municípios seguissem a onda roxa."
+            },
+            {
+              "id": "src-zema-132",
+              "title": "Macrorregião Triângulo do Sul é inserida na Onda Roxa, fase mais restritiva do programa 'Minas Consciente'",
+              "publisher": "G1 Triângulo e Alto Paranaíba",
+              "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2021/03/06/macrorregiao-triangulo-do-sul-e-inserida-na-onda-roxa-fase-mais-restritiva-do-programa-minas-consciente.ghtml",
+              "publishedAt": "2021-03-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Descreve a classificação por cores/ondas (branca, amarela, verde, vermelha e roxa) do programa Minas Consciente e a mudança de fase por macrorregião de saúde."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-comunicacao-publica-zema-04",
+          "kind": "historico",
+          "title": "Abertura da série de sabatinas O GLOBO/CBN/Valor com os presidenciáveis",
+          "role": "Candidato à Presidência (NOVO) — primeiro sabatinado da série, em 25/08/2026, com cerca de uma hora e meia de duração",
+          "complexity": "Sabatina com transmissão ao vivo para três veículos de referência simultaneamente (O Globo, CBN e Valor Econômico), em estúdio do jornal, no início de série que ouviu também Caiado, Renan Santos e Augusto Cury; Lula e Flávio Bolsonaro não compareceram",
+          "outcome": "Posições registradas publicamente sobre dívida pública, crítica ao STF, recusa de privatização da Caixa e defesa de nova reforma da Previdência",
+          "period": "2026-08",
+          "context": "Candidato com 1% nas pesquisas de intenção de voto de setembro de 2026, usando as sabatinas para expor posições e propostas.",
+          "sources": [
+            {
+              "id": "src-zema-134",
+              "title": "O GLOBO, Valor e CBN sabatinam Romeu Zema com transmissão ao vivo e abrem série de entrevistas com presidenciáveis",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/25/o-globo-valor-e-cbn-iniciam-sabatinas-transmitidas-ao-vivo-com-candidatos-a-presidencia.ghtml",
+              "publishedAt": "2026-08-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina de 25/08/2026, primeira da série O GLOBO/CBN/Valor com presidenciáveis, com cerca de uma hora e meia de duração."
+            },
+            {
+              "id": "src-zema-135",
+              "title": "Zema é sabatinado por Valor, O Globo e CBN",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/zema-e-sabatinado-por-valor-o-globo-e-cbn.ghtml",
+              "publishedAt": "2026-08-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Cobertura da mesma sabatina; Lula e Flávio Bolsonaro declinaram do convite, segundo a publicação."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-comunicacao-publica-zema-05",
+          "kind": "historico",
+          "title": "Apresentação pública das diretrizes do plano de governo",
+          "role": "Pré-candidato do NOVO — apresentação das diretrizes do plano em evento do partido, em São Paulo, em 16/04/2026",
+          "complexity": "Apresentação pública do programa com 81 páginas e 20 temas, quatro meses antes do registro no TSE (08/08/2026); cobertura do Jornal Nacional",
+          "outcome": "Diretrizes tornadas públicas antes do registro formal e depois protocoladas no TSE com o mesmo conjunto de temas",
+          "period": "2026-04",
+          "context": "Fase de pré-campanha, em que o partido apresentou publicamente o conteúdo programático e a estrutura da campanha.",
+          "sources": [
+            {
+              "id": "src-zema-136",
+              "title": "Novo apresenta diretrizes do plano de governo de Romeu Zema, pré-candidato do partido à Presidência da República",
+              "publisher": "G1 — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/04/16/novo-apresenta-diretrizes-do-plano-de-governo-de-romeu-zema-pre-candidato-do-partido-a-presidencia-da-republica.ghtml",
+              "publishedAt": "2026-04-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Apresentação pública das diretrizes do plano de governo pelo partido, em São Paulo, em 16/04/2026."
+            },
+            {
+              "id": "src-zema-12",
+              "title": "Plano de governo Zema 2026 — PDF",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Mês inferido da URL."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Comunicação pública",
+      "question": "Consegue explicar prioridades, decisões e posições de forma compreensível e consistente?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "visao-estrategica",
+      "coverageNote": null,
+      "synthesis": "A gestão de Minas sob Zema operou com dois instrumentos de planejamento com prazos declarados: o PMDI 2019-2030, com 10 objetivos estratégicos, 31 indicadores com metas para 2022, 2026 e 2030 e 99 diretrizes, e o PPAG 2024-2027 (Lei 24.677/2024), com prioridades e metas por exercício. Diante de déficit de R$ 5,2 bilhões e dívida de R$ 187 bilhões (mar/2026), a prioridade declarada foi venda de ativos e privatizações, com a Copasa efetivamente privatizada e a Cemig prevista para o sucessor. A reforma administrativa de 2019 foi apresentada com meta de economia de R$ 1 bilhão no mandato, e o estado registrou superávit de R$ 1,108 bilhão em 2025, mantendo caixa líquido negativo. No plano de 2026, a estrutura é 'plano implantável' com metas anuais e progressivas e remissão a horizontes longos (marco do saneamento e Previdência).",
+      "evidences": [
+        {
+          "id": "ev-cap-visao-estrategica-zema-01",
+          "kind": "historico",
+          "title": "PMDI 2019-2030 — objetivos e indicadores com metas para 2022, 2026 e 2030",
+          "role": "Governo do Estado de Minas Gerais — instrumento de planejamento de longo prazo definido na Constituição estadual, elaborado no início da gestão",
+          "complexity": "Horizonte de 12 anos (2019-2030) com visão de futuro declarada, 10 objetivos estratégicos, 31 indicadores com metas datadas em três marcos (2022, 2026 e 2030) e 99 diretrizes estratégicas a serem observadas por todos os órgãos; o plano também estabelece medidas emergenciais de recuperação fiscal",
+          "outcome": "Documento publicado e mantido como referência de planejamento do estado na página oficial da Seplag, com versões anteriores disponíveis",
+          "period": "2019–2030",
+          "context": "Planejamento estadual de longo prazo previsto na Constituição de Minas (art. 231), usado como referência para o ciclo orçamentário e para os planos setoriais.",
+          "sources": [
+            {
+              "id": "src-zema-137",
+              "title": "Plano Mineiro de Desenvolvimento Integrado (PMDI) 2019-2030",
+              "publisher": "Governo de Minas Gerais — Seplag (mg.gov.br)",
+              "url": "https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/plano-mineiro-de-desenvolvimento-integrado-pmdi/plano-mineiro-de",
+              "publishedAt": "2019",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Página oficial: o PMDI 19-30 estabelece medidas de recuperação fiscal e define 10 objetivos estratégicos, 31 indicadores com metas para 2022, 2026 e 2030 e 99 diretrizes estratégicas. Conteúdo conferido na página em 29/09/2026 (atualizada em 11/08/2026)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-visao-estrategica-zema-02",
+          "kind": "historico",
+          "title": "PPAG 2024-2027 — plano plurianual de ação governamental aprovado pela Assembleia",
+          "role": "Governador de Minas Gerais — proposta de PPAG encaminhada à Assembleia Legislativa e sancionada como Lei 24.677/2024",
+          "complexity": "Quadriênio 2024-2027, com prioridades e metas da administração pública por exercício, vinculando programas e políticas públicas ao orçamento anual conforme a Constituição estadual (arts. 153 e 154); ciclo com revisão iniciada em outubro de 2025",
+          "outcome": "Lei do PPAG publicada e ciclo de revisão aberto na Assembleia Legislativa com audiência pública",
+          "period": "2024–2027",
+          "context": "Instrumento obrigatório de planejamento estadual, executado em paralelo ao PMDI de horizonte 2030.",
+          "sources": [
+            {
+              "id": "src-zema-138",
+              "title": "PPAG 2024-2027 — Plano Plurianual de Ação Governamental de Minas Gerais (Lei 24.677, de 2024)",
+              "publisher": "Assembleia Legislativa de Minas Gerais",
+              "url": "https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/ppag/leis/PPAG-2024-2027",
+              "publishedAt": "2024",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Lei 24.677/2024 institui o PPAG para o quadriênio 2024-2027, conforme os artigos 153 e 154 da Constituição do Estado de Minas Gerais."
+            },
+            {
+              "id": "src-zema-145",
+              "title": "Assembleia dá início a revisão do Plano Plurianual de Ação Governamental",
+              "publisher": "O Tempo",
+              "url": "https://www.otempo.com.br/politica/2025/10/16/assembleia-da-inicio-a-revisao-do-plano-plurianual-de-acao-governamental",
+              "publishedAt": "2025-10-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Início da revisão do PPAG com audiência pública na Assembleia Legislativa em 16/10/2025."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-visao-estrategica-zema-03",
+          "kind": "proposta",
+          "title": "Plano de 2026 estruturado como 'plano implantável', com metas progressivas e anuais",
+          "role": "Candidato à Presidência (NOVO) — plano registrado no TSE em 08/08/2026 (81 páginas, 20 temas)",
+          "complexity": "Documento organizado em 20 eixos (segurança, finanças públicas, desenvolvimento econômico, infraestrutura, educação, saúde, meio ambiente, reforma institucional, entre outros); prevê metas anuais de arrecadação na venda de imóveis federais, metas progressivas de redução da carga tributária 'que imponham os cortes de gastos', metas condicionadas a resultados de empregabilidade em cursos técnicos e remissão às metas do Novo Marco do Saneamento e à sustentabilidade previdenciária 'no longo prazo' (ajuste automático da idade mínima pela expectativa de vida)",
+          "outcome": "Programa protocolado no TSE com 20 temas e apresentado como plano de execução verificável, com metas vinculadas a indicadores",
+          "period": "2026",
+          "context": "Candidato apresenta sua experiência de ajuste fiscal em Minas como base de aplicação do mesmo método na União.",
+          "sources": [
+            {
+              "id": "src-zema-12",
+              "title": "Plano de governo Zema 2026 — PDF",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Mês inferido da URL."
+            },
+            {
+              "id": "src-zema-10",
+              "title": "Novo oficializa candidatura de Zema no TSE e apresenta plano de governo",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/novo-oficializa-candidatura-de-zema-no-tse-e-apresenta-plano-de-governo",
+              "publishedAt": "2026-08-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "81 páginas e 20 temas; protocolo no TSE em 08/08/2026."
+            },
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-visao-estrategica-zema-04",
+          "kind": "historico",
+          "title": "Prioridade em privatizações e venda de ativos diante do déficit, com continuidade transferida ao sucessor",
+          "role": "Governador de Minas Gerais — programa de desestatização e venda de ativos executado no mandato",
+          "complexity": "Déficit de R$ 5,2 bilhões e dívida consolidada de R$ 187 bilhões registrados em março de 2026; a Copasa foi privatizada após autorização da Assembleia Legislativa, com oferta de 171,1 milhões de ações e movimentação prevista acima de R$ 10 bilhões (mai/2026); a privatização da Cemig foi declarada como continuidade a ser levada adiante pelo sucessor eleito no estado",
+          "outcome": "Copasa: oferta de ações lançada em maio de 2026; Cemig: processo não concluído no mandato, com declaração pública de continuidade depois dele",
+          "period": "2019–2026",
+          "context": "Restrição fiscal estrutural do estado e dependência de autorização legislativa para as desestatizações, com oposição sindical e discussão no Tribunal de Contas.",
+          "sources": [
+            {
+              "id": "src-zema-140",
+              "title": "Zema aposta em privatizações e venda de ativos para enfrentar déficit em MG",
+              "publisher": "Valor Econômico — Revista Minas Gerais",
+              "url": "https://valor.globo.com/publicacoes/especiais/revista-minas-gerais/noticia/2026/03/27/zema-aposta-em-privatizacoes-e-venda-de-ativos-para-enfrentar-deficit-em-mg.ghtml",
+              "publishedAt": "2026-03-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra déficit de R$ 5,2 bilhões e dívida de R$ 187 bilhões, e a aposta em privatizações e venda de ativos no fim do governo Zema."
+            },
+            {
+              "id": "src-zema-141",
+              "title": "Copasa lança oferta de ações que deve privatizar companhia",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/mercado/2026/05/copasa-lanca-oferta-de-acoes-que-deve-privatizar-companhia.shtml",
+              "publishedAt": "2026-05-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Oferta de 171,1 milhões de ações ordinárias com movimentação prevista acima de R$ 10 bilhões, após autorização da Assembleia Legislativa de Minas Gerais."
+            },
+            {
+              "id": "src-zema-142",
+              "title": "Zema diz que sucessor em MG vai levar adiante privatização da Cemig",
+              "publisher": "UOL Notícias (Agência Estado)",
+              "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/15/zema-diz-que-sucessor-em-mg-vai-levar-adiante-privatizacao-da-cemig.amp.htm",
+              "publishedAt": "2026-06-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Declaração de 15/06/2026 sobre a continuidade do programa de privatização para além do seu mandato."
+            },
+            {
+              "id": "src-zema-146",
+              "title": "Privatização da Copasa: Assembleia de Minas aprova em 2º turno projeto que autoriza desestatização",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/economia/negocios/privatizacao-da-copasa-assembleia-de-minas-aprova-em-2-turno-projeto-que-autoriza-desestatizacao",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Aprovação em 2º turno, pela ALMG, do projeto que autoriza a desestatização da Copasa; data exata do dia não capturada na coleta."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-visao-estrategica-zema-05",
+          "kind": "historico",
+          "title": "Reforma administrativa com meta de economia e resultado fiscal alcançado, com limites registrados",
+          "role": "Governador de Minas Gerais — proposta de reforma administrativa (fev/2019) e gestão das contas estaduais até 2026",
+          "complexity": "Reforma administrativa enviada à Assembleia em fev/2019 com previsão de economia de R$ 1 bilhão em quatro anos, incluindo extinção de secretarias e de cargos comissionados; em 2025, o estado registrou superávit de R$ 1,108 bilhão (receitas de R$ 132,7 bi e despesas de R$ 131,6 bi), com caixa líquido ainda negativo e renúncias fiscais em alta no balanço dos sete anos",
+          "outcome": "Economia declarada na proposta e resultado primário positivo em 2025; o balanço posterior registra melhora de indicadores com caixa negativo e aumento de renúncias; houve crítica pública de sindicato de fiscais sobre negociação salarial",
+          "period": "2019–2026",
+          "context": "Sequência declarada de prioridades: reduzir estrutura e despesa corrente primeiro, para depois ampliar investimento; a avaliação do resultado é contestada por entidades de servidores.",
+          "sources": [
+            {
+              "id": "src-zema-139",
+              "title": "Romeu Zema apresenta reforma administrativa e prevê economia de R$ 1 bilhão durante mandato",
+              "publisher": "Governo do Estado de Minas Gerais",
+              "url": "https://www.governo.mg.gov.br/Noticias/Detalhe/5160",
+              "publishedAt": "2019-02-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Proposta de reforma administrativa enviada à ALMG em fev/2019, com previsão de economia de R$ 1 bilhão em quatro anos; conteúdo registrado em busca (página oficial com carregamento dinâmico, sem texto recuperável na coleta de 29/09/2026)."
+            },
+            {
+              "id": "src-zema-147",
+              "title": "Zema envia projeto à ALMG para extinguir secretarias e cargos comissionados",
+              "publisher": "Estado de Minas",
+              "url": "https://www.em.com.br/app/noticia/politica/2019/02/05/interna_politica,1027984/zema-envia-projeto-a-almg-para-extinguir-secretarias-e-cargos.shtml",
+              "publishedAt": "2019-02-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Projeto de reforma administrativa enviado à Assembleia em fev/2019."
+            },
+            {
+              "id": "src-zema-143",
+              "title": "Superávit de Zema foi feito com arrocho salarial nos servidores",
+              "publisher": "Alem do Fato (UAI)",
+              "url": "https://alemdofato.uai.com.br/politica/superavit-zema-feito-arrocho-salarial-servidores/",
+              "publishedAt": "2026-02-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra a divulgação, em 30/01/2026, de equilíbrio fiscal com superávit de R$ 1,108 bilhão em 2025 (receitas de R$ 132,7 bi e despesas de R$ 131,6 bi) e a crítica do Sindifisco sobre recomposição salarial."
+            },
+            {
+              "id": "src-zema-144",
+              "title": "Contas de Zema em MG têm melhora, mas caixa segue negativo e renúncias disparam",
+              "publisher": "Política Livre",
+              "url": "https://www.politicalivre.com.br/2026/08/contas-de-zema-em-mg-tem-melhora-mas-caixa-segue-negativo-e-renuncias-disparam",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Balanço dos sete anos da gestão: melhora de indicadores fiscais com caixa líquido negativo e renúncias fiscais em alta. Data exata do dia não capturada."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Visão estratégica",
+      "question": "Consegue definir prioridades e conectar decisões de curto prazo a objetivos maiores?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
     }
   ],
   "countryProject": {
@@ -4006,24 +4650,23 @@
         "sourceType": "imprensa"
       },
       {
-        "id": "src-zema-80",
-        "title": "Entenda o Acordo Judicial de Reparação ao rompimento da barragem em Brumadinho (assinado em 04/02/2021)",
-        "publisher": "Governo de Minas Gerais — Programa Pró-Brumadinho (mg.gov.br)",
-        "url": "https://www.mg.gov.br/pro-brumadinho/pagina/entenda-o-acordo-judicial-de-reparacao-ao-rompimento-de-brumadinho",
-        "publishedAt": "2021-02-04",
-        "accessedAt": "2026-09-29",
-        "sourceType": "estadual",
-        "notes": "Acordo assinado pelo Governo de Minas, MPMG, MPF e DPMG com a Vale S.A., sob mediação do Tribunal de Justiça."
-      },
-      {
-        "id": "src-zema-81",
-        "title": "Vale assina acordo para pagar R$ 37,68 bilhões de reparação por Brumadinho",
-        "publisher": "O Tempo",
-        "url": "https://www.otempo.com.br/cidades/vale-assina-acordo-para-pagar-r-37-68-bilhoes-de-reparacao-por-brumadinho-1.2443353",
-        "publishedAt": "2021-02-04",
+        "id": "src-zema-162",
+        "title": "Romeu Zema (Novo), candidato à Presidência, concede entrevista à Globo",
+        "publisher": "g1 (Globo) — sabatina do Jornal Nacional",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml",
+        "publishedAt": "2026-08-24",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
-        "notes": ""
+        "notes": "Candidato afirmou que garantirá reposição da inflação ao salário mínimo e citou ajuste fiscal para levar a Selic a 6% ao ano; não detalhou o ajuste."
+      },
+      {
+        "id": "src-zema-163",
+        "title": "Zema diz que salário mínimo terá correção pela inflação, mas não garante ganho real",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/zema-diz-que-vai-manter-correo-do-salrio-mnimo-mas-no-garante-ganho-real.ghtml",
+        "publishedAt": "2026-08-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
       }
     ],
     "coverage": "documentada",
@@ -4133,5 +4776,537 @@
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
     "methodology": "Base: plano de governo registrado (PDF, ago/2026) e cobertura de 2026 (G1, DW, Folha, Agência Brasil, Gazeta do Povo), além de fontes oficiais estaduais (Secretaria-Geral MG, 10/10/2025; Agência Minas, 09/05/2023). Análise aproximada: o plano apresenta a política externa em um item único ('Saída do BRICS, ingresso na OCDE e Mercosul como zona de livre comércio'), sem cronograma, custo ou desenho de implementação; as posições adicionais vêm de entrevistas e de respostas da campanha à Folha. Lacuna registrada: a missão aos EUA divulgada pelo partido Novo (mais de R$ 1,5 bilhão em investimentos) não teve data confirmada — a página retornou erro 403 e não havia snapshot disponível no Wayback Machine em 29/09/2026 — e por isso não foi usada como evidência. Não há posição documentada sobre Ucrânia, OTAN e Rússia."
-  }
+  },
+  "coherence": [
+    {
+      "id": "coh-zema-previdencia",
+      "theme": "previdência",
+      "timeline": [
+        {
+          "year": "2020",
+          "position": "Enviou e sancionou a reforma previdenciária estadual (PLC 46/2020, convertido na LC 156/2020), com idade mínima de 65 anos para homens e 62 para mulheres, após quatro meses de tramitação na ALMG.",
+          "sources": [
+            {
+              "id": "src-zema-78",
+              "title": "Com aprovação de PLC, Assembleia conclui votação da reforma da previdência (PLC 46/2020)",
+              "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+              "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/09/04_plenario_aprovacao_plc46_reforma.html",
+              "publishedAt": "2020-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": ""
+            },
+            {
+              "id": "src-zema-79",
+              "title": "Governador Romeu Zema sanciona projeto de reforma da Previdência em Minas Gerais (LC 156/2020)",
+              "publisher": "g1 — Globo (MG)",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2020/09/22/governador-romeu-zema-sanciona-projeto-de-reforma-da-previdencia-em-minas-gerais.ghtml",
+              "publishedAt": "2020-09-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Lei Complementar 156/2020 publicada no Diário Oficial de 23/09/2020."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "O plano propõe 'reforma definitiva' da Previdência, envolvendo estados, municípios, previdência rural e militar, com mecanismo de reajuste automático da idade mínima por expectativa de vida e desvinculação de benefícios do reajuste do salário mínimo.",
+          "sources": [
+            {
+              "id": "src-zema-12",
+              "title": "Plano de governo Zema 2026 — PDF",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Mês inferido da URL."
+            },
+            {
+              "id": "src-zema-11",
+              "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "O plano também prevê desengessar o orçamento, revisando a expansão automática de despesas obrigatórias, inclusive emendas parlamentares.",
+          "sources": [
+            {
+              "id": "src-zema-12",
+              "title": "Plano de governo Zema 2026 — PDF",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Mês inferido da URL."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "O plano justifica a nova reforma pela sustentabilidade do sistema no longo prazo e pela necessidade de preservar a proteção das futuras gerações; a reforma estadual de 2020 foi defendida pelo governo de Minas como medida de equilíbrio fiscal.",
+      "statedPosition": "Fazer nova reforma previdenciária federal com gatilho automático de idade mínima e revisão de vínculos de reajuste.",
+      "proposedAction": "Reforma envolvendo estados, municípios, previdência rural e militar, com reajuste automático da idade mínima pela expectativa de vida e desvinculação do reajuste do salário mínimo.",
+      "historicalAction": "Reforma previdenciária estadual aprovada na ALMG e sancionada em setembro de 2020 (LC 156/2020), com idade mínima de 65/62 anos e regras de transição.",
+      "tensionNote": "A desvinculação dos benefícios do reajuste do salário mínimo afeta benefícios cujo piso é o mínimo (BPC, benefício rural e piso do INSS); o plano não detalha regra de transição nem o efeito sobre esses benefícios, e a proposta depende de emenda constitucional no Congresso.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    },
+    {
+      "id": "coh-zema-fiscal",
+      "theme": "política fiscal/orçamento",
+      "timeline": [
+        {
+          "year": "2019-2025",
+          "position": "Governou sob Regime de Recuperação Fiscal; vetou a recomposição salarial de 41% em 2020 (veto mantido pela ALMG em 17/06/2020) e sancionou parcialmente a revisão salarial dos militares.",
+          "sources": [
+            {
+              "id": "src-zema-100",
+              "title": "Mantido veto a recomposição salarial para servidores (Veto 23/20)",
+              "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+              "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/06/17_plenario_veto_recomposicao_seguranca.html",
+              "publishedAt": "2020-06-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Veto mantido por 33 votos a 35 (eram necessários 39 para derrubar); manteve-se apenas a correção de 13% para a segurança pública."
+            },
+            {
+              "id": "src-zema-101",
+              "title": "Revisão salarial de militares é sancionada parcialmente (Lei 23.597/2020)",
+              "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+              "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/03/12_sancao_e_veto_salario_militares.html",
+              "publishedAt": "2020-03-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Sanção com veto de 12/03/2020: 13% para a segurança pública e veto à recomposição de 41% escalonada até 2022 e à emenda que estendia o reajuste a outras categorias."
+            },
+            {
+              "id": "src-zema-102",
+              "title": "Derrubada de veto ao reajuste dos servidores ganha força na Assembleia",
+              "publisher": "Estado de Minas",
+              "url": "https://www.em.com.br/app/noticia/politica/2020/03/13/interna_politica,1128413/queda-de-veto-ao-reajuste-dos-servidores-ganha-forca-na-assembleia.shtml",
+              "publishedAt": "2020-03-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reação de parlamentares ao veto e anúncio do pagamento parcial do 13º de 2019 (17% dos servidores ainda sem o benefício à época)."
+            }
+          ]
+        },
+        {
+          "year": "2025",
+          "position": "Saiu do Regime de Recuperação Fiscal (decreto federal de 22/12/2025) após sanção da lei estadual de adesão ao Propag (jun/2025).",
+          "sources": [
+            {
+              "id": "src-zema-74",
+              "title": "Minas Gerais sai do Regime de Recuperação Fiscal e pode aderir ao Propag (decreto de Lula publicado em 22/12/2025)",
+              "publisher": "O Tempo",
+              "url": "https://www.otempo.com.br/politica/2025/12/22/minas-gerais-esta-fora-do-regime-de-recuperacao-fiscal-e-pode-aderir-ao-propag-entenda-a-mudanca",
+              "publishedAt": "2025-12-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": ""
+            },
+            {
+              "id": "src-zema-75",
+              "title": "Repasse de R$ 35,8 bi em ativos e redução de juros: o que diz o contrato de adesão de Minas ao Propag",
+              "publisher": "O Fator",
+              "url": "https://ofator.com.br/informacao/repasse-de-r-358-bi-em-ativos-e-reducao-de-juros-o-que-diz-o-contrato-de-adesao-de-minas-ao-propag/",
+              "publishedAt": "2025-12-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Contrato de adesão assinado após autorização do Ministério da Fazenda."
+            },
+            {
+              "id": "src-zema-76",
+              "title": "Governo de Minas Gerais sanciona lei de adesão ao Propag (Lei 25.282/2025)",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/brasil/noticia/2025/06/05/governo-de-minas-gerais-sanciona-lei-de-adeso-ao-propag.ghtml",
+              "publishedAt": "2025-06-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Lei autoriza o Estado a sair do RRF e aderir ao Propag; aprovada na ALMG na mesma semana."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "Sancionou o orçamento de 2026 com um veto parcial (Lei 25.698/2026), com déficit projetado 39% menor.",
+          "sources": [
+            {
+              "id": "src-zema-05",
+              "title": "Lei nº 25.698, de 14/01/2026 (orçamento de MG 2026)",
+              "publisher": "ALMG",
+              "url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25698/2026/",
+              "publishedAt": "2026-01-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Valores exatos de receita/despesa; sanção assinada por Romeu Zema Neto. Divergência de número da lei com a notícia da ALMG (25.689/2026)."
+            },
+            {
+              "id": "src-zema-07",
+              "title": "Orçamento é sancionado com um veto parcial",
+              "publisher": "ALMG",
+              "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-e-sancionado-com-um-veto-parcial/",
+              "publishedAt": "2026-01-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Cita Lei 25.689/2026 publicada no Diário Oficial."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "O plano propõe 'choque fiscal' nos gastos, revisão do crescimento automático de despesas obrigatórias e extinção do Fundo Eleitoral e do Fundo Partidário, que somariam R$ 6,3 bilhões em 2026 (R$ 4,9 bilhões e R$ 1,4 bilhão).",
+          "sources": [
+            {
+              "id": "src-zema-12",
+              "title": "Plano de governo Zema 2026 — PDF",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Mês inferido da URL."
+            },
+            {
+              "id": "src-zema-11",
+              "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "A contenção de despesas, o veto à recomposição de 2020 e a saída do RRF são apresentados pelo candidato como condições para o estado voltar a investir; o plano projeta que o corte de despesas obrigatórias libere espaço para investimento.",
+      "statedPosition": "Choque fiscal com corte de despesas obrigatórias, extinção dos fundos públicos de financiamento eleitoral e partidário e desindexação de reajustes.",
+      "proposedAction": "Revisão do crescimento automático das despesas obrigatórias (inclusive emendas), fim do Fundo Eleitoral e do Fundo Partidário com financiamento privado, e devolução de espaço no orçamento para investimento.",
+      "historicalAction": "Veto à recomposição salarial de 41% em 2020 (mantido pela ALMG), orçamento de 2026 sancionado com veto parcial e déficit 39% menor, e adesão ao Propag com saída do Regime de Recuperação Fiscal.",
+      "tensionNote": "O plano propõe extinguir o Fundo Eleitoral e o Fundo Partidário; a campanha do candidato declarou ter recebido cerca de R$ 5 milhões do fundo eleitoral (Poder360, 27/07/2026) e R$ 1,75 milhão do fundo partidário (Metrópoles, ago/2026) - são repasses previstos em lei e as fontes registram os dois fatos.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    },
+    {
+      "id": "coh-zema-privatizacoes",
+      "theme": "economia/estatais",
+      "timeline": [
+        {
+          "year": "2019",
+          "position": "Enviou e sancionou a reforma administrativa que reduziu o secretariado de 21 para 12 pastas e extinguiu 3,6 mil cargos comissionados (Lei 23.304/2019, com vetos parciais).",
+          "sources": [
+            {
+              "id": "src-zema-70",
+              "title": "Zema envia projeto à ALMG para extinguir secretarias e cargos comissionados (21 para 12 secretarias)",
+              "publisher": "Estado de Minas",
+              "url": "https://www.em.com.br/app/noticia/politica/2019/02/05/interna_politica,1027984/zema-envia-projeto-a-almg-para-extinguir-secretarias-e-cargos.shtml",
+              "publishedAt": "2019-02-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "PL 367/2019 encaminhado à ALMG em 05/02/2019."
+            },
+            {
+              "id": "src-zema-71",
+              "title": "Reforma administrativa é sancionada com veto parcial (Lei 23.304/2019; PL 367/19)",
+              "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+              "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2019/05/31_sancao_reforma_administrativa.html",
+              "publishedAt": "2019-05-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Sanção publicada no Diário Oficial de 31/05/2019 com nove dispositivos vetados."
+            }
+          ]
+        },
+        {
+          "year": "2025",
+          "position": "Projeto que autoriza a privatização da Copasa aprovado na ALMG em dezembro de 2025; o governador também manifestou intenção de transferir Condemge, Codemig e MGI para a União.",
+          "sources": [
+            {
+              "id": "src-zema-157",
+              "title": "Como Romeu Zema tornou plano de privatizar Copasa uma bandeira de seu governo",
+              "publisher": "G1",
+              "url": "https://g1.globo.com/mg/minas-gerais/noticia/2025/12/21/como-romeu-zema-tornou-plano-de-privatizar-copasa-uma-bandeira-de-seu-governo.ghtml",
+              "publishedAt": "2025-12-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Projeto que autoriza a privatização da Copasa aprovado na ALMG em dezembro de 2025; o governador também pretende transferir Condemge, Codemig e MGI para a União."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "Venda concluída em junho de 2026 transferiu participação relevante da Copasa ao Grupo Equatorial; Cemig, Codemig e Gasmig permanecem na pauta de desestatização.",
+          "sources": [
+            {
+              "id": "src-zema-158",
+              "title": "Privatização da Copasa: as outras estatais na mira do governo de MG",
+              "publisher": "Estado de Minas",
+              "url": "https://www.em.com.br/politica/2026/06/amp/7442711-privatizacao-da-copasa-as-outras-estatais-na-mira-do-governo-de-mg.html",
+              "publishedAt": "2026-06-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Venda concluída em 16-17/06/2026 transferiu participação relevante da Copasa ao Grupo Equatorial; Cemig, Codemig e Gasmig seguem na pauta de desestatização."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "O plano propõe privatizar todas as empresas estatais, com o Estado concentrado em regulação e fiscalização (incluindo a Petrobras, conforme declarações), e ampliar parcerias público-privadas.",
+          "sources": [
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-15",
+              "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+              "publisher": "Correio do Povo",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+              "publishedAt": "2026-08-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-12",
+              "title": "Plano de governo Zema 2026 — PDF",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Mês inferido da URL."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "O plano associa desestatização à redução do custo do Estado e à atração de investimento privado em saneamento, energia e infraestrutura, citando as metas do Novo Marco do Saneamento e a regulação como função central do Estado.",
+      "statedPosition": "Privatizar as estatais e reduzir a participação direta do Estado em atividades produtivas, mantendo regulação e fiscalização.",
+      "proposedAction": "Privatização de 100% das estatais, ampliação de PPPs e concessões, e uso do Novo Marco do Saneamento para atrair investimento em água e esgoto.",
+      "historicalAction": "Reforma administrativa de 2019 (21 para 12 secretarias e 3,6 mil cargos extintos) e condução do processo de privatização da Copasa até a venda de participação relevante concluída em junho de 2026.",
+      "tensionNote": "O plano define a privatização integral das estatais como regra, enquanto a desestatização estadual em curso manteve Cemig, Codemig e Gasmig na pauta sem cronograma documentado e previu, em 2025, a transferência de ativos estaduais (Condemge, Codemig e MGI) para a União; as fontes registram os dois movimentos sem documento que detalhe a ordem ou a conciliação entre eles.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium"
+    },
+    {
+      "id": "coh-zema-seguranca",
+      "theme": "segurança pública",
+      "timeline": [
+        {
+          "year": "2020",
+          "position": "Vetou a recomposição salarial de 41% dos servidores, incluindo policiais, bombeiros e agentes socioeducativos; o veto foi mantido pela ALMG em 17/06/2020, permanecendo 13% para a segurança pública, e a revisão salarial dos militares foi sancionada parcialmente (Lei 23.597/2020).",
+          "sources": [
+            {
+              "id": "src-zema-100",
+              "title": "Mantido veto a recomposição salarial para servidores (Veto 23/20)",
+              "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+              "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/06/17_plenario_veto_recomposicao_seguranca.html",
+              "publishedAt": "2020-06-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Veto mantido por 33 votos a 35 (eram necessários 39 para derrubar); manteve-se apenas a correção de 13% para a segurança pública."
+            },
+            {
+              "id": "src-zema-101",
+              "title": "Revisão salarial de militares é sancionada parcialmente (Lei 23.597/2020)",
+              "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+              "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/03/12_sancao_e_veto_salario_militares.html",
+              "publishedAt": "2020-03-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Sanção com veto de 12/03/2020: 13% para a segurança pública e veto à recomposição de 41% escalonada até 2022 e à emenda que estendia o reajuste a outras categorias."
+            },
+            {
+              "id": "src-zema-102",
+              "title": "Derrubada de veto ao reajuste dos servidores ganha força na Assembleia",
+              "publisher": "Estado de Minas",
+              "url": "https://www.em.com.br/app/noticia/politica/2020/03/13/interna_politica,1128413/queda-de-veto-ao-reajuste-dos-servidores-ganha-forca-na-assembleia.shtml",
+              "publishedAt": "2020-03-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reação de parlamentares ao veto e anúncio do pagamento parcial do 13º de 2019 (17% dos servidores ainda sem o benefício à época)."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "Já com o sucessor no governo estadual, o Estado negou a recomposição diferenciada de 52,33% reivindicada pela área de segurança pública, em audiência na ALMG.",
+          "sources": [
+            {
+              "id": "src-zema-161",
+              "title": "Governo nega recomposição diferenciada para segurança pública",
+              "publisher": "Assembleia Legislativa de Minas Gerais",
+              "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Governo-nega-recomposicao-diferenciada-para-seguranca-publica",
+              "publishedAt": "2026-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Policiais, bombeiros e agentes socioeducativos reivindicavam revisão de 52,33% (perdas desde 2015); o governo estadual negou tratamento diferenciado para a área de segurança."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "O plano propõe classificar facções como organizações terroristas, reduzir a maioridade penal aos 16 anos, construir presídios de segurança máxima, empregar as Forças Armadas na retomada de territórios e liberar porte de armas em toda a extensão das propriedades rurais.",
+          "sources": [
+            {
+              "id": "src-zema-12",
+              "title": "Plano de governo Zema 2026 — PDF",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Mês inferido da URL."
+            },
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "O plano justifica o endurecimento pela necessidade de retomar territórios dominados por facções e de 'acabar com o prende e solta', prevendo operações conjuntas com as Forças Armadas e cooperação internacional.",
+      "statedPosition": "Classificar facções como terroristas, endurecer penas e retomar territórios com integração entre Forças Armadas e polícias.",
+      "proposedAction": "Narcoterrorismo com penas mais altas e progressão zero, maioridade penal aos 16, presídios de segurança máxima em regiões remotas, Forças Armadas na retomada de territórios e porte de armas em propriedades rurais.",
+      "historicalAction": "Veto à recomposição salarial de 41% (mantido pela ALMG em 17/06/2020) e sanção parcial da revisão salarial dos militares em 2020 (Lei 23.597/2020).",
+      "tensionNote": "As propostas de endurecimento penal e de construção de presídios de segurança máxima e a integração das Forças Armadas implicam despesa e efetivo; o plano vincula-se a um 'choque fiscal' com corte de despesas obrigatórias e as fontes consultadas não trazem estimativa de custo das medidas de segurança.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    },
+    {
+      "id": "coh-zema-ambiente",
+      "theme": "meio ambiente/clima",
+      "timeline": [
+        {
+          "year": "2019-2021",
+          "position": "Resposta ao rompimento da barragem de Brumadinho: gabinete de crise e força-tarefa estaduais, com bloqueio judicial de R$ 11 bilhões da Vale e acordo firmado em fevereiro de 2021 no valor de R$ 37,68 bilhões.",
+          "sources": [
+            {
+              "id": "src-zema-108",
+              "title": "Governo de Minas cria força-tarefa para acompanhar barragem de Brumadinho",
+              "publisher": "Correio Braziliense",
+              "url": "https://www.correiobraziliense.com.br/app/noticia/brasil/2019/01/25/interna-brasil,732933/governo-de-minas-cria-forca-tarefa-para-acompanhar-barragem-de-brumadi.shtml",
+              "publishedAt": "2019-01-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Força-tarefa estadual com Defesa Civil e Batalhão de Emergências Ambientais e formação de gabinete estratégico de crise no dia do rompimento."
+            },
+            {
+              "id": "src-zema-109",
+              "title": "Brumadinho — ações do Comitê de Operações de Emergência em Saúde (COES)",
+              "publisher": "Secretaria de Estado de Saúde de Minas Gerais",
+              "url": "https://www.saude.mg.gov.br/brumadinho",
+              "publishedAt": "2019-02-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Reativação imediata do COES e medidas de suspensão do uso de água bruta do Rio Paraopeba."
+            },
+            {
+              "id": "src-zema-110",
+              "title": "Clipping de 28/01/2019 (registro do bloqueio de R$ 11 bilhões da Vale pela Justiça de MG)",
+              "publisher": "Ministério de Minas e Energia (gov.br)",
+              "url": "https://www.gov.br/mme/pt-br/arquivos/clipping-28-01-2019.pdf",
+              "publishedAt": "2019-01-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Compilação oficial de notícias de 28/01/2019 que registra o bloqueio judicial de R$ 11 bilhões da Vale e a capacidade estadual de fiscalização (quatro servidores para 317 barragens)."
+            },
+            {
+              "id": "src-zema-80",
+              "title": "Entenda o Acordo Judicial de Reparação ao rompimento da barragem em Brumadinho (assinado em 04/02/2021)",
+              "publisher": "Governo de Minas Gerais — Programa Pró-Brumadinho (mg.gov.br)",
+              "url": "https://www.mg.gov.br/pro-brumadinho/pagina/entenda-o-acordo-judicial-de-reparacao-ao-rompimento-de-brumadinho",
+              "publishedAt": "2021-02-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Acordo assinado pelo Governo de Minas, MPMG, MPF e DPMG com a Vale S.A., sob mediação do Tribunal de Justiça."
+            },
+            {
+              "id": "src-zema-81",
+              "title": "Vale assina acordo para pagar R$ 37,68 bilhões de reparação por Brumadinho",
+              "publisher": "O Tempo",
+              "url": "https://www.otempo.com.br/cidades/vale-assina-acordo-para-pagar-r-37-68-bilhoes-de-reparacao-por-brumadinho-1.2443353",
+              "publishedAt": "2021-02-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "year": "2024",
+          "position": "Assinou com União, Espírito Santo, Ministérios Públicos e Defensorias o acordo de repactuação de Mariana, com R$ 132 bilhões em novos recursos.",
+          "sources": [
+            {
+              "id": "src-zema-112",
+              "title": "Acordo de repactuação de Mariana é assinado em Brasília",
+              "publisher": "Tribunal Regional Federal da 6ª Região (TRF6)",
+              "url": "https://portal.trf6.jus.br/acordo-de-repactuacao-de-mariana-e-assinado-em-brasilia/",
+              "publishedAt": "2024-10-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal",
+              "notes": "Assinatura em 25/10/2024 com União, MG, ES, MPF, MPs estaduais, Defensorias e empresas; R$ 132 bi em novos recursos, mais de R$ 81 bi destinados a Minas."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "Criticou o 'abandono federativo' e cobrou mais recursos para municípios em desastres climáticos.",
+          "sources": [
+            {
+              "id": "src-zema-55",
+              "title": "Zema critica 'abandono federativo' e cobra mais recursos para municípios em desastre climático",
+              "publisher": "Rádio Itatiaia",
+              "url": "https://www.itatiaia.com.br/politica/zema-critica-abandono-federativo-e-cobra-mais-recursos-para-municipios-em-desastres-climatico/",
+              "publishedAt": "2026-05-20",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Discurso na Marcha dos Prefeitos, em Brasília, em quarta-feira (20/05/2026), citando repasses e a gestão de defesas civis em MG."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "O plano propõe 'conservar a natureza sem travar o desenvolvimento': licenciamento com critérios técnicos e previsibilidade, cumprimento do Código Florestal, combate à grilagem e ao desmatamento ilegal, mercado de carbono, bioeconomia e investimento em contenção de desastres climáticos.",
+          "sources": [
+            {
+              "id": "src-zema-12",
+              "title": "Plano de governo Zema 2026 — PDF",
+              "publisher": "Poder360 (espelho do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Mês inferido da URL."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "O plano apresenta a agenda ambiental como ativo econômico ('transformar o potencial ambiental em riqueza') e vincula prevenção de desastres à atração de investimento privado em infraestrutura e monitoramento climático.",
+      "statedPosition": "Conciliar o cumprimento do Código Florestal e o combate ao desmatamento ilegal com a exploração de terras raras e o licenciamento previsível para mineração.",
+      "proposedAction": "Licenciamento técnico com segurança jurídica, mercado de carbono voluntário, bioeconomia, saneamento pelo Novo Marco do Saneamento e investimento privado em contenção de desastres e reservatórios.",
+      "historicalAction": "Acordo de reparação de Brumadinho com a Vale (fev/2021, R$ 37,68 bilhões), coordenação do acordo de repactuação de Mariana (out/2024, R$ 132 bilhões em novos recursos) e bloqueio judicial de R$ 11 bilhões da Vale em 2019.",
+      "tensionNote": "O plano prevê facilitar a exploração de terras raras e minerais de alto valor e, ao mesmo tempo, combater com rigor a grilagem e a mineração ilegal, mantendo investimento em prevenção de desastres climáticos; as fontes consultadas não trazem estimativa de custo do programa de contenção de desastres nem o desenho de fiscalização da expansão mineral.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
+  ]
 }

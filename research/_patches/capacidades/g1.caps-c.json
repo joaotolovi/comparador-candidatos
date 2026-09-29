@@ -121,6 +121,396 @@
       "accessedAt": "2026-09-29",
       "sourceType": "executivo_federal",
       "notes": "Nova Indústria Brasil: seis missões com metas até 2033; R$ 300 bilhões em financiamentos anunciados em 2024 e plano de ação com metas por missão. Página gov.br protegida por WAF; teor confirmado por busca e por notícia do MDIC."
+    },
+    {
+      "id": "src-fb-01",
+      "title": "Flávio Bolsonaro (PL) é entrevistado na Globo; veja íntegra",
+      "publisher": "G1 — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/28/flavio-bolsonaro-pl-e-entrevistado-na-globo-veja-integra.ghtml",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista ao vivo de 28/08/2026 com Renata Vasconcellos e César Tralli, logo após o Jornal Nacional; a página lista os temas abordados (Vorcaro/Dark Horse, tentativa de golpe de 2022, urnas, tarifaço, PIX, ajuste fiscal, salário mínimo, aposentadoria, aquecimento global)."
+    },
+    {
+      "id": "src-fb-02",
+      "title": "'Vou respeitar o resultado das eleições', diz Flávio no JN",
+      "publisher": "UOL Notícias",
+      "url": "https://noticias.uol.com.br/eleicoes/2026/08/28/entrevista-flavio-bolsonaro.htm",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura da mesma entrevista de 28/08/2026, com o compromisso declarado de respeitar o resultado eleitoral."
+    },
+    {
+      "id": "src-fb-03",
+      "title": "Flávio anuncia médico Claudio Lottenberg como ministro da Saúde",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-saude/flavio-anuncia-medico-claudio-lottenberg-como-ministro-da-saude/",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Anúncio feito na entrevista ao Jornal Nacional de 28/08/2026; Lottenberg presidiu o conselho do Hospital Israelita Albert Einstein."
+    },
+    {
+      "id": "src-fb-04",
+      "title": "Flávio Bolsonaro afirma que 'o jogo não acabou', após condenação do pai pelo STF",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/09/11/flavio-bolsonaro-afirma-que-o-jogo-nao-acabou-apos-condenacao-do-pai-pelo-stf.ghtml",
+      "publishedAt": "2025-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração pública no dia da condenação de Jair Bolsonaro pela 1ª Turma do STF (11/09/2025), com defesa da anistia e da candidatura do pai em 2026 apesar da inelegibilidade."
+    },
+    {
+      "id": "src-fb-05",
+      "title": "Pronunciamentos de Flávio Bolsonaro em 2026 (registro oficial com resumos)",
+      "publisher": "Senado Federal — Atividade Legislativa",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/parlamentar/5894/2026/1",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Lista oficial de pronunciamentos em plenário e no Congresso, com resumo de cada fala (ex.: explicação pessoal de 21/05/2026 sobre o caso do Banco Master; defesa da instalação da CPMI do Banco Master; respostas a acusações de parlamentares em 30/04/2026)."
+    },
+    {
+      "id": "src-fb-06",
+      "title": "Pronunciamento de Flávio Bolsonaro em 07/10/2025",
+      "publisher": "Senado Federal — Atividade Legislativa",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/517369",
+      "publishedAt": "2025-10-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Texto do pronunciamento: crítica à posição do Governo Federal no conflito entre Israel e o Hamas."
+    },
+    {
+      "id": "src-fb-07",
+      "title": "Diretrizes do Plano de Governo Flávio Bolsonaro 2027-2030 — documento registrado no TSE",
+      "publisher": "TSE — DivulgaCandContas",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento de 76 páginas com 9 eixos ('Brasil sem Medo', 'Brasil por Elas', 'Brasil sem Fila', 'Brasil Mais Barato', 'Brasil que Prepara', 'Brasil que Prospera', 'Brasil que Cresce', 'Brasil que Cumpre a Constituição', 'Brasil que Não Volta Atrás')."
+    },
+    {
+      "id": "src-fb-08",
+      "title": "Plano de Governo 'Para o Brasil vencer o atraso' — Diretrizes 2027-2030 (PDF publicado na íntegra)",
+      "publisher": "Poder360 (espelho do PDF da campanha)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Texto integral lido diretamente (76 páginas, ~177 mil caracteres). Seções usadas: 'Apresentação', 'A jornada do cidadão', 'Como este Plano está organizado', 'Brasil que Não Volta Atrás' e capítulos de metas (500 mil vagas prisionais em 4 anos; 2,5 milhões de residências no Casa Verde e Amarela; nenhuma escola sem água até 2030; meta para 2030 em transição energética; saneamento com meta até 2033)."
+    },
+    {
+      "id": "src-fb-09",
+      "title": "Flávio Bolsonaro diz que fará 'tesouraço' em ministérios",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/18/flvio-bolsonaro-diz-que-far-tesourao-em-ministrios.ghtml",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração de 18/08/2026, em campanha em Belo Horizonte, sobre corte de estruturas do Executivo."
+    },
+    {
+      "id": "src-fb-10",
+      "title": "Com foco em segurança na campanha, Flávio Bolsonaro se distancia do tema no mandato e vai a uma reunião da comissão em 2026",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/06/08/com-foco-em-seguranca-na-campanha-flavio-bolsonaro-se-distancia-do-tema-no-mandato-e-vai-a-uma-reuniao-da-comissao-em-2026.ghtml",
+      "publishedAt": "2026-06-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra que, desde 2025, o senador preside a Comissão de Segurança Pública do Senado e que, em 2026, ano da campanha, compareceu a uma reunião da comissão."
+    },
+    {
+      "id": "src-fb-11",
+      "title": "Flávio promete reduzir impostos e diz que Brasil voltará a ter relações 'pragmáticas' com os EUA",
+      "publisher": "Gazeta do Povo",
+      "url": "https://gazetadopovo.com.br/eleicoes/2026/flavio-promete-reduzir-impostos-e-diz-que-brasil-voltara-a-ter-relacoes-pragmaticas-com-os-eua/",
+      "publishedAt": "2026-06-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Participação no evento 'A Indústria na Agenda dos Presidenciáveis' (CNI), em Brasília, em 22/06/2026: redução de carga tributária, desburocratização e política externa baseada em relações pragmáticas com EUA e China."
+    },
+    {
+      "id": "src-caiado-130",
+      "title": "Entrevista ao g1 e à GloboNews: Caiado propõe criar polícia unificada da América do Sul, anistiar condenados pelo 8 de janeiro e rever reforma tributária",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/07/g1-e-globonews-entrevistam-ronaldo-caiado-candidato-a-presidencia-pelo-psd.ghtml",
+      "publishedAt": "2026-08-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista de 1h30 em 07/08/2026, conduzida por Andréia Sadi e Natuza Nery, na série de entrevistas do g1/GloboNews com presidenciáveis: anistia, não retaliação aos EUA e negociação com terras raras, privatização dos Correios e do setor de gás da Petrobras, classificação do crime organizado como 'terrorismo doméstico', posição contrária a câmeras corporais, envio de reformas ao Congresso no primeiro dia de governo."
+    },
+    {
+      "id": "src-caiado-131",
+      "title": "Sabatina O GLOBO/CBN e Valor: Veja como foi a entrevista com Ronaldo Caiado em cinco pontos",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/26/sabatina-globocbnvalor-veja-como-foi-a-entrevista-com-ronaldo-caiado-em-cinco-pontos.ghtml",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina de 26/08/2026 (1h30), segunda da série O GLOBO/CBN/Valor com presidenciáveis; temas: segurança pública (40 presídios de segurança máxima, uso das Forças Armadas, posição sobre câmeras corporais), críticas a Flávio Bolsonaro e economia."
+    },
+    {
+      "id": "src-caiado-132",
+      "title": "Governador de Goiás rompe com Bolsonaro: 'a ignorância não é uma virtude'",
+      "publisher": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/governador-de-goias-rompe-com-bolsonaro-a-ignorancia-nao-e-uma-virtude/",
+      "publishedAt": "2020-03-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração de 25/03/2020 de que não atenderia às determinações do presidente sobre o combate ao coronavírus."
+    },
+    {
+      "id": "src-caiado-133",
+      "title": "PPA 2024-2027 — Plano Plurianual do Estado de Goiás (página oficial com leis, revisões e anexo de metas)",
+      "publisher": "Governo do Estado de Goiás",
+      "url": "https://ppa.go.gov.br/ppa-2024-2027/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Página oficial do PPA 2024-2027 com a lei do PPA, alteração pela Lei 23.009/2024, Decreto nº 10.710/2025, Anexo de Metas da LOA 2025, relatório de revisão e caderno de revisão PPA 2026."
+    },
+    {
+      "id": "src-caiado-134",
+      "title": "Lei nº 22.317, de 18 de outubro de 2023 — institui o Plano Plurianual do Estado de Goiás para o quadriênio 2024-2027",
+      "publisher": "Casa Civil do Estado de Goiás — Legisla",
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107865/pdf",
+      "publishedAt": "2023-10-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial",
+      "notes": "Texto legal do PPA estadual 2024-2027, definido no art. 1º como instrumento de planejamento governamental."
+    },
+    {
+      "id": "src-caiado-135",
+      "title": "SSP apresenta Plano Estadual de Segurança Pública e novo Plano Estratégico para os próximos 10 anos",
+      "publisher": "Agência Goiás de Notícias (Governo de Goiás)",
+      "url": "https://agencia.go.gov.br/especial/ssp-apresenta-plano-estadual-de-seguranca-publica-e-novo-plano-estrategico-para-os-proximos-10-anos/",
+      "publishedAt": "2022",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Apresentação do Plano Estratégico da SSP-GO 2022-2031, com objetivos, estratégias e iniciativas para dez anos."
+    },
+    {
+      "id": "src-caiado-136",
+      "title": "Plano Estadual de Segurança Pública para o Combate à Violência contra a Mulher do Estado de Goiás (2026–2035)",
+      "publisher": "Secretaria de Estado da Segurança Pública de Goiás (SSP-GO)",
+      "url": "https://goias.gov.br/seguranca/wp-content/uploads/sites/56/2026/04/PLANO-ESTADUAL-DE-SEGURANCA-PUBLICA-PARA-O-COMBATE-A-VIOLENCIA-CONTRA-A-MULHER-DO-ESTADO-DE-GOIAS-2026-%E2%80%93-2035.pdf",
+      "publishedAt": "2026-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Documento de 83 páginas, horizonte 2026–2035, elaborado por grupo de trabalho instituído pela Portaria nº 166, de 12/02/2026; a edição publicada em abril/2026 é assinada pelo governador Daniel Vilela, que assumiu após a saída de Caiado do governo (31/03/2026)."
+    },
+    {
+      "id": "src-caiado-137",
+      "title": "Plano de Governo Estado de Goiás 2023/2026 (segundo mandato, documento registrado na eleição de 2022)",
+      "publisher": "G1/Promessas (espelho do plano protocolado)",
+      "url": "https://s3.glbimg.com/v1/AUTH_8b29beb0cbe247a296f902be2fe084b6/Promessas/ronaldo-caiado-GO.pdf",
+      "publishedAt": "2022",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Plano de governo do segundo mandato estadual (2023-2026), com mensagem ao povo de Goiás e eixos por área."
+    },
+    {
+      "id": "src-zema-130",
+      "title": "'Muito provavelmente iremos resgatar somente corpos', diz Zema sobre desaparecidos",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/gerais/2019/01/25/interna_gerais,1024648/provavelmente-iremos-resgatar-somente-corpos-diz-zema.shtml",
+      "publishedAt": "2019-01-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista coletiva concedida à imprensa em Brumadinho, em 25/01/2019, no dia do rompimento da barragem da Vale."
+    },
+    {
+      "id": "src-zema-131",
+      "title": "Zema anuncia medidas mais restritivas contra covid-19 em Minas Gerais",
+      "publisher": "UOL Notícias",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/03/15/zema-anuncia-medidas-mais-restritivas-contra-covid-19-em-minas-gerais.htm",
+      "publishedAt": "2021-03-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Anúncio público, em 15/03/2021, de que só serviços essenciais funcionariam e da orientação para que os 853 municípios seguissem a onda roxa."
+    },
+    {
+      "id": "src-zema-132",
+      "title": "Macrorregião Triângulo do Sul é inserida na Onda Roxa, fase mais restritiva do programa 'Minas Consciente'",
+      "publisher": "G1 Triângulo e Alto Paranaíba",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2021/03/06/macrorregiao-triangulo-do-sul-e-inserida-na-onda-roxa-fase-mais-restritiva-do-programa-minas-consciente.ghtml",
+      "publishedAt": "2021-03-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Descreve a classificação por cores/ondas (branca, amarela, verde, vermelha e roxa) do programa Minas Consciente e a mudança de fase por macrorregião de saúde."
+    },
+    {
+      "id": "src-zema-133",
+      "title": "Governo de Minas lança protocolo sanitário para retomada de atividade econômica nos municípios",
+      "publisher": "Portal O Lábaro",
+      "url": "https://www.jornalolabaro.com.br/governo-de-minas-lanca-protocolo-sanitario-para-retomada-de-atividade-economica-nos-municipios",
+      "publishedAt": "2020-04-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lançamento do protocolo 'Minas Consciente' em abril de 2020, com critérios sanitários e adesão dos municípios por onda; imprensa regional."
+    },
+    {
+      "id": "src-zema-134",
+      "title": "O GLOBO, Valor e CBN sabatinam Romeu Zema com transmissão ao vivo e abrem série de entrevistas com presidenciáveis",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/25/o-globo-valor-e-cbn-iniciam-sabatinas-transmitidas-ao-vivo-com-candidatos-a-presidencia.ghtml",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina de 25/08/2026, primeira da série O GLOBO/CBN/Valor com presidenciáveis, com cerca de uma hora e meia de duração."
+    },
+    {
+      "id": "src-zema-135",
+      "title": "Zema é sabatinado por Valor, O Globo e CBN",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/zema-e-sabatinado-por-valor-o-globo-e-cbn.ghtml",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura da mesma sabatina; Lula e Flávio Bolsonaro declinaram do convite, segundo a publicação."
+    },
+    {
+      "id": "src-zema-136",
+      "title": "Novo apresenta diretrizes do plano de governo de Romeu Zema, pré-candidato do partido à Presidência da República",
+      "publisher": "G1 — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/04/16/novo-apresenta-diretrizes-do-plano-de-governo-de-romeu-zema-pre-candidato-do-partido-a-presidencia-da-republica.ghtml",
+      "publishedAt": "2026-04-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Apresentação pública das diretrizes do plano de governo pelo partido, em São Paulo, em 16/04/2026."
+    },
+    {
+      "id": "src-zema-137",
+      "title": "Plano Mineiro de Desenvolvimento Integrado (PMDI) 2019-2030",
+      "publisher": "Governo de Minas Gerais — Seplag (mg.gov.br)",
+      "url": "https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/plano-mineiro-de-desenvolvimento-integrado-pmdi/plano-mineiro-de",
+      "publishedAt": "2019",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Página oficial: o PMDI 19-30 estabelece medidas de recuperação fiscal e define 10 objetivos estratégicos, 31 indicadores com metas para 2022, 2026 e 2030 e 99 diretrizes estratégicas. Conteúdo conferido na página em 29/09/2026 (atualizada em 11/08/2026)."
+    },
+    {
+      "id": "src-zema-138",
+      "title": "PPAG 2024-2027 — Plano Plurianual de Ação Governamental de Minas Gerais (Lei 24.677, de 2024)",
+      "publisher": "Assembleia Legislativa de Minas Gerais",
+      "url": "https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/ppag/leis/PPAG-2024-2027",
+      "publishedAt": "2024",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Lei 24.677/2024 institui o PPAG para o quadriênio 2024-2027, conforme os artigos 153 e 154 da Constituição do Estado de Minas Gerais."
+    },
+    {
+      "id": "src-zema-139",
+      "title": "Romeu Zema apresenta reforma administrativa e prevê economia de R$ 1 bilhão durante mandato",
+      "publisher": "Governo do Estado de Minas Gerais",
+      "url": "https://www.governo.mg.gov.br/Noticias/Detalhe/5160",
+      "publishedAt": "2019-02-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Proposta de reforma administrativa enviada à ALMG em fev/2019, com previsão de economia de R$ 1 bilhão em quatro anos; conteúdo registrado em busca (página oficial com carregamento dinâmico, sem texto recuperável na coleta de 29/09/2026)."
+    },
+    {
+      "id": "src-zema-140",
+      "title": "Zema aposta em privatizações e venda de ativos para enfrentar déficit em MG",
+      "publisher": "Valor Econômico — Revista Minas Gerais",
+      "url": "https://valor.globo.com/publicacoes/especiais/revista-minas-gerais/noticia/2026/03/27/zema-aposta-em-privatizacoes-e-venda-de-ativos-para-enfrentar-deficit-em-mg.ghtml",
+      "publishedAt": "2026-03-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra déficit de R$ 5,2 bilhões e dívida de R$ 187 bilhões, e a aposta em privatizações e venda de ativos no fim do governo Zema."
+    },
+    {
+      "id": "src-zema-141",
+      "title": "Copasa lança oferta de ações que deve privatizar companhia",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/05/copasa-lanca-oferta-de-acoes-que-deve-privatizar-companhia.shtml",
+      "publishedAt": "2026-05-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Oferta de 171,1 milhões de ações ordinárias com movimentação prevista acima de R$ 10 bilhões, após autorização da Assembleia Legislativa de Minas Gerais."
+    },
+    {
+      "id": "src-zema-142",
+      "title": "Zema diz que sucessor em MG vai levar adiante privatização da Cemig",
+      "publisher": "UOL Notícias (Agência Estado)",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/15/zema-diz-que-sucessor-em-mg-vai-levar-adiante-privatizacao-da-cemig.amp.htm",
+      "publishedAt": "2026-06-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração de 15/06/2026 sobre a continuidade do programa de privatização para além do seu mandato."
+    },
+    {
+      "id": "src-zema-143",
+      "title": "Superávit de Zema foi feito com arrocho salarial nos servidores",
+      "publisher": "Alem do Fato (UAI)",
+      "url": "https://alemdofato.uai.com.br/politica/superavit-zema-feito-arrocho-salarial-servidores/",
+      "publishedAt": "2026-02-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a divulgação, em 30/01/2026, de equilíbrio fiscal com superávit de R$ 1,108 bilhão em 2025 (receitas de R$ 132,7 bi e despesas de R$ 131,6 bi) e a crítica do Sindifisco sobre recomposição salarial."
+    },
+    {
+      "id": "src-zema-144",
+      "title": "Contas de Zema em MG têm melhora, mas caixa segue negativo e renúncias disparam",
+      "publisher": "Política Livre",
+      "url": "https://www.politicalivre.com.br/2026/08/contas-de-zema-em-mg-tem-melhora-mas-caixa-segue-negativo-e-renuncias-disparam",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Balanço dos sete anos da gestão: melhora de indicadores fiscais com caixa líquido negativo e renúncias fiscais em alta. Data exata do dia não capturada."
+    },
+    {
+      "id": "src-zema-145",
+      "title": "Assembleia dá início a revisão do Plano Plurianual de Ação Governamental",
+      "publisher": "O Tempo",
+      "url": "https://www.otempo.com.br/politica/2025/10/16/assembleia-da-inicio-a-revisao-do-plano-plurianual-de-acao-governamental",
+      "publishedAt": "2025-10-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Início da revisão do PPAG com audiência pública na Assembleia Legislativa em 16/10/2025."
+    },
+    {
+      "id": "src-zema-146",
+      "title": "Privatização da Copasa: Assembleia de Minas aprova em 2º turno projeto que autoriza desestatização",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/economia/negocios/privatizacao-da-copasa-assembleia-de-minas-aprova-em-2-turno-projeto-que-autoriza-desestatizacao",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Aprovação em 2º turno, pela ALMG, do projeto que autoriza a desestatização da Copasa; data exata do dia não capturada na coleta."
+    },
+    {
+      "id": "src-zema-147",
+      "title": "Zema envia projeto à ALMG para extinguir secretarias e cargos comissionados",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2019/02/05/interna_politica,1027984/zema-envia-projeto-a-almg-para-extinguir-secretarias-e-cargos.shtml",
+      "publishedAt": "2019-02-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Projeto de reforma administrativa enviado à Assembleia em fev/2019."
+    },
+    {
+      "id": "src-lula-142",
+      "title": "PPA 2024-2027 — PPA vigente, atualizado pela revisão de 2026 (leis, anexos e mensagem presidencial)",
+      "publisher": "Ministério do Planejamento e Orçamento (gov.br/planejamento)",
+      "url": "https://www.gov.br/planejamento/pt-br/assuntos/planejamento/plano-plurianual/paginas/paginas-ppa-2024-2027/lei-do-ppa",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Página oficial do PPA 2024-2027 com a lei 14.802/2024, anexos (dimensão estratégica, entregas e medidas institucionais e normativas) e a revisão do PPA 2026. Página gov.br protegida por WAF para coleta direta; estrutura confirmada em busca."
+    },
+    {
+      "id": "src-lula-143",
+      "title": "Conselhão entrega a Lula propostas de metas de desenvolvimento do país",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/conselhao-entrega-lula-propostas-de-metas-de-desenvolvimento-do-pais",
+      "publishedAt": "2025-12-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estatal",
+      "notes": "Cobertura oficial da 6ª Reunião Plenária do CDESS, em 04/12/2025, que reuniu governo, sociedade civil e empresariado e entregou ao presidente propostas com metas de desenvolvimento."
     }
   ],
   "candidates": {
@@ -195,8 +585,8 @@
             {
               "id": "ev-cap-comunicacao-publica-lula-04",
               "kind": "historico",
-              "title": "Substituição do programa semanal próprio por entrevistas a rádios locais",
-              "role": "Presidente da República — titular do programa 'Conversa com o Presidente', produção da EBC, e entrevistado de emissoras locais",
+              "title": "Substituição do programa semanal próprio ('Conversa com o Presidente') por entrevistas a rádios locais",
+              "role": "Presidente da República — titular do programa semanal 'Conversa com o Presidente', produção da EBC, e entrevistado de emissoras locais",
               "complexity": "Programa semanal com produção da Empresa Brasil de Comunicação (equipe e profissionais contratados); troca de formato após índices de audiência baixos em 2023, com duas entrevistas a veículos do Nordeste no mesmo horário",
               "outcome": "Mudança de estratégia de comunicação registrada em reportagem de 02/02/2024: prioridade a entrevistas em rádios locais espalhadas pelo Brasil",
               "period": "2023–2024",
@@ -272,6 +662,9 @@
                 },
                 {
                   "id": "src-lula-138"
+                },
+                {
+                  "id": "src-lula-142"
                 }
               ],
               "evidenceStatus": "confirmado",
@@ -280,19 +673,22 @@
             {
               "id": "ev-cap-visao-estrategica-lula-03",
               "kind": "historico",
-              "title": "Documento de horizonte 2035 apresentado pelo Conselhão",
+              "title": "Documento 'Pilares de um Projeto de Nação', com roteiro para 2035, entregue a Lula pelo Conselhão",
               "role": "Presidente da República — o documento foi elaborado pelo CDESS, conselho vinculado à Presidência da República",
-              "complexity": "Horizonte de 10 anos (até 2035), com organização de eixos de desenvolvimento; documento apresentado em dez/2025",
-              "outcome": "Documento publicado e apresentado publicamente; não integra o programa de governo registrado no TSE",
+              "complexity": "Horizonte de 10 anos (até 2035), com eixos de desenvolvimento organizados como 'pilares' de um projeto de nação; documento entregue na 6ª Reunião Plenária do CDESS, em 04/12/2025, como proposta de metas de desenvolvimento do país",
+              "outcome": "Documento publicado e apresentado publicamente em plenária do conselho, com o presidente presente; não integra o programa de governo registrado no TSE",
               "period": "2025-12",
-              "context": "Instância de interlocução com setores econômicos e sociais criada na atual gestão; atribuição do documento ao conselho, e não ao plano de campanha.",
+              "context": "Instância de interlocução com setores econômicos e sociais recriada na atual gestão; atribuição do documento ao conselho, e não ao plano de campanha.",
               "sources": [
                 {
                   "id": "src-lula-82"
+                },
+                {
+                  "id": "src-lula-143"
                 }
               ],
               "evidenceStatus": "confirmado",
-              "confidenceLevel": "medium"
+              "confidenceLevel": "high"
             },
             {
               "id": "ev-cap-visao-estrategica-lula-04",
@@ -319,7 +715,7 @@
               "complexity": "Horizonte de quatro anos (2024–2028); investimento previsto de R$ 23 bilhões; eixos de infraestrutura, formação, regulação e aplicações, lançado na 5ª Conferência Nacional de Ciência, Tecnologia e Inovação",
               "outcome": "Plano publicado pelo MCTI, com estrutura de governança e ações por eixo",
               "period": "2024–2028",
-              "context": "Disputa internacional por infraestrutura de IA e discussão paralela do marco legal (PL 2338/2023, aprovado no Senado em dez/2024).",
+              "context": "Disputa internacional por infraestrutura de IA e discussão paralela do marco legal (PL 2338/2023, aprovado no Senado em dez/2024). Status parcial: título, valor previsto e eixos foram confirmados pela página oficial do MCTI e por cobertura secundária; o documento integral não foi lido nesta rodada (página gov.br com bloqueio de WAF para coleta direta).",
               "sources": [
                 {
                   "id": "src-lula-140"
@@ -353,17 +749,242 @@
       "capacities": [
         {
           "slug": "comunicacao-publica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "coverage": "documentada",
+          "coverageNote": null,
+          "synthesis": "A comunicação pública de Flávio Bolsonaro ocorre por entrevistas de alcance nacional (Globo após o Jornal Nacional, 28/08/2026; CNI, 22/06/2026), por pronunciamentos e explicações pessoais registrados no plenário do Senado (registro oficial de 2026 inclui explicações sobre o caso do Banco Master em 21/05/2026) e por declarações em momento de crise, como o dia da condenação de Jair Bolsonaro pelo STF (11/09/2025). Em 28/08/2026, anunciou publicamente Cláudio Lottenberg como futuro ministro da Saúde, defendeu a anistia e declarou que respeitará o resultado da eleição. Há registro, em junho de 2026, de distância entre o eixo de segurança priorizado na campanha e a presença na Comissão de Segurança Pública durante o mandato.",
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-flavio-01",
+              "kind": "historico",
+              "title": "Entrevista individual ao vivo na Globo, após o Jornal Nacional",
+              "role": "Candidato à Presidência (PL) — entrevistado ao vivo por Renata Vasconcellos e César Tralli, em 28/08/2026",
+              "complexity": "Alcance nacional em horário nobre; primeira série de entrevistas feitas logo após o Jornal Nacional, com um candidato por dia nos Estúdios Globo; pauta com Vorcaro/Dark Horse, tentativa de golpe de 2022, urnas eletrônicas, tarifaço, PIX, ajuste fiscal, salário mínimo, aposentadoria e aquecimento global",
+              "outcome": "Anúncio de Cláudio Lottenberg como ministro da Saúde em eventual governo; defesa pública da anistia; compromisso declarado de respeitar o resultado da eleição",
+              "period": "2026-08",
+              "context": "Candidato havia registrado o plano de governo dias antes e respondia a questionamentos sobre a relação com o banqueiro Daniel Vorcaro e sobre a tentativa de golpe de 2022.",
+              "sources": [
+                {
+                  "id": "src-fb-01"
+                },
+                {
+                  "id": "src-fb-02"
+                },
+                {
+                  "id": "src-fb-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-flavio-02",
+              "kind": "historico",
+              "title": "Posição pública no dia da condenação de Jair Bolsonaro pelo STF",
+              "role": "Senador (PL-RJ) — declaração pública em 11/09/2025, dia da condenação pela 1ª Turma do STF",
+              "complexity": "Tema de alcance nacional com cobertura simultânea de toda a imprensa; conteúdo: defesa da anistia, afirmação de que 'o jogo não acabou' e defesa da candidatura do pai em 2026 apesar da inelegibilidade",
+              "outcome": "Posição divulgada no mesmo dia da decisão e mantida nos pronunciamentos e entrevistas posteriores do mandato e da campanha",
+              "period": "2025-09",
+              "context": "Primeira condenação criminal de um ex-presidente pelo STF; falou logo depois da decisão, antes de a situação jurídica estar definida em recursos.",
+              "sources": [
+                {
+                  "id": "src-fb-04"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-flavio-03",
+              "kind": "historico",
+              "title": "Explicação pessoal e defesa da CPMI do Banco Master no plenário e no Congresso",
+              "role": "Senador — explicação pessoal em 21/05/2026 e falas 'pela liderança' e 'pela ordem' registradas nos anais",
+              "complexity": "Registros oficiais do Senado em 2026 incluem explicação pessoal sobre o caso do Banco Master e defesa da instalação da CPMI, resposta a acusações de parlamentares (30/04/2026) e pronunciamento em 07/10/2025 sobre o conflito entre Israel e o Hamas",
+              "outcome": "Posições registradas nos anais do Senado; o tema do Banco Master foi levado à discussão de comissão parlamentar de inquérito",
+              "period": "2025–2026",
+              "context": "Uso da tribuna como canal próprio de resposta a acusações e de apresentação de posições, em paralelo à campanha presidencial.",
+              "sources": [
+                {
+                  "id": "src-fb-05"
+                },
+                {
+                  "id": "src-fb-06"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-flavio-04",
+              "kind": "historico",
+              "title": "Discurso na CPAC, no Texas, com pedido de pressão internacional",
+              "role": "Senador e pré-candidato — discurso em inglês em 28/03/2026",
+              "complexity": "Alcance internacional; conteúdo sobre dependência externa de terras raras e pedido de 'pressão diplomática' do 'mundo livre' sobre as instituições brasileiras; repercussão com críticas públicas de parlamentares governistas",
+              "outcome": "Discurso proferido e convertido em peça de campanha; gerou reação pública de senadores governistas que o classificaram como ato contra a soberania nacional",
+              "period": "2026-03",
+              "context": "Evento conservador nos EUA em ano eleitoral, com o tarifaço americano e a relação bilateral em debate no Brasil.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-19"
+                },
+                {
+                  "id": "src-flavio-bolsonaro-21"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-flavio-05",
+              "kind": "historico",
+              "title": "Apresentação de propostas ao setor industrial em evento da CNI",
+              "role": "Pré-candidato — expositor no evento 'A Indústria na Agenda dos Presidenciáveis', em Brasília, 22/06/2026",
+              "complexity": "Audiência setorial organizada pela Confederação Nacional da Indústria, com temas de economia, infraestrutura, energia e segurança jurídica; exposição de carga tributária, desburocratização e política externa",
+              "outcome": "Compromissos declarados publicamente para reduzir impostos e adotar relações 'pragmáticas' com EUA e China",
+              "period": "2026-06",
+              "context": "Roteiro de eventos setoriais com presidenciáveis, em fase de pré-campanha. Status: cobertura de imprensa do próprio evento, sem registro de vídeo/íntegra recuperado nesta rodada.",
+              "sources": [
+                {
+                  "id": "src-fb-11"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-flavio-06",
+              "kind": "historico",
+              "title": "Divergência registrada entre o eixo de segurança da campanha e a presença na comissão no mandato",
+              "role": "Senador — presidente da Comissão de Segurança Pública do Senado desde 2025",
+              "complexity": "Reportagem de 08/06/2026 registra que o senador escolheu a segurança pública como tema central da pré-campanha e que, no mandato desde 2025, sua presença na comissão se restringiu a uma reunião em 2026",
+              "outcome": "Fato documentado de distância entre a ênfase discursiva da campanha e a atuação registrada na comissão; a presidência do colegiado foi mantida durante a campanha",
+              "period": "2025–2026",
+              "context": "A comissão aprovou pacote de matérias de segurança em 2025 (fato registrado em outros pontos desta ficha), enquanto a presença do presidente do colegiado em 2026 foi de uma reunião, segundo a reportagem.",
+              "sources": [
+                {
+                  "id": "src-fb-10"
+                },
+                {
+                  "id": "src-flavio-104"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
         },
         {
           "slug": "visao-estrategica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "coverage": "parcial",
+          "coverageNote": "Marcos documentados (plano registrado no TSE com 20 temas e 81 páginas, 12 pontos de geração de emprego, medidores projetados para 2030, revisão de metas de inflação anunciada em entrevista). Cobertura parcial porque parte das metas é declarada sem cronograma ou indicador por etapa no texto publicado, e vários pontos dependem de PECs e projetos ainda não enviados ao Congresso — o que impede verificar a ligação entre curto prazo e horizonte maior com a mesma precisão observada em instrumentos orçamentários (PPA/plano plurianual) de outras trajetórias.",
+          "synthesis": "O plano registrado no TSE (76 páginas, 9 eixos, 2027-2030) organiza a ação de governo pela 'jornada do cidadão' — proteção, formação, trabalho, iniciativa, crédito, patrimônio e envelhecimento — declarando que o Estado 'enxerga a realidade em pedaços' e propondo resposta integrada. As metas quantificadas aparecem com prazo: 500 mil vagas no sistema prisional em 4 anos, 2,5 milhões de residências no Casa Verde e Amarela, nenhuma escola sem água até 2030 e meta para 2030 de atrair investimento em transição energética. O eixo 'Brasil que Não Volta Atrás' declara que o plano só vale 'pelo que consegue sustentar', condicionando as demais promessas a equilíbrio fiscal, reforma do Estado e menos impostos, e o documento remete à continuidade de instrumentos com horizonte longo (meta de saneamento até 2033 e priorização de emendas conforme o Plano Plurianual aprovado pelo parlamento).",
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-flavio-01",
+              "kind": "proposta",
+              "title": "Estrutura do plano de governo pela 'jornada do cidadão'",
+              "role": "Candidato à Presidência — diretrizes 2027-2030 registradas no TSE e publicadas na íntegra (76 páginas, 9 eixos)",
+              "complexity": "Documento de 76 páginas organizado em 9 eixos (Brasil sem Medo, por Elas, sem Fila, Mais Barato, que Prepara, que Prospera, que Cresce, que Cumpre a Constituição, que Não Volta Atrás); capítulo 'A jornada do cidadão' define 7 etapas (proteção, formação, trabalho, iniciativa, crédito, patrimônio e envelhecimento) como eixo de integração entre áreas",
+              "outcome": "Diretrizes protocoladas junto à candidatura e publicadas; o texto afirma que a organização por trajetória de vida substitui a lógica setorial anterior",
+              "period": "2026",
+              "context": "Apresentação declara que o 'Estado brasileiro possui o vício de enxergar a realidade em pedaços' e que a resposta integrada é a razão de ser do plano.",
+              "sources": [
+                {
+                  "id": "src-fb-07"
+                },
+                {
+                  "id": "src-fb-08"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-flavio-02",
+              "kind": "proposta",
+              "title": "Eixo fiscal como condição de sustentação das demais promessas",
+              "role": "Candidato — capítulo 'Brasil que Não Volta Atrás' do plano e anúncios de campanha em 18/08/2026",
+              "complexity": "O capítulo condiciona as promessas dos eixos anteriores a equilíbrio fiscal, reforma do Estado, combate à corrupção e menos impostos; em campanha, anunciou 'tesouraço' com redução do número de ministérios e de cargos comissionados; o plano vincula a queda dos juros e o retorno da inflação 'ao centro da meta' à estabilização da dívida pública",
+              "outcome": "Diretriz declarada de que 'de nada adianta baixar imposto hoje se a conta volta amanhã'; medidas de corte de estrutura apresentadas publicamente em 18/08/2026",
+              "period": "2026",
+              "context": "O plano compara a trajetória da dívida bruta em relação ao PIB do período 2019-2022 com a do governo atual e usa essa comparação como argumento de sustentabilidade.",
+              "sources": [
+                {
+                  "id": "src-fb-07"
+                },
+                {
+                  "id": "src-fb-08"
+                },
+                {
+                  "id": "src-fb-09"
+                },
+                {
+                  "id": "src-flavio-80"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-flavio-03",
+              "kind": "proposta",
+              "title": "Metas quantificadas com prazo em áreas distintas do plano",
+              "role": "Candidato — diretrizes 2027-2030 (seções de segurança, saneamento, moradia e energia)",
+              "complexity": "Metas declaradas no documento: 500 mil novas vagas no sistema prisional em 4 anos, com zerar do déficit carcerário; 2,5 milhões de residências na retomada do Casa Verde e Amarela; nenhuma escola sem água até 2030; meta para 2030 de posicionar o Brasil entre os principais destinos de investimento em transição energética; saneamento com meta de cobertura até 2033 herdada do Marco Legal de 2020",
+              "outcome": "Metas publicadas com valores e prazos em eixos de horizonte diferente (4 anos, 2030 e 2033)",
+              "period": "2026",
+              "context": "Segurança é apresentada como 'condição para todos os demais' temas, e o capítulo de saneamento justifica o uso de metas de longo prazo por razão sanitária e de custo.",
+              "sources": [
+                {
+                  "id": "src-fb-08"
+                },
+                {
+                  "id": "src-plano-pdf"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-flavio-04",
+              "kind": "historico",
+              "title": "Preparação antecipada de governo: equipe setorial e anúncio de futuro ministro",
+              "role": "Candidato — equipe de elaboração do plano anunciada em 2026 e anúncio de titular de ministério antes da eleição",
+              "complexity": "Equipe que elabora o plano foi reforçada e apresentada publicamente (Adolfo Sachsida, Lyvia Montezano, Carolina Ragazzi e Adriano entre os responsáveis por detalhar pautas setoriais), com anúncio de equipe setorial para detalhar o programa em 18/08/2026; em 28/08/2026, indicou Cláudio Lottenberg para a Saúde",
+              "outcome": "Nomes divulgados e pautas setoriais em elaboração durante a campanha; a indicação de ministro ocorreu antes do resultado eleitoral",
+              "period": "2026",
+              "context": "Candidato sem experiência em cargo executivo; a montagem da estrutura de governo ocorre na fase de campanha.",
+              "sources": [
+                {
+                  "id": "src-flavio-03"
+                },
+                {
+                  "id": "src-fb-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-flavio-05",
+              "kind": "proposta",
+              "title": "Remissão a instrumentos de planejamento e metas de horizonte longo já existentes",
+              "role": "Candidato — referências do próprio plano a instrumentos de Estado",
+              "complexity": "O plano assume a continuidade da meta de universalização de água e esgoto até 2033 fixada pelo Marco Legal do Saneamento (2020) e declara que as emendas parlamentares serão priorizadas 'em políticas públicas prioritárias do Plano Plurianual, aprovado pelo parlamento', com mais transparência e rastreabilidade",
+              "outcome": "Compromissos de continuidade e de vinculação ao PPA declarados no documento registrado no TSE",
+              "period": "2026",
+              "context": "Escolha declarada de manter instrumentos herdados de gestões anteriores em vez de substituí-los por novos marcos.",
+              "sources": [
+                {
+                  "id": "src-fb-08"
+                },
+                {
+                  "id": "src-fb-07"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
         }
       ]
     },
@@ -371,17 +992,210 @@
       "capacities": [
         {
           "slug": "comunicacao-publica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "coverage": "documentada",
+          "coverageNote": null,
+          "synthesis": "A comunicação pública de Caiado combina entrevistas e sabatinas de alcance nacional na campanha de 2026 (g1/GloboNews em 07/08/2026, com 1h30; série de sabatinas O GLOBO/CBN/Valor em 26/08/2026), coletivas no Palácio e entrevistas de rádio/imprensa no período de governo. Em 25/03/2020, respondeu publicamente ao pronunciamento do presidente Jair Bolsonaro, declarou rompimento e manteve o decreto estadual de combate à pandemia; no início do mandato em Goiás (18/01/2019), explicou publicamente a situação das contas estaduais. Na campanha de 2026, apresentou posições sobre anistia, segurança pública e revisão da reforma tributária e justificou publicamente mudanças de posicionamento.",
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-caiado-01",
+              "kind": "historico",
+              "title": "Entrevista de 1h30 ao g1 e à GloboNews como presidenciável",
+              "role": "Candidato à Presidência (PSD) — entrevistado por Andréia Sadi e Natuza Nery em 07/08/2026",
+              "complexity": "Série nacional de entrevistas com presidenciáveis no g1/GloboNews, com uma hora e meia de duração; apresentou posições sobre anistia aos condenados de 8 de janeiro, não retaliação aos EUA e uso de terras raras como instrumento de negociação, privatização dos Correios e do setor de gás da Petrobras, classificação do crime organizado como 'terrorismo doméstico', posição contrária a câmeras corporais em policiais militares e envio de reformas ao Congresso no primeiro dia de governo",
+              "outcome": "Posições e plano de primeiros atos divulgados em entrevista de alcance nacional; também justificou publicamente a mudança de posicionamento em relação ao senador Flávio Bolsonaro, citando 'novos fatos acumulados e a falta de explicações'",
+              "period": "2026-08",
+              "context": "Campanha presidencial de 2026, em que Caiado aparece com 4% na pesquisa Quaest de 28/09/2026 e busca firmar posições próprias diante dos dois primeiros colocados.",
+              "sources": [
+                {
+                  "id": "src-caiado-130"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-caiado-02",
+              "kind": "historico",
+              "title": "Sabatina da série O GLOBO/CBN/Valor e entrevista na TV Globo",
+              "role": "Candidato à Presidência — sabatinado em 26/08/2026 (1h30) por Malu Gaspar, Maria Cristina Fernandes e Lauro Jardim, entre outros",
+              "complexity": "Segunda entrevista da série de sabatinas do consórcio O GLOBO/CBN/Valor com presidenciáveis (Zema estreou na série na véspera); no mesmo período, participou da série de sabatinas da TV Globo (25/08/2026)",
+              "outcome": "Detalhamento público de propostas de segurança (40 presídios de segurança máxima, uso das Forças Armadas nas ruas, posição sobre câmeras corporais), críticas ao adversário e posições econômicas",
+              "period": "2026-08",
+              "context": "Série de sabatinas de veículos de referência com os presidenciáveis; Lula e Flávio Bolsonaro foram convidados e não confirmaram presença, segundo o registro da cobertura.",
+              "sources": [
+                {
+                  "id": "src-caiado-131"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-caiado-03",
+              "kind": "historico",
+              "title": "Resposta pública ao pronunciamento de Bolsonaro e rompimento em 25/03/2020",
+              "role": "Governador de Goiás — manifestação pública no dia seguinte ao pronunciamento do presidente, anunciando que não seguiria as determinações federais sobre isolamento",
+              "complexity": "Alcance nacional, com cobertura simultânea de Veja, CartaCapital, Valor e telejornais; conteúdo: defesa das orientações sanitárias e da manutenção do decreto estadual, com a formulação 'a ignorância não é uma virtude'; em 2020, Caiado era um dos últimos governadores aliados ao presidente",
+              "outcome": "Rompimento anunciado publicamente em 25/03/2020 e mantido; o decreto estadual permaneceu em vigor",
+              "period": "2020-03",
+              "context": "Início da pandemia, com divergência pública entre o presidente da República e governadores sobre isolamento social e uso de cloroquina.",
+              "sources": [
+                {
+                  "id": "src-caiado-105"
+                },
+                {
+                  "id": "src-caiado-132"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-caiado-04",
+              "kind": "historico",
+              "title": "Coletiva para explicar decisão de manter as ações de combate ao coronavírus",
+              "role": "Governador de Goiás, em coletiva com a imprensa (25/03/2020)",
+              "complexity": "Coletiva transmitida pelos canais oficiais do Estado; assunto de alcance estadual com custo econômico e sanitário; a fala assumiu a responsabilidade decisória ('a responsabilidade sobre a vida de 7,2 milhões de goianos é exclusivamente minha') e rechaçou publicamente o tom de menosprezo do presidente",
+              "outcome": "Manutenção do decreto estadual comunicada à população com justificativa pública",
+              "period": "2020-03",
+              "context": "Medidas de isolamento em vigor, pressão de setores econômicos pela reabertura e divergência com o governo federal.",
+              "sources": [
+                {
+                  "id": "src-caiado-104"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-caiado-05",
+              "kind": "historico",
+              "title": "Explicação pública da situação das contas estaduais ao assumir o governo",
+              "role": "Governador eleito de Goiás — entrevista em 18/01/2019, três dias após assumir",
+              "complexity": "Comunicação de restrição fiscal a partir de números: 82,98% da receita comprometida com pessoal e folha de dezembro/2018 escalonada em seis meses (março a agosto de 2019); tema de alcance estadual tratado em entrevista de rádio",
+              "outcome": "Diagnóstico e calendário de pagamento da folha divulgados publicamente; o ajuste de despesas passou a ser apresentado como prioridade declarada da gestão",
+              "period": "2019-01",
+              "context": "Herança de atrasos salariais no fim de 2018 e decretação de calamidade financeira pelo novo governo no mesmo mês.",
+              "sources": [
+                {
+                  "id": "src-caiado-102"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
         },
         {
           "slug": "visao-estrategica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "coverage": "documentada",
+          "coverageNote": null,
+          "synthesis": "Caiado governou Goiás com instrumentos de planejamento datados: o PPA 2024-2027 (Lei 22.317/2023, alterado em 2024, regulamentado pelo Decreto 10.710/2025 e revisado em 2026, com Anexo de Metas da LOA 2025) e planos decenais da área de segurança (Plano Estratégico da SSP-GO 2022-2031; Plano Estadual de Segurança Pública de combate à violência contra a mulher, 2026-2035). A trajetória do mandato mostra sequência de prioridades sob restrição fiscal: escalonamento da folha e ajuste de despesas a partir de 2019, reforma administrativa em 2025 com economia declarada de R$ 422 milhões por ano, e contas com parecer prévio favorável do TCE-GO nos exercícios de 2023, 2024 e 2025. No plano presidencial (2027-2030), organiza 26 temas, 10 itens de método de governo e 10 'Compromissos nacionais para 2030', com PPA 2028-2031 estruturado por missões e painel público de indicadores.",
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-caiado-01",
+              "kind": "proposta",
+              "title": "Método de governo, 10 compromissos nacionais para 2030 e painel público de metas",
+              "role": "Candidato à Presidência — plano 2027-2030 com 26 temas, 10 itens de método de governo, 10 compromissos nacionais para 2030 e seção de monitoramento e prestação de contas",
+              "complexity": "102 páginas; o método prevê governar por prioridades nacionais organizadas em missões com 'objetivos de médio e longo prazo', cada uma com liderança política, coordenação técnica, orçamento identificado, metas anuais e painel público de resultados; o PPA 2028-2031 seria organizado por resultados transversais a ministérios, com programa, responsável, orçamento, metas anuais, riscos e indicador; prevê 'Painel Brasil 2030' com indicadores fiscais, econômicos, sociais e ambientais e avaliação independente de programas",
+              "outcome": "Compromissos para 2030 publicados (estabilização fiscal, redução da violência letal, alfabetização na idade certa, conectividade, saneamento, reposicionamento internacional) e mecanismos de implementação declarados, incluindo primeiros cem dias com pacote de reformas",
+              "period": "2026",
+              "context": "Documento protocolado na candidatura e publicado pela campanha; define governança por missões em substituição, segundo o próprio texto, à prática de multiplicar programas desconectados.",
+              "sources": [
+                {
+                  "id": "src-caiado-80"
+                },
+                {
+                  "id": "src-cg-20"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-caiado-02",
+              "kind": "historico",
+              "title": "PPA 2024-2027 do Estado de Goiás como instrumento de planejamento sob sua gestão",
+              "role": "Governador de Goiás — autor da proposta de PPA enviada à Assembleia Legislativa e responsável pela execução e revisão",
+              "complexity": "Quadriênio 2024-2027 instituído pela Lei 22.317/2023, com alterações (Lei 23.009/2024), regulamentação pelo Decreto 10.710/2025, Anexo de Metas da LOA 2025, relatório de revisão e caderno de revisão do PPA 2026; o PPA é definido em lei como instrumento de planejamento governamental vinculado ao orçamento",
+              "outcome": "Lei do PPA publicada e ciclo de revisão/monitoramento executado, com publicação de boletins de indicadores socioeconômicos e relatório de revisão",
+              "period": "2023–2026",
+              "context": "Planejamento estadual de quatro anos conduzido em paralelo ao plano de governo do segundo mandato (2023-2026) e ao ajuste fiscal iniciado em 2019.",
+              "sources": [
+                {
+                  "id": "src-caiado-133"
+                },
+                {
+                  "id": "src-caiado-134"
+                },
+                {
+                  "id": "src-caiado-137"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-caiado-03",
+              "kind": "historico",
+              "title": "Planos de horizonte decenal na segurança pública de Goiás",
+              "role": "Governador de Goiás — governo que apresentou o Plano Estratégico da SSP-GO 2022-2031 e instituiu o grupo de trabalho do plano 2026-2035",
+              "complexity": "Dois instrumentos de horizonte longo: o Plano Estratégico da Secretaria de Segurança Pública 2022-2031, apresentado à população com objetivos, estratégias e iniciativas para dez anos, e o Plano Estadual de Segurança Pública para o Combate à Violência contra a Mulher do Estado de Goiás 2026-2035, de 83 páginas, elaborado por grupo de trabalho instituído pela Portaria nº 166, de 12/02/2026, com metas e indicadores por eixo",
+              "outcome": "Documentos publicados; a edição 2026-2035 foi publicada em abril/2026, já sob o governo de Daniel Vilela, que assumiu o Estado após a saída de Caiado em 31/03/2026",
+              "period": "2022–2026",
+              "context": "Segurança pública é a área de maior volume de propostas do plano presidencial do próprio candidato; os planos decenais da pasta organizam a continuidade da política no período posterior ao seu governo.",
+              "sources": [
+                {
+                  "id": "src-caiado-135"
+                },
+                {
+                  "id": "src-caiado-136"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-caiado-04",
+              "kind": "historico",
+              "title": "Adesão do Consórcio Brasil Central à Agenda 2030 com apoio do PNUD",
+              "role": "Governador de Goiás e presidente do Consórcio Brasil Central à época — assinatura de acordo de cooperação técnica com o PNUD",
+              "complexity": "Alcance interestadual (consórcio de estados do Centro-Oeste e Norte) e horizonte da Agenda 2030 da ONU (17 objetivos e 169 metas); acordo de cooperação técnica para disseminação dos ODS firmado em assembleia do consórcio",
+              "outcome": "Cooperação firmada e Agenda 2030 incorporada como referência de planejamento do consórcio",
+              "period": "2024",
+              "context": "Caiado presidia o consórcio enquanto governava Goiás; o instrumento vincula o planejamento regional a metas internacionais com prazo em 2030. Status parcial: a fonte registra a cooperação entre Consórcio Brasil Central e PNUD; não foi recuperado documento primário com a assinatura nominal do governador.",
+              "sources": [
+                {
+                  "id": "src-caiado-113"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-caiado-05",
+              "kind": "historico",
+              "title": "Sequência de prioridades declarada sob restrição fiscal: ajuste, reforma administrativa e resultados de contas",
+              "role": "Governador de Goiás (jan/2019 a mar/2026) — decisões de ajuste e reforma administrativa",
+              "complexity": "Em 2019, com 82,98% da receita comprometida com pessoal, escalonou a folha de dezembro/2018 em seis meses e priorizou despesas; em 2025, sancionou reforma administrativa com redução de 20% da máquina e economia declarada de R$ 422 milhões por ano (decreto publicado no Diário Oficial), com segunda etapa encaminhada à Assembleia; as contas do governo receberam parecer prévio favorável do TCE-GO nos exercícios de 2023, 2024 e 2025",
+              "outcome": "Redução de estrutura e economia de gasto corrente declaradas; pareceres favoráveis do TCE-GO e destaque ao cumprimento de vinculações de saúde, educação, teto de gastos e limite de pessoal",
+              "period": "2019–2026",
+              "context": "Restrição orçamentária herdada e vinculação entre a escolha de prioridades de curto prazo (pagar a folha em dia) e a recuperação de capacidade de investimento ao longo do mandato.",
+              "sources": [
+                {
+                  "id": "src-caiado-102"
+                },
+                {
+                  "id": "src-caiado-70"
+                },
+                {
+                  "id": "src-cg-07"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
         }
       ]
     },
@@ -389,22 +1203,243 @@
       "capacities": [
         {
           "slug": "comunicacao-publica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "coverage": "documentada",
+          "coverageNote": null,
+          "synthesis": "Na gestão de Minas, Zema comunicou decisões de restrição por instrumentos públicos: o programa Minas Consciente (2020) organizou a retomada por ondas com critérios sanitários e classificação por macrorregião divulgada periodicamente, e em março de 2021 o governo anunciou publicamente a adoção da onda roxa e a orientação de que os 853 municípios a seguissem. No primeiro mês de governo, em 25/01/2019, concedeu entrevista coletiva no dia do rompimento da barragem de Brumadinho, com anúncio de força-tarefa estadual. Na campanha de 2026, apresentou publicamente as diretrizes do plano de governo (16/04/2026) e abriu a série de sabatinas O GLOBO/CBN/Valor (25/08/2026), com posições sobre dívida pública, reforma da Previdência e privatizações.",
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-zema-01",
+              "kind": "historico",
+              "title": "Entrevista coletiva no dia do rompimento da barragem de Brumadinho",
+              "role": "Governador de Minas Gerais, no 25º dia de mandato — entrevista coletiva à imprensa em Brumadinho, 25/01/2019",
+              "complexity": "Situação de emergência com vítimas e desaparecidos, cobertura nacional e internacional; no mesmo dia foi anunciada força-tarefa estadual com Defesa Civil e Batalhão de Emergências Ambientais; as declarações trataram do prognóstico de resgate, inclusive o cenário de resgatar apenas corpos",
+              "outcome": "Força-tarefa e prognóstico divulgados publicamente no dia do desastre; o governo estadual passou a dar declarações diárias nos dias seguintes",
+              "period": "2019-01",
+              "context": "Primeiro mês de um governo recém-empossado (01/01/2019), diante de um desastre de grandes proporções provocado por barragem da Vale.",
+              "sources": [
+                {
+                  "id": "src-zema-130"
+                },
+                {
+                  "id": "src-zema-108"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-zema-02",
+              "kind": "historico",
+              "title": "Comunicação pública do protocolo Minas Consciente, com critérios e mudanças de onda por macrorregião",
+              "role": "Governador de Minas Gerais — programa estadual de retomada econômica com classificação por cores/ondas",
+              "complexity": "Protocolo sanitário com critérios publicados e adesão municipal por onda (branca, amarela, verde, vermelha e roxa); as mudanças de fase eram divulgadas por macrorregião de saúde e baseadas em indicadores de leitos e casos",
+              "outcome": "Mudanças de fase comunicadas periodicamente à população (ex.: inserção do Triângulo do Sul na onda roxa em 06/03/2021; avanço e recuo de macrorregiões ao longo de 2020-2021)",
+              "period": "2020–2021",
+              "context": "Pandemia de covid-19, com decisão estadual sobre funcionamento de atividades econômicas e divergência entre municípios sobre a adesão ao protocolo.",
+              "sources": [
+                {
+                  "id": "src-zema-133"
+                },
+                {
+                  "id": "src-zema-132"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-zema-03",
+              "kind": "historico",
+              "title": "Anúncio público de medidas mais restritivas em março de 2021",
+              "role": "Governador de Minas Gerais — anúncio público em 15/03/2021",
+              "complexity": "Decisão de restringir o funcionamento a serviços essenciais, com orientação de que os 853 municípios seguissem a onda roxa; anúncio feito com antecedência e justificado por indicadores de ocupação de leitos",
+              "outcome": "Medidas anunciadas e aplicadas ao conjunto do estado; decisão comunicada antes da vigência, com orientação expressa às prefeituras",
+              "period": "2021-03",
+              "context": "Pior momento da pandemia em Minas, com pressão de setores econômicos e divergência de prefeitos sobre fechamento.",
+              "sources": [
+                {
+                  "id": "src-zema-131"
+                },
+                {
+                  "id": "src-zema-132"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-zema-04",
+              "kind": "historico",
+              "title": "Abertura da série de sabatinas O GLOBO/CBN/Valor com os presidenciáveis",
+              "role": "Candidato à Presidência (NOVO) — primeiro sabatinado da série, em 25/08/2026, com cerca de uma hora e meia de duração",
+              "complexity": "Sabatina com transmissão ao vivo para três veículos de referência simultaneamente (O Globo, CBN e Valor Econômico), em estúdio do jornal, no início de série que ouviu também Caiado, Renan Santos e Augusto Cury; Lula e Flávio Bolsonaro não compareceram",
+              "outcome": "Posições registradas publicamente sobre dívida pública, crítica ao STF, recusa de privatização da Caixa e defesa de nova reforma da Previdência",
+              "period": "2026-08",
+              "context": "Candidato com 1% nas pesquisas de intenção de voto de setembro de 2026, usando as sabatinas para expor posições e propostas.",
+              "sources": [
+                {
+                  "id": "src-zema-134"
+                },
+                {
+                  "id": "src-zema-135"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-zema-05",
+              "kind": "historico",
+              "title": "Apresentação pública das diretrizes do plano de governo",
+              "role": "Pré-candidato do NOVO — apresentação das diretrizes do plano em evento do partido, em São Paulo, em 16/04/2026",
+              "complexity": "Apresentação pública do programa com 81 páginas e 20 temas, quatro meses antes do registro no TSE (08/08/2026); cobertura do Jornal Nacional",
+              "outcome": "Diretrizes tornadas públicas antes do registro formal e depois protocoladas no TSE com o mesmo conjunto de temas",
+              "period": "2026-04",
+              "context": "Fase de pré-campanha, em que o partido apresentou publicamente o conteúdo programático e a estrutura da campanha.",
+              "sources": [
+                {
+                  "id": "src-zema-136"
+                },
+                {
+                  "id": "src-zema-12"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
         },
         {
           "slug": "visao-estrategica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "coverage": "documentada",
+          "coverageNote": null,
+          "synthesis": "A gestão de Minas sob Zema operou com dois instrumentos de planejamento com prazos declarados: o PMDI 2019-2030, com 10 objetivos estratégicos, 31 indicadores com metas para 2022, 2026 e 2030 e 99 diretrizes, e o PPAG 2024-2027 (Lei 24.677/2024), com prioridades e metas por exercício. Diante de déficit de R$ 5,2 bilhões e dívida de R$ 187 bilhões (mar/2026), a prioridade declarada foi venda de ativos e privatizações, com a Copasa efetivamente privatizada e a Cemig prevista para o sucessor. A reforma administrativa de 2019 foi apresentada com meta de economia de R$ 1 bilhão no mandato, e o estado registrou superávit de R$ 1,108 bilhão em 2025, mantendo caixa líquido negativo. No plano de 2026, a estrutura é 'plano implantável' com metas anuais e progressivas e remissão a horizontes longos (marco do saneamento e Previdência).",
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-zema-01",
+              "kind": "historico",
+              "title": "PMDI 2019-2030 — objetivos e indicadores com metas para 2022, 2026 e 2030",
+              "role": "Governo do Estado de Minas Gerais — instrumento de planejamento de longo prazo definido na Constituição estadual, elaborado no início da gestão",
+              "complexity": "Horizonte de 12 anos (2019-2030) com visão de futuro declarada, 10 objetivos estratégicos, 31 indicadores com metas datadas em três marcos (2022, 2026 e 2030) e 99 diretrizes estratégicas a serem observadas por todos os órgãos; o plano também estabelece medidas emergenciais de recuperação fiscal",
+              "outcome": "Documento publicado e mantido como referência de planejamento do estado na página oficial da Seplag, com versões anteriores disponíveis",
+              "period": "2019–2030",
+              "context": "Planejamento estadual de longo prazo previsto na Constituição de Minas (art. 231), usado como referência para o ciclo orçamentário e para os planos setoriais.",
+              "sources": [
+                {
+                  "id": "src-zema-137"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-zema-02",
+              "kind": "historico",
+              "title": "PPAG 2024-2027 — plano plurianual de ação governamental aprovado pela Assembleia",
+              "role": "Governador de Minas Gerais — proposta de PPAG encaminhada à Assembleia Legislativa e sancionada como Lei 24.677/2024",
+              "complexity": "Quadriênio 2024-2027, com prioridades e metas da administração pública por exercício, vinculando programas e políticas públicas ao orçamento anual conforme a Constituição estadual (arts. 153 e 154); ciclo com revisão iniciada em outubro de 2025",
+              "outcome": "Lei do PPAG publicada e ciclo de revisão aberto na Assembleia Legislativa com audiência pública",
+              "period": "2024–2027",
+              "context": "Instrumento obrigatório de planejamento estadual, executado em paralelo ao PMDI de horizonte 2030.",
+              "sources": [
+                {
+                  "id": "src-zema-138"
+                },
+                {
+                  "id": "src-zema-145"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-zema-03",
+              "kind": "proposta",
+              "title": "Plano de 2026 estruturado como 'plano implantável', com metas progressivas e anuais",
+              "role": "Candidato à Presidência (NOVO) — plano registrado no TSE em 08/08/2026 (81 páginas, 20 temas)",
+              "complexity": "Documento organizado em 20 eixos (segurança, finanças públicas, desenvolvimento econômico, infraestrutura, educação, saúde, meio ambiente, reforma institucional, entre outros); prevê metas anuais de arrecadação na venda de imóveis federais, metas progressivas de redução da carga tributária 'que imponham os cortes de gastos', metas condicionadas a resultados de empregabilidade em cursos técnicos e remissão às metas do Novo Marco do Saneamento e à sustentabilidade previdenciária 'no longo prazo' (ajuste automático da idade mínima pela expectativa de vida)",
+              "outcome": "Programa protocolado no TSE com 20 temas e apresentado como plano de execução verificável, com metas vinculadas a indicadores",
+              "period": "2026",
+              "context": "Candidato apresenta sua experiência de ajuste fiscal em Minas como base de aplicação do mesmo método na União.",
+              "sources": [
+                {
+                  "id": "src-zema-12"
+                },
+                {
+                  "id": "src-zema-10"
+                },
+                {
+                  "id": "src-zema-09"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-zema-04",
+              "kind": "historico",
+              "title": "Prioridade em privatizações e venda de ativos diante do déficit, com continuidade transferida ao sucessor",
+              "role": "Governador de Minas Gerais — programa de desestatização e venda de ativos executado no mandato",
+              "complexity": "Déficit de R$ 5,2 bilhões e dívida consolidada de R$ 187 bilhões registrados em março de 2026; a Copasa foi privatizada após autorização da Assembleia Legislativa, com oferta de 171,1 milhões de ações e movimentação prevista acima de R$ 10 bilhões (mai/2026); a privatização da Cemig foi declarada como continuidade a ser levada adiante pelo sucessor eleito no estado",
+              "outcome": "Copasa: oferta de ações lançada em maio de 2026; Cemig: processo não concluído no mandato, com declaração pública de continuidade depois dele",
+              "period": "2019–2026",
+              "context": "Restrição fiscal estrutural do estado e dependência de autorização legislativa para as desestatizações, com oposição sindical e discussão no Tribunal de Contas.",
+              "sources": [
+                {
+                  "id": "src-zema-140"
+                },
+                {
+                  "id": "src-zema-141"
+                },
+                {
+                  "id": "src-zema-142"
+                },
+                {
+                  "id": "src-zema-146"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-zema-05",
+              "kind": "historico",
+              "title": "Reforma administrativa com meta de economia e resultado fiscal alcançado, com limites registrados",
+              "role": "Governador de Minas Gerais — proposta de reforma administrativa (fev/2019) e gestão das contas estaduais até 2026",
+              "complexity": "Reforma administrativa enviada à Assembleia em fev/2019 com previsão de economia de R$ 1 bilhão em quatro anos, incluindo extinção de secretarias e de cargos comissionados; em 2025, o estado registrou superávit de R$ 1,108 bilhão (receitas de R$ 132,7 bi e despesas de R$ 131,6 bi), com caixa líquido ainda negativo e renúncias fiscais em alta no balanço dos sete anos",
+              "outcome": "Economia declarada na proposta e resultado primário positivo em 2025; o balanço posterior registra melhora de indicadores com caixa negativo e aumento de renúncias; houve crítica pública de sindicato de fiscais sobre negociação salarial",
+              "period": "2019–2026",
+              "context": "Sequência declarada de prioridades: reduzir estrutura e despesa corrente primeiro, para depois ampliar investimento; a avaliação do resultado é contestada por entidades de servidores.",
+              "sources": [
+                {
+                  "id": "src-zema-139"
+                },
+                {
+                  "id": "src-zema-147"
+                },
+                {
+                  "id": "src-zema-143"
+                },
+                {
+                  "id": "src-zema-144"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
         }
       ]
     }
   },
   "dataGaps": [
-    "em consolidação"
+    "Lula: os pronunciamentos em cadeia nacional foram identificados pelo registro oficial de convocações da EBC e pela cobertura de imprensa; o áudio/texto integral dos pronunciamentos de 06/09/2025, 30/11/2025, 23-24/12/2025 e 30/04/2026 não foi recuperado nesta rodada (a fonte usada lista data e tema).",
+    "Lula: o PBIA 2024-2028 e a meta climática de 2035 foram confirmados por título e resumo das páginas oficiais (gov.br com bloqueio de WAF na coleta direta) e por veículos secundários; não foram lidos os documentos integrais.",
+    "Flávio Bolsonaro: a informação sobre anistia e sobre a indicação de Cláudio Lottenberg para a Saúde (entrevista de 28/08/2026) foi confirmada por Poder360, UOL e pela página do J1/G1; os trechos literais da fala não foram recuperados no texto do G1.",
+    "Flávio Bolsonaro: não há registro, nesta rodada, de uso de instrumento próprio de rádio/TV (programa ou cadeia) — a comunicação identificada é por entrevistas, plenário e eventos setoriais.",
+    "Caiado: a participação em sabatina da TV Globo (25/08/2026) foi registrada pela cobertura de O Globo sem texto próprio recuperado; o conteúdo usado é o da sabatina O GLOBO/CBN/Valor de 26/08/2026.",
+    "Caiado: o Plano Estadual de Segurança Pública de combate à violência contra a mulher (2026-2035) foi elaborado na gestão Caiado, mas publicado em abril/2026 sob o governo do sucessor, Daniel Vilela — a atribuição está explicitada nas evidências.",
+    "Zema: as páginas oficiais de Agência Minas estão com funcionalidades desativadas durante o período eleitoral, o que impediu recuperar as notícias oficiais sobre mudanças de onda do Minas Consciente e a página do ato de reforma administrativa de 2019; essas evidências usam imprensa e o texto da proposta.",
+    "Zema: PMDI 2019-2030 e PPAG 2024-2027 foram verificados nas páginas oficiais (Seplag e ALMG), mas os documentos anexos (metas por indicador e anexo de metas por exercício) não foram lidos integralmente."
   ]
 }

@@ -73,7 +73,7 @@
       "notes": "Análise do plano do PSTU (autores Marcelo Balloti Monteiro e Laís Eugênio Lobue dos Santos). Descreve imperialismo e dependência como categorias estruturantes, a soberania digital (vedação de dados governamentais sensíveis em servidores privados internacionais e IA pública nacional), a crítica ao acordo Mercosul–União Europeia e as lacunas do documento (ONU, OMC, G20, BRICS, Mercosul, agenda bilateral sul-americana, defesa e clima)."
     },
     {
-      "id": "src-rp-82",
+      "id": "src-rp-101",
       "title": "PEB nas Urnas 2026: Rui Costa Pimenta (PCO)",
       "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
       "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-rui-costa-pimenta-pco/",
@@ -83,7 +83,7 @@
       "notes": "Análise do programa do PCO (autores Michel Adriano Szurkalo e Scarlett Rodrigues da Cunha). Trata dívidas de empresas, taxação de grandes fortunas, reestatizações, Petrobras 100% estatal, terras raras (Brasil com 23% das reservas globais) e da necessidade de articulação multilateral, citando o comércio bilateral no BRICS como caminho sem detalhamento de instrumentos no plano."
     },
     {
-      "id": "src-rp-83",
+      "id": "src-rp-102",
       "title": "About — Partido da Causa Operária (versão em inglês da página institucional do partido)",
       "publisher": "Partido da Causa Operária (PCO)",
       "url": "https://pco.org.br/about",
@@ -93,7 +93,7 @@
       "notes": "Página institucional em inglês. Afirma: apoio à Rússia desde o início da operação militar na Ucrânia (2022), com envio de dois correspondentes ao Donbass; apoio ao Hamas desde 07/10/2023, quando Rui Costa Pimenta declarou o partido '1.000% com o Hamas'; em fevereiro de 2024, delegação chefiada por Rui Pimenta foi ao Catar e se reuniu com o bureau político do Hamas, incluindo Ismail Haniyeh, encontro do qual resultou o livro 'O Hamas conta seu lado da história'. Data exata da publicação não informada na página."
     },
     {
-      "id": "src-rp-84",
+      "id": "src-rp-103",
       "title": "O que Rui Costa Pimenta conversou com o líder do Hamas?",
       "publisher": "Diário Causa Operária (PCO)",
       "url": "https://causaoperaria.org.br/2024/o-que-rui-costa-pimenta-conversou-com-o-lider-do-hamas/",
@@ -103,7 +103,7 @@
       "notes": "Registra o retorno de Rui Costa Pimenta ao Brasil 'após mais de 10 dias no Catar, onde se reuniu com lideranças do movimento de resistência palestino, incluindo Ismail Hanié'. A página respondeu HTTP 403 à requisição por linha de comando (WAF); trecho obtido por resultado de busca em 29/09/2026."
     },
     {
-      "id": "src-rp-85",
+      "id": "src-rp-104",
       "title": "PCO monta palanque para chefe do Hamas",
       "publisher": "O Antagonista",
       "url": "https://oantagonista.com.br/mundo/pco-monta-palanque-para-chefe-do-hamas/",
@@ -113,7 +113,7 @@
       "notes": "Reportagem de Murilo Pavini (03/03/2024) sobre a divulgação pelo PCO, em vídeo, de mensagem de Ismail Haniyeh ao público brasileiro, no contexto do encontro da delegação do partido no Catar."
     },
     {
-      "id": "src-rp-86",
+      "id": "src-rp-105",
       "title": "PCO diz que está '1.000% com o Hamas'",
       "publisher": "Poder360",
       "url": "https://www.poder360.com.br/partidos-politicos/pco-diz-que-esta-1-000-com-o-hamas",
@@ -123,7 +123,7 @@
       "notes": "Registra a declaração do PCO de apoio ao Hamas ('1.000% com o Hamas') e a comparação feita pelo partido. A página respondeu HTTP 403 à requisição por linha de comando; título e trecho obtidos por resultado de busca em 29/09/2026. Data exata do dia não capturada."
     },
     {
-      "id": "src-wg-76",
+      "id": "src-wg-98",
       "title": "PEB nas Urnas: Wilson Grassi (Democrata)",
       "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
       "url": "https://opeb.org/2026/09/27/peb-nas-urnas-wilson-grassi-democrata/",
@@ -133,7 +133,7 @@
       "notes": "Análise do plano 'Brasil em Primeiro Lugar' (autores Paulo Vitor Nascimento dos Santos e Pedro Henrique Thuler de Oliveira). Reproduz os cinco tópicos de política externa do documento e o adendo sobre cooperação fronteiriça: rejeição de acordos que não abram mercados; reciprocidade a barreiras sanitárias ou tarifárias; contrapartida em conteúdo nacional, tecnologia e emprego para investimento estrangeiro em setor estratégico; posição em foro multilateral caso a caso, 'por conveniência nacional declarada, e não por alinhamento automático'; diplomacia comercial e sanitária com presença técnica permanente nos países compradores. Registra também que o plano declara que doutrina e diplomacia serão tratadas com o Itamaraty após a posse."
     },
     {
-      "id": "src-wg-77",
+      "id": "src-wg-99",
       "title": "Eleição 2026: quais são as propostas dos candidatos?",
       "publisher": "BBC News Brasil",
       "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo",
@@ -255,19 +255,19 @@
             "id": "src-rp-70"
           },
           {
-            "id": "src-rp-82"
+            "id": "src-rp-101"
           },
           {
-            "id": "src-rp-83"
+            "id": "src-rp-102"
           },
           {
-            "id": "src-rp-84"
+            "id": "src-rp-103"
           },
           {
-            "id": "src-rp-85"
+            "id": "src-rp-104"
           },
           {
-            "id": "src-rp-86"
+            "id": "src-rp-105"
           },
           {
             "id": "src-rp-79"
@@ -302,10 +302,10 @@
             "id": "src-wg-12"
           },
           {
-            "id": "src-wg-76"
+            "id": "src-wg-98"
           },
           {
-            "id": "src-wg-77"
+            "id": "src-wg-99"
           },
           {
             "id": "src-wg-03"

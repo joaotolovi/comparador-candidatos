@@ -1,38 +1,1448 @@
 {
   "grupo": "g2",
   "escopo": "capacidade:comunicacao-publica,capacidade:visao-estrategica",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-rs-64",
+      "title": "Renan Santos: candidato do Missão concede entrevista à Globo (plano gerencial com metas de desempenho para prefeitos e governadores)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/26/renan-santos-entrevista-globo.ghtml",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a proposta de 'plano gerencial' com indicadores de desempenho definidos pelo governo federal para fiscalizar municípios, incluindo enfrentamento à violência contra a mulher, e a ressalva do próprio candidato de que o governo federal não tem poder de polícia para execução local."
+    },
+    {
+      "id": "src-rs-65",
+      "title": "Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
+      "publisher": "BBC News Brasil (cobertura ao vivo)",
+      "url": "https://www.bbc.com/portuguese/live/cmlyqyl0d3z7t",
+      "publishedAt": "2026-08-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura minuto a minuto do primeiro debate presidencial de 2026 (Band): 3 dos 6 convidados presentes, 1h30 de duração; falas de Renan Santos sobre crime organizado e sobre os ausentes."
+    },
+    {
+      "id": "src-rs-66",
+      "title": "Renan Santos leva fraldas para debate da Band e critica Flávio e Lula",
+      "publisher": "Band",
+      "url": "https://www.band.com.br/politica/eleicoes/2026/renan-santos-leva-fraldas-para-debate-da-band-e-critica-flavio-e-lula-202608231842",
+      "publishedAt": "2026-08-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Página protegida por Cloudflare no acesso por linha de comando; endereço e chamada confirmados pelo índice de busca e por coberturas paralelas do mesmo episódio (O Tempo, Portal Tri): o candidato levou fraldas para ironizar as ausências de Lula e Flávio Bolsonaro e criticou os dois na chegada ao debate."
+    },
+    {
+      "id": "src-rs-67",
+      "title": "Primeiro debate presidencial de 2026 tem três candidatos, cobranças por ausências e confronto sobre propostas",
+      "publisher": "Brazilian Times",
+      "url": "https://braziliantimes.com/brasil/primeiro-debate-presidencial-de-2026-tem-tres-candidatos-cobrancas-por-ausencias-e-confronto-sobre-propostas",
+      "publishedAt": "2026-08-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha as três medidas de segurança apresentadas por Renan Santos no debate: estado de defesa e operações de GLO, ampliação do sistema prisional com 'superpresídios' que acrescentariam de 300 mil a 500 mil vagas, e integração federal/estadual."
+    },
+    {
+      "id": "src-rs-68",
+      "title": "Ao vivo: checagem da entrevista de Renan Santos ao Flow",
+      "publisher": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/09/02/ao-vivo-checagem-da-entrevista-de-renan-santos-ao-flow/",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Checagem de afirmações feitas em sabatina do Flow Podcast: duas falas registradas como incorretas (ausência de proposta de segurança no programa de Lula e afirmação de ser 'o único que ataca' Flávio e Lula)."
+    },
+    {
+      "id": "src-rs-69",
+      "title": "Após decisão do TSE, YouTube e Instagram suspendem contas de presidenciável Renan Santos (Missão)",
+      "publisher": "NSC Total",
+      "url": "https://www.nsctotal.com.br/politica/apos-decisao-do-tse-youtube-e-instagram-suspendem-contas-de-presidenciavel-renan-santos-missao",
+      "publishedAt": "2026-09-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a suspensão das contas do candidato e do vice nas plataformas e a resposta pública dele em entrevista coletiva ('A decisão é ilegal, a decisão é persecutória'), com a vinculação do caso às manifestações que convocou contra o relator."
+    },
+    {
+      "id": "src-rs-87",
+      "title": "Renan Santos diz que vai montar 'Liga da Justiça' com empresários por reformas estruturantes",
+      "publisher": "Money Times (Estadão Conteúdo)",
+      "url": "https://www.moneytimes.com.br/renan-santos-diz-que-vai-montar-liga-da-justica-com-empresarios-por-reformas-estruturantes-gaep",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Evento 'Encontro com Presidenciáveis - Diálogo pelo Futuro do Brasil', promovido pela Unecs em Brasília em 18/08/2026: o candidato defendeu cortes no governo federal, 'reforma trabalhista decente', nova reforma da Previdência e a desvinculação e desindexação de gastos públicos em relação ao salário mínimo, e anunciou a criação da frente empresarial."
+    },
+    {
+      "id": "src-rs-88",
+      "title": "Estreante em eleições, Renan Santos é empresário e fundador do MBL",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/01/estreante-em-eleicoes-renan-santos-e-empresario-e-fundador-do-mbl.ghtml",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil do lançamento da candidatura: 'adota postura combativa nas redes sociais'; propostas listadas (penas mais duras, grandes presídios, Direito Penal do Inimigo, condicionar reeleição de prefeitos a metas, substituição da CLT, extinção da Justiça do Trabalho, reserva nacional em criptomoedas, frentes de trabalho, PEC com corte de gastos)."
+    },
+    {
+      "id": "src-rs-89",
+      "title": "Renan Santos — canal próprio no YouTube (@renansantosmbl), página de vídeos",
+      "publisher": "YouTube (canal do candidato)",
+      "url": "https://www.youtube.com/@renansantosmbl/featured",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Página do próprio candidato, consultada em 29/09/2026: descrição 'Fundador do MBL, fundador do Partido Missão e guitarrista na banda Limão Rosa'; primeira leitura registrou 186 mil inscritos e 847 vídeos, segunda leitura 159 mil inscritos e 729 vídeos (a página exibe números distintos para visitantes logados e não logados)."
+    },
+    {
+      "id": "src-rs-96",
+      "title": "Eleições 2026: Renan Santos dá entrevista à GloboNews; veja os principais temas",
+      "publisher": "Investidor10 (transcrição de trechos da entrevista)",
+      "url": "https://investidor10.com.br/noticias/eleicoes-2026-renan-santos-da-entrevista-a-globonews-veja-os-principais-temas-121866/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado no endereço (a entrevista é de uma quarta-feira, 5, com as jornalistas Andréia Sadi e Natuza Nery, abrindo a rodada de sabatinas). Reproduz declarações literais sobre 'antissistema', execução da lei no estado de defesa e cobrança de presença dos adversários em debates."
+    },
+    {
+      "id": "src-la-38",
+      "title": "Avalanche defende pagamento por hora, imposto único e empreendedorismo (sabatina do Correio Braziliense)",
+      "publisher": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7469552-avalanche-defende-pagamento-por-hora-imposto-unico-e-empreender.html",
+      "publishedAt": "2026-07-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declarações literais em sabatina: remuneração por hora trabalhada; imposto único de 3,5% como meio de reduzir sonegação e ampliar arrecadação; crítica à redução da jornada 6x1 sem mudança tributária e ao TST."
+    },
+    {
+      "id": "src-la-39",
+      "title": "PRTB lança seu presidente, Leonardo Avalanche, como pré-candidato ao Planalto",
+      "publisher": "Viva",
+      "url": "https://viva.com.br/politica/prtb-lanca-seu-presidente-leonardo-avalanche-como-pre-candidato-ao-planalto.html",
+      "publishedAt": "2026-07-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reproduz nota do partido com declaração do candidato ('Não estamos aqui para ser apenas mais uma opção no papel... o partido da coragem e do trabalho') e registra a resposta da direção às acusações: 'rechaçam categoricamente as suspeitas, afirmando que as acusações são infundadas e fazem parte de uma campanha de difamação política'."
+    },
+    {
+      "id": "src-la-40",
+      "title": "Leonardo Avalanche propõe imposto único de 3,5% e promete zerar fila do SUS",
+      "publisher": "GRU Diário",
+      "url": "https://grudiario.com.br/leonardo-avalanche-propoe-imposto-unico-de-35-e-promete-zerar-fila-do-sus",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado. Resumo do programa apresentado pela candidatura: imposto único de 3,5%, mutirões para filas do SUS, inteligência artificial na educação e Sistema Único Nacional de Segurança."
+    },
+    {
+      "id": "src-la-41",
+      "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS (detalhamento do eixo econômico e de tecnologia)",
+      "publisher": "Jornal Ribeirão (conteúdo de agência)",
+      "url": "https://www.jornalribeirao.com.br/brasil-e-mundo/2026/09/22541-leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus.html",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha a substituição de ICMS, ISS, IPI, PIS, Cofins, IOF, IRPJ, CSLL, IRPF e INSS por imposto único de 3,5%, IPVA fixo de R$ 50 mensais e isenção para caminhoneiros, crédito de qualificação para jovens a partir de 25 anos, incentivo fiscal a empresas de tecnologia e recomposição do orçamento de Capes e CNPq."
+    },
+    {
+      "id": "src-la-42",
+      "title": "PRTB Taps Leonardo Avalanche as Its Pre-Candidate for President",
+      "publisher": "particle.news",
+      "url": "https://particle.news/story/prtb-names-leonardo-avalanche-as-its-precandidate-for-president",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil e plataforma divulgados pelo partido como conservadores e pró-empreendedor (corte de impostos a 3,5%, crédito para o agronegócio, medidas anticorrupção) e registro da denúncia do MP-SP de janeiro de 2026 sobre a eleição interna de 2024, negada pelo candidato."
+    },
+    {
+      "id": "src-la-43",
+      "title": "Como a propaganda eleitoral na TV evoluiu ao longo do tempo",
+      "publisher": "Nexo Jornal",
+      "url": "https://www.nexojornal.com.br/story/historia-televisao-eleicoes-2026-propaganda-eleitoral",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento sobre a distribuição do horário eleitoral de 2026: lista como legendas com tempo de TV Lula (PT), Flávio Bolsonaro (PL), Caiado (PSD) e Cury (Avante, 35 segundos, sem coligação); PRTB, Missão, DC e UP não constam na lista."
+    },
+    {
+      "id": "src-la-44",
+      "title": "Veja como foi o fim de semana dos candidatos a presidente",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-o-fim-de-semana-dos-candidatos-presidente-0",
+      "publishedAt": "2026-09-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registro, na seção dedicada a Leonardo Avalanche (PRTB): 'Não houve divulgação de agenda pública do candidato neste fim de semana.'"
+    },
+    {
+      "id": "src-ac-20",
+      "title": "Debate presidencial tem críticas ao STF e propostas sobre segurança e economia",
+      "publisher": "A Crítica",
+      "url": "https://acritica.net/eleicoes-2026/debate-presidencial-tem-criticas-ao-stf-e-propostas-sobre-seguranca-e-economia/",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Debate promovido pelo Flow Podcast em 21/09/2026 (Caiado, Cury e Zema): Cury defendeu integração entre as polícias Civil e Militar, valorização dos profissionais e uso de novas tecnologias, e questionou dados de feminicídio de Goiás em pergunta a Caiado."
+    },
+    {
+      "id": "src-ac-21",
+      "title": "Mandato de 8 anos e magistrados de carreira: Cury defende reforma no STF",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/mandato-de-8-anos-e-magistrados-de-carreira-cury-defende-reforma-no-stf",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Página com proteção antibot: o acesso por linha de comando devolve conteúdo sem o texto da matéria. Existência, veículo e título foram confirmados pelo índice de busca. A proposta de reforma do STF (fim da vitaliciedade, mandato de 8 anos e composição majoritária pela magistratura) consta do plano registrado no TSE (src-ac-23); o levantamento do Poder360 sobre as posições em relação ao STF atribui a apresentação a entrevista de 07/03/2026 ao Metrópoles."
+    },
+    {
+      "id": "src-ac-24",
+      "title": "Augusto Cury cresce nas redes e levanta suspeita de rivais",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/08/cury-inunda-redes-sociais-com-influenciadores-dispara-em-pesquisa-e-levanta-suspeita-entre-adversarios.shtml",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Chamada do próprio veículo: 'Cury inunda redes sociais com influenciadores, dispara em pesquisa e levanta suspeita entre adversários'; o subtítulo registra 11% no levantamento BTG/Nexus e ganho de 2,5 milhões de seguidores no Instagram em duas semanas; o candidato negou o uso de robôs em agenda pública (31/08) e o marqueteiro Sergio Lima atribuiu o desempenho a adesão espontânea."
+    },
+    {
+      "id": "src-ac-25",
+      "title": "Como a propaganda eleitoral na TV evoluiu ao longo do tempo (tempo de TV por candidato em 2026)",
+      "publisher": "Nexo Jornal",
+      "url": "https://www.nexojornal.com.br/story/historia-televisao-eleicoes-2026-propaganda-eleitoral",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento sobre o horário eleitoral de 2026: registra 'Augusto Cury, do Avante (sem coligação): 35 segundos' e analisa o peso do espaço televisivo ante as redes sociais; o artigo lista apenas quatro legendas com tempo de TV."
+    },
+    {
+      "id": "src-ac-26",
+      "title": "Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
+      "publisher": "BBC News Brasil (cobertura ao vivo)",
+      "url": "https://www.bbc.com/portuguese/live/cmlyqyl0d3z7t",
+      "publishedAt": "2026-08-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra falas de Cury no primeiro debate presidencial: 'pior do que o crime organizado é o Estado desorganizado'; projeto 'Força de alerta total' para a Polícia Federal sem interferência política; encerramento com apresentação ao eleitor."
+    },
+    {
+      "id": "src-ac-27",
+      "title": "DX na Mídia — compilação de levantamentos sobre a campanha de 2026 (impulsionamento pago e ecossistema evangélico)",
+      "publisher": "Instituto Democracia em Xeque (compilação de reportagens: Termômetro da Política, Casa Galileia, Policy Livre)",
+      "url": "https://institutodx.org/dx-na-midia/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Página-agregadora que reproduz levantamentos e reportagens de terceiros: relatório Casa Galileia/Instituto Democracia em Xeque sobre 573 perfis monitorados entre 17 e 30/08 (19.429 publicações, cerca de 135,4 milhões de interações no ecossistema evangélico) e item sobre o gasto de R$ 116 mil com impulsionamento na Meta, atribuído ao g1. Os relatórios originais não foram abertos por linha de comando."
+    },
+    {
+      "id": "src-cb-35",
+      "title": "Clariana Barão prioriza proteção à mulher e à infância em programa de governo",
+      "publisher": "Frances News (conteúdo da Agência Brasil)",
+      "url": "https://francesnews.com.br/post/2026/09/26/39430-clariana-barao-prioriza-protecao-a-mulher-e-a-infancia-em-programa-de-governo",
+      "publishedAt": "2026-09-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem sobre o programa 'Proteger Hoje, Transformar o Amanhã': rede nacional de proteção e resposta à violência como prioridade e cobertura dos demais eixos (economia, educação, segurança, saúde e gestão do Estado)."
+    },
+    {
+      "id": "src-cb-36",
+      "title": "Eleições 2026: Democracia Cristã registra Clariana Barão para disputar presidência",
+      "publisher": "R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/eleicoes-2026-democracia-crista-registra-clariana-barao-para-disputar-presidencia-15082026/",
+      "publishedAt": "2026-08-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registro da candidatura em chapa pura com Fabiana Torquato; patrimônio declarado de R$ 1,82 milhão; lista de medidas do plano (simplificação regulatória, apoio a pequenos negócios, infraestrutura e logística, concessões e PPPs, monitoramento tecnológico de fronteiras, combate ao narcotráfico e ao tráfico de armas, rastreamento financeiro de organizações criminosas e uso de dados no policiamento)."
+    },
+    {
+      "id": "src-cb-37",
+      "title": "Plano de governo; vídeo — advogada rebate críticas e diz que candidatos não cumprem promessas",
+      "publisher": "MidiaNews (Mato Grosso)",
+      "url": "https://www.midianews.com.br/fogo-amigo/plano-de-governo-video/529512",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Ano; data exata não capturada. Registra resposta pública da candidata a críticas ao seu plano de governo, com a afirmação de que candidatos não cumprem promessas."
+    },
+    {
+      "id": "src-sm-52",
+      "title": "Samara Martins propõe ampliar SUS, combater racismo e reduzir violência contra população negra",
+      "publisher": "Alma Preta",
+      "url": "https://almapreta.com.br/sessao/politica/samara-martins-programa-governo-eleicoes-2026",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha o programa registrado: ampliação do SUS com gestão direta do Estado (retirada de organizações sociais, fundações privadas e cooperativas), aumento de 100% do salário mínimo, fim da escala 6x1 com duas referências de jornada no próprio documento (36 horas semanais em um trecho; 30 horas/4x3 em outro), reserva de vagas para pessoas negras no setor público, titulação de territórios quilombolas via Incra e Fundação Cultural Palmares, e fim do vestibular."
+    },
+    {
+      "id": "src-sm-55",
+      "title": "Única mulher pré-candidata à Presidência diz ser ignorada e defende renovação",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/04/unica-mulher-pre-candidata-a-presidencia-diz-ser-ignorada-e-defende-renovacao.shtml",
+      "publishedAt": "2026-04-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Título e chamada verificados na própria página (og:title e endereço canônico); o corpo da matéria está sob assinatura e não foi lido por linha de comando."
+    },
+    {
+      "id": "src-rs-97",
+      "title": "Renan diz que acabar com 6x1 é 'maluquice', afirma que CLT 'já era' e defende fim da Justiça do Trabalho (sabatina da Unecs)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/renan-diz-que-acabar-com-6x1-e-maluquice-afirma-que-clt-ja-era-e-defende-fim-da-justica-do-trabalho.ghtml",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina da Unecs (18/08/2026), em Brasília: o candidato classificou o fim da escala 6x1 como 'maluquice' e propôs a extinção da Justiça do Trabalho e a substituição da CLT."
+    }
+  ],
   "candidates": {
     "renan-santos": {
       "capacities": [
-        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "Comunica por canal próprio de vídeos, sabatinas e debates, apresentando as propostas a partir do 'Livro Amarelo' e respondendo publicamente a decisões judiciais. Sem mandato exercido, a comunicação pública documentada é a de movimento e de campanha, com checagem externa de afirmações em entrevista.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-renan-01",
+              "kind": "historico",
+              "title": "Produção de mídia própria: canal de vídeos do candidato/MBL antes e durante a campanha",
+              "role": "cofundador e coordenador nacional do MBL (desde nov/2014) e candidato em 2026",
+              "complexity": "canal próprio com produção contínua de vídeos, conteúdo de crítica a adversários e defesa de pautas do movimento, com alcance nacional",
+              "outcome": "canal mantido como veículo de posicionamento e de divulgação de propostas do candidato e do movimento; a página do canal é o ponto de referência da produção própria",
+              "period": "2014–2026",
+              "context": "as métricas da página (inscrições e número de vídeos) são carregadas por JavaScript e não foram capturadas na leitura por linha de comando, por isso não são usadas aqui; sem mandato eletivo, o candidato usa estruturas de movimento e mídia própria",
+              "sources": [
+                {
+                  "id": "src-rs-89"
+                },
+                {
+                  "id": "src-rs-88"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-renan-02",
+              "kind": "historico",
+              "title": "Rodada de entrevistas individuais em veículos nacionais (Globo, GloboNews, Flow, SBT)",
+              "role": "candidato à Presidência (Missão, nº 14)",
+              "complexity": "ao menos quatro entrevistas de alcance nacional entre agosto e setembro de 2026 (Globo em 26/08; GloboNews; Flow Podcast em 02/09; sabatina do SBT Brasil)",
+              "outcome": "apresentou eixos de segurança e de ajuste fiscal e respondeu publicamente sobre rótulo político: 'aceito a alcunha de antissistema no sentido de que eu não participo do grande jogo e seus vícios, mas entendo o funcionamento da fábrica de salsichas, que é o Congresso Nacional'",
+              "period": "2026-08 a 2026-09",
+              "context": "a GloboNews abriu a rodada de sabatinas com os presidenciáveis; o candidato declarou que quem governa 'precisa ter coragem de encarar o contraditório'",
+              "sources": [
+                {
+                  "id": "src-rs-64"
+                },
+                {
+                  "id": "src-rs-96"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-renan-03",
+              "kind": "historico",
+              "title": "Participação no primeiro debate presidencial de 2026 (Band, 23/08/2026)",
+              "role": "candidato presente entre os 3 dos 6 convidados que compareceram",
+              "complexity": "debate de 1h30 com regras de 1 minuto para pergunta e réplica e 4 minutos por bloco; ausência de Lula, Flávio Bolsonaro e Zema",
+              "outcome": "apresentou o projeto de segurança em três medidas (estado de defesa com operações de GLO, ampliação do sistema prisional e integração federal/estadual) e exibiu, na chegada à emissora, fraldas com os nomes dos adversários ausentes",
+              "period": "2026-08-23",
+              "context": "usou os púlpitos vazios dos ausentes para dirigir críticas nominais durante o programa",
+              "sources": [
+                {
+                  "id": "src-rs-65"
+                },
+                {
+                  "id": "src-rs-66"
+                },
+                {
+                  "id": "src-rs-67"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-renan-04",
+              "kind": "historico",
+              "title": "Checagem de afirmações feitas em entrevista ao Flow Podcast (02/09/2026)",
+              "role": "entrevistado em sabatina transmitida pelo canal",
+              "complexity": "checagem em tempo real por agência especializada, comparando as falas do candidato com o programa registrado pelo adversário e com a atuação pública declarada",
+              "outcome": "duas afirmações foram registradas como incorretas: a de que Lula 'não tem nenhuma proposta para segurança pública' (o programa do adversário prevê medidas na área, incluindo Ministério da Segurança Pública e rastreamento de armas) e a de que seria 'o único que ataca' Flávio Bolsonaro e Lula",
+              "period": "2026-09-02",
+              "context": "as falas foram transcritas literalmente pela checagem, com a explicação do que não se sustentava",
+              "sources": [
+                {
+                  "id": "src-rs-68"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-renan-05",
+              "kind": "historico",
+              "title": "Resposta pública à suspensão cautelar da campanha digital pelo TSE (31/08–01/09/2026)",
+              "role": "candidato; a campanha informou ao TSE 16 perfis de redes sociais com 12 dias de atraso",
+              "complexity": "decisão do relator suspendeu propaganda digital, participação em debates e repasses do Fundo Eleitoral; contas do candidato e do vice saíram do ar no YouTube e no Instagram",
+              "outcome": "concedeu entrevista coletiva, classificou a decisão de 'ilegal' e 'persecutória' e relacionou o caso às manifestações que convocou contra o relator; a defesa pediu revogação e, em 01/09, a decisão foi parcialmente revista, com liberação de debates, propaganda e repasses",
+              "period": "2026-08-30 a 2026-09-01",
+              "context": "primeira suspensão cautelar da campanha digital de uma chapa presidencial em 2026, com resposta pública dada pelo próprio candidato",
+              "sources": [
+                {
+                  "id": "src-rs-69"
+                },
+                {
+                  "id": "src-rs-16"
+                },
+                {
+                  "id": "src-rs-17"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "Organiza o plano em 14 pilares e 5 metas para 2030, com horizonte fiscal em 2031 e prazo de 10 anos para a 'desfavelação integral'. Encadeia medidas de aplicação imediata (estado de defesa, GLO, contenção de pisos) a marcos posteriores (lei antifacção, PEC de transição fiscal).",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-renan-01",
+              "kind": "proposta",
+              "title": "Estrutura declarada do plano: 14 pilares em 3 blocos e 5 metas para 2030",
+              "role": "autor do 'Livro Amarelo' e candidato",
+              "complexity": "resumo executivo de 51 páginas registrado com o pedido de registro (RRC 0601415-52.2026.6.00.0000); 3 blocos ('Estado Novo', 'Reformas de Base', 'País do Futuro') e 14 pilares/temas",
+              "outcome": "documento registrado no TSE em 07/08/2026 e usado como referência programática na campanha; a obra integral é declarada com mais de 500 páginas",
+              "period": "2026",
+              "context": "o documento registrado é um resumo da obra integral, não publicada na íntegra; a extração de propostas usa o resumo e a cobertura de imprensa",
+              "sources": [
+                {
+                  "id": "src-rs-20"
+                },
+                {
+                  "id": "src-rs-47"
+                },
+                {
+                  "id": "src-rs-22"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-renan-02",
+              "kind": "proposta",
+              "title": "PEC de Transição Fiscal com ajuste declarado de R$ 1,1 trilhão até 2031 e desvinculação de pisos",
+              "role": "candidato; instrumento (PEC) já protocolado na Câmara por deputado federal do partido",
+              "complexity": "meta declarada de R$ 1,1 trilhão de ajuste até 2031; desvinculação de pisos e desindexação de gastos em relação ao salário mínimo; pisos de saúde e educação (15% e 18%) corrigidos apenas pela inflação",
+              "outcome": "apresentado como eixo fiscal central, com veículos previstos: PEC de transição fiscal, PEC da Previdência e PEC de desvinculação de pisos",
+              "period": "2026–2031",
+              "context": "em evento empresarial (18/08/2026), o candidato defendeu cortes no governo federal, 'reforma trabalhista decente' e nova reforma da Previdência como partes do mesmo ajuste",
+              "sources": [
+                {
+                  "id": "src-rs-22"
+                },
+                {
+                  "id": "src-rs-47"
+                },
+                {
+                  "id": "src-rs-87"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-renan-03",
+              "kind": "proposta",
+              "title": "Plano gerencial com indicadores de desempenho para prefeitos e governadores",
+              "role": "candidato, em entrevista à TV Globo (26/08/2026)",
+              "complexity": "indicadores de desempenho definidos pelo governo federal para fiscalizar a atuação municipal; entre os temas, o enfrentamento à violência contra a mulher; a proposta declarada condiciona a reeleição de prefeitos ao cumprimento de metas",
+              "outcome": "apresentado publicamente como mecanismo de execução do plano, com a ressalva do próprio candidato de que o governo federal não tem poder de polícia para executar a política no território",
+              "period": "2026",
+              "context": "propostas correlatas no plano: condicionar reeleição de prefeitos a metas e usar indicadores federais para orientar a fiscalização de municípios",
+              "sources": [
+                {
+                  "id": "src-rs-64"
+                },
+                {
+                  "id": "src-rs-88"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-renan-04",
+              "kind": "proposta",
+              "title": "Sequenciamento declarado na segurança: medida imediata por decreto e marco legal posterior",
+              "role": "candidato, no primeiro debate presidencial",
+              "complexity": "declaração de estado de defesa e operações de GLO em áreas sob domínio de facções desde o início do mandato; ampliação do sistema prisional com 300 mil a 500 mil vagas; lei antifacção como marco legal posterior",
+              "outcome": "apresentado no debate como plano de três etapas, com a 'guerra ao crime organizado' declarada para o primeiro dia de mandato",
+              "period": "2026",
+              "context": "o candidato afirmou que fará 'o estrito cumprimento da lei' e que o estado de defesa seria aplicado de forma localizada por região",
+              "sources": [
+                {
+                  "id": "src-rs-67"
+                },
+                {
+                  "id": "src-rs-88"
+                },
+                {
+                  "id": "src-rs-20"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-renan-05",
+              "kind": "proposta",
+              "title": "Prazo de 10 anos declarado para a 'desfavelação integral do Brasil'",
+              "role": "candidato (proposta de plano)",
+              "complexity": "medida de urbanização e infraestrutura com prazo declarado de 10 anos; instrumento legal não especificado no resumo executivo",
+              "outcome": "declaração registrada na cobertura do plano (21/07/2026); versões anteriores do candidato citavam prazo de até 30 anos",
+              "period": "2026–2036",
+              "context": "apresentada como meta de longo prazo do eixo de infraestrutura, com a frase 'morar na favela é insalubre, é inseguro, é desumano, e isso precisa acabar de forma organizada e definitiva'",
+              "sources": [
+                {
+                  "id": "src-rs-20"
+                },
+                {
+                  "id": "src-rs-47"
+                },
+                {
+                  "id": "src-rs-25"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-renan-06",
+              "kind": "proposta",
+              "title": "'Liga da Justiça' empresarial declarada como instrumento de sustentação das reformas",
+              "role": "candidato, em evento da Unecs (18/08/2026)",
+              "complexity": "encontro da Unecs com entidades nacionais do comércio e serviços, em que o candidato defendeu cortes no governo federal, 'reforma trabalhista decente', nova reforma da Previdência e desvinculação e desindexação de gastos",
+              "outcome": "anunciou a intenção de reunir segmentos empresariais em frente conjunta por reformas estruturais, declarando que parte do empresariado atua de forma isolada; na mesma sabatina, defendeu a extinção da Justiça do Trabalho e a substituição da CLT",
+              "period": "2026-08-18",
+              "context": "a proposta de frente empresarial foi apresentada como meio de obter sustentação política para as reformas previstas no plano",
+              "sources": [
+                {
+                  "id": "src-rs-87"
+                },
+                {
+                  "id": "src-rs-97"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     },
     "leonardo-avalanche": {
       "capacities": [
-        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "A comunicação pública documentada ocorre em sabatinas, notas do partido e veículos nacionais, com resposta pública às acusações que atingem a direção do PRTB. Não há cargo eletivo exercido; a base de evidências é de campanha e de direção partidária.",
+          "coverage": "parcial",
+          "coverageNote": "base menor que a dos demais candidatos do grupo: as evidências vêm de uma sabatina, de notas do partido, de cobertura de imprensa sobre o programa e de registro de ausência de agenda pública em fim de semana monitorado. Não há monitoramento contínuo de agenda ou de redes do candidato, nem transcrições de debates desta rodada.",
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-avalanche-01",
+              "kind": "historico",
+              "title": "Sabatina do Correio Braziliense (28/07/2026) com apresentação das propostas",
+              "role": "pré-candidato do PRTB, entrevistado em sabatina de veículo nacional em Brasília",
+              "complexity": "sabatina com perguntas sobre tributação, jornada de trabalho e produtividade, com confronto direto de argumentos",
+              "outcome": "defendeu remuneração por hora trabalhada, imposto único de 3,5% e afirmou: 'Nós demonstramos na prática que, com um imposto de 3,5%, evitamos a sonegação, diminuímos em grande massa a corrupção no Brasil e triplicamos a arrecadação do governo federal'",
+              "period": "2026-07-28",
+              "context": "o candidato ligou a proposta tributária à discussão sobre o fim da jornada 6x1, dizendo que reduzir jornada sem mudar a tributação comprometeria empresas",
+              "sources": [
+                {
+                  "id": "src-la-38"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-avalanche-02",
+              "kind": "historico",
+              "title": "Resposta pública às acusações sobre áudios e à disputa interna do partido",
+              "role": "presidente nacional do PRTB e candidato",
+              "complexity": "acusações publicadas pela imprensa (áudio de 2024 sobre influência na liberação de líder de facção) e denúncia do MP-SP de janeiro de 2026 sobre a eleição interna do partido de fevereiro de 2024",
+              "outcome": "o dirigente e a direção do PRTB 'rechaçam categoricamente as suspeitas, afirmando que as acusações são infundadas e fazem parte de uma campanha de difamação política'; a defesa classifica as acusações como 'sem provas'",
+              "period": "2024–2026",
+              "context": "as respostas foram divulgadas por nota do partido e reproduzidas pela imprensa; não há decisão de mérito localizada nas fontes desta rodada",
+              "sources": [
+                {
+                  "id": "src-la-39"
+                },
+                {
+                  "id": "src-la-42"
+                },
+                {
+                  "id": "src-la-08"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-avalanche-03",
+              "kind": "historico",
+              "title": "Comunicação do programa 'Reconstrução Nacional' por notas do partido e imprensa nacional",
+              "role": "candidato e presidente do partido, responsável pela apresentação do programa",
+              "complexity": "programa organizado em eixos (economia e tributação, tecnologia, indústria e agricultura, educação, saúde e segurança) comunicado em apresentações do partido e coberto por veículos nacionais e regionais",
+              "outcome": "propostas replicadas em veículos de alcance nacional e regional, com destaque para o imposto único de 3,5%, o IPVA fixo de R$ 50 mensais e os mutirões para as filas do SUS",
+              "period": "2026",
+              "context": "o material de referência pública é a cobertura de imprensa e as notas partidárias; o plano registrado no TSE não tem propostas individualizadas com custo e prazo",
+              "sources": [
+                {
+                  "id": "src-la-40"
+                },
+                {
+                  "id": "src-la-41"
+                },
+                {
+                  "id": "src-la-42"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-avalanche-04",
+              "kind": "historico",
+              "title": "Comunicação concentrada em sabatinas e canais partidários, sem agenda pública divulgada em fim de semana monitorado",
+              "role": "presidente nacional do PRTB e candidato",
+              "complexity": "monitoramento de agenda de campanha pela Agência Brasil em fim de semana de setembro de 2026; reformulação organizacional do partido com ampliação da presença nas redes sociais declarada como diretriz de aproximação com o eleitorado conservador e empreendedor",
+              "outcome": "registro de que 'não houve divulgação de agenda pública do candidato neste fim de semana'; a comunicação seguiu por notas e redes partidárias",
+              "period": "2024–2026",
+              "context": "o candidato não consta entre as legendas com tempo na propaganda eleitoral de TV listadas em levantamento do Nexo (28/08/2026), que lista Lula, Flávio Bolsonaro, Caiado e Cury",
+              "sources": [
+                {
+                  "id": "src-la-44"
+                },
+                {
+                  "id": "src-la-10"
+                },
+                {
+                  "id": "src-la-43"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "O programa 'Reconstrução Nacional' concentra as propostas em tributação — imposto único de 3,5% em substituição a onze tributos — e em simplificação e desoneração. Declara metas de longo prazo em tecnologia, agricultura e saúde, sem cronograma ou custo por proposta publicados.",
+          "coverage": "parcial",
+          "coverageNote": "o programa é apresentado publicamente como 'reconstrução nacional', mas o documento registrado não está disponível com propostas individualizadas e custos no pool de fontes desta rodada; a reconstituição usa cobertura de imprensa e notas do partido, e o total de propostas não foi localizado.",
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-avalanche-01",
+              "kind": "proposta",
+              "title": "Proposta central do programa: imposto único de 3,5% em substituição a onze tributos",
+              "role": "candidato",
+              "complexity": "substituição de ICMS, ISS, IPI, PIS, Cofins, IOF, IRPJ, CSLL, IRPF e INSS (patronal e do trabalhador) por um tributo único de 3,5%; previsão de IPVA em taxa fixa de R$ 50 mensais e isenção nacional para caminhoneiros",
+              "outcome": "apresentada como eixo econômico central, com objetivo declarado de reduzir sonegação e ampliar arrecadação; regras de transição não detalhadas nas fontes localizadas",
+              "period": "2026",
+              "context": "o programa declara ainda redução progressiva da carga sobre produção, investimentos e geração de empregos, e simplificação do sistema tributário",
+              "sources": [
+                {
+                  "id": "src-la-40"
+                },
+                {
+                  "id": "src-la-41"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-avalanche-02",
+              "kind": "proposta",
+              "title": "Meta declarada de posicionar o Brasil como polo tecnológico de referência mundial",
+              "role": "candidato (proposta de programa)",
+              "complexity": "incentivo fiscal para empresas de tecnologia, parcerias internacionais e recomposição do orçamento da Capes e do CNPq; horizonte declarado 'ao longo dos próximos anos', sem prazo fixado nas fontes localizadas",
+              "outcome": "apresentada como meta de longo prazo, vinculada a desoneração da indústria do agronegócio, fertilizantes e insumos agrícolas",
+              "period": "2026",
+              "context": "a proposta combina renúncia fiscal de curto prazo com objetivo declarado de pesquisa e desenvolvimento no longo prazo",
+              "sources": [
+                {
+                  "id": "src-la-41"
+                },
+                {
+                  "id": "src-la-42"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-avalanche-03",
+              "kind": "historico",
+              "title": "Defesa pública da relação entre carga tributária, jornada e produtividade",
+              "role": "entrevistado em sabatina do Correio Braziliense",
+              "complexity": "argumentação encadeada em sabatina: redução da jornada sem mudança tributária elevaria custos; imposto único reduziria sonegação e ampliaria arrecadação; defesa do pagamento por hora trabalhada",
+              "outcome": "encadeamento declarado publicamente e registrado pela imprensa, articulando a proposta tributária às metas de investimento e emprego",
+              "period": "2026-07-28",
+              "context": "o candidato citou o modelo de remuneração por hora dos Estados Unidos e criticou a existência do TST",
+              "sources": [
+                {
+                  "id": "src-la-38"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-avalanche-04",
+              "kind": "proposta",
+              "title": "Prioridades declaradas no lançamento da pré-candidatura: desoneração, livre mercado e redução da estrutura federal",
+              "role": "candidato, anúncio do PRTB em 15/07/2026",
+              "complexity": "plataforma apresentada como conservadora e pró-empreendedorismo, com desoneração de impostos, defesa do livre mercado, segurança pública e redução do tamanho do governo federal",
+              "outcome": "plataforma divulgada em nota do partido e em reportagens de abrangência nacional; o candidato declarou que o partido 'não está aqui para ser apenas mais uma opção no papel'",
+              "period": "2026-07",
+              "context": "o lançamento definiu publicamente os eixos de prioridade que a campanha passou a repetir em sabatinas",
+              "sources": [
+                {
+                  "id": "src-la-39"
+                },
+                {
+                  "id": "src-la-42"
+                },
+                {
+                  "id": "src-la-10"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-avalanche-05",
+              "kind": "proposta",
+              "title": "Saúde e educação como eixos de entrega: mutirões para filas do SUS e inteligência artificial no ensino",
+              "role": "candidato (propostas de programa)",
+              "complexity": "eixos de saúde (mutirões para zerar filas do SUS) e de educação (inteligência artificial no ensino, educação financeira e empreendedorismo, formação técnica) sem custo ou cronograma declarados nas fontes localizadas",
+              "outcome": "propostas publicadas na cobertura do programa e reunidas na página oficial de propostas do TSE, sem detalhamento orçamentário",
+              "period": "2026",
+              "context": "as medidas integram o mesmo pacote comunicado como 'reconstrução nacional' e dependem, em parte, de atos administrativos e leis não especificadas",
+              "sources": [
+                {
+                  "id": "src-la-40"
+                },
+                {
+                  "id": "src-la-06"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     },
     "augusto-cury": {
       "capacities": [
-        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "Expõe propostas em entrevistas e debates de alcance nacional e sustenta campanha digital com impulsionamento pago e rede de influenciadores (ago/2026). Usa direito de resposta em veículo de imprensa e tem 35 segundos de tempo no horário eleitoral de TV.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-cury-01",
+              "kind": "historico",
+              "title": "Rodada de entrevistas em veículos nacionais: TV Globo (29/08) e sabatina do Flow Podcast (21/09)",
+              "role": "candidato (Avante), entrevistado em série de entrevistas com presidenciáveis",
+              "complexity": "duas entrevistas de alcance nacional em semanas distintas, com temas de salário mínimo, estrutura de ministérios, telemedicina, segurança pública e feminicídio",
+              "outcome": "explicou propostas (reajuste do mínimo pela inflação, corte de 8 a 10 ministérios, telemedicina no SUS) e, no debate do Flow, defendeu integração entre as polícias Civil e Militar e questionou dados de feminicídio de um estado governado por adversário",
+              "period": "2026-08 a 2026-09",
+              "context": "a entrevista à Globo ocorreu dentro da série de entrevistas com os seis candidatos mais bem colocados em pesquisa",
+              "sources": [
+                {
+                  "id": "src-ac-19"
+                },
+                {
+                  "id": "src-ac-20"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-cury-02",
+              "kind": "historico",
+              "title": "Reforma do STF apresentada publicamente: mandato de 8 anos, fim da vitaliciedade e composição pela magistratura",
+              "role": "pré-candidato, entrevistado pelo Metrópoles",
+              "complexity": "proposta de fim da vitaliciedade com mandatos de 8 a 10 anos, composição definida por magistratura, Ministério Público e OAB e fim da transmissão ao vivo dos julgamentos; registrada também no plano de governo protocolado no TSE",
+              "outcome": "proposta divulgada na entrevista e incluída em levantamento nacional sobre a posição dos pré-candidatos em relação ao STF; o candidato declarou que pretende 'provocar o Congresso' para a reforma",
+              "period": "2026-03",
+              "context": "o acesso às páginas do veículo que publicou a entrevista ficou bloqueado por proteção antibot na checagem por linha de comando; a verificação usa o título indexado do veículo, o levantamento do Poder360 sobre as posições em relação ao STF e o plano registrado (src-ac-23), que traz a proposta entre os itens que dependem de emenda constitucional",
+              "sources": [
+                {
+                  "id": "src-ac-21"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-cury-03",
+              "kind": "historico",
+              "title": "Campanha digital com impulsionamento pago e rede de influenciadores (ago/2026)",
+              "role": "candidato e campanha do Avante",
+              "complexity": "gasto de ao menos R$ 116 mil em impulsionamento na Meta em 2026, com R$ 43.926 apenas na semana de 25 a 31/08; monitoramento de 573 perfis em cinco plataformas entre 17 e 30/08 registrou 19.429 publicações e cerca de 135,4 milhões de interações no ecossistema evangélico; ganho de 2,5 milhões de seguidores no Instagram em duas semanas e 11% no levantamento BTG/Nexus (31/08)",
+              "outcome": "crescimento registrado em pesquisas no período e suspeita levantada por campanhas adversárias de pagamento a influenciadores, negada pela campanha; o candidato negou publicamente o uso de robôs em 31/08",
+              "period": "2026-08",
+              "context": "o TSE autoriza propaganda paga na internet e veda impulsionamento de conteúdo negativo sobre adversários",
+              "sources": [
+                {
+                  "id": "src-ac-24"
+                },
+                {
+                  "id": "src-ac-27"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-cury-04",
+              "kind": "historico",
+              "title": "Debate da Band (23/08): formulação própria e projeto para a Polícia Federal",
+              "role": "candidato, no primeiro debate presidencial de 2026",
+              "complexity": "debate de 1h30 com 3 dos 6 convidados; pergunta sorteada sobre qualidade da educação e bloco de confronto direto",
+              "outcome": "apresentou o projeto 'Força de alerta total' para a Polícia Federal sem interferência política, defendeu integração entre polícias e usou a formulação 'pior do que o crime organizado é o Estado desorganizado'; encerrou a participação 'se apresentando ao eleitor'",
+              "period": "2026-08-23",
+              "context": "o candidato respondeu à primeira pergunta de educação e usou o tempo de considerações finais para se apresentar ao eleitor",
+              "sources": [
+                {
+                  "id": "src-ac-26"
+                },
+                {
+                  "id": "src-ac-20"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-cury-05",
+              "kind": "historico",
+              "title": "Direito de resposta publicado no Observatório da Imprensa (jul/2026)",
+              "role": "candidato, autor da resposta",
+              "complexity": "resposta a artigo publicado em 16/07/2026, com esclarecimento sobre o uso do título de doutorado",
+              "outcome": "no texto, o candidato afirma que 'não apresenta esse título como doutorado acadêmico em Psicologia'; sobre a divergência entre o plano registrado no TSE e o currículo Lattes (Folha e Valor, 01/09/2026), a assessoria não respondeu aos veículos",
+              "period": "2026-07 a 2026-09",
+              "context": "o plano registrado declara doutorado em Psicologia Multifocal e o currículo Lattes registra PhD/Doctor of Business Administration em Administração pela mesma instituição",
+              "sources": [
+                {
+                  "id": "src-ac-13"
+                },
+                {
+                  "id": "src-ac-11"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-cury-06",
+              "kind": "historico",
+              "title": "Tempo de TV na propaganda eleitoral de 2026: 35 segundos, concorrendo sem coligação",
+              "role": "candidato (Avante, sem coligação)",
+              "complexity": "distribuição do horário eleitoral gratuito entre as legendas, conforme levantamento de 28/08/2026",
+              "outcome": "o candidato aparece com 35 segundos de tempo de TV, enquanto a comunicação da campanha se apoia em redes sociais, entrevistas e debates",
+              "period": "2026-08",
+              "context": "o levantamento registra que apenas quatro candidatos têm tempo de TV e que o consumo de rede social no Brasil é mais de entretenimento que informativo, segundo cientistas políticos ouvidos",
+              "sources": [
+                {
+                  "id": "src-ac-25"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "O plano 'O Brasil dos Nossos Sonhos' tem 18 tópicos em documento de 200 páginas registrado no TSE, com prioridades declaradas em educação, saúde digital, segurança, empreendedorismo e meio ambiente. Declara prazos de 4, 8–10 e 10–12 anos para metas de renda, salário mínimo e produção de alimentos.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-cury-01",
+              "kind": "proposta",
+              "title": "Plano 'O Brasil dos Nossos Sonhos': 18 tópicos em documento de 200 páginas registrado no TSE",
+              "role": "candidato e autor do documento",
+              "complexity": "documento registrado com o pedido de registro, com 18 tópicos de projetos; capítulos citados: educação, Brasil Neuroinclusivo, prevenção do feminicídio, empreendedorismo, combate à fome, saúde/telemedicina, energia (hidrogênio verde), terras raras, meio ambiente ('Floresta Viva') e segurança pública",
+              "outcome": "plano registrado e usado como base das entrevistas e do debate; as prioridades são as declaradas pelo próprio candidato nos capítulos",
+              "period": "2026",
+              "context": "o documento não individualiza propostas com custo e prazo por item, segundo a leitura da cobertura especializada",
+              "sources": [
+                {
+                  "id": "src-ac-23"
+                },
+                {
+                  "id": "src-ac-19"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-cury-02",
+              "kind": "proposta",
+              "title": "Metas de prazo declaradas: renda per capita, salário mínimo e produção de alimentos",
+              "role": "candidato e plano registrado",
+              "complexity": "meta declarada de US$ 300 de renda per capita em 8 a 10 anos; reajuste do salário mínimo pela inflação mais 1% ao ano com ganho real acumulado em 4 anos; meta de produção de alimentos em 10 a 12 anos",
+              "outcome": "prazos declarados publicamente e registrados nas fontes, ligando medida de curto prazo (mínimo) a objetivos de longo prazo (renda per capita e alimentos)",
+              "period": "2026",
+              "context": "os prazos constam de declarações do candidato e do documento registrado; não há linha de base nem cronograma intermediário publicado",
+              "sources": [
+                {
+                  "id": "src-ac-19"
+                },
+                {
+                  "id": "src-ac-23"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-cury-03",
+              "kind": "proposta",
+              "title": "Reforma institucional proposta: semipresidencialismo e mandato de 8 anos para ministros do STF",
+              "role": "candidato",
+              "complexity": "dois itens estruturais registrados no plano, ambos dependentes de emenda constitucional; detalhamento da composição do STF apresentado em entrevista (magistratura, Ministério Público e OAB)",
+              "outcome": "apresentados em entrevistas e no documento como mudança do desenho institucional do Estado, com a intenção declarada de 'provocar o Congresso'",
+              "period": "2026",
+              "context": "a proposta inclui o fim da transmissão ao vivo dos julgamentos do STF, apresentada como meio de preservar a liberdade dos ministros",
+              "sources": [
+                {
+                  "id": "src-ac-23"
+                },
+                {
+                  "id": "src-ac-21"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-cury-04",
+              "kind": "proposta",
+              "title": "Enxugamento do Executivo: corte de 8 a 10 ministérios declarado como instrumento de ajuste",
+              "role": "candidato, entrevista de 29/08/2026",
+              "complexity": "redução da estrutura ministerial combinada ao reajuste do mínimo pela inflação mais 1% ao ano e à ampliação da telemedicina no SUS, com ganho real declarado em 4 anos",
+              "outcome": "apresentado como meio de sustentar o ajuste e reduzir a máquina; sem valores de economia declarados nas fontes localizadas",
+              "period": "2026",
+              "context": "a medida foi comunicada em rodada de entrevistas na TV, junto com as propostas de saúde digital",
+              "sources": [
+                {
+                  "id": "src-ac-19"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-cury-05",
+              "kind": "proposta",
+              "title": "Fundo Nacional do Empreendedor (R$ 30 a 50 bilhões) e meta de segurança alimentar em 10 a 12 anos",
+              "role": "candidato e plano",
+              "complexity": "único item do plano com quantificação localizada: fundo de R$ 30 a 50 bilhões, criação de ministério específico e meta de 10 mil escolas de empreendedorismo; meta de produção de alimentos ligada à agricultura familiar",
+              "outcome": "instrumento financeiro declarado como veículo do eixo de empreendedorismo, vinculado à meta de segurança alimentar de longo prazo",
+              "period": "2026",
+              "context": "o plano declara o objetivo de combate à fome 'no mundo' e vincula a meta à produção da agricultura familiar",
+              "sources": [
+                {
+                  "id": "src-ac-23"
+                },
+                {
+                  "id": "src-ac-19"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     },
     "clariana-barao": {
       "capacities": [
-        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "Apresenta propostas em telejornal de rede nacional, em entrevista longa a veículo político e em agendas regionais com entrevistas locais. O eixo de mulheres e crianças funciona como marca declarada da comunicação e responde publicamente a críticas ao plano.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-clariana-01",
+              "kind": "historico",
+              "title": "Entrevista de 39 minutos ao Poder360 (25/08/2026) com posicionamento político declarado",
+              "role": "candidata (DC), entrevistada em veículo nacional",
+              "complexity": "entrevista de 39 minutos cobrindo posicionamento político e propostas de governo",
+              "outcome": "declarou ter 'valores da direita', mas rejeitar o extremismo, e apresentou propostas de governo",
+              "period": "2026-08-25",
+              "context": "a entrevista é uma das principais peças públicas de apresentação da candidata fora do horário eleitoral",
+              "sources": [
+                {
+                  "id": "src-cb-07"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-clariana-02",
+              "kind": "historico",
+              "title": "Participação no Jornal Nacional (05/09/2026) apresentando propostas de governo",
+              "role": "candidata, entrevistada em telejornal de alcance nacional",
+              "complexity": "entrevista em telejornal de rede nacional, na série com presidenciáveis",
+              "outcome": "apresentou propostas de governo e respondeu a perguntas do telejornal",
+              "period": "2026-09-05",
+              "context": "na mesma semana a candidata cumpriu agendas estaduais e concedeu entrevistas a veículos regionais",
+              "sources": [
+                {
+                  "id": "src-cb-12"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-clariana-03",
+              "kind": "historico",
+              "title": "Agenda de campanha com entrevistas a veículos regionais (Paraíba, set/2026)",
+              "role": "candidata",
+              "complexity": "agenda de um dia com entrevistas, encontro com apoiadores e inauguração de espaço de campanha em outro estado",
+              "outcome": "comunicação direcionada a eleitorado regional, com repercussão em veículo local e em agregador de movimentação de campanha",
+              "period": "2026-09",
+              "context": "parte da divulgação ocorre em estados onde o partido mantém diretórios, fora dos grandes centros",
+              "sources": [
+                {
+                  "id": "src-cb-32"
+                },
+                {
+                  "id": "src-cb-82"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-clariana-04",
+              "kind": "historico",
+              "title": "Resposta pública a críticas sobre o plano de governo (MidiaNews, MT)",
+              "role": "candidata, em vídeo e resposta a veículo regional de seu estado de origem",
+              "complexity": "resposta pública a críticas ao plano, divulgada em vídeo por veículo de Mato Grosso",
+              "outcome": "rebateu as críticas e afirmou que candidatos não cumprem promessas, posicionando-se sobre a relação entre o prometido e o executado",
+              "period": "2026",
+              "context": "o veículo mantém coluna de acompanhamento das declarações de candidatos mato-grossenses",
+              "sources": [
+                {
+                  "id": "src-cb-37"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-clariana-05",
+              "kind": "proposta",
+              "title": "Eixo transversal 'Mulheres e Crianças em Primeiro Lugar' como marca da comunicação da candidatura",
+              "role": "candidata",
+              "complexity": "eixo transversal declarado no plano e adotado como título da apresentação pública das propostas, com cobertura de veículo nacional e regional",
+              "outcome": "proteção à mulher e à infância foi apresentada como prioridade do plano em agosto e setembro de 2026",
+              "period": "2026-08 a 2026-09",
+              "context": "o plano é organizado em seis eixos, com o eixo de mulheres e crianças definido como transversal aos demais",
+              "sources": [
+                {
+                  "id": "src-cb-05"
+                },
+                {
+                  "id": "src-cb-35"
+                },
+                {
+                  "id": "src-cb-36"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "Organiza o plano 'Proteger Hoje, Transformar o Amanhã' em seis eixos, com mulheres e crianças como prioridade transversal e matriz de implementação por horizonte de mandato. Declara instrumentos de gestão (avaliação de impacto, governo digital, concessões) sem metas numéricas ou custos por proposta.",
+          "coverage": "parcial",
+          "coverageNote": "o plano registrado é autodeclarado preliminar: não traz metas quantitativas nem custos por proposta, e o total de promessas não foi contado item a item. As evidências de encadeamento entre curto e longo prazo vêm da estrutura em eixos e da matriz de horizontes descrita em dossiê independente (Plano Aberto), cujas páginas do plano não foram conferidas uma a uma.",
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-clariana-01",
+              "kind": "proposta",
+              "title": "Plano 'Proteger Hoje, Transformar o Amanhã': seis eixos com prioridade transversal declarada",
+              "role": "candidata e plano registrado no TSE",
+              "complexity": "seis eixos (Mulheres e Crianças em Primeiro Lugar, Economia, Educação, Segurança, Saúde e 'Estado que funciona') com objetivos declarados por eixo",
+              "outcome": "plano registrado no TSE e apresentado publicamente em agosto de 2026, com a proteção a mulheres e crianças como eixo transversal aos demais",
+              "period": "2026",
+              "context": "o documento é declarado preliminar; metas quantitativas por eixo não constam das fontes consultadas",
+              "sources": [
+                {
+                  "id": "src-cb-04"
+                },
+                {
+                  "id": "src-cb-36"
+                },
+                {
+                  "id": "src-cb-35"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-clariana-02",
+              "kind": "proposta",
+              "title": "Matriz de implementação por horizontes de gestão citada no plano",
+              "role": "candidata (documento registrado)",
+              "complexity": "análise independente descreve matriz de implementação com horizontes por proposta e referência ao 'Ano 4' do mandato",
+              "outcome": "o encadeamento entre entrega e horizonte de mandato é registrado em dossiê apartidário de acompanhamento de planos de governo",
+              "period": "2026",
+              "context": "o dossiê é de terceiro (Plano Aberto); as páginas correspondentes do plano não foram conferidas pela equipe",
+              "sources": [
+                {
+                  "id": "src-cb-17"
+                },
+                {
+                  "id": "src-cb-04"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-clariana-03",
+              "kind": "proposta",
+              "title": "Eixo fiscal: revisão de gastos, subsídios e benefícios com avaliação de impacto",
+              "role": "candidata (proposta de plano)",
+              "complexity": "revisão de despesas com avaliação de impacto de programas como critério declarado; depende de lei orçamentária e de leis de avaliação",
+              "outcome": "apresentado como base de responsabilidade fiscal do plano, sem valores declarados",
+              "period": "2026",
+              "context": "os custos por proposta não constam do documento; o eixo fiscal não traz quantificação",
+              "sources": [
+                {
+                  "id": "src-cb-04"
+                },
+                {
+                  "id": "src-cb-12"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-clariana-04",
+              "kind": "proposta",
+              "title": "Segurança: monitoramento tecnológico de fronteiras, rastreamento financeiro e policiamento por dados",
+              "role": "candidata (proposta de plano)",
+              "complexity": "conjunto integrado de medidas — fronteiras, inteligência, dados e sufocamento financeiro de facções — com instrumentos administrativos e acordos internacionais declarados",
+              "outcome": "apresentada como eixo com objetivos declarados e inserida na matriz de implementação por horizonte",
+              "period": "2026",
+              "context": "as medidas foram detalhadas na cobertura do plano e na entrevista ao Jornal Nacional",
+              "sources": [
+                {
+                  "id": "src-cb-36"
+                },
+                {
+                  "id": "src-cb-12"
+                },
+                {
+                  "id": "src-cb-18"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-clariana-05",
+              "kind": "proposta",
+              "title": "'Estado que funciona': governo digital, dados solicitados uma única vez e compras públicas rastreáveis",
+              "role": "candidata (proposta de plano)",
+              "complexity": "medidas de gestão com instrumentos administrativos e de transparência, com dependência parcial de legislação de compras",
+              "outcome": "apresentadas como eixo de gestão do Estado, com foco em rastreabilidade e simplificação; o mesmo eixo reúne simplificação regulatória, crédito produtivo e infraestrutura por concessões",
+              "period": "2026",
+              "context": "as medidas foram divulgadas em perfil de campanha e em análise independente de planos de governo",
+              "sources": [
+                {
+                  "id": "src-cb-06"
+                },
+                {
+                  "id": "src-cb-17"
+                },
+                {
+                  "id": "src-cb-04"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     },
     "samara-martins": {
       "capacities": [
-        { "slug": "comunicacao-publica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "visao-estrategica", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "comunicacao-publica",
+          "synthesis": "Comunica por atos de rua, debates televisivos, podcasts e entrevistas de formato longo, com mensagem central repetida (uso do SUS por agentes públicos). A pré-campanha foi itinerante, em capitais, com apresentação pública do programa.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-samara-01",
+              "kind": "historico",
+              "title": "Presença em debates televisivos e contencioso público sobre convites (2026)",
+              "role": "candidata (UP)",
+              "complexity": "debate promovido por Band e Estadão (23/08) com disputa sobre participação e protesto registrados nos bastidores; confirmação de presença em debate em setembro",
+              "outcome": "participação confirmada e manifestação pública sobre a exclusão de legendas sem bancada dos debates; publicação do partido adversário (PCO, 24/09) afirmou que a UP recusou debate com a legenda, sem confirmação independente localizada",
+              "period": "2026-08 a 2026-09",
+              "context": "a exclusão de legendas sem representação parlamentar dos debates foi tema recorrente na agenda pública da candidatura",
+              "sources": [
+                {
+                  "id": "src-sm-73"
+                },
+                {
+                  "id": "src-sm-74"
+                },
+                {
+                  "id": "src-sm-72"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-samara-02",
+              "kind": "historico",
+              "title": "Entrevistas de formato longo: podcast 3 Irmãos (#1011) e entrevista à Alma Preta",
+              "role": "entrevistada",
+              "complexity": "podcast de formato longo com transcrição publicada e entrevista a veículo especializado em pautas raciais e periféricas",
+              "outcome": "exposição detalhada do programa (soberania, reforma agrária, controle público) em veículos fora do circuito televisivo",
+              "period": "2026",
+              "context": "as transcrições foram publicadas por agregador e usadas como base de exposição do programa a público específico",
+              "sources": [
+                {
+                  "id": "src-sm-17"
+                },
+                {
+                  "id": "src-sm-71"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-samara-03",
+              "kind": "historico",
+              "title": "Mensagem central repetida em agenda de rua: políticos devem usar o SUS",
+              "role": "candidata, agenda em Teresina (24/08/2026)",
+              "complexity": "agenda de campanha com encontro com ex-trabalhadores de empresa estatal, panfletagem em universidade e declaração pública sobre saúde",
+              "outcome": "a proposta de que todos os políticos, 'de vereador a presidente', usem o serviço público de saúde foi apresentada como proposta da campanha e divulgada em veículo nacional",
+              "period": "2026-08-24",
+              "context": "a fala foi usada para explicar o programa de saúde e sustentar a defesa da reestatização de serviços",
+              "sources": [
+                {
+                  "id": "src-sm-07"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-samara-04",
+              "kind": "historico",
+              "title": "Pré-campanha itinerante de apresentação do programa em atos públicos (abril–maio/2026)",
+              "role": "pré-candidata e vice-presidente nacional do UP",
+              "complexity": "atos em ao menos três capitais (Rio de Janeiro, Curitiba e Porto Alegre), com lançamento simultâneo de candidaturas estaduais e cerca de 500 militantes no ato do Rio",
+              "outcome": "programa apresentado em atos e em jornal partidário, com divulgação também em redes digitais",
+              "period": "2026-04 a 2026-05",
+              "context": "a fonte do registro dos atos é o jornal partidário (A Verdade), cujo acesso por linha de comando é bloqueado (403) e que não tem cópia em arquivo público; o dado já integra a base do candidato com status parcial",
+              "sources": [
+                {
+                  "id": "src-sm-38"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-samara-05",
+              "kind": "historico",
+              "title": "Manifestação pública sobre visibilidade de candidaturas no início da pré-campanha",
+              "role": "pré-candidata, entrevista à Folha de S.Paulo (08/04/2026)",
+              "complexity": "entrevista a jornal de circulação nacional em abril de 2026, período em que era a única mulher na disputa, e lançamento da pré-candidatura pelo Diretório Nacional em 1º de fevereiro de 2026",
+              "outcome": "declarou ser ignorada nas sondagens e defendeu renovação política, na condição de única mulher pré-candidata à Presidência",
+              "period": "2026-04-08",
+              "context": "o tema da visibilidade de legendas sem bancada permaneceu na agenda pública da candidatura ao longo da campanha",
+              "sources": [
+                {
+                  "id": "src-sm-55"
+                },
+                {
+                  "id": "src-sm-46"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "visao-estrategica",
+          "synthesis": "O programa registrado no TSE é apresentado pela campanha como 'Revolução e Socialismo', com 25 pontos e prioridades definidas para os primeiros 100 dias. Vincula medidas imediatas (mínimo, jornada, SUS, titulação de terras) ao horizonte declarado de reorganização socialista.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-samara-01",
+              "kind": "proposta",
+              "title": "Programa com 25 pontos registrado no TSE e prioridades declaradas para os primeiros 100 dias",
+              "role": "candidata; programa registrado no TSE em 06/08/2026",
+              "complexity": "documento programático descrito pela campanha como composto por 25 pontos, com definição de prioridades para os primeiros 100 dias",
+              "outcome": "programa registrado e apresentado em convenção nacional (26/07/2026), em chapa 100% feminina",
+              "period": "2026",
+              "context": "o arquivo inicialmente registrado no TSE era a versão de 2022 do programa, depois corrigida; a contagem item a item não foi recalculada pela equipe",
+              "sources": [
+                {
+                  "id": "src-sm-10"
+                },
+                {
+                  "id": "src-sm-14"
+                },
+                {
+                  "id": "src-sm-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-samara-02",
+              "kind": "proposta",
+              "title": "Núcleo econômico: nacionalização bancária, auditoria da dívida e aumento de 100% do salário mínimo",
+              "role": "candidata (propostas de programa)",
+              "complexity": "nacionalização do sistema bancário e do Banco Central, auditoria da dívida pública, salário mínimo com aumento de 100% e redução de jornada — com duas referências de jornada no próprio documento (36 horas semanais em um trecho; 30 horas em escala 4x3 em outro)",
+              "outcome": "propostas divulgadas em cobertura especializada do programa e em veículo de imprensa nacional",
+              "period": "2026",
+              "context": "as duas referências de jornada aparecem no mesmo programa, sem indicação de qual prevaleceria",
+              "sources": [
+                {
+                  "id": "src-sm-52"
+                },
+                {
+                  "id": "src-sm-10"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-samara-03",
+              "kind": "proposta",
+              "title": "Controle público de setores estratégicos, reforma agrária e titulação de territórios quilombolas",
+              "role": "candidata (propostas de programa)",
+              "complexity": "nacionalização e reestatização de empresas privatizadas, reforma agrária popular, controle estatal de preços de alimentos e titulação coletiva com Incra e Fundação Cultural Palmares",
+              "outcome": "o programa detalha instrumentos (leis, titulação, fortalecimento de órgãos) e vincula a proposta à soberania nacional; a candidata declarou em entrevista que 'falar de soberania e não fazer reforma agrária não faz sentido'",
+              "period": "2026",
+              "context": "as medidas foram apresentadas como parte do eixo de controle público dos setores considerados estratégicos",
+              "sources": [
+                {
+                  "id": "src-sm-52"
+                },
+                {
+                  "id": "src-sm-71"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-samara-04",
+              "kind": "proposta",
+              "title": "Saúde com gestão direta do Estado e uso do SUS por agentes públicos como mecanismo de aferição",
+              "role": "candidata (propostas de programa)",
+              "complexity": "retirada da gestão de serviços públicos de organizações sociais, fundações privadas e cooperativas empresariais; proposta de que políticos usem o sistema público de saúde",
+              "outcome": "proposta apresentada como meio de forçar investimento na rede pública, explicada em agenda pública e prevista no programa",
+              "period": "2026",
+              "context": "a proposta liga a atuação profissional da candidata na atenção básica do SUS ao desenho declarado de controle social do serviço",
+              "sources": [
+                {
+                  "id": "src-sm-07"
+                },
+                {
+                  "id": "src-sm-52"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-samara-05",
+              "kind": "proposta",
+              "title": "Horizonte declarado de reorganização socialista com pauta imediata ligada às lutas concretas",
+              "role": "candidata e direção partidária",
+              "complexity": "campanha declarada como 'enraizada nas lutas concretas do povo', com programa de transformação radical como horizonte e medidas imediatas nos primeiros 100 dias; partido concorre sem coligação e sem fundos públicos em 2026",
+              "outcome": "o encadeamento entre pauta imediata e projeto de longo prazo é declarado em ato de pré-campanha e em entrevista a veículo de imprensa",
+              "period": "2026",
+              "context": "o programa registrado inclui ainda fim do vestibular, revogação do Novo Ensino Médio e desmilitarização das polícias",
+              "sources": [
+                {
+                  "id": "src-sm-38"
+                },
+                {
+                  "id": "src-sm-14"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     }
   },
-  "dataGaps": ["em consolidação"]
+  "dataGaps": [
+    "Nenhum dos cinco candidatos exerceu mandato executivo: não há evidência de comunicação de governo (porta-voz de pasta, coletiva de balanço, prestação de contas de gestão) nem de decisão estratégica de governo — a base é de campanha, de partido e de movimento.",
+    "Páginas com bloqueio no acesso por linha de comando usadas na checagem, com o tratamento dado: Band ('fraldas' no debate) e A Verdade (atos de pré-campanha) — endereço e chamada confirmados pelo índice de busca e por veículos paralelos; Metrópoles (reforma do STF de Cury) e Poder360 (posições sobre o STF) — página antibot, verificação pelo título indexado e pelo plano registrado; Folha (entrevista de 08/04 de Samara) — título e chamada na própria página, corpo sob assinatura. Nenhum desses itens é usado como evidência isolada de fato não corroborado.",
+    "Renan Santos: as métricas das páginas de redes (inscrições e número de vídeos) são renderizadas por JavaScript e não foram capturadas na leitura por linha de comando; por isso nenhum número de alcance digital do candidato é usado nas evidências desta rodada.",
+    "Renan Santos: a rodada de sabatinas de agosto de 2026 foi conferida por publicação de trechos em veículo secundário (Investidor10) porque a página original não foi recuperada por linha de comando.",
+    "Leonardo Avalanche: as duas capacidades ficaram parciais — não foi localizado documento público do PRTB com o programa item a item (proposta, custo, prazo) nem transcrição de debate com o candidato como titular da chapa; a reconstituição usa sabatina, notas do partido e cobertura de imprensa.",
+    "Leonardo Avalanche: a agenda de campanha não é divulgada de forma sistemática; o único registro localizado é o acompanhamento de movimentação feito por veículos nacionais, que aponta ausência de divulgação de agenda pública em fim de semana de setembro.",
+    "Augusto Cury: os números de impulsionamento pago e de alcance em redes usados aqui vêm de página-agregadora que reproduz relatórios de terceiros (Casa Galileia/IDX) e de reportagem da Folha; os relatórios originais não foram abertos por linha de comando.",
+    "Augusto Cury: a entrevista de 07/03/2026 em que apresentou a reforma do STF não pôde ser lida na página do veículo (bloqueio antibot) e não tem cópia em arquivo público; a proposta foi confirmada pelo plano registrado no TSE.",
+    "Clariana Barão: a matriz de implementação por horizontes citada na análise (referência ao 'Ano 4') vem de dossiê independente (Plano Aberto) e não foi conferida nas páginas do plano registrado; o documento é autodeclarado preliminar, sem metas numéricas e sem custos por proposta.",
+    "Samara Martins: o documento programático registrado no TSE foi inicialmente a versão de 2022 e depois corrigido; o PDF do programa não foi lido em texto (arquivo de 1,4 MB que não se converte por extração simples na checagem por linha de comando).",
+    "Samara Martins: o episódio de recusa de debate com o PCO consta apenas de publicação do partido adversário, sem confirmação independente localizada.",
+    "Tempo de TV: no levantamento consultado, apenas Augusto Cury aparece com tempo no horário eleitoral (35 segundos, sem coligação); Renan Santos, Leonardo Avalanche, Clariana Barão e Samara Martins não constam, e a comunicação dessas candidaturas se dá por entrevistas, debates, atos e redes.",
+    "Custo, cronograma e linha de base por meta não estão declarados nos documentos registrados de nenhum dos cinco candidatos; os horizontes de prazo citados são declarações do próprio candidato (Renan Santos, Augusto Cury) ou estrutura em eixos e matriz de horizontes (Clariana Barão) e programa de 25 pontos (Samara Martins)."
+  ]
 }

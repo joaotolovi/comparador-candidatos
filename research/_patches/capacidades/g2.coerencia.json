@@ -1,13 +1,820 @@
 {
   "grupo": "g2",
   "escopo": "coerencia",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-rs-90",
+      "title": "Em sabatina, Renan Santos defende que Brasil desenvolva armas nucleares",
+      "publisher": "CBN (Globo)",
+      "url": "https://cbn.globo.com/politica/noticia/2026/08/26/em-sabatina-renan-santos-defende-que-brasil-desenvolva-armas-nucleares.ghtml",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina da TV Globo de 26/08/2026: defesa de armamento nuclear, cita Coreia do Norte, defende Bukele, R$ 6 bi para 10 presídios de 30 a 40 mil vagas e recusa de cumprir decisões do STF que considere ilegais."
+    },
+    {
+      "id": "src-rs-91",
+      "title": "Renan Santos proposes delinking spending, developing atomic bomb",
+      "publisher": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/08/27/renan-santos-proposes-delinking-spending-developing-atomic-bomb.ghtml",
+      "publishedAt": "2026-08-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a defesa de desvincular pisos de saúde e educação, o programa nuclear com objetivo de bombas atômicas, a menção à saída do TNP e a referência à Constituição (atividade nuclear só para fins pacíficos, com aprovação do Congresso)."
+    },
+    {
+      "id": "src-rs-92",
+      "title": "Brasil precisa de bomba atômica para ser respeitado, diz Renan Santos",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-diz-que-brasil-precisa-de-bomba-atomica-para-ser-respeitado",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Transcreve a declaração de que o país 'não teria condições' de desenvolver o armamento nos próximos 10 anos e cita o TNP e o caso da Coreia do Norte."
+    },
+    {
+      "id": "src-rs-93",
+      "title": "O Brasil tem bomba nuclear? Veja o que diz a legislação sobre projeto de Renan Santos para dar protagonismo ao Brasil",
+      "publisher": "Portal Terra (checagem)",
+      "url": "https://www.terra.com.br/noticias/eleicoes/o-brasil-tem-bomba-nuclear-veja-o-que-diz-a-legislacao-sobre-projeto-de-renan-santos-para-dar-protagonismo-ao-brasil,4d714f72a63dfaee3d626827b59876acyqtypl31.html",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Checagem que descreve o art. 21, XXIII, da Constituição (atividade nuclear apenas para fins pacíficos, com aprovação do Congresso), o TNP e o Tratado de Tlatelolco, e a 'PEC Bomba Nuclear' protocolada pelo deputado Kim Kataguiri (Missão) em outubro de 2025. Mês; dia exato não capturado."
+    },
+    {
+      "id": "src-rs-94",
+      "title": "Plano de governo de Renan Santos promete extinguir favelas, sistema de cotas e modelo atual do Bolsa Família",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-promete-extinguir-favelas-sistema-de-cotas-e-modelo-atual-do-bolsa-familia.ghtml",
+      "publishedAt": "2026-07-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Descreve a prévia do plano: desfavelização em 10 anos, financiamento por IPTU, regularização de energia, títulos e Minha Casa Minha Vida; extinção do modelo atual do Bolsa Família; e a passagem sobre repasses de Fundo Partidário e Fundo Eleitoral calculados pela 'qualidade gerencial dos mandatários'."
+    },
+    {
+      "id": "src-rs-95",
+      "title": "Renan Santos propõe R$ 6 bilhões para construir presídios e defende regime de exceção em favelas",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/26/renan-santos-construcao-presidios-regime-de-excecao-em-favelas.ghtml",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista à Globo: 'Vai ter um regime de exceção em favelas para eu retomar a favela'; 10 presídios federais de 30 a 40 mil vagas ao custo de R$ 6 bi; fusão de municípios de 5.570 para cerca de 1.600."
+    },
+    {
+      "id": "src-la-90",
+      "title": "PRTB deixa coligação de Marconi e abre negociação por novo apoio em Goiás",
+      "publisher": "Poder Goiás",
+      "url": "https://www.podergoias.com.br/materia/27350/prtb-deixa-coligacao-de-marconi-e-abre-negociacao-por-novo-apoio-em-goias",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "12/09/2026: o PRTB retirou a participação da coligação de Marconi Perillo (PSDB) ao governo de Goiás e passou a negociar novo apoio; a definição caberia à direção nacional comandada por Avalanche; a vereadora Daniela da Gilka (PRTB) desistiu da candidatura ao governo."
+    },
+    {
+      "id": "src-ac-90",
+      "title": "Augusto Cury, candidato do Avante, concede entrevista à Globo",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/augusto-cury-entrevista-globo.ghtml",
+      "publishedAt": "2026-08-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina de 29/08/2026: ampliar a educação em tempo integral incorporando gestão da emoção, educação financeira e empreendedorismo ao currículo; meta de 10 milhões de novos empreendedores; reajuste do salário mínimo e corte de ministérios."
+    },
+    {
+      "id": "src-ac-91",
+      "title": "Programa Escola da Inteligência desenvolve a consciência emocional de forma lúdica e divertida",
+      "publisher": "Prefeitura de Cuiabá",
+      "url": "https://cuiaba.mt.gov.br/noticias/programa-escola-da-inteligencia-desenvolve-a-consciencia-emocional-de-forma-ludica-e-divertida",
+      "publishedAt": "2018-04-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Registro oficial do lançamento do programa idealizado por Augusto Cury na rede municipal, em estágio piloto com cinco mil alunos de oito escolas."
+    },
+    {
+      "id": "src-ac-92",
+      "title": "Programa Escola da Inteligência: desenvolva a educação socioemocional em seu colégio!",
+      "publisher": "Escola da Inteligência (site do programa idealizado por Augusto Cury)",
+      "url": "https://escoladainteligencia.com.br/blog/programa-escola-da-inteligencia",
+      "publishedAt": "2021-04-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Material de divulgação do próprio programa: 'mais de 1 mil escolas conveniadas, 300 mil estudantes e 1,2 milhão de pessoas impactadas'; aplicação como disciplina ou dentro de matéria existente."
+    },
+    {
+      "id": "src-ac-93",
+      "title": "Diretrizes e propostas de governo para a presidência do Brasil",
+      "publisher": "Migalhas",
+      "url": "https://www.migalhas.com.br/depeso/462757/diretrizes-e-propostas-de-governo-para-a-presidencia-do-brasil",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Análise comparativa de diretrizes dos presidenciáveis; registra que Cury prioriza déficit zero e empreendedorismo e é o único a defender o semipresidencialismo. Ano apenas; dia/mês não capturados."
+    },
+    {
+      "id": "src-cb-90",
+      "title": "Clariana Barao - Propostas de Governo (índice do documento registrado no TSE)",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/clariana-barao-propostas-de-governo",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Índice oficial do plano: 'Responsabilidade fiscal focada em resultados, revisão de gastos e subsídios' nas páginas 5 e 6."
+    },
+    {
+      "id": "src-cb-91",
+      "title": "Eleições 2026: Democracia Cristã registra Clariana Barão para disputar presidência",
+      "publisher": "UOL / Agência Estado",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/15/eleicoes-2026-democracia-crista-registra-clariana-barao-para-disputar-presidencia.htm",
+      "publishedAt": "2026-08-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registro em 15/08/2026, patrimônio de R$ 1,82 milhão, chapa pura com Fabiana Torquato e resumo do plano 'Proteger Hoje, Transformar o Amanhã' (mulheres e crianças como prioridade; responsabilidade fiscal, revisão de gastos e avaliação de subsídios)."
+    },
+    {
+      "id": "src-sm-90",
+      "title": "Candidata da UP, Samara Martins quer dobrar salário mínimo",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/08/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo.shtml",
+      "publishedAt": "2026-08-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista: aumento de 100% do salário mínimo, fim da escala 6x1, rejeição de federação com PT/PSOL/PSTU/PCB, alianças 'programáticas', resistência a antecipar apoio no 2º turno e declaração de que o texto inicial foi registrado no TSE 'pela exigência legal', com proposta de 67 páginas lançada depois."
+    },
+    {
+      "id": "src-sm-91",
+      "title": "Samara Martins registra candidatura à Presidência e declara R$ 33 mil de patrimônio",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/samara-martins-registra-candidatura-a-presidencia-e-declara-r-33-mil-de-patrimonio",
+      "publishedAt": "2026-08-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registro em 06/08/2026 (primeiro nome protocolado entre os presidenciáveis); 'esta é a terceira eleição que ela disputa': vereadora em Natal (2020) e vice-presidente em 2022."
+    },
+    {
+      "id": "src-sm-92",
+      "title": "Candidata à Presidência registra plano de governo de duas páginas e é criticada nas redes",
+      "publisher": "Folha de S.Paulo (#Hashtag)",
+      "url": "https://www1.folha.uol.com.br/blogs/hashtag/2026/08/candidata-a-presidencia-registra-plano-de-governo-de-duas-paginas-e-e-criticada-nas-redes.shtml",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Documento com 16 pontos em uma página e meia, 'reajuste de 100% do salário mínimo', revogação das reformas trabalhistas e da Previdência, documento pula do ponto três para o cinco; partido anexou outra versão em 16/08 e a nova versão tem 67 páginas e cerca de 20 eixos."
+    },
+    {
+      "id": "src-sm-93",
+      "title": "Proposta de governo da candidatura Leonardo Péricles e Samara Martins (2022) — documento registrado",
+      "publisher": "TSE — DivulgaCandContas",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280010871023",
+      "publishedAt": "2022",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Documento de 2022: derivação do programa nacional da UP aprovado nos congressos de 2019 e 2021."
+    }
+  ],
   "candidates": {
-    "renan-santos": { "coherence": [] },
-    "leonardo-avalanche": { "coherence": [] },
-    "augusto-cury": { "coherence": [] },
-    "clariana-barao": { "coherence": [] },
-    "samara-martins": { "coherence": [] }
+    "renan-santos": {
+      "coherence": [
+        {
+          "id": "coh-rs-previdencia",
+          "theme": "previdência",
+          "timeline": [
+            {
+              "year": "2019",
+              "position": "O MBL, movimento que Renan Santos cofundou em 2014 e coordenou, manteve-se ativo apoiando pautas como a reforma da Previdência (EC 103/2019) e o teto de gastos, segundo registro em verbete enciclopédico — apoio do movimento, não voto ou ato de Renan Santos, que nunca exerceu mandato",
+              "sources": [{ "id": "src-rs-25" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "A equipe econômica da campanha propõe nova reforma previdenciária: idade mínima com gatilho automático atrelado à expectativa de vida, capitalização parcial a partir do FGTS, redução do teto do INSS (R$ 8.475,55) e renda mínima para idosos",
+              "sources": [{ "id": "src-rs-31" }, { "id": "src-rs-48" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "O resumo executivo registrado no TSE inclui, no ajuste estimado em R$ 1,1 trilhão até 2031, a desindexação dos benefícios previdenciários e assistenciais do salário mínimo, com reajuste limitado à inflação, e a desvinculação dos pisos de saúde e educação",
+              "sources": [{ "id": "src-rs-21" }]
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública específica que relacione o apoio do MBL à reforma de 2019 com a proposta de nova reforma apresentada em 2026.",
+          "statedPosition": "Declara que o sistema previdenciário exigirá nova reforma e sustenta o ajuste fiscal com desindexação de benefícios do salário mínimo e desvinculação dos pisos de saúde e educação.",
+          "proposedAction": "PEC de Transição Fiscal (economia estimada em R$ 1,1 trilhão até 2031) somada a nova reforma da Previdência: idade mínima automática, capitalização parcial via FGTS, teto do INSS reduzido e renda mínima para idosos.",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca exerceu mandato eletivo nem cargo de nomeação. O marco de trajetória é a coordenação do MBL, que apoiou a reforma da Previdência de 2019 e o teto de gastos.",
+          "tensionNote": "A proposta de nova reforma prevê, no mesmo desenho, capitalização parcial com recurso do trabalhador (FGTS) e redução do teto do INSS, enquanto o ajuste fiscal se apoia em desindexação do salário mínimo para benefícios previdenciários e assistenciais; os documentos consultados não detalham regra de transição, idade mínima aplicável a quem já contribui nem compensação para quem recebe o teto atual. Não há, na trajetória, ato praticado em cargo público que permita comparar decisão com proposta.",
+          "methodology": "Timeline montada com (a) o apoio do MBL de 2019, documentado apenas em verbete enciclopédico e qualificado como apoio de movimento, nunca sozinho; (b) as propostas de 2026 extraídas do resumo executivo registrado no TSE e de reportagens de Agência Brasil, Valor International e Folha. Não houve exercício de mandato por Renan Santos em nenhum nível: não existe histórico de voto, medida administrativa ou gestão orçamentária a comparar.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-rs-financiamento-eleitoral",
+          "theme": "financiamento eleitoral e partidário",
+          "timeline": [
+            {
+              "year": "2026-07",
+              "position": "A campanha informou que abriu mão da cota de R$ 3.307.679,85 do Fundo Eleitoral atribuída ao Missão, redirecionando o valor às candidaturas do partido ao Legislativo; a presidencial passou a ser sustentada por doações e vaquinhas on-line (cerca de R$ 1 milhão até 01/07/2026)",
+              "sources": [{ "id": "src-rs-30" }]
+            },
+            {
+              "year": "2026-07",
+              "position": "A prévia do plano divulgada em 21/07/2026 propõe que o repasse do Fundo Partidário e do Fundo Eleitoral passe a ser calculado pela 'qualidade gerencial dos mandatários', com retenção de recursos de legendas que sustentarem prefeitos cassados ou com indicadores ruins",
+              "sources": [{ "id": "src-rs-94" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "Em 30/08/2026 o relator no TSE suspendeu cautelarmente propaganda digital, debates e acesso ao Fundo Eleitoral da campanha; a decisão foi revista em 01/09/2026, liberando campanha e repasses",
+              "sources": [{ "id": "src-rs-12" }, { "id": "src-rs-13" }]
+            }
+          ],
+          "publicExplanation": "A coordenadora de campanha declarou à CNN que a legenda priorizou os recursos públicos para as candidaturas ao Legislativo, com o objetivo de eleger bancada suficiente para superar a cláusula de barreira, e que a candidatura presidencial seria sustentada por doações e vaquinhas.",
+          "statedPosition": "Sustenta que a campanha presidencial pode dispensar o Fundo Eleitoral e que os fundos partidário e eleitoral devem ser distribuídos conforme desempenho gerencial dos mandatários.",
+          "proposedAction": "Lei de Responsabilidade Gerencial, condicionando repasses de emendas e fundos a indicadores municipais de educação, saúde e saneamento, e criação da Comissão Federal de Gestão Pública com previsão de 'tutela' federal sobre municípios avaliados como de gestão ineficiente (termo empregado pelo próprio plano).",
+          "historicalAction": "HISTÓRICO — ato da trajetória na condição de dirigente partidário e candidato (sem cargo público): decisão, anunciada publicamente em 01/07/2026, de não usar a cota do Fundo Eleitoral na própria campanha, mantendo o valor para as demais candidaturas do partido.",
+          "tensionNote": "A campanha presidencial abriu mão da cota do fundo, e o mesmo partido seguiu aplicando recursos públicos nas candidaturas legislativas; a proposta de condicionar os fundos à 'qualidade gerencial' não define, nas fontes consultadas, indicadores, pesos, prazos nem como a regra se aplicaria à própria legenda no pleito de 2026. Registro de fatos, sem juízo.",
+          "methodology": "Coerência construída entre ato documentado de campanha (renúncia à cota, CNN, 01/07/2026), a regra proposta no plano (O Globo, 21/07/2026) e a decisão do TSE sobre o fundo (30/08 e 01/09/2026). Renan Santos nunca exerceu cargo público: não há histórico de gestão de recursos públicos.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-rs-desfavelizacao",
+          "theme": "desfavelização, prazos e custo",
+          "timeline": [
+            {
+              "year": "2026-07",
+              "position": "A prévia do plano (21/07/2026) fixa a meta de 'desfavelizar' o Brasil em 10 anos, com regularização urbana, financiamento imobiliário subsidiado com prazo de até 50 anos, monitoramento por satélite e criação do crime de 'favelização'",
+              "sources": [{ "id": "src-rs-94" }, { "id": "src-rs-20" }]
+            },
+            {
+              "year": "2026-08",
+              "position": "Em entrevista à Globo (26/08/2026), afirmou: 'Vai ter um regime de exceção em favelas para eu retomar a favela', e defendeu estado de defesa em áreas dominadas por facções",
+              "sources": [{ "id": "src-rs-95" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "O resumo executivo registrado mantém o prazo de 10 anos, prevê hipotecas de R$ 200 a R$ 500, demolição em 48 horas de construção não legalizada e criminalização de quem organiza ocupações irregulares; a campanha estima o projeto em 'R$ 1,2 bilhão a R$ 1,5 bilhão' e afirma que o Tesouro ficaria com R$ 50 bilhões a R$ 85 bilhões dessas despesas, alegando autofinanciamento por hipotecas e IPTU",
+              "sources": [{ "id": "src-rs-21" }]
+            },
+            {
+              "year": "2026",
+              "position": "Declarações anteriores, citadas em verbete enciclopédico, indicavam transformação das favelas em até 30 anos; o verbete é usado aqui apenas como apoio, acompanhado das fontes de 2026",
+              "sources": [{ "id": "src-rs-25" }]
+            }
+          ],
+          "publicExplanation": "O plano justifica a retomada territorial pela existência de áreas sob controle de facções e milícias, condicionando a desfavelização a uma 'guerra ao crime'. Não foi localizada declaração específica explicando a diferença entre os prazos de 30 e 10 anos citados em fontes distintas.",
+          "statedPosition": "Sustenta que a favela não deve ser tratada como condição permanente e que a retomada territorial precede a regularização.",
+          "proposedAction": "Marco Nacional da Desfavelização: conversão de favelas em bairros formais em 10 anos, financiamento por IPTU, regularização de energia, emissão de títulos e recursos do Minha Casa Minha Vida, com monitoramento por satélite.",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca exerceu mandato nem função executiva. O marco de trajetória é a defesa pública do tema ('Vou desfavelizar o Brasil', entrevista à Globo em agosto de 2026) e a formulação do plano pelo partido que preside.",
+          "tensionNote": "O custo do projeto é estimado pela própria campanha em 'R$ 1,2 bilhão a R$ 1,5 bilhão' e, no mesmo texto, o Tesouro Nacional ficaria com R$ 50 bilhões a R$ 85 bilhões dessas despesas, com a alegação de que o programa 'se autofinancia' por hipotecas e IPTU; a mesma reportagem registra que esses gastos superam os limites de aumento hoje definidos pelo arcabouço fiscal. A meta depende de prefeituras, que controlam as regras urbanísticas, e o plano não detalha cronograma por município nas fontes consultadas.",
+          "methodology": "Fatos de 2026 (prévia do plano, entrevista à Globo, resumo executivo registrado e reportagem da Agência Brasil) formam a linha principal; a referência a 30 anos repousa em verbete enciclopédico, por isso o item é marcado como parcial e de confiança média. Sem exercício de mandato: não há execução municipal ou estadual comparável na trajetória.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-rs-soberania-nuclear",
+          "theme": "soberania nuclear e tratados",
+          "timeline": [
+            {
+              "year": "2025-10",
+              "position": "O deputado Kim Kataguiri (Missão, único deputado federal do partido) protocolou a chamada 'PEC Bomba Nuclear', para autorizar produção de armas nucleares com finalidade de retaliação defensiva, segundo checagem jornalística que descreve a legislação vigente",
+              "sources": [{ "id": "src-rs-93" }]
+            },
+            {
+              "year": "2026-08",
+              "position": "Em sabatina no Jornal Nacional (26/08/2026) defendeu iniciar programa nuclear com objetivo de bombas atômicas, citou a possibilidade de saída do TNP e afirmou que o país 'não dispõe de condições, nos próximos 10 anos', de ter o armamento",
+              "sources": [{ "id": "src-rs-90" }, { "id": "src-rs-91" }, { "id": "src-rs-92" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "A reportagem sobre o resumo executivo registrado trata de terras raras e de acordos bilaterais com EUA e UE, e apresenta o Brasil como 'Árbitro do Sul Global', rejeitando 'alinhamento ideológico automático' com os EUA, sem registrar capítulo sobre programa nuclear",
+              "sources": [{ "id": "src-rs-21" }]
+            }
+          ],
+          "publicExplanation": "Justificativa declarada: 'as nações mais poderosas do mundo dispõem de armas nucleares e elas se fazem respeitadas por causa disso'; disse não precisar de estudo científico para 'determinar que uma nação tem que ter força política para se proteger de outras nações'.",
+          "statedPosition": "Declara que, para ser uma das cinco maiores nações, o Brasil precisa de soberania militar e deve discutir a posse de bombas atômicas, iniciando desde já o processo de pesquisa.",
+          "proposedAction": "Iniciar programa nuclear voltado à eventual produção de armas atômicas, com a discussão de saída do TNP; não foi localizada proposta detalhada no documento registrado no TSE (custo, prazo e instrumento não estão descritos nas fontes consultadas).",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público (nunca exerceu mandato). Marco de trajetória: a 'PEC Bomba Nuclear' protocolada em outubro de 2025 pelo deputado federal do partido que ele preside — ato de bancada, não ato próprio de Renan Santos.",
+          "tensionNote": "O art. 21, XXIII, da Constituição admite atividade nuclear no território nacional apenas para fins pacíficos e mediante aprovação do Congresso; o Brasil é signatário do TNP e do Tratado de Tlatelolco (checagem do Portal Terra). Na mesma fala, o candidato afirmou que o país não teria condições de desenvolver o armamento em 10 anos e propôs 'iniciar o processo', sem indicar cronograma, custo ou instrumento (PEC, projeto de lei ou denúncia de tratado). Registro de fatos, sem juízo sobre mérito.",
+          "methodology": "Três reportagens independentes registram a mesma declaração de 26/08/2026 (CBN, Poder360 e Valor International), e a checagem do Portal Terra descreve o marco legal e a PEC apresentada por parlamentar do partido. Renan Santos nunca exerceu cargo público, de modo que o 'histórico' se limita a atos partidários e parlamentares de terceiros do próprio partido.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-rs-assistencia-social",
+          "theme": "assistência social e Bolsa Família",
+          "timeline": [
+            {
+              "year": "2026-07",
+              "position": "A prévia do plano (21/07/2026) propõe extinguir o modelo atual do Bolsa Família e substituí-lo por 'frentes de trabalho remuneradas', vinculando programas assistenciais à prestação de serviços para beneficiários com 15 anos ou mais",
+              "sources": [{ "id": "src-rs-20" }, { "id": "src-rs-94" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "O resumo executivo registrado descreve a substituição por 'Frentes Cidadãs' (trabalho remunerado em prol da comunidade) e inclui, no mesmo ajuste fiscal, a desindexação de benefícios previdenciários e assistenciais do salário mínimo, com reajuste limitado à inflação",
+              "sources": [{ "id": "src-rs-21" }]
+            }
+          ],
+          "publicExplanation": "Não foram localizadas, nas fontes consultadas, explicação pública sobre a transição dos atuais beneficiários nem estimativa de custo das frentes de trabalho.",
+          "statedPosition": "Defende que a assistência seja vinculada ao trabalho para quem está em idade economicamente ativa.",
+          "proposedAction": "Substituição do modelo atual do Bolsa Família por 'Frentes Cidadãs' de trabalho remunerado, com reajuste dos benefícios limitado à inflação (sem ganho real) dentro do ajuste de R$ 1,1 trilhão até 2031.",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo no Executivo e não há gestão de programa assistencial na trajetória. Os marcos são a coordenação do MBL e a formulação do plano pelo partido.",
+          "tensionNote": "A substituição do Bolsa Família por trabalho remunerado implica despesa nova, ao mesmo tempo em que o ajuste proposto prevê reajuste dos benefícios assistenciais apenas pela inflação e economia estimada em R$ 1,1 trilhão até 2031; os documentos consultados não detalham a conciliação entre as duas frentes nem o custo das frentes de trabalho. Registro de fatos, sem juízo.",
+          "methodology": "Linha montada sobre a prévia do plano (julho/2026), o resumo executivo registrado no TSE e a reportagem da Agência Brasil (19/09/2026). Por nunca ter exercido cargo público, o histórico disponível é a defesa pública do tema, não a execução de política assistencial.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ]
+    },
+    "leonardo-avalanche": {
+      "coherence": [
+        {
+          "id": "coh-la-chapa-substituta",
+          "theme": "chapa presidencial e relação com Pablo Marçal",
+          "timeline": [
+            {
+              "year": "2024-09",
+              "position": "Marçal 'reata' com o presidente do PRTB durante a campanha municipal de São Paulo e afirma estar comprometido com o partido",
+              "sources": [{ "id": "src-la-35" }]
+            },
+            {
+              "year": "2026-07",
+              "position": "Convenção nacional do PRTB em Goiânia (29/07/2026) oficializa a chapa com Marçal na cabeça e Avalanche como vice",
+              "sources": [{ "id": "src-la-70" }, { "id": "src-la-14" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "Em 11/09/2026 o TSE indeferiu por unanimidade o registro da chapa por não comprovação de filiação de Marçal até abril/2026; Marçal renunciou em 14/09, o partido promoveu Avalanche a titular e a chapa substituta foi publicada no DJE de 18/09/2026",
+              "sources": [{ "id": "src-la-02" }, { "id": "src-la-04" }, { "id": "src-la-01" }]
+            }
+          ],
+          "publicExplanation": "O partido declarou que a substituição era necessária após a renúncia de Marçal e protocolou a troca no último dia do prazo, com voto favorável da relatora no TSE.",
+          "statedPosition": "Apresenta-se como candidato a presidente pelo PRTB (nº 28) e sustenta a candidatura substituta após o indeferimento da chapa original, da qual era vice.",
+          "proposedAction": "Executar o programa registrado (redução de impostos e 'zerar a fila do SUS') e manter a candidatura até a votação de 04/10/2026.",
+          "historicalAction": "HISTÓRICO — nenhum mandato ou cargo executivo exercido em toda a trajetória: os marcos são atos partidários e eleitorais — convenção de 29/07/2026 que o lançou como vice, indeferimento da chapa original em 11/09/2026, renúncia do titular em 14/09, promoção a cabeça de chapa em 15/09 e publicação no DJE em 18/09/2026.",
+          "tensionNote": "A chapa original foi indeferida por falta de comprovação de filiação do candidato a presidente, e o próprio Avalanche teve o cancelamento de sua filiação ao partido revertido na Justiça Eleitoral em 06/02/2026; não foi localizada declaração dele sobre o ponto da filiação na chapa substituída. Registro de fatos, sem interpretação de mérito.",
+          "methodology": "Timeline com fontes oficiais (DJE/TSE) e imprensa de referência. Como não houve exercício de mandato — nunca foi eleito nem nomeado para cargo público —, o 'histórico' usado é o conjunto de atos partidários e eleitorais praticados por ele e pelo partido, declarado explicitamente.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-la-presidencia-do-partido",
+          "theme": "presidência nacional do PRTB",
+          "timeline": [
+            {
+              "year": "2024-02",
+              "position": "Assume a presidência nacional do PRTB em 23/02/2024, sucedendo direção provisória",
+              "sources": [{ "id": "src-la-09" }]
+            },
+            {
+              "year": "2025-08/09",
+              "position": "Congresso do partido em agosto/2025 destituiu o diretório da executiva nacional e o conselho de ética aprovou pedido de expulsão; em 30/09/2025 a Justiça Eleitoral confirmou a expulsão e Amauri Pinho assumiu a presidência",
+              "sources": [{ "id": "src-la-80" }, { "id": "src-la-82" }]
+            },
+            {
+              "year": "2026-02",
+              "position": "Após pedido do PRTB à Justiça Eleitoral, o cancelamento da filiação é revertido e ele retorna aos quadros do partido em 06/02/2026",
+              "sources": [{ "id": "src-la-83" }]
+            },
+            {
+              "year": "2026-06",
+              "position": "Certidão da Justiça Eleitoral registra nova composição da Executiva Nacional com Avalanche na presidência (17/06/2026)",
+              "sources": [{ "id": "src-la-81" }]
+            }
+          ],
+          "publicExplanation": "O partido divulgou nota negando rompimento de alianças e afirmando que a definição final de apoios cabe ao presidente nacional; não foi localizada explicação pública sobre o período em que a presidência foi exercida por Amauri Pinho.",
+          "statedPosition": "Declara-se presidente nacional do PRTB desde fevereiro de 2024 e conduz as decisões de aliança e de composição da chapa presidencial.",
+          "proposedAction": "Como presidente nacional, decidir o apoio do partido nas eleições estaduais e a manutenção da chapa presidencial substituta.",
+          "historicalAction": "HISTÓRICO — atos organizativos documentados em registros eleitorais, sem qualquer exercício de mandato: presidência assumida em 23/02/2024; destituição e expulsão confirmadas pela Justiça Eleitoral em 30/09/2025; reversão da filiação em 06/02/2026; nova Executiva certificada em 17/06/2026.",
+          "tensionNote": "Os registros públicos sobre quem preside a legenda são sucessivos e conflitantes no período 2025–2026 (expulsão confirmada em 30/09/2025 e nova composição da Executiva certificada em 17/06/2026); as fontes consultadas não incluem atas do congresso nem o inteiro teor das decisões judiciais. Fatos registrados categoricamente, sem interpretação de mérito.",
+          "methodology": "Coerência montada sobre documentos e registros eleitorais (certidões e decisões noticiadas por imprensa regional e CNN). Nunca houve exercício de mandato, o que está declarado: os marcos são atos de direção partidária.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-la-apoio-estadual-goias",
+          "theme": "alianças estaduais (Goiás)",
+          "timeline": [
+            {
+              "year": "2026-09",
+              "position": "Em 08/09/2026, nota do presidente nacional confirmou a manutenção da aliança com Marconi Perillo (PSDB), candidato ao governo de Goiás, e o PRTB figurava na coligação 'Goiás Pode Muito Mais' no DivulgaCand",
+              "sources": [{ "id": "src-la-25" }, { "id": "src-la-26" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "Em 12/09/2026, o PRTB retirou sua participação da coligação de Marconi Perillo e abriu negociação por novo apoio, com a definição atribuída à direção nacional comandada por Avalanche; a vereadora Daniela da Gilka (PRTB) desistiu da candidatura ao governo",
+              "sources": [{ "id": "src-la-90" }]
+            }
+          ],
+          "publicExplanation": "A vereadora licenciada declarou que as decisões tiveram como objetivo 'fortalecer o partido' e ampliar a participação de seu grupo político no processo eleitoral; a definição do novo apoio ficou com o presidente nacional.",
+          "statedPosition": "Sustenta que a decisão sobre apoios estaduais pertence à direção nacional, que ele preside.",
+          "proposedAction": "Anunciar apoio do PRTB a candidato ao governo de Goiás; não foi localizado anúncio até 29/09/2026.",
+          "historicalAction": "HISTÓRICO — ato partidário, sem exercício de mandato: retirada da participação na coligação estadual e reabertura de negociação, informadas por dirigente estadual do partido em 12/09/2026.",
+          "tensionNote": "Duas informações públicas com quatro dias de intervalo apontam sentidos distintos — nota de 08/09/2026 confirmando a manutenção da aliança com Marconi Perillo e reportagem de 12/09/2026 registrando a saída da coligação e nova negociação. Não foi localizado, no conjunto de fontes consultado, registro de coligação estadual anexado nem ata que fixe a decisão, e o DivulgaCand ainda listava o partido na coligação segundo a fonte de 08/09/2026. Registro de fatos, sem juízo.",
+          "methodology": "Item montado com dois veículos regionais (Jornal Opção/Brasil em Folhas e Poder Goiás) em datas distintas, ambos citando dirigentes do próprio partido; a lacuna sobre documentos formais está registrada no arquivo principal do candidato.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-la-propostas-detalhamento",
+          "theme": "propostas registradas e detalhamento",
+          "timeline": [
+            {
+              "year": "2026-07/08",
+              "position": "Pré-candidatura lançada em 14/07/2026 e convenção de 29/07/2026 oficializaram Avalanche na disputa; o programa apresentado tem como eixos 'reduzir impostos' e 'zerar a fila do SUS'",
+              "sources": [{ "id": "src-la-30" }, { "id": "src-la-70" }, { "id": "src-la-06" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "O documento registrado no TSE reúne 19 propostas; o custo estimado está ausente em 17 delas e o prazo de execução em 16 (contagem sobre o próprio documento, registrada no arquivo do candidato)",
+              "sources": [{ "id": "src-la-16" }, { "id": "src-la-17" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "Chapa substituta publicada no DJE de 18/09/2026, com manutenção do programa registrado",
+              "sources": [{ "id": "src-la-01" }]
+            }
+          ],
+          "publicExplanation": "Não foi localizada declaração pública que explique a ausência de custo e de prazo nas propostas registradas.",
+          "statedPosition": "Apresenta a redução da carga tributária como eixo central e a eliminação das filas do SUS como promessa do programa.",
+          "proposedAction": "Executar o programa registrado; valores, tributos específicos, marcos temporais e fontes de financiamento não foram divulgados nas fontes consultadas.",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca foi eleito nem ocupou cargo executivo (candidaturas anteriores a deputado federal, em 2018, e a outros cargos em 2006, 2008 e 2016, sem eleição). Os marcos são atos partidários e eleitorais.",
+          "tensionNote": "O programa declara a redução de impostos como eixo central e, ao mesmo tempo, promete zerar a fila do SUS, sem indicar nas fontes consultadas a fonte de receita que compensaria a perda tributária; 17 das 19 propostas do documento não trazem custo e 16 não trazem prazo — ausência verificada no próprio documento, não falha de pesquisa. Registro de fatos, sem juízo.",
+          "methodology": "Contagem feita sobre o arquivo do programa registrado no TSE (e espelho em PDF) e checada contra as reportagens de campanha; o candidato nunca exerceu mandato, o que está dito explicitamente, de modo que o histórico disponível são atos de direção partidária e candidaturas anteriores.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ]
+    },
+    "augusto-cury": {
+      "coherence": [
+        {
+          "id": "coh-ac-formacao-declarada",
+          "theme": "formação acadêmica declarada",
+          "timeline": [
+            {
+              "year": "2013",
+              "position": "O plano de governo entregue ao TSE declara doutorado em Psicologia Multifocal pela Florida Christian University, concluído em 2013, com tese sobre o 'Programa Freemind'",
+              "sources": [{ "id": "src-ac-11" }, { "id": "src-ac-12" }]
+            },
+            {
+              "year": "2026-07",
+              "position": "Em direito de resposta publicado em julho de 2026, o candidato escreveu: 'Não apresento esse título como doutorado acadêmico em Psicologia'",
+              "sources": [{ "id": "src-ac-13" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "O currículo Lattes registra PhD/DBA em Administração pela mesma instituição; Folha e Valor noticiaram a divergência em 01/09/2026 e a assessoria não respondeu por que a informação incorreta consta do documento registrado",
+              "sources": [{ "id": "src-ac-11" }, { "id": "src-ac-12" }]
+            }
+          ],
+          "publicExplanation": "Explicação pública registrada em julho de 2026, quando ele afirmou não apresentar o título como doutorado acadêmico em Psicologia; em setembro de 2026 a assessoria não respondeu à imprensa sobre a permanência da informação no plano.",
+          "statedPosition": "Afirma que sua formação é técnica e que não apresenta o título obtido no exterior como doutorado acadêmico em Psicologia.",
+          "proposedAction": "Não há proposta de governo diretamente vinculada; o documento em que consta a declaração de título é o próprio plano registrado na Justiça Eleitoral.",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo de nomeação. O marco é o documento assinado e entregue à Justiça Eleitoral em agosto de 2026 (ato de campanha, não de gestão).",
+          "tensionNote": "Há divergência documentada entre o plano entregue ao TSE (doutorado em Psicologia Multifocal), o currículo Lattes (PhD/DBA em Administração pela mesma instituição) e a declaração pública do próprio candidato de julho de 2026, que negava apresentar o título como doutorado acadêmico em Psicologia; não há processo, sanção ou decisão judicial sobre o ponto nas fontes consultadas. Registro categórico, sem juízo.",
+          "methodology": "Coerência entre três documentos públicos: plano registrado, direito de resposta do candidato e currículo Lattes, com as reportagens de Folha e Valor que confrontam os dois primeiros. Sem exercício de mandato em qualquer nível; o 'histórico' são os próprios documentos de sua autoria.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-ac-gestao-da-emocao",
+          "theme": "gestão da emoção no currículo escolar",
+          "timeline": [
+            {
+              "year": "2018",
+              "position": "O programa 'Escola da Inteligência', idealizado por Augusto Cury, foi lançado na rede municipal de Cuiabá em estágio piloto com cinco mil alunos de oito escolas",
+              "sources": [{ "id": "src-ac-91" }]
+            },
+            {
+              "year": "2021",
+              "position": "Material do próprio programa informa 'mais de 1 mil escolas conveniadas, 300 mil estudantes e 1,2 milhão de pessoas impactadas'",
+              "sources": [{ "id": "src-ac-92" }]
+            },
+            {
+              "year": "2026-08",
+              "position": "O plano e a campanha propõem incorporar 'gestão da emoção', educação financeira e empreendedorismo ao currículo e ampliar a educação em tempo integral",
+              "sources": [{ "id": "src-ac-90" }, { "id": "src-ac-05" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "Em Itajaí (SC), os programas 'Escola da Inteligência' e 'Gênios Socioemocional' foram substituídos pelo 'Vida na Escola', que abrange 27 mil estudantes, após levantamento local apontar R$ 39 milhões em gastos municipais com programas ligados ao autor",
+              "sources": [{ "id": "src-ac-74" }, { "id": "src-ac-75" }]
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública do candidato sobre a substituição em Itajaí nem sobre o custo federal da proposta de inclusão no currículo nacional.",
+          "statedPosition": "Sustenta que a gestão da emoção deve integrar a educação básica como política de prevenção à ansiedade, à violência e ao suicídio.",
+          "proposedAction": "Inclusão de gestão da emoção/educação socioemocional no currículo, com ensino integral, e o 'Projeto Brasil Neuroinclusivo'; custo e forma de contratação não estão descritos nas fontes consultadas.",
+          "historicalAction": "HISTÓRICO — atos da trajetória privada, não de mandato: criação e licenciamento do programa educacional de sua autoria a redes municipais e escolas conveniadas, com contratos firmados por prefeituras. Nunca exerceu cargo público eletivo ou de nomeação.",
+          "tensionNote": "A proposta converte em política nacional um conteúdo que já é licenciado a prefeituras e escolas por empresas ligadas ao próprio autor — a Folha registrou R$ 19,9 milhões faturados por empresa da filha em negócios com prefeituras — e, em setembro de 2026, o programa foi substituído por outro em Itajaí; as fontes consultadas não detalham custo federal, forma de contratação ou regra de conflito de interesse. Registro de fatos, sem juízo.",
+          "methodology": "Coerência entre a trajetória privada documentada (registro oficial de aplicação em rede municipal e material do próprio programa), a proposta registrada em 2026 e os fatos municipais de 2026. Sem mandato exercido: o histórico são contratos e convênios com prefeituras, atos da esfera privada.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-ac-semipresidencialismo",
+          "theme": "semipresidencialismo e mandato no STF",
+          "timeline": [
+            {
+              "year": "2026-08",
+              "position": "Chapa com o vice Júlio Delgado (ex-deputado federal por MG) anunciada em 05/08/2026; o candidato atribui ao vice as propostas de mudança de regime",
+              "sources": [{ "id": "src-ac-42" }, { "id": "src-ac-36" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "Plano e declarações propõem semipresidencialismo, com presidente em funções estratégicas e primeiro-ministro na administração, mandato de oito anos para ministros do STF em vez da vitaliciedade e substituição do chanceler por secretário de Estado",
+              "sources": [{ "id": "src-ac-06" }]
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública com desenho de transição, data de vigência ou fórmula de escolha e recondução de ministros.",
+          "statedPosition": "Defende o semipresidencialismo e o fim da vitaliciedade no STF como forma de reduzir a concentração de poder na Presidência.",
+          "proposedAction": "Emenda constitucional para adotar o semipresidencialismo e fixar mandato de oito anos para ministros do STF — propostas que ele atribui ao vice.",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: 2026 é sua primeira candidatura e ele nunca exerceu mandato ou cargo de nomeação, de modo que não há votação, relatoria ou decisão administrativa a comparar.",
+          "tensionNote": "As duas mudanças dependem de emenda constitucional e o plano registrado não apresenta, nas fontes consultadas, texto-base, cronograma ou estimativa de efeito; a autoria declarada das propostas é do vice, e não foi localizado documento em que o candidato as assuma como suas. Registro sem juízo.",
+          "methodology": "Item baseado na reportagem da Agência Brasil sobre as propostas e no anúncio da chapa; a ausência de histórico de mandato está declarada, com o marco de trajetória limitado a atos de campanha e à produção editorial do candidato.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-ac-salario-minimo-e-metas",
+          "theme": "salário mínimo, metas e financiamento",
+          "timeline": [
+            {
+              "year": "2026-08",
+              "position": "Em sabatina (29/08/2026) declarou que reajustaria o salário mínimo pela inflação mais 1% ao ano e estimou ganho real acumulado de 50% a 60% em quatro anos, com projeção de US$ 300 em 8 a 10 anos",
+              "sources": [{ "id": "src-ac-19" }]
+            },
+            {
+              "year": "2026-08",
+              "position": "O plano registrado reúne propostas para 18 áreas, prevê corte de 8 a 10 ministérios e criação de ministério do empreendedorismo, com Fundo Nacional do Empreendedor de R$ 30 bilhões a R$ 50 bilhões e meta de 10 mil escolas de empreendedorismo",
+              "sources": [{ "id": "src-ac-05" }, { "id": "src-ac-19" }]
+            },
+            {
+              "year": "2026",
+              "position": "Análise comparativa das diretrizes registra que o candidato prioriza 'déficit zero' e empreendedorismo e é o único a defender o semipresidencialismo",
+              "sources": [{ "id": "src-ac-93" }]
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública que concilie a regra de reajuste declarada (inflação mais 1% ao ano) com o ganho real acumulado estimado em 50% a 60% em quatro anos.",
+          "statedPosition": "Promete ganho real no salário mínimo acima da inflação e 'déficit zero' como prioridade fiscal.",
+          "proposedAction": "Reajuste do salário mínimo pela inflação mais 1% ao ano; corte de 8 a 10 ministérios; criação de ministério do empreendedorismo, de fundo de R$ 30–50 bilhões e de 10 mil escolas de empreendedorismo.",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo, não havendo política salarial, orçamentária ou fiscal praticada por ele. Os marcos são declarações de campanha e o documento registrado.",
+          "tensionNote": "A regra declarada (inflação mais 1% ao ano) e o ganho real acumulado estimado pelo próprio candidato (50% a 60% em quatro anos) constam do mesmo ato de campanha e descrevem magnitudes de ordem diferente; o plano não traz cronograma por meta. A criação de fundo de R$ 30–50 bilhões e de 10 mil escolas convive com a prioridade declarada de 'déficit zero', sem detalhamento da compensação nas fontes consultadas. Registro de fatos, sem juízo.",
+          "methodology": "Duas fontes de campanha (sabatina da Globo em 29/08/2026 e plano registrado) mais uma análise editorial que resume as diretrizes fiscais. Cury nunca exerceu mandato: o item compara declarações e documentos, não decisões de governo.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ]
+    },
+    "clariana-barao": {
+      "coherence": [
+        {
+          "id": "coh-cb-escolha-interna",
+          "theme": "escolha interna da candidatura",
+          "timeline": [
+            {
+              "year": "2026-01",
+              "position": "O DC lançou a pré-candidatura de Aldo Rebelo à Presidência em janeiro de 2026",
+              "sources": [{ "id": "src-cb-28" }, { "id": "src-cb-72" }]
+            },
+            {
+              "year": "2026-05",
+              "position": "Joaquim Barbosa substituiu Aldo Rebelo como nome do partido em maio de 2026",
+              "sources": [{ "id": "src-cb-03" }, { "id": "src-cb-70" }]
+            },
+            {
+              "year": "2026-07",
+              "position": "Após a desistência de Barbosa, reunião nacional do DC em Brasília (08/07/2026) aprovou o nome de Clariana Barão, apresentado pela direção de Mato Grosso, com dirigentes e presidentes de 21 diretórios estaduais; o lançamento público foi noticiado em 24/07/2026",
+              "sources": [{ "id": "src-cb-03" }, { "id": "src-cb-70" }, { "id": "src-cb-71" }]
+            },
+            {
+              "year": "2026-08",
+              "position": "Convenção nacional em São Paulo (05/08/2026) oficializou a chapa Clariana Barão/Fabiana Torquato, exclusivamente feminina, e o TSE deferiu o registro em 11/09/2026; é a primeira vez que o DC não lança o fundador José Maria Eymael desde 1995",
+              "sources": [{ "id": "src-cb-08" }, { "id": "src-cb-34" }, { "id": "src-cb-01" }]
+            }
+          ],
+          "publicExplanation": "A candidata afirmou que a legenda buscou renovação após as desistências e que sua indicação veio da direção estadual de Mato Grosso; o presidente nacional João Caldas conduziu o processo interno.",
+          "statedPosition": "Apresenta-se como candidata do DC com valores de centro-direita e rejeição ao que chama de extremismo, em sua primeira disputa eleitoral.",
+          "proposedAction": "Concorrer à Presidência em chapa pura (DC, nº 27) com o plano 'Proteger Hoje, Transformar o Amanhã'.",
+          "historicalAction": "HISTÓRICO — ato organizativo partidário, sem exercício de cargo público: nome apresentado pela direção estadual de MT e aprovado por 21 diretórios estaduais em 08/07/2026, com oficialização em convenção em 05/08/2026. Nunca exerceu mandato nem cargo executivo.",
+          "tensionNote": "A legenda teve três configurações de cabeça de chapa no mesmo ciclo eleitoral (Aldo Rebelo, Joaquim Barbosa e Clariana Barão); nas datas registradas, a aprovação interna (08/07/2026) antecede o anúncio público (24/07/2026) e não há atas consultadas que registrem a discussão interna. Registro de fatos, sem juízo.",
+          "methodology": "Linha construída com imprensa de referência (Agência Brasil, Band, CartaCapital, Poder360, Fatos de Mato Grosso) e o registro no TSE. Como a candidata nunca exerceu mandato, o histórico usado é o ato organizativo do partido, dito explicitamente.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-cb-financiamento-da-campanha",
+          "theme": "financiamento de campanha e responsabilidade fiscal",
+          "timeline": [
+            {
+              "year": "2026-08",
+              "position": "Registro de candidatura em 15/08/2026, com patrimônio declarado de R$ 1,82 milhão (vice: R$ 2,2 milhões) e plano que prevê responsabilidade fiscal, revisão de gastos e subsídios com avaliação de impacto e matriz de implementação por horizontes",
+              "sources": [{ "id": "src-cb-22" }, { "id": "src-cb-91" }, { "id": "src-cb-19" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "O DC recebeu R$ 3.307.679,85 de Fundo Eleitoral em 2026 e, até 01/09/2026, havia repassado R$ 1.500.000,00 a um único candidato — a própria candidatura presidencial, 45,3% do total recebido",
+              "sources": [{ "id": "src-cb-11" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "No Jornal Nacional (05/09/2026) defendeu revisão do ajuste fiscal e citou a Selic de 14% ao ano como obstáculo ao crédito; o índice oficial do plano registrado traz 'responsabilidade fiscal focada em resultados, revisão de gastos e subsídios' nas páginas 5 e 6",
+              "sources": [{ "id": "src-cb-12" }, { "id": "src-cb-90" }]
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública sobre a destinação de 45,3% do fundo recebido a uma única candidatura nem sobre o financiamento de campanha no plano.",
+          "statedPosition": "Defende responsabilidade fiscal com revisão de gastos, subsídios e benefícios a partir de avaliação de impacto, e revisão do ajuste fiscal.",
+          "proposedAction": "Revisar gastos e subsídios considerados indevidos, com transparência de benefícios e avaliação de impacto; as fontes consultadas não detalham as compensações das medidas.",
+          "historicalAction": "HISTÓRICO — ato partidário, sem exercício de mandato: o partido que ela preside em Mato Grosso recebeu a cota de Fundo Eleitoral de 2026 e destinou R$ 1,5 milhão (45,3%) à candidatura presidencial, sendo ela própria a beneficiária.",
+          "tensionNote": "O plano registrado propõe revisão de gastos, subsídios e benefícios públicos, e não foi localizado nele tratamento do financiamento de campanha ou do Fundo Eleitoral nas fontes consultadas; a candidatura presidencial é a principal destinatária do fundo recebido pela legenda, conforme levantamento com dados do TSE. Registro de fatos, sem juízo.",
+          "methodology": "Coerência entre o que o plano propõe (índice oficial no TSE e entrevista ao Jornal Nacional) e o que o partido fez com os recursos públicos recebidos (levantamento Plural com dados do TSE). Sem mandato exercido: não há execução orçamentária própria na trajetória.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-cb-prioridades-sociais",
+          "theme": "prioridades sociais e atuação pregressa",
+          "timeline": [
+            {
+              "year": "2024",
+              "position": "Atuou no auxílio a vítimas das enchentes do Rio Grande do Sul e criticou publicamente políticos locais, segundo a imprensa de Várzea Grande — atuação privada, sem cargo público",
+              "sources": [{ "id": "src-cb-75" }]
+            },
+            {
+              "year": "2025",
+              "position": "Como representante da OAB no Conselho Municipal de Saúde de Várzea Grande, defendeu a criação de banco de doadores de medula no futuro hemocentro; como membro do Conselho Municipal de Assistência Social, comentou a conclusão de trabalho que destravou recursos e citou perda de mais de R$ 1 milhão da Assistência Social em 2024",
+              "sources": [{ "id": "src-cb-74" }, { "id": "src-cb-73" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "O plano e as entrevistas definem como prioridade 01 a defesa de mulheres e crianças, com centros integrados de atendimento à mulher vítima de violência doméstica e protocolo único, e a primeira infância como prioridade nacional, do pré-natal à creche",
+              "sources": [{ "id": "src-cb-05" }, { "id": "src-cb-12" }, { "id": "src-cb-19" }]
+            }
+          ],
+          "publicExplanation": "Não foram localizados relatórios ou atas das atividades em conselhos municipais (lacuna registrada no arquivo do candidato).",
+          "statedPosition": "Declara a proteção de mulheres e crianças como primeira prioridade de um eventual governo, com rede nacional integrada de atendimento.",
+          "proposedAction": "Criação de rede nacional de proteção e resposta à violência, integrando saúde, assistência, segurança e Judiciário, com centros de atendimento de protocolo único; primeira infância do pré-natal à creche.",
+          "historicalAction": "HISTÓRICO — atos da trajetória em conselhos municipais e na OAB de Várzea Grande (2024–2025) e auxílio a vítimas de enchentes; não há mandato exercido nem cargo público de qualquer natureza.",
+          "tensionNote": "A atuação documentada é em conselhos municipais e em iniciativas privadas, enquanto a proposta é de rede nacional que depende de estados, municípios e Judiciário (delegacias, acolhimento e encaminhamento); o documento registrado prevê matriz de implementação por horizontes, e as fontes consultadas não trazem estimativa de custo por eixo. Registro sem juízo.",
+          "methodology": "Coerência entre a trajetória registrada por imprensa local de Várzea Grande (conselhos de saúde e assistência social, OAB) e as prioridades do plano registrado. As páginas locais tinham bloqueio WAF na coleta e foram lidas por resumo indexado, o que reduziu a confiança; sem mandato, o histórico é de atuação em conselhos e na OAB.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-cb-reformas-institucionais",
+          "theme": "reformas institucionais e política econômica",
+          "timeline": [
+            {
+              "year": "2026-08",
+              "position": "Em entrevista ao Poder360 (25/08/2026) defendeu reforma no STF, fim da escala 6x1 e revisão dos processos de 8 de janeiro",
+              "sources": [{ "id": "src-cb-43" }]
+            },
+            {
+              "year": "2026-09",
+              "position": "Em entrevista ao BM&C Talks (09/09/2026) defendeu Selic a 7% ao ano, fim das bets e mudanças no STF, e declarou intenção de buscar capital estrangeiro (EUA e China) para minerar, beneficiar e industrializar minerais críticos e terras raras",
+              "sources": [{ "id": "src-cb-80" }]
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública com o desenho da reforma do STF, o instrumento previsto para o fim das bets nem o caminho para a taxa de juros declarada.",
+          "statedPosition": "Defende mudanças no STF, redução da taxa básica de juros e fim das apostas de quota fixa, além de revisão do ajuste fiscal.",
+          "proposedAction": "Reforma do STF, Selic a 7%, fim das bets e industrialização de minerais críticos com capital estrangeiro — medidas declaradas em entrevistas, sem detalhamento localizado no plano registrado.",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo; o marco de trajetória é a atuação em conselhos municipais de Várzea Grande e a presidência do diretório estadual do DC em Mato Grosso, assumida em 2026.",
+          "tensionNote": "As propostas de reforma do STF e de juros a 7% foram feitas em entrevistas; o plano registrado trata de 'Estado que funciona', governo digital, compras rastreáveis e responsabilidade fiscal, e não foi localizado nele o detalhamento dessas medidas, nem instrumento, prazo ou estimativa de impacto nas fontes consultadas. Registro de fatos, sem juízo.",
+          "methodology": "Item montado sobre duas entrevistas de 2026 e o índice do plano registrado no TSE, que serve de contraste documental. Sem mandato exercido, o histórico disponível é atuação em conselhos e direção partidária estadual.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ]
+    },
+    "samara-martins": {
+      "coherence": [
+        {
+          "id": "coh-sm-programa-registrado",
+          "theme": "programa de governo registrado",
+          "timeline": [
+            {
+              "year": "2022",
+              "position": "O documento de governo apresentado em 2022 pela chapa Leonardo Péricles/Samara Martins foi derivado do programa nacional da UP aprovado nos congressos de 2019 e 2021",
+              "sources": [{ "id": "src-sm-93" }]
+            },
+            {
+              "year": "2026-08-06",
+              "position": "Candidatura registrada no TSE (primeiro nome protocolado entre os presidenciáveis) com o plano que reproduzia a versão de 2022, segundo noticiado; a campanha disse ter corrigido o envio e encaminhou versão com 16 propostas — entre elas fim da escala 6x1 e nacionalização de bancos e de planos de saúde",
+              "sources": [{ "id": "src-sm-42" }, { "id": "src-sm-91" }]
+            },
+            {
+              "year": "2026-08-13/18",
+              "position": "O documento de 16 pontos, com uma página e meia, repercutiu nas redes por falta de detalhamento e por pular do ponto três para o cinco; o partido anexou outra versão em 16/08 e a candidata afirmou que o primeiro texto foi registrado 'pela exigência legal'; a versão seguinte tem 67 páginas e cerca de 20 eixos",
+              "sources": [{ "id": "src-sm-92" }, { "id": "src-sm-90" }, { "id": "src-sm-30" }]
+            }
+          ],
+          "publicExplanation": "Declaração registrada em 18/08/2026: o texto inicial foi registrado no TSE 'pela exigência legal' enquanto o programa definitivo estava em revisão e finalização; a versão ampliada foi anexada após a repercussão.",
+          "statedPosition": "Afirma que o documento inicial era provisório e que o programa completo é o texto ampliado, com cerca de 20 eixos temáticos.",
+          "proposedAction": "Executar o programa ampliado (educação, saúde, segurança, economia e fundamentos do socialismo defendido pela sigla) a partir do documento de 67 páginas.",
+          "historicalAction": "HISTÓRICO — atos da trajetória, sem exercício de mandato: registro da candidatura em 06/08/2026 e substituição do arquivo do programa; em 2020 e 2022 concorreu sem ser eleita.",
+          "tensionNote": "Há divergência documentada sobre qual é o programa vigente — o arquivo inicial de 16 pontos, a versão de 16 propostas anexada depois e o documento de 67 páginas — e, nas fontes consultadas, a versão ampliada não consta como o arquivo registrado no TSE (o link oficial retornou bloqueio e o texto foi lido em espelho da campanha). Registro de fatos, sem juízo.",
+          "methodology": "Coerência entre o documento de 2022, o protocolo de 06/08/2026, a repercussão de 13–18/08/2026 e a explicação pública da candidata. Como nunca exerceu mandato, não há ato de governo a comparar — o histórico são envios, correções e a direção partidária.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-sm-aliancas",
+          "theme": "alianças e federação partidária",
+          "timeline": [
+            {
+              "year": "2022-10",
+              "position": "Após o primeiro turno, a UP e Leonardo Péricles anunciaram apoio a Lula no segundo turno",
+              "sources": [{ "id": "src-sm-33" }]
+            },
+            {
+              "year": "2026-07",
+              "position": "O partido declarou que fez diálogos com outras legendas, mas que as tratativas não avançaram, mantendo candidatura própria e sem coligação",
+              "sources": [{ "id": "src-sm-15" }]
+            },
+            {
+              "year": "2026-08",
+              "position": "A candidata rejeitou integrar federação com PT, PSOL, PSTU e PCB, afirmou priorizar alianças 'programáticas' e disse que a negociação política deve colocar o programa acima das pessoas; resistiu a antecipar apoio em eventual segundo turno",
+              "sources": [{ "id": "src-sm-90" }, { "id": "src-sm-34" }, { "id": "src-sm-25" }]
+            }
+          ],
+          "publicExplanation": "Declaração pública de 12/08/2026 de que 'a negociação política deve colocar o programa acima das pessoas' e de que a prioridade são alianças em pautas (como o fim da escala 6x1), não acordos eleitorais entre legendas.",
+          "statedPosition": "Defende candidatura própria e alianças programáticas, sem federação com partidos da mesma frente de esquerda.",
+          "proposedAction": "Manter a chapa pura da UP (nº 80) e negociar apenas pautas comuns, sem composição de chapa ou federação.",
+          "historicalAction": "HISTÓRICO — ato partidário da trajetória: apoio da UP a Lula no segundo turno de 2022, decidido pela direção do partido do qual ela é vice-presidente nacional. Ela nunca exerceu mandato (não eleita em 2020 e 2022).",
+          "tensionNote": "Em 2022 o partido apoiou Lula no segundo turno; em 2026 rejeita federação com partidos da mesma frente e não antecipa apoio em eventual segundo turno. As duas posições estão documentadas, com explicação pública registrada, e não foram localizadas nas fontes consultadas as condições formais escritas do apoio de 2022 nem do critério de 2026. Registro sem juízo.",
+          "methodology": "Coerência entre posições partidárias de 2022 e de 2026 registradas em imprensa de referência e em declaração classificada da própria candidata. Sem mandato exercido: o histórico é a decisão coletiva do partido, não ato individual em cargo público.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-sm-sus-e-servico-publico",
+          "theme": "SUS e uso do serviço público",
+          "timeline": [
+            {
+              "year": "2020",
+              "position": "Disputou uma vaga na Câmara Municipal de Natal (RN) e não foi eleita — a primeira das três eleições que já disputou até 2026",
+              "sources": [{ "id": "src-sm-91" }, { "id": "src-sm-32" }]
+            },
+            {
+              "year": "2022",
+              "position": "Foi candidata a vice-presidente na chapa de Leonardo Péricles; a chapa obteve 53.519 votos (0,05% dos válidos), sem eleição",
+              "sources": [{ "id": "src-sm-91" }, { "id": "src-sm-32" }]
+            },
+            {
+              "year": "2026-08",
+              "position": "Em campanha, defendeu que todos os políticos, 'de vereador a presidente', usem o serviço público de saúde; o plano registrado prevê ampliação do SUS e investimento em saúde pública",
+              "sources": [{ "id": "src-sm-07" }, { "id": "src-sm-41" }]
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública sobre como a exigência de uso do SUS por agentes políticos seria implementada e fiscalizada.",
+          "statedPosition": "Defende o fortalecimento do SUS e que agentes políticos usem o serviço público de saúde como regra.",
+          "proposedAction": "Ampliação do SUS e obrigação de uso do serviço público por políticos de todos os níveis; combate à violência contra a mulher e ao feminicídio.",
+          "historicalAction": "HISTÓRICO — atos da trajetória profissional e partidária, sem cargo eletivo ou de nomeação: cirurgiã-dentista do SUS na Estratégia Saúde da Família (RN) e vice-presidente nacional da UP; candidaturas de 2020 e 2022 sem eleição.",
+          "tensionNote": "A proposta alcança servidores e ocupantes de mandato de todos os entes, o que depende de regras próprias para cada carreira e nível federativo; nas fontes consultadas o documento não detalha instrumento, prazo ou sanção. A relação com a trajetória é de proximidade temática (atuação profissional no SUS), não de ato praticado em cargo público.",
+          "methodology": "Linha montada sobre o registro eleitoral (2020 e 2022), reportagem sobre a proposta de 2026 e o programa registrado. Nenhum mandato exercido até 2026 — declarado explicitamente, o que restringe o 'histórico' à militância sindical e ao trabalho como dentista do SUS.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-sm-trabalho-e-salario",
+          "theme": "trabalho, jornada e salário mínimo",
+          "timeline": [
+            {
+              "year": "2026-08",
+              "position": "O documento inicial de 16 propostas registrado no TSE previa 'reajuste de 100% do salário mínimo' e a revogação das reformas trabalhistas e da Previdência",
+              "sources": [{ "id": "src-sm-92" }, { "id": "src-sm-42" }]
+            },
+            {
+              "year": "2026-08-29",
+              "position": "Em entrevista, defendeu aumentar em 100% o salário mínimo e acabar com a escala 6x1, além de frentes emergenciais de trabalho e diminuição da jornada",
+              "sources": [{ "id": "src-sm-90" }]
+            },
+            {
+              "year": "2026-08/09",
+              "position": "As versões posteriores mantêm o fim da escala 6x1, com redução da jornada para 30 horas semanais, garantia de emprego com auxílio equivalente a um salário mínimo por pessoa sem vaga e valorização do salário mínimo",
+              "sources": [{ "id": "src-sm-41" }, { "id": "src-sm-90" }]
+            }
+          ],
+          "publicExplanation": "Não foi localizada explicação pública de custeio: nas fontes consultadas, o custo do auxílio de um salário mínimo por pessoa sem vaga e o efeito fiscal do reajuste de 100% não estão estimados.",
+          "statedPosition": "Defende dobrar o salário mínimo, acabar com a escala 6x1 e garantir emprego a toda pessoa apta ao trabalho.",
+          "proposedAction": "Fim da jornada 6x1 e redução para 30 horas semanais; auxílio de um salário mínimo a quem não tiver vaga; revogação das reformas trabalhistas e da Previdência; valorização do salário mínimo.",
+          "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca foi eleita (2020 e 2022) e nunca ocupou cargo de nomeação; a trajetória é sindical/militante (vice-presidente nacional da UP, frente negra e movimentos de moradia e de mulheres) e profissional (dentista do SUS).",
+          "tensionNote": "As duas medidas com efeito direto sobre despesa — reajuste de 100% do salário mínimo e auxílio de um salário mínimo a cada pessoa sem vaga — são declaradas sem estimativa de custo ou fonte de financiamento nas fontes consultadas, enquanto o programa também propõe suspender juros e amortizações da dívida pública até auditoria e reestatizar empresas. Registro de fatos, sem juízo.",
+          "methodology": "Coerência entre o documento inicial, a entrevista de 29/08/2026 e as versões posteriores do programa. Sem mandato exercido, o histórico disponível é a militância sindical e a atuação profissional, não a execução de política de trabalho e renda.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ]
+    }
   },
-  "dataGaps": ["em consolidação"]
+  "dataGaps": [
+    "renan-santos: não foi localizada fonte primária (entrevista, artigo assinado ou documento do MBL) para o apoio do movimento à reforma da Previdência de 2019 — o item se apoia em verbete enciclopédico, acompanhado das fontes de 2026, e por isso é marcado como parcial.",
+    "renan-santos: a declaração anterior de desfavelização em até 30 anos não foi localizada em veículo de referência datado; consta apenas em verbete enciclopédico, ao lado da meta de 10 anos registrada no plano.",
+    "renan-santos: o resumo executivo de 51 páginas não detalha custo, cronograma nem instrumento das propostas de previdência, assistência e desfavelização — a obra integral (mais de 500 páginas) não está pública.",
+    "leonardo-avalanche: as negociações partidárias de 2026 (manutenção e posterior saída da coligação de Marconi Perillo em Goiás) aparecem em notas e imprensa regional, sem atas, registro de coligação estadual anexado ou documento oficial do partido no pool de fontes consultado.",
+    "leonardo-avalanche: atas do congresso de agosto de 2025 e o inteiro teor das decisões sobre a presidência nacional não foram localizados; a linha se apoia em notícias e na certidão de junho de 2026.",
+    "augusto-cury: o plano registrado não detalha custo, forma de contratação e governança dos programas de gestão da emoção nem cronograma de eventual emenda constitucional do semipresidencialismo; a única fonte sobre a 'PEC Bomba Nuclear' de parlamentar do Missão usada no item de Renan Santos é uma checagem jornalística.",
+    "augusto-cury: a divergência entre plano, Lattes e declaração pública sobre a titulação não tem processo, sanção ou decisão judicial localizada, e a assessoria não respondeu à imprensa em setembro de 2026.",
+    "clariana-barao: não foi localizado, no plano registrado nem em entrevistas, tratamento do financiamento de campanha ou do Fundo Eleitoral; tampouco atas do processo interno que substituiu três cabeças de chapa no mesmo ciclo.",
+    "clariana-barao: as atividades em conselhos municipais de Várzea Grande (saúde e assistência social) constam de páginas com bloqueio WAF, lidas por resumo indexado — sem atas ou relatórios no pool.",
+    "samara-martins: a versão de 67 páginas do programa não consta como o arquivo registrado no TSE nas fontes consultadas (link oficial bloqueado; texto lido em espelho da campanha); não foi localizada explicação de custeio das medidas trabalhistas e salariais.",
+    "samara-martins e clariana-barao: o cargo de direção partidária estadual/nacional não tem data de início documentada em registro do TSE no pool consultado (início da diretoria da UP não informado; presidência do DC em MT registrada apenas como 2026)."
+  ]
 }

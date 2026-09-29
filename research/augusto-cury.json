@@ -2184,6 +2184,106 @@
       "accessedAt": "2026-09-29",
       "sourceType": "editorial",
       "notes": "Texto promocional de editora sobre a obra do candidato (traduções e vendas). Usado apenas como apoio para a projeção internacional declarada; não é reportagem nem dado auditado."
+    },
+    {
+      "id": "src-ac-20",
+      "title": "Debate presidencial tem críticas ao STF e propostas sobre segurança e economia",
+      "publisher": "A Crítica",
+      "url": "https://acritica.net/eleicoes-2026/debate-presidencial-tem-criticas-ao-stf-e-propostas-sobre-seguranca-e-economia/",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Debate promovido pelo Flow Podcast em 21/09/2026 (Caiado, Cury e Zema): Cury defendeu integração entre as polícias Civil e Militar, valorização dos profissionais e uso de novas tecnologias, e questionou dados de feminicídio de Goiás em pergunta a Caiado."
+    },
+    {
+      "id": "src-ac-21",
+      "title": "Mandato de 8 anos e magistrados de carreira: Cury defende reforma no STF",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/mandato-de-8-anos-e-magistrados-de-carreira-cury-defende-reforma-no-stf",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Página com proteção antibot: o acesso por linha de comando devolve conteúdo sem o texto da matéria. Existência, veículo e título foram confirmados pelo índice de busca. A proposta de reforma do STF (fim da vitaliciedade, mandato de 8 anos e composição majoritária pela magistratura) consta do plano registrado no TSE (src-ac-23); o levantamento do Poder360 sobre as posições em relação ao STF atribui a apresentação a entrevista de 07/03/2026 ao Metrópoles."
+    },
+    {
+      "id": "src-ac-24",
+      "title": "Augusto Cury cresce nas redes e levanta suspeita de rivais",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/08/cury-inunda-redes-sociais-com-influenciadores-dispara-em-pesquisa-e-levanta-suspeita-entre-adversarios.shtml",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Chamada do próprio veículo: 'Cury inunda redes sociais com influenciadores, dispara em pesquisa e levanta suspeita entre adversários'; o subtítulo registra 11% no levantamento BTG/Nexus e ganho de 2,5 milhões de seguidores no Instagram em duas semanas; o candidato negou o uso de robôs em agenda pública (31/08) e o marqueteiro Sergio Lima atribuiu o desempenho a adesão espontânea."
+    },
+    {
+      "id": "src-ac-27",
+      "title": "DX na Mídia — compilação de levantamentos sobre a campanha de 2026 (impulsionamento pago e ecossistema evangélico)",
+      "publisher": "Instituto Democracia em Xeque (compilação de reportagens: Termômetro da Política, Casa Galileia, Policy Livre)",
+      "url": "https://institutodx.org/dx-na-midia/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Página-agregadora que reproduz levantamentos e reportagens de terceiros: relatório Casa Galileia/Instituto Democracia em Xeque sobre 573 perfis monitorados entre 17 e 30/08 (19.429 publicações, cerca de 135,4 milhões de interações no ecossistema evangélico) e item sobre o gasto de R$ 116 mil com impulsionamento na Meta, atribuído ao g1. Os relatórios originais não foram abertos por linha de comando."
+    },
+    {
+      "id": "src-ac-26",
+      "title": "Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
+      "publisher": "BBC News Brasil (cobertura ao vivo)",
+      "url": "https://www.bbc.com/portuguese/live/cmlyqyl0d3z7t",
+      "publishedAt": "2026-08-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra falas de Cury no primeiro debate presidencial: 'pior do que o crime organizado é o Estado desorganizado'; projeto 'Força de alerta total' para a Polícia Federal sem interferência política; encerramento com apresentação ao eleitor."
+    },
+    {
+      "id": "src-ac-25",
+      "title": "Como a propaganda eleitoral na TV evoluiu ao longo do tempo (tempo de TV por candidato em 2026)",
+      "publisher": "Nexo Jornal",
+      "url": "https://www.nexojornal.com.br/story/historia-televisao-eleicoes-2026-propaganda-eleitoral",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento sobre o horário eleitoral de 2026: registra 'Augusto Cury, do Avante (sem coligação): 35 segundos' e analisa o peso do espaço televisivo ante as redes sociais; o artigo lista apenas quatro legendas com tempo de TV."
+    },
+    {
+      "id": "src-ac-91",
+      "title": "Programa Escola da Inteligência desenvolve a consciência emocional de forma lúdica e divertida",
+      "publisher": "Prefeitura de Cuiabá",
+      "url": "https://cuiaba.mt.gov.br/noticias/programa-escola-da-inteligencia-desenvolve-a-consciencia-emocional-de-forma-ludica-e-divertida",
+      "publishedAt": "2018-04-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Registro oficial do lançamento do programa idealizado por Augusto Cury na rede municipal, em estágio piloto com cinco mil alunos de oito escolas."
+    },
+    {
+      "id": "src-ac-92",
+      "title": "Programa Escola da Inteligência: desenvolva a educação socioemocional em seu colégio!",
+      "publisher": "Escola da Inteligência (site do programa idealizado por Augusto Cury)",
+      "url": "https://escoladainteligencia.com.br/blog/programa-escola-da-inteligencia",
+      "publishedAt": "2021-04-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Material de divulgação do próprio programa: 'mais de 1 mil escolas conveniadas, 300 mil estudantes e 1,2 milhão de pessoas impactadas'; aplicação como disciplina ou dentro de matéria existente."
+    },
+    {
+      "id": "src-ac-90",
+      "title": "Augusto Cury, candidato do Avante, concede entrevista à Globo",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/augusto-cury-entrevista-globo.ghtml",
+      "publishedAt": "2026-08-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sabatina de 29/08/2026: ampliar a educação em tempo integral incorporando gestão da emoção, educação financeira e empreendedorismo ao currículo; meta de 10 milhões de novos empreendedores; reajuste do salário mínimo e corte de ministérios."
+    },
+    {
+      "id": "src-ac-93",
+      "title": "Diretrizes e propostas de governo para a presidência do Brasil",
+      "publisher": "Migalhas",
+      "url": "https://www.migalhas.com.br/depeso/462757/diretrizes-e-propostas-de-governo-para-a-presidencia-do-brasil",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Análise comparativa de diretrizes dos presidenciáveis; registra que Cury prioriza déficit zero e empreendedorismo e é o único a defender o semipresidencialismo. Ano apenas; dia/mês não capturados."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2214,7 +2314,31 @@
     "leonardo-avalanche: nenhuma posição de política externa localizada em plano registrado, sabatinas e imprensa de 2026; nenhuma experiência internacional e nenhuma projeção em veículo estrangeiro de referência (apenas agregadores em inglês).",
     "augusto-cury: sem posição localizada sobre Rússia/Ucrânia, Venezuela, África e Índia; afirmações de projeção internacional (livros em dezenas de países, prêmio na Academia Chinesa de Literatura, TOUCHPEACE em 100 países) vêm do próprio plano e de material promocional de editora, sem checagem independente.",
     "clariana-barao: sem posição documentada sobre EUA, China, Brics, Mercosul, União Europeia, conflitos e clima; o plano registrado não tem capítulo de política externa e a entrevista à Sputnik Brasil (26/08/2026) tratou apenas de pauta doméstica.",
-    "grupo g2 (renan-santos, leonardo-avalanche, augusto-cury, clariana-barao): nenhum dos quatro tem passagem por governo federal, cargo diplomático ou negociação internacional conduzida em nome do Estado — a experiência internacional registrada é de interlocução como candidato (Renan Santos com o corpo diplomático e imprensa estrangeira) e de atividade editorial/programas sociais (Augusto Cury); para Avalanche e Clariana não há experiência internacional documentada."
+    "grupo g2 (renan-santos, leonardo-avalanche, augusto-cury, clariana-barao): nenhum dos quatro tem passagem por governo federal, cargo diplomático ou negociação internacional conduzida em nome do Estado — a experiência internacional registrada é de interlocução como candidato (Renan Santos com o corpo diplomático e imprensa estrangeira) e de atividade editorial/programas sociais (Augusto Cury); para Avalanche e Clariana não há experiência internacional documentada.",
+    "Nenhum dos cinco candidatos exerceu mandato executivo: não há evidência de comunicação de governo (porta-voz de pasta, coletiva de balanço, prestação de contas de gestão) nem de decisão estratégica de governo — a base é de campanha, de partido e de movimento.",
+    "Páginas com bloqueio no acesso por linha de comando usadas na checagem, com o tratamento dado: Band ('fraldas' no debate) e A Verdade (atos de pré-campanha) — endereço e chamada confirmados pelo índice de busca e por veículos paralelos; Metrópoles (reforma do STF de Cury) e Poder360 (posições sobre o STF) — página antibot, verificação pelo título indexado e pelo plano registrado; Folha (entrevista de 08/04 de Samara) — título e chamada na própria página, corpo sob assinatura. Nenhum desses itens é usado como evidência isolada de fato não corroborado.",
+    "Renan Santos: as métricas das páginas de redes (inscrições e número de vídeos) são renderizadas por JavaScript e não foram capturadas na leitura por linha de comando; por isso nenhum número de alcance digital do candidato é usado nas evidências desta rodada.",
+    "Renan Santos: a rodada de sabatinas de agosto de 2026 foi conferida por publicação de trechos em veículo secundário (Investidor10) porque a página original não foi recuperada por linha de comando.",
+    "Leonardo Avalanche: as duas capacidades ficaram parciais — não foi localizado documento público do PRTB com o programa item a item (proposta, custo, prazo) nem transcrição de debate com o candidato como titular da chapa; a reconstituição usa sabatina, notas do partido e cobertura de imprensa.",
+    "Leonardo Avalanche: a agenda de campanha não é divulgada de forma sistemática; o único registro localizado é o acompanhamento de movimentação feito por veículos nacionais, que aponta ausência de divulgação de agenda pública em fim de semana de setembro.",
+    "Augusto Cury: os números de impulsionamento pago e de alcance em redes usados aqui vêm de página-agregadora que reproduz relatórios de terceiros (Casa Galileia/IDX) e de reportagem da Folha; os relatórios originais não foram abertos por linha de comando.",
+    "Augusto Cury: a entrevista de 07/03/2026 em que apresentou a reforma do STF não pôde ser lida na página do veículo (bloqueio antibot) e não tem cópia em arquivo público; a proposta foi confirmada pelo plano registrado no TSE.",
+    "Clariana Barão: a matriz de implementação por horizontes citada na análise (referência ao 'Ano 4') vem de dossiê independente (Plano Aberto) e não foi conferida nas páginas do plano registrado; o documento é autodeclarado preliminar, sem metas numéricas e sem custos por proposta.",
+    "Samara Martins: o documento programático registrado no TSE foi inicialmente a versão de 2022 e depois corrigido; o PDF do programa não foi lido em texto (arquivo de 1,4 MB que não se converte por extração simples na checagem por linha de comando).",
+    "Samara Martins: o episódio de recusa de debate com o PCO consta apenas de publicação do partido adversário, sem confirmação independente localizada.",
+    "Tempo de TV: no levantamento consultado, apenas Augusto Cury aparece com tempo no horário eleitoral (35 segundos, sem coligação); Renan Santos, Leonardo Avalanche, Clariana Barão e Samara Martins não constam, e a comunicação dessas candidaturas se dá por entrevistas, debates, atos e redes.",
+    "Custo, cronograma e linha de base por meta não estão declarados nos documentos registrados de nenhum dos cinco candidatos; os horizontes de prazo citados são declarações do próprio candidato (Renan Santos, Augusto Cury) ou estrutura em eixos e matriz de horizontes (Clariana Barão) e programa de 25 pontos (Samara Martins).",
+    "renan-santos: não foi localizada fonte primária (entrevista, artigo assinado ou documento do MBL) para o apoio do movimento à reforma da Previdência de 2019 — o item se apoia em verbete enciclopédico, acompanhado das fontes de 2026, e por isso é marcado como parcial.",
+    "renan-santos: a declaração anterior de desfavelização em até 30 anos não foi localizada em veículo de referência datado; consta apenas em verbete enciclopédico, ao lado da meta de 10 anos registrada no plano.",
+    "renan-santos: o resumo executivo de 51 páginas não detalha custo, cronograma nem instrumento das propostas de previdência, assistência e desfavelização — a obra integral (mais de 500 páginas) não está pública.",
+    "leonardo-avalanche: as negociações partidárias de 2026 (manutenção e posterior saída da coligação de Marconi Perillo em Goiás) aparecem em notas e imprensa regional, sem atas, registro de coligação estadual anexado ou documento oficial do partido no pool de fontes consultado.",
+    "leonardo-avalanche: atas do congresso de agosto de 2025 e o inteiro teor das decisões sobre a presidência nacional não foram localizados; a linha se apoia em notícias e na certidão de junho de 2026.",
+    "augusto-cury: o plano registrado não detalha custo, forma de contratação e governança dos programas de gestão da emoção nem cronograma de eventual emenda constitucional do semipresidencialismo; a única fonte sobre a 'PEC Bomba Nuclear' de parlamentar do Missão usada no item de Renan Santos é uma checagem jornalística.",
+    "augusto-cury: a divergência entre plano, Lattes e declaração pública sobre a titulação não tem processo, sanção ou decisão judicial localizada, e a assessoria não respondeu à imprensa em setembro de 2026.",
+    "clariana-barao: não foi localizado, no plano registrado nem em entrevistas, tratamento do financiamento de campanha ou do Fundo Eleitoral; tampouco atas do processo interno que substituiu três cabeças de chapa no mesmo ciclo.",
+    "clariana-barao: as atividades em conselhos municipais de Várzea Grande (saúde e assistência social) constam de páginas com bloqueio WAF, lidas por resumo indexado — sem atas ou relatórios no pool.",
+    "samara-martins: a versão de 67 páginas do programa não consta como o arquivo registrado no TSE nas fontes consultadas (link oficial bloqueado; texto lido em espelho da campanha); não foi localizada explicação de custeio das medidas trabalhistas e salariais.",
+    "samara-martins e clariana-barao: o cargo de direção partidária estadual/nacional não tem data de início documentada em registro do TSE no pool consultado (início da diretoria da UP não informado; presidência do DC em MT registrada apenas como 2026)."
   ],
   "capacities": [
     {
@@ -3233,6 +3357,368 @@
       "question": "Consegue trabalhar entre instituições, níveis de governo e organizações?",
       "coverage": "parcial",
       "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "comunicacao-publica",
+      "synthesis": "Expõe propostas em entrevistas e debates de alcance nacional e sustenta campanha digital com impulsionamento pago e rede de influenciadores (ago/2026). Usa direito de resposta em veículo de imprensa e tem 35 segundos de tempo no horário eleitoral de TV.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-comunicacao-publica-cury-01",
+          "kind": "historico",
+          "title": "Rodada de entrevistas em veículos nacionais: TV Globo (29/08) e sabatina do Flow Podcast (21/09)",
+          "role": "candidato (Avante), entrevistado em série de entrevistas com presidenciáveis",
+          "complexity": "duas entrevistas de alcance nacional em semanas distintas, com temas de salário mínimo, estrutura de ministérios, telemedicina, segurança pública e feminicídio",
+          "outcome": "explicou propostas (reajuste do mínimo pela inflação, corte de 8 a 10 ministérios, telemedicina no SUS) e, no debate do Flow, defendeu integração entre as polícias Civil e Militar e questionou dados de feminicídio de um estado governado por adversário",
+          "period": "2026-08 a 2026-09",
+          "context": "a entrevista à Globo ocorreu dentro da série de entrevistas com os seis candidatos mais bem colocados em pesquisa",
+          "sources": [
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+            },
+            {
+              "id": "src-ac-20",
+              "title": "Debate presidencial tem críticas ao STF e propostas sobre segurança e economia",
+              "publisher": "A Crítica",
+              "url": "https://acritica.net/eleicoes-2026/debate-presidencial-tem-criticas-ao-stf-e-propostas-sobre-seguranca-e-economia/",
+              "publishedAt": "2026-09-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Debate promovido pelo Flow Podcast em 21/09/2026 (Caiado, Cury e Zema): Cury defendeu integração entre as polícias Civil e Militar, valorização dos profissionais e uso de novas tecnologias, e questionou dados de feminicídio de Goiás em pergunta a Caiado."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-comunicacao-publica-cury-02",
+          "kind": "historico",
+          "title": "Reforma do STF apresentada publicamente: mandato de 8 anos, fim da vitaliciedade e composição pela magistratura",
+          "role": "pré-candidato, entrevistado pelo Metrópoles",
+          "complexity": "proposta de fim da vitaliciedade com mandatos de 8 a 10 anos, composição definida por magistratura, Ministério Público e OAB e fim da transmissão ao vivo dos julgamentos; registrada também no plano de governo protocolado no TSE",
+          "outcome": "proposta divulgada na entrevista e incluída em levantamento nacional sobre a posição dos pré-candidatos em relação ao STF; o candidato declarou que pretende 'provocar o Congresso' para a reforma",
+          "period": "2026-03",
+          "context": "o acesso às páginas do veículo que publicou a entrevista ficou bloqueado por proteção antibot na checagem por linha de comando; a verificação usa o título indexado do veículo, o levantamento do Poder360 sobre as posições em relação ao STF e o plano registrado (src-ac-23), que traz a proposta entre os itens que dependem de emenda constitucional",
+          "sources": [
+            {
+              "id": "src-ac-21",
+              "title": "Mandato de 8 anos e magistrados de carreira: Cury defende reforma no STF",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/mandato-de-8-anos-e-magistrados-de-carreira-cury-defende-reforma-no-stf",
+              "publishedAt": "2026-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Página com proteção antibot: o acesso por linha de comando devolve conteúdo sem o texto da matéria. Existência, veículo e título foram confirmados pelo índice de busca. A proposta de reforma do STF (fim da vitaliciedade, mandato de 8 anos e composição majoritária pela magistratura) consta do plano registrado no TSE (src-ac-23); o levantamento do Poder360 sobre as posições em relação ao STF atribui a apresentação a entrevista de 07/03/2026 ao Metrópoles."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-comunicacao-publica-cury-03",
+          "kind": "historico",
+          "title": "Campanha digital com impulsionamento pago e rede de influenciadores (ago/2026)",
+          "role": "candidato e campanha do Avante",
+          "complexity": "gasto de ao menos R$ 116 mil em impulsionamento na Meta em 2026, com R$ 43.926 apenas na semana de 25 a 31/08; monitoramento de 573 perfis em cinco plataformas entre 17 e 30/08 registrou 19.429 publicações e cerca de 135,4 milhões de interações no ecossistema evangélico; ganho de 2,5 milhões de seguidores no Instagram em duas semanas e 11% no levantamento BTG/Nexus (31/08)",
+          "outcome": "crescimento registrado em pesquisas no período e suspeita levantada por campanhas adversárias de pagamento a influenciadores, negada pela campanha; o candidato negou publicamente o uso de robôs em 31/08",
+          "period": "2026-08",
+          "context": "o TSE autoriza propaganda paga na internet e veda impulsionamento de conteúdo negativo sobre adversários",
+          "sources": [
+            {
+              "id": "src-ac-24",
+              "title": "Augusto Cury cresce nas redes e levanta suspeita de rivais",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/08/cury-inunda-redes-sociais-com-influenciadores-dispara-em-pesquisa-e-levanta-suspeita-entre-adversarios.shtml",
+              "publishedAt": "2026-08-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Chamada do próprio veículo: 'Cury inunda redes sociais com influenciadores, dispara em pesquisa e levanta suspeita entre adversários'; o subtítulo registra 11% no levantamento BTG/Nexus e ganho de 2,5 milhões de seguidores no Instagram em duas semanas; o candidato negou o uso de robôs em agenda pública (31/08) e o marqueteiro Sergio Lima atribuiu o desempenho a adesão espontânea."
+            },
+            {
+              "id": "src-ac-27",
+              "title": "DX na Mídia — compilação de levantamentos sobre a campanha de 2026 (impulsionamento pago e ecossistema evangélico)",
+              "publisher": "Instituto Democracia em Xeque (compilação de reportagens: Termômetro da Política, Casa Galileia, Policy Livre)",
+              "url": "https://institutodx.org/dx-na-midia/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Página-agregadora que reproduz levantamentos e reportagens de terceiros: relatório Casa Galileia/Instituto Democracia em Xeque sobre 573 perfis monitorados entre 17 e 30/08 (19.429 publicações, cerca de 135,4 milhões de interações no ecossistema evangélico) e item sobre o gasto de R$ 116 mil com impulsionamento na Meta, atribuído ao g1. Os relatórios originais não foram abertos por linha de comando."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-comunicacao-publica-cury-04",
+          "kind": "historico",
+          "title": "Debate da Band (23/08): formulação própria e projeto para a Polícia Federal",
+          "role": "candidato, no primeiro debate presidencial de 2026",
+          "complexity": "debate de 1h30 com 3 dos 6 convidados; pergunta sorteada sobre qualidade da educação e bloco de confronto direto",
+          "outcome": "apresentou o projeto 'Força de alerta total' para a Polícia Federal sem interferência política, defendeu integração entre polícias e usou a formulação 'pior do que o crime organizado é o Estado desorganizado'; encerrou a participação 'se apresentando ao eleitor'",
+          "period": "2026-08-23",
+          "context": "o candidato respondeu à primeira pergunta de educação e usou o tempo de considerações finais para se apresentar ao eleitor",
+          "sources": [
+            {
+              "id": "src-ac-26",
+              "title": "Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
+              "publisher": "BBC News Brasil (cobertura ao vivo)",
+              "url": "https://www.bbc.com/portuguese/live/cmlyqyl0d3z7t",
+              "publishedAt": "2026-08-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra falas de Cury no primeiro debate presidencial: 'pior do que o crime organizado é o Estado desorganizado'; projeto 'Força de alerta total' para a Polícia Federal sem interferência política; encerramento com apresentação ao eleitor."
+            },
+            {
+              "id": "src-ac-20",
+              "title": "Debate presidencial tem críticas ao STF e propostas sobre segurança e economia",
+              "publisher": "A Crítica",
+              "url": "https://acritica.net/eleicoes-2026/debate-presidencial-tem-criticas-ao-stf-e-propostas-sobre-seguranca-e-economia/",
+              "publishedAt": "2026-09-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Debate promovido pelo Flow Podcast em 21/09/2026 (Caiado, Cury e Zema): Cury defendeu integração entre as polícias Civil e Militar, valorização dos profissionais e uso de novas tecnologias, e questionou dados de feminicídio de Goiás em pergunta a Caiado."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-comunicacao-publica-cury-05",
+          "kind": "historico",
+          "title": "Direito de resposta publicado no Observatório da Imprensa (jul/2026)",
+          "role": "candidato, autor da resposta",
+          "complexity": "resposta a artigo publicado em 16/07/2026, com esclarecimento sobre o uso do título de doutorado",
+          "outcome": "no texto, o candidato afirma que 'não apresenta esse título como doutorado acadêmico em Psicologia'; sobre a divergência entre o plano registrado no TSE e o currículo Lattes (Folha e Valor, 01/09/2026), a assessoria não respondeu aos veículos",
+          "period": "2026-07 a 2026-09",
+          "context": "o plano registrado declara doutorado em Psicologia Multifocal e o currículo Lattes registra PhD/Doctor of Business Administration em Administração pela mesma instituição",
+          "sources": [
+            {
+              "id": "src-ac-13",
+              "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+              "publisher": "Observatório da Imprensa",
+              "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+              "publishedAt": "2026-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Declaração do candidato sobre formação (DBA, PUC-SP, Illes Balears)."
+            },
+            {
+              "id": "src-ac-11",
+              "title": "Cury se contradiz sobre doutorado em psicologia / Augusto Cury declara doutorado em psicologia que não fez",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml",
+              "publishedAt": "2026-09-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Detalha a divergência entre plano de governo e Lattes e a falta de acreditação da FCU."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-comunicacao-publica-cury-06",
+          "kind": "historico",
+          "title": "Tempo de TV na propaganda eleitoral de 2026: 35 segundos, concorrendo sem coligação",
+          "role": "candidato (Avante, sem coligação)",
+          "complexity": "distribuição do horário eleitoral gratuito entre as legendas, conforme levantamento de 28/08/2026",
+          "outcome": "o candidato aparece com 35 segundos de tempo de TV, enquanto a comunicação da campanha se apoia em redes sociais, entrevistas e debates",
+          "period": "2026-08",
+          "context": "o levantamento registra que apenas quatro candidatos têm tempo de TV e que o consumo de rede social no Brasil é mais de entretenimento que informativo, segundo cientistas políticos ouvidos",
+          "sources": [
+            {
+              "id": "src-ac-25",
+              "title": "Como a propaganda eleitoral na TV evoluiu ao longo do tempo (tempo de TV por candidato em 2026)",
+              "publisher": "Nexo Jornal",
+              "url": "https://www.nexojornal.com.br/story/historia-televisao-eleicoes-2026-propaganda-eleitoral",
+              "publishedAt": "2026-08-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento sobre o horário eleitoral de 2026: registra 'Augusto Cury, do Avante (sem coligação): 35 segundos' e analisa o peso do espaço televisivo ante as redes sociais; o artigo lista apenas quatro legendas com tempo de TV."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Comunicação pública",
+      "question": "Consegue explicar prioridades, decisões e posições de forma compreensível e consistente?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "visao-estrategica",
+      "synthesis": "O plano 'O Brasil dos Nossos Sonhos' tem 18 tópicos em documento de 200 páginas registrado no TSE, com prioridades declaradas em educação, saúde digital, segurança, empreendedorismo e meio ambiente. Declara prazos de 4, 8–10 e 10–12 anos para metas de renda, salário mínimo e produção de alimentos.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-visao-estrategica-cury-01",
+          "kind": "proposta",
+          "title": "Plano 'O Brasil dos Nossos Sonhos': 18 tópicos em documento de 200 páginas registrado no TSE",
+          "role": "candidato e autor do documento",
+          "complexity": "documento registrado com o pedido de registro, com 18 tópicos de projetos; capítulos citados: educação, Brasil Neuroinclusivo, prevenção do feminicídio, empreendedorismo, combate à fome, saúde/telemedicina, energia (hidrogênio verde), terras raras, meio ambiente ('Floresta Viva') e segurança pública",
+          "outcome": "plano registrado e usado como base das entrevistas e do debate; as prioridades são as declaradas pelo próprio candidato nos capítulos",
+          "period": "2026",
+          "context": "o documento não individualiza propostas com custo e prazo por item, segundo a leitura da cobertura especializada",
+          "sources": [
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-visao-estrategica-cury-02",
+          "kind": "proposta",
+          "title": "Metas de prazo declaradas: renda per capita, salário mínimo e produção de alimentos",
+          "role": "candidato e plano registrado",
+          "complexity": "meta declarada de US$ 300 de renda per capita em 8 a 10 anos; reajuste do salário mínimo pela inflação mais 1% ao ano com ganho real acumulado em 4 anos; meta de produção de alimentos em 10 a 12 anos",
+          "outcome": "prazos declarados publicamente e registrados nas fontes, ligando medida de curto prazo (mínimo) a objetivos de longo prazo (renda per capita e alimentos)",
+          "period": "2026",
+          "context": "os prazos constam de declarações do candidato e do documento registrado; não há linha de base nem cronograma intermediário publicado",
+          "sources": [
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+            },
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "ev-cap-visao-estrategica-cury-03",
+          "kind": "proposta",
+          "title": "Reforma institucional proposta: semipresidencialismo e mandato de 8 anos para ministros do STF",
+          "role": "candidato",
+          "complexity": "dois itens estruturais registrados no plano, ambos dependentes de emenda constitucional; detalhamento da composição do STF apresentado em entrevista (magistratura, Ministério Público e OAB)",
+          "outcome": "apresentados em entrevistas e no documento como mudança do desenho institucional do Estado, com a intenção declarada de 'provocar o Congresso'",
+          "period": "2026",
+          "context": "a proposta inclui o fim da transmissão ao vivo dos julgamentos do STF, apresentada como meio de preservar a liberdade dos ministros",
+          "sources": [
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-ac-21",
+              "title": "Mandato de 8 anos e magistrados de carreira: Cury defende reforma no STF",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/mandato-de-8-anos-e-magistrados-de-carreira-cury-defende-reforma-no-stf",
+              "publishedAt": "2026-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Página com proteção antibot: o acesso por linha de comando devolve conteúdo sem o texto da matéria. Existência, veículo e título foram confirmados pelo índice de busca. A proposta de reforma do STF (fim da vitaliciedade, mandato de 8 anos e composição majoritária pela magistratura) consta do plano registrado no TSE (src-ac-23); o levantamento do Poder360 sobre as posições em relação ao STF atribui a apresentação a entrevista de 07/03/2026 ao Metrópoles."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-visao-estrategica-cury-04",
+          "kind": "proposta",
+          "title": "Enxugamento do Executivo: corte de 8 a 10 ministérios declarado como instrumento de ajuste",
+          "role": "candidato, entrevista de 29/08/2026",
+          "complexity": "redução da estrutura ministerial combinada ao reajuste do mínimo pela inflação mais 1% ao ano e à ampliação da telemedicina no SUS, com ganho real declarado em 4 anos",
+          "outcome": "apresentado como meio de sustentar o ajuste e reduzir a máquina; sem valores de economia declarados nas fontes localizadas",
+          "period": "2026",
+          "context": "a medida foi comunicada em rodada de entrevistas na TV, junto com as propostas de saúde digital",
+          "sources": [
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-visao-estrategica-cury-05",
+          "kind": "proposta",
+          "title": "Fundo Nacional do Empreendedor (R$ 30 a 50 bilhões) e meta de segurança alimentar em 10 a 12 anos",
+          "role": "candidato e plano",
+          "complexity": "único item do plano com quantificação localizada: fundo de R$ 30 a 50 bilhões, criação de ministério específico e meta de 10 mil escolas de empreendedorismo; meta de produção de alimentos ligada à agricultura familiar",
+          "outcome": "instrumento financeiro declarado como veículo do eixo de empreendedorismo, vinculado à meta de segurança alimentar de longo prazo",
+          "period": "2026",
+          "context": "o plano declara o objetivo de combate à fome 'no mundo' e vincula a meta à produção da agricultura familiar",
+          "sources": [
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            },
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Visão estratégica",
+      "question": "Consegue definir prioridades e conectar decisões de curto prazo a objetivos maiores?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
     }
   ],
   "countryProject": {
@@ -3369,5 +3855,313 @@
     "evidenceStatus": "parcial",
     "confidenceLevel": "medium",
     "methodology": "Extração do capítulo 15 ('Relações internacionais e diplomacia estratégica') e dos projetos de exportação, terras raras, segurança e agro do plano registrado no TSE 'O Brasil dos Nossos Sonhos' (200 páginas, lido integralmente a partir do espelho público em PDF), com cruzamento das respostas da campanha à Folha (12/09/2026). Confiança média: a política externa aparece em um capítulo do plano e em respostas pontuais à imprensa, sem custo, cronograma ou metas quantificadas por item (a única meta numérica localizada é dobrar o comércio com o mundo em oito anos). As afirmações de projeção internacional (livros em dezenas de países, prêmio na China, TOUCHPEACE em 100 países) vêm do próprio plano e de texto promocional de editora, sem checagem independente nesta rodada — por isso estão declaradas como declaração. Não há posição documentada localizada sobre Rússia/Ucrânia, Venezuela, África, Índia ou segurança europeia, e nenhuma posição foi inferida do partido Avante."
-  }
+  },
+  "coherence": [
+    {
+      "id": "coh-ac-formacao-declarada",
+      "theme": "formação acadêmica declarada",
+      "timeline": [
+        {
+          "year": "2013",
+          "position": "O plano de governo entregue ao TSE declara doutorado em Psicologia Multifocal pela Florida Christian University, concluído em 2013, com tese sobre o 'Programa Freemind'",
+          "sources": [
+            {
+              "id": "src-ac-11",
+              "title": "Cury se contradiz sobre doutorado em psicologia / Augusto Cury declara doutorado em psicologia que não fez",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml",
+              "publishedAt": "2026-09-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Detalha a divergência entre plano de governo e Lattes e a falta de acreditação da FCU."
+            },
+            {
+              "id": "src-ac-12",
+              "title": "Cury inclui no currículo entregue ao TSE doutorado internacional que não teria feito",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/cury-inclui-no-curriculo-entregue-ao-tse-doutorado-internacional-que-nao-teria-feito.ghtml",
+              "publishedAt": "2026-09-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Título do plano: 'O Brasil dos Nossos Sonhos'; LinkedIn: pós-graduação PUC-SP e Marmottan."
+            }
+          ]
+        },
+        {
+          "year": "2026-07",
+          "position": "Em direito de resposta publicado em julho de 2026, o candidato escreveu: 'Não apresento esse título como doutorado acadêmico em Psicologia'",
+          "sources": [
+            {
+              "id": "src-ac-13",
+              "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+              "publisher": "Observatório da Imprensa",
+              "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+              "publishedAt": "2026-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Declaração do candidato sobre formação (DBA, PUC-SP, Illes Balears)."
+            }
+          ]
+        },
+        {
+          "year": "2026-09",
+          "position": "O currículo Lattes registra PhD/DBA em Administração pela mesma instituição; Folha e Valor noticiaram a divergência em 01/09/2026 e a assessoria não respondeu por que a informação incorreta consta do documento registrado",
+          "sources": [
+            {
+              "id": "src-ac-11",
+              "title": "Cury se contradiz sobre doutorado em psicologia / Augusto Cury declara doutorado em psicologia que não fez",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml",
+              "publishedAt": "2026-09-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Detalha a divergência entre plano de governo e Lattes e a falta de acreditação da FCU."
+            },
+            {
+              "id": "src-ac-12",
+              "title": "Cury inclui no currículo entregue ao TSE doutorado internacional que não teria feito",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/cury-inclui-no-curriculo-entregue-ao-tse-doutorado-internacional-que-nao-teria-feito.ghtml",
+              "publishedAt": "2026-09-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Título do plano: 'O Brasil dos Nossos Sonhos'; LinkedIn: pós-graduação PUC-SP e Marmottan."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "Explicação pública registrada em julho de 2026, quando ele afirmou não apresentar o título como doutorado acadêmico em Psicologia; em setembro de 2026 a assessoria não respondeu à imprensa sobre a permanência da informação no plano.",
+      "statedPosition": "Afirma que sua formação é técnica e que não apresenta o título obtido no exterior como doutorado acadêmico em Psicologia.",
+      "proposedAction": "Não há proposta de governo diretamente vinculada; o documento em que consta a declaração de título é o próprio plano registrado na Justiça Eleitoral.",
+      "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo de nomeação. O marco é o documento assinado e entregue à Justiça Eleitoral em agosto de 2026 (ato de campanha, não de gestão).",
+      "tensionNote": "Há divergência documentada entre o plano entregue ao TSE (doutorado em Psicologia Multifocal), o currículo Lattes (PhD/DBA em Administração pela mesma instituição) e a declaração pública do próprio candidato de julho de 2026, que negava apresentar o título como doutorado acadêmico em Psicologia; não há processo, sanção ou decisão judicial sobre o ponto nas fontes consultadas. Registro categórico, sem juízo.",
+      "methodology": "Coerência entre três documentos públicos: plano registrado, direito de resposta do candidato e currículo Lattes, com as reportagens de Folha e Valor que confrontam os dois primeiros. Sem exercício de mandato em qualquer nível; o 'histórico' são os próprios documentos de sua autoria.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    },
+    {
+      "id": "coh-ac-gestao-da-emocao",
+      "theme": "gestão da emoção no currículo escolar",
+      "timeline": [
+        {
+          "year": "2018",
+          "position": "O programa 'Escola da Inteligência', idealizado por Augusto Cury, foi lançado na rede municipal de Cuiabá em estágio piloto com cinco mil alunos de oito escolas",
+          "sources": [
+            {
+              "id": "src-ac-91",
+              "title": "Programa Escola da Inteligência desenvolve a consciência emocional de forma lúdica e divertida",
+              "publisher": "Prefeitura de Cuiabá",
+              "url": "https://cuiaba.mt.gov.br/noticias/programa-escola-da-inteligencia-desenvolve-a-consciencia-emocional-de-forma-ludica-e-divertida",
+              "publishedAt": "2018-04-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Registro oficial do lançamento do programa idealizado por Augusto Cury na rede municipal, em estágio piloto com cinco mil alunos de oito escolas."
+            }
+          ]
+        },
+        {
+          "year": "2021",
+          "position": "Material do próprio programa informa 'mais de 1 mil escolas conveniadas, 300 mil estudantes e 1,2 milhão de pessoas impactadas'",
+          "sources": [
+            {
+              "id": "src-ac-92",
+              "title": "Programa Escola da Inteligência: desenvolva a educação socioemocional em seu colégio!",
+              "publisher": "Escola da Inteligência (site do programa idealizado por Augusto Cury)",
+              "url": "https://escoladainteligencia.com.br/blog/programa-escola-da-inteligencia",
+              "publishedAt": "2021-04-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Material de divulgação do próprio programa: 'mais de 1 mil escolas conveniadas, 300 mil estudantes e 1,2 milhão de pessoas impactadas'; aplicação como disciplina ou dentro de matéria existente."
+            }
+          ]
+        },
+        {
+          "year": "2026-08",
+          "position": "O plano e a campanha propõem incorporar 'gestão da emoção', educação financeira e empreendedorismo ao currículo e ampliar a educação em tempo integral",
+          "sources": [
+            {
+              "id": "src-ac-90",
+              "title": "Augusto Cury, candidato do Avante, concede entrevista à Globo",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/augusto-cury-entrevista-globo.ghtml",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina de 29/08/2026: ampliar a educação em tempo integral incorporando gestão da emoção, educação financeira e empreendedorismo ao currículo; meta de 10 milhões de novos empreendedores; reajuste do salário mínimo e corte de ministérios."
+            },
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+            }
+          ]
+        },
+        {
+          "year": "2026-09",
+          "position": "Em Itajaí (SC), os programas 'Escola da Inteligência' e 'Gênios Socioemocional' foram substituídos pelo 'Vida na Escola', que abrange 27 mil estudantes, após levantamento local apontar R$ 39 milhões em gastos municipais com programas ligados ao autor",
+          "sources": [
+            {
+              "id": "src-ac-74",
+              "title": "Programa de Augusto Cury é cancelado em Itajaí",
+              "publisher": "DIARINHO",
+              "url": "https://diarinho.net/materia/675213/Programa-de-Augusto-Cury-e-cancelado-em-Itajai",
+              "publishedAt": "2026-09-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Prefeitura substituiu os programas 'Escola da Inteligência' e 'Gênios Socioemocional' pelo 'Vida na Escola', abrangendo 27 mil estudantes."
+            },
+            {
+              "id": "src-ac-75",
+              "title": "Itajaí desembolsa R$ 39 milhões em gastos com programas ligados a Augusto Cury",
+              "publisher": "DIARINHO",
+              "url": "https://diarinho.net/materia/674946/Itajai-desembolsa-R--39-milhoes-em-gastos-com-programas-ligados-a-Augusto-Cury",
+              "publishedAt": "2026-09-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento local sobre gastos municipais com os programas."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "Não foi localizada explicação pública do candidato sobre a substituição em Itajaí nem sobre o custo federal da proposta de inclusão no currículo nacional.",
+      "statedPosition": "Sustenta que a gestão da emoção deve integrar a educação básica como política de prevenção à ansiedade, à violência e ao suicídio.",
+      "proposedAction": "Inclusão de gestão da emoção/educação socioemocional no currículo, com ensino integral, e o 'Projeto Brasil Neuroinclusivo'; custo e forma de contratação não estão descritos nas fontes consultadas.",
+      "historicalAction": "HISTÓRICO — atos da trajetória privada, não de mandato: criação e licenciamento do programa educacional de sua autoria a redes municipais e escolas conveniadas, com contratos firmados por prefeituras. Nunca exerceu cargo público eletivo ou de nomeação.",
+      "tensionNote": "A proposta converte em política nacional um conteúdo que já é licenciado a prefeituras e escolas por empresas ligadas ao próprio autor — a Folha registrou R$ 19,9 milhões faturados por empresa da filha em negócios com prefeituras — e, em setembro de 2026, o programa foi substituído por outro em Itajaí; as fontes consultadas não detalham custo federal, forma de contratação ou regra de conflito de interesse. Registro de fatos, sem juízo.",
+      "methodology": "Coerência entre a trajetória privada documentada (registro oficial de aplicação em rede municipal e material do próprio programa), a proposta registrada em 2026 e os fatos municipais de 2026. Sem mandato exercido: o histórico são contratos e convênios com prefeituras, atos da esfera privada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium"
+    },
+    {
+      "id": "coh-ac-semipresidencialismo",
+      "theme": "semipresidencialismo e mandato no STF",
+      "timeline": [
+        {
+          "year": "2026-08",
+          "position": "Chapa com o vice Júlio Delgado (ex-deputado federal por MG) anunciada em 05/08/2026; o candidato atribui ao vice as propostas de mudança de regime",
+          "sources": [
+            {
+              "id": "src-ac-42",
+              "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-36",
+              "title": "Augusto Cury Names Júlio Delgado as Running Mate for Brazil Presidency",
+              "publisher": "Today in Brazil (relato da carta à nação divulgada pela CNN Brasil)",
+              "url": "https://todayinbrazil.com/article/augusto-cury-names-julio-delgado-running-mate-msgmzvhp",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "year": "2026-09",
+          "position": "Plano e declarações propõem semipresidencialismo, com presidente em funções estratégicas e primeiro-ministro na administração, mandato de oito anos para ministros do STF em vez da vitaliciedade e substituição do chanceler por secretário de Estado",
+          "sources": [
+            {
+              "id": "src-ac-06",
+              "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Setembro/2026; dia exato não capturado."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "Não foi localizada explicação pública com desenho de transição, data de vigência ou fórmula de escolha e recondução de ministros.",
+      "statedPosition": "Defende o semipresidencialismo e o fim da vitaliciedade no STF como forma de reduzir a concentração de poder na Presidência.",
+      "proposedAction": "Emenda constitucional para adotar o semipresidencialismo e fixar mandato de oito anos para ministros do STF — propostas que ele atribui ao vice.",
+      "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: 2026 é sua primeira candidatura e ele nunca exerceu mandato ou cargo de nomeação, de modo que não há votação, relatoria ou decisão administrativa a comparar.",
+      "tensionNote": "As duas mudanças dependem de emenda constitucional e o plano registrado não apresenta, nas fontes consultadas, texto-base, cronograma ou estimativa de efeito; a autoria declarada das propostas é do vice, e não foi localizado documento em que o candidato as assuma como suas. Registro sem juízo.",
+      "methodology": "Item baseado na reportagem da Agência Brasil sobre as propostas e no anúncio da chapa; a ausência de histórico de mandato está declarada, com o marco de trajetória limitado a atos de campanha e à produção editorial do candidato.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    },
+    {
+      "id": "coh-ac-salario-minimo-e-metas",
+      "theme": "salário mínimo, metas e financiamento",
+      "timeline": [
+        {
+          "year": "2026-08",
+          "position": "Em sabatina (29/08/2026) declarou que reajustaria o salário mínimo pela inflação mais 1% ao ano e estimou ganho real acumulado de 50% a 60% em quatro anos, com projeção de US$ 300 em 8 a 10 anos",
+          "sources": [
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+            }
+          ]
+        },
+        {
+          "year": "2026-08",
+          "position": "O plano registrado reúne propostas para 18 áreas, prevê corte de 8 a 10 ministérios e criação de ministério do empreendedorismo, com Fundo Nacional do Empreendedor de R$ 30 bilhões a R$ 50 bilhões e meta de 10 mil escolas de empreendedorismo",
+          "sources": [
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+            },
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+            }
+          ]
+        },
+        {
+          "year": "2026",
+          "position": "Análise comparativa das diretrizes registra que o candidato prioriza 'déficit zero' e empreendedorismo e é o único a defender o semipresidencialismo",
+          "sources": [
+            {
+              "id": "src-ac-93",
+              "title": "Diretrizes e propostas de governo para a presidência do Brasil",
+              "publisher": "Migalhas",
+              "url": "https://www.migalhas.com.br/depeso/462757/diretrizes-e-propostas-de-governo-para-a-presidencia-do-brasil",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Análise comparativa de diretrizes dos presidenciáveis; registra que Cury prioriza déficit zero e empreendedorismo e é o único a defender o semipresidencialismo. Ano apenas; dia/mês não capturados."
+            }
+          ]
+        }
+      ],
+      "publicExplanation": "Não foi localizada explicação pública que concilie a regra de reajuste declarada (inflação mais 1% ao ano) com o ganho real acumulado estimado em 50% a 60% em quatro anos.",
+      "statedPosition": "Promete ganho real no salário mínimo acima da inflação e 'déficit zero' como prioridade fiscal.",
+      "proposedAction": "Reajuste do salário mínimo pela inflação mais 1% ao ano; corte de 8 a 10 ministérios; criação de ministério do empreendedorismo, de fundo de R$ 30–50 bilhões e de 10 mil escolas de empreendedorismo.",
+      "historicalAction": "HISTÓRICO — nenhum ato praticado em cargo público: nunca exerceu mandato nem cargo executivo, não havendo política salarial, orçamentária ou fiscal praticada por ele. Os marcos são declarações de campanha e o documento registrado.",
+      "tensionNote": "A regra declarada (inflação mais 1% ao ano) e o ganho real acumulado estimado pelo próprio candidato (50% a 60% em quatro anos) constam do mesmo ato de campanha e descrevem magnitudes de ordem diferente; o plano não traz cronograma por meta. A criação de fundo de R$ 30–50 bilhões e de 10 mil escolas convive com a prioridade declarada de 'déficit zero', sem detalhamento da compensação nas fontes consultadas. Registro de fatos, sem juízo.",
+      "methodology": "Duas fontes de campanha (sabatina da Globo em 29/08/2026 e plano registrado) mais uma análise editorial que resume as diretrizes fiscais. Cury nunca exerceu mandato: o item compara declarações e documentos, não decisões de governo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
+  ]
 }

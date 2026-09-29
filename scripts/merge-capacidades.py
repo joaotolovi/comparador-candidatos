@@ -183,6 +183,17 @@ def main():
             # 1) fontes novas referenciadas pelo patch entram no pool do candidato
             for ref in refs_of(block):
                 if ref in pool:
+                    # GATE: id já existente redefinido com outra URL = citação enganosa
+                    # (a evidência passaria a apontar para a fonte errada). Renumerar o patch.
+                    novo = patch_pool.get(ref)
+                    if novo is not None:
+                        url_pool = (pool[ref].get("url") or "").strip()
+                        url_novo = (novo.get("url") or "").strip()
+                        if url_pool and url_novo and url_pool != url_novo:
+                            errs.append(
+                                f"{patch_name}/{slug}: id de fonte {ref!r} reutilizado com URL "
+                                f"diferente ({url_pool[:55]} != {url_novo[:55]}) — renumerar no patch"
+                            )
                     continue
                 if ref in patch_pool:
                     pool[ref] = patch_pool[ref]

@@ -1,23 +1,504 @@
 {
   "grupo": "g3",
   "escopo": "capacidade:comunicacao-publica,capacidade:visao-estrategica",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-ec-87",
+      "title": "Imprensa Popular — verbete da Hemeroteca Digital (jornal do PCB, 1948–1958; relançado em 2005)",
+      "publisher": "Biblioteca Nacional — BNDigital / Hemeroteca (texto de Bruno Brasil)",
+      "url": "https://bndigital.bn.gov.br/artigos/imprensa-popular/",
+      "publishedAt": "2016-11-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Registra que o PCB reviveu o título em 2005 e que, nessa fase, o jornal foi dirigido por Eduardo Serra, Edmilson Costa e Ivan Pinheiro, circulando mensalmente em formato tabloide de 12 páginas, impresso a cores e aparentemente distribuído de graça; descreve a redação e o corpo editorial da publicação original (1948–1958). Acesso direto respondeu 403 em 29/09/2026; conteúdo lido em trecho integral retornado por busca (o mesmo texto é citado por indexadores do verbete)."
+    },
+    {
+      "id": "src-ec-88",
+      "title": "Jornal O Poder Popular — arquivo de edições (Nº 101 a Nº 109, 2026)",
+      "publisher": "Partido Comunista Brasileiro (PCB) — portal oficial",
+      "url": "https://pcb.org.br/portal2/category/s10-internacional/america-latina/s8-brasil/s4-pcb/c140-jornal-o-poder-popular",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Página de arquivo do jornal do PCB com numeração sequencial de edições (a Nº 105 é identificada como maio de 2026 e a Nº 109 como setembro de 2026) e 28 páginas de arquivo consultadas em 29/09/2026. Traz as 'Notas dos editores', que atribuem ao Secretariado Nacional do Comitê Central a decisão sobre o que é publicado como linha política do partido, e lista canais próprios de vídeo ('Canal Jornal O Poder Popular' e 'Canal Comuna Que Pariu!')."
+    },
+    {
+      "id": "src-ec-89",
+      "title": "Um balanço da economia brasileira em 2025 (artigo assinado por Edmilson Costa)",
+      "publisher": "Partido Comunista Brasileiro (PCB) — portal oficial",
+      "url": "https://pcb.org.br/portal2/33512",
+      "publishedAt": "2026-01-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Artigo de conjuntura assinado 'Edmilson Costa*' e publicado no portal nacional do partido: compara o crescimento do PIB até novembro de 2025 (pouco mais de 2%) com 2024 (3,4%). Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-ec-90",
+      "title": "Programa Anticapitalista e Anti-imperialista para o Brasil — 'Construir o Poder Popular, rumo ao Socialismo' (texto integral no portal do PCB)",
+      "publisher": "Partido Comunista Brasileiro (PCB) — portal oficial",
+      "url": "https://pcb.org.br/portal2/34147",
+      "publishedAt": "2026-08-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Texto do Programa Político do PCB para 2026 aprovado na Convenção Nacional de 01/08/2026, publicado no portal do partido: estrutura em 'cinco grandes transformações estruturais', com o Orçamento Popular 100% deliberativo, os Conselhos Populares, a Assembleia Constituinte de Novo Tipo a ser convocada em até dois anos (metade dos membros eleita por organizações sociais em ENCLAT), a meta de o salário mínimo alcançar o piso do Dieese em quatro anos, a democratização dos meios de comunicação (nova Lei Geral das Comunicações) e o eixo de internacionalismo (solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental). Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-ec-91",
+      "title": "Portal O Poder Popular — página inicial e entrevista 'Conversa com Edmilson Costa' (31/08/2026)",
+      "publisher": "O Poder Popular (jornal/portal do PCB)",
+      "url": "https://opoderpopular.com.br/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Página inicial do jornal/portal do PCB consultada em 29/09/2026: publica o Programa Político do PCB (15/08/2026), a entrevista 'Conversa com Edmilson Costa, candidato à presidência pelo PCB' (31/08/2026, em que o candidato afirma que o país precisa 'romper com o ciclo de políticas neoliberais que vem desde o início da década de 90') e matérias assinadas 'Por O Poder Popular'."
+    },
+    {
+      "id": "src-ec-92",
+      "title": "PEB NAS URNAS: Edmilson Costa (PCB) — análise do programa de política externa",
+      "publisher": "OPEB — Observatório de Política Externa e da Inserção Internacional do Brasil",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-edmilson-costa/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Análise acadêmica do eixo de política externa do programa do PCB: registra a diretriz de 'soberania, socialismo e internacionalismo de classe' e a ausência de detalhamento sobre BRICS, governança climática e mecanismos de interdependência econômica global. Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-hd-88",
+      "title": "HERTZ DIAS | 'A indústria cultural tenta sufocar o caráter subversivo do Hip hop' (conversa do Opinião Socialista com Hertz Dias)",
+      "publisher": "PSTU — site nacional",
+      "url": "https://www.pstu.org.br/hertz-dias-a-industria-cultural-tenta-sufocar-o-carater-subversivo-do-hip-hop/",
+      "publishedAt": "2023-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Entrevista publicada na seção 'Cultura' do site nacional do PSTU, assinada por Roberto Aguiar, sobre os 50 anos do hip hop: registra que Hertz Dias atuou como precursor do hip hop brasileiro em São Luís na década de 1980, fundou com outros jovens o Movimento Hip Hop Organizado do Maranhão (que em 1992 passou a se chamar Quilombo Urbano), integrou o Clã Nordestino e é vocalista do grupo Gíria Vermelha. Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-hd-89",
+      "title": "Manifesto: por uma alternativa para romper as engrenagens do sistema capitalista (peça de pré-candidatura assinada por Hertz Dias)",
+      "publisher": "Opinião Socialista / PSTU (arquivo digital)",
+      "url": "https://opiniaosocialista.com.br/content/files/2026/05/Manifesto-Pre-Candidatura-Eleitoral-Digital.pdf",
+      "publishedAt": "2026-03-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Peça gráfica de página única (Adobe Illustrator, criada em 02/03/2026; 20.291 caracteres de texto extraídos) assinada 'HERTZ DIAS', com diagnóstico (cerca de 250 grandes empresas controlam a maior parte da economia; quase 60% dos trabalhadores em desemprego, subemprego ou trabalho precário e 68% com renda até R$ 2.424, dados do Anuário ILAESE 2025), eixos temáticos (trabalho e renda; terra, povos da floresta e ambiente; segurança pública; opressões de gênero, raça e LGBTIfobia; imperialismo), medidas declaradas (revogar o arcabouço fiscal, suspender o pagamento da dívida, proibir a remessa de lucros, taxar grandes fortunas, impor controle de capitais, expropriar monopólios sob controle democrático dos trabalhadores) e a forma de governo proposta (organismes de base, 'locais de trabalho, estudo e moradia'); termina com chamada para as redes @hertzdiaspstu e @opiniaosocialista. Baixado diretamente em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-hd-90",
+      "title": "PSTU anuncia a pré-candidatura de Hertz Dias a presidente da República",
+      "publisher": "Opinião Socialista (jornal do PSTU)",
+      "url": "https://opiniaosocialista.com.br/pstu-anuncia-a-pre-candidatura-de-hertz-dias-a-presidente-da-republica",
+      "publishedAt": "2026-02-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Anúncio da pré-candidatura com o argumento 'Por uma alternativa que não deixe a classe trabalhadora refém da política de conciliação de classes do governo e da extrema direita'. Consultado em 29/09/2026 (HTTP 200; página com conteúdo carregado por JavaScript)."
+    },
+    {
+      "id": "src-hd-91",
+      "title": "Candidato à Presidência Hertz Dias foca em educação durante agenda em MG",
+      "publisher": "O Tempo (MG)",
+      "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/8/19/candidato-a-presidencia-hertz-dias-foca-em-educacao-durante-agenda-em-mg",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra agenda de campanha em Minas Gerais com foco em educação (Juiz de Fora e Belo Horizonte, 18–19/08/2026). Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-hd-92",
+      "title": "Candidatos nas eleições de 2026 assinam carta de compromisso com defesa da Palestina",
+      "publisher": "Opera Mundi",
+      "url": "https://operamundi.uol.com.br/eleicoes-2026-brasil/candidatos-nas-eleicoes-de-2026-assinam-carta-de-compromisso-com-defesa-da-palestina",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento de 21/09/2026 que lista os quatro presidenciáveis signatários da carta de compromisso com a defesa da Palestina, entre eles Hertz Dias (PSTU)."
+    },
+    {
+      "id": "src-hd-93",
+      "title": "Quem é Hertz Dias, candidato do PSTU à Presidência em 2026",
+      "publisher": "GZH (Grupo RBS)",
+      "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-hertz-dias-candidato-do-pstu-a-presidencia-em-2026-cmp1sb58i00e2016dw6b1vr9b.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil: Hertz da Conceição Dias, nascido em 20/10/1970 em São José de Ribamar (MA), ativista do movimento negro, rapper do grupo maranhense Gíria Vermelha e professor de História das redes pública municipal e estadual do Maranhão. Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-hd-94",
+      "title": "PSTU dá largada à campanha eleitoral com mobilizações em todo o país",
+      "publisher": "Opinião Socialista (jornal do PSTU)",
+      "url": "https://opiniaosocialista.com.br/pstu-da-largada-a-campanha-eleitoral-com-mobilizacoes-em-todo-o-pais",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Cobertura da largada da campanha: em São Paulo, Hertz Dias e Vanessa Portugal defenderam a reestatização de setores estratégicos da economia. Consultado em 29/09/2026 (HTTP 200; conteúdo carregado por JavaScript)."
+    },
+    {
+      "id": "src-rp-92",
+      "title": "Rui Costa Pimenta — página de apresentador da Causa Operária TV",
+      "publisher": "Causa Operária TV (COTV) / PCO",
+      "url": "https://cotv.org.br/apresentador/rui-costa-pimenta",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Página institucional da emissora do partido: apresenta Rui Costa Pimenta como presidente nacional do PCO, jornalista, 'editor do jornal Causa Operária e do Diário Causa Operária', escritor e palestrante; descreve os programas que apresenta — 'Análise Política da Semana' (sábados, apontada no próprio texto como o principal programa da grade da COTV), 'Análise Política da 3ª' na Rádio Causa Operária (terças), 'Análise Internacional' (segundas, ao lado de Robinson Farinazzo) e o programa teórico 'Marxismo' (quintas) — além de 'Análise Política na TV 247'. Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-rp-93",
+      "title": "Rui Costa Pimenta analisa a crescente tensão entre Turquia e 'Israel'",
+      "publisher": "Diário Causa Operária (PCO)",
+      "url": "https://causaoperaria.org.br/2026/rui-costa-pimenta-analisa-a-crescente-tensao-entre-turquia-e-israel",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Análise assinada pelo dirigente no veículo diário do partido, com versão em vídeo/áudio e oferta de assinatura das notícias por WhatsApp e e-mail. Acesso direto respondeu 403 em 29/09/2026; página localizada por busca no mesmo dia."
+    },
+    {
+      "id": "src-rp-94",
+      "title": "'Eleição não vai mudar o País', diz Pimenta sobre disputa de 2026",
+      "publisher": "Diário Causa Operária (PCO)",
+      "url": "https://causaoperaria.org.br/2026/eleicao-nao-vai-mudar-o-pais-diz-pimenta-sobre-disputa-de-2026",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Matéria do veículo do partido sobre a posição do dirigente na disputa de 2026, com a leitura de que o pleito é terreno de luta pelo programa revolucionário. Acesso direto respondeu 403 em 29/09/2026; há snapshot do Wayback Machine de 28/04/2026."
+    },
+    {
+      "id": "src-rp-95",
+      "title": "Rui Costa Pimenta critica política do PT e defende apoio ao Irã",
+      "publisher": "Diário Causa Operária (PCO)",
+      "url": "https://causaoperaria.org.br/2026/rui-costa-pimenta-critica-politica-do-pt-e-defende-apoio-ao-ira",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Registra declaração pública do dirigente de que 'o governo Lula não enfrenta os problemas fundamentais do País' e que o lançamento de seu nome busca 'abrir uma discussão sobre esses temas', em programa do partido. Acesso direto respondeu 403 em 29/09/2026; página localizada por busca no mesmo dia."
+    },
+    {
+      "id": "src-wg-84",
+      "title": "Wilson Grassi protocola no TSE programa de governo com 14 eixos e plano para os 100 primeiros dias",
+      "publisher": "Ciberjornal (Goiânia)",
+      "url": "https://ciberjornal.com.br/cidades/wilson-grassi-protocola-programa-governo-tse-14-eixos/305795/",
+      "publishedAt": "2026-09-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 20/09/2026 (atualizada em 21/09) sobre o protocolo do programa 'Brasil em Primeiro Lugar': documento com 58 páginas, carta ao eleitor, 14 eixos temáticos e cronograma específico para os primeiros 100 dias de mandato. Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-wg-85",
+      "title": "Wilson Grassi: veja as propostas do programa de governo",
+      "publisher": "Gazeta do Paraná",
+      "url": "https://gazetadoparana.com.br/publico/wilson-grassi-propostas-programa-governo-eleicoes-2026",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Resumo do programa do candidato do Democrata: substituição de nove tributos federais por um imposto sobre movimentações bancárias, plebiscito sobre presídios e mudanças em segurança, saúde, educação, agro e infraestrutura. Consultado em 29/09/2026 (HTTP 200; corpo da matéria carregado por JavaScript)."
+    },
+    {
+      "id": "src-wg-86",
+      "title": "Em plano de governo, presidenciável do Democrata propõe imposto único",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/em-plano-de-governo-presidenciavel-do-democrata-propoe-imposto-unico",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 13/08/2026 sobre o registro do plano no TSE: 'Brasil em Primeiro Lugar', estruturado em eixos centrais pelo 'método D35' (desburocratizar, desonerar, digitalizar, democratizar e desenvolver). Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-wg-87",
+      "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+      "publisher": "GZH (Grupo RBS)",
+      "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026-cmss7zuq801q30159hj8fufm3.html",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil de 19/08/2026: trajetória de office-boy a veterinário, clínica na zona leste de São Paulo, atuação política desde 2006, empresário educacional e músico, projeto Ambientalistas, patrimônio declarado de R$ 25 mil (2006) a R$ 50 milhões (2026); registra que participou da criação do primeiro hospital público para cães e gatos do Brasil em 2015 como conselheiro da Anclivepa-SP. Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-wg-88",
+      "title": "Candidato à presidência promete correr 42 km por dia após TSE suspender campanha",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/02/candidato-a-presidencia-promete-correr-42-km-por-dia-apos-tse-suspender-campanha.ghtml",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 02/09/2026: após a suspensão da campanha digital pelo TSE, o candidato anunciou que correria 42 km por dia; o texto o descreve como veterinário, empresário e fundador do Projeto Ambientalistas. Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-wg-89",
+      "title": "Candidato ao Planalto quer criar 'Meu Botox, Minha Vida'",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/candidato-ao-planalto-quer-criar-meu-botox-minha-vida",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista em que o candidato do Democrata defende o programa 'Meu Botox, Minha Vida' e afirma ter propostas que não estão no programa de governo porque o partido 'não deixaria' que fossem apresentadas. Acesso direto respondeu 403 em 29/09/2026; há snapshot do Wayback Machine de 13/09/2026."
+    },
+    {
+      "id": "src-wg-90",
+      "title": "Poder Entrevista: Wilson Grassi, candidato à Presidência pelo Democrata",
+      "publisher": "Poder360 (canal no YouTube)",
+      "url": "https://www.youtube.com/watch?v=dYffqonVmjQ",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista em vídeo concedida ao Poder Entrevista (Poder360). Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-wg-91",
+      "title": "Veja como foi a sexta-feira (18) dos candidatos a presidente — agenda de Wilson Grassi com entrevista ao jornal O Tempo (MG)",
+      "publisher": "Jornal Correio do Norte",
+      "url": "https://www.jornalcorreiodonorte.com.br/politica-e-economia/2026/09/2678590-veja-como-foi-a-sexta-feira-18-dos-candidatos-a-presidente.html",
+      "publishedAt": "2026-09-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda de campanha de 18/09/2026 registra que Wilson Grassi concedeu entrevista ao jornal O Tempo (MG). Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-wg-92",
+      "title": "Agenda dos candidatos: Lula vai ao Rio e candidatos nanicos se encontram em debate",
+      "publisher": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/agenda-dos-candidatos-lula-vai-ao-rio-e-candidatos-nanicos-se-encontram-em-debate/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda registra que Wilson Grassi concedeu entrevista ao jornal O Tempo, em Belo Horizonte, às 11h, e participou de reunião com a equipe de planejamento de campanha às 15h. Consultado em 29/09/2026 (HTTP 200)."
+    },
+    {
+      "id": "src-wg-93",
+      "title": "Debate independente surpreende com quiz 'Brasil em números'; Hertz Dias e Wilson Grassi lideram primeiro bloco",
+      "publisher": "MyNews (com 3 Irmãos e Kritikê)",
+      "url": "https://canalmynews.com.br/sem-categoria/surpreende-em-vez-de-inova-hertz-dias-e-wilson-grassi-lideram-primeiro-bloco/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura do debate presidencial independente com Rui Costa Pimenta (PCO), Samara Martins (UP), Hertz Dias (PSTU), Clariana Barão (DC) e Wilson Grassi (Democratas), gravada no mesmo formato de quiz de indicadores brasileiros. Acesso direto não verificado em 29/09/2026 (mesmo URL registrado para o candidato Hertz Dias)."
+    }
+  ],
   "candidates": {
     "edmilson-costa": {
       "capacities": [
         {
           "slug": "comunicacao-publica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Dirige desde 2005 o jornal do partido relançado como Imprensa Popular (tabloide mensal de 12 páginas) e, em 2026, o Jornal O Poder Popular circula com edições numeradas (Nº 101 a Nº 109; a Nº 105 é de maio e a Nº 109 de setembro), com linha editorial definida pelo Secretariado Nacional do Comitê Central, que ele coordena como secretário-geral. Assina análises econômicas no portal nacional do PCB e expõe o programa em entrevistas a veículos nacionais e à imprensa comunista internacional (Opera Mundi, Sputnik, ICP), com transcrições republicadas no site do partido. É autor de livros sobre economia e de poesia, sem títulos localizados nas fontes desta rodada.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-ec-01",
+              "kind": "historico",
+              "title": "Direção do jornal Imprensa Popular, relançado pelo PCB em 2005",
+              "role": "diretor do jornal na fase de relançamento, ao lado de Eduardo Serra e Ivan Pinheiro, conforme registro da Hemeroteca Digital da Biblioteca Nacional",
+              "complexity": "publicação mensal em formato tabloide, 12 páginas, impressa a cores e aparentemente distribuída de graça; título com histórico desde 1948 (Imprensa Popular original, 1948–1958) e vínculo formal com o partido",
+              "outcome": "o título passou a integrar a imprensa do PCB a partir de 2005 e é registrado pela Hemeroteca como o jornal do partido nessa fase",
+              "period": "2005–2016 (período do registro consultado)",
+              "context": "o PCB decidiu relançar o título quase 50 anos depois da extinção da publicação original; a direção do jornal foi atribuída a três nomes, entre eles Edmilson Costa",
+              "sources": [
+                {
+                  "id": "src-ec-87"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-ec-02",
+              "kind": "historico",
+              "title": "Edição do Jornal O Poder Popular com numeração sequencial de edições em 2026",
+              "role": "secretário-geral nacional do PCB, cargo que responde pelo Secretariado Nacional do Comitê Central, ao qual as 'Notas dos editores' atribuem a definição da linha editorial do jornal",
+              "complexity": "edições numeradas e sequenciais (Nº 101 a Nº 109 no arquivo consultado; Nº 105 identificada como maio de 2026 e Nº 109 como setembro de 2026), com 28 páginas de arquivo de edições e canais próprios de vídeo associados ('Canal Jornal O Poder Popular' e 'Canal Comuna Que Pariu!')",
+              "outcome": "publicação mantida em 2026 com cadência aproximadamente mensal entre maio (Nº 105) e setembro (Nº 109), incluindo edições temáticas ('Socialismo ou Barbárie', 'Todo apoio a Cuba!', 'Abaixo o imperialismo!') e as resoluções da VIII Conferência Política Nacional",
+              "period": "2026",
+              "context": "a página de arquivo declara que só publica textos alinhados à linha política do partido, a critério do Secretariado Nacional do CC, e marca como 'Outras Opiniões' as matérias agregadas de terceiros",
+              "sources": [
+                {
+                  "id": "src-ec-88"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-ec-03",
+              "kind": "historico",
+              "title": "Análises econômicas de conjuntura assinadas no portal nacional do partido",
+              "role": "articulista assinado no portal do PCB, além de secretário-geral nacional",
+              "complexity": "texto de balanço anual da economia brasileira com dados comparados (crescimento do PIB até novembro de 2025 pouco acima de 2%, contra 3,4% em 2024); veículo é o portal oficial do partido",
+              "outcome": "artigo publicado em 07/01/2026 dentro da série de conjuntura do portal do PCB",
+              "period": "2026",
+              "context": "o portal do partido funciona como veículo próprio de divulgação das posições do dirigente e da candidatura",
+              "sources": [
+                {
+                  "id": "src-ec-89"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-ec-04",
+              "kind": "posicao",
+              "title": "Exposição do programa em entrevistas a veículos nacionais e à imprensa comunista internacional",
+              "role": "entrevistado na condição de pré-candidato e secretário-geral do PCB",
+              "complexity": "entrevistas concedidas a Opera Mundi (gravada em 17/03/2026), Sputnik Brasil (jun/2026) e à imprensa comunista internacional (International Communist Press, Turquia), com transcrições republicadas no site do partido e reprodução por veículos estrangeiros (Kaos en la Red)",
+              "outcome": "transcrições publicadas no portal do PCB em abril e junho de 2026 e reprodução em veículos de fora do país",
+              "period": "2026",
+              "context": "o partido republica as entrevistas no próprio site, ampliando o alcance das declarações do candidato",
+              "sources": [
+                {
+                  "id": "src-ec-16"
+                },
+                {
+                  "id": "src-ec-17"
+                },
+                {
+                  "id": "src-ec-19"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-ec-05",
+              "kind": "historico",
+              "title": "Entrevista de página do jornal do partido com o candidato (O Poder Popular, 31/08/2026)",
+              "role": "entrevistado na condição de candidato à Presidência pelo PCB",
+              "complexity": "entrevista publicada no jornal/portal do partido com o diagnóstico da candidatura ('romper com o ciclo de políticas neoliberais que vem desde o início da década de 90') e a apresentação do Plano de Governo 'Construir o Poder Popular'",
+              "outcome": "publicada em 31/08/2026, no mesmo veículo em que o programa foi divulgado em 15/08/2026",
+              "period": "2026",
+              "context": "o jornal do partido é usado na campanha como veículo de exposição das posições do candidato, com chamada na página inicial do portal",
+              "sources": [
+                {
+                  "id": "src-ec-91"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-ec-06",
+              "kind": "posicao",
+              "title": "Autor de livros sobre capitalismo contemporâneo e crise econômica mundial e de livros de poesia",
+              "role": "autor, apresentado nessa condição na biografia da chapa publicada pelo próprio partido e pela imprensa",
+              "complexity": "obras de análise econômica e de poesia citadas em notas de imprensa e no programa oficial; títulos e editoras não localizados nas fontes desta rodada",
+              "outcome": "títulos e editoras não localizados nas fontes consultadas em 29/09/2026",
+              "period": "não informado",
+              "context": "a apresentação do candidato no programa registrado destaca 'diversos livros sobre o capitalismo contemporâneo e a crise econômica mundial, além de vários livros de poesias'",
+              "sources": [
+                {
+                  "id": "src-ec-06"
+                },
+                {
+                  "id": "src-ec-90"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
         },
         {
           "slug": "visao-estrategica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "O programa registrado no TSE ('Construir o Poder Popular, rumo ao Socialismo', 35 propostas, 16 páginas) organiza a ação em cinco transformações estruturais com instrumentos e prazos declarados: Orçamento Popular 100% deliberativo, Conselhos Populares como base permanente, Assembleia Constituinte de Novo Tipo convocada em até dois anos (metade dos membros eleita por organizações sociais em ENCLAT) e salário mínimo alcançando o piso do Dieese em quatro anos. A viabilidade é justificada pelo grau de industrialização do país, e não por apoio parlamentar — o partido não tem deputados nem senadores em exercício. O eixo internacionalista (soberania, socialismo e internacionalismo de classe) é a quinta transformação estrutural.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-ec-01",
+              "kind": "proposta",
+              "title": "Programa 'Construir o Poder Popular, rumo ao Socialismo' organizado em cinco transformações estruturais",
+              "role": "candidato à Presidência e secretário-geral do partido que aprovou o programa em Convenção Nacional (01/08/2026) e o registrou no TSE",
+              "complexity": "documento de 16 páginas com 35 propostas no índice oficial; cinco grandes transformações estruturais encadeadas (sistema político; sistema monetário e financeiro; direitos da classe trabalhadora; universalização de direitos essenciais; internacionalismo), aplicáveis em campos como saúde, educação, segurança, cultura, meio ambiente, Judiciário e Forças Armadas",
+              "outcome": "programa registrado no TSE em 14/08/2026 e publicado na íntegra no portal do partido em 15/08/2026",
+              "period": "2026",
+              "context": "o programa afirma que 'o Brasil está maduro para o Socialismo' e apresenta as cinco transformações como forma de 'materializar' a ruptura com a ordem vigente",
+              "sources": [
+                {
+                  "id": "src-ec-90"
+                },
+                {
+                  "id": "src-ec-05"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-ec-02",
+              "kind": "proposta",
+              "title": "Instrumentos de implementação declarados: Orçamento Popular deliberativo, Conselhos Populares e Assembleia Constituinte de Novo Tipo em até dois anos",
+              "role": "candidato e dirigente do partido que aprovou o programa; medidas constam do documento registrado",
+              "complexity": "encadeamento entre curto e longo prazo: convocação de Assembleia Constituinte de Novo Tipo no prazo de dois anos, com metade dos membros eleita por organizações sociais e populares em Encontros da Classe Trabalhadora (ENCLAT); Orçamento Popular 100% deliberativo; Conselhos Populares eleitos nos locais de trabalho, moradia e estudo como 'espinha dorsal do novo poder'; plebiscitos e referendos como rotina de decisão",
+              "outcome": "não observável no período eleitoral; o programa declara prazos e instrumentos, e as mudanças constitucionais dependem de maioria no Congresso, inexistente para o partido (0 deputados e 0 senadores em exercício nos dados abertos consultados)",
+              "period": "2026",
+              "context": "o programa declara que o tipo de democracia vigente 'não nos interessa' e propõe substituir a mediação parlamentar por mecanismos de democracia direta",
+              "sources": [
+                {
+                  "id": "src-ec-90"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-ec-03",
+              "kind": "proposta",
+              "title": "Meta de recuperação salarial com prazo declarado: salário mínimo no piso do Dieese em quatro anos",
+              "role": "candidato; medida integra a terceira transformação estrutural do programa registrado",
+              "complexity": "meta quantificada e com prazo dentro do próprio programa (quatro anos), condicionada à revogação das contrarreformas trabalhista e previdenciária, do arcabouço fiscal e da Lei de Responsabilidade Fiscal, e à criação de uma 'Lei de Responsabilidade Social'",
+              "outcome": "não observável no período eleitoral; a meta e o prazo estão declarados no documento registrado",
+              "period": "2026",
+              "context": "o programa articula a meta social à mudança do marco fiscal, apresentada como condição de financiamento",
+              "sources": [
+                {
+                  "id": "src-ec-90"
+                },
+                {
+                  "id": "src-ec-05"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-ec-04",
+              "kind": "posicao",
+              "title": "Justificativa pública de viabilidade baseada no grau de industrialização do país, não em apoio parlamentar",
+              "role": "candidato, em documento do programa e em entrevista à imprensa nacional",
+              "complexity": "argumento explicitado no programa ('o Brasil é uma nação industrializada, com terra e água em abundância...') e sustentado em entrevista quando questionado sobre a execução de medidas que dependem do Congresso, como a extinção do Senado e a estatização do sistema financeiro",
+              "outcome": "posição registrada no programa e em reportagem de agosto de 2026; não há maioria parlamentar declarada para as medidas",
+              "period": "2026",
+              "context": "o programa propõe medidas que dependem de emenda constitucional (estatização bancária, Constituinte, reforma do Judiciário) em um partido sem bancada federal",
+              "sources": [
+                {
+                  "id": "src-ec-90"
+                },
+                {
+                  "id": "src-ec-84"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-ec-05",
+              "kind": "proposta",
+              "title": "Internacionalismo e autodeterminação dos povos como quinta transformação estrutural",
+              "role": "candidato e ex-secretário de Relações Internacionais do PCB (até 2016), função pela qual representou o partido em organismos internacionais",
+              "complexity": "o programa define a política externa como soberania, socialismo e internacionalismo de classe, com solidariedade declarada a Cuba, Palestina, Venezuela, Irã e Saara Ocidental e fortalecimento de processos de integração; análise externa registra ausência de detalhamento sobre BRICS, governança climática e interdependência econômica global",
+              "outcome": "eixo registrado no programa em 2026; em setembro de 2026 o candidato assinou carta pública de compromisso com a defesa da Palestina",
+              "period": "2026",
+              "context": "a diretriz internacionalista é apresentada pelo partido como parte do horizonte socialista, não como capítulo de comércio exterior",
+              "sources": [
+                {
+                  "id": "src-ec-90"
+                },
+                {
+                  "id": "src-ec-92"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
         }
       ]
     },
@@ -25,17 +506,271 @@
       "capacities": [
         {
           "slug": "comunicacao-publica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "A comunicação combina produção cultural própria — é vocalista do grupo Gíria Vermelha e um dos fundadores, em 1989, do Movimento Hip Hop Organizado do Maranhão (Quilombo Urbano) — com peças escritas e entrevistas: assinou o manifesto de pré-candidatura em peça gráfica de página única, deu conversa ao site nacional do PSTU sobre indústria cultural e hip hop (2023) e, em 2026, concedeu sabatinas a Correio Braziliense, Jornal Nacional, SBT News, Alma Preta, Monitor Mercantil, BBC e GZH, mantendo os canais próprios 'canaldohertz' e @hertzdiaspstu. A campanha circula no jornal do partido (Opinião Socialista nº 715) e na imprensa da organização internacional da qual o PSTU é seção, inclusive em inglês.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-hd-01",
+              "kind": "historico",
+              "title": "Produção cultural própria: rapper do Gíria Vermelha e cofundador do Movimento Hip Hop Organizado do Maranhão (Quilombo Urbano)",
+              "role": "vocalista do grupo Gíria Vermelha e um dos fundadores, em 1989, do Movimento Hip Hop Organizado do Maranhão, renomeado Quilombo Urbano em 1992",
+              "complexity": "movimento descrito como uma das primeiras organizações de hip hop do Brasil, com atuação em cultura, moradia e combate ao racismo; produção musical contínua (Clã Nordestino na década de 1990, Gíria Vermelha até 2026) e blog próprio do movimento (quilombourbano.blogspot.com); tema tratado em estudo acadêmico",
+              "outcome": "movimento e grupo musical mantidos até a eleição de 2026; na peça de pré-candidatura o candidato se apresenta como quem vai 'do microfone na mão às ruas, entoando os versos da revolução'",
+              "period": "1989–2026",
+              "context": "a comunicação com juventude e periferia é feita por meio da cultura hip hop, três décadas antes da candidatura presidencial",
+              "sources": [
+                {
+                  "id": "src-hd-88"
+                },
+                {
+                  "id": "src-hd-83"
+                },
+                {
+                  "id": "src-hd-81"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-hd-02",
+              "kind": "historico",
+              "title": "Manifesto de pré-candidatura assinado, em peça gráfica de página única",
+              "role": "autor do manifesto, assinado 'HERTZ DIAS', com remissão às redes @hertzdiaspstu e ao jornal do partido",
+              "complexity": "peça gráfica de página única com cerca de 20 mil caracteres de texto, organizada em eixos temáticos com dados estatísticos (Anuário ILAESE 2025) e blocos de propostas; distribuída pelo site do jornal do partido (Opinião Socialista)",
+              "outcome": "peça produzida em 02/03/2026 e publicada pelo PSTU/Opinião Socialista em 2026; constitui o documento de apresentação pública da pré-candidatura",
+              "period": "2026",
+              "context": "o manifesto substitui a peça tradicional de campanha por um documento programático longo, assinado pelo próprio candidato",
+              "sources": [
+                {
+                  "id": "src-hd-89"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-hd-03",
+              "kind": "historico",
+              "title": "Entrevista ao site nacional do partido sobre indústria cultural e hip hop",
+              "role": "entrevistado da conversa publicada na seção 'Cultura' do site nacional do PSTU",
+              "complexity": "texto sobre os 50 anos do hip hop, com a tese de que 'a indústria cultural tenta sufocar o caráter subversivo' do movimento; circulação no site nacional do partido",
+              "outcome": "publicada em 27/09/2023 e mantida no site do PSTU em 2026",
+              "period": "2023",
+              "context": "o candidato usa a entrevista para ligar a trajetória no hip hop à leitura política da cultura de massa",
+              "sources": [
+                {
+                  "id": "src-hd-88"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-hd-04",
+              "kind": "historico",
+              "title": "Agenda de sabatinas e entrevistas em veículos nacionais e regionais, com canais próprios declarados",
+              "role": "entrevistado; perfil ao TSE registra os canais próprios 'canaldohertz' (YouTube) e 'hertzdiaspstu' (Instagram)",
+              "complexity": "em 2026 concedeu entrevistas e sabatinas a Correio Braziliense, Jornal Nacional (TV Globo), SBT News, Alma Preta, Monitor Mercantil, BBC News Brasil e GZH, além de agenda de imprensa local em Teresina, Manaus, Fortaleza e Belém",
+              "outcome": "coberturas publicadas entre agosto e setembro de 2026; desempenho registrado abaixo de 1% nas pesquisas Datafolha de 28/09/2026 e Quaest de 28/09/2026",
+              "period": "2026",
+              "context": "a exposição é feita por veículos de alcance nacional e por canais próprios, em campanha custeada majoritariamente pela direção nacional do partido",
+              "sources": [
+                {
+                  "id": "src-hd-06"
+                },
+                {
+                  "id": "src-hd-17"
+                },
+                {
+                  "id": "src-hd-87"
+                },
+                {
+                  "id": "src-hd-84"
+                },
+                {
+                  "id": "src-hd-93"
+                },
+                {
+                  "id": "src-hd-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-hd-05",
+              "kind": "historico",
+              "title": "Participação em debate presidencial independente com prova de dados ('Brasil em números')",
+              "role": "debatedor, ao lado de Rui Costa Pimenta (PCO), Samara Martins (UP), Clariana Barão (DC) e Wilson Grassi (Democrata)",
+              "complexity": "debate transmitido pelo MyNews com outros veículos independentes ('3 Irmãos' e 'Kritikê'), com formato de quiz numérico sobre indicadores brasileiros; registrado que ele e Wilson Grassi lideraram o primeiro bloco",
+              "outcome": "cobertura publicada em 2026, com destaque para o formato do programa",
+              "period": "2026",
+              "context": "o candidato participa de debates fora das grandes redes, coerente com a estratégia de circular por veículos alternativos",
+              "sources": [
+                {
+                  "id": "src-hd-21"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-hd-06",
+              "kind": "historico",
+              "title": "Circulação da campanha no jornal do partido e na imprensa da organização internacional (LIT-QI)",
+              "role": "candidato em campanha; os veículos são o jornal do PSTU e o site da organização internacional da qual o partido é seção",
+              "complexity": "o jornal Opinião Socialista (edição nº 715, setembro de 2026) publica o giro nacional da chapa e a disputa pela 'consciência do povo trabalhador'; o site da LIT-QI publica, em inglês, a confirmação da candidatura pela convenção de 31/07/2026 e a descrição da trajetória do candidato",
+              "outcome": "circulação em português e inglês, em veículos do partido e da internacional",
+              "period": "2026",
+              "context": "a comunicação da campanha se apoia na estrutura partidária e internacional, e não em mídia paga — a receita declarada da campanha até 08/09/2026 foi 99% de repasse da direção nacional",
+              "sources": [
+                {
+                  "id": "src-hd-82"
+                },
+                {
+                  "id": "src-hd-71"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "visao-estrategica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "O programa registrado (38 propostas em 8 eixos) e o manifesto de pré-candidatura fixam metas numéricas — salário mínimo 100% maior, jornada máxima de 36 horas sem redução salarial, bolsa-filha/filho de 1 salário mínimo — e declaram que a base de governo seriam os organismos de base dos trabalhadores e conselhos populares, e não o Congresso. O diagnóstico parte de dados do Anuário ILAESE 2025 e encadeia medidas de curto prazo (revogar o arcabouço fiscal, suspender o pagamento da dívida, taxar grandes fortunas, controle de capitais, expropriação de monopólios sob controle democrático dos trabalhadores) ao horizonte declarado de revolução socialista. A política externa tem 'enfrentar o imperialismo' como eixo central, com 3 das 38 propostas registradas.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-hd-01",
+              "kind": "proposta",
+              "title": "Programa registrado no TSE: 38 propostas em 8 eixos com metas numéricas declaradas",
+              "role": "candidato titular da chapa que registrou o programa ('Com os trabalhadores contra o sistema: por um Brasil socialista')",
+              "complexity": "38 propostas distribuídas em 8 eixos (trabalho e responsabilidade fiscal; saúde; segurança e justiça; educação, ciência e meio ambiente; política externa; direitos humanos; questão agrária e direito à cidade; governança); metas explícitas — aumento de 100% do salário mínimo, jornada máxima de 36 horas semanais sem redução salarial, bolsa-filha/filho de 1 salário mínimo, piso de R$ 5 mil para servidores federais; instrumentos declarados: legislação ordinária (CLT) e revogação das reformas trabalhista e previdenciária",
+              "outcome": "programa registrado no TSE em 2026; prazos e custos por proposta não informados no índice oficial",
+              "period": "2026",
+              "context": "o PSTU não tem bancada no Congresso (0 deputados e 0 senadores em exercício nos dados abertos consultados) e o programa depende de maioria legislativa nas matérias trabalhistas e previdenciárias",
+              "sources": [
+                {
+                  "id": "src-hd-70"
+                },
+                {
+                  "id": "src-hd-04"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-hd-02",
+              "kind": "proposta",
+              "title": "Manifesto de pré-candidatura com diagnóstico próprio e encadeamento de medidas de curto prazo ao horizonte socialista",
+              "role": "autor do manifesto e candidato",
+              "complexity": "documento com diagnóstico quantificado (concentração em cerca de 250 grandes empresas; quase 60% dos trabalhadores em desemprego, subemprego ou precariedade; dívida pública consumindo mais recursos que saúde, educação e infraestrutura somadas) e medidas encadeadas: revogar o arcabouço fiscal, suspender o pagamento da dívida, proibir a remessa de lucros, taxar grandes fortunas, impor controle de capitais, expropriar monopólios sob controle democrático dos trabalhadores e reindustrializar o país",
+              "outcome": "publicado em 2026; o próprio documento define a pré-candidatura como 'uma ferramenta' de construção de alternativa, e não como projeto eleitoral",
+              "period": "2026",
+              "context": "o encadeamento liga medidas imediatas de financiamento a um horizonte declarado de 'novo horizonte socialista'",
+              "sources": [
+                {
+                  "id": "src-hd-89"
+                },
+                {
+                  "id": "src-hd-90"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-hd-03",
+              "kind": "proposta",
+              "title": "Base de sustentação declarada: organismos de base dos trabalhadores, e não o Congresso",
+              "role": "candidato, em manifesto e em entrevista",
+              "complexity": "declara governo 'sem patrões', baseado nos organismos de base da classe e em conselhos populares ligados a sindicatos, movimentos populares e associações, com democracia organizada a partir dos locais de trabalho, estudo e moradia; contrapõe-se explicitamente ao modelo de coalizão com o Congresso",
+              "outcome": "não observável no período eleitoral; o partido não tem representação parlamentar federal",
+              "period": "2026",
+              "context": "a entrevista ao Alma Preta registra que o Congresso não seria a base principal de um eventual governo, mas sim os conselhos populares",
+              "sources": [
+                {
+                  "id": "src-hd-16"
+                },
+                {
+                  "id": "src-hd-89"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-hd-04",
+              "kind": "posicao",
+              "title": "Recusa sustentada da estratégia do 'mal menor' como linha de longo prazo",
+              "role": "candidato, em manifesto, no jornal do partido e em entrevistas",
+              "complexity": "posição mantida em pelo menos cinco canais distintos — manifesto de pré-candidatura, Opinião Socialista nº 715, SBT News, Alma Preta e o site da internacional (LIT-QI) — com o argumento de que a conciliação de classes 'fez retroceder a consciência de classe'",
+              "outcome": "declarado ao longo de 2026; o candidato registrava 0% ou menos de 1% nas pesquisas Datafolha (28/09/2026) e Quaest (28/09/2026)",
+              "period": "2026",
+              "context": "a posição é assumida publicamente mesmo sem perspectiva de vitória eleitoral, o que o candidato atribui ao 'boicote' da imprensa e dos grandes partidos",
+              "sources": [
+                {
+                  "id": "src-hd-87"
+                },
+                {
+                  "id": "src-hd-82"
+                },
+                {
+                  "id": "src-hd-89"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-hd-05",
+              "kind": "historico",
+              "title": "Prioridade declarada em educação na agenda de campanha e no plano registrado",
+              "role": "professor de História das redes pública municipal e estadual do Maranhão e candidato",
+              "complexity": "agenda de campanha em Minas Gerais dedicada à educação (18–19/08/2026) e eixo 'Educação, Ciência e Meio Ambiente' com 5 das 38 propostas registradas no TSE; articulação com a categoria docente na apresentação do programa",
+              "outcome": "agenda registrada em reportagem de 19/08/2026; a educação é um dos oito eixos do plano registrado",
+              "period": "2026",
+              "context": "o candidato vincula a prioridade da educação à sua própria ocupação declarada ao TSE ('professor de ensino fundamental')",
+              "sources": [
+                {
+                  "id": "src-hd-91"
+                },
+                {
+                  "id": "src-hd-04"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-hd-06",
+              "kind": "posicao",
+              "title": "'Enfrentar o imperialismo' como eixo central da política externa, com solidariedade declarada e assinatura de carta sobre a Palestina",
+              "role": "candidato; o eixo integra o programa registrado e o manifesto assinado por ele",
+              "complexity": "eixo de política externa com 3 das 38 propostas registradas; o manifesto declara solidariedade à Palestina ('do rio ao mar'), ao povo ucraniano contra a invasão russa e aos povos venezuelano e cubano; em 21/09/2026 assinou carta pública de compromisso com a defesa da Palestina",
+              "outcome": "programa registrado e carta assinada em setembro de 2026",
+              "period": "2026",
+              "context": "o internacionalismo é apresentado como consequência do diagnóstico de dependência econômica, não como capítulo de comércio exterior",
+              "sources": [
+                {
+                  "id": "src-hd-13"
+                },
+                {
+                  "id": "src-hd-89"
+                },
+                {
+                  "id": "src-hd-92"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
         }
       ]
     },
@@ -43,17 +778,265 @@
       "capacities": [
         {
           "slug": "comunicacao-publica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "Comunica por veículos do próprio PCO: é editor do jornal Causa Operária (primeiro número em junho de 1979) e do Diário Causa Operária, apresenta na Causa Operária TV a 'Análise Política da Semana' (sábados, descrita pela emissora como o principal programa da grade) e mantém 'Análise Política da 3ª' na Rádio Causa Operária, 'Análise Internacional' (segundas) e o programa teórico 'Marxismo' (quintas), além de coluna semanal em veículo externo (Brasil 247). Responsável pelo conteúdo da Universidade Marxista, plataforma de cursos descrita como ampliação de iniciativa com quase 30 anos e mais de 48 cursos, cuja edição presencial nº 52 teve nove dias de programação em janeiro de 2025. Publicou dois livros pela editora do partido (2018 e 2021).",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-rp-01",
+              "kind": "historico",
+              "title": "Edição do jornal Causa Operária e do Diário Causa Operária",
+              "role": "editor do jornal Causa Operária e do Diário Causa Operária, conforme apresentação oficial da emissora do partido; ocupação declarada ao TSE: 'jornalista e redator'",
+              "complexity": "o jornal Causa Operária tem primeiro número de junho de 1979 e deu nome à corrente que originou o PCO; o Diário Causa Operária opera em versão online com versão em vídeo/áudio, oferta de assinatura por WhatsApp e e-mail e espaço publicitário próprio",
+              "outcome": "as duas publicações seguem ativas em 2026, com edições e análises assinadas pelo dirigente ao longo do ano",
+              "period": "1979–2026",
+              "context": "a trajetória do veículo antecede a fundação do partido (1995): o jornal batizou a tendência que se tornou o PCO",
+              "sources": [
+                {
+                  "id": "src-rp-92"
+                },
+                {
+                  "id": "src-rp-88"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-rp-02",
+              "kind": "historico",
+              "title": "Programa semanal de análise política na emissora do partido (Análise Política da Semana)",
+              "role": "apresentador do programa de sábados na Causa Operária TV, descrito pela própria emissora como o principal programa da grade",
+              "complexity": "grade com quatro programas fixos apresentados por ele, em três canais distintos do partido: 'Análise Política da Semana' (sábados, COTV), 'Análise Política da 3ª' (Rádio Causa Operária, terças), 'Análise Internacional' (segundas, no canal do Diário Causa Operária) e 'Marxismo' (quintas, canal oficial do PCO); além de participação na TV 247",
+              "outcome": "programas em produção em 2026, com a emissora vendendo a análise política como referência 'dentro e fora da esquerda'",
+              "period": "2026 (grade vigente)",
+              "context": "a comunicação do dirigente é verticalizada em veículos do próprio partido, com produção diária e semanal",
+              "sources": [
+                {
+                  "id": "src-rp-92"
+                },
+                {
+                  "id": "src-rp-02"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-rp-03",
+              "kind": "historico",
+              "title": "Universidade Marxista: plataforma de cursos com conteúdo elaborado e apresentado pelo dirigente",
+              "role": "responsável pela elaboração e/ou apresentação do conteúdo da plataforma; presidente nacional do PCO",
+              "complexity": "plataforma online de cursos descrita como ampliação das 'universidades de férias' do PCO, da Fundação João Jorge Costa Pimenta e da Aliança da Juventude Revolucionária, com quase 30 anos de história e mais de 48 cursos; a edição presencial nº 52 reuniu nove dias de programação em janeiro de 2025, em Araçoiaba da Serra (SP); em 2026 o partido anunciou curso inédito sobre a Revolução Iraniana de 1979",
+              "outcome": "plataforma ativa em 2026, com cursos gratuitos e pagos, aulas ao vivo com perguntas por chat e material didático (bibliografia e questionários)",
+              "period": "~1996–2026",
+              "context": "a formação de militância é organizada como atividade permanente do partido, com edições numeradas e continuidade entre o formato presencial e o online",
+              "sources": [
+                {
+                  "id": "src-rp-76"
+                },
+                {
+                  "id": "src-rp-75"
+                },
+                {
+                  "id": "src-rp-81"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-rp-04",
+              "kind": "historico",
+              "title": "Análises de conjuntura internacional assinadas e publicadas com frequência no veículo diário do partido",
+              "role": "autor das análises publicadas no Diário Causa Operária",
+              "complexity": "temas internacionais tratados em série (tensão entre Turquia e Israel; apoio ao Irã; política do PT), com publicação em vídeo/áudio e circulação por assinatura do próprio jornal, além de coluna semanal em veículo de fora do partido (Brasil 247, terças)",
+              "outcome": "análises publicadas ao longo de 2026; uma delas registra a posição de que 'o governo Lula não enfrenta os problemas fundamentais do País'",
+              "period": "2026",
+              "context": "o dirigente combina veículo próprio diário e coluna em veículo externo, tratando conjuntura doméstica e internacional",
+              "sources": [
+                {
+                  "id": "src-rp-93"
+                },
+                {
+                  "id": "src-rp-95"
+                },
+                {
+                  "id": "src-rp-92"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-rp-05",
+              "kind": "historico",
+              "title": "Discurso íntegro de lançamento da chapa divulgado pela imprensa e transmissões de lançamento pelo partido",
+              "role": "orador no evento de oficialização da chapa do PCO (08/08/2026)",
+              "complexity": "discurso publicado na íntegra por veículo nacional (Poder360, com vídeo) e transmissões de lançamento de candidaturas do partido, incluindo o ato do Distrito Federal",
+              "outcome": "discurso de 08/08/2026 publicado com vídeo; atos transmitidos pelos canais do partido em 2026",
+              "period": "2026",
+              "context": "o dirigente usa o discurso de lançamento para definir a candidatura como 'antissistema' e afirmar que o objetivo não é eleger, mas travar uma luta política",
+              "sources": [
+                {
+                  "id": "src-rp-82"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-rp-06",
+              "kind": "posicao",
+              "title": "Autor de livros publicados pela editora do partido",
+              "role": "autor dos títulos 'Golpe de Estado no Brasil — Balanço e Perspectivas' (2018) e 'A Era da Censura das Massas' (2021), ambos por Edições Causa Operária",
+              "complexity": "duas obras com editora identificada e ano de publicação; temas de conjuntura política brasileira e liberdade de expressão",
+              "outcome": "publicados em 2018 e 2021 pela editora ligada ao partido",
+              "period": "2018–2021",
+              "context": "a produção editorial acompanha a atividade de cursos e palestras declarada nas fontes",
+              "sources": [
+                {
+                  "id": "src-rp-02"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "visao-estrategica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "O programa registrado (52 páginas, 51 propostas em 8 eixos) declara que 'o PCO não participa das eleições para fazer promessas' e trata o pleito como 'uma tribuna (e apenas mais uma) de propaganda'; fixa metas datadas (aumento emergencial de 50% de salários, aposentadorias e pensões em 45 dias; salário mínimo de R$ 7.500 como meta de longo prazo) e fonte de financiamento declarada (Imposto Único de 0,5% sobre circulação de dinheiro e 1% sobre grandes fortunas, com fim de 32 tributos), além de instrumentos como estatizações setoriais, auditoria da dívida e moratória. Em 2026 o partido lançou candidaturas em 18 estados e no DF, e o próprio candidato afirma publicamente que o objetivo não é eleger.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-rp-01",
+              "kind": "proposta",
+              "title": "Programa de governo registrado com metas datadas e fonte de financiamento declarada",
+              "role": "candidato à Presidência pelo PCO e presidente nacional do partido que registrou o programa",
+              "complexity": "documento de 52 páginas com 51 propostas em 8 eixos (economia e trabalho com 15 propostas; educação, ciência e ambiente com 9; saúde com 7); metas numéricas — aumento emergencial de 50% de salários, aposentadorias e pensões em 45 dias, salário mínimo de R$ 7.500 como meta de longo prazo, pisos de R$ 8 mil (médicos) e R$ 8,5 mil (docentes), jornada de 7 horas diárias/35 semanais; financiamento declarado por Imposto Único (0,5% sobre circulação de dinheiro para pessoas físicas, 1% sobre grandes fortunas), fim de 32 tributos e suspensão de renúncias fiscais",
+              "outcome": "programa registrado no TSE em agosto de 2026; parte das metas tem prazo explícito (45 dias) e o restante é declarado como meta de longo prazo",
+              "period": "2026",
+              "context": "o programa é o mais curto da disputa em número de páginas, segundo registro de imprensa (7 páginas no resumo divulgado), mas o documento completo tem 52 páginas com índice de 51 propostas",
+              "sources": [
+                {
+                  "id": "src-rp-70"
+                },
+                {
+                  "id": "src-rp-08"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-rp-02",
+              "kind": "posicao",
+              "title": "Tese declarada de que o pleito é tribuna de propaganda, não via de mudança",
+              "role": "candidato e presidente nacional; a formulação consta do próprio documento registrado e de discurso público",
+              "complexity": "o programa declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'; no discurso de lançamento da chapa, em 08/08/2026, afirmou que o objetivo não é eleger ('é praticamente impossível')",
+              "outcome": "declarado no programa registrado e no discurso de agosto de 2026; desempenho histórico do partido nas presidenciais: 38.619 votos em 2002, 12.206 em 2010 e 12.324 em 2014",
+              "period": "2026",
+              "context": "a linha sustenta que a mudança depende de mobilização social, e que a campanha serve para difundir o programa revolucionário",
+              "sources": [
+                {
+                  "id": "src-rp-70"
+                },
+                {
+                  "id": "src-rp-82"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-rp-03",
+              "kind": "proposta",
+              "title": "Instrumentos de implementação declarados: estatizações, moratória e imposto único",
+              "role": "candidato e dirigente do partido autor do programa registrado",
+              "complexity": "o índice registrado no TSE lista estatizações em setores específicos (bancos, saúde, energia, transporte, comunicação), suspensão do pagamento de juros da dívida pública com auditoria e decretação de moratória em caso de dúvida, fortalecimento da Eletrobras e 'Imposto Único' em substituição a 32 tributos; áreas de execução atribuídas a órgãos nomeados (Polícia Federal, Polícia Rodoviária Federal, Forças Armadas na fronteira, Conselho de Segurança Nacional)",
+              "outcome": "não observável no período eleitoral; as medidas dependem de decisão legislativa ou de ato de governo, e o partido não tem representação no Congresso",
+              "period": "2026",
+              "context": "as medidas são vinculadas à rejeição declarada do marco fiscal vigente e da autonomia do Banco Central",
+              "sources": [
+                {
+                  "id": "src-rp-07"
+                },
+                {
+                  "id": "src-rp-70"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-rp-04",
+              "kind": "historico",
+              "title": "Lançamento de candidaturas próprias em 18 estados e no Distrito Federal",
+              "role": "presidente nacional do partido responsável pela definição das candidaturas",
+              "complexity": "18 unidades da Federação com candidaturas definidas; o partido declara estrutura internacional própria ('organiza e cresce pelos 4 cantos do mundo'), com conferência internacional realizada em Frankfurt em julho de 2019 e visitas de estudo à China",
+              "outcome": "definição anunciada em agosto de 2026 pelo partido; o alcance da articulação partidária é registrado em número de estados, e não de votos",
+              "period": "2019–2026",
+              "context": "a condução do partido combina presença eleitoral ampla em nível estadual com ação internacional própria, sem coligações registradas para a Presidência",
+              "sources": [
+                {
+                  "id": "src-rp-17"
+                },
+                {
+                  "id": "src-rp-77"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-rp-05",
+              "kind": "posicao",
+              "title": "Horizonte estratégico declarado de revolução e governo operário, com referências internacionais",
+              "role": "formulação do programa registrado ('Revolução, governo operário e comunismo') e de análises assinadas pelo dirigente",
+              "complexity": "o horizonte aparece no título e no corpo do programa registrado; análises comparadas usam a China como referência de desenvolvimento ('o Brasil que poderia ser e não é') e o apoio declarado ao Irã e à Palestina como linha de política externa",
+              "outcome": "posições publicadas em 2024 e 2026 em veículos do partido; documento registrado no TSE",
+              "period": "2024–2026",
+              "context": "a estratégia é apresentada como ruptura com o sistema, com uso explícito do pleito como espaço de propaganda dessa linha",
+              "sources": [
+                {
+                  "id": "src-rp-70"
+                },
+                {
+                  "id": "src-rp-80"
+                },
+                {
+                  "id": "src-rp-93"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-rp-06",
+              "kind": "historico",
+              "title": "Uso do período entre eleições para formação e propaganda sistemáticas",
+              "role": "responsável pelo conteúdo da plataforma de cursos e apresentador dos programas do partido",
+              "complexity": "plataforma de cursos com mais de 48 cursos e quase 30 anos de continuidade; grade semanal de análise política em três canais do partido; coluna semanal em veículo externo; cursos temáticos anuais (Revolução Iraniana de 1979, em 2026)",
+              "outcome": "atividades mantidas em 2026, além da campanha eleitoral em 18 estados",
+              "period": "2025–2026",
+              "context": "a estrutura de formação e de mídia do partido foi construída e é mantida fora dos ciclos eleitorais, e é reaproveitada durante a campanha",
+              "sources": [
+                {
+                  "id": "src-rp-76"
+                },
+                {
+                  "id": "src-rp-81"
+                },
+                {
+                  "id": "src-rp-92"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
         }
       ]
     },
@@ -61,20 +1044,283 @@
       "capacities": [
         {
           "slug": "comunicacao-publica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "A comunicação da candidatura se apoia em peça própria protocolada no TSE (plano 'Brasil em Primeiro Lugar', 58 páginas, com carta ao eleitor, 14 eixos e cronograma de 100 dias) e em agenda de entrevistas e sabatinas (Poder Entrevista, O Tempo, portal Terra, portal A priori de Tocantins), além de participação no debate presidencial independente transmitido pelo MyNews. A trajetória anterior de comunicação pública está ligada à causa animal: o Projeto Ambientalistas é apresentado com o candidato como idealizador, e ele participou em 2015, como conselheiro da Anclivepa-SP, da criação do primeiro hospital público para cães e gatos do país. Em setembro de 2026, sob suspensão judicial da campanha digital, respondeu com declarações à imprensa nacional.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-comunicacao-publica-wg-01",
+              "kind": "historico",
+              "title": "Página institucional do Projeto Ambientalistas associada ao candidato",
+              "role": "idealizador e responsável pelo Projeto Ambientalistas, conforme a página 'Pessoas' do próprio projeto; fontes de imprensa o descrevem como fundador do projeto",
+              "complexity": "projeto com site institucional próprio voltado a meio ambiente e causa animal, anterior à candidatura; o candidato é identificado nessa condição também pela imprensa nacional (O Globo, GZH)",
+              "outcome": "página institucional do projeto ativa e candidatura apresentada publicamente a partir da causa animal",
+              "period": "não informado–2026",
+              "context": "a comunicação pública do candidato se construiu em torno da causa animal e do meio ambiente antes da disputa presidencial",
+              "sources": [
+                {
+                  "id": "src-wg-88"
+                },
+                {
+                  "id": "src-wg-87"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-wg-02",
+              "kind": "historico",
+              "title": "Programa de governo protocolado como peça de comunicação: carta ao eleitor, 14 eixos e cronograma de 100 dias",
+              "role": "autor do documento protocolado no TSE, na condição de candidato",
+              "complexity": "documento de 58 páginas com carta ao eleitor como introdução pessoal, 14 eixos temáticos e cronograma dos primeiros 100 dias de mandato; registro público no TSE",
+              "outcome": "protocolado no TSE e divulgado em reportagem de 20–21/09/2026",
+              "period": "2026",
+              "context": "a estrutura do documento é apresentada pela própria campanha como forma de 'transparência sobre as intenções de governo', com leitura segmentada por eixos",
+              "sources": [
+                {
+                  "id": "src-wg-84"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-wg-03",
+              "kind": "historico",
+              "title": "Agenda de entrevistas e sabatinas em veículos nacionais e regionais",
+              "role": "entrevistado na condição de candidato",
+              "complexity": "entrevistas ao Poder Entrevista (Poder360, em vídeo), ao jornal O Tempo (MG, em 18/09/2026), ao portal Terra e ao portal A priori (Tocantins), além de reuniões registradas com a equipe de comunicação da campanha (media training e alinhamento de estratégia)",
+              "outcome": "coberturas publicadas entre agosto e setembro de 2026; o candidato registrava menos de 1% nas pesquisas Datafolha de 28/09/2026",
+              "period": "2026",
+              "context": "a campanha faz agenda sistemática de entrevistas, incluindo veículos regionais de fora do eixo Rio–São Paulo",
+              "sources": [
+                {
+                  "id": "src-wg-90"
+                },
+                {
+                  "id": "src-wg-91"
+                },
+                {
+                  "id": "src-wg-92"
+                },
+                {
+                  "id": "src-wg-20"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-wg-04",
+              "kind": "historico",
+              "title": "Participação em debate presidencial independente com prova de dados ('Brasil em números')",
+              "role": "debatedor, ao lado de Rui Costa Pimenta (PCO), Samara Martins (UP), Hertz Dias (PSTU) e Clariana Barão (DC)",
+              "complexity": "debate transmitido pelo MyNews com outros veículos independentes, em formato de quiz sobre indicadores brasileiros; registrado que ele e Hertz Dias lideraram o primeiro bloco",
+              "outcome": "cobertura publicada em 2026, com destaque para o formato do programa",
+              "period": "2026",
+              "context": "a campanha usa debates fora das grandes redes como espaço de exposição pública",
+              "sources": [
+                {
+                  "id": "src-wg-93"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-wg-05",
+              "kind": "historico",
+              "title": "Comunicação sob restrição judicial: resposta pública à suspensão da campanha digital pelo TSE",
+              "role": "candidato; a campanha digital estava suspensa por decisão do TSE quando o candidato anunciou publicamente que correria 42 km por dia",
+              "complexity": "medida judicial de suspensão da campanha digital (agosto de 2026), depois revertida, e resposta pública do candidato por meio de declaração à imprensa nacional e de gesto anunciado",
+              "outcome": "decisão posterior liberou a propaganda digital em setembro de 2026; a declaração foi publicada pelo O Globo em 02/09/2026",
+              "period": "2026",
+              "context": "no período de restrição, a comunicação da campanha passou por declarações à imprensa em vez de propaganda paga",
+              "sources": [
+                {
+                  "id": "src-wg-88"
+                },
+                {
+                  "id": "src-wg-77"
+                },
+                {
+                  "id": "src-wg-76"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-comunicacao-publica-wg-06",
+              "kind": "posicao",
+              "title": "Propostas defendidas em entrevista que não constam do programa registrado",
+              "role": "candidato, em entrevista ao Poder360",
+              "complexity": "afirma ter propostas que não integram o programa de governo porque o partido 'não deixaria' que fossem apresentadas, entre elas o programa 'Meu Botox, Minha Vida' (botox pelo SUS), citado em reportagem da Veja com financiamento por remanejamento (redução de ministérios e recursos do FEFC)",
+              "outcome": "declarado em entrevista de setembro de 2026; o item não consta do documento protocolado no TSE",
+              "period": "2026",
+              "context": "a declaração expõe divergência pública entre a agenda pessoal do candidato e o conteúdo registrado pelo partido",
+              "sources": [
+                {
+                  "id": "src-wg-89"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
         },
         {
           "slug": "visao-estrategica",
-          "synthesis": "em consolidação",
-          "coverage": "insuficiente",
-          "coverageNote": "em consolidação",
-          "evidences": []
+          "synthesis": "O plano 'Brasil em Primeiro Lugar' (2027–2030) está dividido em três partes, com 14 eixos organizados pelo 'Método D35' (desburocratizar, desonerar, digitalizar, democratizar, desenvolver), carta ao eleitor e painel de metas para os primeiros 100 dias; o índice do TSE lista 44 propostas em 8 eixos. Declara metas numéricas — isenção do IRPF até 5 salários mínimos, piso de 2% do PIB para a defesa com 35% do incremento em modernização, fila única cirúrgica com prazos — e instrumentos, como substituir nove tributos federais por imposto único sobre movimentações financeiras, agenda legislativa de até 5 projetos prioritários por semestre e até 5 pactos institucionais por semestre. O eixo 'Saúde Única' integra saúde humana, animal e ambiental no SUS. Em entrevista, afirmou ter propostas que não constam do programa porque o partido 'não deixaria'.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-visao-estrategica-wg-01",
+              "kind": "proposta",
+              "title": "Plano 'Brasil em Primeiro Lugar' (2027–2030) com 14 eixos e painel de metas para os 100 primeiros dias",
+              "role": "candidato à Presidência pelo Democrata e autor do plano registrado no TSE",
+              "complexity": "plano de 58 páginas dividido em três partes, com 14 eixos temáticos organizados pelo 'Método D35' (desburocratizar, desonerar, digitalizar, democratizar, desenvolver), carta ao eleitor e painel de promessas com indicadores para os primeiros 100 dias; o índice oficial do TSE lista 44 propostas em 8 eixos",
+              "outcome": "protocolado no TSE em 2026 e divulgado em reportagens de agosto e setembro de 2026",
+              "period": "2027–2030 (horizonte do plano)",
+              "context": "a estrutura do plano é apresentada como cronograma de curto prazo (100 dias) dentro de um horizonte de quatro anos",
+              "sources": [
+                {
+                  "id": "src-wg-70"
+                },
+                {
+                  "id": "src-wg-84"
+                },
+                {
+                  "id": "src-wg-86"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-wg-02",
+              "kind": "proposta",
+              "title": "Metas numéricas declaradas: isenção do IRPF até 5 salários mínimos e piso de 2% do PIB para a defesa",
+              "role": "candidato; metas integram o programa registrado e a agenda legislativa proposta",
+              "complexity": "isenção do Imposto de Renda da pessoa física até 5 salários mínimos (cerca de 54% dos eleitores, segundo o candidato); piso de 2% do PIB para defesa, com 35% do incremento destinado a modernização; extinção da contribuição patronal sobre a folha; fila única cirúrgica com posição e alertas ao paciente",
+              "outcome": "registrado no plano em 2026; o financiamento é associado a imposto único sobre movimentações financeiras e a remanejamentos orçamentários",
+              "period": "2026–2030",
+              "context": "as metas são apresentadas com percentuais e prazos internos, e o plano não detalha item a item a compensação fiscal das desonerações",
+              "sources": [
+                {
+                  "id": "src-wg-70"
+                },
+                {
+                  "id": "src-wg-11"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-wg-03",
+              "kind": "proposta",
+              "title": "Instrumentos declarados: imposto único federal, agenda legislativa enxuta e pactos institucionais por semestre",
+              "role": "candidato; medidas integram o eixo de governança e economia do plano",
+              "complexity": "substituição de nove tributos federais por um imposto único sobre movimentações financeiras, com extinção da contribuição patronal; agenda legislativa de no máximo 5 projetos prioritários por semestre e até 5 pactos institucionais por semestre; plebiscito sobre presídios; fila única para cirurgias",
+              "outcome": "não observável no período eleitoral; as medidas estão declaradas no plano registrado e resumidas pela imprensa",
+              "period": "2026",
+              "context": "a limitagem deliberada de projetos por semestre é apresentada como método de gestão, e não como promessa de conteúdo",
+              "sources": [
+                {
+                  "id": "src-wg-85"
+                },
+                {
+                  "id": "src-wg-70"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-wg-04",
+              "kind": "proposta",
+              "title": "Integração da saúde humana, animal e ambiental no SUS ('Saúde Única') como eixo próprio",
+              "role": "candidato, médico-veterinário e conselheiro da Anclivepa-SP na criação do primeiro hospital veterinário público do país (2015)",
+              "complexity": "eixo 'Saúde Única' propõe integrar saúde humana, animal e ambiental no SUS; liga-se a medidas específicas (castração de animais abandonados, passagens subterrâneas em rodovias) defendidas em agenda de campanha e a uma trajetória de 1997 a 2022 em clínicas, hospitais públicos veterinários e faculdade",
+              "outcome": "proposta registrada no plano em 2026; a atuação anterior em hospitais públicos veterinários é documentada por fontes institucionais e de imprensa",
+              "period": "1997–2026",
+              "context": "o eixo converte a experiência profissional do candidato em proposta setorial dentro do plano nacional",
+              "sources": [
+                {
+                  "id": "src-wg-11"
+                },
+                {
+                  "id": "src-wg-81"
+                },
+                {
+                  "id": "src-wg-87"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-wg-05",
+              "kind": "posicao",
+              "title": "Prioridades declaradas em infraestrutura e segurança, com metas de fronteira e presídios",
+              "role": "candidato; propostas integram o plano registrado e o resumo divulgado pela imprensa",
+              "complexity": "eixo de infraestrutura com 'Brasil nos Trilhos' (trem de passageiros, transporte de commodities e interiorização) e eixo de segurança com isolamento total do comando em presídios, 'asfixia financeira' do crime organizado e fronteiras tecnológicas, além de plebiscito sobre presídios",
+              "outcome": "propostas registradas em 2026, sem execução observável; a defesa das passagens subterrâneas em rodovias foi apresentada em agenda no Distrito Federal em 03/09/2026",
+              "period": "2026",
+              "context": "o plano trata segurança e infraestrutura como eixos separados de economia e saúde, com metas operacionais (fila, prazos, fronteiras)",
+              "sources": [
+                {
+                  "id": "src-wg-11"
+                },
+                {
+                  "id": "src-wg-85"
+                },
+                {
+                  "id": "src-wg-22"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-visao-estrategica-wg-06",
+              "kind": "historico",
+              "title": "Terceira disputa presidencial/parlamentar consecutiva com programa próprio em partido sem representação no Congresso",
+              "role": "candidato do Democrata (antigo PMB), partido que lançou sua primeira candidatura presidencial em 2026; vice é a presidente nacional da legenda",
+              "complexity": "trajetória eleitoral em 2006 (deputado estadual, 4.517 votos), 2022 (candidatura considerada inapta pelo TSE, 6.580 votos nominais), 2024 (vereador, 2.777 votos) e 2026; partido com 0 deputados e 0 senadores em exercício nos dados abertos consultados e candidatura sem coligação registrada",
+              "outcome": "em 2026, primeira candidatura presidencial do partido, com plano de 58 páginas e 44 propostas no índice do TSE",
+              "period": "2006–2026",
+              "context": "o plano é apresentado por um partido sem bancada federal e com receita de campanha inferior à de outros concorrentes; a estratégia declarada é a de agenda de entrevistas e mídia própria em vez de coligação",
+              "sources": [
+                {
+                  "id": "src-wg-03"
+                },
+                {
+                  "id": "src-wg-15"
+                },
+                {
+                  "id": "src-wg-70"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
         }
       ]
     }
   },
-  "dataGaps": []
+  "dataGaps": [
+    "Noções de tiragem e de alcance auditado dos veículos partidários não estão disponíveis publicamente: para o Jornal O Poder Popular (PCB), o jornal Causa Operária/Diário Causa Operária (PCO), o Imprensa Popular (PCB) e o Opinião Socialista (PSTU) foram localizadas periodicidade e numeração de edições, mas não tiragem, assinantes ou audiência medida.",
+    "Não foram localizados títulos e editoras dos livros de Edmilson Costa (PCB) citados por imprensa e pelo programa registrado; a evidência de autoria ficou como 'parcial'.",
+    "A página 'Pessoas' do Projeto Ambientalistas (Wilson Grassi) não pôde ser validada por acesso direto em 29/09/2026, quando retornou conteúdo de terceiros; a condição de idealizador foi mantida com base em fontes de imprensa (O Globo, GZH).",
+    "Três fontes tiveram acesso direto bloqueado (HTTP 403) e foram registradas com essa observação: Hemeroteca/BNDigital (Imprensa Popular), Diário Causa Operária (duas páginas, com snapshot do Wayback Machine de 28/04/2026 para uma delas) e Poder360 (snapshot de 13/09/2026).",
+    "Prazos e custos por proposta não são informados nos índices do TSE dos programas de PCB, PSTU, PCO e Democrata; a classificação de horizonte/prazo se limita ao que os próprios documentos declaram em texto."
+  ]
 }

@@ -3,7 +3,7 @@
   "escopo": "mundo",
   "sources": [
     {
-      "id": "src-rs-80",
+      "id": "src-rs-98",
       "title": "Veja o que os candidatos pensam sobre política externa (Brics e China, Mercosul, operações dos EUA contra o 'narcoterrorismo', OCDE, minerais críticos, Israel e Gaza, Estados Unidos)",
       "publisher": "Folha de S.Paulo",
       "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
@@ -13,7 +13,7 @@
       "notes": "Respostas das campanhas de Renan Santos (Missão) e Augusto Cury (Avante) enviadas à Folha tema a tema; a reportagem informa que a campanha de Flávio Bolsonaro não respondeu. Cópia integral obtida por requisição direta (curl)."
     },
     {
-      "id": "src-rs-81",
+      "id": "src-rs-99",
       "title": "Inside the Brazilian Presidential Campaign That a Judge Shut Down–Then Reinstated",
       "publisher": "The Epoch Times (EUA)",
       "url": "https://theepochtimes.com/article/inside-the-brazilian-presidential-campaign-that-a-judge-shut-down-then-reinstated-6047428",
@@ -23,7 +23,7 @@
       "notes": "Perfil em veículo estrangeiro com declarações de Renan Santos sobre EUA, China e tarifas de Trump; a reportagem também ouve o ex-chanceler Ernesto Araújo."
     },
     {
-      "id": "src-rs-82",
+      "id": "src-rs-100",
       "title": "Outsider pitch — Renan Santos meets with foreign ambassadors ('Debating Brazil')",
       "publisher": "The Brazilian Report (newsletter, em inglês)",
       "url": "https://newsletters.brazilian.report/p/renan-santos-ambassadors-byd-tax-americanas",
@@ -93,7 +93,7 @@
       "notes": "Texto promocional de editora sobre a obra do candidato (traduções e vendas). Usado apenas como apoio para a projeção internacional declarada; não é reportagem nem dado auditado."
     },
     {
-      "id": "src-la-80",
+      "id": "src-la-91",
       "title": "Mudanças que o Brasil precisa na pauta dos presidenciáveis — cobertura da sabatina do Correio Braziliense com Hertz Dias, Augusto Cury, Ronaldo Caiado e Leonardo Avalanche",
       "publisher": "Correio Braziliense (PDF agregado pela Anfip)",
       "url": "https://www.anfip.org.br/wp-content/uploads/2026/07/Eleicoes-2026-Sabatina-com-presidenciaveis-cobertura-do-Correio-Braziliense.pdf",
@@ -103,7 +103,7 @@
       "notes": "Sabatina com pré-candidatos em julho/2026: temas tratados com Avalanche foram corrupção, valores individuais e reforma tributária; nenhuma pergunta ou resposta sobre política externa."
     },
     {
-      "id": "src-la-81",
+      "id": "src-la-92",
       "title": "Leonardo Avalanche Replaces Pablo Marçal and Will Be the PRTB Candidate for President",
       "publisher": "portugal-news.today (agregador em inglês; reproduz o Globo)",
       "url": "https://portugal-news.today/en/article/184968",
@@ -162,15 +162,33 @@
         "projection": "Presente em veículos estrangeiros: perfil em inglês do Valor International (01/06/2026), reportagem-perfil do The Epoch Times (EUA, 2026) com declarações sobre EUA, China e tarifas, e cobertura da newsletter The Brazilian Report em inglês (26/06/2026). Realizou coletiva especificamente para imprensa internacional (jornalistas da Europa e da Ásia; 03/09/2026) e falou em inglês ao corpo diplomático em Brasília. A campanha usou faixa aérea em Copacabana perguntando 'Who is Renan Santos?', citada por veículo estrangeiro como resposta ao baixo reconhecimento (Datafolha: 73% não o conheciam). Não foi localizado convite institucional de organismo internacional, participação em fórum global ou interlocução com chefe de Estado documentada.",
         "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
         "sources": [
-          { "id": "src-rs-80" },
-          { "id": "src-rs-81" },
-          { "id": "src-rs-82" },
-          { "id": "src-rs-83" },
-          { "id": "src-rs-84" },
-          { "id": "src-rs-85" },
-          { "id": "src-rs-86" },
-          { "id": "src-rs-71" },
-          { "id": "src-rs-46" }
+          {
+            "id": "src-rs-98"
+          },
+          {
+            "id": "src-rs-99"
+          },
+          {
+            "id": "src-rs-100"
+          },
+          {
+            "id": "src-rs-83"
+          },
+          {
+            "id": "src-rs-84"
+          },
+          {
+            "id": "src-rs-85"
+          },
+          {
+            "id": "src-rs-86"
+          },
+          {
+            "id": "src-rs-71"
+          },
+          {
+            "id": "src-rs-46"
+          }
         ],
         "evidenceStatus": "parcial",
         "confidenceLevel": "medium",
@@ -185,11 +203,21 @@
         "projection": "Projeção internacional não localizada. Não foram encontradas reportagens, entrevistas ou convites institucionais em veículos estrangeiros de referência; o material em inglês localizado é composto por agregadores que traduzem/parafraseiam imprensa brasileira (portugal-news.today, reproduzindo O Globo) e por uma entrada na Wikipédia em inglês; a BBC (serviço brasileiro, em português) o menciona apenas na lista de candidatos. Não há registro de participação em fórum global, convite internacional ou interlocução com liderança estrangeira durante a campanha.",
         "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
         "sources": [
-          { "id": "src-la-17" },
-          { "id": "src-la-80" },
-          { "id": "src-la-81" },
-          { "id": "src-la-22" },
-          { "id": "src-la-06" }
+          {
+            "id": "src-la-17"
+          },
+          {
+            "id": "src-la-91"
+          },
+          {
+            "id": "src-la-92"
+          },
+          {
+            "id": "src-la-22"
+          },
+          {
+            "id": "src-la-06"
+          }
         ],
         "evidenceStatus": "parcial",
         "confidenceLevel": "medium",
@@ -204,10 +232,18 @@
         "projection": "Cobertura em veículo estrangeiro: entrevista ao Valor International (04/09/2026), em inglês, sobre a recusa em anunciar a equipe econômica — matéria de política doméstica, não de política externa. A projeção internacional é declarada por ele e por sua editora: livros publicados 'em mais de 70 países', prêmio da Academia Chinesa de Literatura (2009) e programa TOUCHPEACE presente em mais de 100 países. Não foram localizadas, nas fontes consultadas, participação em fórum global, convite institucional internacional ou interlocução documentada com liderança estrangeira durante a campanha de 2026.",
         "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
         "sources": [
-          { "id": "src-ac-80" },
-          { "id": "src-ac-23" },
-          { "id": "src-ac-51" },
-          { "id": "src-ac-81" }
+          {
+            "id": "src-ac-80"
+          },
+          {
+            "id": "src-ac-23"
+          },
+          {
+            "id": "src-ac-51"
+          },
+          {
+            "id": "src-ac-81"
+          }
         ],
         "evidenceStatus": "parcial",
         "confidenceLevel": "medium",
@@ -222,12 +258,24 @@
         "projection": "Projeção internacional baixa e sem conteúdo de política externa. A única presença localizada em veículo estrangeiro é entrevista online ao portal Sputnik Brasil (26/08/2026), em que tratou de violência contra a mulher, feminicídio e prioridade a mulheres e crianças — não de política externa; a agenda foi registrada pela Agência Brasil e o conteúdo, pela imprensa. Também aparece em agregadores eleitorais em inglês e em listas de candidatos, inclusive da BBC (serviço brasileiro, em português), sem reportagem dedicada. Não há registro de convite institucional internacional, fórum global ou interlocução com liderança estrangeira.",
         "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
         "sources": [
-          { "id": "src-cb-19" },
-          { "id": "src-cb-80" },
-          { "id": "src-cb-81" },
-          { "id": "src-cb-82" },
-          { "id": "src-cb-83" },
-          { "id": "src-cb-05" }
+          {
+            "id": "src-cb-19"
+          },
+          {
+            "id": "src-cb-80"
+          },
+          {
+            "id": "src-cb-81"
+          },
+          {
+            "id": "src-cb-82"
+          },
+          {
+            "id": "src-cb-83"
+          },
+          {
+            "id": "src-cb-05"
+          }
         ],
         "evidenceStatus": "parcial",
         "confidenceLevel": "medium",

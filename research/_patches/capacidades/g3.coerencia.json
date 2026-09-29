@@ -1,266 +1,1901 @@
 {
   "grupo": "g3",
   "escopo": "coerencia",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-ec-95",
+      "title": "Entrevista com Edmilson Costa, Secretário Geral do PCB — “A Reforma da Previdência é parte da ofensiva do grande capital sobre o fundo público, que representa cerca de 700 bilhões de reais”",
+      "publisher": "Partido Comunista Brasileiro (PCB) / Jornal O Poder Popular",
+      "url": "https://pcb.org.br/portal2/23566",
+      "publishedAt": "2019-07-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Transcrição no site do partido (11/07/2019), um dia após a aprovação do texto-base da reforma da Previdência na Câmara (10/07/2019). O entrevistado é o secretário-geral do PCB, cargo que ocupa desde 17/10/2016. Trechos: a reforma 'é parte da ofensiva do grande capital para avançar sobre o fundo público, porque o conjunto de recursos que circula na área da Previdência está por volta de 700 bilhões de reais'; a intenção seria 'transformar esses recursos em previdência privada, a ser administrada pelo sistema financeiro'."
+    },
+    {
+      "id": "src-ec-96",
+      "title": "4 presidenciáveis prometem revogar reforma da Previdência e reverter regras de aposentadoria",
+      "publisher": "Gazeta do Povo (Vandré Kramer)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidencia-revogar-reforma-previdencia/",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento de 11/09/2026 sobre as propostas previdenciárias dos presidenciáveis. Sobre Edmilson Costa (PCB): defende a 'revogação das contrarreformas previdenciária e trabalhista'; sobre Hertz Dias (PSTU): sistema '100% público, solidário e universal', redução da idade mínima, valorização real dos benefícios, inclusão de informais/precarizados/apps e cobrança de dívidas de grandes empresas com o INSS; sobre Rui Costa Pimenta (PCO): restabelecimento das regras anteriores à reforma mais recente, 'ressarcimento de aposentadorias e pensões confiscadas' e limite máximo de contribuição de 25 anos (mulheres) e 30 anos (homens); sobre Wilson Grassi (Democrata): a Previdência é abordada dentro da proposta de reforma tributária, sem nova rodada de regras de aposentadoria. O texto registra ainda o cenário de pressão sobre as contas da Previdência."
+    },
+    {
+      "id": "src-ec-97",
+      "title": "Pré-candidatos à Presidência falam sobre as leis trabalhistas",
+      "publisher": "CNN Brasil (Gabriela Ghiraldelli e Salma Freua)",
+      "url": "https://cnnbrasil.com.br/politica/pre-candidatos-a-presidencia-falam-sobre-as-leis-trabalhistas",
+      "publishedAt": "2022-06-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Publicado em 15/06/2022 (atualizado em 30/07/2022). Respostas de pré-candidatos à pergunta da CNN sobre a legislação trabalhista. Sofia Manzano (PCB): 'somos a favor da revogação das contrarreformas trabalhista, da previdência e da emenda constitucional que estabeleceu o Teto de Gastos', com jornada de 30 horas semanais sem redução salarial. Vera Lúcia (PSTU): a reforma trabalhista de 2017 foi tratada como ataque aos direitos trabalhistas e o partido defendia 'a revogação completa desta reforma', redução da jornada sem redução de salários e direitos (carteira assinada, Previdência, 13º, licença-maternidade) para informais e trabalhadores de aplicativos."
+    },
+    {
+      "id": "src-ec-93",
+      "title": "51 anos depois: AI-5 nunca mais!",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/24515",
+      "publishedAt": "2019-12-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Manifesto publicado pelo PCB em 16/12/2019, assinado pela direção do partido (secretário-geral: Edmilson Costa), nos 51 anos do AI-5: afirma que 'o fantasma da ditadura volta a nos assombrar através de medidas governamentais' e rejeita o regime militar e seus atos institucionais. Versão em inglês foi republicada pela Liberation School ('Remembering the Years of Lead under Brazil's military rule: AI-5 never again!', com nota de que o texto foi publicado pelo site do PCB em 16/12/2019 e escrito pelo secretário-geral Edmilson Costa)."
+    },
+    {
+      "id": "src-hd-96",
+      "title": "4 presidenciáveis prometem revogar reforma da Previdência e reverter regras de aposentadoria",
+      "publisher": "Gazeta do Povo (Vandré Kramer)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidencia-revogar-reforma-previdencia/",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mesmo levantamento de 11/09/2026 citado em src-ec-91, registrado aqui com id próprio para o candidato do PSTU (padrão src-<slug-curto>-NN). Detalha a proposta previdenciária de Hertz Dias: revogação da reforma de 2019, sistema '100% público, solidário e universal', redução da idade mínima, valorização real dos benefícios, inclusão de trabalhadores informais, precarizados e de aplicativos e financiamento por cobrança de dívidas de grandes empresas com o INSS."
+    },
+    {
+      "id": "src-hd-97",
+      "title": "Hertz Dias defende ampliar cotas, expropriar bilionários e reduzir jornada de trabalho",
+      "publisher": "Alma Preta (Giovanne Ramos)",
+      "url": "https://almapreta.com.br/sessao/politica/hertz-dias-programa-governo-eleicoes-2026/",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 19/08/2026 sobre o programa do PSTU. Registra: participação do candidato na criação do movimento Hip Hop Quilombo Urbano (1989), 'uma das primeiras organizações de hip-hop do país', e integração à trajetória do Movimento Hip Hop Quilombo Brasil; candidaturas de 2018 (vice-presidência), 2020 (prefeitura de São Luís) e 2022 (governo do Maranhão, 5.191 votos, 0,15%); propostas de reestatização, expropriação de bilionários, jornada de 36 horas semanais sem redução salarial, fim da escala 6x1, aumento de 100% do salário mínimo (referência Dieese) e revogação das reformas trabalhista e previdenciária; seção racial com cotas, titulação de territórios quilombolas, expropriação sem indenização de fazendas do agronegócio sobre territórios indígenas e quilombolas, recursos do Banco do Brasil para agricultura familiar/quilombola/indígena; segurança pública com desmilitarização da PM, unificação das polícias sob controle dos trabalhadores, revogação da Lei Antidrogas, fim da privatização dos presídios, desencarceramento em massa e fim da criminalização de funk e batalhas de rima; saúde 100% estatal; moradia com IPTU progressivo; tarifa zero no transporte."
+    },
+    {
+      "id": "src-hd-98",
+      "title": "Pré-candidatos à Presidência falam sobre as leis trabalhistas",
+      "publisher": "CNN Brasil (Gabriela Ghiraldelli e Salma Freua)",
+      "url": "https://cnnbrasil.com.br/politica/pre-candidatos-a-presidencia-falam-sobre-as-leis-trabalhistas",
+      "publishedAt": "2022-06-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mesma reportagem de src-ec-92, com id próprio. Resposta do PSTU (Vera Lúcia, candidata do partido à Presidência em 2022): revogação completa da reforma trabalhista de 2017, redução da jornada sem redução de salários, garantia de direitos (férias, licença-maternidade, 13º) e carteira assinada para informais e trabalhadores de aplicativos, fiscalização e punição de empresas. Hertz Dias foi candidato ao governo do Maranhão pelo PSTU em 2022 e havia sido vice da chapa presidencial em 2018."
+    },
+    {
+      "id": "src-hd-99",
+      "title": "Campanha presidencial de Vera Lúcia em 2018 (verbete — chapa com Hertz Dias como vice)",
+      "publisher": "Wikipédia (em português)",
+      "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Vera_L%C3%BAcia_em_2018",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Verbete enciclopédico usado como índice: a chapa presidencial do PSTU de 2018 foi oficializada em 20/07/2018 com o professor Hertz Dias como vice e concorreu puro-sangue; o programa defendia estatização de universidades, hospitais privados e bancos, não pagamento da dívida pública e revogação das medidas do governo Michel Temer aprovadas pelo Congresso; sobre a Previdência, a candidata afirmou que não iria 'permitir nenhuma reforma da Previdência'. Fonte terciária — usada com apoio das demais fontes deste item (resposta do PSTU à CNN em 2022 e programa de 2026)."
+    },
+    {
+      "id": "src-hd-100",
+      "title": "Manifesto Rebelião Socialista — PSTU (documento nacional, fevereiro de 2018)",
+      "publisher": "PSTU (Partido Socialista dos Trabalhadores Unificado)",
+      "url": "https://static.congressoemfoco.com.br/2018/03/PSTU-Nacional_2018-02-21_ManifestoRebelia%CC%83oSocialista_A4_Ver4_FINAL.pdf-1.pdf",
+      "publishedAt": "2018-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "PDF do manifesto nacional do PSTU (21/02/2018), base programática das eleições de 2018 — ano em que Hertz Dias foi candidato a vice-presidente na chapa do partido. Entre as propostas do documento estão 'Desmilitarização da Polícia Militar, fim da Força Nacional de Segurança, fim das intervenções militares nas comunidades pobres; direito dos trabalhadores e dos bairros pobres à autodefesa e ao armamento' e eleição direta para as polícias."
+    },
+    {
+      "id": "src-hd-95",
+      "title": "PSTU lança pré-candidatura de Hertz Dias para presidente",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/02/24/pstu-lanca-pre-candidatura-de-hertz-dias-para-presidente.ghtml",
+      "publishedAt": "2026-02-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Notícia de 24/02/2026 sobre o anúncio da pré-candidatura e o manifesto do partido. Entre as medidas listadas: fim da escala 6x1 sem redução salarial, aumento geral dos salários rumo ao mínimo do Dieese, isenção de Imposto de Renda para assalariados, revogação das reformas Trabalhista e Previdenciária, garantia de direitos para trabalhadores de aplicativos e desmilitarização da PM."
+    },
+    {
+      "id": "src-rp-100",
+      "title": "4 presidenciáveis prometem revogar reforma da Previdência e reverter regras de aposentadoria",
+      "publisher": "Gazeta do Povo (Vandré Kramer)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidencia-revogar-reforma-previdencia/",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mesmo levantamento de 11/09/2026 (src-ec-91), com id próprio para o candidato do PCO. Detalha: Rui Costa Pimenta propõe o restabelecimento das regras anteriores à reforma mais recente, o 'ressarcimento de aposentadorias e pensões confiscadas' e limite máximo de contribuição de 25 anos para mulheres e 30 anos para homens."
+    },
+    {
+      "id": "src-rp-96",
+      "title": "Rui Costa Pimenta propõe salário mínimo de R$ 7,5 mil e reestatizações",
+      "publisher": "Gazeta do Paraná",
+      "url": "https://gazetadoparana.com.br/artigo/rui-costa-pimenta-propoe-salario-minimo-de-r-75-mil-e-reestatizacoes",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Panorama das propostas do PCO registradas no TSE: salário mínimo vital de R$ 7,5 mil com escala móvel, reestatizações, jornada reduzida e eixos de saúde, educação, trabalho, habitação e reforma agrária."
+    },
+    {
+      "id": "src-rp-97",
+      "title": "O que Rui Costa Pimenta conversou com o líder do Hamas?",
+      "publisher": "Diário Causa Operária (PCO)",
+      "url": "https://causaoperaria.org.br/2024/o-que-rui-costa-pimenta-conversou-com-o-lider-do-hamas/",
+      "publishedAt": "2024-02-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Id novo criado neste patch: no arquivo de patch g3.mundo.json esse mesmo texto foi gravado com o id 'src-rp-84', que no arquivo principal de rui-costa-pimenta corresponde a outra fonte (Diário Causa Operária sobre a operação da PF). Registra o retorno de Rui Costa Pimenta ao Brasil 'após mais de 10 dias no Catar, onde se reuniu com lideranças do movimento de resistência palestino, incluindo Ismail Hanié'. A página respondeu HTTP 403 à requisição por linha de comando (WAF); trecho obtido por resultado de busca."
+    },
+    {
+      "id": "src-rp-98",
+      "title": "PCO monta palanque para chefe do Hamas",
+      "publisher": "O Antagonista (Murilo Pavini)",
+      "url": "https://oantagonista.com.br/mundo/pco-monta-palanque-para-chefe-do-hamas/",
+      "publishedAt": "2024-03-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Id novo criado neste patch (o g3.mundo.json usou 'src-rp-85', ocupado por outra fonte no arquivo principal). Reportagem de 03/03/2024 sobre a divulgação pelo PCO, em vídeo, de mensagem de Ismail Haniyeh ao público brasileiro, no contexto do encontro da delegação do partido no Catar."
+    },
+    {
+      "id": "src-rp-99",
+      "title": "PCO diz que está '1.000% com o Hamas'",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/partidos-politicos/pco-diz-que-esta-1-000-com-o-hamas",
+      "publishedAt": "2023-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Id novo criado neste patch (o g3.mundo.json usou 'src-rp-86', ocupado por outra fonte no arquivo principal). Registra a declaração de apoio do PCO ao Hamas e a comparação feita pelo partido. A página respondeu HTTP 403 à requisição por linha de comando; título e trecho obtidos por resultado de busca em 29/09/2026. Data exata do dia não capturada."
+    },
+    {
+      "id": "src-wg-94",
+      "title": "Wilson Grassi propõe Imposto Único Federal de 2% em plano de governo",
+      "publisher": "Agência Brasil / Rádio Nacional (Oussama El Ghaouri)",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/wilson-grassi-propoe-imposto-unico-federal-de-2-em-plano-de-governo",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Áudio/reportagem de 28/08/2026 sobre o plano 'Brasil em Primeiro Lugar' (14 eixos): Imposto Único Federal cobrado automaticamente a 2% sobre transações de débito, crédito e Pix, substituindo tributos federais sobre folha, faturamento e produção; contribuição previdenciária patronal sobre a folha zerada; isenção do Imposto de Renda até cinco salários mínimos (R$ 8.105); segurança pública com isolamento de lideranças de facções e inteligência financeira, com consulta à população sobre modelo de presídios de segurança máxima como em El Salvador (adotado desde 2023); saúde única (humana, animal e ambiental), veterinários nas equipes municipais de vigilância epidemiológica e financiamento federal para castração de cães e gatos; fila unificada de cirurgias e diagnósticos; carreira de pesquisador federal por processo seletivo."
+    },
+    {
+      "id": "src-wg-95",
+      "title": "4 presidenciáveis prometem revogar reforma da Previdência e reverter regras de aposentadoria",
+      "publisher": "Gazeta do Povo (Vandré Kramer)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidencia-revogar-reforma-previdencia/",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mesmo levantamento de 11/09/2026 (src-ec-91), com id próprio para o candidato do Democrata: Wilson Grassi aborda a Previdência dentro da proposta de reforma tributária e não apresenta diretrizes para uma nova reforma das regras de aposentadoria; o texto enquadra o plano dele entre os que não trazem mudanças relevantes para as regras previdenciárias."
+    },
+    {
+      "id": "src-wg-96",
+      "title": "Eleições 2026: conheça as propostas e o perfil de Wilson Grassi (Democrata)",
+      "publisher": "Portal Bandeirantes (Band)",
+      "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-wilson-grassi-democrata",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil e propostas do candidato: na área de segurança e proteção animal, propõe induzir, com cofinanciamento federal, a criação de delegacias e núcleos de polícia voltados à proteção animal. A página respondeu HTTP 403 à requisição por linha de comando; título e trecho obtidos por resultado de busca em 29/09/2026."
+    },
+    {
+      "id": "src-wg-97",
+      "title": "Em plano de governo, presidenciável do Democrata propõe imposto único",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/em-plano-de-governo-presidenciavel-do-democrata-propoe-imposto-unico",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem de 13/08/2026 sobre o plano registrado: imposto único cobrado automaticamente na movimentação financeira e elevação da faixa de isenção do Imposto de Renda."
+    },
+    {
+      "id": "src-ec-94",
+      "title": "Candidatos nas eleições de 2026 assinam carta de compromisso com defesa da Palestina",
+      "publisher": "Opera Mundi",
+      "url": "https://operamundi.uol.com.br/eleicoes-2026-brasil/candidatos-nas-eleicoes-de-2026-assinam-carta-de-compromisso-com-defesa-da-palestina/",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Id novo criado neste patch com o mesmo URL de uma fonte registrada sob id da série de outro candidato (ver dataGaps), para manter o padrão src-<slug-curto>-NN. Levantamento de 21/09/2026: quatro presidenciáveis signatários da carta de compromisso com a defesa da Palestina — Samara Martins (UP), Edmilson Costa (PCB), Hertz Dias (PSTU) e Rui Costa Pimenta (PCO) —, além de candidaturas a governos estaduais, Senado, Câmara e assembleias."
+    }
+  ],
   "candidates": {
     "edmilson-costa": {
       "coherence": [
         {
           "id": "coh-ec-previdencia",
-          "theme": "previdencia",
-          "timeline": [],
+          "theme": "Previdência e reformas trabalhista e previdenciária",
+          "timeline": [
+            {
+              "year": "2019",
+              "position": "Como secretário-geral do PCB, declarou em entrevista ao jornal O Poder Popular (11/07/2019, um dia após a aprovação do texto-base na Câmara) que a reforma da Previdência 'é parte da ofensiva do grande capital para avançar sobre o fundo público', citando cerca de R$ 700 bilhões que circulam na área e a intenção de 'transformar esses recursos em previdência privada, a ser administrada pelo sistema financeiro'. O candidato era secretário de Relações Internacionais e ex-secretário político do PCB-SP até 2016; não votou sobre a reforma, em razão de nunca ter exercido mandato.",
+              "sources": [
+                {
+                  "id": "src-ec-95"
+                },
+                {
+                  "id": "src-ec-03"
+                }
+              ]
+            },
+            {
+              "year": "2022",
+              "position": "A candidata do PCB à Presidência naquele ano, Sofia Manzano, respondeu à CNN Brasil que o partido era 'a favor da revogação das contrarreformas trabalhista, da previdência e da emenda constitucional que estabeleceu o Teto de Gastos' e defendia jornada de 30 horas semanais sem redução salarial; Edmilson Costa era o secretário-geral do partido (cargo desde 17/10/2016).",
+              "sources": [
+                {
+                  "id": "src-ec-97"
+                },
+                {
+                  "id": "src-ec-03"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O programa registrado no TSE — 'Construir o Poder Popular, rumo ao Socialismo' — defende a 'revogação das contrarreformas previdenciária e trabalhista'; o levantamento da Gazeta do Povo (11/09/2026) situa o candidato entre os quatro presidenciáveis que defendem a revogação da reforma de 2019. O índice oficial de propostas inclui ainda jornada de 30 horas semanais sem redução salarial, fim da escala 6x1, salário mínimo no piso do Dieese e revogação do arcabouço fiscal.",
+              "sources": [
+                {
+                  "id": "src-ec-96"
+                },
+                {
+                  "id": "src-ec-70"
+                },
+                {
+                  "id": "src-ec-74"
+                },
+                {
+                  "id": "src-ec-04"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende a revogação das reformas trabalhista e previdenciária e a volta de regras anteriores, com jornada de 30 horas semanais sem redução salarial e salário mínimo no piso do Dieese (2026).",
+          "proposedAction": "Programa do PCB registrado no TSE (2026): revogação das 'contrarreformas previdenciária e trabalhista', fim da escala 6x1, jornada de 30 horas, revogação do arcabouço fiscal, da Lei de Responsabilidade Fiscal e da autonomia do Banco Central.",
+          "historicalAction": "Ato praticado: entrevista de 11/07/2019 como secretário-geral do PCB contra a reforma da Previdência (transcrição no site do partido) e resposta do partido à CNN em 2022, quando também era secretário-geral, defendendo a revogação das contrarreformas. Não há voto, medida ou projeto de autoria: o candidato nunca exerceu mandato ou cargo público.",
+          "tensionNote": "A revogação não tem, no programa, cronograma, custo, fonte de financiamento ou regra de transição declarados; o PCB não tem bancada na Câmara nem no Senado (0 deputados e 0 senadores em exercício em 29/09/2026, conforme consultas às APIs oficiais já registradas no arquivo principal) e o programa não indica o instrumento (PEC ou lei) nem a maioria necessária. Como não houve mandato, não existe votação anterior para contrastar com a posição atual.",
+          "methodology": "Linha do tempo montada com fonte partidária de 2019, resposta do partido à CNN em 2022 e cobertura de imprensa + programa registrado no TSE em 2026. Em nenhum ponto houve ato de mandato: o candidato nunca exerceu cargo eletivo ou nomeado, de modo que a coerência é registrada entre posições declaradas e atos de direção partidária, e não entre propostas e votações.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-ec-95"
+            },
+            {
+              "id": "src-ec-97"
+            },
+            {
+              "id": "src-ec-96"
+            },
+            {
+              "id": "src-ec-70"
+            },
+            {
+              "id": "src-ec-74"
+            },
+            {
+              "id": "src-ec-04"
+            },
+            {
+              "id": "src-ec-03"
+            }
+          ]
         },
         {
-          "id": "coh-ec-privatizacoes",
-          "theme": "privatizacoes",
-          "timeline": [],
+          "id": "coh-ec-sistema-politico",
+          "theme": "Sistema político, Congresso e instituições",
+          "timeline": [
+            {
+              "year": "2019",
+              "position": "Manifesto '51 anos depois: AI-5 nunca mais!', publicado pelo PCB em 16/12/2019 pela direção do partido sob sua secretaria-geral, afirma que 'o fantasma da ditadura volta a nos assombrar através de medidas governamentais' e rejeita o regime militar e seus atos institucionais.",
+              "sources": [
+                {
+                  "id": "src-ec-93"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O programa registrado no TSE propõe extinção do Senado — substituído por um parlamento unicameral —, Assembleia Constituinte de 'Novo Tipo' convocada em dois anos, Conselhos Populares eleitos nos locais de trabalho, moradia e estudo, Orçamento Popular 100% deliberativo e revogabilidade de mandatos.",
+              "sources": [
+                {
+                  "id": "src-ec-70"
+                },
+                {
+                  "id": "src-ec-74"
+                },
+                {
+                  "id": "src-ec-04"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Em entrevista à Folha de S.Paulo (29/08/2026), o candidato defendeu estatizar o sistema financeiro e extinguir o Senado; a cobertura da convenção de 01/08/2026 (g1) registra as mesmas bandeiras (estatização do sistema financeiro, reestatização de empresas e fim do Senado).",
+              "sources": [
+                {
+                  "id": "src-ec-84"
+                },
+                {
+                  "id": "src-ec-18"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende a extinção do Senado, a convocação de uma Assembleia Constituinte de 'Novo Tipo' em dois anos e formas de democracia direta (Conselhos Populares, Orçamento Popular deliberativo, revogabilidade de mandatos).",
+          "proposedAction": "Programa registrado no TSE: extinção do Senado, Constituinte de Novo Tipo, Conselhos Populares, Orçamento Popular 100% deliberativo e revogabilidade de mandatos, além de reestruturação dos comandos das Forças Armadas e regulação das 'Big Techs'.",
+          "historicalAction": "Ato praticado: manifesto partidário de 16/12/2019 assinado pela direção do PCB sob sua secretaria-geral, rejeitando os atos da ditadura (AI-5). Não há proposição legislativa, voto ou decreto de autoria própria — nunca exerceu mandato nem cargo público.",
+          "tensionNote": "A extinção do Senado e a convocação de uma Constituinte de Novo Tipo implicam romper a ordem constitucional vigente: o programa fixa o prazo de dois anos, mas não indica o instrumento de convocação, o quórum, o que ocorre com os mandatos em curso nem como se daria a transição; o PCB não tem representação no Congresso e o candidato nunca exerceu cargo no Legislativo ou no Executivo, de modo que não há voto ou ato institucional anterior.",
+          "methodology": "Comparação entre manifesto partidário de 2019 (documento da direção do partido, sob sua secretaria-geral) e o programa registrado em 2026, com cobertura de imprensa das bandeiras de campanha. Nenhum dos dois registros é ato de mandato: o candidato nunca exerceu cargo público, o que está explicitado também no tensionNote.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-ec-93"
+            },
+            {
+              "id": "src-ec-70"
+            },
+            {
+              "id": "src-ec-74"
+            },
+            {
+              "id": "src-ec-04"
+            },
+            {
+              "id": "src-ec-84"
+            },
+            {
+              "id": "src-ec-18"
+            }
+          ]
         },
         {
           "id": "coh-ec-politica-externa",
-          "theme": "politica externa",
-          "timeline": [],
+          "theme": "Política externa, anti-imperialismo e organismos partidários internacionais",
+          "timeline": [
+            {
+              "year": "2012",
+              "position": "Como secretário de Relações Internacionais do PCB, participou do congresso do Partido Comunista Colombiano ('Edmilson Costa, Secretário Internacional do PCB, no Congresso do Partido Comunista Colombiano', registro no site do partido em 24/07/2012).",
+              "sources": [
+                {
+                  "id": "src-ec-62"
+                }
+              ]
+            },
+            {
+              "year": "2017",
+              "position": "O PCB registrou sua participação no 19º Encontro Internacional de Partidos Comunistas e Operários, encontro de partidos realizado em novembro de 2017, e o candidato (já como secretário-geral) foi apresentado como dirigente do partido naquele espaço.",
+              "sources": [
+                {
+                  "id": "src-ec-71"
+                },
+                {
+                  "id": "src-ec-61"
+                }
+              ]
+            },
+            {
+              "year": "2023",
+              "position": "Sob sua secretaria-geral, a direção nacional do PCB divulgou circular sobre a Plataforma Mundial Anti-imperialista; setores do partido contestaram o documento publicamente ('Sobre as mentiras e tergiversações na Circular do CC do PCB...', 2023) e o processo interno do ano incluiu a expulsão de Jones Manoel e de um ex-candidato a presidente (Brasil 247, 02/08/2023) e o registro de crise do partido no Rio Grande do Sul (site do PCB, 21/09/2023).",
+              "sources": [
+                {
+                  "id": "src-ec-82"
+                },
+                {
+                  "id": "src-ec-80"
+                },
+                {
+                  "id": "src-ec-79"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O programa registrado no TSE afirma o internacionalismo e a autodeterminação dos povos e declara solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental, com integração regional (ALBA e Unasul); a análise do OPEB (27/09/2026) registra que o documento substitui o 'universalismo pragmático' da diplomacia brasileira por uma leitura de enfrentamento e não detalha BRICS nem governança climática; em 21/09/2026 o candidato assinou a carta de compromisso com a defesa da Palestina, ao lado de outros três presidenciáveis.",
+              "sources": [
+                {
+                  "id": "src-ec-60"
+                },
+                {
+                  "id": "src-ec-70"
+                },
+                {
+                  "id": "src-ec-94"
+                },
+                {
+                  "id": "src-ec-63"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Declara a luta contra o imperialismo como eixo e propõe solidariedade ativa a Cuba, Palestina, Venezuela, Irã e Saara Ocidental, integração regional (ALBA e Unasul) e regulação das 'Big Techs', com monopólio estatal das telecomunicações e da internet.",
+          "proposedAction": "Programa registrado no TSE: nova ordem internacional baseada em cooperação e autodeterminação, parcerias comerciais com retenção de riquezas e tecnologia no país, solidariedade a países citados e reestruturação dos comandos das Forças Armadas.",
+          "historicalAction": "Ato praticado: atuação como secretário de Relações Internacionais do PCB (congresso do Partido Comunista Colombiano, 2012) e como secretário-geral (participação no 19º Encontro Internacional de Partidos Comunistas e Operários, 2017; circular do Comitê Central de 2023 sobre a Plataforma Mundial Anti-imperialista, seguida de expulsões e cisão regional). Não há negociação ou acordo conduzido em nome do Estado — o candidato nunca exerceu cargo público.",
+          "tensionNote": "A posição internacional declarada em 2026 mantém a linha anti-imperialista que o partido sustenta nas fontes de 2012 a 2023, mas o programa de 2026 não menciona a Plataforma Mundial Anti-imperialista nem os episódios internos de 2023, cuja condução ficou a cargo da direção do partido sob sua secretaria-geral; os documentos registrados são programáticos, sem instrumentos de Estado ou cronograma, e não há registro, nas fontes consultadas, de negociação internacional comandada pelo candidato em nome do Brasil — o histórico é de direção partidária.",
+          "methodology": "Linha do tempo com registros partidários (2012, 2017, 2023), programa registrado no TSE, análise do OPEB e cobertura de imprensa sobre a carta da Palestina. Destaca-se que se trata de atuação de direção partidária, e não de mandato: nunca houve exercício de cargo público eletivo ou nomeado.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-ec-62"
+            },
+            {
+              "id": "src-ec-71"
+            },
+            {
+              "id": "src-ec-61"
+            },
+            {
+              "id": "src-ec-82"
+            },
+            {
+              "id": "src-ec-80"
+            },
+            {
+              "id": "src-ec-79"
+            },
+            {
+              "id": "src-ec-60"
+            },
+            {
+              "id": "src-ec-70"
+            },
+            {
+              "id": "src-ec-94"
+            },
+            {
+              "id": "src-ec-63"
+            }
+          ]
         },
         {
-          "id": "coh-ec-aliancas-e-rupturas-a-esquerda",
-          "theme": "aliancas e rupturas a esquerda",
-          "timeline": [],
+          "id": "coh-ec-aliancas-e-rupturas",
+          "theme": "Alianças e rupturas à esquerda (PCB e PSOL)",
+          "timeline": [
+            {
+              "year": "2010",
+              "position": "Nota do PCB de 01/07/2010 comunica o fim das negociações nacionais com o PSOL sem acordo ('INVIABILIZADA A ALIANÇA ELEITORAL PCB/PSOL'); o impasse foi sobre o tempo de rádio e TV, e o Comitê Central havia admitido que o então secretário-geral Ivan Pinheiro fosse candidato a vice na chapa de Plínio de Arruda Sampaio. O candidato integrava a Comissão Política Nacional do partido desde 2001.",
+              "sources": [
+                {
+                  "id": "src-ec-77"
+                },
+                {
+                  "id": "src-ec-03"
+                }
+              ]
+            },
+            {
+              "year": "2012",
+              "position": "Já como dirigente partidário e candidato, foi vice na chapa da Frente de Esquerda (PSOL + PCB) à Prefeitura de São Paulo, encabeçada por Carlos Giannasi (PSOL): 62.431 votos, não eleita.",
+              "sources": [
+                {
+                  "id": "src-ec-09"
+                },
+                {
+                  "id": "src-ec-02"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O PCB disputa isolado: chapa pura com Cleusa Santos (PCB) e nenhuma coligação ou federação registrada nas fichas consultadas nas eleições presidenciais de 2026; o próprio programa é apresentado como programa do partido adotado pela candidatura.",
+              "sources": [
+                {
+                  "id": "src-ec-01"
+                },
+                {
+                  "id": "src-ec-18"
+                },
+                {
+                  "id": "src-ec-70"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
-          "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "statedPosition": "Concorre em 2026 com chapa pura do PCB, sem coligação ou federação; o programa registrado critica o PT e a via institucional de alianças amplas.",
+          "proposedAction": "Programa de 2026: construção de 'Poder Popular' e candidatura própria, sem coligação registrada; a chapa tem Cleusa Santos (PCB) como vice.",
+          "historicalAction": "Atos praticados: nota do PCB de 01/07/2010 encerrando as negociações com o PSOL sem acordo e a aliança efetivamente realizada em 2012 (vice na chapa do PSOL na Frente de Esquerda, 62.431 votos). Como nunca exerceu mandato, não houve voto ou gesto parlamentar de aliança — os registros são de direção partidária e de candidatura.",
+          "tensionNote": "Existem dois desfechos documentados em relação ao PSOL — negociação sem acordo em 2010 e aliança concretizada em 2012 — sem que as fontes desta rodada registrem explicação pública do candidato para a diferença; os contextos variam (eleição presidencial em 2010, municipal em 2012, presidencial em 2026) e são os próprios documentos a informá-los. Em 2026 não há coligação, e o programa afirma posição crítica ao PT e à via institucional.",
+          "methodology": "Linha do tempo com documentos do próprio PCB (2010) e registros partidários e de imprensa de 2012 e 2026. Marcos de aliança e ruptura partidária, sem mandato: o candidato nunca exerceu cargo público e não votou sobre nenhuma dessas articulações.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-ec-77"
+            },
+            {
+              "id": "src-ec-03"
+            },
+            {
+              "id": "src-ec-09"
+            },
+            {
+              "id": "src-ec-02"
+            },
+            {
+              "id": "src-ec-01"
+            },
+            {
+              "id": "src-ec-18"
+            },
+            {
+              "id": "src-ec-70"
+            }
+          ]
         },
         {
-          "id": "coh-ec-organizacao-partidaria",
-          "theme": "organizacao partidaria",
-          "timeline": [],
+          "id": "coh-ec-marcos-organizativos",
+          "theme": "Marcos organizativos da direção partidária (sucessão, crise interna e expulsões)",
+          "timeline": [
+            {
+              "year": "2016",
+              "position": "Em 17/10/2016, substituiu Ivan Pinheiro na secretaria-geral do PCB ('EDMILSON COSTA SUBSTITUI IVAN PINHEIRO NA SECRETARIA GERAL DO PCB'); dias depois publicou 'Carta de Edmilson Costa à militância comunista' (23/10/2016).",
+              "sources": [
+                {
+                  "id": "src-ec-76"
+                },
+                {
+                  "id": "src-ec-78"
+                }
+              ]
+            },
+            {
+              "year": "2018",
+              "position": "Como secretário-geral, criticou 'oligarquias' em Roraima em texto publicado pelo partido em 20/09/2018.",
+              "sources": [
+                {
+                  "id": "src-ec-85"
+                }
+              ]
+            },
+            {
+              "year": "2023",
+              "position": "Ano de crise interna: expulsão de Jones Manoel e de um ex-candidato a presidente foi noticiada pelo Brasil 247 em 02/08/2023; o PCB publicou nota sobre a crise do partido no Rio Grande do Sul em 21/09/2023; a circular do Comitê Central sobre a Plataforma Mundial Anti-imperialista foi contestada publicamente por militantes, que responderam com o texto 'Sobre as mentiras e tergiversações na Circular do CC do PCB'.",
+              "sources": [
+                {
+                  "id": "src-ec-80"
+                },
+                {
+                  "id": "src-ec-79"
+                },
+                {
+                  "id": "src-ec-82"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Foi oficializado candidato à Presidência na convenção nacional de 01/08/2026, na Câmara Municipal de São Paulo, com a chapa pura do partido e Cleusa Santos como vice.",
+              "sources": [
+                {
+                  "id": "src-ec-18"
+                },
+                {
+                  "id": "src-ec-06"
+                },
+                {
+                  "id": "src-ec-83"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
-          "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "statedPosition": "Dirige o PCB como secretário-geral nacional desde 2016 e disputa a Presidência em 2026 com chapa pura do partido.",
+          "proposedAction": "Candidatura presidencial com o programa registrado no TSE ('Construir o Poder Popular, rumo ao Socialismo'), apresentado como programa do partido adotado pela candidatura.",
+          "historicalAction": "Atos praticados de direção partidária: sucessão na secretaria-geral em 17/10/2016, carta à militância no mesmo mês, artigo de 2018 sobre Roraima e condução do partido no processo interno de 2023 (expulsões e crise no Rio Grande do Sul).",
+          "tensionNote": "São marcos organizativos de partido — congressos, notas, expulsões e convenções —, não de mandato: o candidato nunca exerceu cargo público eletivo ou nomeado, e as fontes não registram votação nominal de sua parte sobre qualquer tema. O processo interno de 2023 é contestado por setores expulsos e por textos publicados em site dissidente, o que está declarado na própria origem das fontes.",
+          "methodology": "Registros do próprio partido (2016, 2018, 2023) e imprensa (2023, 2026). Trata-se de marcos organizativos da legenda: nenhum deles é ato de governo ou de mandato, porque o candidato nunca ocupou cargo público — a marcação está repetida no tensionNote para evitar leitura de competência executiva.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-ec-76"
+            },
+            {
+              "id": "src-ec-78"
+            },
+            {
+              "id": "src-ec-85"
+            },
+            {
+              "id": "src-ec-80"
+            },
+            {
+              "id": "src-ec-79"
+            },
+            {
+              "id": "src-ec-82"
+            },
+            {
+              "id": "src-ec-18"
+            },
+            {
+              "id": "src-ec-06"
+            },
+            {
+              "id": "src-ec-83"
+            }
+          ]
         }
       ]
     },
     "hertz-dias": {
       "coherence": [
         {
-          "id": "coh-hd-previdencia-e-reforma-trabalhista",
-          "theme": "previdencia e reforma trabalhista",
-          "timeline": [],
+          "id": "coh-hd-previdencia",
+          "theme": "Previdência e reformas trabalhista e previdenciária",
+          "timeline": [
+            {
+              "year": "2018",
+              "position": "O programa da chapa presidencial do PSTU (Vera Lúcia, com Hertz Dias como vice) previa revogar as medidas do governo Michel Temer aprovadas pelo Congresso e a candidata afirmou que não iria 'permitir nenhuma reforma da Previdência'; o registro consta de verbete enciclopédico usado como índice.",
+              "sources": [
+                {
+                  "id": "src-hd-99"
+                },
+                {
+                  "id": "src-hd-01"
+                }
+              ]
+            },
+            {
+              "year": "2022",
+              "position": "O PSTU respondeu à CNN Brasil (15/06/2022) defendendo 'a revogação completa desta reforma' trabalhista, com mudança radical nas leis trabalhistas e redução da jornada sem redução de salários; naquele ano o candidato do partido à Presidência era Vera Lúcia e Hertz Dias disputou o governo do Maranhão.",
+              "sources": [
+                {
+                  "id": "src-hd-98"
+                },
+                {
+                  "id": "src-hd-01"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O manifesto de pré-candidatura de fevereiro de 2026 e o plano registrado no TSE defendem a revogação das reformas trabalhista e previdenciária; o levantamento da Gazeta do Povo (11/09/2026) detalha a proposta previdenciária: sistema '100% público, solidário e universal', redução da idade mínima, valorização real dos benefícios, inclusão de informais, precarizados e trabalhadores de aplicativos e financiamento por cobrança de dívidas de grandes empresas com o INSS.",
+              "sources": [
+                {
+                  "id": "src-hd-95"
+                },
+                {
+                  "id": "src-hd-96"
+                },
+                {
+                  "id": "src-hd-70"
+                },
+                {
+                  "id": "src-hd-05"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende a revogação da reforma da Previdência e das reformas trabalhistas, com previdência '100% pública, solidária e universal' e redução da idade mínima de aposentadoria (2026).",
+          "proposedAction": "Programa do PSTU registrado no TSE e manifesto de pré-candidatura: revogação das reformas, sistema previdenciário público e universal, idade mínima menor, valorização real dos benefícios, inclusão de trabalhadores de aplicativos e cobrança de dívidas de grandes empresas com o INSS.",
+          "historicalAction": "Atos praticados: posição assumida na chapa presidencial de 2018, da qual foi vice (programa da candidatura, sem votação nominal por parte dele) e resposta do partido à CNN em 2022, quando já era uma das lideranças eleitorais do PSTU no Maranhão. Não há voto, projeto ou medida: o candidato nunca exerceu mandato ou cargo público.",
+          "tensionNote": "O plano não traz cálculo atuarial, custo da redução da idade mínima nem estimativa das dívidas a serem cobradas; a revogação da reforma de 2019 exige emenda constitucional e o PSTU não tem bancada na Câmara nem no Senado (0 parlamentares em exercício em 29/09/2026), sem que o documento indique o caminho de votação; o plano registrado é apresentado como programa do partido ('guia para a ação'), não como conjunto de medidas a executar pela via institucional.",
+          "methodology": "Linha do tempo com programa da chapa de 2018 (verbete como índice, apoiado em fontes partidárias e de imprensa do próprio item), resposta do partido à CNN em 2022 e documentos de 2026 (manifesto, plano no TSE e levantamento de imprensa). Nenhum registro é de mandato: o candidato nunca exerceu cargo público, de modo que não há votação anterior para contrastar.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-hd-99"
+            },
+            {
+              "id": "src-hd-01"
+            },
+            {
+              "id": "src-hd-98"
+            },
+            {
+              "id": "src-hd-95"
+            },
+            {
+              "id": "src-hd-96"
+            },
+            {
+              "id": "src-hd-70"
+            },
+            {
+              "id": "src-hd-05"
+            }
+          ]
         },
         {
           "id": "coh-hd-questao-racial-e-terra",
-          "theme": "questao racial e terra",
-          "timeline": [],
+          "theme": "Questão racial, territórios quilombolas e terra",
+          "timeline": [
+            {
+              "year": "1989",
+              "position": "Participou da criação do movimento Hip Hop Quilombo Urbano, descrito como 'uma das primeiras organizações de hip-hop do país', e integra a trajetória do Movimento Hip Hop Quilombo Brasil.",
+              "sources": [
+                {
+                  "id": "src-hd-97"
+                },
+                {
+                  "id": "src-hd-83"
+                }
+              ]
+            },
+            {
+              "year": "2011",
+              "position": "O Movimento Negro Quilombo Raça e Classe foi fundado no Maranhão, conforme registro do blog do PSTU no estado (28/07/2011).",
+              "sources": [
+                {
+                  "id": "src-hd-79"
+                }
+              ]
+            },
+            {
+              "year": "2017",
+              "position": "Concedeu entrevista à publicação Em Luta sobre os '350 anos de escravidão' e as revoltas negras (08/03/2017), tratando organização do movimento negro e memória da escravidão.",
+              "sources": [
+                {
+                  "id": "src-hd-80"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O programa registrado dedica seção à questão racial: ampliação das cotas em universidades e no serviço público, titulação de territórios quilombolas, expropriação sem indenização de fazendas do agronegócio sobre territórios indígenas e quilombolas, punições a empregadores por práticas racistas, recursos do Banco do Brasil para agricultura familiar, quilombola e indígena e ensino de história e cultura afro-brasileira e indígena.",
+              "sources": [
+                {
+                  "id": "src-hd-97"
+                },
+                {
+                  "id": "src-hd-70"
+                },
+                {
+                  "id": "src-hd-05"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende ampliação de cotas, titulação de territórios quilombolas, demarcação de terras indígenas e expropriação de fazendas do agronegócio sobre esses territórios (2026).",
+          "proposedAction": "Programa registrado no TSE: cotas ampliadas, titulação quilombola, expropriação sem indenização, medidas contra racismo no trabalho e recursos do Banco do Brasil redirecionados à agricultura familiar, quilombola e indígena.",
+          "historicalAction": "Ato praticado anterior: participação na criação do movimento Hip Hop Quilombo Urbano em 1989 e no Movimento Negro Quilombo Raça e Classe, fundado no Maranhão em 2011 (registros partidários e de imprensa), além da entrevista de 2017 sobre a temática. Não há mandato, projeto de lei ou programa público executado — a trajetória é de movimento social e de magistério.",
+          "tensionNote": "As propostas de titulação e expropriação não vêm com valores, prazos, instrumento jurídico ou estimativa de alcance no material consultado; a maior parte depende de decisões do Congresso e do Judiciário, e o PSTU não tem bancada federal. Não há histórico de implementação a contrastar: o candidato nunca exerceu cargo executivo ou legislativo, e a evidência anterior é de movimento social e docência.",
+          "methodology": "Linha do tempo apoiada em registros partidários (2011), divulgação acadêmica e de imprensa sobre o movimento hip hop (1989, via reportagem de 2026 que registra a criação) e o programa de 2026. Trajetória de movimento social e de professor da rede pública, sem mandato — explicitado no tensionNote.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-hd-97"
+            },
+            {
+              "id": "src-hd-83"
+            },
+            {
+              "id": "src-hd-79"
+            },
+            {
+              "id": "src-hd-80"
+            },
+            {
+              "id": "src-hd-70"
+            },
+            {
+              "id": "src-hd-05"
+            }
+          ]
         },
         {
           "id": "coh-hd-seguranca-publica",
-          "theme": "seguranca publica",
-          "timeline": [],
+          "theme": "Segurança pública, polícias e política de drogas",
+          "timeline": [
+            {
+              "year": "2018",
+              "position": "O manifesto nacional do PSTU de fevereiro de 2018, base programática da chapa presidencial da qual Hertz Dias foi vice, propõe 'Desmilitarização da Polícia Militar, fim da Força Nacional de Segurança, fim das intervenções militares nas comunidades pobres', direito à autodefesa nos bairros pobres e eleição direta para as polícias.",
+              "sources": [
+                {
+                  "id": "src-hd-100"
+                },
+                {
+                  "id": "src-hd-01"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O manifesto de pré-candidatura (24/02/2026) lista a desmilitarização da PM entre as medidas; o programa registrado propõe desmilitarização e unificação das polícias sob controle dos trabalhadores, revogação da Lei Antidrogas, fim da privatização dos presídios, desencarceramento em massa e fim da criminalização de manifestações culturais periféricas, como funk e batalhas de rima.",
+              "sources": [
+                {
+                  "id": "src-hd-95"
+                },
+                {
+                  "id": "src-hd-97"
+                },
+                {
+                  "id": "src-hd-70"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende desmilitarizar a Polícia Militar, unificar as polícias sob controle dos trabalhadores, revogar a Lei Antidrogas, encerrar a privatização de presídios e descriminalizar drogas (2026).",
+          "proposedAction": "Programa registrado no TSE: desmilitarização e unificação das polícias, revogação da Lei Antidrogas, fim da privatização dos presídios, desencarceramento em massa e fim da criminalização de manifestações culturais periféricas.",
+          "historicalAction": "Ato praticado: posição assumida em documento programático de 2018 do partido cuja chapa presidencial integrou como candidato a vice (manifesto 'Rebelião Socialista'), mantida como bandeira em 2026. A trajetória anterior inclui ainda a criação do movimento Hip Hop Quilombo Urbano (1989), ligado à cultura periférica que o programa cita quanto à criminalização de manifestações — relação registrada nas fontes, sem dedução de causa.",
+          "tensionNote": "A desmilitarização e a unificação das polícias envolvem competência estadual (polícias militares) e exigem mudanças constitucionais e articulação com os estados, sem que o programa indique instrumento ou transição; o PSTU não tem bancada federal e o candidato nunca exerceu mandato, de modo que o registro de 2018 é posição de manifesto partidário, não ato praticado em cargo.",
+          "methodology": "Comparação entre manifesto partidário de 2018 (ano em que foi vice na chapa presidencial) e documentos de 2026 (manifesto de pré-candidatura e plano registrado no TSE), com reportagem de imprensa sobre o conteúdo do programa. Ponto de atenção metodológico: as evidências são de plataforma partidária, sem mandato — o candidato nunca exerceu cargo público, e o tensionNote explicita isso.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-hd-100"
+            },
+            {
+              "id": "src-hd-01"
+            },
+            {
+              "id": "src-hd-95"
+            },
+            {
+              "id": "src-hd-97"
+            },
+            {
+              "id": "src-hd-70"
+            }
+          ]
         },
         {
           "id": "coh-hd-jornada-e-renda",
-          "theme": "jornada e renda",
-          "timeline": [],
+          "theme": "Jornada, salário mínimo e renda",
+          "timeline": [
+            {
+              "year": "2018",
+              "position": "O programa da chapa presidencial de 2018 (Vera Lúcia/Hertz Dias) defendia salário mínimo igual ao valor calculado pelo Dieese, então estimado em R$ 3.800, e revogação das medidas do governo Temer.",
+              "sources": [
+                {
+                  "id": "src-hd-99"
+                },
+                {
+                  "id": "src-hd-01"
+                }
+              ]
+            },
+            {
+              "year": "2022",
+              "position": "O PSTU respondeu à CNN Brasil (15/06/2022) que defendia reduzir a jornada de trabalho sem redução de salários para gerar vagas e garantir direitos — carteira assinada, férias, 13º e licença-maternidade — a trabalhadores informais e de aplicativos.",
+              "sources": [
+                {
+                  "id": "src-hd-98"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O manifesto de fevereiro de 2026 e o programa registrado propõem fim da escala 6x1 sem redução salarial, jornada de 36 horas semanais, aumento de 100% do salário mínimo com referência no Dieese, isenção de Imposto de Renda para assalariados, bolsa equivalente a um salário mínimo para desempregados e vínculo empregatício para trabalhadores de aplicativos, com transparência de algoritmos.",
+              "sources": [
+                {
+                  "id": "src-hd-95"
+                },
+                {
+                  "id": "src-hd-97"
+                },
+                {
+                  "id": "src-hd-70"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende jornada de 36 horas semanais, fim da escala 6x1 sem redução salarial, aumento de 100% do salário mínimo (referência Dieese) e isenção de Imposto de Renda para assalariados (2026).",
+          "proposedAction": "Programa registrado no TSE: jornada de 36 horas, fim da escala 6x1, aumento de 100% do salário mínimo, bolsa-filho de um salário mínimo, fim da pejotização e das terceirizações, vínculo e transparência de algoritmos para aplicativos.",
+          "historicalAction": "Ato praticado: posição partidária assumida em 2018 (chapa presidencial da qual foi vice) e em 2022 (resposta do PSTU à CNN), mantida e ampliada em 2026 na sua própria candidatura. Não há medida, decreto ou projeto de autoria própria — nunca exerceu mandato.",
+          "tensionNote": "O aumento de 100% do salário mínimo e a jornada de 36 horas sem redução salarial não vêm acompanhados de estimativa de custo, memória de cálculo ou fonte detalhada de financiamento; o plano aponta taxação progressiva de lucros, controle de capitais e destinação de excedentes de empresas expropriadas, sem quantificar efeitos sobre a folha pública e o setor privado remanescente (o próprio plano limita a 25% a distribuição de dividendos das grandes empresas que permanecerem privadas). Não há histórico de implementação: o candidato nunca exerceu cargo executivo ou legislativo.",
+          "methodology": "Linha do tempo com programa de 2018, resposta do partido à CNN em 2022 e documentos de 2026. Registra-se que as posições de 2018 e 2022 são de documentos partidários/da candidatura então encabeçada por outra pessoa; o candidato era o vice em 2018 e, em 2022, disputava o governo do Maranhão — nenhum desses registros é ato de mandato.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-hd-99"
+            },
+            {
+              "id": "src-hd-01"
+            },
+            {
+              "id": "src-hd-98"
+            },
+            {
+              "id": "src-hd-95"
+            },
+            {
+              "id": "src-hd-97"
+            },
+            {
+              "id": "src-hd-70"
+            }
+          ]
         },
         {
           "id": "coh-hd-marcos-organizativos",
-          "theme": "marcos organizativos",
-          "timeline": [],
+          "theme": "Marcos organizativos e eleitorais (candidaturas e convenções)",
+          "timeline": [
+            {
+              "year": "2010",
+              "position": "Candidato a vice-governador do Maranhão pelo PSTU: 14.685 votos, não eleito (histórico do TSE compilado pelo Nexo).",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                }
+              ]
+            },
+            {
+              "year": "2018",
+              "position": "Candidato a vice-presidente na chapa de Vera Lúcia (PSTU): 55.762 votos (0,05%), 11ª de 13 chapas, conforme o histórico do TSE; o verbete do candidato registra 25.625 votos (0,02%) — divergência documentada nos próprios arquivos, que adotam o dado do TSE.",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                },
+                {
+                  "id": "src-hd-02"
+                }
+              ]
+            },
+            {
+              "year": "2020",
+              "position": "Candidato a prefeito de São Luís: 2.173 votos, não eleito (histórico do TSE).",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                }
+              ]
+            },
+            {
+              "year": "2022",
+              "position": "Candidato ao governo do Maranhão: 5.191 votos (0,15%), não eleito (histórico do TSE; reportagem de 2026 confirma o número).",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                },
+                {
+                  "id": "src-hd-97"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Pré-candidatura anunciada pelo PSTU em 24/02/2026 e candidatura confirmada em convenção nacional (registros do partido e da imprensa; o TSE lista 12 candidaturas na disputa em 11/09/2026 e o registro do candidato consta como DEFERIDO). O PSTU concorre isolado — nenhuma coligação ou federação registrada nas fontes desta rodada.",
+              "sources": [
+                {
+                  "id": "src-hd-95"
+                },
+                {
+                  "id": "src-hd-22"
+                },
+                {
+                  "id": "src-hd-72"
+                },
+                {
+                  "id": "src-hd-14"
+                },
+                {
+                  "id": "src-hd-15"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
-          "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "statedPosition": "Militante do PSTU desde pelo menos 2010, quando iniciou a série de candidaturas pelo partido (vice-governador em 2010, vice-presidente em 2018, prefeito de São Luís em 2020, governador em 2022 e presidente em 2026).",
+          "proposedAction": "Candidatura presidencial de 2026 com o programa registrado no TSE e chapa com Vanessa Portugal (PSTU) como vice.",
+          "historicalAction": "Atos praticados: quatro candidaturas anteriores (2010, 2018, 2020 e 2022) e as decisões de convenção do partido em 2026. Todos são marcos de candidatura e de organização partidária — o candidato nunca exerceu mandato, e as fontes desta rodada não confirmam cargo na direção nacional do PSTU nem o ano de filiação.",
+          "tensionNote": "A série de candidaturas e a convenção são marcos organizativos, não de mandato: nenhum cargo eletivo foi exercido e não há votação ou gestão para contrastar com as propostas. Não houve coligação ou federação em 2026 (partido isolado), de modo que a articulação registrada é de convenção partidária e de chapa própria; o PSTU não tem bancada na Câmara nem no Senado.",
+          "methodology": "Linha do tempo com o histórico eleitoral do TSE (via Nexo Jornal), verbete do candidato (usado como índice e confrontado com o dado do TSE), registros partidários e cobertura de imprensa das convenções de 2026. A divergência de votos de 2018 está registrada na própria timeline, com a opção pelo dado do TSE declarada.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-hd-01"
+            },
+            {
+              "id": "src-hd-02"
+            },
+            {
+              "id": "src-hd-97"
+            },
+            {
+              "id": "src-hd-95"
+            },
+            {
+              "id": "src-hd-22"
+            },
+            {
+              "id": "src-hd-72"
+            },
+            {
+              "id": "src-hd-14"
+            },
+            {
+              "id": "src-hd-15"
+            }
+          ]
         }
       ]
     },
     "rui-costa-pimenta": {
       "coherence": [
         {
-          "id": "coh-rp-politica-externa-e-palestina",
-          "theme": "politica externa e palestina",
-          "timeline": [],
+          "id": "coh-rp-politica-externa",
+          "theme": "Política externa, Palestina e apoio ao Hamas",
+          "timeline": [
+            {
+              "year": "2018",
+              "position": "Realizou 'maratona' de palestras e debates em 10 países entre 26/05 e 03/07/2018 sobre a situação política brasileira, em entrevista à RFI Brasil (31/05/2018) em que afirmou que 'as eleições no Brasil já estão comprometidas'.",
+              "sources": [
+                {
+                  "id": "src-rp-78"
+                },
+                {
+                  "id": "src-rp-02"
+                }
+              ]
+            },
+            {
+              "year": "2023",
+              "position": "O PCO declarou apoio ao Hamas na forma registrada pela imprensa ('PCO diz que está 1.000% com o Hamas'); o partido divulgou a posição em outubro de 2023.",
+              "sources": [
+                {
+                  "id": "src-rp-99"
+                }
+              ]
+            },
+            {
+              "year": "2024",
+              "position": "Reuniu-se no Catar, em março de 2024, com o líder do Hamas Ismail Haniyeh, em viagem de mais de dez dias — registro do diário do partido e reportagem do O Antagonista sobre a divulgação de mensagem de Haniyeh ao público brasileiro.",
+              "sources": [
+                {
+                  "id": "src-rp-97"
+                },
+                {
+                  "id": "src-rp-98"
+                },
+                {
+                  "id": "src-rp-79"
+                }
+              ]
+            },
+            {
+              "year": "2024",
+              "position": "A direção do PCO esteve na China em viagem de cerca de dez dias com visitas e conferências; em palestra publicada pelo Diário Causa Operária, descreveu o país como 'o Brasil que poderia ser e não é'.",
+              "sources": [
+                {
+                  "id": "src-rp-80"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O programa registrado no TSE inclui, no eixo de política externa, fortalecimento do BRICS, oposição à OTAN, autodeterminação dos povos palestino, libanês e sírio, apoio ao Irã diante de ataques de Israel e dos Estados Unidos e fim do bloqueio a Cuba; em 21/09/2026 assinou a carta de compromisso com a defesa da Palestina.",
+              "sources": [
+                {
+                  "id": "src-rp-70"
+                },
+                {
+                  "id": "src-rp-91"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende o fortalecimento do BRICS, a oposição à OTAN, a autodeterminação palestina, libanesa e síria e o fim do bloqueio a Cuba; mantém apoio declarado ao Hamas e à resistência palestina.",
+          "proposedAction": "Programa registrado no TSE: BRICS reforçado, oposição à OTAN, reconhecimento da autodeterminação dos povos palestino, libanês e sírio, apoio ao Irã e fim do bloqueio a Cuba, além de cancelamento das dívidas externa e interna.",
+          "historicalAction": "Atos praticados: viagem e reunião com o líder do Hamas no Catar (março de 2024), agenda internacional de palestras em 10 países em 2018, viagem da direção à China em 2024 e assinatura da carta de compromisso com a defesa da Palestina em 21/09/2026. Não há negociação conduzida em nome do Estado brasileiro — o candidato nunca exerceu cargo público.",
+          "tensionNote": "A atuação internacional registrada é de direção partidária e de agenda política (reuniões, declarações e viagens), não de representação do Estado: o candidato nunca exerceu cargo público, de modo que não há acordo, voto ou medida diplomática de sua autoria. O programa de 2026 não detalha instrumentos nem custos das medidas externas declaradas, e a posição sobre o Hamas é sustentada pelo partido desde 2023 sem que as fontes desta rodada registrem revisão ou explicação de mudança.",
+          "methodology": "Linha do tempo com entrevista de 2018 (RFI, consultada via Wayback por bloqueio do acesso direto), declaração partidária de 2023 registrada pela imprensa, coberturas de imprensa e do diário partidário sobre a viagem de 2024, programa registrado no TSE e levantamento de 21/09/2026. Todos os registros são de direção partidária ou de agenda de campanha — nunca de mandato, o que está indicado no tensionNote.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-rp-78"
+            },
+            {
+              "id": "src-rp-02"
+            },
+            {
+              "id": "src-rp-99"
+            },
+            {
+              "id": "src-rp-97"
+            },
+            {
+              "id": "src-rp-98"
+            },
+            {
+              "id": "src-rp-79"
+            },
+            {
+              "id": "src-rp-80"
+            },
+            {
+              "id": "src-rp-70"
+            },
+            {
+              "id": "src-rp-91"
+            }
+          ]
         },
         {
           "id": "coh-rp-relacao-com-o-judiciario",
-          "theme": "relacao com o judiciario",
-          "timeline": [],
+          "theme": "Relação com o Judiciário e o sistema eleitoral",
+          "timeline": [
+            {
+              "year": "2018",
+              "position": "Afirmou à RFI Brasil (31/05/2018) que 'as eleições no Brasil já estão comprometidas', em contexto de eleição presidencial sob discussão judicial da candidatura de Lula.",
+              "sources": [
+                {
+                  "id": "src-rp-78"
+                }
+              ]
+            },
+            {
+              "year": "2021",
+              "position": "Publicou o livro 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021), obra sobre censura e liberdade de expressão na sua trajetória editorial.",
+              "sources": [
+                {
+                  "id": "src-rp-02"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Em 11/08/2026, a Polícia Federal cumpriu mandados de busca e apreensão em endereços ligados ao PCO em São Paulo, na operação 'Causa Própria', por suspeita de desvio de recursos do fundo partidário e do fundo eleitoral; a Justiça Eleitoral determinou bloqueio de contas e bens e afastamento do presidente do partido por 180 dias (seis meses).",
+              "sources": [
+                {
+                  "id": "src-rp-03"
+                },
+                {
+                  "id": "src-rp-04"
+                },
+                {
+                  "id": "src-rp-05"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Em resposta, o PCO classificou a operação como 'perseguição política', 'ilegal, antidemocrática' e 'tática de intimidação'; o candidato negou ilegalidade nos pagamentos ('o juiz pode achar isso estranho, mas não é ilegal... não está na lei eleitoral que você é obrigado a contratar empresas de pessoas que não tenham vinculação partidária') e chamou a ação de 'ridícula', 'digna de palhaços'. Em 08/08/2026, em discurso na convenção, definiu a candidatura como 'antissistema'.",
+              "sources": [
+                {
+                  "id": "src-rp-87"
+                },
+                {
+                  "id": "src-rp-82"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Nota do diário do partido afirma que a operação teria origem em serviço secreto estrangeiro e registra a declaração 'querem me expulsar do País'; o candidato manteve a candidatura sob investigação, conforme a Folha (12/09/2026).",
+              "sources": [
+                {
+                  "id": "src-rp-84"
+                },
+                {
+                  "id": "src-rp-04"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Critica o sistema eleitoral e o Judiciário (a posição registrada no seu perfil inclui a dissolução do STF com juízes eleitos) e sustenta que a operação da PF contra o PCO é perseguição política.",
+          "proposedAction": "O programa registrado no TSE (51 propostas) não inclui a dissolução do STF; propõe estatização do sistema financeiro, fim da 'independência' do Banco Central e demais medidas econômicas e sociais.",
+          "historicalAction": "Ato praticado: declaração de 2018 sobre eleições comprometidas, livro de 2021 sobre censura e, em 2026, o episódio da operação 'Causa Própria' com medidas cautelares (bloqueio de contas e afastamento do cargo partidário por 180 dias) e a resposta pública do partido. Não houve julgamento de mérito registrado nas fontes desta rodada (sem denúncia formal ou sentença), e a candidatura permanece DEFERIDA.",
+          "tensionNote": "A proposta de dissolver o STF e eleger juízes circula como posição declarada do dirigente, mas não consta do programa registrado no TSE; simultaneamente, o candidato está sob investigação em curso da PF por suspeita de desvio de recursos de fundos partidário e eleitoral, com medidas cautelares e afastamento do cargo partidário por 180 dias, e descreve a operação como perseguição política — as fontes desta rodada não registram denúncia formal, sentença ou conclusão do procedimento. Os fatos são registrados como categorias, sem juízo sobre o mérito; como nunca exerceu mandato, não há ato legislativo ou de governo na relação.",
+          "methodology": "Linha do tempo com entrevista de 2018, obra publicada em 2021, coberturas de imprensa de 11–12/08/2026, nota do diário partidário e discurso da convenção. Fatos judiciais copiados na categoria das fontes (investigação em andamento, medidas cautelares, ausência de denúncia/sentença registrada), sem interpretação de mérito; o registro é de atos de direção partidária e declarações, não de mandato.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-rp-78"
+            },
+            {
+              "id": "src-rp-02"
+            },
+            {
+              "id": "src-rp-03"
+            },
+            {
+              "id": "src-rp-04"
+            },
+            {
+              "id": "src-rp-05"
+            },
+            {
+              "id": "src-rp-87"
+            },
+            {
+              "id": "src-rp-82"
+            },
+            {
+              "id": "src-rp-84"
+            }
+          ]
         },
         {
-          "id": "coh-rp-reformas-trabalhista-e-previdenciaria",
-          "theme": "reformas trabalhista e previdenciaria",
-          "timeline": [],
+          "id": "coh-rp-reformas-e-privatizacoes",
+          "theme": "Reformas trabalhista e previdenciária e privatizações",
+          "timeline": [
+            {
+              "year": "2018",
+              "position": "Apoiou criticamente a candidatura de Lula sem que o PCO entrasse na coligação; o partido relata que apoiou Lula em 2018, quando o petista estava preso, e também em 2022, e que não apoiou Lula em 2006 nem Dilma em 2010 e 2014.",
+              "sources": [
+                {
+                  "id": "src-rp-83"
+                },
+                {
+                  "id": "src-rp-02"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O programa registrado no TSE propõe o restabelecimento das regras anteriores à reforma mais recente, com 'ressarcimento de aposentadorias e pensões confiscadas' e limite máximo de contribuição de 25 anos para mulheres e 30 anos para homens.",
+              "sources": [
+                {
+                  "id": "src-rp-100"
+                },
+                {
+                  "id": "src-rp-70"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O mesmo programa propõe revogação das reformas trabalhista e da Previdência, restabelecimento integral da CLT, fim da terceirização, jornada máxima de 7 horas diárias e 35 semanais, proibição de demissões, auxílio-desemprego igual ao último salário e salário mínimo vital de ao menos R$ 7.500 com escala móvel.",
+              "sources": [
+                {
+                  "id": "src-rp-70"
+                },
+                {
+                  "id": "src-rp-19"
+                },
+                {
+                  "id": "src-rp-96"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende a revogação das reformas trabalhista e previdenciária e o restabelecimento das regras anteriores, com jornada de 35 horas semanais, proibição de demissões e salário mínimo vital de R$ 7.500 (2026).",
+          "proposedAction": "Programa registrado no TSE: revogação das reformas, restabelecimento integral da CLT, jornada de 7h diárias e 35 semanais, salário mínimo vital de R$ 7.500 com escala móvel, ressarcimento de aposentadorias e pensões confiscadas e cancelamento das privatizações (reestatização de Petrobras, Eletrobras, Vale, bancos e telefonia).",
+          "historicalAction": "Ato praticado: o programa de 2026 é documento de partido adotado pela candidatura, e o histórico registrado nas fontes é de posição eleitoral — apoio crítico a Lula em 2018 e 2022 sem entrada em coligação —, não de votação em reformas. Não há voto, projeto ou medida de autoria própria: o candidato nunca exerceu mandato ou cargo público.",
+          "tensionNote": "O documento declara que o partido 'não participa das eleições para fazer promessas' e trata a disputa como 'uma tribuna (e apenas mais uma) de propaganda', de modo que as medidas de revogação e reajuste de renda não vêm com custo, prazo ou instrumento; o PCO não tem bancada na Câmara nem no Senado (0 parlamentares em exercício em 29/09/2026) e a revogação de reformas exige emenda constitucional que o partido não tem votos para aprovar. Não há histórico de votação nem mandato para contrastar com a proposta.",
+          "methodology": "Linha do tempo com o programa registrado no TSE, levantamento de 11/09/2026 sobre previdência, cobertura do registro da candidatura e entrevista do diário partidário sobre os apoios eleitorais de 2018/2022. Como o candidato nunca exerceu cargo público, todo o registro é de posição declarada e de ato partidário — não de votação.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-rp-83"
+            },
+            {
+              "id": "src-rp-02"
+            },
+            {
+              "id": "src-rp-100"
+            },
+            {
+              "id": "src-rp-70"
+            },
+            {
+              "id": "src-rp-19"
+            },
+            {
+              "id": "src-rp-96"
+            }
+          ]
         },
         {
           "id": "coh-rp-reforma-agraria-e-povos-indigenas",
-          "theme": "reforma agraria e povos indigenas",
-          "timeline": [],
+          "theme": "Reforma agrária e povos indígenas",
+          "timeline": [
+            {
+              "year": "2026",
+              "position": "Em 19/09/2026, participou de ato na Aldeia Jaguapiru, em Dourados (MS), no lançamento da campanha do PCO no estado, com candidatos guarani-caiuá, dirigentes e militantes: discursou sobre a questão da terra, regularização de áreas e infraestrutura para a pequena produção, e afirmou que 'índios têm integral direito de se armar'. O partido afirma manter há anos atividade política entre os guarani-caiuá de Dourados.",
+              "sources": [
+                {
+                  "id": "src-rp-85"
+                },
+                {
+                  "id": "src-rp-86"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O programa registrado no TSE propõe reforma agrária com expropriação do latifúndio, demarcação de terras indígenas e 'soberania (não à internacionalização da Amazônia)'; o levantamento de propostas do PCO inclui reforma agrária entre os eixos, junto de habitação com expropriação de imóveis vagos de especuladores e proibição de despejos.",
+              "sources": [
+                {
+                  "id": "src-rp-70"
+                },
+                {
+                  "id": "src-rp-96"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende reforma agrária com expropriação do latifúndio e demarcação de terras indígenas, e sustenta o direito dos povos indígenas de se armarem (declaração de 19/09/2026 em Dourados).",
+          "proposedAction": "Programa registrado no TSE: expropriação do latifúndio, demarcação de terras indígenas, não internacionalização da Amazônia, nacionalização das reservas minerais e terras raras sob empresa estatal comandada pelos trabalhadores.",
+          "historicalAction": "Ato praticado em 2026: ato de campanha na Aldeia Jaguapiru (Dourados/MS) e posição declarada sobre regularização de áreas e armamento indígena; o partido registra atividade prévia de anos com os guarani-caiuá. Não há medida administrativa, projeto ou voto praticado: o candidato nunca exerceu mandato.",
+          "tensionNote": "As propostas de expropriação e demarcação dependem de decisões do Congresso e do Judiciário (demarcações são decididas no âmbito federal e judicial), sem que o programa indique cronograma, custo ou instrumento; o PCO não tem bancada federal. A declaração sobre armamento indígena consta de ato de campanha e não de proposta formal do documento registrado, segundo o material consultado — a diferença entre fala de campanha e proposta registrada está assinalada aqui.",
+          "methodology": "Linha do tempo com cobertura do ato de 19/09/2026 pelo diário do partido e por imprensa regional de Mato Grosso do Sul e com o programa registrado no TSE e levantamento de propostas. Trata-se de atos de campanha e documento partidário, sem mandato: o candidato nunca exerceu cargo público ou indígena, e a declaração sobre armamento é fala de ato, não proposta do plano.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-rp-85"
+            },
+            {
+              "id": "src-rp-86"
+            },
+            {
+              "id": "src-rp-70"
+            },
+            {
+              "id": "src-rp-96"
+            }
+          ]
         },
         {
           "id": "coh-rp-marcos-organizativos",
-          "theme": "marcos organizativos",
-          "timeline": [],
+          "theme": "Marcos organizativos e eleitorais (PT, PCO e candidaturas)",
+          "timeline": [
+            {
+              "year": "1976-1980",
+              "position": "Atividade política desde 1976, na ditadura militar: participou do Congresso de Refundação da UNE (Salvador, 1980) e foi um dos fundadores do PT em 1980, pela tendência Causa Operária; eleito diretor da CUT na região de São Paulo em 1985.",
+              "sources": [
+                {
+                  "id": "src-rp-02"
+                },
+                {
+                  "id": "src-rp-71"
+                }
+              ]
+            },
+            {
+              "year": "1992-1996",
+              "position": "Rompimento público da tendência com o PT em 1992 e expulsão em 1995, quando lançou o PCO (registro definitivo em 1996); preside o partido desde então.",
+              "sources": [
+                {
+                  "id": "src-rp-02"
+                },
+                {
+                  "id": "src-rp-90"
+                }
+              ]
+            },
+            {
+              "year": "2002-2014",
+              "position": "Candidaturas presidenciais pelo PCO: 2002 (38.619 votos; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%) e 2014 (12.324; 0,01%) — nenhuma eleita.",
+              "sources": [
+                {
+                  "id": "src-rp-02"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no Distrito Federal, com convenção nacional presidida por ele, confirmando a chapa com Antônio Carlos na vice-presidência; o partido afirma que 'concorre isoladamente em todos os cargos, sem coligações ou federações'.",
+              "sources": [
+                {
+                  "id": "src-rp-17"
+                },
+                {
+                  "id": "src-rp-19"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "A Justiça Eleitoral determinou o afastamento do presidente do partido por 180 dias no âmbito da operação 'Causa Própria' (11/08/2026); o partido contesta a medida e a candidatura segue DEFERIDA.",
+              "sources": [
+                {
+                  "id": "src-rp-03"
+                },
+                {
+                  "id": "src-rp-87"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
-          "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "statedPosition": "Preside o PCO desde 1995 e concorre à Presidência pelo partido em 2026, com chapa pura e sem coligações ou federações.",
+          "proposedAction": "Disputa isolada em 2026, com 156 candidaturas em 18 estados e no DF e programa registrado no TSE; o partido declara que a campanha é tribuna de propaganda e que a posição sobre o 2º turno será definida em conferência.",
+          "historicalAction": "Atos praticados: fundação do PT em 1980, rompimento em 1992, expulsão em 1995 e lançamento do PCO, presidência nacional desde 1995, quatro candidaturas presidenciais entre 2002 e 2014, apoio crítico a Lula em 2018 e 2022 sem coligação, convenções de 2026 com 156 candidaturas e afastamento judicial de 180 dias do cargo partidário em 2026.",
+          "tensionNote": "Todos os marcos são de organização partidária e de candidaturas — nunca de mandato: o candidato nunca exerceu cargo público eletivo ou nomeado, portanto não há votação, gestão ou votos em reformas a comparar com as propostas. A presidência do partido, exercida de forma contínua desde 1995, foi interrompida em 2026 por decisão judicial (afastamento por 180 dias) contestada pelo partido, sem registro de denúncia formal ou sentença nas fontes desta rodada; o apoio a Lula em 2018 e 2022 não se converteu em coligação registrada.",
+          "methodology": "Linha do tempo com verbete (usado como índice), publicação partidária sobre a história do PCO, perfil de imprensa, documentos de convenção de 2026 e coberturas da operação da PF. Marcos organizativos e eleitorais, sem mandato — todos os registros são de partido e candidatura, o que está declarado no tensionNote para não sugerir experiência executiva ou legislativa.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-rp-02"
+            },
+            {
+              "id": "src-rp-71"
+            },
+            {
+              "id": "src-rp-90"
+            },
+            {
+              "id": "src-rp-17"
+            },
+            {
+              "id": "src-rp-19"
+            },
+            {
+              "id": "src-rp-03"
+            },
+            {
+              "id": "src-rp-87"
+            }
+          ]
         }
       ]
     },
     "wilson-grassi": {
       "coherence": [
         {
-          "id": "coh-wg-tributacao-e-carga-sobre-o-trabalho",
-          "theme": "tributacao e carga sobre o trabalho",
-          "timeline": [],
+          "id": "coh-wg-saude-unica-e-saude-animal",
+          "theme": "Saúde única, saúde animal e hospital veterinário público",
+          "timeline": [
+            {
+              "year": "2012",
+              "position": "Participou das discussões sobre a implantação de um hospital público para cães e gatos no Tatuapé, na zona leste de São Paulo, quando atuava como conselheiro da Anclivepa-SP (verbete do candidato e perfil de imprensa).",
+              "sources": [
+                {
+                  "id": "src-wg-04"
+                },
+                {
+                  "id": "src-wg-07"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ]
+            },
+            {
+              "year": "2015",
+              "position": "Participou da criação do primeiro hospital público para cães e gatos de São Paulo, na condição de conselheiro da Anclivepa-SP; a página da instituição de ensino que mantém registra que ele 'ficou conhecido por ter trabalhado na criação do primeiro hospital veterinário público do Brasil junto com o Vereador Roberto Trípoli e posteriormente na implantação' do serviço.",
+              "sources": [
+                {
+                  "id": "src-wg-04"
+                },
+                {
+                  "id": "src-wg-07"
+                },
+                {
+                  "id": "src-wg-81"
+                },
+                {
+                  "id": "src-wg-72"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano 'Brasil em Primeiro Lugar' propõe o conceito de 'Saúde Única (humana, animal e ambiental) no SUS', com veterinários nas equipes municipais de vigilância epidemiológica, financiamento federal para castração de cães e gatos, prevenção de doenças, unificação da fila de cirurgias e diagnósticos e produção nacional de medicamentos.",
+              "sources": [
+                {
+                  "id": "src-wg-94"
+                },
+                {
+                  "id": "src-wg-70"
+                },
+                {
+                  "id": "src-wg-74"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O candidato propõe induzir, com cofinanciamento federal, a criação de delegacias e núcleos de polícia voltados à proteção animal.",
+              "sources": [
+                {
+                  "id": "src-wg-96"
+                },
+                {
+                  "id": "src-wg-11"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende a integração da saúde humana, animal e ambiental no SUS (saúde única), com veterinários na vigilância epidemiológica e financiamento federal para castração e proteção animal (2026).",
+          "proposedAction": "Plano registrado no TSE: 'Saúde Única' no SUS, veterinários na vigilância municipal, financiamento federal para castração de cães e gatos, fila nacional de cirurgias e exames e delegacias de proteção animal com cofinanciamento federal.",
+          "historicalAction": "Atos praticados antes da candidatura: participação nas discussões de 2012 e na criação do hospital público de cães e gatos de São Paulo em 2015, como conselheiro da Anclivepa-SP (associação profissional), junto de um vereador do município. Não há ato de governo, projeto de lei ou gestão pública de sua autoria: o candidato nunca exerceu cargo público, e a atuação foi associativa.",
+          "tensionNote": "A trajetória que sustenta a proposta é associativa e privada (conselheiro de associação profissional, empresário), não de gestão pública — não houve mandato ou cargo executivo. O plano, segundo a análise já registrada no arquivo principal, não apresenta valores orçamentários medida a medida e declara evitar prometer o que a Presidência não decide sozinha, sem que o material consultado indique fonte de custeio específica para a ampliação da rede de saúde única.",
+          "methodology": "Linha do tempo com verbete usado como índice, reportagens de imprensa (2018, 2026) e página institucional da mantenedora de ensino ligada ao candidato, além do plano registrado e da cobertura da Agência Brasil. Registro de atuação associativa e municipal em 2012–2015 e de proposta de 2026 — o candidato nunca exerceu cargo público, o que está indicado também no tensionNote.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-wg-04"
+            },
+            {
+              "id": "src-wg-07"
+            },
+            {
+              "id": "src-wg-03"
+            },
+            {
+              "id": "src-wg-81"
+            },
+            {
+              "id": "src-wg-72"
+            },
+            {
+              "id": "src-wg-94"
+            },
+            {
+              "id": "src-wg-70"
+            },
+            {
+              "id": "src-wg-74"
+            },
+            {
+              "id": "src-wg-96"
+            },
+            {
+              "id": "src-wg-11"
+            }
+          ]
         },
         {
-          "id": "coh-wg-saude-unica-e-saude-animal",
-          "theme": "saude unica e saude animal",
-          "timeline": [],
+          "id": "coh-wg-tributacao-e-previdencia",
+          "theme": "Tributação, carga sobre o trabalho e financiamento da Previdência",
+          "timeline": [
+            {
+              "year": "2026",
+              "position": "O plano registrado no TSE parte de cinco 'travas', entre elas o custo de conformidade tributária e a tributação da folha de pagamento, e propõe substituir tributos federais incidentes sobre folha, faturamento e produção por um Imposto Único Federal cobrado automaticamente sobre movimentações financeiras, com isenção do Imposto de Renda até cinco salários mínimos (R$ 8.105) e fim da contribuição previdenciária patronal.",
+              "sources": [
+                {
+                  "id": "src-wg-70"
+                },
+                {
+                  "id": "src-wg-74"
+                },
+                {
+                  "id": "src-wg-97"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "A Rádio Nacional/Agência Brasil registrou a proposta em 28/08/2026: Imposto Único Federal de 2% sobre transações de débito, crédito e Pix, com a contribuição previdenciária patronal sobre a folha zerada e isenção do IR até cinco salários mínimos.",
+              "sources": [
+                {
+                  "id": "src-wg-94"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O levantamento da Gazeta do Povo (11/09/2026) registra que o candidato aborda a Previdência dentro da proposta de reforma tributária, sem apresentar diretrizes para uma nova rodada de regras de aposentadoria.",
+              "sources": [
+                {
+                  "id": "src-wg-95"
+                },
+                {
+                  "id": "src-wg-70"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende substituir tributos federais sobre folha, faturamento e produção por um Imposto Único Federal sobre movimentação financeira, zerar a contribuição previdenciária patronal e isentar o Imposto de Renda até cinco salários mínimos (2026).",
+          "proposedAction": "Plano registrado no TSE: Imposto Único Federal cobrado automaticamente na movimentação financeira, fim da contribuição previdenciária patronal, isenção de IR até R$ 8.105, ICMS e ISS mantidos fora por serem estaduais e municipais, com instrumento por emenda constitucional.",
+          "historicalAction": "Ato praticado: proposta apresentada em 2026 no plano registrado e em declarações de campanha; não há votação, projeto de autoria ou medida administrativa anterior — o candidato nunca exerceu mandato, de modo que não votou nem sobre a reforma da Previdência de 2019 nem sobre a reforma tributária de 2023.",
+          "tensionNote": "A substituição de nove tributos federais por um imposto sobre movimentação financeira depende de emenda constitucional, e a zeragem da contribuição previdenciária patronal altera a base que hoje financia a Previdência, enquanto o mesmo plano declara que não apresentará valores orçamentários medida a medida e que evitará prometer o que a Presidência não decide sozinha — o material consultado não traz alíquota de equilíbrio, estimativa de arrecadação, cálculo atuarial nem regra de transição para a Previdência, e ICMS e ISS permanecem fora do escopo federal.",
+          "methodology": "Linha do tempo restrita a 2026: não foram localizadas, nas fontes desta rodada, propostas tributárias próprias anteriores à candidatura de 2026 — a trajetória anterior é privada e associativa, sem mandato. Fatos obtidos do plano registrado no TSE, do levantamento da Agência Brasil/Rádio Nacional e da cobertura da Gazeta do Povo.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-wg-70"
+            },
+            {
+              "id": "src-wg-74"
+            },
+            {
+              "id": "src-wg-97"
+            },
+            {
+              "id": "src-wg-94"
+            },
+            {
+              "id": "src-wg-95"
+            }
+          ]
         },
         {
           "id": "coh-wg-seguranca-publica-e-sistema-prisional",
-          "theme": "seguranca publica e sistema prisional",
-          "timeline": [],
+          "theme": "Segurança pública, crime organizado e sistema prisional",
+          "timeline": [
+            {
+              "year": "2026",
+              "position": "O plano registrado trata o 'crime organizado administrado de dentro do sistema prisional' como uma das cinco 'travas' do país e propõe isolamento de lideranças criminosas em presídios federais de segurança máxima, bloqueio efetivo de sinal de telefonia nos presídios, asfixia financeira, integração de inteligência, combate à lavagem de dinheiro e reforço de fronteiras e portos.",
+              "sources": [
+                {
+                  "id": "src-wg-70"
+                },
+                {
+                  "id": "src-wg-74"
+                },
+                {
+                  "id": "src-wg-96"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Em 28/08/2026, o candidato propôs consultar a população sobre a adoção de um modelo de presídios de segurança máxima como o de El Salvador, que adota desde 2023 vigilância permanente e restrição das comunicações dos detentos; o plano também propõe piso de 2% do PIB para defesa, com no mínimo 35% vinculado à modernização (PEC 55/2023).",
+              "sources": [
+                {
+                  "id": "src-wg-94"
+                },
+                {
+                  "id": "src-wg-70"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende isolamento de lideranças de facções, expansão do sistema penitenciário federal de segurança máxima, bloqueio de sinal nos presídios, integração de inteligência e plebiscito sobre o modelo penitenciário (2026).",
+          "proposedAction": "Plano registrado no TSE: isolamento de lideranças, asfixia financeira do crime organizado, integração de inteligência e fronteiras, plebiscito sobre modelo penitenciário inspirado em El Salvador e piso de 2% do PIB para defesa.",
+          "historicalAction": "Ato praticado: proposta apresentada em 2026 no plano e em agenda de campanha (consulta à população sobre o modelo prisional). Não há ato público anterior de sua parte no tema — o candidato nunca exerceu cargo público, e não foram localizadas, nas fontes desta rodada, propostas próprias de campanhas anteriores (2006, 2022 e 2024) sobre segurança pública.",
+          "tensionNote": "A consulta à população sobre o modelo de El Salvador é proposta como plebiscito, sem data, texto ou desenho institucional declarados no material consultado; segurança pública e sistema prisional são competências compartilhadas com estados, e a expansão do sistema federal de segurança máxima e o piso de 2% do PIB para defesa não vêm com número de vagas, custo ou cronograma; o plano declara não apresentar valores orçamentários medida a medida. Sem mandato anterior, não há execução ou votação a contrastar.",
+          "methodology": "Linha do tempo somente com 2026: plano registrado no TSE, reportagem da Agência Brasil/Rádio Nacional sobre a proposta e levantamento de propostas em imprensa. Não houve exercício de cargo público em nenhum momento, o que impede qualquer leitura de histórico de execução — a marcação está no tensionNote.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "low",
+          "sources": [
+            {
+              "id": "src-wg-70"
+            },
+            {
+              "id": "src-wg-74"
+            },
+            {
+              "id": "src-wg-96"
+            },
+            {
+              "id": "src-wg-94"
+            }
+          ]
         },
         {
-          "id": "coh-wg-marcos-organizativos-e-eleitorais",
-          "theme": "marcos organizativos e eleitorais",
-          "timeline": [],
+          "id": "coh-wg-marcos-organizativos",
+          "theme": "Marcos organizativos e eleitorais (partidos, candidaturas e decisões eleitorais)",
+          "timeline": [
+            {
+              "year": "2006",
+              "position": "Concorreu a deputado estadual de São Paulo pelo PFL (nome de urna 'Wilson Veterinário'): 4.517 votos; o cadastro do TSE classificou o resultado como 'Suplente' e a imprensa o descreve como não eleito — nenhuma convocação ou posse para a suplência foi localizada.",
+              "sources": [
+                {
+                  "id": "src-wg-02"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ]
+            },
+            {
+              "year": "2022",
+              "position": "Concorreu a deputado federal por São Paulo pelo PV: cadastro do TSE com 'Candidatura não apta' e 6.580 votos nominais; o motivo do indeferimento não foi localizado nas fontes desta rodada.",
+              "sources": [
+                {
+                  "id": "src-wg-02"
+                },
+                {
+                  "id": "src-wg-04"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ]
+            },
+            {
+              "year": "2024",
+              "position": "Concorreu a vereador de São Paulo pelo PRTB, com registro DEFERIDO e partido isolado: 2.777 votos, não eleito; bens declarados de R$ 24,62 milhões.",
+              "sources": [
+                {
+                  "id": "src-wg-02"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O Democrata — antigo PMB, renomeado em dezembro de 2025 — oficializou a chapa em convenção nacional no Rio de Janeiro, em 02/08/2026, com o candidato e Suêd Haidar (presidente e fundadora do partido) na vice; é a primeira candidatura presidencial própria da legenda. Registro no TSE em 12/08/2026, DEFERIDO, com partido isolado e bens declarados de R$ 50 milhões.",
+              "sources": [
+                {
+                  "id": "src-wg-04"
+                },
+                {
+                  "id": "src-wg-03"
+                },
+                {
+                  "id": "src-wg-79"
+                },
+                {
+                  "id": "src-wg-02"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Em 30/08/2026, o ministro Dias Toffoli suspendeu 8 perfis de redes sociais da campanha por omissão de perfis na lista protocolada 17 dias após o registro (perfis só poderiam ser usados 48h após a comunicação; ao menos um perfil não informado tinha 156 mil seguidores), qualificando a omissão como 'indício de fraude à lei'; em 02/09/2026 a decisão foi revista e Toffoli liberou propaganda digital, participação em debates e repasses do FEFC, com a defesa alegando boa-fé e o MP eleitoral já tendo coletado mais de 360 páginas de relatórios.",
+              "sources": [
+                {
+                  "id": "src-wg-09"
+                },
+                {
+                  "id": "src-wg-08"
+                },
+                {
+                  "id": "src-wg-77"
+                },
+                {
+                  "id": "src-wg-78"
+                },
+                {
+                  "id": "src-wg-76"
+                },
+                {
+                  "id": "src-wg-83"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
-          "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "statedPosition": "Concorre à Presidência pelo Democrata (nº 35) com chapa pura e partido isolado; a vice é a presidente e fundadora do partido, Suêd Haidar.",
+          "proposedAction": "Candidatura presidencial registrada em 12/08/2026 com o plano 'Brasil em Primeiro Lugar', primeira candidatura própria do partido ao Planalto.",
+          "historicalAction": "Atos praticados: três candidaturas anteriores em partidos distintos (PFL em 2006, PV em 2022 e PRTB em 2024), a convenção nacional de 02/08/2026 e o episódio de suspensão e restabelecimento da campanha digital pelo TSE em 30/08–02/09/2026. Nenhum cargo público foi exercido em qualquer dos períodos — não há mandato, votação ou gestão a contrastar com as propostas.",
+          "tensionNote": "Todos os marcos são de candidatura e de decisão judicial eleitoral, sem mandato: em 2006 o resultado registrado é de suplência sem posse localizada; em 2022 a candidatura consta como 'não apta' no cadastro do TSE, sem que o motivo tenha sido localizado; em 2024 não foi eleito. A suspensão de 2026 foi revertida em dois dias e encerrada antes do pleito, sem registro de sentença condenatória nas fontes desta rodada, e a candidatura presidencial segue DEFERIDA.",
+          "methodology": "Linha do tempo com fichas e históricos do TSE replicados por Folha, Nexo e Estadão, verbete usado como índice, reportagens sobre a convenção e coberturas das decisões do TSE de 30/08 e 02/09/2026. Marcos organizativos e eleitorais, sem mandato, com a divergência entre cadastro do TSE ('Suplente' em 2006) e descrição de imprensa ('não eleito') registrada na própria timeline.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-wg-02"
+            },
+            {
+              "id": "src-wg-03"
+            },
+            {
+              "id": "src-wg-04"
+            },
+            {
+              "id": "src-wg-79"
+            },
+            {
+              "id": "src-wg-09"
+            },
+            {
+              "id": "src-wg-08"
+            },
+            {
+              "id": "src-wg-77"
+            },
+            {
+              "id": "src-wg-78"
+            },
+            {
+              "id": "src-wg-76"
+            },
+            {
+              "id": "src-wg-83"
+            }
+          ]
         },
         {
-          "id": "coh-wg-papel-do-estado-e-empresa-privada",
-          "theme": "papel do estado e empresa privada",
-          "timeline": [],
+          "id": "coh-wg-estado-e-empresa-privada",
+          "theme": "Papel do Estado, trajetória privada e financiamento da campanha",
+          "timeline": [
+            {
+              "year": "2018",
+              "position": "Reportagem da Veja São Paulo registra a criação de uma rede de treze clínicas veterinárias e de um plano de saúde para animais pelo candidato, antes da vida eleitoral recente.",
+              "sources": [
+                {
+                  "id": "src-wg-71"
+                }
+              ]
+            },
+            {
+              "year": "2024-2026",
+              "position": "Bens declarados à Justiça Eleitoral: R$ 24,62 milhões em 2024 (incluindo R$ 5 milhões em participações societárias e imóveis financiados no Tatuapé e no Guarujá) e R$ 50 milhões em 2026 (posse e direitos sobre imóveis financiados e participação no capital social de sociedades).",
+              "sources": [
+                {
+                  "id": "src-wg-02"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "A prestação de contas parcial até 08/09/2026 registra receita de R$ 850.150,00, dos quais R$ 850.000,00 de recursos próprios do candidato (100% da receita registrada) mais R$ 150,00 de pessoa física, e gasto contratado de R$ 890.399,66 (1,0% do limite), com 41% em impulsionamento de conteúdo.",
+              "sources": [
+                {
+                  "id": "src-wg-02"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano registrado adota o 'Método D35' (desburocratizar, desonerar, digitalizar, democratizar, desenvolver): 'crescer reduzindo atrito, não expandindo gasto', com Estado que licencia rápido, reduz obrigações acessórias, integra bases de dados federais e publica indicadores verificáveis; o plano declara não apresentar valores orçamentários medida a medida e evitar prometer o que a Presidência não decide sozinha.",
+              "sources": [
+                {
+                  "id": "src-wg-70"
+                },
+                {
+                  "id": "src-wg-74"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Na campanha, o programa 'Meu Botox, Minha Vida' (botox pelo SUS) teve como fonte de custeio declarada o remanejamento de recursos, com redução de ministérios e uso de recursos do FEFC, segundo a Veja (15/08/2026) citada no arquivo principal.",
+              "sources": [
+                {
+                  "id": "src-wg-03"
+                },
+                {
+                  "id": "src-wg-04"
+                }
+              ]
+            }
+          ],
           "publicExplanation": null,
-          "statedPosition": "em consolidação",
-          "proposedAction": "em consolidação",
-          "historicalAction": "em consolidação",
-          "tensionNote": "em consolidação",
+          "statedPosition": "Defende um Estado que 'licencie rápido', reduza obrigações acessórias e integre bases de dados, com carga tributária deslocada do trabalho e da produção para a movimentação financeira (2026).",
+          "proposedAction": "Plano registrado no TSE: Método D35, desburocratização e digitalização do Estado, integração de bases federais, isenção de IR até cinco salários mínimos e redução da tributação da folha; campanha financiada majoritariamente por recursos próprios.",
+          "historicalAction": "Ato praticado: trajetória privada registrada antes da candidatura (rede de treze clínicas e plano de saúde para animais, 2018; mantenedora de ensino), bens declarados à Justiça Eleitoral (2024 e 2026) e financiamento da campanha presidencial com R$ 850.000,00 de recursos próprios até 08/09/2026. Não há ato de gestão pública: o candidato nunca exerceu cargo executivo ou legislativo.",
+          "tensionNote": "A proposta de reduzir a presença do Estado convive com a criação de novo programa no SUS com fonte de custeio declarada por remanejamento (redução de ministérios e recursos do FEFC), sem detalhamento por rubrica; o próprio plano declara não apresentar valores orçamentários medida a medida nem prometer o que a Presidência não decide sozinha (reforma tributária por emenda constitucional; segurança compartilhada com estados). A evidência de trajetória é privada e associativa — não há mandato, orçamento público administrado ou votação anterior para contrastar.",
+          "methodology": "Linha do tempo com reportagem de 2018 sobre a rede de clínicas, dados de bens e de prestação de contas do TSE replicados por Nexo e Folha, plano registrado e coberturas de imprensa. Trajetória privada e prestação de contas de campanha como registro de atos praticados; nenhum deles é ato público de mandato — o candidato nunca exerceu cargo eletivo ou nomeado, o que está também no tensionNote.",
           "evidenceStatus": "parcial",
-          "confidenceLevel": "low"
+          "confidenceLevel": "medium",
+          "sources": [
+            {
+              "id": "src-wg-71"
+            },
+            {
+              "id": "src-wg-02"
+            },
+            {
+              "id": "src-wg-03"
+            },
+            {
+              "id": "src-wg-70"
+            },
+            {
+              "id": "src-wg-74"
+            },
+            {
+              "id": "src-wg-04"
+            }
+          ]
         }
       ]
     }
   },
   "dataGaps": [
-    "em consolidação"
+    "Os quatro candidatos deste grupo (Edmilson Costa/PCB, Hertz Dias/PSTU, Rui Costa Pimenta/PCO e Wilson Grassi/Democrata) nunca exerceram cargo público eletivo ou nomeado: todos os itens de coerência registram posições declaradas, documentos partidários, atos de campanha e decisões eleitorais — não há votação, medida administrativa ou execução orçamentária para contrastar com as propostas, e essa marcação foi repetida no tensionNote de cada item.",
+    "Edmilson Costa: não foram localizadas posições anteriores a 2019 do candidato sobre privatizações/estatais; as propostas de reestatização constam do programa de 2026 e da cobertura de 2026. A linha de previdência de 2019–2022 é de posição partidária (secretário-geral do PCB e candidata do partido em 2022), não de voto. A data e o conteúdo da nota de 01/07/2010 sobre a aliança PCB/PSOL foram conferidos na íntegra no site do partido; a partir de 2010 os registros de aliança passam a ser de candidatura própria.",
+    "Hertz Dias: o ano de filiação ao PSTU e a existência de cargo na direção nacional do partido seguem não confirmados nas fontes consultadas (registro já existente no arquivo principal); a posição de 2022 sobre a reforma trabalhista é do PSTU (candidatura de Vera Lúcia), ano em que o candidato disputou o governo do Maranhão. A divergência de votos de 2018 (55.762 pelo TSE e 25.625 pelo verbete) está registrada na timeline.",
+    "Rui Costa Pimenta: não foram localizados atos ou votações anteriores a 2026 sobre as reformas trabalhista e previdenciária além da posição eleitoral de apoio crítico a Lula em 2018 e 2022 (sem coligação); o PCO nunca teve bancada no Congresso e o partido declara que a campanha é tribuna de propaganda. O procedimento da operação 'Causa Própria' segue em andamento sem denúncia formal ou sentença registrada nas fontes desta rodada.",
+    "Wilson Grassi: o motivo do indeferimento/inaptidão da candidatura de 2022 (PV) permanece não localizado no TSE; não foram localizadas propostas próprias anteriores a 2026 sobre tributação, segurança pública ou Previdência — a trajetória anterior registrada é privada (clínicas veterinárias, plano de saúde animal, mantenedora de ensino) e associativa (Anclivepa-SP). Fonte de imprensa com a proposta de plebiscito sobre modelo prisional foi usada via Agência Brasil/Rádio Nacional.",
+    "Conflito de ids entre patches: no patch g3.mundo.json, os ids src-rp-82, src-rp-84, src-rp-85 e src-rp-86 foram gravados com fontes diferentes daquelas já existentes no arquivo principal de rui-costa-pimenta. Para não depender de ids ambíguos, este patch recriou com ids próprios as fontes de Hamas/Palestina (src-rp-97, src-rp-98 e src-rp-99) e o levantamento da carta da Palestina em id do próprio candidato (src-rp-91, já existente no arquivo principal).",
+    "Páginas do portal Band (perfil de Wilson Grassi) responderam HTTP 403 à requisição por linha de comando; o trecho citado foi obtido de resultado de busca em 29/09/2026. As páginas de causaoperaria.org.br e poder360.com.br usadas nas fontes de política externa também responderam 403 (registrado nas notas das próprias fontes).",
+    "Os temas foram selecionados por disponibilidade de material: previdência/reformas, política externa, questão racial e terra, segurança pública, tributação e marcos organizativos (alianças, rupturas, convenções e decisões eleitorais). Temas como reforma urbana, educação e saúde só entram quando havia documento registrado que os tratasse — não foram criados itens para lacunas sem base documental."
   ]
 }

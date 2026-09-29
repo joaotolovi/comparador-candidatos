@@ -72,7 +72,7 @@
       "notes": "Declaração de campanha sobre estrutura ministerial de segurança pública, citada por Metrópoles; evidência de prioridade declarada, não de ato praticado."
     },
     {
-      "id": "src-zema-80",
+      "id": "src-zema-162",
       "title": "Romeu Zema (Novo), candidato à Presidência, concede entrevista à Globo",
       "publisher": "g1 (Globo) — sabatina do Jornal Nacional",
       "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml",
@@ -82,7 +82,7 @@
       "notes": "Candidato afirmou que garantirá reposição da inflação ao salário mínimo e citou ajuste fiscal para levar a Selic a 6% ao ano; não detalhou o ajuste."
     },
     {
-      "id": "src-zema-81",
+      "id": "src-zema-163",
       "title": "Zema diz que salário mínimo terá correção pela inflação, mas não garante ganho real",
       "publisher": "Valor Econômico",
       "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/zema-diz-que-vai-manter-correo-do-salrio-mnimo-mas-no-garante-ganho-real.ghtml",
@@ -136,12 +136,24 @@
         ],
         "developmentModel": "O programa atribui ao Estado papel de planejador e indutor: 'não há desenvolvimento sem soberania em áreas estratégicas, capacidade industrial, domínio tecnológico e projeto nacional', com ênfase em ampliar a capacidade de planejamento, fortalecer a base produtiva e tecnológica e democratizar o orçamento público. O crescimento é associado à manutenção do arcabouço fiscal, ao investimento público (Novo PAC, leilões de rodovias e ferrovias, Petrobras e Minha Casa Minha Vida) e a uma política de transição energética e climática (matriz limpa, meta de desmatamento líquido zero até 2030 e trajetória de redução de emissões de 59%–67%). Trabalho aparece como eixo próprio (fim da escala 6x1, jornada de 40 horas sem redução salarial, regras para trabalho por aplicativos), e a redução de desigualdades é objetivo declarado, combinada com a continuidade de transferências de renda e políticas de educação e saúde. O setor privado é tratado como parceiro de investimento em infraestrutura e inovação, subordinado, no texto, às prioridades de soberania tecnológica e industrial.",
         "sources": [
-          { "id": "src-lula-06" },
-          { "id": "src-lula-07" },
-          { "id": "src-lula-80" },
-          { "id": "src-lula-05" },
-          { "id": "src-lula-81" },
-          { "id": "src-lula-82" }
+          {
+            "id": "src-lula-06"
+          },
+          {
+            "id": "src-lula-07"
+          },
+          {
+            "id": "src-lula-80"
+          },
+          {
+            "id": "src-lula-05"
+          },
+          {
+            "id": "src-lula-81"
+          },
+          {
+            "id": "src-lula-82"
+          }
         ],
         "coverage": "documentada",
         "coverageNote": "Plano registrado no TSE lido na íntegra (versão com camada de texto). O horizonte de 10–20 anos aparece de forma indireta: o programa fala em transformação estrutural sem data-limite, e o roteiro até 2035 localizado é documento do CDESS, órgão de governo.",
@@ -164,12 +176,24 @@
         ],
         "developmentModel": "A carta de compromisso declara que 'a iniciativa privada será o principal motor da economia' e reserva ao Estado garantir estabilidade, concorrência, infraestrutura, capital humano, regulação de qualidade e instrumentos para investimento de longo prazo. O crescimento é vinculado a produtividade, ambiente de negócios, conectividade, saneamento, mobilidade e segurança hídrica, com reorganização do gasto, avaliação de programas, revisão de subsídios e regras de transição. A proteção social é descrita como combinação de 'acolhimento e emancipação', conectando benefícios a qualificação, cuidado infantil, inclusão produtiva, habitação, saúde e educação, com prioridade declarada à infância e políticas para mulheres, população negra, idosos, pessoas com deficiência, indígenas e quilombolas. Meio ambiente e desenvolvimento aparecem como aliados: combate a desmatamento, grilagem e mineração ilegal, com bioeconomia, pagamento por serviços ambientais, mercado de carbono e agricultura de baixo carbono. Em política externa, o plano propõe agendas sem 'alinhamentos automáticos', voltada a abrir mercados, atrair investimento produtivo, proteger brasileiros no exterior, fortalecer a integração regional e defender regras multilaterais, e trata minerais estratégicos, energia limpa e biodiversidade como instrumentos de desenvolvimento.",
         "sources": [
-          { "id": "src-cg-20" },
-          { "id": "src-caiado-80" },
-          { "id": "src-caiado-81" },
-          { "id": "src-caiado-82" },
-          { "id": "src-caiado-83" },
-          { "id": "src-cg-21" }
+          {
+            "id": "src-cg-20"
+          },
+          {
+            "id": "src-caiado-80"
+          },
+          {
+            "id": "src-caiado-81"
+          },
+          {
+            "id": "src-caiado-82"
+          },
+          {
+            "id": "src-caiado-83"
+          },
+          {
+            "id": "src-cg-21"
+          }
         ],
         "coverage": "documentada",
         "coverageNote": "Plano da campanha (102 páginas) e espelho do mesmo PDF no Poder360 lidos na íntegra. A URL do arquivo no DivulgaCandContas não foi localizada nesta coleta; a base é o documento publicado pela campanha e a cobertura do registro em 14/08/2026.",
@@ -192,13 +216,27 @@
         ],
         "developmentModel": "O plano atribui ao Estado o papel de regulação e fiscalização e propõe que ele deixe de participar diretamente de atividades produtivas e comerciais, com privatização de todas as empresas estatais, uso de PPPs e concessões e criação de alternativa ao Fundo Eleitoral e ao Fundo Partidário. O crescimento é associado à queda dos juros via choque fiscal, à simplificação de impostos, à segurança jurídica e à infraestrutura, com atração de investimento em data centers, inteligência artificial, energia limpa e minerais críticos (terras raras, nióbio e lítio), aproveitando a matriz elétrica com 88% de fontes renováveis e a posição declarada de neutralidade na disputa entre Estados Unidos e China. No mercado de trabalho, propõe regime de contratação alternativo à CLT, com 'prevalência do negociado sobre o legislado', buscando um sistema que 'combine liberdade econômica, proteção social e mais oportunidades'. O desenvolvimento social inclui o depósito de R$ 1.000 ao nascer ('Sócios do Brasil'), condicionamento do Bolsa Família à aceitação de ofertas formais para adultos aptos ao trabalho e uma nova reforma da Previdência com gatilho automático de idade mínima e desvinculação do salário mínimo. Meio ambiente aparece como área própria (agronegócio e meio ambiente em capítulos separados) e a política externa inclui saída do BRICS, ingresso na OCDE e Mercosul como zona de livre comércio.",
         "sources": [
-          { "id": "src-zema-12" },
-          { "id": "src-zema-09" },
-          { "id": "src-zema-11" },
-          { "id": "src-zema-14" },
-          { "id": "src-zema-15" },
-          { "id": "src-zema-80" },
-          { "id": "src-zema-81" }
+          {
+            "id": "src-zema-12"
+          },
+          {
+            "id": "src-zema-09"
+          },
+          {
+            "id": "src-zema-11"
+          },
+          {
+            "id": "src-zema-14"
+          },
+          {
+            "id": "src-zema-15"
+          },
+          {
+            "id": "src-zema-162"
+          },
+          {
+            "id": "src-zema-163"
+          }
         ],
         "coverage": "documentada",
         "coverageNote": "Plano registrado no TSE (81 páginas) lido na íntegra pelo PDF espelhado pelo Poder360; a URL oficial no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal).",
@@ -221,13 +259,27 @@
         ],
         "developmentModel": "O papel atribuído ao Estado é criar condições para que as famílias 'conquistem autonomia, prosperidade e liberdade'; a proteção social é mantida e aperfeiçoada, descrita como 'o começo de uma trilha que leva à qualificação, ao trabalho, ao crédito e ao patrimônio', e a imprensa registra a manutenção dos programas sociais existentes. O crescimento é associado a segurança jurídica ('a regra do início é a regra do fim'), marcos regulatórios estáveis, PPPs e concessões para infraestrutura, com investimento declarado de R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias, fundo lastreado na securitização de ativos e imóveis da União e BNDES voltado a obras em território brasileiro. Os eixos setoriais incluem energia, agronegócio, minerais críticos, meio ambiente tratado como 'ativo verde', turismo, desenvolvimento regional e tecnologia e inovação, com inteligência artificial 'a serviço do cidadão'. A redução de impostos sobre o consumo, o crédito via CAIXA para empreendedores e o corte de gastos federais aparecem como instrumentos para reduzir o custo de vida e a dívida pública. Há eixo específico para mulheres ('Brasil por elas') e a reforma institucional é apresentada em capítulo próprio ('Brasil que não volta atrás'), com enxugamento da máquina e profissionalização da gestão pública.",
         "sources": [
-          { "id": "src-plano-pdf" },
-          { "id": "src-flavio-82" },
-          { "id": "src-g1-plano" },
-          { "id": "src-estadao-plano" },
-          { "id": "src-flavio-80" },
-          { "id": "src-flavio-81" },
-          { "id": "src-site-oficial" }
+          {
+            "id": "src-plano-pdf"
+          },
+          {
+            "id": "src-flavio-82"
+          },
+          {
+            "id": "src-g1-plano"
+          },
+          {
+            "id": "src-estadao-plano"
+          },
+          {
+            "id": "src-flavio-80"
+          },
+          {
+            "id": "src-flavio-81"
+          },
+          {
+            "id": "src-site-oficial"
+          }
         ],
         "coverage": "documentada",
         "coverageNote": "Plano registrado no TSE (76 páginas, 11 capítulos) lido na íntegra no PDF espelhado pelo Poder360 e conferido na versão publicada pela campanha; a lei orçamentária e o detalhamento fiscal do 'tesouraço' não constam do documento.",

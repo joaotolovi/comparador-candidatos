@@ -1,22 +1,1371 @@
 {
   "grupo": "g1",
   "escopo": "transversal:coerencia",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-lula-152",
+      "title": "Governo adia pente-fino no cadastro do BPC para depois das eleições e prioriza redução da fila do INSS",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/10/governo-adia-pente-fino-no-cadastro-do-bpc-para-depois-das-eleicoes-e-prioriza-reducao-da-fila-do-inss.ghtml",
+      "publishedAt": "2026-06-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Revisões do BPC agendadas entre maio e outubro remarcadas para a partir de janeiro de 2027; 280 mil consultas reagendadas; meta de economia de R$ 1,1 bilhão em 2026 e R$ 4,8 bilhões em 2027-2028; 33% das revisões resultam em cancelamento, segundo técnicos do INSS."
+    },
+    {
+      "id": "src-lula-153",
+      "title": "Ministro da Previdência diz ser contra nova reforma que aumente idade de aposentadoria",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/economia/ministro-da-previdencia-diz-ser-contra-nova-reforma-que-aumente-idade-de-aposentadoria/",
+      "publishedAt": "2026-07-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração do ministro da Previdência Social, Wolney Queiroz, contrária a nova reforma que eleve a idade de aposentadoria."
+    },
+    {
+      "id": "src-lula-154",
+      "title": "Ministro de Lula não descarta nova reforma da Previdência",
+      "publisher": "SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/ministro-de-lula-nao-descarta-nova-reforma-da-previdencia",
+      "publishedAt": "2026-09-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Ministro da Fazenda, Dario Durigan: tema não está em discussão agora, mas defende debate sobre sustentabilidade do sistema; decisão cabe ao presidente."
+    },
+    {
+      "id": "src-lula-155",
+      "title": "Lula sanciona nesta quinta fim da 'taxa das blusinhas'",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/10/lula-sanciona-nesta-quinta-fim-da-taxa-das-blusinhas.ghtml",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sanção do PLV 13/2026 zera a tarifa de importação de 20% para compras internacionais de até US$ 50; cobrança estava suspensa por medida provisória desde maio; varejo e indústria tentaram derrubar a proposta."
+    },
+    {
+      "id": "src-lula-156",
+      "title": "Áreas sob alerta de desmatamento caem 35% na Amazônia e 6% no Cerrado (ago/2025 a jan/2026)",
+      "publisher": "Ministério do Meio Ambiente e Mudança do Clima (gov.br)",
+      "url": "https://www.gov.br/mma/pt-br/noticias/areas-sob-alerta-de-desmatamento-caem-35-na-amazonia-e-6-no-cerrado-de-agosto-de-2025-a-janeiro-de-2026",
+      "publishedAt": "2026-02-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Dados de alertas (Deter/Inpe) divulgados após reunião da Comissão Interministerial Permanente de Prevenção e Controle do Desmatamento; texto vincula os números à meta de desmatamento zero até 2030."
+    },
+    {
+      "id": "src-lula-157",
+      "title": "Foz do Amazonas: governo Lula autoriza a exploração de petróleo e enfraquece a COP30",
+      "publisher": "SUMAÚMA",
+      "url": "https://sumauma.com/foz-do-amazonas-governo-lula-autoriza-a-exploracao-de-petroleo-e-enfraquece-a-cop30/",
+      "publishedAt": "2025-10-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a licença de operação concedida pelo Ibama à Petrobras para perfuração no bloco FZA-M-059 (AP), a 20 dias da COP30, e a reação de entidades que anunciaram ação judicial; artigo de opinião - usado apenas para o fato do licenciamento e da data."
+    },
+    {
+      "id": "src-lula-158",
+      "title": "PEC da Segurança Pública está entre as prioridades do esforço concentrado",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/08/27/pec-da-seguranca-publica-esta-entre-as-prioridades-do-esforco-concentrado",
+      "publishedAt": "2026-08-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Tramitação da PEC da Segurança Pública no Senado em agosto de 2026, com previsão de análise na CCJ."
+    },
+    {
+      "id": "src-lula-159",
+      "title": "Brasil anuncia menor taxa de desmatamento na Amazônia em 11 anos",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/meio-ambiente/noticia/2025/10/30/brasil-desmatamento.ghtml",
+      "publishedAt": "2025-10-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Dados do Inpe: 5.796 km² desmatados na Amazônia entre agosto de 2024 e julho de 2025 (-11,08%), menor taxa em 11 anos; Cerrado com redução de 11,49% no mesmo período."
+    },
+    {
+      "id": "src-flavio-116",
+      "title": "Flávio diz rejeitar nova reforma da Previdência e promete manter valorização do salário mínimo",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/flavio-diz-rejeitar-nova-reforma-da-previdencia-e-promete-manter-valorizacao-do-salario-minimo.shtml",
+      "publishedAt": "2026-06-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Candidato afirma que não pretende promover nova reforma previdenciária e defende ajuste fiscal com 'tesouraço' em impostos; sem definição sobre ministro da Economia."
+    },
+    {
+      "id": "src-flavio-117",
+      "title": "Veja como votaram os senadores na aprovação do arcabouço fiscal",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/politica/noticia/2023/06/21/veja-como-votaram-os-senadores-na-aprovacao-do-arcabouco-fiscal.ghtml",
+      "publishedAt": "2023-06-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Senado aprovou o arcabouço fiscal por 57 votos a 17 em 21/06/2023; a lista nominal registra Flávio Bolsonaro (PL-RJ) entre os votos contrários."
+    },
+    {
+      "id": "src-flavio-118",
+      "title": "Auxiliar de Flávio Bolsonaro para área econômica propõe cortes equivalentes a 1,5% do PIB",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/03/flavio-bolsonaro-economia-corte-gastos.ghtml",
+      "publishedAt": "2026-08-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Quatro etapas descritas pela equipe: Conselho Superior de Governança Fiscal; revisão do arcabouço para controlar a dívida; corte de 1,5% do PIB (~R$ 190 bilhões, base 2025); 'choque de gestão'. Origens citadas: securitização da dívida ativa, fundo imobiliário com imóveis da União, antecipação de royalties, revisão de estatais dependentes e ampliação de concessões/PPPs."
+    },
+    {
+      "id": "src-flavio-119",
+      "title": "Flávio diz que Brasil vai se alinhar a Israel a partir de 2027",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-que-brasil-vai-se-alinhar-a-israel-a-partir-de-2027/",
+      "publishedAt": "2026-06-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Promessa de transferir a embaixada brasileira em Israel para Jerusalém e de alinhamento a Israel a partir de 2027; críticas à condução da relação pelo governo atual."
+    },
+    {
+      "id": "src-flavio-120",
+      "title": "Votações da matéria PEC 45/2023",
+      "publisher": "Senado Federal - Atividade Legislativa",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/160011/votacoes",
+      "publishedAt": "2023-11-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Registro nominal da votação de 1º turno em 08/11/2023 (53 votos favoráveis e 24 contrários): 'Flávio Bolsonaro - Sim'."
+    },
+    {
+      "id": "src-flavio-121",
+      "title": "'Grave violação': a reação da Liga Árabe à abertura de escritório do Brasil em Jerusalém",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-50845592",
+      "publishedAt": "2019-12-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Escritório comercial da Apex-Brasil inaugurado em Jerusalém em dezembro de 2019; a embaixada brasileira permaneceu em Tel Aviv; a Liga Árabe classificou a abertura como 'grave violação'."
+    },
+    {
+      "id": "src-caiado-147",
+      "title": "Governo apresenta balanço da segurança pública com redução de crimes pelo 6º ano consecutivo",
+      "publisher": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/governo-apresenta-balanco-da-seguranca-publica-com-reducao-de-",
+      "publishedAt": "2025-01-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Balanço apresentado pelo governador em 30/01/2025: redução de crimes pelo 6º ano consecutivo, com queda de 55% na taxa de homicídios dolosos entre 2018 e 2024 (dados da SSP-GO). Página bloqueia acesso automatizado; conteúdo obtido em índice de busca e conferido pelo balanço oficial (src-caiado-116)."
+    },
+    {
+      "id": "src-caiado-148",
+      "title": "Redução em indicadores criminais faz de Goiás referência em segurança para o país",
+      "publisher": "Agência Goiás (governo do estado)",
+      "url": "https://agencia.go.gov.br/reducao-em-indicadores-criminais-faz-de-goias-referencia-em-seguranca-para-o-pais",
+      "publishedAt": "2026-03-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Balanço oficial: redução superior a 60% nos homicídios e acima de 90% nos crimes patrimoniais no período de governo, com investimentos em tecnologia e reorganização policial."
+    },
+    {
+      "id": "src-caiado-149",
+      "title": "Goiás investe R$ 32,6 bilhões na saúde e mais que dobra a rede estadual em sete anos",
+      "publisher": "A Redação",
+      "url": "https://aredacao.com.br/goias-investe-r-326-bilhoes-na-saude-e-mais-que-dobra-a-rede-estadual-em-sete-anos",
+      "publishedAt": "2026-07-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Investimento de R$ 32,65 bilhões em saúde entre 2019 e maio de 2026 e ampliação da rede estadual de 16 para 31 unidades."
+    },
+    {
+      "id": "src-caiado-150",
+      "title": "Mapa da Segurança: Goiás reduz homicídios e roubos, mas feminicídios crescem",
+      "publisher": "PortalGO",
+      "url": "https://portalgo.com.br/goias/mapa-da-seguranca-goias-reduz-homicidios-e-roubos-mas-feminicidios-crescem",
+      "publishedAt": "2026-07-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mapa da Segurança Pública 2026 (ano-base 2025, MJSP): Goiás reduz homicídios e roubos e registra aumento de feminicídios."
+    },
+    {
+      "id": "src-caiado-151",
+      "title": "Minerais críticos: Lula diz que Flávio e Caiado vão 'vender o Brasil'",
+      "publisher": "Eixos",
+      "url": "https://eixos.com.br/politica/eleicoes/eleicoes-2026/minerais-criticos-lula-diz-que-flavio-bolsonaro-e-ca",
+      "publishedAt": "2026-04-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração pública do presidente Lula em 08/04/2026 criticando Caiado e Flávio Bolsonaro a respeito da exploração de minerais críticos; registrada aqui como reação documentada, sem juízo sobre o conteúdo."
+    },
+    {
+      "id": "src-caiado-152",
+      "title": "Ronaldo Caiado sanciona lei que modifica licenciamento ambiental em Goiás",
+      "publisher": "Rota Jurídica",
+      "url": "https://www.rotajuridica.com.br/ronaldo-caiado-sanciona-lei-que-modifica-licenciamento-ambiental-em-goias",
+      "publishedAt": "2021-08-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Sanção da Lei estadual 21.062/2021 (origem no PL 5895/21), que altera cinco leis estaduais de licenciamento ambiental em Goiás."
+    },
+    {
+      "id": "src-caiado-153",
+      "title": "Audiência na Casa de Leis discute dados sobre o avanço do desmatamento e a preservação do Cerrado em Goiás",
+      "publisher": "Assembleia Legislativa de Goiás (Portal Alego)",
+      "url": "https://portal.al.go.leg.br/noticias/167255/audiencia-na-casa-de-leis-discute-dados-sobre-o-avanco-do-desmatamento-e-a-preservacao-do-cerrado-em-goias",
+      "publishedAt": "2025",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Audiência pública com dados do Lapig/UFG sobre o desmatamento no Cerrado e em Goiás, registrando mudança no perfil do desmatamento a partir de 2023, com avanço relativo no Cerrado enquanto a Amazônia reduzia."
+    },
+    {
+      "id": "src-zema-157",
+      "title": "Como Romeu Zema tornou plano de privatizar Copasa uma bandeira de seu governo",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2025/12/21/como-romeu-zema-tornou-plano-de-privatizar-copasa-uma-bandeira-de-seu-governo.ghtml",
+      "publishedAt": "2025-12-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Projeto que autoriza a privatização da Copasa aprovado na ALMG em dezembro de 2025; o governador também pretende transferir Condemge, Codemig e MGI para a União."
+    },
+    {
+      "id": "src-zema-158",
+      "title": "Privatização da Copasa: as outras estatais na mira do governo de MG",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/politica/2026/06/amp/7442711-privatizacao-da-copasa-as-outras-estatais-na-mira-do-governo-de-mg.html",
+      "publishedAt": "2026-06-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Venda concluída em 16-17/06/2026 transferiu participação relevante da Copasa ao Grupo Equatorial; Cemig, Codemig e Gasmig seguem na pauta de desestatização."
+    },
+    {
+      "id": "src-zema-159",
+      "title": "Zema recebe R$ 1,75 milhão do fundo partidário do Novo",
+      "publisher": "Metrópoles (coluna Igor Gadelha)",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/zema-recebe-r-17-milhao-do-fundo-partidario-do-novo",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Candidato declarou ao TSE o recebimento de R$ 1,75 milhão do fundo partidário do Novo para a campanha ao Planalto."
+    },
+    {
+      "id": "src-zema-160",
+      "title": "Campanha de Zema terá R$ 5 milhões do fundo eleitoral",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-zema-tera-r-5-milhoes-do-fundo-eleitoral/",
+      "publishedAt": "2026-07-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cerca de R$ 5 milhões em recursos do fundo eleitoral para a campanha presidencial, equivalentes a 13,5% dos aproximadamente R$ 37 milhões previstos para o partido. Página bloqueia acesso automatizado; acesso verificado por cópia arquivada (Wayback Machine)."
+    },
+    {
+      "id": "src-zema-161",
+      "title": "Governo nega recomposição diferenciada para segurança pública",
+      "publisher": "Assembleia Legislativa de Minas Gerais",
+      "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Governo-nega-recomposicao-diferenciada-para-seguranca-publica",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Policiais, bombeiros e agentes socioeducativos reivindicavam revisão de 52,33% (perdas desde 2015); o governo estadual negou tratamento diferenciado para a área de segurança."
+    }
+  ],
   "candidates": {
     "lula": {
-      "coherence": []
+      "coherence": [
+        {
+          "id": "coh-lula-previdencia",
+          "theme": "previdência",
+          "timeline": [
+            {
+              "year": "2003",
+              "position": "Enviou ao Congresso e sustentou a votação da reforma da Previdência do primeiro mandato (EC 41, promulgada em 19/12/2003); a votação teve votos contrários na própria base aliada.",
+              "sources": [
+                {
+                  "id": "src-lula-100"
+                },
+                {
+                  "id": "src-lula-101"
+                }
+              ]
+            },
+            {
+              "year": "2025-2026",
+              "position": "Execução da revisão de benefícios (pente-fino do INSS/BPC): 280 mil consultas do BPC reagendadas de maio-outubro para a partir de janeiro de 2027; economia prevista de R$ 1,1 bilhão em 2026 e R$ 4,8 bilhões em 2027-2028.",
+              "sources": [
+                {
+                  "id": "src-lula-152"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O ministro da Previdência declarou ser contra nova reforma que aumente a idade de aposentadoria (jul/2026); o ministro da Fazenda afirmou que o tema não está em discussão agora, mas defendeu o debate sobre sustentabilidade (set/2026).",
+              "sources": [
+                {
+                  "id": "src-lula-153"
+                },
+                {
+                  "id": "src-lula-154"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O pente-fino foi comunicado como revisão de gastos e as revisões do BPC foram remarcadas para 2027 para concentrar os servidores na fila do INSS; o INSS informou que não suspendeu as revisões periódicas e reconheceu o reagendamento de 280 mil consultas (O Globo, 10/06/2026).",
+          "statedPosition": "Manter a política de valorização real do salário mínimo e a proteção social; nas declarações do governo registradas em 2026, nova reforma previdenciária não é apresentada como necessária, com a Fazenda defendendo o debate sobre sustentabilidade.",
+          "proposedAction": "Programa registrado no TSE: continuidade da valorização do salário mínimo e da proteção social; a sustentabilidade previdenciária aparece nas fontes como tema de debate interno do governo, não entre as propostas destacadas do plano.",
+          "historicalAction": "EC 41/2003 (reforma previdenciária aprovada e promulgada no primeiro mandato) e execução do pente-fino de benefícios do INSS/BPC (2025-2026, com revisões do BPC reagendadas para janeiro de 2027).",
+          "tensionNote": "A revisão de benefícios prevê economia de R$ 1,1 bilhão em 2026 e R$ 4,8 bilhões em 2027-2028 e foi parcialmente adiada para 2027; no mesmo período o Ministério da Previdência afirma que nova reforma não é necessária e o Ministério da Fazenda defende o debate sobre sustentabilidade - as duas posições estão registradas nas fontes, sem decisão pública documentada que as concilie.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-lula-fiscal",
+          "theme": "política fiscal/orçamento",
+          "timeline": [
+            {
+              "year": "2023",
+              "position": "Substituiu o teto de gastos pelo novo arcabouço fiscal (PLP 93/2023 - LC 200/2023), aprovado nas duas Casas; manteve a meta de déficit primário zero para 2024 após disputa interna no governo.",
+              "sources": [
+                {
+                  "id": "src-lula-105"
+                },
+                {
+                  "id": "src-lula-106"
+                },
+                {
+                  "id": "src-lula-102"
+                },
+                {
+                  "id": "src-lula-103"
+                }
+              ]
+            },
+            {
+              "year": "2025",
+              "position": "Aprovado o PLP 168/2025 (votação nominal em 24/09/2025), que retirou do limite de gastos as despesas com as medidas de resposta ao tarifaço dos EUA.",
+              "sources": [
+                {
+                  "id": "src-lula-118"
+                },
+                {
+                  "id": "src-lula-120"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Sancionou a LOA 2026 (Lei 15.346) em 14/01/2026 com vetos de aproximadamente R$ 393-400 milhões em emendas modificadas pelo Congresso.",
+              "sources": [
+                {
+                  "id": "src-lula-40"
+                },
+                {
+                  "id": "src-lula-12"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Programa registrado mantém o arcabouço fiscal, prevê nova edição do Novo PAC e afirma que o volume de recursos com emendas parlamentares 'sequestrou' o orçamento.",
+              "sources": [
+                {
+                  "id": "src-lula-50"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Sancionou a lei que zera a tarifa de importação de 20% para compras internacionais de até US$ 50 (10/09/2026), encerrando a chamada 'taxa das blusinhas'.",
+              "sources": [
+                {
+                  "id": "src-lula-155"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "A retirada das despesas do tarifaço do limite de gastos foi apresentada como blindagem fiscal das medidas de resposta às tarifas americanas; os vetos à LOA 2026 e o fim da tarifa de importação foram justificados pelo governo com argumentos de espaço orçamentário e de preço ao consumidor (fontes citadas).",
+          "statedPosition": "Manter o arcabouço fiscal, reduzir a dívida e revisar o sistema de emendas parlamentares.",
+          "proposedAction": "Novo PAC, leilões de rodovias e ferrovias, Minha Casa Minha Vida, investimentos da Petrobras e isenção da tarifa de importação para compras até US$ 50.",
+          "historicalAction": "LC 200/2023 (arcabouço fiscal), PLP 168/2025 (retirada das despesas do tarifaço do limite), sanção da LOA 2026 com vetos (14/01/2026) e sanção da lei que zera a tarifa das compras de até US$ 50 (10/09/2026).",
+          "tensionNote": "O plano mantém o arcabouço fiscal e prevê expansão de investimentos (Novo PAC, Petrobras) e a isenção de importações até US$ 50; as fontes consultadas não trazem estimativa de compensação de receita para a isenção nem detalham a compatibilização com a meta de resultado primário.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-lula-seguranca",
+          "theme": "segurança pública",
+          "timeline": [
+            {
+              "year": "2025",
+              "position": "Entregou ao Congresso a PEC que reformula a segurança pública (23/04/2025), negociada com governadores; em agosto de 2026 o tema entrou no acordo de pauta com os presidentes da Câmara e do Senado.",
+              "sources": [
+                {
+                  "id": "src-lula-128"
+                },
+                {
+                  "id": "src-lula-71"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "A Câmara aprovou a PEC em 05/03/2026; o texto está no Senado, entre as prioridades do esforço concentrado (ago/2026), e a CCJ aprovou em votação simbólica (02/09/2026).",
+              "sources": [
+                {
+                  "id": "src-lula-129"
+                },
+                {
+                  "id": "src-lula-158"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Programa registrado propõe ampliar a coordenação federal da segurança, criar o Ministério da Segurança Pública caso a PEC seja aprovada e ampliar câmeras corporais.",
+              "sources": [
+                {
+                  "id": "src-lula-48"
+                },
+                {
+                  "id": "src-lula-49"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "A PEC foi apresentada pelo governo como resposta à atuação de facções e à necessidade de coordenação federativa; o relator no Senado afirmou que o texto não deve sofrer mudanças na Casa.",
+          "statedPosition": "Ampliar a participação federal na coordenação da segurança pública, com estrutura ministerial própria se a PEC for aprovada.",
+          "proposedAction": "PEC da Segurança Pública em tramitação no Senado e criação de Ministério da Segurança Pública no âmbito do Sistema Único de Segurança Pública, condicionada à aprovação da emenda.",
+          "historicalAction": "Envio da PEC ao Congresso (23/04/2025) e aprovação na Câmara dos Deputados (05/03/2026) - atos legislativos praticados no mandato.",
+          "tensionNote": "A proposta amplia competências e estruturas federais em área cuja execução permanece primariamente estadual; a tramitação no Senado seguia aberta em agosto/setembro de 2026 e as fontes consultadas não trazem o desenho final de financiamento da nova estrutura.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-lula-ambiente",
+          "theme": "meio ambiente/clima",
+          "timeline": [
+            {
+              "year": "2023-2025",
+              "position": "Queda do desmatamento na Amazônia para 5.796 km² (ago/2024-jul/2025), a menor taxa em 11 anos (-11,08%), com o Cerrado também em queda (-11,49%); alertas caíram 35% na Amazônia e 6% no Cerrado entre agosto de 2025 e janeiro de 2026.",
+              "sources": [
+                {
+                  "id": "src-lula-159"
+                },
+                {
+                  "id": "src-lula-156"
+                }
+              ]
+            },
+            {
+              "year": "2025",
+              "position": "Sediou a COP30 em Belém (nov/2025), com coordenação entre União, governo do Pará e prefeitura.",
+              "sources": [
+                {
+                  "id": "src-lula-126"
+                },
+                {
+                  "id": "src-lula-127"
+                }
+              ]
+            },
+            {
+              "year": "2025",
+              "position": "Em 20/10/2025, o Ibama concedeu licença de operação à Petrobras para poço exploratório na Foz do Amazonas (bloco FZA-M-059, AP), 20 dias antes da COP30; entidades anunciaram ação judicial.",
+              "sources": [
+                {
+                  "id": "src-lula-157"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Programa registrado reafirma desmatamento líquido zero até 2030 e redução de 59%-67% das emissões líquidas de GEE, com adaptação climática como eixo permanente do planejamento.",
+              "sources": [
+                {
+                  "id": "src-lula-07"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "A decisão do Ibama foi apresentada pelo governo como licenciamento de caráter técnico; entidades ambientais e veículos de imprensa registraram crítica à autorização no contexto da COP30.",
+          "statedPosition": "Cumprir a meta de desmatamento líquido zero até 2030 e manter a liderança climática assumida na COP30.",
+          "proposedAction": "Adaptação climática como eixo permanente do planejamento público, investimentos em bacias hidrográficas e prevenção de desastres, com licenciamento sob competência técnica do Ibama.",
+          "historicalAction": "Política de controle do desmatamento com resultados registrados pelo Inpe (2023-2026) e decisão do Ibama que autorizou a perfuração exploratória na Foz do Amazonas (20/10/2025).",
+          "tensionNote": "O plano reafirma desmatamento líquido zero até 2030 e, no mesmo período, o Ibama licenciou a exploração de petróleo na Foz do Amazonas e o governo manteve a previsão de investimentos da Petrobras; as fontes registram as duas decisões sem documento que detalhe a conciliação entre a meta climática e a expansão da exploração.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-lula-politica-externa",
+          "theme": "política externa",
+          "timeline": [
+            {
+              "year": "2025",
+              "position": "Resposta ao tarifaço dos EUA com o Plano Brasil Soberano e blindagem fiscal das medidas (PLP 168/2025); em setembro de 2026 o governo rejeitou incluir exigências externas sobre temas políticos domésticos na negociação.",
+              "sources": [
+                {
+                  "id": "src-lula-118"
+                },
+                {
+                  "id": "src-lula-119"
+                },
+                {
+                  "id": "src-lula-107"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Assinou acordo com a Índia sobre terras raras e minerais críticos (fev/2026); discutiu com Trump crime organizado, tarifas e minerais críticos (mai/2026); recebeu manifestação de apoio de Xi Jinping contra 'interferência externa' (jul/2026).",
+              "sources": [
+                {
+                  "id": "src-lula-75"
+                },
+                {
+                  "id": "src-lula-78"
+                },
+                {
+                  "id": "src-mundo-10"
+                },
+                {
+                  "id": "src-lula-77"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Programa (Eixo 13) defende soberania, relações de reciprocidade, integração sul-americana e oposição a esquemas de 'nova Guerra Fria'.",
+              "sources": [
+                {
+                  "id": "src-lula-07"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O acordo UE-Mercosul recebeu autorização de assinatura do Conselho da UE (jan/2026) e aplicação provisória formalizada em abril de 2026.",
+              "sources": [
+                {
+                  "id": "src-mundo-05"
+                },
+                {
+                  "id": "src-mundo-06"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O governo apresentou as medidas ao tarifaço como blindagem da economia e defesa da soberania, e rejeitou incluir exigências externas sobre participação de dissidentes políticos na negociação com os EUA (set/2026).",
+          "statedPosition": "Relações de reciprocidade e cooperação pacífica, integração sul-americana e diversificação de parceiros (China, Índia, UE, EUA), com defesa da soberania sobre recursos estratégicos.",
+          "proposedAction": "Ampliar a integração econômica e de infraestrutura na América do Sul, proteger a diáspora e usar minerais críticos e terras raras como ativos de negociação por valor agregado.",
+          "historicalAction": "Medidas de resposta ao tarifaço (Plano Brasil Soberano e PLP 168/2025), acordo de minerais críticos com a Índia (fev/2026) e condução da assinatura/aplicação provisória do acordo UE-Mercosul (2026).",
+          "tensionNote": "O plano enfatiza soberania e reciprocidade frente aos EUA e, ao mesmo tempo, mantém a negociação comercial com a União Europeia e a aplicação provisória do acordo UE-Mercosul, com salvaguardas agrícolas e condicionalidades ambientais registradas pelas fontes como pontos em aberto.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ]
     },
     "flavio-bolsonaro": {
-      "coherence": []
+      "coherence": [
+        {
+          "id": "coh-flavio-previdencia",
+          "theme": "previdência",
+          "timeline": [
+            {
+              "year": "2019",
+              "position": "Votou 'Sim' na votação nominal de 2º turno da reforma da Previdência no Senado (22/10/2019) e defendeu a proposta em plenário.",
+              "sources": [
+                {
+                  "id": "src-flavio-100"
+                },
+                {
+                  "id": "src-flavio-101"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Declarou rejeitar nova reforma da Previdência e prometeu manter a valorização do salário mínimo, defendendo ajuste fiscal com 'tesouraço' em impostos (Folha, 19/06/2026).",
+              "sources": [
+                {
+                  "id": "src-flavio-116"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano registrado trata a Previdência por 'pacote antifraude' nos moldes de 2019, gestão profissional do INSS e 'INSS sem fila', sem nova reforma de regras de aposentadoria.",
+              "sources": [
+                {
+                  "id": "src-plano-pdf"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato afirma que não promoverá nova reforma e cita o pacote antifraude de 2019 como referência do que pretende repetir; a justificativa registrada é preservar a renda do trabalhador e o ganho real do salário mínimo, com ajuste pelo lado da despesa e dos impostos.",
+          "statedPosition": "Não fazer nova reforma da Previdência; combater fraudes e a fila do INSS; manter a valorização do salário mínimo.",
+          "proposedAction": "Pacote antifraude previdenciário, gestão profissional do INSS, fim dos descontos associativos e corte geral de gastos com novo teto.",
+          "historicalAction": "Voto favorável à reforma da Previdência (EC 103/2019) no Senado, em votação nominal de 2º turno (22/10/2019).",
+          "tensionNote": "O plano prevê corte de gastos de 1,5% do PIB (cerca de R$ 190 bilhões) e novo teto, sem detalhar o tratamento da despesa previdenciária, que é a maior despesa federal; as fontes trazem a meta de corte e a recusa de nova reforma sem documento que detalhe a conciliação.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-flavio-fiscal",
+          "theme": "política fiscal/orçamento",
+          "timeline": [
+            {
+              "year": "2023",
+              "position": "Votou contra o novo arcabouço fiscal no Senado (21/06/2023, 57 a 17); o nome consta na lista nominal dos votos contrários.",
+              "sources": [
+                {
+                  "id": "src-flavio-117"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "A equipe econômica apresentou plano em quatro etapas: Conselho Superior de Governança Fiscal, revisão do arcabouço para controlar a trajetória da dívida, corte de 1,5% do PIB (cerca de R$ 190 bilhões, base 2025) e 'choque de gestão'.",
+              "sources": [
+                {
+                  "id": "src-flavio-118"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano registrado prevê 'tesouraço' de gastos e um novo teto, com mais controle sobre emendas, sem detalhar a regra fiscal.",
+              "sources": [
+                {
+                  "id": "src-flavio-80"
+                },
+                {
+                  "id": "src-g1-plano"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano prevê R$ 900 bilhões de investimento em rodovias, hidrovias, portos, aeroportos e ferrovias em quatro anos.",
+              "sources": [
+                {
+                  "id": "src-plano-pdf"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "'O Brasil precisa, antes de qualquer corte, recuperar a credibilidade' (integrante da equipe econômica, G1, 03/08/2026); o plano afirma que o teto de gastos foi desmontado pelo governo atual e propõe nova regra fiscal.",
+          "statedPosition": "Reformular as regras fiscais com novo teto e cortar gastos para reduzir a dívida.",
+          "proposedAction": "Conselho Superior de Governança Fiscal, corte de 1,5% do PIB, enxugamento da máquina e R$ 900 bilhões em infraestrutura em quatro anos.",
+          "historicalAction": "Voto contrário ao arcabouço fiscal (LC 200/2023) no Senado, em votação nominal de 21/06/2023.",
+          "tensionNote": "O plano prevê, no mesmo período de quatro anos, corte equivalente a 1,5% do PIB e investimento de R$ 900 bilhões em infraestrutura; as fontes consultadas não detalham a composição do corte nem a origem dos recursos do investimento.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-flavio-tributos",
+          "theme": "economia/tributos",
+          "timeline": [
+            {
+              "year": "2023",
+              "position": "Votou 'Sim' na PEC 45/2023, que instituiu IBS/CBS e a transição tributária (votação de 08/11/2023, 53 a 24; registro nominal do Senado).",
+              "sources": [
+                {
+                  "id": "src-flavio-120"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano propõe 'menos impostos' com a 'reforma tributária corrigida', reformulação das regras fiscais e Programa Nacional de Desestatização.",
+              "sources": [
+                {
+                  "id": "src-plano-pdf"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O candidato defende ajuste fiscal com 'tesouraço' em impostos e mantém indefinida a escolha do ministro da Economia (Folha, 19/06/2026).",
+              "sources": [
+                {
+                  "id": "src-flavio-116"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "A redução de impostos é apresentada no plano como forma de aliviar famílias e empresas e recuperar investimento; o candidato afirma que o ajuste deve vir de corte de despesas.",
+          "statedPosition": "Reduzir impostos (correção da reforma tributária de 2023) e enxugar a estrutura de governo.",
+          "proposedAction": "'Reforma tributária corrigida', menos imposto no consumo, redução do custo do trabalho e programa nacional de desestatização.",
+          "historicalAction": "Voto favorável à PEC 45/2023 (reforma tributária) no Senado, em votação nominal de 08/11/2023.",
+          "tensionNote": "O candidato votou a favor da reforma que criou IBS/CBS e em 2026 propõe corrigir a mesma reforma e reduzir a carga tributária, ao mesmo tempo em que projeta corte de 1,5% do PIB; as fontes consultadas não trazem estimativa de perda de arrecadação da redução proposta nem da compensação correspondente.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-flavio-seguranca",
+          "theme": "segurança pública",
+          "timeline": [
+            {
+              "year": "2022-2024",
+              "position": "Relator no Senado do PL 2253/2022 (fim da saída temporária e monitoração eletrônica), aprovado por 62 votos a 2 e convertido na Lei 14.843/2024.",
+              "sources": [
+                {
+                  "id": "src-flavio-02"
+                },
+                {
+                  "id": "src-senado-pronunciamento"
+                }
+              ]
+            },
+            {
+              "year": "2025",
+              "position": "Como presidente da Comissão de Segurança Pública, conduziu o pacote anticrimes violentos (PL 4.809/2024), aprovado pelo Senado em 14/10/2025.",
+              "sources": [
+                {
+                  "id": "src-flavio-104"
+                },
+                {
+                  "id": "src-flavio-105"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano propõe declarar PCC, CV e milícias como organizações narcoterroristas, reduzir a maioridade penal para 16 anos, ampliar presídios e endurecer a progressão de pena.",
+              "sources": [
+                {
+                  "id": "src-plano-pdf"
+                },
+                {
+                  "id": "src-g1-plano"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "'Terrorista vai ser tratado como terrorista' (plano registrado); ao assumir a Comissão de Segurança Pública o candidato fixou prioridades de endurecimento penal e relatou o pacote anticrimes violentos.",
+          "statedPosition": "Endurecer a legislação penal e tratar facções como organizações narcoterroristas.",
+          "proposedAction": "Definição legal de narcoterrorismo, redução da maioridade penal por emenda constitucional, mais presídios, reconhecimento facial e penas mais altas.",
+          "historicalAction": "Relatoria do PL 2253/2022 (Lei 14.843/2024) e condução do PL 4.809/2024 na Comissão de Segurança Pública, aprovado pelo Senado em 14/10/2025.",
+          "tensionNote": "A expansão do sistema prisional e o endurecimento penal implicam custo de construção e custeio; o mesmo plano prevê corte de 1,5% do PIB (cerca de R$ 190 bilhões) e as fontes consultadas não trazem a fonte de financiamento das novas despesas de segurança.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-flavio-politica-externa",
+          "theme": "política externa",
+          "timeline": [
+            {
+              "year": "2019",
+              "position": "No governo do mesmo campo político, a embaixada brasileira permaneceu em Tel Aviv; o ato registrado foi a abertura do escritório comercial da Apex-Brasil em Jerusalém (dez/2019), classificada pela Liga Árabe como 'grave violação'.",
+              "sources": [
+                {
+                  "id": "src-flavio-121"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Prometeu transferir a embaixada brasileira para Jerusalém e alinhar o Brasil a Israel a partir de 2027 (CNN, 29/06/2026).",
+              "sources": [
+                {
+                  "id": "src-flavio-119"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano não menciona BRICS nem Mercosul e prevê reaproximação com Israel, Argentina e Estados Unidos.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-23"
+                },
+                {
+                  "id": "src-plano-pdf"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Criticou o tarifaço dos EUA como ruim para o Brasil e para os americanos, antes de audiência em Washington.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-22"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato afirma que as relações com Argentina, Estados Unidos e Israel 'foram levadas ao limite do rompimento' e que vai reverte-las com profissionalismo, negociando 'da China à União Europeia' (plano registrado).",
+          "statedPosition": "Reaproximar o Brasil de Estados Unidos, Israel e Argentina, sem mencionar BRICS ou Mercosul no programa.",
+          "proposedAction": "Transferência da embaixada para Jerusalém, reaproximação com Israel e negociação comercial com todos os blocos.",
+          "historicalAction": "Atuação na base do governo que manteve a embaixada em Tel Aviv e abriu o escritório comercial em Jerusalém (dez/2019) e titularidade de grupos parlamentares bilaterais no Senado (diplomacia parlamentar).",
+          "tensionNote": "O plano prevê alinhamento com Israel e omite BRICS e Mercosul, ao mesmo tempo em que o candidato critica as tarifas dos EUA e mantém interlocução com Washington; as fontes registram as posições sem documento de política externa que detalhe a conciliação entre alinhamento político e defesa comercial.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ]
     },
     "caiado": {
-      "coherence": []
+      "coherence": [
+        {
+          "id": "coh-caiado-fiscal",
+          "theme": "política fiscal/orçamento",
+          "timeline": [
+            {
+              "year": "2019",
+              "position": "Decretou calamidade financeira (21/01/2019) com dívida de R$ 18,9 bilhões, déficit previsto de R$ 6 bilhões e 82,98% da receita comprometida com a folha; escalonou o pagamento da folha de dezembro/2018 e fez reforma administrativa com corte de cargos.",
+              "sources": [
+                {
+                  "id": "src-caiado-100"
+                },
+                {
+                  "id": "src-caiado-101"
+                },
+                {
+                  "id": "src-caiado-108"
+                },
+                {
+                  "id": "src-caiado-114"
+                }
+              ]
+            },
+            {
+              "year": "2023-2026",
+              "position": "Saiu do Regime de Recuperação Fiscal e aderiu ao Propag; as contas de 2023, 2024 e 2025 receberam parecer prévio favorável do TCE-GO; investimentos somaram R$ 23,7 bilhões nos dois mandatos.",
+              "sources": [
+                {
+                  "id": "src-cg-32"
+                },
+                {
+                  "id": "src-cg-07"
+                },
+                {
+                  "id": "src-caiado-76"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano propõe estratégia fiscal plurianual para estabilizar a dívida/PIB, recuperar superávits primários, aplicar o teto constitucional de forma efetiva, combater supersalários e conter a criação de novas despesas correntes (despesas obrigatórias crescendo abaixo do PIB nominal).",
+              "sources": [
+                {
+                  "id": "src-cg-20"
+                },
+                {
+                  "id": "src-caiado-80"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano mantém as transferências de renda com regra de transição para o trabalho formal e fixa sete compromissos nacionais para 2030, incluindo trajetória fiscal e investimento público.",
+              "sources": [
+                {
+                  "id": "src-cg-20"
+                },
+                {
+                  "id": "src-cg-23"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O ajuste é apresentado no plano como condição para recuperar a capacidade de investimento público; o governo estadual registrou superação do desequilíbrio de 2019 com reforma administrativa e renegociação da dívida com a União.",
+          "statedPosition": "Trajetória fiscal plurianual com metas anuais e bandas de tolerância, teto constitucional efetivo e superávits primários progressivos.",
+          "proposedAction": "Metas anuais de resultado, contenção de novas despesas correntes, revisão de benefícios tributários e subsídios com prazo e avaliação, e combate a supersalários.",
+          "historicalAction": "Decreto de calamidade financeira (21/01/2019), reforma administrativa com corte de cargos, adesão e saída do Regime de Recuperação Fiscal para o Propag e contas dos exercícios de 2023-2025 com parecer prévio favorável do TCE-GO.",
+          "tensionNote": "O plano prevê recuperar superávits primários e conter novas despesas correntes ao mesmo tempo em que mantém programas de transferência de renda com regra de transição e fixa metas nacionais de saúde, educação, segurança e infraestrutura; as fontes do plano não trazem detalhamento de custeio das metas setoriais nem o efeito das renúncias tributárias a serem revistas.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-caiado-seguranca",
+          "theme": "segurança pública",
+          "timeline": [
+            {
+              "year": "2019-2024",
+              "position": "Balanços do governo estadual registraram redução de crimes pelo 6º ano consecutivo, com queda de 55% na taxa de homicídios dolosos entre 2018 e 2024 (dados da SSP-GO).",
+              "sources": [
+                {
+                  "id": "src-caiado-147"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Balanço oficial registra redução superior a 60% nos homicídios e acima de 90% nos crimes patrimoniais no período de governo.",
+              "sources": [
+                {
+                  "id": "src-caiado-148"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O Mapa da Segurança Pública 2026 (ano-base 2025, MJSP) aponta queda de homicídios e roubos em Goiás e aumento de feminicídios.",
+              "sources": [
+                {
+                  "id": "src-caiado-150"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano propõe recuperar territórios, tratar facções como terrorismo doméstico sob liderança, controlar presídios e criar cooperação sul-americana (SULPOL); o candidato declarou que convidará Lincoln Gakiya para o Ministério da Segurança.",
+              "sources": [
+                {
+                  "id": "src-caiado-82"
+                },
+                {
+                  "id": "src-caiado-83"
+                },
+                {
+                  "id": "src-cg-20"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O plano apresenta a segurança como área em que o candidato 'entregou' no estado e propõe levar o modelo ao governo federal, com cooperação internacional e integração entre União e estados.",
+          "statedPosition": "Reduzir a violência letal e o domínio territorial e financeiro das facções, com cooperação internacional.",
+          "proposedAction": "Recuperação de territórios, controle de fronteiras e presídios, aumento da investigação, retirada do patrimônio do crime e criação da SULPOL (agência permanente de cooperação policial sul-americana).",
+          "historicalAction": "Balanços anuais de segurança do governo de Goiás (2019-2026) com queda registrada de homicídios e crimes patrimoniais e as contas estaduais com cumprimento das vinculações aprovadas pelo TCE-GO.",
+          "tensionNote": "A queda de homicídios registrada nos balanços estaduais é acompanhada de aumento de feminicídios no Mapa da Segurança Pública 2026 (ano-base 2025); a proposta federal de cooperação internacional (SULPOL) depende de adesão de outros países e não tem custo nem cronograma detalhados nas fontes do plano.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-caiado-saude",
+          "theme": "saúde",
+          "timeline": [
+            {
+              "year": "2019-2026",
+              "position": "A rede estadual de saúde passou de 16 para 31 unidades e o investimento estadual em saúde somou R$ 32,65 bilhões entre 2019 e maio de 2026.",
+              "sources": [
+                {
+                  "id": "src-caiado-149"
+                }
+              ]
+            },
+            {
+              "year": "2023-2026",
+              "position": "As contas dos exercícios de 2023, 2024 e 2025 receberam parecer prévio favorável do TCE-GO, com cumprimento das vinculações de saúde.",
+              "sources": [
+                {
+                  "id": "src-cg-07"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano de saúde, coordenado por Luiz Henrique Mandetta, propõe fila por gravidade clínica, fila separada para oncologia, protocolos para infarto e AVC, prontuário eletrônico nacional, regionalização e uso de inteligência artificial.",
+              "sources": [
+                {
+                  "id": "src-caiado-74"
+                },
+                {
+                  "id": "src-caiado-75"
+                },
+                {
+                  "id": "src-cg-24"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato apresenta a expansão da rede estadual e a regionalização como base para o modelo proposto para o SUS federal, mantendo os princípios do sistema e alterando a gestão da fila.",
+          "statedPosition": "Reorganizar o SUS com fila por critério clínico e prontuário interoperável nacional, mantendo os princípios do sistema.",
+          "proposedAction": "Fila por gravidade com prioridade oncológica, protocolos para infarto e AVC, prontuário eletrônico nacional, cuidado regionalizado e remuneração hospitalar por qualidade e resultado.",
+          "historicalAction": "Execução estadual documentada: ampliação de 16 para 31 unidades da rede estadual e R$ 32,65 bilhões investidos em saúde (2019-2026), com prestação de contas aprovada pelo TCE-GO.",
+          "tensionNote": "A reorganização da fila e o prontuário nacional dependem de pactuação tripartite no SUS (União, estados e municípios); as fontes que descrevem o plano não trazem estimativa de custo da mudança de modelo nem a fonte de custeio correspondente.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-caiado-ambiente",
+          "theme": "meio ambiente/clima",
+          "timeline": [
+            {
+              "year": "2021",
+              "position": "Sancionou a Lei estadual 21.062/2021 (origem no PL 5895/21), que alterou cinco leis estaduais de licenciamento ambiental em Goiás.",
+              "sources": [
+                {
+                  "id": "src-caiado-152"
+                }
+              ]
+            },
+            {
+              "year": "2025",
+              "position": "Audiência pública na Assembleia Legislativa de Goiás registrou, com dados do Lapig/UFG, mudança no perfil do desmatamento no Cerrado a partir de 2023, com avanço relativo no bioma enquanto a Amazônia reduzia.",
+              "sources": [
+                {
+                  "id": "src-caiado-153"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano trata desenvolvimento e proteção ambiental como 'aliados', promete combater com rigor desmatamento, grilagem e mineração ilegal, remunerar quem conserva e dá prioridade a Pantanal, Cerrado e Amazônia na prevenção de incêndios.",
+              "sources": [
+                {
+                  "id": "src-cg-20"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "No mesmo documento, minerais críticos e terras raras são definidos como 'ativos estratégicos de soberania', com negociação de acesso em troca de valor agregado e tecnologia.",
+              "sources": [
+                {
+                  "id": "src-cg-20"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O candidato defende, em entrevistas, o Código Florestal e a produção agropecuária com tecnologia como compatíveis com a preservação; o plano vincula a agenda ambiental à bioeconomia, ao pagamento por serviços ambientais e ao mercado de carbono.",
+          "statedPosition": "Combater o desmatamento ilegal e a mineração ilegal com previsibilidade para o produtor regular, mantendo o Código Florestal.",
+          "proposedAction": "Licenciamento previsível, remuneração por serviços ambientais, mercado de carbono, programa de segurança hídrica (Água para o Futuro) e mineração estratégica com valor agregado no país.",
+          "historicalAction": "Sanção da Lei estadual 21.062/2021, que alterou o licenciamento ambiental em Goiás, e as contas e balanços estaduais de 2023-2025 com parecer favorável do TCE-GO.",
+          "tensionNote": "O plano prioriza minerais críticos, infraestrutura e agronegócio ao mesmo tempo em que promete combate rigoroso ao desmatamento ilegal, e dados apresentados na Assembleia Legislativa de Goiás registram avanço do desmatamento no Cerrado goiano a partir de 2023; as fontes consultadas não trazem documento que detalhe a conciliação entre a expansão da fronteira mineral e agropecuária e a meta ambiental.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-caiado-politica-externa",
+          "theme": "política externa",
+          "timeline": [
+            {
+              "year": "2026",
+              "position": "Acordo de cooperação entre o governo de Goiás e os Estados Unidos para fornecimento de dados de minerais críticos, com cláusulas de exclusividade e sigilo (Folha, 24/03/2026); o estado defendeu publicamente o acordo (Agência Brasil, 27/04/2026).",
+              "sources": [
+                {
+                  "id": "src-caiado-85"
+                },
+                {
+                  "id": "src-caiado-86"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Em 08/04/2026, o presidente Lula criticou publicamente Caiado e Flávio Bolsonaro a respeito da exploração de minerais críticos (reação documentada).",
+              "sources": [
+                {
+                  "id": "src-caiado-151"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O candidato afirmou que 'dizer que quero entregar terras raras aos EUA e burrice e mau-caratismo' e defendeu o papel do Brasil na exploração e no beneficiamento de minerais críticos (discurso de 30/07/2026; O Povo, 12/08/2026).",
+              "sources": [
+                {
+                  "id": "src-caiado-88"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano define minerais críticos e terras raras como ativos estratégicos de soberania e prevê negociar acesso a recursos em troca de valor agregado, tecnologia e qualificação.",
+              "sources": [
+                {
+                  "id": "src-cg-20"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "Diante das críticas, o candidato negou intenção de 'entregar' os minerais e passou a enfatizar beneficiamento e agregação de valor no país (O Povo, 12/08/2026).",
+          "statedPosition": "Tratar minerais críticos como ativos de soberania, negociando acesso estrangeiro em troca de valor agregado e tecnologia.",
+          "proposedAction": "Política nacional de minerais críticos com processamento no país, licenciamento previsível e participação de comunidades; cooperação internacional sem fechar o país ao investimento estrangeiro.",
+          "historicalAction": "Acordo de cooperação entre o governo de Goiás e os Estados Unidos para fornecimento de dados de minerais críticos, firmado em 2026, com cláusulas de exclusividade e sigilo.",
+          "tensionNote": "O acordo estadual firmado em 2026 prevê exclusividade e sigilo no fornecimento de dados de minerais críticos, enquanto o candidato defende agregação de valor no país e nega intenção de 'entregar' os minerais; as fontes consultadas não trazem o texto do acordo nem cláusula que detalhe a conciliação entre sigilo e a política de soberania proposta no plano.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ]
     },
     "zema": {
-      "coherence": []
+      "coherence": [
+        {
+          "id": "coh-zema-previdencia",
+          "theme": "previdência",
+          "timeline": [
+            {
+              "year": "2020",
+              "position": "Enviou e sancionou a reforma previdenciária estadual (PLC 46/2020, convertido na LC 156/2020), com idade mínima de 65 anos para homens e 62 para mulheres, após quatro meses de tramitação na ALMG.",
+              "sources": [
+                {
+                  "id": "src-zema-78"
+                },
+                {
+                  "id": "src-zema-79"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano propõe 'reforma definitiva' da Previdência, envolvendo estados, municípios, previdência rural e militar, com mecanismo de reajuste automático da idade mínima por expectativa de vida e desvinculação de benefícios do reajuste do salário mínimo.",
+              "sources": [
+                {
+                  "id": "src-zema-12"
+                },
+                {
+                  "id": "src-zema-11"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano também prevê desengessar o orçamento, revisando a expansão automática de despesas obrigatórias, inclusive emendas parlamentares.",
+              "sources": [
+                {
+                  "id": "src-zema-12"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O plano justifica a nova reforma pela sustentabilidade do sistema no longo prazo e pela necessidade de preservar a proteção das futuras gerações; a reforma estadual de 2020 foi defendida pelo governo de Minas como medida de equilíbrio fiscal.",
+          "statedPosition": "Fazer nova reforma previdenciária federal com gatilho automático de idade mínima e revisão de vínculos de reajuste.",
+          "proposedAction": "Reforma envolvendo estados, municípios, previdência rural e militar, com reajuste automático da idade mínima pela expectativa de vida e desvinculação do reajuste do salário mínimo.",
+          "historicalAction": "Reforma previdenciária estadual aprovada na ALMG e sancionada em setembro de 2020 (LC 156/2020), com idade mínima de 65/62 anos e regras de transição.",
+          "tensionNote": "A desvinculação dos benefícios do reajuste do salário mínimo afeta benefícios cujo piso é o mínimo (BPC, benefício rural e piso do INSS); o plano não detalha regra de transição nem o efeito sobre esses benefícios, e a proposta depende de emenda constitucional no Congresso.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-zema-fiscal",
+          "theme": "política fiscal/orçamento",
+          "timeline": [
+            {
+              "year": "2019-2025",
+              "position": "Governou sob Regime de Recuperação Fiscal; vetou a recomposição salarial de 41% em 2020 (veto mantido pela ALMG em 17/06/2020) e sancionou parcialmente a revisão salarial dos militares.",
+              "sources": [
+                {
+                  "id": "src-zema-100"
+                },
+                {
+                  "id": "src-zema-101"
+                },
+                {
+                  "id": "src-zema-102"
+                }
+              ]
+            },
+            {
+              "year": "2025",
+              "position": "Saiu do Regime de Recuperação Fiscal (decreto federal de 22/12/2025) após sanção da lei estadual de adesão ao Propag (jun/2025).",
+              "sources": [
+                {
+                  "id": "src-zema-74"
+                },
+                {
+                  "id": "src-zema-75"
+                },
+                {
+                  "id": "src-zema-76"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Sancionou o orçamento de 2026 com um veto parcial (Lei 25.698/2026), com déficit projetado 39% menor.",
+              "sources": [
+                {
+                  "id": "src-zema-05"
+                },
+                {
+                  "id": "src-zema-07"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano propõe 'choque fiscal' nos gastos, revisão do crescimento automático de despesas obrigatórias e extinção do Fundo Eleitoral e do Fundo Partidário, que somariam R$ 6,3 bilhões em 2026 (R$ 4,9 bilhões e R$ 1,4 bilhão).",
+              "sources": [
+                {
+                  "id": "src-zema-12"
+                },
+                {
+                  "id": "src-zema-11"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "A contenção de despesas, o veto à recomposição de 2020 e a saída do RRF são apresentados pelo candidato como condições para o estado voltar a investir; o plano projeta que o corte de despesas obrigatórias libere espaço para investimento.",
+          "statedPosition": "Choque fiscal com corte de despesas obrigatórias, extinção dos fundos públicos de financiamento eleitoral e partidário e desindexação de reajustes.",
+          "proposedAction": "Revisão do crescimento automático das despesas obrigatórias (inclusive emendas), fim do Fundo Eleitoral e do Fundo Partidário com financiamento privado, e devolução de espaço no orçamento para investimento.",
+          "historicalAction": "Veto à recomposição salarial de 41% em 2020 (mantido pela ALMG), orçamento de 2026 sancionado com veto parcial e déficit 39% menor, e adesão ao Propag com saída do Regime de Recuperação Fiscal.",
+          "tensionNote": "O plano propõe extinguir o Fundo Eleitoral e o Fundo Partidário; a campanha do candidato declarou ter recebido cerca de R$ 5 milhões do fundo eleitoral (Poder360, 27/07/2026) e R$ 1,75 milhão do fundo partidário (Metrópoles, ago/2026) - são repasses previstos em lei e as fontes registram os dois fatos.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-zema-privatizacoes",
+          "theme": "economia/estatais",
+          "timeline": [
+            {
+              "year": "2019",
+              "position": "Enviou e sancionou a reforma administrativa que reduziu o secretariado de 21 para 12 pastas e extinguiu 3,6 mil cargos comissionados (Lei 23.304/2019, com vetos parciais).",
+              "sources": [
+                {
+                  "id": "src-zema-70"
+                },
+                {
+                  "id": "src-zema-71"
+                }
+              ]
+            },
+            {
+              "year": "2025",
+              "position": "Projeto que autoriza a privatização da Copasa aprovado na ALMG em dezembro de 2025; o governador também manifestou intenção de transferir Condemge, Codemig e MGI para a União.",
+              "sources": [
+                {
+                  "id": "src-zema-157"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Venda concluída em junho de 2026 transferiu participação relevante da Copasa ao Grupo Equatorial; Cemig, Codemig e Gasmig permanecem na pauta de desestatização.",
+              "sources": [
+                {
+                  "id": "src-zema-158"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano propõe privatizar todas as empresas estatais, com o Estado concentrado em regulação e fiscalização (incluindo a Petrobras, conforme declarações), e ampliar parcerias público-privadas.",
+              "sources": [
+                {
+                  "id": "src-zema-09"
+                },
+                {
+                  "id": "src-zema-15"
+                },
+                {
+                  "id": "src-zema-12"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O plano associa desestatização à redução do custo do Estado e à atração de investimento privado em saneamento, energia e infraestrutura, citando as metas do Novo Marco do Saneamento e a regulação como função central do Estado.",
+          "statedPosition": "Privatizar as estatais e reduzir a participação direta do Estado em atividades produtivas, mantendo regulação e fiscalização.",
+          "proposedAction": "Privatização de 100% das estatais, ampliação de PPPs e concessões, e uso do Novo Marco do Saneamento para atrair investimento em água e esgoto.",
+          "historicalAction": "Reforma administrativa de 2019 (21 para 12 secretarias e 3,6 mil cargos extintos) e condução do processo de privatização da Copasa até a venda de participação relevante concluída em junho de 2026.",
+          "tensionNote": "O plano define a privatização integral das estatais como regra, enquanto a desestatização estadual em curso manteve Cemig, Codemig e Gasmig na pauta sem cronograma documentado e previu, em 2025, a transferência de ativos estaduais (Condemge, Codemig e MGI) para a União; as fontes registram os dois movimentos sem documento que detalhe a ordem ou a conciliação entre eles.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "coh-zema-seguranca",
+          "theme": "segurança pública",
+          "timeline": [
+            {
+              "year": "2020",
+              "position": "Vetou a recomposição salarial de 41% dos servidores, incluindo policiais, bombeiros e agentes socioeducativos; o veto foi mantido pela ALMG em 17/06/2020, permanecendo 13% para a segurança pública, e a revisão salarial dos militares foi sancionada parcialmente (Lei 23.597/2020).",
+              "sources": [
+                {
+                  "id": "src-zema-100"
+                },
+                {
+                  "id": "src-zema-101"
+                },
+                {
+                  "id": "src-zema-102"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Já com o sucessor no governo estadual, o Estado negou a recomposição diferenciada de 52,33% reivindicada pela área de segurança pública, em audiência na ALMG.",
+              "sources": [
+                {
+                  "id": "src-zema-161"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano propõe classificar facções como organizações terroristas, reduzir a maioridade penal aos 16 anos, construir presídios de segurança máxima, empregar as Forças Armadas na retomada de territórios e liberar porte de armas em toda a extensão das propriedades rurais.",
+              "sources": [
+                {
+                  "id": "src-zema-12"
+                },
+                {
+                  "id": "src-zema-09"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O plano justifica o endurecimento pela necessidade de retomar territórios dominados por facções e de 'acabar com o prende e solta', prevendo operações conjuntas com as Forças Armadas e cooperação internacional.",
+          "statedPosition": "Classificar facções como terroristas, endurecer penas e retomar territórios com integração entre Forças Armadas e polícias.",
+          "proposedAction": "Narcoterrorismo com penas mais altas e progressão zero, maioridade penal aos 16, presídios de segurança máxima em regiões remotas, Forças Armadas na retomada de territórios e porte de armas em propriedades rurais.",
+          "historicalAction": "Veto à recomposição salarial de 41% (mantido pela ALMG em 17/06/2020) e sanção parcial da revisão salarial dos militares em 2020 (Lei 23.597/2020).",
+          "tensionNote": "As propostas de endurecimento penal e de construção de presídios de segurança máxima e a integração das Forças Armadas implicam despesa e efetivo; o plano vincula-se a um 'choque fiscal' com corte de despesas obrigatórias e as fontes consultadas não trazem estimativa de custo das medidas de segurança.",
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "coh-zema-ambiente",
+          "theme": "meio ambiente/clima",
+          "timeline": [
+            {
+              "year": "2019-2021",
+              "position": "Resposta ao rompimento da barragem de Brumadinho: gabinete de crise e força-tarefa estaduais, com bloqueio judicial de R$ 11 bilhões da Vale e acordo firmado em fevereiro de 2021 no valor de R$ 37,68 bilhões.",
+              "sources": [
+                {
+                  "id": "src-zema-108"
+                },
+                {
+                  "id": "src-zema-109"
+                },
+                {
+                  "id": "src-zema-110"
+                },
+                {
+                  "id": "src-zema-80"
+                },
+                {
+                  "id": "src-zema-81"
+                }
+              ]
+            },
+            {
+              "year": "2024",
+              "position": "Assinou com União, Espírito Santo, Ministérios Públicos e Defensorias o acordo de repactuação de Mariana, com R$ 132 bilhões em novos recursos.",
+              "sources": [
+                {
+                  "id": "src-zema-112"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "Criticou o 'abandono federativo' e cobrou mais recursos para municípios em desastres climáticos.",
+              "sources": [
+                {
+                  "id": "src-zema-55"
+                }
+              ]
+            },
+            {
+              "year": "2026",
+              "position": "O plano propõe 'conservar a natureza sem travar o desenvolvimento': licenciamento com critérios técnicos e previsibilidade, cumprimento do Código Florestal, combate à grilagem e ao desmatamento ilegal, mercado de carbono, bioeconomia e investimento em contenção de desastres climáticos.",
+              "sources": [
+                {
+                  "id": "src-zema-12"
+                }
+              ]
+            }
+          ],
+          "publicExplanation": "O plano apresenta a agenda ambiental como ativo econômico ('transformar o potencial ambiental em riqueza') e vincula prevenção de desastres à atração de investimento privado em infraestrutura e monitoramento climático.",
+          "statedPosition": "Conciliar o cumprimento do Código Florestal e o combate ao desmatamento ilegal com a exploração de terras raras e o licenciamento previsível para mineração.",
+          "proposedAction": "Licenciamento técnico com segurança jurídica, mercado de carbono voluntário, bioeconomia, saneamento pelo Novo Marco do Saneamento e investimento privado em contenção de desastres e reservatórios.",
+          "historicalAction": "Acordo de reparação de Brumadinho com a Vale (fev/2021, R$ 37,68 bilhões), coordenação do acordo de repactuação de Mariana (out/2024, R$ 132 bilhões em novos recursos) e bloqueio judicial de R$ 11 bilhões da Vale em 2019.",
+          "tensionNote": "O plano prevê facilitar a exploração de terras raras e minerais de alto valor e, ao mesmo tempo, combater com rigor a grilagem e a mineração ilegal, mantendo investimento em prevenção de desastres climáticos; as fontes consultadas não trazem estimativa de custo do programa de contenção de desastres nem o desenho de fiscalização da expansão mineral.",
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ]
     }
   },
   "dataGaps": [
-    "em consolidação"
+    "Caiado: não foi localizado o texto completo do acordo Goiás-EUA sobre minerais críticos (mar/2026) nem cláusulas além das noticiadas (exclusividade e sigilo); a descrição do tensionNote se limita ao que a imprensa registrou.",
+    "Caiado e Zema: as fontes do plano de governo não trazem estimativa de custo das principais propostas setoriais (segurança, saúde, meio ambiente), o que limita a comparação entre proposta e restrição fiscal ao texto público.",
+    "Flávio Bolsonaro: não foram localizadas declarações do próprio candidato explicando a convivência entre o voto contrário ao arcabouço (2023) e o plano de revisão das regras fiscais; o material disponível é da equipe econômica e do documento do plano.",
+    "Lula: não há documento público do governo que concilie a revisão de benefícios (pente-fino) com a posição declarada pelos ministérios sobre nova reforma previdenciária; a divergência está registrada apenas em declarações de ministros.",
+    "Zema: o acompanhamento da destinação final de Condemge, Codemig e MGI (transferência à União noticiada em dez/2025) não foi localizado em fonte posterior.",
+    "Datas de publicação de parte dos textos legislativos (ALMG, Alego, Senado - páginas de votação) não constam da página; registradas pelo período do ato, não pela data da página."
   ]
 }
