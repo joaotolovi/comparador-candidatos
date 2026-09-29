@@ -1984,6 +1984,114 @@
       "publishedAt": "2026-09-21",
       "accessedAt": "2026-09-29",
       "sourceType": "oficial_eleitoral"
+    },
+    {
+      "id": "src-sm-49",
+      "title": "Dentista do SUS e militante de esquerda: Quem é Samara Martins (UP), candidata à Presidência",
+      "publisher": "Jovem Pan",
+      "url": "https://jovempan.com.br/noticias/dentista-do-sus-e-militante-de-esquerda-quem-e-samara-martins-up-candidata-a-presidencia/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026). Cirurgiã-dentista do SUS, vice-presidente da UP, vinculada à militância antirracista e à direção do Movimento de Mulheres Olga Benário."
+    },
+    {
+      "id": "src-sm-45",
+      "title": "Campanha presidencial de Samara Martins em 2026",
+      "publisher": "Wikipédia (pt)",
+      "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+    },
+    {
+      "id": "src-sm-46",
+      "title": "Única mulher na disputa, Samara Martins lança pré-candidatura à Presidência (reunião do Diretório Nacional, 1º de fevereiro)",
+      "publisher": "Agemt — Jornalismo PUC-SP",
+      "url": "https://agemt.pucsp.br/noticias/unica-mulher-na-disputa-samara-martins-lanca-pre-candidatura-presidencia",
+      "publishedAt": "2026-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado. Aprovação do nome pelo Diretório Nacional em 01/02/2026."
+    },
+    {
+      "id": "src-sm-51",
+      "title": "Única mulher pré-candidata à Presidência, Samara Martins cumpre agenda em Fortaleza",
+      "publisher": "O Povo (Vertical)",
+      "url": "https://mais.opovo.com.br/colunistas/vertical/2026/04/02/candidata-a-presidencia-samara-martins-cumpre-agenda-em-fortaleza.html",
+      "publishedAt": "2026-04-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-47",
+      "title": "Samara Martins desembarca em Belém para lançar pré-candidatura à Presidência",
+      "publisher": "Ponto de Pauta (PA)",
+      "url": "https://pontodepauta.com/2026/04/30/samara-martins-desembarca-em-belem-para-lancar-pre-candidatura-a-presidencia/",
+      "publishedAt": "2026-04-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda de lançamento da pré-candidatura em Belém, nos dias 2 e 3 de maio de 2026."
+    },
+    {
+      "id": "src-sm-48",
+      "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Salvador",
+      "publisher": "g1 (Globo) — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-salvador.ghtml",
+      "publishedAt": "2026-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-50",
+      "title": "Quem é Samara Martins, candidata da UP à Presidência da República",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026). Dentista do SUS, dirigente partidária e militante de movimentos populares; chapa com a sindicalista paraense Raquel Brício."
+    },
+    {
+      "id": "src-sm-41",
+      "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+      "publisher": "Poder360 (espelho do documento da campanha)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+    },
+    {
+      "id": "src-sm-42",
+      "title": "Samara Martins registra candidatura no TSE, mas plano de governo protocolado é o de 2022",
+      "publisher": "Canal MyNews",
+      "url": "https://canalmynews.com.br/eleicoes-2026/samara-martins-candidatura-tse-plano-governo/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Relata o envio da versão de 2022 por falha interna e a versão corrigida de 16 propostas (reajuste de 100% do salário mínimo, fim da escala 6x1, 36 horas, suspensão da dívida pública, nacionalização de bancos e de planos de saúde)."
+    },
+    {
+      "id": "src-sm-43",
+      "title": "Samara Martins leva programa socialista à disputa presidencial",
+      "publisher": "Jornalismo Júnior",
+      "url": "https://jornalismojunior.com.br/samara-martins-leva-programa-socialista-a-disputa-presidencial/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a passagem do documento de ~1,5 página e 16 propostas para a versão final de 67 páginas e cerca de 20 eixos temáticos; aponta três eixos declarados (trabalho, anti-imperialismo, soberania)."
+    },
+    {
+      "id": "src-sm-44",
+      "title": "Plano de governo da UP tem menos de duas páginas e vira piada nas redes sociais",
+      "publisher": "BNews",
+      "url": "https://www.bnews.com.br/noticias/politica/plano-de-governo-da-tem-menos-de-duas-paginas-e-vira-piada-nas-redes-sociais.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lista as 16 propostas do documento registrado (economia, agrário, educação, relações internacionais, mulheres)."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -1992,6 +2100,763 @@
     "propostas_total (16) é contagem de veículos de imprensa sobre a plataforma registrada no TSE; a página de propostas do TSE bloqueia leitura automatizada e o PDF não foi recalculado item a item.",
     "Custos, prazos e metas por proposta não constam do documento registrado (menos de 1,5 página); os percentuais de custo/prazo/dependência do Congresso são contagens sobre as 7 propostas-chave desta ficha.",
     "Votos de 2020 (515) e de 2022 (53.519) conferidos em compilação com base na apuração do TSE (Wikipédia); não lidos na base oficial do TSE.",
-    "Data exata da substituição do arquivo do plano no TSE (envio inicial do programa de 2022) não localizada em fonte primária."
-  ]
+    "Data exata da substituição do arquivo do plano no TSE (envio inicial do programa de 2022) não localizada em fonte primária.",
+    "leonardo-avalanche, clariana-barao e augusto-cury (lideranca-equipes) e samara-martins (em todas as capacidades): nenhum dos partidos ou campanhas publica organograma, quadro de pessoal ou número de integrantes de equipe; as evidências de formação e coordenação de equipes se apoiam em atos nominais (indicação de vice, nomeação de diretórios, substituição de marqueteiro) e em estrutura empresarial, quando existe.",
+    "renan-santos e samara-martins: partidos não publicam balanço de campanha consolidado; números de arrecadação citados são de levantamentos parciais de imprensa com data de referência (g1, 05/07/2026) e não do encerramento da campanha.",
+    "clariana-barao: a coordenação do grupo de voluntários nas enchentes do Rio Grande do Sul (2024) e a presidência de comissão na OAB de Várzea Grande constam de perfis de candidatura reproduzidos pela imprensa; não foram localizados relatórios ou atas das duas atividades.",
+    "augusto-cury: os números de tiragem/vendas de livros variam conforme a fonte e a data de referência (11 milhões em 2010; 27 milhões em 2016; mais de 30 milhões em 2017; mais de 40 milhões declarados pela campanha em 2026) e a página própria do autor é a única fonte para os quantitativos de alunos das escolas de gestão da emoção.",
+    "leonardo-avalanche: as negociações partidárias de 2026 (aliança com Marconi Perillo em Goiás e saída posterior da coligação) aparecem em notas e imprensa regional, sem atas, registros de coligação estadual anexados ou documento oficial do partido no pool de fontes desta rodada.",
+    "clariana-barao e augusto-cury: as datas exatas de publicação de algumas reportagens de 2026 (Gazeta de São Paulo, Potência MT, site próprio do autor) não foram capturadas; os campos publishedAt registram apenas o ano, com nota na fonte.",
+    "Custo, compensação fiscal e cronograma por meta/prioridade não estão declarados nos documentos registrados de nenhum dos cinco candidatos analisados neste bloco; o bloco PROJETO DE PAÍS registra apenas o que é declarado.",
+    "leonardo-avalanche: não foi localizada posição documentada de política externa ou sobre clima em fontes 2025-2026; o plano registrado não tem capítulo desses temas.",
+    "augusto-cury: nomes da equipe econômica não divulgados por decisão declarada do candidato (Valor International, 04/09/2026).",
+    "clariana-barao: documento autodeclarado preliminar; sem diagnóstico, linha de base e metas numéricas finais; total de promessas não contado item a item (dossiê independente enumera ao menos 30).",
+    "samara-martins: registro no TSE foi feito com a versão de 2022 do programa e depois corrigido; a versão ampliada de 67 páginas não consta como o arquivo registrado no TSE nas fontes consultadas (o link oficial do TSE retornou bloqueio e o texto foi lido em espelho público da campanha).",
+    "renan-santos: apenas o resumo executivo de 51 páginas do Livro Amarelo está público; a obra integral (mais de 500 páginas) não foi analisada."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "É cirurgiã-dentista da Estratégia Saúde da Família no SUS e exerceu a vice-presidência nacional da Unidade Popular entre 2016 e 2026, atuando na organização partidária. Teve a pré-candidatura aprovada por unanimidade pelo Diretório Nacional em 01/02/2026 e conduziu agenda de lançamento em vários estados (Fortaleza em abril, Belém em maio, Salvador em setembro). O programa de governo foi registrado no TSE em 06/08/2026 e a chapa foi validada por unanimidade em 02/09/2026, entre as seis primeiras chapas aprovadas.",
+      "coverageNote": "Sem cargo público anterior e sem estrutura administrativa a analisar: as evidências de execução são o trabalho na atenção básica do SUS, a condução da estrutura partidária nacional e a realização da campanha presidencial de 2026.",
+      "evidences": [
+        {
+          "id": "ev-cap-sm-01",
+          "kind": "historico",
+          "title": "Atuação profissional na atenção básica do SUS",
+          "role": "cirurgiã-dentista da Estratégia Saúde da Família",
+          "complexity": "serviço público de atenção básica no Rio Grande do Norte; atendimento por equipe de saúde da família; atividade mantida durante a pré-candidatura",
+          "outcome": "atuação continuada na rede pública, usada como base da proposta de que todos os políticos utilizem o SUS",
+          "period": "não informado",
+          "context": "Vínculo profissional em serviço público de porta de entrada, sem cargo de direção.",
+          "sources": [
+            {
+              "id": "src-sm-01",
+              "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+              "publisher": "Unidade Popular (site oficial do partido)",
+              "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+              "publishedAt": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+            },
+            {
+              "id": "src-sm-07",
+              "title": "Samara Martins defende que políticos usem o SUS",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+            },
+            {
+              "id": "src-sm-49",
+              "title": "Dentista do SUS e militante de esquerda: Quem é Samara Martins (UP), candidata à Presidência",
+              "publisher": "Jovem Pan",
+              "url": "https://jovempan.com.br/noticias/dentista-do-sus-e-militante-de-esquerda-quem-e-samara-martins-up-candidata-a-presidencia/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026). Cirurgiã-dentista do SUS, vice-presidente da UP, vinculada à militância antirracista e à direção do Movimento de Mulheres Olga Benário."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-sm-02",
+          "kind": "historico",
+          "title": "Vice-presidência nacional da Unidade Popular e organização partidária",
+          "role": "vice-presidente nacional do partido entre 2016 e 2026 (presidência de Leonardo Péricles)",
+          "complexity": "alcance nacional; partido fundado em 2016 e registrado pelo TSE em 10/12/2019; sem parlamentares eleitos",
+          "outcome": "partido manteve registro e disputou eleições nacionais em 2022 e 2026, com candidaturas estaduais próprias",
+          "period": "2016-2026",
+          "context": "Atuação de direção em legenda pequena, sem recursos de Fundo Partidário e com estrutura baseada em militância.",
+          "sources": [
+            {
+              "id": "src-sm-45",
+              "title": "Campanha presidencial de Samara Martins em 2026",
+              "publisher": "Wikipédia (pt)",
+              "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+            },
+            {
+              "id": "src-sm-13",
+              "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice: estrutura, bancadas (0), filiados, ala feminina."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-sm-03",
+          "kind": "historico",
+          "title": "Aprovação da pré-candidatura e lançamento itinerante",
+          "role": "pré-candidata, aprovada por unanimidade pelo Diretório Nacional",
+          "complexity": "alcance nacional; agendas de lançamento em Fortaleza (02/04/2026), Belém (02-03/05/2026) e outras praças antes da convenção de 26/07/2026",
+          "outcome": "candidatura oficializada na convenção nacional de 26/07/2026, na Universidade Zumbi dos Palmares (SP)",
+          "period": "2026",
+          "context": "Construção da candidatura por meio de agendas públicas em estados, com partido sem exposição na mídia tradicional.",
+          "sources": [
+            {
+              "id": "src-sm-46",
+              "title": "Única mulher na disputa, Samara Martins lança pré-candidatura à Presidência (reunião do Diretório Nacional, 1º de fevereiro)",
+              "publisher": "Agemt — Jornalismo PUC-SP",
+              "url": "https://agemt.pucsp.br/noticias/unica-mulher-na-disputa-samara-martins-lanca-pre-candidatura-presidencia",
+              "publishedAt": "2026-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mês; dia exato não capturado. Aprovação do nome pelo Diretório Nacional em 01/02/2026."
+            },
+            {
+              "id": "src-sm-51",
+              "title": "Única mulher pré-candidata à Presidência, Samara Martins cumpre agenda em Fortaleza",
+              "publisher": "O Povo (Vertical)",
+              "url": "https://mais.opovo.com.br/colunistas/vertical/2026/04/02/candidata-a-presidencia-samara-martins-cumpre-agenda-em-fortaleza.html",
+              "publishedAt": "2026-04-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-47",
+              "title": "Samara Martins desembarca em Belém para lançar pré-candidatura à Presidência",
+              "publisher": "Ponto de Pauta (PA)",
+              "url": "https://pontodepauta.com/2026/04/30/samara-martins-desembarca-em-belem-para-lancar-pre-candidatura-a-presidencia/",
+              "publishedAt": "2026-04-30",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Agenda de lançamento da pré-candidatura em Belém, nos dias 2 e 3 de maio de 2026."
+            },
+            {
+              "id": "src-sm-01",
+              "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+              "publisher": "Unidade Popular (site oficial do partido)",
+              "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+              "publishedAt": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-sm-04",
+          "kind": "historico",
+          "title": "Registro do programa de governo e validação do registro da chapa",
+          "role": "cabeça de chapa",
+          "complexity": "programa de governo registrado no TSE em 06/08/2026 com menos de uma página e meia, conforme levantamento da imprensa; 13 pedidos de registro à Presidência recebidos até 15/08/2026",
+          "outcome": "registro da chapa Samara Martins/Raquel Brício aprovado por unanimidade pelo TSE em 02/09/2026, entre as seis primeiras chapas validadas",
+          "period": "2026",
+          "context": "Exigência legal de registro de programa e de chapa dentro do prazo, com documento resumido.",
+          "sources": [
+            {
+              "id": "src-sm-08",
+              "title": "TSE valida seis registros de candidatura à Presidência da República",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+              "publishedAt": "2026-09-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Chapa Samara Martins/Raquel Brício validada por unanimidade; 13 pedidos de registro até 15/08/2026."
+            },
+            {
+              "id": "src-sm-30",
+              "title": "Plano da UP para a Presidência registrado no TSE tem menos de uma página e meia; documento repercute na internet (16 propostas)",
+              "publisher": "Fonte 83",
+              "url": "https://fonte83.com.br/politica/eleicoes-2026/plano-da-up-para-a-presidencia-registrado-no-tse-tem-menos-de-uma-pagina-e-meia-documento-repercute-na-internet",
+              "publishedAt": "2026-08-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-09",
+              "title": "TSE aprova registros de seis candidatos à Presidência da República",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+              "publishedAt": "2026-09-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Publicado em 02/09/2026 - 21:35."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-sm-05",
+          "kind": "historico",
+          "title": "Campanha eleitoral com agenda nacional e frentes estaduais",
+          "role": "candidata à Presidência",
+          "complexity": "campanha nacional; partido com candidaturas próprias a governos estaduais ('mira 17 governos', agosto de 2026) e agenda de rua em estados como Bahia (Salvador, setembro) e Piauí (Teresina)",
+          "outcome": "agendas cumpridas nas capitais visitadas; candidaturas estaduais oficializadas pelo partido",
+          "period": "2026",
+          "context": "Campanha sem coligação, apoiada em candidaturas estaduais próprias e em militância.",
+          "sources": [
+            {
+              "id": "src-sm-23",
+              "title": "Unidade Popular quer Presidência e mira 17 governos",
+              "publisher": "SBT News",
+              "url": "https://sbtnews.sbt.com.br/noticia/politica/unidade-popular-quer-presidencia-e-mira-17-governos",
+              "publishedAt": "2026-08-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "17 candidaturas a governo, 12 femininas (~70%); ausência de recursos do fundo partidário."
+            },
+            {
+              "id": "src-sm-48",
+              "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Salvador",
+              "publisher": "g1 (Globo) — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-salvador.ghtml",
+              "publishedAt": "2026-09-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-19",
+              "title": "UP 2026: fundos, repasses e candidatos",
+              "publisher": "Plural (levantamento com dados do TSE)",
+              "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "A UP disputou 2026 com candidatura própria: o partido declarou que chegou a dialogar com outras legendas, mas que as tratativas não avançaram, e rejeitou federação partidária. Em 2022, o partido apoiou Lula no segundo turno após concorrer com chapa própria; em 2026, manteve a candidatura. A candidata expôs como método que a negociação política deve colocar o programa acima das pessoas e compôs chapa com a sindicalista Raquel Brício, mantendo agenda em movimentos sociais e veículos de mídia fora do campo de governo.",
+      "coverageNote": "As evidências são majoritariamente declarações da candidata e de dirigentes em entrevistas e material partidário; não há registro de acordos formais assinados ou de mesas de negociação documentadas.",
+      "evidences": [
+        {
+          "id": "ev-cap-sm-06",
+          "kind": "historico",
+          "title": "Tratativas de coligação encerradas sem acordo",
+          "role": "vice-presidente nacional do partido; tratativas conduzidas pela direção partidária",
+          "complexity": "interlocução declarada com outras legendas em 2026; decisão de concorrer sem coligação e sem federação",
+          "outcome": "tratativas não avançaram, segundo dirigente do partido; chapa registrada como partido isolado",
+          "period": "2026",
+          "context": "Partido pequeno avaliando alianças antes das convenções de 2026.",
+          "sources": [
+            {
+              "id": "src-sm-15",
+              "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+              "publisher": "Paraíba Online",
+              "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+              "publishedAt": "2026-07-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Candidatura própria sem coligações; propostas de valorização do salário mínimo e fim da 6×1."
+            },
+            {
+              "id": "src-sm-34",
+              "title": "Única mulher negra candidata a presidente promete dobrar salário mínimo (rejeita federação com PT/PSOL/PSTU/PCB e prioriza alianças 'programáticas')",
+              "publisher": "A Notícia do Vale",
+              "url": "https://anoticiadovale.com/2026/08/30/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo/",
+              "publishedAt": "2026-08-30",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-19",
+              "title": "UP 2026: fundos, repasses e candidatos",
+              "publisher": "Plural (levantamento com dados do TSE)",
+              "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-sm-07",
+          "kind": "historico",
+          "title": "Posicionamento sobre alianças em segundo turno e candidatura própria em 2026",
+          "role": "cabeça de chapa em 2026 e vice na chapa presidencial do partido em 2022",
+          "complexity": "partido com 0,05% dos votos válidos em 2022 e candidatura própria mantida em 2026",
+          "outcome": "em 2022, o partido apoiou Lula no segundo turno após a votação; em 2026, manteve a candidatura própria e não anunciou apoio a outra chapa",
+          "period": "2022-2026",
+          "context": "Decisão de manter projeto próprio apesar do custo eleitoral de não aderir a uma frente maior.",
+          "sources": [
+            {
+              "id": "src-sm-33",
+              "title": "Léo Péricles e Unidade Popular anunciam apoio a Lula no segundo turno das eleições",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/10/leo-pericles-e-unidade-popular-anunciam-apoio-a-lula-no-segundo-turno-das-eleicoes.ghtml",
+              "publishedAt": "2022-10-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-19",
+              "title": "UP 2026: fundos, repasses e candidatos",
+              "publisher": "Plural (levantamento com dados do TSE)",
+              "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+            },
+            {
+              "id": "src-sm-45",
+              "title": "Campanha presidencial de Samara Martins em 2026",
+              "publisher": "Wikipédia (pt)",
+              "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-sm-08",
+          "kind": "posicao",
+          "title": "Método de negociação declarado pela candidata",
+          "role": "candidata à Presidência",
+          "complexity": "declaração em entrevista de 12/08/2026, em programa de alcance nacional, de que a negociação política deve colocar o programa acima das pessoas",
+          "outcome": "posição declarada publicamente; não há registro de aplicação documentada em mesa de negociação",
+          "period": "2026",
+          "context": "Formulação de critério público para alianças antes do primeiro turno.",
+          "sources": [
+            {
+              "id": "src-sm-25",
+              "title": "Samara Martins: Negociação política: programa acima de pessoas",
+              "publisher": "Ceticismo.com — transcrição classificada",
+              "url": "https://ceticismo.com.br/en/transcript/7eae4400-716d-465d-9616-b9018310a7a3",
+              "publishedAt": "2026-08-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-05",
+              "title": "Samara Martins (UP) | Café nas Eleições #028 — transcrição",
+              "publisher": "Ceticismo.com",
+              "url": "https://ceticismo.com.br/en/transcript/f8ea7673-cc2c-4e73-bff4-639966db9a5f",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Ano; data exata não capturada. Segunda chapa presidencial do UP."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "ev-cap-sm-09",
+          "kind": "historico",
+          "title": "Composição de chapa com dirigente sindical",
+          "role": "cabeça de chapa; vice Raquel Brício, guarda-portuária paraense e ativista sindical",
+          "complexity": "chapa exclusivamente feminina; duas chapas com essas características entre as 12 validadas para a Presidência em 2026",
+          "outcome": "chapa registrada e validada pelo TSE em 02/09/2026",
+          "period": "2026",
+          "context": "Composição que aproxima a campanha do meio sindical portuário do Pará.",
+          "sources": [
+            {
+              "id": "src-sm-01",
+              "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+              "publisher": "Unidade Popular (site oficial do partido)",
+              "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+              "publishedAt": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+            },
+            {
+              "id": "src-sm-24",
+              "title": "UP oficializa candidatura de Samara Martins à presidência com chapa 100% feminina",
+              "publisher": "R7 / Notícias",
+              "url": "https://noticias.r7.com/brasilia/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina-26072026/",
+              "publishedAt": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-50",
+              "title": "Quem é Samara Martins, candidata da UP à Presidência da República",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026). Dentista do SUS, dirigente partidária e militante de movimentos populares; chapa com a sindicalista paraense Raquel Brício."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-sm-10",
+          "kind": "historico",
+          "title": "Diálogo com movimentos sociais e veículos de mídia de alcance nacional",
+          "role": "candidata à Presidência; integrou a direção do Movimento de Mulheres Olga Benário e a Frente Negra Revolucionária",
+          "complexity": "entrevistas e participações em veículos como Band, CNN Brasil e Canal MyNews e em programas de podcast, entre agosto e setembro de 2026",
+          "outcome": "posições apresentadas em mídia nacional; a candidata registrou publicamente a dificuldade de acesso a espaços tradicionais de propaganda",
+          "period": "2026",
+          "context": "Campanha de partido sem bancada e com pouco espaço na mídia tradicional.",
+          "sources": [
+            {
+              "id": "src-sm-50",
+              "title": "Quem é Samara Martins, candidata da UP à Presidência da República",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026). Dentista do SUS, dirigente partidária e militante de movimentos populares; chapa com a sindicalista paraense Raquel Brício."
+            },
+            {
+              "id": "src-sm-06",
+              "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+              "publisher": "Band",
+              "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+            },
+            {
+              "id": "src-sm-35",
+              "title": "Samara Martins diz ser a única pré-candidata que mantém bandeiras históricas da esquerda: 'não farei aliança com a direita'",
+              "publisher": "Canal MyNews",
+              "url": "https://canalmynews.com.br/noticias/samara-martins-diz-ser-a-unica-pre-candidata-que-mantem-bandeiras-historicas-da-esquerda/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-49",
+              "title": "Dentista do SUS e militante de esquerda: Quem é Samara Martins (UP), candidata à Presidência",
+              "publisher": "Jovem Pan",
+              "url": "https://jovempan.com.br/noticias/dentista-do-sus-e-militante-de-esquerda-quem-e-samara-martins-up-candidata-a-presidencia/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026). Cirurgiã-dentista do SUS, vice-presidente da UP, vinculada à militância antirracista e à direção do Movimento de Mulheres Olga Benário."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Exerceu a vice-presidência nacional da Unidade Popular entre 2016 e 2026, com atuação na organização partidária e na direção de movimentos populares (Movimento de Mulheres Olga Benário e Frente Negra Revolucionária), além de ter dirigido a pasta de mulheres na UNE. Em 2026, conduziu a campanha presidencial com chapa 100% feminina, vice indicada e frentes estaduais próprias, mantendo o partido sem coligação. Não há publicação de quadro de pessoal ou organograma da campanha.",
+      "coverageNote": "Não há dados de pessoal nem organograma publicados pelo partido ou pela campanha; as evidências de liderança são a direção partidária nacional, a direção de movimentos sociais e a montagem da campanha de 2026.",
+      "evidences": [
+        {
+          "id": "ev-cap-sm-11",
+          "kind": "historico",
+          "title": "Direção nacional de partido e organização de estrutura militante",
+          "role": "vice-presidente nacional da Unidade Popular (2016-2026)",
+          "complexity": "alcance nacional; partido com 0 parlamentares eleitos e estrutura sustentada por militância; campanhas em 2020, 2022, 2024 e 2026",
+          "outcome": "partido manteve registro e apresentou candidaturas em quatro eleições consecutivas, com chapa presidencial própria em 2022 e 2026",
+          "period": "2016-2026",
+          "context": "Direção de legenda sem recursos de Fundo Partidário e com estrutura baseada em diretórios e militância.",
+          "sources": [
+            {
+              "id": "src-sm-45",
+              "title": "Campanha presidencial de Samara Martins em 2026",
+              "publisher": "Wikipédia (pt)",
+              "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+            },
+            {
+              "id": "src-sm-13",
+              "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice: estrutura, bancadas (0), filiados, ala feminina."
+            },
+            {
+              "id": "src-sm-23",
+              "title": "Unidade Popular quer Presidência e mira 17 governos",
+              "publisher": "SBT News",
+              "url": "https://sbtnews.sbt.com.br/noticia/politica/unidade-popular-quer-presidencia-e-mira-17-governos",
+              "publishedAt": "2026-08-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "17 candidaturas a governo, 12 femininas (~70%); ausência de recursos do fundo partidário."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-sm-12",
+          "kind": "historico",
+          "title": "Direção de movimentos sociais e organização de mulheres",
+          "role": "dirigente do Movimento de Mulheres Olga Benário, integrante da Frente Negra Revolucionária e ex-diretora de mulheres da UNE",
+          "complexity": "alcance nacional; organizações de atuação em pautas de mulheres e da população negra; coordenação de militantes",
+          "outcome": "participação nas direções das organizações citadas, conforme perfis publicados na campanha de 2026",
+          "period": "não informado",
+          "context": "Atuação em movimentos sociais em paralelo ao trabalho como dentista do SUS.",
+          "sources": [
+            {
+              "id": "src-sm-49",
+              "title": "Dentista do SUS e militante de esquerda: Quem é Samara Martins (UP), candidata à Presidência",
+              "publisher": "Jovem Pan",
+              "url": "https://jovempan.com.br/noticias/dentista-do-sus-e-militante-de-esquerda-quem-e-samara-martins-up-candidata-a-presidencia/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026). Cirurgiã-dentista do SUS, vice-presidente da UP, vinculada à militância antirracista e à direção do Movimento de Mulheres Olga Benário."
+            },
+            {
+              "id": "src-sm-32",
+              "title": "Samara Martins — verbete com tabela de desempenho eleitoral (2020: vereadora de Natal, 515 votos, 0,14%, não eleita; 2022: vice-presidente, 53.519 votos, 0,05%, não eleita)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Samara_Martins",
+              "publishedAt": "2026-09-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-50",
+              "title": "Quem é Samara Martins, candidata da UP à Presidência da República",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026). Dentista do SUS, dirigente partidária e militante de movimentos populares; chapa com a sindicalista paraense Raquel Brício."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-sm-13",
+          "kind": "historico",
+          "title": "Montagem da chapa e condução da convenção nacional de 2026",
+          "role": "pré-candidata e dirigente nacional; indicação da vice Raquel Brício",
+          "complexity": "convenção nacional realizada em 26/07/2026, na Universidade Zumbi dos Palmares (SP); chapa 100% feminina",
+          "outcome": "candidatura oficializada com chapa completa e registro validado pelo TSE em 02/09/2026",
+          "period": "2026",
+          "context": "Definição de chapa e realização de convenção por partido de estrutura pequena.",
+          "sources": [
+            {
+              "id": "src-sm-01",
+              "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+              "publisher": "Unidade Popular (site oficial do partido)",
+              "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+              "publishedAt": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+            },
+            {
+              "id": "src-sm-02",
+              "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente",
+              "publishedAt": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Vice na chapa de Leonardo Péricles em 2022."
+            },
+            {
+              "id": "src-sm-24",
+              "title": "UP oficializa candidatura de Samara Martins à presidência com chapa 100% feminina",
+              "publisher": "R7 / Notícias",
+              "url": "https://noticias.r7.com/brasilia/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina-26072026/",
+              "publishedAt": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-sm-14",
+          "kind": "historico",
+          "title": "Coordenação de campanha itinerante com militância",
+          "role": "cabeça de chapa",
+          "complexity": "agendas de campanha em capitais de ao menos quatro estados (Fortaleza, Belém, Teresina e Salvador) entre abril e setembro de 2026, com atividade de rua e contato direto com militância",
+          "outcome": "agendas realizadas e campanha mantida sem coligação até a semana anterior ao primeiro turno",
+          "period": "2026",
+          "context": "Campanha de baixo orçamento, apoiada em corpo a corpo e em candidaturas estaduais próprias.",
+          "sources": [
+            {
+              "id": "src-sm-51",
+              "title": "Única mulher pré-candidata à Presidência, Samara Martins cumpre agenda em Fortaleza",
+              "publisher": "O Povo (Vertical)",
+              "url": "https://mais.opovo.com.br/colunistas/vertical/2026/04/02/candidata-a-presidencia-samara-martins-cumpre-agenda-em-fortaleza.html",
+              "publishedAt": "2026-04-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-47",
+              "title": "Samara Martins desembarca em Belém para lançar pré-candidatura à Presidência",
+              "publisher": "Ponto de Pauta (PA)",
+              "url": "https://pontodepauta.com/2026/04/30/samara-martins-desembarca-em-belem-para-lancar-pre-candidatura-a-presidencia/",
+              "publishedAt": "2026-04-30",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Agenda de lançamento da pré-candidatura em Belém, nos dias 2 e 3 de maio de 2026."
+            },
+            {
+              "id": "src-sm-48",
+              "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Salvador",
+              "publisher": "g1 (Globo) — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-salvador.ghtml",
+              "publishedAt": "2026-09-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-07",
+              "title": "Samara Martins defende que políticos usem o SUS",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "O 'Programa da Unidade Popular pelo Socialismo' (versão de 67 páginas, posterior ao documento de 16 propostas registrado inicialmente) propõe um 'Governo Popular dos Trabalhadores', com participação permanente do povo, controle público dos setores estratégicos, soberania nacional, planificação democrática da economia e 'prioridade absoluta às necessidades sociais'. A candidata resume o horizonte declarado como 'construir um país socialista' e um país 'sem exploração dos trabalhadores por uma minoria de bilionários'; saúde, educação, moradia, transporte, cultura e comunicação são declaradas direitos, 'e não mercadorias'.",
+    "nationalPriorities": [
+      "salário mínimo e jornada (reajuste de 100% e fim da escala 6x1)",
+      "nacionalização do sistema bancário e reestatização de empresas",
+      "saúde e educação públicas (10% do PIB para educação)",
+      "reforma agrária e controle de preços dos alimentos",
+      "moradia e saneamento",
+      "soberania nacional e luta anti-imperialista",
+      "direitos das mulheres e combate à discriminação"
+    ],
+    "developmentModel": "O modelo declarado é de superação do capitalismo: controle social dos monopólios e dos meios de produção nos setores estratégicos, planificação da economia para acabar com desigualdades regionais e sociais, nacionalização do sistema bancário (e, na versão corrigida de 16 propostas, também dos planos de saúde privados), reestatização das empresas privatizadas, estatização dos transportes coletivos e suspensão do pagamento da dívida pública seguida de auditoria. O programa defende ainda reajuste de 100% do salário mínimo como medida emergencial do primeiro momento de governo, fim da escala 6x1 com redução da jornada sem redução salarial, revogação das reformas trabalhista e da Previdência, isenção de impostos para trabalhadores, taxação de grandes fortunas, fim de subsídios fiscais e financeiros a monopólios, exigência de que políticos usem exclusivamente a saúde e a educação públicas, destinação de 10% do PIB para a educação e fim de vestibular e processos seletivos no acesso ao ensino público. Ciência e reindustrialização aparecem como eixos de desenvolvimento; o meio ambiente comparece pela proteção da Amazônia e dos biomas, pela demarcação de terras indígenas e pela oposição declarada à entrega de terras raras brasileiras a outros países; a desigualdade é tratada como resultado do sistema capitalista, a ser superado por controle público e planificação, não administrado. A candidata rejeita federação e coligação partidária na disputa presidencial (chapa própria, 100% feminina).",
+    "sources": [
+      {
+        "id": "src-sm-41",
+        "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+        "publisher": "Poder360 (espelho do documento da campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+      },
+      {
+        "id": "src-sm-01",
+        "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+        "publisher": "Unidade Popular (site oficial do partido)",
+        "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+        "publishedAt": "2026-07-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+      },
+      {
+        "id": "src-sm-42",
+        "title": "Samara Martins registra candidatura no TSE, mas plano de governo protocolado é o de 2022",
+        "publisher": "Canal MyNews",
+        "url": "https://canalmynews.com.br/eleicoes-2026/samara-martins-candidatura-tse-plano-governo/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Relata o envio da versão de 2022 por falha interna e a versão corrigida de 16 propostas (reajuste de 100% do salário mínimo, fim da escala 6x1, 36 horas, suspensão da dívida pública, nacionalização de bancos e de planos de saúde)."
+      },
+      {
+        "id": "src-sm-43",
+        "title": "Samara Martins leva programa socialista à disputa presidencial",
+        "publisher": "Jornalismo Júnior",
+        "url": "https://jornalismojunior.com.br/samara-martins-leva-programa-socialista-a-disputa-presidencial/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Registra a passagem do documento de ~1,5 página e 16 propostas para a versão final de 67 páginas e cerca de 20 eixos temáticos; aponta três eixos declarados (trabalho, anti-imperialismo, soberania)."
+      },
+      {
+        "id": "src-sm-44",
+        "title": "Plano de governo da UP tem menos de duas páginas e vira piada nas redes sociais",
+        "publisher": "BNews",
+        "url": "https://www.bnews.com.br/noticias/politica/plano-de-governo-da-tem-menos-de-duas-paginas-e-vira-piada-nas-redes-sociais.html",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Lista as 16 propostas do documento registrado (economia, agrário, educação, relações internacionais, mulheres)."
+      },
+      {
+        "id": "src-sm-45",
+        "title": "Campanha presidencial de Samara Martins em 2026",
+        "publisher": "Wikipédia (pt)",
+        "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "editorial",
+        "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+      },
+      {
+        "id": "src-sm-25",
+        "title": "Samara Martins: Negociação política: programa acima de pessoas",
+        "publisher": "Ceticismo.com — transcrição classificada",
+        "url": "https://ceticismo.com.br/en/transcript/7eae4400-716d-465d-9616-b9018310a7a3",
+        "publishedAt": "2026-08-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-sm-30",
+        "title": "Plano da UP para a Presidência registrado no TSE tem menos de uma página e meia; documento repercute na internet (16 propostas)",
+        "publisher": "Fonte 83",
+        "url": "https://fonte83.com.br/politica/eleicoes-2026/plano-da-up-para-a-presidencia-registrado-no-tse-tem-menos-de-uma-pagina-e-meia-documento-repercute-na-internet",
+        "publishedAt": "2026-08-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      }
+    ],
+    "evidenceStatus": "confirmado",
+    "confidenceLevel": "medium",
+    "methodology": "Extração direta da versão de 67 páginas do programa apresentado pela campanha (lida integralmente), confrontada com a versão de 16 propostas e com a cobertura de 2026 (Jornalismo Júnior, BNews, O Globo/Lauro Jardim, Metrópoles, Agência Brasil). Confiança média porque o registro no TSE passou por correção: o documento protocolado em 06/08/2026 reproduzia a versão de 2022 (relatado pela imprensa e pela coluna de O Globo, que mede menos de duas páginas e 16 propostas) e a versão ampliada de 67 páginas passou a circular em seguida; as prioridades listadas foram checadas nas duas versões e não há divergência de eixo, mas divergem em extensão — a versão de 16 propostas cita jornada de 36 horas enquanto o programa ampliado detalha proposta de 30 horas semanais. O que não foi possível extrair: cronograma, custo e fonte de financiamento por proposta (as duas versões são programáticas e não apresentam orçamento)."
+  }
 }

@@ -2538,8 +2538,797 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial",
       "notes": "Mandatos listados na fonte oficial: Deputado Federal 1991–1995 (Congresso Revisor), 1999–2003, 2003–2007, 2007–2011; Senador 2015–2019; Governador 2019–2023."
+    },
+    {
+      "id": "src-caiado-76",
+      "title": "Equilíbrio fiscal do Estado viabiliza R$ 23,7 bilhões em investimentos nos dois mandatos",
+      "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+      "url": "https://agencia.go.gov.br/equilibrio-fiscal-do-estado-viabiliza-r-237-bilhoes-em-investimentos/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Investimentos acumulados da gestão 2019–2026 (fonte estadual)."
+    },
+    {
+      "id": "src-caiado-70",
+      "title": "Caiado sanciona reforma administrativa com redução de 20% da máquina e economia de R$ 422 milhões (decreto 9.455/2019)",
+      "publisher": "Secretaria da Administração — Governo de Goiás",
+      "url": "https://goias.gov.br/administracao/caiado-sanciona-reforma-administrativa-com-reducao-de-20-da-maquina-e-economia-de-r-422-milhoes/",
+      "publishedAt": "2019",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Secretário da Administração apresentou o impacto à imprensa ao lado do governador; decreto publicado no Diário Oficial."
+    },
+    {
+      "id": "src-caiado-72",
+      "title": "Governo de Goiás reúne documentos para aderir ao RRF e apresenta cortes com a reforma administrativa (economia prevista de R$ 422 milhões)",
+      "publisher": "g1 — Globo",
+      "url": "https://g1.globo.com/go/goias/noticia/2019/06/26/governo-de-goias-reune-documentos-para-aderir-ao-rrf-e-apresenta-cortes-com-a-reforma-administrativa.ghtml",
+      "publishedAt": "2019-06-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": ""
+    },
+    {
+      "id": "src-caiado-71",
+      "title": "Governador Ronaldo Caiado sanciona reforma administrativa (decreto 10.218/23)",
+      "publisher": "Secretaria da Administração — Governo de Goiás",
+      "url": "https://goias.gov.br/administracao/governador-ronaldo-caiado-sanciona-reforma-administrativa/",
+      "publishedAt": "2023-02-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Criação de duas secretarias (Infraestrutura; Entorno do DF), renomeação de três e extinção do Conselho Consultivo de Gestão."
+    },
+    {
+      "id": "src-caiado-73",
+      "title": "Governo de Goiás encaminha proposta de Reforma Administrativa à Alego (segunda etapa; previsão de extinção de 4.406 cargos comissionados)",
+      "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+      "url": "https://agencia.go.gov.br/governo-de-goias-encaminha-a-alego-proposta-de-reforma-administrativa/",
+      "publishedAt": "2023-02-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Projeto com criação de duas secretarias e novas nomenclaturas para três pastas."
+    },
+    {
+      "id": "src-caiado-74",
+      "title": "Caiado apresenta plano para a Saúde coordenado por Luiz Henrique Mandetta",
+      "publisher": "g1 — Globo",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/18/caiado-apresenta-plano-para-a-saude-com-foco-em-prevencao-digitalizacao-do-sus-e-prioridade-na-fila-para-doencas-graves.ghtml",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Apresentação em São Paulo; propostas coordenadas pelo ex-ministro da Saúde Luiz Henrique Mandetta."
+    },
+    {
+      "id": "src-caiado-75",
+      "title": "Henrique Mandetta detalha propostas de Ronaldo Caiado para a saúde (coordenador da área na campanha)",
+      "publisher": "JOTA",
+      "url": "https://www.jota.info/coberturas-especiais/henrique-mandetta-detalha-propostas-de-ronaldo-caiado-para-a-saude",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": ""
+    },
+    {
+      "id": "src-caiado-80",
+      "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF publicado pela campanha)",
+      "publisher": "Poder360",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "PDF de 102 páginas com texto lido diretamente: carta de compromisso, 26 temas, 10 itens de método de governo, 10 'Compromissos nacionais para 2030' e seção de implementação/monitoramento."
+    },
+    {
+      "id": "src-caiado-81",
+      "title": "Caiado aposta em segurança, ajuste fiscal e crescimento para construir plano de governo",
+      "publisher": "R7 / Notícias R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/caiado-aposta-em-seguranca-ajuste-fiscal-e-crescimento-para-construir-plano-de-governo-14082026",
+      "publishedAt": "2026-08-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-caiado-82",
+      "title": "O que Caiado prevê para a segurança pública",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/de-terrorismo-domestico-a-policia-sul-americana-veja-as-propostas-de-caiado-para-a-seguranca",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura das propostas de segurança do plano registrado no TSE e do 'terrorismo doméstico' e da proposta de polícia sul-americana (SULPOL)."
+    },
+    {
+      "id": "src-caiado-83",
+      "title": "Caiado diz que convidará Lincoln Gakiya para Ministério da Segurança",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/caiado-diz-que-convidara-lincoln-gakiya-para-ministerio-da-seguranca",
+      "publishedAt": "2026-08-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração de campanha sobre estrutura ministerial de segurança pública, citada por Metrópoles; evidência de prioridade declarada, não de ato praticado."
     }
   ],
-  "dataGaps": [],
-  "updatedAt": "2026-09-29"
+  "dataGaps": [
+    "Lula: não foram localizadas, nesta rodada, fontes primárias com a composição nominal completa do Comitê Gestor do Novo PAC nem atas de suas reuniões; a evidência se apoia no decreto de criação e no painel de execução.",
+    "Lula: a unificação dos programas de transferência de renda em 2003–2004 está sustentada em estudo do Ipea (2013) e na Lei 14.601/2023, sem ato normativo de 2003–2004 consultado diretamente nesta rodada (evidenceStatus parcial).",
+    "Flávio Bolsonaro: a Lei estadual 7.809/2017 consta apenas de fonte da campanha; a ficha da norma não foi localizada na base de legislação da ALERJ nesta rodada.",
+    "Flávio Bolsonaro: data exata do ato de renúncia à Terceira-Secretaria da Mesa do Senado (2021) não capturada nas fontes consultadas.",
+    "Flávio Bolsonaro: sem experiência em cargo executivo, não há evidência de gestão de secretariado ou de orçamento; as evidências de liderança são de comissões, Mesa do Senado e campanha.",
+    "Caiado: o número de cargos comissionados extintos na segunda etapa da reforma (4.406) foi apurado apenas em resumo de imprensa, sem consulta ao texto integral do projeto na Alego.",
+    "Zema: a contagem de '23 mudanças no secretariado' é levantamento de um único veículo e inclui o período posterior à renúncia; não foi usada como evidência isolada.",
+    "Zema: atas ou documentos de reunião das negociações entre o Estado e o Ministério da Fazenda sobre o Propag não foram consultados nesta rodada (fontes de imprensa).",
+    "Nenhum dos quatro planos registrados explicita metas quantificadas nem cronograma para um horizonte de 10 a 20 anos; o campo vision combina o projeto declarado no plano com o material de campanha de 2026 e, no caso de Lula, com documento do CDESS (governo) que propõe roteiro até 2035.",
+    "Lula: o espelho do programa no Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR; a leitura foi feita pela versão publicada pelo PT com o mesmo título e índice de 13 eixos.",
+    "Caiado: a URL do arquivo do plano no DivulgaCandContas não foi localizada nesta coleta; a base é o PDF publicado pela campanha e o espelho do Poder360.",
+    "Zema: a URL do arquivo do plano no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal); o plano não apresenta custo nem prazo para a maior parte das propostas.",
+    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta."
+  ],
+  "updatedAt": "2026-09-29",
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "As contas dos exercícios de 2023, 2024 e 2025 receberam parecer prévio favorável do TCE-GO, o último por unanimidade em 16/06/2026, com cumprimento das vinculações de saúde e educação e do limite de pessoal. Investimentos somaram R$ 7,21 bi em 2025 (maior volume da série histórica em valores reais, segundo o TCE-GO) e R$ 23,7 bi nos dois mandatos, conforme a Agência Goiás; a saída do RRF para o Propag tem economia estimada em R$ 26 bi em 30 anos. Programas estaduais incluem Goiás Social, Mães de Goiás e Goiás Por Elas (R$ 300/mês por até 12 meses a mulheres com medida protetiva).",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-caiado-01",
+          "kind": "historico",
+          "title": "Contas de 2023, 2024 e 2025 com parecer prévio favorável do TCE-GO",
+          "role": "Governador de Goiás — responsável pela prestação de contas anual do Executivo estadual",
+          "complexity": "Três exercícios submetidos ao tribunal de contas; receita líquida de R$ 49,6 bi em 2025; despesa de pessoal em 50,07% da RCL ajustada; o parecer de 2025 foi aprovado por unanimidade com destaque para vinculações de saúde e educação",
+          "outcome": "Pareceres prévios favoráveis nos três exercícios, com o de 2025 aprovado em 16/06/2026; o julgamento definitivo cabe à Assembleia Legislativa",
+          "period": "2023–2026",
+          "context": "Prestação de contas anual do Executivo estadual, com recomendações e determinações registradas pelo tribunal (19 recomendações em 2023).",
+          "sources": [
+            {
+              "id": "src-cg-07",
+              "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+              "publisher": "Agência Goiás de Notícias",
+              "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+              "publishedAt": "2026-06-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal_de_contas"
+            },
+            {
+              "id": "src-cg-08",
+              "title": "TCE aprova contas de Caiado e aponta cumprimento de metas fiscais em 2025",
+              "publisher": "Jornal Opção",
+              "url": "https://www.jornalopcao.com.br/ultimas-noticias/tce-aprova-contas-de-caiado-e-aponta-cumprimento-de-metas-fiscais-e-constitucionais-em-2025-838503/",
+              "publishedAt": "2026-06-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal_de_contas"
+            },
+            {
+              "id": "src-cg-09",
+              "title": "Relatório do TCE sobre contas do governo de 2023 é aprovado",
+              "publisher": "ALEGO",
+              "url": "https://portal.al.go.leg.br/noticias/161085/relatorio-do-tce-sobre-contas-do-governo-de-2023-e-aprovado",
+              "publishedAt": "2025-12-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual"
+            },
+            {
+              "id": "src-cg-10",
+              "title": "TCE-GO aprova parecer prévio das contas do governador (exercício de 2024)",
+              "publisher": "Tribunal do Planalto",
+              "url": "https://tribunadoplanalto.com.br/tce-go-aprova-parecer-previo-das-contas-do-governador/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal_de_contas"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-02",
+          "kind": "historico",
+          "title": "Execução de investimentos estaduais em 2025 e no conjunto dos dois mandatos",
+          "role": "Governador de Goiás — titular do orçamento de investimento estadual",
+          "complexity": "R$ 7,21 bi investidos em 2025, classificados pelo TCE-GO como o volume da série histórica em valores reais; R$ 23,7 bi acumulados nos dois mandatos (Agência Goiás); receita líquida de R$ 49,6 bi em 2025",
+          "outcome": "Investimento registrado no parecer prévio das contas de 2025 e em balanço da agência estadual; aplicação em hospitais, rodovias e escolas segundo a fonte",
+          "period": "2019–2026",
+          "context": "Estado saiu de situação de desequilíbrio fiscal no início do mandato para superávit orçamentário de R$ 2,52 bi em 2024, conforme o TCE-GO.",
+          "sources": [
+            {
+              "id": "src-cg-07",
+              "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+              "publisher": "Agência Goiás de Notícias",
+              "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+              "publishedAt": "2026-06-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal_de_contas"
+            },
+            {
+              "id": "src-caiado-76",
+              "title": "Equilíbrio fiscal do Estado viabiliza R$ 23,7 bilhões em investimentos nos dois mandatos",
+              "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+              "url": "https://agencia.go.gov.br/equilibrio-fiscal-do-estado-viabiliza-r-237-bilhoes-em-investimentos/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Investimentos acumulados da gestão 2019–2026 (fonte estadual)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-03",
+          "kind": "historico",
+          "title": "Saída do Regime de Recuperação Fiscal para o Propag",
+          "role": "Governador de Goiás — responsável pela adesão do Estado ao novo regime de pagamento da dívida",
+          "complexity": "Adesão ao Propag com prazo de 30 anos; economia estimada em R$ 26 bi no serviço da dívida ao longo do período, segundo o TCE-GO",
+          "outcome": "Saída do RRF e migração para o Propag registradas na prestação de contas de 2025; conta do Estado com alívio estimado no serviço da dívida",
+          "period": "2023–2026",
+          "context": "Operação de dívida pública estadual que depende de aval federal e de aprovação legislativa.",
+          "sources": [
+            {
+              "id": "src-cg-07",
+              "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+              "publisher": "Agência Goiás de Notícias",
+              "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+              "publishedAt": "2026-06-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "tribunal_de_contas"
+            },
+            {
+              "id": "src-cg-32",
+              "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+              "publisher": "Agência Goiás de Notícias",
+              "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+              "publishedAt": "2026-03-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-caiado-04",
+          "kind": "historico",
+          "title": "Reforma administrativa de 2019: corte de cargos e funções comissionadas",
+          "role": "Governador de Goiás — autor do projeto e do decreto de reorganização (decreto 9.455/2019)",
+          "complexity": "Administração direta e indireta do Estado; corte de cargos e funções comissionadas; economia estimada em R$ 422 milhões em quatro anos; execução ao longo do mandato 2019–2022",
+          "outcome": "Reforma sancionada e publicada no Diário Oficial; secretário da Administração apresentou as estimativas de impacto à imprensa ao lado do governador",
+          "period": "2019",
+          "context": "Medida adotada no primeiro ano de mandato, quando o Estado buscava habilitação no Regime de Recuperação Fiscal.",
+          "sources": [
+            {
+              "id": "src-caiado-70",
+              "title": "Caiado sanciona reforma administrativa com redução de 20% da máquina e economia de R$ 422 milhões (decreto 9.455/2019)",
+              "publisher": "Secretaria da Administração — Governo de Goiás",
+              "url": "https://goias.gov.br/administracao/caiado-sanciona-reforma-administrativa-com-reducao-de-20-da-maquina-e-economia-de-r-422-milhoes/",
+              "publishedAt": "2019",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Secretário da Administração apresentou o impacto à imprensa ao lado do governador; decreto publicado no Diário Oficial."
+            },
+            {
+              "id": "src-caiado-72",
+              "title": "Governo de Goiás reúne documentos para aderir ao RRF e apresenta cortes com a reforma administrativa (economia prevista de R$ 422 milhões)",
+              "publisher": "g1 — Globo",
+              "url": "https://g1.globo.com/go/goias/noticia/2019/06/26/governo-de-goias-reune-documentos-para-aderir-ao-rrf-e-apresenta-cortes-com-a-reforma-administrativa.ghtml",
+              "publishedAt": "2019-06-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": ""
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-05",
+          "kind": "historico",
+          "title": "Programas estaduais de transferência e proteção (Goiás Social, Mães de Goiás, Goiás Por Elas)",
+          "role": "Governador de Goiás — programas mantidos sob gestão estadual no segundo mandato",
+          "complexity": "Transferência de R$ 300/mês por até 12 meses a mulheres em situação de violência doméstica com medida protetiva; rede de programas sociais do Estado com execução pela secretaria de desenvolvimento social",
+          "outcome": "Programa registrado em página oficial do Governo de Goiás e citado no balanço de passagem do cargo em 31/03/2026",
+          "period": "2019–2026",
+          "context": "Programas citados no balanço da gestão entregue ao sucessor, com base em transferência condicionada de renda estadual.",
+          "sources": [
+            {
+              "id": "src-cg-34",
+              "title": "Programa Goiás Por Elas (Seds/Governo de Goiás)",
+              "publisher": "Governo de Goiás",
+              "url": "https://goias.gov.br/social/goias-por-elas",
+              "publishedAt": "2026-04-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual"
+            },
+            {
+              "id": "src-cg-32",
+              "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+              "publisher": "Agência Goiás de Notícias",
+              "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+              "publishedAt": "2026-03-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "A interlocução documentada em 2026 é com lideranças evangélicas (apoio do Conamad em 06/04/2026 e visita à Assembleia de Deus de Madureira em 21/04/2026, com apoio escalado ao deputado Otoni de Paula), com o setor agropecuário (Sistema Faemg em 23/04/2026 e agenda no interior de Minas) e com a imprensa (coletiva a mais de 100 jornalistas na convenção do PSD). A negociação partidária inclui o pacto de apoio mútuo entre os pré-candidatos do PSD (mar/2026), a migração do União Brasil para o PSD em 27/01/2026 e a chapa registrada pelo PSD isolado. No histórico legislativo, foi articulador do impeachment de 2016 e líder da bancada ruralista, com anistia temporária de crédito agrícola em 1994.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-caiado-06",
+          "kind": "historico",
+          "title": "Articulação da frente evangélica da campanha",
+          "role": "Candidato à Presidência — conduziu visitas a igrejas e escalou um deputado como articulador do segmento",
+          "complexity": "Apoio público do bispo Samuel Ferreira (Conamad, rede citada com 42 mil templos) em 06/04/2026; visita à Igreja Fonte da Vida com o apóstolo César Augusto; apoio da Assembleia de Deus de Madureira em 21/04/2026; articulação conduzida pelo deputado federal Otoni de Paula",
+          "outcome": "Apoios divulgados em abr/2026, com registro de reação contrária de parte da direita evangélica (racha noticiado pela Folha)",
+          "period": "2026",
+          "context": "Segmento com influência eleitoral; o apoio foi objeto de disputa dentro do próprio campo evangélico, segundo a fonte.",
+          "sources": [
+            {
+              "id": "src-cg-40",
+              "title": "Caiado vai a igreja mirando apoio de mais um líder evangélico",
+              "publisher": "Metrópoles (coluna Igor Gadelha)",
+              "url": "https://www.metropoles.com/colunas/igor-gadelha/caiado-vai-a-igreja-mirando-apoio-de-mais-um-lider-evangelico",
+              "publishedAt": "2026-04-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "21/04/2026: visita de Caiado à Igreja Fonte da Vida (SP) com o apóstolo César Augusto; registro de apoio público da Assembleia de Deus de Madureira e recepção pela cúpula da Assembleia de Deus Belém."
+            },
+            {
+              "id": "src-cg-41",
+              "title": "Direita evangélica racha com apoio de bispo a Caiado",
+              "publisher": "Folha de S.Paulo (coluna Juliano Spyer)",
+              "url": "https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/04/direita-evangelica-racha-com-apoio-de-bispo-a-caiado.shtml",
+              "publishedAt": "2026-04-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "06/04/2026: apoio público do bispo Samuel Ferreira (Conamad — 42 mil templos, cerca de 102 mil pastores) a Caiado na cerimônia de pré-candidatura."
+            },
+            {
+              "id": "src-cg-44",
+              "title": "PSD confirma candidaturas de Caiado e Kassab",
+              "publisher": "Site de Gilberto Kassab / PSD",
+              "url": "https://gilbertokassab.com.br/noticias/geral/psd-confirma-candidaturas-de-caiado-e-kassab/",
+              "publishedAt": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "26/07/2026: convenção nacional do PSD em São Paulo oficializa a chapa; entrevista coletiva a mais de 100 jornalistas; presença dos governadores Ratinho Junior (PR), Eduardo Leite (RS) e Daniel Vilela (GO), de senadores e de deputados federais."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-07",
+          "kind": "historico",
+          "title": "Interlocução com o setor agropecuário em Minas Gerais",
+          "role": "Candidato à Presidência — agendas setoriais com produtores e entidades",
+          "complexity": "Palestra e encontro com produtores no Sistema Faemg (23/04/2026); agenda de agro em MG em 24/04/2026 com Mercado Central, abertura da safra de cana em Uberaba e Expozebu",
+          "outcome": "Agenda realizada com apresentação de propostas para o setor; cobertura de veículo setorial e da imprensa econômica",
+          "period": "2026",
+          "context": "O agronegócio tem peso na base política goiana e na campanha em Minas, estado disputado por três candidatos do mesmo campo.",
+          "sources": [
+            {
+              "id": "src-cg-42",
+              "title": "Em visita ao Sistema Faemg, Ronaldo Caiado defende agro forte",
+              "publisher": "Sistema FAEMG/SENAR",
+              "url": "https://www.faemg.org.br/sindicatos/noticias/em-visita-ao-sistema-faemg-ronaldo-caiado-defende-agro-forte",
+              "publishedAt": "2026-04-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "23/04/2026: encontro em Belo Horizonte com o presidente do Sistema Faemg Senar e produtores rurais de Minas Gerais."
+            },
+            {
+              "id": "src-cg-43",
+              "title": "Caiado diz que 'muitos tentaram destruir' candidaturas no primeiro turno para manter polarização",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/noticia/2026/04/24/caiado-diz-que-muitos-tentaram-destruir-candidaturas-no-primeiro-turno-para-manter-polarizacao.ghtml",
+              "publishedAt": "2026-04-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "24/04/2026: agenda em MG (palestra na Faemg, Mercado Central, abertura de safra de cana em Uberaba, Expozebu); posição contra a verticalização; PSD-MG anuncia apoio a Caiado mesmo com o governador Mateus Simões apoiando Zema."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-08",
+          "kind": "historico",
+          "title": "Pacto de apoio mútuo entre os pré-candidatos do PSD",
+          "role": "Pré-candidato — pactuou com os demais postulantes a regra de apoio ao vencedor da prévia",
+          "complexity": "Três pré-candidatos do mesmo partido (Ratinho Júnior/PR, Eduardo Leite/RS e ele); prévia disputada em mar/2026",
+          "outcome": "Acordo firmado antes da prévia, com compromisso de apoio dos derrotados ao escolhido; anúncio da candidatura feito por Kassab em 30/03/2026",
+          "period": "2026",
+          "context": "A sigla tinha três governadores postulantes à Presidência; a definição evitou disputa aberta após a escolha.",
+          "sources": [
+            {
+              "id": "src-cg-45",
+              "title": "Pré-candidatos do PSD apoiarão o escolhido pelo partido",
+              "publisher": "Poder360",
+              "url": "https://poder360.com.br/poder-eleicoes/pre-candidatos-do-psd-apoiarao-o-escolhido-pelo-partido",
+              "publishedAt": "2026-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Pacto de apoio mútuo entre Ratinho Jr. (PR), Eduardo Leite (RS) e Ronaldo Caiado (GO) e antecipação da definição do candidato pelo PSD para 27/03/2026; filiação de Caiado ao PSD marcada para 14/03/2026 em Jaraguá (GO). Mês; dia exato da publicação não capturado."
+            },
+            {
+              "id": "src-cg-01",
+              "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-09",
+          "kind": "historico",
+          "title": "Migração do União Brasil para o PSD e composição da chapa com Kassab",
+          "role": "Candidato — negociou a filiação e a composição da chapa",
+          "complexity": "Troca de sigla em jan/2026, filiação ao PSD em 27/01/2026 negociada com dois governadores do partido; convenção nacional de 26/07/2026 com Kassab como vice; registro da chapa no TSE em set/2026",
+          "outcome": "Filiação e candidatura efetivadas; chapa oficializada em convenção e registro publicado no Diário da Justiça Eletrônica do TSE em 18/09/2026",
+          "period": "2026",
+          "context": "Saída do União Brasil após desgastes internos com a federação PP/União e falta de apoio da cúpula, segundo a fonte.",
+          "sources": [
+            {
+              "id": "src-cg-01",
+              "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+            },
+            {
+              "id": "src-cg-02",
+              "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+              "publisher": "Wikipédia (en)",
+              "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt."
+            },
+            {
+              "id": "src-cg-44",
+              "title": "PSD confirma candidaturas de Caiado e Kassab",
+              "publisher": "Site de Gilberto Kassab / PSD",
+              "url": "https://gilbertokassab.com.br/noticias/geral/psd-confirma-candidaturas-de-caiado-e-kassab/",
+              "publishedAt": "2026-07-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "26/07/2026: convenção nacional do PSD em São Paulo oficializa a chapa; entrevista coletiva a mais de 100 jornalistas; presença dos governadores Ratinho Junior (PR), Eduardo Leite (RS) e Daniel Vilela (GO), de senadores e de deputados federais."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-10",
+          "kind": "historico",
+          "title": "Articulação do processo de impeachment de 2016 no Senado",
+          "role": "Senador — um dos articuladores do processo, votou pela prossecução do julgamento e pela perda do mandato",
+          "complexity": "Processo conduzido no Senado Federal com 81 senadores; votação em plenário sobre a perda do mandato da presidente",
+          "outcome": "Voto registrado pela perda do mandato em 2016; rompimento posterior com o governo Temer/MDB no mesmo ano",
+          "period": "2015–2016",
+          "context": "Contexto de crise política nacional; o candidato era então líder do Democratas no Senado.",
+          "sources": [
+            {
+              "id": "src-cg-01",
+              "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-11",
+          "kind": "historico",
+          "title": "Liderança da bancada ruralista e negociação da dívida de crédito agrícola",
+          "role": "Deputado federal — líder da bancada ruralista na Câmara",
+          "complexity": "Bancada ruralista na Câmara dos Deputados; pauta do crédito agrícola no contexto do Plano Collor; atuação nas comissões de Agricultura e de Segurança Pública",
+          "outcome": "Anistia temporária de parte da dívida de crédito agrícola obtida em 1994; em 2023 articulou com a base congressista contra a reforma tributária",
+          "period": "1991–2015",
+          "context": "Atuação em bloco temático suprapartidário, com pauta de endividamento do setor agrícola e de segurança pública.",
+          "sources": [
+            {
+              "id": "src-cg-01",
+              "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Duas etapas de reforma administrativa redefiniram a estrutura do Executivo estadual: em 2019, o corte de cargos e funções comissionadas com economia estimada em R$ 422 milhões em quatro anos; em 2023, o decreto 10.218/23 criou duas secretarias (Infraestrutura e Entorno do DF), renomeou três e extinguiu o Conselho Consultivo de Gestão, a partir de projeto enviado à Alego. Na campanha de 2026, a área de saúde foi coordenada por Luiz Henrique Mandetta e a articulação evangélica escalada ao deputado Otoni de Paula. A transmissão do governo ao vice Daniel Vilela ocorreu em 31/03/2026, com balanço divulgado pela agência estadual.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-caiado-12",
+          "kind": "historico",
+          "title": "Reforma administrativa de 2019 — definição da estrutura e corte de cargos comissionados",
+          "role": "Governador de Goiás — propositor da reorganização da administração direta e indireta",
+          "complexity": "Estrutura de secretarias e autarquias do Estado; corte de cargos e funções comissionadas; economia estimada em R$ 422 milhões em quatro anos",
+          "outcome": "Decreto publicado no Diário Oficial e impacto apresentado à imprensa pelo secretário da Administração ao lado do governador",
+          "period": "2019",
+          "context": "Primeira reorganização da máquina no mandato, feita em paralelo à busca de habilitação do Estado no Regime de Recuperação Fiscal.",
+          "sources": [
+            {
+              "id": "src-caiado-70",
+              "title": "Caiado sanciona reforma administrativa com redução de 20% da máquina e economia de R$ 422 milhões (decreto 9.455/2019)",
+              "publisher": "Secretaria da Administração — Governo de Goiás",
+              "url": "https://goias.gov.br/administracao/caiado-sanciona-reforma-administrativa-com-reducao-de-20-da-maquina-e-economia-de-r-422-milhoes/",
+              "publishedAt": "2019",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Secretário da Administração apresentou o impacto à imprensa ao lado do governador; decreto publicado no Diário Oficial."
+            },
+            {
+              "id": "src-caiado-72",
+              "title": "Governo de Goiás reúne documentos para aderir ao RRF e apresenta cortes com a reforma administrativa (economia prevista de R$ 422 milhões)",
+              "publisher": "g1 — Globo",
+              "url": "https://g1.globo.com/go/goias/noticia/2019/06/26/governo-de-goias-reune-documentos-para-aderir-ao-rrf-e-apresenta-cortes-com-a-reforma-administrativa.ghtml",
+              "publishedAt": "2019-06-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": ""
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-13",
+          "kind": "historico",
+          "title": "Segunda etapa da reforma administrativa (2023) — criação e renomeação de secretarias",
+          "role": "Governador de Goiás — autor do projeto enviado à Alego e do decreto 10.218/23",
+          "complexity": "Criação de duas secretarias (Infraestrutura; Entorno do Distrito Federal), renomeação de três pastas (Secretaria-Geral de Governo, Ciência/Tecnologia e Relações Institucionais) e extinção do Conselho Consultivo de Gestão; projeto com previsão de extinção de 4.406 cargos comissionados",
+          "outcome": "Projeto aprovado pela Assembleia Legislativa e sancionado por decreto em 16/02/2023, com efeito imediato sobre a organização do Executivo estadual",
+          "period": "2023",
+          "context": "Readequação feita no início do segundo mandato para alinhar a estrutura ao plano de governo apresentado em 2022.",
+          "sources": [
+            {
+              "id": "src-caiado-71",
+              "title": "Governador Ronaldo Caiado sanciona reforma administrativa (decreto 10.218/23)",
+              "publisher": "Secretaria da Administração — Governo de Goiás",
+              "url": "https://goias.gov.br/administracao/governador-ronaldo-caiado-sanciona-reforma-administrativa/",
+              "publishedAt": "2023-02-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Criação de duas secretarias (Infraestrutura; Entorno do DF), renomeação de três e extinção do Conselho Consultivo de Gestão."
+            },
+            {
+              "id": "src-caiado-73",
+              "title": "Governo de Goiás encaminha proposta de Reforma Administrativa à Alego (segunda etapa; previsão de extinção de 4.406 cargos comissionados)",
+              "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+              "url": "https://agencia.go.gov.br/governo-de-goias-encaminha-a-alego-proposta-de-reforma-administrativa/",
+              "publishedAt": "2023-02-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual",
+              "notes": "Projeto com criação de duas secretarias e novas nomenclaturas para três pastas."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-14",
+          "kind": "historico",
+          "title": "Coordenação por área do plano de governo de 2026 (saúde com Mandetta)",
+          "role": "Candidato à Presidência — escolha dos coordenadores de área e apresentação do plano",
+          "complexity": "Programa apresentado por área temática em São Paulo em 18/08/2026; área de saúde coordenada pelo ex-ministro Luiz Henrique Mandetta, responsável por detalhar propostas de fila, SUS e financiamento",
+          "outcome": "Plano de saúde apresentado publicamente com o coordenador da área; propostas incorporadas ao documento de campanha",
+          "period": "2026",
+          "context": "Estrutura de campanha organizada por eixos temáticos com coordenadores externos ao partido.",
+          "sources": [
+            {
+              "id": "src-caiado-74",
+              "title": "Caiado apresenta plano para a Saúde coordenado por Luiz Henrique Mandetta",
+              "publisher": "g1 — Globo",
+              "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/18/caiado-apresenta-plano-para-a-saude-com-foco-em-prevencao-digitalizacao-do-sus-e-prioridade-na-fila-para-doencas-graves.ghtml",
+              "publishedAt": "2026-08-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Apresentação em São Paulo; propostas coordenadas pelo ex-ministro da Saúde Luiz Henrique Mandetta."
+            },
+            {
+              "id": "src-caiado-75",
+              "title": "Henrique Mandetta detalha propostas de Ronaldo Caiado para a saúde (coordenador da área na campanha)",
+              "publisher": "JOTA",
+              "url": "https://www.jota.info/coberturas-especiais/henrique-mandetta-detalha-propostas-de-ronaldo-caiado-para-a-saude",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": ""
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-15",
+          "kind": "historico",
+          "title": "Delegação da articulação evangélica a um coordenador parlamentar",
+          "role": "Candidato à Presidência — delegou a interlocução com lideranças evangélicas a um deputado federal",
+          "complexity": "Rede de igrejas visitadas em abr/2026 (Conamad, Fonte da Vida, Assembleia de Deus de Madureira); articulação conduzida pelo deputado Otoni de Paula",
+          "outcome": "Agendas realizadas e apoios divulgados em abr/2026 sob responsabilidade do articulador designado",
+          "period": "2026",
+          "context": "Delegação explícita de uma frente de campanha a um interlocutor com trânsito no segmento.",
+          "sources": [
+            {
+              "id": "src-cg-40",
+              "title": "Caiado vai a igreja mirando apoio de mais um líder evangélico",
+              "publisher": "Metrópoles (coluna Igor Gadelha)",
+              "url": "https://www.metropoles.com/colunas/igor-gadelha/caiado-vai-a-igreja-mirando-apoio-de-mais-um-lider-evangelico",
+              "publishedAt": "2026-04-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "21/04/2026: visita de Caiado à Igreja Fonte da Vida (SP) com o apóstolo César Augusto; registro de apoio público da Assembleia de Deus de Madureira e recepção pela cúpula da Assembleia de Deus Belém."
+            },
+            {
+              "id": "src-cg-41",
+              "title": "Direita evangélica racha com apoio de bispo a Caiado",
+              "publisher": "Folha de S.Paulo (coluna Juliano Spyer)",
+              "url": "https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/04/direita-evangelica-racha-com-apoio-de-bispo-a-caiado.shtml",
+              "publishedAt": "2026-04-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "06/04/2026: apoio público do bispo Samuel Ferreira (Conamad — 42 mil templos, cerca de 102 mil pastores) a Caiado na cerimônia de pré-candidatura."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-caiado-16",
+          "kind": "historico",
+          "title": "Transmissão do governo de Goiás ao vice em 31/03/2026",
+          "role": "Governador de Goiás — renúncia ao cargo com transmissão ao vice Daniel Vilela",
+          "complexity": "Transição no Executivo estadual a três meses do fim do segundo mandato; estrutura de governo mantida com a mesma organização de secretarias",
+          "outcome": "Transmissão formalizada e balanço da gestão divulgado pela Agência Goiás de Notícias",
+          "period": "2026",
+          "context": "Saída antecipada para disputar a Presidência; o vice assumiu a chefia do Executivo estadual.",
+          "sources": [
+            {
+              "id": "src-cg-01",
+              "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+            },
+            {
+              "id": "src-cg-32",
+              "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+              "publisher": "Agência Goiás de Notícias",
+              "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+              "publishedAt": "2026-03-31",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadual"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "O plano descreve o Brasil como nação continental com 'território produtivo, água, alimentos, energia limpa, biodiversidade, minerais estratégicos, ciência e capacidade empresarial' e afirma que 'o Brasil tem recursos. Precisa voltar a ter direção', negando que o país esteja condenado à estagnação, à violência ou à desigualdade. A carta de compromisso combina os quatro anos de mandato com 'uma visão de longo prazo', que seria traduzida em projetos de lei, atos administrativos, pactos federativos, metas do Plano Plurianual e compromissos anuais de execução, com dez 'Compromissos nacionais para 2030'. O documento não define metas quantificadas para horizonte de 10 a 20 anos.",
+    "nationalPriorities": [
+      "Segurança pública: reduzir a violência letal, o domínio territorial e o poder financeiro das facções (prioridade atribuída diretamente à Presidência)",
+      "Estabilização fiscal: restabelecer trajetória sustentável da dívida e recuperar a capacidade de investimento público",
+      "Educação: alfabetização na idade certa e recomposição das aprendizagens na educação básica",
+      "Saúde: reorganizar o SUS com fila por critério clínico, prontuário eletrônico nacional e cuidado regionalizado",
+      "Crescimento com produtividade, investimento e emprego formal (ambiente de negócios, inovação e infraestrutura)",
+      "Transformar agro, minerais, energia e biodiversidade em cadeias de maior valor agregado no Brasil",
+      "Governabilidade e reforma do sistema político (Pacto Nacional de Governabilidade e Resultados e proposta de fim da reeleição no Executivo)"
+    ],
+    "developmentModel": "A carta de compromisso declara que 'a iniciativa privada será o principal motor da economia' e reserva ao Estado garantir estabilidade, concorrência, infraestrutura, capital humano, regulação de qualidade e instrumentos para investimento de longo prazo. O crescimento é vinculado a produtividade, ambiente de negócios, conectividade, saneamento, mobilidade e segurança hídrica, com reorganização do gasto, avaliação de programas, revisão de subsídios e regras de transição. A proteção social é descrita como combinação de 'acolhimento e emancipação', conectando benefícios a qualificação, cuidado infantil, inclusão produtiva, habitação, saúde e educação, com prioridade declarada à infância e políticas para mulheres, população negra, idosos, pessoas com deficiência, indígenas e quilombolas. Meio ambiente e desenvolvimento aparecem como aliados: combate a desmatamento, grilagem e mineração ilegal, com bioeconomia, pagamento por serviços ambientais, mercado de carbono e agricultura de baixo carbono. Em política externa, o plano propõe agendas sem 'alinhamentos automáticos', voltada a abrir mercados, atrair investimento produtivo, proteger brasileiros no exterior, fortalecer a integração regional e defender regras multilaterais, e trata minerais estratégicos, energia limpa e biodiversidade como instrumentos de desenvolvimento.",
+    "sources": [
+      {
+        "id": "src-cg-20",
+        "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF)",
+        "publisher": "Campanha Ronaldo Caiado (PSD)",
+        "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-caiado-80",
+        "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF publicado pela campanha)",
+        "publisher": "Poder360",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF de 102 páginas com texto lido diretamente: carta de compromisso, 26 temas, 10 itens de método de governo, 10 'Compromissos nacionais para 2030' e seção de implementação/monitoramento."
+      },
+      {
+        "id": "src-caiado-81",
+        "title": "Caiado aposta em segurança, ajuste fiscal e crescimento para construir plano de governo",
+        "publisher": "R7 / Notícias R7",
+        "url": "https://noticias.r7.com/eleicoes/2026/caiado-aposta-em-seguranca-ajuste-fiscal-e-crescimento-para-construir-plano-de-governo-14082026",
+        "publishedAt": "2026-08-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-caiado-82",
+        "title": "O que Caiado prevê para a segurança pública",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/de-terrorismo-domestico-a-policia-sul-americana-veja-as-propostas-de-caiado-para-a-seguranca",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Cobertura das propostas de segurança do plano registrado no TSE e do 'terrorismo doméstico' e da proposta de polícia sul-americana (SULPOL)."
+      },
+      {
+        "id": "src-caiado-83",
+        "title": "Caiado diz que convidará Lincoln Gakiya para Ministério da Segurança",
+        "publisher": "Metrópoles",
+        "url": "https://www.metropoles.com/brasil/caiado-diz-que-convidara-lincoln-gakiya-para-ministerio-da-seguranca",
+        "publishedAt": "2026-08-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Declaração de campanha sobre estrutura ministerial de segurança pública, citada por Metrópoles; evidência de prioridade declarada, não de ato praticado."
+      },
+      {
+        "id": "src-cg-21",
+        "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho)",
+        "publisher": "Poder360",
+        "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      }
+    ],
+    "coverage": "documentada",
+    "coverageNote": "Plano da campanha (102 páginas) e espelho do mesmo PDF no Poder360 lidos na íntegra. A URL do arquivo no DivulgaCandContas não foi localizada nesta coleta; a base é o documento publicado pela campanha e a cobertura do registro em 14/08/2026.",
+    "evidenceStatus": "confirmado",
+    "confidenceLevel": "high",
+    "methodology": "Lido diretamente da carta de compromisso, do sumário de 26 temas, do bloco de método de governo e da lista de 'Compromissos nacionais para 2030' (p. 7-8) do plano registrado. As 7 prioridades correspondem a itens declarados nesses blocos e a títulos de temas do próprio índice; o plano não apresenta, na maior parte dos itens, custo ou prazo por proposta, e não traz metas quantificadas para horizonte de 10 a 20 anos."
+  }
 }

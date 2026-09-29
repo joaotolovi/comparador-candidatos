@@ -1739,6 +1739,96 @@
       "accessedAt": "2026-09-29",
       "sourceType": "eleitoral",
       "notes": "O nome voltou a constar como filiado ao PL na tarde de 13/08/2026."
+    },
+    {
+      "id": "src-flavio-02",
+      "title": "PL 2253/2022 — relatoria no Senado; norma gerada: Lei nº 14.843, de 11/04/2024",
+      "publisher": "Congresso Nacional — Atividade Legislativa",
+      "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/154451",
+      "publishedAt": "2024-04-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Ficha de tramitação da matéria relatada no Senado; votação de 20/02/2024 (62 a favor, 2 contra, 1 abstenção)."
+    },
+    {
+      "id": "src-flavio-01",
+      "title": "Flávio Bolsonaro — Rio de Janeiro: perfil oficial do deputado (cargos exercidos e comissões presididas, legislaturas 2003/2007 e 2007/2011)",
+      "publisher": "ALERJ — Assembleia Legislativa do Estado do Rio de Janeiro",
+      "url": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/275",
+      "publishedAt": "não informado",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Registro oficial das presidências de comissões permanentes exercidas na ALERJ."
+    },
+    {
+      "id": "src-flavio-05",
+      "title": "Flávio Bolsonaro renuncia a cargo na Mesa Diretora do Senado (Terceiro-Secretário)",
+      "publisher": "Correio do Povo",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/fl%C3%A1vio-bolsonaro-renuncia-a-cargo-na-mesa-diretora-do-senado-1.541814",
+      "publishedAt": "2021",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata do ato de renúncia não capturada na página nesta rodada (2021, durante o mandato 2019–2021 da Mesa)."
+    },
+    {
+      "id": "src-flavio-03",
+      "title": "Flávio reforça equipe que elabora plano de governo (Adolfo Sachsida, Lyvia Montezano, Carolina Ragazzi e Adriano Pires; Daniella Marques na coordenação econômica)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/18/flavio-anuncia-nomes-proximos-ao-mercado-financeiro-para-reforcar-campanha.ghtml",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Equipe responsável por detalhar pautas setoriais no programa."
+    },
+    {
+      "id": "src-flavio-04",
+      "title": "Flávio Bolsonaro troca comando da comunicação da campanha (anúncio feito pelo coordenador da campanha, senador Rogério Marinho)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/30/flavio-bolsonaro-troca-comando-da-comunicacao-da-campanha.ghtml",
+      "publishedAt": "2026-07-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a coordenação-geral da campanha e a delegação da área de comunicação."
+    },
+    {
+      "id": "src-flavio-06",
+      "title": "Coordenador da campanha de Flávio Bolsonaro: Michelle segue candidata (senador Rogério Marinho na coordenação)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/07/coordenador-da-campanha-de-flavio-bolsonaro-diz-que-michelle-segue-candidata.shtml",
+      "publishedAt": "2026-07-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Atribui ao senador Rogério Marinho a coordenação da pré-campanha/campanha."
+    },
+    {
+      "id": "src-flavio-82",
+      "title": "Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030 (íntegra publicada pela campanha)",
+      "publisher": "Campanha Flávio Bolsonaro (site oficial) — leitura do plano",
+      "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Versão publicada pela própria campanha (76 páginas, 11 capítulos), usada para conferir a estrutura de eixos do PDF espelhado pelo Poder360."
+    },
+    {
+      "id": "src-flavio-80",
+      "title": "Plano de governo de Flávio Bolsonaro propõe tesouraço e novo teto de gastos",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/plano-de-governo-de-flavio-bolsonaro-propoe-tesouraco-e-novo-teto-de-gastos.shtml",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra que o documento prevê corte de gastos e novo teto, com mais controle sobre emendas, sem detalhar a regra fiscal."
+    },
+    {
+      "id": "src-flavio-81",
+      "title": "Flávio propõe manter programas do PT, Caixa Federal repaginada e foco em terras raras e data centers",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/flavio-propoe-manter-programas-do-pt-caixa-federal-repaginada-e-foco-em-terras-raras-e-data-centers/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Leitura do plano sobre proteção social (manutenção de programas existentes), uso da CAIXA e eixos de terras raras e data centers."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -1747,6 +1837,554 @@
     "propostas_dependentes_congresso foi contada sobre as 6 propostas prioritárias detalhadas no JSON (de 69 do plano); a classificação item a item das 69 propostas não foi feita.",
     "DivulgaCandContas não foi aberto diretamente (web_extract indisponível na sessão); dados do TSE vieram de páginas oficiais (TSE, Senado) e de imprensa que replica a plataforma.",
     "Data exata de publicação não capturada na fonte da Gazeta do Povo sobre diálogo com empresários (ano: 2026).",
-    "AIJE nº 0602222-72.2026 (que pede cassação da chapa) está em curso, sem decisão de mérito em 29/09/2026 — a situação do registro pode mudar após julgamento."
-  ]
+    "AIJE nº 0602222-72.2026 (que pede cassação da chapa) está em curso, sem decisão de mérito em 29/09/2026 — a situação do registro pode mudar após julgamento.",
+    "Lula: não foram localizadas, nesta rodada, fontes primárias com a composição nominal completa do Comitê Gestor do Novo PAC nem atas de suas reuniões; a evidência se apoia no decreto de criação e no painel de execução.",
+    "Lula: a unificação dos programas de transferência de renda em 2003–2004 está sustentada em estudo do Ipea (2013) e na Lei 14.601/2023, sem ato normativo de 2003–2004 consultado diretamente nesta rodada (evidenceStatus parcial).",
+    "Flávio Bolsonaro: a Lei estadual 7.809/2017 consta apenas de fonte da campanha; a ficha da norma não foi localizada na base de legislação da ALERJ nesta rodada.",
+    "Flávio Bolsonaro: data exata do ato de renúncia à Terceira-Secretaria da Mesa do Senado (2021) não capturada nas fontes consultadas.",
+    "Flávio Bolsonaro: sem experiência em cargo executivo, não há evidência de gestão de secretariado ou de orçamento; as evidências de liderança são de comissões, Mesa do Senado e campanha.",
+    "Caiado: o número de cargos comissionados extintos na segunda etapa da reforma (4.406) foi apurado apenas em resumo de imprensa, sem consulta ao texto integral do projeto na Alego.",
+    "Zema: a contagem de '23 mudanças no secretariado' é levantamento de um único veículo e inclui o período posterior à renúncia; não foi usada como evidência isolada.",
+    "Zema: atas ou documentos de reunião das negociações entre o Estado e o Ministério da Fazenda sobre o Propag não foram consultados nesta rodada (fontes de imprensa).",
+    "Nenhum dos quatro planos registrados explicita metas quantificadas nem cronograma para um horizonte de 10 a 20 anos; o campo vision combina o projeto declarado no plano com o material de campanha de 2026 e, no caso de Lula, com documento do CDESS (governo) que propõe roteiro até 2035.",
+    "Lula: o espelho do programa no Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR; a leitura foi feita pela versão publicada pelo PT com o mesmo título e índice de 13 eixos.",
+    "Caiado: a URL do arquivo do plano no DivulgaCandContas não foi localizada nesta coleta; a base é o PDF publicado pela campanha e o espelho do Poder360.",
+    "Zema: a URL do arquivo do plano no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal); o plano não apresenta custo nem prazo para a maior parte das propostas.",
+    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "A entrega legislativa documentada é a relatoria do PL 2253/2022 no Senado, que resultou na Lei 14.843/2024 (aprovado por 62 votos a 2), e 2 projetos aprovados no Senado entre 62 apresentados como autor principal, sem lei própria convertida; como coautor, registra 2 leis. A atuação estadual inclui a autoria declarada da Lei estadual 7.809/2017 (fonte da campanha, não conferida na base de legislação da ALERJ) e a eleição ao Senado em 2018 com 4.380.418 votos, liderando em 84 dos 92 municípios do RJ. Em 2026, registrou plano de governo com 69 diretrizes no TSE e anunciou equipe setorial para detalhá-lo em 18/08/2026.",
+      "coverageNote": "Trajetória sem cargo no Executivo (ALERJ 2003–2019 e Senado 2019–atual). As evidências de execução são de mandato legislativo e de campanha; não há gestão orçamentária própria a observar.",
+      "evidences": [
+        {
+          "id": "ev-cap-flavio-01",
+          "kind": "historico",
+          "title": "Relatoria do PL 2253/2022 no Senado (fim da saída temporária e monitoração eletrônica)",
+          "role": "Senador — relator da matéria no Senado, com parecer apresentado em pronunciamento registrado em 20/02/2024",
+          "complexity": "Matéria de alcance nacional que altera a Lei de Execução Penal; aprovada no Senado por 62 votos a favor, 2 contrários e 1 abstenção em 20/02/2024",
+          "outcome": "Norma gerada: Lei nº 14.843, de 11/04/2024; o texto voltou à Câmara por ter sido alterado no Senado",
+          "period": "2022–2024",
+          "context": "Tema de segurança pública, área em que concentra mais da metade das propostas de sua autoria no Senado.",
+          "sources": [
+            {
+              "id": "src-flavio-02",
+              "title": "PL 2253/2022 — relatoria no Senado; norma gerada: Lei nº 14.843, de 11/04/2024",
+              "publisher": "Congresso Nacional — Atividade Legislativa",
+              "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/154451",
+              "publishedAt": "2024-04-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Ficha de tramitação da matéria relatada no Senado; votação de 20/02/2024 (62 a favor, 2 contra, 1 abstenção)."
+            },
+            {
+              "id": "src-senado-pronunciamento",
+              "title": "Pronunciamento de Flávio Bolsonaro em 20/02/2024 (relator do PL 2253/2022)",
+              "publisher": "Senado Federal",
+              "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503985",
+              "publishedAt": "2024-02-20",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": ""
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-flavio-02",
+          "kind": "historico",
+          "title": "Produção legislativa como autor principal e coautor no Senado (2019–2026)",
+          "role": "Senador — autor principal das proposições e coautor em matérias de terceiros",
+          "complexity": "Levantamento com dados oficiais do Senado sobre sete anos de mandato: 62 proposições de autoria principal; 2 aprovadas no Senado e nenhuma convertida em lei; como coautor, 9 aprovadas e 2 convertidas em lei",
+          "outcome": "Resultado registrado: sem lei própria convertida até a data do levantamento (abr/2026), com 2 projetos aprovados no Senado",
+          "period": "2019–2026",
+          "context": "Levantamentos independentes (UOL/Agenda do Poder e Brasil de Fato) usam os registros públicos de proposições do Senado.",
+          "sources": [
+            {
+              "id": "src-agenda-poder-legis",
+              "title": "Em 7 anos no Senado, Flávio Bolsonaro teve apenas 2 projetos aprovados e nenhum deles virou lei",
+              "publisher": "Agenda do Poder / UOL",
+              "url": "https://agendadopoder.com.br/em-7-anos-no-senado-flavio-bolsonaro-teve-apenas-2-projetos-aprovados-e-nenhum-deles-virou-lei",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento com dados oficiais do Senado: 62 projetos autor principal, 47ª entre 54 senadores."
+            },
+            {
+              "id": "src-brasildefato-legis",
+              "title": "Em sete anos, Flávio Bolsonaro teve apenas um projeto de lei aprovado no Congresso",
+              "publisher": "Brasil de Fato",
+              "url": "https://www.brasildefato.com.br/2026/04/02/em-sete-anos-flavio-bolsonaro-teve-apenas-um-projeto-de-lei-aprovado-no-congresso",
+              "publishedAt": "2026-04-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "PL 3.190/2023, único aprovado nas duas Casas até então."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-flavio-03",
+          "kind": "historico",
+          "title": "Campanha ao Senado em 2018 — execução da candidatura estadual",
+          "role": "Candidato a senador (PSL) — responsável pela estrutura de campanha no estado",
+          "complexity": "Alcance estadual (RJ, 92 municípios); 4.380.418 votos, 31,36% dos válidos; gastos de campanha prestados à Justiça Eleitoral",
+          "outcome": "Eleito; foi o candidato a senador com votação à frente dos demais no estado em 2018 e o mais votado em 84 dos 92 municípios",
+          "period": "2018",
+          "context": "Primeira disputa majoritária estadual após quatro mandatos na ALERJ.",
+          "sources": [
+            {
+              "id": "src-uol-2018",
+              "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado",
+              "publisher": "UOL",
+              "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm",
+              "publishedAt": "2018-10-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "4.380.418 votos, 31,36%."
+            },
+            {
+              "id": "src-agenciabrasil-2018",
+              "title": "Flávio Bolsonaro e Arolde de Oliveira são eleitos para Senado pelo RJ",
+              "publisher": "Agência Brasil",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-para-senado-pelo-rj",
+              "publishedAt": "2018-10-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "estadistico",
+              "notes": ""
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-flavio-04",
+          "kind": "historico",
+          "title": "Registro e apresentação do plano de governo 2026 (69 diretrizes)",
+          "role": "Candidato à Presidência — responsável pelo programa registrado no TSE e pela apresentação pública",
+          "complexity": "Documento com 69 diretrizes organizadas por área (segurança, economia, infraestrutura, administração pública); apresentação em live em 13/08/2026 com aliados",
+          "outcome": "Plano registrado junto ao TSE em agosto de 2026 e apresentado publicamente em 13/08/2026",
+          "period": "2026",
+          "context": "Registro documental do programa é o insumo de comparação das propostas; a apresentação foi feita pelo próprio candidato.",
+          "sources": [
+            {
+              "id": "src-plano-pdf",
+              "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+              "publisher": "Poder360 (cópia do documento de campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+            },
+            {
+              "id": "src-g1-plano",
+              "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+              "publisher": "G1",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+              "publishedAt": "2026-08-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-flavio-05",
+          "kind": "historico",
+          "title": "Lei estadual 7.809/2017 — autoria declarada sobre devolução de descontos em contracheques de policiais e bombeiros",
+          "role": "Deputado estadual na ALERJ — autor declarado da proposição",
+          "complexity": "Alcance estadual (RJ); obriga o Estado a devolver valores descontados indevidamente de policiais e bombeiros militares",
+          "outcome": "Norma citada pelo site oficial da campanha; a ficha da lei não foi localizada na base de legislação da ALERJ nesta rodada",
+          "period": "2017",
+          "context": "Única lei estadual atribuída à sua autoria nas fontes consultadas; o dado consta do site oficial do candidato e não foi conferido em fonte primária.",
+          "sources": [
+            {
+              "id": "src-site-oficial",
+              "title": "Saiba tudo sobre Flávio Bolsonaro — campanha presidencial 2026",
+              "publisher": "Campanha Flávio Bolsonaro (Presidente 22)",
+              "url": "https://www.flaviobolsonaro.com.br/flavio",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Fonte do próprio candidato (Lei 7.809/2017, comissões, formação) — tratar como afirmação de campanha."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "A articulação eleitoral registrada inclui o apoio a 47 candidatos ao Senado de nove partidos (06/08/2026), reunião com cerca de 50 postulantes para alinhar campanhas (11/08/2026) e atuação na janela partidária de abril de 2026, quando o PL teve o ganho líquido de deputados. O diálogo setorial documentado é com empresários e mercado financeiro (visita à Fiesp e agendas em São Paulo em 24/08/2026). A chapa presidencial foi registrada sem coligação ou federação, com vice do próprio partido, após exploração de alianças com PP e União Brasil sem registro no TSE.",
+      "coverageNote": "No recorte 2025–2026 não foram localizados encontros com centrais sindicais ou com lideranças da oposição; o material disponível é de articulação partidária e de diálogo com o setor produtivo.",
+      "evidences": [
+        {
+          "id": "ev-cap-flavio-06",
+          "kind": "historico",
+          "title": "Apoio declarado a 47 candidatos ao Senado de nove partidos",
+          "role": "Candidato à Presidência — anunciou e coordenou a lista de apoios a candidatos ao Senado",
+          "complexity": "47 candidatos ao Senado em nove siglas; reunião nacional com cerca de 50 postulantes em Brasília para alinhar campanhas e ampliar palanques estaduais",
+          "outcome": "Lista anunciada em 06/08/2026 e encontro realizado em 11/08/2026; objetivo declarado de formar bancada alinhada e ampliar palanques nos estados",
+          "period": "2026",
+          "context": "Estratégia de transferência de votos a partir da candidatura presidencial, sem coligação formal registrada.",
+          "sources": [
+            {
+              "id": "src-flavio-bolsonaro-14",
+              "title": "Flávio apoia 47 candidatos de nove partidos ao Senado; veja a lista",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121094/flavio-apoia-47-candidatos-de-nove-partidos-ao-senado-veja-a-lista",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Anúncio feito em 06/08/2026, em transmissão da campanha (Ranking dos Políticos); dia exato do artigo não capturado."
+            },
+            {
+              "id": "src-flavio-bolsonaro-16",
+              "title": "Flávio reúne candidatos ao Senado para alinhar campanhas e ampliar palanques nos estados (~50 postulantes)",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/11/flavio-reune-candidatos-ao-senado-para-alinhar-campanhas-e-ampliar-palanques-nos-estados.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-flavio-07",
+          "kind": "historico",
+          "title": "Atuação na janela partidária de 2026 — ganho líquido de deputados para o PL",
+          "role": "Senador e articulador das migrações partidárias na janela",
+          "complexity": "Janela partidária encerrada em abr/2026; PL somou 98 das 513 cadeiras da Câmara, com o ganho líquido registrado pelo DIAP",
+          "outcome": "Movimento concluído dentro do prazo legal da janela; bancada ampliada antes do pleito de 2026 e usada no cálculo do tempo de TV",
+          "period": "2026",
+          "context": "Migração de deputados entre siglas é permitida apenas na janela; o candidato foi citado como articulador das trocas.",
+          "sources": [
+            {
+              "id": "src-flavio-bolsonaro-15",
+              "title": "Flávio Bolsonaro puxa deputados para o PL e partido tem o maior ganho da janela partidária na Câmara",
+              "publisher": "DIAP — Departamento Intersindical de Assessoria Parlamentar",
+              "url": "https://www.diap.org.br/index.php/noticias/noticias/92841-flavio-bolsonaro-puxa-deputados-para-o-pl-e-partido-tem-o-maior-ganho-da-janela-partidaria-na-camara",
+              "publishedAt": "2026-04-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo"
+            },
+            {
+              "id": "src-flavio-bolsonaro-10",
+              "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+              "publishedAt": "2026-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "eleitoral",
+              "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-flavio-08",
+          "kind": "historico",
+          "title": "Diálogo com empresários e mercado financeiro em São Paulo",
+          "role": "Candidato à Presidência — agendas presenciais com entidades e empresários",
+          "complexity": "Visita à Fiesp e duas agendas com empresários em São Paulo em 24/08/2026, com pauta econômica",
+          "outcome": "Aproximação registrada pela imprensa como estratégia para reduzir rejeição e apresentar propostas ao setor produtivo",
+          "period": "2026",
+          "context": "Movimento acompanhado pelo anúncio de nomes ligados ao mercado financeiro para a equipe do plano de governo.",
+          "sources": [
+            {
+              "id": "src-flavio-bolsonaro-13",
+              "title": "Flávio Bolsonaro se encontra com empresários em São Paulo (visita à Fiesp)",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/flvio-bolsonaro-se-encontra-com-empresrios-em-so-paulo.ghtml",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Duas agendas na capital paulista; 'buscou diálogo com empresários'."
+            },
+            {
+              "id": "src-flavio-bolsonaro-12",
+              "title": "Flávio aposta em diálogo aberto com empresários para tentar diminuir taxa de rejeição",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-dialogo-aberto-com-empresarios-para-tentar-diminuir-taxa-de-rejeicao/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026). Descreve intensificação da aproximação com empresários e mercado financeiro na pré-campanha."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-flavio-09",
+          "kind": "historico",
+          "title": "Chapa registrada sem coligação após negociação de alianças nacionais",
+          "role": "Candidato à Presidência — condução das conversas de aliança e definição do vice",
+          "complexity": "Chapa PL (nº 22) com vice do próprio partido (Alfredo Gaspar, PL-AL); negociação de alianças explorada com PP e União Brasil; 1 partido na chapa registrada",
+          "outcome": "Registro no TSE sem coligação ou federação formal; 12 candidaturas presidenciais validadas em 2026, sendo a sua um partido isolado",
+          "period": "2026",
+          "context": "Ausência de coligação registrada é fato documentado no edital do TSE; apoios individuais a candidatos de outras siglas não alteram a composição da chapa.",
+          "sources": [
+            {
+              "id": "src-flavio-bolsonaro-10",
+              "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+              "publishedAt": "2026-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "eleitoral",
+              "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+            },
+            {
+              "id": "src-tse-doze",
+              "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República",
+              "publisher": "TSE",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Presidiu comissões permanentes na ALERJ (Segurança Pública e Assuntos de Polícia; Legislação Constitucional Complementar e Códigos; Defesa Civil) e ocupou a Terceira-Secretaria da Mesa Diretora do Senado a partir de 06/02/2019, deixando o posto em 2021. Na campanha de 2026, mantém coordenação-geral com o senador Rogério Marinho e coordenação do plano econômico com Daniella Marques e Adolfo Sachsida, com equipe setorial anunciada em 18/08/2026 e troca no comando da comunicação em 30/07/2026.",
+      "coverageNote": "Nunca ocupou cargo no Executivo: as evidências de liderança vêm de comissões e da Mesa do Senado, do gabinete parlamentar e da estrutura de campanha de 2026, não de gestão de secretariado ou de órgão executivo.",
+      "evidences": [
+        {
+          "id": "ev-cap-flavio-10",
+          "kind": "historico",
+          "title": "Presidência de comissões permanentes na ALERJ (2003–2011)",
+          "role": "Deputado estadual — presidente de comissão permanente (registro oficial da ALERJ)",
+          "complexity": "Legislaturas 2003/2007 e 2007/2011; presidiu a Comissão de Segurança Pública e Assuntos de Polícia, a Comissão de Legislação Constitucional Complementar e Códigos e a Comissão de Defesa Civil; foi vice-presidente da Comissão de Segurança Pública na legislatura seguinte",
+          "outcome": "Presidências registradas no perfil oficial de cargos exercidos do deputado na ALERJ",
+          "period": "2003–2011",
+          "context": "Comissões permanentes dirigem a pauta e designam relatores nas áreas de segurança pública e legislação, temas centrais do seu mandato estadual.",
+          "sources": [
+            {
+              "id": "src-flavio-01",
+              "title": "Flávio Bolsonaro — Rio de Janeiro: perfil oficial do deputado (cargos exercidos e comissões presididas, legislaturas 2003/2007 e 2007/2011)",
+              "publisher": "ALERJ — Assembleia Legislativa do Estado do Rio de Janeiro",
+              "url": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/275",
+              "publishedAt": "não informado",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Registro oficial das presidências de comissões permanentes exercidas na ALERJ."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-flavio-11",
+          "kind": "historico",
+          "title": "Terceira-Secretaria da Mesa Diretora do Senado (2019–2021)",
+          "role": "Senador — eleito 3º Secretário da Mesa Diretora em 06/02/2019",
+          "complexity": "Órgão de direção da Casa (Mesa Diretora do Senado), mandato de dois anos; 81 senadores na legislatura",
+          "outcome": "Eleito em 06/02/2019 no início do primeiro mandato federal; renunciou ao posto em 2021, em meio a representações no Conselho de Ética (data exata do ato não capturada)",
+          "period": "2019–2021",
+          "context": "A Mesa Diretora responde pela administração e pelas decisões de funcionamento da Casa, o que difere da função de relator ou de líder partidário.",
+          "sources": [
+            {
+              "id": "src-senado-perfil",
+              "title": "Senador Flávio Bolsonaro — perfil oficial",
+              "publisher": "Senado Federal",
+              "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+              "publishedAt": null,
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+            },
+            {
+              "id": "src-flavio-05",
+              "title": "Flávio Bolsonaro renuncia a cargo na Mesa Diretora do Senado (Terceiro-Secretário)",
+              "publisher": "Correio do Povo",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/fl%C3%A1vio-bolsonaro-renuncia-a-cargo-na-mesa-diretora-do-senado-1.541814",
+              "publishedAt": "2021",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata do ato de renúncia não capturada na página nesta rodada (2021, durante o mandato 2019–2021 da Mesa)."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-flavio-12",
+          "kind": "historico",
+          "title": "Montagem da equipe de plano de governo e de área econômica da campanha de 2026",
+          "role": "Candidato — escolha e anúncio dos coordenadores e da equipe setorial",
+          "complexity": "Coordenação do plano econômico por Daniella Marques e Adolfo Sachsida; equipe setorial com Lyvia Montezano, Carolina Ragazzi e Adriano Pires, anunciada em 18/08/2026, responsável por detalhar pautas de mercado financeiro e infraestrutura",
+          "outcome": "Nomes anunciados e incorporados formalmente à campanha, com Sachsida passando a integrar a coordenação do plano econômico",
+          "period": "2026",
+          "context": "Estrutura de campanha composta por ex-integrantes do governo anterior e executivos de mercado.",
+          "sources": [
+            {
+              "id": "src-flavio-03",
+              "title": "Flávio reforça equipe que elabora plano de governo (Adolfo Sachsida, Lyvia Montezano, Carolina Ragazzi e Adriano Pires; Daniella Marques na coordenação econômica)",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/18/flavio-anuncia-nomes-proximos-ao-mercado-financeiro-para-reforcar-campanha.ghtml",
+              "publishedAt": "2026-08-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Equipe responsável por detalhar pautas setoriais no programa."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-flavio-13",
+          "kind": "historico",
+          "title": "Coordenação-geral da campanha e delegação da área de comunicação",
+          "role": "Candidato — definição da coordenação-geral e delegação do comando da comunicação",
+          "complexity": "Coordenação-geral exercida pelo senador Rogério Marinho, responsável por anúncios públicos da campanha (jul/2026); troca no comando da comunicação anunciada em 30/07/2026",
+          "outcome": "Coordenação ativa: o coordenador-geral anunciou a troca no comando da comunicação e declarou posições sobre a composição da chapa para o Senado",
+          "period": "2026",
+          "context": "Delegação documentada em fontes distintas para a coordenação-geral e para a comunicação da campanha.",
+          "sources": [
+            {
+              "id": "src-flavio-04",
+              "title": "Flávio Bolsonaro troca comando da comunicação da campanha (anúncio feito pelo coordenador da campanha, senador Rogério Marinho)",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/30/flavio-bolsonaro-troca-comando-da-comunicacao-da-campanha.ghtml",
+              "publishedAt": "2026-07-30",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra a coordenação-geral da campanha e a delegação da área de comunicação."
+            },
+            {
+              "id": "src-flavio-06",
+              "title": "Coordenador da campanha de Flávio Bolsonaro: Michelle segue candidata (senador Rogério Marinho na coordenação)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/07/coordenador-da-campanha-de-flavio-bolsonaro-diz-que-michelle-segue-candidata.shtml",
+              "publishedAt": "2026-07-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Atribui ao senador Rogério Marinho a coordenação da pré-campanha/campanha."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "O plano parte da crítica de que 'o Estado brasileiro possui o vício de enxergar a realidade em pedaços' e propõe resposta integrada: 'governar é olhar para a vida das pessoas como ela realmente é'. A alternativa proposta é descrita como 'liberal, conservadora, reformista e corajosa', com 'um Estado eficiente, que cumpra bem o que é seu dever, pare de atrapalhar quem trabalha e volte a servir o cidadão'. A segurança pública é apresentada como condição para os demais temas ('a soberania começa na porta da sua casa'), e o eixo 'Brasil que cumpre a Constituição' reúne reforma do Judiciário, reforma política e limites a decisões monocráticas do STF. O horizonte é o mandato 2027–2030, sem metas quantificadas de 10 a 20 anos.",
+    "nationalPriorities": [
+      "Segurança pública ('Brasil sem medo'): facções declaradas organizações narcoterroristas, redução da maioridade penal para 16 anos e ampliação do sistema prisional",
+      "Corte de gastos e responsabilidade fiscal ('Tesouraço'), com novo teto de gastos e mais controle sobre emendas",
+      "Redução de impostos e do custo de vida ('Brasil mais barato'): menos imposto sobre consumo, conta de luz e crédito",
+      "Desburocratização e Estado digital ('Brasil sem fila'), com serviços unificados e inteligência artificial no atendimento ao cidadão",
+      "Educação e preparação para o trabalho ('Brasil que prepara'), com saúde preventiva e apoio no cuidado de crianças e idosos",
+      "Infraestrutura, energia, agronegócio, minerais críticos e tecnologia ('Brasil que cresce'), com R$ 900 bilhões em quatro anos em logística",
+      "Reforma do Judiciário, reforma política e limites a decisões monocráticas do STF ('Brasil que cumpre a Constituição')"
+    ],
+    "developmentModel": "O papel atribuído ao Estado é criar condições para que as famílias 'conquistem autonomia, prosperidade e liberdade'; a proteção social é mantida e aperfeiçoada, descrita como 'o começo de uma trilha que leva à qualificação, ao trabalho, ao crédito e ao patrimônio', e a imprensa registra a manutenção dos programas sociais existentes. O crescimento é associado a segurança jurídica ('a regra do início é a regra do fim'), marcos regulatórios estáveis, PPPs e concessões para infraestrutura, com investimento declarado de R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias, fundo lastreado na securitização de ativos e imóveis da União e BNDES voltado a obras em território brasileiro. Os eixos setoriais incluem energia, agronegócio, minerais críticos, meio ambiente tratado como 'ativo verde', turismo, desenvolvimento regional e tecnologia e inovação, com inteligência artificial 'a serviço do cidadão'. A redução de impostos sobre o consumo, o crédito via CAIXA para empreendedores e o corte de gastos federais aparecem como instrumentos para reduzir o custo de vida e a dívida pública. Há eixo específico para mulheres ('Brasil por elas') e a reforma institucional é apresentada em capítulo próprio ('Brasil que não volta atrás'), com enxugamento da máquina e profissionalização da gestão pública.",
+    "sources": [
+      {
+        "id": "src-plano-pdf",
+        "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+        "publisher": "Poder360 (cópia do documento de campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+      },
+      {
+        "id": "src-flavio-82",
+        "title": "Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030 (íntegra publicada pela campanha)",
+        "publisher": "Campanha Flávio Bolsonaro (site oficial) — leitura do plano",
+        "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Versão publicada pela própria campanha (76 páginas, 11 capítulos), usada para conferir a estrutura de eixos do PDF espelhado pelo Poder360."
+      },
+      {
+        "id": "src-g1-plano",
+        "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+        "publisher": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+        "publishedAt": "2026-08-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+      },
+      {
+        "id": "src-estadao-plano",
+        "title": "Flávio propõe prisões a la Bukele, classificar facções como narcoterroristas e reformar Judiciário",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/eleicoes/2026/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Matéria localizada e lida durante a pesquisa; URL do artigo isolado não preservada — slug não reconstruído com segurança."
+      },
+      {
+        "id": "src-flavio-80",
+        "title": "Plano de governo de Flávio Bolsonaro propõe tesouraço e novo teto de gastos",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/08/plano-de-governo-de-flavio-bolsonaro-propoe-tesouraco-e-novo-teto-de-gastos.shtml",
+        "publishedAt": "2026-08-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Registra que o documento prevê corte de gastos e novo teto, com mais controle sobre emendas, sem detalhar a regra fiscal."
+      },
+      {
+        "id": "src-flavio-81",
+        "title": "Flávio propõe manter programas do PT, Caixa Federal repaginada e foco em terras raras e data centers",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/flavio-propoe-manter-programas-do-pt-caixa-federal-repaginada-e-foco-em-terras-raras-e-data-centers/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Leitura do plano sobre proteção social (manutenção de programas existentes), uso da CAIXA e eixos de terras raras e data centers."
+      },
+      {
+        "id": "src-site-oficial",
+        "title": "Saiba tudo sobre Flávio Bolsonaro — campanha presidencial 2026",
+        "publisher": "Campanha Flávio Bolsonaro (Presidente 22)",
+        "url": "https://www.flaviobolsonaro.com.br/flavio",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Fonte do próprio candidato (Lei 7.809/2017, comissões, formação) — tratar como afirmação de campanha."
+      }
+    ],
+    "coverage": "documentada",
+    "coverageNote": "Plano registrado no TSE (76 páginas, 11 capítulos) lido na íntegra no PDF espelhado pelo Poder360 e conferido na versão publicada pela campanha; a lei orçamentária e o detalhamento fiscal do 'tesouraço' não constam do documento.",
+    "evidenceStatus": "confirmado",
+    "confidenceLevel": "high",
+    "methodology": "Lido do texto integral do plano 'Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030' (apresentação, valores, 'jornada do cidadão' e eixos temáticos) e conferido com a cobertura de imprensa de 13/08/2026. As 7 prioridades correspondem a eixos e capítulos declarados pelo próprio plano, na sua ordem de apresentação; eixos como 'Brasil por elas' e proteção social estão descritos no modelo de desenvolvimento em vez de contados como prioridade separada. A Folha registra que o documento prevê corte de gastos e novo teto sem detalhar a regra fiscal."
+  }
 }

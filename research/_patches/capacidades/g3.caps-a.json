@@ -1,36 +1,1462 @@
 {
   "grupo": "g3",
   "escopo": "capacidade:execucao,dialogo-negociacao,lideranca-equipes",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-ec-71",
+      "title": "PCB oficializa candidaturas à Presidência",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/34109",
+      "publishedAt": "2026-08-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+    },
+    {
+      "id": "src-ec-72",
+      "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/16925",
+      "publishedAt": "2017-11-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+    },
+    {
+      "id": "src-ec-73",
+      "title": "Edmilson Costa pré-candidato à presidência do Brasil",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/33675",
+      "publishedAt": "2026-02-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Comunicado: o Comitê Central do PCB, em reunião no início de fevereiro de 2026, decidiu lançar Edmilson Costa pré-candidato à Presidência ('Por um governo do Poder Popular')."
+    },
+    {
+      "id": "src-ec-74",
+      "title": "Programa do PCB para as Eleições Presidenciais de 2026 — Construir o Poder Popular, rumo ao Socialismo",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/34147",
+      "publishedAt": "2026-08-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Programa aprovado na convenção nacional de 01/08/2026 e registrado no TSE (documento do DivulgaCandContas 280017107286; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026)."
+    },
+    {
+      "id": "src-ec-75",
+      "title": "Para Edmilson Costa (PCB), Russomanno é um novo Collor",
+      "publisher": "PSOL São Paulo (psol50sp.org.br)",
+      "url": "https://psol50sp.org.br/2012/09/para-edmilson-costa-pcb-russomanno-e-um-novo-collor/",
+      "publishedAt": "2012-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Material de campanha de 2012: o candidato a vice-prefeito da Frente de Esquerda (PSOL/PCB) apresenta a chapa como instrumento 'pedagógico' para construir 'uma nova forma de fazer política'."
+    },
+    {
+      "id": "src-ec-76",
+      "title": "EDMILSON COSTA SUBSTITUI IVAN PINHEIRO NA SECRETARIA GERAL DO PCB",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/12396",
+      "publishedAt": "2016-10-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Comunicado da Comissão Política Nacional (17/10/2016): Ivan Pinheiro formalizou o afastamento em reunião do Comitê Central (8 e 9/10/2016), que indicou Edmilson Costa por unanimidade; inclui a carta pública do novo secretário-geral à militância."
+    },
+    {
+      "id": "src-hd-71",
+      "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+      "publisher": "International Worker's League / LIT-QI (litci.org)",
+      "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+      "publishedAt": "2026-08-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+    },
+    {
+      "id": "src-hd-72",
+      "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+      "publisher": "Opinião Socialista",
+      "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+    },
+    {
+      "id": "src-hd-73",
+      "title": "Hertz Dias intensifica pré-campanha e percorre três capitais defendendo programa socialista para o país",
+      "publisher": "Opinião Socialista",
+      "url": "https://opiniaosocialista.com.br/hertz-dias-intensifica-pre-campanha-e-percorre-tres-capitais-defendendo-programa-socialista-para-o-pais/",
+      "publishedAt": "2026-06-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda de fim de maio a meados de junho de 2026 em Teresina (PI), Manaus (AM) e Fortaleza (CE); em 27/05, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3, com entrevistas à imprensa local; atividades com trabalhadores, estudantes, artistas, movimentos sociais e militantes."
+    },
+    {
+      "id": "src-hd-74",
+      "title": "Pré-candidato rapper diz que o Brasil vive em uma ditadura",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/ideias/pre-candidato-rapper-diz-brasil-vive-ditadura/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil: nascido em São José de Ribamar (MA), filho de motorista e auxiliar de enfermagem; um dos primeiros dançarinos de break do Maranhão, fundador do movimento Quilombo Urbano e vocalista do grupo de rap Gíria Vermelha."
+    },
+    {
+      "id": "src-hd-75",
+      "title": "Hertz Dias, do PSTU, fez campanha em Pernambuco (Jornal Nacional)",
+      "publisher": "Globo / Globoplay",
+      "url": "https://globoplay.globo.com/v/14954444/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Vídeo do Jornal Nacional: campanha em Pernambuco, com defesa de plataforma pública para motoristas por aplicativo e garantia de direitos trabalhistas."
+    },
+    {
+      "id": "src-hd-76",
+      "title": "PSTU tem o professor de história Hertz Dias como presidenciável",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-tem-o-professor-de-historia-hertz-dias-como-presidenciavel",
+      "publishedAt": "2026-08-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil da agência pública: professor de História, ativista do movimento negro e rapper; candidato do PSTU à Presidência."
+    },
+    {
+      "id": "src-hd-77",
+      "title": "HERTZ DIAS | 'A indústria cultural tenta sufocar o caráter subversivo do Hip hop'",
+      "publisher": "PSTU",
+      "url": "https://www.pstu.org.br/hertz-dias-a-industria-cultural-tenta-sufocar-o-carater-subversivo-do-hip-hop/",
+      "publishedAt": "2023-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Entrevista publicada pelo partido em 27/09/2023, sobre os 50 anos do hip hop: trajetória no movimento hip hop e leitura sobre indústria cultural."
+    },
+    {
+      "id": "src-hd-78",
+      "title": "Brazilian Presidential Candidates Ramp Up Campaigns with Diverse Public Mobilizations Ahead of October Vote",
+      "publisher": "Brazil in English",
+      "url": "https://brazilinenglish.com/p/brazilian-presidential-candidates-ramp-up-campaigns-with-diverse-public-mobilizations-ahead-of-october-vote",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Boletim em inglês: em setembro de 2026, Hertz Dias participou de debates e de lançamento de livro em Brasília. Veículo agregador; fonte secundária de baixa prioridade."
+    },
+    {
+      "id": "src-rp-71",
+      "title": "Quem é Rui Costa Pimenta, candidato do PCO à Presidência em 2026",
+      "publisher": "GZH (Grupo RBS)",
+      "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-rui-costa-pimenta-candidato-do-pco-a-presidencia-em-2026-cmp1mrvoy00bi013xd027glxo.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil: trajetória desde 1976 (ditadura); Congresso de Refundação da UNE (1980); fundação do PT (1980); participação no congresso de fundação da organização da IV Internacional; diretor eleito da CUT na Grande São Paulo em 1985, atuando como assessor de imprensa; ruptura com o PT em 1992; fundação do PCO em 1995; editor do jornal e do diário Causa Operária."
+    },
+    {
+      "id": "src-rp-72",
+      "title": "Partidos políticos registrados no TSE — lista de partidos e dirigentes",
+      "publisher": "TRE-SP",
+      "url": "https://tre-sp.jus.br/partidos/partidos-politicos",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Lista oficial: PCO registrado em 30/09/1997, presidente RUI COSTA PIMENTA, número 29. Acesso direto respondeu 403 a acesso automatizado; consultada via Wayback Machine (https://web.archive.org/web/2026/https://tre-sp.jus.br/partidos/partidos-politicos)."
+    },
+    {
+      "id": "src-rp-73",
+      "title": "Rui Costa Pimenta defende causa operária e programa revolucionário e socialista",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2014-07/rui-costa-pimenta-e-o-candidato-do-partido-da-causa-operaria",
+      "publishedAt": "2014-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil de 2014: descreve-o como 'o presidente nacional do PCO e editor do jornal Causa Operária'; entrada na luta sindical; em 1985, diretor eleito da CUT na Grande São Paulo."
+    },
+    {
+      "id": "src-rp-74",
+      "title": "Rui Costa Pimenta — Lideranças Políticas (NEAMP/PUC-SP)",
+      "publisher": "NEAMP — Núcleo de Estudos em Arte, Mídia e Política (PUC-SP)",
+      "url": "https://neamp.pucsp.br/liderancas/rui-costa-pimenta",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Verbetes de lideranças políticas: participação na fundação do PT (1980) e da CUT; a partir de 1984 começou a trabalhar como jornalista para a CUT; militância na tendência Causa Operária dentro do PT."
+    },
+    {
+      "id": "src-rp-75",
+      "title": "Vai começar a 52ª Universidade Marxista: faça sua inscrição agora mesmo e participe",
+      "publisher": "Partido da Causa Operária (PCO)",
+      "url": "https://pco.org.br/2025/01/24/vai-comecar-a-52a-universidade-marxista-participe/",
+      "publishedAt": "2025-01-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "A 52ª edição da Universidade de Férias, organizada pelo PCO com a Aliança da Juventude Revolucionária (AJR), começou em janeiro de 2025 no Acampamento Hotel Emanuel, em Araçoiaba da Serra (SP), com nove dias de programação."
+    },
+    {
+      "id": "src-rp-76",
+      "title": "Universidade Marxista — plataforma online de cursos",
+      "publisher": "Universidade Marxista (PCO / Fundação João Jorge Costa Pimenta / AJR)",
+      "url": "https://unimarxista.org.br/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Plataforma de cursos descrita como ampliação da iniciativa do PCO, da Fundação João Jorge Costa Pimenta e da Aliança da Juventude Revolucionária e das 'universidades de férias', com quase 30 anos de história."
+    },
+    {
+      "id": "src-rp-77",
+      "title": "PCO se organiza e cresce pelos 4 cantos do mundo",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2022/pco-se-organiza-e-cresce-pelos-4-cantos-do-mundo/",
+      "publishedAt": "2022",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Relata a Primeira Conferência Internacional do PCO em Frankfurt (Alemanha, julho de 2019), antecedida por rodada internacional de palestras e debates de Rui Costa Pimenta. Acesso direto respondeu 403; consultada via Wayback Machine."
+    },
+    {
+      "id": "src-rp-78",
+      "title": "As eleições no Brasil já estão comprometidas, diz Rui Costa Pimenta",
+      "publisher": "RFI Brasil",
+      "url": "https://www.rfi.fr/br/brasil/20180531-rfi-convida-rui-costa-pimenta",
+      "publishedAt": "2018-05-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "'Maratona' de palestras e debates em 10 países entre 26/05 e 03/07/2018, iniciada pela Irlanda, sobre a situação política do Brasil. Acesso direto respondeu 403; consultada via Wayback Machine."
+    },
+    {
+      "id": "src-rp-79",
+      "title": "Rui Costa Pimenta: o eterno chefe do PCO curte a Europa e o Hamas",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/ideias/a-dolce-vita-de-rui-costa-pimenta-o-eterno-chefe-do-pco-curte-a-europa-e-o-hamas/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Artigo de opinião que registra o encontro de Rui Costa Pimenta com o líder do braço político do Hamas, Ismail Haniyeh, e as viagens internacionais do dirigente."
+    },
+    {
+      "id": "src-rp-80",
+      "title": "China, 'o Brasil que poderia ser e não é', diz Rui Costa Pimenta",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2024/china-o-brasil-que-poderia-ser-e-nao-e-diz-rui-costa-pimenta/",
+      "publishedAt": "2024",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "A direção do PCO esteve na China em viagem de cerca de 10 dias com visitas e conferências. Acesso direto respondeu 403; consultada via Wayback Machine."
+    },
+    {
+      "id": "src-rp-81",
+      "title": "PCO realizará curso inédito sobre a Revolução Iraniana de 1979",
+      "publisher": "Diário Causa Operária",
+      "url": "https://causaoperaria.org.br/2026/pco-realizara-curso-inedito-sobre-a-revolucao-iraniana-de-1979/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Curso de meio de ano da Universidade Marxista do PCO (2026). Acesso direto respondeu 403 a acesso automatizado; página indexada em buscadores, sem cópia no Wayback Machine em 29/09/2026."
+    },
+    {
+      "id": "src-wg-71",
+      "title": "Veterinário cria rede de treze clínicas e plano de saúde para pets",
+      "publisher": "Veja São Paulo",
+      "url": "https://vejasp.abril.com.br/coluna/bichos/wilson-grassi-clinicas-veterinarias/",
+      "publishedAt": "2018-10-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Rede de treze clínicas (nove na capital paulista), primeira aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes, a R$ 70 por mês, aceito em toda a rede; nova unidade aberta no Pacaembu em 10/10/2018."
+    },
+    {
+      "id": "src-wg-72",
+      "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+      "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+      "url": "https://hospitalveterinariopublico.com.br/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+    },
+    {
+      "id": "src-wg-73",
+      "title": "Democrata define Wilson Grassi Júnior candidato à Presidência",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-define-wilson-grassi-junior-candidato-presidencia",
+      "publishedAt": "2026-08-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "A convenção do partido Democrata, em 02/08/2026, oficializou a chapa Wilson Grassi (presidente) e Suêd Haidar (vice), presidente nacional e fundadora do partido."
+    },
+    {
+      "id": "src-wg-74",
+      "title": "Partido Democrata — Brasil em Primeiro Lugar — Plano de Governo 2027–2030",
+      "publisher": "Partido Democrata / Poder360",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Plano registrado no TSE (DivulgaCandContas, documento 280017075366; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026). Organizado em três partes: diagnóstico, eixos de governo e governança (primeiros cem dias, painel de indicadores e compromissos de transparência); eixos numerados até o eixo 14 e método 'D35'."
+    },
+    {
+      "id": "src-wg-75",
+      "title": "Quem é Wilson Grassi Junior, médico veterinário que disputa a Presidência",
+      "publisher": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/08/7489311-quem-e-wilson-grassi-candidato-a-presidencia-pelo-democrata.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil: atuação na área associativa, como conselheiro da Anclivepa-SP."
+    }
+  ],
   "candidates": {
     "edmilson-costa": {
       "capacities": [
-        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "execucao",
+          "synthesis": "Direção nacional do PCB como secretário-geral desde 17/10/2016, com convenção nacional eleitoral em 01/08/2026, programa registrado no TSE e candidatura presidencial deferida. A trajetória anterior inclui quatro campanhas próprias entre 2008 e 2014 (prefeitura de São Paulo, vice-presidência, vice-prefeitura e Senado), todas não eleitas. Não há passagem por cargo executivo estatal: as entregas verificáveis são de organização partidária e de campanha.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-ec-01",
+              "kind": "historico",
+              "title": "Direção nacional do PCB e realização da Convenção Nacional Eleitoral de 2026",
+              "role": "secretário-geral nacional do PCB (13º titular, indicado pelo Comitê Central em 17/10/2016)",
+              "complexity": "alcance nacional; direção de partido com estruturas de organização, frente sindical, juventude, coletivo feminista e movimento negro e fundação; 10 anos no cargo no momento do pleito",
+              "outcome": "convenção nacional realizada em 01/08/2026 na Câmara Municipal de São Paulo; chapa Edmilson Costa/Cleusa Santos homologada e registro deferido, entre as 12 chapas à Presidência divulgadas pelo TSE em 11/09/2026",
+              "period": "2016–2026",
+              "context": "PCB sem bancada no Congresso (0 deputados e 0 senadores em exercício em 29/09/2026) e sem coligação; campanha sustentada por doação partidária e financiamento coletivo",
+              "sources": [
+                {
+                  "id": "src-ec-03"
+                },
+                {
+                  "id": "src-ec-07"
+                },
+                {
+                  "id": "src-ec-01"
+                },
+                {
+                  "id": "src-ec-71"
+                },
+                {
+                  "id": "src-ec-73"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-ec-02",
+              "kind": "historico",
+              "title": "Programa eleitoral de 2026 aprovado em convenção e registrado no TSE",
+              "role": "secretário-geral e candidato (programa aprovado pela Convenção Nacional)",
+              "complexity": "documento programático para as eleições presidenciais, com eixos de dívida pública, Senado e 'poder popular'; registrado na Justiça Eleitoral",
+              "outcome": "programa 'Construir o Poder Popular, rumo ao Socialismo' protocolado no TSE (documento DivulgaCandContas 280017107286) e publicado pelo partido",
+              "period": "2026",
+              "context": "partido isolado, sem financiamento empresarial; a proposta de suspensão do pagamento da dívida pública e de extinção do Senado foi divulgada na convenção",
+              "sources": [
+                {
+                  "id": "src-ec-74"
+                },
+                {
+                  "id": "src-ec-71"
+                },
+                {
+                  "id": "src-ec-06"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-ec-03",
+              "kind": "historico",
+              "title": "Execução da campanha presidencial de 2026 com receita de R$ 25.971,00",
+              "role": "candidato à Presidência (chapa pura do PCB)",
+              "complexity": "campanha nacional custeada por 9 doadores; gasto contratado de R$ 22.531,22 (0,0% do limite legal de R$ 88.944.030,80), com 53% em material impresso",
+              "outcome": "campanha registrada e deferida; prestação de contas parcial entregue ao TSE até 08/09/2026",
+              "period": "2026",
+              "context": "estimativa de recursos muito inferior à dos demais candidatos; sem coligação, sem bancada federal e sem estrutura estadual registrada",
+              "sources": [
+                {
+                  "id": "src-ec-02"
+                },
+                {
+                  "id": "src-ec-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-ec-04",
+              "kind": "historico",
+              "title": "Quatro campanhas próprias executadas entre 2008 e 2014 em três esferas",
+              "role": "candidato pelo PCB a prefeito de São Paulo (2008), vice-presidente (2010) e senador por SP (2014); vice na chapa do PSOL em SP (2012)",
+              "complexity": "4 campanhas em 7 anos (municipal, estadual e nacional), com chapas próprias do PCB em 2008, 2010 e 2014 e chapa conjunta em 2012",
+              "outcome": "votações registradas no TSE: 4.300 (2008), 39.136 (2010, chapa), 62.431 (2012, chapa) e 12.102 (2014); nenhuma eleição vencida",
+              "period": "2008–2014",
+              "context": "partido de quadro reduzido, sem bancada no Congresso no período",
+              "sources": [
+                {
+                  "id": "src-ec-02"
+                },
+                {
+                  "id": "src-ec-10"
+                },
+                {
+                  "id": "src-ec-06"
+                },
+                {
+                  "id": "src-ec-09"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "Articulação documentada em três frentes: coligação Frente de Esquerda com o PSOL em São Paulo (2012), delegação do PCB ao 19º Encontro Internacional de Partidos Comunistas e Operários (Rússia, 2017) e sucessão interna no partido em 2016, por indicação unânime do Comitê Central. Em 2026 o PCB disputa isolado, sem coligação ou federação, com 0 deputados e 0 senadores em exercício; não há registro de negociação legislativa nem de mesa de negociação com o poder público.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-ec-05",
+              "kind": "historico",
+              "title": "Coligação Frente de Esquerda (PSOL + PCB) em São Paulo, 2012",
+              "role": "candidato a vice-prefeito pela coligação (indicado pelo PCB)",
+              "complexity": "acordo entre dois partidos de esquerda com direções e táticas distintas; chapa conjunta com campanha própria e apresentação pública conjunta",
+              "outcome": "coligação formalizada e chapa registrada, com 62.431 votos; não eleita",
+              "period": "2012",
+              "context": "PCB e PSOL mantinham posições divergentes sobre coligações; a chapa foi apresentada pelos dois partidos como frente comum na capital paulista",
+              "sources": [
+                {
+                  "id": "src-ec-09"
+                },
+                {
+                  "id": "src-ec-75"
+                },
+                {
+                  "id": "src-ec-02"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-ec-06",
+              "kind": "historico",
+              "title": "Delegação do PCB ao 19º Encontro Internacional de Partidos Comunistas e Operários (Rússia, 2017)",
+              "role": "secretário-geral nacional, à frente da delegação do PCB",
+              "complexity": "encontro internacional em Petrogrado e Moscou reunindo organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas; duração de dias, fora do país",
+              "outcome": "participação registrada em nota oficial do partido com a composição nominal da delegação (secretário-geral, secretário de Organização, secretário de Relações Internacionais e membro do Comitê Central)",
+              "period": "2017",
+              "context": "a articulação externa do PCB se dá em fóruns de partidos comunistas, sem assento em organismos multilaterais",
+              "sources": [
+                {
+                  "id": "src-ec-72"
+                },
+                {
+                  "id": "src-ec-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-ec-07",
+              "kind": "historico",
+              "title": "Sucessão na secretaria-geral do PCB (2016) por indicação unânime do Comitê Central",
+              "role": "indicado por unanimidade pelo Comitê Central em reunião de 8 e 9/10/2016 e empossado em 17/10/2016",
+              "complexity": "processo sucessório da direção nacional, após carta de afastamento do titular anterior (Ivan Pinheiro), com comunicado oficial e carta pública do novo secretário-geral à militância",
+              "outcome": "transição concluída em 17/10/2016, sem cisão registrada nas fontes; permanência no cargo até o pleito de 2026",
+              "period": "2016",
+              "context": "não há dados públicos sobre votação interna além da indicação por unanimidade do Comitê Central",
+              "sources": [
+                {
+                  "id": "src-ec-76"
+                },
+                {
+                  "id": "src-ec-03"
+                },
+                {
+                  "id": "src-ec-07"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-ec-08",
+              "kind": "historico",
+              "title": "Composição de chapa pura com vice de outro estado e convenção em prédio público (2026)",
+              "role": "candidato à Presidência (chapa pura PCB) e responsável pela articulação da chapa junto à direção partidária",
+              "complexity": "composição com vice de outro estado (Cleusa dos Santos, Goiânia/GO) e realização da convenção nacional na Câmara Municipal de São Paulo; ausência de coligações ou federações registradas",
+              "outcome": "chapa homologada em 01/08/2026 e registro deferido, entre as 12 chapas válidas",
+              "period": "2026",
+              "context": "o PCB não integra federação partidária nem coligação em 2026; a articulação se dá dentro do partido e no campo do movimento, não entre legendas",
+              "sources": [
+                {
+                  "id": "src-ec-07"
+                },
+                {
+                  "id": "src-ec-71"
+                },
+                {
+                  "id": "src-ec-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Chefia da estrutura nacional do PCB: secretariado desde 2016, integração da Comissão Política Nacional desde 2001, delegações internacionais com dirigentes designados por função e manutenção de imprensa e fundação partidárias. A formação de quadros aparece na docência universitária declarada (mais de 20 anos de magistério em 2008) e na produção de obras de análise econômica, sem dados públicos sobre quantidade de quadros formados.",
+          "coverage": "parcial",
+          "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+          "evidences": [
+            {
+              "id": "ev-cap-ec-09",
+              "kind": "historico",
+              "title": "Chefia da estrutura nacional do PCB e integração de órgão de direção colegiado",
+              "role": "secretário-geral nacional desde 2016; membro da Comissão Política Nacional do PCB desde 2001",
+              "complexity": "direção de estrutura com órgãos colegiados, secretarias nacionais (Organização e Relações Internacionais), imprensa partidária, frente sindical, juventude e fundação; 10 anos no cargo mais alto",
+              "outcome": "partido em atividade eleitoral em 2026 (registro deferido) e delegações internacionais compostas por dirigentes designados por função",
+              "period": "2001–2026",
+              "context": "as fontes públicas consultadas não informam número de filiados, de dirigentes nem de pessoal remunerado do partido",
+              "sources": [
+                {
+                  "id": "src-ec-03"
+                },
+                {
+                  "id": "src-ec-72"
+                },
+                {
+                  "id": "src-ec-71"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ec-10",
+              "kind": "historico",
+              "title": "Chefia de delegação internacional com dirigentes designados por função",
+              "role": "chefe da delegação (secretário-geral), com o secretário de Organização, o secretário de Relações Internacionais e um membro do Comitê Central",
+              "complexity": "coordenação de quatro dirigentes com funções distintas em agenda internacional de vários dias, com relato de experiências e formulação de propostas de ação conjunta",
+              "outcome": "nota oficial do partido com a composição nominal da delegação e o objeto do encontro",
+              "period": "2017",
+              "context": "a delegação é o instrumento de representação externa do partido; não há dados sobre delegações anteriores ou posteriores",
+              "sources": [
+                {
+                  "id": "src-ec-72"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ec-11",
+              "kind": "historico",
+              "title": "Docência universitária prolongada e titulação em Economia (Unicamp)",
+              "role": "professor universitário e doutor em Economia pela Unicamp (pós-doutorado no IFCH, segundo a Agência Brasil)",
+              "complexity": "mais de 20 anos de magistério declarados em 2008; formação superior em Comunicação Social (UFMA) e atuação como jornalista antes da docência",
+              "outcome": "docência continuada por mais de duas décadas até 2008; as fontes consultadas não registram instituições de vínculo, disciplinas ou número de alunos",
+              "period": "até 2008 (declaração)",
+              "context": "as fontes não identificam as instituições de ensino nem resultados de formação; a ausência de dados é registrada aqui e não suprida por estimativa",
+              "sources": [
+                {
+                  "id": "src-ec-08"
+                },
+                {
+                  "id": "src-ec-06"
+                },
+                {
+                  "id": "src-ec-01"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ec-12",
+              "kind": "historico",
+              "title": "Autoria de obras sobre capitalismo contemporâneo e crise econômica mundial",
+              "role": "autor (economista e escritor)",
+              "complexity": "obras de análise econômica e livros de poesia publicados, citados em perfis de imprensa",
+              "outcome": "produção bibliográfica registrada em fontes de imprensa (Agência Brasil/Terra); títulos e editoras não localizados nas fontes desta rodada",
+              "period": "não informado",
+              "context": "os títulos e as editoras das obras não foram localizados; a evidência se limita à existência da produção citada em perfil de agência pública",
+              "sources": [
+                {
+                  "id": "src-ec-06"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
+        }
       ]
     },
     "hertz-dias": {
       "capacities": [
-        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "execucao",
+          "synthesis": "Candidatura presidencial pelo PSTU em 2026 (5ª campanha do partido à Presidência desde 2010) com convenção nacional em 31/07/2026, pré-campanha em três capitais e campanha financiada quase integralmente pela direção nacional do partido. Executou também candidaturas majoritárias no Maranhão em 2010, 2020 e 2022, todas não eleitas. Trajetória de magistério público, movimento cultural e partido, sem passagem por cargo executivo estatal.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-hd-01",
+              "kind": "historico",
+              "title": "Campanha presidencial de 2026 conduzida com estrutura financiada pela direção nacional do PSTU",
+              "role": "candidato do PSTU à Presidência (chapa com Vanessa Portugal)",
+              "complexity": "campanha nacional; prestação parcial ao TSE até 08/09/2026 com receita de R$ 1.087.584,16 (99% da direção nacional do PSTU) e R$ 1.050.232,71 de gasto contratado (1,2% do limite legal), incluindo R$ 520.000,00 em serviços de terceiros",
+              "outcome": "registro deferido, entre as 12 chapas à Presidência divulgadas pelo TSE em 11/09/2026; agenda de campanha registrada no Maranhão, Pernambuco, Distrito Federal e outras unidades",
+              "period": "2026",
+              "context": "PSTU sem bancada no Congresso (0 deputados e 0 senadores em exercício) e sem coligação ou federação localizada nas fontes consultadas",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                },
+                {
+                  "id": "src-hd-14"
+                },
+                {
+                  "id": "src-hd-15"
+                },
+                {
+                  "id": "src-hd-75"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-hd-02",
+              "kind": "historico",
+              "title": "Pré-campanha nacional em três capitais (maio–junho de 2026)",
+              "role": "pré-candidato do PSTU à Presidência",
+              "complexity": "agenda em Teresina (PI), Manaus (AM) e Fortaleza (CE) com atos, entrevistas e encontros; em Teresina, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3",
+              "outcome": "agenda cumprida no período de fim de maio a meados de junho de 2026, com cobertura registrada em 19/06/2026",
+              "period": "2026-05 a 2026-06",
+              "context": "deslocamento por três capitais em três regiões, sem estrutura de governo e com financiamento partidário",
+              "sources": [
+                {
+                  "id": "src-hd-73"
+                },
+                {
+                  "id": "src-hd-72"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-hd-03",
+              "kind": "historico",
+              "title": "Convenção Nacional Eleitoral do PSTU que homologou a chapa presidencial",
+              "role": "candidato homologado pela convenção nacional do partido",
+              "complexity": "convenção realizada em 31/07/2026 na sede do Sindicato dos Metroviários de São Paulo, com dirigentes, militantes e apoiadores de diferentes regiões do país",
+              "outcome": "chapa Hertz Dias/Vanessa Portugal oficializada e registrada no TSE, com registro deferido",
+              "period": "2026",
+              "context": "o partido não tinha bancada federal no período da convenção; a sede escolhida foi a de uma entidade sindical",
+              "sources": [
+                {
+                  "id": "src-hd-71"
+                },
+                {
+                  "id": "src-hd-72"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-hd-04",
+              "kind": "historico",
+              "title": "Candidaturas majoritárias no Maranhão em três pleitos (2010, 2020 e 2022)",
+              "role": "candidato pelo PSTU a vice-governador do Maranhão (2010), prefeito de São Luís (2020) e governador do Maranhão (2022)",
+              "complexity": "três campanhas majoritárias em 12 anos, com chapas próprias do partido em eleição estadual e municipal",
+              "outcome": "votações registradas no TSE: 14.685 (2010), 2.173 (2020, 0,42%) e 5.191 (2022, 0,15%); nenhuma eleição vencida",
+              "period": "2010–2022",
+              "context": "partido sem representação no Congresso e sem coligação registrada; campanhas estaduais e municipais com estrutura própria",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                },
+                {
+                  "id": "src-hd-03"
+                },
+                {
+                  "id": "src-hd-02"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "Articulação com movimentos sociais, culturais e sindicais: fundação do Movimento Quilombo Urbano (MA), atividades com trabalhadores, estudantes e movimentos sociais em Teresina (2026), composição de chapa nacional com Vera Lúcia (2018) e divulgação internacional da candidatura pela organização do partido (LIT-QI). Não há registro de negociação coletiva nem de mesa de negociação com governos; a interlocução documentada é com movimentos e com a direção partidária.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-hd-05",
+              "kind": "historico",
+              "title": "Fundação e manutenção do Movimento Quilombo Urbano (Maranhão)",
+              "role": "um dos fundadores do movimento (cultura, hip-hop e luta contra o racismo)",
+              "complexity": "movimento que reúne juventude negra, artistas e militantes em torno de cultura hip hop e luta antirracista, com atuação estadual e presença continuada na militância do candidato",
+              "outcome": "movimento ativo e apresentado como base de militância do candidato na campanha de 2026 por imprensa nacional e pela organização internacional do partido",
+              "period": "décadas de atuação (data de fundação não localizada)",
+              "context": "as fontes não registram data de fundação, número de integrantes nem estrutura formal do movimento",
+              "sources": [
+                {
+                  "id": "src-hd-71"
+                },
+                {
+                  "id": "src-hd-06"
+                },
+                {
+                  "id": "src-hd-74"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-hd-06",
+              "kind": "historico",
+              "title": "Articulação de setores no ato pelo fim da escala 6x1 e em atividades de memória (Teresina, 2026)",
+              "role": "pré-candidato do PSTU, participando como orador e articulador das atividades",
+              "complexity": "atividades de 27 e 28/05/2026 com trabalhadores, estudantes, artistas, movimentos sociais e militantes; entrevistas à imprensa local no mesmo dia",
+              "outcome": "atividades realizadas na Praça Rio Branco e em outros espaços de Teresina, com pautas de jornada de trabalho e memória da ditadura",
+              "period": "2026-05",
+              "context": "articulação com movimentos e não com governos; não há mesa de negociação ou acordo formal registrado",
+              "sources": [
+                {
+                  "id": "src-hd-73"
+                },
+                {
+                  "id": "src-hd-76"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-hd-07",
+              "kind": "historico",
+              "title": "Composição da chapa presidencial de 2018 como candidato a vice-presidente",
+              "role": "candidato a vice-presidente na chapa de Vera Lúcia (PSTU)",
+              "complexity": "chapa nacional de partido isolado, sem coligação registrada",
+              "outcome": "chapa registrada e votada em 2018, com 55.762 votos (0,05%), 55.762 votos (0,05%), 11ª colocação entre 13 chapas no 1º turno",
+              "period": "2018",
+              "context": "composição de chapa definida na direção partidária; não há registro de coligação ou de acordo com outras legendas",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                },
+                {
+                  "id": "src-hd-02"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-hd-08",
+              "kind": "historico",
+              "title": "Divulgação internacional da candidatura pela organização do partido (LIT-QI)",
+              "role": "candidato do PSTU (partido integrado à Liga Internacional dos Trabalhadores — Quarta Internacional)",
+              "complexity": "publicação da convenção e do programa em veículo internacional multilíngue (português, inglês, francês, árabe e russo), dirigida a militâncias de outros países",
+              "outcome": "candidatura e programa divulgados internacionalmente em 22/08/2026 pela organização internacional",
+              "period": "2026",
+              "context": "a publicação descreve o partido e a chapa; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não ao candidato",
+              "sources": [
+                {
+                  "id": "src-hd-71"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Coordenação de coletivos e de campanha: criação e manutenção do Movimento Quilombo Urbano, atuação como vocalista do grupo Gíria Vermelha e docência nas redes públicas de São Luís com mestrado em Educação. Na campanha de 2026 recebeu da direção nacional do PSTU R$ 1.074.389,00 (99% da receita) e contratou R$ 1.050.232,71, com R$ 520.000,00 em serviços de terceiros. As fontes não registram organograma, número de integrantes ou de contratados.",
+          "coverage": "parcial",
+          "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+          "evidences": [
+            {
+              "id": "ev-cap-hd-09",
+              "kind": "historico",
+              "title": "Atuação como vocalista do grupo de rap Gíria Vermelha e pioneirismo no break no Maranhão",
+              "role": "integrante e vocalista do grupo Gíria Vermelha; um dos primeiros dançarinos de break do Maranhão",
+              "complexity": "coletivo musical e cultural com atuação ligada ao movimento hip hop e ao Movimento Quilombo Urbano, em eventos e atividades de militância",
+              "outcome": "grupo citado em perfis de imprensa nacional e em publicação da organização internacional do partido",
+              "period": "não informado",
+              "context": "as fontes não informam número de integrantes, discografia, agenda ou estrutura do grupo e das atividades",
+              "sources": [
+                {
+                  "id": "src-hd-74"
+                },
+                {
+                  "id": "src-hd-71"
+                },
+                {
+                  "id": "src-hd-02"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-hd-10",
+              "kind": "historico",
+              "title": "Criação e manutenção de coletivo de mobilização (Movimento Quilombo Urbano)",
+              "role": "um dos fundadores do movimento, com função de organização de atividades culturais e de militância",
+              "complexity": "coletivo de alcance estadual que articula artistas, juventude negra e militantes em atividades culturais e de luta antirracista, com permanência de vários anos",
+              "outcome": "movimento em atividade e citado como espaço de formação da militância do candidato",
+              "period": "décadas de atuação (data de fundação não localizada)",
+              "context": "as fontes consultadas não registram organograma, número de integrantes ou forma de coordenação",
+              "sources": [
+                {
+                  "id": "src-hd-71"
+                },
+                {
+                  "id": "src-hd-06"
+                },
+                {
+                  "id": "src-hd-74"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-hd-11",
+              "kind": "historico",
+              "title": "Aplicação de recursos da campanha presidencial repassados pela direção nacional do PSTU",
+              "role": "candidato responsável pela campanha e pela prestação de contas ao TSE",
+              "complexity": "aplicação de R$ 1.050.232,71 contratados até 08/09/2026 (R$ 520.000,00 em serviços de terceiros, R$ 42.700,00 em material impresso e R$ 18.000,00 em impulsionamento), com receita de R$ 1.074.389,00 repassada pela direção nacional do partido",
+              "outcome": "prestação de contas parcial entregue ao TSE com gasto contratado de 1,2% do limite legal",
+              "period": "2026",
+              "context": "as decisões internas de alocação dos recursos partidários e a composição da equipe contratada não são detalhadas publicamente",
+              "sources": [
+                {
+                  "id": "src-hd-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-hd-12",
+              "kind": "historico",
+              "title": "Docência na rede pública de São Luís (MA) com mestrado em Educação",
+              "role": "professor de História das redes pública estadual e municipal de São Luís (ocupação declarada ao TSE: professor de ensino fundamental)",
+              "complexity": "atuação em ensino fundamental e médio nas redes estadual e municipal do Maranhão; licenciatura em História e mestrado em Educação",
+              "outcome": "docência em exercício declarada em 2026; as fontes não registram tempo de serviço, número de turmas ou de alunos",
+              "period": "em exercício em 2026 (início não informado)",
+              "context": "as fontes consultadas não informam escola, rede de vínculo exclusivo nem tempo de exercício; no cadastro eleitoral de 2022 a ocupação declarada havia sido 'empresário'",
+              "sources": [
+                {
+                  "id": "src-hd-07"
+                },
+                {
+                  "id": "src-hd-02"
+                },
+                {
+                  "id": "src-hd-01"
+                },
+                {
+                  "id": "src-hd-76"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     },
     "rui-costa-pimenta": {
       "capacities": [
-        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "execucao",
+          "synthesis": "Fundação e direção do PCO desde 1995 (registro definitivo em 1996), com 31 anos de presidência e candidaturas presidenciais próprias em 2002, 2010, 2014 e 2026. Mantém estrutura de publicação e campanha em operação: jornal e diário Causa Operária, duas obras publicadas (2018 e 2021) e campanha de 2026 custeada por financiamento coletivo (R$ 6.271,00). Sem cargo executivo estatal.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-rp-01",
+              "kind": "historico",
+              "title": "Fundação e direção nacional do PCO desde 1995",
+              "role": "fundador e presidente nacional do PCO (registro do partido no TRE-SP em 30/09/1997, com Rui Costa Pimenta como presidente)",
+              "complexity": "construção de partido próprio após a saída do PT (1995), com registro definitivo em 1996 e candidaturas presidenciais próprias em 2002, 2010, 2014 e 2026",
+              "outcome": "partido com registro válido em 2026, candidatura presidencial registrada e deferida e estrutura de imprensa e formação em funcionamento",
+              "period": "1995–2026",
+              "context": "o PCO nunca teve bancada no Congresso nos períodos consultados (0 deputados e 0 senadores em exercício em 29/09/2026) e disputa as eleições sem coligação",
+              "sources": [
+                {
+                  "id": "src-rp-02"
+                },
+                {
+                  "id": "src-rp-72"
+                },
+                {
+                  "id": "src-rp-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-rp-02",
+              "kind": "historico",
+              "title": "Edição de jornal, diário e coluna semanais do partido",
+              "role": "editor do jornal Causa Operária e do Diário Causa Operária (ocupação declarada ao TSE: jornalista e redator)",
+              "complexity": "publicação contínua de jornal e de diário partidário, coluna semanal 'Análise Política Semanal' em canal próprio (sábados, 8h) e análises semanais em portal de imprensa (Brasil 247)",
+              "outcome": "publicações em circulação e produção semanal continuada, registradas em agência pública, centro de pesquisa e nos próprios veículos do partido",
+              "period": "2014–2026",
+              "context": "estrutura de imprensa própria de um partido sem bancada no Congresso e com financiamento por vaquinha e recursos partidários",
+              "sources": [
+                {
+                  "id": "src-rp-73"
+                },
+                {
+                  "id": "src-rp-01"
+                },
+                {
+                  "id": "src-rp-74"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-rp-03",
+              "kind": "historico",
+              "title": "Duas obras de análise política publicadas (2018 e 2021)",
+              "role": "autor das obras 'Golpe de Estado no Brasil — Balanço e Perspectivas' (2018) e 'A Era da Censura das Massas' (2021)",
+              "complexity": "obras publicadas pelo selo editorial do próprio partido (Edições Causa Operária) e por editora parceira (Democritus), divulgadas em cursos e palestras",
+              "outcome": "duas obras publicadas nos anos indicados e utilizadas como material de formação e divulgação partidária",
+              "period": "2018–2021",
+              "context": "não foram localizadas tiragem, vendagem ou registro em catálogos de bibliotecas nas fontes desta rodada",
+              "sources": [
+                {
+                  "id": "src-rp-02"
+                },
+                {
+                  "id": "src-rp-73"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rp-04",
+              "kind": "historico",
+              "title": "Campanha presidencial de 2026 custeada por financiamento coletivo",
+              "role": "candidato à Presidência pelo PCO (4ª campanha presidencial efetiva)",
+              "complexity": "campanha nacional com receita de R$ 6.271,00 de um único doador (100% vaquinha online) e gasto contratado de R$ 137,30",
+              "outcome": "candidatura registrada e deferida, entre as 12 chapas válidas divulgadas pelo TSE em 11/09/2026, com prestação parcial entregue até 08/09/2026",
+              "period": "2026",
+              "context": "o candidato concorre sob investigação da Polícia Federal (operação de 11/08/2026) sobre fundos partidário e eleitoral, com afastamento cautelar de 180 dias do cargo partidário; o registro não foi impedido",
+              "sources": [
+                {
+                  "id": "src-rp-01"
+                },
+                {
+                  "id": "src-rp-03"
+                },
+                {
+                  "id": "src-rp-06"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "Atividade sindical e partidária documentada: diretor eleito da CUT na Grande São Paulo em 1985 e trabalho como jornalista da CUT a partir de 1984; fundação do PT em 1980 e participação no congresso de fundação da organização da IV Internacional; apoio a Lula em 2018 sem ingressar na coligação. A articulação internacional é conduzida em nome do PCO: rodada de palestras em 10 países (2018), conferência internacional em Frankfurt (2019), viagem à China (2024) e encontro com o líder do Hamas, Ismail Haniya (2024).",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-rp-05",
+              "kind": "historico",
+              "title": "Diretor eleito da CUT na Grande São Paulo (1985)",
+              "role": "diretor eleito da Central Única dos Trabalhadores na região da Grande São Paulo, com atuação como assessor de imprensa da entidade",
+              "complexity": "central sindical de alcance nacional; exercício em período de mobilizações sindicais contra o governo José Sarney; trabalho como jornalista da CUT a partir de 1984",
+              "outcome": "mandato de direção registrado por agência pública, por veículo de imprensa regional e por centro de pesquisa acadêmica",
+              "period": "1984–1985 (e atuação sindical ao longo dos anos 1980)",
+              "context": "não há registro de mesas de negociação coletiva específicas nem de acordos assinados nas fontes desta rodada",
+              "sources": [
+                {
+                  "id": "src-rp-71"
+                },
+                {
+                  "id": "src-rp-74"
+                },
+                {
+                  "id": "src-rp-73"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-rp-06",
+              "kind": "historico",
+              "title": "Participação na fundação do PT (1980) e no congresso de fundação da organização da IV Internacional",
+              "role": "um dos fundadores do Partido dos Trabalhadores, pela tendência Causa Operária (movimento interno)",
+              "complexity": "formação e manutenção de corrente interna em partido em criação; participação em congresso de fundação de organização internacional; articulação que se encerra com a ruptura com o PT em 1992",
+              "outcome": "PT fundado em 1980 com participação do movimento; a corrente deu origem ao PCO em 1995, após a expulsão dos militantes",
+              "period": "1980–1995",
+              "context": "o desfecho da articulação interna foi a ruptura (declarada em 1992) e a saída do grupo (1995), não a permanência no partido",
+              "sources": [
+                {
+                  "id": "src-rp-02"
+                },
+                {
+                  "id": "src-rp-71"
+                },
+                {
+                  "id": "src-rp-74"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-rp-07",
+              "kind": "historico",
+              "title": "Encontro com o líder do Hamas, Ismail Haniya (Catar, março de 2024)",
+              "role": "presidente nacional do PCO, à frente do encontro em nome do partido",
+              "complexity": "reunião no exterior com dirigente de organização política estrangeira, registrada por imprensa nacional",
+              "outcome": "encontro registrado em cobertura de imprensa (2024); não foram localizados comunicado conjunto, acordo ou pauta formal publicados pelo partido",
+              "period": "2024-03",
+              "context": "a articulação externa do PCO ocorre por contatos e viagens de seus dirigentes, sem assento em organismos multilaterais",
+              "sources": [
+                {
+                  "id": "src-rp-79"
+                },
+                {
+                  "id": "src-rp-02"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rp-08",
+              "kind": "historico",
+              "title": "Rodada internacional de palestras e conferência internacional do PCO",
+              "role": "presidente nacional do PCO, conduzindo a agenda internacional do partido",
+              "complexity": "rodada de palestras e debates em 10 países entre 26/05 e 03/07/2018, iniciada pela Irlanda, e Primeira Conferência Internacional do PCO em Frankfurt (Alemanha, julho de 2019)",
+              "outcome": "agenda cumprida nos períodos indicados; conferência internacional realizada com participação de organizações estrangeiras",
+              "period": "2018–2019",
+              "context": "agenda de partido sem bancada no Congresso, sustentada por organizações e militâncias locais nos países visitados",
+              "sources": [
+                {
+                  "id": "src-rp-78"
+                },
+                {
+                  "id": "src-rp-77"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rp-09",
+              "kind": "historico",
+              "title": "Viagem da direção do PCO à China com visitas e conferências (2024)",
+              "role": "presidente nacional do PCO, integrando a direção do partido em viagem oficial ao exterior",
+              "complexity": "agenda de cerca de 10 dias com visitas e conferências, com a direção do partido, em outro país",
+              "outcome": "viagem realizada e relatada publicamente em entrevista ao veículo do partido (2024)",
+              "period": "2024",
+              "context": "não há registro de acordo, memorando ou resultado formal da viagem nas fontes consultadas",
+              "sources": [
+                {
+                  "id": "src-rp-80"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Direção nacional do PCO com estruturas permanentes (Comitê Central, Fundação João Jorge Costa Pimenta, Aliança da Juventude Revolucionária, jornal e diário) e escola de formação de quadros: a Universidade Marxista/Universidade de Férias chegou à 52ª edição em janeiro de 2025 e mantém plataforma online de cursos, com história declarada de quase 30 anos. Também mantém curso, palestra e coluna semanais. As fontes não informam número de filiados, de quadros ou de pessoal remunerado.",
+          "coverage": "parcial",
+          "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+          "evidences": [
+            {
+              "id": "ev-cap-rp-10",
+              "kind": "historico",
+              "title": "Direção de partido com estruturas permanentes (Comitê Central, fundação, juventude e imprensa)",
+              "role": "presidente nacional do PCO e presidente do Comitê Central",
+              "complexity": "estrutura partidária com órgão de direção, fundação (Fundação João Jorge Costa Pimenta), organização de juventude (Aliança da Juventude Revolucionária), jornal, diário e escola de formação; 31 anos de direção",
+              "outcome": "partido em funcionamento com registro válido em 2026 e candidatura presidencial própria registrada",
+              "period": "1995–2026",
+              "context": "as fontes públicas consultadas não informam número de filiados, de quadros ou de pessoal remunerado do partido",
+              "sources": [
+                {
+                  "id": "src-rp-72"
+                },
+                {
+                  "id": "src-rp-76"
+                },
+                {
+                  "id": "src-rp-02"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rp-11",
+              "kind": "historico",
+              "title": "Escola de formação de quadros: Universidade Marxista e Universidade de Férias",
+              "role": "dirigente do partido responsável pela iniciativa de formação (com a Fundação João Jorge Costa Pimenta e a Aliança da Juventude Revolucionária)",
+              "complexity": "programa de formação com 52ª edição da Universidade de Férias realizada em janeiro de 2025 (nove dias, Araçoiaba da Serra/SP) e plataforma online de cursos com história declarada de quase 30 anos",
+              "outcome": "edições realizadas e cursos programados, incluindo o curso de meio de ano de 2026 sobre a Revolução Iraniana de 1979",
+              "period": "1996–2026 (história declarada de quase 30 anos)",
+              "context": "a adesão e o número de participantes por edição não são divulgados nas fontes consultadas",
+              "sources": [
+                {
+                  "id": "src-rp-75"
+                },
+                {
+                  "id": "src-rp-76"
+                },
+                {
+                  "id": "src-rp-81"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rp-12",
+              "kind": "historico",
+              "title": "Atividade regular de cursos, palestras e coluna semanal",
+              "role": "conferencista do partido e colunista (editor do jornal Causa Operária)",
+              "complexity": "atividade semanal em canal próprio e em portal de imprensa, além de cursos e palestras no país e no exterior",
+              "outcome": "produção continuada registrada em veículo do partido, em agência pública e em centro de pesquisa acadêmica",
+              "period": "2014–2026",
+              "context": "as fontes não registram público, alcance de audiência ou número de participantes dos cursos",
+              "sources": [
+                {
+                  "id": "src-rp-02"
+                },
+                {
+                  "id": "src-rp-73"
+                },
+                {
+                  "id": "src-rp-78"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     },
     "wilson-grassi": {
       "capacities": [
-        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "execucao",
+          "synthesis": "Atividade empresarial e associativa: rede de 13 clínicas veterinárias (nove na capital paulista) com plano de saúde próprio, construída desde 1997, e participação como conselheiro da Anclivepa-SP na criação do primeiro hospital público para cães e gatos do Brasil (2015). Em 2026 registrou plano de governo estruturado (método D35, eixos numerados até 14, primeiros cem dias e painel de indicadores) e campanha autofinanciada com R$ 850.150,00 de receita. Sem cargo executivo estatal.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-wg-01",
+              "kind": "historico",
+              "title": "Construção e operação de rede de 13 clínicas veterinárias com plano de saúde próprio",
+              "role": "fundador e proprietário da rede (médico-veterinário e empresário)",
+              "complexity": "rede de 13 clínicas (nove na capital paulista), primeira unidade aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes de 2018, a R$ 70 por mês, aceito em toda a rede",
+              "outcome": "rede em operação em 2018, com nova unidade aberta no Pacaembu em 10/10/2018; também descrito como sócio-proprietário de hospitais veterinários no país",
+              "period": "1997–2018",
+              "context": "operação privada, sem vínculo com cargo público; as fontes não informam número de empregados, faturamento ou número de animais atendidos",
+              "sources": [
+                {
+                  "id": "src-wg-71"
+                },
+                {
+                  "id": "src-wg-03"
+                },
+                {
+                  "id": "src-wg-19"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-wg-02",
+              "kind": "historico",
+              "title": "Participação na criação do primeiro hospital público para cães e gatos do Brasil (São Paulo, 2015)",
+              "role": "conselheiro da Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — seção São Paulo), atuando na interlocução do projeto",
+              "complexity": "projeto discutido desde 2012 e efetivado em 2015 no Tatuapé, com atendimento a animais de famílias de baixa renda e formação de veterinários",
+              "outcome": "hospital público veterinário criado em 2015 e em operação; a entidade mantém rede de hospitais veterinários públicos com unidades municipais e estaduais",
+              "period": "2012–2015 (hospital em operação até 2026)",
+              "context": "a criação do serviço envolveu a entidade profissional e o poder público municipal; as fontes não detalham a divisão de atribuições no projeto",
+              "sources": [
+                {
+                  "id": "src-wg-07"
+                },
+                {
+                  "id": "src-wg-72"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-wg-03",
+              "kind": "historico",
+              "title": "Campanha presidencial de 2026 estruturada com recursos próprios",
+              "role": "candidato à Presidência pelo Democrata e principal financiador da própria campanha",
+              "complexity": "receita de R$ 850.150,00 (R$ 850.000,00 de recursos próprios do candidato e R$ 150,00 de pessoa física) e R$ 890.399,66 de gasto contratado com 12 fornecedores, incluindo R$ 365.000,00 em impulsionamento de conteúdo",
+              "outcome": "registro deferido em 12/08/2026; prestação de contas parcial entregue ao TSE com gasto contratado de 1,0% do limite legal",
+              "period": "2026",
+              "context": "campanha de partido sem bancada no Congresso e, segundo as fontes, sem direito a horário eleitoral gratuito",
+              "sources": [
+                {
+                  "id": "src-wg-02"
+                },
+                {
+                  "id": "src-wg-01"
+                },
+                {
+                  "id": "src-wg-10"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-wg-04",
+              "kind": "historico",
+              "title": "Plano de governo registrado no TSE com método de gestão e painel de indicadores",
+              "role": "candidato (plano apresentado pelo partido Democrata)",
+              "complexity": "documento organizado em três partes (diagnóstico, eixos de governo e governança), com eixos numerados até o eixo 14, método 'D35', seção de primeiros cem dias, painel de indicadores e compromissos de transparência",
+              "outcome": "plano protocolado no TSE (documento DivulgaCandContas 280017075366) e publicado em espelho de imprensa",
+              "period": "2026",
+              "context": "plano de campanha de partido sem bancada no Congresso; a execução depende de aprovação legislativa, não detalhada por instrumento em todos os eixos",
+              "sources": [
+                {
+                  "id": "src-wg-74"
+                },
+                {
+                  "id": "src-wg-07"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "Interlocução com o poder público na área veterinária como conselheiro da Anclivepa-SP (hospital público municipal, 2012–2015), composição da chapa presidencial com a presidente nacional do partido como vice (02/08/2026) e atuação institucional junto à Justiça Eleitoral após a suspensão de oito perfis de campanha, restabelecidos em 02/09/2026. O partido disputa isolado, sem bancada no Congresso e sem coligação registrada.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-wg-05",
+              "kind": "historico",
+              "title": "Interlocução com o poder público municipal na criação do hospital veterinário público",
+              "role": "conselheiro da Anclivepa-SP, na interlocução do projeto com o município",
+              "complexity": "negociação de projeto de política pública de saúde animal entre entidade profissional e Prefeitura, com discussões desde 2012",
+              "outcome": "hospital público veterinário criado em 2015; a entidade passou a operar unidades públicas municipais e estaduais",
+              "period": "2012–2015",
+              "context": "a atuação foi como dirigente de entidade profissional, não como agente público; o site institucional da entidade não nomeia o candidato",
+              "sources": [
+                {
+                  "id": "src-wg-07"
+                },
+                {
+                  "id": "src-wg-72"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-wg-06",
+              "kind": "historico",
+              "title": "Composição da chapa presidencial com a presidente nacional do partido como vice",
+              "role": "candidato a presidente, com a chapa homologada em convenção nacional do Democrata no Rio de Janeiro",
+              "complexity": "vice: Suêd Haidar, fundadora e presidente nacional do partido (2015–2026); primeira chapa presidencial da história da legenda, fundada em 2008 como Partido da Mulher Brasileira e renomeada Democrata em dezembro de 2025",
+              "outcome": "chapa oficializada em 02/08/2026 e registrada em 12/08/2026, com registro deferido",
+              "period": "2026",
+              "context": "partido isolado, sem coligação ou federação registrada nas fontes consultadas",
+              "sources": [
+                {
+                  "id": "src-wg-73"
+                },
+                {
+                  "id": "src-wg-04"
+                },
+                {
+                  "id": "src-wg-05"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-wg-07",
+              "kind": "historico",
+              "title": "Atuação institucional após a suspensão de perfis de campanha: defesa e restabelecimento por decisão do TSE",
+              "role": "candidato (campanha representada por advogados junto à Justiça Eleitoral)",
+              "complexity": "decisão do ministro Dias Toffoli suspendeu 8 perfis de redes sociais em 30/08/2026 por omissão na comunicação dos perfis; a defesa sustentou boa-fé e o Ministério Público Eleitoral já reunia mais de 360 páginas de relatórios; ordem de restabelecimento em até 2 horas pelas plataformas",
+              "outcome": "propaganda digital, participação em debates e repasses do FEFC liberados em 02/09/2026",
+              "period": "2026-08 a 2026-09",
+              "context": "medida cautelar aplicada também ao candidato Renan Santos (Missão); a candidatura permaneceu deferida",
+              "sources": [
+                {
+                  "id": "src-wg-08"
+                },
+                {
+                  "id": "src-wg-09"
+                },
+                {
+                  "id": "src-wg-06"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-wg-08",
+              "kind": "historico",
+              "title": "Projeto Ambientalistas e ações de saúde animal em diferentes estados",
+              "role": "veterinário, criador do projeto Ambientalistas; participante de campanha nacional contra a cinomose e de projeto veterinário na Amazônia",
+              "complexity": "ações em municípios de diferentes estados (campanha contra a cinomose, 2013) e projeto de atendimento veterinário na Amazônia (2014), além de frente de meio ambiente e causa animal",
+              "outcome": "atividades registradas em perfil de imprensa e verbete; as fontes não detalham número de municípios, parceiros, duração ou resultados medidos",
+              "period": "2013–2014",
+              "context": "evidência de articulação em rede nacional de municípios; sem dados quantitativos disponíveis nas fontes consultadas",
+              "sources": [
+                {
+                  "id": "src-wg-07"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Direção de estruturas próprias: montagem e gestão de rede de 13 clínicas com plano de saúde veterinário próprio desde 1997, atuação em conselho de entidade profissional que mantém hospitais públicos veterinários e coordenação da campanha presidencial de 2026 com 12 fornecedores especializados. As fontes não informam quantas pessoas emprega, quantos profissionais integram as equipes clínicas ou a estrutura interna da campanha.",
+          "coverage": "parcial",
+          "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+          "evidences": [
+            {
+              "id": "ev-cap-wg-09",
+              "kind": "historico",
+              "title": "Montagem e gestão de rede de clínicas com equipe clínica e plano de saúde próprio",
+              "role": "fundador e gestor da rede de clínicas veterinárias",
+              "complexity": "13 unidades (nove na capital paulista) com plano de saúde veterinário próprio aceito em toda a rede; operação iniciada em 1997 e ampliada até 2018",
+              "outcome": "rede em operação, com abertura de nova unidade no Pacaembu em 10/10/2018",
+              "period": "1997–2018",
+              "context": "as fontes não informam número de empregados, de veterinários contratados ou de equipes por unidade",
+              "sources": [
+                {
+                  "id": "src-wg-71"
+                },
+                {
+                  "id": "src-wg-03"
+                },
+                {
+                  "id": "src-wg-19"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-wg-10",
+              "kind": "historico",
+              "title": "Atuação em conselho de entidade profissional (Anclivepa-SP)",
+              "role": "conselheiro da Anclivepa-SP (entidade que reúne clínicos de pequenos animais do estado de São Paulo)",
+              "complexity": "entidade com conselho e diretoria, estatuto, regulamento de compras, política de compliance e rede de hospitais veterinários públicos em vários estados",
+              "outcome": "participação na criação do hospital público veterinário (2015) e permanência da entidade na operação de unidades públicas",
+              "period": "2012–2015 (e atuação associativa posterior)",
+              "context": "as atas de conselho e diretoria publicadas pela entidade não nomeiam o candidato nas fontes consultadas; a atribuição consta de perfil de imprensa e verbete",
+              "sources": [
+                {
+                  "id": "src-wg-72"
+                },
+                {
+                  "id": "src-wg-07"
+                },
+                {
+                  "id": "src-wg-03"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-wg-11",
+              "kind": "historico",
+              "title": "Coordenação de campanha presidencial com contratação de equipes especializadas",
+              "role": "candidato responsável pela coordenação da campanha",
+              "complexity": "contratação de 12 fornecedores (R$ 890.399,66), entre consultoria e assessoramento (R$ 450.000,00), intermediação de pagamentos (R$ 250.000,00), plataforma de impulsionamento (R$ 115.000,00) e advocacia (R$ 54.000,00)",
+              "outcome": "campanha mantida após o restabelecimento judicial dos perfis e dos repasses do FEFC em 02/09/2026",
+              "period": "2026",
+              "context": "não há dados públicos sobre o número de pessoas contratadas diretamente nem sobre a estrutura interna da campanha",
+              "sources": [
+                {
+                  "id": "src-wg-02"
+                },
+                {
+                  "id": "src-wg-08"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     }
   },
-  "dataGaps": ["em consolidação"]
+  "dataGaps": [
+    "Nenhum dos quatro candidatos exerceu cargo executivo estatal: as evidências de execução, diálogo e liderança são de direção partidária (PCB, PSTU, PCO, Democrata), de movimento cultural/negro, de entidade profissional e de empresa privada.",
+    "Número de filiados, de quadros dirigentes e de pessoal remunerado das quatro legendas não é divulgado em fontes públicas acessíveis nesta rodada.",
+    "Não há registro de negociação coletiva ou de mesa de negociação com governos para nenhum dos quatro candidatos; o único vínculo sindical documentado de direção é o de Rui Costa Pimenta (diretor da CUT na Grande São Paulo, 1985).",
+    "Tamanho e composição das equipes coordenadas (rede de clínicas de Wilson Grassi, campanhas presidenciais) não constam das fontes consultadas.",
+    "Hertz Dias: não foi localizado registro de filiação sindical ou de cargo na direção nacional do PSTU; a militância sindical educacional citada pela organização internacional do partido refere-se à vice da chapa (Vanessa Portugal), não ao candidato.",
+    "Documentos registrados no TSE (DivulgaCandContas: programa do PCB 280017107286 e plano do Democrata 280017075366) responderam 403 a acesso automatizado em 29/09/2026; foram conferidos por espelho publicado (Poder360) e notas oficiais dos partidos.",
+    "Domínios causaoperaria.org.br, rfi.fr e tre-sp.jus.br responderam 403 a acesso direto; conteúdo conferido por cópias na Wayback Machine. A página do curso de 2026 do PCO não tinha cópia arquivada em 29/09/2026."
+  ]
 }

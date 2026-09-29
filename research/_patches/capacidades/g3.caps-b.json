@@ -1,0 +1,36 @@
+{
+  "grupo": "g3",
+  "escopo": "capacidade:tomada-decisao,gestao-crises,coordenacao-institucional",
+  "sources": [],
+  "candidates": {
+    "edmilson-costa": {
+      "capacities": [
+        { "slug": "tomada-decisao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "gestao-crises", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "coordenacao-institucional", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "hertz-dias": {
+      "capacities": [
+        { "slug": "tomada-decisao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "gestao-crises", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "coordenacao-institucional", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "rui-costa-pimenta": {
+      "capacities": [
+        { "slug": "tomada-decisao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "gestao-crises", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "coordenacao-institucional", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "wilson-grassi": {
+      "capacities": [
+        { "slug": "tomada-decisao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "gestao-crises", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "coordenacao-institucional", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    }
+  },
+  "dataGaps": ["em consolidação"]
+}

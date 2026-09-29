@@ -1939,6 +1939,56 @@
       "publishedAt": "2026-08-05",
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa"
+    },
+    {
+      "id": "src-cb-42",
+      "title": "Partido DC aposta em renovação e anuncia advogada de MT à presidência da República",
+      "publisher": "Potência MT",
+      "url": "https://potenciamt.com.br/noticia/2696/partido-dc-aposta-em-renovacao-e-anuncia-advogada-de-mt-a-presidencia-da-republica",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026). Anúncio após a desistência de Joaquim Barbosa; a então presidente do diretório estadual do DC em MT foi apresentada como candidata."
+    },
+    {
+      "id": "src-cb-40",
+      "title": "Eleições 2026: Ficha de Clariana Barao (DC)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/clariana-barao-280002552484.shtml",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Ficha do candidato com dados do TSE: advogada nascida em Cuiabá (1987), formada pela Univag, presidiu comissão de assistência social na OAB, filiou-se ao DC e assumiu em 2026 a presidência do diretório estadual em MT."
+    },
+    {
+      "id": "src-cb-43",
+      "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6x1",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista ao vivo; a candidata falou sobre plano de governo, reforma do STF, revisão dos processos de 8 de janeiro e fim da escala 6x1."
+    },
+    {
+      "id": "src-cb-41",
+      "title": "Eleições 2026: Clariana Barão defende diálogo e promete 'governo para o Brasil'",
+      "publisher": "Gazeta de São Paulo",
+      "url": "https://www.gazetasp.com.br/politica/eleicoes-2026-clariana-barao-defende-dialogo-e-promete-governo-para-o-brasil/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026); entrevista exclusiva em São Paulo sobre proteção às mulheres, segurança pública, crime organizado e polarização."
+    },
+    {
+      "id": "src-cb-60",
+      "title": "Seis planos à direita: o que dizem os documentos que quase ninguém leu",
+      "publisher": "Contexto Brasil",
+      "url": "https://contextobrasil.com.br/seis-planos-a-direita-o-que-dizem-os-documentos-que-quase-ninguem-leu/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Analisa o documento do DC como versão preliminar de 15 páginas, com seis capítulos e sem diagnóstico do país."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -1947,6 +1997,656 @@
     "propostas_total (30 promessas / 155 ações) é contagem do dossiê independente Plano Aberto; o PDF registrado não numera propostas e a página de propostas do TSE bloqueia leitura automatizada.",
     "Custos, prazos e metas por proposta não constam do plano; os percentuais de custo/prazo/dependência do Congresso são contagens sobre as 9 propostas-chave desta ficha.",
     "equipe_gerida sem base quantificada (nunca ocupou cargo público): not_applicable, sem proxy com número publicado.",
-    "Páginas exatas do plano para cada promessa constam do dossiê de terceiro (Plano Aberto), não conferidas na fonte primária."
-  ]
+    "Páginas exatas do plano para cada promessa constam do dossiê de terceiro (Plano Aberto), não conferidas na fonte primária.",
+    "leonardo-avalanche, clariana-barao e augusto-cury (lideranca-equipes) e samara-martins (em todas as capacidades): nenhum dos partidos ou campanhas publica organograma, quadro de pessoal ou número de integrantes de equipe; as evidências de formação e coordenação de equipes se apoiam em atos nominais (indicação de vice, nomeação de diretórios, substituição de marqueteiro) e em estrutura empresarial, quando existe.",
+    "renan-santos e samara-martins: partidos não publicam balanço de campanha consolidado; números de arrecadação citados são de levantamentos parciais de imprensa com data de referência (g1, 05/07/2026) e não do encerramento da campanha.",
+    "clariana-barao: a coordenação do grupo de voluntários nas enchentes do Rio Grande do Sul (2024) e a presidência de comissão na OAB de Várzea Grande constam de perfis de candidatura reproduzidos pela imprensa; não foram localizados relatórios ou atas das duas atividades.",
+    "augusto-cury: os números de tiragem/vendas de livros variam conforme a fonte e a data de referência (11 milhões em 2010; 27 milhões em 2016; mais de 30 milhões em 2017; mais de 40 milhões declarados pela campanha em 2026) e a página própria do autor é a única fonte para os quantitativos de alunos das escolas de gestão da emoção.",
+    "leonardo-avalanche: as negociações partidárias de 2026 (aliança com Marconi Perillo em Goiás e saída posterior da coligação) aparecem em notas e imprensa regional, sem atas, registros de coligação estadual anexados ou documento oficial do partido no pool de fontes desta rodada.",
+    "clariana-barao e augusto-cury: as datas exatas de publicação de algumas reportagens de 2026 (Gazeta de São Paulo, Potência MT, site próprio do autor) não foram capturadas; os campos publishedAt registram apenas o ano, com nota na fonte.",
+    "Custo, compensação fiscal e cronograma por meta/prioridade não estão declarados nos documentos registrados de nenhum dos cinco candidatos analisados neste bloco; o bloco PROJETO DE PAÍS registra apenas o que é declarado.",
+    "leonardo-avalanche: não foi localizada posição documentada de política externa ou sobre clima em fontes 2025-2026; o plano registrado não tem capítulo desses temas.",
+    "augusto-cury: nomes da equipe econômica não divulgados por decisão declarada do candidato (Valor International, 04/09/2026).",
+    "clariana-barao: documento autodeclarado preliminar; sem diagnóstico, linha de base e metas numéricas finais; total de promessas não contado item a item (dossiê independente enumera ao menos 30).",
+    "samara-martins: registro no TSE foi feito com a versão de 2022 do programa e depois corrigido; a versão ampliada de 67 páginas não consta como o arquivo registrado no TSE nas fontes consultadas (o link oficial do TSE retornou bloqueio e o texto foi lido em espelho público da campanha).",
+    "renan-santos: apenas o resumo executivo de 51 páginas do Livro Amarelo está público; a obra integral (mais de 500 páginas) não foi analisada."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "Assumiu a presidência do diretório estadual do DC em Mato Grosso e, entre julho e agosto de 2026, foi conduzida à candidatura presidencial após duas desistências na legenda, com aprovação em reunião nacional de 08/07 e convenção de 05/08/2026. Registrou o programa de governo 'Proteger Hoje, Transformar o Amanhã' no TSE e cumpriu agenda de campanha em Mato Grosso, Pernambuco e Paraíba. Antes da candidatura, coordenou grupo de voluntários no auxílio a vítimas das enchentes do Rio Grande do Sul (2024) e presidiu comissão de assistência social da OAB de Várzea Grande.",
+      "coverageNote": "Trajetória sem cargo público ou executivo anterior; as evidências vêm da atuação partidária estadual, de trabalho voluntário e da própria campanha presidencial de 2026, com fontes de imprensa e dados do TSE, sem documentos internos de gestão.",
+      "evidences": [
+        {
+          "id": "ev-cap-cb-01",
+          "kind": "historico",
+          "title": "Montagem da candidatura presidencial após desistências na legenda",
+          "role": "presidente do diretório estadual do DC em Mato Grosso, apresentada pela direção estadual e aprovada em reunião nacional",
+          "complexity": "alcance nacional; aprovação por dirigentes e presidentes de 21 diretórios estaduais em 08/07/2026; oficialização em convenção nacional em 05/08/2026, no último dia do prazo de convenções",
+          "outcome": "chapa Clariana Barão/Fabiana Torquato oficializada e registro deferido pelo TSE em 11/09/2026",
+          "period": "2026",
+          "context": "Substituição de Joaquim Barbosa, que desistiu em julho, e de Aldo Rebelo, que havia sido lançado em janeiro e depois passou a coordenar a campanha de outro presidenciável.",
+          "sources": [
+            {
+              "id": "src-cb-08",
+              "title": "DC oficializa Clariana Barão como candidata à Presidência",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção nacional; chapa exclusivamente feminina; aprovação por 21 diretórios em 08/07."
+            },
+            {
+              "id": "src-cb-07",
+              "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+              "publishedAt": "2026-08-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Entrevista de 39min45s; idade, naturalidade, formação e 'disputa pela 1ª vez uma eleição'."
+            },
+            {
+              "id": "src-cb-01",
+              "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+              "publishedAt": "2026-09-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Chapa Clariana Barão/Fabiana Torquato deferida na sessão virtual encerrada em 11/09/2026."
+            },
+            {
+              "id": "src-cb-42",
+              "title": "Partido DC aposta em renovação e anuncia advogada de MT à presidência da República",
+              "publisher": "Potência MT",
+              "url": "https://potenciamt.com.br/noticia/2696/partido-dc-aposta-em-renovacao-e-anuncia-advogada-de-mt-a-presidencia-da-republica",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026). Anúncio após a desistência de Joaquim Barbosa; a então presidente do diretório estadual do DC em MT foi apresentada como candidata."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-cb-02",
+          "kind": "historico",
+          "title": "Coordenação de grupo de voluntários no auxílio às vítimas das enchentes do Rio Grande do Sul",
+          "role": "coordenadora do grupo de voluntários",
+          "complexity": "evento de alcance estadual (Rio Grande do Sul), com cerca de 2,4 milhões de pessoas afetadas pela catástrofe de maio de 2024",
+          "outcome": "auxílio prestado às vítimas; informação baseada em perfil oficial divulgado na candidatura e reproduzido por veículo público",
+          "period": "2024",
+          "context": "Atuação voluntária fora da estrutura partidária, em situação de emergência.",
+          "sources": [
+            {
+              "id": "src-cb-03",
+              "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+              "publishedAt": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+            },
+            {
+              "id": "src-cb-15",
+              "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência (perfil)",
+              "publisher": "Blog do Doc",
+              "url": "https://blogdodoc.com/2026/08/17/clariana-barao-e-a-candidata-do-democracia-crista-a-presidencia",
+              "publishedAt": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Univag, OAB de Várzea Grande e enchentes do RS em 2024."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-cb-03",
+          "kind": "historico",
+          "title": "Presidência de comissão de assistência social na OAB de Várzea Grande",
+          "role": "presidente da Comissão de Solidariedade e Assistência Social da OAB de Várzea Grande (MT)",
+          "complexity": "alcance municipal, no âmbito de subseção da Ordem dos Advogados do Brasil",
+          "outcome": "comissão presidida; não há registro público de relatório ou entrega específica do período",
+          "period": "não informado",
+          "context": "Atuação institucional em entidade profissional, anterior à candidatura.",
+          "sources": [
+            {
+              "id": "src-cb-03",
+              "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+              "publishedAt": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+            },
+            {
+              "id": "src-cb-40",
+              "title": "Eleições 2026: Ficha de Clariana Barao (DC)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/clariana-barao-280002552484.shtml",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Ficha do candidato com dados do TSE: advogada nascida em Cuiabá (1987), formada pela Univag, presidiu comissão de assistência social na OAB, filiou-se ao DC e assumiu em 2026 a presidência do diretório estadual em MT."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "ev-cap-cb-04",
+          "kind": "historico",
+          "title": "Registro do programa de governo e apresentação de propostas",
+          "role": "candidata à Presidência pelo DC",
+          "complexity": "documento 'Proteger Hoje, Transformar o Amanhã' registrado no TSE; propostas apresentadas para seis áreas em entrevistas de alcance nacional (Rádio Nacional, Jornal Nacional, Poder360)",
+          "outcome": "programa registrado na Justiça Eleitoral e propostas apresentadas em entrevistas de TV e rádio entre agosto e setembro de 2026",
+          "period": "2026",
+          "context": "Primeira candidatura da candidata, com necessidade de formalizar programa em prazo de convenções.",
+          "sources": [
+            {
+              "id": "src-cb-19",
+              "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+              "publisher": "TSE — Eleições 2026",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "PDF do plano com matriz de implementação por horizontes."
+            },
+            {
+              "id": "src-cb-04",
+              "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+            },
+            {
+              "id": "src-cb-12",
+              "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+              "publisher": "g1 (Globo) — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+              "publishedAt": "2026-09-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+            },
+            {
+              "id": "src-cb-43",
+              "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6x1",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+              "publishedAt": "2026-08-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Entrevista ao vivo; a candidata falou sobre plano de governo, reforma do STF, revisão dos processos de 8 de janeiro e fim da escala 6x1."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-cb-05",
+          "kind": "historico",
+          "title": "Agenda de campanha nacional com deslocamentos e eventos locais",
+          "role": "candidata à Presidência",
+          "complexity": "agendas cumpridas em Mato Grosso (Cuiabá), Pernambuco (Caruaru, Alto do Moura) e Paraíba, além de entrevistas em São Paulo",
+          "outcome": "agendas realizadas com cobertura de imprensa local e nacional; partido sem bancada na Câmara dos Deputados para sustentar a campanha",
+          "period": "2026",
+          "context": "Campanha de legenda sem representação parlamentar, apoiada em diretórios estaduais e agendas regionais.",
+          "sources": [
+            {
+              "id": "src-cb-33",
+              "title": "Clariana Barão faz campanha em Cuiabá e afirma que vai criar centros especializados no atendimento a mulheres vítimas de violência",
+              "publisher": "g1 (Globo) / Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/27/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-faz-campanha-em-cuiaba.ghtml",
+              "publishedAt": "2026-08-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-30",
+              "title": "Clariana Barão, candidata do Democracia Cristã à Presidência, faz campanha em Pernambuco (empreendedorismo e Região Nordeste)",
+              "publisher": "g1 (Globo) / Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/18/clariana-barao-candidata-do-democracia-crista-a-presidencia-faz-campanha-em-pernambuco.ghtml",
+              "publishedAt": "2026-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-32",
+              "title": "Candidata à Presidência, Clariana Barão cumpre agenda na Paraíba (entrevistas, almoço e inauguração de espaço de campanha)",
+              "publisher": "Portal Arapuan",
+              "url": "https://portalarapuan.com.br/candidata-a-presidencia-clariana-barao-cumpre-agenda-na-paraiba/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-31",
+              "title": "Clariana Barão encerra agenda em Caruaru com visita ao Alto do Moura e destaca força do artesanato",
+              "publisher": "Francês News",
+              "url": "https://francesnews.com.br/post/2026/09/26/39659-no-alto-do-moura-clariana-barao-destaca-forca-do-artesanato-e-encerra-agenda-em-caruaru",
+              "publishedAt": "2026-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "Foi aprovada como candidata em reunião nacional do DC em Brasília, em 08/07/2026, com dirigentes e presidentes de 21 diretórios estaduais, após três trocas de candidato na legenda. A candidatura foi oficializada em convenção nacional (05/08/2026) em chapa 100% feminina, com o partido concorrendo isolado, sem coligação. Em entrevistas e agendas, declarou rejeição ao extremismo e defesa do diálogo, com propostas apresentadas em veículos de alcance nacional e agendas regionais.",
+      "coverageNote": "As evidências de articulação se limitam ao processo interno do DC em 2026 e a entrevistas públicas; não há registro de negociação com outras legendas nem de acordos formais conduzidos pela candidata.",
+      "evidences": [
+        {
+          "id": "ev-cap-cb-06",
+          "kind": "historico",
+          "title": "Aprovação da candidatura por diretórios estaduais do DC",
+          "role": "candidata apresentada pela direção estadual de Mato Grosso e submetida à reunião nacional",
+          "complexity": "21 diretórios estaduais representados na reunião de 08/07/2026, em Brasília; definição após a desistência de Joaquim Barbosa",
+          "outcome": "nome aprovado e oficializado na convenção nacional de 05/08/2026",
+          "period": "2026",
+          "context": "Partido que precisou recompor sua chapa presidencial às vésperas das convenções.",
+          "sources": [
+            {
+              "id": "src-cb-08",
+              "title": "DC oficializa Clariana Barão como candidata à Presidência",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção nacional; chapa exclusivamente feminina; aprovação por 21 diretórios em 08/07."
+            },
+            {
+              "id": "src-cb-07",
+              "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+              "publishedAt": "2026-08-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Entrevista de 39min45s; idade, naturalidade, formação e 'disputa pela 1ª vez uma eleição'."
+            },
+            {
+              "id": "src-cb-03",
+              "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+              "publishedAt": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-cb-07",
+          "kind": "historico",
+          "title": "Composição da chapa em acordo com a direção nacional e escolha de vice de outro estado",
+          "role": "cabeça de chapa; vice Fabiana Torquato, advogada de São Paulo",
+          "complexity": "chapa exclusivamente feminina, sem coligação com outros partidos; uma das duas chapas presidenciais do pleito de 2026 encabeçadas por mulheres",
+          "outcome": "chapa registrada e deferida pelo TSE em 11/09/2026",
+          "period": "2026",
+          "context": "Composição interna entre direção estadual de Mato Grosso e direção nacional, com indicação de vice de outro estado.",
+          "sources": [
+            {
+              "id": "src-cb-29",
+              "title": "DC oficializa Clariana Barão como candidata à Presidência (chapa formada exclusivamente por mulheres)",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-34",
+              "title": "DC define chapa feminina com a advogada Clariana Barão para presidente",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121056/dc-define-chapa-feminina-com-a-advogada-clariana-barao-para-presidente",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-26",
+              "title": "Clariana Barão 27 — candidata a presidente pelo DC: partido isolado; registro nº 280002552484",
+              "publisher": "ND Mais",
+              "url": "https://ndmais.com.br/eleicoes/2026/candidatos/brasil/presidente/27-clariana-barao/",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-cb-08",
+          "kind": "historico",
+          "title": "Apresentação pública de posições e propostas em veículos de alcance nacional",
+          "role": "candidata à Presidência",
+          "complexity": "entrevista de 39 minutos ao Poder360 (25/08/2026), participação no Jornal Nacional (05/09/2026) e entrevista à Gazeta de São Paulo",
+          "outcome": "posições apresentadas sobre reforma do STF, escala 6x1, proteção à mulher, transferência de renda e ajuste fiscal",
+          "period": "2026",
+          "context": "Exposição em mídia nacional com partido sem bancada no Congresso e com tempo reduzido de propaganda.",
+          "sources": [
+            {
+              "id": "src-cb-43",
+              "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6x1",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+              "publishedAt": "2026-08-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Entrevista ao vivo; a candidata falou sobre plano de governo, reforma do STF, revisão dos processos de 8 de janeiro e fim da escala 6x1."
+            },
+            {
+              "id": "src-cb-12",
+              "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+              "publisher": "g1 (Globo) — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+              "publishedAt": "2026-09-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+            },
+            {
+              "id": "src-cb-41",
+              "title": "Eleições 2026: Clariana Barão defende diálogo e promete 'governo para o Brasil'",
+              "publisher": "Gazeta de São Paulo",
+              "url": "https://www.gazetasp.com.br/politica/eleicoes-2026-clariana-barao-defende-dialogo-e-promete-governo-para-o-brasil/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026); entrevista exclusiva em São Paulo sobre proteção às mulheres, segurança pública, crime organizado e polarização."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-cb-09",
+          "kind": "historico",
+          "title": "Agenda com lideranças e entidades locais em estados do Nordeste e Centro-Oeste",
+          "role": "candidata à Presidência",
+          "complexity": "agendas em Pernambuco (entrevistas e visita ao Alto do Moura, em Caruaru), Paraíba (entrevistas, almoço e encontros) e Mato Grosso (Cuiabá)",
+          "outcome": "agendas cumpridas com cobertura local; sem registro de apoio formal de outras legendas ou de lideranças estaduais",
+          "period": "2026",
+          "context": "Circulação em estados onde o partido tem diretórios, buscando interlocução com setores locais.",
+          "sources": [
+            {
+              "id": "src-cb-30",
+              "title": "Clariana Barão, candidata do Democracia Cristã à Presidência, faz campanha em Pernambuco (empreendedorismo e Região Nordeste)",
+              "publisher": "g1 (Globo) / Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/18/clariana-barao-candidata-do-democracia-crista-a-presidencia-faz-campanha-em-pernambuco.ghtml",
+              "publishedAt": "2026-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-31",
+              "title": "Clariana Barão encerra agenda em Caruaru com visita ao Alto do Moura e destaca força do artesanato",
+              "publisher": "Francês News",
+              "url": "https://francesnews.com.br/post/2026/09/26/39659-no-alto-do-moura-clariana-barao-destaca-forca-do-artesanato-e-encerra-agenda-em-caruaru",
+              "publishedAt": "2026-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-32",
+              "title": "Candidata à Presidência, Clariana Barão cumpre agenda na Paraíba (entrevistas, almoço e inauguração de espaço de campanha)",
+              "publisher": "Portal Arapuan",
+              "url": "https://portalarapuan.com.br/candidata-a-presidencia-clariana-barao-cumpre-agenda-na-paraiba/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-33",
+              "title": "Clariana Barão faz campanha em Cuiabá e afirma que vai criar centros especializados no atendimento a mulheres vítimas de violência",
+              "publisher": "g1 (Globo) / Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/27/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-faz-campanha-em-cuiaba.ghtml",
+              "publishedAt": "2026-08-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Preside o diretório estadual do DC em Mato Grosso, estrutura que apresentou seu nome à candidatura presidencial em 2026. Formou a chapa com a advogada Fabiana Torquato como vice, em composição exclusivamente feminina, e manteve campanha itinerante com diretórios estaduais. A coordenação de equipes documentada anterior à política é a de grupo de voluntários no auxílio às enchentes do Rio Grande do Sul (2024) e a presidência de comissão na OAB de Várzea Grande; não há publicação de quadro de pessoal ou organograma da campanha.",
+      "coverageNote": "Sem cargos executivos ou legislativos anteriores e sem publicação de estrutura de campanha: as evidências de formação e coordenação de equipes se limitam a diretório partidário estadual, comissão de OAB, grupo de voluntários e composição da chapa.",
+      "evidences": [
+        {
+          "id": "ev-cap-cb-10",
+          "kind": "historico",
+          "title": "Presidência do diretório estadual do DC em Mato Grosso",
+          "role": "presidente do diretório estadual; nome apresentado pela direção estadual (Marco Marrafon, responsável pela filiação, e Etevaldo Balbino, 1º vice-presidente estadual)",
+          "complexity": "alcance estadual (Mato Grosso); diretório que indicou a candidata à direção nacional",
+          "outcome": "assumiu a presidência do diretório em 2026 e teve o nome levado à reunião nacional de 08/07/2026",
+          "period": "2026",
+          "context": "Atuação em estrutura partidária estadual, sem histórico anterior de mandato.",
+          "sources": [
+            {
+              "id": "src-cb-03",
+              "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+              "publishedAt": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+            },
+            {
+              "id": "src-cb-07",
+              "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+              "publishedAt": "2026-08-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Entrevista de 39min45s; idade, naturalidade, formação e 'disputa pela 1ª vez uma eleição'."
+            },
+            {
+              "id": "src-cb-40",
+              "title": "Eleições 2026: Ficha de Clariana Barao (DC)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/clariana-barao-280002552484.shtml",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Ficha do candidato com dados do TSE: advogada nascida em Cuiabá (1987), formada pela Univag, presidiu comissão de assistência social na OAB, filiou-se ao DC e assumiu em 2026 a presidência do diretório estadual em MT."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-cb-11",
+          "kind": "historico",
+          "title": "Coordenação de equipe de voluntários em situação de emergência",
+          "role": "coordenadora do grupo de voluntários",
+          "complexity": "grupo formado para auxiliar vítimas das enchentes de maio de 2024 no Rio Grande do Sul; mobilização nacional em torno da catástrofe",
+          "outcome": "auxílio prestado às vítimas; informação de perfil, sem relatório público de execução",
+          "period": "2024",
+          "context": "Coordenação de pessoas fora de estrutura institucional, em cenário de calamidade.",
+          "sources": [
+            {
+              "id": "src-cb-03",
+              "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+              "publishedAt": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+            },
+            {
+              "id": "src-cb-15",
+              "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência (perfil)",
+              "publisher": "Blog do Doc",
+              "url": "https://blogdodoc.com/2026/08/17/clariana-barao-e-a-candidata-do-democracia-crista-a-presidencia",
+              "publishedAt": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Univag, OAB de Várzea Grande e enchentes do RS em 2024."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-cb-12",
+          "kind": "historico",
+          "title": "Formação de chapa e organização da campanha presidencial",
+          "role": "cabeça de chapa, com apoio da direção nacional do DC",
+          "complexity": "chapa 100% feminina registrada; campanha sustentada por diretórios estaduais, sem bancada parlamentar na Câmara dos Deputados (0/513)",
+          "outcome": "chapa registrada e campanha em curso com agendas em pelo menos três estados entre agosto e setembro de 2026",
+          "period": "2026",
+          "context": "Montagem de campanha nacional com estrutura partidária reduzida e sem coligação.",
+          "sources": [
+            {
+              "id": "src-cb-01",
+              "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+              "publishedAt": "2026-09-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Chapa Clariana Barão/Fabiana Torquato deferida na sessão virtual encerrada em 11/09/2026."
+            },
+            {
+              "id": "src-cb-10",
+              "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Bancada 2026 (0 federais, 0 senadores, 251 vereadores), filiados, história da legenda."
+            },
+            {
+              "id": "src-cb-32",
+              "title": "Candidata à Presidência, Clariana Barão cumpre agenda na Paraíba (entrevistas, almoço e inauguração de espaço de campanha)",
+              "publisher": "Portal Arapuan",
+              "url": "https://portalarapuan.com.br/candidata-a-presidencia-clariana-barao-cumpre-agenda-na-paraiba/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "O plano registrado no TSE ('Proteger Hoje, Transformar o Amanhã', 15 páginas) organiza a ação pública em seis capítulos — mulheres e crianças, economia, educação, segurança, saúde e 'Estado que funciona' —, com 'Mulheres e Crianças em Primeiro Lugar' como eixo transversal, e o próprio documento se define como 'versão estruturada para desenvolvimento programático, debate técnico e posterior definição de metas quantitativas'. Critério transversal declarado: cada política deve explicitar impactos esperados sobre mulheres, crianças e famílias, custo fiscal, responsabilidade institucional, riscos, salvaguardas de direitos e método de avaliação.",
+    "nationalPriorities": [
+      "mulheres e crianças em primeiro lugar",
+      "economia (responsabilidade fiscal e ambiente de negócios)",
+      "educação (alfabetização e ensino técnico)",
+      "segurança (fronteiras e combate a facções)",
+      "saúde (atenção primária, filas e telemedicina)",
+      "Estado que funciona (governo digital e federalismo de resultados)"
+    ],
+    "developmentModel": "O plano atribui ao crescimento econômico a função de financiar proteção social ('prosperidade que protege') e organiza o modelo em três frentes: responsabilidade fiscal com revisão de gastos e subsídios indevidos, transparência de benefícios e avaliação de impacto de programas; ambiente de negócios com simplificação regulatória, digitalização, crédito produtivo e garantias para pequenos negócios e compras públicas acessíveis a micro e pequenas empresas; e infraestrutura por concessões, PPPs e planejamento de longo prazo (rodovias com manutenção baseada em desempenho, ferrovias, hidrovias, portos e cabotagem), além de segurança energética, conectividade e ambiente para indústria e economia digital. O Estado é descrito como prestador de serviços 100% digitais ('dados pedidos uma única vez', atendimento multicanal para quem está offline) e como coordenador federativo, com pactos com estados e municípios, consórcios e transferências associadas a indicadores 'quando juridicamente cabível'. Tecnologia aparece em IA com governança, auditoria e privacidade (regulação de filas no SUS, apoio clínico e administrativo) e em telemedicina integrada à rede; meio ambiente não tem capítulo próprio — comparece no eixo de energia e conectividade e na política de segurança (crimes contra o meio ambiente não são detalhados). Desigualdade é tratada prioritariamente pela proteção de mulheres, crianças e primeira infância e pela autonomia econômica das mulheres (microcrédito, qualificação, formalização). O documento não apresenta estimativa de custo por política.",
+    "sources": [
+      {
+        "id": "src-cb-19",
+        "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+        "publisher": "TSE — Eleições 2026",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF do plano com matriz de implementação por horizontes."
+      },
+      {
+        "id": "src-cb-05",
+        "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Título do eixo 'Mulheres e Crianças em Primeiro Lugar' e Rede Nacional de Proteção."
+      },
+      {
+        "id": "src-cb-03",
+        "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+        "publishedAt": "2026-08-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+      },
+      {
+        "id": "src-cb-12",
+        "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+        "publisher": "g1 (Globo) — Jornal Nacional",
+        "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+        "publishedAt": "2026-09-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+      },
+      {
+        "id": "src-cb-17",
+        "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+        "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+        "url": "https://planoaberto.org/candidatos/clariana-barao",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Índice numerado de promessas (até 30) e avaliação de viabilidade de execução."
+      },
+      {
+        "id": "src-cb-60",
+        "title": "Seis planos à direita: o que dizem os documentos que quase ninguém leu",
+        "publisher": "Contexto Brasil",
+        "url": "https://contextobrasil.com.br/seis-planos-a-direita-o-que-dizem-os-documentos-que-quase-ninguem-leu/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Analisa o documento do DC como versão preliminar de 15 páginas, com seis capítulos e sem diagnóstico do país."
+      }
+    ],
+    "evidenceStatus": "parcial",
+    "confidenceLevel": "medium",
+    "methodology": "Extração direta do documento registrado no TSE (15 páginas, lido integralmente a partir do PDF oficial, obtido via espelho de arquivo), com complemento de Agência Brasil (propostas para seis áreas; prioridade à mulher e à infância), Jornal Nacional, Poder360, Plano Aberto e análise do Contexto Brasil. As seis prioridades listadas são os seis capítulos do próprio documento (não são inferência nossa). Evidência marcada como parcial e confiança média porque o documento se autodeclara preliminar ('posterior definição de metas quantitativas'), não traz diagnóstico, linha de base, custos nem metas numéricas finais; a contagem item a item de promessas não foi refeita pela equipe (o dossiê independente Plano Aberto enumera ao menos 30 promessas numeradas)."
+  }
 }

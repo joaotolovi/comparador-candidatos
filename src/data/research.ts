@@ -1,6 +1,6 @@
 // ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
 // 13 candidato(s) com pesquisa profunda; os demais ficam só no seed.
-// Gerado em: 2026-09-29T19:02:51.310Z
+// Gerado em: 2026-09-29T19:14:02.012Z
 import type { Candidate } from "@/types";
 
 export const researched: Partial<Candidate>[] = [
@@ -965,7 +965,641 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "low"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "'O Brasil dos Nossos Sonhos' (200 páginas, 18 projetos) parte do diagnóstico de uma 'sociedade polarizada e adoecida' e propõe 'cultura da paz' e 'gestão da emoção' como eixos de governo, com horizonte declarado de déficit público próximo de zero no mandato e redução gradual da dívida. A projeção de país combina Estado digital e enxuto com educação, empreendedorismo distribuído, telessaúde, energias renováveis, terras raras e proteção de florestas; o candidato propõe também semipresidencialismo e mandato de oito anos para ministros do STF.",
+      "nationalPriorities": [
+        "educação (tempo integral e gestão da emoção)",
+        "saúde (telessaúde e prevenção do câncer)",
+        "empreendedorismo e economia distribuída",
+        "segurança pública",
+        "meio ambiente e energias renováveis",
+        "ciência, tecnologia e terras raras",
+        "combate à fome"
+      ],
+      "developmentModel": "O documento abre com teses de responsabilidade fiscal e crescimento (déficit próximo de zero, controle rigoroso de gastos com metas de eficiência por ministério, redução gradual e sustentável da dívida, reforma administrativa com estudos para redução do número de ministérios, segurança jurídica e simplificação tributária) e de 'Estado eficiente e digital' (governo totalmente digital, avaliação permanente de políticas públicas). Na economia, declara compromisso com carga tributária menor ao fim da transição da reforma tributária, avaliação caso a caso dos tratamentos diferenciados, revisão do formato de divisão federativa dos tributos com 'menos União Federal e mais municípios' e reajuste do salário mínimo pela inflação mais 1% ao ano, com redução declarada de 8 a 10 ministérios. Ao setor privado e à sociedade atribui o eixo de empreendedorismo (ministério do empreendedorismo, 10 mil escolas de empreendedorismo, Fundo Nacional do Empreendedor, cooperativismo, agroindústria, exportação e 'embaixadas empreendedoras'); à tecnologia, telemedicina ('maior telemedicina do mundo'), criação de ministério da IA e terras raras e minerais estratégicos (Petra BR); ao meio ambiente, 'Floresta Viva', hidrogênio verde e energias renováveis; à desigualdade, projetos de primeira infância, neuroinclusão, prevenção do suicídio ('Você é Insubstituível') e combate mundial à fome com fundo internacional e apoio à agricultura familiar. Segurança aparece como integração nacional das forças e núcleos municipais contra o crime organizado e como 'Força Alerta Total' (FATO); o plano também propõe semipresidencialismo e mandato de oito anos para ministros do STF.",
+      "sources": [
+        {
+          "id": "src-ac-23",
+          "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+          "publisher": "Poder360 (cópia do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-ac-05",
+          "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+          "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+        },
+        {
+          "id": "src-ac-06",
+          "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        },
+        {
+          "id": "src-ac-19",
+          "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+          "publisher": "GZH (Estadão Conteúdo)",
+          "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+          "publishedAt": "2026-08-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+        },
+        {
+          "id": "src-ac-37",
+          "title": "Cury defende mudanças no Bolsa Família e quer criar Ministério da IA",
+          "publisher": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/2026/cury-defende-mudancas-no-bolsa-familia-e-quer-criar-ministerio-da-ia-202608292154",
+          "publishedAt": "2026-08-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-ac-38",
+          "title": "O que os candidatos prometem para o meio ambiente",
+          "publisher": "Nexo Jornal",
+          "url": "https://www.nexojornal.com.br/expresso/2026/09/22/candidatos-a-presidencia-2026-promessas-meio-ambiente",
+          "publishedAt": "2026-09-22",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Capítulo 'Floresta viva' do plano de Cury."
+        },
+        {
+          "id": "src-ac-51",
+          "title": "Cury avoids naming economy chief to sidestep 'controversy' (recusa em anunciar nomes do ministério; promete convidar especialistas)",
+          "publisher": "Valor International",
+          "url": "https://valorinternational.globo.com/politics/news/2026/09/04/cury-avoids-naming-economy-chief-to-sidestep-controversy.ghtml",
+          "publishedAt": "2026-09-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "methodology": "Extração direta do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas, lido a partir do espelho público em PDF; sumário com 18 projetos e capítulo final de apresentação do candidato), com complemento de Agência Brasil (18 áreas), GZH, Band e Nexo. As sete prioridades listadas correspondem a capítulos próprios do documento e a eixos repetidos em entrevistas de 2026. O que não foi possível extrair: custo e fonte de financiamento por projeto, metas quantificadas de cada projeto (o documento prioriza teses e programas; a meta quantitativa mais explícita localizada é o ganho real do salário mínimo) e os nomes da equipe econômica, que o candidato declarou evitar divulgar.",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Criou a Teoria da Inteligência Multifocal e a partir dela fundou a Escola da Inteligência, programa de educação socioemocional cujo controle foi adquirido pela Arco Educação em 2020, em negócio que envolveu cerca de 900 escolas e 330 mil alunos. A metodologia foi licenciada para redes públicas em dez estados, em 25 contratos e instrumentos identificados em levantamento de imprensa. Mantém produção editorial própria (mais de 50 títulos) e o programa de governo 'O Brasil dos Nossos Sonhos', com cerca de 200 páginas e propostas para 18 áreas, registrado no TSE.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-ac-01",
+            "kind": "historico",
+            "title": "Criação e desenvolvimento da Escola da Inteligência e venda do controle acionário",
+            "role": "criador da metodologia (Teoria da Inteligência Multifocal) e fundador da empresa; a operação societária foi conduzida pela Arco Educação como adquirente",
+            "complexity": "alcance nacional; programa aplicado em cerca de 900 escolas e 330 mil alunos segundo o comunicado da aquisição; empresa com aproximadamente 116 colaboradores em 2026; negócio de R$ 480 milhões (60% por R$ 288 milhões segundo o Valor)",
+            "outcome": "negócio fechado em 02/12/2020 após aprovação do CADE sem condicionantes; a metodologia permaneceu sendo licenciada a redes de ensino depois da venda",
+            "period": "2010-2020",
+            "context": "Construção de um produto educacional proprietário a partir de teoria própria, em mercado de escolas públicas e privadas.",
+            "sources": [
+              {
+                "id": "src-ac-60",
+                "title": "Arco to acquire Escola da Inteligência",
+                "publisher": "Arco Platform Limited / GlobeNewswire",
+                "url": "https://globenewswire.com/news-release/2020/08/28/2085682/0/en/arco-to-acquire-escola-da-intelig%C3%AAncia.html",
+                "publishedAt": "2020-08-28",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Comunicado da companhia adquirente: solução de aprendizagem socioemocional baseada na Teoria da Inteligência Multifocal, criada por Augusto Cury; atendimento declarado de 330 mil alunos em cerca de 900 escolas; pagamento total de R$ 480 milhões; fechamento do negócio em 02/12/2020 após aprovação do CADE sem condicionantes."
+              },
+              {
+                "id": "src-ac-48",
+                "title": "Arco Educação compra 60% da Escola da Inteligência por R$ 288 milhões",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/empresas/noticia/2020/08/28/arco-educacao-compra-60percent-da-escola-da-inteligencia-por-r-288-milhoes.ghtml",
+                "publishedAt": "2020-08-28",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ac-46",
+                "title": "Escola da Inteligência — perfil corporativo: ≈116 colaboradores (-6,5% em um ano), fundada em 2010, sede em Ribeirão Preto",
+                "publisher": "LinkedIn (perfil da empresa)",
+                "url": "https://br.linkedin.com/company/escoladainteligencia",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "transparencia",
+                "notes": "Número declarado pela própria empresa em plataforma corporativa; não é quadro oficial auditado."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ac-02",
+            "kind": "historico",
+            "title": "Licenciamento da metodologia para redes públicas de ensino",
+            "role": "autor e licenciador da metodologia; a comercialização foi feita por empresas parceiras",
+            "complexity": "alcance nacional; 25 contratos e instrumentos em dez estados segundo levantamento da imprensa; cerca de R$ 30 milhões movimentados por empresa sediada em Goiânia, com cinco acordos somando R$ 21,8 milhões em Itajaí (SC)",
+            "outcome": "contratos firmados com municípios e estados em dez unidades da federação; levantamento publicado em setembro de 2026",
+            "period": "2026 (levantamento sobre contratos de anos anteriores)",
+            "context": "Programa educacional associado ao autor transformado em política pública contratada por prefeituras e estados, com questionamentos públicos sobre os contratos.",
+            "sources": [
+              {
+                "id": "src-ac-61",
+                "title": "Empresa de Goiânia movimentou R$ 30 milhões com metodologia de Augusto Cury em contratos públicos",
+                "publisher": "Jornal Opção",
+                "url": "https://www.jornalopcao.com.br/ultimas-noticias/empresa-de-goiania-movimentou-r-30-milhoes-com-metodologia-de-augusto-cury-em-contratos-publicos-865216/",
+                "publishedAt": "2026-09-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Levantamento aponta 25 contratos e instrumentos em dez estados; maior volume em Itajaí, com cinco acordos somando R$ 21,8 milhões."
+              },
+              {
+                "id": "src-ac-47",
+                "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+                "publisher": "Revista Fórum — Fórum Investiga",
+                "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+                "publishedAt": "2026-09-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ac-03",
+            "kind": "historico",
+            "title": "Produção e publicação editorial própria",
+            "role": "autor das obras",
+            "complexity": "alcance internacional; mais de 50 livros publicados e tradução para cerca de 70 países; números de vendas declarados variam conforme a data de referência (11 milhões em 2010; 27 milhões em 2016; mais de 30 milhões em 2017)",
+            "outcome": "obras publicadas por editoras de porte nacional e adaptação de 'O Vendedor de Sonhos' para o cinema em 2016",
+            "period": "2010-2026",
+            "context": "Projeto editorial de longa duração sustentado por vendas no mercado brasileiro e licenciamento no exterior.",
+            "sources": [
+              {
+                "id": "src-ac-07",
+                "title": "Augusto Cury — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; vendas devem ser citadas com período de referência."
+              },
+              {
+                "id": "src-ac-34",
+                "title": "Quem é Augusto Cury? Conheça a trajetória do escritor e psiquiatra",
+                "publisher": "QueroBolsa (Revista)",
+                "url": "https://querobolsa.com.br/revista/quem-e-augusto-cury",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ac-64",
+                "title": "Augusto Cury — O autor mais lido da última década (números declarados pela própria campanha)",
+                "publisher": "Site do autor Augusto Cury",
+                "url": "https://augusto-cury-site.webflow.io/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Página própria do autor/candidato: +30 milhões de livros vendidos, publicação em +70 países, +40 mil alunos da Academia de Gestão da Emoção e +300 mil crianças e adolescentes em programa Escola da Inteligência. Números autodeclarados, sem auditoria independente."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ac-04",
+            "kind": "historico",
+            "title": "Registro do programa de governo no TSE",
+            "role": "candidato à Presidência pelo Avante",
+            "complexity": "documento de aproximadamente 200 páginas com propostas para 18 áreas; registro protocolado em 2026; primeira candidatura do candidato a cargo público",
+            "outcome": "documento registrado na Justiça Eleitoral e analisado pela imprensa; registro da chapa deferido em 11/09/2026",
+            "period": "2026",
+            "context": "Estreia eleitoral, com necessidade de converter produção intelectual própria em documento formal de governo.",
+            "sources": [
+              {
+                "id": "src-ac-01",
+                "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+                "publisher": "TSE — Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva; lista todos os planos registrados, incluindo 'Escritor Augusto Cury / 70 / AVANTE / BRASIL DOS NOSSOS SONHOS'."
+              },
+              {
+                "id": "src-ac-05",
+                "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+              },
+              {
+                "id": "src-ac-23",
+                "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+                "publisher": "Poder360 (cópia do documento da campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-ac-05",
+            "kind": "historico",
+            "title": "Operação da campanha presidencial de 2026",
+            "role": "candidato; vice Júlio Delgado; coordenação de campanha citada no material de campanha",
+            "complexity": "campanha nacional com coligação de dois partidos (Avante e Agir); gastos de campanha declarados de R$ 55,2 mil até setembro de 2026; troca de marqueteiro a poucos dias do início do horário eleitoral",
+            "outcome": "campanha em operação com a substituição do responsável pela comunicação (Leandro Grôppo por Sergio Lima, que já atuava na pré-campanha)",
+            "period": "2026",
+            "context": "Campanha de estreante com estrutura enxuta em gastos declarados, montada entre abril e agosto de 2026.",
+            "sources": [
+              {
+                "id": "src-ac-49",
+                "title": "Gastos de campanha: presidenciáveis já declararam R$ 74 milhões (Cury: R$ 55,2 mil; hospedagem de dois funcionários de segurança e da equipe de apoio)",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-prestacao-parcial-campanha.ghtml",
+                "publishedAt": "2026-09-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ac-62",
+                "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+                "publishedAt": "2026-08-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+              },
+              {
+                "id": "src-ac-42",
+                "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "Antes de se filiar, o candidato relatou encontros com dirigentes de partidos de campos distintos (MDB, PSD, PSDB, Podemos, PSC e Novo) e acabou filiando-se ao Avante em 05/04/2026. A candidatura foi composta com o ex-deputado Júlio Delgado e recebeu apoio formal do Agir, formando a coligação 'Brasil dos Nossos Sonhos'. Em sabatina, convidou publicamente Ronaldo Caiado (PSD) para assumir um Ministério da Segurança Pública e manteve agenda com o eleitorado evangélico, além de recusar anunciar nomes para o ministério para evitar controvérsia.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-ac-06",
+            "kind": "posicao",
+            "title": "Rodada de contatos com partidos antes da filiação",
+            "role": "pré-candidato; os encontros foram relatados pelo próprio candidato",
+            "complexity": "interlocução declarada com seis legendas de campos distintos (MDB, PSD, PSDB, Podemos, PSC e Novo); decisão de filiação anunciada em 05/04/2026",
+            "outcome": "filiação ao Avante e posterior composição da chapa; os encontros não foram confirmados individualmente por cada partido citado",
+            "period": "2026",
+            "context": "Escolha de legenda para viabilizar uma candidatura presidencial sem trajetória partidária anterior.",
+            "sources": [
+              {
+                "id": "src-ac-09",
+                "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+                "publisher": "Metrópoles",
+                "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+                "publishedAt": "2026-04-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Filiação ao Avante; lista de políticos com quem conversou."
+              },
+              {
+                "id": "src-ac-50",
+                "title": "Escritor Augusto Cury se filia ao Avante para disputar a Presidência (afirmou ter conversado com dirigentes de outros partidos, como Gilberto Kassab)",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/eleicoes/2026/escritor-e-psiquiatra-augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+                "publishedAt": "2026-04-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ac-41",
+                "title": "Augusto Cury diz que falou com Kassab sobre disputar a Presidência: 'conversei longamente'",
+                "publisher": "UOL",
+                "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/04/06/conversei-longamente-com-kassab-diz-augusto-cury-sobre-pre-candidatura.ghtm",
+                "publishedAt": "2026-04-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          },
+          {
+            "id": "ev-cap-ac-07",
+            "kind": "historico",
+            "title": "Composição da chapa e obtenção de apoio partidário formal",
+            "role": "cabeça de chapa; vice Júlio Delgado, ex-deputado federal por cinco mandatos",
+            "complexity": "coligação formada por dois partidos (Avante e Agir), sem federação; convenções nacionais em 03/08/2026 (Avante) e 05/08/2026 (Agir)",
+            "outcome": "coligação 'Brasil dos Nossos Sonhos' registrada e chapa deferida pelo TSE em 11/09/2026",
+            "period": "2026",
+            "context": "Necessidade de compor chapa e obter apoio formal de outra legenda em prazo de convenções partidárias.",
+            "sources": [
+              {
+                "id": "src-ac-63",
+                "title": "Campanha presidencial de Augusto Cury em 2026",
+                "publisher": "Wikipédia (pt)",
+                "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Augusto_Cury_em_2026",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Verbete usado como índice: convenção nacional do Avante (03/08/2026), apoio formal do Agir em convenção de 05/08/2026, coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), chapa Cury/Júlio Delgado."
+              },
+              {
+                "id": "src-ac-36",
+                "title": "Augusto Cury Names Júlio Delgado as Running Mate for Brazil Presidency",
+                "publisher": "Today in Brazil (relato da carta à nação divulgada pela CNN Brasil)",
+                "url": "https://todayinbrazil.com/article/augusto-cury-names-julio-delgado-running-mate-msgmzvhp",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ac-42",
+                "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ac-43",
+                "title": "Eleições 2026: ficha do candidato Escritor Augusto Cury (Avante) — coligação 'Brasil dos Nossos Sonhos' (Agir / Avante)",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/escritor-augusto-cury-280002551547.shtml",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Página viva de ficha do candidato; coligação registrada listada como 'BRASIL DOS NOSSOS SONHOS (AGIR / AVANTE)'."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ac-08",
+            "kind": "posicao",
+            "title": "Convite público a adversário de outro campo para cargo de ministro",
+            "role": "candidato à Presidência",
+            "complexity": "convite feito em sabatina de TV aberta (TV Globo, 29/08/2026) a Ronaldo Caiado (PSD), que disputava a mesma eleição",
+            "outcome": "convite declarado publicamente; não há registro de resposta formal ou acordo firmado até 29/09/2026",
+            "period": "2026",
+            "context": "Proposta de composição dirigida a adversário eleitoral, em contexto de disputa pela mesma faixa de eleitorado.",
+            "sources": [
+              {
+                "id": "src-ac-19",
+                "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+                "publisher": "GZH (Estadão Conteúdo)",
+                "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+                "publishedAt": "2026-08-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+              },
+              {
+                "id": "src-ac-50",
+                "title": "Escritor Augusto Cury se filia ao Avante para disputar a Presidência (afirmou ter conversado com dirigentes de outros partidos, como Gilberto Kassab)",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/eleicoes/2026/escritor-e-psiquiatra-augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+                "publishedAt": "2026-04-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          },
+          {
+            "id": "ev-cap-ac-09",
+            "kind": "historico",
+            "title": "Agenda com o eleitorado evangélico",
+            "role": "candidato à Presidência",
+            "complexity": "visita à sede da Assembleia de Deus em São Paulo em 03/09/2026; exposição pública e repercusão em imprensa de circulação nacional",
+            "outcome": "evento realizado; o candidato negou ter pedido votos no evento e afirmou proximidade com o segmento",
+            "period": "2026",
+            "context": "Movimento de aproximação de um eleitorado majoritariamente vinculado a outra candidatura.",
+            "sources": [
+              {
+                "id": "src-ac-39",
+                "title": "Augusto Cury, candidato do Avante à Presidência, visita sede da Assembleia de Deus em São Paulo",
+                "publisher": "G1 / Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/augusto-cury-candidato-do-avante-a-presidencia-visita-sede-da-assembleia-de-deus-em-sao-paulo.ghtml",
+                "publishedAt": "2026-09-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ac-40",
+                "title": "Em evento na Assembleia de Deus, Cury nega ter pedido votos e diz já ser próximo de evangélicos",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/poder/2026/09/em-evento-na-assembleia-de-deus-cury-nega-ter-pedido-votos-e-diz-ja-ser-proximo-de-evangelicos.shtml",
+                "publishedAt": "2026-09-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ac-10",
+            "kind": "posicao",
+            "title": "Recusa em anunciar integrantes do ministério durante a campanha",
+            "role": "candidato à Presidência",
+            "complexity": "declaração de que só anunciaria nomes após a eleição, para evitar controvérsia; equipe de campanha com troca de marqueteiro no mesmo período",
+            "outcome": "nenhum nome de ministério anunciado até 29/09/2026; troca de responsável pela comunicação da campanha em 18/08/2026",
+            "period": "2026",
+            "context": "Escolha de evitar compromissos públicos de composição de governo antes da votação.",
+            "sources": [
+              {
+                "id": "src-ac-51",
+                "title": "Cury avoids naming economy chief to sidestep 'controversy' (recusa em anunciar nomes do ministério; promete convidar especialistas)",
+                "publisher": "Valor International",
+                "url": "https://valorinternational.globo.com/politics/news/2026/09/04/cury-avoids-naming-economy-chief-to-sidestep-controversy.ghtml",
+                "publishedAt": "2026-09-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ac-62",
+                "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+                "publishedAt": "2026-08-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Fundou e dirigiu a Escola da Inteligência, empresa de programa socioemocional com aproximadamente 116 colaboradores e rede declarada de cerca de 900 escolas, cujo controle foi vendido à Arco Educação em 2020. Mantém participações societárias em empresas próprias no Brasil e nos Estados Unidos (Cury Academia Comportamental, Contemplare Investments e Free Mind Publish, informadas ao TSE após correção de declaração). Em 2026, montou a estrutura de campanha presidencial com indicação de vice e troca do responsável pela comunicação. Não há quadro de pessoal ou organograma de campanha publicado.",
+        "coverage": "parcial",
+        "coverageNote": "Não há publicação de organograma ou número de integrantes da equipe de campanha; as evidências de formação e direção de equipes vêm da estrutura empresarial (número de colaboradores, rede de escolas) e de atos nominais de campanha (indicação de vice e substituição do marqueteiro).",
+        "evidences": [
+          {
+            "id": "ev-cap-ac-11",
+            "kind": "historico",
+            "title": "Direção da Escola da Inteligência e rede de escolas associadas",
+            "role": "fundador da empresa e criador da metodologia aplicada",
+            "complexity": "rede declarada de cerca de 900 escolas e 330 mil alunos; aproximadamente 116 colaboradores na empresa em 2026; comercialização por empresas parceiras em dez estados",
+            "outcome": "empresa operou o programa por mais de uma década e teve o controle adquirido pela Arco Educação em dezembro de 2020",
+            "period": "2010-2020",
+            "context": "Estrutura empresarial própria que precisou formar educadores e manter rede de escolas licenciadas.",
+            "sources": [
+              {
+                "id": "src-ac-60",
+                "title": "Arco to acquire Escola da Inteligência",
+                "publisher": "Arco Platform Limited / GlobeNewswire",
+                "url": "https://globenewswire.com/news-release/2020/08/28/2085682/0/en/arco-to-acquire-escola-da-intelig%C3%AAncia.html",
+                "publishedAt": "2020-08-28",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Comunicado da companhia adquirente: solução de aprendizagem socioemocional baseada na Teoria da Inteligência Multifocal, criada por Augusto Cury; atendimento declarado de 330 mil alunos em cerca de 900 escolas; pagamento total de R$ 480 milhões; fechamento do negócio em 02/12/2020 após aprovação do CADE sem condicionantes."
+              },
+              {
+                "id": "src-ac-46",
+                "title": "Escola da Inteligência — perfil corporativo: ≈116 colaboradores (-6,5% em um ano), fundada em 2010, sede em Ribeirão Preto",
+                "publisher": "LinkedIn (perfil da empresa)",
+                "url": "https://br.linkedin.com/company/escoladainteligencia",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "transparencia",
+                "notes": "Número declarado pela própria empresa em plataforma corporativa; não é quadro oficial auditado."
+              },
+              {
+                "id": "src-ac-61",
+                "title": "Empresa de Goiânia movimentou R$ 30 milhões com metodologia de Augusto Cury em contratos públicos",
+                "publisher": "Jornal Opção",
+                "url": "https://www.jornalopcao.com.br/ultimas-noticias/empresa-de-goiania-movimentou-r-30-milhoes-com-metodologia-de-augusto-cury-em-contratos-publicos-865216/",
+                "publishedAt": "2026-09-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Levantamento aponta 25 contratos e instrumentos em dez estados; maior volume em Itajaí, com cinco acordos somando R$ 21,8 milhões."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ac-12",
+            "kind": "historico",
+            "title": "Montagem da equipe de campanha presidencial",
+            "role": "candidato; indicação de Júlio Delgado como vice e contratação de responsáveis pela comunicação",
+            "complexity": "campanha nacional; chapa com dois partidos; substituição do responsável pela comunicação em 18/08/2026, às vésperas do início da propaganda em rádio e TV",
+            "outcome": "equipe recomposta antes do início do horário eleitoral; campanha em curso com coordenação nomeada",
+            "period": "2026",
+            "context": "Campanha de estreante, montada em poucos meses e com a estrutura de comunicação reformulada em plena pré-campanha.",
+            "sources": [
+              {
+                "id": "src-ac-62",
+                "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+                "publishedAt": "2026-08-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+              },
+              {
+                "id": "src-ac-36",
+                "title": "Augusto Cury Names Júlio Delgado as Running Mate for Brazil Presidency",
+                "publisher": "Today in Brazil (relato da carta à nação divulgada pela CNN Brasil)",
+                "url": "https://todayinbrazil.com/article/augusto-cury-names-julio-delgado-running-mate-msgmzvhp",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-ac-42",
+                "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ac-13",
+            "kind": "historico",
+            "title": "Controle e manutenção de empresas próprias",
+            "role": "sócio controlador de empresas nos setores editorial, educacional e de participações",
+            "complexity": "participações no Brasil e em três empresas nos Estados Unidos; estrutura de holding familiar; quadro societário declarado à Justiça Eleitoral com correção posterior",
+            "outcome": "participações declaradas após questionamento da imprensa em 05/09/2026; campanha afirmou que as participações eram inexpressivas no patrimônio",
+            "period": "2026",
+            "context": "Gestão empresarial de estruturas próprias mantida em paralelo à campanha eleitoral.",
+            "sources": [
+              {
+                "id": "src-ac-65",
+                "title": "Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/augusto-cury-nao-declarou-tres-empresas-nos-eua-ao-tse-campanha-diz-que-e-erro-e-corrigira-dados.ghtml",
+                "publishedAt": "2026-09-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Participações societárias em Cury Academia Comportamental, Contemplare Investments e Free Mind Publish."
+              },
+              {
+                "id": "src-ac-64",
+                "title": "Augusto Cury — O autor mais lido da última década (números declarados pela própria campanha)",
+                "publisher": "Site do autor Augusto Cury",
+                "url": "https://augusto-cury-site.webflow.io/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Página própria do autor/candidato: +30 milhões de livros vendidos, publicação em +70 países, +40 mil alunos da Academia de Gestão da Emoção e +300 mil crianças e adolescentes em programa Escola da Inteligência. Números autodeclarados, sem auditoria independente."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -2148,6 +2782,66 @@ export const researched: Partial<Candidate>[] = [
         "publishedAt": "2026-09-04",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa"
+      },
+      {
+        "id": "src-ac-60",
+        "title": "Arco to acquire Escola da Inteligência",
+        "publisher": "Arco Platform Limited / GlobeNewswire",
+        "url": "https://globenewswire.com/news-release/2020/08/28/2085682/0/en/arco-to-acquire-escola-da-intelig%C3%AAncia.html",
+        "publishedAt": "2020-08-28",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Comunicado da companhia adquirente: solução de aprendizagem socioemocional baseada na Teoria da Inteligência Multifocal, criada por Augusto Cury; atendimento declarado de 330 mil alunos em cerca de 900 escolas; pagamento total de R$ 480 milhões; fechamento do negócio em 02/12/2020 após aprovação do CADE sem condicionantes."
+      },
+      {
+        "id": "src-ac-61",
+        "title": "Empresa de Goiânia movimentou R$ 30 milhões com metodologia de Augusto Cury em contratos públicos",
+        "publisher": "Jornal Opção",
+        "url": "https://www.jornalopcao.com.br/ultimas-noticias/empresa-de-goiania-movimentou-r-30-milhoes-com-metodologia-de-augusto-cury-em-contratos-publicos-865216/",
+        "publishedAt": "2026-09-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Levantamento aponta 25 contratos e instrumentos em dez estados; maior volume em Itajaí, com cinco acordos somando R$ 21,8 milhões."
+      },
+      {
+        "id": "src-ac-64",
+        "title": "Augusto Cury — O autor mais lido da última década (números declarados pela própria campanha)",
+        "publisher": "Site do autor Augusto Cury",
+        "url": "https://augusto-cury-site.webflow.io/",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "editorial",
+        "notes": "Página própria do autor/candidato: +30 milhões de livros vendidos, publicação em +70 países, +40 mil alunos da Academia de Gestão da Emoção e +300 mil crianças e adolescentes em programa Escola da Inteligência. Números autodeclarados, sem auditoria independente."
+      },
+      {
+        "id": "src-ac-62",
+        "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+        "publisher": "O Globo",
+        "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+        "publishedAt": "2026-08-18",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+      },
+      {
+        "id": "src-ac-63",
+        "title": "Campanha presidencial de Augusto Cury em 2026",
+        "publisher": "Wikipédia (pt)",
+        "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Augusto_Cury_em_2026",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "editorial",
+        "notes": "Verbete usado como índice: convenção nacional do Avante (03/08/2026), apoio formal do Agir em convenção de 05/08/2026, coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), chapa Cury/Júlio Delgado."
+      },
+      {
+        "id": "src-ac-65",
+        "title": "Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/augusto-cury-nao-declarou-tres-empresas-nos-eua-ao-tse-campanha-diz-que-e-erro-e-corrigira-dados.ghtml",
+        "publishedAt": "2026-09-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Participações societárias em Cury Academia Comportamental, Contemplare Investments e Free Mind Publish."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -3304,7 +3998,668 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "high"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O plano descreve o Brasil como nação continental com 'território produtivo, água, alimentos, energia limpa, biodiversidade, minerais estratégicos, ciência e capacidade empresarial' e afirma que 'o Brasil tem recursos. Precisa voltar a ter direção', negando que o país esteja condenado à estagnação, à violência ou à desigualdade. A carta de compromisso combina os quatro anos de mandato com 'uma visão de longo prazo', que seria traduzida em projetos de lei, atos administrativos, pactos federativos, metas do Plano Plurianual e compromissos anuais de execução, com dez 'Compromissos nacionais para 2030'. O documento não define metas quantificadas para horizonte de 10 a 20 anos.",
+      "nationalPriorities": [
+        "Segurança pública: reduzir a violência letal, o domínio territorial e o poder financeiro das facções (prioridade atribuída diretamente à Presidência)",
+        "Estabilização fiscal: restabelecer trajetória sustentável da dívida e recuperar a capacidade de investimento público",
+        "Educação: alfabetização na idade certa e recomposição das aprendizagens na educação básica",
+        "Saúde: reorganizar o SUS com fila por critério clínico, prontuário eletrônico nacional e cuidado regionalizado",
+        "Crescimento com produtividade, investimento e emprego formal (ambiente de negócios, inovação e infraestrutura)",
+        "Transformar agro, minerais, energia e biodiversidade em cadeias de maior valor agregado no Brasil",
+        "Governabilidade e reforma do sistema político (Pacto Nacional de Governabilidade e Resultados e proposta de fim da reeleição no Executivo)"
+      ],
+      "developmentModel": "A carta de compromisso declara que 'a iniciativa privada será o principal motor da economia' e reserva ao Estado garantir estabilidade, concorrência, infraestrutura, capital humano, regulação de qualidade e instrumentos para investimento de longo prazo. O crescimento é vinculado a produtividade, ambiente de negócios, conectividade, saneamento, mobilidade e segurança hídrica, com reorganização do gasto, avaliação de programas, revisão de subsídios e regras de transição. A proteção social é descrita como combinação de 'acolhimento e emancipação', conectando benefícios a qualificação, cuidado infantil, inclusão produtiva, habitação, saúde e educação, com prioridade declarada à infância e políticas para mulheres, população negra, idosos, pessoas com deficiência, indígenas e quilombolas. Meio ambiente e desenvolvimento aparecem como aliados: combate a desmatamento, grilagem e mineração ilegal, com bioeconomia, pagamento por serviços ambientais, mercado de carbono e agricultura de baixo carbono. Em política externa, o plano propõe agendas sem 'alinhamentos automáticos', voltada a abrir mercados, atrair investimento produtivo, proteger brasileiros no exterior, fortalecer a integração regional e defender regras multilaterais, e trata minerais estratégicos, energia limpa e biodiversidade como instrumentos de desenvolvimento.",
+      "sources": [
+        {
+          "id": "src-cg-20",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF)",
+          "publisher": "Campanha Ronaldo Caiado (PSD)",
+          "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-caiado-80",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF publicado pela campanha)",
+          "publisher": "Poder360",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF de 102 páginas com texto lido diretamente: carta de compromisso, 26 temas, 10 itens de método de governo, 10 'Compromissos nacionais para 2030' e seção de implementação/monitoramento."
+        },
+        {
+          "id": "src-caiado-81",
+          "title": "Caiado aposta em segurança, ajuste fiscal e crescimento para construir plano de governo",
+          "publisher": "R7 / Notícias R7",
+          "url": "https://noticias.r7.com/eleicoes/2026/caiado-aposta-em-seguranca-ajuste-fiscal-e-crescimento-para-construir-plano-de-governo-14082026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-caiado-82",
+          "title": "O que Caiado prevê para a segurança pública",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/de-terrorismo-domestico-a-policia-sul-americana-veja-as-propostas-de-caiado-para-a-seguranca",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Cobertura das propostas de segurança do plano registrado no TSE e do 'terrorismo doméstico' e da proposta de polícia sul-americana (SULPOL)."
+        },
+        {
+          "id": "src-caiado-83",
+          "title": "Caiado diz que convidará Lincoln Gakiya para Ministério da Segurança",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/caiado-diz-que-convidara-lincoln-gakiya-para-ministerio-da-seguranca",
+          "publishedAt": "2026-08-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Declaração de campanha sobre estrutura ministerial de segurança pública, citada por Metrópoles; evidência de prioridade declarada, não de ato praticado."
+        },
+        {
+          "id": "src-cg-21",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho)",
+          "publisher": "Poder360",
+          "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "methodology": "Lido diretamente da carta de compromisso, do sumário de 26 temas, do bloco de método de governo e da lista de 'Compromissos nacionais para 2030' (p. 7-8) do plano registrado. As 7 prioridades correspondem a itens declarados nesses blocos e a títulos de temas do próprio índice; o plano não apresenta, na maior parte dos itens, custo ou prazo por proposta, e não traz metas quantificadas para horizonte de 10 a 20 anos.",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "As contas dos exercícios de 2023, 2024 e 2025 receberam parecer prévio favorável do TCE-GO, o último por unanimidade em 16/06/2026, com cumprimento das vinculações de saúde e educação e do limite de pessoal. Investimentos somaram R$ 7,21 bi em 2025 (maior volume da série histórica em valores reais, segundo o TCE-GO) e R$ 23,7 bi nos dois mandatos, conforme a Agência Goiás; a saída do RRF para o Propag tem economia estimada em R$ 26 bi em 30 anos. Programas estaduais incluem Goiás Social, Mães de Goiás e Goiás Por Elas (R$ 300/mês por até 12 meses a mulheres com medida protetiva).",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-caiado-01",
+            "kind": "historico",
+            "title": "Contas de 2023, 2024 e 2025 com parecer prévio favorável do TCE-GO",
+            "role": "Governador de Goiás — responsável pela prestação de contas anual do Executivo estadual",
+            "complexity": "Três exercícios submetidos ao tribunal de contas; receita líquida de R$ 49,6 bi em 2025; despesa de pessoal em 50,07% da RCL ajustada; o parecer de 2025 foi aprovado por unanimidade com destaque para vinculações de saúde e educação",
+            "outcome": "Pareceres prévios favoráveis nos três exercícios, com o de 2025 aprovado em 16/06/2026; o julgamento definitivo cabe à Assembleia Legislativa",
+            "period": "2023–2026",
+            "context": "Prestação de contas anual do Executivo estadual, com recomendações e determinações registradas pelo tribunal (19 recomendações em 2023).",
+            "sources": [
+              {
+                "id": "src-cg-07",
+                "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+                "publisher": "Agência Goiás de Notícias",
+                "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+                "publishedAt": "2026-06-16",
+                "accessedAt": "2026-09-29",
+                "sourceType": "tribunal_de_contas"
+              },
+              {
+                "id": "src-cg-08",
+                "title": "TCE aprova contas de Caiado e aponta cumprimento de metas fiscais em 2025",
+                "publisher": "Jornal Opção",
+                "url": "https://www.jornalopcao.com.br/ultimas-noticias/tce-aprova-contas-de-caiado-e-aponta-cumprimento-de-metas-fiscais-e-constitucionais-em-2025-838503/",
+                "publishedAt": "2026-06-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "tribunal_de_contas"
+              },
+              {
+                "id": "src-cg-09",
+                "title": "Relatório do TCE sobre contas do governo de 2023 é aprovado",
+                "publisher": "ALEGO",
+                "url": "https://portal.al.go.leg.br/noticias/161085/relatorio-do-tce-sobre-contas-do-governo-de-2023-e-aprovado",
+                "publishedAt": "2025-12-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual"
+              },
+              {
+                "id": "src-cg-10",
+                "title": "TCE-GO aprova parecer prévio das contas do governador (exercício de 2024)",
+                "publisher": "Tribunal do Planalto",
+                "url": "https://tribunadoplanalto.com.br/tce-go-aprova-parecer-previo-das-contas-do-governador/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "tribunal_de_contas"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-02",
+            "kind": "historico",
+            "title": "Execução de investimentos estaduais em 2025 e no conjunto dos dois mandatos",
+            "role": "Governador de Goiás — titular do orçamento de investimento estadual",
+            "complexity": "R$ 7,21 bi investidos em 2025, classificados pelo TCE-GO como o volume da série histórica em valores reais; R$ 23,7 bi acumulados nos dois mandatos (Agência Goiás); receita líquida de R$ 49,6 bi em 2025",
+            "outcome": "Investimento registrado no parecer prévio das contas de 2025 e em balanço da agência estadual; aplicação em hospitais, rodovias e escolas segundo a fonte",
+            "period": "2019–2026",
+            "context": "Estado saiu de situação de desequilíbrio fiscal no início do mandato para superávit orçamentário de R$ 2,52 bi em 2024, conforme o TCE-GO.",
+            "sources": [
+              {
+                "id": "src-cg-07",
+                "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+                "publisher": "Agência Goiás de Notícias",
+                "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+                "publishedAt": "2026-06-16",
+                "accessedAt": "2026-09-29",
+                "sourceType": "tribunal_de_contas"
+              },
+              {
+                "id": "src-caiado-76",
+                "title": "Equilíbrio fiscal do Estado viabiliza R$ 23,7 bilhões em investimentos nos dois mandatos",
+                "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+                "url": "https://agencia.go.gov.br/equilibrio-fiscal-do-estado-viabiliza-r-237-bilhoes-em-investimentos/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Investimentos acumulados da gestão 2019–2026 (fonte estadual)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-03",
+            "kind": "historico",
+            "title": "Saída do Regime de Recuperação Fiscal para o Propag",
+            "role": "Governador de Goiás — responsável pela adesão do Estado ao novo regime de pagamento da dívida",
+            "complexity": "Adesão ao Propag com prazo de 30 anos; economia estimada em R$ 26 bi no serviço da dívida ao longo do período, segundo o TCE-GO",
+            "outcome": "Saída do RRF e migração para o Propag registradas na prestação de contas de 2025; conta do Estado com alívio estimado no serviço da dívida",
+            "period": "2023–2026",
+            "context": "Operação de dívida pública estadual que depende de aval federal e de aprovação legislativa.",
+            "sources": [
+              {
+                "id": "src-cg-07",
+                "title": "TCE-GO aprova parecer prévio das contas do governo em 2025",
+                "publisher": "Agência Goiás de Notícias",
+                "url": "https://agencia.go.gov.br/tce-go-aprova-parecer-previo-das-contas-do-estado-em-2025/",
+                "publishedAt": "2026-06-16",
+                "accessedAt": "2026-09-29",
+                "sourceType": "tribunal_de_contas"
+              },
+              {
+                "id": "src-cg-32",
+                "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+                "publisher": "Agência Goiás de Notícias",
+                "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+                "publishedAt": "2026-03-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-caiado-04",
+            "kind": "historico",
+            "title": "Reforma administrativa de 2019: corte de cargos e funções comissionadas",
+            "role": "Governador de Goiás — autor do projeto e do decreto de reorganização (decreto 9.455/2019)",
+            "complexity": "Administração direta e indireta do Estado; corte de cargos e funções comissionadas; economia estimada em R$ 422 milhões em quatro anos; execução ao longo do mandato 2019–2022",
+            "outcome": "Reforma sancionada e publicada no Diário Oficial; secretário da Administração apresentou as estimativas de impacto à imprensa ao lado do governador",
+            "period": "2019",
+            "context": "Medida adotada no primeiro ano de mandato, quando o Estado buscava habilitação no Regime de Recuperação Fiscal.",
+            "sources": [
+              {
+                "id": "src-caiado-70",
+                "title": "Caiado sanciona reforma administrativa com redução de 20% da máquina e economia de R$ 422 milhões (decreto 9.455/2019)",
+                "publisher": "Secretaria da Administração — Governo de Goiás",
+                "url": "https://goias.gov.br/administracao/caiado-sanciona-reforma-administrativa-com-reducao-de-20-da-maquina-e-economia-de-r-422-milhoes/",
+                "publishedAt": "2019",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Secretário da Administração apresentou o impacto à imprensa ao lado do governador; decreto publicado no Diário Oficial."
+              },
+              {
+                "id": "src-caiado-72",
+                "title": "Governo de Goiás reúne documentos para aderir ao RRF e apresenta cortes com a reforma administrativa (economia prevista de R$ 422 milhões)",
+                "publisher": "g1 — Globo",
+                "url": "https://g1.globo.com/go/goias/noticia/2019/06/26/governo-de-goias-reune-documentos-para-aderir-ao-rrf-e-apresenta-cortes-com-a-reforma-administrativa.ghtml",
+                "publishedAt": "2019-06-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-05",
+            "kind": "historico",
+            "title": "Programas estaduais de transferência e proteção (Goiás Social, Mães de Goiás, Goiás Por Elas)",
+            "role": "Governador de Goiás — programas mantidos sob gestão estadual no segundo mandato",
+            "complexity": "Transferência de R$ 300/mês por até 12 meses a mulheres em situação de violência doméstica com medida protetiva; rede de programas sociais do Estado com execução pela secretaria de desenvolvimento social",
+            "outcome": "Programa registrado em página oficial do Governo de Goiás e citado no balanço de passagem do cargo em 31/03/2026",
+            "period": "2019–2026",
+            "context": "Programas citados no balanço da gestão entregue ao sucessor, com base em transferência condicionada de renda estadual.",
+            "sources": [
+              {
+                "id": "src-cg-34",
+                "title": "Programa Goiás Por Elas (Seds/Governo de Goiás)",
+                "publisher": "Governo de Goiás",
+                "url": "https://goias.gov.br/social/goias-por-elas",
+                "publishedAt": "2026-04-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual"
+              },
+              {
+                "id": "src-cg-32",
+                "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+                "publisher": "Agência Goiás de Notícias",
+                "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+                "publishedAt": "2026-03-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "A interlocução documentada em 2026 é com lideranças evangélicas (apoio do Conamad em 06/04/2026 e visita à Assembleia de Deus de Madureira em 21/04/2026, com apoio escalado ao deputado Otoni de Paula), com o setor agropecuário (Sistema Faemg em 23/04/2026 e agenda no interior de Minas) e com a imprensa (coletiva a mais de 100 jornalistas na convenção do PSD). A negociação partidária inclui o pacto de apoio mútuo entre os pré-candidatos do PSD (mar/2026), a migração do União Brasil para o PSD em 27/01/2026 e a chapa registrada pelo PSD isolado. No histórico legislativo, foi articulador do impeachment de 2016 e líder da bancada ruralista, com anistia temporária de crédito agrícola em 1994.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-caiado-06",
+            "kind": "historico",
+            "title": "Articulação da frente evangélica da campanha",
+            "role": "Candidato à Presidência — conduziu visitas a igrejas e escalou um deputado como articulador do segmento",
+            "complexity": "Apoio público do bispo Samuel Ferreira (Conamad, rede citada com 42 mil templos) em 06/04/2026; visita à Igreja Fonte da Vida com o apóstolo César Augusto; apoio da Assembleia de Deus de Madureira em 21/04/2026; articulação conduzida pelo deputado federal Otoni de Paula",
+            "outcome": "Apoios divulgados em abr/2026, com registro de reação contrária de parte da direita evangélica (racha noticiado pela Folha)",
+            "period": "2026",
+            "context": "Segmento com influência eleitoral; o apoio foi objeto de disputa dentro do próprio campo evangélico, segundo a fonte.",
+            "sources": [
+              {
+                "id": "src-cg-40",
+                "title": "Caiado vai a igreja mirando apoio de mais um líder evangélico",
+                "publisher": "Metrópoles (coluna Igor Gadelha)",
+                "url": "https://www.metropoles.com/colunas/igor-gadelha/caiado-vai-a-igreja-mirando-apoio-de-mais-um-lider-evangelico",
+                "publishedAt": "2026-04-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "21/04/2026: visita de Caiado à Igreja Fonte da Vida (SP) com o apóstolo César Augusto; registro de apoio público da Assembleia de Deus de Madureira e recepção pela cúpula da Assembleia de Deus Belém."
+              },
+              {
+                "id": "src-cg-41",
+                "title": "Direita evangélica racha com apoio de bispo a Caiado",
+                "publisher": "Folha de S.Paulo (coluna Juliano Spyer)",
+                "url": "https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/04/direita-evangelica-racha-com-apoio-de-bispo-a-caiado.shtml",
+                "publishedAt": "2026-04-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "06/04/2026: apoio público do bispo Samuel Ferreira (Conamad — 42 mil templos, cerca de 102 mil pastores) a Caiado na cerimônia de pré-candidatura."
+              },
+              {
+                "id": "src-cg-44",
+                "title": "PSD confirma candidaturas de Caiado e Kassab",
+                "publisher": "Site de Gilberto Kassab / PSD",
+                "url": "https://gilbertokassab.com.br/noticias/geral/psd-confirma-candidaturas-de-caiado-e-kassab/",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "26/07/2026: convenção nacional do PSD em São Paulo oficializa a chapa; entrevista coletiva a mais de 100 jornalistas; presença dos governadores Ratinho Junior (PR), Eduardo Leite (RS) e Daniel Vilela (GO), de senadores e de deputados federais."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-07",
+            "kind": "historico",
+            "title": "Interlocução com o setor agropecuário em Minas Gerais",
+            "role": "Candidato à Presidência — agendas setoriais com produtores e entidades",
+            "complexity": "Palestra e encontro com produtores no Sistema Faemg (23/04/2026); agenda de agro em MG em 24/04/2026 com Mercado Central, abertura da safra de cana em Uberaba e Expozebu",
+            "outcome": "Agenda realizada com apresentação de propostas para o setor; cobertura de veículo setorial e da imprensa econômica",
+            "period": "2026",
+            "context": "O agronegócio tem peso na base política goiana e na campanha em Minas, estado disputado por três candidatos do mesmo campo.",
+            "sources": [
+              {
+                "id": "src-cg-42",
+                "title": "Em visita ao Sistema Faemg, Ronaldo Caiado defende agro forte",
+                "publisher": "Sistema FAEMG/SENAR",
+                "url": "https://www.faemg.org.br/sindicatos/noticias/em-visita-ao-sistema-faemg-ronaldo-caiado-defende-agro-forte",
+                "publishedAt": "2026-04-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "23/04/2026: encontro em Belo Horizonte com o presidente do Sistema Faemg Senar e produtores rurais de Minas Gerais."
+              },
+              {
+                "id": "src-cg-43",
+                "title": "Caiado diz que 'muitos tentaram destruir' candidaturas no primeiro turno para manter polarização",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/noticia/2026/04/24/caiado-diz-que-muitos-tentaram-destruir-candidaturas-no-primeiro-turno-para-manter-polarizacao.ghtml",
+                "publishedAt": "2026-04-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "24/04/2026: agenda em MG (palestra na Faemg, Mercado Central, abertura de safra de cana em Uberaba, Expozebu); posição contra a verticalização; PSD-MG anuncia apoio a Caiado mesmo com o governador Mateus Simões apoiando Zema."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-08",
+            "kind": "historico",
+            "title": "Pacto de apoio mútuo entre os pré-candidatos do PSD",
+            "role": "Pré-candidato — pactuou com os demais postulantes a regra de apoio ao vencedor da prévia",
+            "complexity": "Três pré-candidatos do mesmo partido (Ratinho Júnior/PR, Eduardo Leite/RS e ele); prévia disputada em mar/2026",
+            "outcome": "Acordo firmado antes da prévia, com compromisso de apoio dos derrotados ao escolhido; anúncio da candidatura feito por Kassab em 30/03/2026",
+            "period": "2026",
+            "context": "A sigla tinha três governadores postulantes à Presidência; a definição evitou disputa aberta após a escolha.",
+            "sources": [
+              {
+                "id": "src-cg-45",
+                "title": "Pré-candidatos do PSD apoiarão o escolhido pelo partido",
+                "publisher": "Poder360",
+                "url": "https://poder360.com.br/poder-eleicoes/pre-candidatos-do-psd-apoiarao-o-escolhido-pelo-partido",
+                "publishedAt": "2026-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Pacto de apoio mútuo entre Ratinho Jr. (PR), Eduardo Leite (RS) e Ronaldo Caiado (GO) e antecipação da definição do candidato pelo PSD para 27/03/2026; filiação de Caiado ao PSD marcada para 14/03/2026 em Jaraguá (GO). Mês; dia exato da publicação não capturado."
+              },
+              {
+                "id": "src-cg-01",
+                "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-09",
+            "kind": "historico",
+            "title": "Migração do União Brasil para o PSD e composição da chapa com Kassab",
+            "role": "Candidato — negociou a filiação e a composição da chapa",
+            "complexity": "Troca de sigla em jan/2026, filiação ao PSD em 27/01/2026 negociada com dois governadores do partido; convenção nacional de 26/07/2026 com Kassab como vice; registro da chapa no TSE em set/2026",
+            "outcome": "Filiação e candidatura efetivadas; chapa oficializada em convenção e registro publicado no Diário da Justiça Eletrônica do TSE em 18/09/2026",
+            "period": "2026",
+            "context": "Saída do União Brasil após desgastes internos com a federação PP/União e falta de apoio da cúpula, segundo a fonte.",
+            "sources": [
+              {
+                "id": "src-cg-01",
+                "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+              },
+              {
+                "id": "src-cg-02",
+                "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+                "publisher": "Wikipédia (en)",
+                "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt."
+              },
+              {
+                "id": "src-cg-44",
+                "title": "PSD confirma candidaturas de Caiado e Kassab",
+                "publisher": "Site de Gilberto Kassab / PSD",
+                "url": "https://gilbertokassab.com.br/noticias/geral/psd-confirma-candidaturas-de-caiado-e-kassab/",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "26/07/2026: convenção nacional do PSD em São Paulo oficializa a chapa; entrevista coletiva a mais de 100 jornalistas; presença dos governadores Ratinho Junior (PR), Eduardo Leite (RS) e Daniel Vilela (GO), de senadores e de deputados federais."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-10",
+            "kind": "historico",
+            "title": "Articulação do processo de impeachment de 2016 no Senado",
+            "role": "Senador — um dos articuladores do processo, votou pela prossecução do julgamento e pela perda do mandato",
+            "complexity": "Processo conduzido no Senado Federal com 81 senadores; votação em plenário sobre a perda do mandato da presidente",
+            "outcome": "Voto registrado pela perda do mandato em 2016; rompimento posterior com o governo Temer/MDB no mesmo ano",
+            "period": "2015–2016",
+            "context": "Contexto de crise política nacional; o candidato era então líder do Democratas no Senado.",
+            "sources": [
+              {
+                "id": "src-cg-01",
+                "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-11",
+            "kind": "historico",
+            "title": "Liderança da bancada ruralista e negociação da dívida de crédito agrícola",
+            "role": "Deputado federal — líder da bancada ruralista na Câmara",
+            "complexity": "Bancada ruralista na Câmara dos Deputados; pauta do crédito agrícola no contexto do Plano Collor; atuação nas comissões de Agricultura e de Segurança Pública",
+            "outcome": "Anistia temporária de parte da dívida de crédito agrícola obtida em 1994; em 2023 articulou com a base congressista contra a reforma tributária",
+            "period": "1991–2015",
+            "context": "Atuação em bloco temático suprapartidário, com pauta de endividamento do setor agrícola e de segurança pública.",
+            "sources": [
+              {
+                "id": "src-cg-01",
+                "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Duas etapas de reforma administrativa redefiniram a estrutura do Executivo estadual: em 2019, o corte de cargos e funções comissionadas com economia estimada em R$ 422 milhões em quatro anos; em 2023, o decreto 10.218/23 criou duas secretarias (Infraestrutura e Entorno do DF), renomeou três e extinguiu o Conselho Consultivo de Gestão, a partir de projeto enviado à Alego. Na campanha de 2026, a área de saúde foi coordenada por Luiz Henrique Mandetta e a articulação evangélica escalada ao deputado Otoni de Paula. A transmissão do governo ao vice Daniel Vilela ocorreu em 31/03/2026, com balanço divulgado pela agência estadual.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-caiado-12",
+            "kind": "historico",
+            "title": "Reforma administrativa de 2019 — definição da estrutura e corte de cargos comissionados",
+            "role": "Governador de Goiás — propositor da reorganização da administração direta e indireta",
+            "complexity": "Estrutura de secretarias e autarquias do Estado; corte de cargos e funções comissionadas; economia estimada em R$ 422 milhões em quatro anos",
+            "outcome": "Decreto publicado no Diário Oficial e impacto apresentado à imprensa pelo secretário da Administração ao lado do governador",
+            "period": "2019",
+            "context": "Primeira reorganização da máquina no mandato, feita em paralelo à busca de habilitação do Estado no Regime de Recuperação Fiscal.",
+            "sources": [
+              {
+                "id": "src-caiado-70",
+                "title": "Caiado sanciona reforma administrativa com redução de 20% da máquina e economia de R$ 422 milhões (decreto 9.455/2019)",
+                "publisher": "Secretaria da Administração — Governo de Goiás",
+                "url": "https://goias.gov.br/administracao/caiado-sanciona-reforma-administrativa-com-reducao-de-20-da-maquina-e-economia-de-r-422-milhoes/",
+                "publishedAt": "2019",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Secretário da Administração apresentou o impacto à imprensa ao lado do governador; decreto publicado no Diário Oficial."
+              },
+              {
+                "id": "src-caiado-72",
+                "title": "Governo de Goiás reúne documentos para aderir ao RRF e apresenta cortes com a reforma administrativa (economia prevista de R$ 422 milhões)",
+                "publisher": "g1 — Globo",
+                "url": "https://g1.globo.com/go/goias/noticia/2019/06/26/governo-de-goias-reune-documentos-para-aderir-ao-rrf-e-apresenta-cortes-com-a-reforma-administrativa.ghtml",
+                "publishedAt": "2019-06-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-13",
+            "kind": "historico",
+            "title": "Segunda etapa da reforma administrativa (2023) — criação e renomeação de secretarias",
+            "role": "Governador de Goiás — autor do projeto enviado à Alego e do decreto 10.218/23",
+            "complexity": "Criação de duas secretarias (Infraestrutura; Entorno do Distrito Federal), renomeação de três pastas (Secretaria-Geral de Governo, Ciência/Tecnologia e Relações Institucionais) e extinção do Conselho Consultivo de Gestão; projeto com previsão de extinção de 4.406 cargos comissionados",
+            "outcome": "Projeto aprovado pela Assembleia Legislativa e sancionado por decreto em 16/02/2023, com efeito imediato sobre a organização do Executivo estadual",
+            "period": "2023",
+            "context": "Readequação feita no início do segundo mandato para alinhar a estrutura ao plano de governo apresentado em 2022.",
+            "sources": [
+              {
+                "id": "src-caiado-71",
+                "title": "Governador Ronaldo Caiado sanciona reforma administrativa (decreto 10.218/23)",
+                "publisher": "Secretaria da Administração — Governo de Goiás",
+                "url": "https://goias.gov.br/administracao/governador-ronaldo-caiado-sanciona-reforma-administrativa/",
+                "publishedAt": "2023-02-16",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Criação de duas secretarias (Infraestrutura; Entorno do DF), renomeação de três e extinção do Conselho Consultivo de Gestão."
+              },
+              {
+                "id": "src-caiado-73",
+                "title": "Governo de Goiás encaminha proposta de Reforma Administrativa à Alego (segunda etapa; previsão de extinção de 4.406 cargos comissionados)",
+                "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+                "url": "https://agencia.go.gov.br/governo-de-goias-encaminha-a-alego-proposta-de-reforma-administrativa/",
+                "publishedAt": "2023-02-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Projeto com criação de duas secretarias e novas nomenclaturas para três pastas."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-14",
+            "kind": "historico",
+            "title": "Coordenação por área do plano de governo de 2026 (saúde com Mandetta)",
+            "role": "Candidato à Presidência — escolha dos coordenadores de área e apresentação do plano",
+            "complexity": "Programa apresentado por área temática em São Paulo em 18/08/2026; área de saúde coordenada pelo ex-ministro Luiz Henrique Mandetta, responsável por detalhar propostas de fila, SUS e financiamento",
+            "outcome": "Plano de saúde apresentado publicamente com o coordenador da área; propostas incorporadas ao documento de campanha",
+            "period": "2026",
+            "context": "Estrutura de campanha organizada por eixos temáticos com coordenadores externos ao partido.",
+            "sources": [
+              {
+                "id": "src-caiado-74",
+                "title": "Caiado apresenta plano para a Saúde coordenado por Luiz Henrique Mandetta",
+                "publisher": "g1 — Globo",
+                "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/18/caiado-apresenta-plano-para-a-saude-com-foco-em-prevencao-digitalizacao-do-sus-e-prioridade-na-fila-para-doencas-graves.ghtml",
+                "publishedAt": "2026-08-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Apresentação em São Paulo; propostas coordenadas pelo ex-ministro da Saúde Luiz Henrique Mandetta."
+              },
+              {
+                "id": "src-caiado-75",
+                "title": "Henrique Mandetta detalha propostas de Ronaldo Caiado para a saúde (coordenador da área na campanha)",
+                "publisher": "JOTA",
+                "url": "https://www.jota.info/coberturas-especiais/henrique-mandetta-detalha-propostas-de-ronaldo-caiado-para-a-saude",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-15",
+            "kind": "historico",
+            "title": "Delegação da articulação evangélica a um coordenador parlamentar",
+            "role": "Candidato à Presidência — delegou a interlocução com lideranças evangélicas a um deputado federal",
+            "complexity": "Rede de igrejas visitadas em abr/2026 (Conamad, Fonte da Vida, Assembleia de Deus de Madureira); articulação conduzida pelo deputado Otoni de Paula",
+            "outcome": "Agendas realizadas e apoios divulgados em abr/2026 sob responsabilidade do articulador designado",
+            "period": "2026",
+            "context": "Delegação explícita de uma frente de campanha a um interlocutor com trânsito no segmento.",
+            "sources": [
+              {
+                "id": "src-cg-40",
+                "title": "Caiado vai a igreja mirando apoio de mais um líder evangélico",
+                "publisher": "Metrópoles (coluna Igor Gadelha)",
+                "url": "https://www.metropoles.com/colunas/igor-gadelha/caiado-vai-a-igreja-mirando-apoio-de-mais-um-lider-evangelico",
+                "publishedAt": "2026-04-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "21/04/2026: visita de Caiado à Igreja Fonte da Vida (SP) com o apóstolo César Augusto; registro de apoio público da Assembleia de Deus de Madureira e recepção pela cúpula da Assembleia de Deus Belém."
+              },
+              {
+                "id": "src-cg-41",
+                "title": "Direita evangélica racha com apoio de bispo a Caiado",
+                "publisher": "Folha de S.Paulo (coluna Juliano Spyer)",
+                "url": "https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/04/direita-evangelica-racha-com-apoio-de-bispo-a-caiado.shtml",
+                "publishedAt": "2026-04-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "06/04/2026: apoio público do bispo Samuel Ferreira (Conamad — 42 mil templos, cerca de 102 mil pastores) a Caiado na cerimônia de pré-candidatura."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-caiado-16",
+            "kind": "historico",
+            "title": "Transmissão do governo de Goiás ao vice em 31/03/2026",
+            "role": "Governador de Goiás — renúncia ao cargo com transmissão ao vice Daniel Vilela",
+            "complexity": "Transição no Executivo estadual a três meses do fim do segundo mandato; estrutura de governo mantida com a mesma organização de secretarias",
+            "outcome": "Transmissão formalizada e balanço da gestão divulgado pela Agência Goiás de Notícias",
+            "period": "2026",
+            "context": "Saída antecipada para disputar a Presidência; o vice assumiu a chefia do Executivo estadual.",
+            "sources": [
+              {
+                "id": "src-cg-01",
+                "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+              },
+              {
+                "id": "src-cg-32",
+                "title": "Caiado faz balanço da gestão ao passar o governo para Daniel Vilela",
+                "publisher": "Agência Goiás de Notícias",
+                "url": "https://agencia.go.gov.br/caiado-faz-balanco-da-gestao-ao-passar-o-governo-para-daniel-vilela",
+                "publishedAt": "2026-03-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -4765,6 +6120,115 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Mandatos listados na fonte oficial: Deputado Federal 1991–1995 (Congresso Revisor), 1999–2003, 2003–2007, 2007–2011; Senador 2015–2019; Governador 2019–2023."
+      },
+      {
+        "id": "src-caiado-76",
+        "title": "Equilíbrio fiscal do Estado viabiliza R$ 23,7 bilhões em investimentos nos dois mandatos",
+        "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+        "url": "https://agencia.go.gov.br/equilibrio-fiscal-do-estado-viabiliza-r-237-bilhoes-em-investimentos/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Investimentos acumulados da gestão 2019–2026 (fonte estadual)."
+      },
+      {
+        "id": "src-caiado-70",
+        "title": "Caiado sanciona reforma administrativa com redução de 20% da máquina e economia de R$ 422 milhões (decreto 9.455/2019)",
+        "publisher": "Secretaria da Administração — Governo de Goiás",
+        "url": "https://goias.gov.br/administracao/caiado-sanciona-reforma-administrativa-com-reducao-de-20-da-maquina-e-economia-de-r-422-milhoes/",
+        "publishedAt": "2019",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Secretário da Administração apresentou o impacto à imprensa ao lado do governador; decreto publicado no Diário Oficial."
+      },
+      {
+        "id": "src-caiado-72",
+        "title": "Governo de Goiás reúne documentos para aderir ao RRF e apresenta cortes com a reforma administrativa (economia prevista de R$ 422 milhões)",
+        "publisher": "g1 — Globo",
+        "url": "https://g1.globo.com/go/goias/noticia/2019/06/26/governo-de-goias-reune-documentos-para-aderir-ao-rrf-e-apresenta-cortes-com-a-reforma-administrativa.ghtml",
+        "publishedAt": "2019-06-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": ""
+      },
+      {
+        "id": "src-caiado-71",
+        "title": "Governador Ronaldo Caiado sanciona reforma administrativa (decreto 10.218/23)",
+        "publisher": "Secretaria da Administração — Governo de Goiás",
+        "url": "https://goias.gov.br/administracao/governador-ronaldo-caiado-sanciona-reforma-administrativa/",
+        "publishedAt": "2023-02-16",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Criação de duas secretarias (Infraestrutura; Entorno do DF), renomeação de três e extinção do Conselho Consultivo de Gestão."
+      },
+      {
+        "id": "src-caiado-73",
+        "title": "Governo de Goiás encaminha proposta de Reforma Administrativa à Alego (segunda etapa; previsão de extinção de 4.406 cargos comissionados)",
+        "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+        "url": "https://agencia.go.gov.br/governo-de-goias-encaminha-a-alego-proposta-de-reforma-administrativa/",
+        "publishedAt": "2023-02-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Projeto com criação de duas secretarias e novas nomenclaturas para três pastas."
+      },
+      {
+        "id": "src-caiado-74",
+        "title": "Caiado apresenta plano para a Saúde coordenado por Luiz Henrique Mandetta",
+        "publisher": "g1 — Globo",
+        "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/18/caiado-apresenta-plano-para-a-saude-com-foco-em-prevencao-digitalizacao-do-sus-e-prioridade-na-fila-para-doencas-graves.ghtml",
+        "publishedAt": "2026-08-18",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Apresentação em São Paulo; propostas coordenadas pelo ex-ministro da Saúde Luiz Henrique Mandetta."
+      },
+      {
+        "id": "src-caiado-75",
+        "title": "Henrique Mandetta detalha propostas de Ronaldo Caiado para a saúde (coordenador da área na campanha)",
+        "publisher": "JOTA",
+        "url": "https://www.jota.info/coberturas-especiais/henrique-mandetta-detalha-propostas-de-ronaldo-caiado-para-a-saude",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": ""
+      },
+      {
+        "id": "src-caiado-80",
+        "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF publicado pela campanha)",
+        "publisher": "Poder360",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF de 102 páginas com texto lido diretamente: carta de compromisso, 26 temas, 10 itens de método de governo, 10 'Compromissos nacionais para 2030' e seção de implementação/monitoramento."
+      },
+      {
+        "id": "src-caiado-81",
+        "title": "Caiado aposta em segurança, ajuste fiscal e crescimento para construir plano de governo",
+        "publisher": "R7 / Notícias R7",
+        "url": "https://noticias.r7.com/eleicoes/2026/caiado-aposta-em-seguranca-ajuste-fiscal-e-crescimento-para-construir-plano-de-governo-14082026",
+        "publishedAt": "2026-08-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-caiado-82",
+        "title": "O que Caiado prevê para a segurança pública",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/de-terrorismo-domestico-a-policia-sul-americana-veja-as-propostas-de-caiado-para-a-seguranca",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Cobertura das propostas de segurança do plano registrado no TSE e do 'terrorismo doméstico' e da proposta de polícia sul-americana (SULPOL)."
+      },
+      {
+        "id": "src-caiado-83",
+        "title": "Caiado diz que convidará Lincoln Gakiya para Ministério da Segurança",
+        "publisher": "Metrópoles",
+        "url": "https://www.metropoles.com/brasil/caiado-diz-que-convidara-lincoln-gakiya-para-ministerio-da-seguranca",
+        "publishedAt": "2026-08-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Declaração de campanha sobre estrutura ministerial de segurança pública, citada por Metrópoles; evidência de prioridade declarada, não de ato praticado."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -5593,7 +7057,645 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "low"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O plano registrado no TSE ('Proteger Hoje, Transformar o Amanhã', 15 páginas) organiza a ação pública em seis capítulos — mulheres e crianças, economia, educação, segurança, saúde e 'Estado que funciona' —, com 'Mulheres e Crianças em Primeiro Lugar' como eixo transversal, e o próprio documento se define como 'versão estruturada para desenvolvimento programático, debate técnico e posterior definição de metas quantitativas'. Critério transversal declarado: cada política deve explicitar impactos esperados sobre mulheres, crianças e famílias, custo fiscal, responsabilidade institucional, riscos, salvaguardas de direitos e método de avaliação.",
+      "nationalPriorities": [
+        "mulheres e crianças em primeiro lugar",
+        "economia (responsabilidade fiscal e ambiente de negócios)",
+        "educação (alfabetização e ensino técnico)",
+        "segurança (fronteiras e combate a facções)",
+        "saúde (atenção primária, filas e telemedicina)",
+        "Estado que funciona (governo digital e federalismo de resultados)"
+      ],
+      "developmentModel": "O plano atribui ao crescimento econômico a função de financiar proteção social ('prosperidade que protege') e organiza o modelo em três frentes: responsabilidade fiscal com revisão de gastos e subsídios indevidos, transparência de benefícios e avaliação de impacto de programas; ambiente de negócios com simplificação regulatória, digitalização, crédito produtivo e garantias para pequenos negócios e compras públicas acessíveis a micro e pequenas empresas; e infraestrutura por concessões, PPPs e planejamento de longo prazo (rodovias com manutenção baseada em desempenho, ferrovias, hidrovias, portos e cabotagem), além de segurança energética, conectividade e ambiente para indústria e economia digital. O Estado é descrito como prestador de serviços 100% digitais ('dados pedidos uma única vez', atendimento multicanal para quem está offline) e como coordenador federativo, com pactos com estados e municípios, consórcios e transferências associadas a indicadores 'quando juridicamente cabível'. Tecnologia aparece em IA com governança, auditoria e privacidade (regulação de filas no SUS, apoio clínico e administrativo) e em telemedicina integrada à rede; meio ambiente não tem capítulo próprio — comparece no eixo de energia e conectividade e na política de segurança (crimes contra o meio ambiente não são detalhados). Desigualdade é tratada prioritariamente pela proteção de mulheres, crianças e primeira infância e pela autonomia econômica das mulheres (microcrédito, qualificação, formalização). O documento não apresenta estimativa de custo por política.",
+      "sources": [
+        {
+          "id": "src-cb-19",
+          "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+          "publisher": "TSE — Eleições 2026",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF do plano com matriz de implementação por horizontes."
+        },
+        {
+          "id": "src-cb-05",
+          "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Título do eixo 'Mulheres e Crianças em Primeiro Lugar' e Rede Nacional de Proteção."
+        },
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+        },
+        {
+          "id": "src-cb-12",
+          "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+          "publisher": "g1 (Globo) — Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+          "publishedAt": "2026-09-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+        },
+        {
+          "id": "src-cb-17",
+          "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+          "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+          "url": "https://planoaberto.org/candidatos/clariana-barao",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Índice numerado de promessas (até 30) e avaliação de viabilidade de execução."
+        },
+        {
+          "id": "src-cb-60",
+          "title": "Seis planos à direita: o que dizem os documentos que quase ninguém leu",
+          "publisher": "Contexto Brasil",
+          "url": "https://contextobrasil.com.br/seis-planos-a-direita-o-que-dizem-os-documentos-que-quase-ninguem-leu/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Analisa o documento do DC como versão preliminar de 15 páginas, com seis capítulos e sem diagnóstico do país."
+        }
+      ],
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "methodology": "Extração direta do documento registrado no TSE (15 páginas, lido integralmente a partir do PDF oficial, obtido via espelho de arquivo), com complemento de Agência Brasil (propostas para seis áreas; prioridade à mulher e à infância), Jornal Nacional, Poder360, Plano Aberto e análise do Contexto Brasil. As seis prioridades listadas são os seis capítulos do próprio documento (não são inferência nossa). Evidência marcada como parcial e confiança média porque o documento se autodeclara preliminar ('posterior definição de metas quantitativas'), não traz diagnóstico, linha de base, custos nem metas numéricas finais; a contagem item a item de promessas não foi refeita pela equipe (o dossiê independente Plano Aberto enumera ao menos 30 promessas numeradas).",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Assumiu a presidência do diretório estadual do DC em Mato Grosso e, entre julho e agosto de 2026, foi conduzida à candidatura presidencial após duas desistências na legenda, com aprovação em reunião nacional de 08/07 e convenção de 05/08/2026. Registrou o programa de governo 'Proteger Hoje, Transformar o Amanhã' no TSE e cumpriu agenda de campanha em Mato Grosso, Pernambuco e Paraíba. Antes da candidatura, coordenou grupo de voluntários no auxílio a vítimas das enchentes do Rio Grande do Sul (2024) e presidiu comissão de assistência social da OAB de Várzea Grande.",
+        "coverage": "parcial",
+        "coverageNote": "Trajetória sem cargo público ou executivo anterior; as evidências vêm da atuação partidária estadual, de trabalho voluntário e da própria campanha presidencial de 2026, com fontes de imprensa e dados do TSE, sem documentos internos de gestão.",
+        "evidences": [
+          {
+            "id": "ev-cap-cb-01",
+            "kind": "historico",
+            "title": "Montagem da candidatura presidencial após desistências na legenda",
+            "role": "presidente do diretório estadual do DC em Mato Grosso, apresentada pela direção estadual e aprovada em reunião nacional",
+            "complexity": "alcance nacional; aprovação por dirigentes e presidentes de 21 diretórios estaduais em 08/07/2026; oficialização em convenção nacional em 05/08/2026, no último dia do prazo de convenções",
+            "outcome": "chapa Clariana Barão/Fabiana Torquato oficializada e registro deferido pelo TSE em 11/09/2026",
+            "period": "2026",
+            "context": "Substituição de Joaquim Barbosa, que desistiu em julho, e de Aldo Rebelo, que havia sido lançado em janeiro e depois passou a coordenar a campanha de outro presidenciável.",
+            "sources": [
+              {
+                "id": "src-cb-08",
+                "title": "DC oficializa Clariana Barão como candidata à Presidência",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção nacional; chapa exclusivamente feminina; aprovação por 21 diretórios em 08/07."
+              },
+              {
+                "id": "src-cb-07",
+                "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+                "publishedAt": "2026-08-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Entrevista de 39min45s; idade, naturalidade, formação e 'disputa pela 1ª vez uma eleição'."
+              },
+              {
+                "id": "src-cb-01",
+                "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+                "publisher": "TSE — Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+                "publishedAt": "2026-09-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Chapa Clariana Barão/Fabiana Torquato deferida na sessão virtual encerrada em 11/09/2026."
+              },
+              {
+                "id": "src-cb-42",
+                "title": "Partido DC aposta em renovação e anuncia advogada de MT à presidência da República",
+                "publisher": "Potência MT",
+                "url": "https://potenciamt.com.br/noticia/2696/partido-dc-aposta-em-renovacao-e-anuncia-advogada-de-mt-a-presidencia-da-republica",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026). Anúncio após a desistência de Joaquim Barbosa; a então presidente do diretório estadual do DC em MT foi apresentada como candidata."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-cb-02",
+            "kind": "historico",
+            "title": "Coordenação de grupo de voluntários no auxílio às vítimas das enchentes do Rio Grande do Sul",
+            "role": "coordenadora do grupo de voluntários",
+            "complexity": "evento de alcance estadual (Rio Grande do Sul), com cerca de 2,4 milhões de pessoas afetadas pela catástrofe de maio de 2024",
+            "outcome": "auxílio prestado às vítimas; informação baseada em perfil oficial divulgado na candidatura e reproduzido por veículo público",
+            "period": "2024",
+            "context": "Atuação voluntária fora da estrutura partidária, em situação de emergência.",
+            "sources": [
+              {
+                "id": "src-cb-03",
+                "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+              },
+              {
+                "id": "src-cb-15",
+                "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência (perfil)",
+                "publisher": "Blog do Doc",
+                "url": "https://blogdodoc.com/2026/08/17/clariana-barao-e-a-candidata-do-democracia-crista-a-presidencia",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Univag, OAB de Várzea Grande e enchentes do RS em 2024."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-cb-03",
+            "kind": "historico",
+            "title": "Presidência de comissão de assistência social na OAB de Várzea Grande",
+            "role": "presidente da Comissão de Solidariedade e Assistência Social da OAB de Várzea Grande (MT)",
+            "complexity": "alcance municipal, no âmbito de subseção da Ordem dos Advogados do Brasil",
+            "outcome": "comissão presidida; não há registro público de relatório ou entrega específica do período",
+            "period": "não informado",
+            "context": "Atuação institucional em entidade profissional, anterior à candidatura.",
+            "sources": [
+              {
+                "id": "src-cb-03",
+                "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+              },
+              {
+                "id": "src-cb-40",
+                "title": "Eleições 2026: Ficha de Clariana Barao (DC)",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/clariana-barao-280002552484.shtml",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ficha do candidato com dados do TSE: advogada nascida em Cuiabá (1987), formada pela Univag, presidiu comissão de assistência social na OAB, filiou-se ao DC e assumiu em 2026 a presidência do diretório estadual em MT."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          },
+          {
+            "id": "ev-cap-cb-04",
+            "kind": "historico",
+            "title": "Registro do programa de governo e apresentação de propostas",
+            "role": "candidata à Presidência pelo DC",
+            "complexity": "documento 'Proteger Hoje, Transformar o Amanhã' registrado no TSE; propostas apresentadas para seis áreas em entrevistas de alcance nacional (Rádio Nacional, Jornal Nacional, Poder360)",
+            "outcome": "programa registrado na Justiça Eleitoral e propostas apresentadas em entrevistas de TV e rádio entre agosto e setembro de 2026",
+            "period": "2026",
+            "context": "Primeira candidatura da candidata, com necessidade de formalizar programa em prazo de convenções.",
+            "sources": [
+              {
+                "id": "src-cb-19",
+                "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+                "publisher": "TSE — Eleições 2026",
+                "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "PDF do plano com matriz de implementação por horizontes."
+              },
+              {
+                "id": "src-cb-04",
+                "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+                "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+              },
+              {
+                "id": "src-cb-12",
+                "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+                "publishedAt": "2026-09-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+              },
+              {
+                "id": "src-cb-43",
+                "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6x1",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+                "publishedAt": "2026-08-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Entrevista ao vivo; a candidata falou sobre plano de governo, reforma do STF, revisão dos processos de 8 de janeiro e fim da escala 6x1."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-cb-05",
+            "kind": "historico",
+            "title": "Agenda de campanha nacional com deslocamentos e eventos locais",
+            "role": "candidata à Presidência",
+            "complexity": "agendas cumpridas em Mato Grosso (Cuiabá), Pernambuco (Caruaru, Alto do Moura) e Paraíba, além de entrevistas em São Paulo",
+            "outcome": "agendas realizadas com cobertura de imprensa local e nacional; partido sem bancada na Câmara dos Deputados para sustentar a campanha",
+            "period": "2026",
+            "context": "Campanha de legenda sem representação parlamentar, apoiada em diretórios estaduais e agendas regionais.",
+            "sources": [
+              {
+                "id": "src-cb-33",
+                "title": "Clariana Barão faz campanha em Cuiabá e afirma que vai criar centros especializados no atendimento a mulheres vítimas de violência",
+                "publisher": "g1 (Globo) / Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/27/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-faz-campanha-em-cuiaba.ghtml",
+                "publishedAt": "2026-08-27",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-cb-30",
+                "title": "Clariana Barão, candidata do Democracia Cristã à Presidência, faz campanha em Pernambuco (empreendedorismo e Região Nordeste)",
+                "publisher": "g1 (Globo) / Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/18/clariana-barao-candidata-do-democracia-crista-a-presidencia-faz-campanha-em-pernambuco.ghtml",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-cb-32",
+                "title": "Candidata à Presidência, Clariana Barão cumpre agenda na Paraíba (entrevistas, almoço e inauguração de espaço de campanha)",
+                "publisher": "Portal Arapuan",
+                "url": "https://portalarapuan.com.br/candidata-a-presidencia-clariana-barao-cumpre-agenda-na-paraiba/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-cb-31",
+                "title": "Clariana Barão encerra agenda em Caruaru com visita ao Alto do Moura e destaca força do artesanato",
+                "publisher": "Francês News",
+                "url": "https://francesnews.com.br/post/2026/09/26/39659-no-alto-do-moura-clariana-barao-destaca-forca-do-artesanato-e-encerra-agenda-em-caruaru",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "Foi aprovada como candidata em reunião nacional do DC em Brasília, em 08/07/2026, com dirigentes e presidentes de 21 diretórios estaduais, após três trocas de candidato na legenda. A candidatura foi oficializada em convenção nacional (05/08/2026) em chapa 100% feminina, com o partido concorrendo isolado, sem coligação. Em entrevistas e agendas, declarou rejeição ao extremismo e defesa do diálogo, com propostas apresentadas em veículos de alcance nacional e agendas regionais.",
+        "coverage": "parcial",
+        "coverageNote": "As evidências de articulação se limitam ao processo interno do DC em 2026 e a entrevistas públicas; não há registro de negociação com outras legendas nem de acordos formais conduzidos pela candidata.",
+        "evidences": [
+          {
+            "id": "ev-cap-cb-06",
+            "kind": "historico",
+            "title": "Aprovação da candidatura por diretórios estaduais do DC",
+            "role": "candidata apresentada pela direção estadual de Mato Grosso e submetida à reunião nacional",
+            "complexity": "21 diretórios estaduais representados na reunião de 08/07/2026, em Brasília; definição após a desistência de Joaquim Barbosa",
+            "outcome": "nome aprovado e oficializado na convenção nacional de 05/08/2026",
+            "period": "2026",
+            "context": "Partido que precisou recompor sua chapa presidencial às vésperas das convenções.",
+            "sources": [
+              {
+                "id": "src-cb-08",
+                "title": "DC oficializa Clariana Barão como candidata à Presidência",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção nacional; chapa exclusivamente feminina; aprovação por 21 diretórios em 08/07."
+              },
+              {
+                "id": "src-cb-07",
+                "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+                "publishedAt": "2026-08-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Entrevista de 39min45s; idade, naturalidade, formação e 'disputa pela 1ª vez uma eleição'."
+              },
+              {
+                "id": "src-cb-03",
+                "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-cb-07",
+            "kind": "historico",
+            "title": "Composição da chapa em acordo com a direção nacional e escolha de vice de outro estado",
+            "role": "cabeça de chapa; vice Fabiana Torquato, advogada de São Paulo",
+            "complexity": "chapa exclusivamente feminina, sem coligação com outros partidos; uma das duas chapas presidenciais do pleito de 2026 encabeçadas por mulheres",
+            "outcome": "chapa registrada e deferida pelo TSE em 11/09/2026",
+            "period": "2026",
+            "context": "Composição interna entre direção estadual de Mato Grosso e direção nacional, com indicação de vice de outro estado.",
+            "sources": [
+              {
+                "id": "src-cb-29",
+                "title": "DC oficializa Clariana Barão como candidata à Presidência (chapa formada exclusivamente por mulheres)",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-cb-34",
+                "title": "DC define chapa feminina com a advogada Clariana Barão para presidente",
+                "publisher": "Congresso em Foco",
+                "url": "https://www.congressoemfoco.com.br/noticia/121056/dc-define-chapa-feminina-com-a-advogada-clariana-barao-para-presidente",
+                "publishedAt": "2026-08-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-cb-26",
+                "title": "Clariana Barão 27 — candidata a presidente pelo DC: partido isolado; registro nº 280002552484",
+                "publisher": "ND Mais",
+                "url": "https://ndmais.com.br/eleicoes/2026/candidatos/brasil/presidente/27-clariana-barao/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-cb-08",
+            "kind": "historico",
+            "title": "Apresentação pública de posições e propostas em veículos de alcance nacional",
+            "role": "candidata à Presidência",
+            "complexity": "entrevista de 39 minutos ao Poder360 (25/08/2026), participação no Jornal Nacional (05/09/2026) e entrevista à Gazeta de São Paulo",
+            "outcome": "posições apresentadas sobre reforma do STF, escala 6x1, proteção à mulher, transferência de renda e ajuste fiscal",
+            "period": "2026",
+            "context": "Exposição em mídia nacional com partido sem bancada no Congresso e com tempo reduzido de propaganda.",
+            "sources": [
+              {
+                "id": "src-cb-43",
+                "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6x1",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+                "publishedAt": "2026-08-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Entrevista ao vivo; a candidata falou sobre plano de governo, reforma do STF, revisão dos processos de 8 de janeiro e fim da escala 6x1."
+              },
+              {
+                "id": "src-cb-12",
+                "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+                "publishedAt": "2026-09-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+              },
+              {
+                "id": "src-cb-41",
+                "title": "Eleições 2026: Clariana Barão defende diálogo e promete 'governo para o Brasil'",
+                "publisher": "Gazeta de São Paulo",
+                "url": "https://www.gazetasp.com.br/politica/eleicoes-2026-clariana-barao-defende-dialogo-e-promete-governo-para-o-brasil/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026); entrevista exclusiva em São Paulo sobre proteção às mulheres, segurança pública, crime organizado e polarização."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-cb-09",
+            "kind": "historico",
+            "title": "Agenda com lideranças e entidades locais em estados do Nordeste e Centro-Oeste",
+            "role": "candidata à Presidência",
+            "complexity": "agendas em Pernambuco (entrevistas e visita ao Alto do Moura, em Caruaru), Paraíba (entrevistas, almoço e encontros) e Mato Grosso (Cuiabá)",
+            "outcome": "agendas cumpridas com cobertura local; sem registro de apoio formal de outras legendas ou de lideranças estaduais",
+            "period": "2026",
+            "context": "Circulação em estados onde o partido tem diretórios, buscando interlocução com setores locais.",
+            "sources": [
+              {
+                "id": "src-cb-30",
+                "title": "Clariana Barão, candidata do Democracia Cristã à Presidência, faz campanha em Pernambuco (empreendedorismo e Região Nordeste)",
+                "publisher": "g1 (Globo) / Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/18/clariana-barao-candidata-do-democracia-crista-a-presidencia-faz-campanha-em-pernambuco.ghtml",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-cb-31",
+                "title": "Clariana Barão encerra agenda em Caruaru com visita ao Alto do Moura e destaca força do artesanato",
+                "publisher": "Francês News",
+                "url": "https://francesnews.com.br/post/2026/09/26/39659-no-alto-do-moura-clariana-barao-destaca-forca-do-artesanato-e-encerra-agenda-em-caruaru",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-cb-32",
+                "title": "Candidata à Presidência, Clariana Barão cumpre agenda na Paraíba (entrevistas, almoço e inauguração de espaço de campanha)",
+                "publisher": "Portal Arapuan",
+                "url": "https://portalarapuan.com.br/candidata-a-presidencia-clariana-barao-cumpre-agenda-na-paraiba/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-cb-33",
+                "title": "Clariana Barão faz campanha em Cuiabá e afirma que vai criar centros especializados no atendimento a mulheres vítimas de violência",
+                "publisher": "g1 (Globo) / Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/27/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-faz-campanha-em-cuiaba.ghtml",
+                "publishedAt": "2026-08-27",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Preside o diretório estadual do DC em Mato Grosso, estrutura que apresentou seu nome à candidatura presidencial em 2026. Formou a chapa com a advogada Fabiana Torquato como vice, em composição exclusivamente feminina, e manteve campanha itinerante com diretórios estaduais. A coordenação de equipes documentada anterior à política é a de grupo de voluntários no auxílio às enchentes do Rio Grande do Sul (2024) e a presidência de comissão na OAB de Várzea Grande; não há publicação de quadro de pessoal ou organograma da campanha.",
+        "coverage": "parcial",
+        "coverageNote": "Sem cargos executivos ou legislativos anteriores e sem publicação de estrutura de campanha: as evidências de formação e coordenação de equipes se limitam a diretório partidário estadual, comissão de OAB, grupo de voluntários e composição da chapa.",
+        "evidences": [
+          {
+            "id": "ev-cap-cb-10",
+            "kind": "historico",
+            "title": "Presidência do diretório estadual do DC em Mato Grosso",
+            "role": "presidente do diretório estadual; nome apresentado pela direção estadual (Marco Marrafon, responsável pela filiação, e Etevaldo Balbino, 1º vice-presidente estadual)",
+            "complexity": "alcance estadual (Mato Grosso); diretório que indicou a candidata à direção nacional",
+            "outcome": "assumiu a presidência do diretório em 2026 e teve o nome levado à reunião nacional de 08/07/2026",
+            "period": "2026",
+            "context": "Atuação em estrutura partidária estadual, sem histórico anterior de mandato.",
+            "sources": [
+              {
+                "id": "src-cb-03",
+                "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+              },
+              {
+                "id": "src-cb-07",
+                "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+                "publishedAt": "2026-08-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Entrevista de 39min45s; idade, naturalidade, formação e 'disputa pela 1ª vez uma eleição'."
+              },
+              {
+                "id": "src-cb-40",
+                "title": "Eleições 2026: Ficha de Clariana Barao (DC)",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/clariana-barao-280002552484.shtml",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ficha do candidato com dados do TSE: advogada nascida em Cuiabá (1987), formada pela Univag, presidiu comissão de assistência social na OAB, filiou-se ao DC e assumiu em 2026 a presidência do diretório estadual em MT."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-cb-11",
+            "kind": "historico",
+            "title": "Coordenação de equipe de voluntários em situação de emergência",
+            "role": "coordenadora do grupo de voluntários",
+            "complexity": "grupo formado para auxiliar vítimas das enchentes de maio de 2024 no Rio Grande do Sul; mobilização nacional em torno da catástrofe",
+            "outcome": "auxílio prestado às vítimas; informação de perfil, sem relatório público de execução",
+            "period": "2024",
+            "context": "Coordenação de pessoas fora de estrutura institucional, em cenário de calamidade.",
+            "sources": [
+              {
+                "id": "src-cb-03",
+                "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+              },
+              {
+                "id": "src-cb-15",
+                "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência (perfil)",
+                "publisher": "Blog do Doc",
+                "url": "https://blogdodoc.com/2026/08/17/clariana-barao-e-a-candidata-do-democracia-crista-a-presidencia",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Univag, OAB de Várzea Grande e enchentes do RS em 2024."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-cb-12",
+            "kind": "historico",
+            "title": "Formação de chapa e organização da campanha presidencial",
+            "role": "cabeça de chapa, com apoio da direção nacional do DC",
+            "complexity": "chapa 100% feminina registrada; campanha sustentada por diretórios estaduais, sem bancada parlamentar na Câmara dos Deputados (0/513)",
+            "outcome": "chapa registrada e campanha em curso com agendas em pelo menos três estados entre agosto e setembro de 2026",
+            "period": "2026",
+            "context": "Montagem de campanha nacional com estrutura partidária reduzida e sem coligação.",
+            "sources": [
+              {
+                "id": "src-cb-01",
+                "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+                "publisher": "TSE — Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+                "publishedAt": "2026-09-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Chapa Clariana Barão/Fabiana Torquato deferida na sessão virtual encerrada em 11/09/2026."
+              },
+              {
+                "id": "src-cb-10",
+                "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Bancada 2026 (0 federais, 0 senadores, 251 vereadores), filiados, história da legenda."
+              },
+              {
+                "id": "src-cb-32",
+                "title": "Candidata à Presidência, Clariana Barão cumpre agenda na Paraíba (entrevistas, almoço e inauguração de espaço de campanha)",
+                "publisher": "Portal Arapuan",
+                "url": "https://portalarapuan.com.br/candidata-a-presidencia-clariana-barao-cumpre-agenda-na-paraiba/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -6808,6 +8910,56 @@ export const researched: Partial<Candidate>[] = [
         "publishedAt": "2026-08-05",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa"
+      },
+      {
+        "id": "src-cb-42",
+        "title": "Partido DC aposta em renovação e anuncia advogada de MT à presidência da República",
+        "publisher": "Potência MT",
+        "url": "https://potenciamt.com.br/noticia/2696/partido-dc-aposta-em-renovacao-e-anuncia-advogada-de-mt-a-presidencia-da-republica",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada (2026). Anúncio após a desistência de Joaquim Barbosa; a então presidente do diretório estadual do DC em MT foi apresentada como candidata."
+      },
+      {
+        "id": "src-cb-40",
+        "title": "Eleições 2026: Ficha de Clariana Barao (DC)",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/clariana-barao-280002552484.shtml",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ficha do candidato com dados do TSE: advogada nascida em Cuiabá (1987), formada pela Univag, presidiu comissão de assistência social na OAB, filiou-se ao DC e assumiu em 2026 a presidência do diretório estadual em MT."
+      },
+      {
+        "id": "src-cb-43",
+        "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6x1",
+        "publisher": "Poder360",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+        "publishedAt": "2026-08-25",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Entrevista ao vivo; a candidata falou sobre plano de governo, reforma do STF, revisão dos processos de 8 de janeiro e fim da escala 6x1."
+      },
+      {
+        "id": "src-cb-41",
+        "title": "Eleições 2026: Clariana Barão defende diálogo e promete 'governo para o Brasil'",
+        "publisher": "Gazeta de São Paulo",
+        "url": "https://www.gazetasp.com.br/politica/eleicoes-2026-clariana-barao-defende-dialogo-e-promete-governo-para-o-brasil/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada (2026); entrevista exclusiva em São Paulo sobre proteção às mulheres, segurança pública, crime organizado e polarização."
+      },
+      {
+        "id": "src-cb-60",
+        "title": "Seis planos à direita: o que dizem os documentos que quase ninguém leu",
+        "publisher": "Contexto Brasil",
+        "url": "https://contextobrasil.com.br/seis-planos-a-direita-o-que-dizem-os-documentos-que-quase-ninguem-leu/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Analisa o documento do DC como versão preliminar de 15 páginas, com seis capítulos e sem diagnóstico do país."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -7620,7 +9772,586 @@ export const researched: Partial<Candidate>[] = [
       }
     ],
     "institutionalHistory": [],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O programa registrado no TSE descreve o Brasil a partir de cinco 'grandes transformações estruturais' (política; economia; área social e mundo do trabalho; serviços públicos e meio ambiente; relações internacionais) que levariam o país 'rumo ao Socialismo': Poder Popular com Conselhos Populares eleitos nos locais de trabalho, moradia e estudo, Orçamento Popular 100% deliberativo, Assembleia Constituinte de Novo Tipo convocada em dois anos, extinção do Senado e revogabilidade de mandatos; nacionalização e estatização do sistema monetário e financeiro com criação do Banco dos Trabalhadores; jornada de 30 horas semanais sem redução salarial e reforma agrária popular; saúde e educação 100% públicas. O programa afirma que 'o Brasil está maduro para o Socialismo' e rejeita 'saídas meramente reformistas', apresentando a revolução socialista como saída para os problemas da classe trabalhadora.",
+      "nationalPriorities": [
+        "Poder Popular e democracia direta (Conselhos Populares, Orçamento Popular deliberativo, Assembleia Constituinte de Novo Tipo e extinção do Senado)",
+        "Nacionalização e estatização do sistema monetário e financeiro (Banco dos Trabalhadores) e auditoria da dívida pública com suspensão de juros",
+        "Trabalho e direitos sociais: jornada de 30 horas semanais sem redução salarial, fim da escala 6x1 e salário mínimo no piso do Dieese",
+        "Saúde e educação 100% públicas e gratuitas, com estatização dos setores privados correspondentes",
+        "Segurança pública desmilitarizada e unificada, com fim da política de 'guerra às drogas'",
+        "Meio ambiente: combate ao desmatamento e ao garimpo ilegal, revisão do Código Florestal e taxação de emissões",
+        "Relações internacionais: integração regional (ALBA e Unasul) e solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental"
+      ],
+      "developmentModel": "Atribui ao Estado o comando da economia: nacionalização e estatização do sistema monetário e financeiro, Banco dos Trabalhadores para os fundos previdenciários e de seguridade, reestatização das empresas privatizadas, Petrobras 100% estatal, controle do câmbio e do comércio exterior, revogação do arcabouço fiscal, da Lei de Responsabilidade Fiscal e da autonomia do Banco Central (cuja diretoria passaria a ter representantes de centrais sindicais, do Dieese e do Cofecon), substituição da LRF por uma 'Lei de Responsabilidade Social' e BNDES como financiador. Crescimento associado a reindustrialização, investimento público e 'fronteiras tecnológicas' (CEITEC/semicondutores, monopólio estatal de terras raras e minerais críticos) e a reforma tributária progressiva com imposto sobre lucros, dividendos, grandes fortunas, transações financeiras e heranças. O setor privado é objeto de estatização nos setores considerados estratégicos (saúde, ensino, comunicações, saneamento, energia e indústria bélica) e o agronegócio é expropriado pela reforma agrária popular. Desigualdade tratada por cotas (54% para a população negra e 70% a 80% para egressos de escola pública), recuperação do salário mínimo até o piso do Dieese em quatro anos, ampliação da licença-maternidade e paternidade para um ano e legalização do aborto. Meio ambiente descrito como 'luta anticapitalista', com revisão do Código Florestal, ampliação de unidades de conservação, restrição a descartáveis plásticos e taxação de emissões.",
+      "sources": [
+        {
+          "id": "src-ec-70",
+          "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+          "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+        },
+        {
+          "id": "src-ec-71",
+          "title": "PCB oficializa candidaturas à Presidência",
+          "publisher": "Partido Comunista Brasileiro (PCB)",
+          "url": "https://pcb.org.br/portal2/34109",
+          "publishedAt": "2026-08-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+        },
+        {
+          "id": "src-ec-72",
+          "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+          "publisher": "Partido Comunista Brasileiro (PCB)",
+          "url": "https://pcb.org.br/portal2/16925",
+          "publishedAt": "2017-11-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+        }
+      ],
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "methodology": "Extraído do plano registrado no TSE — 'Programa do Partido Comunista Brasileiro (PCB) para as Eleições Presidenciais de 2026: Construir o Poder Popular, rumo ao Socialismo', 16 páginas, aprovado na convenção de 01/08/2026 —, do mesmo texto publicado pelo partido em 15/08/2026 e de entrevista do candidato ao jornal O Poder Popular. O documento registrado é o próprio programa do PCB adotado pela candidatura, e não um plano de governo redigido para o mandato: visão, prioridades e modelo de desenvolvimento são declarações programáticas do partido assumidas pelo candidato, o que motiva a marcação de 'parcial'. O índice do TSE agrupa as propostas da candidatura em 8 categorias fixas e iguais para todos os candidatos, e não em prioridades declaradas por este candidato; as prioridades acima vêm das seções do próprio programa (as cinco transformações estruturais e os 21 pontos da plataforma). Não foram extraídos custos, prazos, metas quantificadas nem fonte de financiamento por proposta, e não há registro de implementação: o candidato nunca exerceu cargo executivo ou legislativo.",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Direção nacional do PCB como secretário-geral desde 17/10/2016, com convenção nacional eleitoral em 01/08/2026, programa registrado no TSE e candidatura presidencial deferida. A trajetória anterior inclui quatro campanhas próprias entre 2008 e 2014 (prefeitura de São Paulo, vice-presidência, vice-prefeitura e Senado), todas não eleitas. Não há passagem por cargo executivo estatal: as entregas verificáveis são de organização partidária e de campanha.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-ec-01",
+            "kind": "historico",
+            "title": "Direção nacional do PCB e realização da Convenção Nacional Eleitoral de 2026",
+            "role": "secretário-geral nacional do PCB (13º titular, indicado pelo Comitê Central em 17/10/2016)",
+            "complexity": "alcance nacional; direção de partido com estruturas de organização, frente sindical, juventude, coletivo feminista e movimento negro e fundação; 10 anos no cargo no momento do pleito",
+            "outcome": "convenção nacional realizada em 01/08/2026 na Câmara Municipal de São Paulo; chapa Edmilson Costa/Cleusa Santos homologada e registro deferido, entre as 12 chapas à Presidência divulgadas pelo TSE em 11/09/2026",
+            "period": "2016–2026",
+            "context": "PCB sem bancada no Congresso (0 deputados e 0 senadores em exercício em 29/09/2026) e sem coligação; campanha sustentada por doação partidária e financiamento coletivo",
+            "sources": [
+              {
+                "id": "src-ec-03",
+                "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+              },
+              {
+                "id": "src-ec-07",
+                "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+              },
+              {
+                "id": "src-ec-01",
+                "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+                "publisher": "Folha de S.Paulo (dados: TSE)",
+                "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+              },
+              {
+                "id": "src-ec-71",
+                "title": "PCB oficializa candidaturas à Presidência",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/34109",
+                "publishedAt": "2026-08-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+              },
+              {
+                "id": "src-ec-73",
+                "title": "Edmilson Costa pré-candidato à presidência do Brasil",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/33675",
+                "publishedAt": "2026-02-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Comunicado: o Comitê Central do PCB, em reunião no início de fevereiro de 2026, decidiu lançar Edmilson Costa pré-candidato à Presidência ('Por um governo do Poder Popular')."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-ec-02",
+            "kind": "historico",
+            "title": "Programa eleitoral de 2026 aprovado em convenção e registrado no TSE",
+            "role": "secretário-geral e candidato (programa aprovado pela Convenção Nacional)",
+            "complexity": "documento programático para as eleições presidenciais, com eixos de dívida pública, Senado e 'poder popular'; registrado na Justiça Eleitoral",
+            "outcome": "programa 'Construir o Poder Popular, rumo ao Socialismo' protocolado no TSE (documento DivulgaCandContas 280017107286) e publicado pelo partido",
+            "period": "2026",
+            "context": "partido isolado, sem financiamento empresarial; a proposta de suspensão do pagamento da dívida pública e de extinção do Senado foi divulgada na convenção",
+            "sources": [
+              {
+                "id": "src-ec-74",
+                "title": "Programa do PCB para as Eleições Presidenciais de 2026 — Construir o Poder Popular, rumo ao Socialismo",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/34147",
+                "publishedAt": "2026-08-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Programa aprovado na convenção nacional de 01/08/2026 e registrado no TSE (documento do DivulgaCandContas 280017107286; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026)."
+              },
+              {
+                "id": "src-ec-71",
+                "title": "PCB oficializa candidaturas à Presidência",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/34109",
+                "publishedAt": "2026-08-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+              },
+              {
+                "id": "src-ec-06",
+                "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+                "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+                "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-ec-03",
+            "kind": "historico",
+            "title": "Execução da campanha presidencial de 2026 com receita de R$ 25.971,00",
+            "role": "candidato à Presidência (chapa pura do PCB)",
+            "complexity": "campanha nacional custeada por 9 doadores; gasto contratado de R$ 22.531,22 (0,0% do limite legal de R$ 88.944.030,80), com 53% em material impresso",
+            "outcome": "campanha registrada e deferida; prestação de contas parcial entregue ao TSE até 08/09/2026",
+            "period": "2026",
+            "context": "estimativa de recursos muito inferior à dos demais candidatos; sem coligação, sem bancada federal e sem estrutura estadual registrada",
+            "sources": [
+              {
+                "id": "src-ec-02",
+                "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+              },
+              {
+                "id": "src-ec-01",
+                "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+                "publisher": "Folha de S.Paulo (dados: TSE)",
+                "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-ec-04",
+            "kind": "historico",
+            "title": "Quatro campanhas próprias executadas entre 2008 e 2014 em três esferas",
+            "role": "candidato pelo PCB a prefeito de São Paulo (2008), vice-presidente (2010) e senador por SP (2014); vice na chapa do PSOL em SP (2012)",
+            "complexity": "4 campanhas em 7 anos (municipal, estadual e nacional), com chapas próprias do PCB em 2008, 2010 e 2014 e chapa conjunta em 2012",
+            "outcome": "votações registradas no TSE: 4.300 (2008), 39.136 (2010, chapa), 62.431 (2012, chapa) e 12.102 (2014); nenhuma eleição vencida",
+            "period": "2008–2014",
+            "context": "partido de quadro reduzido, sem bancada no Congresso no período",
+            "sources": [
+              {
+                "id": "src-ec-02",
+                "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+              },
+              {
+                "id": "src-ec-10",
+                "title": "PCB oficializa candidatura própria à presidência e ao governo de SP (2014)",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/06/pcb-oficializa-candidatura-propria-presidencia-e-ao-governo-de-sp.html",
+                "publishedAt": "2014-06-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção do PCB de 21/06/2014; o partido lançou chapa própria à presidência e ao governo de SP. A candidatura de Edmilson Costa ao Senado por SP em 2014 é confirmada pelo histórico do Nexo/TSE (12.102 votos)."
+              },
+              {
+                "id": "src-ec-06",
+                "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+                "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+                "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+              },
+              {
+                "id": "src-ec-09",
+                "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+                "publisher": "PSOL 50 (site da seção de São Paulo)",
+                "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+                "publishedAt": "2012-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "Articulação documentada em três frentes: coligação Frente de Esquerda com o PSOL em São Paulo (2012), delegação do PCB ao 19º Encontro Internacional de Partidos Comunistas e Operários (Rússia, 2017) e sucessão interna no partido em 2016, por indicação unânime do Comitê Central. Em 2026 o PCB disputa isolado, sem coligação ou federação, com 0 deputados e 0 senadores em exercício; não há registro de negociação legislativa nem de mesa de negociação com o poder público.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-ec-05",
+            "kind": "historico",
+            "title": "Coligação Frente de Esquerda (PSOL + PCB) em São Paulo, 2012",
+            "role": "candidato a vice-prefeito pela coligação (indicado pelo PCB)",
+            "complexity": "acordo entre dois partidos de esquerda com direções e táticas distintas; chapa conjunta com campanha própria e apresentação pública conjunta",
+            "outcome": "coligação formalizada e chapa registrada, com 62.431 votos; não eleita",
+            "period": "2012",
+            "context": "PCB e PSOL mantinham posições divergentes sobre coligações; a chapa foi apresentada pelos dois partidos como frente comum na capital paulista",
+            "sources": [
+              {
+                "id": "src-ec-09",
+                "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+                "publisher": "PSOL 50 (site da seção de São Paulo)",
+                "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+                "publishedAt": "2012-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+              },
+              {
+                "id": "src-ec-75",
+                "title": "Para Edmilson Costa (PCB), Russomanno é um novo Collor",
+                "publisher": "PSOL São Paulo (psol50sp.org.br)",
+                "url": "https://psol50sp.org.br/2012/09/para-edmilson-costa-pcb-russomanno-e-um-novo-collor/",
+                "publishedAt": "2012-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Material de campanha de 2012: o candidato a vice-prefeito da Frente de Esquerda (PSOL/PCB) apresenta a chapa como instrumento 'pedagógico' para construir 'uma nova forma de fazer política'."
+              },
+              {
+                "id": "src-ec-02",
+                "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-ec-06",
+            "kind": "historico",
+            "title": "Delegação do PCB ao 19º Encontro Internacional de Partidos Comunistas e Operários (Rússia, 2017)",
+            "role": "secretário-geral nacional, à frente da delegação do PCB",
+            "complexity": "encontro internacional em Petrogrado e Moscou reunindo organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas; duração de dias, fora do país",
+            "outcome": "participação registrada em nota oficial do partido com a composição nominal da delegação (secretário-geral, secretário de Organização, secretário de Relações Internacionais e membro do Comitê Central)",
+            "period": "2017",
+            "context": "a articulação externa do PCB se dá em fóruns de partidos comunistas, sem assento em organismos multilaterais",
+            "sources": [
+              {
+                "id": "src-ec-72",
+                "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/16925",
+                "publishedAt": "2017-11-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+              },
+              {
+                "id": "src-ec-03",
+                "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-ec-07",
+            "kind": "historico",
+            "title": "Sucessão na secretaria-geral do PCB (2016) por indicação unânime do Comitê Central",
+            "role": "indicado por unanimidade pelo Comitê Central em reunião de 8 e 9/10/2016 e empossado em 17/10/2016",
+            "complexity": "processo sucessório da direção nacional, após carta de afastamento do titular anterior (Ivan Pinheiro), com comunicado oficial e carta pública do novo secretário-geral à militância",
+            "outcome": "transição concluída em 17/10/2016, sem cisão registrada nas fontes; permanência no cargo até o pleito de 2026",
+            "period": "2016",
+            "context": "não há dados públicos sobre votação interna além da indicação por unanimidade do Comitê Central",
+            "sources": [
+              {
+                "id": "src-ec-76",
+                "title": "EDMILSON COSTA SUBSTITUI IVAN PINHEIRO NA SECRETARIA GERAL DO PCB",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/12396",
+                "publishedAt": "2016-10-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Comunicado da Comissão Política Nacional (17/10/2016): Ivan Pinheiro formalizou o afastamento em reunião do Comitê Central (8 e 9/10/2016), que indicou Edmilson Costa por unanimidade; inclui a carta pública do novo secretário-geral à militância."
+              },
+              {
+                "id": "src-ec-03",
+                "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+              },
+              {
+                "id": "src-ec-07",
+                "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-ec-08",
+            "kind": "historico",
+            "title": "Composição de chapa pura com vice de outro estado e convenção em prédio público (2026)",
+            "role": "candidato à Presidência (chapa pura PCB) e responsável pela articulação da chapa junto à direção partidária",
+            "complexity": "composição com vice de outro estado (Cleusa dos Santos, Goiânia/GO) e realização da convenção nacional na Câmara Municipal de São Paulo; ausência de coligações ou federações registradas",
+            "outcome": "chapa homologada em 01/08/2026 e registro deferido, entre as 12 chapas válidas",
+            "period": "2026",
+            "context": "o PCB não integra federação partidária nem coligação em 2026; a articulação se dá dentro do partido e no campo do movimento, não entre legendas",
+            "sources": [
+              {
+                "id": "src-ec-07",
+                "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+              },
+              {
+                "id": "src-ec-71",
+                "title": "PCB oficializa candidaturas à Presidência",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/34109",
+                "publishedAt": "2026-08-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+              },
+              {
+                "id": "src-ec-01",
+                "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+                "publisher": "Folha de S.Paulo (dados: TSE)",
+                "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Chefia da estrutura nacional do PCB: secretariado desde 2016, integração da Comissão Política Nacional desde 2001, delegações internacionais com dirigentes designados por função e manutenção de imprensa e fundação partidárias. A formação de quadros aparece na docência universitária declarada (mais de 20 anos de magistério em 2008) e na produção de obras de análise econômica, sem dados públicos sobre quantidade de quadros formados.",
+        "coverage": "parcial",
+        "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+        "evidences": [
+          {
+            "id": "ev-cap-ec-09",
+            "kind": "historico",
+            "title": "Chefia da estrutura nacional do PCB e integração de órgão de direção colegiado",
+            "role": "secretário-geral nacional desde 2016; membro da Comissão Política Nacional do PCB desde 2001",
+            "complexity": "direção de estrutura com órgãos colegiados, secretarias nacionais (Organização e Relações Internacionais), imprensa partidária, frente sindical, juventude e fundação; 10 anos no cargo mais alto",
+            "outcome": "partido em atividade eleitoral em 2026 (registro deferido) e delegações internacionais compostas por dirigentes designados por função",
+            "period": "2001–2026",
+            "context": "as fontes públicas consultadas não informam número de filiados, de dirigentes nem de pessoal remunerado do partido",
+            "sources": [
+              {
+                "id": "src-ec-03",
+                "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+              },
+              {
+                "id": "src-ec-72",
+                "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/16925",
+                "publishedAt": "2017-11-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+              },
+              {
+                "id": "src-ec-71",
+                "title": "PCB oficializa candidaturas à Presidência",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/34109",
+                "publishedAt": "2026-08-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ec-10",
+            "kind": "historico",
+            "title": "Chefia de delegação internacional com dirigentes designados por função",
+            "role": "chefe da delegação (secretário-geral), com o secretário de Organização, o secretário de Relações Internacionais e um membro do Comitê Central",
+            "complexity": "coordenação de quatro dirigentes com funções distintas em agenda internacional de vários dias, com relato de experiências e formulação de propostas de ação conjunta",
+            "outcome": "nota oficial do partido com a composição nominal da delegação e o objeto do encontro",
+            "period": "2017",
+            "context": "a delegação é o instrumento de representação externa do partido; não há dados sobre delegações anteriores ou posteriores",
+            "sources": [
+              {
+                "id": "src-ec-72",
+                "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+                "publisher": "Partido Comunista Brasileiro (PCB)",
+                "url": "https://pcb.org.br/portal2/16925",
+                "publishedAt": "2017-11-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ec-11",
+            "kind": "historico",
+            "title": "Docência universitária prolongada e titulação em Economia (Unicamp)",
+            "role": "professor universitário e doutor em Economia pela Unicamp (pós-doutorado no IFCH, segundo a Agência Brasil)",
+            "complexity": "mais de 20 anos de magistério declarados em 2008; formação superior em Comunicação Social (UFMA) e atuação como jornalista antes da docência",
+            "outcome": "docência continuada por mais de duas décadas até 2008; as fontes consultadas não registram instituições de vínculo, disciplinas ou número de alunos",
+            "period": "até 2008 (declaração)",
+            "context": "as fontes não identificam as instituições de ensino nem resultados de formação; a ausência de dados é registrada aqui e não suprida por estimativa",
+            "sources": [
+              {
+                "id": "src-ec-08",
+                "title": "PCB confirma candidatura de Edmilson Costa à Prefeitura de São Paulo (texto original do G1/Globo de 21/06/2008, reproduzido por réplica)",
+                "publisher": "Globo.com (réplica: hlera.com.br)",
+                "url": "https://noticia.hlera.com.br/politica/pcb-confirma-candidatura-de-edmilson-costa-a-prefeitura-de-sao-paulo/",
+                "publishedAt": "2008-06-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "URL original do G1 (2008) não localizada; réplica preserva o texto. Convenção do PCB de 21/06/2008: candidato a prefeito, professor universitário e doutor em economia pela Unicamp, '30 anos de militância' e 'mais de 20 anos de magistério'; vice jornalista Fernanda Mendes; cerca de 10 mil filiados na capital."
+              },
+              {
+                "id": "src-ec-06",
+                "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+                "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+                "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+              },
+              {
+                "id": "src-ec-01",
+                "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+                "publisher": "Folha de S.Paulo (dados: TSE)",
+                "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-ec-12",
+            "kind": "historico",
+            "title": "Autoria de obras sobre capitalismo contemporâneo e crise econômica mundial",
+            "role": "autor (economista e escritor)",
+            "complexity": "obras de análise econômica e livros de poesia publicados, citados em perfis de imprensa",
+            "outcome": "produção bibliográfica registrada em fontes de imprensa (Agência Brasil/Terra); títulos e editoras não localizados nas fontes desta rodada",
+            "period": "não informado",
+            "context": "os títulos e as editoras das obras não foram localizados; a evidência se limita à existência da produção citada em perfil de agência pública",
+            "sources": [
+              {
+                "id": "src-ec-06",
+                "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+                "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+                "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -8635,6 +11366,76 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "partidaria",
         "notes": "Convenção estadual do PCB-MG em 26/07/2026, na ALMG, oficializou chapa própria (Túlio Lopes ao governo); o texto registra que 'o partido definirá posteriormente sobre eventuais apoios a candidaturas ao Senado e à Câmara Federal'. Fonte do partido — usada com marcação partidária."
+      },
+      {
+        "id": "src-ec-71",
+        "title": "PCB oficializa candidaturas à Presidência",
+        "publisher": "Partido Comunista Brasileiro (PCB)",
+        "url": "https://pcb.org.br/portal2/34109",
+        "publishedAt": "2026-08-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+      },
+      {
+        "id": "src-ec-73",
+        "title": "Edmilson Costa pré-candidato à presidência do Brasil",
+        "publisher": "Partido Comunista Brasileiro (PCB)",
+        "url": "https://pcb.org.br/portal2/33675",
+        "publishedAt": "2026-02-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Comunicado: o Comitê Central do PCB, em reunião no início de fevereiro de 2026, decidiu lançar Edmilson Costa pré-candidato à Presidência ('Por um governo do Poder Popular')."
+      },
+      {
+        "id": "src-ec-74",
+        "title": "Programa do PCB para as Eleições Presidenciais de 2026 — Construir o Poder Popular, rumo ao Socialismo",
+        "publisher": "Partido Comunista Brasileiro (PCB)",
+        "url": "https://pcb.org.br/portal2/34147",
+        "publishedAt": "2026-08-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Programa aprovado na convenção nacional de 01/08/2026 e registrado no TSE (documento do DivulgaCandContas 280017107286; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026)."
+      },
+      {
+        "id": "src-ec-75",
+        "title": "Para Edmilson Costa (PCB), Russomanno é um novo Collor",
+        "publisher": "PSOL São Paulo (psol50sp.org.br)",
+        "url": "https://psol50sp.org.br/2012/09/para-edmilson-costa-pcb-russomanno-e-um-novo-collor/",
+        "publishedAt": "2012-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Material de campanha de 2012: o candidato a vice-prefeito da Frente de Esquerda (PSOL/PCB) apresenta a chapa como instrumento 'pedagógico' para construir 'uma nova forma de fazer política'."
+      },
+      {
+        "id": "src-ec-72",
+        "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+        "publisher": "Partido Comunista Brasileiro (PCB)",
+        "url": "https://pcb.org.br/portal2/16925",
+        "publishedAt": "2017-11-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+      },
+      {
+        "id": "src-ec-76",
+        "title": "EDMILSON COSTA SUBSTITUI IVAN PINHEIRO NA SECRETARIA GERAL DO PCB",
+        "publisher": "Partido Comunista Brasileiro (PCB)",
+        "url": "https://pcb.org.br/portal2/12396",
+        "publishedAt": "2016-10-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Comunicado da Comissão Política Nacional (17/10/2016): Ivan Pinheiro formalizou o afastamento em reunião do Comitê Central (8 e 9/10/2016), que indicou Edmilson Costa por unanimidade; inclui a carta pública do novo secretário-geral à militância."
+      },
+      {
+        "id": "src-ec-70",
+        "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+        "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -9700,7 +12501,539 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O plano parte da crítica de que 'o Estado brasileiro possui o vício de enxergar a realidade em pedaços' e propõe resposta integrada: 'governar é olhar para a vida das pessoas como ela realmente é'. A alternativa proposta é descrita como 'liberal, conservadora, reformista e corajosa', com 'um Estado eficiente, que cumpra bem o que é seu dever, pare de atrapalhar quem trabalha e volte a servir o cidadão'. A segurança pública é apresentada como condição para os demais temas ('a soberania começa na porta da sua casa'), e o eixo 'Brasil que cumpre a Constituição' reúne reforma do Judiciário, reforma política e limites a decisões monocráticas do STF. O horizonte é o mandato 2027–2030, sem metas quantificadas de 10 a 20 anos.",
+      "nationalPriorities": [
+        "Segurança pública ('Brasil sem medo'): facções declaradas organizações narcoterroristas, redução da maioridade penal para 16 anos e ampliação do sistema prisional",
+        "Corte de gastos e responsabilidade fiscal ('Tesouraço'), com novo teto de gastos e mais controle sobre emendas",
+        "Redução de impostos e do custo de vida ('Brasil mais barato'): menos imposto sobre consumo, conta de luz e crédito",
+        "Desburocratização e Estado digital ('Brasil sem fila'), com serviços unificados e inteligência artificial no atendimento ao cidadão",
+        "Educação e preparação para o trabalho ('Brasil que prepara'), com saúde preventiva e apoio no cuidado de crianças e idosos",
+        "Infraestrutura, energia, agronegócio, minerais críticos e tecnologia ('Brasil que cresce'), com R$ 900 bilhões em quatro anos em logística",
+        "Reforma do Judiciário, reforma política e limites a decisões monocráticas do STF ('Brasil que cumpre a Constituição')"
+      ],
+      "developmentModel": "O papel atribuído ao Estado é criar condições para que as famílias 'conquistem autonomia, prosperidade e liberdade'; a proteção social é mantida e aperfeiçoada, descrita como 'o começo de uma trilha que leva à qualificação, ao trabalho, ao crédito e ao patrimônio', e a imprensa registra a manutenção dos programas sociais existentes. O crescimento é associado a segurança jurídica ('a regra do início é a regra do fim'), marcos regulatórios estáveis, PPPs e concessões para infraestrutura, com investimento declarado de R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias, fundo lastreado na securitização de ativos e imóveis da União e BNDES voltado a obras em território brasileiro. Os eixos setoriais incluem energia, agronegócio, minerais críticos, meio ambiente tratado como 'ativo verde', turismo, desenvolvimento regional e tecnologia e inovação, com inteligência artificial 'a serviço do cidadão'. A redução de impostos sobre o consumo, o crédito via CAIXA para empreendedores e o corte de gastos federais aparecem como instrumentos para reduzir o custo de vida e a dívida pública. Há eixo específico para mulheres ('Brasil por elas') e a reforma institucional é apresentada em capítulo próprio ('Brasil que não volta atrás'), com enxugamento da máquina e profissionalização da gestão pública.",
+      "sources": [
+        {
+          "id": "src-plano-pdf",
+          "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+          "publisher": "Poder360 (cópia do documento de campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+        },
+        {
+          "id": "src-flavio-82",
+          "title": "Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030 (íntegra publicada pela campanha)",
+          "publisher": "Campanha Flávio Bolsonaro (site oficial) — leitura do plano",
+          "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão publicada pela própria campanha (76 páginas, 11 capítulos), usada para conferir a estrutura de eixos do PDF espelhado pelo Poder360."
+        },
+        {
+          "id": "src-g1-plano",
+          "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+          "publisher": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+        },
+        {
+          "id": "src-estadao-plano",
+          "title": "Flávio propõe prisões a la Bukele, classificar facções como narcoterroristas e reformar Judiciário",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Matéria localizada e lida durante a pesquisa; URL do artigo isolado não preservada — slug não reconstruído com segurança."
+        },
+        {
+          "id": "src-flavio-80",
+          "title": "Plano de governo de Flávio Bolsonaro propõe tesouraço e novo teto de gastos",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/plano-de-governo-de-flavio-bolsonaro-propoe-tesouraco-e-novo-teto-de-gastos.shtml",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Registra que o documento prevê corte de gastos e novo teto, com mais controle sobre emendas, sem detalhar a regra fiscal."
+        },
+        {
+          "id": "src-flavio-81",
+          "title": "Flávio propõe manter programas do PT, Caixa Federal repaginada e foco em terras raras e data centers",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/flavio-propoe-manter-programas-do-pt-caixa-federal-repaginada-e-foco-em-terras-raras-e-data-centers/",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Leitura do plano sobre proteção social (manutenção de programas existentes), uso da CAIXA e eixos de terras raras e data centers."
+        },
+        {
+          "id": "src-site-oficial",
+          "title": "Saiba tudo sobre Flávio Bolsonaro — campanha presidencial 2026",
+          "publisher": "Campanha Flávio Bolsonaro (Presidente 22)",
+          "url": "https://www.flaviobolsonaro.com.br/flavio",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Fonte do próprio candidato (Lei 7.809/2017, comissões, formação) — tratar como afirmação de campanha."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "methodology": "Lido do texto integral do plano 'Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030' (apresentação, valores, 'jornada do cidadão' e eixos temáticos) e conferido com a cobertura de imprensa de 13/08/2026. As 7 prioridades correspondem a eixos e capítulos declarados pelo próprio plano, na sua ordem de apresentação; eixos como 'Brasil por elas' e proteção social estão descritos no modelo de desenvolvimento em vez de contados como prioridade separada. A Folha registra que o documento prevê corte de gastos e novo teto sem detalhar a regra fiscal.",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "A entrega legislativa documentada é a relatoria do PL 2253/2022 no Senado, que resultou na Lei 14.843/2024 (aprovado por 62 votos a 2), e 2 projetos aprovados no Senado entre 62 apresentados como autor principal, sem lei própria convertida; como coautor, registra 2 leis. A atuação estadual inclui a autoria declarada da Lei estadual 7.809/2017 (fonte da campanha, não conferida na base de legislação da ALERJ) e a eleição ao Senado em 2018 com 4.380.418 votos, liderando em 84 dos 92 municípios do RJ. Em 2026, registrou plano de governo com 69 diretrizes no TSE e anunciou equipe setorial para detalhá-lo em 18/08/2026.",
+        "coverage": "parcial",
+        "coverageNote": "Trajetória sem cargo no Executivo (ALERJ 2003–2019 e Senado 2019–atual). As evidências de execução são de mandato legislativo e de campanha; não há gestão orçamentária própria a observar.",
+        "evidences": [
+          {
+            "id": "ev-cap-flavio-01",
+            "kind": "historico",
+            "title": "Relatoria do PL 2253/2022 no Senado (fim da saída temporária e monitoração eletrônica)",
+            "role": "Senador — relator da matéria no Senado, com parecer apresentado em pronunciamento registrado em 20/02/2024",
+            "complexity": "Matéria de alcance nacional que altera a Lei de Execução Penal; aprovada no Senado por 62 votos a favor, 2 contrários e 1 abstenção em 20/02/2024",
+            "outcome": "Norma gerada: Lei nº 14.843, de 11/04/2024; o texto voltou à Câmara por ter sido alterado no Senado",
+            "period": "2022–2024",
+            "context": "Tema de segurança pública, área em que concentra mais da metade das propostas de sua autoria no Senado.",
+            "sources": [
+              {
+                "id": "src-flavio-02",
+                "title": "PL 2253/2022 — relatoria no Senado; norma gerada: Lei nº 14.843, de 11/04/2024",
+                "publisher": "Congresso Nacional — Atividade Legislativa",
+                "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/154451",
+                "publishedAt": "2024-04-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Ficha de tramitação da matéria relatada no Senado; votação de 20/02/2024 (62 a favor, 2 contra, 1 abstenção)."
+              },
+              {
+                "id": "src-senado-pronunciamento",
+                "title": "Pronunciamento de Flávio Bolsonaro em 20/02/2024 (relator do PL 2253/2022)",
+                "publisher": "Senado Federal",
+                "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503985",
+                "publishedAt": "2024-02-20",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-flavio-02",
+            "kind": "historico",
+            "title": "Produção legislativa como autor principal e coautor no Senado (2019–2026)",
+            "role": "Senador — autor principal das proposições e coautor em matérias de terceiros",
+            "complexity": "Levantamento com dados oficiais do Senado sobre sete anos de mandato: 62 proposições de autoria principal; 2 aprovadas no Senado e nenhuma convertida em lei; como coautor, 9 aprovadas e 2 convertidas em lei",
+            "outcome": "Resultado registrado: sem lei própria convertida até a data do levantamento (abr/2026), com 2 projetos aprovados no Senado",
+            "period": "2019–2026",
+            "context": "Levantamentos independentes (UOL/Agenda do Poder e Brasil de Fato) usam os registros públicos de proposições do Senado.",
+            "sources": [
+              {
+                "id": "src-agenda-poder-legis",
+                "title": "Em 7 anos no Senado, Flávio Bolsonaro teve apenas 2 projetos aprovados e nenhum deles virou lei",
+                "publisher": "Agenda do Poder / UOL",
+                "url": "https://agendadopoder.com.br/em-7-anos-no-senado-flavio-bolsonaro-teve-apenas-2-projetos-aprovados-e-nenhum-deles-virou-lei",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Levantamento com dados oficiais do Senado: 62 projetos autor principal, 47ª entre 54 senadores."
+              },
+              {
+                "id": "src-brasildefato-legis",
+                "title": "Em sete anos, Flávio Bolsonaro teve apenas um projeto de lei aprovado no Congresso",
+                "publisher": "Brasil de Fato",
+                "url": "https://www.brasildefato.com.br/2026/04/02/em-sete-anos-flavio-bolsonaro-teve-apenas-um-projeto-de-lei-aprovado-no-congresso",
+                "publishedAt": "2026-04-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "PL 3.190/2023, único aprovado nas duas Casas até então."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-flavio-03",
+            "kind": "historico",
+            "title": "Campanha ao Senado em 2018 — execução da candidatura estadual",
+            "role": "Candidato a senador (PSL) — responsável pela estrutura de campanha no estado",
+            "complexity": "Alcance estadual (RJ, 92 municípios); 4.380.418 votos, 31,36% dos válidos; gastos de campanha prestados à Justiça Eleitoral",
+            "outcome": "Eleito; foi o candidato a senador com votação à frente dos demais no estado em 2018 e o mais votado em 84 dos 92 municípios",
+            "period": "2018",
+            "context": "Primeira disputa majoritária estadual após quatro mandatos na ALERJ.",
+            "sources": [
+              {
+                "id": "src-uol-2018",
+                "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado",
+                "publisher": "UOL",
+                "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm",
+                "publishedAt": "2018-10-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "4.380.418 votos, 31,36%."
+              },
+              {
+                "id": "src-agenciabrasil-2018",
+                "title": "Flávio Bolsonaro e Arolde de Oliveira são eleitos para Senado pelo RJ",
+                "publisher": "Agência Brasil",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-para-senado-pelo-rj",
+                "publishedAt": "2018-10-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estatistico",
+                "notes": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-flavio-04",
+            "kind": "historico",
+            "title": "Registro e apresentação do plano de governo 2026 (69 diretrizes)",
+            "role": "Candidato à Presidência — responsável pelo programa registrado no TSE e pela apresentação pública",
+            "complexity": "Documento com 69 diretrizes organizadas por área (segurança, economia, infraestrutura, administração pública); apresentação em live em 13/08/2026 com aliados",
+            "outcome": "Plano registrado junto ao TSE em agosto de 2026 e apresentado publicamente em 13/08/2026",
+            "period": "2026",
+            "context": "Registro documental do programa é o insumo de comparação das propostas; a apresentação foi feita pelo próprio candidato.",
+            "sources": [
+              {
+                "id": "src-plano-pdf",
+                "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+                "publisher": "Poder360 (cópia do documento de campanha)",
+                "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+              },
+              {
+                "id": "src-g1-plano",
+                "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+                "publisher": "G1",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+                "publishedAt": "2026-08-13",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-flavio-05",
+            "kind": "historico",
+            "title": "Lei estadual 7.809/2017 — autoria declarada sobre devolução de descontos em contracheques de policiais e bombeiros",
+            "role": "Deputado estadual na ALERJ — autor declarado da proposição",
+            "complexity": "Alcance estadual (RJ); obriga o Estado a devolver valores descontados indevidamente de policiais e bombeiros militares",
+            "outcome": "Norma citada pelo site oficial da campanha; a ficha da lei não foi localizada na base de legislação da ALERJ nesta rodada",
+            "period": "2017",
+            "context": "Única lei estadual atribuída à sua autoria nas fontes consultadas; o dado consta do site oficial do candidato e não foi conferido em fonte primária.",
+            "sources": [
+              {
+                "id": "src-site-oficial",
+                "title": "Saiba tudo sobre Flávio Bolsonaro — campanha presidencial 2026",
+                "publisher": "Campanha Flávio Bolsonaro (Presidente 22)",
+                "url": "https://www.flaviobolsonaro.com.br/flavio",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Fonte do próprio candidato (Lei 7.809/2017, comissões, formação) — tratar como afirmação de campanha."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "A articulação eleitoral registrada inclui o apoio a 47 candidatos ao Senado de nove partidos (06/08/2026), reunião com cerca de 50 postulantes para alinhar campanhas (11/08/2026) e atuação na janela partidária de abril de 2026, quando o PL teve o ganho líquido de deputados. O diálogo setorial documentado é com empresários e mercado financeiro (visita à Fiesp e agendas em São Paulo em 24/08/2026). A chapa presidencial foi registrada sem coligação ou federação, com vice do próprio partido, após exploração de alianças com PP e União Brasil sem registro no TSE.",
+        "coverage": "parcial",
+        "coverageNote": "No recorte 2025–2026 não foram localizados encontros com centrais sindicais ou com lideranças da oposição; o material disponível é de articulação partidária e de diálogo com o setor produtivo.",
+        "evidences": [
+          {
+            "id": "ev-cap-flavio-06",
+            "kind": "historico",
+            "title": "Apoio declarado a 47 candidatos ao Senado de nove partidos",
+            "role": "Candidato à Presidência — anunciou e coordenou a lista de apoios a candidatos ao Senado",
+            "complexity": "47 candidatos ao Senado em nove siglas; reunião nacional com cerca de 50 postulantes em Brasília para alinhar campanhas e ampliar palanques estaduais",
+            "outcome": "Lista anunciada em 06/08/2026 e encontro realizado em 11/08/2026; objetivo declarado de formar bancada alinhada e ampliar palanques nos estados",
+            "period": "2026",
+            "context": "Estratégia de transferência de votos a partir da candidatura presidencial, sem coligação formal registrada.",
+            "sources": [
+              {
+                "id": "src-flavio-bolsonaro-14",
+                "title": "Flávio apoia 47 candidatos de nove partidos ao Senado; veja a lista",
+                "publisher": "Congresso em Foco",
+                "url": "https://www.congressoemfoco.com.br/noticia/121094/flavio-apoia-47-candidatos-de-nove-partidos-ao-senado-veja-a-lista",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Anúncio feito em 06/08/2026, em transmissão da campanha (Ranking dos Políticos); dia exato do artigo não capturado."
+              },
+              {
+                "id": "src-flavio-bolsonaro-16",
+                "title": "Flávio reúne candidatos ao Senado para alinhar campanhas e ampliar palanques nos estados (~50 postulantes)",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/11/flavio-reune-candidatos-ao-senado-para-alinhar-campanhas-e-ampliar-palanques-nos-estados.ghtml",
+                "publishedAt": "2026-08-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-flavio-07",
+            "kind": "historico",
+            "title": "Atuação na janela partidária de 2026 — ganho líquido de deputados para o PL",
+            "role": "Senador e articulador das migrações partidárias na janela",
+            "complexity": "Janela partidária encerrada em abr/2026; PL somou 98 das 513 cadeiras da Câmara, com o ganho líquido registrado pelo DIAP",
+            "outcome": "Movimento concluído dentro do prazo legal da janela; bancada ampliada antes do pleito de 2026 e usada no cálculo do tempo de TV",
+            "period": "2026",
+            "context": "Migração de deputados entre siglas é permitida apenas na janela; o candidato foi citado como articulador das trocas.",
+            "sources": [
+              {
+                "id": "src-flavio-bolsonaro-15",
+                "title": "Flávio Bolsonaro puxa deputados para o PL e partido tem o maior ganho da janela partidária na Câmara",
+                "publisher": "DIAP — Departamento Intersindical de Assessoria Parlamentar",
+                "url": "https://www.diap.org.br/index.php/noticias/noticias/92841-flavio-bolsonaro-puxa-deputados-para-o-pl-e-partido-tem-o-maior-ganho-da-janela-partidaria-na-camara",
+                "publishedAt": "2026-04-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo"
+              },
+              {
+                "id": "src-flavio-bolsonaro-10",
+                "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-flavio-08",
+            "kind": "historico",
+            "title": "Diálogo com empresários e mercado financeiro em São Paulo",
+            "role": "Candidato à Presidência — agendas presenciais com entidades e empresários",
+            "complexity": "Visita à Fiesp e duas agendas com empresários em São Paulo em 24/08/2026, com pauta econômica",
+            "outcome": "Aproximação registrada pela imprensa como estratégia para reduzir rejeição e apresentar propostas ao setor produtivo",
+            "period": "2026",
+            "context": "Movimento acompanhado pelo anúncio de nomes ligados ao mercado financeiro para a equipe do plano de governo.",
+            "sources": [
+              {
+                "id": "src-flavio-bolsonaro-13",
+                "title": "Flávio Bolsonaro se encontra com empresários em São Paulo (visita à Fiesp)",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/flvio-bolsonaro-se-encontra-com-empresrios-em-so-paulo.ghtml",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Duas agendas na capital paulista; 'buscou diálogo com empresários'."
+              },
+              {
+                "id": "src-flavio-bolsonaro-12",
+                "title": "Flávio aposta em diálogo aberto com empresários para tentar diminuir taxa de rejeição",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-dialogo-aberto-com-empresarios-para-tentar-diminuir-taxa-de-rejeicao/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026). Descreve intensificação da aproximação com empresários e mercado financeiro na pré-campanha."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-flavio-09",
+            "kind": "historico",
+            "title": "Chapa registrada sem coligação após negociação de alianças nacionais",
+            "role": "Candidato à Presidência — condução das conversas de aliança e definição do vice",
+            "complexity": "Chapa PL (nº 22) com vice do próprio partido (Alfredo Gaspar, PL-AL); negociação de alianças explorada com PP e União Brasil; 1 partido na chapa registrada",
+            "outcome": "Registro no TSE sem coligação ou federação formal; 12 candidaturas presidenciais validadas em 2026, sendo a sua um partido isolado",
+            "period": "2026",
+            "context": "Ausência de coligação registrada é fato documentado no edital do TSE; apoios individuais a candidatos de outras siglas não alteram a composição da chapa.",
+            "sources": [
+              {
+                "id": "src-flavio-bolsonaro-10",
+                "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+                "publishedAt": "2026-08-06",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+              },
+              {
+                "id": "src-tse-doze",
+                "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República",
+                "publisher": "TSE",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Presidiu comissões permanentes na ALERJ (Segurança Pública e Assuntos de Polícia; Legislação Constitucional Complementar e Códigos; Defesa Civil) e ocupou a Terceira-Secretaria da Mesa Diretora do Senado a partir de 06/02/2019, deixando o posto em 2021. Na campanha de 2026, mantém coordenação-geral com o senador Rogério Marinho e coordenação do plano econômico com Daniella Marques e Adolfo Sachsida, com equipe setorial anunciada em 18/08/2026 e troca no comando da comunicação em 30/07/2026.",
+        "coverage": "parcial",
+        "coverageNote": "Nunca ocupou cargo no Executivo: as evidências de liderança vêm de comissões e da Mesa do Senado, do gabinete parlamentar e da estrutura de campanha de 2026, não de gestão de secretariado ou de órgão executivo.",
+        "evidences": [
+          {
+            "id": "ev-cap-flavio-10",
+            "kind": "historico",
+            "title": "Presidência de comissões permanentes na ALERJ (2003–2011)",
+            "role": "Deputado estadual — presidente de comissão permanente (registro oficial da ALERJ)",
+            "complexity": "Legislaturas 2003/2007 e 2007/2011; presidiu a Comissão de Segurança Pública e Assuntos de Polícia, a Comissão de Legislação Constitucional Complementar e Códigos e a Comissão de Defesa Civil; foi vice-presidente da Comissão de Segurança Pública na legislatura seguinte",
+            "outcome": "Presidências registradas no perfil oficial de cargos exercidos do deputado na ALERJ",
+            "period": "2003–2011",
+            "context": "Comissões permanentes dirigem a pauta e designam relatores nas áreas de segurança pública e legislação, temas centrais do seu mandato estadual.",
+            "sources": [
+              {
+                "id": "src-flavio-01",
+                "title": "Flávio Bolsonaro — Rio de Janeiro: perfil oficial do deputado (cargos exercidos e comissões presididas, legislaturas 2003/2007 e 2007/2011)",
+                "publisher": "ALERJ — Assembleia Legislativa do Estado do Rio de Janeiro",
+                "url": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/275",
+                "publishedAt": "não informado",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Registro oficial das presidências de comissões permanentes exercidas na ALERJ."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-flavio-11",
+            "kind": "historico",
+            "title": "Terceira-Secretaria da Mesa Diretora do Senado (2019–2021)",
+            "role": "Senador — eleito 3º Secretário da Mesa Diretora em 06/02/2019",
+            "complexity": "Órgão de direção da Casa (Mesa Diretora do Senado), mandato de dois anos; 81 senadores na legislatura",
+            "outcome": "Eleito em 06/02/2019 no início do primeiro mandato federal; renunciou ao posto em 2021, em meio a representações no Conselho de Ética (data exata do ato não capturada)",
+            "period": "2019–2021",
+            "context": "A Mesa Diretora responde pela administração e pelas decisões de funcionamento da Casa, o que difere da função de relator ou de líder partidário.",
+            "sources": [
+              {
+                "id": "src-senado-perfil",
+                "title": "Senador Flávio Bolsonaro — perfil oficial",
+                "publisher": "Senado Federal",
+                "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+              },
+              {
+                "id": "src-flavio-05",
+                "title": "Flávio Bolsonaro renuncia a cargo na Mesa Diretora do Senado (Terceiro-Secretário)",
+                "publisher": "Correio do Povo",
+                "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/fl%C3%A1vio-bolsonaro-renuncia-a-cargo-na-mesa-diretora-do-senado-1.541814",
+                "publishedAt": "2021",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata do ato de renúncia não capturada na página nesta rodada (2021, durante o mandato 2019–2021 da Mesa)."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-flavio-12",
+            "kind": "historico",
+            "title": "Montagem da equipe de plano de governo e de área econômica da campanha de 2026",
+            "role": "Candidato — escolha e anúncio dos coordenadores e da equipe setorial",
+            "complexity": "Coordenação do plano econômico por Daniella Marques e Adolfo Sachsida; equipe setorial com Lyvia Montezano, Carolina Ragazzi e Adriano Pires, anunciada em 18/08/2026, responsável por detalhar pautas de mercado financeiro e infraestrutura",
+            "outcome": "Nomes anunciados e incorporados formalmente à campanha, com Sachsida passando a integrar a coordenação do plano econômico",
+            "period": "2026",
+            "context": "Estrutura de campanha composta por ex-integrantes do governo anterior e executivos de mercado.",
+            "sources": [
+              {
+                "id": "src-flavio-03",
+                "title": "Flávio reforça equipe que elabora plano de governo (Adolfo Sachsida, Lyvia Montezano, Carolina Ragazzi e Adriano Pires; Daniella Marques na coordenação econômica)",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/18/flavio-anuncia-nomes-proximos-ao-mercado-financeiro-para-reforcar-campanha.ghtml",
+                "publishedAt": "2026-08-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Equipe responsável por detalhar pautas setoriais no programa."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-flavio-13",
+            "kind": "historico",
+            "title": "Coordenação-geral da campanha e delegação da área de comunicação",
+            "role": "Candidato — definição da coordenação-geral e delegação do comando da comunicação",
+            "complexity": "Coordenação-geral exercida pelo senador Rogério Marinho, responsável por anúncios públicos da campanha (jul/2026); troca no comando da comunicação anunciada em 30/07/2026",
+            "outcome": "Coordenação ativa: o coordenador-geral anunciou a troca no comando da comunicação e declarou posições sobre a composição da chapa para o Senado",
+            "period": "2026",
+            "context": "Delegação documentada em fontes distintas para a coordenação-geral e para a comunicação da campanha.",
+            "sources": [
+              {
+                "id": "src-flavio-04",
+                "title": "Flávio Bolsonaro troca comando da comunicação da campanha (anúncio feito pelo coordenador da campanha, senador Rogério Marinho)",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/30/flavio-bolsonaro-troca-comando-da-comunicacao-da-campanha.ghtml",
+                "publishedAt": "2026-07-30",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra a coordenação-geral da campanha e a delegação da área de comunicação."
+              },
+              {
+                "id": "src-flavio-06",
+                "title": "Coordenador da campanha de Flávio Bolsonaro: Michelle segue candidata (senador Rogério Marinho na coordenação)",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/poder/2026/07/coordenador-da-campanha-de-flavio-bolsonaro-diz-que-michelle-segue-candidata.shtml",
+                "publishedAt": "2026-07-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Atribui ao senador Rogério Marinho a coordenação da pré-campanha/campanha."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -11123,6 +14456,96 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "O nome voltou a constar como filiado ao PL na tarde de 13/08/2026."
+      },
+      {
+        "id": "src-flavio-02",
+        "title": "PL 2253/2022 — relatoria no Senado; norma gerada: Lei nº 14.843, de 11/04/2024",
+        "publisher": "Congresso Nacional — Atividade Legislativa",
+        "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/154451",
+        "publishedAt": "2024-04-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Ficha de tramitação da matéria relatada no Senado; votação de 20/02/2024 (62 a favor, 2 contra, 1 abstenção)."
+      },
+      {
+        "id": "src-flavio-01",
+        "title": "Flávio Bolsonaro — Rio de Janeiro: perfil oficial do deputado (cargos exercidos e comissões presididas, legislaturas 2003/2007 e 2007/2011)",
+        "publisher": "ALERJ — Assembleia Legislativa do Estado do Rio de Janeiro",
+        "url": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/275",
+        "publishedAt": "não informado",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Registro oficial das presidências de comissões permanentes exercidas na ALERJ."
+      },
+      {
+        "id": "src-flavio-05",
+        "title": "Flávio Bolsonaro renuncia a cargo na Mesa Diretora do Senado (Terceiro-Secretário)",
+        "publisher": "Correio do Povo",
+        "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/fl%C3%A1vio-bolsonaro-renuncia-a-cargo-na-mesa-diretora-do-senado-1.541814",
+        "publishedAt": "2021",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata do ato de renúncia não capturada na página nesta rodada (2021, durante o mandato 2019–2021 da Mesa)."
+      },
+      {
+        "id": "src-flavio-03",
+        "title": "Flávio reforça equipe que elabora plano de governo (Adolfo Sachsida, Lyvia Montezano, Carolina Ragazzi e Adriano Pires; Daniella Marques na coordenação econômica)",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/18/flavio-anuncia-nomes-proximos-ao-mercado-financeiro-para-reforcar-campanha.ghtml",
+        "publishedAt": "2026-08-18",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Equipe responsável por detalhar pautas setoriais no programa."
+      },
+      {
+        "id": "src-flavio-04",
+        "title": "Flávio Bolsonaro troca comando da comunicação da campanha (anúncio feito pelo coordenador da campanha, senador Rogério Marinho)",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/30/flavio-bolsonaro-troca-comando-da-comunicacao-da-campanha.ghtml",
+        "publishedAt": "2026-07-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Registra a coordenação-geral da campanha e a delegação da área de comunicação."
+      },
+      {
+        "id": "src-flavio-06",
+        "title": "Coordenador da campanha de Flávio Bolsonaro: Michelle segue candidata (senador Rogério Marinho na coordenação)",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2026/07/coordenador-da-campanha-de-flavio-bolsonaro-diz-que-michelle-segue-candidata.shtml",
+        "publishedAt": "2026-07-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Atribui ao senador Rogério Marinho a coordenação da pré-campanha/campanha."
+      },
+      {
+        "id": "src-flavio-82",
+        "title": "Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030 (íntegra publicada pela campanha)",
+        "publisher": "Campanha Flávio Bolsonaro (site oficial) — leitura do plano",
+        "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Versão publicada pela própria campanha (76 páginas, 11 capítulos), usada para conferir a estrutura de eixos do PDF espelhado pelo Poder360."
+      },
+      {
+        "id": "src-flavio-80",
+        "title": "Plano de governo de Flávio Bolsonaro propõe tesouraço e novo teto de gastos",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/08/plano-de-governo-de-flavio-bolsonaro-propoe-tesouraco-e-novo-teto-de-gastos.shtml",
+        "publishedAt": "2026-08-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Registra que o documento prevê corte de gastos e novo teto, com mais controle sobre emendas, sem detalhar a regra fiscal."
+      },
+      {
+        "id": "src-flavio-81",
+        "title": "Flávio propõe manter programas do PT, Caixa Federal repaginada e foco em terras raras e data centers",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/flavio-propoe-manter-programas-do-pt-caixa-federal-repaginada-e-foco-em-terras-raras-e-data-centers/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Leitura do plano sobre proteção social (manutenção de programas existentes), uso da CAIXA e eixos de terras raras e data centers."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -11918,7 +15341,556 @@ export const researched: Partial<Candidate>[] = [
       }
     ],
     "institutionalHistory": [],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O plano registrado no TSE ('Com os trabalhadores contra o sistema — Por um Brasil soberano e socialista') descreve um país que rompe com a 'reversão colonial' e com a submissão às potências capitalistas, deixando a função de plataforma de exportação de commodities para se tornar uma economia reindustrializada sob controle dos trabalhadores: expropriação das grandes empresas de mineração, petróleo, energia, siderurgia, celulose e das grandes comercializadoras do agronegócio, planejamento econômico voltado ao mercado interno e ao pleno emprego e serviços públicos 100% estatais. O horizonte declarado é um 'Estado operário revolucionário' fundado na mais ampla democracia operária, com organismos eleitos e revogáveis sob controle permanente da base. O texto afirma que o programa 'não é um conjunto de promessas eleitorais', mas um 'guia para a ação', e que a mobilização direta é prioritária em relação à ação institucional.",
+      "nationalPriorities": [
+        "Soberania nacional e enfrentamento do imperialismo (tarifaço dos EUA, acordo Mercosul–União Europeia, papel da China)",
+        "Expropriação e reestatização das empresas estratégicas (Petrobras, Vale, mineração, petróleo, energia, siderurgia e celulose)",
+        "Trabalho e renda: jornada de 36 horas semanais, fim da escala 6x1, aumento de 100% do salário mínimo e bolsa-filha/filho de um salário mínimo",
+        "Serviços públicos reconstruídos sob controle operário e popular (saúde, educação, moradia, transporte e aposentadoria)",
+        "Meio ambiente: fim dos subsídios ao agronegócio, demarcação de terras indígenas e titulação de territórios quilombolas e 'não à exploração do petróleo da Margem Equatorial'",
+        "Terra e soberania alimentar: expropriação do grande agronegócio e produção agroecológica",
+        "Soberania digital: infraestrutura digital pública e inteligência artificial sob controle do Estado e dos trabalhadores"
+      ],
+      "developmentModel": "Planejamento econômico estatal como eixo: articular produção e consumo internos, converter ganhos de produtividade em redução de jornada e destinar os excedentes das empresas expropriadas a setores de alta complexidade tecnológica (refino, separação de terras raras e minerais críticos, máquinas e equipamentos, infraestrutura digital, química fina e defesa), com criação de empresa estatal de terras raras e limite de 25% na distribuição de dividendos das grandes empresas privadas remanescentes, com reinvestimento obrigatório no território nacional. Financiamento declarado: taxação fortemente progressiva sobre lucros de empresas bilionárias, controle da conta de capitais (o texto cita cerca de meio trilhão de reais evadidos por ano desde 2020) e controle do sistema financeiro e dos grandes bancos. Setor privado: expropriação do grande agronegócio e dos setores estratégicos; nas telecomunicações e internet, quebra do monopólio das grandes empresas privadas e internet gratuita. Tecnologia: semicondutores 'adquiridos estrategicamente' e inteligência artificial desenvolvida sob controle do Estado, com conselhos de produtores, usuários e detentores de direitos. Educação com verbas públicas destinadas exclusivamente ao ensino público e reconstrução da carreira docente; meio ambiente com fim de créditos e subsídios ao agronegócio, recuperação de áreas degradadas e agroecologia. Desigualdade tratada em eixos próprios (questão negra, mulheres, LGBTQIAPN+, povos indígenas, imigrantes e pessoas com deficiência), com cotas, reparação e autodefesa das comunidades.",
+      "sources": [
+        {
+          "id": "src-hd-70",
+          "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+          "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+        },
+        {
+          "id": "src-hd-71",
+          "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+          "publisher": "International Worker's League / LIT-QI (litci.org)",
+          "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+          "publishedAt": "2026-08-22",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+        },
+        {
+          "id": "src-hd-72",
+          "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+          "publisher": "Opinião Socialista",
+          "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+        }
+      ],
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "methodology": "Extraído do plano registrado no TSE — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista', 33 páginas, que o próprio texto apresenta como 'o programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice' —, conferido com o índice oficial de propostas da candidatura no TSE e com a análise do plano publicada pelo OPEB em 27/09/2026. Trata-se de documento programático do partido adotado pela candidatura, e não de um plano de governo redigido para o mandato: por isso o bloco está marcado como 'parcial'. O índice do TSE usa 8 categorias fixas, iguais para todos os candidatos, e não prioridades declaradas pelo candidato; as prioridades acima foram retiradas das seções do próprio plano. O documento não informa custos, financiamento ou prazos por proposta e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo).",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Candidatura presidencial pelo PSTU em 2026 (5ª campanha do partido à Presidência desde 2010) com convenção nacional em 31/07/2026, pré-campanha em três capitais e campanha financiada quase integralmente pela direção nacional do partido. Executou também candidaturas majoritárias no Maranhão em 2010, 2020 e 2022, todas não eleitas. Trajetória de magistério público, movimento cultural e partido, sem passagem por cargo executivo estatal.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-hd-01",
+            "kind": "historico",
+            "title": "Campanha presidencial de 2026 conduzida com estrutura financiada pela direção nacional do PSTU",
+            "role": "candidato do PSTU à Presidência (chapa com Vanessa Portugal)",
+            "complexity": "campanha nacional; prestação parcial ao TSE até 08/09/2026 com receita de R$ 1.087.584,16 (99% da direção nacional do PSTU) e R$ 1.050.232,71 de gasto contratado (1,2% do limite legal), incluindo R$ 520.000,00 em serviços de terceiros",
+            "outcome": "registro deferido, entre as 12 chapas à Presidência divulgadas pelo TSE em 11/09/2026; agenda de campanha registrada no Maranhão, Pernambuco, Distrito Federal e outras unidades",
+            "period": "2026",
+            "context": "PSTU sem bancada no Congresso (0 deputados e 0 senadores em exercício) e sem coligação ou federação localizada nas fontes consultadas",
+            "sources": [
+              {
+                "id": "src-hd-01",
+                "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+              },
+              {
+                "id": "src-hd-14",
+                "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+                "publisher": "Nexo Jornal",
+                "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+                "publishedAt": "2026-08-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+              },
+              {
+                "id": "src-hd-15",
+                "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+                "publisher": "TSE — Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+                "publishedAt": "2026-09-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+              },
+              {
+                "id": "src-hd-75",
+                "title": "Hertz Dias, do PSTU, fez campanha em Pernambuco (Jornal Nacional)",
+                "publisher": "Globo / Globoplay",
+                "url": "https://globoplay.globo.com/v/14954444/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Vídeo do Jornal Nacional: campanha em Pernambuco, com defesa de plataforma pública para motoristas por aplicativo e garantia de direitos trabalhistas."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-hd-02",
+            "kind": "historico",
+            "title": "Pré-campanha nacional em três capitais (maio–junho de 2026)",
+            "role": "pré-candidato do PSTU à Presidência",
+            "complexity": "agenda em Teresina (PI), Manaus (AM) e Fortaleza (CE) com atos, entrevistas e encontros; em Teresina, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3",
+            "outcome": "agenda cumprida no período de fim de maio a meados de junho de 2026, com cobertura registrada em 19/06/2026",
+            "period": "2026-05 a 2026-06",
+            "context": "deslocamento por três capitais em três regiões, sem estrutura de governo e com financiamento partidário",
+            "sources": [
+              {
+                "id": "src-hd-73",
+                "title": "Hertz Dias intensifica pré-campanha e percorre três capitais defendendo programa socialista para o país",
+                "publisher": "Opinião Socialista",
+                "url": "https://opiniaosocialista.com.br/hertz-dias-intensifica-pre-campanha-e-percorre-tres-capitais-defendendo-programa-socialista-para-o-pais/",
+                "publishedAt": "2026-06-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Agenda de fim de maio a meados de junho de 2026 em Teresina (PI), Manaus (AM) e Fortaleza (CE); em 27/05, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3, com entrevistas à imprensa local; atividades com trabalhadores, estudantes, artistas, movimentos sociais e militantes."
+              },
+              {
+                "id": "src-hd-72",
+                "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+                "publisher": "Opinião Socialista",
+                "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-hd-03",
+            "kind": "historico",
+            "title": "Convenção Nacional Eleitoral do PSTU que homologou a chapa presidencial",
+            "role": "candidato homologado pela convenção nacional do partido",
+            "complexity": "convenção realizada em 31/07/2026 na sede do Sindicato dos Metroviários de São Paulo, com dirigentes, militantes e apoiadores de diferentes regiões do país",
+            "outcome": "chapa Hertz Dias/Vanessa Portugal oficializada e registrada no TSE, com registro deferido",
+            "period": "2026",
+            "context": "o partido não tinha bancada federal no período da convenção; a sede escolhida foi a de uma entidade sindical",
+            "sources": [
+              {
+                "id": "src-hd-71",
+                "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+                "publisher": "International Worker's League / LIT-QI (litci.org)",
+                "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+                "publishedAt": "2026-08-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+              },
+              {
+                "id": "src-hd-72",
+                "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+                "publisher": "Opinião Socialista",
+                "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-hd-04",
+            "kind": "historico",
+            "title": "Candidaturas majoritárias no Maranhão em três pleitos (2010, 2020 e 2022)",
+            "role": "candidato pelo PSTU a vice-governador do Maranhão (2010), prefeito de São Luís (2020) e governador do Maranhão (2022)",
+            "complexity": "três campanhas majoritárias em 12 anos, com chapas próprias do partido em eleição estadual e municipal",
+            "outcome": "votações registradas no TSE: 14.685 (2010), 2.173 (2020, 0,42%) e 5.191 (2022, 0,15%); nenhuma eleição vencida",
+            "period": "2010–2022",
+            "context": "partido sem representação no Congresso e sem coligação registrada; campanhas estaduais e municipais com estrutura própria",
+            "sources": [
+              {
+                "id": "src-hd-01",
+                "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+              },
+              {
+                "id": "src-hd-03",
+                "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Dados do TSE: PSTU nº 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+              },
+              {
+                "id": "src-hd-02",
+                "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "Articulação com movimentos sociais, culturais e sindicais: fundação do Movimento Quilombo Urbano (MA), atividades com trabalhadores, estudantes e movimentos sociais em Teresina (2026), composição de chapa nacional com Vera Lúcia (2018) e divulgação internacional da candidatura pela organização do partido (LIT-QI). Não há registro de negociação coletiva nem de mesa de negociação com governos; a interlocução documentada é com movimentos e com a direção partidária.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-hd-05",
+            "kind": "historico",
+            "title": "Fundação e manutenção do Movimento Quilombo Urbano (Maranhão)",
+            "role": "um dos fundadores do movimento (cultura, hip-hop e luta contra o racismo)",
+            "complexity": "movimento que reúne juventude negra, artistas e militantes em torno de cultura hip hop e luta antirracista, com atuação estadual e presença continuada na militância do candidato",
+            "outcome": "movimento ativo e apresentado como base de militância do candidato na campanha de 2026 por imprensa nacional e pela organização internacional do partido",
+            "period": "décadas de atuação (data de fundação não localizada)",
+            "context": "as fontes não registram data de fundação, número de integrantes nem estrutura formal do movimento",
+            "sources": [
+              {
+                "id": "src-hd-71",
+                "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+                "publisher": "International Worker's League / LIT-QI (litci.org)",
+                "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+                "publishedAt": "2026-08-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+              },
+              {
+                "id": "src-hd-06",
+                "title": "Hertz Dias: o rapper que representa o PSTU na disputa pelo Planalto",
+                "publisher": "Correio Braziliense",
+                "url": "https://www.correiobraziliense.com.br/politica/2026/08/7489635-quem-e-hertz-dias-o-rapper-candidato-a-presidente-pelo-pstu.html",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Professor, rapper e ativista do movimento negro, Hertz Dias leva à disputa presidencial um projeto socialista com foco na defesa dos trabalhadores'. Descreve professor da rede pública do Maranhão."
+              },
+              {
+                "id": "src-hd-74",
+                "title": "Pré-candidato rapper diz que o Brasil vive em uma ditadura",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/ideias/pre-candidato-rapper-diz-brasil-vive-ditadura/",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil: nascido em São José de Ribamar (MA), filho de motorista e auxiliar de enfermagem; um dos primeiros dançarinos de break do Maranhão, fundador do movimento Quilombo Urbano e vocalista do grupo de rap Gíria Vermelha."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-hd-06",
+            "kind": "historico",
+            "title": "Articulação de setores no ato pelo fim da escala 6x1 e em atividades de memória (Teresina, 2026)",
+            "role": "pré-candidato do PSTU, participando como orador e articulador das atividades",
+            "complexity": "atividades de 27 e 28/05/2026 com trabalhadores, estudantes, artistas, movimentos sociais e militantes; entrevistas à imprensa local no mesmo dia",
+            "outcome": "atividades realizadas na Praça Rio Branco e em outros espaços de Teresina, com pautas de jornada de trabalho e memória da ditadura",
+            "period": "2026-05",
+            "context": "articulação com movimentos e não com governos; não há mesa de negociação ou acordo formal registrado",
+            "sources": [
+              {
+                "id": "src-hd-73",
+                "title": "Hertz Dias intensifica pré-campanha e percorre três capitais defendendo programa socialista para o país",
+                "publisher": "Opinião Socialista",
+                "url": "https://opiniaosocialista.com.br/hertz-dias-intensifica-pre-campanha-e-percorre-tres-capitais-defendendo-programa-socialista-para-o-pais/",
+                "publishedAt": "2026-06-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Agenda de fim de maio a meados de junho de 2026 em Teresina (PI), Manaus (AM) e Fortaleza (CE); em 27/05, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3, com entrevistas à imprensa local; atividades com trabalhadores, estudantes, artistas, movimentos sociais e militantes."
+              },
+              {
+                "id": "src-hd-76",
+                "title": "PSTU tem o professor de história Hertz Dias como presidenciável",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-tem-o-professor-de-historia-hertz-dias-como-presidenciavel",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil da agência pública: professor de História, ativista do movimento negro e rapper; candidato do PSTU à Presidência."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-hd-07",
+            "kind": "historico",
+            "title": "Composição da chapa presidencial de 2018 como candidato a vice-presidente",
+            "role": "candidato a vice-presidente na chapa de Vera Lúcia (PSTU)",
+            "complexity": "chapa nacional de partido isolado, sem coligação registrada",
+            "outcome": "chapa registrada e votada em 2018, com 55.762 votos (0,05%), 55.762 votos (0,05%), 11ª colocação entre 13 chapas no 1º turno",
+            "period": "2018",
+            "context": "composição de chapa definida na direção partidária; não há registro de coligação ou de acordo com outras legendas",
+            "sources": [
+              {
+                "id": "src-hd-01",
+                "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+              },
+              {
+                "id": "src-hd-02",
+                "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-hd-08",
+            "kind": "historico",
+            "title": "Divulgação internacional da candidatura pela organização do partido (LIT-QI)",
+            "role": "candidato do PSTU (partido integrado à Liga Internacional dos Trabalhadores — Quarta Internacional)",
+            "complexity": "publicação da convenção e do programa em veículo internacional multilíngue (português, inglês, francês, árabe e russo), dirigida a militâncias de outros países",
+            "outcome": "candidatura e programa divulgados internacionalmente em 22/08/2026 pela organização internacional",
+            "period": "2026",
+            "context": "a publicação descreve o partido e a chapa; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não ao candidato",
+            "sources": [
+              {
+                "id": "src-hd-71",
+                "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+                "publisher": "International Worker's League / LIT-QI (litci.org)",
+                "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+                "publishedAt": "2026-08-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Coordenação de coletivos e de campanha: criação e manutenção do Movimento Quilombo Urbano, atuação como vocalista do grupo Gíria Vermelha e docência nas redes públicas de São Luís com mestrado em Educação. Na campanha de 2026 recebeu da direção nacional do PSTU R$ 1.074.389,00 (99% da receita) e contratou R$ 1.050.232,71, com R$ 520.000,00 em serviços de terceiros. As fontes não registram organograma, número de integrantes ou de contratados.",
+        "coverage": "parcial",
+        "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+        "evidences": [
+          {
+            "id": "ev-cap-hd-09",
+            "kind": "historico",
+            "title": "Atuação como vocalista do grupo de rap Gíria Vermelha e pioneirismo no break no Maranhão",
+            "role": "integrante e vocalista do grupo Gíria Vermelha; um dos primeiros dançarinos de break do Maranhão",
+            "complexity": "coletivo musical e cultural com atuação ligada ao movimento hip hop e ao Movimento Quilombo Urbano, em eventos e atividades de militância",
+            "outcome": "grupo citado em perfis de imprensa nacional e em publicação da organização internacional do partido",
+            "period": "não informado",
+            "context": "as fontes não informam número de integrantes, discografia, agenda ou estrutura do grupo e das atividades",
+            "sources": [
+              {
+                "id": "src-hd-74",
+                "title": "Pré-candidato rapper diz que o Brasil vive em uma ditadura",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/ideias/pre-candidato-rapper-diz-brasil-vive-ditadura/",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil: nascido em São José de Ribamar (MA), filho de motorista e auxiliar de enfermagem; um dos primeiros dançarinos de break do Maranhão, fundador do movimento Quilombo Urbano e vocalista do grupo de rap Gíria Vermelha."
+              },
+              {
+                "id": "src-hd-71",
+                "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+                "publisher": "International Worker's League / LIT-QI (litci.org)",
+                "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+                "publishedAt": "2026-08-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+              },
+              {
+                "id": "src-hd-02",
+                "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-hd-10",
+            "kind": "historico",
+            "title": "Criação e manutenção de coletivo de mobilização (Movimento Quilombo Urbano)",
+            "role": "um dos fundadores do movimento, com função de organização de atividades culturais e de militância",
+            "complexity": "coletivo de alcance estadual que articula artistas, juventude negra e militantes em atividades culturais e de luta antirracista, com permanência de vários anos",
+            "outcome": "movimento em atividade e citado como espaço de formação da militância do candidato",
+            "period": "décadas de atuação (data de fundação não localizada)",
+            "context": "as fontes consultadas não registram organograma, número de integrantes ou forma de coordenação",
+            "sources": [
+              {
+                "id": "src-hd-71",
+                "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+                "publisher": "International Worker's League / LIT-QI (litci.org)",
+                "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+                "publishedAt": "2026-08-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+              },
+              {
+                "id": "src-hd-06",
+                "title": "Hertz Dias: o rapper que representa o PSTU na disputa pelo Planalto",
+                "publisher": "Correio Braziliense",
+                "url": "https://www.correiobraziliense.com.br/politica/2026/08/7489635-quem-e-hertz-dias-o-rapper-candidato-a-presidente-pelo-pstu.html",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Professor, rapper e ativista do movimento negro, Hertz Dias leva à disputa presidencial um projeto socialista com foco na defesa dos trabalhadores'. Descreve professor da rede pública do Maranhão."
+              },
+              {
+                "id": "src-hd-74",
+                "title": "Pré-candidato rapper diz que o Brasil vive em uma ditadura",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/ideias/pre-candidato-rapper-diz-brasil-vive-ditadura/",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil: nascido em São José de Ribamar (MA), filho de motorista e auxiliar de enfermagem; um dos primeiros dançarinos de break do Maranhão, fundador do movimento Quilombo Urbano e vocalista do grupo de rap Gíria Vermelha."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-hd-11",
+            "kind": "historico",
+            "title": "Aplicação de recursos da campanha presidencial repassados pela direção nacional do PSTU",
+            "role": "candidato responsável pela campanha e pela prestação de contas ao TSE",
+            "complexity": "aplicação de R$ 1.050.232,71 contratados até 08/09/2026 (R$ 520.000,00 em serviços de terceiros, R$ 42.700,00 em material impresso e R$ 18.000,00 em impulsionamento), com receita de R$ 1.074.389,00 repassada pela direção nacional do partido",
+            "outcome": "prestação de contas parcial entregue ao TSE com gasto contratado de 1,2% do limite legal",
+            "period": "2026",
+            "context": "as decisões internas de alocação dos recursos partidários e a composição da equipe contratada não são detalhadas publicamente",
+            "sources": [
+              {
+                "id": "src-hd-01",
+                "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-hd-12",
+            "kind": "historico",
+            "title": "Docência na rede pública de São Luís (MA) com mestrado em Educação",
+            "role": "professor de História das redes pública estadual e municipal de São Luís (ocupação declarada ao TSE: professor de ensino fundamental)",
+            "complexity": "atuação em ensino fundamental e médio nas redes estadual e municipal do Maranhão; licenciatura em História e mestrado em Educação",
+            "outcome": "docência em exercício declarada em 2026; as fontes não registram tempo de serviço, número de turmas ou de alunos",
+            "period": "em exercício em 2026 (início não informado)",
+            "context": "as fontes consultadas não informam escola, rede de vínculo exclusivo nem tempo de exercício; no cadastro eleitoral de 2022 a ocupação declarada havia sido 'empresário'",
+            "sources": [
+              {
+                "id": "src-hd-07",
+                "title": "Quem são os candidatos à Presidência na Eleição 2026",
+                "publisher": "BBC News Brasil",
+                "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Hertz é professor de História da rede pública em São Luís, no Maranhão, rapper e ativista do movimento negro.'"
+              },
+              {
+                "id": "src-hd-02",
+                "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+              },
+              {
+                "id": "src-hd-01",
+                "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+              },
+              {
+                "id": "src-hd-76",
+                "title": "PSTU tem o professor de história Hertz Dias como presidenciável",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-tem-o-professor-de-historia-hertz-dias-como-presidenciavel",
+                "publishedAt": "2026-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil da agência pública: professor de História, ativista do movimento negro e rapper; candidato do PSTU à Presidência."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -13009,6 +16981,76 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Agenda de 23/09/2026 dos presidenciáveis: roteiro inclui 'assinatura de cartas-compromisso com entidades da sociedade civil'; Hertz Dias assina carta-compromisso junto ao SindREDE, em Belo Horizonte."
+      },
+      {
+        "id": "src-hd-75",
+        "title": "Hertz Dias, do PSTU, fez campanha em Pernambuco (Jornal Nacional)",
+        "publisher": "Globo / Globoplay",
+        "url": "https://globoplay.globo.com/v/14954444/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Vídeo do Jornal Nacional: campanha em Pernambuco, com defesa de plataforma pública para motoristas por aplicativo e garantia de direitos trabalhistas."
+      },
+      {
+        "id": "src-hd-73",
+        "title": "Hertz Dias intensifica pré-campanha e percorre três capitais defendendo programa socialista para o país",
+        "publisher": "Opinião Socialista",
+        "url": "https://opiniaosocialista.com.br/hertz-dias-intensifica-pre-campanha-e-percorre-tres-capitais-defendendo-programa-socialista-para-o-pais/",
+        "publishedAt": "2026-06-19",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Agenda de fim de maio a meados de junho de 2026 em Teresina (PI), Manaus (AM) e Fortaleza (CE); em 27/05, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3, com entrevistas à imprensa local; atividades com trabalhadores, estudantes, artistas, movimentos sociais e militantes."
+      },
+      {
+        "id": "src-hd-72",
+        "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+        "publisher": "Opinião Socialista",
+        "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+        "publishedAt": "2026-08-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+      },
+      {
+        "id": "src-hd-71",
+        "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+        "publisher": "International Worker's League / LIT-QI (litci.org)",
+        "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+        "publishedAt": "2026-08-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+      },
+      {
+        "id": "src-hd-74",
+        "title": "Pré-candidato rapper diz que o Brasil vive em uma ditadura",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/ideias/pre-candidato-rapper-diz-brasil-vive-ditadura/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil: nascido em São José de Ribamar (MA), filho de motorista e auxiliar de enfermagem; um dos primeiros dançarinos de break do Maranhão, fundador do movimento Quilombo Urbano e vocalista do grupo de rap Gíria Vermelha."
+      },
+      {
+        "id": "src-hd-76",
+        "title": "PSTU tem o professor de história Hertz Dias como presidenciável",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-tem-o-professor-de-historia-hertz-dias-como-presidenciavel",
+        "publishedAt": "2026-08-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil da agência pública: professor de História, ativista do movimento negro e rapper; candidato do PSTU à Presidência."
+      },
+      {
+        "id": "src-hd-70",
+        "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+        "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -13533,7 +17575,642 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O plano registrado no TSE ('Reconstrução Nacional', 19 propostas numeradas) declara o objetivo de tornar o Brasil uma 'economia mais dinâmica, produtiva e voltada ao empreendedorismo' e resume o compromisso como 'um Brasil mais justo, mais seguro e mais forte pra cada brasileiro', sustentado em três pilares declarados: 'Deus, pátria e família'. A projeção é de país com tributação simplificada (imposto único de 3,5%), poder de compra ampliado, indústria nacional e saneamento básico universal.",
+      "nationalPriorities": [
+        "redução e simplificação de tributos (imposto único de 3,5%)",
+        "saúde (zerar a fila do SUS)",
+        "segurança pública",
+        "educação com tecnologia e empreendedorismo",
+        "industrialização e infraestrutura",
+        "saneamento básico e resíduos sólidos",
+        "proteção à mulher e à criança, apoio à família atípica"
+      ],
+      "developmentModel": "O papel central atribuído ao Estado é reduzir e simplificar a tributação: substituição de ICMS, ISS, IPI, PIS, Cofins, IOF, IRPJ, CSLL, IRPF, INSS (patronal e do trabalhador), IPVA, ITBI, ITCMD e Imposto de Importação por alíquota única de 3,5% cobrada na fonte, com IPVA de R$ 50 por mês e regras específicas para motoristas de aplicativo. O documento ilustra o modelo com comparações internacionais (EUA, Paraguai — modelo '10-10-10' —, Suécia, Alemanha e Japão) e afirma que a arrecadação nacional 'triplicaria' com o fim da sonegação; não foi localizada, nas fontes consultadas, estimativa de compensação fiscal para a queda de alíquota. Ao setor privado e à indústria atribui reindustrialização (produção local de insumos, indústria automobilística nacional, fertilizantes e agro, polo tecnológico 'de escala mundial', infraestrutura pesada de rodovias, hidrovias e ferrovias, segurança jurídica). Tecnologia aparece na educação (IA e empreendedorismo) e no programa de acesso a dispositivos; defesa nacional aparece na proposta de equipar as Forças Armadas; saúde, na eliminação da fila do SUS e em saneamento básico com coleta seletiva e aproveitamento energético de resíduos. Desigualdade e proteção social são tratadas por saneamento, apoio à 'família atípica' (Abraço Azul), segurança da mulher e combate à exploração sexual infantil; meio ambiente comparece no plano por saneamento e resíduos sólidos, sem capítulo específico de clima.",
+      "sources": [
+        {
+          "id": "src-la-17",
+          "title": "Plano de Governo — Leonardo Avalanche | PRTB (espelho do arquivo registrado no TSE)",
+          "publisher": "Poder360 (espelho do documento registrado no TSE)",
+          "url": "https://static.poder360.com.br/uploads/2026/09/httpswww.tse_.jus_.breleicoeseleicoes-2026-contentarquivosproposta-prtb@@display-filefileproposta-prtb.pdf",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF de 48 páginas lido integralmente em 29/09/2026: a apresentação declara 'As dezenove propostas reunidas neste documento' e o índice lista as propostas 01 a 19. Espelho idêntico em static.ndmais.com.br/eleicoes/2026/planos-de-governo/BR/2026BR280002554479_01.pdf."
+        },
+        {
+          "id": "src-la-16",
+          "title": "Plano de Governo — Leonardo Avalanche (arquivo registrado no TSE, Eleições 2026)",
+          "publisher": "TSE — propostas de governo dos candidatos à Presidência",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-prtb/@@display-file/file/proposta-prtb",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento oficial do programa 'Reconstrução Nacional' do candidato nº 28 (PRTB). O TSE bloqueia acesso automatizado nesta rodada; o arquivo foi lido pelo espelho público reproduzido em src-la-17."
+        },
+        {
+          "id": "src-la-06",
+          "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+          "publisher": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa apresentado como 'reconstrução nacional'."
+        },
+        {
+          "id": "src-la-70",
+          "title": "Leonardo Avalanche: PRTB lança candidatura à Presidência da República",
+          "publisher": "g1 Goiás",
+          "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/07/29/prtb-lanca-candidatura-de-leonardo-avalanche-a-presidencia-em-goias.ghtml",
+          "publishedAt": "2026-07-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção em Goiânia (29/07/2026): imposto único de 3,5%, trabalho por hora e IPVA; entrevista com defesa de reindustrialização e do agro como eixos."
+        },
+        {
+          "id": "src-la-27",
+          "title": "PRTB na corrida presidencial: Leonardo Avalanche apresenta propostas e projeto para o Brasil",
+          "publisher": "NC News",
+          "url": "https://ncnews.com.br/2026/08/11/prtb-na-corrida-presidencial-leonardo-avalanche-apresenta-propostas-e-projeto-para-o-brasil/",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevista de 11/08/2026: o candidato a presidente e presidente nacional do PRTB fala sobre economia, segurança, redução de impostos, empreendedorismo, alianças políticas e estratégia para as eleições de 2026."
+        },
+        {
+          "id": "src-la-22",
+          "title": "Leonardo Avalanche — candidato a presidente nas eleições 2026 (dados do TSE)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/leonardo-avalanche.ghtml",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Seção 'Candidaturas anteriores' com dados do TSE: 2018 Deputado federal (PODE) — não eleito; 2016 Vereador (PTN) — não eleito; 2008 Vereador (PRTB) — não eleito."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "methodology": "Extração direta do plano registrado no TSE (48 páginas, 19 propostas numeradas, lido integralmente a partir do espelho público do Poder360) e da cobertura de Agência Brasil e g1. As sete prioridades listadas são as que aparecem como propostas próprias do documento e como eixos repetidos em entrevistas do candidato (redução de impostos e fila do SUS na Agência Brasil; reindustrialização e agro na entrevista ao g1). O que não foi possível extrair: estimativa de custo, compensação fiscal e cronograma das propostas; não há capítulo de política externa nem de clima no documento — a política externa do candidato não foi localizada em fontes 2025-2026 nesta rodada.",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Assumeu a presidência nacional do PRTB em 23/02/2024, sucedendo direção provisória, e conduziu reformulação organizacional e reestruturação de diretórios, incluindo novo comando estadual em Goiás em junho de 2026. Após o indeferimento da chapa original pelo TSE em 11/09/2026 e a renúncia do titular, executou a substituição no último dia do prazo, com a chapa publicada no DJE de 18/09/2026. Antes disso, coordenou politicamente a candidatura de Pablo Marçal à Prefeitura de São Paulo em 2024, que terminou em terceiro lugar com 28,14% dos votos.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-la-01",
+            "kind": "historico",
+            "title": "Substituição da chapa presidencial do PRTB no último dia do prazo",
+            "role": "presidente nacional do PRTB e vice da chapa original; passou a titular após a renúncia de Pablo Marçal",
+            "complexity": "alcance nacional; prazo de substituição encerrando em 18/09/2026; decisão colegiada do TSE; risco de o partido ficar sem candidato na eleição presidencial",
+            "outcome": "chapa Leonardo Avalanche / Silvia Hellen registrada e publicada na lista oficial de candidaturas do DJE em 18/09/2026, com voto favorável da relatora",
+            "period": "2026",
+            "context": "Indeferimento por unanimidade do registro da chapa Marçal/Avalanche em 11/09/2026, seguido de renúncia do titular em 14/09/2026.",
+            "sources": [
+              {
+                "id": "src-la-01",
+                "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+                "publisher": "TSE — Diário da Justiça Eletrônico",
+                "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+              },
+              {
+                "id": "src-la-02",
+                "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+                "publisher": "TSE",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+                "publishedAt": "2026-09-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+              },
+              {
+                "id": "src-la-04",
+                "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+                "publisher": "g1",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+                "publishedAt": "2026-09-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+              },
+              {
+                "id": "src-la-37",
+                "title": "Leonardo Avalanche anuncia candidatura à Presidência no lugar de Marçal",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/leonardo-avalanche-anuncia-candidatura-a-presidencia-no-lugar-de-marcal/",
+                "publishedAt": "2026-09-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Anúncio divulgado nas redes sociais em 15/09/2026, após o indeferimento do registro de Marçal pelo TSE."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-la-02",
+            "kind": "historico",
+            "title": "Coordenação política da candidatura de Pablo Marçal à Prefeitura de São Paulo",
+            "role": "coordenador político da campanha (presidente nacional do partido)",
+            "complexity": "alcance municipal no município de São Paulo; campanha com visibilidade nacional; partido sem prefeitos e com estrutura reduzida na cidade",
+            "outcome": "terceiro lugar na eleição municipal de 2024, com 28,14% dos votos",
+            "period": "2024",
+            "context": "Candidatura que projetou nacionalmente o partido após a morte do fundador Levy Fidelix e a direção provisória.",
+            "sources": [
+              {
+                "id": "src-la-10",
+                "title": "Leonardo Avalanche — Wikipédia (pt)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+              },
+              {
+                "id": "src-la-35",
+                "title": "Marçal reata com presidente do PRTB e diz estar comprometido de vez com o partido",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2024/09/04/marcal-reata-com-presidente-do-prtb-e-diz-estar-comprometido-de-vez-com-o-partido-mesmo-sob-suspeitas.ghtml",
+                "publishedAt": "2024-09-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra a interlocução entre o candidato e o presidente nacional do PRTB durante a campanha municipal de São Paulo (2024)."
+              },
+              {
+                "id": "src-la-09",
+                "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+                "publishedAt": "2024-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-la-03",
+            "kind": "historico",
+            "title": "Reformulação organizacional e reestruturação de diretórios do PRTB",
+            "role": "presidente nacional, no cargo desde 23/02/2024",
+            "complexity": "alcance nacional; partido com 144.376 filiados em janeiro de 2026; comando estadual substituído em Goiás em junho de 2026; gestão marcada por disputas judiciais sobre o comando da legenda",
+            "outcome": "partido realizou convenção nacional em 29/07/2026 e voltou a disputar a Presidência, o que não ocorria desde 2014",
+            "period": "2024-2026",
+            "context": "Sucessão de administração provisória instituída após disputas internas posteriores à morte do fundador, com contestações judiciais sobre a eleição da direção.",
+            "sources": [
+              {
+                "id": "src-la-10",
+                "title": "Leonardo Avalanche — Wikipédia (pt)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+              },
+              {
+                "id": "src-la-11",
+                "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+              },
+              {
+                "id": "src-la-34",
+                "title": "PRTB muda comando em Goiás e inicia reestruturação de olho nas eleições de 2026",
+                "publisher": "Jornal Hora Extra",
+                "url": "https://www.jornalhoraextra.com.br/destaques/prtb-muda-comando-em-goias-e-inicia-reestruturacao-de-olho-nas-eleicoes-de-2026",
+                "publishedAt": "2026-06-27",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-la-14",
+                "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+                "publisher": "Gazeta do Paraná",
+                "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-la-04",
+            "kind": "historico",
+            "title": "Convenção nacional que oficializou a candidatura presidencial",
+            "role": "pré-candidato e presidente nacional do partido",
+            "complexity": "alcance nacional; convenção realizada em Goiânia em 29/07/2026; candidato a vice ainda não definido na data",
+            "outcome": "candidatura oficializada; vice anunciada posteriormente (Silvia Hellen da Silva Pereira)",
+            "period": "2026",
+            "context": "Primeira candidatura presidencial do PRTB desde 2014, montada em ano em que o partido registrou o menor número de candidaturas entre as legendas.",
+            "sources": [
+              {
+                "id": "src-la-14",
+                "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+                "publisher": "Gazeta do Paraná",
+                "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+              },
+              {
+                "id": "src-la-30",
+                "title": "PRTB anuncia Leonardo Avalanche como pré-candidato a presidente",
+                "publisher": "Estadão",
+                "url": "https://www.estadao.com.br/politica/prtb-anuncia-leonardo-avalanche-como-pre-candidato-a-presidente",
+                "publishedAt": "2026-07-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-la-32",
+                "title": "Partido de Pablo Marçal é o que tem menos candidatos em 2026",
+                "publisher": "Correio Braziliense (blog Em Alta na Política)",
+                "url": "https://newblogs.correiobraziliense.com.br/emaltanapolitica/partido-de-pablo-marcal-e-o-que-tem-menos-candidatos-em-2026/",
+                "publishedAt": "2026-08-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Dados abertos do TSE: PRTB com 12 candidatos registrados em 2026, disputando os governos do DF e do Maranhão."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-la-05",
+            "kind": "historico",
+            "title": "Execução da campanha eleitoral de 2026 com estrutura partidária reduzida",
+            "role": "candidato à Presidência e presidente nacional",
+            "complexity": "alcance nacional; 12 candidaturas registradas pelo partido para todos os cargos em 2026, com disputas de governo no DF e no Maranhão; campanha iniciada a 20 dias do primeiro turno",
+            "outcome": "campanha realizada com chapa registrada e agenda nacional em três semanas; imprensa registra que o PRTB foi a legenda com menos candidatos registrados em 2026",
+            "period": "2026",
+            "context": "Candidatura assumida após o início oficial da campanha, com estrutura partidária concentrada em poucos estados.",
+            "sources": [
+              {
+                "id": "src-la-32",
+                "title": "Partido de Pablo Marçal é o que tem menos candidatos em 2026",
+                "publisher": "Correio Braziliense (blog Em Alta na Política)",
+                "url": "https://newblogs.correiobraziliense.com.br/emaltanapolitica/partido-de-pablo-marcal-e-o-que-tem-menos-candidatos-em-2026/",
+                "publishedAt": "2026-08-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Dados abertos do TSE: PRTB com 12 candidatos registrados em 2026, disputando os governos do DF e do Maranhão."
+              },
+              {
+                "id": "src-la-36",
+                "title": "O novo candidato ao Planalto que entrou na corrida a vinte dias da eleição",
+                "publisher": "Veja",
+                "url": "https://veja.abril.com.br/brasil/o-novo-candidato-ao-planalto-que-entrou-na-corrida-a-vinte-dias-da-eleicao/",
+                "publishedAt": "2026-09-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-la-31",
+                "title": "Quem é Leonardo Avalanche, candidato a presidente pelo PRTB",
+                "publisher": "Último Segundo / iG",
+                "url": "https://ultimosegundo.ig.com.br/2026-08-10/quem-e-leonardo-avalanche--candidato-a-presidente-pelo-prtb.html",
+                "publishedAt": "2026-08-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil de trajetória: empresário goiano, presidente do partido, estreia nas urnas em 2026."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "Manteve aliança eleitoral com Marconi Perillo (PSDB) no governo de Goiás, confirmada por nota em 08/09/2026 após especulação de rompimento, e depois retirou o partido da coligação e abriu negociação por novo apoio no estado. Em 2025, declarou publicamente que colocaria o PRTB à disposição de lideranças da direita para a eleição de 2026, entre elas o deputado Eduardo Bolsonaro. Conduziu também a interlocução com Pablo Marçal, que passou pelo partido em 2024 e teve o registro presidencial indeferido em 2026.",
+        "coverage": "parcial",
+        "coverageNote": "As negociações de 2026 aparecem em notas do partido e na imprensa regional, sem atas ou documentos de coligação disponíveis no pool de fontes; o registro DJE cobre apenas o resultado (chapa pura para a Presidência).",
+        "evidences": [
+          {
+            "id": "ev-cap-la-06",
+            "kind": "historico",
+            "title": "Aliança com Marconi Perillo (PSDB) no governo de Goiás e negociação de novo apoio",
+            "role": "presidente nacional do PRTB; aliança firmada e confirmada por nota do partido ao Jornal Opção",
+            "complexity": "alcance estadual (Goiás); acordo com a candidatura do PSDB ao governo; PRTB descrito como um dos poucos partidos a declarar apoio a Marconi Perillo",
+            "outcome": "aliança confirmada em nota em 08/09/2026 após notícias de rompimento; depois o partido deixou a coligação e abriu negociação por novo apoio no estado",
+            "period": "2026",
+            "context": "Disputa estadual em que o partido tinha capital político limitado e negociou apoio em troca de espaço na chapa.",
+            "sources": [
+              {
+                "id": "src-la-25",
+                "title": "PRTB nega rompimento e mantém aliança com Marconi Perillo",
+                "publisher": "Jornal Opção",
+                "url": "https://www.jornalopcao.com.br/ultimas-noticias/prtb-nega-rompimento-e-mantem-alianca-com-marconi-perillo-866182/",
+                "publishedAt": "2026-09-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "08/09/2026, João Paulo Alexandre: o presidente do PRTB, Leonardo Avalanche, confirmou em nota enviada ao jornal a manutenção da aliança com Marconi Perillo (PSDB), candidato ao governo de Goiás. A página bloqueou acesso automatizado nesta rodada; o texto foi conferido no espelho src-la-26."
+              },
+              {
+                "id": "src-la-26",
+                "title": "PRTB nega rompimento de aliança com Marconi Perillo em Goiás",
+                "publisher": "Brasil em Folhas",
+                "url": "https://www.brasilemfolhas.com.br/2026/09/prtb-nega-rompimento-de-alianca-com-marconi-perillo-em-goias/",
+                "publishedAt": "2026-09-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Texto lido em 29/09/2026: nota de Avalanche de 08/09/2026 confirma a aliança com Perillo (PSDB); o PRTB figura na coligação 'Goiás Pode Muito Mais' no DivulgaCand; a definição final sobre o apoio estadual cabe ao presidente nacional, após vereadora do PRTB ser filmada em atividade de aliados do MDB."
+              },
+              {
+                "id": "src-la-33",
+                "title": "PRTB deixa coligação de Marconi Perillo e abre negociação por novo apoio em Goiás",
+                "publisher": "Poder Goiás",
+                "url": "https://www.podergoias.com.br/materia/27350/prtb-deixa-coligacao-de-marconi-e-abre-negociacao-por-novo-apoio-em-goias",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026); posterior à nota de 08/09/2026 em que o partido confirmava a manutenção da aliança."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-la-07",
+            "kind": "posicao",
+            "title": "Oferta da legenda a lideranças da direita para a eleição de 2026",
+            "role": "presidente nacional do PRTB",
+            "complexity": "alcance nacional; interlocução declarada com lideranças do campo conservador, entre elas o deputado federal Eduardo Bolsonaro; partido com 144.376 filiados em janeiro de 2026",
+            "outcome": "entendimentos declarados em entrevistas ao longo de 2025; a articulação seguinte resultou na filiação de Pablo Marçal ao partido e na chapa registrada em agosto de 2026",
+            "period": "2025-2026",
+            "context": "Legenda sem bancada expressiva buscando abrigar uma candidatura competitiva da direita.",
+            "sources": [
+              {
+                "id": "src-la-10",
+                "title": "Leonardo Avalanche — Wikipédia (pt)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+              },
+              {
+                "id": "src-la-11",
+                "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          },
+          {
+            "id": "ev-cap-la-08",
+            "kind": "historico",
+            "title": "Filiação e registro da chapa Marçal/Avalanche e desfecho no TSE",
+            "role": "vice na chapa registrada em agosto de 2026; presidente nacional que conduziu o registro",
+            "complexity": "alcance nacional; chapa presidencial registrada em 15/08/2026; julgamento pelo Plenário do TSE",
+            "outcome": "registro indeferido por unanimidade em 11/09/2026, por não comprovação de filiação partidária do titular até abril de 2026; decisão declarou o titular inelegível até 2032 por irregularidades de prestação de contas",
+            "period": "2026",
+            "context": "Negociação que levou uma liderança de fora do partido à candidatura presidencial e terminou em indeferimento, abrindo espaço para a substituição pelo próprio dirigente.",
+            "sources": [
+              {
+                "id": "src-la-02",
+                "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+                "publisher": "TSE",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+                "publishedAt": "2026-09-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+              },
+              {
+                "id": "src-la-13",
+                "title": "Após TSE barrar Marçal, PRTB terá Leonardo Avalanche como candidato à Presidência",
+                "publisher": "CartaCapital",
+                "url": "https://www.cartacapital.com.br/politica/apos-tse-barrar-marcal-prtb-tera-leonardo-avalanche-como-candidato-a-presidencia/",
+                "publishedAt": "2026-09-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Tem 48 anos e declarou patrimônio de 495 milhões de reais à Justiça Eleitoral, sendo que 491 milhões em criptomoedas'."
+              },
+              {
+                "id": "src-la-05",
+                "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+                "publisher": "Agência Brasil",
+                "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+                "publishedAt": "2026-09-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-la-09",
+            "kind": "historico",
+            "title": "Interlocução com a candidatura de Pablo Marçal durante a campanha municipal de 2024",
+            "role": "presidente nacional do partido e interlocutor da campanha municipal",
+            "complexity": "alcance municipal no município de São Paulo; campanha com três trocas de posição pública entre candidato e direção partidária no mesmo mês",
+            "outcome": "candidato declarou publicamente estar comprometido com o partido em setembro de 2024, após ter pedido o afastamento do presidente nacional",
+            "period": "2024",
+            "context": "Relação entre a direção nacional e uma candidatura de forte apelo eleitoral, com conflito público sobre suspeitas envolvendo dirigentes.",
+            "sources": [
+              {
+                "id": "src-la-35",
+                "title": "Marçal reata com presidente do PRTB e diz estar comprometido de vez com o partido",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2024/09/04/marcal-reata-com-presidente-do-prtb-e-diz-estar-comprometido-de-vez-com-o-partido-mesmo-sob-suspeitas.ghtml",
+                "publishedAt": "2024-09-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra a interlocução entre o candidato e o presidente nacional do PRTB durante a campanha municipal de São Paulo (2024)."
+              },
+              {
+                "id": "src-la-09",
+                "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+                "publishedAt": "2024-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Assumeu a presidência nacional do PRTB sucedendo uma administração provisória e nomeou novo comando estadual em Goiás em junho de 2026, conduzindo o partido à convenção nacional de 29/07/2026. Coordenou politicamente a campanha de Pablo Marçal à Prefeitura de São Paulo em 2024 e, em 2026, formou a chapa com Silvia Hellen da Silva Pereira como vice. A gestão à frente da legenda foi acompanhada de disputas judiciais sobre o comando do partido e de acusações de dirigentes afastados, que ele nega.",
+        "coverage": "parcial",
+        "coverageNote": "Não há publicação de organograma, quadro de pessoal ou de equipe de campanha do PRTB; as evidências se baseiam em atos de nomeação de diretórios, na composição da chapa e na coordenação política documentada pela imprensa.",
+        "evidences": [
+          {
+            "id": "ev-cap-la-10",
+            "kind": "historico",
+            "title": "Recomposição da direção nacional e dos diretórios estaduais do PRTB",
+            "role": "presidente nacional eleito em 23/02/2024, sucedendo direção provisória",
+            "complexity": "alcance nacional; 144.376 filiados em janeiro de 2026; comando estadual em Goiás substituído em 27/06/2026 com início de reestruturação",
+            "outcome": "nova direção instalada; partido realizou convenção nacional em 29/07/2026 e lançou chapa presidencial",
+            "period": "2024-2026",
+            "context": "Herança de administração provisória criada após disputas internas na sucessão do fundador, com ações judiciais contestando a eleição da direção.",
+            "sources": [
+              {
+                "id": "src-la-10",
+                "title": "Leonardo Avalanche — Wikipédia (pt)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+              },
+              {
+                "id": "src-la-11",
+                "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+              },
+              {
+                "id": "src-la-34",
+                "title": "PRTB muda comando em Goiás e inicia reestruturação de olho nas eleições de 2026",
+                "publisher": "Jornal Hora Extra",
+                "url": "https://www.jornalhoraextra.com.br/destaques/prtb-muda-comando-em-goias-e-inicia-reestruturacao-de-olho-nas-eleicoes-de-2026",
+                "publishedAt": "2026-06-27",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-la-11",
+            "kind": "historico",
+            "title": "Coordenação política de campanha municipal com equipe própria",
+            "role": "coordenador político da candidatura à Prefeitura de São Paulo em 2024",
+            "complexity": "campanha no município de São Paulo; estrutura de campanha montada pelo partido, com material de campanha e agenda própria; resultado de 28,14% dos votos",
+            "outcome": "campanha coordenada até a votação, com terceiro lugar no primeiro turno",
+            "period": "2024",
+            "context": "Partido com presença reduzida na cidade assumiu a coordenação de uma candidatura de forte circulação nacional.",
+            "sources": [
+              {
+                "id": "src-la-10",
+                "title": "Leonardo Avalanche — Wikipédia (pt)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+              },
+              {
+                "id": "src-la-09",
+                "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+                "publishedAt": "2024-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+              },
+              {
+                "id": "src-la-35",
+                "title": "Marçal reata com presidente do PRTB e diz estar comprometido de vez com o partido",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2024/09/04/marcal-reata-com-presidente-do-prtb-e-diz-estar-comprometido-de-vez-com-o-partido-mesmo-sob-suspeitas.ghtml",
+                "publishedAt": "2024-09-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Registra a interlocução entre o candidato e o presidente nacional do PRTB durante a campanha municipal de São Paulo (2024)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-la-12",
+            "kind": "historico",
+            "title": "Composição da chapa presidencial e definição da vice",
+            "role": "cabeça de chapa; vice Silvia Hellen da Silva Pereira, também de Anápolis (GO)",
+            "complexity": "alcance nacional; chapa pura, sem federação ou coligação registrada; indicação e registro concluídos em 48 horas após a renúncia do titular anterior",
+            "outcome": "chapa registrada e publicada no DJE de 18/09/2026",
+            "period": "2026",
+            "context": "Definição de companheiro de chapa em prazo reduzido, com o partido sob risco de ficar fora da disputa presidencial.",
+            "sources": [
+              {
+                "id": "src-la-01",
+                "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+                "publisher": "TSE — Diário da Justiça Eletrônico",
+                "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+                "publishedAt": "2026-09-18",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+              },
+              {
+                "id": "src-la-04",
+                "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+                "publisher": "g1",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+                "publishedAt": "2026-09-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+              },
+              {
+                "id": "src-la-36",
+                "title": "O novo candidato ao Planalto que entrou na corrida a vinte dias da eleição",
+                "publisher": "Veja",
+                "url": "https://veja.abril.com.br/brasil/o-novo-candidato-ao-planalto-que-entrou-na-corrida-a-vinte-dias-da-eleicao/",
+                "publishedAt": "2026-09-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -14831,6 +19508,93 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "partidaria",
         "notes": "Art. 47: 'O Diretório Nacional do PRTB é composto por 45 (quarenta e cinco) membros titulares', acrescidos de 1/3 de suplentes e 5 delegados; Diretórios Regionais com 25 e Municipais com 15 membros. Sedes: nacional em Brasília (DF) e administrativa em São Paulo (SP). Art. 18: a Comissão Executiva Nacional deliberará sobre os candidatos à Presidência."
+      },
+      {
+        "id": "src-la-37",
+        "title": "Leonardo Avalanche anuncia candidatura à Presidência no lugar de Marçal",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/leonardo-avalanche-anuncia-candidatura-a-presidencia-no-lugar-de-marcal/",
+        "publishedAt": "2026-09-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Anúncio divulgado nas redes sociais em 15/09/2026, após o indeferimento do registro de Marçal pelo TSE."
+      },
+      {
+        "id": "src-la-35",
+        "title": "Marçal reata com presidente do PRTB e diz estar comprometido de vez com o partido",
+        "publisher": "O Globo",
+        "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2024/09/04/marcal-reata-com-presidente-do-prtb-e-diz-estar-comprometido-de-vez-com-o-partido-mesmo-sob-suspeitas.ghtml",
+        "publishedAt": "2024-09-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Registra a interlocução entre o candidato e o presidente nacional do PRTB durante a campanha municipal de São Paulo (2024)."
+      },
+      {
+        "id": "src-la-34",
+        "title": "PRTB muda comando em Goiás e inicia reestruturação de olho nas eleições de 2026",
+        "publisher": "Jornal Hora Extra",
+        "url": "https://www.jornalhoraextra.com.br/destaques/prtb-muda-comando-em-goias-e-inicia-reestruturacao-de-olho-nas-eleicoes-de-2026",
+        "publishedAt": "2026-06-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-la-30",
+        "title": "PRTB anuncia Leonardo Avalanche como pré-candidato a presidente",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/prtb-anuncia-leonardo-avalanche-como-pre-candidato-a-presidente",
+        "publishedAt": "2026-07-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-la-32",
+        "title": "Partido de Pablo Marçal é o que tem menos candidatos em 2026",
+        "publisher": "Correio Braziliense (blog Em Alta na Política)",
+        "url": "https://newblogs.correiobraziliense.com.br/emaltanapolitica/partido-de-pablo-marcal-e-o-que-tem-menos-candidatos-em-2026/",
+        "publishedAt": "2026-08-19",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Dados abertos do TSE: PRTB com 12 candidatos registrados em 2026, disputando os governos do DF e do Maranhão."
+      },
+      {
+        "id": "src-la-36",
+        "title": "O novo candidato ao Planalto que entrou na corrida a vinte dias da eleição",
+        "publisher": "Veja",
+        "url": "https://veja.abril.com.br/brasil/o-novo-candidato-ao-planalto-que-entrou-na-corrida-a-vinte-dias-da-eleicao/",
+        "publishedAt": "2026-09-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-la-31",
+        "title": "Quem é Leonardo Avalanche, candidato a presidente pelo PRTB",
+        "publisher": "Último Segundo / iG",
+        "url": "https://ultimosegundo.ig.com.br/2026-08-10/quem-e-leonardo-avalanche--candidato-a-presidente-pelo-prtb.html",
+        "publishedAt": "2026-08-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil de trajetória: empresário goiano, presidente do partido, estreia nas urnas em 2026."
+      },
+      {
+        "id": "src-la-33",
+        "title": "PRTB deixa coligação de Marconi Perillo e abre negociação por novo apoio em Goiás",
+        "publisher": "Poder Goiás",
+        "url": "https://www.podergoias.com.br/materia/27350/prtb-deixa-coligacao-de-marconi-e-abre-negociacao-por-novo-apoio-em-goias",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada (2026); posterior à nota de 08/09/2026 em que o partido confirmava a manutenção da aliança."
+      },
+      {
+        "id": "src-la-70",
+        "title": "Leonardo Avalanche: PRTB lança candidatura à Presidência da República",
+        "publisher": "g1 Goiás",
+        "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/07/29/prtb-lanca-candidatura-de-leonardo-avalanche-a-presidencia-em-goias.ghtml",
+        "publishedAt": "2026-07-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Convenção em Goiânia (29/07/2026): imposto único de 3,5%, trabalho por hora e IPVA; entrevista com defesa de reindustrialização e do agro como eixos."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -16126,7 +20890,685 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "high"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O programa registrado descreve um Brasil para as próximas décadas como 'potência criativa, sustentável, democrática e soberana, com menos desigualdades', apresentando a soberania como princípio inegociável e o mandato 2027–2030 como continuidade do projeto de ampliação de direitos e reconstrução do Estado. O texto não fixa um horizonte de 10 a 20 anos: o compromisso é com a 'transformação estrutural do país' e com o fortalecimento do planejamento estatal. Um documento do CDESS (Conselhão), órgão vinculado à Presidência, propõe um roteiro estratégico até 2035, citado aqui como material de governo e não como proposta de campanha.",
+      "nationalPriorities": [
+        "Fortalecer a democracia, a participação social e modernizar o Estado",
+        "Combater as desigualdades (transferência de renda, valorização do salário mínimo e saída do Mapa da Fome)",
+        "Proteger a vida com uma segurança pública mais eficiente e integrada",
+        "Garantir o direito à educação (alfabetização na idade adequada, tempo integral, institutos federais e universidades)",
+        "Fortalecer a saúde com equidade, inovação e soberania (atenção primária, prontuário único, produção nacional de medicamentos e vacinas)",
+        "Promover uma economia sustentável, produtiva e digital (arcabouço fiscal, aprofundamento da reforma tributária e Novo PAC)",
+        "Defender a soberania nacional e o protagonismo internacional do Brasil"
+      ],
+      "developmentModel": "O programa atribui ao Estado papel de planejador e indutor: 'não há desenvolvimento sem soberania em áreas estratégicas, capacidade industrial, domínio tecnológico e projeto nacional', com ênfase em ampliar a capacidade de planejamento, fortalecer a base produtiva e tecnológica e democratizar o orçamento público. O crescimento é associado à manutenção do arcabouço fiscal, ao investimento público (Novo PAC, leilões de rodovias e ferrovias, Petrobras e Minha Casa Minha Vida) e a uma política de transição energética e climática (matriz limpa, meta de desmatamento líquido zero até 2030 e trajetória de redução de emissões de 59%–67%). Trabalho aparece como eixo próprio (fim da escala 6x1, jornada de 40 horas sem redução salarial, regras para trabalho por aplicativos), e a redução de desigualdades é objetivo declarado, combinada com a continuidade de transferências de renda e políticas de educação e saúde. O setor privado é tratado como parceiro de investimento em infraestrutura e inovação, subordinado, no texto, às prioridades de soberania tecnológica e industrial.",
+      "sources": [
+        {
+          "id": "src-lula-06",
+          "title": "Programa de Governo Lula/Alckmin 2026 — documento registrado no TSE",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+          "publishedAt": "2026-08-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-lula-07",
+          "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+          "publisher": "Poder360",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-lula-80",
+          "title": "Programa de Governo — Diretrizes para o Programa de Transformação do Brasil: um país soberano, democrático, desenvolvido, sustentável e criativo (versão publicada pelo PT)",
+          "publisher": "Partido dos Trabalhadores (PT) — versão do programa registrado no TSE",
+          "url": "https://pt.org.br/wp-content/uploads/2026/08/08_06_JOB838_PT_livroplanodegoverno_260616_BOOK%20210x297mm_pg_solta_web.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF de 84 páginas com camada de texto, lido diretamente (índice com 13 eixos e seção 'Compromisso com o projeto de nação'). Mesmo título do documento protocolado no TSE em 08/08/2026 (documento 280017016005)."
+        },
+        {
+          "id": "src-lula-05",
+          "title": "Lula: veja as propostas do candidato a reeleição (13 eixos)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/27/lula-veja-as-propostas-do-candidato-a-reeleicao.ghtml",
+          "publishedAt": "2026-08-27",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-81",
+          "title": "Programa Lula-Alckmin: transformação e compromisso com o povo que sonha e quer um futuro melhor",
+          "publisher": "PT — site oficial",
+          "url": "https://pt.org.br/programa-lula-alckmin-transformacao-e-compromisso-com-o-povo-que-sonha-e-quer-um-futuro-melhor/",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Texto partidário de apresentação do programa protocolado pela coligação; a data exata de publicação não está legível na página (nota da coleta); usado para a descrição da soberania como 'princípio inegociável'."
+        },
+        {
+          "id": "src-lula-82",
+          "title": "Conselhão apresenta 'Pilares de um projeto de nação', um roteiro estratégico para o Brasil até 2035",
+          "publisher": "Brasil de Fato",
+          "url": "https://www.brasildefato.com.br/2025/12/04/conselhao-apresenta-pilares-de-um-projeto-de-nacao-um-roteiro-estrategico-para-o-brasil-ate-2035/",
+          "publishedAt": "2025-12-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Documento do CDESS (Conselho de Desenvolvimento Econômico Social Sustentável), órgão vinculado à Presidência da República; usado apenas para indicar que existe documento de governo com horizonte até 2035, atribuído ao órgão e não ao plano de campanha."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "methodology": "Extraído do texto integral do programa registrado no TSE em 08/08/2026 (versão publicada pelo PT, 84 páginas, com índice de 13 eixos e a seção 'Compromisso com o projeto de nação'). O espelho do Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR. As 7 prioridades listadas são os eixos declarados pelo próprio programa, sem prioridades inferidas; os compromissos de campanha de 2026 (fim da escala 6x1, reforma tributária, soberania) aparecem em cobertura de imprensa e em material partidário citados nas fontes.",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Programas de alcance nacional foram instituídos por ato normativo em dois ciclos: Bolsa Família (Lei 14.601/2023), Luz para Todos (Decreto 4.873/2003), ProUni (Lei 11.096/2005), Minha Casa Minha Vida (Lei 11.977/2009) e Novo PAC (Decreto 11.632/2023). Resultados registrados em fontes oficiais incluem R$ 711 bi executados pelo PAC até o fim de 2024 (53,7% do previsto até 2026) e 66% de crianças alfabetizadas em 2025, contra meta de 64% (Inep). A entrega anual passa pela sanção da LOA — a de 2026 foi sancionada com vetos de R$ 393–400 mi em emendas — e pela tramitação de projetos de reestruturação do Executivo no Congresso.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-lula-01",
+            "kind": "historico",
+            "title": "Novo PAC — instituição do programa, comitê gestor e execução da carteira",
+            "role": "Presidente da República, autor do decreto de criação do programa e da estrutura de governança",
+            "complexity": "Alcance nacional (27 UFs); R$ 1,8 trilhão previstos (R$ 1,3 tri até 2026); comitê gestor ministerial e grupo executivo; carteira de obras e equipamentos publicada em painel de transparência",
+            "outcome": "Decreto 11.632/2023 publicado em 11/08/2023 instituindo programa, comitê gestor e grupo executivo; R$ 711 bi executados até o fim de 2024 (53,7% do previsto até 2026)",
+            "period": "2023–2026",
+            "context": "Programa lançado no 3º mandato para retomar investimento em infraestrutura após a extinção do PAC anterior; execução acompanhada por painel público com execução física e orçamentária.",
+            "sources": [
+              {
+                "id": "src-lula-90",
+                "title": "Decreto nº 11.632, de 11 de agosto de 2023 — institui o Novo PAC, o Comitê Gestor e o Grupo Executivo do PAC",
+                "publisher": "Planalto — Presidência da República",
+                "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11632.htm",
+                "publishedAt": "2023-08-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "diario_oficial",
+                "notes": "Texto integral do decreto com a composição do Comitê Gestor e do Grupo Executivo."
+              },
+              {
+                "id": "src-lula-91",
+                "title": "Em dois anos, investimentos do Novo PAC superam 53% do previsto até 2026",
+                "publisher": "Secretaria de Comunicação Social da Presidência (gov.br)",
+                "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/04/em-dois-anos-investimentos-do-novo-pac-atingem-53-7-do-previsto-ate-2026",
+                "publishedAt": "2025-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "executivo_federal",
+                "notes": "Execução de R$ 711 bi até o fim de 2024 (53,7% do total de R$ 1,3 tri previsto até 2026)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-lula-02",
+            "kind": "historico",
+            "title": "Recriação do Bolsa Família por medida provisória convertida em lei",
+            "role": "Presidente da República — assinou a MP 1.164/2023 e sancionou a Lei 14.601/2023",
+            "complexity": "Nacional; 21,86 milhões de famílias atendidas no lançamento (mar/2023); valor mínimo de R$ 600; cadastro único como porta de entrada; regra legal de atualização periódica em intervalos de até 24 meses",
+            "outcome": "Programa recriado por lei em 19/06/2023; regra de atualização validada pelo STF em junho de 2024 como cumprimento de ordem judicial (segundo a fonte)",
+            "period": "2023–2024",
+            "context": "Recriação substituiu o Auxílio Brasil e reorganizou o desenho do programa, com pagamento pela Caixa e gestão pelo ministério da área social.",
+            "sources": [
+              {
+                "id": "src-lula-92",
+                "title": "Lula lança novo Bolsa Família, com valor mínimo de R$ 600, para 21,86 milhões de famílias",
+                "publisher": "Brasil de Fato",
+                "url": "https://brasildefato.com.br/2023/03/03/lula-launches-new-family-grant-with-a-minimum-value-of-115-brazilian-society-s-program",
+                "publishedAt": "2023-03-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Assinatura da MP em cerimônia no Palácio do Planalto (02/03/2023)."
+              },
+              {
+                "id": "src-lula-93",
+                "title": "Lei nº 14.601, de 19 de junho de 2023 — institui o Programa Bolsa Família (conversão da MP nº 1.164/2023)",
+                "publisher": "Planalto — Presidência da República",
+                "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+                "publishedAt": "2023-06-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "diario_oficial",
+                "notes": "Data e número conferidos no texto publicado (conversão da MP 1.164/2023); o Cadastro Único é a porta de entrada do programa."
+              },
+              {
+                "id": "src-lula-98",
+                "title": "Governo Lula recorre ao STF para validar reajuste do Bolsa Família antes da eleição (registra a Lei 14.601/2023 e a validação da regra de atualização pelo STF em jun/2024)",
+                "publisher": "Gazeta do Povo",
+                "url": "https://gazetadopovo.com.br/eleicoes/2026/governo-lula-recorre-ao-stf-para-validar-reajuste-do-bolsa-familia-antes-da-eleicao/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Fonte complementar sobre a regra legal de atualização periódica do programa."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-lula-03",
+            "kind": "historico",
+            "title": "Instituição de programas federais por decreto e por lei (2003–2009)",
+            "role": "Presidente da República — atos de iniciativa própria (decreto e projeto de lei)",
+            "complexity": "Nacional; três programas estruturantes em seis anos: Luz para Todos (energia, Decreto 4.873/2003), ProUni (bolsas em instituições privadas, Lei 11.096/2005) e Minha Casa Minha Vida (habitação, Lei 11.977/2009)",
+            "outcome": "Programas instituídos por ato normativo e execução iniciada no período; o Minha Casa Minha Vida foi retomado por lei em setembro de 2023",
+            "period": "2003–2009",
+            "context": "Contexto de expansão de programas sociais nos dois primeiros mandatos; execução distribuída entre ministérios e estatais.",
+            "sources": [
+              {
+                "id": "src-lula-23",
+                "title": "Sobre o Programa Luz para Todos (Decreto 4.873/2003)",
+                "publisher": "Ministério de Minas e Energia",
+                "url": "https://www.gov.br/mme/pt-br/destaques/Programa%20Luz%20para%20Todos/sobre-o-programa",
+                "publishedAt": "não informado",
+                "accessedAt": "2026-09-29",
+                "sourceType": "executivo_federal"
+              },
+              {
+                "id": "src-lula-25",
+                "title": "ProUni virá lei — sanção da Lei 11.096/2005",
+                "publisher": "Memorial da Democracia",
+                "url": "https://memorialdademocracia.com.br/card/prouni-vira-lei",
+                "publishedAt": "2005-01-13",
+                "accessedAt": "2026-09-29",
+                "sourceType": "diario_oficial"
+              },
+              {
+                "id": "src-lula-54",
+                "title": "Sancionada lei que retoma o Minha Casa Minha Vida (criado em 2009)",
+                "publisher": "Jornal de Brasília",
+                "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/sancionada-lei-que-retoma-o-minha-casa-minha-vida/",
+                "publishedAt": "2023-09-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-lula-04",
+            "kind": "historico",
+            "title": "Sanção da Lei Orçamentária Anual de 2026 com vetos a emendas",
+            "role": "Presidente da República — sanção da LOA (Lei 15.346/2026)",
+            "complexity": "Orçamento federal de R$ 6,54 tri (inclui R$ 1,8 tri de refinanciamento da dívida); R$ 61 bi em emendas parlamentares no texto; R$ 393–400 mi vetados em emendas modificadas pelo Congresso e R$ 11 bi em recursos de destinação parlamentar barrados",
+            "outcome": "Lei sancionada em 14/01/2026 com superávit primário previsto de R$ 34,2 bi; vetos sujeitos a apreciação pelo Congresso",
+            "period": "2026",
+            "context": "Peculiaridade do ciclo: o orçamento foi sancionado em ano eleitoral e a execução segue o calendário da LOA.",
+            "sources": [
+              {
+                "id": "src-lula-39",
+                "title": "Lei nº 15.346, de 14 de janeiro de 2026 — LOA 2026",
+                "publisher": "Diário Oficial da União",
+                "url": "https://in.gov.br/web/dou/-/lei-n-15.346-de-14-de-janeiro-de-2026-*-681158465",
+                "publishedAt": "2026-01-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "diario_oficial"
+              },
+              {
+                "id": "src-lula-40",
+                "title": "Orçamento 2026 é sancionado com veto a R$ 400 milhões em emendas",
+                "publisher": "Câmara dos Deputados",
+                "url": "https://camara.leg.br/noticias/1238564-orcamento-2026-e-sancionado-com-veto-a-r-400-milhoes-em-emendas",
+                "publishedAt": "2026-01-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo"
+              },
+              {
+                "id": "src-lula-11",
+                "title": "Orçamento 2026 é sancionado com previsão de superávit de R$ 34,2 bi",
+                "publisher": "Senado Notícias",
+                "url": "https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-previsao-de-superavit-de-rs-34-2-bi",
+                "publishedAt": "2026-01-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-lula-05",
+            "kind": "historico",
+            "title": "Reestruturação de carreiras do Executivo federal (Projeto de Transformação do Estado)",
+            "role": "Presidente da República — sanção do projeto conduzido pelo Ministério da Gestão desde 2023",
+            "complexity": "Executivo federal; carreiras civis reorganizadas em múltiplos órgãos; universo de cerca de 1,0 mi de servidores ativos do Executivo federal (mar/2026, Portal da Transparência)",
+            "outcome": "Projeto de lei sancionado em março de 2026, conforme registro do próprio ministério responsável",
+            "period": "2023–2026",
+            "context": "Iniciativa transversal conduzida pelo MGI com órgãos do Executivo, dentro do projeto de Transformação do Estado.",
+            "sources": [
+              {
+                "id": "src-lula-95",
+                "title": "Presidente Lula sanciona projeto de lei que consolida reestruturação das carreiras do Executivo federal",
+                "publisher": "Ministério da Gestão e da Inovação em Serviços Públicos (gov.br)",
+                "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/marco/presidente-lula-sanciona-projeto-de-lei-que-consolida-maior-reestruturacao-das-carreiras-do-executivo-em-um-mandato",
+                "publishedAt": "2026-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "executivo_federal",
+                "notes": "Projeto de Transformação do Estado conduzido pelo MGI desde 2023; sanção em março de 2026."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-lula-06",
+            "kind": "historico",
+            "title": "Meta nacional de alfabetização atingida em 2025",
+            "role": "Presidente da República — programa federal de alfabetização executado com estados e municípios (Compromisso Nacional Criança Alfabetizada)",
+            "complexity": "Nacional; 27 UFs e redes municipais; avaliação do Inep sobre estudantes do 2º ano do ensino fundamental",
+            "outcome": "66% das crianças alfabetizadas em 2025, acima da meta de 64%; 20 unidades da Federação também alcançaram a meta",
+            "period": "2023–2025",
+            "context": "Indicador medido por avaliação federal (Inep) e mantido no plano de governo registrado no TSE para 2027–2030 (meta declarada de 80%).",
+            "sources": [
+              {
+                "id": "src-lula-94",
+                "title": "Brasil e 20 unidades da Federação alcançam meta de alfabetização (66% em 2025, meta de 64%)",
+                "publisher": "Inep — Instituto Nacional de Estudos e Pesquisas Educacionais",
+                "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/avaliacao-da-alfabetizacao/brasil-e-20-unidades-da-federacao-alcancam-meta-de-alfabetizacao",
+                "publishedAt": "2026-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Resultado do Compromisso Nacional Criança Alfabetizada; 66% dos estudantes do 2º ano alfabetizados em 2025."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "A negociação legislativa é documentada na reforma tributária (EC 132/2023), na sanção da LOA 2026 com vetos e no acordo de pauta fechado com os presidentes da Câmara e do Senado em agosto de 2026 (redução da jornada/escala 6x1, PEC da segurança pública, Redata, terras raras). A interlocução setorial inclui centrais sindicais (entrega da Agenda da Classe Trabalhadora, abr/2026), Anfavea (jul/2026), pastores evangélicos (set/2026) e jantar com cerca de 740 empresários e banqueiros (set/2026). A sustentação no Congresso é registrada com ministérios distribuídos a aliados, 72% de votos favoráveis nas votações de interesse e queda do alinhamento no Senado de 75% (2025) para 38,5% (2026), após a saída de União Brasil e PP do governo em set/2025.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-lula-07",
+            "kind": "historico",
+            "title": "Aprovação da reforma tributária (EC 132/2023) com o Congresso",
+            "role": "Presidente da República — liderou a articulação pela aprovação da proposta enviada pelo Executivo",
+            "complexity": "Nacional; duas Casas legislativas, quórum de 3/5 em dois turnos; transição de sete anos; regulamentação por leis complementares; arcabouço fiscal aprovado no mesmo ciclo",
+            "outcome": "Emenda Constitucional 132 promulgada em 20/12/2023; Lei 14.751/2023 (arcabouço fiscal) aprovada no mesmo período",
+            "period": "2023",
+            "context": "Agenda prioritária do 3º mandato; dependia de maioria qualificada e da tramitação simultânea do novo marco fiscal.",
+            "sources": [
+              {
+                "id": "src-lula-29",
+                "title": "Reforma tributária promulgada (EC 132)",
+                "publisher": "Agência Senado",
+                "url": "https://www12.senado.leg.br/noticias/materias/2023/12/21/reforma-tributaria-promulgada-principais-mudancas-dependem-de-novas-leis",
+                "publishedAt": "2023-12-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo"
+              },
+              {
+                "id": "src-lula-30",
+                "title": "Emenda Constitucional nº 132",
+                "publisher": "Planalto",
+                "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+                "publishedAt": "2023-12-20",
+                "accessedAt": "2026-09-29",
+                "sourceType": "diario_oficial"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-lula-08",
+            "kind": "historico",
+            "title": "Acordo de pauta com os presidentes da Câmara e do Senado (ago/2026)",
+            "role": "Presidente da República — negociação direta com Hugo Motta (Câmara) e Davi Alcolumbre (Senado), com mediação de ministro de Relações Institucionais",
+            "complexity": "Atores: presidência da República, presidência da Câmara, presidência do Senado e líderes; pauta com cinco itens (redução da jornada, PEC da segurança pública, Redata, marco das terras raras, taxa das blusinhas); prazo de votação de MP fixado para 08/09/2026",
+            "outcome": "Prioridades de pauta definidas em almoço no Palácio da Alvorada em 26/08/2026; o PL da escala 6x1 foi enviado em regime de urgência em abr/2026 após almoço com o presidente da Câmara",
+            "period": "2026",
+            "context": "Ambiente de ano eleitoral e de queda do alinhamento do Senado; a negociação foi conduzida pessoalmente pelo presidente com os dois presidentes das Casas.",
+            "sources": [
+              {
+                "id": "src-lula-70",
+                "title": "Lula envia ao Congresso proposta de redução da escala 6 x 1",
+                "publisher": "Poder360",
+                "url": "https://poder360.com.br/poder-governo/lula-envia-ao-congresso-proposta-de-reducao-da-escala-6-x-1",
+                "publishedAt": "2026-04-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Envio em regime de urgência após almoço com o presidente da Câmara, Hugo Motta; acordo mediado por José Guimarães para tramitação conjunta do PL e da PEC."
+              },
+              {
+                "id": "src-lula-71",
+                "title": "Lula fecha acordo com Congresso para acelerar aprovação de promessas de campanha",
+                "publisher": "Observador (Portugal)",
+                "url": "https://observador.pt/2026/08/26/lula-fecha-acordo-com-congresso-para-acelerar-aprovacao-de-promessas-de-campanha/",
+                "publishedAt": "2026-08-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Almoço no Palácio da Alvorada com Hugo Motta (Câmara) e David Alcolumbre (Senado) em 26/08/2026: prioridades de pauta (redução da jornada, PEC de segurança, Redata, marco das terras raras, taxa das blusinhas)."
+              },
+              {
+                "id": "src-lula-72",
+                "title": "Lula diz que anunciará fim da taxa das blusinhas com Alcolumbre na próxima quarta-feira",
+                "publisher": "O Globo",
+                "url": "https://oglobo.globo.com/economia/noticia/2026/08/23/lula-diz-que-anunciara-fim-da-taxa-das-blusinhas-com-alcolumbre-na-proxima-quarta-feira.ghtml",
+                "publishedAt": "2026-08-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Pressão direta de Lula sobre a cúpula do Congresso para votação da MP antes de 08/09/2026 (prazo de validade)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-lula-09",
+            "kind": "historico",
+            "title": "Base de sustentação no Congresso: fidelidade da base e rompimentos",
+            "role": "Presidente da República — chefe do Executivo responsável pela coalizão de governo",
+            "complexity": "Base partidária com ministérios distribuídos entre aliados; 72% dos votos de deputados de partidos com ministérios favoráveis ao Planalto nas votações de interesse; alinhamento no Senado de 75% (2025) para 38,5% (2026)",
+            "outcome": "Resultado documentado inclui a saída de União Brasil e PP do governo em set/2025, com apoio à pauta da anistia, e a queda do alinhamento no Senado registrada em 2026",
+            "period": "2023–2026",
+            "context": "Registro de resultado misto: fidelidade alta na Câmara entre partidos com ministérios e perda de alinhamento no Senado no ano eleitoral.",
+            "sources": [
+              {
+                "id": "src-lula-20",
+                "title": "Quais partidos passaram a votar menos com Lula no Congresso",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-congresso/saiba-quais-partidos-passaram-a-votar-menos-com-lula-no-congresso/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-lula-21",
+                "title": "União Brasil e PP decidem deixar governo e apoiar anistia",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/poder/2025/09/uniao-brasil-e-pp-decidem-deixar-governo-lula-mas-mantem-brecha-para-indicacoes-politicas.shtml",
+                "publishedAt": "2025-09-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-lula-22",
+                "title": "Terceiro mandato de Lula tem a coalizão mais infiel em 30 anos",
+                "publisher": "Agência Senado",
+                "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/757367/noticia.html?sequence=1&isAllowed=y",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-lula-10",
+            "kind": "historico",
+            "title": "Recebimento da Agenda da Classe Trabalhadora 2026–2030 das centrais sindicais",
+            "role": "Presidente da República — recebeu as centrais em audiência no Palácio do Planalto",
+            "complexity": "Seis centrais sindicais; documento com 68 reivindicações para o quadriênio; marcha da classe trabalhadora em Brasília",
+            "outcome": "Agenda entregue em 15/04/2026 no Planalto; pauta incluía a escala 6x1, que o Executivo enviou ao Congresso em regime de urgência em 14/04/2026",
+            "period": "2026",
+            "context": "Primeira entrega formal de pauta unitária das centrais no ciclo eleitoral.",
+            "sources": [
+              {
+                "id": "src-lula-64",
+                "title": "Presidente Lula recebe reivindicações de centrais sindicais para o período de 2026 a 2030",
+                "publisher": "Planalto — Casa Civil (gov.br)",
+                "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/04/presidente-lula-recebe-reivindicacoes-de-centrais-sindicais-para-o-periodo-de-2026-a-2030",
+                "publishedAt": "2026-04-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "executivo_federal",
+                "notes": "Reunião no Palácio do Planalto em 15/04/2026; entrega da Agenda da Classe Trabalhadora 2026–2030 com 68 reivindicações (Conclat)."
+              },
+              {
+                "id": "src-lula-65",
+                "title": "CUT e Centrais se reúnem com Lula para entrega da Agenda da Classe Trabalhadora",
+                "publisher": "CUT — Central Única dos Trabalhadores",
+                "url": "https://cut.org.br/noticias/cut-e-centrais-se-reunem-com-lula-para-entrega-da-agenda-da-classe-trabalhadora-31ef",
+                "publishedAt": "2026-04-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Presença de Alckmin, Luiz Marinho e Guilherme Boulos; mesma reunião relatada pelo gov.br."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-lula-11",
+            "kind": "historico",
+            "title": "Interlocução com indústria, empresários e mercado financeiro",
+            "role": "Presidente da República — recebeu entidades setoriais no Planalto e promoveu jantar com empresários",
+            "complexity": "Indústria automotiva (Anfavea, 14/07/2026); cerca de 740 empresários, banqueiros e economistas em jantar em São Paulo (25/09/2026), o segundo em menos de um mês",
+            "outcome": "Agenda realizada com pauta de responsabilidade fiscal, estabilidade e soberania; crise do setor industrial tratada como responsabilidade do governo na reunião com a Anfavea",
+            "period": "2026",
+            "context": "Diálogo com setores que financiam campanhas e reagem a medidas fiscais, às vésperas do pleito.",
+            "sources": [
+              {
+                "id": "src-lula-68",
+                "title": "A empresários, Lula defende responsabilidade fiscal, estabilidade e soberania",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/a-empresrios-lula-defende-responsabilidade-fiscal-estabilidade-e-soberania.ghtml",
+                "publishedAt": "2026-09-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Jantar em São Paulo com cerca de 740 empresários, economistas e políticos (686 empresários); segundo jantar desse tipo em menos de um mês (o anterior, em 31/08/2026, no Alvorada, com 16 representantes do setor privado)."
+              },
+              {
+                "id": "src-lula-69",
+                "title": "Em reunião com Anfavea, Lula diz que crise no setor industrial também é problema do governo",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/brasil/noticia/2026/07/14/em-reuniao-com-anfavea-lula-diz-que-crise-no-setor-industrial-tambem-e-problema-do-governo.ghtml",
+                "publishedAt": "2026-07-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Reunião no Planalto com o presidente da Anfavea, Igor Calvet, e ministros (Fazenda, Desenvolvimento, Casa Civil)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-lula-12",
+            "kind": "historico",
+            "title": "Encontro com lideranças evangélicas no Planalto",
+            "role": "Presidente da República — recebeu pastores em audiência no Palácio do Planalto",
+            "complexity": "Cerca de 20 pastores do Brasil, dos Estados Unidos e de Cuba; pauta sobre atuação política em igrejas",
+            "outcome": "Encontro realizado em 16/09/2026; o presidente declarou que não fará ato político em igrejas e fará comício na rua",
+            "period": "2026",
+            "context": "Segmento com peso eleitoral relevante; registro da fonte sobre a posição do candidato quanto ao uso de igrejas na campanha.",
+            "sources": [
+              {
+                "id": "src-lula-66",
+                "title": "Lula recebe evangélicos no Planalto às vésperas da eleição e volta a condenar política em igrejas",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-recebe-evangelicos-no-planalto-as-vesperas-da-eleicao-e-volta-a-condenar-politica-em-igrejas.shtml",
+                "publishedAt": "2026-09-16",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Encontro em 16/09/2026 com cerca de 20 pastores do Brasil, dos EUA e de Cuba, articulado pela Frente de Evangélicos pelo Estado de Direito com Janja Lula da Silva."
+              },
+              {
+                "id": "src-lula-67",
+                "title": "Lula se reúne com pastores e diz que não fará ato político em igrejas",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/noticia/2026/09/16/lula-se-reune-com-pastores-e-diz-que-nao-fara-ato-politico-em-igrejas-comicio-eu-faco-na-rua.ghtml",
+                "publishedAt": "2026-09-16",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Mesmo encontro de 16/09/2026; presença do AGU Jorge Messias."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Formou e recompôs o primeiro escalão federal: 37 ministros anunciados para a posse de 2023, 38 pastas em 2025–2026 e troca no comando da articulação política em fevereiro de 2025 (Gleisi Hoffmann em Relações Institucionais; Padilha na Saúde). Instituiu por decreto a governança do Novo PAC (comitê gestor ministerial e grupo executivo) e decidiu, em 2003, a unificação de programas de transferência de renda sob cadastro único. Em 2023–2026 dirigiu o projeto de reestruturação de carreiras do Executivo conduzido pelo Ministério da Gestão.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-lula-13",
+            "kind": "historico",
+            "title": "Composição do ministério para o mandato iniciado em 2023 e recomposição em 2025",
+            "role": "Presidente da República — nomeação dos titulares das pastas",
+            "complexity": "37 ministros anunciados para a posse (14 pastas a mais que o governo anterior), distribuídos entre partidos aliados; 38 pastas em 2025–2026; troca de titulares em 2025 (Relações Institucionais e Saúde) e criação de nova pasta",
+            "outcome": "Equipe empossada em 01/01/2023 e recomposição efetivada em fev/2025; a base de partidos com ministérios registrou 72% de votos favoráveis ao governo nas votações de interesse",
+            "period": "2022–2026",
+            "context": "Composição usada como instrumento de construção de base parlamentar, segundo a descrição das próprias coberturas jornalísticas.",
+            "sources": [
+              {
+                "id": "src-lula-96",
+                "title": "Ministros de Lula: conheça os 37 nomes escolhidos para a equipe ministerial",
+                "publisher": "Gazeta do Povo",
+                "url": "https://gazetadopovo.com.br/republica/ministros-de-lula-quem-sao-escolhidos-perfil",
+                "publishedAt": "2022-12-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Composição anunciada antes da posse de 01/01/2023; 14 pastas a mais que o governo anterior, com distribuição entre partidos aliados."
+              },
+              {
+                "id": "src-lula-97",
+                "title": "Saiba quem são os 38 ministros do governo Lula",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/politica/saiba-quem-sao-os-38-ministros-do-governo-lula",
+                "publishedAt": "2025",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lista atualizada após as mudanças de 2025, incluindo Gleisi Hoffmann na articulação política (fev/2025) e Alexandre Padilha na Saúde."
+              },
+              {
+                "id": "src-lula-22",
+                "title": "Terceiro mandato de Lula tem a coalizão mais infiel em 30 anos",
+                "publisher": "Agência Senado",
+                "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/757367/noticia.html?sequence=1&isAllowed=y",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-lula-14",
+            "kind": "historico",
+            "title": "Governança do Novo PAC: comitê gestor ministerial e grupo executivo",
+            "role": "Presidente da República — instituiu a estrutura por decreto e indicou a composição do comitê",
+            "complexity": "Alcance nacional; comitê gestor com ministros e grupo executivo para a carteira de investimentos; duração plurianual (2023–2026, com carteira que ultrapassa o mandato)",
+            "outcome": "Estrutura formalizada no Decreto 11.632/2023; execução de R$ 711 bi até o fim de 2024, com acompanhamento por painel público de transparência",
+            "period": "2023–2026",
+            "context": "Programa de execução descentralizada entre ministérios, estatais e estados, exigindo instância de coordenação permanente.",
+            "sources": [
+              {
+                "id": "src-lula-90",
+                "title": "Decreto nº 11.632, de 11 de agosto de 2023 — institui o Novo PAC, o Comitê Gestor e o Grupo Executivo do PAC",
+                "publisher": "Planalto — Presidência da República",
+                "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11632.htm",
+                "publishedAt": "2023-08-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "diario_oficial",
+                "notes": "Texto integral do decreto com a composição do Comitê Gestor e do Grupo Executivo."
+              },
+              {
+                "id": "src-lula-91",
+                "title": "Em dois anos, investimentos do Novo PAC superam 53% do previsto até 2026",
+                "publisher": "Secretaria de Comunicação Social da Presidência (gov.br)",
+                "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/04/em-dois-anos-investimentos-do-novo-pac-atingem-53-7-do-previsto-ate-2026",
+                "publishedAt": "2025-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "executivo_federal",
+                "notes": "Execução de R$ 711 bi até o fim de 2024 (53,7% do total de R$ 1,3 tri previsto até 2026)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-lula-15",
+            "kind": "historico",
+            "title": "Unificação de programas de transferência de renda sob cadastro único (2003–2007)",
+            "role": "Presidente da República — decisão de unificar os programas e de manter o cadastro único como porta de entrada",
+            "complexity": "Programas até então executados por pastas distintas (Educação, Saúde e Segurança Alimentar) consolidados em um programa único com cadastro nacional; execução posterior com municípios e Caixa",
+            "outcome": "Programa unificado e ampliado, apresentado por estudo do Ipea como referência; a porta de entrada por cadastro único é mantida na Lei 14.601/2023",
+            "period": "2003–2007",
+            "context": "A unificação exigiu integrar cadastros e equipes de três áreas do governo federal.",
+            "sources": [
+              {
+                "id": "src-lula-24",
+                "title": "Uma década de Bolsa Família (Ipea)",
+                "publisher": "Ipea",
+                "url": "http://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2945:catid=28",
+                "publishedAt": "2013",
+                "accessedAt": "2026-09-29",
+                "sourceType": "transparencia"
+              },
+              {
+                "id": "src-lula-93",
+                "title": "Lei nº 14.601, de 19 de junho de 2023 — institui o Programa Bolsa Família (conversão da MP nº 1.164/2023)",
+                "publisher": "Planalto — Presidência da República",
+                "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+                "publishedAt": "2023-06-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "diario_oficial",
+                "notes": "Data e número conferidos no texto publicado (conversão da MP 1.164/2023); o Cadastro Único é a porta de entrada do programa."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-lula-16",
+            "kind": "historico",
+            "title": "Delegação da interlocução com o Congresso a ministro da articulação política",
+            "role": "Presidente da República — designou o ministro de Relações Institucionais como mediador da pauta trabalhista",
+            "complexity": "Pauta de alcance nacional (fim da escala 6x1 e jornada de 40 horas) negociada com a presidência da Câmara e com a PEC em tramitação; mediação conduzida pelo ministro José Guimarães",
+            "outcome": "PL enviado ao Congresso em regime de urgência em 14/04/2026, com tramitação conjunta à PEC já em curso",
+            "period": "2026",
+            "context": "Tema de apelo eleitoral e de alto custo para o setor de serviços; o Executivo optou por conduzir a negociação por um ministro dedicado à articulação política.",
+            "sources": [
+              {
+                "id": "src-lula-70",
+                "title": "Lula envia ao Congresso proposta de redução da escala 6 x 1",
+                "publisher": "Poder360",
+                "url": "https://poder360.com.br/poder-governo/lula-envia-ao-congresso-proposta-de-reducao-da-escala-6-x-1",
+                "publishedAt": "2026-04-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Envio em regime de urgência após almoço com o presidente da Câmara, Hugo Motta; acordo mediado por José Guimarães para tramitação conjunta do PL e da PEC."
+              },
+              {
+                "id": "src-lula-64",
+                "title": "Presidente Lula recebe reivindicações de centrais sindicais para o período de 2026 a 2030",
+                "publisher": "Planalto — Casa Civil (gov.br)",
+                "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/04/presidente-lula-recebe-reivindicacoes-de-centrais-sindicais-para-o-periodo-de-2026-a-2030",
+                "publishedAt": "2026-04-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "executivo_federal",
+                "notes": "Reunião no Palácio do Planalto em 15/04/2026; entrega da Agenda da Classe Trabalhadora 2026–2030 com 68 reivindicações (Conclat)."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -17650,6 +23092,126 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Página institucional do Datafolha com a série de aprovação/desaprovação e a avaliação ótimo/bom–ruim/péssimo do governo."
+      },
+      {
+        "id": "src-lula-90",
+        "title": "Decreto nº 11.632, de 11 de agosto de 2023 — institui o Novo PAC, o Comitê Gestor e o Grupo Executivo do PAC",
+        "publisher": "Planalto — Presidência da República",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11632.htm",
+        "publishedAt": "2023-08-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "diario_oficial",
+        "notes": "Texto integral do decreto com a composição do Comitê Gestor e do Grupo Executivo."
+      },
+      {
+        "id": "src-lula-91",
+        "title": "Em dois anos, investimentos do Novo PAC superam 53% do previsto até 2026",
+        "publisher": "Secretaria de Comunicação Social da Presidência (gov.br)",
+        "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/04/em-dois-anos-investimentos-do-novo-pac-atingem-53-7-do-previsto-ate-2026",
+        "publishedAt": "2025-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "executivo_federal",
+        "notes": "Execução de R$ 711 bi até o fim de 2024 (53,7% do total de R$ 1,3 tri previsto até 2026)."
+      },
+      {
+        "id": "src-lula-92",
+        "title": "Lula lança novo Bolsa Família, com valor mínimo de R$ 600, para 21,86 milhões de famílias",
+        "publisher": "Brasil de Fato",
+        "url": "https://brasildefato.com.br/2023/03/03/lula-launches-new-family-grant-with-a-minimum-value-of-115-brazilian-society-s-program",
+        "publishedAt": "2023-03-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Assinatura da MP em cerimônia no Palácio do Planalto (02/03/2023)."
+      },
+      {
+        "id": "src-lula-93",
+        "title": "Lei nº 14.601, de 19 de junho de 2023 — institui o Programa Bolsa Família (conversão da MP nº 1.164/2023)",
+        "publisher": "Planalto — Presidência da República",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+        "publishedAt": "2023-06-19",
+        "accessedAt": "2026-09-29",
+        "sourceType": "diario_oficial",
+        "notes": "Data e número conferidos no texto publicado (conversão da MP 1.164/2023); o Cadastro Único é a porta de entrada do programa."
+      },
+      {
+        "id": "src-lula-98",
+        "title": "Governo Lula recorre ao STF para validar reajuste do Bolsa Família antes da eleição (registra a Lei 14.601/2023 e a validação da regra de atualização pelo STF em jun/2024)",
+        "publisher": "Gazeta do Povo",
+        "url": "https://gazetadopovo.com.br/eleicoes/2026/governo-lula-recorre-ao-stf-para-validar-reajuste-do-bolsa-familia-antes-da-eleicao/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Fonte complementar sobre a regra legal de atualização periódica do programa."
+      },
+      {
+        "id": "src-lula-95",
+        "title": "Presidente Lula sanciona projeto de lei que consolida reestruturação das carreiras do Executivo federal",
+        "publisher": "Ministério da Gestão e da Inovação em Serviços Públicos (gov.br)",
+        "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/marco/presidente-lula-sanciona-projeto-de-lei-que-consolida-maior-reestruturacao-das-carreiras-do-executivo-em-um-mandato",
+        "publishedAt": "2026-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "executivo_federal",
+        "notes": "Projeto de Transformação do Estado conduzido pelo MGI desde 2023; sanção em março de 2026."
+      },
+      {
+        "id": "src-lula-94",
+        "title": "Brasil e 20 unidades da Federação alcançam meta de alfabetização (66% em 2025, meta de 64%)",
+        "publisher": "Inep — Instituto Nacional de Estudos e Pesquisas Educacionais",
+        "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/avaliacao-da-alfabetizacao/brasil-e-20-unidades-da-federacao-alcancam-meta-de-alfabetizacao",
+        "publishedAt": "2026-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Resultado do Compromisso Nacional Criança Alfabetizada; 66% dos estudantes do 2º ano alfabetizados em 2025."
+      },
+      {
+        "id": "src-lula-96",
+        "title": "Ministros de Lula: conheça os 37 nomes escolhidos para a equipe ministerial",
+        "publisher": "Gazeta do Povo",
+        "url": "https://gazetadopovo.com.br/republica/ministros-de-lula-quem-sao-escolhidos-perfil",
+        "publishedAt": "2022-12-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Composição anunciada antes da posse de 01/01/2023; 14 pastas a mais que o governo anterior, com distribuição entre partidos aliados."
+      },
+      {
+        "id": "src-lula-97",
+        "title": "Saiba quem são os 38 ministros do governo Lula",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/saiba-quem-sao-os-38-ministros-do-governo-lula",
+        "publishedAt": "2025",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Lista atualizada após as mudanças de 2025, incluindo Gleisi Hoffmann na articulação política (fev/2025) e Alexandre Padilha na Saúde."
+      },
+      {
+        "id": "src-lula-80",
+        "title": "Programa de Governo — Diretrizes para o Programa de Transformação do Brasil: um país soberano, democrático, desenvolvido, sustentável e criativo (versão publicada pelo PT)",
+        "publisher": "Partido dos Trabalhadores (PT) — versão do programa registrado no TSE",
+        "url": "https://pt.org.br/wp-content/uploads/2026/08/08_06_JOB838_PT_livroplanodegoverno_260616_BOOK%20210x297mm_pg_solta_web.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF de 84 páginas com camada de texto, lido diretamente (índice com 13 eixos e seção 'Compromisso com o projeto de nação'). Mesmo título do documento protocolado no TSE em 08/08/2026 (documento 280017016005)."
+      },
+      {
+        "id": "src-lula-81",
+        "title": "Programa Lula-Alckmin: transformação e compromisso com o povo que sonha e quer um futuro melhor",
+        "publisher": "PT — site oficial",
+        "url": "https://pt.org.br/programa-lula-alckmin-transformacao-e-compromisso-com-o-povo-que-sonha-e-quer-um-futuro-melhor/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Texto partidário de apresentação do programa protocolado pela coligação; a data exata de publicação não está legível na página (nota da coleta); usado para a descrição da soberania como 'princípio inegociável'."
+      },
+      {
+        "id": "src-lula-82",
+        "title": "Conselhão apresenta 'Pilares de um projeto de nação', um roteiro estratégico para o Brasil até 2035",
+        "publisher": "Brasil de Fato",
+        "url": "https://www.brasildefato.com.br/2025/12/04/conselhao-apresenta-pilares-de-um-projeto-de-nacao-um-roteiro-estrategico-para-o-brasil-ate-2035/",
+        "publishedAt": "2025-12-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Documento do CDESS (Conselho de Desenvolvimento Econômico Social Sustentável), órgão vinculado à Presidência da República; usado apenas para indicar que existe documento de governo com horizonte até 2035, atribuído ao órgão e não ao plano de campanha."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -18991,7 +24553,701 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O documento registrado no TSE ('O futuro é glorioso', resumo de 51 páginas do Livro Amarelo, 14 pilares em três blocos) declara o objetivo de transformar o Brasil, em 30 anos, em uma das cinco maiores potências globais e assume cinco metas para 2030: nenhum território sob controle de facção, 6 mil favelas a menos e 8 milhões de novas casas, nenhum estado com mais Bolsa Família do que trabalho formal, redução da taxa de juros e nove em cada dez crianças alfabetizadas na idade certa. A imagem de país projetada é a de uma união entre tecnologia e natureza, descrita no plano como 'civilização tropical', com Norte e Nordeste integrados a cadeias produtivas globais.",
+      "nationalPriorities": [
+        "ajuste fiscal",
+        "segurança pública",
+        "desfavelização e habitação",
+        "pacto federativo e gestão por metas",
+        "infraestrutura",
+        "educação",
+        "saúde"
+      ],
+      "developmentModel": "O próprio plano declara adesão a pilares do pensamento liberal no aspecto econômico (contenção de gastos, reforma trabalhista e administrativa, redução de supersalários, austeridade) e rejeita explicitamente o que chama de 'versão vulgarizada' que 'falava vagamente em desburocratização e privatizações'. Ao Estado atribui: (a) fazer o ajuste fiscal já na transição de governo (PEC de Transição Fiscal, ajuste declarado de R$ 1,1 trilhão até 2031, com desindexação de benefícios do salário mínimo, revisão do abono salarial e nova reforma da Previdência com gatilho automático de idade e capitalização via FGTS); (b) reorganizar o pacto federativo (fusão de municípios — de 5.570 para 1.656, segundo a imprensa —, 'tutela federal' de municípios que não atingirem as metas de indicadores e Lei de Responsabilidade Gerencial, que condiciona recursos partidários e elegibilidade a metas de indicadores); (c) ampliar investimento em infraestrutura de cerca de 2% para pelo menos 4% do PIB, com metas como 40 mil km de malha ferroviária, Zonas Econômicas Especiais no Nordeste, planta-piloto de separação e refino de terras raras (2029-2030) e projetos de IA e agro (AgroBrasil 2030). O setor privado é destinatário declarado de segurança jurídica, de flexibilização das relações de trabalho e da substituição do Bolsa Família por frentes de trabalho remuneradas para a população em idade ativa. Tecnologia aparece como eixo transversal (IA no SUS com modelo de triagem por risco, semelhante ao DoctorSV de El Salvador, terras raras, agricultura); meio ambiente aparece como vantagem comparativa e como parte do projeto de 'civilização tropical'; desigualdade é tratada por desfavelização integral (prazo declarado de 10 anos) e por bolsas de mérito em substituição às cotas no ensino superior.",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-rs-70",
+          "title": "O Brasil de 2030 — propostas (site oficial da campanha)",
+          "publisher": "Renan Santos / Partido Missão",
+          "url": "https://www.renanpresidente.com.br/propostas",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Página oficial de campanha com as cinco metas para 2030 e o compromisso declarado de não disputar a reeleição em caso de descumprimento."
+        },
+        {
+          "id": "src-rs-71",
+          "title": "Livro Amarelo — resumo executivo 2026 (espelho do documento registrado no TSE)",
+          "publisher": "Renanpédia (espelho civil do Livro Amarelo)",
+          "url": "https://www.renanpedia.com/livro-amarelo-resumo-2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Espelho do resumo executivo de 51 páginas; contém a passagem 'transformar o Brasil, em 30 anos, em uma das cinco maiores potências globais' e as cinco metas para 2030."
+        },
+        {
+          "id": "src-rs-72",
+          "title": "O que diz o plano de governo de Renan Santos (Missão)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-renan-santos-pretende-restaurar-o-brasil-plano-de-governo-candidato-missao/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Detalha a 'Grande Consolidação Municipal' (5.570 para 1.656 municípios) e a frente AgroBrasil 2030 com cinco pilares."
+        },
+        {
+          "id": "src-rs-19",
+          "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-20",
+          "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+          "publishedAt": "2026-07-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-21",
+          "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        },
+        {
+          "id": "src-rs-46",
+          "title": "Anti-establishment candidate seeks to tap Brazil's younger right (perfil internacional da campanha)",
+          "publisher": "Valor Internacional",
+          "url": "https://valorinternational.globo.com/politics/news/2026/06/01/anti-establishment-candidate-seeks-to-tap-brazils-younger-right.ghtml",
+          "publishedAt": "2026-06-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "methodology": "Extração do documento registrado no TSE (resumo executivo de 51 páginas do Livro Amarelo, aberto e lido integralmente a partir do espelho público) e das cinco metas para 2030 divulgadas pelo candidato em site oficial e imprensa; complemento por cobertura de g1, Valor, Gazeta do Povo e Exame. As prioridades listadas são as declaradas pelo próprio documento como capítulos/pilares (14 no total, agrupados em 3 blocos) reduzidas às sete apresentadas como metas de 2030, capítulos de abertura e eixos de campanha. O que não foi possível extrair: custeio e cronograma financeiro por meta de 2030 e a íntegra da obra de 500 páginas (somente o resumo executivo está público).",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Fundou e presidiu a estruturação do Partido Missão: coleta de mais de 577 mil assinaturas validadas, estatuto publicado no DOU em 18/10/2023 e registro deferido por unanimidade pelo TSE em 04/11/2025. Coordenou a organização das mobilizações de 2015-2016 (atos de 15/03/2015 e 13/03/2016) e lançou 535 candidaturas em 25 estados e no DF na primeira eleição do partido. Na campanha presidencial de 2026, optou por financiamento coletivo e por uma estrutura própria, sem depender de Fundo Eleitoral para a chapa presidencial.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-rs-01",
+            "kind": "historico",
+            "title": "Criação e registro do Partido Missão no TSE",
+            "role": "presidente nacional e responsável pelo processo de criação da legenda (estatuto publicado no DOU em 18/10/2023)",
+            "complexity": "alcance nacional; mais de 577 mil assinaturas validadas; exigência legal de apoio em ao menos 9 estados; 1 órgão decisório (TSE)",
+            "outcome": "registro deferido por unanimidade em 04/11/2025, com o número 14 — 30ª legenda registrada no país",
+            "period": "2023-2025",
+            "context": "Partido criado a partir do MBL, movimento sem registro partidário, que precisou reunir assinaturas e apoio formal em estados antes de poder disputar eleições.",
+            "sources": [
+              {
+                "id": "src-rs-01",
+                "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+                "publisher": "TSE — Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+                "publishedAt": "2025-11-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+              },
+              {
+                "id": "src-rs-02",
+                "title": "TSE aprova criação do Missão, partido do MBL, que terá o número 14",
+                "publisher": "Estadão",
+                "url": "https://estadao.com.br/politica/tse-aprova-criacao-do-missao-partido-do-mbl-que-tera-numero-14-npr",
+                "publishedAt": "2025-11-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-03",
+                "title": "TSE aprova por unanimidade criação do partido Missão",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+                "publishedAt": "2025-11-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Veículo público estatal (EBC)."
+              },
+              {
+                "id": "src-rs-04",
+                "title": "Missão, partido político do MBL, tem registro deferido pelo TSE",
+                "publisher": "ConJur",
+                "url": "https://conjur.com.br/2025-nov-04/missao-partido-politico-do-mbl-tem-registro-deferido-pelo-tse/",
+                "publishedAt": "2025-11-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-rs-02",
+            "kind": "historico",
+            "title": "Lançamento de 535 candidaturas em 25 estados e no DF na primeira eleição do partido",
+            "role": "presidente nacional do Partido Missão",
+            "complexity": "alcance nacional; 535 candidaturas em 25 estados e no DF; partido sem mandatos majoritários e com 1 deputado federal na legislatura",
+            "outcome": "candidaturas oficializadas e registradas para a eleição de 2026",
+            "period": "2026",
+            "context": "Primeira eleição disputada pela legenda, criada em novembro de 2025, o que exigiu montar diretórios e chapas proporcionais em quase todo o país.",
+            "sources": [
+              {
+                "id": "src-rs-50",
+                "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+                "publisher": "Partido Missão (site oficial)",
+                "url": "https://candidatos.missao.org.br/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Página oficial do partido; consultada em 29/09/2026."
+              },
+              {
+                "id": "src-rs-34",
+                "title": "Missão oficializa 128 candidaturas para deputado e deixa em aberto apoio a governo e Senado por SP",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/07/missao-oficializa-128-candidaturas-para-deputado-e-deixa-em-aberto-apoio-a-governo-e-senado-por-sp.ghtml",
+                "publishedAt": "2026-08-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rs-03",
+            "kind": "historico",
+            "title": "Coordenação das mobilizações de 2015-2016",
+            "role": "um dos coordenadores do Movimento Brasil Livre (MBL), citado como coordenador do movimento em cobertura da Agência Senado",
+            "complexity": "alcance nacional; atos em pelo menos 250 cidades em 13/03/2016 e ato na Avenida Paulista em 15/03/2015; articulação com movimentos distintos (Vem Pra Rua e Nas Ruas, com estruturas próprias)",
+            "outcome": "atos realizados nas datas convocadas; o comitê entregou ao presidente da Câmara pedido de impeachment com assinaturas populares",
+            "period": "2014-2016",
+            "context": "Mobilizações convocadas por redes sociais, com estimativas de público divergentes entre organizadores e imprensa.",
+            "sources": [
+              {
+                "id": "src-rs-42",
+                "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+                "publisher": "Agência Senado",
+                "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+                "publishedAt": "2015-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Data aproximada (março/2015)."
+              },
+              {
+                "id": "src-rs-43",
+                "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+                "publisher": "Câmara dos Deputados (Agência)",
+                "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+                "publishedAt": "2015-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+              },
+              {
+                "id": "src-rs-62",
+                "title": "Líder do MBL, que pede impeachment de Dilma, responde a mais de 60 processos (Renan Santos, um dos coordenadores do MBL)",
+                "publisher": "Brasil de Fato",
+                "url": "https://www.brasildefato.com.br/2016/05/09/lider-do-mbl-que-pede-impeachment-de-dilma-responde-a-mais-de-60-processos",
+                "publishedAt": "2016-05-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Usada exclusivamente para o papel exercido ('um dos coordenadores do Movimento Brasil Livre')."
+              },
+              {
+                "id": "src-rs-49",
+                "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+                "publisher": "El País Brasil",
+                "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+                "publishedAt": "2015-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rs-04",
+            "kind": "historico",
+            "title": "Financiamento da campanha presidencial por doação coletiva",
+            "role": "candidato; coordenação da campanha conduzida por Amanda Vettorazzo",
+            "complexity": "alcance nacional; teto de gastos da campanha presidencial registrado em R$ 88.944.030,80; cota mínima de Fundo Eleitoral; recursos públicos priorizados para candidatos a cargos legislativos e estaduais",
+            "outcome": "liderança na arrecadação por vaquinha entre pré-candidatos, com mais de R$ 1 milhão até 05/07/2026",
+            "period": "2026",
+            "context": "Partido recém-registrado, com 1 deputado federal e sem estrutura de grandes legendas; a campanha foi desenhada para operar com doação de pessoas físicas e venda de livro.",
+            "sources": [
+              {
+                "id": "src-rs-30",
+                "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+                "publishedAt": "2026-07-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-58",
+                "title": "Vaquinhas eleitorais: líderes de arrecadação receberam juntos R$ 3 milhões e têm presença forte nas redes sociais",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/05/vaquinhas-eleitorais-lideres-de-arrecadacao.ghtml",
+                "publishedAt": "2026-07-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Financiamento coletivo liberado desde 15/05/2026; Renan Santos liderava a arrecadação por vaquinha, com mais de R$ 1 milhão até a data."
+              },
+              {
+                "id": "src-rs-57",
+                "title": "Renan aposta em vaquinha, base do MBL e Faria Lima para disputar 2026 sem máquina partidária",
+                "publisher": "Estadão",
+                "url": "https://www.estadao.com.br/politica/renan-aposta-em-vaquinha-base-do-mbl-e-faria-lima-para-disputar-2026-sem-maquina-partidaria/",
+                "publishedAt": "2026-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Mês; dia exato não capturado. Descreve a montagem da campanha fora dos meios tradicionais: sem tempo de TV relevante, com acesso à cota mínima do Fundo Eleitoral e apoiada na base do MBL e em doações."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rs-05",
+            "kind": "historico",
+            "title": "Execução de roteiro de campanha no interior",
+            "role": "candidato",
+            "complexity": "alcance nacional; roteiro anunciado de 100 cidades; caravana pelo Centro-Oeste entre 19 e 26/07/2026; pré-candidato desconhecido por 77% do eleitorado em pesquisa Genial/Quaest",
+            "outcome": "roteiro executado no período anunciado; cobertura de imprensa registra limitação de estrutura partidária nas praças fora dos grandes centros",
+            "period": "2026",
+            "context": "Estratégia de interiorização diante de baixo conhecimento do eleitorado e de pouco tempo de televisão.",
+            "sources": [
+              {
+                "id": "src-rs-59",
+                "title": "Renan Santos vai ao interior para buscar ser mais conhecido",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/noticia/2026/07/20/renan-santos-vai-ao-interior-para-buscar-ser-mais-conhecido.ghtml",
+                "publishedAt": "2026-07-20",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Pré-candidato desconhecido por 77% segundo Genial/Quaest; plano de concluir roteiro de 100 cidades naquela semana."
+              },
+              {
+                "id": "src-rs-60",
+                "title": "Renan aposta no interior para crescer, mas esbarra na estrutura do Missão",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-aposta-no-interior-para-crescer-mas-esbarra-na-estrutura-do-missao",
+                "publishedAt": "2026-08-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Relata a estratégia de campanha em cidades do interior e as limitações de estrutura partidária nas praças fora dos grandes centros."
+              },
+              {
+                "id": "src-rs-61",
+                "title": "Estreante em eleições, Renan Santos é empresário e fundador do MBL",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/01/estreante-em-eleicoes-renan-santos-e-empresario-e-fundador-do-mbl.ghtml",
+                "publishedAt": "2026-08-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "Participou da articulação do 'Comitê do Impeachment' (2015-2016), com reuniões documentadas com o então presidente da Câmara Eduardo Cunha e com o líder da oposição Aécio Neves, e o MBL admitiu apoio material de PSDB, PMDB, DEM e Solidariedade às mobilizações. Em 2026, conduziu agenda com entidades e lideranças empresariais (conferência do Banco Santander, agenda em Brasília e encontro na Câmara Americana de Comércio) e negociou internamente a destinação do Fundo Eleitoral, priorizando os candidatos do partido a cargos legislativos e estaduais. A chapa presidencial foi registrada como partido isolado, sem coligação ou federação.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-rs-06",
+            "kind": "historico",
+            "title": "Articulação do 'Comitê do Impeachment' com partidos e com a presidência da Câmara",
+            "role": "um dos líderes do comitê, com reuniões em Brasília com o presidente da Câmara Eduardo Cunha e com o líder da oposição Aécio Neves",
+            "complexity": "alcance nacional; interlocução com 4 partidos (PSDB, PMDB, DEM e Solidariedade) e com a presidência da Câmara; movimento com estrutura própria",
+            "outcome": "pedido com assinaturas populares entregue à Câmara; abertura do processo de impeachment admitida por Eduardo Cunha em 02/12/2015",
+            "period": "2015-2016",
+            "context": "Movimento sem representação parlamentar própria, que dependia de interlocução com dirigentes partidários e com a mesa da Câmara para viabilizar o pedido.",
+            "sources": [
+              {
+                "id": "src-rs-43",
+                "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+                "publisher": "Câmara dos Deputados (Agência)",
+                "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+                "publishedAt": "2015-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+              },
+              {
+                "id": "src-rs-25",
+                "title": "Renan Santos — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+              },
+              {
+                "id": "src-rs-42",
+                "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+                "publisher": "Agência Senado",
+                "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+                "publishedAt": "2015-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Data aproximada (março/2015)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rs-07",
+            "kind": "historico",
+            "title": "Apoio material de partidos às mobilizações do MBL (2016)",
+            "role": "um dos coordenadores do MBL",
+            "complexity": "4 partidos (PSDB, PMDB, DEM e Solidariedade); aporte de transporte (ônibus) e alimentação às mobilizações",
+            "outcome": "apoio admitido em gravação divulgada em fevereiro de 2016, apesar do discurso apartidário do movimento",
+            "period": "2016",
+            "context": "Relação com as máquinas partidárias em ano de votação do impeachment na Câmara.",
+            "sources": [
+              {
+                "id": "src-rs-25",
+                "title": "Renan Santos — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          },
+          {
+            "id": "ev-cap-rs-08",
+            "kind": "historico",
+            "title": "Agenda com entidades e lideranças empresariais na campanha de 2026",
+            "role": "candidato à Presidência",
+            "complexity": "alcance nacional; exposição em conferência do Banco Santander em São Paulo (17/08), agenda de encontros em Brasília (18/08) e encontro na Câmara Americana de Comércio (10/09/2026)",
+            "outcome": "diálogo registrado e plano econômico apresentado; ao final da agenda, a imprensa registrava que o apoio declarado de empresários seguia restrito",
+            "period": "2026",
+            "context": "Candidato fora do campo de governo, buscando interlocução com setor empresarial que também negociava com outras candidaturas.",
+            "sources": [
+              {
+                "id": "src-rs-51",
+                "title": "Renan Santos atrai empresários, mas apoio aberto ainda engatinha (agenda com Banco Santander e agenda em Brasília)",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-economico-de-renan-santos-atrai-empresarios-mas-apoio-ainda-engatinha/",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Dia exato não capturado; publicado após o lançamento da candidatura (16/08/2026). Descreve a agenda de contatos no mundo empresarial: conferência do Banco Santander em SP (17/08) e agenda em Brasília (18/08); empresários elogiam o plano, mas apoio declarado ainda é escasso."
+              },
+              {
+                "id": "src-rs-52",
+                "title": "Renan Santos, candidato do Missão à Presidência, cumpre agenda em São Paulo (encontro na Câmara Americana de Comércio)",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/10/renan-santos-candidato-do-missao-a-presidencia-cumpre-agenda-em-sao-paulo.ghtml",
+                "publishedAt": "2026-09-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Encontro na Câmara Americana de Comércio (AmCham), entidade empresarial de negociações bilaterais Brasil-Estados Unidos."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rs-09",
+            "kind": "historico",
+            "title": "Negociação interna da destinação do Fundo Eleitoral",
+            "role": "presidente nacional e candidato; coordenação de campanha de Amanda Vettorazzo",
+            "complexity": "partido com 535 candidaturas em 25 estados e no DF; cota mínima de Fundo Eleitoral para a chapa presidencial; campanha presidencial sustentada por vaquinha e venda de livro",
+            "outcome": "campanha presidencial abriu mão de recursos do Fundo Eleitoral e manteve os repasses públicos para os candidatos proporcionais e estaduais",
+            "period": "2026",
+            "context": "Partido estreante, com recursos escassos, precisou escolher entre financiar a chapa presidencial ou as candidaturas com chance de eleição.",
+            "sources": [
+              {
+                "id": "src-rs-30",
+                "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+                "publishedAt": "2026-07-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-57",
+                "title": "Renan aposta em vaquinha, base do MBL e Faria Lima para disputar 2026 sem máquina partidária",
+                "publisher": "Estadão",
+                "url": "https://www.estadao.com.br/politica/renan-aposta-em-vaquinha-base-do-mbl-e-faria-lima-para-disputar-2026-sem-maquina-partidaria/",
+                "publishedAt": "2026-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Mês; dia exato não capturado. Descreve a montagem da campanha fora dos meios tradicionais: sem tempo de TV relevante, com acesso à cota mínima do Fundo Eleitoral e apoiada na base do MBL e em doações."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rs-10",
+            "kind": "historico",
+            "title": "Opção por chapa pura e por não citar linguagem religiosa na campanha",
+            "role": "cabeça de chapa; vice Coronel Medina (MISSÃO)",
+            "complexity": "alcance nacional; chapa sem coligação ou federação registrada; vice do mesmo partido",
+            "outcome": "chapa pura registrada e deferida em 09/09/2026; opção por não usar referência religiosa gerou reação de lideranças políticas em Brasília",
+            "period": "2026",
+            "context": "Decisão de disputar isolado e de manter distância de uma base eleitoral historicamente ligada ao campo conservador.",
+            "sources": [
+              {
+                "id": "src-rs-06",
+                "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+                "publisher": "Estadão (dados: TSE)",
+                "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+              },
+              {
+                "id": "src-rs-37",
+                "title": "Quem é Aroldo Medina, militar anunciado como vice na chapa de Renan Santos",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/07/02/quem-e-aroldo-medina-militar-da-reserva-do-rs-anunciado-como-vice-na-chapa-de-renan-santos-a-presidencia.ghtml",
+                "publishedAt": "2026-07-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-63",
+                "title": "O que Renan Santos diz sobre não citar Deus na campanha",
+                "publisher": "Estado de Minas (PlatôBR)",
+                "url": "https://www.em.com.br/politica/platobr/2026/08/7490472-o-que-renan-santos-diz-sobre-nao-citar-deus-na-campanha.html",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Mês; dia exato não capturado. Reação de lideranças políticas em Brasília após o debate da Band e a sabatina do Jornal Nacional."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Cofundou o MBL em novembro de 2014 e atuou como um de seus coordenadores, em movimento que operava com estrutura própria, distinta de outros grupos. Preside o Partido Missão desde 17/10/2023, conduzindo a criação de diretórios e a montagem de 535 candidaturas em 25 estados e no DF, com 29.911 filiados em agosto de 2026. Na campanha presidencial, a coordenação é exercida por Amanda Vettorazzo, com equipe descrita como enxuta e financiada por doações coletivas; não há quadro de pessoal nem organograma publicados.",
+        "coverage": "parcial",
+        "coverageNote": "Partido e campanha não publicam quadro de pessoal, número de integrantes de equipe ou organograma; as evidências de liderança e delegação vêm de papéis nominais citados pela imprensa (coordenação de campanha, coordenação de campanhas de aliados) e da montagem de estruturas (diretórios, chapas, atos).",
+        "evidences": [
+          {
+            "id": "ev-cap-rs-11",
+            "kind": "historico",
+            "title": "Cofundação e coordenação do Movimento Brasil Livre",
+            "role": "cofundador (nov/2014) e um dos coordenadores do MBL",
+            "complexity": "alcance nacional; mobilizações em pelo menos 250 cidades; coordenação de atos com estrutura própria (carros de som e organização distintos de Vem Pra Rua e Nas Ruas)",
+            "outcome": "movimento consolidado como um dos organizadores das manifestações de 2015-2016 e origem da legenda registrada em 2025",
+            "period": "2014-2016",
+            "context": "Grupo iniciado a partir de articulação em Vinhedo (SP), sem estrutura partidária prévia.",
+            "sources": [
+              {
+                "id": "src-rs-24",
+                "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+                "publisher": "Jota",
+                "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+              },
+              {
+                "id": "src-rs-42",
+                "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+                "publisher": "Agência Senado",
+                "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+                "publishedAt": "2015-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Data aproximada (março/2015)."
+              },
+              {
+                "id": "src-rs-49",
+                "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+                "publisher": "El País Brasil",
+                "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+                "publishedAt": "2015-08-17",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-62",
+                "title": "Líder do MBL, que pede impeachment de Dilma, responde a mais de 60 processos (Renan Santos, um dos coordenadores do MBL)",
+                "publisher": "Brasil de Fato",
+                "url": "https://www.brasildefato.com.br/2016/05/09/lider-do-mbl-que-pede-impeachment-de-dilma-responde-a-mais-de-60-processos",
+                "publishedAt": "2016-05-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Usada exclusivamente para o papel exercido ('um dos coordenadores do Movimento Brasil Livre')."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rs-12",
+            "kind": "historico",
+            "title": "Presidência nacional do Partido Missão e montagem da estrutura partidária",
+            "role": "1º presidente nacional do Partido Missão, no cargo desde 17/10/2023",
+            "complexity": "alcance nacional; estatuto e programa publicados no DOU em 18/10/2023; 29.911 filiados em agosto de 2026; 535 candidaturas em 25 estados e no DF",
+            "outcome": "legenda registrada em 04/11/2025 e primeira eleição disputada em 2026 com chapas em 25 estados e no DF",
+            "period": "2023-2026",
+            "context": "Criação e operação de uma estrutura partidária nacional a partir de um movimento sem registro eleitoral.",
+            "sources": [
+              {
+                "id": "src-rs-01",
+                "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+                "publisher": "TSE — Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+                "publishedAt": "2025-11-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+              },
+              {
+                "id": "src-rs-36",
+                "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+              },
+              {
+                "id": "src-rs-50",
+                "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+                "publisher": "Partido Missão (site oficial)",
+                "url": "https://candidatos.missao.org.br/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Página oficial do partido; consultada em 29/09/2026."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rs-13",
+            "kind": "historico",
+            "title": "Coordenação da campanha presidencial de 2026",
+            "role": "candidato; coordenação de campanha atribuída a Amanda Vettorazzo",
+            "complexity": "alcance nacional; equipe descrita como 'estrutura enxuta', financiada por vaquinha e venda de livro; sem dependência de Fundo Eleitoral para a chapa presidencial",
+            "outcome": "campanha em operação com coordenação nomeada e estrutura própria; imprensa registra limites de estrutura nas praças do interior",
+            "period": "2026",
+            "context": "Campanha de partido recém-criado, com pouco tempo de televisão e equipe reduzida em relação a legendas com bancada maior.",
+            "sources": [
+              {
+                "id": "src-rs-30",
+                "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+                "publishedAt": "2026-07-01",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-rs-54",
+                "title": "Campanha de Renan Santos aposta em vaquinha e venda de livro para financiamento ('estrutura enxuta')",
+                "publisher": "CNN Brasil (republicado por PAIPEE)",
+                "url": "https://br.paipee.com/2026/08/16/campanha-de-renan-santos-aposta-em-vaquinha-e-venda-de-livro-para-financiamento/",
+                "publishedAt": "2026-08-16",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Republicação da reportagem da CNN Brasil; campanha descrita como 'estrutura enxuta', financiada por vaquinha e venda de livro."
+              },
+              {
+                "id": "src-rs-60",
+                "title": "Renan aposta no interior para crescer, mas esbarra na estrutura do Missão",
+                "publisher": "Poder360",
+                "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-aposta-no-interior-para-crescer-mas-esbarra-na-estrutura-do-missao",
+                "publishedAt": "2026-08-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Relata a estratégia de campanha em cidades do interior e as limitações de estrutura partidária nas praças fora dos grandes centros."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rs-14",
+            "kind": "historico",
+            "title": "Coordenação de campanhas eleitorais de aliados do MBL",
+            "role": "coordenador das campanhas de Kim Kataguiri e de Arthur do Val",
+            "complexity": "campanhas para deputado federal e estadual em São Paulo, entre 2018 e 2022",
+            "outcome": "mandatos obtidos pelos candidatos coordenados; informação atribuída pela imprensa, não verificada em documentos de prestação de contas eleitoral",
+            "period": "2018-2022",
+            "context": "Atuação eleitoral anterior à criação do partido próprio, apoiando candidaturas do mesmo grupo político.",
+            "sources": [
+              {
+                "id": "src-rs-44",
+                "title": "Renan Santos é candidato à Presidência pelo partido Missão (coordenou campanhas de Kim Kataguiri e Arthur do Val)",
+                "publisher": "ISTOÉ",
+                "url": "https://istoe.com.br/renan-santos-candidato-presidencia-missao-mbl",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -20533,6 +26789,105 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "pesquisa_eleitoral",
         "notes": "2.004 entrevistas, 24–27/09/2026, margem de 2 p.p.; 2º turno 42% x 42%."
+      },
+      {
+        "id": "src-rs-62",
+        "title": "Líder do MBL, que pede impeachment de Dilma, responde a mais de 60 processos (Renan Santos, um dos coordenadores do MBL)",
+        "publisher": "Brasil de Fato",
+        "url": "https://www.brasildefato.com.br/2016/05/09/lider-do-mbl-que-pede-impeachment-de-dilma-responde-a-mais-de-60-processos",
+        "publishedAt": "2016-05-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Usada exclusivamente para o papel exercido ('um dos coordenadores do Movimento Brasil Livre')."
+      },
+      {
+        "id": "src-rs-58",
+        "title": "Vaquinhas eleitorais: líderes de arrecadação receberam juntos R$ 3 milhões e têm presença forte nas redes sociais",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/05/vaquinhas-eleitorais-lideres-de-arrecadacao.ghtml",
+        "publishedAt": "2026-07-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Financiamento coletivo liberado desde 15/05/2026; Renan Santos liderava a arrecadação por vaquinha, com mais de R$ 1 milhão até a data."
+      },
+      {
+        "id": "src-rs-57",
+        "title": "Renan aposta em vaquinha, base do MBL e Faria Lima para disputar 2026 sem máquina partidária",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/renan-aposta-em-vaquinha-base-do-mbl-e-faria-lima-para-disputar-2026-sem-maquina-partidaria/",
+        "publishedAt": "2026-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Mês; dia exato não capturado. Descreve a montagem da campanha fora dos meios tradicionais: sem tempo de TV relevante, com acesso à cota mínima do Fundo Eleitoral e apoiada na base do MBL e em doações."
+      },
+      {
+        "id": "src-rs-59",
+        "title": "Renan Santos vai ao interior para buscar ser mais conhecido",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/noticia/2026/07/20/renan-santos-vai-ao-interior-para-buscar-ser-mais-conhecido.ghtml",
+        "publishedAt": "2026-07-20",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Pré-candidato desconhecido por 77% segundo Genial/Quaest; plano de concluir roteiro de 100 cidades naquela semana."
+      },
+      {
+        "id": "src-rs-60",
+        "title": "Renan aposta no interior para crescer, mas esbarra na estrutura do Missão",
+        "publisher": "Poder360",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-aposta-no-interior-para-crescer-mas-esbarra-na-estrutura-do-missao",
+        "publishedAt": "2026-08-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Relata a estratégia de campanha em cidades do interior e as limitações de estrutura partidária nas praças fora dos grandes centros."
+      },
+      {
+        "id": "src-rs-61",
+        "title": "Estreante em eleições, Renan Santos é empresário e fundador do MBL",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/01/estreante-em-eleicoes-renan-santos-e-empresario-e-fundador-do-mbl.ghtml",
+        "publishedAt": "2026-08-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-63",
+        "title": "O que Renan Santos diz sobre não citar Deus na campanha",
+        "publisher": "Estado de Minas (PlatôBR)",
+        "url": "https://www.em.com.br/politica/platobr/2026/08/7490472-o-que-renan-santos-diz-sobre-nao-citar-deus-na-campanha.html",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Mês; dia exato não capturado. Reação de lideranças políticas em Brasília após o debate da Band e a sabatina do Jornal Nacional."
+      },
+      {
+        "id": "src-rs-70",
+        "title": "O Brasil de 2030 — propostas (site oficial da campanha)",
+        "publisher": "Renan Santos / Partido Missão",
+        "url": "https://www.renanpresidente.com.br/propostas",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Página oficial de campanha com as cinco metas para 2030 e o compromisso declarado de não disputar a reeleição em caso de descumprimento."
+      },
+      {
+        "id": "src-rs-71",
+        "title": "Livro Amarelo — resumo executivo 2026 (espelho do documento registrado no TSE)",
+        "publisher": "Renanpédia (espelho civil do Livro Amarelo)",
+        "url": "https://www.renanpedia.com/livro-amarelo-resumo-2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Espelho do resumo executivo de 51 páginas; contém a passagem 'transformar o Brasil, em 30 anos, em uma das cinco maiores potências globais' e as cinco metas para 2030."
+      },
+      {
+        "id": "src-rs-72",
+        "title": "O que diz o plano de governo de Renan Santos (Missão)",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-renan-santos-pretende-restaurar-o-brasil-plano-de-governo-candidato-missao/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Detalha a 'Grande Consolidação Municipal' (5.570 para 1.656 municípios) e a frente AgroBrasil 2030 com cinco pilares."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -21301,7 +27656,566 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O documento registrado no TSE — 'Programa do PCO – Eleições 2026: Por salário, trabalho e terra / Revolução, governo operário e comunismo' — organiza 15 pontos centrais de luta e declara que o partido 'não participa das eleições para fazer promessas': as conquistas viriam da organização e da mobilização, e as eleições são tratadas como 'uma tribuna (e apenas mais uma) de propaganda'. O horizonte declarado é a revolução e o 'governo das organizações operárias, camponesas e de todos os setores explorados'. As medidas imediatas descritas são de ruptura: reposição de 100% das perdas salariais e aumento emergencial de 50% dos salários, salário mínimo vital de pelo menos R$ 7.500 com escala móvel, jornada máxima de 7 horas diárias e 35 semanais, cancelamento das privatizações e reestatização (Eletrobras, Vale, bancos, telefonia), nacionalização do petróleo com Petrobras 100% estatal, estatização do sistema financeiro, fim da 'independência' do Banco Central, fim do teto de gastos e da Lei de Responsabilidade Fiscal, fim do STF com eleição de juízes e procuradores, dissolução da Polícia Militar e tributação restrita aos ganhos dos capitalistas e grandes fortunas.",
+      "nationalPriorities": [
+        "Salários: reposição de 100% das perdas, aumento emergencial de 50% e salário mínimo vital de ao menos R$ 7.500 com escala móvel (reajuste a cada 3% de alta do custo de vida)",
+        "Emprego e jornada: máximo de 7 horas diárias e 35 semanais, proibição de demissões e auxílio-desemprego igual ao último salário recebido",
+        "Revogação das reformas trabalhista e da Previdência, com restabelecimento integral da CLT e fim da terceirização",
+        "Cancelamento das privatizações e reestatização (Petrobras 100% estatal, Eletrobras, Vale, bancos, telefonia) e nacionalização das reservas minerais",
+        "Sistema financeiro: estatização dos bancos com banco estatal único, fim da 'independência' do Banco Central, redução imediata dos juros e cancelamento das dívidas externa e interna",
+        "Serviços públicos: mais verbas para saúde e educação, plano emergencial de hospitais e postos, pisos de R$ 8 mil (saúde) e R$ 8,5 mil (professores), fim do teto de gastos e da Lei de Responsabilidade Fiscal",
+        "Reforma agrária com expropriação do latifúndio, demarcação de terras indígenas e soberania (não à internacionalização da Amazônia)"
+      ],
+      "developmentModel": "O programa não organiza o crescimento em torno de metas de expansão: o eixo é a redistribuição imediata e a ruptura com o sistema financeiro — anulação das dívidas dos trabalhadores com os bancos, fim dos impostos sobre consumo e salários com tributação restrita a lucros e grandes fortunas, estatização do sistema financeiro com banco estatal único sob controle dos trabalhadores e gestão dos fundos previdenciários pelos trabalhadores. Reestatização e nacionalização das riquezas naturais e empresas (petróleo, reservas minerais e refinarias, terras raras sob empresa estatal comandada pelos trabalhadores), com redução imediata de 50% no preço dos combustíveis e fim da política de paridade com o dólar, e destinação da renda do petróleo a saúde, educação, moradia e infraestrutura. Setor privado: expropriação de latifúndios, de imóveis vazios, do ensino pago e das grandes empresas de comunicação, com cancelamento de concessões dos grandes meios. Estado: dissolução da Polícia Militar e do aparato repressivo, com comitês de autodefesa dos trabalhadores e direito ao armamento no campo e nas comunidades indígenas; fim do STF com eleição de juízes e procuradores; partidos sob controle exclusivo dos filiados e cancelamento das leis restritivas. Educação: livre ingresso sem vestibular, verbas públicas exclusivas ao ensino público e jornada máxima de 30 horas semanais para professores. Relações exteriores: defesa da soberania da Amazônia e da unidade nacional e apoio a Cuba, Nicarágua e Venezuela contra a ingerência dos EUA e da OEA.",
+      "sources": [
+        {
+          "id": "src-rp-70",
+          "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+          "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+        },
+        {
+          "id": "src-rp-71",
+          "title": "Quem é Rui Costa Pimenta, candidato do PCO à Presidência em 2026",
+          "publisher": "GZH (Grupo RBS)",
+          "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-rui-costa-pimenta-candidato-do-pco-a-presidencia-em-2026-cmp1mrvoy00bi013xd027glxo.html",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Perfil: trajetória desde 1976 (ditadura); Congresso de Refundação da UNE (1980); fundação do PT (1980); participação no congresso de fundação da organização da IV Internacional; diretor eleito da CUT na Grande São Paulo em 1985, atuando como assessor de imprensa; ruptura com o PT em 1992; fundação do PCO em 1995; editor do jornal e do diário Causa Operária."
+        },
+        {
+          "id": "src-rp-72",
+          "title": "Partidos políticos registrados no TSE — lista de partidos e dirigentes",
+          "publisher": "TRE-SP",
+          "url": "https://tre-sp.jus.br/partidos/partidos-politicos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Lista oficial: PCO registrado em 30/09/1997, presidente RUI COSTA PIMENTA, número 29. Acesso direto respondeu 403 a acesso automatizado; consultada via Wayback Machine (https://web.archive.org/web/2026/https://tre-sp.jus.br/partidos/partidos-politicos)."
+        }
+      ],
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "methodology": "Extraído do plano registrado no TSE ('Programa do PCO – Eleições 2026', 7 páginas, 15 pontos centrais, datado de agosto de 2026), conferido com o índice oficial de propostas da candidatura (que remete às páginas 2 a 7 do próprio PDF) e com o levantamento do Poder360 de 23/08/2026 sobre extensão e estrutura dos planos. O documento registrado é o programa de luta do PCO adotado pela candidatura e afirma explicitamente que não se trata de um conjunto de promessas a executar pela via institucional: por isso o bloco está marcado como 'parcial'. Atenção de escopo: menções a 'Imposto Único' de 0,5% sobre a circulação de dinheiro e 1% sobre grandes fortunas, 'fim de 32 tributos', '600 mil concursos na saúde', 'Ronda Nacional de 30 mil agentes' e referências ao BRICS, registradas em rodadas anteriores deste trabalho, não foram localizadas no PDF registrado nem no índice oficial e não foram usadas neste bloco. Não há custos, cronograma ou indicadores por proposta, e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo).",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Fundação e direção do PCO desde 1995 (registro definitivo em 1996), com 31 anos de presidência e candidaturas presidenciais próprias em 2002, 2010, 2014 e 2026. Mantém estrutura de publicação e campanha em operação: jornal e diário Causa Operária, duas obras publicadas (2018 e 2021) e campanha de 2026 custeada por financiamento coletivo (R$ 6.271,00). Sem cargo executivo estatal.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-rp-01",
+            "kind": "historico",
+            "title": "Fundação e direção nacional do PCO desde 1995",
+            "role": "fundador e presidente nacional do PCO (registro do partido no TRE-SP em 30/09/1997, com Rui Costa Pimenta como presidente)",
+            "complexity": "construção de partido próprio após a saída do PT (1995), com registro definitivo em 1996 e candidaturas presidenciais próprias em 2002, 2010, 2014 e 2026",
+            "outcome": "partido com registro válido em 2026, candidatura presidencial registrada e deferida e estrutura de imprensa e formação em funcionamento",
+            "period": "1995–2026",
+            "context": "o PCO nunca teve bancada no Congresso nos períodos consultados (0 deputados e 0 senadores em exercício em 29/09/2026) e disputa as eleições sem coligação",
+            "sources": [
+              {
+                "id": "src-rp-02",
+                "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+              },
+              {
+                "id": "src-rp-72",
+                "title": "Partidos políticos registrados no TSE — lista de partidos e dirigentes",
+                "publisher": "TRE-SP",
+                "url": "https://tre-sp.jus.br/partidos/partidos-politicos",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Lista oficial: PCO registrado em 30/09/1997, presidente RUI COSTA PIMENTA, número 29. Acesso direto respondeu 403 a acesso automatizado; consultada via Wayback Machine (https://web.archive.org/web/2026/https://tre-sp.jus.br/partidos/partidos-politicos)."
+              },
+              {
+                "id": "src-rp-01",
+                "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+                "publishedAt": "2026-08-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-rp-02",
+            "kind": "historico",
+            "title": "Edição de jornal, diário e coluna semanais do partido",
+            "role": "editor do jornal Causa Operária e do Diário Causa Operária (ocupação declarada ao TSE: jornalista e redator)",
+            "complexity": "publicação contínua de jornal e de diário partidário, coluna semanal 'Análise Política Semanal' em canal próprio (sábados, 8h) e análises semanais em portal de imprensa (Brasil 247)",
+            "outcome": "publicações em circulação e produção semanal continuada, registradas em agência pública, centro de pesquisa e nos próprios veículos do partido",
+            "period": "2014–2026",
+            "context": "estrutura de imprensa própria de um partido sem bancada no Congresso e com financiamento por vaquinha e recursos partidários",
+            "sources": [
+              {
+                "id": "src-rp-73",
+                "title": "Rui Costa Pimenta defende causa operária e programa revolucionário e socialista",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2014-07/rui-costa-pimenta-e-o-candidato-do-partido-da-causa-operaria",
+                "publishedAt": "2014-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil de 2014: descreve-o como 'o presidente nacional do PCO e editor do jornal Causa Operária'; entrada na luta sindical; em 1985, diretor eleito da CUT na Grande São Paulo."
+              },
+              {
+                "id": "src-rp-01",
+                "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+                "publishedAt": "2026-08-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+              },
+              {
+                "id": "src-rp-74",
+                "title": "Rui Costa Pimenta — Lideranças Políticas (NEAMP/PUC-SP)",
+                "publisher": "NEAMP — Núcleo de Estudos em Arte, Mídia e Política (PUC-SP)",
+                "url": "https://neamp.pucsp.br/liderancas/rui-costa-pimenta",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Verbetes de lideranças políticas: participação na fundação do PT (1980) e da CUT; a partir de 1984 começou a trabalhar como jornalista para a CUT; militância na tendência Causa Operária dentro do PT."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-rp-03",
+            "kind": "historico",
+            "title": "Duas obras de análise política publicadas (2018 e 2021)",
+            "role": "autor das obras 'Golpe de Estado no Brasil — Balanço e Perspectivas' (2018) e 'A Era da Censura das Massas' (2021)",
+            "complexity": "obras publicadas pelo selo editorial do próprio partido (Edições Causa Operária) e por editora parceira (Democritus), divulgadas em cursos e palestras",
+            "outcome": "duas obras publicadas nos anos indicados e utilizadas como material de formação e divulgação partidária",
+            "period": "2018–2021",
+            "context": "não foram localizadas tiragem, vendagem ou registro em catálogos de bibliotecas nas fontes desta rodada",
+            "sources": [
+              {
+                "id": "src-rp-02",
+                "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+              },
+              {
+                "id": "src-rp-73",
+                "title": "Rui Costa Pimenta defende causa operária e programa revolucionário e socialista",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2014-07/rui-costa-pimenta-e-o-candidato-do-partido-da-causa-operaria",
+                "publishedAt": "2014-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil de 2014: descreve-o como 'o presidente nacional do PCO e editor do jornal Causa Operária'; entrada na luta sindical; em 1985, diretor eleito da CUT na Grande São Paulo."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rp-04",
+            "kind": "historico",
+            "title": "Campanha presidencial de 2026 custeada por financiamento coletivo",
+            "role": "candidato à Presidência pelo PCO (4ª campanha presidencial efetiva)",
+            "complexity": "campanha nacional com receita de R$ 6.271,00 de um único doador (100% vaquinha online) e gasto contratado de R$ 137,30",
+            "outcome": "candidatura registrada e deferida, entre as 12 chapas válidas divulgadas pelo TSE em 11/09/2026, com prestação parcial entregue até 08/09/2026",
+            "period": "2026",
+            "context": "o candidato concorre sob investigação da Polícia Federal (operação de 11/08/2026) sobre fundos partidário e eleitoral, com afastamento cautelar de 180 dias do cargo partidário; o registro não foi impedido",
+            "sources": [
+              {
+                "id": "src-rp-01",
+                "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+                "publishedAt": "2026-08-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+              },
+              {
+                "id": "src-rp-03",
+                "title": "Rui Costa Pimenta, presidente do PCO, é alvo de operação da PF por suspeita de desvio de dinheiro dos fundos partidário e eleitoral",
+                "publisher": "g1 / Jornal Nacional (Globo)",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/rui-costa-pimenta-presidente-do-pco-e-alvo-de-operacao-da-pf-por-suspeita-de-desvio-de-dinheiro-dos-fundos-partidario-e-eleitoral.ghtml",
+                "publishedAt": "2026-08-11",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "JN/g1 (11/08/2026): Polícia Federal apura desvio de dinheiro dos fundos partidário e eleitoral para empresas ligadas a integrantes do PCO; quatro buscas em endereços ligados ao partido em São Paulo; bloqueio de contas e bens; afastamento do presidente do partido por 6 meses (medida da Justiça Eleitoral)."
+              },
+              {
+                "id": "src-rp-06",
+                "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, BRICS e outros temas de política externa",
+                "publisher": "Folha de S.Paulo",
+                "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+                "publishedAt": "2026-09-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Folha (12/09/2026): 'Ele [Rui Costa Pimenta] concorre enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários' — situação da investigação ainda ativa na reta final da campanha."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "Atividade sindical e partidária documentada: diretor eleito da CUT na Grande São Paulo em 1985 e trabalho como jornalista da CUT a partir de 1984; fundação do PT em 1980 e participação no congresso de fundação da organização da IV Internacional; apoio a Lula em 2018 sem ingressar na coligação. A articulação internacional é conduzida em nome do PCO: rodada de palestras em 10 países (2018), conferência internacional em Frankfurt (2019), viagem à China (2024) e encontro com o líder do Hamas, Ismail Haniya (2024).",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-rp-05",
+            "kind": "historico",
+            "title": "Diretor eleito da CUT na Grande São Paulo (1985)",
+            "role": "diretor eleito da Central Única dos Trabalhadores na região da Grande São Paulo, com atuação como assessor de imprensa da entidade",
+            "complexity": "central sindical de alcance nacional; exercício em período de mobilizações sindicais contra o governo José Sarney; trabalho como jornalista da CUT a partir de 1984",
+            "outcome": "mandato de direção registrado por agência pública, por veículo de imprensa regional e por centro de pesquisa acadêmica",
+            "period": "1984–1985 (e atuação sindical ao longo dos anos 1980)",
+            "context": "não há registro de mesas de negociação coletiva específicas nem de acordos assinados nas fontes desta rodada",
+            "sources": [
+              {
+                "id": "src-rp-71",
+                "title": "Quem é Rui Costa Pimenta, candidato do PCO à Presidência em 2026",
+                "publisher": "GZH (Grupo RBS)",
+                "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-rui-costa-pimenta-candidato-do-pco-a-presidencia-em-2026-cmp1mrvoy00bi013xd027glxo.html",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil: trajetória desde 1976 (ditadura); Congresso de Refundação da UNE (1980); fundação do PT (1980); participação no congresso de fundação da organização da IV Internacional; diretor eleito da CUT na Grande São Paulo em 1985, atuando como assessor de imprensa; ruptura com o PT em 1992; fundação do PCO em 1995; editor do jornal e do diário Causa Operária."
+              },
+              {
+                "id": "src-rp-74",
+                "title": "Rui Costa Pimenta — Lideranças Políticas (NEAMP/PUC-SP)",
+                "publisher": "NEAMP — Núcleo de Estudos em Arte, Mídia e Política (PUC-SP)",
+                "url": "https://neamp.pucsp.br/liderancas/rui-costa-pimenta",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Verbetes de lideranças políticas: participação na fundação do PT (1980) e da CUT; a partir de 1984 começou a trabalhar como jornalista para a CUT; militância na tendência Causa Operária dentro do PT."
+              },
+              {
+                "id": "src-rp-73",
+                "title": "Rui Costa Pimenta defende causa operária e programa revolucionário e socialista",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2014-07/rui-costa-pimenta-e-o-candidato-do-partido-da-causa-operaria",
+                "publishedAt": "2014-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil de 2014: descreve-o como 'o presidente nacional do PCO e editor do jornal Causa Operária'; entrada na luta sindical; em 1985, diretor eleito da CUT na Grande São Paulo."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-rp-06",
+            "kind": "historico",
+            "title": "Participação na fundação do PT (1980) e no congresso de fundação da organização da IV Internacional",
+            "role": "um dos fundadores do Partido dos Trabalhadores, pela tendência Causa Operária (movimento interno)",
+            "complexity": "formação e manutenção de corrente interna em partido em criação; participação em congresso de fundação de organização internacional; articulação que se encerra com a ruptura com o PT em 1992",
+            "outcome": "PT fundado em 1980 com participação do movimento; a corrente deu origem ao PCO em 1995, após a expulsão dos militantes",
+            "period": "1980–1995",
+            "context": "o desfecho da articulação interna foi a ruptura (declarada em 1992) e a saída do grupo (1995), não a permanência no partido",
+            "sources": [
+              {
+                "id": "src-rp-02",
+                "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+              },
+              {
+                "id": "src-rp-71",
+                "title": "Quem é Rui Costa Pimenta, candidato do PCO à Presidência em 2026",
+                "publisher": "GZH (Grupo RBS)",
+                "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-rui-costa-pimenta-candidato-do-pco-a-presidencia-em-2026-cmp1mrvoy00bi013xd027glxo.html",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil: trajetória desde 1976 (ditadura); Congresso de Refundação da UNE (1980); fundação do PT (1980); participação no congresso de fundação da organização da IV Internacional; diretor eleito da CUT na Grande São Paulo em 1985, atuando como assessor de imprensa; ruptura com o PT em 1992; fundação do PCO em 1995; editor do jornal e do diário Causa Operária."
+              },
+              {
+                "id": "src-rp-74",
+                "title": "Rui Costa Pimenta — Lideranças Políticas (NEAMP/PUC-SP)",
+                "publisher": "NEAMP — Núcleo de Estudos em Arte, Mídia e Política (PUC-SP)",
+                "url": "https://neamp.pucsp.br/liderancas/rui-costa-pimenta",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Verbetes de lideranças políticas: participação na fundação do PT (1980) e da CUT; a partir de 1984 começou a trabalhar como jornalista para a CUT; militância na tendência Causa Operária dentro do PT."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-rp-07",
+            "kind": "historico",
+            "title": "Encontro com o líder do Hamas, Ismail Haniya (Catar, março de 2024)",
+            "role": "presidente nacional do PCO, à frente do encontro em nome do partido",
+            "complexity": "reunião no exterior com dirigente de organização política estrangeira, registrada por imprensa nacional",
+            "outcome": "encontro registrado em cobertura de imprensa (2024); não foram localizados comunicado conjunto, acordo ou pauta formal publicados pelo partido",
+            "period": "2024-03",
+            "context": "a articulação externa do PCO ocorre por contatos e viagens de seus dirigentes, sem assento em organismos multilaterais",
+            "sources": [
+              {
+                "id": "src-rp-79",
+                "title": "Rui Costa Pimenta: o eterno chefe do PCO curte a Europa e o Hamas",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/ideias/a-dolce-vita-de-rui-costa-pimenta-o-eterno-chefe-do-pco-curte-a-europa-e-o-hamas/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Artigo de opinião que registra o encontro de Rui Costa Pimenta com o líder do braço político do Hamas, Ismail Haniyeh, e as viagens internacionais do dirigente."
+              },
+              {
+                "id": "src-rp-02",
+                "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rp-08",
+            "kind": "historico",
+            "title": "Rodada internacional de palestras e conferência internacional do PCO",
+            "role": "presidente nacional do PCO, conduzindo a agenda internacional do partido",
+            "complexity": "rodada de palestras e debates em 10 países entre 26/05 e 03/07/2018, iniciada pela Irlanda, e Primeira Conferência Internacional do PCO em Frankfurt (Alemanha, julho de 2019)",
+            "outcome": "agenda cumprida nos períodos indicados; conferência internacional realizada com participação de organizações estrangeiras",
+            "period": "2018–2019",
+            "context": "agenda de partido sem bancada no Congresso, sustentada por organizações e militâncias locais nos países visitados",
+            "sources": [
+              {
+                "id": "src-rp-78",
+                "title": "As eleições no Brasil já estão comprometidas, diz Rui Costa Pimenta",
+                "publisher": "RFI Brasil",
+                "url": "https://www.rfi.fr/br/brasil/20180531-rfi-convida-rui-costa-pimenta",
+                "publishedAt": "2018-05-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Maratona' de palestras e debates em 10 países entre 26/05 e 03/07/2018, iniciada pela Irlanda, sobre a situação política do Brasil. Acesso direto respondeu 403; consultada via Wayback Machine."
+              },
+              {
+                "id": "src-rp-77",
+                "title": "PCO se organiza e cresce pelos 4 cantos do mundo",
+                "publisher": "Diário Causa Operária",
+                "url": "https://causaoperaria.org.br/2022/pco-se-organiza-e-cresce-pelos-4-cantos-do-mundo/",
+                "publishedAt": "2022",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Relata a Primeira Conferência Internacional do PCO em Frankfurt (Alemanha, julho de 2019), antecedida por rodada internacional de palestras e debates de Rui Costa Pimenta. Acesso direto respondeu 403; consultada via Wayback Machine."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rp-09",
+            "kind": "historico",
+            "title": "Viagem da direção do PCO à China com visitas e conferências (2024)",
+            "role": "presidente nacional do PCO, integrando a direção do partido em viagem oficial ao exterior",
+            "complexity": "agenda de cerca de 10 dias com visitas e conferências, com a direção do partido, em outro país",
+            "outcome": "viagem realizada e relatada publicamente em entrevista ao veículo do partido (2024)",
+            "period": "2024",
+            "context": "não há registro de acordo, memorando ou resultado formal da viagem nas fontes consultadas",
+            "sources": [
+              {
+                "id": "src-rp-80",
+                "title": "China, 'o Brasil que poderia ser e não é', diz Rui Costa Pimenta",
+                "publisher": "Diário Causa Operária",
+                "url": "https://causaoperaria.org.br/2024/china-o-brasil-que-poderia-ser-e-nao-e-diz-rui-costa-pimenta/",
+                "publishedAt": "2024",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "A direção do PCO esteve na China em viagem de cerca de 10 dias com visitas e conferências. Acesso direto respondeu 403; consultada via Wayback Machine."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Direção nacional do PCO com estruturas permanentes (Comitê Central, Fundação João Jorge Costa Pimenta, Aliança da Juventude Revolucionária, jornal e diário) e escola de formação de quadros: a Universidade Marxista/Universidade de Férias chegou à 52ª edição em janeiro de 2025 e mantém plataforma online de cursos, com história declarada de quase 30 anos. Também mantém curso, palestra e coluna semanais. As fontes não informam número de filiados, de quadros ou de pessoal remunerado.",
+        "coverage": "parcial",
+        "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+        "evidences": [
+          {
+            "id": "ev-cap-rp-10",
+            "kind": "historico",
+            "title": "Direção de partido com estruturas permanentes (Comitê Central, fundação, juventude e imprensa)",
+            "role": "presidente nacional do PCO e presidente do Comitê Central",
+            "complexity": "estrutura partidária com órgão de direção, fundação (Fundação João Jorge Costa Pimenta), organização de juventude (Aliança da Juventude Revolucionária), jornal, diário e escola de formação; 31 anos de direção",
+            "outcome": "partido em funcionamento com registro válido em 2026 e candidatura presidencial própria registrada",
+            "period": "1995–2026",
+            "context": "as fontes públicas consultadas não informam número de filiados, de quadros ou de pessoal remunerado do partido",
+            "sources": [
+              {
+                "id": "src-rp-72",
+                "title": "Partidos políticos registrados no TSE — lista de partidos e dirigentes",
+                "publisher": "TRE-SP",
+                "url": "https://tre-sp.jus.br/partidos/partidos-politicos",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Lista oficial: PCO registrado em 30/09/1997, presidente RUI COSTA PIMENTA, número 29. Acesso direto respondeu 403 a acesso automatizado; consultada via Wayback Machine (https://web.archive.org/web/2026/https://tre-sp.jus.br/partidos/partidos-politicos)."
+              },
+              {
+                "id": "src-rp-76",
+                "title": "Universidade Marxista — plataforma online de cursos",
+                "publisher": "Universidade Marxista (PCO / Fundação João Jorge Costa Pimenta / AJR)",
+                "url": "https://unimarxista.org.br/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Plataforma de cursos descrita como ampliação da iniciativa do PCO, da Fundação João Jorge Costa Pimenta e da Aliança da Juventude Revolucionária e das 'universidades de férias', com quase 30 anos de história."
+              },
+              {
+                "id": "src-rp-02",
+                "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rp-11",
+            "kind": "historico",
+            "title": "Escola de formação de quadros: Universidade Marxista e Universidade de Férias",
+            "role": "dirigente do partido responsável pela iniciativa de formação (com a Fundação João Jorge Costa Pimenta e a Aliança da Juventude Revolucionária)",
+            "complexity": "programa de formação com 52ª edição da Universidade de Férias realizada em janeiro de 2025 (nove dias, Araçoiaba da Serra/SP) e plataforma online de cursos com história declarada de quase 30 anos",
+            "outcome": "edições realizadas e cursos programados, incluindo o curso de meio de ano de 2026 sobre a Revolução Iraniana de 1979",
+            "period": "1996–2026 (história declarada de quase 30 anos)",
+            "context": "a adesão e o número de participantes por edição não são divulgados nas fontes consultadas",
+            "sources": [
+              {
+                "id": "src-rp-75",
+                "title": "Vai começar a 52ª Universidade Marxista: faça sua inscrição agora mesmo e participe",
+                "publisher": "Partido da Causa Operária (PCO)",
+                "url": "https://pco.org.br/2025/01/24/vai-comecar-a-52a-universidade-marxista-participe/",
+                "publishedAt": "2025-01-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "A 52ª edição da Universidade de Férias, organizada pelo PCO com a Aliança da Juventude Revolucionária (AJR), começou em janeiro de 2025 no Acampamento Hotel Emanuel, em Araçoiaba da Serra (SP), com nove dias de programação."
+              },
+              {
+                "id": "src-rp-76",
+                "title": "Universidade Marxista — plataforma online de cursos",
+                "publisher": "Universidade Marxista (PCO / Fundação João Jorge Costa Pimenta / AJR)",
+                "url": "https://unimarxista.org.br/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Plataforma de cursos descrita como ampliação da iniciativa do PCO, da Fundação João Jorge Costa Pimenta e da Aliança da Juventude Revolucionária e das 'universidades de férias', com quase 30 anos de história."
+              },
+              {
+                "id": "src-rp-81",
+                "title": "PCO realizará curso inédito sobre a Revolução Iraniana de 1979",
+                "publisher": "Diário Causa Operária",
+                "url": "https://causaoperaria.org.br/2026/pco-realizara-curso-inedito-sobre-a-revolucao-iraniana-de-1979/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Curso de meio de ano da Universidade Marxista do PCO (2026). Acesso direto respondeu 403 a acesso automatizado; página indexada em buscadores, sem cópia no Wayback Machine em 29/09/2026."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-rp-12",
+            "kind": "historico",
+            "title": "Atividade regular de cursos, palestras e coluna semanal",
+            "role": "conferencista do partido e colunista (editor do jornal Causa Operária)",
+            "complexity": "atividade semanal em canal próprio e em portal de imprensa, além de cursos e palestras no país e no exterior",
+            "outcome": "produção continuada registrada em veículo do partido, em agência pública e em centro de pesquisa acadêmica",
+            "period": "2014–2026",
+            "context": "as fontes não registram público, alcance de audiência ou número de participantes dos cursos",
+            "sources": [
+              {
+                "id": "src-rp-02",
+                "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+              },
+              {
+                "id": "src-rp-73",
+                "title": "Rui Costa Pimenta defende causa operária e programa revolucionário e socialista",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2014-07/rui-costa-pimenta-e-o-candidato-do-partido-da-causa-operaria",
+                "publishedAt": "2014-07",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil de 2014: descreve-o como 'o presidente nacional do PCO e editor do jornal Causa Operária'; entrada na luta sindical; em 1985, diretor eleito da CUT na Grande São Paulo."
+              },
+              {
+                "id": "src-rp-78",
+                "title": "As eleições no Brasil já estão comprometidas, diz Rui Costa Pimenta",
+                "publisher": "RFI Brasil",
+                "url": "https://www.rfi.fr/br/brasil/20180531-rfi-convida-rui-costa-pimenta",
+                "publishedAt": "2018-05-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Maratona' de palestras e debates em 10 países entre 26/05 e 03/07/2018, iniciada pela Irlanda, sobre a situação política do Brasil. Acesso direto respondeu 403; consultada via Wayback Machine."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -22311,6 +29225,126 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Registro da candidatura em 15/08/2026: 'o partido terá chapa pura, com Antônio Carlos na vice-presidência'; o candidato declara não possuir bens; plano de cancelamento de privatizações e anulação de dívidas dos trabalhadores."
+      },
+      {
+        "id": "src-rp-72",
+        "title": "Partidos políticos registrados no TSE — lista de partidos e dirigentes",
+        "publisher": "TRE-SP",
+        "url": "https://tre-sp.jus.br/partidos/partidos-politicos",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Lista oficial: PCO registrado em 30/09/1997, presidente RUI COSTA PIMENTA, número 29. Acesso direto respondeu 403 a acesso automatizado; consultada via Wayback Machine (https://web.archive.org/web/2026/https://tre-sp.jus.br/partidos/partidos-politicos)."
+      },
+      {
+        "id": "src-rp-73",
+        "title": "Rui Costa Pimenta defende causa operária e programa revolucionário e socialista",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2014-07/rui-costa-pimenta-e-o-candidato-do-partido-da-causa-operaria",
+        "publishedAt": "2014-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil de 2014: descreve-o como 'o presidente nacional do PCO e editor do jornal Causa Operária'; entrada na luta sindical; em 1985, diretor eleito da CUT na Grande São Paulo."
+      },
+      {
+        "id": "src-rp-74",
+        "title": "Rui Costa Pimenta — Lideranças Políticas (NEAMP/PUC-SP)",
+        "publisher": "NEAMP — Núcleo de Estudos em Arte, Mídia e Política (PUC-SP)",
+        "url": "https://neamp.pucsp.br/liderancas/rui-costa-pimenta",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "editorial",
+        "notes": "Verbetes de lideranças políticas: participação na fundação do PT (1980) e da CUT; a partir de 1984 começou a trabalhar como jornalista para a CUT; militância na tendência Causa Operária dentro do PT."
+      },
+      {
+        "id": "src-rp-71",
+        "title": "Quem é Rui Costa Pimenta, candidato do PCO à Presidência em 2026",
+        "publisher": "GZH (Grupo RBS)",
+        "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-rui-costa-pimenta-candidato-do-pco-a-presidencia-em-2026-cmp1mrvoy00bi013xd027glxo.html",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil: trajetória desde 1976 (ditadura); Congresso de Refundação da UNE (1980); fundação do PT (1980); participação no congresso de fundação da organização da IV Internacional; diretor eleito da CUT na Grande São Paulo em 1985, atuando como assessor de imprensa; ruptura com o PT em 1992; fundação do PCO em 1995; editor do jornal e do diário Causa Operária."
+      },
+      {
+        "id": "src-rp-79",
+        "title": "Rui Costa Pimenta: o eterno chefe do PCO curte a Europa e o Hamas",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/ideias/a-dolce-vita-de-rui-costa-pimenta-o-eterno-chefe-do-pco-curte-a-europa-e-o-hamas/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Artigo de opinião que registra o encontro de Rui Costa Pimenta com o líder do braço político do Hamas, Ismail Haniyeh, e as viagens internacionais do dirigente."
+      },
+      {
+        "id": "src-rp-78",
+        "title": "As eleições no Brasil já estão comprometidas, diz Rui Costa Pimenta",
+        "publisher": "RFI Brasil",
+        "url": "https://www.rfi.fr/br/brasil/20180531-rfi-convida-rui-costa-pimenta",
+        "publishedAt": "2018-05-31",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "'Maratona' de palestras e debates em 10 países entre 26/05 e 03/07/2018, iniciada pela Irlanda, sobre a situação política do Brasil. Acesso direto respondeu 403; consultada via Wayback Machine."
+      },
+      {
+        "id": "src-rp-77",
+        "title": "PCO se organiza e cresce pelos 4 cantos do mundo",
+        "publisher": "Diário Causa Operária",
+        "url": "https://causaoperaria.org.br/2022/pco-se-organiza-e-cresce-pelos-4-cantos-do-mundo/",
+        "publishedAt": "2022",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Relata a Primeira Conferência Internacional do PCO em Frankfurt (Alemanha, julho de 2019), antecedida por rodada internacional de palestras e debates de Rui Costa Pimenta. Acesso direto respondeu 403; consultada via Wayback Machine."
+      },
+      {
+        "id": "src-rp-80",
+        "title": "China, 'o Brasil que poderia ser e não é', diz Rui Costa Pimenta",
+        "publisher": "Diário Causa Operária",
+        "url": "https://causaoperaria.org.br/2024/china-o-brasil-que-poderia-ser-e-nao-e-diz-rui-costa-pimenta/",
+        "publishedAt": "2024",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "A direção do PCO esteve na China em viagem de cerca de 10 dias com visitas e conferências. Acesso direto respondeu 403; consultada via Wayback Machine."
+      },
+      {
+        "id": "src-rp-76",
+        "title": "Universidade Marxista — plataforma online de cursos",
+        "publisher": "Universidade Marxista (PCO / Fundação João Jorge Costa Pimenta / AJR)",
+        "url": "https://unimarxista.org.br/",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Plataforma de cursos descrita como ampliação da iniciativa do PCO, da Fundação João Jorge Costa Pimenta e da Aliança da Juventude Revolucionária e das 'universidades de férias', com quase 30 anos de história."
+      },
+      {
+        "id": "src-rp-75",
+        "title": "Vai começar a 52ª Universidade Marxista: faça sua inscrição agora mesmo e participe",
+        "publisher": "Partido da Causa Operária (PCO)",
+        "url": "https://pco.org.br/2025/01/24/vai-comecar-a-52a-universidade-marxista-participe/",
+        "publishedAt": "2025-01-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "A 52ª edição da Universidade de Férias, organizada pelo PCO com a Aliança da Juventude Revolucionária (AJR), começou em janeiro de 2025 no Acampamento Hotel Emanuel, em Araçoiaba da Serra (SP), com nove dias de programação."
+      },
+      {
+        "id": "src-rp-81",
+        "title": "PCO realizará curso inédito sobre a Revolução Iraniana de 1979",
+        "publisher": "Diário Causa Operária",
+        "url": "https://causaoperaria.org.br/2026/pco-realizara-curso-inedito-sobre-a-revolucao-iraniana-de-1979/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Curso de meio de ano da Universidade Marxista do PCO (2026). Acesso direto respondeu 403 a acesso automatizado; página indexada em buscadores, sem cópia no Wayback Machine em 29/09/2026."
+      },
+      {
+        "id": "src-rp-70",
+        "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+        "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -23123,7 +30157,752 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "low"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O 'Programa da Unidade Popular pelo Socialismo' (versão de 67 páginas, posterior ao documento de 16 propostas registrado inicialmente) propõe um 'Governo Popular dos Trabalhadores', com participação permanente do povo, controle público dos setores estratégicos, soberania nacional, planificação democrática da economia e 'prioridade absoluta às necessidades sociais'. A candidata resume o horizonte declarado como 'construir um país socialista' e um país 'sem exploração dos trabalhadores por uma minoria de bilionários'; saúde, educação, moradia, transporte, cultura e comunicação são declaradas direitos, 'e não mercadorias'.",
+      "nationalPriorities": [
+        "salário mínimo e jornada (reajuste de 100% e fim da escala 6x1)",
+        "nacionalização do sistema bancário e reestatização de empresas",
+        "saúde e educação públicas (10% do PIB para educação)",
+        "reforma agrária e controle de preços dos alimentos",
+        "moradia e saneamento",
+        "soberania nacional e luta anti-imperialista",
+        "direitos das mulheres e combate à discriminação"
+      ],
+      "developmentModel": "O modelo declarado é de superação do capitalismo: controle social dos monopólios e dos meios de produção nos setores estratégicos, planificação da economia para acabar com desigualdades regionais e sociais, nacionalização do sistema bancário (e, na versão corrigida de 16 propostas, também dos planos de saúde privados), reestatização das empresas privatizadas, estatização dos transportes coletivos e suspensão do pagamento da dívida pública seguida de auditoria. O programa defende ainda reajuste de 100% do salário mínimo como medida emergencial do primeiro momento de governo, fim da escala 6x1 com redução da jornada sem redução salarial, revogação das reformas trabalhista e da Previdência, isenção de impostos para trabalhadores, taxação de grandes fortunas, fim de subsídios fiscais e financeiros a monopólios, exigência de que políticos usem exclusivamente a saúde e a educação públicas, destinação de 10% do PIB para a educação e fim de vestibular e processos seletivos no acesso ao ensino público. Ciência e reindustrialização aparecem como eixos de desenvolvimento; o meio ambiente comparece pela proteção da Amazônia e dos biomas, pela demarcação de terras indígenas e pela oposição declarada à entrega de terras raras brasileiras a outros países; a desigualdade é tratada como resultado do sistema capitalista, a ser superado por controle público e planificação, não administrado. A candidata rejeita federação e coligação partidária na disputa presidencial (chapa própria, 100% feminina).",
+      "sources": [
+        {
+          "id": "src-sm-41",
+          "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+        },
+        {
+          "id": "src-sm-01",
+          "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+          "publisher": "Unidade Popular (site oficial do partido)",
+          "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+        },
+        {
+          "id": "src-sm-42",
+          "title": "Samara Martins registra candidatura no TSE, mas plano de governo protocolado é o de 2022",
+          "publisher": "Canal MyNews",
+          "url": "https://canalmynews.com.br/eleicoes-2026/samara-martins-candidatura-tse-plano-governo/",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Relata o envio da versão de 2022 por falha interna e a versão corrigida de 16 propostas (reajuste de 100% do salário mínimo, fim da escala 6x1, 36 horas, suspensão da dívida pública, nacionalização de bancos e de planos de saúde)."
+        },
+        {
+          "id": "src-sm-43",
+          "title": "Samara Martins leva programa socialista à disputa presidencial",
+          "publisher": "Jornalismo Júnior",
+          "url": "https://jornalismojunior.com.br/samara-martins-leva-programa-socialista-a-disputa-presidencial/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Registra a passagem do documento de ~1,5 página e 16 propostas para a versão final de 67 páginas e cerca de 20 eixos temáticos; aponta três eixos declarados (trabalho, anti-imperialismo, soberania)."
+        },
+        {
+          "id": "src-sm-44",
+          "title": "Plano de governo da UP tem menos de duas páginas e vira piada nas redes sociais",
+          "publisher": "BNews",
+          "url": "https://www.bnews.com.br/noticias/politica/plano-de-governo-da-tem-menos-de-duas-paginas-e-vira-piada-nas-redes-sociais.html",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Lista as 16 propostas do documento registrado (economia, agrário, educação, relações internacionais, mulheres)."
+        },
+        {
+          "id": "src-sm-45",
+          "title": "Campanha presidencial de Samara Martins em 2026",
+          "publisher": "Wikipédia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "editorial",
+          "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+        },
+        {
+          "id": "src-sm-25",
+          "title": "Samara Martins: Negociação política: programa acima de pessoas",
+          "publisher": "Ceticismo.com — transcrição classificada",
+          "url": "https://ceticismo.com.br/en/transcript/7eae4400-716d-465d-9616-b9018310a7a3",
+          "publishedAt": "2026-08-12",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-30",
+          "title": "Plano da UP para a Presidência registrado no TSE tem menos de uma página e meia; documento repercute na internet (16 propostas)",
+          "publisher": "Fonte 83",
+          "url": "https://fonte83.com.br/politica/eleicoes-2026/plano-da-up-para-a-presidencia-registrado-no-tse-tem-menos-de-uma-pagina-e-meia-documento-repercute-na-internet",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "methodology": "Extração direta da versão de 67 páginas do programa apresentado pela campanha (lida integralmente), confrontada com a versão de 16 propostas e com a cobertura de 2026 (Jornalismo Júnior, BNews, O Globo/Lauro Jardim, Metrópoles, Agência Brasil). Confiança média porque o registro no TSE passou por correção: o documento protocolado em 06/08/2026 reproduzia a versão de 2022 (relatado pela imprensa e pela coluna de O Globo, que mede menos de duas páginas e 16 propostas) e a versão ampliada de 67 páginas passou a circular em seguida; as prioridades listadas foram checadas nas duas versões e não há divergência de eixo, mas divergem em extensão — a versão de 16 propostas cita jornada de 36 horas enquanto o programa ampliado detalha proposta de 30 horas semanais. O que não foi possível extrair: cronograma, custo e fonte de financiamento por proposta (as duas versões são programáticas e não apresentam orçamento).",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "É cirurgiã-dentista da Estratégia Saúde da Família no SUS e exerceu a vice-presidência nacional da Unidade Popular entre 2016 e 2026, atuando na organização partidária. Teve a pré-candidatura aprovada por unanimidade pelo Diretório Nacional em 01/02/2026 e conduziu agenda de lançamento em vários estados (Fortaleza em abril, Belém em maio, Salvador em setembro). O programa de governo foi registrado no TSE em 06/08/2026 e a chapa foi validada por unanimidade em 02/09/2026, entre as seis primeiras chapas aprovadas.",
+        "coverage": "parcial",
+        "coverageNote": "Sem cargo público anterior e sem estrutura administrativa a analisar: as evidências de execução são o trabalho na atenção básica do SUS, a condução da estrutura partidária nacional e a realização da campanha presidencial de 2026.",
+        "evidences": [
+          {
+            "id": "ev-cap-sm-01",
+            "kind": "historico",
+            "title": "Atuação profissional na atenção básica do SUS",
+            "role": "cirurgiã-dentista da Estratégia Saúde da Família",
+            "complexity": "serviço público de atenção básica no Rio Grande do Norte; atendimento por equipe de saúde da família; atividade mantida durante a pré-candidatura",
+            "outcome": "atuação continuada na rede pública, usada como base da proposta de que todos os políticos utilizem o SUS",
+            "period": "não informado",
+            "context": "Vínculo profissional em serviço público de porta de entrada, sem cargo de direção.",
+            "sources": [
+              {
+                "id": "src-sm-01",
+                "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+                "publisher": "Unidade Popular (site oficial do partido)",
+                "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+              },
+              {
+                "id": "src-sm-07",
+                "title": "Samara Martins defende que políticos usem o SUS",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+              },
+              {
+                "id": "src-sm-49",
+                "title": "Dentista do SUS e militante de esquerda: Quem é Samara Martins (UP), candidata à Presidência",
+                "publisher": "Jovem Pan",
+                "url": "https://jovempan.com.br/noticias/dentista-do-sus-e-militante-de-esquerda-quem-e-samara-martins-up-candidata-a-presidencia/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026). Cirurgiã-dentista do SUS, vice-presidente da UP, vinculada à militância antirracista e à direção do Movimento de Mulheres Olga Benário."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-sm-02",
+            "kind": "historico",
+            "title": "Vice-presidência nacional da Unidade Popular e organização partidária",
+            "role": "vice-presidente nacional do partido entre 2016 e 2026 (presidência de Leonardo Péricles)",
+            "complexity": "alcance nacional; partido fundado em 2016 e registrado pelo TSE em 10/12/2019; sem parlamentares eleitos",
+            "outcome": "partido manteve registro e disputou eleições nacionais em 2022 e 2026, com candidaturas estaduais próprias",
+            "period": "2016-2026",
+            "context": "Atuação de direção em legenda pequena, sem recursos de Fundo Partidário e com estrutura baseada em militância.",
+            "sources": [
+              {
+                "id": "src-sm-45",
+                "title": "Campanha presidencial de Samara Martins em 2026",
+                "publisher": "Wikipédia (pt)",
+                "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+              },
+              {
+                "id": "src-sm-13",
+                "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice: estrutura, bancadas (0), filiados, ala feminina."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-sm-03",
+            "kind": "historico",
+            "title": "Aprovação da pré-candidatura e lançamento itinerante",
+            "role": "pré-candidata, aprovada por unanimidade pelo Diretório Nacional",
+            "complexity": "alcance nacional; agendas de lançamento em Fortaleza (02/04/2026), Belém (02-03/05/2026) e outras praças antes da convenção de 26/07/2026",
+            "outcome": "candidatura oficializada na convenção nacional de 26/07/2026, na Universidade Zumbi dos Palmares (SP)",
+            "period": "2026",
+            "context": "Construção da candidatura por meio de agendas públicas em estados, com partido sem exposição na mídia tradicional.",
+            "sources": [
+              {
+                "id": "src-sm-46",
+                "title": "Única mulher na disputa, Samara Martins lança pré-candidatura à Presidência (reunião do Diretório Nacional, 1º de fevereiro)",
+                "publisher": "Agemt — Jornalismo PUC-SP",
+                "url": "https://agemt.pucsp.br/noticias/unica-mulher-na-disputa-samara-martins-lanca-pre-candidatura-presidencia",
+                "publishedAt": "2026-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Mês; dia exato não capturado. Aprovação do nome pelo Diretório Nacional em 01/02/2026."
+              },
+              {
+                "id": "src-sm-51",
+                "title": "Única mulher pré-candidata à Presidência, Samara Martins cumpre agenda em Fortaleza",
+                "publisher": "O Povo (Vertical)",
+                "url": "https://mais.opovo.com.br/colunistas/vertical/2026/04/02/candidata-a-presidencia-samara-martins-cumpre-agenda-em-fortaleza.html",
+                "publishedAt": "2026-04-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-47",
+                "title": "Samara Martins desembarca em Belém para lançar pré-candidatura à Presidência",
+                "publisher": "Ponto de Pauta (PA)",
+                "url": "https://pontodepauta.com/2026/04/30/samara-martins-desembarca-em-belem-para-lancar-pre-candidatura-a-presidencia/",
+                "publishedAt": "2026-04-30",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Agenda de lançamento da pré-candidatura em Belém, nos dias 2 e 3 de maio de 2026."
+              },
+              {
+                "id": "src-sm-01",
+                "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+                "publisher": "Unidade Popular (site oficial do partido)",
+                "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-sm-04",
+            "kind": "historico",
+            "title": "Registro do programa de governo e validação do registro da chapa",
+            "role": "cabeça de chapa",
+            "complexity": "programa de governo registrado no TSE em 06/08/2026 com menos de uma página e meia, conforme levantamento da imprensa; 13 pedidos de registro à Presidência recebidos até 15/08/2026",
+            "outcome": "registro da chapa Samara Martins/Raquel Brício aprovado por unanimidade pelo TSE em 02/09/2026, entre as seis primeiras chapas validadas",
+            "period": "2026",
+            "context": "Exigência legal de registro de programa e de chapa dentro do prazo, com documento resumido.",
+            "sources": [
+              {
+                "id": "src-sm-08",
+                "title": "TSE valida seis registros de candidatura à Presidência da República",
+                "publisher": "TSE — Tribunal Superior Eleitoral",
+                "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+                "publishedAt": "2026-09-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Chapa Samara Martins/Raquel Brício validada por unanimidade; 13 pedidos de registro até 15/08/2026."
+              },
+              {
+                "id": "src-sm-30",
+                "title": "Plano da UP para a Presidência registrado no TSE tem menos de uma página e meia; documento repercute na internet (16 propostas)",
+                "publisher": "Fonte 83",
+                "url": "https://fonte83.com.br/politica/eleicoes-2026/plano-da-up-para-a-presidencia-registrado-no-tse-tem-menos-de-uma-pagina-e-meia-documento-repercute-na-internet",
+                "publishedAt": "2026-08-13",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-09",
+                "title": "TSE aprova registros de seis candidatos à Presidência da República",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+                "publishedAt": "2026-09-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Publicado em 02/09/2026 - 21:35."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-sm-05",
+            "kind": "historico",
+            "title": "Campanha eleitoral com agenda nacional e frentes estaduais",
+            "role": "candidata à Presidência",
+            "complexity": "campanha nacional; partido com candidaturas próprias a governos estaduais ('mira 17 governos', agosto de 2026) e agenda de rua em estados como Bahia (Salvador, setembro) e Piauí (Teresina)",
+            "outcome": "agendas cumpridas nas capitais visitadas; candidaturas estaduais oficializadas pelo partido",
+            "period": "2026",
+            "context": "Campanha sem coligação, apoiada em candidaturas estaduais próprias e em militância.",
+            "sources": [
+              {
+                "id": "src-sm-23",
+                "title": "Unidade Popular quer Presidência e mira 17 governos",
+                "publisher": "SBT News",
+                "url": "https://sbtnews.sbt.com.br/noticia/politica/unidade-popular-quer-presidencia-e-mira-17-governos",
+                "publishedAt": "2026-08-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "17 candidaturas a governo, 12 femininas (~70%); ausência de recursos do fundo partidário."
+              },
+              {
+                "id": "src-sm-48",
+                "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Salvador",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-salvador.ghtml",
+                "publishedAt": "2026-09-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-19",
+                "title": "UP 2026: fundos, repasses e candidatos",
+                "publisher": "Plural (levantamento com dados do TSE)",
+                "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "A UP disputou 2026 com candidatura própria: o partido declarou que chegou a dialogar com outras legendas, mas que as tratativas não avançaram, e rejeitou federação partidária. Em 2022, o partido apoiou Lula no segundo turno após concorrer com chapa própria; em 2026, manteve a candidatura. A candidata expôs como método que a negociação política deve colocar o programa acima das pessoas e compôs chapa com a sindicalista Raquel Brício, mantendo agenda em movimentos sociais e veículos de mídia fora do campo de governo.",
+        "coverage": "parcial",
+        "coverageNote": "As evidências são majoritariamente declarações da candidata e de dirigentes em entrevistas e material partidário; não há registro de acordos formais assinados ou de mesas de negociação documentadas.",
+        "evidences": [
+          {
+            "id": "ev-cap-sm-06",
+            "kind": "historico",
+            "title": "Tratativas de coligação encerradas sem acordo",
+            "role": "vice-presidente nacional do partido; tratativas conduzidas pela direção partidária",
+            "complexity": "interlocução declarada com outras legendas em 2026; decisão de concorrer sem coligação e sem federação",
+            "outcome": "tratativas não avançaram, segundo dirigente do partido; chapa registrada como partido isolado",
+            "period": "2026",
+            "context": "Partido pequeno avaliando alianças antes das convenções de 2026.",
+            "sources": [
+              {
+                "id": "src-sm-15",
+                "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+                "publisher": "Paraíba Online",
+                "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+                "publishedAt": "2026-07-25",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Candidatura própria sem coligações; propostas de valorização do salário mínimo e fim da 6×1."
+              },
+              {
+                "id": "src-sm-34",
+                "title": "Única mulher negra candidata a presidente promete dobrar salário mínimo (rejeita federação com PT/PSOL/PSTU/PCB e prioriza alianças 'programáticas')",
+                "publisher": "A Notícia do Vale",
+                "url": "https://anoticiadovale.com/2026/08/30/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo/",
+                "publishedAt": "2026-08-30",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-19",
+                "title": "UP 2026: fundos, repasses e candidatos",
+                "publisher": "Plural (levantamento com dados do TSE)",
+                "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-sm-07",
+            "kind": "historico",
+            "title": "Posicionamento sobre alianças em segundo turno e candidatura própria em 2026",
+            "role": "cabeça de chapa em 2026 e vice na chapa presidencial do partido em 2022",
+            "complexity": "partido com 0,05% dos votos válidos em 2022 e candidatura própria mantida em 2026",
+            "outcome": "em 2022, o partido apoiou Lula no segundo turno após a votação; em 2026, manteve a candidatura própria e não anunciou apoio a outra chapa",
+            "period": "2022-2026",
+            "context": "Decisão de manter projeto próprio apesar do custo eleitoral de não aderir a uma frente maior.",
+            "sources": [
+              {
+                "id": "src-sm-33",
+                "title": "Léo Péricles e Unidade Popular anunciam apoio a Lula no segundo turno das eleições",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/10/leo-pericles-e-unidade-popular-anunciam-apoio-a-lula-no-segundo-turno-das-eleicoes.ghtml",
+                "publishedAt": "2022-10-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-19",
+                "title": "UP 2026: fundos, repasses e candidatos",
+                "publisher": "Plural (levantamento com dados do TSE)",
+                "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+                "publishedAt": "2026-09",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+              },
+              {
+                "id": "src-sm-45",
+                "title": "Campanha presidencial de Samara Martins em 2026",
+                "publisher": "Wikipédia (pt)",
+                "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-sm-08",
+            "kind": "posicao",
+            "title": "Método de negociação declarado pela candidata",
+            "role": "candidata à Presidência",
+            "complexity": "declaração em entrevista de 12/08/2026, em programa de alcance nacional, de que a negociação política deve colocar o programa acima das pessoas",
+            "outcome": "posição declarada publicamente; não há registro de aplicação documentada em mesa de negociação",
+            "period": "2026",
+            "context": "Formulação de critério público para alianças antes do primeiro turno.",
+            "sources": [
+              {
+                "id": "src-sm-25",
+                "title": "Samara Martins: Negociação política: programa acima de pessoas",
+                "publisher": "Ceticismo.com — transcrição classificada",
+                "url": "https://ceticismo.com.br/en/transcript/7eae4400-716d-465d-9616-b9018310a7a3",
+                "publishedAt": "2026-08-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-05",
+                "title": "Samara Martins (UP) | Café nas Eleições #028 — transcrição",
+                "publisher": "Ceticismo.com",
+                "url": "https://ceticismo.com.br/en/transcript/f8ea7673-cc2c-4e73-bff4-639966db9a5f",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Segunda chapa presidencial do UP."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          },
+          {
+            "id": "ev-cap-sm-09",
+            "kind": "historico",
+            "title": "Composição de chapa com dirigente sindical",
+            "role": "cabeça de chapa; vice Raquel Brício, guarda-portuária paraense e ativista sindical",
+            "complexity": "chapa exclusivamente feminina; duas chapas com essas características entre as 12 validadas para a Presidência em 2026",
+            "outcome": "chapa registrada e validada pelo TSE em 02/09/2026",
+            "period": "2026",
+            "context": "Composição que aproxima a campanha do meio sindical portuário do Pará.",
+            "sources": [
+              {
+                "id": "src-sm-01",
+                "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+                "publisher": "Unidade Popular (site oficial do partido)",
+                "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+              },
+              {
+                "id": "src-sm-24",
+                "title": "UP oficializa candidatura de Samara Martins à presidência com chapa 100% feminina",
+                "publisher": "R7 / Notícias",
+                "url": "https://noticias.r7.com/brasilia/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina-26072026/",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-50",
+                "title": "Quem é Samara Martins, candidata da UP à Presidência da República",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026). Dentista do SUS, dirigente partidária e militante de movimentos populares; chapa com a sindicalista paraense Raquel Brício."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-sm-10",
+            "kind": "historico",
+            "title": "Diálogo com movimentos sociais e veículos de mídia de alcance nacional",
+            "role": "candidata à Presidência; integrou a direção do Movimento de Mulheres Olga Benário e a Frente Negra Revolucionária",
+            "complexity": "entrevistas e participações em veículos como Band, CNN Brasil e Canal MyNews e em programas de podcast, entre agosto e setembro de 2026",
+            "outcome": "posições apresentadas em mídia nacional; a candidata registrou publicamente a dificuldade de acesso a espaços tradicionais de propaganda",
+            "period": "2026",
+            "context": "Campanha de partido sem bancada e com pouco espaço na mídia tradicional.",
+            "sources": [
+              {
+                "id": "src-sm-50",
+                "title": "Quem é Samara Martins, candidata da UP à Presidência da República",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026). Dentista do SUS, dirigente partidária e militante de movimentos populares; chapa com a sindicalista paraense Raquel Brício."
+              },
+              {
+                "id": "src-sm-06",
+                "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+                "publisher": "Band",
+                "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+              },
+              {
+                "id": "src-sm-35",
+                "title": "Samara Martins diz ser a única pré-candidata que mantém bandeiras históricas da esquerda: 'não farei aliança com a direita'",
+                "publisher": "Canal MyNews",
+                "url": "https://canalmynews.com.br/noticias/samara-martins-diz-ser-a-unica-pre-candidata-que-mantem-bandeiras-historicas-da-esquerda/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-49",
+                "title": "Dentista do SUS e militante de esquerda: Quem é Samara Martins (UP), candidata à Presidência",
+                "publisher": "Jovem Pan",
+                "url": "https://jovempan.com.br/noticias/dentista-do-sus-e-militante-de-esquerda-quem-e-samara-martins-up-candidata-a-presidencia/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026). Cirurgiã-dentista do SUS, vice-presidente da UP, vinculada à militância antirracista e à direção do Movimento de Mulheres Olga Benário."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Exerceu a vice-presidência nacional da Unidade Popular entre 2016 e 2026, com atuação na organização partidária e na direção de movimentos populares (Movimento de Mulheres Olga Benário e Frente Negra Revolucionária), além de ter dirigido a pasta de mulheres na UNE. Em 2026, conduziu a campanha presidencial com chapa 100% feminina, vice indicada e frentes estaduais próprias, mantendo o partido sem coligação. Não há publicação de quadro de pessoal ou organograma da campanha.",
+        "coverage": "parcial",
+        "coverageNote": "Não há dados de pessoal nem organograma publicados pelo partido ou pela campanha; as evidências de liderança são a direção partidária nacional, a direção de movimentos sociais e a montagem da campanha de 2026.",
+        "evidences": [
+          {
+            "id": "ev-cap-sm-11",
+            "kind": "historico",
+            "title": "Direção nacional de partido e organização de estrutura militante",
+            "role": "vice-presidente nacional da Unidade Popular (2016-2026)",
+            "complexity": "alcance nacional; partido com 0 parlamentares eleitos e estrutura sustentada por militância; campanhas em 2020, 2022, 2024 e 2026",
+            "outcome": "partido manteve registro e apresentou candidaturas em quatro eleições consecutivas, com chapa presidencial própria em 2022 e 2026",
+            "period": "2016-2026",
+            "context": "Direção de legenda sem recursos de Fundo Partidário e com estrutura baseada em diretórios e militância.",
+            "sources": [
+              {
+                "id": "src-sm-45",
+                "title": "Campanha presidencial de Samara Martins em 2026",
+                "publisher": "Wikipédia (pt)",
+                "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "editorial",
+                "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+              },
+              {
+                "id": "src-sm-13",
+                "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice: estrutura, bancadas (0), filiados, ala feminina."
+              },
+              {
+                "id": "src-sm-23",
+                "title": "Unidade Popular quer Presidência e mira 17 governos",
+                "publisher": "SBT News",
+                "url": "https://sbtnews.sbt.com.br/noticia/politica/unidade-popular-quer-presidencia-e-mira-17-governos",
+                "publishedAt": "2026-08-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "17 candidaturas a governo, 12 femininas (~70%); ausência de recursos do fundo partidário."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-sm-12",
+            "kind": "historico",
+            "title": "Direção de movimentos sociais e organização de mulheres",
+            "role": "dirigente do Movimento de Mulheres Olga Benário, integrante da Frente Negra Revolucionária e ex-diretora de mulheres da UNE",
+            "complexity": "alcance nacional; organizações de atuação em pautas de mulheres e da população negra; coordenação de militantes",
+            "outcome": "participação nas direções das organizações citadas, conforme perfis publicados na campanha de 2026",
+            "period": "não informado",
+            "context": "Atuação em movimentos sociais em paralelo ao trabalho como dentista do SUS.",
+            "sources": [
+              {
+                "id": "src-sm-49",
+                "title": "Dentista do SUS e militante de esquerda: Quem é Samara Martins (UP), candidata à Presidência",
+                "publisher": "Jovem Pan",
+                "url": "https://jovempan.com.br/noticias/dentista-do-sus-e-militante-de-esquerda-quem-e-samara-martins-up-candidata-a-presidencia/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026). Cirurgiã-dentista do SUS, vice-presidente da UP, vinculada à militância antirracista e à direção do Movimento de Mulheres Olga Benário."
+              },
+              {
+                "id": "src-sm-32",
+                "title": "Samara Martins — verbete com tabela de desempenho eleitoral (2020: vereadora de Natal, 515 votos, 0,14%, não eleita; 2022: vice-presidente, 53.519 votos, 0,05%, não eleita)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Samara_Martins",
+                "publishedAt": "2026-09-27",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-50",
+                "title": "Quem é Samara Martins, candidata da UP à Presidência da República",
+                "publisher": "CNN Brasil",
+                "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada (2026). Dentista do SUS, dirigente partidária e militante de movimentos populares; chapa com a sindicalista paraense Raquel Brício."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-sm-13",
+            "kind": "historico",
+            "title": "Montagem da chapa e condução da convenção nacional de 2026",
+            "role": "pré-candidata e dirigente nacional; indicação da vice Raquel Brício",
+            "complexity": "convenção nacional realizada em 26/07/2026, na Universidade Zumbi dos Palmares (SP); chapa 100% feminina",
+            "outcome": "candidatura oficializada com chapa completa e registro validado pelo TSE em 02/09/2026",
+            "period": "2026",
+            "context": "Definição de chapa e realização de convenção por partido de estrutura pequena.",
+            "sources": [
+              {
+                "id": "src-sm-01",
+                "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+                "publisher": "Unidade Popular (site oficial do partido)",
+                "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "partidaria",
+                "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+              },
+              {
+                "id": "src-sm-02",
+                "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Vice na chapa de Leonardo Péricles em 2022."
+              },
+              {
+                "id": "src-sm-24",
+                "title": "UP oficializa candidatura de Samara Martins à presidência com chapa 100% feminina",
+                "publisher": "R7 / Notícias",
+                "url": "https://noticias.r7.com/brasilia/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina-26072026/",
+                "publishedAt": "2026-07-26",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-sm-14",
+            "kind": "historico",
+            "title": "Coordenação de campanha itinerante com militância",
+            "role": "cabeça de chapa",
+            "complexity": "agendas de campanha em capitais de ao menos quatro estados (Fortaleza, Belém, Teresina e Salvador) entre abril e setembro de 2026, com atividade de rua e contato direto com militância",
+            "outcome": "agendas realizadas e campanha mantida sem coligação até a semana anterior ao primeiro turno",
+            "period": "2026",
+            "context": "Campanha de baixo orçamento, apoiada em corpo a corpo e em candidaturas estaduais próprias.",
+            "sources": [
+              {
+                "id": "src-sm-51",
+                "title": "Única mulher pré-candidata à Presidência, Samara Martins cumpre agenda em Fortaleza",
+                "publisher": "O Povo (Vertical)",
+                "url": "https://mais.opovo.com.br/colunistas/vertical/2026/04/02/candidata-a-presidencia-samara-martins-cumpre-agenda-em-fortaleza.html",
+                "publishedAt": "2026-04-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-47",
+                "title": "Samara Martins desembarca em Belém para lançar pré-candidatura à Presidência",
+                "publisher": "Ponto de Pauta (PA)",
+                "url": "https://pontodepauta.com/2026/04/30/samara-martins-desembarca-em-belem-para-lancar-pre-candidatura-a-presidencia/",
+                "publishedAt": "2026-04-30",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Agenda de lançamento da pré-candidatura em Belém, nos dias 2 e 3 de maio de 2026."
+              },
+              {
+                "id": "src-sm-48",
+                "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Salvador",
+                "publisher": "g1 (Globo) — Jornal Nacional",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-salvador.ghtml",
+                "publishedAt": "2026-09-23",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              },
+              {
+                "id": "src-sm-07",
+                "title": "Samara Martins defende que políticos usem o SUS",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+                "publishedAt": "2026-08-24",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -24381,6 +32160,114 @@ export const researched: Partial<Candidate>[] = [
         "publishedAt": "2026-09-21",
         "accessedAt": "2026-09-29",
         "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-sm-49",
+        "title": "Dentista do SUS e militante de esquerda: Quem é Samara Martins (UP), candidata à Presidência",
+        "publisher": "Jovem Pan",
+        "url": "https://jovempan.com.br/noticias/dentista-do-sus-e-militante-de-esquerda-quem-e-samara-martins-up-candidata-a-presidencia/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada (2026). Cirurgiã-dentista do SUS, vice-presidente da UP, vinculada à militância antirracista e à direção do Movimento de Mulheres Olga Benário."
+      },
+      {
+        "id": "src-sm-45",
+        "title": "Campanha presidencial de Samara Martins em 2026",
+        "publisher": "Wikipédia (pt)",
+        "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "editorial",
+        "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+      },
+      {
+        "id": "src-sm-46",
+        "title": "Única mulher na disputa, Samara Martins lança pré-candidatura à Presidência (reunião do Diretório Nacional, 1º de fevereiro)",
+        "publisher": "Agemt — Jornalismo PUC-SP",
+        "url": "https://agemt.pucsp.br/noticias/unica-mulher-na-disputa-samara-martins-lanca-pre-candidatura-presidencia",
+        "publishedAt": "2026-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Mês; dia exato não capturado. Aprovação do nome pelo Diretório Nacional em 01/02/2026."
+      },
+      {
+        "id": "src-sm-51",
+        "title": "Única mulher pré-candidata à Presidência, Samara Martins cumpre agenda em Fortaleza",
+        "publisher": "O Povo (Vertical)",
+        "url": "https://mais.opovo.com.br/colunistas/vertical/2026/04/02/candidata-a-presidencia-samara-martins-cumpre-agenda-em-fortaleza.html",
+        "publishedAt": "2026-04-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-sm-47",
+        "title": "Samara Martins desembarca em Belém para lançar pré-candidatura à Presidência",
+        "publisher": "Ponto de Pauta (PA)",
+        "url": "https://pontodepauta.com/2026/04/30/samara-martins-desembarca-em-belem-para-lancar-pre-candidatura-a-presidencia/",
+        "publishedAt": "2026-04-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Agenda de lançamento da pré-candidatura em Belém, nos dias 2 e 3 de maio de 2026."
+      },
+      {
+        "id": "src-sm-48",
+        "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Salvador",
+        "publisher": "g1 (Globo) — Jornal Nacional",
+        "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-salvador.ghtml",
+        "publishedAt": "2026-09-23",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-sm-50",
+        "title": "Quem é Samara Martins, candidata da UP à Presidência da República",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada (2026). Dentista do SUS, dirigente partidária e militante de movimentos populares; chapa com a sindicalista paraense Raquel Brício."
+      },
+      {
+        "id": "src-sm-41",
+        "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+        "publisher": "Poder360 (espelho do documento da campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+      },
+      {
+        "id": "src-sm-42",
+        "title": "Samara Martins registra candidatura no TSE, mas plano de governo protocolado é o de 2022",
+        "publisher": "Canal MyNews",
+        "url": "https://canalmynews.com.br/eleicoes-2026/samara-martins-candidatura-tse-plano-governo/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Relata o envio da versão de 2022 por falha interna e a versão corrigida de 16 propostas (reajuste de 100% do salário mínimo, fim da escala 6x1, 36 horas, suspensão da dívida pública, nacionalização de bancos e de planos de saúde)."
+      },
+      {
+        "id": "src-sm-43",
+        "title": "Samara Martins leva programa socialista à disputa presidencial",
+        "publisher": "Jornalismo Júnior",
+        "url": "https://jornalismojunior.com.br/samara-martins-leva-programa-socialista-a-disputa-presidencial/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Registra a passagem do documento de ~1,5 página e 16 propostas para a versão final de 67 páginas e cerca de 20 eixos temáticos; aponta três eixos declarados (trabalho, anti-imperialismo, soberania)."
+      },
+      {
+        "id": "src-sm-44",
+        "title": "Plano de governo da UP tem menos de duas páginas e vira piada nas redes sociais",
+        "publisher": "BNews",
+        "url": "https://www.bnews.com.br/noticias/politica/plano-de-governo-da-tem-menos-de-duas-paginas-e-vira-piada-nas-redes-sociais.html",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Lista as 16 propostas do documento registrado (economia, agrário, educação, relações internacionais, mulheres)."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -25326,7 +33213,552 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "O plano 'Brasil em Primeiro Lugar' (governo 2027–2030, 58 páginas, 14 eixos) parte de cinco 'travas' que se sustentam mutuamente — custo de conformidade tributária, tributação da folha de pagamento, crime organizado administrado de dentro do sistema prisional, bases de dados federais em silos e polarização política — e aposta na substituição de tributos federais incidentes sobre folha, faturamento e produção por um Imposto Único Federal cobrado automaticamente sobre movimentações financeiras, com isenção do Imposto de Renda até cinco salários mínimos (R$ 8.105) e fim da contribuição previdenciária patronal. Na carta ao eleitor o candidato afirma que governará 'sobre imposto, emprego, segurança e saúde' e promete painel público de indicadores, instrumento identificado e prazo em cada eixo, além de cronograma para os primeiros 100 dias; o documento declara não citar adversários pelo nome e inclui um eixo de pacto institucional e superação da polarização.",
+      "nationalPriorities": [
+        "Reforma tributária: Imposto Único Federal sobre movimentação financeira em substituição a nove tributos federais sobre folha, faturamento e produção",
+        "Trabalho, emprego e renda: fim da contribuição previdenciária patronal e isenção do IRPF até cinco salários mínimos",
+        "Segurança pública e combate ao crime organizado: isolamento do comando, asfixia financeira, integração de inteligência e fronteiras, com plebiscito sobre o modelo penitenciário",
+        "Saúde Única (humana, animal e ambiental) no SUS, com fila nacional pública de cirurgias e exames eletivos",
+        "Educação e formação: alfabetização na idade certa, rede federal de educação profissional e PEC da Pesquisa",
+        "Infraestrutura, energia e meio ambiente: Brasil nos Trilhos, hidrovias e cabotagem, metas do marco do saneamento e rastreabilidade bovina",
+        "Estado digital, desburocratização e transparência (Método D35, integração de bases de dados e painel de indicadores)"
+      ],
+      "developmentModel": "Modelo declarado no Método D35 (desburocratizar, desonerar, digitalizar, democratizar, desenvolver): 'crescer reduzindo atrito, não expandindo gasto', deslocando o peso tributário do trabalho e da produção para uma base ampla e difícil de sonegar — a movimentação financeira, com arrecadação automática dentro do sistema bancário e sem declaração do contribuinte; ICMS e ISS ficam fora por pertencerem a estados e municípios. Papel atribuído ao Estado: licenciar rápido, garantir estabilidade regulatória, reduzir obrigações acessórias, integrar bases de dados federais e publicar indicadores verificáveis; o plano declara não apresentar valores orçamentários medida a medida e evitar prometer o que a Presidência não decide sozinha (reforma tributária por emenda constitucional; segurança compartilhada com estados; ensino fundamental municipal). Setor privado: execução em infraestrutura pelo regime de autorização ferroviária, com priorização por custo logístico por tonelada publicado por corredor, integração ferrovia-porto, hidrovia e cabotagem. Defesa: apoio à PEC 55/2023, com piso gradual de 2% do PIB e no mínimo 35% do valor vinculado à modernização, e recomposição de soldos concentrada na base da pirâmide. Tecnologia e educação: PEC da Pesquisa para transformar bolsistas em servidores públicos concursados; repasses federais à alfabetização condicionados a resultados em avaliações externas. Meio ambiente e questão indígena: cobrança das metas do marco legal do saneamento, prazos com responsáveis nomeados no licenciamento ambiental e projeto de lei regulamentando mineração em terra indígena com consulta prévia, participação econômica direta e proibição do uso de mercúrio. Trabalho e desigualdade aparecem nos eixos de emprego e renda (desoneração da contratação formal e cursos condicionados à demanda de contratação regional) e de habitação (portabilidade do aluguel para financiamento e titulação em massa).",
+      "sources": [
+        {
+          "id": "src-wg-70",
+          "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+          "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+        },
+        {
+          "id": "src-wg-71",
+          "title": "Veterinário cria rede de treze clínicas e plano de saúde para pets",
+          "publisher": "Veja São Paulo",
+          "url": "https://vejasp.abril.com.br/coluna/bichos/wilson-grassi-clinicas-veterinarias/",
+          "publishedAt": "2018-10-12",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Rede de treze clínicas (nove na capital paulista), primeira aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes, a R$ 70 por mês, aceito em toda a rede; nova unidade aberta no Pacaembu em 10/10/2018."
+        },
+        {
+          "id": "src-wg-72",
+          "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+          "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+          "url": "https://hospitalveterinariopublico.com.br/",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "methodology": "Extraído do plano registrado no TSE — 'Brasil em Primeiro Lugar — Plano de Governo 2027–2030', 58 páginas, com carta ao eleitor assinada por Wilson Grassi e Suêd Haidar, diagnóstico das cinco travas, 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência —, conferido com a cobertura da Agência Brasil (20/09/2026) e com a cópia do PDF publicada pelo Poder360. Diferentemente dos demais documentos deste grupo, é um plano de governo redigido para o mandato, com instrumento jurídico, forma de medição e prazo declarados por eixo, embora seja o documento do partido Democrata, legenda presidida pela candidata a vice. O bloco está marcado como 'confirmado' por se tratar do documento do próprio candidato, lido diretamente na fonte; a confiança é 'medium' porque não há registro de implementação (nunca exerceu cargo executivo) e porque o próprio candidato declarou, em entrevista à Folha de S.Paulo reproduzida pelo Poder360 em 29/08/2026, que há propostas que pretende implementar e que não constam do programa. O plano não apresenta valores orçamentários por medida.",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Atividade empresarial e associativa: rede de 13 clínicas veterinárias (nove na capital paulista) com plano de saúde próprio, construída desde 1997, e participação como conselheiro da Anclivepa-SP na criação do primeiro hospital público para cães e gatos do Brasil (2015). Em 2026 registrou plano de governo estruturado (método D35, eixos numerados até 14, primeiros cem dias e painel de indicadores) e campanha autofinanciada com R$ 850.150,00 de receita. Sem cargo executivo estatal.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-wg-01",
+            "kind": "historico",
+            "title": "Construção e operação de rede de 13 clínicas veterinárias com plano de saúde próprio",
+            "role": "fundador e proprietário da rede (médico-veterinário e empresário)",
+            "complexity": "rede de 13 clínicas (nove na capital paulista), primeira unidade aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes de 2018, a R$ 70 por mês, aceito em toda a rede",
+            "outcome": "rede em operação em 2018, com nova unidade aberta no Pacaembu em 10/10/2018; também descrito como sócio-proprietário de hospitais veterinários no país",
+            "period": "1997–2018",
+            "context": "operação privada, sem vínculo com cargo público; as fontes não informam número de empregados, faturamento ou número de animais atendidos",
+            "sources": [
+              {
+                "id": "src-wg-71",
+                "title": "Veterinário cria rede de treze clínicas e plano de saúde para pets",
+                "publisher": "Veja São Paulo",
+                "url": "https://vejasp.abril.com.br/coluna/bichos/wilson-grassi-clinicas-veterinarias/",
+                "publishedAt": "2018-10-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Rede de treze clínicas (nove na capital paulista), primeira aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes, a R$ 70 por mês, aceito em toda a rede; nova unidade aberta no Pacaembu em 10/10/2018."
+              },
+              {
+                "id": "src-wg-03",
+                "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+              },
+              {
+                "id": "src-wg-19",
+                "title": "Candidatos a presidente 2026: quem são, partidos",
+                "publisher": "Escola Educação (Brasil Escola)",
+                "url": "https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sobre Wilson Grassi: 'Nascido em São Paulo e é médico veterinário por formação. É sócio-proprietário de diversos hospitais veterinários pelo Brasil. Candidatou-se em 2006 como deputado estadual por São Paulo, em 2022 como deputado federal por São Paulo e em 2024 como vereador de São Paulo, mas não foi eleito em nenhuma das candidaturas.'"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-wg-02",
+            "kind": "historico",
+            "title": "Participação na criação do primeiro hospital público para cães e gatos do Brasil (São Paulo, 2015)",
+            "role": "conselheiro da Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — seção São Paulo), atuando na interlocução do projeto",
+            "complexity": "projeto discutido desde 2012 e efetivado em 2015 no Tatuapé, com atendimento a animais de famílias de baixa renda e formação de veterinários",
+            "outcome": "hospital público veterinário criado em 2015 e em operação; a entidade mantém rede de hospitais veterinários públicos com unidades municipais e estaduais",
+            "period": "2012–2015 (hospital em operação até 2026)",
+            "context": "a criação do serviço envolveu a entidade profissional e o poder público municipal; as fontes não detalham a divisão de atribuições no projeto",
+            "sources": [
+              {
+                "id": "src-wg-07",
+                "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+                "publisher": "GZH (Grupo Cultural de Comunicação)",
+                "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+                "publishedAt": "2026-08-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+              },
+              {
+                "id": "src-wg-72",
+                "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+                "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+                "url": "https://hospitalveterinariopublico.com.br/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "transparencia",
+                "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+              },
+              {
+                "id": "src-wg-03",
+                "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-wg-03",
+            "kind": "historico",
+            "title": "Campanha presidencial de 2026 estruturada com recursos próprios",
+            "role": "candidato à Presidência pelo Democrata e principal financiador da própria campanha",
+            "complexity": "receita de R$ 850.150,00 (R$ 850.000,00 de recursos próprios do candidato e R$ 150,00 de pessoa física) e R$ 890.399,66 de gasto contratado com 12 fornecedores, incluindo R$ 365.000,00 em impulsionamento de conteúdo",
+            "outcome": "registro deferido em 12/08/2026; prestação de contas parcial entregue ao TSE com gasto contratado de 1,0% do limite legal",
+            "period": "2026",
+            "context": "campanha de partido sem bancada no Congresso e, segundo as fontes, sem direito a horário eleitoral gratuito",
+            "sources": [
+              {
+                "id": "src-wg-02",
+                "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+              },
+              {
+                "id": "src-wg-01",
+                "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+                "publisher": "Folha de S.Paulo (dados: TSE)",
+                "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+              },
+              {
+                "id": "src-wg-10",
+                "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-wg-04",
+            "kind": "historico",
+            "title": "Plano de governo registrado no TSE com método de gestão e painel de indicadores",
+            "role": "candidato (plano apresentado pelo partido Democrata)",
+            "complexity": "documento organizado em três partes (diagnóstico, eixos de governo e governança), com eixos numerados até o eixo 14, método 'D35', seção de primeiros cem dias, painel de indicadores e compromissos de transparência",
+            "outcome": "plano protocolado no TSE (documento DivulgaCandContas 280017075366) e publicado em espelho de imprensa",
+            "period": "2026",
+            "context": "plano de campanha de partido sem bancada no Congresso; a execução depende de aprovação legislativa, não detalhada por instrumento em todos os eixos",
+            "sources": [
+              {
+                "id": "src-wg-74",
+                "title": "Partido Democrata — Brasil em Primeiro Lugar — Plano de Governo 2027–2030",
+                "publisher": "Partido Democrata / Poder360",
+                "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf",
+                "publishedAt": "2026-08",
+                "accessedAt": "2026-09-29",
+                "sourceType": "plano_de_governo",
+                "notes": "Plano registrado no TSE (DivulgaCandContas, documento 280017075366; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026). Organizado em três partes: diagnóstico, eixos de governo e governança (primeiros cem dias, painel de indicadores e compromissos de transparência); eixos numerados até o eixo 14 e método 'D35'."
+              },
+              {
+                "id": "src-wg-07",
+                "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+                "publisher": "GZH (Grupo Cultural de Comunicação)",
+                "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+                "publishedAt": "2026-08-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+              },
+              {
+                "id": "src-wg-03",
+                "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "Interlocução com o poder público na área veterinária como conselheiro da Anclivepa-SP (hospital público municipal, 2012–2015), composição da chapa presidencial com a presidente nacional do partido como vice (02/08/2026) e atuação institucional junto à Justiça Eleitoral após a suspensão de oito perfis de campanha, restabelecidos em 02/09/2026. O partido disputa isolado, sem bancada no Congresso e sem coligação registrada.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-wg-05",
+            "kind": "historico",
+            "title": "Interlocução com o poder público municipal na criação do hospital veterinário público",
+            "role": "conselheiro da Anclivepa-SP, na interlocução do projeto com o município",
+            "complexity": "negociação de projeto de política pública de saúde animal entre entidade profissional e Prefeitura, com discussões desde 2012",
+            "outcome": "hospital público veterinário criado em 2015; a entidade passou a operar unidades públicas municipais e estaduais",
+            "period": "2012–2015",
+            "context": "a atuação foi como dirigente de entidade profissional, não como agente público; o site institucional da entidade não nomeia o candidato",
+            "sources": [
+              {
+                "id": "src-wg-07",
+                "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+                "publisher": "GZH (Grupo Cultural de Comunicação)",
+                "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+                "publishedAt": "2026-08-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+              },
+              {
+                "id": "src-wg-72",
+                "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+                "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+                "url": "https://hospitalveterinariopublico.com.br/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "transparencia",
+                "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+              },
+              {
+                "id": "src-wg-03",
+                "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-wg-06",
+            "kind": "historico",
+            "title": "Composição da chapa presidencial com a presidente nacional do partido como vice",
+            "role": "candidato a presidente, com a chapa homologada em convenção nacional do Democrata no Rio de Janeiro",
+            "complexity": "vice: Suêd Haidar, fundadora e presidente nacional do partido (2015–2026); primeira chapa presidencial da história da legenda, fundada em 2008 como Partido da Mulher Brasileira e renomeada Democrata em dezembro de 2025",
+            "outcome": "chapa oficializada em 02/08/2026 e registrada em 12/08/2026, com registro deferido",
+            "period": "2026",
+            "context": "partido isolado, sem coligação ou federação registrada nas fontes consultadas",
+            "sources": [
+              {
+                "id": "src-wg-73",
+                "title": "Democrata define Wilson Grassi Júnior candidato à Presidência",
+                "publisher": "Agência Brasil (EBC)",
+                "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-define-wilson-grassi-junior-candidato-presidencia",
+                "publishedAt": "2026-08-02",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "A convenção do partido Democrata, em 02/08/2026, oficializou a chapa Wilson Grassi (presidente) e Suêd Haidar (vice), presidente nacional e fundadora do partido."
+              },
+              {
+                "id": "src-wg-04",
+                "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+              },
+              {
+                "id": "src-wg-05",
+                "title": "Eleição presidencial no Brasil em 2026 (Wikipédia: chapa do Democrata, vice, horário eleitoral)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Infobox: '35 Veterinário Wilson Grassi (DEMOCRATA) — Sem cargo político anterior; vice Suêd Haidar, Democrata, presidente nacional do Democrata (2015–2026); partido isolado; sem direito ao horário eleitoral'. Em 02/08/2026 a convenção nacional do Democrata oficializou a candidatura."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-wg-07",
+            "kind": "historico",
+            "title": "Atuação institucional após a suspensão de perfis de campanha: defesa e restabelecimento por decisão do TSE",
+            "role": "candidato (campanha representada por advogados junto à Justiça Eleitoral)",
+            "complexity": "decisão do ministro Dias Toffoli suspendeu 8 perfis de redes sociais em 30/08/2026 por omissão na comunicação dos perfis; a defesa sustentou boa-fé e o Ministério Público Eleitoral já reunia mais de 360 páginas de relatórios; ordem de restabelecimento em até 2 horas pelas plataformas",
+            "outcome": "propaganda digital, participação em debates e repasses do FEFC liberados em 02/09/2026",
+            "period": "2026-08 a 2026-09",
+            "context": "medida cautelar aplicada também ao candidato Renan Santos (Missão); a candidatura permaneceu deferida",
+            "sources": [
+              {
+                "id": "src-wg-08",
+                "title": "Toffoli libera campanha digital e repasses a Wilson Grassi",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-libera-campanha-digital-e-repasses-a-wilson-grassi/",
+                "publishedAt": "2026-09-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Artigo de Vinicius Macia (03/09/2026): na quarta-feira (02/09), Toffoli liberou propaganda digital, participação em debates e repasses do Fundo Especial de Financiamento de Campanha (FEFC) à campanha de Wilson Grassi — as big techs tiveram 2 horas para restabelecer as contas. No domingo (30/08), Toffoli havia suspendido 8 perfis informados apenas 17 dias após o registro (só podiam ser usados 48h após a comunicação; um perfil tinha 156 mil seguidores e não foi informado); os advogados protocolaram a lista de redes sociais na sexta (28/08); a decisão inicial qualificou a omissão como 'indício de fraude à lei' — 'Não é possível tolerar a omissão de perfis de rede social em campanha eleitoral'; a mesma medida foi aplicada a Renan Santos (Missão); a defesa sustentou boa-fé; Toffoli soltou as contas logo depois, pois o PLRPF já havia coletado os relatórios (mais de 360 páginas)."
+              },
+              {
+                "id": "src-wg-09",
+                "title": "Toffoli suspende campanha presidencial de Wilson Grassi, do Democrata",
+                "publisher": "Congresso em Foco",
+                "url": "https://www.congressoemfoco.com.br/noticia/121821/toffoli-suspende-campanha-presidencial-de-wilson-grassi-do-democrata",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Cobertura da suspensão da campanha digital de Wilson Grassi por decisão do ministro Dias Toffoli no TSE (final de agosto de 2026). Data exata de publicação não capturada; localizado via busca em 29/09/2026."
+              },
+              {
+                "id": "src-wg-06",
+                "title": "Pesquisas de opinião para a eleição presidencial no Brasil em 2026 (Wikipédia: linha do tempo)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Linha do tempo: '1 e 2 Set — Os candidatos Renan Santos (Missão) e Wilson Grassi (Democrata) têm suas campanhas digitais reestabelecidas por ordem de Dias Toffoli, ministro do Tribunal Superior Eleitoral'; '2 Ago — Democrata oficializa a candidatura de Wilson Grassi à presidência'."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-wg-08",
+            "kind": "historico",
+            "title": "Projeto Ambientalistas e ações de saúde animal em diferentes estados",
+            "role": "veterinário, criador do projeto Ambientalistas; participante de campanha nacional contra a cinomose e de projeto veterinário na Amazônia",
+            "complexity": "ações em municípios de diferentes estados (campanha contra a cinomose, 2013) e projeto de atendimento veterinário na Amazônia (2014), além de frente de meio ambiente e causa animal",
+            "outcome": "atividades registradas em perfil de imprensa e verbete; as fontes não detalham número de municípios, parceiros, duração ou resultados medidos",
+            "period": "2013–2014",
+            "context": "evidência de articulação em rede nacional de municípios; sem dados quantitativos disponíveis nas fontes consultadas",
+            "sources": [
+              {
+                "id": "src-wg-07",
+                "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+                "publisher": "GZH (Grupo Cultural de Comunicação)",
+                "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+                "publishedAt": "2026-08-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+              },
+              {
+                "id": "src-wg-03",
+                "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "low"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Direção de estruturas próprias: montagem e gestão de rede de 13 clínicas com plano de saúde veterinário próprio desde 1997, atuação em conselho de entidade profissional que mantém hospitais públicos veterinários e coordenação da campanha presidencial de 2026 com 12 fornecedores especializados. As fontes não informam quantas pessoas emprega, quantos profissionais integram as equipes clínicas ou a estrutura interna da campanha.",
+        "coverage": "parcial",
+        "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+        "evidences": [
+          {
+            "id": "ev-cap-wg-09",
+            "kind": "historico",
+            "title": "Montagem e gestão de rede de clínicas com equipe clínica e plano de saúde próprio",
+            "role": "fundador e gestor da rede de clínicas veterinárias",
+            "complexity": "13 unidades (nove na capital paulista) com plano de saúde veterinário próprio aceito em toda a rede; operação iniciada em 1997 e ampliada até 2018",
+            "outcome": "rede em operação, com abertura de nova unidade no Pacaembu em 10/10/2018",
+            "period": "1997–2018",
+            "context": "as fontes não informam número de empregados, de veterinários contratados ou de equipes por unidade",
+            "sources": [
+              {
+                "id": "src-wg-71",
+                "title": "Veterinário cria rede de treze clínicas e plano de saúde para pets",
+                "publisher": "Veja São Paulo",
+                "url": "https://vejasp.abril.com.br/coluna/bichos/wilson-grassi-clinicas-veterinarias/",
+                "publishedAt": "2018-10-12",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Rede de treze clínicas (nove na capital paulista), primeira aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes, a R$ 70 por mês, aceito em toda a rede; nova unidade aberta no Pacaembu em 10/10/2018."
+              },
+              {
+                "id": "src-wg-03",
+                "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+              },
+              {
+                "id": "src-wg-19",
+                "title": "Candidatos a presidente 2026: quem são, partidos",
+                "publisher": "Escola Educação (Brasil Escola)",
+                "url": "https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Sobre Wilson Grassi: 'Nascido em São Paulo e é médico veterinário por formação. É sócio-proprietário de diversos hospitais veterinários pelo Brasil. Candidatou-se em 2006 como deputado estadual por São Paulo, em 2022 como deputado federal por São Paulo e em 2024 como vereador de São Paulo, mas não foi eleito em nenhuma das candidaturas.'"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-wg-10",
+            "kind": "historico",
+            "title": "Atuação em conselho de entidade profissional (Anclivepa-SP)",
+            "role": "conselheiro da Anclivepa-SP (entidade que reúne clínicos de pequenos animais do estado de São Paulo)",
+            "complexity": "entidade com conselho e diretoria, estatuto, regulamento de compras, política de compliance e rede de hospitais veterinários públicos em vários estados",
+            "outcome": "participação na criação do hospital público veterinário (2015) e permanência da entidade na operação de unidades públicas",
+            "period": "2012–2015 (e atuação associativa posterior)",
+            "context": "as atas de conselho e diretoria publicadas pela entidade não nomeiam o candidato nas fontes consultadas; a atribuição consta de perfil de imprensa e verbete",
+            "sources": [
+              {
+                "id": "src-wg-72",
+                "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+                "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+                "url": "https://hospitalveterinariopublico.com.br/",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "transparencia",
+                "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+              },
+              {
+                "id": "src-wg-07",
+                "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+                "publisher": "GZH (Grupo Cultural de Comunicação)",
+                "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+                "publishedAt": "2026-08-19",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+              },
+              {
+                "id": "src-wg-03",
+                "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-wg-11",
+            "kind": "historico",
+            "title": "Coordenação de campanha presidencial com contratação de equipes especializadas",
+            "role": "candidato responsável pela coordenação da campanha",
+            "complexity": "contratação de 12 fornecedores (R$ 890.399,66), entre consultoria e assessoramento (R$ 450.000,00), intermediação de pagamentos (R$ 250.000,00), plataforma de impulsionamento (R$ 115.000,00) e advocacia (R$ 54.000,00)",
+            "outcome": "campanha mantida após o restabelecimento judicial dos perfis e dos repasses do FEFC em 02/09/2026",
+            "period": "2026",
+            "context": "não há dados públicos sobre o número de pessoas contratadas diretamente nem sobre a estrutura interna da campanha",
+            "sources": [
+              {
+                "id": "src-wg-02",
+                "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+                "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+                "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "oficial_eleitoral",
+                "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+              },
+              {
+                "id": "src-wg-08",
+                "title": "Toffoli libera campanha digital e repasses a Wilson Grassi",
+                "publisher": "Gazeta do Povo",
+                "url": "https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-libera-campanha-digital-e-repasses-a-wilson-grassi/",
+                "publishedAt": "2026-09-03",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Artigo de Vinicius Macia (03/09/2026): na quarta-feira (02/09), Toffoli liberou propaganda digital, participação em debates e repasses do Fundo Especial de Financiamento de Campanha (FEFC) à campanha de Wilson Grassi — as big techs tiveram 2 horas para restabelecer as contas. No domingo (30/08), Toffoli havia suspendido 8 perfis informados apenas 17 dias após o registro (só podiam ser usados 48h após a comunicação; um perfil tinha 156 mil seguidores e não foi informado); os advogados protocolaram a lista de redes sociais na sexta (28/08); a decisão inicial qualificou a omissão como 'indício de fraude à lei' — 'Não é possível tolerar a omissão de perfis de rede social em campanha eleitoral'; a mesma medida foi aplicada a Renan Santos (Missão); a defesa sustentou boa-fé; Toffoli soltou as contas logo depois, pois o PLRPF já havia coletado os relatórios (mais de 360 páginas)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "medium"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -26589,6 +35021,56 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "plano_de_governo",
         "notes": "Captura integral do índice em 29/09/2026 (5.490 caracteres de conteúdo): 44 itens com título e páginas do PDF — Economia/Trabalho/Fiscal (8), Saúde/Assistência (6), Segurança/Justiça (5), Educação/Ciência/Meio Ambiente (4), Política Externa/Inserção Global (7), Direitos Humanos/Equidade (5), Questão Agrária/Propriedade/Cidade (4), Governança/Transparência/Reformas (5)."
+      },
+      {
+        "id": "src-wg-71",
+        "title": "Veterinário cria rede de treze clínicas e plano de saúde para pets",
+        "publisher": "Veja São Paulo",
+        "url": "https://vejasp.abril.com.br/coluna/bichos/wilson-grassi-clinicas-veterinarias/",
+        "publishedAt": "2018-10-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Rede de treze clínicas (nove na capital paulista), primeira aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes, a R$ 70 por mês, aceito em toda a rede; nova unidade aberta no Pacaembu em 10/10/2018."
+      },
+      {
+        "id": "src-wg-72",
+        "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+        "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+        "url": "https://hospitalveterinariopublico.com.br/",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "transparencia",
+        "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+      },
+      {
+        "id": "src-wg-74",
+        "title": "Partido Democrata — Brasil em Primeiro Lugar — Plano de Governo 2027–2030",
+        "publisher": "Partido Democrata / Poder360",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Plano registrado no TSE (DivulgaCandContas, documento 280017075366; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026). Organizado em três partes: diagnóstico, eixos de governo e governança (primeiros cem dias, painel de indicadores e compromissos de transparência); eixos numerados até o eixo 14 e método 'D35'."
+      },
+      {
+        "id": "src-wg-73",
+        "title": "Democrata define Wilson Grassi Júnior candidato à Presidência",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-define-wilson-grassi-junior-candidato-presidencia",
+        "publishedAt": "2026-08-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "A convenção do partido Democrata, em 02/08/2026, oficializou a chapa Wilson Grassi (presidente) e Suêd Haidar (vice), presidente nacional e fundadora do partido."
+      },
+      {
+        "id": "src-wg-70",
+        "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+        "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -27886,7 +36368,622 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
-    "capacities": [],
+    "countryProject": {
+      "vision": "A carta de abertura compara o Brasil de hoje a Minas Gerais em 2018 e afirma: 'Não somos um país fracassado. Somos um país roubado', propondo cortar privilégios, 'respeitar o dinheiro de quem trabalha' e restabelecer o cumprimento das leis. O Plano Implacável organiza 20 áreas e se apresenta como 'propostas concretas para os maiores problemas do país', com foco declarado em segurança, finanças públicas, desenvolvimento econômico, reforma do Judiciário e reforma institucional. O documento não apresenta capítulo com horizonte explícito de 10 a 20 anos nem metas quantificadas de longo prazo.",
+      "nationalPriorities": [
+        "Segurança pública: recuperar territórios dominados, classificar facções como organizações terroristas e endurecer penas",
+        "Finanças públicas: 'choque fiscal' para estabilizar a dívida e derrubar a taxa de juros",
+        "Desenvolvimento econômico: reduzir o 'Custo Brasil', simplificar impostos e abrir o país ao mundo",
+        "Combate à corrupção e aos privilégios",
+        "Reforma do Judiciário e dos órgãos de controle (corregedoria independente, mudanças de foro e critérios para tribunais superiores)",
+        "Infraestrutura e saneamento",
+        "Educação básica e educação superior, ciência e tecnologia"
+      ],
+      "developmentModel": "O plano atribui ao Estado o papel de regulação e fiscalização e propõe que ele deixe de participar diretamente de atividades produtivas e comerciais, com privatização de todas as empresas estatais, uso de PPPs e concessões e criação de alternativa ao Fundo Eleitoral e ao Fundo Partidário. O crescimento é associado à queda dos juros via choque fiscal, à simplificação de impostos, à segurança jurídica e à infraestrutura, com atração de investimento em data centers, inteligência artificial, energia limpa e minerais críticos (terras raras, nióbio e lítio), aproveitando a matriz elétrica com 88% de fontes renováveis e a posição declarada de neutralidade na disputa entre Estados Unidos e China. No mercado de trabalho, propõe regime de contratação alternativo à CLT, com 'prevalência do negociado sobre o legislado', buscando um sistema que 'combine liberdade econômica, proteção social e mais oportunidades'. O desenvolvimento social inclui o depósito de R$ 1.000 ao nascer ('Sócios do Brasil'), condicionamento do Bolsa Família à aceitação de ofertas formais para adultos aptos ao trabalho e uma nova reforma da Previdência com gatilho automático de idade mínima e desvinculação do salário mínimo. Meio ambiente aparece como área própria (agronegócio e meio ambiente em capítulos separados) e a política externa inclui saída do BRICS, ingresso na OCDE e Mercosul como zona de livre comércio.",
+      "sources": [
+        {
+          "id": "src-zema-12",
+          "title": "Plano de governo Zema 2026 — PDF",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Mês inferido da URL."
+        },
+        {
+          "id": "src-zema-09",
+          "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-zema-11",
+          "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+          "publisher": "Congresso em Foco",
+          "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Data exata não capturada."
+        },
+        {
+          "id": "src-zema-14",
+          "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)",
+          "publisher": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Data exata não capturada; composição dos bens."
+        },
+        {
+          "id": "src-zema-15",
+          "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+          "publisher": "Correio do Povo",
+          "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+          "publishedAt": "2026-08-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-zema-80",
+          "title": "Entenda o Acordo Judicial de Reparação ao rompimento da barragem em Brumadinho (assinado em 04/02/2021)",
+          "publisher": "Governo de Minas Gerais — Programa Pró-Brumadinho (mg.gov.br)",
+          "url": "https://www.mg.gov.br/pro-brumadinho/pagina/entenda-o-acordo-judicial-de-reparacao-ao-rompimento-de-brumadinho",
+          "publishedAt": "2021-02-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual",
+          "notes": "Acordo assinado pelo Governo de Minas, MPMG, MPF e DPMG com a Vale S.A., sob mediação do Tribunal de Justiça."
+        },
+        {
+          "id": "src-zema-81",
+          "title": "Vale assina acordo para pagar R$ 37,68 bilhões de reparação por Brumadinho",
+          "publisher": "O Tempo",
+          "url": "https://www.otempo.com.br/cidades/vale-assina-acordo-para-pagar-r-37-68-bilhoes-de-reparacao-por-brumadinho-1.2443353",
+          "publishedAt": "2021-02-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": ""
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "methodology": "Lido do PDF do Plano Implacável (carta de abertura e sumário de 20 áreas). As 7 prioridades correspondem a títulos de capítulos do próprio plano, sem prioridades inferidas. Para posições atuais de campanha foram usadas as sabatinas do Jornal Nacional e a cobertura de imprensa de agosto de 2026 (reposição da inflação no salário mínimo; ajuste fiscal com meta citada de Selic a 6% ao ano, sem detalhamento do ajuste). O documento não traz custo nem prazo para a maior parte das propostas nem horizonte explícito de 10 a 20 anos.",
+      "updatedAt": "2026-09-29"
+    },
+    "capacities": [
+      {
+        "slug": "execucao",
+        "name": "Capacidade de execução",
+        "question": "Consegue transformar prioridades em entregas concretas?",
+        "synthesis": "Reformas estruturais foram aprovadas na ALMG e sancionadas: reforma da previdência estadual (LC 156/2020, com idade mínima de 65 anos para homens e 62 para mulheres) e reforma administrativa (Lei 23.304/2019, sancionada com nove vetos parciais). Esteve à frente da assinatura do acordo judicial de reparação de Brumadinho com a Vale, em 04/02/2021, de R$ 37,68 bi, e da saída do Regime de Recuperação Fiscal para o Propag, com contrato de adesão assinado em 31/12/2025. O orçamento de 2026 foi sancionado com déficit projetado de R$ 5,2 bi — 39% abaixo do déficit de 2025.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-zema-01",
+            "kind": "historico",
+            "title": "Reforma da previdência estadual aprovada na ALMG (LC 156/2020)",
+            "role": "Governador de Minas Gerais — propositor do PLC 46/2020 e do projeto de emenda constitucional correspondente",
+            "complexity": "Regime próprio de previdência dos servidores civis do Estado; idade mínima de 65 anos (homens) e 62 (mulheres); alíquotas de desconto alteradas; votação concluída no Plenário da ALMG em 04/09/2020",
+            "outcome": "Lei Complementar 156/2020 sancionada e publicada no Diário Oficial de 23/09/2020",
+            "period": "2020",
+            "context": "Proposta original alterada pela Assembleia; a articulação do governo na Casa foi reorganizada com troca de titulares de Secretaria de Governo e Secretaria-Geral e do líder de governo.",
+            "sources": [
+              {
+                "id": "src-zema-78",
+                "title": "Com aprovação de PLC, Assembleia conclui votação da reforma da previdência (PLC 46/2020)",
+                "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+                "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/09/04_plenario_aprovacao_plc46_reforma.html",
+                "publishedAt": "2020-09-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": ""
+              },
+              {
+                "id": "src-zema-79",
+                "title": "Governador Romeu Zema sanciona projeto de reforma da Previdência em Minas Gerais (LC 156/2020)",
+                "publisher": "g1 — Globo (MG)",
+                "url": "https://g1.globo.com/mg/minas-gerais/noticia/2020/09/22/governador-romeu-zema-sanciona-projeto-de-reforma-da-previdencia-em-minas-gerais.ghtml",
+                "publishedAt": "2020-09-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lei Complementar 156/2020 publicada no Diário Oficial de 23/09/2020."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-02",
+            "kind": "historico",
+            "title": "Acordo judicial de reparação de Brumadinho com a Vale (R$ 37,68 bi)",
+            "role": "Governador de Minas Gerais — signatário pelo Estado do acordo de reparação",
+            "complexity": "Acordo assinado em 04/02/2021 por Governo de Minas, MPMG, MPF e DPMG com a Vale S.A., sob mediação do Tribunal de Justiça; R$ 37,68 bi destinados a reparação e infraestrutura na bacia do Rio Paraopeba",
+            "outcome": "Assinatura formalizada em 04/02/2021; o acordo foi criticado pelo Movimento dos Atingidos por Barragens quanto ao valor e ao desenho, conforme a fonte",
+            "period": "2021",
+            "context": "Tragédia de Brumadinho (25/01/2019) ocorreu no início do mandato; o acordo encerrou a fase de negociação sobre a reparação socioeconômica e ambiental.",
+            "sources": [
+              {
+                "id": "src-zema-80",
+                "title": "Entenda o Acordo Judicial de Reparação ao rompimento da barragem em Brumadinho (assinado em 04/02/2021)",
+                "publisher": "Governo de Minas Gerais — Programa Pró-Brumadinho (mg.gov.br)",
+                "url": "https://www.mg.gov.br/pro-brumadinho/pagina/entenda-o-acordo-judicial-de-reparacao-ao-rompimento-de-brumadinho",
+                "publishedAt": "2021-02-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Acordo assinado pelo Governo de Minas, MPMG, MPF e DPMG com a Vale S.A., sob mediação do Tribunal de Justiça."
+              },
+              {
+                "id": "src-zema-81",
+                "title": "Vale assina acordo para pagar R$ 37,68 bilhões de reparação por Brumadinho",
+                "publisher": "O Tempo",
+                "url": "https://www.otempo.com.br/cidades/vale-assina-acordo-para-pagar-r-37-68-bilhoes-de-reparacao-por-brumadinho-1.2443353",
+                "publishedAt": "2021-02-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": ""
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-03",
+            "kind": "historico",
+            "title": "Saída do Regime de Recuperação Fiscal e adesão de MG ao Propag",
+            "role": "Governador de Minas Gerais — conduziu a adesão ao Propag e a sanção da lei estadual autorizativa",
+            "complexity": "Dívida do Estado com a União na ordem de R$ 160 bi refinanciada; adesão com repasse de R$ 35,8 bi em ativos e redução de juros, conforme o contrato; Lei estadual 25.282/2025 sancionada em 05/06/2025",
+            "outcome": "Saída do RRF publicada por decreto federal em 22/12/2025 e contrato de adesão ao Propag assinado em 31/12/2025, com autorização do Ministério da Fazenda",
+            "period": "2025",
+            "context": "Trajetória que inclui homologação do plano de recuperação fiscal em jan/2025 e disputa judicial sobre contrapartidas antes da migração para o Propag.",
+            "sources": [
+              {
+                "id": "src-zema-74",
+                "title": "Minas Gerais sai do Regime de Recuperação Fiscal e pode aderir ao Propag (decreto de Lula publicado em 22/12/2025)",
+                "publisher": "O Tempo",
+                "url": "https://www.otempo.com.br/politica/2025/12/22/minas-gerais-esta-fora-do-regime-de-recuperacao-fiscal-e-pode-aderir-ao-propag-entenda-a-mudanca",
+                "publishedAt": "2025-12-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": ""
+              },
+              {
+                "id": "src-zema-75",
+                "title": "Repasse de R$ 35,8 bi em ativos e redução de juros: o que diz o contrato de adesão de Minas ao Propag",
+                "publisher": "O Fator",
+                "url": "https://ofator.com.br/informacao/repasse-de-r-358-bi-em-ativos-e-reducao-de-juros-o-que-diz-o-contrato-de-adesao-de-minas-ao-propag/",
+                "publishedAt": "2025-12-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contrato de adesão assinado após autorização do Ministério da Fazenda."
+              },
+              {
+                "id": "src-zema-76",
+                "title": "Governo de Minas Gerais sanciona lei de adesão ao Propag (Lei 25.282/2025)",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/brasil/noticia/2025/06/05/governo-de-minas-gerais-sanciona-lei-de-adeso-ao-propag.ghtml",
+                "publishedAt": "2025-06-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lei autoriza o Estado a sair do RRF e aderir ao Propag; aprovada na ALMG na mesma semana."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-04",
+            "kind": "historico",
+            "title": "Orçamento de 2026 sancionado com déficit projetado 39% menor",
+            "role": "Governador de Minas Gerais — autor do PL 4.527/25 e responsável pela sanção com veto parcial",
+            "complexity": "Despesa fixada em R$ 146,97 bi (Lei 25.698/2026); déficit projetado de R$ 5,2 bi contra R$ 8,6 bi previstos para 2025; apreciação na ALMG com receita de R$ 127,1 bi e despesa de R$ 132,3 bi",
+            "outcome": "Projeto aprovado na ALMG em 10/12/2025 e sancionado com veto parcial em 15/01/2026",
+            "period": "2025–2026",
+            "context": "Último orçamento sancionado na gestão antes da renúncia em 22/03/2026; a sanção barrou dispositivo sobre fundo habitacional militar.",
+            "sources": [
+              {
+                "id": "src-zema-05",
+                "title": "Lei nº 25.698, de 14/01/2026 (orçamento de MG 2026)",
+                "publisher": "ALMG",
+                "url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25698/2026/",
+                "publishedAt": "2026-01-14",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Valores exatos de receita/despesa; sanção assinada por Romeu Zema Neto. Divergência de número da lei com a notícia da ALMG (25.689/2026)."
+              },
+              {
+                "id": "src-zema-06",
+                "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)",
+                "publisher": "ALMG",
+                "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/",
+                "publishedAt": "2025-12-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual"
+              },
+              {
+                "id": "src-zema-07",
+                "title": "Orçamento é sancionado com um veto parcial",
+                "publisher": "ALMG",
+                "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-e-sancionado-com-um-veto-parcial/",
+                "publishedAt": "2026-01-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Cita Lei 25.689/2026 publicada no Diário Oficial."
+              },
+              {
+                "id": "src-zema-08",
+                "title": "Zema sanciona orçamento de MG para 2026 com déficit de R$ 5,2 bilhões",
+                "publisher": "g1 (Globo)",
+                "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/01/15/zema-sanciona-orcamento-de-mg-para-2026-com-deficit-de-r-52-bilhoes.ghtml",
+                "publishedAt": "2026-01-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa"
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-05",
+            "kind": "historico",
+            "title": "Reforma administrativa de 2019 — redução de secretarias e extinção de cargos comissionados",
+            "role": "Governador de Minas Gerais — autor do PL 367/2019",
+            "complexity": "Redução de 21 para 12 secretarias; extinção de 3,6 mil cargos comissionados; economia estimada em R$ 1 bilhão em quatro anos; tramitação de cerca de três meses na ALMG",
+            "outcome": "Lei 23.304/2019 sancionada em 31/05/2019 com nove dispositivos vetados; aprovada com 66 votos favoráveis e nenhum contrário na votação em plenário",
+            "period": "2019",
+            "context": "Estado abriu o mandato com crise fiscal e atraso de pagamentos a servidores, segundo o balanço da própria gestão.",
+            "sources": [
+              {
+                "id": "src-zema-70",
+                "title": "Zema envia projeto à ALMG para extinguir secretarias e cargos comissionados (21 para 12 secretarias)",
+                "publisher": "Estado de Minas",
+                "url": "https://www.em.com.br/app/noticia/politica/2019/02/05/interna_politica,1027984/zema-envia-projeto-a-almg-para-extinguir-secretarias-e-cargos.shtml",
+                "publishedAt": "2019-02-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "PL 367/2019 encaminhado à ALMG em 05/02/2019."
+              },
+              {
+                "id": "src-zema-71",
+                "title": "Reforma administrativa é sancionada com veto parcial (Lei 23.304/2019; PL 367/19)",
+                "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+                "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2019/05/31_sancao_reforma_administrativa.html",
+                "publishedAt": "2019-05-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Sanção publicada no Diário Oficial de 31/05/2019 com nove dispositivos vetados."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "dialogo-negociacao",
+        "name": "Diálogo, negociação e articulação",
+        "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+        "synthesis": "A negociação de maior porte é a da dívida do Estado com a União: plano de recuperação fiscal homologado em janeiro de 2025, lei estadual de adesão ao Propag sancionada em junho, saída do RRF por decreto federal em 22/12/2025 e contrato de adesão assinado em 31/12/2025 com repasse de R$ 35,8 bi em ativos e redução de juros. Na ALMG, o orçamento de 2026 foi aprovado em 10/12/2025 e sancionado com veto parcial, e as revisões salariais dos servidores avançaram em primeiro turno em 2026. A interlocução setorial de 2026 inclui a indústria (CNI, 22/06), prefeitos na Marcha dos Prefeitos (20/05) e o agronegócio em Minas; a Associação Mineira de Municípios registrou que demandas entregues em set/2025 seguiam sem atendimento um mês depois.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-zema-06",
+            "kind": "historico",
+            "title": "Negociação da dívida com a União — do RRF ao Propag",
+            "role": "Governador de Minas Gerais — negociou com o Ministério da Fazenda e o governo federal as condições da dívida",
+            "complexity": "Dívida de aproximadamente R$ 160 bi com a União; contrapartidas do regime fiscal; repasse de R$ 35,8 bi em ativos e redução de juros no contrato de adesão; relação institucional com o governo federal ao longo de 2025",
+            "outcome": "Homologação do plano de recuperação fiscal em jan/2025, saída do RRF em 22/12/2025 e primeiro contrato de adesão ao Propag assinado em 31/12/2025",
+            "period": "2024–2025",
+            "context": "Estado estava no RRF desde 2022; a formalização dependia de aprovação na ALMG e de homologação federal.",
+            "sources": [
+              {
+                "id": "src-zema-74",
+                "title": "Minas Gerais sai do Regime de Recuperação Fiscal e pode aderir ao Propag (decreto de Lula publicado em 22/12/2025)",
+                "publisher": "O Tempo",
+                "url": "https://www.otempo.com.br/politica/2025/12/22/minas-gerais-esta-fora-do-regime-de-recuperacao-fiscal-e-pode-aderir-ao-propag-entenda-a-mudanca",
+                "publishedAt": "2025-12-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": ""
+              },
+              {
+                "id": "src-zema-75",
+                "title": "Repasse de R$ 35,8 bi em ativos e redução de juros: o que diz o contrato de adesão de Minas ao Propag",
+                "publisher": "O Fator",
+                "url": "https://ofator.com.br/informacao/repasse-de-r-358-bi-em-ativos-e-reducao-de-juros-o-que-diz-o-contrato-de-adesao-de-minas-ao-propag/",
+                "publishedAt": "2025-12-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Contrato de adesão assinado após autorização do Ministério da Fazenda."
+              },
+              {
+                "id": "src-zema-76",
+                "title": "Governo de Minas Gerais sanciona lei de adesão ao Propag (Lei 25.282/2025)",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/brasil/noticia/2025/06/05/governo-de-minas-gerais-sanciona-lei-de-adeso-ao-propag.ghtml",
+                "publishedAt": "2025-06-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Lei autoriza o Estado a sair do RRF e aderir ao Propag; aprovada na ALMG na mesma semana."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-07",
+            "kind": "historico",
+            "title": "Negociação do orçamento 2026 e das revisões salariais com a ALMG",
+            "role": "Governador de Minas Gerais — autor das propostas submetidas à Assembleia Legislativa",
+            "complexity": "Projeto orçamentário com receita de R$ 127,1 bi e despesa de R$ 132,3 bi na apreciação; revisões salariais de servidores do Poder Executivo (universo citado de 673 mil entre ativos, inativos e pensionistas); 77 deputados estaduais na Casa",
+            "outcome": "Orçamento aprovado em 10/12/2025 e sancionado com veto parcial em 15/01/2026; revisões salariais aprovadas em primeiro turno no Plenário da ALMG",
+            "period": "2025–2026",
+            "context": "Tramitação em ano de sucessão estadual e de saída do governo para a campanha presidencial.",
+            "sources": [
+              {
+                "id": "src-zema-06",
+                "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)",
+                "publisher": "ALMG",
+                "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/",
+                "publishedAt": "2025-12-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual"
+              },
+              {
+                "id": "src-zema-07",
+                "title": "Orçamento é sancionado com um veto parcial",
+                "publisher": "ALMG",
+                "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-e-sancionado-com-um-veto-parcial/",
+                "publishedAt": "2026-01-15",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Cita Lei 25.689/2026 publicada no Diário Oficial."
+              },
+              {
+                "id": "src-zema-34",
+                "title": "Plenário aprova em 1º turno revisões salariais dos servidores estaduais",
+                "publisher": "ALMG",
+                "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Plenario-aprova-em-1-turno-revisoes-salariais-dos-servidores-estaduais/",
+                "publishedAt": "2026",
+                "accessedAt": "2026-09-29",
+                "sourceType": "estadual",
+                "notes": "Data exata não capturada; 673 mil servidores do Poder Executivo (ativos, inativos e pensionistas civis e militares)."
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-zema-08",
+            "kind": "historico",
+            "title": "Apresentação da plataforma a mais de mil representantes da indústria (CNI)",
+            "role": "Pré-candidato/candidato — participou de evento setorial com apresentação de plataforma e sessão de perguntas e respostas",
+            "complexity": "Evento 'A Indústria na Agenda dos Presidenciáveis' no Centro de Convenções Ulysses Guimarães, em Brasília, em 22/06/2026, com mais de mil representantes do setor industrial",
+            "outcome": "Plataforma apresentada e questionada pelo setor no evento; agenda documentada pela própria CNI",
+            "period": "2026",
+            "context": "Série de eventos da confederação industrial com os presidenciáveis, em que cada candidato apresentou propostas e respondeu ao setor.",
+            "sources": [
+              {
+                "id": "src-zema-54",
+                "title": "A indústria na agenda dos presidenciáveis (evento de 22/06/2026)",
+                "publisher": "CNI — Confederação Nacional da Indústria",
+                "url": "https://cni.portaldaindustria.com.br/institucional/propostas-da-industria-para-as-eleicoes-2026",
+                "publishedAt": "2026-06-22",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "'Os pré-candidatos Flávio Bolsonaro (PL), Romeu Zema (Novo) e Ronaldo Caiado (PSD) tiveram a oportunidade de apresentar suas plataformas e dialogar diretamente com a indústria.' Entrega do documento 'Construindo o Brasil 2050' no Centro de Convenções Ulysses Guimarães, com mais de mil representantes; roteiro de 1h por candidato (20 min de plataforma, 3 perguntas do setor)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-09",
+            "kind": "historico",
+            "title": "Discurso na Marcha dos Prefeitos com pauta federativa",
+            "role": "Candidato — discursou no evento nacional de municípios",
+            "complexity": "Encontro nacional de prefeitos em Brasília em 20/05/2026; pauta de repasses, defesa civil e autonomia municipal",
+            "outcome": "Discurso registrado com críticas ao 'abandono federativo' e cobrança de mais recursos para municípios em desastres climáticos",
+            "period": "2026",
+            "context": "Pauta municipal ganha peso em ano eleitoral, com os prefeitos como cabos eleitorais nos municípios.",
+            "sources": [
+              {
+                "id": "src-zema-55",
+                "title": "Zema critica 'abandono federativo' e cobra mais recursos para municípios em desastre climático",
+                "publisher": "Rádio Itatiaia",
+                "url": "https://www.itatiaia.com.br/politica/zema-critica-abandono-federativo-e-cobra-mais-recursos-para-municipios-em-desastres-climatico/",
+                "publishedAt": "2026-05-20",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Discurso na Marcha dos Prefeitos, em Brasília, em quarta-feira (20/05/2026), citando repasses e a gestão de defesas civis em MG."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-10",
+            "kind": "historico",
+            "title": "Agenda com o agronegócio em Minas Gerais ao lado dos demais presidenciáveis",
+            "role": "Candidato — participou de eventos do setor agropecuário no estado",
+            "complexity": "Eventos em mai/2026 (Eloos Itatiaia e abertura da Megaleite 2026) em Minas Gerais, com a presença conjunta de Flávio Bolsonaro e Ronaldo Caiado",
+            "outcome": "Agenda realizada e registrada pela imprensa econômica; o setor entregou pautas aos três candidatos do campo da direita no mesmo período",
+            "period": "2026",
+            "context": "Peso do agronegócio na economia mineira e disputa simultânea pelo mesmo eleitorado entre candidatos do campo conservador.",
+            "sources": [
+              {
+                "id": "src-zema-56",
+                "title": "Flávio, Zema e Caiado buscam apoio do agronegócio em Minas Gerais",
+                "publisher": "Valor Econômico",
+                "url": "https://valor.globo.com/politica/noticia/2026/05/29/flavio-zema-e-caiado-buscam-apoio-do-agronegocio-em-minas-gerais.ghtml",
+                "publishedAt": "2026-05-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Eventos na semana de 29/05/2026 em MG: Eloos Itatiaia (foco no agronegócio) e abertura da Megaleite 2026. Também registra que Mateus Simões (PSD), governador e vice, tem aval do partido para apoiar a candidatura de Zema."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-11",
+            "kind": "historico",
+            "title": "Conflito documentado com a Associação Mineira de Municípios",
+            "role": "Governador de Minas Gerais — destinatário formal das demandas municipais",
+            "complexity": "Demandas entregues pela Associação Mineira de Municípios em 23/09/2025; verificação feita um mês depois sobre o andamento dos pleitos",
+            "outcome": "Resultado registrado pela imprensa: nenhuma das demandas havia sido atendida ou encaminhada no prazo de um mês, segundo o relato dos prefeitos",
+            "period": "2025",
+            "context": "Registro contraposto ao diálogo institucional: a relação com os municípios foi marcada por cobrança pública dos prefeitos no mesmo período.",
+            "sources": [
+              {
+                "id": "src-zema-58",
+                "title": "O embate de Zema com prefeitos que pode respingar nas eleições de 2026",
+                "publisher": "Estadão — Coluna do Estadão",
+                "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-embate-de-zema-com-prefeitos-que-pode-respingar-nas-eleicoes-de-2026/",
+                "publishedAt": "2025-10",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Data exata não capturada: a AMM entregou demandas em 23/09 e um mês depois nada fora atendido, segundo o presidente da entidade; matéria cita 'eleições do próximo ano'."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "slug": "lideranca-equipes",
+        "name": "Liderança e formação de equipes",
+        "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+        "synthesis": "Formou o secretariado antes da posse (dez/2018) para operar uma estrutura reduzida de 21 para 12 secretarias, aprovada na ALMG em 2019 (Lei 23.304, com nove vetos parciais) e com extinção de 3,6 mil cargos comissionados. Em 2020 reorganizou posições de articulação no governo para viabilizar a reforma da previdência na Assembleia (LC 156/2020) e, em março de 2021, substituiu o secretário de Saúde após o caso dos 'fura-filas' na vacinação. A imprensa registra 23 mudanças no secretariado desde o início do primeiro mandato.",
+        "coverage": "documentada",
+        "evidences": [
+          {
+            "id": "ev-cap-zema-12",
+            "kind": "historico",
+            "title": "Desenho e implantação da estrutura de 12 secretarias (2019)",
+            "role": "Governador de Minas Gerais — definiu o desenho da administração direta e indireta e o submeteu à ALMG",
+            "complexity": "Redução de 21 para 12 secretarias; extinção de 3,6 mil cargos comissionados; tramitação de aproximadamente três meses na Assembleia; estrutura projetada para vigência durante o mandato",
+            "outcome": "Lei 23.304/2019 sancionada em 31/05/2019, com nove dispositivos vetados; votação de 66 a 0 em plenário na ALMG",
+            "period": "2019",
+            "context": "Reorganização feita nos primeiros meses de governo, com meta de economia de R$ 1 bilhão em quatro anos divulgada pelo próprio Executivo.",
+            "sources": [
+              {
+                "id": "src-zema-70",
+                "title": "Zema envia projeto à ALMG para extinguir secretarias e cargos comissionados (21 para 12 secretarias)",
+                "publisher": "Estado de Minas",
+                "url": "https://www.em.com.br/app/noticia/politica/2019/02/05/interna_politica,1027984/zema-envia-projeto-a-almg-para-extinguir-secretarias-e-cargos.shtml",
+                "publishedAt": "2019-02-05",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "PL 367/2019 encaminhado à ALMG em 05/02/2019."
+              },
+              {
+                "id": "src-zema-71",
+                "title": "Reforma administrativa é sancionada com veto parcial (Lei 23.304/2019; PL 367/19)",
+                "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+                "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2019/05/31_sancao_reforma_administrativa.html",
+                "publishedAt": "2019-05-31",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": "Sanção publicada no Diário Oficial de 31/05/2019 com nove dispositivos vetados."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-13",
+            "kind": "historico",
+            "title": "Formação e anúncio público do secretariado antes da posse",
+            "role": "Governador eleito — escolha e anúncio dos titulares das pastas",
+            "complexity": "Estrutura de 12 pastas em elaboração; anúncio público de secretários ao longo de dezembro de 2018, antes da posse de 01/01/2019",
+            "outcome": "Secretariado anunciado e empossado na posse; o desenho de nove pastas inicialmente projetado foi ampliado durante o anúncio, conforme registro da imprensa",
+            "period": "2018–2019",
+            "context": "Primeiro mandato de um partido sem histórico de gestão estadual, com escolha de nomes anunciada gradualmente pela imprensa.",
+            "sources": [
+              {
+                "id": "src-zema-72",
+                "title": "Zema anuncia mais dois secretários e ultrapassa a estimativa de nove pastas para o próximo governo de Minas Gerais",
+                "publisher": "g1 — Globo (MG)",
+                "url": "https://g1.globo.com/mg/minas-gerais/noticia/2018/12/21/zema-anuncia-mais-dois-secretarios-e-ultrapassa-a-estimativa-de-nove-pastas-para-proximo-governo-de-minas-gerais.ghtml",
+                "publishedAt": "2018-12-21",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Governador eleito anunciou parte do secretariado antes da posse (estrutura reduzida em elaboração na ALMG)."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          },
+          {
+            "id": "ev-cap-zema-14",
+            "kind": "historico",
+            "title": "Reorganização das posições de articulação para viabilizar a reforma da previdência",
+            "role": "Governador — trocou titulares de Secretaria de Governo e Secretaria-Geral e o líder de governo na ALMG",
+            "complexity": "Alterações em três posições-chave de articulação política (Secretaria de Governo, Secretaria-Geral e liderança de governo no Legislativo); tramitação do PLC 46/2020 e da PEC da previdência na Assembleia",
+            "outcome": "Reforma aprovada em Plenário em 04/09/2020 e sancionada como Lei Complementar 156/2020",
+            "period": "2020",
+            "context": "Mudança de equipe política no meio da tramitação, com o governo buscando sustentação para uma pauta de alto custo político.",
+            "sources": [
+              {
+                "id": "src-zema-01",
+                "title": "Romeu Zema — verbete (Wikipédia em português)",
+                "publisher": "Wikipédia",
+                "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+                "publishedAt": "2026-09-29",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Usada como índice/arranjo; fatos centrais conferidos em fontes primárias ou imprensa quando possível. Também é a origem do dump em research/_raw/Romeu_Zema_pt.txt."
+              },
+              {
+                "id": "src-zema-78",
+                "title": "Com aprovação de PLC, Assembleia conclui votação da reforma da previdência (PLC 46/2020)",
+                "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+                "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/09/04_plenario_aprovacao_plc46_reforma.html",
+                "publishedAt": "2020-09-04",
+                "accessedAt": "2026-09-29",
+                "sourceType": "legislativo",
+                "notes": ""
+              }
+            ],
+            "evidenceStatus": "parcial",
+            "confidenceLevel": "medium"
+          },
+          {
+            "id": "ev-cap-zema-15",
+            "kind": "historico",
+            "title": "Substituição do secretário de Saúde após o caso dos 'fura-filas' na vacinação",
+            "role": "Governador de Minas Gerais — decidiu e oficializou a troca no comando da Secretaria de Estado de Saúde",
+            "complexity": "Secretaria de Estado de Saúde durante a campanha de vacinação contra a covid-19; substituição de titular por ato publicado no Diário do Executivo",
+            "outcome": "Troca oficializada em 13/03/2021, com novo secretário empossado; o episódio envolveu a vacinação irregular de servidores estaduais",
+            "period": "2021",
+            "context": "Crise na gestão da saúde em ano de pandemia; a resposta incluiu a substituição do comando da pasta.",
+            "sources": [
+              {
+                "id": "src-zema-77",
+                "title": "Após 'fura-filas' no governo, Zema oficializa troca do secretário de Saúde",
+                "publisher": "Estado de Minas",
+                "url": "https://www.em.com.br/app/noticia/politica/2021/03/13/interna_politica,1246339/apos-fura-filas-no-governo-zema-oficializa-troca-do-secretario-de-saude.shtml",
+                "publishedAt": "2021-03-13",
+                "accessedAt": "2026-09-29",
+                "sourceType": "imprensa",
+                "notes": "Substituição publicada no Diário do Executivo."
+              }
+            ],
+            "evidenceStatus": "confirmado",
+            "confidenceLevel": "high"
+          }
+        ],
+        "updatedAt": "2026-09-29"
+      }
+    ],
     "coherence": [],
     "metrics": [
       {
@@ -29372,6 +38469,116 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Data exata não capturada: a AMM entregou demandas em 23/09 e um mês depois nada fora atendido, segundo o presidente da entidade; matéria cita 'eleições do próximo ano'."
+      },
+      {
+        "id": "src-zema-78",
+        "title": "Com aprovação de PLC, Assembleia conclui votação da reforma da previdência (PLC 46/2020)",
+        "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+        "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/09/04_plenario_aprovacao_plc46_reforma.html",
+        "publishedAt": "2020-09-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": ""
+      },
+      {
+        "id": "src-zema-79",
+        "title": "Governador Romeu Zema sanciona projeto de reforma da Previdência em Minas Gerais (LC 156/2020)",
+        "publisher": "g1 — Globo (MG)",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2020/09/22/governador-romeu-zema-sanciona-projeto-de-reforma-da-previdencia-em-minas-gerais.ghtml",
+        "publishedAt": "2020-09-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Lei Complementar 156/2020 publicada no Diário Oficial de 23/09/2020."
+      },
+      {
+        "id": "src-zema-80",
+        "title": "Entenda o Acordo Judicial de Reparação ao rompimento da barragem em Brumadinho (assinado em 04/02/2021)",
+        "publisher": "Governo de Minas Gerais — Programa Pró-Brumadinho (mg.gov.br)",
+        "url": "https://www.mg.gov.br/pro-brumadinho/pagina/entenda-o-acordo-judicial-de-reparacao-ao-rompimento-de-brumadinho",
+        "publishedAt": "2021-02-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Acordo assinado pelo Governo de Minas, MPMG, MPF e DPMG com a Vale S.A., sob mediação do Tribunal de Justiça."
+      },
+      {
+        "id": "src-zema-81",
+        "title": "Vale assina acordo para pagar R$ 37,68 bilhões de reparação por Brumadinho",
+        "publisher": "O Tempo",
+        "url": "https://www.otempo.com.br/cidades/vale-assina-acordo-para-pagar-r-37-68-bilhoes-de-reparacao-por-brumadinho-1.2443353",
+        "publishedAt": "2021-02-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": ""
+      },
+      {
+        "id": "src-zema-74",
+        "title": "Minas Gerais sai do Regime de Recuperação Fiscal e pode aderir ao Propag (decreto de Lula publicado em 22/12/2025)",
+        "publisher": "O Tempo",
+        "url": "https://www.otempo.com.br/politica/2025/12/22/minas-gerais-esta-fora-do-regime-de-recuperacao-fiscal-e-pode-aderir-ao-propag-entenda-a-mudanca",
+        "publishedAt": "2025-12-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": ""
+      },
+      {
+        "id": "src-zema-75",
+        "title": "Repasse de R$ 35,8 bi em ativos e redução de juros: o que diz o contrato de adesão de Minas ao Propag",
+        "publisher": "O Fator",
+        "url": "https://ofator.com.br/informacao/repasse-de-r-358-bi-em-ativos-e-reducao-de-juros-o-que-diz-o-contrato-de-adesao-de-minas-ao-propag/",
+        "publishedAt": "2025-12-31",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Contrato de adesão assinado após autorização do Ministério da Fazenda."
+      },
+      {
+        "id": "src-zema-76",
+        "title": "Governo de Minas Gerais sanciona lei de adesão ao Propag (Lei 25.282/2025)",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/brasil/noticia/2025/06/05/governo-de-minas-gerais-sanciona-lei-de-adeso-ao-propag.ghtml",
+        "publishedAt": "2025-06-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Lei autoriza o Estado a sair do RRF e aderir ao Propag; aprovada na ALMG na mesma semana."
+      },
+      {
+        "id": "src-zema-70",
+        "title": "Zema envia projeto à ALMG para extinguir secretarias e cargos comissionados (21 para 12 secretarias)",
+        "publisher": "Estado de Minas",
+        "url": "https://www.em.com.br/app/noticia/politica/2019/02/05/interna_politica,1027984/zema-envia-projeto-a-almg-para-extinguir-secretarias-e-cargos.shtml",
+        "publishedAt": "2019-02-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "PL 367/2019 encaminhado à ALMG em 05/02/2019."
+      },
+      {
+        "id": "src-zema-71",
+        "title": "Reforma administrativa é sancionada com veto parcial (Lei 23.304/2019; PL 367/19)",
+        "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+        "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2019/05/31_sancao_reforma_administrativa.html",
+        "publishedAt": "2019-05-31",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Sanção publicada no Diário Oficial de 31/05/2019 com nove dispositivos vetados."
+      },
+      {
+        "id": "src-zema-72",
+        "title": "Zema anuncia mais dois secretários e ultrapassa a estimativa de nove pastas para o próximo governo de Minas Gerais",
+        "publisher": "g1 — Globo (MG)",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2018/12/21/zema-anuncia-mais-dois-secretarios-e-ultrapassa-a-estimativa-de-nove-pastas-para-proximo-governo-de-minas-gerais.ghtml",
+        "publishedAt": "2018-12-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Governador eleito anunciou parte do secretariado antes da posse (estrutura reduzida em elaboração na ALMG)."
+      },
+      {
+        "id": "src-zema-77",
+        "title": "Após 'fura-filas' no governo, Zema oficializa troca do secretário de Saúde",
+        "publisher": "Estado de Minas",
+        "url": "https://www.em.com.br/app/noticia/politica/2021/03/13/interna_politica,1246339/apos-fura-filas-no-governo-zema-oficializa-troca-do-secretario-de-saude.shtml",
+        "publishedAt": "2021-03-13",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Substituição publicada no Diário do Executivo."
       }
     ],
     "updatedAt": "2026-09-29"

@@ -1778,6 +1778,76 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Agenda de 23/09/2026 dos presidenciáveis: roteiro inclui 'assinatura de cartas-compromisso com entidades da sociedade civil'; Hertz Dias assina carta-compromisso junto ao SindREDE, em Belo Horizonte."
+    },
+    {
+      "id": "src-hd-75",
+      "title": "Hertz Dias, do PSTU, fez campanha em Pernambuco (Jornal Nacional)",
+      "publisher": "Globo / Globoplay",
+      "url": "https://globoplay.globo.com/v/14954444/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Vídeo do Jornal Nacional: campanha em Pernambuco, com defesa de plataforma pública para motoristas por aplicativo e garantia de direitos trabalhistas."
+    },
+    {
+      "id": "src-hd-73",
+      "title": "Hertz Dias intensifica pré-campanha e percorre três capitais defendendo programa socialista para o país",
+      "publisher": "Opinião Socialista",
+      "url": "https://opiniaosocialista.com.br/hertz-dias-intensifica-pre-campanha-e-percorre-tres-capitais-defendendo-programa-socialista-para-o-pais/",
+      "publishedAt": "2026-06-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda de fim de maio a meados de junho de 2026 em Teresina (PI), Manaus (AM) e Fortaleza (CE); em 27/05, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3, com entrevistas à imprensa local; atividades com trabalhadores, estudantes, artistas, movimentos sociais e militantes."
+    },
+    {
+      "id": "src-hd-72",
+      "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+      "publisher": "Opinião Socialista",
+      "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+    },
+    {
+      "id": "src-hd-71",
+      "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+      "publisher": "International Worker's League / LIT-QI (litci.org)",
+      "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+      "publishedAt": "2026-08-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+    },
+    {
+      "id": "src-hd-74",
+      "title": "Pré-candidato rapper diz que o Brasil vive em uma ditadura",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/ideias/pre-candidato-rapper-diz-brasil-vive-ditadura/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil: nascido em São José de Ribamar (MA), filho de motorista e auxiliar de enfermagem; um dos primeiros dançarinos de break do Maranhão, fundador do movimento Quilombo Urbano e vocalista do grupo de rap Gíria Vermelha."
+    },
+    {
+      "id": "src-hd-76",
+      "title": "PSTU tem o professor de história Hertz Dias como presidenciável",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-tem-o-professor-de-historia-hertz-dias-como-presidenciavel",
+      "publishedAt": "2026-08-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil da agência pública: professor de História, ativista do movimento negro e rapper; candidato do PSTU à Presidência."
+    },
+    {
+      "id": "src-hd-70",
+      "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+      "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -1786,6 +1856,571 @@
     "equipe_gerida: não existe gabinete ou estrutura pública (nunca houve mandato nem cargo público); o número de assessores da estrutura de campanha ou do quadro da direção nacional do PSTU não foi quantificado em fonte oficial — proxy possível para próxima rodada.",
     "Título da capa do PDF do plano de governo não capturado nesta rodada (not_found registrado no governmentPlan).",
     "Diálogo e negociação com empresariado, imprensa de oposição e lideranças religiosas em 2025–2026 não localizados; registros de 2025 são escassos (predominam fontes de 2026).",
-    "DivulgaCandContas não foi consultado diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram das páginas oficiais e de imprensa que replicam a plataforma."
-  ]
+    "DivulgaCandContas não foi consultado diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram das páginas oficiais e de imprensa que replicam a plataforma.",
+    "Nenhum dos quatro candidatos exerceu cargo executivo estatal: as evidências de execução, diálogo e liderança são de direção partidária (PCB, PSTU, PCO, Democrata), de movimento cultural/negro, de entidade profissional e de empresa privada.",
+    "Número de filiados, de quadros dirigentes e de pessoal remunerado das quatro legendas não é divulgado em fontes públicas acessíveis nesta rodada.",
+    "Não há registro de negociação coletiva ou de mesa de negociação com governos para nenhum dos quatro candidatos; o único vínculo sindical documentado de direção é o de Rui Costa Pimenta (diretor da CUT na Grande São Paulo, 1985).",
+    "Tamanho e composição das equipes coordenadas (rede de clínicas de Wilson Grassi, campanhas presidenciais) não constam das fontes consultadas.",
+    "Hertz Dias: não foi localizado registro de filiação sindical ou de cargo na direção nacional do PSTU; a militância sindical educacional citada pela organização internacional do partido refere-se à vice da chapa (Vanessa Portugal), não ao candidato.",
+    "Documentos registrados no TSE (DivulgaCandContas: programa do PCB 280017107286 e plano do Democrata 280017075366) responderam 403 a acesso automatizado em 29/09/2026; foram conferidos por espelho publicado (Poder360) e notas oficiais dos partidos.",
+    "Domínios causaoperaria.org.br, rfi.fr e tre-sp.jus.br responderam 403 a acesso direto; conteúdo conferido por cópias na Wayback Machine. A página do curso de 2026 do PCO não tinha cópia arquivada em 29/09/2026.",
+    "edmilson-costa: o programa registrado no TSE não informa custos, prazos, metas quantificadas nem fonte de financiamento por proposta; nenhum cargo executivo ou legislativo foi exercido, de modo que não existe histórico de implementação para contrastar com o programa.",
+    "hertz-dias: o plano registrado não traz custos, financiamento ou prazos por proposta e se apresenta como 'guia para a ação', não como conjunto de medidas a executar pela via institucional; sem histórico de implementação (nunca exerceu cargo executivo ou legislativo).",
+    "rui-costa-pimenta: o PDF registrado no TSE tem 7 páginas (15 pontos centrais) e o índice oficial remete a essas mesmas páginas; menções a 'Imposto Único' de 0,5%/1%, 'fim de 32 tributos', '600 mil concursos na saúde', 'Ronda Nacional de 30 mil agentes' e BRICS, presentes em rodadas anteriores deste trabalho, não foram localizadas no documento nem no índice oficiais e por isso ficaram fora do bloco de projeto de país.",
+    "wilson-grassi: o plano não traz valores orçamentários medida a medida e o próprio candidato declarou (Folha de S.Paulo/Poder360, 29/08/2026) que há propostas que pretende implementar e não constam do documento registrado no TSE.",
+    "Edmilson Costa, Hertz Dias e Rui Costa Pimenta: o documento registrado no TSE é o programa do próprio partido adotado pela candidatura, e não um plano de governo redigido para um mandato — os três blocos estão marcados como 'parcial' por essa razão, sem que exista versão 'de governo' para comparar.",
+    "Os quatro candidatos: o índice de propostas do TSE usa 8 categorias fixas e iguais para todas as candidaturas, o que impede usá-lo como lista de prioridades declaradas; as prioridades deste bloco vêm das seções dos próprios planos.",
+    "Não foram localizados, para nenhum dos quatro, documentos partidários ou entrevistas que contradigam ou detalhem além dos planos as prioridades nacionais declaradas; a apuração de política externa (bloco Brasil no Mundo) não foi escopo deste patch."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "Candidatura presidencial pelo PSTU em 2026 (5ª campanha do partido à Presidência desde 2010) com convenção nacional em 31/07/2026, pré-campanha em três capitais e campanha financiada quase integralmente pela direção nacional do partido. Executou também candidaturas majoritárias no Maranhão em 2010, 2020 e 2022, todas não eleitas. Trajetória de magistério público, movimento cultural e partido, sem passagem por cargo executivo estatal.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-hd-01",
+          "kind": "historico",
+          "title": "Campanha presidencial de 2026 conduzida com estrutura financiada pela direção nacional do PSTU",
+          "role": "candidato do PSTU à Presidência (chapa com Vanessa Portugal)",
+          "complexity": "campanha nacional; prestação parcial ao TSE até 08/09/2026 com receita de R$ 1.087.584,16 (99% da direção nacional do PSTU) e R$ 1.050.232,71 de gasto contratado (1,2% do limite legal), incluindo R$ 520.000,00 em serviços de terceiros",
+          "outcome": "registro deferido, entre as 12 chapas à Presidência divulgadas pelo TSE em 11/09/2026; agenda de campanha registrada no Maranhão, Pernambuco, Distrito Federal e outras unidades",
+          "period": "2026",
+          "context": "PSTU sem bancada no Congresso (0 deputados e 0 senadores em exercício) e sem coligação ou federação localizada nas fontes consultadas",
+          "sources": [
+            {
+              "id": "src-hd-01",
+              "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+            },
+            {
+              "id": "src-hd-14",
+              "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+              "publisher": "Nexo Jornal",
+              "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+              "publishedAt": "2026-08-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+            },
+            {
+              "id": "src-hd-15",
+              "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+              "publishedAt": "2026-09-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+            },
+            {
+              "id": "src-hd-75",
+              "title": "Hertz Dias, do PSTU, fez campanha em Pernambuco (Jornal Nacional)",
+              "publisher": "Globo / Globoplay",
+              "url": "https://globoplay.globo.com/v/14954444/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Vídeo do Jornal Nacional: campanha em Pernambuco, com defesa de plataforma pública para motoristas por aplicativo e garantia de direitos trabalhistas."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-hd-02",
+          "kind": "historico",
+          "title": "Pré-campanha nacional em três capitais (maio–junho de 2026)",
+          "role": "pré-candidato do PSTU à Presidência",
+          "complexity": "agenda em Teresina (PI), Manaus (AM) e Fortaleza (CE) com atos, entrevistas e encontros; em Teresina, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3",
+          "outcome": "agenda cumprida no período de fim de maio a meados de junho de 2026, com cobertura registrada em 19/06/2026",
+          "period": "2026-05 a 2026-06",
+          "context": "deslocamento por três capitais em três regiões, sem estrutura de governo e com financiamento partidário",
+          "sources": [
+            {
+              "id": "src-hd-73",
+              "title": "Hertz Dias intensifica pré-campanha e percorre três capitais defendendo programa socialista para o país",
+              "publisher": "Opinião Socialista",
+              "url": "https://opiniaosocialista.com.br/hertz-dias-intensifica-pre-campanha-e-percorre-tres-capitais-defendendo-programa-socialista-para-o-pais/",
+              "publishedAt": "2026-06-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Agenda de fim de maio a meados de junho de 2026 em Teresina (PI), Manaus (AM) e Fortaleza (CE); em 27/05, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3, com entrevistas à imprensa local; atividades com trabalhadores, estudantes, artistas, movimentos sociais e militantes."
+            },
+            {
+              "id": "src-hd-72",
+              "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+              "publisher": "Opinião Socialista",
+              "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-hd-03",
+          "kind": "historico",
+          "title": "Convenção Nacional Eleitoral do PSTU que homologou a chapa presidencial",
+          "role": "candidato homologado pela convenção nacional do partido",
+          "complexity": "convenção realizada em 31/07/2026 na sede do Sindicato dos Metroviários de São Paulo, com dirigentes, militantes e apoiadores de diferentes regiões do país",
+          "outcome": "chapa Hertz Dias/Vanessa Portugal oficializada e registrada no TSE, com registro deferido",
+          "period": "2026",
+          "context": "o partido não tinha bancada federal no período da convenção; a sede escolhida foi a de uma entidade sindical",
+          "sources": [
+            {
+              "id": "src-hd-71",
+              "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+              "publisher": "International Worker's League / LIT-QI (litci.org)",
+              "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+              "publishedAt": "2026-08-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+            },
+            {
+              "id": "src-hd-72",
+              "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+              "publisher": "Opinião Socialista",
+              "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-hd-04",
+          "kind": "historico",
+          "title": "Candidaturas majoritárias no Maranhão em três pleitos (2010, 2020 e 2022)",
+          "role": "candidato pelo PSTU a vice-governador do Maranhão (2010), prefeito de São Luís (2020) e governador do Maranhão (2022)",
+          "complexity": "três campanhas majoritárias em 12 anos, com chapas próprias do partido em eleição estadual e municipal",
+          "outcome": "votações registradas no TSE: 14.685 (2010), 2.173 (2020, 0,42%) e 5.191 (2022, 0,15%); nenhuma eleição vencida",
+          "period": "2010–2022",
+          "context": "partido sem representação no Congresso e sem coligação registrada; campanhas estaduais e municipais com estrutura própria",
+          "sources": [
+            {
+              "id": "src-hd-01",
+              "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+            },
+            {
+              "id": "src-hd-03",
+              "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Dados do TSE: PSTU nº 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+            },
+            {
+              "id": "src-hd-02",
+              "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "Articulação com movimentos sociais, culturais e sindicais: fundação do Movimento Quilombo Urbano (MA), atividades com trabalhadores, estudantes e movimentos sociais em Teresina (2026), composição de chapa nacional com Vera Lúcia (2018) e divulgação internacional da candidatura pela organização do partido (LIT-QI). Não há registro de negociação coletiva nem de mesa de negociação com governos; a interlocução documentada é com movimentos e com a direção partidária.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-hd-05",
+          "kind": "historico",
+          "title": "Fundação e manutenção do Movimento Quilombo Urbano (Maranhão)",
+          "role": "um dos fundadores do movimento (cultura, hip-hop e luta contra o racismo)",
+          "complexity": "movimento que reúne juventude negra, artistas e militantes em torno de cultura hip hop e luta antirracista, com atuação estadual e presença continuada na militância do candidato",
+          "outcome": "movimento ativo e apresentado como base de militância do candidato na campanha de 2026 por imprensa nacional e pela organização internacional do partido",
+          "period": "décadas de atuação (data de fundação não localizada)",
+          "context": "as fontes não registram data de fundação, número de integrantes nem estrutura formal do movimento",
+          "sources": [
+            {
+              "id": "src-hd-71",
+              "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+              "publisher": "International Worker's League / LIT-QI (litci.org)",
+              "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+              "publishedAt": "2026-08-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+            },
+            {
+              "id": "src-hd-06",
+              "title": "Hertz Dias: o rapper que representa o PSTU na disputa pelo Planalto",
+              "publisher": "Correio Braziliense",
+              "url": "https://www.correiobraziliense.com.br/politica/2026/08/7489635-quem-e-hertz-dias-o-rapper-candidato-a-presidente-pelo-pstu.html",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Professor, rapper e ativista do movimento negro, Hertz Dias leva à disputa presidencial um projeto socialista com foco na defesa dos trabalhadores'. Descreve professor da rede pública do Maranhão."
+            },
+            {
+              "id": "src-hd-74",
+              "title": "Pré-candidato rapper diz que o Brasil vive em uma ditadura",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/ideias/pre-candidato-rapper-diz-brasil-vive-ditadura/",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil: nascido em São José de Ribamar (MA), filho de motorista e auxiliar de enfermagem; um dos primeiros dançarinos de break do Maranhão, fundador do movimento Quilombo Urbano e vocalista do grupo de rap Gíria Vermelha."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-hd-06",
+          "kind": "historico",
+          "title": "Articulação de setores no ato pelo fim da escala 6x1 e em atividades de memória (Teresina, 2026)",
+          "role": "pré-candidato do PSTU, participando como orador e articulador das atividades",
+          "complexity": "atividades de 27 e 28/05/2026 com trabalhadores, estudantes, artistas, movimentos sociais e militantes; entrevistas à imprensa local no mesmo dia",
+          "outcome": "atividades realizadas na Praça Rio Branco e em outros espaços de Teresina, com pautas de jornada de trabalho e memória da ditadura",
+          "period": "2026-05",
+          "context": "articulação com movimentos e não com governos; não há mesa de negociação ou acordo formal registrado",
+          "sources": [
+            {
+              "id": "src-hd-73",
+              "title": "Hertz Dias intensifica pré-campanha e percorre três capitais defendendo programa socialista para o país",
+              "publisher": "Opinião Socialista",
+              "url": "https://opiniaosocialista.com.br/hertz-dias-intensifica-pre-campanha-e-percorre-tres-capitais-defendendo-programa-socialista-para-o-pais/",
+              "publishedAt": "2026-06-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Agenda de fim de maio a meados de junho de 2026 em Teresina (PI), Manaus (AM) e Fortaleza (CE); em 27/05, ato na Praça Rio Branco pelo fim da escala 6x1 e pela jornada 4x3, com entrevistas à imprensa local; atividades com trabalhadores, estudantes, artistas, movimentos sociais e militantes."
+            },
+            {
+              "id": "src-hd-76",
+              "title": "PSTU tem o professor de história Hertz Dias como presidenciável",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-tem-o-professor-de-historia-hertz-dias-como-presidenciavel",
+              "publishedAt": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil da agência pública: professor de História, ativista do movimento negro e rapper; candidato do PSTU à Presidência."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-hd-07",
+          "kind": "historico",
+          "title": "Composição da chapa presidencial de 2018 como candidato a vice-presidente",
+          "role": "candidato a vice-presidente na chapa de Vera Lúcia (PSTU)",
+          "complexity": "chapa nacional de partido isolado, sem coligação registrada",
+          "outcome": "chapa registrada e votada em 2018, com 55.762 votos (0,05%), 55.762 votos (0,05%), 11ª colocação entre 13 chapas no 1º turno",
+          "period": "2018",
+          "context": "composição de chapa definida na direção partidária; não há registro de coligação ou de acordo com outras legendas",
+          "sources": [
+            {
+              "id": "src-hd-01",
+              "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+            },
+            {
+              "id": "src-hd-02",
+              "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-hd-08",
+          "kind": "historico",
+          "title": "Divulgação internacional da candidatura pela organização do partido (LIT-QI)",
+          "role": "candidato do PSTU (partido integrado à Liga Internacional dos Trabalhadores — Quarta Internacional)",
+          "complexity": "publicação da convenção e do programa em veículo internacional multilíngue (português, inglês, francês, árabe e russo), dirigida a militâncias de outros países",
+          "outcome": "candidatura e programa divulgados internacionalmente em 22/08/2026 pela organização internacional",
+          "period": "2026",
+          "context": "a publicação descreve o partido e a chapa; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não ao candidato",
+          "sources": [
+            {
+              "id": "src-hd-71",
+              "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+              "publisher": "International Worker's League / LIT-QI (litci.org)",
+              "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+              "publishedAt": "2026-08-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Coordenação de coletivos e de campanha: criação e manutenção do Movimento Quilombo Urbano, atuação como vocalista do grupo Gíria Vermelha e docência nas redes públicas de São Luís com mestrado em Educação. Na campanha de 2026 recebeu da direção nacional do PSTU R$ 1.074.389,00 (99% da receita) e contratou R$ 1.050.232,71, com R$ 520.000,00 em serviços de terceiros. As fontes não registram organograma, número de integrantes ou de contratados.",
+      "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+      "evidences": [
+        {
+          "id": "ev-cap-hd-09",
+          "kind": "historico",
+          "title": "Atuação como vocalista do grupo de rap Gíria Vermelha e pioneirismo no break no Maranhão",
+          "role": "integrante e vocalista do grupo Gíria Vermelha; um dos primeiros dançarinos de break do Maranhão",
+          "complexity": "coletivo musical e cultural com atuação ligada ao movimento hip hop e ao Movimento Quilombo Urbano, em eventos e atividades de militância",
+          "outcome": "grupo citado em perfis de imprensa nacional e em publicação da organização internacional do partido",
+          "period": "não informado",
+          "context": "as fontes não informam número de integrantes, discografia, agenda ou estrutura do grupo e das atividades",
+          "sources": [
+            {
+              "id": "src-hd-74",
+              "title": "Pré-candidato rapper diz que o Brasil vive em uma ditadura",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/ideias/pre-candidato-rapper-diz-brasil-vive-ditadura/",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil: nascido em São José de Ribamar (MA), filho de motorista e auxiliar de enfermagem; um dos primeiros dançarinos de break do Maranhão, fundador do movimento Quilombo Urbano e vocalista do grupo de rap Gíria Vermelha."
+            },
+            {
+              "id": "src-hd-71",
+              "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+              "publisher": "International Worker's League / LIT-QI (litci.org)",
+              "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+              "publishedAt": "2026-08-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+            },
+            {
+              "id": "src-hd-02",
+              "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-hd-10",
+          "kind": "historico",
+          "title": "Criação e manutenção de coletivo de mobilização (Movimento Quilombo Urbano)",
+          "role": "um dos fundadores do movimento, com função de organização de atividades culturais e de militância",
+          "complexity": "coletivo de alcance estadual que articula artistas, juventude negra e militantes em atividades culturais e de luta antirracista, com permanência de vários anos",
+          "outcome": "movimento em atividade e citado como espaço de formação da militância do candidato",
+          "period": "décadas de atuação (data de fundação não localizada)",
+          "context": "as fontes consultadas não registram organograma, número de integrantes ou forma de coordenação",
+          "sources": [
+            {
+              "id": "src-hd-71",
+              "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+              "publisher": "International Worker's League / LIT-QI (litci.org)",
+              "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+              "publishedAt": "2026-08-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+            },
+            {
+              "id": "src-hd-06",
+              "title": "Hertz Dias: o rapper que representa o PSTU na disputa pelo Planalto",
+              "publisher": "Correio Braziliense",
+              "url": "https://www.correiobraziliense.com.br/politica/2026/08/7489635-quem-e-hertz-dias-o-rapper-candidato-a-presidente-pelo-pstu.html",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Professor, rapper e ativista do movimento negro, Hertz Dias leva à disputa presidencial um projeto socialista com foco na defesa dos trabalhadores'. Descreve professor da rede pública do Maranhão."
+            },
+            {
+              "id": "src-hd-74",
+              "title": "Pré-candidato rapper diz que o Brasil vive em uma ditadura",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/ideias/pre-candidato-rapper-diz-brasil-vive-ditadura/",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil: nascido em São José de Ribamar (MA), filho de motorista e auxiliar de enfermagem; um dos primeiros dançarinos de break do Maranhão, fundador do movimento Quilombo Urbano e vocalista do grupo de rap Gíria Vermelha."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-hd-11",
+          "kind": "historico",
+          "title": "Aplicação de recursos da campanha presidencial repassados pela direção nacional do PSTU",
+          "role": "candidato responsável pela campanha e pela prestação de contas ao TSE",
+          "complexity": "aplicação de R$ 1.050.232,71 contratados até 08/09/2026 (R$ 520.000,00 em serviços de terceiros, R$ 42.700,00 em material impresso e R$ 18.000,00 em impulsionamento), com receita de R$ 1.074.389,00 repassada pela direção nacional do partido",
+          "outcome": "prestação de contas parcial entregue ao TSE com gasto contratado de 1,2% do limite legal",
+          "period": "2026",
+          "context": "as decisões internas de alocação dos recursos partidários e a composição da equipe contratada não são detalhadas publicamente",
+          "sources": [
+            {
+              "id": "src-hd-01",
+              "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-hd-12",
+          "kind": "historico",
+          "title": "Docência na rede pública de São Luís (MA) com mestrado em Educação",
+          "role": "professor de História das redes pública estadual e municipal de São Luís (ocupação declarada ao TSE: professor de ensino fundamental)",
+          "complexity": "atuação em ensino fundamental e médio nas redes estadual e municipal do Maranhão; licenciatura em História e mestrado em Educação",
+          "outcome": "docência em exercício declarada em 2026; as fontes não registram tempo de serviço, número de turmas ou de alunos",
+          "period": "em exercício em 2026 (início não informado)",
+          "context": "as fontes consultadas não informam escola, rede de vínculo exclusivo nem tempo de exercício; no cadastro eleitoral de 2022 a ocupação declarada havia sido 'empresário'",
+          "sources": [
+            {
+              "id": "src-hd-07",
+              "title": "Quem são os candidatos à Presidência na Eleição 2026",
+              "publisher": "BBC News Brasil",
+              "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Hertz é professor de História da rede pública em São Luís, no Maranhão, rapper e ativista do movimento negro.'"
+            },
+            {
+              "id": "src-hd-02",
+              "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+            },
+            {
+              "id": "src-hd-01",
+              "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+            },
+            {
+              "id": "src-hd-76",
+              "title": "PSTU tem o professor de história Hertz Dias como presidenciável",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-tem-o-professor-de-historia-hertz-dias-como-presidenciavel",
+              "publishedAt": "2026-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil da agência pública: professor de História, ativista do movimento negro e rapper; candidato do PSTU à Presidência."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "O plano registrado no TSE ('Com os trabalhadores contra o sistema — Por um Brasil soberano e socialista') descreve um país que rompe com a 'reversão colonial' e com a submissão às potências capitalistas, deixando a função de plataforma de exportação de commodities para se tornar uma economia reindustrializada sob controle dos trabalhadores: expropriação das grandes empresas de mineração, petróleo, energia, siderurgia, celulose e das grandes comercializadoras do agronegócio, planejamento econômico voltado ao mercado interno e ao pleno emprego e serviços públicos 100% estatais. O horizonte declarado é um 'Estado operário revolucionário' fundado na mais ampla democracia operária, com organismos eleitos e revogáveis sob controle permanente da base. O texto afirma que o programa 'não é um conjunto de promessas eleitorais', mas um 'guia para a ação', e que a mobilização direta é prioritária em relação à ação institucional.",
+    "nationalPriorities": [
+      "Soberania nacional e enfrentamento do imperialismo (tarifaço dos EUA, acordo Mercosul–União Europeia, papel da China)",
+      "Expropriação e reestatização das empresas estratégicas (Petrobras, Vale, mineração, petróleo, energia, siderurgia e celulose)",
+      "Trabalho e renda: jornada de 36 horas semanais, fim da escala 6x1, aumento de 100% do salário mínimo e bolsa-filha/filho de um salário mínimo",
+      "Serviços públicos reconstruídos sob controle operário e popular (saúde, educação, moradia, transporte e aposentadoria)",
+      "Meio ambiente: fim dos subsídios ao agronegócio, demarcação de terras indígenas e titulação de territórios quilombolas e 'não à exploração do petróleo da Margem Equatorial'",
+      "Terra e soberania alimentar: expropriação do grande agronegócio e produção agroecológica",
+      "Soberania digital: infraestrutura digital pública e inteligência artificial sob controle do Estado e dos trabalhadores"
+    ],
+    "developmentModel": "Planejamento econômico estatal como eixo: articular produção e consumo internos, converter ganhos de produtividade em redução de jornada e destinar os excedentes das empresas expropriadas a setores de alta complexidade tecnológica (refino, separação de terras raras e minerais críticos, máquinas e equipamentos, infraestrutura digital, química fina e defesa), com criação de empresa estatal de terras raras e limite de 25% na distribuição de dividendos das grandes empresas privadas remanescentes, com reinvestimento obrigatório no território nacional. Financiamento declarado: taxação fortemente progressiva sobre lucros de empresas bilionárias, controle da conta de capitais (o texto cita cerca de meio trilhão de reais evadidos por ano desde 2020) e controle do sistema financeiro e dos grandes bancos. Setor privado: expropriação do grande agronegócio e dos setores estratégicos; nas telecomunicações e internet, quebra do monopólio das grandes empresas privadas e internet gratuita. Tecnologia: semicondutores 'adquiridos estrategicamente' e inteligência artificial desenvolvida sob controle do Estado, com conselhos de produtores, usuários e detentores de direitos. Educação com verbas públicas destinadas exclusivamente ao ensino público e reconstrução da carreira docente; meio ambiente com fim de créditos e subsídios ao agronegócio, recuperação de áreas degradadas e agroecologia. Desigualdade tratada em eixos próprios (questão negra, mulheres, LGBTQIAPN+, povos indígenas, imigrantes e pessoas com deficiência), com cotas, reparação e autodefesa das comunidades.",
+    "sources": [
+      {
+        "id": "src-hd-70",
+        "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+        "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+      },
+      {
+        "id": "src-hd-71",
+        "title": "PSTU National Convention Confirms Hertz Dias's Candidacy for Country's President",
+        "publisher": "International Worker's League / LIT-QI (litci.org)",
+        "url": "https://litci.org/en/pstu-national-convention-confirms-hertz-diass-candidacy-for-countrys-president",
+        "publishedAt": "2026-08-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Publicação da organização internacional da qual o PSTU faz parte: convenção nacional eleitoral do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários de São Paulo, confirmando Hertz Dias (presidente) e Vanessa Portugal (vice), com dirigentes, militantes e apoiadores de diferentes regiões. Descreve Hertz Dias como um dos fundadores do Movimento Quilombo Urbano no Maranhão (cultura, hip-hop e luta contra o racismo) e integrante do grupo de rap Gíria Vermelha; a militância sindical educacional citada no texto é atribuída à vice (Vanessa Portugal), não a Hertz Dias."
+      },
+      {
+        "id": "src-hd-72",
+        "title": "Convenção Nacional do PSTU confirma candidatura de Hertz Dias à presidência da República",
+        "publisher": "Opinião Socialista",
+        "url": "https://opiniaosocialista.com.br/convencao-nacional-do-pstu-confirma-candidatura-de-hertz-dias-a-presidencia-da-republica/",
+        "publishedAt": "2026-08-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Cobertura da convenção nacional do PSTU (31/07/2026, São Paulo) que oficializou a chapa Hertz Dias / Vanessa Portugal."
+      }
+    ],
+    "evidenceStatus": "parcial",
+    "confidenceLevel": "medium",
+    "methodology": "Extraído do plano registrado no TSE — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista', 33 páginas, que o próprio texto apresenta como 'o programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice' —, conferido com o índice oficial de propostas da candidatura no TSE e com a análise do plano publicada pelo OPEB em 27/09/2026. Trata-se de documento programático do partido adotado pela candidatura, e não de um plano de governo redigido para o mandato: por isso o bloco está marcado como 'parcial'. O índice do TSE usa 8 categorias fixas, iguais para todos os candidatos, e não prioridades declaradas pelo candidato; as prioridades acima foram retiradas das seções do próprio plano. O documento não informa custos, financiamento ou prazos por proposta e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo)."
+  }
 }

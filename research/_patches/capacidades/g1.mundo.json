@@ -1,0 +1,62 @@
+{
+  "grupo": "g1",
+  "escopo": "mundo",
+  "sources": [],
+  "candidates": {
+    "lula": {
+      "foreignPolicy": {
+        "worldView": "em consolidação",
+        "strategy": "em consolidação",
+        "internationalExperience": "em consolidação",
+        "projection": "em consolidação",
+        "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
+        "sources": [],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "methodology": "em consolidação"
+      }
+    },
+    "caiado": {
+      "foreignPolicy": {
+        "worldView": "em consolidação",
+        "strategy": "em consolidação",
+        "internationalExperience": "em consolidação",
+        "projection": "em consolidação",
+        "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
+        "sources": [],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "methodology": "em consolidação"
+      }
+    },
+    "zema": {
+      "foreignPolicy": {
+        "worldView": "em consolidação",
+        "strategy": "em consolidação",
+        "internationalExperience": "em consolidação",
+        "projection": "em consolidação",
+        "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
+        "sources": [],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "methodology": "em consolidação"
+      }
+    },
+    "flavio-bolsonaro": {
+      "foreignPolicy": {
+        "worldView": "em consolidação",
+        "strategy": "em consolidação",
+        "internationalExperience": "em consolidação",
+        "projection": "em consolidação",
+        "projectionNote": "projeção internacional mede notoriedade, não capacidade diplomática",
+        "sources": [],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "methodology": "em consolidação"
+      }
+    }
+  },
+  "dataGaps": [
+    "em consolidação"
+  ]
+}

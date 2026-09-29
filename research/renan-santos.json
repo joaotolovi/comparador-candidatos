@@ -2786,6 +2786,105 @@
       "accessedAt": "2026-09-29",
       "sourceType": "pesquisa_eleitoral",
       "notes": "2.004 entrevistas, 24–27/09/2026, margem de 2 p.p.; 2º turno 42% x 42%."
+    },
+    {
+      "id": "src-rs-62",
+      "title": "Líder do MBL, que pede impeachment de Dilma, responde a mais de 60 processos (Renan Santos, um dos coordenadores do MBL)",
+      "publisher": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2016/05/09/lider-do-mbl-que-pede-impeachment-de-dilma-responde-a-mais-de-60-processos",
+      "publishedAt": "2016-05-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Usada exclusivamente para o papel exercido ('um dos coordenadores do Movimento Brasil Livre')."
+    },
+    {
+      "id": "src-rs-58",
+      "title": "Vaquinhas eleitorais: líderes de arrecadação receberam juntos R$ 3 milhões e têm presença forte nas redes sociais",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/05/vaquinhas-eleitorais-lideres-de-arrecadacao.ghtml",
+      "publishedAt": "2026-07-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Financiamento coletivo liberado desde 15/05/2026; Renan Santos liderava a arrecadação por vaquinha, com mais de R$ 1 milhão até a data."
+    },
+    {
+      "id": "src-rs-57",
+      "title": "Renan aposta em vaquinha, base do MBL e Faria Lima para disputar 2026 sem máquina partidária",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/renan-aposta-em-vaquinha-base-do-mbl-e-faria-lima-para-disputar-2026-sem-maquina-partidaria/",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado. Descreve a montagem da campanha fora dos meios tradicionais: sem tempo de TV relevante, com acesso à cota mínima do Fundo Eleitoral e apoiada na base do MBL e em doações."
+    },
+    {
+      "id": "src-rs-59",
+      "title": "Renan Santos vai ao interior para buscar ser mais conhecido",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/07/20/renan-santos-vai-ao-interior-para-buscar-ser-mais-conhecido.ghtml",
+      "publishedAt": "2026-07-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Pré-candidato desconhecido por 77% segundo Genial/Quaest; plano de concluir roteiro de 100 cidades naquela semana."
+    },
+    {
+      "id": "src-rs-60",
+      "title": "Renan aposta no interior para crescer, mas esbarra na estrutura do Missão",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-aposta-no-interior-para-crescer-mas-esbarra-na-estrutura-do-missao",
+      "publishedAt": "2026-08-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Relata a estratégia de campanha em cidades do interior e as limitações de estrutura partidária nas praças fora dos grandes centros."
+    },
+    {
+      "id": "src-rs-61",
+      "title": "Estreante em eleições, Renan Santos é empresário e fundador do MBL",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/01/estreante-em-eleicoes-renan-santos-e-empresario-e-fundador-do-mbl.ghtml",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-63",
+      "title": "O que Renan Santos diz sobre não citar Deus na campanha",
+      "publisher": "Estado de Minas (PlatôBR)",
+      "url": "https://www.em.com.br/politica/platobr/2026/08/7490472-o-que-renan-santos-diz-sobre-nao-citar-deus-na-campanha.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado. Reação de lideranças políticas em Brasília após o debate da Band e a sabatina do Jornal Nacional."
+    },
+    {
+      "id": "src-rs-70",
+      "title": "O Brasil de 2030 — propostas (site oficial da campanha)",
+      "publisher": "Renan Santos / Partido Missão",
+      "url": "https://www.renanpresidente.com.br/propostas",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Página oficial de campanha com as cinco metas para 2030 e o compromisso declarado de não disputar a reeleição em caso de descumprimento."
+    },
+    {
+      "id": "src-rs-71",
+      "title": "Livro Amarelo — resumo executivo 2026 (espelho do documento registrado no TSE)",
+      "publisher": "Renanpédia (espelho civil do Livro Amarelo)",
+      "url": "https://www.renanpedia.com/livro-amarelo-resumo-2026.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Espelho do resumo executivo de 51 páginas; contém a passagem 'transformar o Brasil, em 30 anos, em uma das cinco maiores potências globais' e as cinco metas para 2030."
+    },
+    {
+      "id": "src-rs-72",
+      "title": "O que diz o plano de governo de Renan Santos (Missão)",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-renan-santos-pretende-restaurar-o-brasil-plano-de-governo-candidato-missao/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha a 'Grande Consolidação Municipal' (5.570 para 1.656 municípios) e a frente AgroBrasil 2030 com cinco pilares."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2793,6 +2892,714 @@
     "propostas_com_custo, propostas_com_prazo e propostas_dependentes_congresso foram contadas sobre as 8 propostas prioritárias detalhadas no JSON (de 14 pilares do resumo executivo de 51 páginas); a obra integral do Livro Amarelo (~500 páginas) não foi analisada item a item.",
     "equipe_gerida permanece sem valor numérico: partido e campanha não publicam quadro de pessoal e não há gabinete (sem cargo eletivo anterior) — proxy de estrutura partidária sem base de contagem.",
     "DivulgaCandContas não foi aberto diretamente (web_extract indisponível na sessão); dados do TSE vieram de páginas oficiais e de imprensa que replica a plataforma.",
-    "Data exata de publicação não capturada em fontes de 2026 sem data no endereço (Gazeta do Povo sobre agenda empresarial; Conectado ao Poder sobre relação com religiosos; ISTOÉ/Jota já existentes)."
-  ]
+    "Data exata de publicação não capturada em fontes de 2026 sem data no endereço (Gazeta do Povo sobre agenda empresarial; Conectado ao Poder sobre relação com religiosos; ISTOÉ/Jota já existentes).",
+    "leonardo-avalanche, clariana-barao e augusto-cury (lideranca-equipes) e samara-martins (em todas as capacidades): nenhum dos partidos ou campanhas publica organograma, quadro de pessoal ou número de integrantes de equipe; as evidências de formação e coordenação de equipes se apoiam em atos nominais (indicação de vice, nomeação de diretórios, substituição de marqueteiro) e em estrutura empresarial, quando existe.",
+    "renan-santos e samara-martins: partidos não publicam balanço de campanha consolidado; números de arrecadação citados são de levantamentos parciais de imprensa com data de referência (g1, 05/07/2026) e não do encerramento da campanha.",
+    "clariana-barao: a coordenação do grupo de voluntários nas enchentes do Rio Grande do Sul (2024) e a presidência de comissão na OAB de Várzea Grande constam de perfis de candidatura reproduzidos pela imprensa; não foram localizados relatórios ou atas das duas atividades.",
+    "augusto-cury: os números de tiragem/vendas de livros variam conforme a fonte e a data de referência (11 milhões em 2010; 27 milhões em 2016; mais de 30 milhões em 2017; mais de 40 milhões declarados pela campanha em 2026) e a página própria do autor é a única fonte para os quantitativos de alunos das escolas de gestão da emoção.",
+    "leonardo-avalanche: as negociações partidárias de 2026 (aliança com Marconi Perillo em Goiás e saída posterior da coligação) aparecem em notas e imprensa regional, sem atas, registros de coligação estadual anexados ou documento oficial do partido no pool de fontes desta rodada.",
+    "clariana-barao e augusto-cury: as datas exatas de publicação de algumas reportagens de 2026 (Gazeta de São Paulo, Potência MT, site próprio do autor) não foram capturadas; os campos publishedAt registram apenas o ano, com nota na fonte.",
+    "Custo, compensação fiscal e cronograma por meta/prioridade não estão declarados nos documentos registrados de nenhum dos cinco candidatos analisados neste bloco; o bloco PROJETO DE PAÍS registra apenas o que é declarado.",
+    "leonardo-avalanche: não foi localizada posição documentada de política externa ou sobre clima em fontes 2025-2026; o plano registrado não tem capítulo desses temas.",
+    "augusto-cury: nomes da equipe econômica não divulgados por decisão declarada do candidato (Valor International, 04/09/2026).",
+    "clariana-barao: documento autodeclarado preliminar; sem diagnóstico, linha de base e metas numéricas finais; total de promessas não contado item a item (dossiê independente enumera ao menos 30).",
+    "samara-martins: registro no TSE foi feito com a versão de 2022 do programa e depois corrigido; a versão ampliada de 67 páginas não consta como o arquivo registrado no TSE nas fontes consultadas (o link oficial do TSE retornou bloqueio e o texto foi lido em espelho público da campanha).",
+    "renan-santos: apenas o resumo executivo de 51 páginas do Livro Amarelo está público; a obra integral (mais de 500 páginas) não foi analisada."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "Fundou e presidiu a estruturação do Partido Missão: coleta de mais de 577 mil assinaturas validadas, estatuto publicado no DOU em 18/10/2023 e registro deferido por unanimidade pelo TSE em 04/11/2025. Coordenou a organização das mobilizações de 2015-2016 (atos de 15/03/2015 e 13/03/2016) e lançou 535 candidaturas em 25 estados e no DF na primeira eleição do partido. Na campanha presidencial de 2026, optou por financiamento coletivo e por uma estrutura própria, sem depender de Fundo Eleitoral para a chapa presidencial.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-rs-01",
+          "kind": "historico",
+          "title": "Criação e registro do Partido Missão no TSE",
+          "role": "presidente nacional e responsável pelo processo de criação da legenda (estatuto publicado no DOU em 18/10/2023)",
+          "complexity": "alcance nacional; mais de 577 mil assinaturas validadas; exigência legal de apoio em ao menos 9 estados; 1 órgão decisório (TSE)",
+          "outcome": "registro deferido por unanimidade em 04/11/2025, com o número 14 — 30ª legenda registrada no país",
+          "period": "2023-2025",
+          "context": "Partido criado a partir do MBL, movimento sem registro partidário, que precisou reunir assinaturas e apoio formal em estados antes de poder disputar eleições.",
+          "sources": [
+            {
+              "id": "src-rs-01",
+              "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+              "publishedAt": "2025-11-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+            },
+            {
+              "id": "src-rs-02",
+              "title": "TSE aprova criação do Missão, partido do MBL, que terá o número 14",
+              "publisher": "Estadão",
+              "url": "https://estadao.com.br/politica/tse-aprova-criacao-do-missao-partido-do-mbl-que-tera-numero-14-npr",
+              "publishedAt": "2025-11-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-03",
+              "title": "TSE aprova por unanimidade criação do partido Missão",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+              "publishedAt": "2025-11-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Veículo público estatal (EBC)."
+            },
+            {
+              "id": "src-rs-04",
+              "title": "Missão, partido político do MBL, tem registro deferido pelo TSE",
+              "publisher": "ConJur",
+              "url": "https://conjur.com.br/2025-nov-04/missao-partido-politico-do-mbl-tem-registro-deferido-pelo-tse/",
+              "publishedAt": "2025-11-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-rs-02",
+          "kind": "historico",
+          "title": "Lançamento de 535 candidaturas em 25 estados e no DF na primeira eleição do partido",
+          "role": "presidente nacional do Partido Missão",
+          "complexity": "alcance nacional; 535 candidaturas em 25 estados e no DF; partido sem mandatos majoritários e com 1 deputado federal na legislatura",
+          "outcome": "candidaturas oficializadas e registradas para a eleição de 2026",
+          "period": "2026",
+          "context": "Primeira eleição disputada pela legenda, criada em novembro de 2025, o que exigiu montar diretórios e chapas proporcionais em quase todo o país.",
+          "sources": [
+            {
+              "id": "src-rs-50",
+              "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+              "publisher": "Partido Missão (site oficial)",
+              "url": "https://candidatos.missao.org.br/",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Página oficial do partido; consultada em 29/09/2026."
+            },
+            {
+              "id": "src-rs-34",
+              "title": "Missão oficializa 128 candidaturas para deputado e deixa em aberto apoio a governo e Senado por SP",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/07/missao-oficializa-128-candidaturas-para-deputado-e-deixa-em-aberto-apoio-a-governo-e-senado-por-sp.ghtml",
+              "publishedAt": "2026-08-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-rs-03",
+          "kind": "historico",
+          "title": "Coordenação das mobilizações de 2015-2016",
+          "role": "um dos coordenadores do Movimento Brasil Livre (MBL), citado como coordenador do movimento em cobertura da Agência Senado",
+          "complexity": "alcance nacional; atos em pelo menos 250 cidades em 13/03/2016 e ato na Avenida Paulista em 15/03/2015; articulação com movimentos distintos (Vem Pra Rua e Nas Ruas, com estruturas próprias)",
+          "outcome": "atos realizados nas datas convocadas; o comitê entregou ao presidente da Câmara pedido de impeachment com assinaturas populares",
+          "period": "2014-2016",
+          "context": "Mobilizações convocadas por redes sociais, com estimativas de público divergentes entre organizadores e imprensa.",
+          "sources": [
+            {
+              "id": "src-rs-42",
+              "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+              "publisher": "Agência Senado",
+              "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+              "publishedAt": "2015-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Data aproximada (março/2015)."
+            },
+            {
+              "id": "src-rs-43",
+              "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+              "publisher": "Câmara dos Deputados (Agência)",
+              "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+              "publishedAt": "2015-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+            },
+            {
+              "id": "src-rs-62",
+              "title": "Líder do MBL, que pede impeachment de Dilma, responde a mais de 60 processos (Renan Santos, um dos coordenadores do MBL)",
+              "publisher": "Brasil de Fato",
+              "url": "https://www.brasildefato.com.br/2016/05/09/lider-do-mbl-que-pede-impeachment-de-dilma-responde-a-mais-de-60-processos",
+              "publishedAt": "2016-05-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Usada exclusivamente para o papel exercido ('um dos coordenadores do Movimento Brasil Livre')."
+            },
+            {
+              "id": "src-rs-49",
+              "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+              "publisher": "El País Brasil",
+              "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+              "publishedAt": "2015-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-rs-04",
+          "kind": "historico",
+          "title": "Financiamento da campanha presidencial por doação coletiva",
+          "role": "candidato; coordenação da campanha conduzida por Amanda Vettorazzo",
+          "complexity": "alcance nacional; teto de gastos da campanha presidencial registrado em R$ 88.944.030,80; cota mínima de Fundo Eleitoral; recursos públicos priorizados para candidatos a cargos legislativos e estaduais",
+          "outcome": "liderança na arrecadação por vaquinha entre pré-candidatos, com mais de R$ 1 milhão até 05/07/2026",
+          "period": "2026",
+          "context": "Partido recém-registrado, com 1 deputado federal e sem estrutura de grandes legendas; a campanha foi desenhada para operar com doação de pessoas físicas e venda de livro.",
+          "sources": [
+            {
+              "id": "src-rs-30",
+              "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+              "publishedAt": "2026-07-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-58",
+              "title": "Vaquinhas eleitorais: líderes de arrecadação receberam juntos R$ 3 milhões e têm presença forte nas redes sociais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/05/vaquinhas-eleitorais-lideres-de-arrecadacao.ghtml",
+              "publishedAt": "2026-07-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Financiamento coletivo liberado desde 15/05/2026; Renan Santos liderava a arrecadação por vaquinha, com mais de R$ 1 milhão até a data."
+            },
+            {
+              "id": "src-rs-57",
+              "title": "Renan aposta em vaquinha, base do MBL e Faria Lima para disputar 2026 sem máquina partidária",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/renan-aposta-em-vaquinha-base-do-mbl-e-faria-lima-para-disputar-2026-sem-maquina-partidaria/",
+              "publishedAt": "2026-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mês; dia exato não capturado. Descreve a montagem da campanha fora dos meios tradicionais: sem tempo de TV relevante, com acesso à cota mínima do Fundo Eleitoral e apoiada na base do MBL e em doações."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-rs-05",
+          "kind": "historico",
+          "title": "Execução de roteiro de campanha no interior",
+          "role": "candidato",
+          "complexity": "alcance nacional; roteiro anunciado de 100 cidades; caravana pelo Centro-Oeste entre 19 e 26/07/2026; pré-candidato desconhecido por 77% do eleitorado em pesquisa Genial/Quaest",
+          "outcome": "roteiro executado no período anunciado; cobertura de imprensa registra limitação de estrutura partidária nas praças fora dos grandes centros",
+          "period": "2026",
+          "context": "Estratégia de interiorização diante de baixo conhecimento do eleitorado e de pouco tempo de televisão.",
+          "sources": [
+            {
+              "id": "src-rs-59",
+              "title": "Renan Santos vai ao interior para buscar ser mais conhecido",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/noticia/2026/07/20/renan-santos-vai-ao-interior-para-buscar-ser-mais-conhecido.ghtml",
+              "publishedAt": "2026-07-20",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Pré-candidato desconhecido por 77% segundo Genial/Quaest; plano de concluir roteiro de 100 cidades naquela semana."
+            },
+            {
+              "id": "src-rs-60",
+              "title": "Renan aposta no interior para crescer, mas esbarra na estrutura do Missão",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-aposta-no-interior-para-crescer-mas-esbarra-na-estrutura-do-missao",
+              "publishedAt": "2026-08-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Relata a estratégia de campanha em cidades do interior e as limitações de estrutura partidária nas praças fora dos grandes centros."
+            },
+            {
+              "id": "src-rs-61",
+              "title": "Estreante em eleições, Renan Santos é empresário e fundador do MBL",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/01/estreante-em-eleicoes-renan-santos-e-empresario-e-fundador-do-mbl.ghtml",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "Participou da articulação do 'Comitê do Impeachment' (2015-2016), com reuniões documentadas com o então presidente da Câmara Eduardo Cunha e com o líder da oposição Aécio Neves, e o MBL admitiu apoio material de PSDB, PMDB, DEM e Solidariedade às mobilizações. Em 2026, conduziu agenda com entidades e lideranças empresariais (conferência do Banco Santander, agenda em Brasília e encontro na Câmara Americana de Comércio) e negociou internamente a destinação do Fundo Eleitoral, priorizando os candidatos do partido a cargos legislativos e estaduais. A chapa presidencial foi registrada como partido isolado, sem coligação ou federação.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-rs-06",
+          "kind": "historico",
+          "title": "Articulação do 'Comitê do Impeachment' com partidos e com a presidência da Câmara",
+          "role": "um dos líderes do comitê, com reuniões em Brasília com o presidente da Câmara Eduardo Cunha e com o líder da oposição Aécio Neves",
+          "complexity": "alcance nacional; interlocução com 4 partidos (PSDB, PMDB, DEM e Solidariedade) e com a presidência da Câmara; movimento com estrutura própria",
+          "outcome": "pedido com assinaturas populares entregue à Câmara; abertura do processo de impeachment admitida por Eduardo Cunha em 02/12/2015",
+          "period": "2015-2016",
+          "context": "Movimento sem representação parlamentar própria, que dependia de interlocução com dirigentes partidários e com a mesa da Câmara para viabilizar o pedido.",
+          "sources": [
+            {
+              "id": "src-rs-43",
+              "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+              "publisher": "Câmara dos Deputados (Agência)",
+              "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+              "publishedAt": "2015-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+            },
+            {
+              "id": "src-rs-25",
+              "title": "Renan Santos — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+            },
+            {
+              "id": "src-rs-42",
+              "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+              "publisher": "Agência Senado",
+              "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+              "publishedAt": "2015-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Data aproximada (março/2015)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-rs-07",
+          "kind": "historico",
+          "title": "Apoio material de partidos às mobilizações do MBL (2016)",
+          "role": "um dos coordenadores do MBL",
+          "complexity": "4 partidos (PSDB, PMDB, DEM e Solidariedade); aporte de transporte (ônibus) e alimentação às mobilizações",
+          "outcome": "apoio admitido em gravação divulgada em fevereiro de 2016, apesar do discurso apartidário do movimento",
+          "period": "2016",
+          "context": "Relação com as máquinas partidárias em ano de votação do impeachment na Câmara.",
+          "sources": [
+            {
+              "id": "src-rs-25",
+              "title": "Renan Santos — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "ev-cap-rs-08",
+          "kind": "historico",
+          "title": "Agenda com entidades e lideranças empresariais na campanha de 2026",
+          "role": "candidato à Presidência",
+          "complexity": "alcance nacional; exposição em conferência do Banco Santander em São Paulo (17/08), agenda de encontros em Brasília (18/08) e encontro na Câmara Americana de Comércio (10/09/2026)",
+          "outcome": "diálogo registrado e plano econômico apresentado; ao final da agenda, a imprensa registrava que o apoio declarado de empresários seguia restrito",
+          "period": "2026",
+          "context": "Candidato fora do campo de governo, buscando interlocução com setor empresarial que também negociava com outras candidaturas.",
+          "sources": [
+            {
+              "id": "src-rs-51",
+              "title": "Renan Santos atrai empresários, mas apoio aberto ainda engatinha (agenda com Banco Santander e agenda em Brasília)",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-economico-de-renan-santos-atrai-empresarios-mas-apoio-ainda-engatinha/",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Dia exato não capturado; publicado após o lançamento da candidatura (16/08/2026). Descreve a agenda de contatos no mundo empresarial: conferência do Banco Santander em SP (17/08) e agenda em Brasília (18/08); empresários elogiam o plano, mas apoio declarado ainda é escasso."
+            },
+            {
+              "id": "src-rs-52",
+              "title": "Renan Santos, candidato do Missão à Presidência, cumpre agenda em São Paulo (encontro na Câmara Americana de Comércio)",
+              "publisher": "g1 (Globo) — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/10/renan-santos-candidato-do-missao-a-presidencia-cumpre-agenda-em-sao-paulo.ghtml",
+              "publishedAt": "2026-09-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Encontro na Câmara Americana de Comércio (AmCham), entidade empresarial de negociações bilaterais Brasil-Estados Unidos."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-rs-09",
+          "kind": "historico",
+          "title": "Negociação interna da destinação do Fundo Eleitoral",
+          "role": "presidente nacional e candidato; coordenação de campanha de Amanda Vettorazzo",
+          "complexity": "partido com 535 candidaturas em 25 estados e no DF; cota mínima de Fundo Eleitoral para a chapa presidencial; campanha presidencial sustentada por vaquinha e venda de livro",
+          "outcome": "campanha presidencial abriu mão de recursos do Fundo Eleitoral e manteve os repasses públicos para os candidatos proporcionais e estaduais",
+          "period": "2026",
+          "context": "Partido estreante, com recursos escassos, precisou escolher entre financiar a chapa presidencial ou as candidaturas com chance de eleição.",
+          "sources": [
+            {
+              "id": "src-rs-30",
+              "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+              "publishedAt": "2026-07-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-57",
+              "title": "Renan aposta em vaquinha, base do MBL e Faria Lima para disputar 2026 sem máquina partidária",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/renan-aposta-em-vaquinha-base-do-mbl-e-faria-lima-para-disputar-2026-sem-maquina-partidaria/",
+              "publishedAt": "2026-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mês; dia exato não capturado. Descreve a montagem da campanha fora dos meios tradicionais: sem tempo de TV relevante, com acesso à cota mínima do Fundo Eleitoral e apoiada na base do MBL e em doações."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-rs-10",
+          "kind": "historico",
+          "title": "Opção por chapa pura e por não citar linguagem religiosa na campanha",
+          "role": "cabeça de chapa; vice Coronel Medina (MISSÃO)",
+          "complexity": "alcance nacional; chapa sem coligação ou federação registrada; vice do mesmo partido",
+          "outcome": "chapa pura registrada e deferida em 09/09/2026; opção por não usar referência religiosa gerou reação de lideranças políticas em Brasília",
+          "period": "2026",
+          "context": "Decisão de disputar isolado e de manter distância de uma base eleitoral historicamente ligada ao campo conservador.",
+          "sources": [
+            {
+              "id": "src-rs-06",
+              "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+              "publisher": "Estadão (dados: TSE)",
+              "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+            },
+            {
+              "id": "src-rs-37",
+              "title": "Quem é Aroldo Medina, militar anunciado como vice na chapa de Renan Santos",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/07/02/quem-e-aroldo-medina-militar-da-reserva-do-rs-anunciado-como-vice-na-chapa-de-renan-santos-a-presidencia.ghtml",
+              "publishedAt": "2026-07-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-63",
+              "title": "O que Renan Santos diz sobre não citar Deus na campanha",
+              "publisher": "Estado de Minas (PlatôBR)",
+              "url": "https://www.em.com.br/politica/platobr/2026/08/7490472-o-que-renan-santos-diz-sobre-nao-citar-deus-na-campanha.html",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mês; dia exato não capturado. Reação de lideranças políticas em Brasília após o debate da Band e a sabatina do Jornal Nacional."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Cofundou o MBL em novembro de 2014 e atuou como um de seus coordenadores, em movimento que operava com estrutura própria, distinta de outros grupos. Preside o Partido Missão desde 17/10/2023, conduzindo a criação de diretórios e a montagem de 535 candidaturas em 25 estados e no DF, com 29.911 filiados em agosto de 2026. Na campanha presidencial, a coordenação é exercida por Amanda Vettorazzo, com equipe descrita como enxuta e financiada por doações coletivas; não há quadro de pessoal nem organograma publicados.",
+      "coverageNote": "Partido e campanha não publicam quadro de pessoal, número de integrantes de equipe ou organograma; as evidências de liderança e delegação vêm de papéis nominais citados pela imprensa (coordenação de campanha, coordenação de campanhas de aliados) e da montagem de estruturas (diretórios, chapas, atos).",
+      "evidences": [
+        {
+          "id": "ev-cap-rs-11",
+          "kind": "historico",
+          "title": "Cofundação e coordenação do Movimento Brasil Livre",
+          "role": "cofundador (nov/2014) e um dos coordenadores do MBL",
+          "complexity": "alcance nacional; mobilizações em pelo menos 250 cidades; coordenação de atos com estrutura própria (carros de som e organização distintos de Vem Pra Rua e Nas Ruas)",
+          "outcome": "movimento consolidado como um dos organizadores das manifestações de 2015-2016 e origem da legenda registrada em 2025",
+          "period": "2014-2016",
+          "context": "Grupo iniciado a partir de articulação em Vinhedo (SP), sem estrutura partidária prévia.",
+          "sources": [
+            {
+              "id": "src-rs-24",
+              "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+              "publisher": "Jota",
+              "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+            },
+            {
+              "id": "src-rs-42",
+              "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+              "publisher": "Agência Senado",
+              "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+              "publishedAt": "2015-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo",
+              "notes": "Data aproximada (março/2015)."
+            },
+            {
+              "id": "src-rs-49",
+              "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+              "publisher": "El País Brasil",
+              "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+              "publishedAt": "2015-08-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-62",
+              "title": "Líder do MBL, que pede impeachment de Dilma, responde a mais de 60 processos (Renan Santos, um dos coordenadores do MBL)",
+              "publisher": "Brasil de Fato",
+              "url": "https://www.brasildefato.com.br/2016/05/09/lider-do-mbl-que-pede-impeachment-de-dilma-responde-a-mais-de-60-processos",
+              "publishedAt": "2016-05-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Usada exclusivamente para o papel exercido ('um dos coordenadores do Movimento Brasil Livre')."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-rs-12",
+          "kind": "historico",
+          "title": "Presidência nacional do Partido Missão e montagem da estrutura partidária",
+          "role": "1º presidente nacional do Partido Missão, no cargo desde 17/10/2023",
+          "complexity": "alcance nacional; estatuto e programa publicados no DOU em 18/10/2023; 29.911 filiados em agosto de 2026; 535 candidaturas em 25 estados e no DF",
+          "outcome": "legenda registrada em 04/11/2025 e primeira eleição disputada em 2026 com chapas em 25 estados e no DF",
+          "period": "2023-2026",
+          "context": "Criação e operação de uma estrutura partidária nacional a partir de um movimento sem registro eleitoral.",
+          "sources": [
+            {
+              "id": "src-rs-01",
+              "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+              "publishedAt": "2025-11-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+            },
+            {
+              "id": "src-rs-36",
+              "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+            },
+            {
+              "id": "src-rs-50",
+              "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+              "publisher": "Partido Missão (site oficial)",
+              "url": "https://candidatos.missao.org.br/",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Página oficial do partido; consultada em 29/09/2026."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-rs-13",
+          "kind": "historico",
+          "title": "Coordenação da campanha presidencial de 2026",
+          "role": "candidato; coordenação de campanha atribuída a Amanda Vettorazzo",
+          "complexity": "alcance nacional; equipe descrita como 'estrutura enxuta', financiada por vaquinha e venda de livro; sem dependência de Fundo Eleitoral para a chapa presidencial",
+          "outcome": "campanha em operação com coordenação nomeada e estrutura própria; imprensa registra limites de estrutura nas praças do interior",
+          "period": "2026",
+          "context": "Campanha de partido recém-criado, com pouco tempo de televisão e equipe reduzida em relação a legendas com bancada maior.",
+          "sources": [
+            {
+              "id": "src-rs-30",
+              "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+              "publishedAt": "2026-07-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-54",
+              "title": "Campanha de Renan Santos aposta em vaquinha e venda de livro para financiamento ('estrutura enxuta')",
+              "publisher": "CNN Brasil (republicado por PAIPEE)",
+              "url": "https://br.paipee.com/2026/08/16/campanha-de-renan-santos-aposta-em-vaquinha-e-venda-de-livro-para-financiamento/",
+              "publishedAt": "2026-08-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Republicação da reportagem da CNN Brasil; campanha descrita como 'estrutura enxuta', financiada por vaquinha e venda de livro."
+            },
+            {
+              "id": "src-rs-60",
+              "title": "Renan aposta no interior para crescer, mas esbarra na estrutura do Missão",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-aposta-no-interior-para-crescer-mas-esbarra-na-estrutura-do-missao",
+              "publishedAt": "2026-08-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Relata a estratégia de campanha em cidades do interior e as limitações de estrutura partidária nas praças fora dos grandes centros."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-rs-14",
+          "kind": "historico",
+          "title": "Coordenação de campanhas eleitorais de aliados do MBL",
+          "role": "coordenador das campanhas de Kim Kataguiri e de Arthur do Val",
+          "complexity": "campanhas para deputado federal e estadual em São Paulo, entre 2018 e 2022",
+          "outcome": "mandatos obtidos pelos candidatos coordenados; informação atribuída pela imprensa, não verificada em documentos de prestação de contas eleitoral",
+          "period": "2018-2022",
+          "context": "Atuação eleitoral anterior à criação do partido próprio, apoiando candidaturas do mesmo grupo político.",
+          "sources": [
+            {
+              "id": "src-rs-44",
+              "title": "Renan Santos é candidato à Presidência pelo partido Missão (coordenou campanhas de Kim Kataguiri e Arthur do Val)",
+              "publisher": "ISTOÉ",
+              "url": "https://istoe.com.br/renan-santos-candidato-presidencia-missao-mbl",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Ano; data exata não capturada."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "O documento registrado no TSE ('O futuro é glorioso', resumo de 51 páginas do Livro Amarelo, 14 pilares em três blocos) declara o objetivo de transformar o Brasil, em 30 anos, em uma das cinco maiores potências globais e assume cinco metas para 2030: nenhum território sob controle de facção, 6 mil favelas a menos e 8 milhões de novas casas, nenhum estado com mais Bolsa Família do que trabalho formal, redução da taxa de juros e nove em cada dez crianças alfabetizadas na idade certa. A imagem de país projetada é a de uma união entre tecnologia e natureza, descrita no plano como 'civilização tropical', com Norte e Nordeste integrados a cadeias produtivas globais.",
+    "nationalPriorities": [
+      "ajuste fiscal",
+      "segurança pública",
+      "desfavelização e habitação",
+      "pacto federativo e gestão por metas",
+      "infraestrutura",
+      "educação",
+      "saúde"
+    ],
+    "developmentModel": "O próprio plano declara adesão a pilares do pensamento liberal no aspecto econômico (contenção de gastos, reforma trabalhista e administrativa, redução de supersalários, austeridade) e rejeita explicitamente o que chama de 'versão vulgarizada' que 'falava vagamente em desburocratização e privatizações'. Ao Estado atribui: (a) fazer o ajuste fiscal já na transição de governo (PEC de Transição Fiscal, ajuste declarado de R$ 1,1 trilhão até 2031, com desindexação de benefícios do salário mínimo, revisão do abono salarial e nova reforma da Previdência com gatilho automático de idade e capitalização via FGTS); (b) reorganizar o pacto federativo (fusão de municípios — de 5.570 para 1.656, segundo a imprensa —, 'tutela federal' de municípios que não atingirem as metas de indicadores e Lei de Responsabilidade Gerencial, que condiciona recursos partidários e elegibilidade a metas de indicadores); (c) ampliar investimento em infraestrutura de cerca de 2% para pelo menos 4% do PIB, com metas como 40 mil km de malha ferroviária, Zonas Econômicas Especiais no Nordeste, planta-piloto de separação e refino de terras raras (2029-2030) e projetos de IA e agro (AgroBrasil 2030). O setor privado é destinatário declarado de segurança jurídica, de flexibilização das relações de trabalho e da substituição do Bolsa Família por frentes de trabalho remuneradas para a população em idade ativa. Tecnologia aparece como eixo transversal (IA no SUS com modelo de triagem por risco, semelhante ao DoctorSV de El Salvador, terras raras, agricultura); meio ambiente aparece como vantagem comparativa e como parte do projeto de 'civilização tropical'; desigualdade é tratada por desfavelização integral (prazo declarado de 10 anos) e por bolsas de mérito em substituição às cotas no ensino superior.",
+    "sources": [
+      {
+        "id": "src-rs-23",
+        "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+        "publisher": "TSE — DivulgaCandContas",
+        "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+        "publishedAt": "2026-08-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+      },
+      {
+        "id": "src-rs-70",
+        "title": "O Brasil de 2030 — propostas (site oficial da campanha)",
+        "publisher": "Renan Santos / Partido Missão",
+        "url": "https://www.renanpresidente.com.br/propostas",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Página oficial de campanha com as cinco metas para 2030 e o compromisso declarado de não disputar a reeleição em caso de descumprimento."
+      },
+      {
+        "id": "src-rs-71",
+        "title": "Livro Amarelo — resumo executivo 2026 (espelho do documento registrado no TSE)",
+        "publisher": "Renanpédia (espelho civil do Livro Amarelo)",
+        "url": "https://www.renanpedia.com/livro-amarelo-resumo-2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Espelho do resumo executivo de 51 páginas; contém a passagem 'transformar o Brasil, em 30 anos, em uma das cinco maiores potências globais' e as cinco metas para 2030."
+      },
+      {
+        "id": "src-rs-72",
+        "title": "O que diz o plano de governo de Renan Santos (Missão)",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-renan-santos-pretende-restaurar-o-brasil-plano-de-governo-candidato-missao/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Detalha a 'Grande Consolidação Municipal' (5.570 para 1.656 municípios) e a frente AgroBrasil 2030 com cinco pilares."
+      },
+      {
+        "id": "src-rs-19",
+        "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+        "publishedAt": "2026-08-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-20",
+        "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+        "publishedAt": "2026-07-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-21",
+        "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Setembro/2026; dia exato não capturado."
+      },
+      {
+        "id": "src-rs-46",
+        "title": "Anti-establishment candidate seeks to tap Brazil's younger right (perfil internacional da campanha)",
+        "publisher": "Valor Internacional",
+        "url": "https://valorinternational.globo.com/politics/news/2026/06/01/anti-establishment-candidate-seeks-to-tap-brazils-younger-right.ghtml",
+        "publishedAt": "2026-06-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      }
+    ],
+    "evidenceStatus": "confirmado",
+    "confidenceLevel": "high",
+    "methodology": "Extração do documento registrado no TSE (resumo executivo de 51 páginas do Livro Amarelo, aberto e lido integralmente a partir do espelho público) e das cinco metas para 2030 divulgadas pelo candidato em site oficial e imprensa; complemento por cobertura de g1, Valor, Gazeta do Povo e Exame. As prioridades listadas são as declaradas pelo próprio documento como capítulos/pilares (14 no total, agrupados em 3 blocos) reduzidas às sete apresentadas como metas de 2030, capítulos de abertura e eixos de campanha. O que não foi possível extrair: custeio e cronograma financeiro por meta de 2030 e a íntegra da obra de 500 páginas (somente o resumo executivo está público)."
+  }
 }

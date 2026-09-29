@@ -2729,6 +2729,126 @@
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa",
       "notes": "Página institucional do Datafolha com a série de aprovação/desaprovação e a avaliação ótimo/bom–ruim/péssimo do governo."
+    },
+    {
+      "id": "src-lula-90",
+      "title": "Decreto nº 11.632, de 11 de agosto de 2023 — institui o Novo PAC, o Comitê Gestor e o Grupo Executivo do PAC",
+      "publisher": "Planalto — Presidência da República",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11632.htm",
+      "publishedAt": "2023-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial",
+      "notes": "Texto integral do decreto com a composição do Comitê Gestor e do Grupo Executivo."
+    },
+    {
+      "id": "src-lula-91",
+      "title": "Em dois anos, investimentos do Novo PAC superam 53% do previsto até 2026",
+      "publisher": "Secretaria de Comunicação Social da Presidência (gov.br)",
+      "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/04/em-dois-anos-investimentos-do-novo-pac-atingem-53-7-do-previsto-ate-2026",
+      "publishedAt": "2025-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Execução de R$ 711 bi até o fim de 2024 (53,7% do total de R$ 1,3 tri previsto até 2026)."
+    },
+    {
+      "id": "src-lula-92",
+      "title": "Lula lança novo Bolsa Família, com valor mínimo de R$ 600, para 21,86 milhões de famílias",
+      "publisher": "Brasil de Fato",
+      "url": "https://brasildefato.com.br/2023/03/03/lula-launches-new-family-grant-with-a-minimum-value-of-115-brazilian-society-s-program",
+      "publishedAt": "2023-03-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Assinatura da MP em cerimônia no Palácio do Planalto (02/03/2023)."
+    },
+    {
+      "id": "src-lula-93",
+      "title": "Lei nº 14.601, de 19 de junho de 2023 — institui o Programa Bolsa Família (conversão da MP nº 1.164/2023)",
+      "publisher": "Planalto — Presidência da República",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+      "publishedAt": "2023-06-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial",
+      "notes": "Data e número conferidos no texto publicado (conversão da MP 1.164/2023); o Cadastro Único é a porta de entrada do programa."
+    },
+    {
+      "id": "src-lula-98",
+      "title": "Governo Lula recorre ao STF para validar reajuste do Bolsa Família antes da eleição (registra a Lei 14.601/2023 e a validação da regra de atualização pelo STF em jun/2024)",
+      "publisher": "Gazeta do Povo",
+      "url": "https://gazetadopovo.com.br/eleicoes/2026/governo-lula-recorre-ao-stf-para-validar-reajuste-do-bolsa-familia-antes-da-eleicao/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Fonte complementar sobre a regra legal de atualização periódica do programa."
+    },
+    {
+      "id": "src-lula-95",
+      "title": "Presidente Lula sanciona projeto de lei que consolida reestruturação das carreiras do Executivo federal",
+      "publisher": "Ministério da Gestão e da Inovação em Serviços Públicos (gov.br)",
+      "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/marco/presidente-lula-sanciona-projeto-de-lei-que-consolida-maior-reestruturacao-das-carreiras-do-executivo-em-um-mandato",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Projeto de Transformação do Estado conduzido pelo MGI desde 2023; sanção em março de 2026."
+    },
+    {
+      "id": "src-lula-94",
+      "title": "Brasil e 20 unidades da Federação alcançam meta de alfabetização (66% em 2025, meta de 64%)",
+      "publisher": "Inep — Instituto Nacional de Estudos e Pesquisas Educacionais",
+      "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/avaliacao-da-alfabetizacao/brasil-e-20-unidades-da-federacao-alcancam-meta-de-alfabetizacao",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Resultado do Compromisso Nacional Criança Alfabetizada; 66% dos estudantes do 2º ano alfabetizados em 2025."
+    },
+    {
+      "id": "src-lula-96",
+      "title": "Ministros de Lula: conheça os 37 nomes escolhidos para a equipe ministerial",
+      "publisher": "Gazeta do Povo",
+      "url": "https://gazetadopovo.com.br/republica/ministros-de-lula-quem-sao-escolhidos-perfil",
+      "publishedAt": "2022-12-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Composição anunciada antes da posse de 01/01/2023; 14 pastas a mais que o governo anterior, com distribuição entre partidos aliados."
+    },
+    {
+      "id": "src-lula-97",
+      "title": "Saiba quem são os 38 ministros do governo Lula",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/saiba-quem-sao-os-38-ministros-do-governo-lula",
+      "publishedAt": "2025",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lista atualizada após as mudanças de 2025, incluindo Gleisi Hoffmann na articulação política (fev/2025) e Alexandre Padilha na Saúde."
+    },
+    {
+      "id": "src-lula-80",
+      "title": "Programa de Governo — Diretrizes para o Programa de Transformação do Brasil: um país soberano, democrático, desenvolvido, sustentável e criativo (versão publicada pelo PT)",
+      "publisher": "Partido dos Trabalhadores (PT) — versão do programa registrado no TSE",
+      "url": "https://pt.org.br/wp-content/uploads/2026/08/08_06_JOB838_PT_livroplanodegoverno_260616_BOOK%20210x297mm_pg_solta_web.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "PDF de 84 páginas com camada de texto, lido diretamente (índice com 13 eixos e seção 'Compromisso com o projeto de nação'). Mesmo título do documento protocolado no TSE em 08/08/2026 (documento 280017016005)."
+    },
+    {
+      "id": "src-lula-81",
+      "title": "Programa Lula-Alckmin: transformação e compromisso com o povo que sonha e quer um futuro melhor",
+      "publisher": "PT — site oficial",
+      "url": "https://pt.org.br/programa-lula-alckmin-transformacao-e-compromisso-com-o-povo-que-sonha-e-quer-um-futuro-melhor/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Texto partidário de apresentação do programa protocolado pela coligação; a data exata de publicação não está legível na página (nota da coleta); usado para a descrição da soberania como 'princípio inegociável'."
+    },
+    {
+      "id": "src-lula-82",
+      "title": "Conselhão apresenta 'Pilares de um projeto de nação', um roteiro estratégico para o Brasil até 2035",
+      "publisher": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2025/12/04/conselhao-apresenta-pilares-de-um-projeto-de-nacao-um-roteiro-estrategico-para-o-brasil-ate-2035/",
+      "publishedAt": "2025-12-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Documento do CDESS (Conselho de Desenvolvimento Econômico Social Sustentável), órgão vinculado à Presidência da República; usado apenas para indicar que existe documento de governo com horizonte até 2035, atribuído ao órgão e não ao plano de campanha."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2739,6 +2859,702 @@
     "Cobertura da API da Câmara: 12 proposições localizadas (1987–1990); possível lacuna para proposições da legislatura 1991–1995 — leis aprovadas como autor principal = 0 com confiança média.",
     "Percentuais de propostas com custo, prazo e dependência de Congresso são contagem sobre as 8 propostas-chave da ficha, não sobre a íntegra dos 13 eixos (plano em texto corrido).",
     "Divergência de base na federação Brasil da Esperança: 84 cadeiras (g1/Estadão) vs 80 (DIAP) após a janela partidária de 2026.",
-    "Não foi consultado o DivulgaCandContas diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram de páginas oficiais e de imprensa que replicam a plataforma."
-  ]
+    "Não foi consultado o DivulgaCandContas diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram de páginas oficiais e de imprensa que replicam a plataforma.",
+    "Lula: não foram localizadas, nesta rodada, fontes primárias com a composição nominal completa do Comitê Gestor do Novo PAC nem atas de suas reuniões; a evidência se apoia no decreto de criação e no painel de execução.",
+    "Lula: a unificação dos programas de transferência de renda em 2003–2004 está sustentada em estudo do Ipea (2013) e na Lei 14.601/2023, sem ato normativo de 2003–2004 consultado diretamente nesta rodada (evidenceStatus parcial).",
+    "Flávio Bolsonaro: a Lei estadual 7.809/2017 consta apenas de fonte da campanha; a ficha da norma não foi localizada na base de legislação da ALERJ nesta rodada.",
+    "Flávio Bolsonaro: data exata do ato de renúncia à Terceira-Secretaria da Mesa do Senado (2021) não capturada nas fontes consultadas.",
+    "Flávio Bolsonaro: sem experiência em cargo executivo, não há evidência de gestão de secretariado ou de orçamento; as evidências de liderança são de comissões, Mesa do Senado e campanha.",
+    "Caiado: o número de cargos comissionados extintos na segunda etapa da reforma (4.406) foi apurado apenas em resumo de imprensa, sem consulta ao texto integral do projeto na Alego.",
+    "Zema: a contagem de '23 mudanças no secretariado' é levantamento de um único veículo e inclui o período posterior à renúncia; não foi usada como evidência isolada.",
+    "Zema: atas ou documentos de reunião das negociações entre o Estado e o Ministério da Fazenda sobre o Propag não foram consultados nesta rodada (fontes de imprensa).",
+    "Nenhum dos quatro planos registrados explicita metas quantificadas nem cronograma para um horizonte de 10 a 20 anos; o campo vision combina o projeto declarado no plano com o material de campanha de 2026 e, no caso de Lula, com documento do CDESS (governo) que propõe roteiro até 2035.",
+    "Lula: o espelho do programa no Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR; a leitura foi feita pela versão publicada pelo PT com o mesmo título e índice de 13 eixos.",
+    "Caiado: a URL do arquivo do plano no DivulgaCandContas não foi localizada nesta coleta; a base é o PDF publicado pela campanha e o espelho do Poder360.",
+    "Zema: a URL do arquivo do plano no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal); o plano não apresenta custo nem prazo para a maior parte das propostas.",
+    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "Programas de alcance nacional foram instituídos por ato normativo em dois ciclos: Bolsa Família (Lei 14.601/2023), Luz para Todos (Decreto 4.873/2003), ProUni (Lei 11.096/2005), Minha Casa Minha Vida (Lei 11.977/2009) e Novo PAC (Decreto 11.632/2023). Resultados registrados em fontes oficiais incluem R$ 711 bi executados pelo PAC até o fim de 2024 (53,7% do previsto até 2026) e 66% de crianças alfabetizadas em 2025, contra meta de 64% (Inep). A entrega anual passa pela sanção da LOA — a de 2026 foi sancionada com vetos de R$ 393–400 mi em emendas — e pela tramitação de projetos de reestruturação do Executivo no Congresso.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-lula-01",
+          "kind": "historico",
+          "title": "Novo PAC — instituição do programa, comitê gestor e execução da carteira",
+          "role": "Presidente da República, autor do decreto de criação do programa e da estrutura de governança",
+          "complexity": "Alcance nacional (27 UFs); R$ 1,8 trilhão previstos (R$ 1,3 tri até 2026); comitê gestor ministerial e grupo executivo; carteira de obras e equipamentos publicada em painel de transparência",
+          "outcome": "Decreto 11.632/2023 publicado em 11/08/2023 instituindo programa, comitê gestor e grupo executivo; R$ 711 bi executados até o fim de 2024 (53,7% do previsto até 2026)",
+          "period": "2023–2026",
+          "context": "Programa lançado no 3º mandato para retomar investimento em infraestrutura após a extinção do PAC anterior; execução acompanhada por painel público com execução física e orçamentária.",
+          "sources": [
+            {
+              "id": "src-lula-90",
+              "title": "Decreto nº 11.632, de 11 de agosto de 2023 — institui o Novo PAC, o Comitê Gestor e o Grupo Executivo do PAC",
+              "publisher": "Planalto — Presidência da República",
+              "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11632.htm",
+              "publishedAt": "2023-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial",
+              "notes": "Texto integral do decreto com a composição do Comitê Gestor e do Grupo Executivo."
+            },
+            {
+              "id": "src-lula-91",
+              "title": "Em dois anos, investimentos do Novo PAC superam 53% do previsto até 2026",
+              "publisher": "Secretaria de Comunicação Social da Presidência (gov.br)",
+              "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/04/em-dois-anos-investimentos-do-novo-pac-atingem-53-7-do-previsto-ate-2026",
+              "publishedAt": "2025-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Execução de R$ 711 bi até o fim de 2024 (53,7% do total de R$ 1,3 tri previsto até 2026)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-lula-02",
+          "kind": "historico",
+          "title": "Recriação do Bolsa Família por medida provisória convertida em lei",
+          "role": "Presidente da República — assinou a MP 1.164/2023 e sancionou a Lei 14.601/2023",
+          "complexity": "Nacional; 21,86 milhões de famílias atendidas no lançamento (mar/2023); valor mínimo de R$ 600; cadastro único como porta de entrada; regra legal de atualização periódica em intervalos de até 24 meses",
+          "outcome": "Programa recriado por lei em 19/06/2023; regra de atualização validada pelo STF em junho de 2024 como cumprimento de ordem judicial (segundo a fonte)",
+          "period": "2023–2024",
+          "context": "Recriação substituiu o Auxílio Brasil e reorganizou o desenho do programa, com pagamento pela Caixa e gestão pelo ministério da área social.",
+          "sources": [
+            {
+              "id": "src-lula-92",
+              "title": "Lula lança novo Bolsa Família, com valor mínimo de R$ 600, para 21,86 milhões de famílias",
+              "publisher": "Brasil de Fato",
+              "url": "https://brasildefato.com.br/2023/03/03/lula-launches-new-family-grant-with-a-minimum-value-of-115-brazilian-society-s-program",
+              "publishedAt": "2023-03-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Assinatura da MP em cerimônia no Palácio do Planalto (02/03/2023)."
+            },
+            {
+              "id": "src-lula-93",
+              "title": "Lei nº 14.601, de 19 de junho de 2023 — institui o Programa Bolsa Família (conversão da MP nº 1.164/2023)",
+              "publisher": "Planalto — Presidência da República",
+              "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+              "publishedAt": "2023-06-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial",
+              "notes": "Data e número conferidos no texto publicado (conversão da MP 1.164/2023); o Cadastro Único é a porta de entrada do programa."
+            },
+            {
+              "id": "src-lula-98",
+              "title": "Governo Lula recorre ao STF para validar reajuste do Bolsa Família antes da eleição (registra a Lei 14.601/2023 e a validação da regra de atualização pelo STF em jun/2024)",
+              "publisher": "Gazeta do Povo",
+              "url": "https://gazetadopovo.com.br/eleicoes/2026/governo-lula-recorre-ao-stf-para-validar-reajuste-do-bolsa-familia-antes-da-eleicao/",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Fonte complementar sobre a regra legal de atualização periódica do programa."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-lula-03",
+          "kind": "historico",
+          "title": "Instituição de programas federais por decreto e por lei (2003–2009)",
+          "role": "Presidente da República — atos de iniciativa própria (decreto e projeto de lei)",
+          "complexity": "Nacional; três programas estruturantes em seis anos: Luz para Todos (energia, Decreto 4.873/2003), ProUni (bolsas em instituições privadas, Lei 11.096/2005) e Minha Casa Minha Vida (habitação, Lei 11.977/2009)",
+          "outcome": "Programas instituídos por ato normativo e execução iniciada no período; o Minha Casa Minha Vida foi retomado por lei em setembro de 2023",
+          "period": "2003–2009",
+          "context": "Contexto de expansão de programas sociais nos dois primeiros mandatos; execução distribuída entre ministérios e estatais.",
+          "sources": [
+            {
+              "id": "src-lula-23",
+              "title": "Sobre o Programa Luz para Todos (Decreto 4.873/2003)",
+              "publisher": "Ministério de Minas e Energia",
+              "url": "https://www.gov.br/mme/pt-br/destaques/Programa%20Luz%20para%20Todos/sobre-o-programa",
+              "publishedAt": "não informado",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal"
+            },
+            {
+              "id": "src-lula-25",
+              "title": "ProUni virá lei — sanção da Lei 11.096/2005",
+              "publisher": "Memorial da Democracia",
+              "url": "https://memorialdademocracia.com.br/card/prouni-vira-lei",
+              "publishedAt": "2005-01-13",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial"
+            },
+            {
+              "id": "src-lula-54",
+              "title": "Sancionada lei que retoma o Minha Casa Minha Vida (criado em 2009)",
+              "publisher": "Jornal de Brasília",
+              "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/sancionada-lei-que-retoma-o-minha-casa-minha-vida/",
+              "publishedAt": "2023-09-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-lula-04",
+          "kind": "historico",
+          "title": "Sanção da Lei Orçamentária Anual de 2026 com vetos a emendas",
+          "role": "Presidente da República — sanção da LOA (Lei 15.346/2026)",
+          "complexity": "Orçamento federal de R$ 6,54 tri (inclui R$ 1,8 tri de refinanciamento da dívida); R$ 61 bi em emendas parlamentares no texto; R$ 393–400 mi vetados em emendas modificadas pelo Congresso e R$ 11 bi em recursos de destinação parlamentar barrados",
+          "outcome": "Lei sancionada em 14/01/2026 com superávit primário previsto de R$ 34,2 bi; vetos sujeitos a apreciação pelo Congresso",
+          "period": "2026",
+          "context": "Peculiaridade do ciclo: o orçamento foi sancionado em ano eleitoral e a execução segue o calendário da LOA.",
+          "sources": [
+            {
+              "id": "src-lula-39",
+              "title": "Lei nº 15.346, de 14 de janeiro de 2026 — LOA 2026",
+              "publisher": "Diário Oficial da União",
+              "url": "https://in.gov.br/web/dou/-/lei-n-15.346-de-14-de-janeiro-de-2026-*-681158465",
+              "publishedAt": "2026-01-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial"
+            },
+            {
+              "id": "src-lula-40",
+              "title": "Orçamento 2026 é sancionado com veto a R$ 400 milhões em emendas",
+              "publisher": "Câmara dos Deputados",
+              "url": "https://camara.leg.br/noticias/1238564-orcamento-2026-e-sancionado-com-veto-a-r-400-milhoes-em-emendas",
+              "publishedAt": "2026-01-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo"
+            },
+            {
+              "id": "src-lula-11",
+              "title": "Orçamento 2026 é sancionado com previsão de superávit de R$ 34,2 bi",
+              "publisher": "Senado Notícias",
+              "url": "https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-previsao-de-superavit-de-rs-34-2-bi",
+              "publishedAt": "2026-01-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-lula-05",
+          "kind": "historico",
+          "title": "Reestruturação de carreiras do Executivo federal (Projeto de Transformação do Estado)",
+          "role": "Presidente da República — sanção do projeto conduzido pelo Ministério da Gestão desde 2023",
+          "complexity": "Executivo federal; carreiras civis reorganizadas em múltiplos órgãos; universo de cerca de 1,0 mi de servidores ativos do Executivo federal (mar/2026, Portal da Transparência)",
+          "outcome": "Projeto de lei sancionado em março de 2026, conforme registro do próprio ministério responsável",
+          "period": "2023–2026",
+          "context": "Iniciativa transversal conduzida pelo MGI com órgãos do Executivo, dentro do projeto de Transformação do Estado.",
+          "sources": [
+            {
+              "id": "src-lula-95",
+              "title": "Presidente Lula sanciona projeto de lei que consolida reestruturação das carreiras do Executivo federal",
+              "publisher": "Ministério da Gestão e da Inovação em Serviços Públicos (gov.br)",
+              "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/marco/presidente-lula-sanciona-projeto-de-lei-que-consolida-maior-reestruturacao-das-carreiras-do-executivo-em-um-mandato",
+              "publishedAt": "2026-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Projeto de Transformação do Estado conduzido pelo MGI desde 2023; sanção em março de 2026."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-lula-06",
+          "kind": "historico",
+          "title": "Meta nacional de alfabetização atingida em 2025",
+          "role": "Presidente da República — programa federal de alfabetização executado com estados e municípios (Compromisso Nacional Criança Alfabetizada)",
+          "complexity": "Nacional; 27 UFs e redes municipais; avaliação do Inep sobre estudantes do 2º ano do ensino fundamental",
+          "outcome": "66% das crianças alfabetizadas em 2025, acima da meta de 64%; 20 unidades da Federação também alcançaram a meta",
+          "period": "2023–2025",
+          "context": "Indicador medido por avaliação federal (Inep) e mantido no plano de governo registrado no TSE para 2027–2030 (meta declarada de 80%).",
+          "sources": [
+            {
+              "id": "src-lula-94",
+              "title": "Brasil e 20 unidades da Federação alcançam meta de alfabetização (66% em 2025, meta de 64%)",
+              "publisher": "Inep — Instituto Nacional de Estudos e Pesquisas Educacionais",
+              "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/avaliacao-da-alfabetizacao/brasil-e-20-unidades-da-federacao-alcancam-meta-de-alfabetizacao",
+              "publishedAt": "2026-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial",
+              "notes": "Resultado do Compromisso Nacional Criança Alfabetizada; 66% dos estudantes do 2º ano alfabetizados em 2025."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "A negociação legislativa é documentada na reforma tributária (EC 132/2023), na sanção da LOA 2026 com vetos e no acordo de pauta fechado com os presidentes da Câmara e do Senado em agosto de 2026 (redução da jornada/escala 6x1, PEC da segurança pública, Redata, terras raras). A interlocução setorial inclui centrais sindicais (entrega da Agenda da Classe Trabalhadora, abr/2026), Anfavea (jul/2026), pastores evangélicos (set/2026) e jantar com cerca de 740 empresários e banqueiros (set/2026). A sustentação no Congresso é registrada com ministérios distribuídos a aliados, 72% de votos favoráveis nas votações de interesse e queda do alinhamento no Senado de 75% (2025) para 38,5% (2026), após a saída de União Brasil e PP do governo em set/2025.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-lula-07",
+          "kind": "historico",
+          "title": "Aprovação da reforma tributária (EC 132/2023) com o Congresso",
+          "role": "Presidente da República — liderou a articulação pela aprovação da proposta enviada pelo Executivo",
+          "complexity": "Nacional; duas Casas legislativas, quórum de 3/5 em dois turnos; transição de sete anos; regulamentação por leis complementares; arcabouço fiscal aprovado no mesmo ciclo",
+          "outcome": "Emenda Constitucional 132 promulgada em 20/12/2023; Lei 14.751/2023 (arcabouço fiscal) aprovada no mesmo período",
+          "period": "2023",
+          "context": "Agenda prioritária do 3º mandato; dependia de maioria qualificada e da tramitação simultânea do novo marco fiscal.",
+          "sources": [
+            {
+              "id": "src-lula-29",
+              "title": "Reforma tributária promulgada (EC 132)",
+              "publisher": "Agência Senado",
+              "url": "https://www12.senado.leg.br/noticias/materias/2023/12/21/reforma-tributaria-promulgada-principais-mudancas-dependem-de-novas-leis",
+              "publishedAt": "2023-12-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo"
+            },
+            {
+              "id": "src-lula-30",
+              "title": "Emenda Constitucional nº 132",
+              "publisher": "Planalto",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+              "publishedAt": "2023-12-20",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-lula-08",
+          "kind": "historico",
+          "title": "Acordo de pauta com os presidentes da Câmara e do Senado (ago/2026)",
+          "role": "Presidente da República — negociação direta com Hugo Motta (Câmara) e Davi Alcolumbre (Senado), com mediação de ministro de Relações Institucionais",
+          "complexity": "Atores: presidência da República, presidência da Câmara, presidência do Senado e líderes; pauta com cinco itens (redução da jornada, PEC da segurança pública, Redata, marco das terras raras, taxa das blusinhas); prazo de votação de MP fixado para 08/09/2026",
+          "outcome": "Prioridades de pauta definidas em almoço no Palácio da Alvorada em 26/08/2026; o PL da escala 6x1 foi enviado em regime de urgência em abr/2026 após almoço com o presidente da Câmara",
+          "period": "2026",
+          "context": "Ambiente de ano eleitoral e de queda do alinhamento do Senado; a negociação foi conduzida pessoalmente pelo presidente com os dois presidentes das Casas.",
+          "sources": [
+            {
+              "id": "src-lula-70",
+              "title": "Lula envia ao Congresso proposta de redução da escala 6 x 1",
+              "publisher": "Poder360",
+              "url": "https://poder360.com.br/poder-governo/lula-envia-ao-congresso-proposta-de-reducao-da-escala-6-x-1",
+              "publishedAt": "2026-04-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Envio em regime de urgência após almoço com o presidente da Câmara, Hugo Motta; acordo mediado por José Guimarães para tramitação conjunta do PL e da PEC."
+            },
+            {
+              "id": "src-lula-71",
+              "title": "Lula fecha acordo com Congresso para acelerar aprovação de promessas de campanha",
+              "publisher": "Observador (Portugal)",
+              "url": "https://observador.pt/2026/08/26/lula-fecha-acordo-com-congresso-para-acelerar-aprovacao-de-promessas-de-campanha/",
+              "publishedAt": "2026-08-26",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Almoço no Palácio da Alvorada com Hugo Motta (Câmara) e David Alcolumbre (Senado) em 26/08/2026: prioridades de pauta (redução da jornada, PEC de segurança, Redata, marco das terras raras, taxa das blusinhas)."
+            },
+            {
+              "id": "src-lula-72",
+              "title": "Lula diz que anunciará fim da taxa das blusinhas com Alcolumbre na próxima quarta-feira",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/economia/noticia/2026/08/23/lula-diz-que-anunciara-fim-da-taxa-das-blusinhas-com-alcolumbre-na-proxima-quarta-feira.ghtml",
+              "publishedAt": "2026-08-23",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Pressão direta de Lula sobre a cúpula do Congresso para votação da MP antes de 08/09/2026 (prazo de validade)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-lula-09",
+          "kind": "historico",
+          "title": "Base de sustentação no Congresso: fidelidade da base e rompimentos",
+          "role": "Presidente da República — chefe do Executivo responsável pela coalizão de governo",
+          "complexity": "Base partidária com ministérios distribuídos entre aliados; 72% dos votos de deputados de partidos com ministérios favoráveis ao Planalto nas votações de interesse; alinhamento no Senado de 75% (2025) para 38,5% (2026)",
+          "outcome": "Resultado documentado inclui a saída de União Brasil e PP do governo em set/2025, com apoio à pauta da anistia, e a queda do alinhamento no Senado registrada em 2026",
+          "period": "2023–2026",
+          "context": "Registro de resultado misto: fidelidade alta na Câmara entre partidos com ministérios e perda de alinhamento no Senado no ano eleitoral.",
+          "sources": [
+            {
+              "id": "src-lula-20",
+              "title": "Quais partidos passaram a votar menos com Lula no Congresso",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-congresso/saiba-quais-partidos-passaram-a-votar-menos-com-lula-no-congresso/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-lula-21",
+              "title": "União Brasil e PP decidem deixar governo e apoiar anistia",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2025/09/uniao-brasil-e-pp-decidem-deixar-governo-lula-mas-mantem-brecha-para-indicacoes-politicas.shtml",
+              "publishedAt": "2025-09-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-lula-22",
+              "title": "Terceiro mandato de Lula tem a coalizão mais infiel em 30 anos",
+              "publisher": "Agência Senado",
+              "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/757367/noticia.html?sequence=1&isAllowed=y",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-lula-10",
+          "kind": "historico",
+          "title": "Recebimento da Agenda da Classe Trabalhadora 2026–2030 das centrais sindicais",
+          "role": "Presidente da República — recebeu as centrais em audiência no Palácio do Planalto",
+          "complexity": "Seis centrais sindicais; documento com 68 reivindicações para o quadriênio; marcha da classe trabalhadora em Brasília",
+          "outcome": "Agenda entregue em 15/04/2026 no Planalto; pauta incluía a escala 6x1, que o Executivo enviou ao Congresso em regime de urgência em 14/04/2026",
+          "period": "2026",
+          "context": "Primeira entrega formal de pauta unitária das centrais no ciclo eleitoral.",
+          "sources": [
+            {
+              "id": "src-lula-64",
+              "title": "Presidente Lula recebe reivindicações de centrais sindicais para o período de 2026 a 2030",
+              "publisher": "Planalto — Casa Civil (gov.br)",
+              "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/04/presidente-lula-recebe-reivindicacoes-de-centrais-sindicais-para-o-periodo-de-2026-a-2030",
+              "publishedAt": "2026-04-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Reunião no Palácio do Planalto em 15/04/2026; entrega da Agenda da Classe Trabalhadora 2026–2030 com 68 reivindicações (Conclat)."
+            },
+            {
+              "id": "src-lula-65",
+              "title": "CUT e Centrais se reúnem com Lula para entrega da Agenda da Classe Trabalhadora",
+              "publisher": "CUT — Central Única dos Trabalhadores",
+              "url": "https://cut.org.br/noticias/cut-e-centrais-se-reunem-com-lula-para-entrega-da-agenda-da-classe-trabalhadora-31ef",
+              "publishedAt": "2026-04-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Presença de Alckmin, Luiz Marinho e Guilherme Boulos; mesma reunião relatada pelo gov.br."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-lula-11",
+          "kind": "historico",
+          "title": "Interlocução com indústria, empresários e mercado financeiro",
+          "role": "Presidente da República — recebeu entidades setoriais no Planalto e promoveu jantar com empresários",
+          "complexity": "Indústria automotiva (Anfavea, 14/07/2026); cerca de 740 empresários, banqueiros e economistas em jantar em São Paulo (25/09/2026), o segundo em menos de um mês",
+          "outcome": "Agenda realizada com pauta de responsabilidade fiscal, estabilidade e soberania; crise do setor industrial tratada como responsabilidade do governo na reunião com a Anfavea",
+          "period": "2026",
+          "context": "Diálogo com setores que financiam campanhas e reagem a medidas fiscais, às vésperas do pleito.",
+          "sources": [
+            {
+              "id": "src-lula-68",
+              "title": "A empresários, Lula defende responsabilidade fiscal, estabilidade e soberania",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/a-empresrios-lula-defende-responsabilidade-fiscal-estabilidade-e-soberania.ghtml",
+              "publishedAt": "2026-09-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Jantar em São Paulo com cerca de 740 empresários, economistas e políticos (686 empresários); segundo jantar desse tipo em menos de um mês (o anterior, em 31/08/2026, no Alvorada, com 16 representantes do setor privado)."
+            },
+            {
+              "id": "src-lula-69",
+              "title": "Em reunião com Anfavea, Lula diz que crise no setor industrial também é problema do governo",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/brasil/noticia/2026/07/14/em-reuniao-com-anfavea-lula-diz-que-crise-no-setor-industrial-tambem-e-problema-do-governo.ghtml",
+              "publishedAt": "2026-07-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Reunião no Planalto com o presidente da Anfavea, Igor Calvet, e ministros (Fazenda, Desenvolvimento, Casa Civil)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-lula-12",
+          "kind": "historico",
+          "title": "Encontro com lideranças evangélicas no Planalto",
+          "role": "Presidente da República — recebeu pastores em audiência no Palácio do Planalto",
+          "complexity": "Cerca de 20 pastores do Brasil, dos Estados Unidos e de Cuba; pauta sobre atuação política em igrejas",
+          "outcome": "Encontro realizado em 16/09/2026; o presidente declarou que não fará ato político em igrejas e fará comício na rua",
+          "period": "2026",
+          "context": "Segmento com peso eleitoral relevante; registro da fonte sobre a posição do candidato quanto ao uso de igrejas na campanha.",
+          "sources": [
+            {
+              "id": "src-lula-66",
+              "title": "Lula recebe evangélicos no Planalto às vésperas da eleição e volta a condenar política em igrejas",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-recebe-evangelicos-no-planalto-as-vesperas-da-eleicao-e-volta-a-condenar-politica-em-igrejas.shtml",
+              "publishedAt": "2026-09-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Encontro em 16/09/2026 com cerca de 20 pastores do Brasil, dos EUA e de Cuba, articulado pela Frente de Evangélicos pelo Estado de Direito com Janja Lula da Silva."
+            },
+            {
+              "id": "src-lula-67",
+              "title": "Lula se reúne com pastores e diz que não fará ato político em igrejas",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/noticia/2026/09/16/lula-se-reune-com-pastores-e-diz-que-nao-fara-ato-politico-em-igrejas-comicio-eu-faco-na-rua.ghtml",
+              "publishedAt": "2026-09-16",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mesmo encontro de 16/09/2026; presença do AGU Jorge Messias."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Formou e recompôs o primeiro escalão federal: 37 ministros anunciados para a posse de 2023, 38 pastas em 2025–2026 e troca no comando da articulação política em fevereiro de 2025 (Gleisi Hoffmann em Relações Institucionais; Padilha na Saúde). Instituiu por decreto a governança do Novo PAC (comitê gestor ministerial e grupo executivo) e decidiu, em 2003, a unificação de programas de transferência de renda sob cadastro único. Em 2023–2026 dirigiu o projeto de reestruturação de carreiras do Executivo conduzido pelo Ministério da Gestão.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-lula-13",
+          "kind": "historico",
+          "title": "Composição do ministério para o mandato iniciado em 2023 e recomposição em 2025",
+          "role": "Presidente da República — nomeação dos titulares das pastas",
+          "complexity": "37 ministros anunciados para a posse (14 pastas a mais que o governo anterior), distribuídos entre partidos aliados; 38 pastas em 2025–2026; troca de titulares em 2025 (Relações Institucionais e Saúde) e criação de nova pasta",
+          "outcome": "Equipe empossada em 01/01/2023 e recomposição efetivada em fev/2025; a base de partidos com ministérios registrou 72% de votos favoráveis ao governo nas votações de interesse",
+          "period": "2022–2026",
+          "context": "Composição usada como instrumento de construção de base parlamentar, segundo a descrição das próprias coberturas jornalísticas.",
+          "sources": [
+            {
+              "id": "src-lula-96",
+              "title": "Ministros de Lula: conheça os 37 nomes escolhidos para a equipe ministerial",
+              "publisher": "Gazeta do Povo",
+              "url": "https://gazetadopovo.com.br/republica/ministros-de-lula-quem-sao-escolhidos-perfil",
+              "publishedAt": "2022-12-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Composição anunciada antes da posse de 01/01/2023; 14 pastas a mais que o governo anterior, com distribuição entre partidos aliados."
+            },
+            {
+              "id": "src-lula-97",
+              "title": "Saiba quem são os 38 ministros do governo Lula",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/politica/saiba-quem-sao-os-38-ministros-do-governo-lula",
+              "publishedAt": "2025",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Lista atualizada após as mudanças de 2025, incluindo Gleisi Hoffmann na articulação política (fev/2025) e Alexandre Padilha na Saúde."
+            },
+            {
+              "id": "src-lula-22",
+              "title": "Terceiro mandato de Lula tem a coalizão mais infiel em 30 anos",
+              "publisher": "Agência Senado",
+              "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/757367/noticia.html?sequence=1&isAllowed=y",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "legislativo"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-lula-14",
+          "kind": "historico",
+          "title": "Governança do Novo PAC: comitê gestor ministerial e grupo executivo",
+          "role": "Presidente da República — instituiu a estrutura por decreto e indicou a composição do comitê",
+          "complexity": "Alcance nacional; comitê gestor com ministros e grupo executivo para a carteira de investimentos; duração plurianual (2023–2026, com carteira que ultrapassa o mandato)",
+          "outcome": "Estrutura formalizada no Decreto 11.632/2023; execução de R$ 711 bi até o fim de 2024, com acompanhamento por painel público de transparência",
+          "period": "2023–2026",
+          "context": "Programa de execução descentralizada entre ministérios, estatais e estados, exigindo instância de coordenação permanente.",
+          "sources": [
+            {
+              "id": "src-lula-90",
+              "title": "Decreto nº 11.632, de 11 de agosto de 2023 — institui o Novo PAC, o Comitê Gestor e o Grupo Executivo do PAC",
+              "publisher": "Planalto — Presidência da República",
+              "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11632.htm",
+              "publishedAt": "2023-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial",
+              "notes": "Texto integral do decreto com a composição do Comitê Gestor e do Grupo Executivo."
+            },
+            {
+              "id": "src-lula-91",
+              "title": "Em dois anos, investimentos do Novo PAC superam 53% do previsto até 2026",
+              "publisher": "Secretaria de Comunicação Social da Presidência (gov.br)",
+              "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/04/em-dois-anos-investimentos-do-novo-pac-atingem-53-7-do-previsto-ate-2026",
+              "publishedAt": "2025-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Execução de R$ 711 bi até o fim de 2024 (53,7% do total de R$ 1,3 tri previsto até 2026)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-lula-15",
+          "kind": "historico",
+          "title": "Unificação de programas de transferência de renda sob cadastro único (2003–2007)",
+          "role": "Presidente da República — decisão de unificar os programas e de manter o cadastro único como porta de entrada",
+          "complexity": "Programas até então executados por pastas distintas (Educação, Saúde e Segurança Alimentar) consolidados em um programa único com cadastro nacional; execução posterior com municípios e Caixa",
+          "outcome": "Programa unificado e ampliado, apresentado por estudo do Ipea como referência; a porta de entrada por cadastro único é mantida na Lei 14.601/2023",
+          "period": "2003–2007",
+          "context": "A unificação exigiu integrar cadastros e equipes de três áreas do governo federal.",
+          "sources": [
+            {
+              "id": "src-lula-24",
+              "title": "Uma década de Bolsa Família (Ipea)",
+              "publisher": "Ipea",
+              "url": "http://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2945:catid=28",
+              "publishedAt": "2013",
+              "accessedAt": "2026-09-29",
+              "sourceType": "transparencia"
+            },
+            {
+              "id": "src-lula-93",
+              "title": "Lei nº 14.601, de 19 de junho de 2023 — institui o Programa Bolsa Família (conversão da MP nº 1.164/2023)",
+              "publisher": "Planalto — Presidência da República",
+              "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+              "publishedAt": "2023-06-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "diario_oficial",
+              "notes": "Data e número conferidos no texto publicado (conversão da MP 1.164/2023); o Cadastro Único é a porta de entrada do programa."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-lula-16",
+          "kind": "historico",
+          "title": "Delegação da interlocução com o Congresso a ministro da articulação política",
+          "role": "Presidente da República — designou o ministro de Relações Institucionais como mediador da pauta trabalhista",
+          "complexity": "Pauta de alcance nacional (fim da escala 6x1 e jornada de 40 horas) negociada com a presidência da Câmara e com a PEC em tramitação; mediação conduzida pelo ministro José Guimarães",
+          "outcome": "PL enviado ao Congresso em regime de urgência em 14/04/2026, com tramitação conjunta à PEC já em curso",
+          "period": "2026",
+          "context": "Tema de apelo eleitoral e de alto custo para o setor de serviços; o Executivo optou por conduzir a negociação por um ministro dedicado à articulação política.",
+          "sources": [
+            {
+              "id": "src-lula-70",
+              "title": "Lula envia ao Congresso proposta de redução da escala 6 x 1",
+              "publisher": "Poder360",
+              "url": "https://poder360.com.br/poder-governo/lula-envia-ao-congresso-proposta-de-reducao-da-escala-6-x-1",
+              "publishedAt": "2026-04-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Envio em regime de urgência após almoço com o presidente da Câmara, Hugo Motta; acordo mediado por José Guimarães para tramitação conjunta do PL e da PEC."
+            },
+            {
+              "id": "src-lula-64",
+              "title": "Presidente Lula recebe reivindicações de centrais sindicais para o período de 2026 a 2030",
+              "publisher": "Planalto — Casa Civil (gov.br)",
+              "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/04/presidente-lula-recebe-reivindicacoes-de-centrais-sindicais-para-o-periodo-de-2026-a-2030",
+              "publishedAt": "2026-04-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "executivo_federal",
+              "notes": "Reunião no Palácio do Planalto em 15/04/2026; entrega da Agenda da Classe Trabalhadora 2026–2030 com 68 reivindicações (Conclat)."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "O programa registrado descreve um Brasil para as próximas décadas como 'potência criativa, sustentável, democrática e soberana, com menos desigualdades', apresentando a soberania como princípio inegociável e o mandato 2027–2030 como continuidade do projeto de ampliação de direitos e reconstrução do Estado. O texto não fixa um horizonte de 10 a 20 anos: o compromisso é com a 'transformação estrutural do país' e com o fortalecimento do planejamento estatal. Um documento do CDESS (Conselhão), órgão vinculado à Presidência, propõe um roteiro estratégico até 2035, citado aqui como material de governo e não como proposta de campanha.",
+    "nationalPriorities": [
+      "Fortalecer a democracia, a participação social e modernizar o Estado",
+      "Combater as desigualdades (transferência de renda, valorização do salário mínimo e saída do Mapa da Fome)",
+      "Proteger a vida com uma segurança pública mais eficiente e integrada",
+      "Garantir o direito à educação (alfabetização na idade adequada, tempo integral, institutos federais e universidades)",
+      "Fortalecer a saúde com equidade, inovação e soberania (atenção primária, prontuário único, produção nacional de medicamentos e vacinas)",
+      "Promover uma economia sustentável, produtiva e digital (arcabouço fiscal, aprofundamento da reforma tributária e Novo PAC)",
+      "Defender a soberania nacional e o protagonismo internacional do Brasil"
+    ],
+    "developmentModel": "O programa atribui ao Estado papel de planejador e indutor: 'não há desenvolvimento sem soberania em áreas estratégicas, capacidade industrial, domínio tecnológico e projeto nacional', com ênfase em ampliar a capacidade de planejamento, fortalecer a base produtiva e tecnológica e democratizar o orçamento público. O crescimento é associado à manutenção do arcabouço fiscal, ao investimento público (Novo PAC, leilões de rodovias e ferrovias, Petrobras e Minha Casa Minha Vida) e a uma política de transição energética e climática (matriz limpa, meta de desmatamento líquido zero até 2030 e trajetória de redução de emissões de 59%–67%). Trabalho aparece como eixo próprio (fim da escala 6x1, jornada de 40 horas sem redução salarial, regras para trabalho por aplicativos), e a redução de desigualdades é objetivo declarado, combinada com a continuidade de transferências de renda e políticas de educação e saúde. O setor privado é tratado como parceiro de investimento em infraestrutura e inovação, subordinado, no texto, às prioridades de soberania tecnológica e industrial.",
+    "sources": [
+      {
+        "id": "src-lula-06",
+        "title": "Programa de Governo Lula/Alckmin 2026 — documento registrado no TSE",
+        "publisher": "TSE — DivulgaCandContas",
+        "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+        "publishedAt": "2026-08-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-lula-07",
+        "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+        "publisher": "Poder360",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-lula-80",
+        "title": "Programa de Governo — Diretrizes para o Programa de Transformação do Brasil: um país soberano, democrático, desenvolvido, sustentável e criativo (versão publicada pelo PT)",
+        "publisher": "Partido dos Trabalhadores (PT) — versão do programa registrado no TSE",
+        "url": "https://pt.org.br/wp-content/uploads/2026/08/08_06_JOB838_PT_livroplanodegoverno_260616_BOOK%20210x297mm_pg_solta_web.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF de 84 páginas com camada de texto, lido diretamente (índice com 13 eixos e seção 'Compromisso com o projeto de nação'). Mesmo título do documento protocolado no TSE em 08/08/2026 (documento 280017016005)."
+      },
+      {
+        "id": "src-lula-05",
+        "title": "Lula: veja as propostas do candidato a reeleição (13 eixos)",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/27/lula-veja-as-propostas-do-candidato-a-reeleicao.ghtml",
+        "publishedAt": "2026-08-27",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-lula-81",
+        "title": "Programa Lula-Alckmin: transformação e compromisso com o povo que sonha e quer um futuro melhor",
+        "publisher": "PT — site oficial",
+        "url": "https://pt.org.br/programa-lula-alckmin-transformacao-e-compromisso-com-o-povo-que-sonha-e-quer-um-futuro-melhor/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Texto partidário de apresentação do programa protocolado pela coligação; a data exata de publicação não está legível na página (nota da coleta); usado para a descrição da soberania como 'princípio inegociável'."
+      },
+      {
+        "id": "src-lula-82",
+        "title": "Conselhão apresenta 'Pilares de um projeto de nação', um roteiro estratégico para o Brasil até 2035",
+        "publisher": "Brasil de Fato",
+        "url": "https://www.brasildefato.com.br/2025/12/04/conselhao-apresenta-pilares-de-um-projeto-de-nacao-um-roteiro-estrategico-para-o-brasil-ate-2035/",
+        "publishedAt": "2025-12-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Documento do CDESS (Conselho de Desenvolvimento Econômico Social Sustentável), órgão vinculado à Presidência da República; usado apenas para indicar que existe documento de governo com horizonte até 2035, atribuído ao órgão e não ao plano de campanha."
+      }
+    ],
+    "coverage": "documentada",
+    "coverageNote": "Plano registrado no TSE lido na íntegra (versão com camada de texto). O horizonte de 10–20 anos aparece de forma indireta: o programa fala em transformação estrutural sem data-limite, e o roteiro até 2035 localizado é documento do CDESS, órgão de governo.",
+    "evidenceStatus": "confirmado",
+    "confidenceLevel": "high",
+    "methodology": "Extraído do texto integral do programa registrado no TSE em 08/08/2026 (versão publicada pelo PT, 84 páginas, com índice de 13 eixos e a seção 'Compromisso com o projeto de nação'). O espelho do Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR. As 7 prioridades listadas são os eixos declarados pelo próprio programa, sem prioridades inferidas; os compromissos de campanha de 2026 (fim da escala 6x1, reforma tributária, soberania) aparecem em cobertura de imprensa e em material partidário citados nas fontes."
+  }
 }

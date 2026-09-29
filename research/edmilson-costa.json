@@ -1733,6 +1733,76 @@
       "accessedAt": "2026-09-29",
       "sourceType": "partidaria",
       "notes": "Convenção estadual do PCB-MG em 26/07/2026, na ALMG, oficializou chapa própria (Túlio Lopes ao governo); o texto registra que 'o partido definirá posteriormente sobre eventuais apoios a candidaturas ao Senado e à Câmara Federal'. Fonte do partido — usada com marcação partidária."
+    },
+    {
+      "id": "src-ec-71",
+      "title": "PCB oficializa candidaturas à Presidência",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/34109",
+      "publishedAt": "2026-08-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+    },
+    {
+      "id": "src-ec-73",
+      "title": "Edmilson Costa pré-candidato à presidência do Brasil",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/33675",
+      "publishedAt": "2026-02-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Comunicado: o Comitê Central do PCB, em reunião no início de fevereiro de 2026, decidiu lançar Edmilson Costa pré-candidato à Presidência ('Por um governo do Poder Popular')."
+    },
+    {
+      "id": "src-ec-74",
+      "title": "Programa do PCB para as Eleições Presidenciais de 2026 — Construir o Poder Popular, rumo ao Socialismo",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/34147",
+      "publishedAt": "2026-08-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Programa aprovado na convenção nacional de 01/08/2026 e registrado no TSE (documento do DivulgaCandContas 280017107286; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026)."
+    },
+    {
+      "id": "src-ec-75",
+      "title": "Para Edmilson Costa (PCB), Russomanno é um novo Collor",
+      "publisher": "PSOL São Paulo (psol50sp.org.br)",
+      "url": "https://psol50sp.org.br/2012/09/para-edmilson-costa-pcb-russomanno-e-um-novo-collor/",
+      "publishedAt": "2012-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Material de campanha de 2012: o candidato a vice-prefeito da Frente de Esquerda (PSOL/PCB) apresenta a chapa como instrumento 'pedagógico' para construir 'uma nova forma de fazer política'."
+    },
+    {
+      "id": "src-ec-72",
+      "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/16925",
+      "publishedAt": "2017-11-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+    },
+    {
+      "id": "src-ec-76",
+      "title": "EDMILSON COSTA SUBSTITUI IVAN PINHEIRO NA SECRETARIA GERAL DO PCB",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/12396",
+      "publishedAt": "2016-10-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Comunicado da Comissão Política Nacional (17/10/2016): Ivan Pinheiro formalizou o afastamento em reunião do Comitê Central (8 e 9/10/2016), que indicou Edmilson Costa por unanimidade; inclui a carta pública do novo secretário-geral à militância."
+    },
+    {
+      "id": "src-ec-70",
+      "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+      "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -1742,6 +1812,601 @@
     "Apoios do PCB a candidaturas de outros partidos em 2026 (PSOL e fora desse espectro) não aparecem nominalmente nas fontes consultadas — apenas a declaração qualitativa do candidato.",
     "Data exata da entrevista publicada pelo International Communist Press não está exposta na página (referência de agosto de 2026); a visita a Rio Branco (AC) também não tem data registrada na fonte.",
     "Diálogo e negociação com empresariado, lideranças religiosas e bancadas parlamentares em 2025–2026 não localizados; registros de 2025 escassos.",
-    "DivulgaCandContas não foi consultado diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram das páginas oficiais e de imprensa que replicam a plataforma."
-  ]
+    "DivulgaCandContas não foi consultado diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram das páginas oficiais e de imprensa que replicam a plataforma.",
+    "Nenhum dos quatro candidatos exerceu cargo executivo estatal: as evidências de execução, diálogo e liderança são de direção partidária (PCB, PSTU, PCO, Democrata), de movimento cultural/negro, de entidade profissional e de empresa privada.",
+    "Número de filiados, de quadros dirigentes e de pessoal remunerado das quatro legendas não é divulgado em fontes públicas acessíveis nesta rodada.",
+    "Não há registro de negociação coletiva ou de mesa de negociação com governos para nenhum dos quatro candidatos; o único vínculo sindical documentado de direção é o de Rui Costa Pimenta (diretor da CUT na Grande São Paulo, 1985).",
+    "Tamanho e composição das equipes coordenadas (rede de clínicas de Wilson Grassi, campanhas presidenciais) não constam das fontes consultadas.",
+    "Hertz Dias: não foi localizado registro de filiação sindical ou de cargo na direção nacional do PSTU; a militância sindical educacional citada pela organização internacional do partido refere-se à vice da chapa (Vanessa Portugal), não ao candidato.",
+    "Documentos registrados no TSE (DivulgaCandContas: programa do PCB 280017107286 e plano do Democrata 280017075366) responderam 403 a acesso automatizado em 29/09/2026; foram conferidos por espelho publicado (Poder360) e notas oficiais dos partidos.",
+    "Domínios causaoperaria.org.br, rfi.fr e tre-sp.jus.br responderam 403 a acesso direto; conteúdo conferido por cópias na Wayback Machine. A página do curso de 2026 do PCO não tinha cópia arquivada em 29/09/2026.",
+    "edmilson-costa: o programa registrado no TSE não informa custos, prazos, metas quantificadas nem fonte de financiamento por proposta; nenhum cargo executivo ou legislativo foi exercido, de modo que não existe histórico de implementação para contrastar com o programa.",
+    "hertz-dias: o plano registrado não traz custos, financiamento ou prazos por proposta e se apresenta como 'guia para a ação', não como conjunto de medidas a executar pela via institucional; sem histórico de implementação (nunca exerceu cargo executivo ou legislativo).",
+    "rui-costa-pimenta: o PDF registrado no TSE tem 7 páginas (15 pontos centrais) e o índice oficial remete a essas mesmas páginas; menções a 'Imposto Único' de 0,5%/1%, 'fim de 32 tributos', '600 mil concursos na saúde', 'Ronda Nacional de 30 mil agentes' e BRICS, presentes em rodadas anteriores deste trabalho, não foram localizadas no documento nem no índice oficiais e por isso ficaram fora do bloco de projeto de país.",
+    "wilson-grassi: o plano não traz valores orçamentários medida a medida e o próprio candidato declarou (Folha de S.Paulo/Poder360, 29/08/2026) que há propostas que pretende implementar e não constam do documento registrado no TSE.",
+    "Edmilson Costa, Hertz Dias e Rui Costa Pimenta: o documento registrado no TSE é o programa do próprio partido adotado pela candidatura, e não um plano de governo redigido para um mandato — os três blocos estão marcados como 'parcial' por essa razão, sem que exista versão 'de governo' para comparar.",
+    "Os quatro candidatos: o índice de propostas do TSE usa 8 categorias fixas e iguais para todas as candidaturas, o que impede usá-lo como lista de prioridades declaradas; as prioridades deste bloco vêm das seções dos próprios planos.",
+    "Não foram localizados, para nenhum dos quatro, documentos partidários ou entrevistas que contradigam ou detalhem além dos planos as prioridades nacionais declaradas; a apuração de política externa (bloco Brasil no Mundo) não foi escopo deste patch."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "Direção nacional do PCB como secretário-geral desde 17/10/2016, com convenção nacional eleitoral em 01/08/2026, programa registrado no TSE e candidatura presidencial deferida. A trajetória anterior inclui quatro campanhas próprias entre 2008 e 2014 (prefeitura de São Paulo, vice-presidência, vice-prefeitura e Senado), todas não eleitas. Não há passagem por cargo executivo estatal: as entregas verificáveis são de organização partidária e de campanha.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-ec-01",
+          "kind": "historico",
+          "title": "Direção nacional do PCB e realização da Convenção Nacional Eleitoral de 2026",
+          "role": "secretário-geral nacional do PCB (13º titular, indicado pelo Comitê Central em 17/10/2016)",
+          "complexity": "alcance nacional; direção de partido com estruturas de organização, frente sindical, juventude, coletivo feminista e movimento negro e fundação; 10 anos no cargo no momento do pleito",
+          "outcome": "convenção nacional realizada em 01/08/2026 na Câmara Municipal de São Paulo; chapa Edmilson Costa/Cleusa Santos homologada e registro deferido, entre as 12 chapas à Presidência divulgadas pelo TSE em 11/09/2026",
+          "period": "2016–2026",
+          "context": "PCB sem bancada no Congresso (0 deputados e 0 senadores em exercício em 29/09/2026) e sem coligação; campanha sustentada por doação partidária e financiamento coletivo",
+          "sources": [
+            {
+              "id": "src-ec-03",
+              "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+            },
+            {
+              "id": "src-ec-07",
+              "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+            },
+            {
+              "id": "src-ec-01",
+              "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+              "publisher": "Folha de S.Paulo (dados: TSE)",
+              "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+            },
+            {
+              "id": "src-ec-71",
+              "title": "PCB oficializa candidaturas à Presidência",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/34109",
+              "publishedAt": "2026-08-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+            },
+            {
+              "id": "src-ec-73",
+              "title": "Edmilson Costa pré-candidato à presidência do Brasil",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/33675",
+              "publishedAt": "2026-02-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Comunicado: o Comitê Central do PCB, em reunião no início de fevereiro de 2026, decidiu lançar Edmilson Costa pré-candidato à Presidência ('Por um governo do Poder Popular')."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-ec-02",
+          "kind": "historico",
+          "title": "Programa eleitoral de 2026 aprovado em convenção e registrado no TSE",
+          "role": "secretário-geral e candidato (programa aprovado pela Convenção Nacional)",
+          "complexity": "documento programático para as eleições presidenciais, com eixos de dívida pública, Senado e 'poder popular'; registrado na Justiça Eleitoral",
+          "outcome": "programa 'Construir o Poder Popular, rumo ao Socialismo' protocolado no TSE (documento DivulgaCandContas 280017107286) e publicado pelo partido",
+          "period": "2026",
+          "context": "partido isolado, sem financiamento empresarial; a proposta de suspensão do pagamento da dívida pública e de extinção do Senado foi divulgada na convenção",
+          "sources": [
+            {
+              "id": "src-ec-74",
+              "title": "Programa do PCB para as Eleições Presidenciais de 2026 — Construir o Poder Popular, rumo ao Socialismo",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/34147",
+              "publishedAt": "2026-08-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Programa aprovado na convenção nacional de 01/08/2026 e registrado no TSE (documento do DivulgaCandContas 280017107286; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026)."
+            },
+            {
+              "id": "src-ec-71",
+              "title": "PCB oficializa candidaturas à Presidência",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/34109",
+              "publishedAt": "2026-08-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+            },
+            {
+              "id": "src-ec-06",
+              "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+              "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+              "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-ec-03",
+          "kind": "historico",
+          "title": "Execução da campanha presidencial de 2026 com receita de R$ 25.971,00",
+          "role": "candidato à Presidência (chapa pura do PCB)",
+          "complexity": "campanha nacional custeada por 9 doadores; gasto contratado de R$ 22.531,22 (0,0% do limite legal de R$ 88.944.030,80), com 53% em material impresso",
+          "outcome": "campanha registrada e deferida; prestação de contas parcial entregue ao TSE até 08/09/2026",
+          "period": "2026",
+          "context": "estimativa de recursos muito inferior à dos demais candidatos; sem coligação, sem bancada federal e sem estrutura estadual registrada",
+          "sources": [
+            {
+              "id": "src-ec-02",
+              "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+            },
+            {
+              "id": "src-ec-01",
+              "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+              "publisher": "Folha de S.Paulo (dados: TSE)",
+              "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-ec-04",
+          "kind": "historico",
+          "title": "Quatro campanhas próprias executadas entre 2008 e 2014 em três esferas",
+          "role": "candidato pelo PCB a prefeito de São Paulo (2008), vice-presidente (2010) e senador por SP (2014); vice na chapa do PSOL em SP (2012)",
+          "complexity": "4 campanhas em 7 anos (municipal, estadual e nacional), com chapas próprias do PCB em 2008, 2010 e 2014 e chapa conjunta em 2012",
+          "outcome": "votações registradas no TSE: 4.300 (2008), 39.136 (2010, chapa), 62.431 (2012, chapa) e 12.102 (2014); nenhuma eleição vencida",
+          "period": "2008–2014",
+          "context": "partido de quadro reduzido, sem bancada no Congresso no período",
+          "sources": [
+            {
+              "id": "src-ec-02",
+              "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+            },
+            {
+              "id": "src-ec-10",
+              "title": "PCB oficializa candidatura própria à presidência e ao governo de SP (2014)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/06/pcb-oficializa-candidatura-propria-presidencia-e-ao-governo-de-sp.html",
+              "publishedAt": "2014-06-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção do PCB de 21/06/2014; o partido lançou chapa própria à presidência e ao governo de SP. A candidatura de Edmilson Costa ao Senado por SP em 2014 é confirmada pelo histórico do Nexo/TSE (12.102 votos)."
+            },
+            {
+              "id": "src-ec-06",
+              "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+              "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+              "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+            },
+            {
+              "id": "src-ec-09",
+              "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+              "publisher": "PSOL 50 (site da seção de São Paulo)",
+              "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+              "publishedAt": "2012-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "Articulação documentada em três frentes: coligação Frente de Esquerda com o PSOL em São Paulo (2012), delegação do PCB ao 19º Encontro Internacional de Partidos Comunistas e Operários (Rússia, 2017) e sucessão interna no partido em 2016, por indicação unânime do Comitê Central. Em 2026 o PCB disputa isolado, sem coligação ou federação, com 0 deputados e 0 senadores em exercício; não há registro de negociação legislativa nem de mesa de negociação com o poder público.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-ec-05",
+          "kind": "historico",
+          "title": "Coligação Frente de Esquerda (PSOL + PCB) em São Paulo, 2012",
+          "role": "candidato a vice-prefeito pela coligação (indicado pelo PCB)",
+          "complexity": "acordo entre dois partidos de esquerda com direções e táticas distintas; chapa conjunta com campanha própria e apresentação pública conjunta",
+          "outcome": "coligação formalizada e chapa registrada, com 62.431 votos; não eleita",
+          "period": "2012",
+          "context": "PCB e PSOL mantinham posições divergentes sobre coligações; a chapa foi apresentada pelos dois partidos como frente comum na capital paulista",
+          "sources": [
+            {
+              "id": "src-ec-09",
+              "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+              "publisher": "PSOL 50 (site da seção de São Paulo)",
+              "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+              "publishedAt": "2012-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+            },
+            {
+              "id": "src-ec-75",
+              "title": "Para Edmilson Costa (PCB), Russomanno é um novo Collor",
+              "publisher": "PSOL São Paulo (psol50sp.org.br)",
+              "url": "https://psol50sp.org.br/2012/09/para-edmilson-costa-pcb-russomanno-e-um-novo-collor/",
+              "publishedAt": "2012-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Material de campanha de 2012: o candidato a vice-prefeito da Frente de Esquerda (PSOL/PCB) apresenta a chapa como instrumento 'pedagógico' para construir 'uma nova forma de fazer política'."
+            },
+            {
+              "id": "src-ec-02",
+              "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-ec-06",
+          "kind": "historico",
+          "title": "Delegação do PCB ao 19º Encontro Internacional de Partidos Comunistas e Operários (Rússia, 2017)",
+          "role": "secretário-geral nacional, à frente da delegação do PCB",
+          "complexity": "encontro internacional em Petrogrado e Moscou reunindo organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas; duração de dias, fora do país",
+          "outcome": "participação registrada em nota oficial do partido com a composição nominal da delegação (secretário-geral, secretário de Organização, secretário de Relações Internacionais e membro do Comitê Central)",
+          "period": "2017",
+          "context": "a articulação externa do PCB se dá em fóruns de partidos comunistas, sem assento em organismos multilaterais",
+          "sources": [
+            {
+              "id": "src-ec-72",
+              "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/16925",
+              "publishedAt": "2017-11-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+            },
+            {
+              "id": "src-ec-03",
+              "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-ec-07",
+          "kind": "historico",
+          "title": "Sucessão na secretaria-geral do PCB (2016) por indicação unânime do Comitê Central",
+          "role": "indicado por unanimidade pelo Comitê Central em reunião de 8 e 9/10/2016 e empossado em 17/10/2016",
+          "complexity": "processo sucessório da direção nacional, após carta de afastamento do titular anterior (Ivan Pinheiro), com comunicado oficial e carta pública do novo secretário-geral à militância",
+          "outcome": "transição concluída em 17/10/2016, sem cisão registrada nas fontes; permanência no cargo até o pleito de 2026",
+          "period": "2016",
+          "context": "não há dados públicos sobre votação interna além da indicação por unanimidade do Comitê Central",
+          "sources": [
+            {
+              "id": "src-ec-76",
+              "title": "EDMILSON COSTA SUBSTITUI IVAN PINHEIRO NA SECRETARIA GERAL DO PCB",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/12396",
+              "publishedAt": "2016-10-17",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Comunicado da Comissão Política Nacional (17/10/2016): Ivan Pinheiro formalizou o afastamento em reunião do Comitê Central (8 e 9/10/2016), que indicou Edmilson Costa por unanimidade; inclui a carta pública do novo secretário-geral à militância."
+            },
+            {
+              "id": "src-ec-03",
+              "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+            },
+            {
+              "id": "src-ec-07",
+              "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-ec-08",
+          "kind": "historico",
+          "title": "Composição de chapa pura com vice de outro estado e convenção em prédio público (2026)",
+          "role": "candidato à Presidência (chapa pura PCB) e responsável pela articulação da chapa junto à direção partidária",
+          "complexity": "composição com vice de outro estado (Cleusa dos Santos, Goiânia/GO) e realização da convenção nacional na Câmara Municipal de São Paulo; ausência de coligações ou federações registradas",
+          "outcome": "chapa homologada em 01/08/2026 e registro deferido, entre as 12 chapas válidas",
+          "period": "2026",
+          "context": "o PCB não integra federação partidária nem coligação em 2026; a articulação se dá dentro do partido e no campo do movimento, não entre legendas",
+          "sources": [
+            {
+              "id": "src-ec-07",
+              "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+            },
+            {
+              "id": "src-ec-71",
+              "title": "PCB oficializa candidaturas à Presidência",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/34109",
+              "publishedAt": "2026-08-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+            },
+            {
+              "id": "src-ec-01",
+              "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+              "publisher": "Folha de S.Paulo (dados: TSE)",
+              "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Chefia da estrutura nacional do PCB: secretariado desde 2016, integração da Comissão Política Nacional desde 2001, delegações internacionais com dirigentes designados por função e manutenção de imprensa e fundação partidárias. A formação de quadros aparece na docência universitária declarada (mais de 20 anos de magistério em 2008) e na produção de obras de análise econômica, sem dados públicos sobre quantidade de quadros formados.",
+      "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+      "evidences": [
+        {
+          "id": "ev-cap-ec-09",
+          "kind": "historico",
+          "title": "Chefia da estrutura nacional do PCB e integração de órgão de direção colegiado",
+          "role": "secretário-geral nacional desde 2016; membro da Comissão Política Nacional do PCB desde 2001",
+          "complexity": "direção de estrutura com órgãos colegiados, secretarias nacionais (Organização e Relações Internacionais), imprensa partidária, frente sindical, juventude e fundação; 10 anos no cargo mais alto",
+          "outcome": "partido em atividade eleitoral em 2026 (registro deferido) e delegações internacionais compostas por dirigentes designados por função",
+          "period": "2001–2026",
+          "context": "as fontes públicas consultadas não informam número de filiados, de dirigentes nem de pessoal remunerado do partido",
+          "sources": [
+            {
+              "id": "src-ec-03",
+              "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+            },
+            {
+              "id": "src-ec-72",
+              "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/16925",
+              "publishedAt": "2017-11-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+            },
+            {
+              "id": "src-ec-71",
+              "title": "PCB oficializa candidaturas à Presidência",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/34109",
+              "publishedAt": "2026-08-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ec-10",
+          "kind": "historico",
+          "title": "Chefia de delegação internacional com dirigentes designados por função",
+          "role": "chefe da delegação (secretário-geral), com o secretário de Organização, o secretário de Relações Internacionais e um membro do Comitê Central",
+          "complexity": "coordenação de quatro dirigentes com funções distintas em agenda internacional de vários dias, com relato de experiências e formulação de propostas de ação conjunta",
+          "outcome": "nota oficial do partido com a composição nominal da delegação e o objeto do encontro",
+          "period": "2017",
+          "context": "a delegação é o instrumento de representação externa do partido; não há dados sobre delegações anteriores ou posteriores",
+          "sources": [
+            {
+              "id": "src-ec-72",
+              "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+              "publisher": "Partido Comunista Brasileiro (PCB)",
+              "url": "https://pcb.org.br/portal2/16925",
+              "publishedAt": "2017-11-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "partidaria",
+              "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ec-11",
+          "kind": "historico",
+          "title": "Docência universitária prolongada e titulação em Economia (Unicamp)",
+          "role": "professor universitário e doutor em Economia pela Unicamp (pós-doutorado no IFCH, segundo a Agência Brasil)",
+          "complexity": "mais de 20 anos de magistério declarados em 2008; formação superior em Comunicação Social (UFMA) e atuação como jornalista antes da docência",
+          "outcome": "docência continuada por mais de duas décadas até 2008; as fontes consultadas não registram instituições de vínculo, disciplinas ou número de alunos",
+          "period": "até 2008 (declaração)",
+          "context": "as fontes não identificam as instituições de ensino nem resultados de formação; a ausência de dados é registrada aqui e não suprida por estimativa",
+          "sources": [
+            {
+              "id": "src-ec-08",
+              "title": "PCB confirma candidatura de Edmilson Costa à Prefeitura de São Paulo (texto original do G1/Globo de 21/06/2008, reproduzido por réplica)",
+              "publisher": "Globo.com (réplica: hlera.com.br)",
+              "url": "https://noticia.hlera.com.br/politica/pcb-confirma-candidatura-de-edmilson-costa-a-prefeitura-de-sao-paulo/",
+              "publishedAt": "2008-06-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "URL original do G1 (2008) não localizada; réplica preserva o texto. Convenção do PCB de 21/06/2008: candidato a prefeito, professor universitário e doutor em economia pela Unicamp, '30 anos de militância' e 'mais de 20 anos de magistério'; vice jornalista Fernanda Mendes; cerca de 10 mil filiados na capital."
+            },
+            {
+              "id": "src-ec-06",
+              "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+              "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+              "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+            },
+            {
+              "id": "src-ec-01",
+              "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+              "publisher": "Folha de S.Paulo (dados: TSE)",
+              "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ec-12",
+          "kind": "historico",
+          "title": "Autoria de obras sobre capitalismo contemporâneo e crise econômica mundial",
+          "role": "autor (economista e escritor)",
+          "complexity": "obras de análise econômica e livros de poesia publicados, citados em perfis de imprensa",
+          "outcome": "produção bibliográfica registrada em fontes de imprensa (Agência Brasil/Terra); títulos e editoras não localizados nas fontes desta rodada",
+          "period": "não informado",
+          "context": "os títulos e as editoras das obras não foram localizados; a evidência se limita à existência da produção citada em perfil de agência pública",
+          "sources": [
+            {
+              "id": "src-ec-06",
+              "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+              "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+              "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "O programa registrado no TSE descreve o Brasil a partir de cinco 'grandes transformações estruturais' (política; economia; área social e mundo do trabalho; serviços públicos e meio ambiente; relações internacionais) que levariam o país 'rumo ao Socialismo': Poder Popular com Conselhos Populares eleitos nos locais de trabalho, moradia e estudo, Orçamento Popular 100% deliberativo, Assembleia Constituinte de Novo Tipo convocada em dois anos, extinção do Senado e revogabilidade de mandatos; nacionalização e estatização do sistema monetário e financeiro com criação do Banco dos Trabalhadores; jornada de 30 horas semanais sem redução salarial e reforma agrária popular; saúde e educação 100% públicas. O programa afirma que 'o Brasil está maduro para o Socialismo' e rejeita 'saídas meramente reformistas', apresentando a revolução socialista como saída para os problemas da classe trabalhadora.",
+    "nationalPriorities": [
+      "Poder Popular e democracia direta (Conselhos Populares, Orçamento Popular deliberativo, Assembleia Constituinte de Novo Tipo e extinção do Senado)",
+      "Nacionalização e estatização do sistema monetário e financeiro (Banco dos Trabalhadores) e auditoria da dívida pública com suspensão de juros",
+      "Trabalho e direitos sociais: jornada de 30 horas semanais sem redução salarial, fim da escala 6x1 e salário mínimo no piso do Dieese",
+      "Saúde e educação 100% públicas e gratuitas, com estatização dos setores privados correspondentes",
+      "Segurança pública desmilitarizada e unificada, com fim da política de 'guerra às drogas'",
+      "Meio ambiente: combate ao desmatamento e ao garimpo ilegal, revisão do Código Florestal e taxação de emissões",
+      "Relações internacionais: integração regional (ALBA e Unasul) e solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental"
+    ],
+    "developmentModel": "Atribui ao Estado o comando da economia: nacionalização e estatização do sistema monetário e financeiro, Banco dos Trabalhadores para os fundos previdenciários e de seguridade, reestatização das empresas privatizadas, Petrobras 100% estatal, controle do câmbio e do comércio exterior, revogação do arcabouço fiscal, da Lei de Responsabilidade Fiscal e da autonomia do Banco Central (cuja diretoria passaria a ter representantes de centrais sindicais, do Dieese e do Cofecon), substituição da LRF por uma 'Lei de Responsabilidade Social' e BNDES como financiador. Crescimento associado a reindustrialização, investimento público e 'fronteiras tecnológicas' (CEITEC/semicondutores, monopólio estatal de terras raras e minerais críticos) e a reforma tributária progressiva com imposto sobre lucros, dividendos, grandes fortunas, transações financeiras e heranças. O setor privado é objeto de estatização nos setores considerados estratégicos (saúde, ensino, comunicações, saneamento, energia e indústria bélica) e o agronegócio é expropriado pela reforma agrária popular. Desigualdade tratada por cotas (54% para a população negra e 70% a 80% para egressos de escola pública), recuperação do salário mínimo até o piso do Dieese em quatro anos, ampliação da licença-maternidade e paternidade para um ano e legalização do aborto. Meio ambiente descrito como 'luta anticapitalista', com revisão do Código Florestal, ampliação de unidades de conservação, restrição a descartáveis plásticos e taxação de emissões.",
+    "sources": [
+      {
+        "id": "src-ec-70",
+        "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+        "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+      },
+      {
+        "id": "src-ec-71",
+        "title": "PCB oficializa candidaturas à Presidência",
+        "publisher": "Partido Comunista Brasileiro (PCB)",
+        "url": "https://pcb.org.br/portal2/34109",
+        "publishedAt": "2026-08-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Nota oficial (03/08/2026): Convenção Nacional Eleitoral realizada em 01/08/2026 na Câmara Municipal de São Paulo, com Edmilson Costa (presidente) e Cleusa Santos (vice)."
+      },
+      {
+        "id": "src-ec-72",
+        "title": "PCB presente no 19° Encontro Internacional de Partidos Comunistas e Operários",
+        "publisher": "Partido Comunista Brasileiro (PCB)",
+        "url": "https://pcb.org.br/portal2/16925",
+        "publishedAt": "2017-11-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Nota oficial: delegação do PCB ao XIX Encontro Internacional dos Partidos Comunistas e Operários (Petrogrado e Moscou, 2017) composta por Edmílson Costa (Secretário Geral), Edílson Neves (Secretário de Organização), Eduardo Serra (Secretário de Relações Internacionais) e Aníbal Valença (membro do Comitê Central); o texto reúne organizações comunistas e operárias de diversos países para relato de experiências e propostas de ações conjuntas. O menu do site lista as estruturas nacionais do partido (jornais, congressos, secretariado, frente sindical, juventude, coletivos feminista e negro e Fundação Dinarco Reis)."
+      }
+    ],
+    "evidenceStatus": "parcial",
+    "confidenceLevel": "medium",
+    "methodology": "Extraído do plano registrado no TSE — 'Programa do Partido Comunista Brasileiro (PCB) para as Eleições Presidenciais de 2026: Construir o Poder Popular, rumo ao Socialismo', 16 páginas, aprovado na convenção de 01/08/2026 —, do mesmo texto publicado pelo partido em 15/08/2026 e de entrevista do candidato ao jornal O Poder Popular. O documento registrado é o próprio programa do PCB adotado pela candidatura, e não um plano de governo redigido para o mandato: visão, prioridades e modelo de desenvolvimento são declarações programáticas do partido assumidas pelo candidato, o que motiva a marcação de 'parcial'. O índice do TSE agrupa as propostas da candidatura em 8 categorias fixas e iguais para todos os candidatos, e não em prioridades declaradas por este candidato; as prioridades acima vêm das seções do próprio programa (as cinco transformações estruturais e os 21 pontos da plataforma). Não foram extraídos custos, prazos, metas quantificadas nem fonte de financiamento por proposta, e não há registro de implementação: o candidato nunca exerceu cargo executivo ou legislativo."
+  }
 }

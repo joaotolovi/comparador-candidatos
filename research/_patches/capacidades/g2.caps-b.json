@@ -1,0 +1,135 @@
+{
+  "grupo": "g2",
+  "escopo": "capacidade:tomada-decisao,gestao-crises,coordenacao-institucional",
+  "sources": [],
+  "candidates": {
+    "renan-santos": {
+      "capacities": [
+        {
+          "slug": "tomada-decisao",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "gestao-crises",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    },
+    "leonardo-avalanche": {
+      "capacities": [
+        {
+          "slug": "tomada-decisao",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "gestao-crises",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    },
+    "augusto-cury": {
+      "capacities": [
+        {
+          "slug": "tomada-decisao",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "gestao-crises",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    },
+    "clariana-barao": {
+      "capacities": [
+        {
+          "slug": "tomada-decisao",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "gestao-crises",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    },
+    "samara-martins": {
+      "capacities": [
+        {
+          "slug": "tomada-decisao",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "gestao-crises",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        },
+        {
+          "slug": "coordenacao-institucional",
+          "synthesis": "em consolidação",
+          "coverage": "insuficiente",
+          "coverageNote": "em consolidação",
+          "evidences": []
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "em consolidação"
+  ]
+}

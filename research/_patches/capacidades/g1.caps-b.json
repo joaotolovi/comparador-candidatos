@@ -1,0 +1,36 @@
+{
+  "grupo": "g1",
+  "escopo": "capacidades:tomada-decisao,gestao-crises,coordenacao-institucional",
+  "sources": [],
+  "candidates": {
+    "lula": {
+      "capacities": [
+        { "slug": "tomada-decisao", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "gestao-crises", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "coordenacao-institucional", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "flavio-bolsonaro": {
+      "capacities": [
+        { "slug": "tomada-decisao", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "gestao-crises", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "coordenacao-institucional", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "caiado": {
+      "capacities": [
+        { "slug": "tomada-decisao", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "gestao-crises", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "coordenacao-institucional", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "zema": {
+      "capacities": [
+        { "slug": "tomada-decisao", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "gestao-crises", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "coordenacao-institucional", "synthesis": "", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    }
+  },
+  "dataGaps": ["Patch em consolidação — lacunas registradas ao final da coleta."]
+}

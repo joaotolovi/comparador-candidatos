@@ -2086,6 +2086,56 @@
       "accessedAt": "2026-09-29",
       "sourceType": "plano_de_governo",
       "notes": "Captura integral do índice em 29/09/2026 (5.490 caracteres de conteúdo): 44 itens com título e páginas do PDF — Economia/Trabalho/Fiscal (8), Saúde/Assistência (6), Segurança/Justiça (5), Educação/Ciência/Meio Ambiente (4), Política Externa/Inserção Global (7), Direitos Humanos/Equidade (5), Questão Agrária/Propriedade/Cidade (4), Governança/Transparência/Reformas (5)."
+    },
+    {
+      "id": "src-wg-71",
+      "title": "Veterinário cria rede de treze clínicas e plano de saúde para pets",
+      "publisher": "Veja São Paulo",
+      "url": "https://vejasp.abril.com.br/coluna/bichos/wilson-grassi-clinicas-veterinarias/",
+      "publishedAt": "2018-10-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Rede de treze clínicas (nove na capital paulista), primeira aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes, a R$ 70 por mês, aceito em toda a rede; nova unidade aberta no Pacaembu em 10/10/2018."
+    },
+    {
+      "id": "src-wg-72",
+      "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+      "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+      "url": "https://hospitalveterinariopublico.com.br/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+    },
+    {
+      "id": "src-wg-74",
+      "title": "Partido Democrata — Brasil em Primeiro Lugar — Plano de Governo 2027–2030",
+      "publisher": "Partido Democrata / Poder360",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Plano registrado no TSE (DivulgaCandContas, documento 280017075366; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026). Organizado em três partes: diagnóstico, eixos de governo e governança (primeiros cem dias, painel de indicadores e compromissos de transparência); eixos numerados até o eixo 14 e método 'D35'."
+    },
+    {
+      "id": "src-wg-73",
+      "title": "Democrata define Wilson Grassi Júnior candidato à Presidência",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-define-wilson-grassi-junior-candidato-presidencia",
+      "publishedAt": "2026-08-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "A convenção do partido Democrata, em 02/08/2026, oficializou a chapa Wilson Grassi (presidente) e Suêd Haidar (vice), presidente nacional e fundadora do partido."
+    },
+    {
+      "id": "src-wg-70",
+      "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+      "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2096,6 +2146,567 @@
     "Suplência de 2006 (deputado estadual, PFL): nenhum registro de convocação ou posse localizado.",
     "Pesquisa nacional recente (set/2026) com percentual próprio do candidato não localizada; intenção de voto registrada é regional (São Paulo).",
     "Leitura item a item do PDF do plano registrado no TSE não realizada; as contagens de custo, prazo e dependência do Congresso derivam dos títulos/descrições do índice oficial (44 itens).",
-    "Data exata da suspensão da campanha digital por Toffoli (entre 30/08 e 02/09/2026) não capturada."
-  ]
+    "Data exata da suspensão da campanha digital por Toffoli (entre 30/08 e 02/09/2026) não capturada.",
+    "Nenhum dos quatro candidatos exerceu cargo executivo estatal: as evidências de execução, diálogo e liderança são de direção partidária (PCB, PSTU, PCO, Democrata), de movimento cultural/negro, de entidade profissional e de empresa privada.",
+    "Número de filiados, de quadros dirigentes e de pessoal remunerado das quatro legendas não é divulgado em fontes públicas acessíveis nesta rodada.",
+    "Não há registro de negociação coletiva ou de mesa de negociação com governos para nenhum dos quatro candidatos; o único vínculo sindical documentado de direção é o de Rui Costa Pimenta (diretor da CUT na Grande São Paulo, 1985).",
+    "Tamanho e composição das equipes coordenadas (rede de clínicas de Wilson Grassi, campanhas presidenciais) não constam das fontes consultadas.",
+    "Hertz Dias: não foi localizado registro de filiação sindical ou de cargo na direção nacional do PSTU; a militância sindical educacional citada pela organização internacional do partido refere-se à vice da chapa (Vanessa Portugal), não ao candidato.",
+    "Documentos registrados no TSE (DivulgaCandContas: programa do PCB 280017107286 e plano do Democrata 280017075366) responderam 403 a acesso automatizado em 29/09/2026; foram conferidos por espelho publicado (Poder360) e notas oficiais dos partidos.",
+    "Domínios causaoperaria.org.br, rfi.fr e tre-sp.jus.br responderam 403 a acesso direto; conteúdo conferido por cópias na Wayback Machine. A página do curso de 2026 do PCO não tinha cópia arquivada em 29/09/2026.",
+    "edmilson-costa: o programa registrado no TSE não informa custos, prazos, metas quantificadas nem fonte de financiamento por proposta; nenhum cargo executivo ou legislativo foi exercido, de modo que não existe histórico de implementação para contrastar com o programa.",
+    "hertz-dias: o plano registrado não traz custos, financiamento ou prazos por proposta e se apresenta como 'guia para a ação', não como conjunto de medidas a executar pela via institucional; sem histórico de implementação (nunca exerceu cargo executivo ou legislativo).",
+    "rui-costa-pimenta: o PDF registrado no TSE tem 7 páginas (15 pontos centrais) e o índice oficial remete a essas mesmas páginas; menções a 'Imposto Único' de 0,5%/1%, 'fim de 32 tributos', '600 mil concursos na saúde', 'Ronda Nacional de 30 mil agentes' e BRICS, presentes em rodadas anteriores deste trabalho, não foram localizadas no documento nem no índice oficiais e por isso ficaram fora do bloco de projeto de país.",
+    "wilson-grassi: o plano não traz valores orçamentários medida a medida e o próprio candidato declarou (Folha de S.Paulo/Poder360, 29/08/2026) que há propostas que pretende implementar e não constam do documento registrado no TSE.",
+    "Edmilson Costa, Hertz Dias e Rui Costa Pimenta: o documento registrado no TSE é o programa do próprio partido adotado pela candidatura, e não um plano de governo redigido para um mandato — os três blocos estão marcados como 'parcial' por essa razão, sem que exista versão 'de governo' para comparar.",
+    "Os quatro candidatos: o índice de propostas do TSE usa 8 categorias fixas e iguais para todas as candidaturas, o que impede usá-lo como lista de prioridades declaradas; as prioridades deste bloco vêm das seções dos próprios planos.",
+    "Não foram localizados, para nenhum dos quatro, documentos partidários ou entrevistas que contradigam ou detalhem além dos planos as prioridades nacionais declaradas; a apuração de política externa (bloco Brasil no Mundo) não foi escopo deste patch."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "Atividade empresarial e associativa: rede de 13 clínicas veterinárias (nove na capital paulista) com plano de saúde próprio, construída desde 1997, e participação como conselheiro da Anclivepa-SP na criação do primeiro hospital público para cães e gatos do Brasil (2015). Em 2026 registrou plano de governo estruturado (método D35, eixos numerados até 14, primeiros cem dias e painel de indicadores) e campanha autofinanciada com R$ 850.150,00 de receita. Sem cargo executivo estatal.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-wg-01",
+          "kind": "historico",
+          "title": "Construção e operação de rede de 13 clínicas veterinárias com plano de saúde próprio",
+          "role": "fundador e proprietário da rede (médico-veterinário e empresário)",
+          "complexity": "rede de 13 clínicas (nove na capital paulista), primeira unidade aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes de 2018, a R$ 70 por mês, aceito em toda a rede",
+          "outcome": "rede em operação em 2018, com nova unidade aberta no Pacaembu em 10/10/2018; também descrito como sócio-proprietário de hospitais veterinários no país",
+          "period": "1997–2018",
+          "context": "operação privada, sem vínculo com cargo público; as fontes não informam número de empregados, faturamento ou número de animais atendidos",
+          "sources": [
+            {
+              "id": "src-wg-71",
+              "title": "Veterinário cria rede de treze clínicas e plano de saúde para pets",
+              "publisher": "Veja São Paulo",
+              "url": "https://vejasp.abril.com.br/coluna/bichos/wilson-grassi-clinicas-veterinarias/",
+              "publishedAt": "2018-10-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Rede de treze clínicas (nove na capital paulista), primeira aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes, a R$ 70 por mês, aceito em toda a rede; nova unidade aberta no Pacaembu em 10/10/2018."
+            },
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            },
+            {
+              "id": "src-wg-19",
+              "title": "Candidatos a presidente 2026: quem são, partidos",
+              "publisher": "Escola Educação (Brasil Escola)",
+              "url": "https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sobre Wilson Grassi: 'Nascido em São Paulo e é médico veterinário por formação. É sócio-proprietário de diversos hospitais veterinários pelo Brasil. Candidatou-se em 2006 como deputado estadual por São Paulo, em 2022 como deputado federal por São Paulo e em 2024 como vereador de São Paulo, mas não foi eleito em nenhuma das candidaturas.'"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-wg-02",
+          "kind": "historico",
+          "title": "Participação na criação do primeiro hospital público para cães e gatos do Brasil (São Paulo, 2015)",
+          "role": "conselheiro da Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — seção São Paulo), atuando na interlocução do projeto",
+          "complexity": "projeto discutido desde 2012 e efetivado em 2015 no Tatuapé, com atendimento a animais de famílias de baixa renda e formação de veterinários",
+          "outcome": "hospital público veterinário criado em 2015 e em operação; a entidade mantém rede de hospitais veterinários públicos com unidades municipais e estaduais",
+          "period": "2012–2015 (hospital em operação até 2026)",
+          "context": "a criação do serviço envolveu a entidade profissional e o poder público municipal; as fontes não detalham a divisão de atribuições no projeto",
+          "sources": [
+            {
+              "id": "src-wg-07",
+              "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+              "publisher": "GZH (Grupo Cultural de Comunicação)",
+              "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+            },
+            {
+              "id": "src-wg-72",
+              "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+              "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+              "url": "https://hospitalveterinariopublico.com.br/",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "transparencia",
+              "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+            },
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-wg-03",
+          "kind": "historico",
+          "title": "Campanha presidencial de 2026 estruturada com recursos próprios",
+          "role": "candidato à Presidência pelo Democrata e principal financiador da própria campanha",
+          "complexity": "receita de R$ 850.150,00 (R$ 850.000,00 de recursos próprios do candidato e R$ 150,00 de pessoa física) e R$ 890.399,66 de gasto contratado com 12 fornecedores, incluindo R$ 365.000,00 em impulsionamento de conteúdo",
+          "outcome": "registro deferido em 12/08/2026; prestação de contas parcial entregue ao TSE com gasto contratado de 1,0% do limite legal",
+          "period": "2026",
+          "context": "campanha de partido sem bancada no Congresso e, segundo as fontes, sem direito a horário eleitoral gratuito",
+          "sources": [
+            {
+              "id": "src-wg-02",
+              "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+            },
+            {
+              "id": "src-wg-01",
+              "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+              "publisher": "Folha de S.Paulo (dados: TSE)",
+              "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+            },
+            {
+              "id": "src-wg-10",
+              "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-wg-04",
+          "kind": "historico",
+          "title": "Plano de governo registrado no TSE com método de gestão e painel de indicadores",
+          "role": "candidato (plano apresentado pelo partido Democrata)",
+          "complexity": "documento organizado em três partes (diagnóstico, eixos de governo e governança), com eixos numerados até o eixo 14, método 'D35', seção de primeiros cem dias, painel de indicadores e compromissos de transparência",
+          "outcome": "plano protocolado no TSE (documento DivulgaCandContas 280017075366) e publicado em espelho de imprensa",
+          "period": "2026",
+          "context": "plano de campanha de partido sem bancada no Congresso; a execução depende de aprovação legislativa, não detalhada por instrumento em todos os eixos",
+          "sources": [
+            {
+              "id": "src-wg-74",
+              "title": "Partido Democrata — Brasil em Primeiro Lugar — Plano de Governo 2027–2030",
+              "publisher": "Partido Democrata / Poder360",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Plano registrado no TSE (DivulgaCandContas, documento 280017075366; o endpoint do TSE respondeu 403 a acesso automatizado em 29/09/2026). Organizado em três partes: diagnóstico, eixos de governo e governança (primeiros cem dias, painel de indicadores e compromissos de transparência); eixos numerados até o eixo 14 e método 'D35'."
+            },
+            {
+              "id": "src-wg-07",
+              "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+              "publisher": "GZH (Grupo Cultural de Comunicação)",
+              "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+            },
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "Interlocução com o poder público na área veterinária como conselheiro da Anclivepa-SP (hospital público municipal, 2012–2015), composição da chapa presidencial com a presidente nacional do partido como vice (02/08/2026) e atuação institucional junto à Justiça Eleitoral após a suspensão de oito perfis de campanha, restabelecidos em 02/09/2026. O partido disputa isolado, sem bancada no Congresso e sem coligação registrada.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-wg-05",
+          "kind": "historico",
+          "title": "Interlocução com o poder público municipal na criação do hospital veterinário público",
+          "role": "conselheiro da Anclivepa-SP, na interlocução do projeto com o município",
+          "complexity": "negociação de projeto de política pública de saúde animal entre entidade profissional e Prefeitura, com discussões desde 2012",
+          "outcome": "hospital público veterinário criado em 2015; a entidade passou a operar unidades públicas municipais e estaduais",
+          "period": "2012–2015",
+          "context": "a atuação foi como dirigente de entidade profissional, não como agente público; o site institucional da entidade não nomeia o candidato",
+          "sources": [
+            {
+              "id": "src-wg-07",
+              "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+              "publisher": "GZH (Grupo Cultural de Comunicação)",
+              "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+            },
+            {
+              "id": "src-wg-72",
+              "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+              "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+              "url": "https://hospitalveterinariopublico.com.br/",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "transparencia",
+              "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+            },
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-wg-06",
+          "kind": "historico",
+          "title": "Composição da chapa presidencial com a presidente nacional do partido como vice",
+          "role": "candidato a presidente, com a chapa homologada em convenção nacional do Democrata no Rio de Janeiro",
+          "complexity": "vice: Suêd Haidar, fundadora e presidente nacional do partido (2015–2026); primeira chapa presidencial da história da legenda, fundada em 2008 como Partido da Mulher Brasileira e renomeada Democrata em dezembro de 2025",
+          "outcome": "chapa oficializada em 02/08/2026 e registrada em 12/08/2026, com registro deferido",
+          "period": "2026",
+          "context": "partido isolado, sem coligação ou federação registrada nas fontes consultadas",
+          "sources": [
+            {
+              "id": "src-wg-73",
+              "title": "Democrata define Wilson Grassi Júnior candidato à Presidência",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-define-wilson-grassi-junior-candidato-presidencia",
+              "publishedAt": "2026-08-02",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "A convenção do partido Democrata, em 02/08/2026, oficializou a chapa Wilson Grassi (presidente) e Suêd Haidar (vice), presidente nacional e fundadora do partido."
+            },
+            {
+              "id": "src-wg-04",
+              "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+            },
+            {
+              "id": "src-wg-05",
+              "title": "Eleição presidencial no Brasil em 2026 (Wikipédia: chapa do Democrata, vice, horário eleitoral)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Infobox: '35 Veterinário Wilson Grassi (DEMOCRATA) — Sem cargo político anterior; vice Suêd Haidar, Democrata, presidente nacional do Democrata (2015–2026); partido isolado; sem direito ao horário eleitoral'. Em 02/08/2026 a convenção nacional do Democrata oficializou a candidatura."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-wg-07",
+          "kind": "historico",
+          "title": "Atuação institucional após a suspensão de perfis de campanha: defesa e restabelecimento por decisão do TSE",
+          "role": "candidato (campanha representada por advogados junto à Justiça Eleitoral)",
+          "complexity": "decisão do ministro Dias Toffoli suspendeu 8 perfis de redes sociais em 30/08/2026 por omissão na comunicação dos perfis; a defesa sustentou boa-fé e o Ministério Público Eleitoral já reunia mais de 360 páginas de relatórios; ordem de restabelecimento em até 2 horas pelas plataformas",
+          "outcome": "propaganda digital, participação em debates e repasses do FEFC liberados em 02/09/2026",
+          "period": "2026-08 a 2026-09",
+          "context": "medida cautelar aplicada também ao candidato Renan Santos (Missão); a candidatura permaneceu deferida",
+          "sources": [
+            {
+              "id": "src-wg-08",
+              "title": "Toffoli libera campanha digital e repasses a Wilson Grassi",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-libera-campanha-digital-e-repasses-a-wilson-grassi/",
+              "publishedAt": "2026-09-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Artigo de Vinicius Macia (03/09/2026): na quarta-feira (02/09), Toffoli liberou propaganda digital, participação em debates e repasses do Fundo Especial de Financiamento de Campanha (FEFC) à campanha de Wilson Grassi — as big techs tiveram 2 horas para restabelecer as contas. No domingo (30/08), Toffoli havia suspendido 8 perfis informados apenas 17 dias após o registro (só podiam ser usados 48h após a comunicação; um perfil tinha 156 mil seguidores e não foi informado); os advogados protocolaram a lista de redes sociais na sexta (28/08); a decisão inicial qualificou a omissão como 'indício de fraude à lei' — 'Não é possível tolerar a omissão de perfis de rede social em campanha eleitoral'; a mesma medida foi aplicada a Renan Santos (Missão); a defesa sustentou boa-fé; Toffoli soltou as contas logo depois, pois o PLRPF já havia coletado os relatórios (mais de 360 páginas)."
+            },
+            {
+              "id": "src-wg-09",
+              "title": "Toffoli suspende campanha presidencial de Wilson Grassi, do Democrata",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121821/toffoli-suspende-campanha-presidencial-de-wilson-grassi-do-democrata",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Cobertura da suspensão da campanha digital de Wilson Grassi por decisão do ministro Dias Toffoli no TSE (final de agosto de 2026). Data exata de publicação não capturada; localizado via busca em 29/09/2026."
+            },
+            {
+              "id": "src-wg-06",
+              "title": "Pesquisas de opinião para a eleição presidencial no Brasil em 2026 (Wikipédia: linha do tempo)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Linha do tempo: '1 e 2 Set — Os candidatos Renan Santos (Missão) e Wilson Grassi (Democrata) têm suas campanhas digitais reestabelecidas por ordem de Dias Toffoli, ministro do Tribunal Superior Eleitoral'; '2 Ago — Democrata oficializa a candidatura de Wilson Grassi à presidência'."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-wg-08",
+          "kind": "historico",
+          "title": "Projeto Ambientalistas e ações de saúde animal em diferentes estados",
+          "role": "veterinário, criador do projeto Ambientalistas; participante de campanha nacional contra a cinomose e de projeto veterinário na Amazônia",
+          "complexity": "ações em municípios de diferentes estados (campanha contra a cinomose, 2013) e projeto de atendimento veterinário na Amazônia (2014), além de frente de meio ambiente e causa animal",
+          "outcome": "atividades registradas em perfil de imprensa e verbete; as fontes não detalham número de municípios, parceiros, duração ou resultados medidos",
+          "period": "2013–2014",
+          "context": "evidência de articulação em rede nacional de municípios; sem dados quantitativos disponíveis nas fontes consultadas",
+          "sources": [
+            {
+              "id": "src-wg-07",
+              "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+              "publisher": "GZH (Grupo Cultural de Comunicação)",
+              "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+            },
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Direção de estruturas próprias: montagem e gestão de rede de 13 clínicas com plano de saúde veterinário próprio desde 1997, atuação em conselho de entidade profissional que mantém hospitais públicos veterinários e coordenação da campanha presidencial de 2026 com 12 fornecedores especializados. As fontes não informam quantas pessoas emprega, quantos profissionais integram as equipes clínicas ou a estrutura interna da campanha.",
+      "coverageNote": "As fontes públicas consultadas não registram tamanho, composição, remuneração ou forma de delegação das equipes dirigidas: nenhuma das quatro trajetórias passou por cargo executivo estatal, e a capacidade é demonstrada pela direção de estruturas partidárias, sindicais, associativas e empresariais e pela formação de quadros.",
+      "evidences": [
+        {
+          "id": "ev-cap-wg-09",
+          "kind": "historico",
+          "title": "Montagem e gestão de rede de clínicas com equipe clínica e plano de saúde próprio",
+          "role": "fundador e gestor da rede de clínicas veterinárias",
+          "complexity": "13 unidades (nove na capital paulista) com plano de saúde veterinário próprio aceito em toda a rede; operação iniciada em 1997 e ampliada até 2018",
+          "outcome": "rede em operação, com abertura de nova unidade no Pacaembu em 10/10/2018",
+          "period": "1997–2018",
+          "context": "as fontes não informam número de empregados, de veterinários contratados ou de equipes por unidade",
+          "sources": [
+            {
+              "id": "src-wg-71",
+              "title": "Veterinário cria rede de treze clínicas e plano de saúde para pets",
+              "publisher": "Veja São Paulo",
+              "url": "https://vejasp.abril.com.br/coluna/bichos/wilson-grassi-clinicas-veterinarias/",
+              "publishedAt": "2018-10-12",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Rede de treze clínicas (nove na capital paulista), primeira aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes, a R$ 70 por mês, aceito em toda a rede; nova unidade aberta no Pacaembu em 10/10/2018."
+            },
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            },
+            {
+              "id": "src-wg-19",
+              "title": "Candidatos a presidente 2026: quem são, partidos",
+              "publisher": "Escola Educação (Brasil Escola)",
+              "url": "https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sobre Wilson Grassi: 'Nascido em São Paulo e é médico veterinário por formação. É sócio-proprietário de diversos hospitais veterinários pelo Brasil. Candidatou-se em 2006 como deputado estadual por São Paulo, em 2022 como deputado federal por São Paulo e em 2024 como vereador de São Paulo, mas não foi eleito em nenhuma das candidaturas.'"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-wg-10",
+          "kind": "historico",
+          "title": "Atuação em conselho de entidade profissional (Anclivepa-SP)",
+          "role": "conselheiro da Anclivepa-SP (entidade que reúne clínicos de pequenos animais do estado de São Paulo)",
+          "complexity": "entidade com conselho e diretoria, estatuto, regulamento de compras, política de compliance e rede de hospitais veterinários públicos em vários estados",
+          "outcome": "participação na criação do hospital público veterinário (2015) e permanência da entidade na operação de unidades públicas",
+          "period": "2012–2015 (e atuação associativa posterior)",
+          "context": "as atas de conselho e diretoria publicadas pela entidade não nomeiam o candidato nas fontes consultadas; a atribuição consta de perfil de imprensa e verbete",
+          "sources": [
+            {
+              "id": "src-wg-72",
+              "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+              "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+              "url": "https://hospitalveterinariopublico.com.br/",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "transparencia",
+              "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+            },
+            {
+              "id": "src-wg-07",
+              "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+              "publisher": "GZH (Grupo Cultural de Comunicação)",
+              "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+            },
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-wg-11",
+          "kind": "historico",
+          "title": "Coordenação de campanha presidencial com contratação de equipes especializadas",
+          "role": "candidato responsável pela coordenação da campanha",
+          "complexity": "contratação de 12 fornecedores (R$ 890.399,66), entre consultoria e assessoramento (R$ 450.000,00), intermediação de pagamentos (R$ 250.000,00), plataforma de impulsionamento (R$ 115.000,00) e advocacia (R$ 54.000,00)",
+          "outcome": "campanha mantida após o restabelecimento judicial dos perfis e dos repasses do FEFC em 02/09/2026",
+          "period": "2026",
+          "context": "não há dados públicos sobre o número de pessoas contratadas diretamente nem sobre a estrutura interna da campanha",
+          "sources": [
+            {
+              "id": "src-wg-02",
+              "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+              "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+              "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+            },
+            {
+              "id": "src-wg-08",
+              "title": "Toffoli libera campanha digital e repasses a Wilson Grassi",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-libera-campanha-digital-e-repasses-a-wilson-grassi/",
+              "publishedAt": "2026-09-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Artigo de Vinicius Macia (03/09/2026): na quarta-feira (02/09), Toffoli liberou propaganda digital, participação em debates e repasses do Fundo Especial de Financiamento de Campanha (FEFC) à campanha de Wilson Grassi — as big techs tiveram 2 horas para restabelecer as contas. No domingo (30/08), Toffoli havia suspendido 8 perfis informados apenas 17 dias após o registro (só podiam ser usados 48h após a comunicação; um perfil tinha 156 mil seguidores e não foi informado); os advogados protocolaram a lista de redes sociais na sexta (28/08); a decisão inicial qualificou a omissão como 'indício de fraude à lei' — 'Não é possível tolerar a omissão de perfis de rede social em campanha eleitoral'; a mesma medida foi aplicada a Renan Santos (Missão); a defesa sustentou boa-fé; Toffoli soltou as contas logo depois, pois o PLRPF já havia coletado os relatórios (mais de 360 páginas)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "O plano 'Brasil em Primeiro Lugar' (governo 2027–2030, 58 páginas, 14 eixos) parte de cinco 'travas' que se sustentam mutuamente — custo de conformidade tributária, tributação da folha de pagamento, crime organizado administrado de dentro do sistema prisional, bases de dados federais em silos e polarização política — e aposta na substituição de tributos federais incidentes sobre folha, faturamento e produção por um Imposto Único Federal cobrado automaticamente sobre movimentações financeiras, com isenção do Imposto de Renda até cinco salários mínimos (R$ 8.105) e fim da contribuição previdenciária patronal. Na carta ao eleitor o candidato afirma que governará 'sobre imposto, emprego, segurança e saúde' e promete painel público de indicadores, instrumento identificado e prazo em cada eixo, além de cronograma para os primeiros 100 dias; o documento declara não citar adversários pelo nome e inclui um eixo de pacto institucional e superação da polarização.",
+    "nationalPriorities": [
+      "Reforma tributária: Imposto Único Federal sobre movimentação financeira em substituição a nove tributos federais sobre folha, faturamento e produção",
+      "Trabalho, emprego e renda: fim da contribuição previdenciária patronal e isenção do IRPF até cinco salários mínimos",
+      "Segurança pública e combate ao crime organizado: isolamento do comando, asfixia financeira, integração de inteligência e fronteiras, com plebiscito sobre o modelo penitenciário",
+      "Saúde Única (humana, animal e ambiental) no SUS, com fila nacional pública de cirurgias e exames eletivos",
+      "Educação e formação: alfabetização na idade certa, rede federal de educação profissional e PEC da Pesquisa",
+      "Infraestrutura, energia e meio ambiente: Brasil nos Trilhos, hidrovias e cabotagem, metas do marco do saneamento e rastreabilidade bovina",
+      "Estado digital, desburocratização e transparência (Método D35, integração de bases de dados e painel de indicadores)"
+    ],
+    "developmentModel": "Modelo declarado no Método D35 (desburocratizar, desonerar, digitalizar, democratizar, desenvolver): 'crescer reduzindo atrito, não expandindo gasto', deslocando o peso tributário do trabalho e da produção para uma base ampla e difícil de sonegar — a movimentação financeira, com arrecadação automática dentro do sistema bancário e sem declaração do contribuinte; ICMS e ISS ficam fora por pertencerem a estados e municípios. Papel atribuído ao Estado: licenciar rápido, garantir estabilidade regulatória, reduzir obrigações acessórias, integrar bases de dados federais e publicar indicadores verificáveis; o plano declara não apresentar valores orçamentários medida a medida e evitar prometer o que a Presidência não decide sozinha (reforma tributária por emenda constitucional; segurança compartilhada com estados; ensino fundamental municipal). Setor privado: execução em infraestrutura pelo regime de autorização ferroviária, com priorização por custo logístico por tonelada publicado por corredor, integração ferrovia-porto, hidrovia e cabotagem. Defesa: apoio à PEC 55/2023, com piso gradual de 2% do PIB e no mínimo 35% do valor vinculado à modernização, e recomposição de soldos concentrada na base da pirâmide. Tecnologia e educação: PEC da Pesquisa para transformar bolsistas em servidores públicos concursados; repasses federais à alfabetização condicionados a resultados em avaliações externas. Meio ambiente e questão indígena: cobrança das metas do marco legal do saneamento, prazos com responsáveis nomeados no licenciamento ambiental e projeto de lei regulamentando mineração em terra indígena com consulta prévia, participação econômica direta e proibição do uso de mercúrio. Trabalho e desigualdade aparecem nos eixos de emprego e renda (desoneração da contratação formal e cursos condicionados à demanda de contratação regional) e de habitação (portabilidade do aluguel para financiamento e titulação em massa).",
+    "sources": [
+      {
+        "id": "src-wg-70",
+        "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+        "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+      },
+      {
+        "id": "src-wg-71",
+        "title": "Veterinário cria rede de treze clínicas e plano de saúde para pets",
+        "publisher": "Veja São Paulo",
+        "url": "https://vejasp.abril.com.br/coluna/bichos/wilson-grassi-clinicas-veterinarias/",
+        "publishedAt": "2018-10-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Rede de treze clínicas (nove na capital paulista), primeira aberta em 1997 em Artur Alvim; plano de saúde veterinário próprio criado cerca de quatro anos antes, a R$ 70 por mês, aceito em toda a rede; nova unidade aberta no Pacaembu em 10/10/2018."
+      },
+      {
+        "id": "src-wg-72",
+        "title": "Hospitais Veterinários Públicos — Anclivepa-SP",
+        "publisher": "Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais — SP)",
+        "url": "https://hospitalveterinariopublico.com.br/",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "transparencia",
+        "notes": "Site da entidade sobre a rede de hospitais veterinários públicos (unidades municipais e estaduais, entre elas Jacó/Fortaleza, Distrito Federal, Osasco e Sorocaba), com páginas de transparência (estatuto, atas de conselho e diretoria, regulamento de compras). Não nomeia o candidato."
+      }
+    ],
+    "evidenceStatus": "confirmado",
+    "confidenceLevel": "medium",
+    "methodology": "Extraído do plano registrado no TSE — 'Brasil em Primeiro Lugar — Plano de Governo 2027–2030', 58 páginas, com carta ao eleitor assinada por Wilson Grassi e Suêd Haidar, diagnóstico das cinco travas, 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência —, conferido com a cobertura da Agência Brasil (20/09/2026) e com a cópia do PDF publicada pelo Poder360. Diferentemente dos demais documentos deste grupo, é um plano de governo redigido para o mandato, com instrumento jurídico, forma de medição e prazo declarados por eixo, embora seja o documento do partido Democrata, legenda presidida pela candidata a vice. O bloco está marcado como 'confirmado' por se tratar do documento do próprio candidato, lido diretamente na fonte; a confiança é 'medium' porque não há registro de implementação (nunca exerceu cargo executivo) e porque o próprio candidato declarou, em entrevista à Folha de S.Paulo reproduzida pelo Poder360 em 29/08/2026, que há propostas que pretende implementar e que não constam do programa. O plano não apresenta valores orçamentários por medida."
+  }
 }

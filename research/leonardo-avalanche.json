@@ -303,6 +303,93 @@
       "accessedAt": "2026-09-29",
       "sourceType": "partidaria",
       "notes": "Art. 47: 'O Diretório Nacional do PRTB é composto por 45 (quarenta e cinco) membros titulares', acrescidos de 1/3 de suplentes e 5 delegados; Diretórios Regionais com 25 e Municipais com 15 membros. Sedes: nacional em Brasília (DF) e administrativa em São Paulo (SP). Art. 18: a Comissão Executiva Nacional deliberará sobre os candidatos à Presidência."
+    },
+    {
+      "id": "src-la-37",
+      "title": "Leonardo Avalanche anuncia candidatura à Presidência no lugar de Marçal",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/leonardo-avalanche-anuncia-candidatura-a-presidencia-no-lugar-de-marcal/",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Anúncio divulgado nas redes sociais em 15/09/2026, após o indeferimento do registro de Marçal pelo TSE."
+    },
+    {
+      "id": "src-la-35",
+      "title": "Marçal reata com presidente do PRTB e diz estar comprometido de vez com o partido",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2024/09/04/marcal-reata-com-presidente-do-prtb-e-diz-estar-comprometido-de-vez-com-o-partido-mesmo-sob-suspeitas.ghtml",
+      "publishedAt": "2024-09-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a interlocução entre o candidato e o presidente nacional do PRTB durante a campanha municipal de São Paulo (2024)."
+    },
+    {
+      "id": "src-la-34",
+      "title": "PRTB muda comando em Goiás e inicia reestruturação de olho nas eleições de 2026",
+      "publisher": "Jornal Hora Extra",
+      "url": "https://www.jornalhoraextra.com.br/destaques/prtb-muda-comando-em-goias-e-inicia-reestruturacao-de-olho-nas-eleicoes-de-2026",
+      "publishedAt": "2026-06-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-la-30",
+      "title": "PRTB anuncia Leonardo Avalanche como pré-candidato a presidente",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/prtb-anuncia-leonardo-avalanche-como-pre-candidato-a-presidente",
+      "publishedAt": "2026-07-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-la-32",
+      "title": "Partido de Pablo Marçal é o que tem menos candidatos em 2026",
+      "publisher": "Correio Braziliense (blog Em Alta na Política)",
+      "url": "https://newblogs.correiobraziliense.com.br/emaltanapolitica/partido-de-pablo-marcal-e-o-que-tem-menos-candidatos-em-2026/",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Dados abertos do TSE: PRTB com 12 candidatos registrados em 2026, disputando os governos do DF e do Maranhão."
+    },
+    {
+      "id": "src-la-36",
+      "title": "O novo candidato ao Planalto que entrou na corrida a vinte dias da eleição",
+      "publisher": "Veja",
+      "url": "https://veja.abril.com.br/brasil/o-novo-candidato-ao-planalto-que-entrou-na-corrida-a-vinte-dias-da-eleicao/",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-la-31",
+      "title": "Quem é Leonardo Avalanche, candidato a presidente pelo PRTB",
+      "publisher": "Último Segundo / iG",
+      "url": "https://ultimosegundo.ig.com.br/2026-08-10/quem-e-leonardo-avalanche--candidato-a-presidente-pelo-prtb.html",
+      "publishedAt": "2026-08-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil de trajetória: empresário goiano, presidente do partido, estreia nas urnas em 2026."
+    },
+    {
+      "id": "src-la-33",
+      "title": "PRTB deixa coligação de Marconi Perillo e abre negociação por novo apoio em Goiás",
+      "publisher": "Poder Goiás",
+      "url": "https://www.podergoias.com.br/materia/27350/prtb-deixa-coligacao-de-marconi-e-abre-negociacao-por-novo-apoio-em-goias",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026); posterior à nota de 08/09/2026 em que o partido confirmava a manutenção da aliança."
+    },
+    {
+      "id": "src-la-70",
+      "title": "Leonardo Avalanche: PRTB lança candidatura à Presidência da República",
+      "publisher": "g1 Goiás",
+      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/07/29/prtb-lanca-candidatura-de-leonardo-avalanche-a-presidencia-em-goias.ghtml",
+      "publishedAt": "2026-07-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Convenção em Goiânia (29/07/2026): imposto único de 3,5%, trabalho por hora e IPVA; entrevista com defesa de reindustrialização e do agro como eixos."
     }
   ],
   "education": [
@@ -1802,6 +1889,655 @@
     "Status final do pedido de ação penal do MP-SP (jan/2026) por suposta fraude na eleição interna do PRTB não localizado",
     "Equipe de campanha da prestação de contas 2026 não consultada — equipe_gerida usa proxy do Diretório Nacional do PRTB (estatuto, art. 47: 45 membros titulares)",
     "Custo estimado ausente em 17 das 19 propostas e prazo de execução ausente em 16 das 19 no plano registrado — ausência no próprio documento, não falha de pesquisa",
-    "Pesquisas de outros institutos no período pós-substituição (ex.: AtlasIntel de 23/09/2026 e levantamentos regionais) não incorporadas ao indicador de intenção de voto"
-  ]
+    "Pesquisas de outros institutos no período pós-substituição (ex.: AtlasIntel de 23/09/2026 e levantamentos regionais) não incorporadas ao indicador de intenção de voto",
+    "leonardo-avalanche, clariana-barao e augusto-cury (lideranca-equipes) e samara-martins (em todas as capacidades): nenhum dos partidos ou campanhas publica organograma, quadro de pessoal ou número de integrantes de equipe; as evidências de formação e coordenação de equipes se apoiam em atos nominais (indicação de vice, nomeação de diretórios, substituição de marqueteiro) e em estrutura empresarial, quando existe.",
+    "renan-santos e samara-martins: partidos não publicam balanço de campanha consolidado; números de arrecadação citados são de levantamentos parciais de imprensa com data de referência (g1, 05/07/2026) e não do encerramento da campanha.",
+    "clariana-barao: a coordenação do grupo de voluntários nas enchentes do Rio Grande do Sul (2024) e a presidência de comissão na OAB de Várzea Grande constam de perfis de candidatura reproduzidos pela imprensa; não foram localizados relatórios ou atas das duas atividades.",
+    "augusto-cury: os números de tiragem/vendas de livros variam conforme a fonte e a data de referência (11 milhões em 2010; 27 milhões em 2016; mais de 30 milhões em 2017; mais de 40 milhões declarados pela campanha em 2026) e a página própria do autor é a única fonte para os quantitativos de alunos das escolas de gestão da emoção.",
+    "leonardo-avalanche: as negociações partidárias de 2026 (aliança com Marconi Perillo em Goiás e saída posterior da coligação) aparecem em notas e imprensa regional, sem atas, registros de coligação estadual anexados ou documento oficial do partido no pool de fontes desta rodada.",
+    "clariana-barao e augusto-cury: as datas exatas de publicação de algumas reportagens de 2026 (Gazeta de São Paulo, Potência MT, site próprio do autor) não foram capturadas; os campos publishedAt registram apenas o ano, com nota na fonte.",
+    "Custo, compensação fiscal e cronograma por meta/prioridade não estão declarados nos documentos registrados de nenhum dos cinco candidatos analisados neste bloco; o bloco PROJETO DE PAÍS registra apenas o que é declarado.",
+    "leonardo-avalanche: não foi localizada posição documentada de política externa ou sobre clima em fontes 2025-2026; o plano registrado não tem capítulo desses temas.",
+    "augusto-cury: nomes da equipe econômica não divulgados por decisão declarada do candidato (Valor International, 04/09/2026).",
+    "clariana-barao: documento autodeclarado preliminar; sem diagnóstico, linha de base e metas numéricas finais; total de promessas não contado item a item (dossiê independente enumera ao menos 30).",
+    "samara-martins: registro no TSE foi feito com a versão de 2022 do programa e depois corrigido; a versão ampliada de 67 páginas não consta como o arquivo registrado no TSE nas fontes consultadas (o link oficial do TSE retornou bloqueio e o texto foi lido em espelho público da campanha).",
+    "renan-santos: apenas o resumo executivo de 51 páginas do Livro Amarelo está público; a obra integral (mais de 500 páginas) não foi analisada."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "Assumeu a presidência nacional do PRTB em 23/02/2024, sucedendo direção provisória, e conduziu reformulação organizacional e reestruturação de diretórios, incluindo novo comando estadual em Goiás em junho de 2026. Após o indeferimento da chapa original pelo TSE em 11/09/2026 e a renúncia do titular, executou a substituição no último dia do prazo, com a chapa publicada no DJE de 18/09/2026. Antes disso, coordenou politicamente a candidatura de Pablo Marçal à Prefeitura de São Paulo em 2024, que terminou em terceiro lugar com 28,14% dos votos.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-la-01",
+          "kind": "historico",
+          "title": "Substituição da chapa presidencial do PRTB no último dia do prazo",
+          "role": "presidente nacional do PRTB e vice da chapa original; passou a titular após a renúncia de Pablo Marçal",
+          "complexity": "alcance nacional; prazo de substituição encerrando em 18/09/2026; decisão colegiada do TSE; risco de o partido ficar sem candidato na eleição presidencial",
+          "outcome": "chapa Leonardo Avalanche / Silvia Hellen registrada e publicada na lista oficial de candidaturas do DJE em 18/09/2026, com voto favorável da relatora",
+          "period": "2026",
+          "context": "Indeferimento por unanimidade do registro da chapa Marçal/Avalanche em 11/09/2026, seguido de renúncia do titular em 14/09/2026.",
+          "sources": [
+            {
+              "id": "src-la-01",
+              "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+              "publisher": "TSE — Diário da Justiça Eletrônico",
+              "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+              "publishedAt": "2026-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+            },
+            {
+              "id": "src-la-02",
+              "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+              "publisher": "TSE",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+              "publishedAt": "2026-09-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+            },
+            {
+              "id": "src-la-04",
+              "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+              "publisher": "g1",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+              "publishedAt": "2026-09-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+            },
+            {
+              "id": "src-la-37",
+              "title": "Leonardo Avalanche anuncia candidatura à Presidência no lugar de Marçal",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/leonardo-avalanche-anuncia-candidatura-a-presidencia-no-lugar-de-marcal/",
+              "publishedAt": "2026-09-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Anúncio divulgado nas redes sociais em 15/09/2026, após o indeferimento do registro de Marçal pelo TSE."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-la-02",
+          "kind": "historico",
+          "title": "Coordenação política da candidatura de Pablo Marçal à Prefeitura de São Paulo",
+          "role": "coordenador político da campanha (presidente nacional do partido)",
+          "complexity": "alcance municipal no município de São Paulo; campanha com visibilidade nacional; partido sem prefeitos e com estrutura reduzida na cidade",
+          "outcome": "terceiro lugar na eleição municipal de 2024, com 28,14% dos votos",
+          "period": "2024",
+          "context": "Candidatura que projetou nacionalmente o partido após a morte do fundador Levy Fidelix e a direção provisória.",
+          "sources": [
+            {
+              "id": "src-la-10",
+              "title": "Leonardo Avalanche — Wikipédia (pt)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+            },
+            {
+              "id": "src-la-35",
+              "title": "Marçal reata com presidente do PRTB e diz estar comprometido de vez com o partido",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2024/09/04/marcal-reata-com-presidente-do-prtb-e-diz-estar-comprometido-de-vez-com-o-partido-mesmo-sob-suspeitas.ghtml",
+              "publishedAt": "2024-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra a interlocução entre o candidato e o presidente nacional do PRTB durante a campanha municipal de São Paulo (2024)."
+            },
+            {
+              "id": "src-la-09",
+              "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+              "publishedAt": "2024-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-la-03",
+          "kind": "historico",
+          "title": "Reformulação organizacional e reestruturação de diretórios do PRTB",
+          "role": "presidente nacional, no cargo desde 23/02/2024",
+          "complexity": "alcance nacional; partido com 144.376 filiados em janeiro de 2026; comando estadual substituído em Goiás em junho de 2026; gestão marcada por disputas judiciais sobre o comando da legenda",
+          "outcome": "partido realizou convenção nacional em 29/07/2026 e voltou a disputar a Presidência, o que não ocorria desde 2014",
+          "period": "2024-2026",
+          "context": "Sucessão de administração provisória instituída após disputas internas posteriores à morte do fundador, com contestações judiciais sobre a eleição da direção.",
+          "sources": [
+            {
+              "id": "src-la-10",
+              "title": "Leonardo Avalanche — Wikipédia (pt)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+            },
+            {
+              "id": "src-la-11",
+              "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+            },
+            {
+              "id": "src-la-34",
+              "title": "PRTB muda comando em Goiás e inicia reestruturação de olho nas eleições de 2026",
+              "publisher": "Jornal Hora Extra",
+              "url": "https://www.jornalhoraextra.com.br/destaques/prtb-muda-comando-em-goias-e-inicia-reestruturacao-de-olho-nas-eleicoes-de-2026",
+              "publishedAt": "2026-06-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-la-14",
+              "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+              "publisher": "Gazeta do Paraná",
+              "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-la-04",
+          "kind": "historico",
+          "title": "Convenção nacional que oficializou a candidatura presidencial",
+          "role": "pré-candidato e presidente nacional do partido",
+          "complexity": "alcance nacional; convenção realizada em Goiânia em 29/07/2026; candidato a vice ainda não definido na data",
+          "outcome": "candidatura oficializada; vice anunciada posteriormente (Silvia Hellen da Silva Pereira)",
+          "period": "2026",
+          "context": "Primeira candidatura presidencial do PRTB desde 2014, montada em ano em que o partido registrou o menor número de candidaturas entre as legendas.",
+          "sources": [
+            {
+              "id": "src-la-14",
+              "title": "PRTB oficializa Leonardo Avalanche como candidato à Presidência da República",
+              "publisher": "Gazeta do Paraná",
+              "url": "https://gazetadoparana.com.br/artigo/prtb-oficializa-leonardo-avalanche-como-candidato-a-presidencia-da-republica",
+              "publishedAt": "2026-08-01",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Convenção nacional em Goiânia em 29/07/2026; primeira disputa presidencial do PRTB desde 2014 (Levy Fidelix)."
+            },
+            {
+              "id": "src-la-30",
+              "title": "PRTB anuncia Leonardo Avalanche como pré-candidato a presidente",
+              "publisher": "Estadão",
+              "url": "https://www.estadao.com.br/politica/prtb-anuncia-leonardo-avalanche-como-pre-candidato-a-presidente",
+              "publishedAt": "2026-07-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-la-32",
+              "title": "Partido de Pablo Marçal é o que tem menos candidatos em 2026",
+              "publisher": "Correio Braziliense (blog Em Alta na Política)",
+              "url": "https://newblogs.correiobraziliense.com.br/emaltanapolitica/partido-de-pablo-marcal-e-o-que-tem-menos-candidatos-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Dados abertos do TSE: PRTB com 12 candidatos registrados em 2026, disputando os governos do DF e do Maranhão."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-la-05",
+          "kind": "historico",
+          "title": "Execução da campanha eleitoral de 2026 com estrutura partidária reduzida",
+          "role": "candidato à Presidência e presidente nacional",
+          "complexity": "alcance nacional; 12 candidaturas registradas pelo partido para todos os cargos em 2026, com disputas de governo no DF e no Maranhão; campanha iniciada a 20 dias do primeiro turno",
+          "outcome": "campanha realizada com chapa registrada e agenda nacional em três semanas; imprensa registra que o PRTB foi a legenda com menos candidatos registrados em 2026",
+          "period": "2026",
+          "context": "Candidatura assumida após o início oficial da campanha, com estrutura partidária concentrada em poucos estados.",
+          "sources": [
+            {
+              "id": "src-la-32",
+              "title": "Partido de Pablo Marçal é o que tem menos candidatos em 2026",
+              "publisher": "Correio Braziliense (blog Em Alta na Política)",
+              "url": "https://newblogs.correiobraziliense.com.br/emaltanapolitica/partido-de-pablo-marcal-e-o-que-tem-menos-candidatos-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Dados abertos do TSE: PRTB com 12 candidatos registrados em 2026, disputando os governos do DF e do Maranhão."
+            },
+            {
+              "id": "src-la-36",
+              "title": "O novo candidato ao Planalto que entrou na corrida a vinte dias da eleição",
+              "publisher": "Veja",
+              "url": "https://veja.abril.com.br/brasil/o-novo-candidato-ao-planalto-que-entrou-na-corrida-a-vinte-dias-da-eleicao/",
+              "publishedAt": "2026-09-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-la-31",
+              "title": "Quem é Leonardo Avalanche, candidato a presidente pelo PRTB",
+              "publisher": "Último Segundo / iG",
+              "url": "https://ultimosegundo.ig.com.br/2026-08-10/quem-e-leonardo-avalanche--candidato-a-presidente-pelo-prtb.html",
+              "publishedAt": "2026-08-10",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil de trajetória: empresário goiano, presidente do partido, estreia nas urnas em 2026."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "documentada",
+      "updatedAt": null
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "Manteve aliança eleitoral com Marconi Perillo (PSDB) no governo de Goiás, confirmada por nota em 08/09/2026 após especulação de rompimento, e depois retirou o partido da coligação e abriu negociação por novo apoio no estado. Em 2025, declarou publicamente que colocaria o PRTB à disposição de lideranças da direita para a eleição de 2026, entre elas o deputado Eduardo Bolsonaro. Conduziu também a interlocução com Pablo Marçal, que passou pelo partido em 2024 e teve o registro presidencial indeferido em 2026.",
+      "coverageNote": "As negociações de 2026 aparecem em notas do partido e na imprensa regional, sem atas ou documentos de coligação disponíveis no pool de fontes; o registro DJE cobre apenas o resultado (chapa pura para a Presidência).",
+      "evidences": [
+        {
+          "id": "ev-cap-la-06",
+          "kind": "historico",
+          "title": "Aliança com Marconi Perillo (PSDB) no governo de Goiás e negociação de novo apoio",
+          "role": "presidente nacional do PRTB; aliança firmada e confirmada por nota do partido ao Jornal Opção",
+          "complexity": "alcance estadual (Goiás); acordo com a candidatura do PSDB ao governo; PRTB descrito como um dos poucos partidos a declarar apoio a Marconi Perillo",
+          "outcome": "aliança confirmada em nota em 08/09/2026 após notícias de rompimento; depois o partido deixou a coligação e abriu negociação por novo apoio no estado",
+          "period": "2026",
+          "context": "Disputa estadual em que o partido tinha capital político limitado e negociou apoio em troca de espaço na chapa.",
+          "sources": [
+            {
+              "id": "src-la-25",
+              "title": "PRTB nega rompimento e mantém aliança com Marconi Perillo",
+              "publisher": "Jornal Opção",
+              "url": "https://www.jornalopcao.com.br/ultimas-noticias/prtb-nega-rompimento-e-mantem-alianca-com-marconi-perillo-866182/",
+              "publishedAt": "2026-09-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "08/09/2026, João Paulo Alexandre: o presidente do PRTB, Leonardo Avalanche, confirmou em nota enviada ao jornal a manutenção da aliança com Marconi Perillo (PSDB), candidato ao governo de Goiás. A página bloqueou acesso automatizado nesta rodada; o texto foi conferido no espelho src-la-26."
+            },
+            {
+              "id": "src-la-26",
+              "title": "PRTB nega rompimento de aliança com Marconi Perillo em Goiás",
+              "publisher": "Brasil em Folhas",
+              "url": "https://www.brasilemfolhas.com.br/2026/09/prtb-nega-rompimento-de-alianca-com-marconi-perillo-em-goias/",
+              "publishedAt": "2026-09-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Texto lido em 29/09/2026: nota de Avalanche de 08/09/2026 confirma a aliança com Perillo (PSDB); o PRTB figura na coligação 'Goiás Pode Muito Mais' no DivulgaCand; a definição final sobre o apoio estadual cabe ao presidente nacional, após vereadora do PRTB ser filmada em atividade de aliados do MDB."
+            },
+            {
+              "id": "src-la-33",
+              "title": "PRTB deixa coligação de Marconi Perillo e abre negociação por novo apoio em Goiás",
+              "publisher": "Poder Goiás",
+              "url": "https://www.podergoias.com.br/materia/27350/prtb-deixa-coligacao-de-marconi-e-abre-negociacao-por-novo-apoio-em-goias",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada (2026); posterior à nota de 08/09/2026 em que o partido confirmava a manutenção da aliança."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-la-07",
+          "kind": "posicao",
+          "title": "Oferta da legenda a lideranças da direita para a eleição de 2026",
+          "role": "presidente nacional do PRTB",
+          "complexity": "alcance nacional; interlocução declarada com lideranças do campo conservador, entre elas o deputado federal Eduardo Bolsonaro; partido com 144.376 filiados em janeiro de 2026",
+          "outcome": "entendimentos declarados em entrevistas ao longo de 2025; a articulação seguinte resultou na filiação de Pablo Marçal ao partido e na chapa registrada em agosto de 2026",
+          "period": "2025-2026",
+          "context": "Legenda sem bancada expressiva buscando abrigar uma candidatura competitiva da direita.",
+          "sources": [
+            {
+              "id": "src-la-10",
+              "title": "Leonardo Avalanche — Wikipédia (pt)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+            },
+            {
+              "id": "src-la-11",
+              "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "ev-cap-la-08",
+          "kind": "historico",
+          "title": "Filiação e registro da chapa Marçal/Avalanche e desfecho no TSE",
+          "role": "vice na chapa registrada em agosto de 2026; presidente nacional que conduziu o registro",
+          "complexity": "alcance nacional; chapa presidencial registrada em 15/08/2026; julgamento pelo Plenário do TSE",
+          "outcome": "registro indeferido por unanimidade em 11/09/2026, por não comprovação de filiação partidária do titular até abril de 2026; decisão declarou o titular inelegível até 2032 por irregularidades de prestação de contas",
+          "period": "2026",
+          "context": "Negociação que levou uma liderança de fora do partido à candidatura presidencial e terminou em indeferimento, abrindo espaço para a substituição pelo próprio dirigente.",
+          "sources": [
+            {
+              "id": "src-la-02",
+              "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+              "publisher": "TSE",
+              "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+              "publishedAt": "2026-09-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Indeferimento por unanimidade do registro da chapa Marçal (presidente) e Avalanche (vice)."
+            },
+            {
+              "id": "src-la-13",
+              "title": "Após TSE barrar Marçal, PRTB terá Leonardo Avalanche como candidato à Presidência",
+              "publisher": "CartaCapital",
+              "url": "https://www.cartacapital.com.br/politica/apos-tse-barrar-marcal-prtb-tera-leonardo-avalanche-como-candidato-a-presidencia/",
+              "publishedAt": "2026-09-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Tem 48 anos e declarou patrimônio de 495 milhões de reais à Justiça Eleitoral, sendo que 491 milhões em criptomoedas'."
+            },
+            {
+              "id": "src-la-05",
+              "title": "PRTB troca Marçal por Avalanche na disputa à Presidência",
+              "publisher": "Agência Brasil",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/prtb-troca-marcal-por-leonardo-avalanche-na-disputa-presidencia",
+              "publishedAt": "2026-09-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Chapa substituta: Leonardo Avalanche e Silvia Hellen."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-la-09",
+          "kind": "historico",
+          "title": "Interlocução com a candidatura de Pablo Marçal durante a campanha municipal de 2024",
+          "role": "presidente nacional do partido e interlocutor da campanha municipal",
+          "complexity": "alcance municipal no município de São Paulo; campanha com três trocas de posição pública entre candidato e direção partidária no mesmo mês",
+          "outcome": "candidato declarou publicamente estar comprometido com o partido em setembro de 2024, após ter pedido o afastamento do presidente nacional",
+          "period": "2024",
+          "context": "Relação entre a direção nacional e uma candidatura de forte apelo eleitoral, com conflito público sobre suspeitas envolvendo dirigentes.",
+          "sources": [
+            {
+              "id": "src-la-35",
+              "title": "Marçal reata com presidente do PRTB e diz estar comprometido de vez com o partido",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2024/09/04/marcal-reata-com-presidente-do-prtb-e-diz-estar-comprometido-de-vez-com-o-partido-mesmo-sob-suspeitas.ghtml",
+              "publishedAt": "2024-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra a interlocução entre o candidato e o presidente nacional do PRTB durante a campanha municipal de São Paulo (2024)."
+            },
+            {
+              "id": "src-la-09",
+              "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+              "publishedAt": "2024-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "parcial",
+      "updatedAt": null
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Assumeu a presidência nacional do PRTB sucedendo uma administração provisória e nomeou novo comando estadual em Goiás em junho de 2026, conduzindo o partido à convenção nacional de 29/07/2026. Coordenou politicamente a campanha de Pablo Marçal à Prefeitura de São Paulo em 2024 e, em 2026, formou a chapa com Silvia Hellen da Silva Pereira como vice. A gestão à frente da legenda foi acompanhada de disputas judiciais sobre o comando do partido e de acusações de dirigentes afastados, que ele nega.",
+      "coverageNote": "Não há publicação de organograma, quadro de pessoal ou de equipe de campanha do PRTB; as evidências se baseiam em atos de nomeação de diretórios, na composição da chapa e na coordenação política documentada pela imprensa.",
+      "evidences": [
+        {
+          "id": "ev-cap-la-10",
+          "kind": "historico",
+          "title": "Recomposição da direção nacional e dos diretórios estaduais do PRTB",
+          "role": "presidente nacional eleito em 23/02/2024, sucedendo direção provisória",
+          "complexity": "alcance nacional; 144.376 filiados em janeiro de 2026; comando estadual em Goiás substituído em 27/06/2026 com início de reestruturação",
+          "outcome": "nova direção instalada; partido realizou convenção nacional em 29/07/2026 e lançou chapa presidencial",
+          "period": "2024-2026",
+          "context": "Herança de administração provisória criada após disputas internas na sucessão do fundador, com ações judiciais contestando a eleição da direção.",
+          "sources": [
+            {
+              "id": "src-la-10",
+              "title": "Leonardo Avalanche — Wikipédia (pt)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+            },
+            {
+              "id": "src-la-11",
+              "title": "Partido Renovador Trabalhista Brasileiro — Wikipédia (pt)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Partido_Renovador_Trabalhista_Brasileiro",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Número eleitoral 28; fundado 1994; 144.376 filiados em janeiro de 2026."
+            },
+            {
+              "id": "src-la-34",
+              "title": "PRTB muda comando em Goiás e inicia reestruturação de olho nas eleições de 2026",
+              "publisher": "Jornal Hora Extra",
+              "url": "https://www.jornalhoraextra.com.br/destaques/prtb-muda-comando-em-goias-e-inicia-reestruturacao-de-olho-nas-eleicoes-de-2026",
+              "publishedAt": "2026-06-27",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-la-11",
+          "kind": "historico",
+          "title": "Coordenação política de campanha municipal com equipe própria",
+          "role": "coordenador político da candidatura à Prefeitura de São Paulo em 2024",
+          "complexity": "campanha no município de São Paulo; estrutura de campanha montada pelo partido, com material de campanha e agenda própria; resultado de 28,14% dos votos",
+          "outcome": "campanha coordenada até a votação, com terceiro lugar no primeiro turno",
+          "period": "2024",
+          "context": "Partido com presença reduzida na cidade assumiu a coordenação de uma candidatura de forte circulação nacional.",
+          "sources": [
+            {
+              "id": "src-la-10",
+              "title": "Leonardo Avalanche — Wikipédia (pt)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Leonardo_Avalanche",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Nome civil Leonardo Alves de Araújo; nascido em Anápolis (GO) em 23/10/1977; presidente nacional do PRTB desde 23/02/2024."
+            },
+            {
+              "id": "src-la-09",
+              "title": "Quem é Leonardo Avalanche, candidato à Presidência da República pelo PRTB",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-leonardo-avalanche-candidato-a-presidencia-da-republica-pelo-prtb/",
+              "publishedAt": "2024-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Analista de sistemas e formado em direito'; atuação no setor privado antes da política. Divergência: informa nascimento em 1989, contra 1977 na Wikipédia e '48 anos' na CartaCapital — adotado 23/10/1977 (Wikipédia)."
+            },
+            {
+              "id": "src-la-35",
+              "title": "Marçal reata com presidente do PRTB e diz estar comprometido de vez com o partido",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2024/09/04/marcal-reata-com-presidente-do-prtb-e-diz-estar-comprometido-de-vez-com-o-partido-mesmo-sob-suspeitas.ghtml",
+              "publishedAt": "2024-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Registra a interlocução entre o candidato e o presidente nacional do PRTB durante a campanha municipal de São Paulo (2024)."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-la-12",
+          "kind": "historico",
+          "title": "Composição da chapa presidencial e definição da vice",
+          "role": "cabeça de chapa; vice Silvia Hellen da Silva Pereira, também de Anápolis (GO)",
+          "complexity": "alcance nacional; chapa pura, sem federação ou coligação registrada; indicação e registro concluídos em 48 horas após a renúncia do titular anterior",
+          "outcome": "chapa registrada e publicada no DJE de 18/09/2026",
+          "period": "2026",
+          "context": "Definição de companheiro de chapa em prazo reduzido, com o partido sob risco de ficar fora da disputa presidencial.",
+          "sources": [
+            {
+              "id": "src-la-01",
+              "title": "Lista de candidatas e candidatos aos cargos de Presidente e Vice-Presidente da República — Eleições 2026 (DJE de 18/09/2026)",
+              "publisher": "TSE — Diário da Justiça Eletrônico",
+              "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+              "publishedAt": "2026-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Lista oficial assinada pelo presidente do TSE (Kassio Nunes Marques): LEONARDO ALVES DE ARAUJO, urna LEONARDO AVALANCHE, nº 28, PRTB, vice SILVIA HELLEN DA SILVA PEREIRA."
+            },
+            {
+              "id": "src-la-04",
+              "title": "Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca já tem voto favorável de relatora no TSE",
+              "publisher": "g1",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/artigo/apos-tse-barrar-pablo-marcal-prtb-quer-leonardo-avalanche-como-candidato-a-presidencia-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml",
+              "publishedAt": "2026-09-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Renúncia de Marçal em 14/09/2026; substituição no último dia do prazo."
+            },
+            {
+              "id": "src-la-36",
+              "title": "O novo candidato ao Planalto que entrou na corrida a vinte dias da eleição",
+              "publisher": "Veja",
+              "url": "https://veja.abril.com.br/brasil/o-novo-candidato-ao-planalto-que-entrou-na-corrida-a-vinte-dias-da-eleicao/",
+              "publishedAt": "2026-09-15",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "parcial",
+      "updatedAt": null
+    }
+  ],
+  "updatedAt": "2026-09-29",
+  "countryProject": {
+    "vision": "O plano registrado no TSE ('Reconstrução Nacional', 19 propostas numeradas) declara o objetivo de tornar o Brasil uma 'economia mais dinâmica, produtiva e voltada ao empreendedorismo' e resume o compromisso como 'um Brasil mais justo, mais seguro e mais forte pra cada brasileiro', sustentado em três pilares declarados: 'Deus, pátria e família'. A projeção é de país com tributação simplificada (imposto único de 3,5%), poder de compra ampliado, indústria nacional e saneamento básico universal.",
+    "nationalPriorities": [
+      "redução e simplificação de tributos (imposto único de 3,5%)",
+      "saúde (zerar a fila do SUS)",
+      "segurança pública",
+      "educação com tecnologia e empreendedorismo",
+      "industrialização e infraestrutura",
+      "saneamento básico e resíduos sólidos",
+      "proteção à mulher e à criança, apoio à família atípica"
+    ],
+    "developmentModel": "O papel central atribuído ao Estado é reduzir e simplificar a tributação: substituição de ICMS, ISS, IPI, PIS, Cofins, IOF, IRPJ, CSLL, IRPF, INSS (patronal e do trabalhador), IPVA, ITBI, ITCMD e Imposto de Importação por alíquota única de 3,5% cobrada na fonte, com IPVA de R$ 50 por mês e regras específicas para motoristas de aplicativo. O documento ilustra o modelo com comparações internacionais (EUA, Paraguai — modelo '10-10-10' —, Suécia, Alemanha e Japão) e afirma que a arrecadação nacional 'triplicaria' com o fim da sonegação; não foi localizada, nas fontes consultadas, estimativa de compensação fiscal para a queda de alíquota. Ao setor privado e à indústria atribui reindustrialização (produção local de insumos, indústria automobilística nacional, fertilizantes e agro, polo tecnológico 'de escala mundial', infraestrutura pesada de rodovias, hidrovias e ferrovias, segurança jurídica). Tecnologia aparece na educação (IA e empreendedorismo) e no programa de acesso a dispositivos; defesa nacional aparece na proposta de equipar as Forças Armadas; saúde, na eliminação da fila do SUS e em saneamento básico com coleta seletiva e aproveitamento energético de resíduos. Desigualdade e proteção social são tratadas por saneamento, apoio à 'família atípica' (Abraço Azul), segurança da mulher e combate à exploração sexual infantil; meio ambiente comparece no plano por saneamento e resíduos sólidos, sem capítulo específico de clima.",
+    "sources": [
+      {
+        "id": "src-la-17",
+        "title": "Plano de Governo — Leonardo Avalanche | PRTB (espelho do arquivo registrado no TSE)",
+        "publisher": "Poder360 (espelho do documento registrado no TSE)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/httpswww.tse_.jus_.breleicoeseleicoes-2026-contentarquivosproposta-prtb@@display-filefileproposta-prtb.pdf",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF de 48 páginas lido integralmente em 29/09/2026: a apresentação declara 'As dezenove propostas reunidas neste documento' e o índice lista as propostas 01 a 19. Espelho idêntico em static.ndmais.com.br/eleicoes/2026/planos-de-governo/BR/2026BR280002554479_01.pdf."
+      },
+      {
+        "id": "src-la-16",
+        "title": "Plano de Governo — Leonardo Avalanche (arquivo registrado no TSE, Eleições 2026)",
+        "publisher": "TSE — propostas de governo dos candidatos à Presidência",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-prtb/@@display-file/file/proposta-prtb",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento oficial do programa 'Reconstrução Nacional' do candidato nº 28 (PRTB). O TSE bloqueia acesso automatizado nesta rodada; o arquivo foi lido pelo espelho público reproduzido em src-la-17."
+      },
+      {
+        "id": "src-la-06",
+        "title": "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS",
+        "publisher": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Programa apresentado como 'reconstrução nacional'."
+      },
+      {
+        "id": "src-la-70",
+        "title": "Leonardo Avalanche: PRTB lança candidatura à Presidência da República",
+        "publisher": "g1 Goiás",
+        "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/07/29/prtb-lanca-candidatura-de-leonardo-avalanche-a-presidencia-em-goias.ghtml",
+        "publishedAt": "2026-07-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Convenção em Goiânia (29/07/2026): imposto único de 3,5%, trabalho por hora e IPVA; entrevista com defesa de reindustrialização e do agro como eixos."
+      },
+      {
+        "id": "src-la-27",
+        "title": "PRTB na corrida presidencial: Leonardo Avalanche apresenta propostas e projeto para o Brasil",
+        "publisher": "NC News",
+        "url": "https://ncnews.com.br/2026/08/11/prtb-na-corrida-presidencial-leonardo-avalanche-apresenta-propostas-e-projeto-para-o-brasil/",
+        "publishedAt": "2026-08-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Entrevista de 11/08/2026: o candidato a presidente e presidente nacional do PRTB fala sobre economia, segurança, redução de impostos, empreendedorismo, alianças políticas e estratégia para as eleições de 2026."
+      },
+      {
+        "id": "src-la-22",
+        "title": "Leonardo Avalanche — candidato a presidente nas eleições 2026 (dados do TSE)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/leonardo-avalanche.ghtml",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Seção 'Candidaturas anteriores' com dados do TSE: 2018 Deputado federal (PODE) — não eleito; 2016 Vereador (PTN) — não eleito; 2008 Vereador (PRTB) — não eleito."
+      }
+    ],
+    "evidenceStatus": "confirmado",
+    "confidenceLevel": "high",
+    "methodology": "Extração direta do plano registrado no TSE (48 páginas, 19 propostas numeradas, lido integralmente a partir do espelho público do Poder360) e da cobertura de Agência Brasil e g1. As sete prioridades listadas são as que aparecem como propostas próprias do documento e como eixos repetidos em entrevistas do candidato (redução de impostos e fila do SUS na Agência Brasil; reindustrialização e agro na entrevista ao g1). O que não foi possível extrair: estimativa de custo, compensação fiscal e cronograma das propostas; não há capítulo de política externa nem de clima no documento — a política externa do candidato não foi localizada em fontes 2025-2026 nesta rodada."
+  }
 }

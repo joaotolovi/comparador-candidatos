@@ -2044,6 +2044,66 @@
       "publishedAt": "2026-09-04",
       "accessedAt": "2026-09-29",
       "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-60",
+      "title": "Arco to acquire Escola da Inteligência",
+      "publisher": "Arco Platform Limited / GlobeNewswire",
+      "url": "https://globenewswire.com/news-release/2020/08/28/2085682/0/en/arco-to-acquire-escola-da-intelig%C3%AAncia.html",
+      "publishedAt": "2020-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Comunicado da companhia adquirente: solução de aprendizagem socioemocional baseada na Teoria da Inteligência Multifocal, criada por Augusto Cury; atendimento declarado de 330 mil alunos em cerca de 900 escolas; pagamento total de R$ 480 milhões; fechamento do negócio em 02/12/2020 após aprovação do CADE sem condicionantes."
+    },
+    {
+      "id": "src-ac-61",
+      "title": "Empresa de Goiânia movimentou R$ 30 milhões com metodologia de Augusto Cury em contratos públicos",
+      "publisher": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/empresa-de-goiania-movimentou-r-30-milhoes-com-metodologia-de-augusto-cury-em-contratos-publicos-865216/",
+      "publishedAt": "2026-09-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento aponta 25 contratos e instrumentos em dez estados; maior volume em Itajaí, com cinco acordos somando R$ 21,8 milhões."
+    },
+    {
+      "id": "src-ac-64",
+      "title": "Augusto Cury — O autor mais lido da última década (números declarados pela própria campanha)",
+      "publisher": "Site do autor Augusto Cury",
+      "url": "https://augusto-cury-site.webflow.io/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Página própria do autor/candidato: +30 milhões de livros vendidos, publicação em +70 países, +40 mil alunos da Academia de Gestão da Emoção e +300 mil crianças e adolescentes em programa Escola da Inteligência. Números autodeclarados, sem auditoria independente."
+    },
+    {
+      "id": "src-ac-62",
+      "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+    },
+    {
+      "id": "src-ac-63",
+      "title": "Campanha presidencial de Augusto Cury em 2026",
+      "publisher": "Wikipédia (pt)",
+      "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Augusto_Cury_em_2026",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Verbete usado como índice: convenção nacional do Avante (03/08/2026), apoio formal do Agir em convenção de 05/08/2026, coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), chapa Cury/Júlio Delgado."
+    },
+    {
+      "id": "src-ac-65",
+      "title": "Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/augusto-cury-nao-declarou-tres-empresas-nos-eua-ao-tse-campanha-diz-que-e-erro-e-corrigira-dados.ghtml",
+      "publishedAt": "2026-09-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Participações societárias em Cury Academia Comportamental, Contemplare Investments e Free Mind Publish."
     }
   ],
   "updatedAt": "2026-09-29",
@@ -2051,6 +2111,654 @@
     "equipe_gerida usa proxy empresarial (Escola da Inteligência, ≈116 colaboradores em perfil corporativo de 2026): não existe quadro oficial publicado e a Arco Educação detém 60% da empresa desde 2020, o que impede atribuir o time diretamente ao candidato.",
     "Percentuais de custo/prazo/dependência do Congresso são contagens sobre as 9 propostas-chave detalhadas nesta ficha; o documento registrado (200 páginas/18 tópicos) não individualiza propostas, então a contagem não cobre os 18 tópicos.",
     "Custos por proposta não constam do plano; a única quantificação localizada segue sendo o Fundo Nacional do Empreendedor (R$ 30–50 bi).",
-    "Composição da coligação (Avante + Agir) confirmada por ficha de candidatura e verbete de campanha; a lista do DJE não foi lida item a item para checagem do registro da coligação."
-  ]
+    "Composição da coligação (Avante + Agir) confirmada por ficha de candidatura e verbete de campanha; a lista do DJE não foi lida item a item para checagem do registro da coligação.",
+    "leonardo-avalanche, clariana-barao e augusto-cury (lideranca-equipes) e samara-martins (em todas as capacidades): nenhum dos partidos ou campanhas publica organograma, quadro de pessoal ou número de integrantes de equipe; as evidências de formação e coordenação de equipes se apoiam em atos nominais (indicação de vice, nomeação de diretórios, substituição de marqueteiro) e em estrutura empresarial, quando existe.",
+    "renan-santos e samara-martins: partidos não publicam balanço de campanha consolidado; números de arrecadação citados são de levantamentos parciais de imprensa com data de referência (g1, 05/07/2026) e não do encerramento da campanha.",
+    "clariana-barao: a coordenação do grupo de voluntários nas enchentes do Rio Grande do Sul (2024) e a presidência de comissão na OAB de Várzea Grande constam de perfis de candidatura reproduzidos pela imprensa; não foram localizados relatórios ou atas das duas atividades.",
+    "augusto-cury: os números de tiragem/vendas de livros variam conforme a fonte e a data de referência (11 milhões em 2010; 27 milhões em 2016; mais de 30 milhões em 2017; mais de 40 milhões declarados pela campanha em 2026) e a página própria do autor é a única fonte para os quantitativos de alunos das escolas de gestão da emoção.",
+    "leonardo-avalanche: as negociações partidárias de 2026 (aliança com Marconi Perillo em Goiás e saída posterior da coligação) aparecem em notas e imprensa regional, sem atas, registros de coligação estadual anexados ou documento oficial do partido no pool de fontes desta rodada.",
+    "clariana-barao e augusto-cury: as datas exatas de publicação de algumas reportagens de 2026 (Gazeta de São Paulo, Potência MT, site próprio do autor) não foram capturadas; os campos publishedAt registram apenas o ano, com nota na fonte.",
+    "Custo, compensação fiscal e cronograma por meta/prioridade não estão declarados nos documentos registrados de nenhum dos cinco candidatos analisados neste bloco; o bloco PROJETO DE PAÍS registra apenas o que é declarado.",
+    "leonardo-avalanche: não foi localizada posição documentada de política externa ou sobre clima em fontes 2025-2026; o plano registrado não tem capítulo desses temas.",
+    "augusto-cury: nomes da equipe econômica não divulgados por decisão declarada do candidato (Valor International, 04/09/2026).",
+    "clariana-barao: documento autodeclarado preliminar; sem diagnóstico, linha de base e metas numéricas finais; total de promessas não contado item a item (dossiê independente enumera ao menos 30).",
+    "samara-martins: registro no TSE foi feito com a versão de 2022 do programa e depois corrigido; a versão ampliada de 67 páginas não consta como o arquivo registrado no TSE nas fontes consultadas (o link oficial do TSE retornou bloqueio e o texto foi lido em espelho público da campanha).",
+    "renan-santos: apenas o resumo executivo de 51 páginas do Livro Amarelo está público; a obra integral (mais de 500 páginas) não foi analisada."
+  ],
+  "capacities": [
+    {
+      "slug": "execucao",
+      "synthesis": "Criou a Teoria da Inteligência Multifocal e a partir dela fundou a Escola da Inteligência, programa de educação socioemocional cujo controle foi adquirido pela Arco Educação em 2020, em negócio que envolveu cerca de 900 escolas e 330 mil alunos. A metodologia foi licenciada para redes públicas em dez estados, em 25 contratos e instrumentos identificados em levantamento de imprensa. Mantém produção editorial própria (mais de 50 títulos) e o programa de governo 'O Brasil dos Nossos Sonhos', com cerca de 200 páginas e propostas para 18 áreas, registrado no TSE.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-ac-01",
+          "kind": "historico",
+          "title": "Criação e desenvolvimento da Escola da Inteligência e venda do controle acionário",
+          "role": "criador da metodologia (Teoria da Inteligência Multifocal) e fundador da empresa; a operação societária foi conduzida pela Arco Educação como adquirente",
+          "complexity": "alcance nacional; programa aplicado em cerca de 900 escolas e 330 mil alunos segundo o comunicado da aquisição; empresa com aproximadamente 116 colaboradores em 2026; negócio de R$ 480 milhões (60% por R$ 288 milhões segundo o Valor)",
+          "outcome": "negócio fechado em 02/12/2020 após aprovação do CADE sem condicionantes; a metodologia permaneceu sendo licenciada a redes de ensino depois da venda",
+          "period": "2010-2020",
+          "context": "Construção de um produto educacional proprietário a partir de teoria própria, em mercado de escolas públicas e privadas.",
+          "sources": [
+            {
+              "id": "src-ac-60",
+              "title": "Arco to acquire Escola da Inteligência",
+              "publisher": "Arco Platform Limited / GlobeNewswire",
+              "url": "https://globenewswire.com/news-release/2020/08/28/2085682/0/en/arco-to-acquire-escola-da-intelig%C3%AAncia.html",
+              "publishedAt": "2020-08-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Comunicado da companhia adquirente: solução de aprendizagem socioemocional baseada na Teoria da Inteligência Multifocal, criada por Augusto Cury; atendimento declarado de 330 mil alunos em cerca de 900 escolas; pagamento total de R$ 480 milhões; fechamento do negócio em 02/12/2020 após aprovação do CADE sem condicionantes."
+            },
+            {
+              "id": "src-ac-48",
+              "title": "Arco Educação compra 60% da Escola da Inteligência por R$ 288 milhões",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/empresas/noticia/2020/08/28/arco-educacao-compra-60percent-da-escola-da-inteligencia-por-r-288-milhoes.ghtml",
+              "publishedAt": "2020-08-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-46",
+              "title": "Escola da Inteligência — perfil corporativo: ≈116 colaboradores (-6,5% em um ano), fundada em 2010, sede em Ribeirão Preto",
+              "publisher": "LinkedIn (perfil da empresa)",
+              "url": "https://br.linkedin.com/company/escoladainteligencia",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "transparencia",
+              "notes": "Número declarado pela própria empresa em plataforma corporativa; não é quadro oficial auditado."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ac-02",
+          "kind": "historico",
+          "title": "Licenciamento da metodologia para redes públicas de ensino",
+          "role": "autor e licenciador da metodologia; a comercialização foi feita por empresas parceiras",
+          "complexity": "alcance nacional; 25 contratos e instrumentos em dez estados segundo levantamento da imprensa; cerca de R$ 30 milhões movimentados por empresa sediada em Goiânia, com cinco acordos somando R$ 21,8 milhões em Itajaí (SC)",
+          "outcome": "contratos firmados com municípios e estados em dez unidades da federação; levantamento publicado em setembro de 2026",
+          "period": "2026 (levantamento sobre contratos de anos anteriores)",
+          "context": "Programa educacional associado ao autor transformado em política pública contratada por prefeituras e estados, com questionamentos públicos sobre os contratos.",
+          "sources": [
+            {
+              "id": "src-ac-61",
+              "title": "Empresa de Goiânia movimentou R$ 30 milhões com metodologia de Augusto Cury em contratos públicos",
+              "publisher": "Jornal Opção",
+              "url": "https://www.jornalopcao.com.br/ultimas-noticias/empresa-de-goiania-movimentou-r-30-milhoes-com-metodologia-de-augusto-cury-em-contratos-publicos-865216/",
+              "publishedAt": "2026-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento aponta 25 contratos e instrumentos em dez estados; maior volume em Itajaí, com cinco acordos somando R$ 21,8 milhões."
+            },
+            {
+              "id": "src-ac-47",
+              "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+              "publisher": "Revista Fórum — Fórum Investiga",
+              "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+              "publishedAt": "2026-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ac-03",
+          "kind": "historico",
+          "title": "Produção e publicação editorial própria",
+          "role": "autor das obras",
+          "complexity": "alcance internacional; mais de 50 livros publicados e tradução para cerca de 70 países; números de vendas declarados variam conforme a data de referência (11 milhões em 2010; 27 milhões em 2016; mais de 30 milhões em 2017)",
+          "outcome": "obras publicadas por editoras de porte nacional e adaptação de 'O Vendedor de Sonhos' para o cinema em 2016",
+          "period": "2010-2026",
+          "context": "Projeto editorial de longa duração sustentado por vendas no mercado brasileiro e licenciamento no exterior.",
+          "sources": [
+            {
+              "id": "src-ac-07",
+              "title": "Augusto Cury — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; vendas devem ser citadas com período de referência."
+            },
+            {
+              "id": "src-ac-34",
+              "title": "Quem é Augusto Cury? Conheça a trajetória do escritor e psiquiatra",
+              "publisher": "QueroBolsa (Revista)",
+              "url": "https://querobolsa.com.br/revista/quem-e-augusto-cury",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-64",
+              "title": "Augusto Cury — O autor mais lido da última década (números declarados pela própria campanha)",
+              "publisher": "Site do autor Augusto Cury",
+              "url": "https://augusto-cury-site.webflow.io/",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Página própria do autor/candidato: +30 milhões de livros vendidos, publicação em +70 países, +40 mil alunos da Academia de Gestão da Emoção e +300 mil crianças e adolescentes em programa Escola da Inteligência. Números autodeclarados, sem auditoria independente."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ac-04",
+          "kind": "historico",
+          "title": "Registro do programa de governo no TSE",
+          "role": "candidato à Presidência pelo Avante",
+          "complexity": "documento de aproximadamente 200 páginas com propostas para 18 áreas; registro protocolado em 2026; primeira candidatura do candidato a cargo público",
+          "outcome": "documento registrado na Justiça Eleitoral e analisado pela imprensa; registro da chapa deferido em 11/09/2026",
+          "period": "2026",
+          "context": "Estreia eleitoral, com necessidade de converter produção intelectual própria em documento formal de governo.",
+          "sources": [
+            {
+              "id": "src-ac-01",
+              "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva; lista todos os planos registrados, incluindo 'Escritor Augusto Cury / 70 / AVANTE / BRASIL DOS NOSSOS SONHOS'."
+            },
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+            },
+            {
+              "id": "src-ac-23",
+              "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+              "publisher": "Poder360 (cópia do documento da campanha)",
+              "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "high"
+        },
+        {
+          "id": "ev-cap-ac-05",
+          "kind": "historico",
+          "title": "Operação da campanha presidencial de 2026",
+          "role": "candidato; vice Júlio Delgado; coordenação de campanha citada no material de campanha",
+          "complexity": "campanha nacional com coligação de dois partidos (Avante e Agir); gastos de campanha declarados de R$ 55,2 mil até setembro de 2026; troca de marqueteiro a poucos dias do início do horário eleitoral",
+          "outcome": "campanha em operação com a substituição do responsável pela comunicação (Leandro Grôppo por Sergio Lima, que já atuava na pré-campanha)",
+          "period": "2026",
+          "context": "Campanha de estreante com estrutura enxuta em gastos declarados, montada entre abril e agosto de 2026.",
+          "sources": [
+            {
+              "id": "src-ac-49",
+              "title": "Gastos de campanha: presidenciáveis já declararam R$ 74 milhões (Cury: R$ 55,2 mil; hospedagem de dois funcionários de segurança e da equipe de apoio)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-prestacao-parcial-campanha.ghtml",
+              "publishedAt": "2026-09-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-62",
+              "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+              "publishedAt": "2026-08-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+            },
+            {
+              "id": "src-ac-42",
+              "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Capacidade de execução",
+      "question": "Consegue transformar prioridades em entregas concretas?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "dialogo-negociacao",
+      "synthesis": "Antes de se filiar, o candidato relatou encontros com dirigentes de partidos de campos distintos (MDB, PSD, PSDB, Podemos, PSC e Novo) e acabou filiando-se ao Avante em 05/04/2026. A candidatura foi composta com o ex-deputado Júlio Delgado e recebeu apoio formal do Agir, formando a coligação 'Brasil dos Nossos Sonhos'. Em sabatina, convidou publicamente Ronaldo Caiado (PSD) para assumir um Ministério da Segurança Pública e manteve agenda com o eleitorado evangélico, além de recusar anunciar nomes para o ministério para evitar controvérsia.",
+      "coverageNote": null,
+      "evidences": [
+        {
+          "id": "ev-cap-ac-06",
+          "kind": "posicao",
+          "title": "Rodada de contatos com partidos antes da filiação",
+          "role": "pré-candidato; os encontros foram relatados pelo próprio candidato",
+          "complexity": "interlocução declarada com seis legendas de campos distintos (MDB, PSD, PSDB, Podemos, PSC e Novo); decisão de filiação anunciada em 05/04/2026",
+          "outcome": "filiação ao Avante e posterior composição da chapa; os encontros não foram confirmados individualmente por cada partido citado",
+          "period": "2026",
+          "context": "Escolha de legenda para viabilizar uma candidatura presidencial sem trajetória partidária anterior.",
+          "sources": [
+            {
+              "id": "src-ac-09",
+              "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+              "publishedAt": "2026-04-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Filiação ao Avante; lista de políticos com quem conversou."
+            },
+            {
+              "id": "src-ac-50",
+              "title": "Escritor Augusto Cury se filia ao Avante para disputar a Presidência (afirmou ter conversado com dirigentes de outros partidos, como Gilberto Kassab)",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/eleicoes/2026/escritor-e-psiquiatra-augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+              "publishedAt": "2026-04-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-41",
+              "title": "Augusto Cury diz que falou com Kassab sobre disputar a Presidência: 'conversei longamente'",
+              "publisher": "UOL",
+              "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/04/06/conversei-longamente-com-kassab-diz-augusto-cury-sobre-pre-candidatura.ghtm",
+              "publishedAt": "2026-04-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "ev-cap-ac-07",
+          "kind": "historico",
+          "title": "Composição da chapa e obtenção de apoio partidário formal",
+          "role": "cabeça de chapa; vice Júlio Delgado, ex-deputado federal por cinco mandatos",
+          "complexity": "coligação formada por dois partidos (Avante e Agir), sem federação; convenções nacionais em 03/08/2026 (Avante) e 05/08/2026 (Agir)",
+          "outcome": "coligação 'Brasil dos Nossos Sonhos' registrada e chapa deferida pelo TSE em 11/09/2026",
+          "period": "2026",
+          "context": "Necessidade de compor chapa e obter apoio formal de outra legenda em prazo de convenções partidárias.",
+          "sources": [
+            {
+              "id": "src-ac-63",
+              "title": "Campanha presidencial de Augusto Cury em 2026",
+              "publisher": "Wikipédia (pt)",
+              "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Augusto_Cury_em_2026",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Verbete usado como índice: convenção nacional do Avante (03/08/2026), apoio formal do Agir em convenção de 05/08/2026, coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), chapa Cury/Júlio Delgado."
+            },
+            {
+              "id": "src-ac-36",
+              "title": "Augusto Cury Names Júlio Delgado as Running Mate for Brazil Presidency",
+              "publisher": "Today in Brazil (relato da carta à nação divulgada pela CNN Brasil)",
+              "url": "https://todayinbrazil.com/article/augusto-cury-names-julio-delgado-running-mate-msgmzvhp",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-42",
+              "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-43",
+              "title": "Eleições 2026: ficha do candidato Escritor Augusto Cury (Avante) — coligação 'Brasil dos Nossos Sonhos' (Agir / Avante)",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/escritor-augusto-cury-280002551547.shtml",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Página viva de ficha do candidato; coligação registrada listada como 'BRASIL DOS NOSSOS SONHOS (AGIR / AVANTE)'."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ac-08",
+          "kind": "posicao",
+          "title": "Convite público a adversário de outro campo para cargo de ministro",
+          "role": "candidato à Presidência",
+          "complexity": "convite feito em sabatina de TV aberta (TV Globo, 29/08/2026) a Ronaldo Caiado (PSD), que disputava a mesma eleição",
+          "outcome": "convite declarado publicamente; não há registro de resposta formal ou acordo firmado até 29/09/2026",
+          "period": "2026",
+          "context": "Proposta de composição dirigida a adversário eleitoral, em contexto de disputa pela mesma faixa de eleitorado.",
+          "sources": [
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+            },
+            {
+              "id": "src-ac-50",
+              "title": "Escritor Augusto Cury se filia ao Avante para disputar a Presidência (afirmou ter conversado com dirigentes de outros partidos, como Gilberto Kassab)",
+              "publisher": "Gazeta do Povo",
+              "url": "https://www.gazetadopovo.com.br/eleicoes/2026/escritor-e-psiquiatra-augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+              "publishedAt": "2026-04-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        },
+        {
+          "id": "ev-cap-ac-09",
+          "kind": "historico",
+          "title": "Agenda com o eleitorado evangélico",
+          "role": "candidato à Presidência",
+          "complexity": "visita à sede da Assembleia de Deus em São Paulo em 03/09/2026; exposição pública e repercusão em imprensa de circulação nacional",
+          "outcome": "evento realizado; o candidato negou ter pedido votos no evento e afirmou proximidade com o segmento",
+          "period": "2026",
+          "context": "Movimento de aproximação de um eleitorado majoritariamente vinculado a outra candidatura.",
+          "sources": [
+            {
+              "id": "src-ac-39",
+              "title": "Augusto Cury, candidato do Avante à Presidência, visita sede da Assembleia de Deus em São Paulo",
+              "publisher": "G1 / Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/augusto-cury-candidato-do-avante-a-presidencia-visita-sede-da-assembleia-de-deus-em-sao-paulo.ghtml",
+              "publishedAt": "2026-09-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-40",
+              "title": "Em evento na Assembleia de Deus, Cury nega ter pedido votos e diz já ser próximo de evangélicos",
+              "publisher": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/poder/2026/09/em-evento-na-assembleia-de-deus-cury-nega-ter-pedido-votos-e-diz-ja-ser-proximo-de-evangelicos.shtml",
+              "publishedAt": "2026-09-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ac-10",
+          "kind": "posicao",
+          "title": "Recusa em anunciar integrantes do ministério durante a campanha",
+          "role": "candidato à Presidência",
+          "complexity": "declaração de que só anunciaria nomes após a eleição, para evitar controvérsia; equipe de campanha com troca de marqueteiro no mesmo período",
+          "outcome": "nenhum nome de ministério anunciado até 29/09/2026; troca de responsável pela comunicação da campanha em 18/08/2026",
+          "period": "2026",
+          "context": "Escolha de evitar compromissos públicos de composição de governo antes da votação.",
+          "sources": [
+            {
+              "id": "src-ac-51",
+              "title": "Cury avoids naming economy chief to sidestep 'controversy' (recusa em anunciar nomes do ministério; promete convidar especialistas)",
+              "publisher": "Valor International",
+              "url": "https://valorinternational.globo.com/politics/news/2026/09/04/cury-avoids-naming-economy-chief-to-sidestep-controversy.ghtml",
+              "publishedAt": "2026-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-62",
+              "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+              "publishedAt": "2026-08-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "name": "Diálogo, negociação e articulação",
+      "question": "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+      "coverage": "documentada",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "slug": "lideranca-equipes",
+      "synthesis": "Fundou e dirigiu a Escola da Inteligência, empresa de programa socioemocional com aproximadamente 116 colaboradores e rede declarada de cerca de 900 escolas, cujo controle foi vendido à Arco Educação em 2020. Mantém participações societárias em empresas próprias no Brasil e nos Estados Unidos (Cury Academia Comportamental, Contemplare Investments e Free Mind Publish, informadas ao TSE após correção de declaração). Em 2026, montou a estrutura de campanha presidencial com indicação de vice e troca do responsável pela comunicação. Não há quadro de pessoal ou organograma de campanha publicado.",
+      "coverageNote": "Não há publicação de organograma ou número de integrantes da equipe de campanha; as evidências de formação e direção de equipes vêm da estrutura empresarial (número de colaboradores, rede de escolas) e de atos nominais de campanha (indicação de vice e substituição do marqueteiro).",
+      "evidences": [
+        {
+          "id": "ev-cap-ac-11",
+          "kind": "historico",
+          "title": "Direção da Escola da Inteligência e rede de escolas associadas",
+          "role": "fundador da empresa e criador da metodologia aplicada",
+          "complexity": "rede declarada de cerca de 900 escolas e 330 mil alunos; aproximadamente 116 colaboradores na empresa em 2026; comercialização por empresas parceiras em dez estados",
+          "outcome": "empresa operou o programa por mais de uma década e teve o controle adquirido pela Arco Educação em dezembro de 2020",
+          "period": "2010-2020",
+          "context": "Estrutura empresarial própria que precisou formar educadores e manter rede de escolas licenciadas.",
+          "sources": [
+            {
+              "id": "src-ac-60",
+              "title": "Arco to acquire Escola da Inteligência",
+              "publisher": "Arco Platform Limited / GlobeNewswire",
+              "url": "https://globenewswire.com/news-release/2020/08/28/2085682/0/en/arco-to-acquire-escola-da-intelig%C3%AAncia.html",
+              "publishedAt": "2020-08-28",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Comunicado da companhia adquirente: solução de aprendizagem socioemocional baseada na Teoria da Inteligência Multifocal, criada por Augusto Cury; atendimento declarado de 330 mil alunos em cerca de 900 escolas; pagamento total de R$ 480 milhões; fechamento do negócio em 02/12/2020 após aprovação do CADE sem condicionantes."
+            },
+            {
+              "id": "src-ac-46",
+              "title": "Escola da Inteligência — perfil corporativo: ≈116 colaboradores (-6,5% em um ano), fundada em 2010, sede em Ribeirão Preto",
+              "publisher": "LinkedIn (perfil da empresa)",
+              "url": "https://br.linkedin.com/company/escoladainteligencia",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "transparencia",
+              "notes": "Número declarado pela própria empresa em plataforma corporativa; não é quadro oficial auditado."
+            },
+            {
+              "id": "src-ac-61",
+              "title": "Empresa de Goiânia movimentou R$ 30 milhões com metodologia de Augusto Cury em contratos públicos",
+              "publisher": "Jornal Opção",
+              "url": "https://www.jornalopcao.com.br/ultimas-noticias/empresa-de-goiania-movimentou-r-30-milhoes-com-metodologia-de-augusto-cury-em-contratos-publicos-865216/",
+              "publishedAt": "2026-09-04",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Levantamento aponta 25 contratos e instrumentos em dez estados; maior volume em Itajaí, com cinco acordos somando R$ 21,8 milhões."
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ac-12",
+          "kind": "historico",
+          "title": "Montagem da equipe de campanha presidencial",
+          "role": "candidato; indicação de Júlio Delgado como vice e contratação de responsáveis pela comunicação",
+          "complexity": "campanha nacional; chapa com dois partidos; substituição do responsável pela comunicação em 18/08/2026, às vésperas do início da propaganda em rádio e TV",
+          "outcome": "equipe recomposta antes do início do horário eleitoral; campanha em curso com coordenação nomeada",
+          "period": "2026",
+          "context": "Campanha de estreante, montada em poucos meses e com a estrutura de comunicação reformulada em plena pré-campanha.",
+          "sources": [
+            {
+              "id": "src-ac-62",
+              "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+              "publisher": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+              "publishedAt": "2026-08-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+            },
+            {
+              "id": "src-ac-36",
+              "title": "Augusto Cury Names Júlio Delgado as Running Mate for Brazil Presidency",
+              "publisher": "Today in Brazil (relato da carta à nação divulgada pela CNN Brasil)",
+              "url": "https://todayinbrazil.com/article/augusto-cury-names-julio-delgado-running-mate-msgmzvhp",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-42",
+              "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+              "publisher": "Poder360",
+              "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ],
+          "evidenceStatus": "confirmado",
+          "confidenceLevel": "medium"
+        },
+        {
+          "id": "ev-cap-ac-13",
+          "kind": "historico",
+          "title": "Controle e manutenção de empresas próprias",
+          "role": "sócio controlador de empresas nos setores editorial, educacional e de participações",
+          "complexity": "participações no Brasil e em três empresas nos Estados Unidos; estrutura de holding familiar; quadro societário declarado à Justiça Eleitoral com correção posterior",
+          "outcome": "participações declaradas após questionamento da imprensa em 05/09/2026; campanha afirmou que as participações eram inexpressivas no patrimônio",
+          "period": "2026",
+          "context": "Gestão empresarial de estruturas próprias mantida em paralelo à campanha eleitoral.",
+          "sources": [
+            {
+              "id": "src-ac-65",
+              "title": "Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/augusto-cury-nao-declarou-tres-empresas-nos-eua-ao-tse-campanha-diz-que-e-erro-e-corrigira-dados.ghtml",
+              "publishedAt": "2026-09-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Participações societárias em Cury Academia Comportamental, Contemplare Investments e Free Mind Publish."
+            },
+            {
+              "id": "src-ac-64",
+              "title": "Augusto Cury — O autor mais lido da última década (números declarados pela própria campanha)",
+              "publisher": "Site do autor Augusto Cury",
+              "url": "https://augusto-cury-site.webflow.io/",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "editorial",
+              "notes": "Página própria do autor/candidato: +30 milhões de livros vendidos, publicação em +70 países, +40 mil alunos da Academia de Gestão da Emoção e +300 mil crianças e adolescentes em programa Escola da Inteligência. Números autodeclarados, sem auditoria independente."
+            }
+          ],
+          "evidenceStatus": "parcial",
+          "confidenceLevel": "low"
+        }
+      ],
+      "name": "Liderança e formação de equipes",
+      "question": "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+      "coverage": "parcial",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "countryProject": {
+    "vision": "'O Brasil dos Nossos Sonhos' (200 páginas, 18 projetos) parte do diagnóstico de uma 'sociedade polarizada e adoecida' e propõe 'cultura da paz' e 'gestão da emoção' como eixos de governo, com horizonte declarado de déficit público próximo de zero no mandato e redução gradual da dívida. A projeção de país combina Estado digital e enxuto com educação, empreendedorismo distribuído, telessaúde, energias renováveis, terras raras e proteção de florestas; o candidato propõe também semipresidencialismo e mandato de oito anos para ministros do STF.",
+    "nationalPriorities": [
+      "educação (tempo integral e gestão da emoção)",
+      "saúde (telessaúde e prevenção do câncer)",
+      "empreendedorismo e economia distribuída",
+      "segurança pública",
+      "meio ambiente e energias renováveis",
+      "ciência, tecnologia e terras raras",
+      "combate à fome"
+    ],
+    "developmentModel": "O documento abre com teses de responsabilidade fiscal e crescimento (déficit próximo de zero, controle rigoroso de gastos com metas de eficiência por ministério, redução gradual e sustentável da dívida, reforma administrativa com estudos para redução do número de ministérios, segurança jurídica e simplificação tributária) e de 'Estado eficiente e digital' (governo totalmente digital, avaliação permanente de políticas públicas). Na economia, declara compromisso com carga tributária menor ao fim da transição da reforma tributária, avaliação caso a caso dos tratamentos diferenciados, revisão do formato de divisão federativa dos tributos com 'menos União Federal e mais municípios' e reajuste do salário mínimo pela inflação mais 1% ao ano, com redução declarada de 8 a 10 ministérios. Ao setor privado e à sociedade atribui o eixo de empreendedorismo (ministério do empreendedorismo, 10 mil escolas de empreendedorismo, Fundo Nacional do Empreendedor, cooperativismo, agroindústria, exportação e 'embaixadas empreendedoras'); à tecnologia, telemedicina ('maior telemedicina do mundo'), criação de ministério da IA e terras raras e minerais estratégicos (Petra BR); ao meio ambiente, 'Floresta Viva', hidrogênio verde e energias renováveis; à desigualdade, projetos de primeira infância, neuroinclusão, prevenção do suicídio ('Você é Insubstituível') e combate mundial à fome com fundo internacional e apoio à agricultura familiar. Segurança aparece como integração nacional das forças e núcleos municipais contra o crime organizado e como 'Força Alerta Total' (FATO); o plano também propõe semipresidencialismo e mandato de oito anos para ministros do STF.",
+    "sources": [
+      {
+        "id": "src-ac-23",
+        "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+        "publisher": "Poder360 (cópia do documento da campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-ac-05",
+        "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+        "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+        "publishedAt": "2026-08-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+      },
+      {
+        "id": "src-ac-06",
+        "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Setembro/2026; dia exato não capturado."
+      },
+      {
+        "id": "src-ac-19",
+        "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+        "publisher": "GZH (Estadão Conteúdo)",
+        "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+        "publishedAt": "2026-08-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+      },
+      {
+        "id": "src-ac-37",
+        "title": "Cury defende mudanças no Bolsa Família e quer criar Ministério da IA",
+        "publisher": "Band",
+        "url": "https://www.band.com.br/politica/eleicoes/2026/cury-defende-mudancas-no-bolsa-familia-e-quer-criar-ministerio-da-ia-202608292154",
+        "publishedAt": "2026-08-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-ac-38",
+        "title": "O que os candidatos prometem para o meio ambiente",
+        "publisher": "Nexo Jornal",
+        "url": "https://www.nexojornal.com.br/expresso/2026/09/22/candidatos-a-presidencia-2026-promessas-meio-ambiente",
+        "publishedAt": "2026-09-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Capítulo 'Floresta viva' do plano de Cury."
+      },
+      {
+        "id": "src-ac-51",
+        "title": "Cury avoids naming economy chief to sidestep 'controversy' (recusa em anunciar nomes do ministério; promete convidar especialistas)",
+        "publisher": "Valor International",
+        "url": "https://valorinternational.globo.com/politics/news/2026/09/04/cury-avoids-naming-economy-chief-to-sidestep-controversy.ghtml",
+        "publishedAt": "2026-09-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      }
+    ],
+    "evidenceStatus": "confirmado",
+    "confidenceLevel": "high",
+    "methodology": "Extração direta do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas, lido a partir do espelho público em PDF; sumário com 18 projetos e capítulo final de apresentação do candidato), com complemento de Agência Brasil (18 áreas), GZH, Band e Nexo. As sete prioridades listadas correspondem a capítulos próprios do documento e a eixos repetidos em entrevistas de 2026. O que não foi possível extrair: custo e fonte de financiamento por projeto, metas quantificadas de cada projeto (o documento prioriza teses e programas; a meta quantitativa mais explícita localizada é o ganho real do salário mínimo) e os nomes da equipe econômica, que o candidato declarou evitar divulgar."
+  }
 }

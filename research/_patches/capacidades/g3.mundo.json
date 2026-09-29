@@ -1,0 +1,73 @@
+{
+  "grupo": "g3",
+  "escopo": "capacidade:mundo",
+  "sources": [],
+  "candidates": {
+    "samara-martins": {
+      "foreignPolicy": {
+        "worldView": "em consolidação",
+        "strategy": "em consolidação",
+        "internationalExperience": "em consolidação",
+        "projection": "em consolidação",
+        "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        "sources": [],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "methodology": "em consolidação"
+      }
+    },
+    "edmilson-costa": {
+      "foreignPolicy": {
+        "worldView": "em consolidação",
+        "strategy": "em consolidação",
+        "internationalExperience": "em consolidação",
+        "projection": "em consolidação",
+        "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        "sources": [],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "methodology": "em consolidação"
+      }
+    },
+    "hertz-dias": {
+      "foreignPolicy": {
+        "worldView": "em consolidação",
+        "strategy": "em consolidação",
+        "internationalExperience": "em consolidação",
+        "projection": "em consolidação",
+        "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        "sources": [],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "methodology": "em consolidação"
+      }
+    },
+    "rui-costa-pimenta": {
+      "foreignPolicy": {
+        "worldView": "em consolidação",
+        "strategy": "em consolidação",
+        "internationalExperience": "em consolidação",
+        "projection": "em consolidação",
+        "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        "sources": [],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "methodology": "em consolidação"
+      }
+    },
+    "wilson-grassi": {
+      "foreignPolicy": {
+        "worldView": "em consolidação",
+        "strategy": "em consolidação",
+        "internationalExperience": "em consolidação",
+        "projection": "em consolidação",
+        "projectionNote": "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        "sources": [],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "methodology": "em consolidação"
+      }
+    }
+  },
+  "dataGaps": []
+}

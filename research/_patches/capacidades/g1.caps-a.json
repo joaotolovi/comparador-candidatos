@@ -1,36 +1,1676 @@
 {
   "grupo": "g1",
   "escopo": "capacidades:execucao,dialogo-negociacao,lideranca-equipes",
-  "sources": [],
+  "sources": [
+    {
+      "id": "src-lula-90",
+      "title": "Decreto nº 11.632, de 11 de agosto de 2023 — institui o Novo PAC, o Comitê Gestor e o Grupo Executivo do PAC",
+      "publisher": "Planalto — Presidência da República",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11632.htm",
+      "publishedAt": "2023-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial",
+      "notes": "Texto integral do decreto com a composição do Comitê Gestor e do Grupo Executivo."
+    },
+    {
+      "id": "src-lula-91",
+      "title": "Em dois anos, investimentos do Novo PAC superam 53% do previsto até 2026",
+      "publisher": "Secretaria de Comunicação Social da Presidência (gov.br)",
+      "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/04/em-dois-anos-investimentos-do-novo-pac-atingem-53-7-do-previsto-ate-2026",
+      "publishedAt": "2025-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Execução de R$ 711 bi até o fim de 2024 (53,7% do total de R$ 1,3 tri previsto até 2026)."
+    },
+    {
+      "id": "src-lula-92",
+      "title": "Lula lança novo Bolsa Família, com valor mínimo de R$ 600, para 21,86 milhões de famílias",
+      "publisher": "Brasil de Fato",
+      "url": "https://brasildefato.com.br/2023/03/03/lula-launches-new-family-grant-with-a-minimum-value-of-115-brazilian-society-s-program",
+      "publishedAt": "2023-03-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Assinatura da MP em cerimônia no Palácio do Planalto (02/03/2023)."
+    },
+    {
+      "id": "src-lula-93",
+      "title": "Lei nº 14.601, de 19 de junho de 2023 — institui o Programa Bolsa Família (conversão da MP nº 1.164/2023)",
+      "publisher": "Planalto — Presidência da República",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+      "publishedAt": "2023-06-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial",
+      "notes": "Data e número conferidos no texto publicado (conversão da MP 1.164/2023); o Cadastro Único é a porta de entrada do programa."
+    },
+    {
+      "id": "src-lula-94",
+      "title": "Brasil e 20 unidades da Federação alcançam meta de alfabetização (66% em 2025, meta de 64%)",
+      "publisher": "Inep — Instituto Nacional de Estudos e Pesquisas Educacionais",
+      "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/avaliacao-da-alfabetizacao/brasil-e-20-unidades-da-federacao-alcancam-meta-de-alfabetizacao",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Resultado do Compromisso Nacional Criança Alfabetizada; 66% dos estudantes do 2º ano alfabetizados em 2025."
+    },
+    {
+      "id": "src-lula-95",
+      "title": "Presidente Lula sanciona projeto de lei que consolida reestruturação das carreiras do Executivo federal",
+      "publisher": "Ministério da Gestão e da Inovação em Serviços Públicos (gov.br)",
+      "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/marco/presidente-lula-sanciona-projeto-de-lei-que-consolida-maior-reestruturacao-das-carreiras-do-executivo-em-um-mandato",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Projeto de Transformação do Estado conduzido pelo MGI desde 2023; sanção em março de 2026."
+    },
+    {
+      "id": "src-lula-96",
+      "title": "Ministros de Lula: conheça os 37 nomes escolhidos para a equipe ministerial",
+      "publisher": "Gazeta do Povo",
+      "url": "https://gazetadopovo.com.br/republica/ministros-de-lula-quem-sao-escolhidos-perfil",
+      "publishedAt": "2022-12-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Composição anunciada antes da posse de 01/01/2023; 14 pastas a mais que o governo anterior, com distribuição entre partidos aliados."
+    },
+    {
+      "id": "src-lula-97",
+      "title": "Saiba quem são os 38 ministros do governo Lula",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/saiba-quem-sao-os-38-ministros-do-governo-lula",
+      "publishedAt": "2025",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lista atualizada após as mudanças de 2025, incluindo Gleisi Hoffmann na articulação política (fev/2025) e Alexandre Padilha na Saúde."
+    },
+    {
+      "id": "src-flavio-01",
+      "title": "Flávio Bolsonaro — Rio de Janeiro: perfil oficial do deputado (cargos exercidos e comissões presididas, legislaturas 2003/2007 e 2007/2011)",
+      "publisher": "ALERJ — Assembleia Legislativa do Estado do Rio de Janeiro",
+      "url": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/275",
+      "publishedAt": "não informado",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Registro oficial das presidências de comissões permanentes exercidas na ALERJ."
+    },
+    {
+      "id": "src-lula-98",
+      "title": "Governo Lula recorre ao STF para validar reajuste do Bolsa Família antes da eleição (registra a Lei 14.601/2023 e a validação da regra de atualização pelo STF em jun/2024)",
+      "publisher": "Gazeta do Povo",
+      "url": "https://gazetadopovo.com.br/eleicoes/2026/governo-lula-recorre-ao-stf-para-validar-reajuste-do-bolsa-familia-antes-da-eleicao/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Fonte complementar sobre a regra legal de atualização periódica do programa."
+    },
+    {
+      "id": "src-flavio-02",
+      "title": "PL 2253/2022 — relatoria no Senado; norma gerada: Lei nº 14.843, de 11/04/2024",
+      "publisher": "Congresso Nacional — Atividade Legislativa",
+      "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/154451",
+      "publishedAt": "2024-04-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Ficha de tramitação da matéria relatada no Senado; votação de 20/02/2024 (62 a favor, 2 contra, 1 abstenção)."
+    },
+    {
+      "id": "src-flavio-03",
+      "title": "Flávio reforça equipe que elabora plano de governo (Adolfo Sachsida, Lyvia Montezano, Carolina Ragazzi e Adriano Pires; Daniella Marques na coordenação econômica)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/18/flavio-anuncia-nomes-proximos-ao-mercado-financeiro-para-reforcar-campanha.ghtml",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Equipe responsável por detalhar pautas setoriais no programa."
+    },
+    {
+      "id": "src-flavio-04",
+      "title": "Flávio Bolsonaro troca comando da comunicação da campanha (anúncio feito pelo coordenador da campanha, senador Rogério Marinho)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/30/flavio-bolsonaro-troca-comando-da-comunicacao-da-campanha.ghtml",
+      "publishedAt": "2026-07-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a coordenação-geral da campanha e a delegação da área de comunicação."
+    },
+    {
+      "id": "src-flavio-05",
+      "title": "Flávio Bolsonaro renuncia a cargo na Mesa Diretora do Senado (Terceiro-Secretário)",
+      "publisher": "Correio do Povo",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/fl%C3%A1vio-bolsonaro-renuncia-a-cargo-na-mesa-diretora-do-senado-1.541814",
+      "publishedAt": "2021",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata do ato de renúncia não capturada na página nesta rodada (2021, durante o mandato 2019–2021 da Mesa)."
+    },
+    {
+      "id": "src-flavio-06",
+      "title": "Coordenador da campanha de Flávio Bolsonaro: Michelle segue candidata (senador Rogério Marinho na coordenação)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/07/coordenador-da-campanha-de-flavio-bolsonaro-diz-que-michelle-segue-candidata.shtml",
+      "publishedAt": "2026-07-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Atribui ao senador Rogério Marinho a coordenação da pré-campanha/campanha."
+    },
+    {
+      "id": "src-caiado-70",
+      "title": "Caiado sanciona reforma administrativa com redução de 20% da máquina e economia de R$ 422 milhões (decreto 9.455/2019)",
+      "publisher": "Secretaria da Administração — Governo de Goiás",
+      "url": "https://goias.gov.br/administracao/caiado-sanciona-reforma-administrativa-com-reducao-de-20-da-maquina-e-economia-de-r-422-milhoes/",
+      "publishedAt": "2019",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Secretário da Administração apresentou o impacto à imprensa ao lado do governador; decreto publicado no Diário Oficial."
+    },
+    {
+      "id": "src-caiado-71",
+      "title": "Governador Ronaldo Caiado sanciona reforma administrativa (decreto 10.218/23)",
+      "publisher": "Secretaria da Administração — Governo de Goiás",
+      "url": "https://goias.gov.br/administracao/governador-ronaldo-caiado-sanciona-reforma-administrativa/",
+      "publishedAt": "2023-02-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Criação de duas secretarias (Infraestrutura; Entorno do DF), renomeação de três e extinção do Conselho Consultivo de Gestão."
+    },
+    {
+      "id": "src-caiado-72",
+      "title": "Governo de Goiás reúne documentos para aderir ao RRF e apresenta cortes com a reforma administrativa (economia prevista de R$ 422 milhões)",
+      "publisher": "g1 — Globo",
+      "url": "https://g1.globo.com/go/goias/noticia/2019/06/26/governo-de-goias-reune-documentos-para-aderir-ao-rrf-e-apresenta-cortes-com-a-reforma-administrativa.ghtml",
+      "publishedAt": "2019-06-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": ""
+    },
+    {
+      "id": "src-caiado-73",
+      "title": "Governo de Goiás encaminha proposta de Reforma Administrativa à Alego (segunda etapa; previsão de extinção de 4.406 cargos comissionados)",
+      "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+      "url": "https://agencia.go.gov.br/governo-de-goias-encaminha-a-alego-proposta-de-reforma-administrativa/",
+      "publishedAt": "2023-02-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Projeto com criação de duas secretarias e novas nomenclaturas para três pastas."
+    },
+    {
+      "id": "src-caiado-74",
+      "title": "Caiado apresenta plano para a Saúde coordenado por Luiz Henrique Mandetta",
+      "publisher": "g1 — Globo",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/18/caiado-apresenta-plano-para-a-saude-com-foco-em-prevencao-digitalizacao-do-sus-e-prioridade-na-fila-para-doencas-graves.ghtml",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Apresentação em São Paulo; propostas coordenadas pelo ex-ministro da Saúde Luiz Henrique Mandetta."
+    },
+    {
+      "id": "src-caiado-75",
+      "title": "Henrique Mandetta detalha propostas de Ronaldo Caiado para a saúde (coordenador da área na campanha)",
+      "publisher": "JOTA",
+      "url": "https://www.jota.info/coberturas-especiais/henrique-mandetta-detalha-propostas-de-ronaldo-caiado-para-a-saude",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": ""
+    },
+    {
+      "id": "src-caiado-76",
+      "title": "Equilíbrio fiscal do Estado viabiliza R$ 23,7 bilhões em investimentos nos dois mandatos",
+      "publisher": "Agência Goiás de Notícias — Governo de Goiás",
+      "url": "https://agencia.go.gov.br/equilibrio-fiscal-do-estado-viabiliza-r-237-bilhoes-em-investimentos/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Investimentos acumulados da gestão 2019–2026 (fonte estadual)."
+    },
+    {
+      "id": "src-zema-70",
+      "title": "Zema envia projeto à ALMG para extinguir secretarias e cargos comissionados (21 para 12 secretarias)",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2019/02/05/interna_politica,1027984/zema-envia-projeto-a-almg-para-extinguir-secretarias-e-cargos.shtml",
+      "publishedAt": "2019-02-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "PL 367/2019 encaminhado à ALMG em 05/02/2019."
+    },
+    {
+      "id": "src-zema-71",
+      "title": "Reforma administrativa é sancionada com veto parcial (Lei 23.304/2019; PL 367/19)",
+      "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+      "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2019/05/31_sancao_reforma_administrativa.html",
+      "publishedAt": "2019-05-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Sanção publicada no Diário Oficial de 31/05/2019 com nove dispositivos vetados."
+    },
+    {
+      "id": "src-zema-72",
+      "title": "Zema anuncia mais dois secretários e ultrapassa a estimativa de nove pastas para o próximo governo de Minas Gerais",
+      "publisher": "g1 — Globo (MG)",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2018/12/21/zema-anuncia-mais-dois-secretarios-e-ultrapassa-a-estimativa-de-nove-pastas-para-proximo-governo-de-minas-gerais.ghtml",
+      "publishedAt": "2018-12-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Governador eleito anunciou parte do secretariado antes da posse (estrutura reduzida em elaboração na ALMG)."
+    },
+    {
+      "id": "src-zema-73",
+      "title": "Troca de Valadares por Aro é a 23ª mudança no secretariado de Zema; relembre quem já passou pelo governo",
+      "publisher": "O Fator",
+      "url": "https://ofator.com.br/informacao/troca-de-valadares-por-aro-e-a-23a-mudanca-no-secretariado-de-zema-relembre-quem-ja-passou-pelo-governo/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento do veículo sobre trocas de secretários desde o início do primeiro mandato, em 2019."
+    },
+    {
+      "id": "src-zema-74",
+      "title": "Minas Gerais sai do Regime de Recuperação Fiscal e pode aderir ao Propag (decreto de Lula publicado em 22/12/2025)",
+      "publisher": "O Tempo",
+      "url": "https://www.otempo.com.br/politica/2025/12/22/minas-gerais-esta-fora-do-regime-de-recuperacao-fiscal-e-pode-aderir-ao-propag-entenda-a-mudanca",
+      "publishedAt": "2025-12-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": ""
+    },
+    {
+      "id": "src-zema-75",
+      "title": "Repasse de R$ 35,8 bi em ativos e redução de juros: o que diz o contrato de adesão de Minas ao Propag",
+      "publisher": "O Fator",
+      "url": "https://ofator.com.br/informacao/repasse-de-r-358-bi-em-ativos-e-reducao-de-juros-o-que-diz-o-contrato-de-adesao-de-minas-ao-propag/",
+      "publishedAt": "2025-12-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Contrato de adesão assinado após autorização do Ministério da Fazenda."
+    },
+    {
+      "id": "src-zema-76",
+      "title": "Governo de Minas Gerais sanciona lei de adesão ao Propag (Lei 25.282/2025)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2025/06/05/governo-de-minas-gerais-sanciona-lei-de-adeso-ao-propag.ghtml",
+      "publishedAt": "2025-06-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lei autoriza o Estado a sair do RRF e aderir ao Propag; aprovada na ALMG na mesma semana."
+    },
+    {
+      "id": "src-zema-77",
+      "title": "Após 'fura-filas' no governo, Zema oficializa troca do secretário de Saúde",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/03/13/interna_politica,1246339/apos-fura-filas-no-governo-zema-oficializa-troca-do-secretario-de-saude.shtml",
+      "publishedAt": "2021-03-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Substituição publicada no Diário do Executivo."
+    },
+    {
+      "id": "src-zema-78",
+      "title": "Com aprovação de PLC, Assembleia conclui votação da reforma da previdência (PLC 46/2020)",
+      "publisher": "ALMG — Assembleia Legislativa de Minas Gerais",
+      "url": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2020/09/04_plenario_aprovacao_plc46_reforma.html",
+      "publishedAt": "2020-09-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": ""
+    },
+    {
+      "id": "src-zema-79",
+      "title": "Governador Romeu Zema sanciona projeto de reforma da Previdência em Minas Gerais (LC 156/2020)",
+      "publisher": "g1 — Globo (MG)",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2020/09/22/governador-romeu-zema-sanciona-projeto-de-reforma-da-previdencia-em-minas-gerais.ghtml",
+      "publishedAt": "2020-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lei Complementar 156/2020 publicada no Diário Oficial de 23/09/2020."
+    },
+    {
+      "id": "src-zema-80",
+      "title": "Entenda o Acordo Judicial de Reparação ao rompimento da barragem em Brumadinho (assinado em 04/02/2021)",
+      "publisher": "Governo de Minas Gerais — Programa Pró-Brumadinho (mg.gov.br)",
+      "url": "https://www.mg.gov.br/pro-brumadinho/pagina/entenda-o-acordo-judicial-de-reparacao-ao-rompimento-de-brumadinho",
+      "publishedAt": "2021-02-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Acordo assinado pelo Governo de Minas, MPMG, MPF e DPMG com a Vale S.A., sob mediação do Tribunal de Justiça."
+    },
+    {
+      "id": "src-zema-81",
+      "title": "Vale assina acordo para pagar R$ 37,68 bilhões de reparação por Brumadinho",
+      "publisher": "O Tempo",
+      "url": "https://www.otempo.com.br/cidades/vale-assina-acordo-para-pagar-r-37-68-bilhoes-de-reparacao-por-brumadinho-1.2443353",
+      "publishedAt": "2021-02-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": ""
+    }
+  ],
   "candidates": {
     "lula": {
       "capacities": [
-        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "execucao",
+          "synthesis": "Programas de alcance nacional foram instituídos por ato normativo em dois ciclos: Bolsa Família (Lei 14.601/2023), Luz para Todos (Decreto 4.873/2003), ProUni (Lei 11.096/2005), Minha Casa Minha Vida (Lei 11.977/2009) e Novo PAC (Decreto 11.632/2023). Resultados registrados em fontes oficiais incluem R$ 711 bi executados pelo PAC até o fim de 2024 (53,7% do previsto até 2026) e 66% de crianças alfabetizadas em 2025, contra meta de 64% (Inep). A entrega anual passa pela sanção da LOA — a de 2026 foi sancionada com vetos de R$ 393–400 mi em emendas — e pela tramitação de projetos de reestruturação do Executivo no Congresso.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-lula-01",
+              "kind": "historico",
+              "title": "Novo PAC — instituição do programa, comitê gestor e execução da carteira",
+              "role": "Presidente da República, autor do decreto de criação do programa e da estrutura de governança",
+              "complexity": "Alcance nacional (27 UFs); R$ 1,8 trilhão previstos (R$ 1,3 tri até 2026); comitê gestor ministerial e grupo executivo; carteira de obras e equipamentos publicada em painel de transparência",
+              "outcome": "Decreto 11.632/2023 publicado em 11/08/2023 instituindo programa, comitê gestor e grupo executivo; R$ 711 bi executados até o fim de 2024 (53,7% do previsto até 2026)",
+              "period": "2023–2026",
+              "context": "Programa lançado no 3º mandato para retomar investimento em infraestrutura após a extinção do PAC anterior; execução acompanhada por painel público com execução física e orçamentária.",
+              "sources": [
+                {
+                  "id": "src-lula-90"
+                },
+                {
+                  "id": "src-lula-91"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-lula-02",
+              "kind": "historico",
+              "title": "Recriação do Bolsa Família por medida provisória convertida em lei",
+              "role": "Presidente da República — assinou a MP 1.164/2023 e sancionou a Lei 14.601/2023",
+              "complexity": "Nacional; 21,86 milhões de famílias atendidas no lançamento (mar/2023); valor mínimo de R$ 600; cadastro único como porta de entrada; regra legal de atualização periódica em intervalos de até 24 meses",
+              "outcome": "Programa recriado por lei em 19/06/2023; regra de atualização validada pelo STF em junho de 2024 como cumprimento de ordem judicial (segundo a fonte)",
+              "period": "2023–2024",
+              "context": "Recriação substituiu o Auxílio Brasil e reorganizou o desenho do programa, com pagamento pela Caixa e gestão pelo ministério da área social.",
+              "sources": [
+                {
+                  "id": "src-lula-92"
+                },
+                {
+                  "id": "src-lula-93"
+                },
+                {
+                  "id": "src-lula-98"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-lula-03",
+              "kind": "historico",
+              "title": "Instituição de programas federais por decreto e por lei (2003–2009)",
+              "role": "Presidente da República — atos de iniciativa própria (decreto e projeto de lei)",
+              "complexity": "Nacional; três programas estruturantes em seis anos: Luz para Todos (energia, Decreto 4.873/2003), ProUni (bolsas em instituições privadas, Lei 11.096/2005) e Minha Casa Minha Vida (habitação, Lei 11.977/2009)",
+              "outcome": "Programas instituídos por ato normativo e execução iniciada no período; o Minha Casa Minha Vida foi retomado por lei em setembro de 2023",
+              "period": "2003–2009",
+              "context": "Contexto de expansão de programas sociais nos dois primeiros mandatos; execução distribuída entre ministérios e estatais.",
+              "sources": [
+                {
+                  "id": "src-lula-23"
+                },
+                {
+                  "id": "src-lula-25"
+                },
+                {
+                  "id": "src-lula-54"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-lula-04",
+              "kind": "historico",
+              "title": "Sanção da Lei Orçamentária Anual de 2026 com vetos a emendas",
+              "role": "Presidente da República — sanção da LOA (Lei 15.346/2026)",
+              "complexity": "Orçamento federal de R$ 6,54 tri (inclui R$ 1,8 tri de refinanciamento da dívida); R$ 61 bi em emendas parlamentares no texto; R$ 393–400 mi vetados em emendas modificadas pelo Congresso e R$ 11 bi em recursos de destinação parlamentar barrados",
+              "outcome": "Lei sancionada em 14/01/2026 com superávit primário previsto de R$ 34,2 bi; vetos sujeitos a apreciação pelo Congresso",
+              "period": "2026",
+              "context": "Peculiaridade do ciclo: o orçamento foi sancionado em ano eleitoral e a execução segue o calendário da LOA.",
+              "sources": [
+                {
+                  "id": "src-lula-39"
+                },
+                {
+                  "id": "src-lula-40"
+                },
+                {
+                  "id": "src-lula-11"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-lula-05",
+              "kind": "historico",
+              "title": "Reestruturação de carreiras do Executivo federal (Projeto de Transformação do Estado)",
+              "role": "Presidente da República — sanção do projeto conduzido pelo Ministério da Gestão desde 2023",
+              "complexity": "Executivo federal; carreiras civis reorganizadas em múltiplos órgãos; universo de cerca de 1,0 mi de servidores ativos do Executivo federal (mar/2026, Portal da Transparência)",
+              "outcome": "Projeto de lei sancionado em março de 2026, conforme registro do próprio ministério responsável",
+              "period": "2023–2026",
+              "context": "Iniciativa transversal conduzida pelo MGI com órgãos do Executivo, dentro do projeto de Transformação do Estado.",
+              "sources": [
+                {
+                  "id": "src-lula-95"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-lula-06",
+              "kind": "historico",
+              "title": "Meta nacional de alfabetização atingida em 2025",
+              "role": "Presidente da República — programa federal de alfabetização executado com estados e municípios (Compromisso Nacional Criança Alfabetizada)",
+              "complexity": "Nacional; 27 UFs e redes municipais; avaliação do Inep sobre estudantes do 2º ano do ensino fundamental",
+              "outcome": "66% das crianças alfabetizadas em 2025, acima da meta de 64%; 20 unidades da Federação também alcançaram a meta",
+              "period": "2023–2025",
+              "context": "Indicador medido por avaliação federal (Inep) e mantido no plano de governo registrado no TSE para 2027–2030 (meta declarada de 80%).",
+              "sources": [
+                {
+                  "id": "src-lula-94"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "A negociação legislativa é documentada na reforma tributária (EC 132/2023), na sanção da LOA 2026 com vetos e no acordo de pauta fechado com os presidentes da Câmara e do Senado em agosto de 2026 (redução da jornada/escala 6x1, PEC da segurança pública, Redata, terras raras). A interlocução setorial inclui centrais sindicais (entrega da Agenda da Classe Trabalhadora, abr/2026), Anfavea (jul/2026), pastores evangélicos (set/2026) e jantar com cerca de 740 empresários e banqueiros (set/2026). A sustentação no Congresso é registrada com ministérios distribuídos a aliados, 72% de votos favoráveis nas votações de interesse e queda do alinhamento no Senado de 75% (2025) para 38,5% (2026), após a saída de União Brasil e PP do governo em set/2025.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-lula-07",
+              "kind": "historico",
+              "title": "Aprovação da reforma tributária (EC 132/2023) com o Congresso",
+              "role": "Presidente da República — liderou a articulação pela aprovação da proposta enviada pelo Executivo",
+              "complexity": "Nacional; duas Casas legislativas, quórum de 3/5 em dois turnos; transição de sete anos; regulamentação por leis complementares; arcabouço fiscal aprovado no mesmo ciclo",
+              "outcome": "Emenda Constitucional 132 promulgada em 20/12/2023; Lei 14.751/2023 (arcabouço fiscal) aprovada no mesmo período",
+              "period": "2023",
+              "context": "Agenda prioritária do 3º mandato; dependia de maioria qualificada e da tramitação simultânea do novo marco fiscal.",
+              "sources": [
+                {
+                  "id": "src-lula-29"
+                },
+                {
+                  "id": "src-lula-30"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-lula-08",
+              "kind": "historico",
+              "title": "Acordo de pauta com os presidentes da Câmara e do Senado (ago/2026)",
+              "role": "Presidente da República — negociação direta com Hugo Motta (Câmara) e Davi Alcolumbre (Senado), com mediação de ministro de Relações Institucionais",
+              "complexity": "Atores: presidência da República, presidência da Câmara, presidência do Senado e líderes; pauta com cinco itens (redução da jornada, PEC da segurança pública, Redata, marco das terras raras, taxa das blusinhas); prazo de votação de MP fixado para 08/09/2026",
+              "outcome": "Prioridades de pauta definidas em almoço no Palácio da Alvorada em 26/08/2026; o PL da escala 6x1 foi enviado em regime de urgência em abr/2026 após almoço com o presidente da Câmara",
+              "period": "2026",
+              "context": "Ambiente de ano eleitoral e de queda do alinhamento do Senado; a negociação foi conduzida pessoalmente pelo presidente com os dois presidentes das Casas.",
+              "sources": [
+                {
+                  "id": "src-lula-70"
+                },
+                {
+                  "id": "src-lula-71"
+                },
+                {
+                  "id": "src-lula-72"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-lula-09",
+              "kind": "historico",
+              "title": "Base de sustentação no Congresso: fidelidade da base e rompimentos",
+              "role": "Presidente da República — chefe do Executivo responsável pela coalizão de governo",
+              "complexity": "Base partidária com ministérios distribuídos entre aliados; 72% dos votos de deputados de partidos com ministérios favoráveis ao Planalto nas votações de interesse; alinhamento no Senado de 75% (2025) para 38,5% (2026)",
+              "outcome": "Resultado documentado inclui a saída de União Brasil e PP do governo em set/2025, com apoio à pauta da anistia, e a queda do alinhamento no Senado registrada em 2026",
+              "period": "2023–2026",
+              "context": "Registro de resultado misto: fidelidade alta na Câmara entre partidos com ministérios e perda de alinhamento no Senado no ano eleitoral.",
+              "sources": [
+                {
+                  "id": "src-lula-20"
+                },
+                {
+                  "id": "src-lula-21"
+                },
+                {
+                  "id": "src-lula-22"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-lula-10",
+              "kind": "historico",
+              "title": "Recebimento da Agenda da Classe Trabalhadora 2026–2030 das centrais sindicais",
+              "role": "Presidente da República — recebeu as centrais em audiência no Palácio do Planalto",
+              "complexity": "Seis centrais sindicais; documento com 68 reivindicações para o quadriênio; marcha da classe trabalhadora em Brasília",
+              "outcome": "Agenda entregue em 15/04/2026 no Planalto; pauta incluía a escala 6x1, que o Executivo enviou ao Congresso em regime de urgência em 14/04/2026",
+              "period": "2026",
+              "context": "Primeira entrega formal de pauta unitária das centrais no ciclo eleitoral.",
+              "sources": [
+                {
+                  "id": "src-lula-64"
+                },
+                {
+                  "id": "src-lula-65"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-lula-11",
+              "kind": "historico",
+              "title": "Interlocução com indústria, empresários e mercado financeiro",
+              "role": "Presidente da República — recebeu entidades setoriais no Planalto e promoveu jantar com empresários",
+              "complexity": "Indústria automotiva (Anfavea, 14/07/2026); cerca de 740 empresários, banqueiros e economistas em jantar em São Paulo (25/09/2026), o segundo em menos de um mês",
+              "outcome": "Agenda realizada com pauta de responsabilidade fiscal, estabilidade e soberania; crise do setor industrial tratada como responsabilidade do governo na reunião com a Anfavea",
+              "period": "2026",
+              "context": "Diálogo com setores que financiam campanhas e reagem a medidas fiscais, às vésperas do pleito.",
+              "sources": [
+                {
+                  "id": "src-lula-68"
+                },
+                {
+                  "id": "src-lula-69"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-lula-12",
+              "kind": "historico",
+              "title": "Encontro com lideranças evangélicas no Planalto",
+              "role": "Presidente da República — recebeu pastores em audiência no Palácio do Planalto",
+              "complexity": "Cerca de 20 pastores do Brasil, dos Estados Unidos e de Cuba; pauta sobre atuação política em igrejas",
+              "outcome": "Encontro realizado em 16/09/2026; o presidente declarou que não fará ato político em igrejas e fará comício na rua",
+              "period": "2026",
+              "context": "Segmento com peso eleitoral relevante; registro da fonte sobre a posição do candidato quanto ao uso de igrejas na campanha.",
+              "sources": [
+                {
+                  "id": "src-lula-66"
+                },
+                {
+                  "id": "src-lula-67"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Formou e recompôs o primeiro escalão federal: 37 ministros anunciados para a posse de 2023, 38 pastas em 2025–2026 e troca no comando da articulação política em fevereiro de 2025 (Gleisi Hoffmann em Relações Institucionais; Padilha na Saúde). Instituiu por decreto a governança do Novo PAC (comitê gestor ministerial e grupo executivo) e decidiu, em 2003, a unificação de programas de transferência de renda sob cadastro único. Em 2023–2026 dirigiu o projeto de reestruturação de carreiras do Executivo conduzido pelo Ministério da Gestão.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-lula-13",
+              "kind": "historico",
+              "title": "Composição do ministério para o mandato iniciado em 2023 e recomposição em 2025",
+              "role": "Presidente da República — nomeação dos titulares das pastas",
+              "complexity": "37 ministros anunciados para a posse (14 pastas a mais que o governo anterior), distribuídos entre partidos aliados; 38 pastas em 2025–2026; troca de titulares em 2025 (Relações Institucionais e Saúde) e criação de nova pasta",
+              "outcome": "Equipe empossada em 01/01/2023 e recomposição efetivada em fev/2025; a base de partidos com ministérios registrou 72% de votos favoráveis ao governo nas votações de interesse",
+              "period": "2022–2026",
+              "context": "Composição usada como instrumento de construção de base parlamentar, segundo a descrição das próprias coberturas jornalísticas.",
+              "sources": [
+                {
+                  "id": "src-lula-96"
+                },
+                {
+                  "id": "src-lula-97"
+                },
+                {
+                  "id": "src-lula-22"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-lula-14",
+              "kind": "historico",
+              "title": "Governança do Novo PAC: comitê gestor ministerial e grupo executivo",
+              "role": "Presidente da República — instituiu a estrutura por decreto e indicou a composição do comitê",
+              "complexity": "Alcance nacional; comitê gestor com ministros e grupo executivo para a carteira de investimentos; duração plurianual (2023–2026, com carteira que ultrapassa o mandato)",
+              "outcome": "Estrutura formalizada no Decreto 11.632/2023; execução de R$ 711 bi até o fim de 2024, com acompanhamento por painel público de transparência",
+              "period": "2023–2026",
+              "context": "Programa de execução descentralizada entre ministérios, estatais e estados, exigindo instância de coordenação permanente.",
+              "sources": [
+                {
+                  "id": "src-lula-90"
+                },
+                {
+                  "id": "src-lula-91"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-lula-15",
+              "kind": "historico",
+              "title": "Unificação de programas de transferência de renda sob cadastro único (2003–2007)",
+              "role": "Presidente da República — decisão de unificar os programas e de manter o cadastro único como porta de entrada",
+              "complexity": "Programas até então executados por pastas distintas (Educação, Saúde e Segurança Alimentar) consolidados em um programa único com cadastro nacional; execução posterior com municípios e Caixa",
+              "outcome": "Programa unificado e ampliado, apresentado por estudo do Ipea como referência; a porta de entrada por cadastro único é mantida na Lei 14.601/2023",
+              "period": "2003–2007",
+              "context": "A unificação exigiu integrar cadastros e equipes de três áreas do governo federal.",
+              "sources": [
+                {
+                  "id": "src-lula-24"
+                },
+                {
+                  "id": "src-lula-93"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-lula-16",
+              "kind": "historico",
+              "title": "Delegação da interlocução com o Congresso a ministro da articulação política",
+              "role": "Presidente da República — designou o ministro de Relações Institucionais como mediador da pauta trabalhista",
+              "complexity": "Pauta de alcance nacional (fim da escala 6x1 e jornada de 40 horas) negociada com a presidência da Câmara e com a PEC em tramitação; mediação conduzida pelo ministro José Guimarães",
+              "outcome": "PL enviado ao Congresso em regime de urgência em 14/04/2026, com tramitação conjunta à PEC já em curso",
+              "period": "2026",
+              "context": "Tema de apelo eleitoral e de alto custo para o setor de serviços; o Executivo optou por conduzir a negociação por um ministro dedicado à articulação política.",
+              "sources": [
+                {
+                  "id": "src-lula-70"
+                },
+                {
+                  "id": "src-lula-64"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
       ]
     },
     "flavio-bolsonaro": {
       "capacities": [
-        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "execucao",
+          "synthesis": "A entrega legislativa documentada é a relatoria do PL 2253/2022 no Senado, que resultou na Lei 14.843/2024 (aprovado por 62 votos a 2), e 2 projetos aprovados no Senado entre 62 apresentados como autor principal, sem lei própria convertida; como coautor, registra 2 leis. A atuação estadual inclui a autoria declarada da Lei estadual 7.809/2017 (fonte da campanha, não conferida na base de legislação da ALERJ) e a eleição ao Senado em 2018 com 4.380.418 votos, liderando em 84 dos 92 municípios do RJ. Em 2026, registrou plano de governo com 69 diretrizes no TSE e anunciou equipe setorial para detalhá-lo em 18/08/2026.",
+          "coverage": "parcial",
+          "coverageNote": "Trajetória sem cargo no Executivo (ALERJ 2003–2019 e Senado 2019–atual). As evidências de execução são de mandato legislativo e de campanha; não há gestão orçamentária própria a observar.",
+          "evidences": [
+            {
+              "id": "ev-cap-flavio-01",
+              "kind": "historico",
+              "title": "Relatoria do PL 2253/2022 no Senado (fim da saída temporária e monitoração eletrônica)",
+              "role": "Senador — relator da matéria no Senado, com parecer apresentado em pronunciamento registrado em 20/02/2024",
+              "complexity": "Matéria de alcance nacional que altera a Lei de Execução Penal; aprovada no Senado por 62 votos a favor, 2 contrários e 1 abstenção em 20/02/2024",
+              "outcome": "Norma gerada: Lei nº 14.843, de 11/04/2024; o texto voltou à Câmara por ter sido alterado no Senado",
+              "period": "2022–2024",
+              "context": "Tema de segurança pública, área em que concentra mais da metade das propostas de sua autoria no Senado.",
+              "sources": [
+                {
+                  "id": "src-flavio-02"
+                },
+                {
+                  "id": "src-senado-pronunciamento"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-flavio-02",
+              "kind": "historico",
+              "title": "Produção legislativa como autor principal e coautor no Senado (2019–2026)",
+              "role": "Senador — autor principal das proposições e coautor em matérias de terceiros",
+              "complexity": "Levantamento com dados oficiais do Senado sobre sete anos de mandato: 62 proposições de autoria principal; 2 aprovadas no Senado e nenhuma convertida em lei; como coautor, 9 aprovadas e 2 convertidas em lei",
+              "outcome": "Resultado registrado: sem lei própria convertida até a data do levantamento (abr/2026), com 2 projetos aprovados no Senado",
+              "period": "2019–2026",
+              "context": "Levantamentos independentes (UOL/Agenda do Poder e Brasil de Fato) usam os registros públicos de proposições do Senado.",
+              "sources": [
+                {
+                  "id": "src-agenda-poder-legis"
+                },
+                {
+                  "id": "src-brasildefato-legis"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-flavio-03",
+              "kind": "historico",
+              "title": "Campanha ao Senado em 2018 — execução da candidatura estadual",
+              "role": "Candidato a senador (PSL) — responsável pela estrutura de campanha no estado",
+              "complexity": "Alcance estadual (RJ, 92 municípios); 4.380.418 votos, 31,36% dos válidos; gastos de campanha prestados à Justiça Eleitoral",
+              "outcome": "Eleito; foi o candidato a senador com votação à frente dos demais no estado em 2018 e o mais votado em 84 dos 92 municípios",
+              "period": "2018",
+              "context": "Primeira disputa majoritária estadual após quatro mandatos na ALERJ.",
+              "sources": [
+                {
+                  "id": "src-uol-2018"
+                },
+                {
+                  "id": "src-agenciabrasil-2018"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-flavio-04",
+              "kind": "historico",
+              "title": "Registro e apresentação do plano de governo 2026 (69 diretrizes)",
+              "role": "Candidato à Presidência — responsável pelo programa registrado no TSE e pela apresentação pública",
+              "complexity": "Documento com 69 diretrizes organizadas por área (segurança, economia, infraestrutura, administração pública); apresentação em live em 13/08/2026 com aliados",
+              "outcome": "Plano registrado junto ao TSE em agosto de 2026 e apresentado publicamente em 13/08/2026",
+              "period": "2026",
+              "context": "Registro documental do programa é o insumo de comparação das propostas; a apresentação foi feita pelo próprio candidato.",
+              "sources": [
+                {
+                  "id": "src-plano-pdf"
+                },
+                {
+                  "id": "src-g1-plano"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-flavio-05",
+              "kind": "historico",
+              "title": "Lei estadual 7.809/2017 — autoria declarada sobre devolução de descontos em contracheques de policiais e bombeiros",
+              "role": "Deputado estadual na ALERJ — autor declarado da proposição",
+              "complexity": "Alcance estadual (RJ); obriga o Estado a devolver valores descontados indevidamente de policiais e bombeiros militares",
+              "outcome": "Norma citada pelo site oficial da campanha; a ficha da lei não foi localizada na base de legislação da ALERJ nesta rodada",
+              "period": "2017",
+              "context": "Única lei estadual atribuída à sua autoria nas fontes consultadas; o dado consta do site oficial do candidato e não foi conferido em fonte primária.",
+              "sources": [
+                {
+                  "id": "src-site-oficial"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "A articulação eleitoral registrada inclui o apoio a 47 candidatos ao Senado de nove partidos (06/08/2026), reunião com cerca de 50 postulantes para alinhar campanhas (11/08/2026) e atuação na janela partidária de abril de 2026, quando o PL teve o ganho líquido de deputados. O diálogo setorial documentado é com empresários e mercado financeiro (visita à Fiesp e agendas em São Paulo em 24/08/2026). A chapa presidencial foi registrada sem coligação ou federação, com vice do próprio partido, após exploração de alianças com PP e União Brasil sem registro no TSE.",
+          "coverage": "parcial",
+          "coverageNote": "No recorte 2025–2026 não foram localizados encontros com centrais sindicais ou com lideranças da oposição; o material disponível é de articulação partidária e de diálogo com o setor produtivo.",
+          "evidences": [
+            {
+              "id": "ev-cap-flavio-06",
+              "kind": "historico",
+              "title": "Apoio declarado a 47 candidatos ao Senado de nove partidos",
+              "role": "Candidato à Presidência — anunciou e coordenou a lista de apoios a candidatos ao Senado",
+              "complexity": "47 candidatos ao Senado em nove siglas; reunião nacional com cerca de 50 postulantes em Brasília para alinhar campanhas e ampliar palanques estaduais",
+              "outcome": "Lista anunciada em 06/08/2026 e encontro realizado em 11/08/2026; objetivo declarado de formar bancada alinhada e ampliar palanques nos estados",
+              "period": "2026",
+              "context": "Estratégia de transferência de votos a partir da candidatura presidencial, sem coligação formal registrada.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-14"
+                },
+                {
+                  "id": "src-flavio-bolsonaro-16"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-flavio-07",
+              "kind": "historico",
+              "title": "Atuação na janela partidária de 2026 — ganho líquido de deputados para o PL",
+              "role": "Senador e articulador das migrações partidárias na janela",
+              "complexity": "Janela partidária encerrada em abr/2026; PL somou 98 das 513 cadeiras da Câmara, com o ganho líquido registrado pelo DIAP",
+              "outcome": "Movimento concluído dentro do prazo legal da janela; bancada ampliada antes do pleito de 2026 e usada no cálculo do tempo de TV",
+              "period": "2026",
+              "context": "Migração de deputados entre siglas é permitida apenas na janela; o candidato foi citado como articulador das trocas.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-15"
+                },
+                {
+                  "id": "src-flavio-bolsonaro-10"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-flavio-08",
+              "kind": "historico",
+              "title": "Diálogo com empresários e mercado financeiro em São Paulo",
+              "role": "Candidato à Presidência — agendas presenciais com entidades e empresários",
+              "complexity": "Visita à Fiesp e duas agendas com empresários em São Paulo em 24/08/2026, com pauta econômica",
+              "outcome": "Aproximação registrada pela imprensa como estratégia para reduzir rejeição e apresentar propostas ao setor produtivo",
+              "period": "2026",
+              "context": "Movimento acompanhado pelo anúncio de nomes ligados ao mercado financeiro para a equipe do plano de governo.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-13"
+                },
+                {
+                  "id": "src-flavio-bolsonaro-12"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-flavio-09",
+              "kind": "historico",
+              "title": "Chapa registrada sem coligação após negociação de alianças nacionais",
+              "role": "Candidato à Presidência — condução das conversas de aliança e definição do vice",
+              "complexity": "Chapa PL (nº 22) com vice do próprio partido (Alfredo Gaspar, PL-AL); negociação de alianças explorada com PP e União Brasil; 1 partido na chapa registrada",
+              "outcome": "Registro no TSE sem coligação ou federação formal; 12 candidaturas presidenciais validadas em 2026, sendo a sua um partido isolado",
+              "period": "2026",
+              "context": "Ausência de coligação registrada é fato documentado no edital do TSE; apoios individuais a candidatos de outras siglas não alteram a composição da chapa.",
+              "sources": [
+                {
+                  "id": "src-flavio-bolsonaro-10"
+                },
+                {
+                  "id": "src-tse-doze"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Presidiu comissões permanentes na ALERJ (Segurança Pública e Assuntos de Polícia; Legislação Constitucional Complementar e Códigos; Defesa Civil) e ocupou a Terceira-Secretaria da Mesa Diretora do Senado a partir de 06/02/2019, deixando o posto em 2021. Na campanha de 2026, mantém coordenação-geral com o senador Rogério Marinho e coordenação do plano econômico com Daniella Marques e Adolfo Sachsida, com equipe setorial anunciada em 18/08/2026 e troca no comando da comunicação em 30/07/2026.",
+          "coverage": "parcial",
+          "coverageNote": "Nunca ocupou cargo no Executivo: as evidências de liderança vêm de comissões e da Mesa do Senado, do gabinete parlamentar e da estrutura de campanha de 2026, não de gestão de secretariado ou de órgão executivo.",
+          "evidences": [
+            {
+              "id": "ev-cap-flavio-10",
+              "kind": "historico",
+              "title": "Presidência de comissões permanentes na ALERJ (2003–2011)",
+              "role": "Deputado estadual — presidente de comissão permanente (registro oficial da ALERJ)",
+              "complexity": "Legislaturas 2003/2007 e 2007/2011; presidiu a Comissão de Segurança Pública e Assuntos de Polícia, a Comissão de Legislação Constitucional Complementar e Códigos e a Comissão de Defesa Civil; foi vice-presidente da Comissão de Segurança Pública na legislatura seguinte",
+              "outcome": "Presidências registradas no perfil oficial de cargos exercidos do deputado na ALERJ",
+              "period": "2003–2011",
+              "context": "Comissões permanentes dirigem a pauta e designam relatores nas áreas de segurança pública e legislação, temas centrais do seu mandato estadual.",
+              "sources": [
+                {
+                  "id": "src-flavio-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-flavio-11",
+              "kind": "historico",
+              "title": "Terceira-Secretaria da Mesa Diretora do Senado (2019–2021)",
+              "role": "Senador — eleito 3º Secretário da Mesa Diretora em 06/02/2019",
+              "complexity": "Órgão de direção da Casa (Mesa Diretora do Senado), mandato de dois anos; 81 senadores na legislatura",
+              "outcome": "Eleito em 06/02/2019 no início do primeiro mandato federal; renunciou ao posto em 2021, em meio a representações no Conselho de Ética (data exata do ato não capturada)",
+              "period": "2019–2021",
+              "context": "A Mesa Diretora responde pela administração e pelas decisões de funcionamento da Casa, o que difere da função de relator ou de líder partidário.",
+              "sources": [
+                {
+                  "id": "src-senado-perfil"
+                },
+                {
+                  "id": "src-flavio-05"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-flavio-12",
+              "kind": "historico",
+              "title": "Montagem da equipe de plano de governo e de área econômica da campanha de 2026",
+              "role": "Candidato — escolha e anúncio dos coordenadores e da equipe setorial",
+              "complexity": "Coordenação do plano econômico por Daniella Marques e Adolfo Sachsida; equipe setorial com Lyvia Montezano, Carolina Ragazzi e Adriano Pires, anunciada em 18/08/2026, responsável por detalhar pautas de mercado financeiro e infraestrutura",
+              "outcome": "Nomes anunciados e incorporados formalmente à campanha, com Sachsida passando a integrar a coordenação do plano econômico",
+              "period": "2026",
+              "context": "Estrutura de campanha composta por ex-integrantes do governo anterior e executivos de mercado.",
+              "sources": [
+                {
+                  "id": "src-flavio-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-flavio-13",
+              "kind": "historico",
+              "title": "Coordenação-geral da campanha e delegação da área de comunicação",
+              "role": "Candidato — definição da coordenação-geral e delegação do comando da comunicação",
+              "complexity": "Coordenação-geral exercida pelo senador Rogério Marinho, responsável por anúncios públicos da campanha (jul/2026); troca no comando da comunicação anunciada em 30/07/2026",
+              "outcome": "Coordenação ativa: o coordenador-geral anunciou a troca no comando da comunicação e declarou posições sobre a composição da chapa para o Senado",
+              "period": "2026",
+              "context": "Delegação documentada em fontes distintas para a coordenação-geral e para a comunicação da campanha.",
+              "sources": [
+                {
+                  "id": "src-flavio-04"
+                },
+                {
+                  "id": "src-flavio-06"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        }
       ]
     },
     "caiado": {
       "capacities": [
-        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "execucao",
+          "synthesis": "As contas dos exercícios de 2023, 2024 e 2025 receberam parecer prévio favorável do TCE-GO, o último por unanimidade em 16/06/2026, com cumprimento das vinculações de saúde e educação e do limite de pessoal. Investimentos somaram R$ 7,21 bi em 2025 (maior volume da série histórica em valores reais, segundo o TCE-GO) e R$ 23,7 bi nos dois mandatos, conforme a Agência Goiás; a saída do RRF para o Propag tem economia estimada em R$ 26 bi em 30 anos. Programas estaduais incluem Goiás Social, Mães de Goiás e Goiás Por Elas (R$ 300/mês por até 12 meses a mulheres com medida protetiva).",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-caiado-01",
+              "kind": "historico",
+              "title": "Contas de 2023, 2024 e 2025 com parecer prévio favorável do TCE-GO",
+              "role": "Governador de Goiás — responsável pela prestação de contas anual do Executivo estadual",
+              "complexity": "Três exercícios submetidos ao tribunal de contas; receita líquida de R$ 49,6 bi em 2025; despesa de pessoal em 50,07% da RCL ajustada; o parecer de 2025 foi aprovado por unanimidade com destaque para vinculações de saúde e educação",
+              "outcome": "Pareceres prévios favoráveis nos três exercícios, com o de 2025 aprovado em 16/06/2026; o julgamento definitivo cabe à Assembleia Legislativa",
+              "period": "2023–2026",
+              "context": "Prestação de contas anual do Executivo estadual, com recomendações e determinações registradas pelo tribunal (19 recomendações em 2023).",
+              "sources": [
+                {
+                  "id": "src-cg-07"
+                },
+                {
+                  "id": "src-cg-08"
+                },
+                {
+                  "id": "src-cg-09"
+                },
+                {
+                  "id": "src-cg-10"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-02",
+              "kind": "historico",
+              "title": "Execução de investimentos estaduais em 2025 e no conjunto dos dois mandatos",
+              "role": "Governador de Goiás — titular do orçamento de investimento estadual",
+              "complexity": "R$ 7,21 bi investidos em 2025, classificados pelo TCE-GO como o volume da série histórica em valores reais; R$ 23,7 bi acumulados nos dois mandatos (Agência Goiás); receita líquida de R$ 49,6 bi em 2025",
+              "outcome": "Investimento registrado no parecer prévio das contas de 2025 e em balanço da agência estadual; aplicação em hospitais, rodovias e escolas segundo a fonte",
+              "period": "2019–2026",
+              "context": "Estado saiu de situação de desequilíbrio fiscal no início do mandato para superávit orçamentário de R$ 2,52 bi em 2024, conforme o TCE-GO.",
+              "sources": [
+                {
+                  "id": "src-cg-07"
+                },
+                {
+                  "id": "src-caiado-76"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-03",
+              "kind": "historico",
+              "title": "Saída do Regime de Recuperação Fiscal para o Propag",
+              "role": "Governador de Goiás — responsável pela adesão do Estado ao novo regime de pagamento da dívida",
+              "complexity": "Adesão ao Propag com prazo de 30 anos; economia estimada em R$ 26 bi no serviço da dívida ao longo do período, segundo o TCE-GO",
+              "outcome": "Saída do RRF e migração para o Propag registradas na prestação de contas de 2025; conta do Estado com alívio estimado no serviço da dívida",
+              "period": "2023–2026",
+              "context": "Operação de dívida pública estadual que depende de aval federal e de aprovação legislativa.",
+              "sources": [
+                {
+                  "id": "src-cg-07"
+                },
+                {
+                  "id": "src-cg-32"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-caiado-04",
+              "kind": "historico",
+              "title": "Reforma administrativa de 2019: corte de cargos e funções comissionadas",
+              "role": "Governador de Goiás — autor do projeto e do decreto de reorganização (decreto 9.455/2019)",
+              "complexity": "Administração direta e indireta do Estado; corte de cargos e funções comissionadas; economia estimada em R$ 422 milhões em quatro anos; execução ao longo do mandato 2019–2022",
+              "outcome": "Reforma sancionada e publicada no Diário Oficial; secretário da Administração apresentou as estimativas de impacto à imprensa ao lado do governador",
+              "period": "2019",
+              "context": "Medida adotada no primeiro ano de mandato, quando o Estado buscava habilitação no Regime de Recuperação Fiscal.",
+              "sources": [
+                {
+                  "id": "src-caiado-70"
+                },
+                {
+                  "id": "src-caiado-72"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-05",
+              "kind": "historico",
+              "title": "Programas estaduais de transferência e proteção (Goiás Social, Mães de Goiás, Goiás Por Elas)",
+              "role": "Governador de Goiás — programas mantidos sob gestão estadual no segundo mandato",
+              "complexity": "Transferência de R$ 300/mês por até 12 meses a mulheres em situação de violência doméstica com medida protetiva; rede de programas sociais do Estado com execução pela secretaria de desenvolvimento social",
+              "outcome": "Programa registrado em página oficial do Governo de Goiás e citado no balanço de passagem do cargo em 31/03/2026",
+              "period": "2019–2026",
+              "context": "Programas citados no balanço da gestão entregue ao sucessor, com base em transferência condicionada de renda estadual.",
+              "sources": [
+                {
+                  "id": "src-cg-34"
+                },
+                {
+                  "id": "src-cg-32"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "A interlocução documentada em 2026 é com lideranças evangélicas (apoio do Conamad em 06/04/2026 e visita à Assembleia de Deus de Madureira em 21/04/2026, com apoio escalado ao deputado Otoni de Paula), com o setor agropecuário (Sistema Faemg em 23/04/2026 e agenda no interior de Minas) e com a imprensa (coletiva a mais de 100 jornalistas na convenção do PSD). A negociação partidária inclui o pacto de apoio mútuo entre os pré-candidatos do PSD (mar/2026), a migração do União Brasil para o PSD em 27/01/2026 e a chapa registrada pelo PSD isolado. No histórico legislativo, foi articulador do impeachment de 2016 e líder da bancada ruralista, com anistia temporária de crédito agrícola em 1994.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-caiado-06",
+              "kind": "historico",
+              "title": "Articulação da frente evangélica da campanha",
+              "role": "Candidato à Presidência — conduziu visitas a igrejas e escalou um deputado como articulador do segmento",
+              "complexity": "Apoio público do bispo Samuel Ferreira (Conamad, rede citada com 42 mil templos) em 06/04/2026; visita à Igreja Fonte da Vida com o apóstolo César Augusto; apoio da Assembleia de Deus de Madureira em 21/04/2026; articulação conduzida pelo deputado federal Otoni de Paula",
+              "outcome": "Apoios divulgados em abr/2026, com registro de reação contrária de parte da direita evangélica (racha noticiado pela Folha)",
+              "period": "2026",
+              "context": "Segmento com influência eleitoral; o apoio foi objeto de disputa dentro do próprio campo evangélico, segundo a fonte.",
+              "sources": [
+                {
+                  "id": "src-cg-40"
+                },
+                {
+                  "id": "src-cg-41"
+                },
+                {
+                  "id": "src-cg-44"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-07",
+              "kind": "historico",
+              "title": "Interlocução com o setor agropecuário em Minas Gerais",
+              "role": "Candidato à Presidência — agendas setoriais com produtores e entidades",
+              "complexity": "Palestra e encontro com produtores no Sistema Faemg (23/04/2026); agenda de agro em MG em 24/04/2026 com Mercado Central, abertura da safra de cana em Uberaba e Expozebu",
+              "outcome": "Agenda realizada com apresentação de propostas para o setor; cobertura de veículo setorial e da imprensa econômica",
+              "period": "2026",
+              "context": "O agronegócio tem peso na base política goiana e na campanha em Minas, estado disputado por três candidatos do mesmo campo.",
+              "sources": [
+                {
+                  "id": "src-cg-42"
+                },
+                {
+                  "id": "src-cg-43"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-08",
+              "kind": "historico",
+              "title": "Pacto de apoio mútuo entre os pré-candidatos do PSD",
+              "role": "Pré-candidato — pactuou com os demais postulantes a regra de apoio ao vencedor da prévia",
+              "complexity": "Três pré-candidatos do mesmo partido (Ratinho Júnior/PR, Eduardo Leite/RS e ele); prévia disputada em mar/2026",
+              "outcome": "Acordo firmado antes da prévia, com compromisso de apoio dos derrotados ao escolhido; anúncio da candidatura feito por Kassab em 30/03/2026",
+              "period": "2026",
+              "context": "A sigla tinha três governadores postulantes à Presidência; a definição evitou disputa aberta após a escolha.",
+              "sources": [
+                {
+                  "id": "src-cg-45"
+                },
+                {
+                  "id": "src-cg-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-09",
+              "kind": "historico",
+              "title": "Migração do União Brasil para o PSD e composição da chapa com Kassab",
+              "role": "Candidato — negociou a filiação e a composição da chapa",
+              "complexity": "Troca de sigla em jan/2026, filiação ao PSD em 27/01/2026 negociada com dois governadores do partido; convenção nacional de 26/07/2026 com Kassab como vice; registro da chapa no TSE em set/2026",
+              "outcome": "Filiação e candidatura efetivadas; chapa oficializada em convenção e registro publicado no Diário da Justiça Eletrônica do TSE em 18/09/2026",
+              "period": "2026",
+              "context": "Saída do União Brasil após desgastes internos com a federação PP/União e falta de apoio da cúpula, segundo a fonte.",
+              "sources": [
+                {
+                  "id": "src-cg-01"
+                },
+                {
+                  "id": "src-cg-02"
+                },
+                {
+                  "id": "src-cg-44"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-10",
+              "kind": "historico",
+              "title": "Articulação do processo de impeachment de 2016 no Senado",
+              "role": "Senador — um dos articuladores do processo, votou pela prossecução do julgamento e pela perda do mandato",
+              "complexity": "Processo conduzido no Senado Federal com 81 senadores; votação em plenário sobre a perda do mandato da presidente",
+              "outcome": "Voto registrado pela perda do mandato em 2016; rompimento posterior com o governo Temer/MDB no mesmo ano",
+              "period": "2015–2016",
+              "context": "Contexto de crise política nacional; o candidato era então líder do Democratas no Senado.",
+              "sources": [
+                {
+                  "id": "src-cg-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-11",
+              "kind": "historico",
+              "title": "Liderança da bancada ruralista e negociação da dívida de crédito agrícola",
+              "role": "Deputado federal — líder da bancada ruralista na Câmara",
+              "complexity": "Bancada ruralista na Câmara dos Deputados; pauta do crédito agrícola no contexto do Plano Collor; atuação nas comissões de Agricultura e de Segurança Pública",
+              "outcome": "Anistia temporária de parte da dívida de crédito agrícola obtida em 1994; em 2023 articulou com a base congressista contra a reforma tributária",
+              "period": "1991–2015",
+              "context": "Atuação em bloco temático suprapartidário, com pauta de endividamento do setor agrícola e de segurança pública.",
+              "sources": [
+                {
+                  "id": "src-cg-01"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Duas etapas de reforma administrativa redefiniram a estrutura do Executivo estadual: em 2019, o corte de cargos e funções comissionadas com economia estimada em R$ 422 milhões em quatro anos; em 2023, o decreto 10.218/23 criou duas secretarias (Infraestrutura e Entorno do DF), renomeou três e extinguiu o Conselho Consultivo de Gestão, a partir de projeto enviado à Alego. Na campanha de 2026, a área de saúde foi coordenada por Luiz Henrique Mandetta e a articulação evangélica escalada ao deputado Otoni de Paula. A transmissão do governo ao vice Daniel Vilela ocorreu em 31/03/2026, com balanço divulgado pela agência estadual.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-caiado-12",
+              "kind": "historico",
+              "title": "Reforma administrativa de 2019 — definição da estrutura e corte de cargos comissionados",
+              "role": "Governador de Goiás — propositor da reorganização da administração direta e indireta",
+              "complexity": "Estrutura de secretarias e autarquias do Estado; corte de cargos e funções comissionadas; economia estimada em R$ 422 milhões em quatro anos",
+              "outcome": "Decreto publicado no Diário Oficial e impacto apresentado à imprensa pelo secretário da Administração ao lado do governador",
+              "period": "2019",
+              "context": "Primeira reorganização da máquina no mandato, feita em paralelo à busca de habilitação do Estado no Regime de Recuperação Fiscal.",
+              "sources": [
+                {
+                  "id": "src-caiado-70"
+                },
+                {
+                  "id": "src-caiado-72"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-13",
+              "kind": "historico",
+              "title": "Segunda etapa da reforma administrativa (2023) — criação e renomeação de secretarias",
+              "role": "Governador de Goiás — autor do projeto enviado à Alego e do decreto 10.218/23",
+              "complexity": "Criação de duas secretarias (Infraestrutura; Entorno do Distrito Federal), renomeação de três pastas (Secretaria-Geral de Governo, Ciência/Tecnologia e Relações Institucionais) e extinção do Conselho Consultivo de Gestão; projeto com previsão de extinção de 4.406 cargos comissionados",
+              "outcome": "Projeto aprovado pela Assembleia Legislativa e sancionado por decreto em 16/02/2023, com efeito imediato sobre a organização do Executivo estadual",
+              "period": "2023",
+              "context": "Readequação feita no início do segundo mandato para alinhar a estrutura ao plano de governo apresentado em 2022.",
+              "sources": [
+                {
+                  "id": "src-caiado-71"
+                },
+                {
+                  "id": "src-caiado-73"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-14",
+              "kind": "historico",
+              "title": "Coordenação por área do plano de governo de 2026 (saúde com Mandetta)",
+              "role": "Candidato à Presidência — escolha dos coordenadores de área e apresentação do plano",
+              "complexity": "Programa apresentado por área temática em São Paulo em 18/08/2026; área de saúde coordenada pelo ex-ministro Luiz Henrique Mandetta, responsável por detalhar propostas de fila, SUS e financiamento",
+              "outcome": "Plano de saúde apresentado publicamente com o coordenador da área; propostas incorporadas ao documento de campanha",
+              "period": "2026",
+              "context": "Estrutura de campanha organizada por eixos temáticos com coordenadores externos ao partido.",
+              "sources": [
+                {
+                  "id": "src-caiado-74"
+                },
+                {
+                  "id": "src-caiado-75"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-15",
+              "kind": "historico",
+              "title": "Delegação da articulação evangélica a um coordenador parlamentar",
+              "role": "Candidato à Presidência — delegou a interlocução com lideranças evangélicas a um deputado federal",
+              "complexity": "Rede de igrejas visitadas em abr/2026 (Conamad, Fonte da Vida, Assembleia de Deus de Madureira); articulação conduzida pelo deputado Otoni de Paula",
+              "outcome": "Agendas realizadas e apoios divulgados em abr/2026 sob responsabilidade do articulador designado",
+              "period": "2026",
+              "context": "Delegação explícita de uma frente de campanha a um interlocutor com trânsito no segmento.",
+              "sources": [
+                {
+                  "id": "src-cg-40"
+                },
+                {
+                  "id": "src-cg-41"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-caiado-16",
+              "kind": "historico",
+              "title": "Transmissão do governo de Goiás ao vice em 31/03/2026",
+              "role": "Governador de Goiás — renúncia ao cargo com transmissão ao vice Daniel Vilela",
+              "complexity": "Transição no Executivo estadual a três meses do fim do segundo mandato; estrutura de governo mantida com a mesma organização de secretarias",
+              "outcome": "Transmissão formalizada e balanço da gestão divulgado pela Agência Goiás de Notícias",
+              "period": "2026",
+              "context": "Saída antecipada para disputar a Presidência; o vice assumiu a chefia do Executivo estadual.",
+              "sources": [
+                {
+                  "id": "src-cg-01"
+                },
+                {
+                  "id": "src-cg-32"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        }
       ]
     },
     "zema": {
       "capacities": [
-        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
-        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+        {
+          "slug": "execucao",
+          "synthesis": "Reformas estruturais foram aprovadas na ALMG e sancionadas: reforma da previdência estadual (LC 156/2020, com idade mínima de 65 anos para homens e 62 para mulheres) e reforma administrativa (Lei 23.304/2019, sancionada com nove vetos parciais). Esteve à frente da assinatura do acordo judicial de reparação de Brumadinho com a Vale, em 04/02/2021, de R$ 37,68 bi, e da saída do Regime de Recuperação Fiscal para o Propag, com contrato de adesão assinado em 31/12/2025. O orçamento de 2026 foi sancionado com déficit projetado de R$ 5,2 bi — 39% abaixo do déficit de 2025.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-zema-01",
+              "kind": "historico",
+              "title": "Reforma da previdência estadual aprovada na ALMG (LC 156/2020)",
+              "role": "Governador de Minas Gerais — propositor do PLC 46/2020 e do projeto de emenda constitucional correspondente",
+              "complexity": "Regime próprio de previdência dos servidores civis do Estado; idade mínima de 65 anos (homens) e 62 (mulheres); alíquotas de desconto alteradas; votação concluída no Plenário da ALMG em 04/09/2020",
+              "outcome": "Lei Complementar 156/2020 sancionada e publicada no Diário Oficial de 23/09/2020",
+              "period": "2020",
+              "context": "Proposta original alterada pela Assembleia; a articulação do governo na Casa foi reorganizada com troca de titulares de Secretaria de Governo e Secretaria-Geral e do líder de governo.",
+              "sources": [
+                {
+                  "id": "src-zema-78"
+                },
+                {
+                  "id": "src-zema-79"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-02",
+              "kind": "historico",
+              "title": "Acordo judicial de reparação de Brumadinho com a Vale (R$ 37,68 bi)",
+              "role": "Governador de Minas Gerais — signatário pelo Estado do acordo de reparação",
+              "complexity": "Acordo assinado em 04/02/2021 por Governo de Minas, MPMG, MPF e DPMG com a Vale S.A., sob mediação do Tribunal de Justiça; R$ 37,68 bi destinados a reparação e infraestrutura na bacia do Rio Paraopeba",
+              "outcome": "Assinatura formalizada em 04/02/2021; o acordo foi criticado pelo Movimento dos Atingidos por Barragens quanto ao valor e ao desenho, conforme a fonte",
+              "period": "2021",
+              "context": "Tragédia de Brumadinho (25/01/2019) ocorreu no início do mandato; o acordo encerrou a fase de negociação sobre a reparação socioeconômica e ambiental.",
+              "sources": [
+                {
+                  "id": "src-zema-80"
+                },
+                {
+                  "id": "src-zema-81"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-03",
+              "kind": "historico",
+              "title": "Saída do Regime de Recuperação Fiscal e adesão de MG ao Propag",
+              "role": "Governador de Minas Gerais — conduziu a adesão ao Propag e a sanção da lei estadual autorizativa",
+              "complexity": "Dívida do Estado com a União na ordem de R$ 160 bi refinanciada; adesão com repasse de R$ 35,8 bi em ativos e redução de juros, conforme o contrato; Lei estadual 25.282/2025 sancionada em 05/06/2025",
+              "outcome": "Saída do RRF publicada por decreto federal em 22/12/2025 e contrato de adesão ao Propag assinado em 31/12/2025, com autorização do Ministério da Fazenda",
+              "period": "2025",
+              "context": "Trajetória que inclui homologação do plano de recuperação fiscal em jan/2025 e disputa judicial sobre contrapartidas antes da migração para o Propag.",
+              "sources": [
+                {
+                  "id": "src-zema-74"
+                },
+                {
+                  "id": "src-zema-75"
+                },
+                {
+                  "id": "src-zema-76"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-04",
+              "kind": "historico",
+              "title": "Orçamento de 2026 sancionado com déficit projetado 39% menor",
+              "role": "Governador de Minas Gerais — autor do PL 4.527/25 e responsável pela sanção com veto parcial",
+              "complexity": "Despesa fixada em R$ 146,97 bi (Lei 25.698/2026); déficit projetado de R$ 5,2 bi contra R$ 8,6 bi previstos para 2025; apreciação na ALMG com receita de R$ 127,1 bi e despesa de R$ 132,3 bi",
+              "outcome": "Projeto aprovado na ALMG em 10/12/2025 e sancionado com veto parcial em 15/01/2026",
+              "period": "2025–2026",
+              "context": "Último orçamento sancionado na gestão antes da renúncia em 22/03/2026; a sanção barrou dispositivo sobre fundo habitacional militar.",
+              "sources": [
+                {
+                  "id": "src-zema-05"
+                },
+                {
+                  "id": "src-zema-06"
+                },
+                {
+                  "id": "src-zema-07"
+                },
+                {
+                  "id": "src-zema-08"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-05",
+              "kind": "historico",
+              "title": "Reforma administrativa de 2019 — redução de secretarias e extinção de cargos comissionados",
+              "role": "Governador de Minas Gerais — autor do PL 367/2019",
+              "complexity": "Redução de 21 para 12 secretarias; extinção de 3,6 mil cargos comissionados; economia estimada em R$ 1 bilhão em quatro anos; tramitação de cerca de três meses na ALMG",
+              "outcome": "Lei 23.304/2019 sancionada em 31/05/2019 com nove dispositivos vetados; aprovada com 66 votos favoráveis e nenhum contrário na votação em plenário",
+              "period": "2019",
+              "context": "Estado abriu o mandato com crise fiscal e atraso de pagamentos a servidores, segundo o balanço da própria gestão.",
+              "sources": [
+                {
+                  "id": "src-zema-70"
+                },
+                {
+                  "id": "src-zema-71"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "A negociação de maior porte é a da dívida do Estado com a União: plano de recuperação fiscal homologado em janeiro de 2025, lei estadual de adesão ao Propag sancionada em junho, saída do RRF por decreto federal em 22/12/2025 e contrato de adesão assinado em 31/12/2025 com repasse de R$ 35,8 bi em ativos e redução de juros. Na ALMG, o orçamento de 2026 foi aprovado em 10/12/2025 e sancionado com veto parcial, e as revisões salariais dos servidores avançaram em primeiro turno em 2026. A interlocução setorial de 2026 inclui a indústria (CNI, 22/06), prefeitos na Marcha dos Prefeitos (20/05) e o agronegócio em Minas; a Associação Mineira de Municípios registrou que demandas entregues em set/2025 seguiam sem atendimento um mês depois.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-zema-06",
+              "kind": "historico",
+              "title": "Negociação da dívida com a União — do RRF ao Propag",
+              "role": "Governador de Minas Gerais — negociou com o Ministério da Fazenda e o governo federal as condições da dívida",
+              "complexity": "Dívida de aproximadamente R$ 160 bi com a União; contrapartidas do regime fiscal; repasse de R$ 35,8 bi em ativos e redução de juros no contrato de adesão; relação institucional com o governo federal ao longo de 2025",
+              "outcome": "Homologação do plano de recuperação fiscal em jan/2025, saída do RRF em 22/12/2025 e primeiro contrato de adesão ao Propag assinado em 31/12/2025",
+              "period": "2024–2025",
+              "context": "Estado estava no RRF desde 2022; a formalização dependia de aprovação na ALMG e de homologação federal.",
+              "sources": [
+                {
+                  "id": "src-zema-74"
+                },
+                {
+                  "id": "src-zema-75"
+                },
+                {
+                  "id": "src-zema-76"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-07",
+              "kind": "historico",
+              "title": "Negociação do orçamento 2026 e das revisões salariais com a ALMG",
+              "role": "Governador de Minas Gerais — autor das propostas submetidas à Assembleia Legislativa",
+              "complexity": "Projeto orçamentário com receita de R$ 127,1 bi e despesa de R$ 132,3 bi na apreciação; revisões salariais de servidores do Poder Executivo (universo citado de 673 mil entre ativos, inativos e pensionistas); 77 deputados estaduais na Casa",
+              "outcome": "Orçamento aprovado em 10/12/2025 e sancionado com veto parcial em 15/01/2026; revisões salariais aprovadas em primeiro turno no Plenário da ALMG",
+              "period": "2025–2026",
+              "context": "Tramitação em ano de sucessão estadual e de saída do governo para a campanha presidencial.",
+              "sources": [
+                {
+                  "id": "src-zema-06"
+                },
+                {
+                  "id": "src-zema-07"
+                },
+                {
+                  "id": "src-zema-34"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-zema-08",
+              "kind": "historico",
+              "title": "Apresentação da plataforma a mais de mil representantes da indústria (CNI)",
+              "role": "Pré-candidato/candidato — participou de evento setorial com apresentação de plataforma e sessão de perguntas e respostas",
+              "complexity": "Evento 'A Indústria na Agenda dos Presidenciáveis' no Centro de Convenções Ulysses Guimarães, em Brasília, em 22/06/2026, com mais de mil representantes do setor industrial",
+              "outcome": "Plataforma apresentada e questionada pelo setor no evento; agenda documentada pela própria CNI",
+              "period": "2026",
+              "context": "Série de eventos da confederação industrial com os presidenciáveis, em que cada candidato apresentou propostas e respondeu ao setor.",
+              "sources": [
+                {
+                  "id": "src-zema-54"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-09",
+              "kind": "historico",
+              "title": "Discurso na Marcha dos Prefeitos com pauta federativa",
+              "role": "Candidato — discursou no evento nacional de municípios",
+              "complexity": "Encontro nacional de prefeitos em Brasília em 20/05/2026; pauta de repasses, defesa civil e autonomia municipal",
+              "outcome": "Discurso registrado com críticas ao 'abandono federativo' e cobrança de mais recursos para municípios em desastres climáticos",
+              "period": "2026",
+              "context": "Pauta municipal ganha peso em ano eleitoral, com os prefeitos como cabos eleitorais nos municípios.",
+              "sources": [
+                {
+                  "id": "src-zema-55"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-10",
+              "kind": "historico",
+              "title": "Agenda com o agronegócio em Minas Gerais ao lado dos demais presidenciáveis",
+              "role": "Candidato — participou de eventos do setor agropecuário no estado",
+              "complexity": "Eventos em mai/2026 (Eloos Itatiaia e abertura da Megaleite 2026) em Minas Gerais, com a presença conjunta de Flávio Bolsonaro e Ronaldo Caiado",
+              "outcome": "Agenda realizada e registrada pela imprensa econômica; o setor entregou pautas aos três candidatos do campo da direita no mesmo período",
+              "period": "2026",
+              "context": "Peso do agronegócio na economia mineira e disputa simultânea pelo mesmo eleitorado entre candidatos do campo conservador.",
+              "sources": [
+                {
+                  "id": "src-zema-56"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-11",
+              "kind": "historico",
+              "title": "Conflito documentado com a Associação Mineira de Municípios",
+              "role": "Governador de Minas Gerais — destinatário formal das demandas municipais",
+              "complexity": "Demandas entregues pela Associação Mineira de Municípios em 23/09/2025; verificação feita um mês depois sobre o andamento dos pleitos",
+              "outcome": "Resultado registrado pela imprensa: nenhuma das demandas havia sido atendida ou encaminhada no prazo de um mês, segundo o relato dos prefeitos",
+              "period": "2025",
+              "context": "Registro contraposto ao diálogo institucional: a relação com os municípios foi marcada por cobrança pública dos prefeitos no mesmo período.",
+              "sources": [
+                {
+                  "id": "src-zema-58"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Formou o secretariado antes da posse (dez/2018) para operar uma estrutura reduzida de 21 para 12 secretarias, aprovada na ALMG em 2019 (Lei 23.304, com nove vetos parciais) e com extinção de 3,6 mil cargos comissionados. Em 2020 reorganizou posições de articulação no governo para viabilizar a reforma da previdência na Assembleia (LC 156/2020) e, em março de 2021, substituiu o secretário de Saúde após o caso dos 'fura-filas' na vacinação. A imprensa registra 23 mudanças no secretariado desde o início do primeiro mandato.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-zema-12",
+              "kind": "historico",
+              "title": "Desenho e implantação da estrutura de 12 secretarias (2019)",
+              "role": "Governador de Minas Gerais — definiu o desenho da administração direta e indireta e o submeteu à ALMG",
+              "complexity": "Redução de 21 para 12 secretarias; extinção de 3,6 mil cargos comissionados; tramitação de aproximadamente três meses na Assembleia; estrutura projetada para vigência durante o mandato",
+              "outcome": "Lei 23.304/2019 sancionada em 31/05/2019, com nove dispositivos vetados; votação de 66 a 0 em plenário na ALMG",
+              "period": "2019",
+              "context": "Reorganização feita nos primeiros meses de governo, com meta de economia de R$ 1 bilhão em quatro anos divulgada pelo próprio Executivo.",
+              "sources": [
+                {
+                  "id": "src-zema-70"
+                },
+                {
+                  "id": "src-zema-71"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-13",
+              "kind": "historico",
+              "title": "Formação e anúncio público do secretariado antes da posse",
+              "role": "Governador eleito — escolha e anúncio dos titulares das pastas",
+              "complexity": "Estrutura de 12 pastas em elaboração; anúncio público de secretários ao longo de dezembro de 2018, antes da posse de 01/01/2019",
+              "outcome": "Secretariado anunciado e empossado na posse; o desenho de nove pastas inicialmente projetado foi ampliado durante o anúncio, conforme registro da imprensa",
+              "period": "2018–2019",
+              "context": "Primeiro mandato de um partido sem histórico de gestão estadual, com escolha de nomes anunciada gradualmente pela imprensa.",
+              "sources": [
+                {
+                  "id": "src-zema-72"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-zema-14",
+              "kind": "historico",
+              "title": "Reorganização das posições de articulação para viabilizar a reforma da previdência",
+              "role": "Governador — trocou titulares de Secretaria de Governo e Secretaria-Geral e o líder de governo na ALMG",
+              "complexity": "Alterações em três posições-chave de articulação política (Secretaria de Governo, Secretaria-Geral e liderança de governo no Legislativo); tramitação do PLC 46/2020 e da PEC da previdência na Assembleia",
+              "outcome": "Reforma aprovada em Plenário em 04/09/2020 e sancionada como Lei Complementar 156/2020",
+              "period": "2020",
+              "context": "Mudança de equipe política no meio da tramitação, com o governo buscando sustentação para uma pauta de alto custo político.",
+              "sources": [
+                {
+                  "id": "src-zema-01"
+                },
+                {
+                  "id": "src-zema-78"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-zema-15",
+              "kind": "historico",
+              "title": "Substituição do secretário de Saúde após o caso dos 'fura-filas' na vacinação",
+              "role": "Governador de Minas Gerais — decidiu e oficializou a troca no comando da Secretaria de Estado de Saúde",
+              "complexity": "Secretaria de Estado de Saúde durante a campanha de vacinação contra a covid-19; substituição de titular por ato publicado no Diário do Executivo",
+              "outcome": "Troca oficializada em 13/03/2021, com novo secretário empossado; o episódio envolveu a vacinação irregular de servidores estaduais",
+              "period": "2021",
+              "context": "Crise na gestão da saúde em ano de pandemia; a resposta incluiu a substituição do comando da pasta.",
+              "sources": [
+                {
+                  "id": "src-zema-77"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        }
       ]
     }
   },
-  "dataGaps": ["esqueleto inicial — em consolidação"]
+  "dataGaps": [
+    "Lula: não foram localizadas, nesta rodada, fontes primárias com a composição nominal completa do Comitê Gestor do Novo PAC nem atas de suas reuniões; a evidência se apoia no decreto de criação e no painel de execução.",
+    "Lula: a unificação dos programas de transferência de renda em 2003–2004 está sustentada em estudo do Ipea (2013) e na Lei 14.601/2023, sem ato normativo de 2003–2004 consultado diretamente nesta rodada (evidenceStatus parcial).",
+    "Flávio Bolsonaro: a Lei estadual 7.809/2017 consta apenas de fonte da campanha; a ficha da norma não foi localizada na base de legislação da ALERJ nesta rodada.",
+    "Flávio Bolsonaro: data exata do ato de renúncia à Terceira-Secretaria da Mesa do Senado (2021) não capturada nas fontes consultadas.",
+    "Flávio Bolsonaro: sem experiência em cargo executivo, não há evidência de gestão de secretariado ou de orçamento; as evidências de liderança são de comissões, Mesa do Senado e campanha.",
+    "Caiado: o número de cargos comissionados extintos na segunda etapa da reforma (4.406) foi apurado apenas em resumo de imprensa, sem consulta ao texto integral do projeto na Alego.",
+    "Zema: a contagem de '23 mudanças no secretariado' é levantamento de um único veículo e inclui o período posterior à renúncia; não foi usada como evidência isolada.",
+    "Zema: atas ou documentos de reunião das negociações entre o Estado e o Ministério da Fazenda sobre o Propag não foram consultados nesta rodada (fontes de imprensa)."
+  ]
 }
