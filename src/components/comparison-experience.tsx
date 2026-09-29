@@ -3,16 +3,25 @@
 // Orquestrador da comparação: estado de seleção vive na URL (?c=slug,slug[,slug])
 // — deep-linkável. Sticky header colapsa ao rolar. Dois modos de diferença:
 // "destacar" (diminui iguais) e "somente" (oculta linhas equivalentes).
+//
+// V3 — a ordem da tela segue a mudança conceitual: capacidades demonstradas
+// primeiro, currículo e opinião depois, como áreas separadas.
 
 import { useEffect, useMemo, useState } from "react";
-import type { Candidate } from "@/types";
-import { buildRows, keyDifferences } from "@/lib/data";
+import type { Candidate, SectionSlug } from "@/types";
+import { SECTIONS } from "@/types";
+import { buildRows, keyDifferences, type MetricRow } from "@/lib/data";
 import { ComparisonHeader } from "@/components/comparison-header";
-import { ComparisonSection } from "@/components/comparison-section";
+import { ComparisonRow } from "@/components/comparison-row";
 import { ComparisonSummary } from "@/components/comparison-summary";
-import { Accordion } from "@/components/ui/accordion";
 import { Switch } from "@/components/ui/switch";
-import { DIMENSIONS, type DimensionSlug } from "@/types";
+import { SectionShell } from "@/components/section-shell";
+import { CountryProjectSection } from "@/components/country-project-section";
+import { CapacitiesSection } from "@/components/capacities-section";
+import { ForeignPolicySection } from "@/components/foreign-policy-section";
+import { CoherenceSection } from "@/components/coherence-section";
+import { IntegritySection } from "@/components/integrity-section";
+import { MetricsBlock } from "@/components/metrics-block";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
@@ -41,16 +50,121 @@ export function ComparisonExperience({
     [rows, candidates],
   );
 
-  const byDim = useMemo(() => {
-    const map = new Map<DimensionSlug, typeof rows>();
-    for (const slug of DIMENSIONS.map((d) => d.slug)) {
-      const rs = rows.filter((r) => r.category === slug);
-      if (rs.length > 0) map.set(slug, rs);
+  /** Linhas de dados agrupadas pela seção V3 a que pertencem. */
+  const rowsBySection = useMemo(() => {
+    const map = new Map<SectionSlug, MetricRow[]>();
+    for (const r of rows) {
+      const arr = map.get(r.section);
+      if (arr) arr.push(r);
+      else map.set(r.section, [r]);
     }
     return map;
   }, [rows]);
 
   const candLite = candidates.map((c) => ({ name: c.name, slug: c.slug }));
+
+  // Numeração: só as seções principais recebem "Seção N"; currículo, opinião e
+  // integridade aparecem como áreas separadas.
+  let mainCount = 0;
+  const sectionLabels = SECTIONS.map((s) => {
+    if (!s.secondary) mainCount += 1;
+    return s.secondary ? "Área separada" : `Seção ${mainCount}`;
+  });
+
+  function sectionBody(slug: SectionSlug, secRows: MetricRow[]) {
+    switch (slug) {
+      case "pais":
+        return <CountryProjectSection candidates={candidates} />;
+      case "caminho":
+        return (
+          <MetricsBlock
+            id="s-caminho-plano"
+            index=""
+            title="Estrutura das propostas"
+            question=""
+            rows={secRows}
+            candidates={candLite}
+            highlightDifferences={highlight}
+            onlyDifferences={only}
+            bare
+            subtitle="O que o plano informa por proposta"
+          />
+        );
+      case "capacidades":
+        return (
+          <div className="flex flex-col gap-8">
+            <CapacitiesSection candidates={candidates} />
+            {secRows.length > 0 ? (
+              <div className="flex flex-col gap-3 border-t border-border pt-6">
+                <div className="flex flex-col gap-0.5">
+                  <h3 className="text-base font-semibold leading-snug">
+                    Indicadores objetivos
+                  </h3>
+                  <p className="max-w-2xl text-xs leading-relaxed text-muted-foreground">
+                    Dados verificáveis que sustentam as capacidades acima —
+                    coligação registrada, produção legislativa e base no
+                    Legislativo. São contexto comparável, não nota de capacidade.
+                  </p>
+                </div>
+                <div className="flex flex-col divide-y divide-border/70 border-t border-border">
+                  {secRows.map((r) => (
+                    <ComparisonRow
+                      key={r.metricId}
+                      label={r.name}
+                      methodology={r.methodology}
+                      values={r.values}
+                      candidates={candLite}
+                      deltaDisplay={r.delta?.display}
+                      equal={r.equal}
+                      highlightDifferences={highlight}
+                      onlyDifferences={only}
+                    />
+                  ))}
+                </div>
+              </div>
+            ) : null}
+          </div>
+        );
+      case "mundo":
+        return <ForeignPolicySection candidates={candidates} />;
+      case "coerencia":
+        return <CoherenceSection candidates={candidates} />;
+      case "opiniao":
+        return (
+          <MetricsBlock
+            id="s-opiniao-rows"
+            index=""
+            title="Pesquisas registradas"
+            question=""
+            rows={secRows}
+            candidates={candLite}
+            highlightDifferences={highlight}
+            onlyDifferences={only}
+            bare
+            subtitle="Instituto e data em cada linha — pesquisa de opinião não mede competência"
+          />
+        );
+      case "historico":
+        return (
+          <MetricsBlock
+            id="s-historico-rows"
+            index=""
+            title="Currículo e percurso"
+            question=""
+            rows={secRows}
+            candidates={candLite}
+            highlightDifferences={highlight}
+            onlyDifferences={only}
+            bare
+            subtitle="Cargos, tempo, orçamento, equipe e patrimônio — percurso, não capacidade"
+          />
+        );
+      case "integridade":
+        return <IntegritySection candidates={candidates} />;
+      default:
+        return null;
+    }
+  }
 
   return (
     <div className="flex flex-col gap-8">
@@ -87,7 +201,7 @@ export function ComparisonExperience({
         />
       </section>
 
-      {/* §9 — Resumo principal: 5 blocos + diferenças + Ver detalhes */}
+      {/* Resumo curto: o que salta aos olhos, em linhas */}
       <ComparisonSummary
         candidates={candidates}
         rows={rows}
@@ -120,33 +234,25 @@ export function ComparisonExperience({
         </div>
       </section>
 
-      {/* Comparação completa por dimensão */}
-      <section
-        aria-labelledby="h-complete"
-        className="flex flex-col gap-4"
-      >
-        <div className="flex flex-col gap-1">
-          <h2 id="h-complete" className="display-2">
-            Comparação completa
-          </h2>
-          <p className="max-w-xl text-sm leading-relaxed text-muted-foreground">
-            Cinco dimensões, mesmos critérios para todos, com metodologia e
-            fonte em cada número.
-          </p>
-        </div>
-        <Accordion type="multiple" defaultValue={["capacidade-execucao"]}>
-          {[...byDim.entries()].map(([slug, rs]) => (
-            <ComparisonSection
-              key={slug}
-              slug={slug}
-              rows={rs}
-              candidates={candLite}
-              highlightDifferences={highlight}
-              onlyDifferences={only}
-            />
-          ))}
-        </Accordion>
-      </section>
+      {/* Seções da V3, na ordem conceitual */}
+      <div className="flex flex-col gap-12">
+        {SECTIONS.map((s, i) => {
+          const secRows = rowsBySection.get(s.slug) ?? [];
+          if (s.kind === "metrics" && secRows.length === 0) return null;
+          return (
+            <SectionShell
+              key={s.slug}
+              id={`s-${s.slug}`}
+              index={sectionLabels[i]}
+              title={s.name}
+              question={s.question}
+              secondary={s.secondary}
+            >
+              {sectionBody(s.slug, secRows)}
+            </SectionShell>
+          );
+        })}
+      </div>
     </div>
   );
 

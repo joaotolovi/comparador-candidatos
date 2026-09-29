@@ -1,0 +1,247 @@
+{
+  "grupo": "g1",
+  "escopo": "pais",
+  "sources": [
+    {
+      "id": "src-lula-80",
+      "title": "Programa de Governo — Diretrizes para o Programa de Transformação do Brasil: um país soberano, democrático, desenvolvido, sustentável e criativo (versão publicada pelo PT)",
+      "publisher": "Partido dos Trabalhadores (PT) — versão do programa registrado no TSE",
+      "url": "https://pt.org.br/wp-content/uploads/2026/08/08_06_JOB838_PT_livroplanodegoverno_260616_BOOK%20210x297mm_pg_solta_web.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "PDF de 84 páginas com camada de texto, lido diretamente (índice com 13 eixos e seção 'Compromisso com o projeto de nação'). Mesmo título do documento protocolado no TSE em 08/08/2026 (documento 280017016005)."
+    },
+    {
+      "id": "src-lula-81",
+      "title": "Programa Lula-Alckmin: transformação e compromisso com o povo que sonha e quer um futuro melhor",
+      "publisher": "PT — site oficial",
+      "url": "https://pt.org.br/programa-lula-alckmin-transformacao-e-compromisso-com-o-povo-que-sonha-e-quer-um-futuro-melhor/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Texto partidário de apresentação do programa protocolado pela coligação; a data exata de publicação não está legível na página (nota da coleta); usado para a descrição da soberania como 'princípio inegociável'."
+    },
+    {
+      "id": "src-lula-82",
+      "title": "Conselhão apresenta 'Pilares de um projeto de nação', um roteiro estratégico para o Brasil até 2035",
+      "publisher": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2025/12/04/conselhao-apresenta-pilares-de-um-projeto-de-nacao-um-roteiro-estrategico-para-o-brasil-ate-2035/",
+      "publishedAt": "2025-12-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Documento do CDESS (Conselho de Desenvolvimento Econômico Social Sustentável), órgão vinculado à Presidência da República; usado apenas para indicar que existe documento de governo com horizonte até 2035, atribuído ao órgão e não ao plano de campanha."
+    },
+    {
+      "id": "src-caiado-80",
+      "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho do PDF publicado pela campanha)",
+      "publisher": "Poder360",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "PDF de 102 páginas com texto lido diretamente: carta de compromisso, 26 temas, 10 itens de método de governo, 10 'Compromissos nacionais para 2030' e seção de implementação/monitoramento."
+    },
+    {
+      "id": "src-caiado-81",
+      "title": "Caiado aposta em segurança, ajuste fiscal e crescimento para construir plano de governo",
+      "publisher": "R7 / Notícias R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/caiado-aposta-em-seguranca-ajuste-fiscal-e-crescimento-para-construir-plano-de-governo-14082026",
+      "publishedAt": "2026-08-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-caiado-82",
+      "title": "O que Caiado prevê para a segurança pública",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/de-terrorismo-domestico-a-policia-sul-americana-veja-as-propostas-de-caiado-para-a-seguranca",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cobertura das propostas de segurança do plano registrado no TSE e do 'terrorismo doméstico' e da proposta de polícia sul-americana (SULPOL)."
+    },
+    {
+      "id": "src-caiado-83",
+      "title": "Caiado diz que convidará Lincoln Gakiya para Ministério da Segurança",
+      "publisher": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/caiado-diz-que-convidara-lincoln-gakiya-para-ministerio-da-seguranca",
+      "publishedAt": "2026-08-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Declaração de campanha sobre estrutura ministerial de segurança pública, citada por Metrópoles; evidência de prioridade declarada, não de ato praticado."
+    },
+    {
+      "id": "src-zema-80",
+      "title": "Romeu Zema (Novo), candidato à Presidência, concede entrevista à Globo",
+      "publisher": "g1 (Globo) — sabatina do Jornal Nacional",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Candidato afirmou que garantirá reposição da inflação ao salário mínimo e citou ajuste fiscal para levar a Selic a 6% ao ano; não detalhou o ajuste."
+    },
+    {
+      "id": "src-zema-81",
+      "title": "Zema diz que salário mínimo terá correção pela inflação, mas não garante ganho real",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/zema-diz-que-vai-manter-correo-do-salrio-mnimo-mas-no-garante-ganho-real.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-flavio-80",
+      "title": "Plano de governo de Flávio Bolsonaro propõe tesouraço e novo teto de gastos",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/plano-de-governo-de-flavio-bolsonaro-propoe-tesouraco-e-novo-teto-de-gastos.shtml",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra que o documento prevê corte de gastos e novo teto, com mais controle sobre emendas, sem detalhar a regra fiscal."
+    },
+    {
+      "id": "src-flavio-81",
+      "title": "Flávio propõe manter programas do PT, Caixa Federal repaginada e foco em terras raras e data centers",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/flavio-propoe-manter-programas-do-pt-caixa-federal-repaginada-e-foco-em-terras-raras-e-data-centers/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Leitura do plano sobre proteção social (manutenção de programas existentes), uso da CAIXA e eixos de terras raras e data centers."
+    },
+    {
+      "id": "src-flavio-82",
+      "title": "Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030 (íntegra publicada pela campanha)",
+      "publisher": "Campanha Flávio Bolsonaro (site oficial) — leitura do plano",
+      "url": "https://www.flaviobolsonaro.com.br/plano-de-governo/leitura",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Versão publicada pela própria campanha (76 páginas, 11 capítulos), usada para conferir a estrutura de eixos do PDF espelhado pelo Poder360."
+    }
+  ],
+  "candidates": {
+    "lula": {
+      "countryProject": {
+        "vision": "O programa registrado descreve um Brasil para as próximas décadas como 'potência criativa, sustentável, democrática e soberana, com menos desigualdades', apresentando a soberania como princípio inegociável e o mandato 2027–2030 como continuidade do projeto de ampliação de direitos e reconstrução do Estado. O texto não fixa um horizonte de 10 a 20 anos: o compromisso é com a 'transformação estrutural do país' e com o fortalecimento do planejamento estatal. Um documento do CDESS (Conselhão), órgão vinculado à Presidência, propõe um roteiro estratégico até 2035, citado aqui como material de governo e não como proposta de campanha.",
+        "nationalPriorities": [
+          "Fortalecer a democracia, a participação social e modernizar o Estado",
+          "Combater as desigualdades (transferência de renda, valorização do salário mínimo e saída do Mapa da Fome)",
+          "Proteger a vida com uma segurança pública mais eficiente e integrada",
+          "Garantir o direito à educação (alfabetização na idade adequada, tempo integral, institutos federais e universidades)",
+          "Fortalecer a saúde com equidade, inovação e soberania (atenção primária, prontuário único, produção nacional de medicamentos e vacinas)",
+          "Promover uma economia sustentável, produtiva e digital (arcabouço fiscal, aprofundamento da reforma tributária e Novo PAC)",
+          "Defender a soberania nacional e o protagonismo internacional do Brasil"
+        ],
+        "developmentModel": "O programa atribui ao Estado papel de planejador e indutor: 'não há desenvolvimento sem soberania em áreas estratégicas, capacidade industrial, domínio tecnológico e projeto nacional', com ênfase em ampliar a capacidade de planejamento, fortalecer a base produtiva e tecnológica e democratizar o orçamento público. O crescimento é associado à manutenção do arcabouço fiscal, ao investimento público (Novo PAC, leilões de rodovias e ferrovias, Petrobras e Minha Casa Minha Vida) e a uma política de transição energética e climática (matriz limpa, meta de desmatamento líquido zero até 2030 e trajetória de redução de emissões de 59%–67%). Trabalho aparece como eixo próprio (fim da escala 6x1, jornada de 40 horas sem redução salarial, regras para trabalho por aplicativos), e a redução de desigualdades é objetivo declarado, combinada com a continuidade de transferências de renda e políticas de educação e saúde. O setor privado é tratado como parceiro de investimento em infraestrutura e inovação, subordinado, no texto, às prioridades de soberania tecnológica e industrial.",
+        "sources": [
+          { "id": "src-lula-06" },
+          { "id": "src-lula-07" },
+          { "id": "src-lula-80" },
+          { "id": "src-lula-05" },
+          { "id": "src-lula-81" },
+          { "id": "src-lula-82" }
+        ],
+        "coverage": "documentada",
+        "coverageNote": "Plano registrado no TSE lido na íntegra (versão com camada de texto). O horizonte de 10–20 anos aparece de forma indireta: o programa fala em transformação estrutural sem data-limite, e o roteiro até 2035 localizado é documento do CDESS, órgão de governo.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "methodology": "Extraído do texto integral do programa registrado no TSE em 08/08/2026 (versão publicada pelo PT, 84 páginas, com índice de 13 eixos e a seção 'Compromisso com o projeto de nação'). O espelho do Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR. As 7 prioridades listadas são os eixos declarados pelo próprio programa, sem prioridades inferidas; os compromissos de campanha de 2026 (fim da escala 6x1, reforma tributária, soberania) aparecem em cobertura de imprensa e em material partidário citados nas fontes."
+      }
+    },
+    "caiado": {
+      "countryProject": {
+        "vision": "O plano descreve o Brasil como nação continental com 'território produtivo, água, alimentos, energia limpa, biodiversidade, minerais estratégicos, ciência e capacidade empresarial' e afirma que 'o Brasil tem recursos. Precisa voltar a ter direção', negando que o país esteja condenado à estagnação, à violência ou à desigualdade. A carta de compromisso combina os quatro anos de mandato com 'uma visão de longo prazo', que seria traduzida em projetos de lei, atos administrativos, pactos federativos, metas do Plano Plurianual e compromissos anuais de execução, com dez 'Compromissos nacionais para 2030'. O documento não define metas quantificadas para horizonte de 10 a 20 anos.",
+        "nationalPriorities": [
+          "Segurança pública: reduzir a violência letal, o domínio territorial e o poder financeiro das facções (prioridade atribuída diretamente à Presidência)",
+          "Estabilização fiscal: restabelecer trajetória sustentável da dívida e recuperar a capacidade de investimento público",
+          "Educação: alfabetização na idade certa e recomposição das aprendizagens na educação básica",
+          "Saúde: reorganizar o SUS com fila por critério clínico, prontuário eletrônico nacional e cuidado regionalizado",
+          "Crescimento com produtividade, investimento e emprego formal (ambiente de negócios, inovação e infraestrutura)",
+          "Transformar agro, minerais, energia e biodiversidade em cadeias de maior valor agregado no Brasil",
+          "Governabilidade e reforma do sistema político (Pacto Nacional de Governabilidade e Resultados e proposta de fim da reeleição no Executivo)"
+        ],
+        "developmentModel": "A carta de compromisso declara que 'a iniciativa privada será o principal motor da economia' e reserva ao Estado garantir estabilidade, concorrência, infraestrutura, capital humano, regulação de qualidade e instrumentos para investimento de longo prazo. O crescimento é vinculado a produtividade, ambiente de negócios, conectividade, saneamento, mobilidade e segurança hídrica, com reorganização do gasto, avaliação de programas, revisão de subsídios e regras de transição. A proteção social é descrita como combinação de 'acolhimento e emancipação', conectando benefícios a qualificação, cuidado infantil, inclusão produtiva, habitação, saúde e educação, com prioridade declarada à infância e políticas para mulheres, população negra, idosos, pessoas com deficiência, indígenas e quilombolas. Meio ambiente e desenvolvimento aparecem como aliados: combate a desmatamento, grilagem e mineração ilegal, com bioeconomia, pagamento por serviços ambientais, mercado de carbono e agricultura de baixo carbono. Em política externa, o plano propõe agendas sem 'alinhamentos automáticos', voltada a abrir mercados, atrair investimento produtivo, proteger brasileiros no exterior, fortalecer a integração regional e defender regras multilaterais, e trata minerais estratégicos, energia limpa e biodiversidade como instrumentos de desenvolvimento.",
+        "sources": [
+          { "id": "src-cg-20" },
+          { "id": "src-caiado-80" },
+          { "id": "src-caiado-81" },
+          { "id": "src-caiado-82" },
+          { "id": "src-caiado-83" },
+          { "id": "src-cg-21" }
+        ],
+        "coverage": "documentada",
+        "coverageNote": "Plano da campanha (102 páginas) e espelho do mesmo PDF no Poder360 lidos na íntegra. A URL do arquivo no DivulgaCandContas não foi localizada nesta coleta; a base é o documento publicado pela campanha e a cobertura do registro em 14/08/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "methodology": "Lido diretamente da carta de compromisso, do sumário de 26 temas, do bloco de método de governo e da lista de 'Compromissos nacionais para 2030' (p. 7-8) do plano registrado. As 7 prioridades correspondem a itens declarados nesses blocos e a títulos de temas do próprio índice; o plano não apresenta, na maior parte dos itens, custo ou prazo por proposta, e não traz metas quantificadas para horizonte de 10 a 20 anos."
+      }
+    },
+    "zema": {
+      "countryProject": {
+        "vision": "A carta de abertura compara o Brasil de hoje a Minas Gerais em 2018 e afirma: 'Não somos um país fracassado. Somos um país roubado', propondo cortar privilégios, 'respeitar o dinheiro de quem trabalha' e restabelecer o cumprimento das leis. O Plano Implacável organiza 20 áreas e se apresenta como 'propostas concretas para os maiores problemas do país', com foco declarado em segurança, finanças públicas, desenvolvimento econômico, reforma do Judiciário e reforma institucional. O documento não apresenta capítulo com horizonte explícito de 10 a 20 anos nem metas quantificadas de longo prazo.",
+        "nationalPriorities": [
+          "Segurança pública: recuperar territórios dominados, classificar facções como organizações terroristas e endurecer penas",
+          "Finanças públicas: 'choque fiscal' para estabilizar a dívida e derrubar a taxa de juros",
+          "Desenvolvimento econômico: reduzir o 'Custo Brasil', simplificar impostos e abrir o país ao mundo",
+          "Combate à corrupção e aos privilégios",
+          "Reforma do Judiciário e dos órgãos de controle (corregedoria independente, mudanças de foro e critérios para tribunais superiores)",
+          "Infraestrutura e saneamento",
+          "Educação básica e educação superior, ciência e tecnologia"
+        ],
+        "developmentModel": "O plano atribui ao Estado o papel de regulação e fiscalização e propõe que ele deixe de participar diretamente de atividades produtivas e comerciais, com privatização de todas as empresas estatais, uso de PPPs e concessões e criação de alternativa ao Fundo Eleitoral e ao Fundo Partidário. O crescimento é associado à queda dos juros via choque fiscal, à simplificação de impostos, à segurança jurídica e à infraestrutura, com atração de investimento em data centers, inteligência artificial, energia limpa e minerais críticos (terras raras, nióbio e lítio), aproveitando a matriz elétrica com 88% de fontes renováveis e a posição declarada de neutralidade na disputa entre Estados Unidos e China. No mercado de trabalho, propõe regime de contratação alternativo à CLT, com 'prevalência do negociado sobre o legislado', buscando um sistema que 'combine liberdade econômica, proteção social e mais oportunidades'. O desenvolvimento social inclui o depósito de R$ 1.000 ao nascer ('Sócios do Brasil'), condicionamento do Bolsa Família à aceitação de ofertas formais para adultos aptos ao trabalho e uma nova reforma da Previdência com gatilho automático de idade mínima e desvinculação do salário mínimo. Meio ambiente aparece como área própria (agronegócio e meio ambiente em capítulos separados) e a política externa inclui saída do BRICS, ingresso na OCDE e Mercosul como zona de livre comércio.",
+        "sources": [
+          { "id": "src-zema-12" },
+          { "id": "src-zema-09" },
+          { "id": "src-zema-11" },
+          { "id": "src-zema-14" },
+          { "id": "src-zema-15" },
+          { "id": "src-zema-80" },
+          { "id": "src-zema-81" }
+        ],
+        "coverage": "documentada",
+        "coverageNote": "Plano registrado no TSE (81 páginas) lido na íntegra pelo PDF espelhado pelo Poder360; a URL oficial no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "methodology": "Lido do PDF do Plano Implacável (carta de abertura e sumário de 20 áreas). As 7 prioridades correspondem a títulos de capítulos do próprio plano, sem prioridades inferidas. Para posições atuais de campanha foram usadas as sabatinas do Jornal Nacional e a cobertura de imprensa de agosto de 2026 (reposição da inflação no salário mínimo; ajuste fiscal com meta citada de Selic a 6% ao ano, sem detalhamento do ajuste). O documento não traz custo nem prazo para a maior parte das propostas nem horizonte explícito de 10 a 20 anos."
+      }
+    },
+    "flavio-bolsonaro": {
+      "countryProject": {
+        "vision": "O plano parte da crítica de que 'o Estado brasileiro possui o vício de enxergar a realidade em pedaços' e propõe resposta integrada: 'governar é olhar para a vida das pessoas como ela realmente é'. A alternativa proposta é descrita como 'liberal, conservadora, reformista e corajosa', com 'um Estado eficiente, que cumpra bem o que é seu dever, pare de atrapalhar quem trabalha e volte a servir o cidadão'. A segurança pública é apresentada como condição para os demais temas ('a soberania começa na porta da sua casa'), e o eixo 'Brasil que cumpre a Constituição' reúne reforma do Judiciário, reforma política e limites a decisões monocráticas do STF. O horizonte é o mandato 2027–2030, sem metas quantificadas de 10 a 20 anos.",
+        "nationalPriorities": [
+          "Segurança pública ('Brasil sem medo'): facções declaradas organizações narcoterroristas, redução da maioridade penal para 16 anos e ampliação do sistema prisional",
+          "Corte de gastos e responsabilidade fiscal ('Tesouraço'), com novo teto de gastos e mais controle sobre emendas",
+          "Redução de impostos e do custo de vida ('Brasil mais barato'): menos imposto sobre consumo, conta de luz e crédito",
+          "Desburocratização e Estado digital ('Brasil sem fila'), com serviços unificados e inteligência artificial no atendimento ao cidadão",
+          "Educação e preparação para o trabalho ('Brasil que prepara'), com saúde preventiva e apoio no cuidado de crianças e idosos",
+          "Infraestrutura, energia, agronegócio, minerais críticos e tecnologia ('Brasil que cresce'), com R$ 900 bilhões em quatro anos em logística",
+          "Reforma do Judiciário, reforma política e limites a decisões monocráticas do STF ('Brasil que cumpre a Constituição')"
+        ],
+        "developmentModel": "O papel atribuído ao Estado é criar condições para que as famílias 'conquistem autonomia, prosperidade e liberdade'; a proteção social é mantida e aperfeiçoada, descrita como 'o começo de uma trilha que leva à qualificação, ao trabalho, ao crédito e ao patrimônio', e a imprensa registra a manutenção dos programas sociais existentes. O crescimento é associado a segurança jurídica ('a regra do início é a regra do fim'), marcos regulatórios estáveis, PPPs e concessões para infraestrutura, com investimento declarado de R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias, fundo lastreado na securitização de ativos e imóveis da União e BNDES voltado a obras em território brasileiro. Os eixos setoriais incluem energia, agronegócio, minerais críticos, meio ambiente tratado como 'ativo verde', turismo, desenvolvimento regional e tecnologia e inovação, com inteligência artificial 'a serviço do cidadão'. A redução de impostos sobre o consumo, o crédito via CAIXA para empreendedores e o corte de gastos federais aparecem como instrumentos para reduzir o custo de vida e a dívida pública. Há eixo específico para mulheres ('Brasil por elas') e a reforma institucional é apresentada em capítulo próprio ('Brasil que não volta atrás'), com enxugamento da máquina e profissionalização da gestão pública.",
+        "sources": [
+          { "id": "src-plano-pdf" },
+          { "id": "src-flavio-82" },
+          { "id": "src-g1-plano" },
+          { "id": "src-estadao-plano" },
+          { "id": "src-flavio-80" },
+          { "id": "src-flavio-81" },
+          { "id": "src-site-oficial" }
+        ],
+        "coverage": "documentada",
+        "coverageNote": "Plano registrado no TSE (76 páginas, 11 capítulos) lido na íntegra no PDF espelhado pelo Poder360 e conferido na versão publicada pela campanha; a lei orçamentária e o detalhamento fiscal do 'tesouraço' não constam do documento.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "methodology": "Lido do texto integral do plano 'Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030' (apresentação, valores, 'jornada do cidadão' e eixos temáticos) e conferido com a cobertura de imprensa de 13/08/2026. As 7 prioridades correspondem a eixos e capítulos declarados pelo próprio plano, na sua ordem de apresentação; eixos como 'Brasil por elas' e proteção social estão descritos no modelo de desenvolvimento em vez de contados como prioridade separada. A Folha registra que o documento prevê corte de gastos e novo teto sem detalhar a regra fiscal."
+      }
+    }
+  },
+  "dataGaps": [
+    "Nenhum dos quatro planos registrados explicita metas quantificadas nem cronograma para um horizonte de 10 a 20 anos; o campo vision combina o projeto declarado no plano com o material de campanha de 2026 e, no caso de Lula, com documento do CDESS (governo) que propõe roteiro até 2035.",
+    "Lula: o espelho do programa no Poder360 (42 páginas) está em formato de imagem, sem camada de texto, e não foi submetido a OCR; a leitura foi feita pela versão publicada pelo PT com o mesmo título e índice de 13 eixos.",
+    "Caiado: a URL do arquivo do plano no DivulgaCandContas não foi localizada nesta coleta; a base é o PDF publicado pela campanha e o espelho do Poder360.",
+    "Zema: a URL do arquivo do plano no DivulgaCandContas não foi localizada (registeredUrl nulo no arquivo principal); o plano não apresenta custo nem prazo para a maior parte das propostas.",
+    "Flávio Bolsonaro: o plano não detalha a regra fiscal do corte de gastos nem a fonte de financiamento do pacote de infraestrutura de R$ 900 bilhões em quatro anos; o fundo 'SOS Brasil' anunciado em live de setembro de 2026 não foi incluído porque as fontes localizadas divergem sobre o valor e a URL do veículo retornou erro na verificação direta."
+  ]
+}

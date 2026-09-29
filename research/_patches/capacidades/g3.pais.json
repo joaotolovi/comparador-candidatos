@@ -1,0 +1,229 @@
+{
+  "grupo": "g3",
+  "escopo": "capacidade:pais",
+  "sources": [
+    {
+      "id": "src-ec-70",
+      "title": "Programa Político do PCB para as Eleições Presidenciais de 2026 — 'Construir o Poder Popular, rumo ao Socialismo' (16 páginas, aprovado na Convenção Nacional de 01/08/2026)",
+      "publisher": "Partido Comunista Brasileiro (PCB) / Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento registrado no TSE. Acesso por linha de comando bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf), idêntico ao publicado pelo partido em 15/08/2026. Estrutura: introdução, cinco 'grandes transformações estruturais' e 21 pontos da Plataforma Anticapitalista e Anti-imperialista."
+    },
+    {
+      "id": "src-ec-71",
+      "title": "Programa Anticapitalista e Anti-imperialista para o Brasil — Programa Político do PCB para as Eleições Presidenciais de 2026 (registrado no TSE)",
+      "publisher": "Partido Comunista Brasileiro (PCB)",
+      "url": "https://pcb.org.br/portal2/34147",
+      "publishedAt": "2026-08-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Versão do mesmo programa publicada no site do partido, usada para conferir o texto obtido do PDF registrado no TSE."
+    },
+    {
+      "id": "src-ec-72",
+      "title": "Conversa com Edmilson Costa, candidato à presidência pelo PCB",
+      "publisher": "O Poder Popular",
+      "url": "https://opoderpopular.com.br/conversa-com-edmilson-costa-candidato-a-presidencia-pelo-pcb/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista em que o candidato resume as cinco grandes transformações, a constituinte com metade dos constituintes eleitos por movimentos populares, a extinção do Senado, a estatização do ensino privado e a solidariedade a Cuba, Palestina, Venezuela e Irã."
+    },
+    {
+      "id": "src-hd-70",
+      "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista' (33 páginas)",
+      "publisher": "Partido Socialista dos Trabalhadores Unificado (PSTU) / Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento registrado no TSE pela chapa Hertz Dias / Vanessa Portugal. Acesso direto bloqueado pelo WAF do TSE (HTTP 403); texto obtido do snapshot do Wayback Machine de 28/09/2026 (web.archive.org/web/20260928000956/https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf). O texto afirma: 'O programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice'."
+    },
+    {
+      "id": "src-hd-71",
+      "title": "PEB nas urnas 2026: Hertz Dias (PSTU)",
+      "publisher": "Observatório de Política Externa Brasileira (OPEB)",
+      "url": "https://opeb.org/2026/09/27/peb-nas-urnas-2026-hertz-dias-pstu/",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Análise do plano registrado, com foco em economia política internacional: expropriação e reestatização de mineração, energia, petróleo, siderurgia, celulose e agronegócio; Petrobras 100% estatal sob controle dos trabalhadores."
+    },
+    {
+      "id": "src-hd-72",
+      "title": "Hertz Dias - Propostas de Governo (índice oficial das propostas por categoria)",
+      "publisher": "Tribunal Superior Eleitoral (TSE)",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Índice de propostas da candidatura, organizado pelo TSE em 8 categorias fixas e iguais para todas as candidaturas (Economia, Trabalho e Responsabilidade Fiscal; Saúde Pública e Assistência; Segurança Pública e Justiça; Educação, Ciência e Meio Ambiente; Política Externa e Inserção Global; Direitos Humanos, Equidade e Inclusão Social; Questão Agrária, Propriedade e Direito à Cidade; Governança, Transparência e Reformas de Estado), com remissão a páginas do plano registrado."
+    },
+    {
+      "id": "src-rp-70",
+      "title": "Programa do PCO - Eleições 2026: 'Por salário, trabalho e terra / Revolução, governo operário e comunismo' (7 páginas, 15 pontos centrais)",
+      "publisher": "Partido da Causa Operária (PCO) / Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento registrado no TSE, datado de 'São Paulo, agosto de 2026'. Declara que 'o PCO não participa das eleições para fazer promessas' e que as eleições são 'uma tribuna (e apenas mais uma) de propaganda'. Poder360 (23/08/2026) registra ser o plano mais curto da disputa, com 7 páginas e 15 pontos centrais."
+    },
+    {
+      "id": "src-rp-71",
+      "title": "Planos de candidatos à Presidência têm de 7 a 200 páginas",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+      "publishedAt": "2026-08-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento de extensão e estrutura dos planos registrados; descreve o programa do PCO como o mais enxuto (7 páginas, título 'Por salário, trabalho e terra/Revolução, governo operário e comunismo', 15 pontos centrais) e lista pontos como salário mínimo vital de R$ 7.500 com reajuste automático a cada 3% de custo de vida, jornada de 35 horas, dissolução da Polícia Militar, direito ao armamento e autodefesa para trabalhadores do campo e comunidades indígenas e cancelamento de concessões de grandes meios de comunicação. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
+    },
+    {
+      "id": "src-rp-72",
+      "title": "Rui Costa Pimenta - Propostas de Governo (índice oficial das propostas por categoria)",
+      "publisher": "Tribunal Superior Eleitoral (TSE)",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Índice oficial com remissão às páginas 2 a 7 do PDF de 7 páginas registrado no TSE; as remissões conferem com o texto do próprio PDF."
+    },
+    {
+      "id": "src-wg-70",
+      "title": "'Brasil em Primeiro Lugar' — Plano de Governo 2027–2030, Partido Democrata (58 páginas, 14 eixos)",
+      "publisher": "Partido Democrata / Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento registrado no TSE pela chapa Wilson Grassi / Suêd Haidar. Estrutura: carta ao eleitor assinada pelos dois, diagnóstico das 'cinco travas', 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência. Registra que o texto não traz valores orçamentários medida a medida e que cada eixo informa instrumento, forma de medição e prazo. Cópia idêntica disponível em static.poder360.com.br/uploads/2026/08/Plano_gov_Wilson_Grassi_2026.pdf (2 MB), usada para conferência."
+    },
+    {
+      "id": "src-wg-71",
+      "title": "Wilson Grassi defende imposto único e mais rigor contra facções",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/wilson-grassi-defende-imposto-unico-e-mais-rigor-contra-faccoes",
+      "publishedAt": "2026-09-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Confirma 58 páginas e 14 eixos, o Imposto Único Federal sobre movimentações bancárias em substituição a nove tributos federais, isenção do IRPF até cinco salários mínimos (R$ 8.105), extinção da contribuição previdenciária patronal, plebiscito sobre modelo penitenciário, Saúde Única, fila nacional pública de cirurgias, alfabetização na idade certa, PEC da Pesquisa, Brasil nos Trilhos, rastreabilidade bovina e PEC 55/2023 (2% do PIB para defesa, 35% para modernização)."
+    },
+    {
+      "id": "src-wg-72",
+      "title": "Candidato ao Planalto quer criar 'Meu Botox, Minha Vida'",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/candidato-ao-planalto-quer-criar-meu-botox-minha-vida/",
+      "publishedAt": "2026-08-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reportagem sobre entrevista do candidato à Folha de S.Paulo (agosto de 2026) em que ele afirma que algumas propostas que pretende implementar não constam do programa de governo porque a legenda 'não deixaria' que concorresse se estivessem no documento; menciona substituição de 9 tributos federais por imposto único sobre movimentações bancárias e extinção da CLT. Página com acesso por linha de comando bloqueado (HTTP 403); conteúdo lido em resultado de busca."
+    }
+  ],
+  "candidates": {
+    "edmilson-costa": {
+      "countryProject": {
+        "vision": "O programa registrado no TSE descreve o Brasil a partir de cinco 'grandes transformações estruturais' (política; economia; área social e mundo do trabalho; serviços públicos e meio ambiente; relações internacionais) que levariam o país 'rumo ao Socialismo': Poder Popular com Conselhos Populares eleitos nos locais de trabalho, moradia e estudo, Orçamento Popular 100% deliberativo, Assembleia Constituinte de Novo Tipo convocada em dois anos, extinção do Senado e revogabilidade de mandatos; nacionalização e estatização do sistema monetário e financeiro com criação do Banco dos Trabalhadores; jornada de 30 horas semanais sem redução salarial e reforma agrária popular; saúde e educação 100% públicas. O programa afirma que 'o Brasil está maduro para o Socialismo' e rejeita 'saídas meramente reformistas', apresentando a revolução socialista como saída para os problemas da classe trabalhadora.",
+        "nationalPriorities": [
+          "Poder Popular e democracia direta (Conselhos Populares, Orçamento Popular deliberativo, Assembleia Constituinte de Novo Tipo e extinção do Senado)",
+          "Nacionalização e estatização do sistema monetário e financeiro (Banco dos Trabalhadores) e auditoria da dívida pública com suspensão de juros",
+          "Trabalho e direitos sociais: jornada de 30 horas semanais sem redução salarial, fim da escala 6x1 e salário mínimo no piso do Dieese",
+          "Saúde e educação 100% públicas e gratuitas, com estatização dos setores privados correspondentes",
+          "Segurança pública desmilitarizada e unificada, com fim da política de 'guerra às drogas'",
+          "Meio ambiente: combate ao desmatamento e ao garimpo ilegal, revisão do Código Florestal e taxação de emissões",
+          "Relações internacionais: integração regional (ALBA e Unasul) e solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental"
+        ],
+        "developmentModel": "Atribui ao Estado o comando da economia: nacionalização e estatização do sistema monetário e financeiro, Banco dos Trabalhadores para os fundos previdenciários e de seguridade, reestatização das empresas privatizadas, Petrobras 100% estatal, controle do câmbio e do comércio exterior, revogação do arcabouço fiscal, da Lei de Responsabilidade Fiscal e da autonomia do Banco Central (cuja diretoria passaria a ter representantes de centrais sindicais, do Dieese e do Cofecon), substituição da LRF por uma 'Lei de Responsabilidade Social' e BNDES como financiador. Crescimento associado a reindustrialização, investimento público e 'fronteiras tecnológicas' (CEITEC/semicondutores, monopólio estatal de terras raras e minerais críticos) e a reforma tributária progressiva com imposto sobre lucros, dividendos, grandes fortunas, transações financeiras e heranças. O setor privado é objeto de estatização nos setores considerados estratégicos (saúde, ensino, comunicações, saneamento, energia e indústria bélica) e o agronegócio é expropriado pela reforma agrária popular. Desigualdade tratada por cotas (54% para a população negra e 70% a 80% para egressos de escola pública), recuperação do salário mínimo até o piso do Dieese em quatro anos, ampliação da licença-maternidade e paternidade para um ano e legalização do aborto. Meio ambiente descrito como 'luta anticapitalista', com revisão do Código Florestal, ampliação de unidades de conservação, restrição a descartáveis plásticos e taxação de emissões.",
+        "sources": [
+          { "id": "src-ec-70" },
+          { "id": "src-ec-71" },
+          { "id": "src-ec-72" }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Extraído do plano registrado no TSE — 'Programa do Partido Comunista Brasileiro (PCB) para as Eleições Presidenciais de 2026: Construir o Poder Popular, rumo ao Socialismo', 16 páginas, aprovado na convenção de 01/08/2026 —, do mesmo texto publicado pelo partido em 15/08/2026 e de entrevista do candidato ao jornal O Poder Popular. O documento registrado é o próprio programa do PCB adotado pela candidatura, e não um plano de governo redigido para o mandato: visão, prioridades e modelo de desenvolvimento são declarações programáticas do partido assumidas pelo candidato, o que motiva a marcação de 'parcial'. O índice do TSE agrupa as propostas da candidatura em 8 categorias fixas e iguais para todos os candidatos, e não em prioridades declaradas por este candidato; as prioridades acima vêm das seções do próprio programa (as cinco transformações estruturais e os 21 pontos da plataforma). Não foram extraídos custos, prazos, metas quantificadas nem fonte de financiamento por proposta, e não há registro de implementação: o candidato nunca exerceu cargo executivo ou legislativo."
+      }
+    },
+    "hertz-dias": {
+      "countryProject": {
+        "vision": "O plano registrado no TSE ('Com os trabalhadores contra o sistema — Por um Brasil soberano e socialista') descreve um país que rompe com a 'reversão colonial' e com a submissão às potências capitalistas, deixando a função de plataforma de exportação de commodities para se tornar uma economia reindustrializada sob controle dos trabalhadores: expropriação das grandes empresas de mineração, petróleo, energia, siderurgia, celulose e das grandes comercializadoras do agronegócio, planejamento econômico voltado ao mercado interno e ao pleno emprego e serviços públicos 100% estatais. O horizonte declarado é um 'Estado operário revolucionário' fundado na mais ampla democracia operária, com organismos eleitos e revogáveis sob controle permanente da base. O texto afirma que o programa 'não é um conjunto de promessas eleitorais', mas um 'guia para a ação', e que a mobilização direta é prioritária em relação à ação institucional.",
+        "nationalPriorities": [
+          "Soberania nacional e enfrentamento do imperialismo (tarifaço dos EUA, acordo Mercosul–União Europeia, papel da China)",
+          "Expropriação e reestatização das empresas estratégicas (Petrobras, Vale, mineração, petróleo, energia, siderurgia e celulose)",
+          "Trabalho e renda: jornada de 36 horas semanais, fim da escala 6x1, aumento de 100% do salário mínimo e bolsa-filha/filho de um salário mínimo",
+          "Serviços públicos reconstruídos sob controle operário e popular (saúde, educação, moradia, transporte e aposentadoria)",
+          "Meio ambiente: fim dos subsídios ao agronegócio, demarcação de terras indígenas e titulação de territórios quilombolas e 'não à exploração do petróleo da Margem Equatorial'",
+          "Terra e soberania alimentar: expropriação do grande agronegócio e produção agroecológica",
+          "Soberania digital: infraestrutura digital pública e inteligência artificial sob controle do Estado e dos trabalhadores"
+        ],
+        "developmentModel": "Planejamento econômico estatal como eixo: articular produção e consumo internos, converter ganhos de produtividade em redução de jornada e destinar os excedentes das empresas expropriadas a setores de alta complexidade tecnológica (refino, separação de terras raras e minerais críticos, máquinas e equipamentos, infraestrutura digital, química fina e defesa), com criação de empresa estatal de terras raras e limite de 25% na distribuição de dividendos das grandes empresas privadas remanescentes, com reinvestimento obrigatório no território nacional. Financiamento declarado: taxação fortemente progressiva sobre lucros de empresas bilionárias, controle da conta de capitais (o texto cita cerca de meio trilhão de reais evadidos por ano desde 2020) e controle do sistema financeiro e dos grandes bancos. Setor privado: expropriação do grande agronegócio e dos setores estratégicos; nas telecomunicações e internet, quebra do monopólio das grandes empresas privadas e internet gratuita. Tecnologia: semicondutores 'adquiridos estrategicamente' e inteligência artificial desenvolvida sob controle do Estado, com conselhos de produtores, usuários e detentores de direitos. Educação com verbas públicas destinadas exclusivamente ao ensino público e reconstrução da carreira docente; meio ambiente com fim de créditos e subsídios ao agronegócio, recuperação de áreas degradadas e agroecologia. Desigualdade tratada em eixos próprios (questão negra, mulheres, LGBTQIAPN+, povos indígenas, imigrantes e pessoas com deficiência), com cotas, reparação e autodefesa das comunidades.",
+        "sources": [
+          { "id": "src-hd-70" },
+          { "id": "src-hd-71" },
+          { "id": "src-hd-72" }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Extraído do plano registrado no TSE — 'Com os trabalhadores contra o sistema: por um Brasil soberano e socialista', 33 páginas, que o próprio texto apresenta como 'o programa do PSTU, representado nestas eleições na candidatura de Hertz Dias à Presidência, com Vanessa Portugal vice' —, conferido com o índice oficial de propostas da candidatura no TSE e com a análise do plano publicada pelo OPEB em 27/09/2026. Trata-se de documento programático do partido adotado pela candidatura, e não de um plano de governo redigido para o mandato: por isso o bloco está marcado como 'parcial'. O índice do TSE usa 8 categorias fixas, iguais para todos os candidatos, e não prioridades declaradas pelo candidato; as prioridades acima foram retiradas das seções do próprio plano. O documento não informa custos, financiamento ou prazos por proposta e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo)."
+      }
+    },
+    "rui-costa-pimenta": {
+      "countryProject": {
+        "vision": "O documento registrado no TSE — 'Programa do PCO – Eleições 2026: Por salário, trabalho e terra / Revolução, governo operário e comunismo' — organiza 15 pontos centrais de luta e declara que o partido 'não participa das eleições para fazer promessas': as conquistas viriam da organização e da mobilização, e as eleições são tratadas como 'uma tribuna (e apenas mais uma) de propaganda'. O horizonte declarado é a revolução e o 'governo das organizações operárias, camponesas e de todos os setores explorados'. As medidas imediatas descritas são de ruptura: reposição de 100% das perdas salariais e aumento emergencial de 50% dos salários, salário mínimo vital de pelo menos R$ 7.500 com escala móvel, jornada máxima de 7 horas diárias e 35 semanais, cancelamento das privatizações e reestatização (Eletrobras, Vale, bancos, telefonia), nacionalização do petróleo com Petrobras 100% estatal, estatização do sistema financeiro, fim da 'independência' do Banco Central, fim do teto de gastos e da Lei de Responsabilidade Fiscal, fim do STF com eleição de juízes e procuradores, dissolução da Polícia Militar e tributação restrita aos ganhos dos capitalistas e grandes fortunas.",
+        "nationalPriorities": [
+          "Salários: reposição de 100% das perdas, aumento emergencial de 50% e salário mínimo vital de ao menos R$ 7.500 com escala móvel (reajuste a cada 3% de alta do custo de vida)",
+          "Emprego e jornada: máximo de 7 horas diárias e 35 semanais, proibição de demissões e auxílio-desemprego igual ao último salário recebido",
+          "Revogação das reformas trabalhista e da Previdência, com restabelecimento integral da CLT e fim da terceirização",
+          "Cancelamento das privatizações e reestatização (Petrobras 100% estatal, Eletrobras, Vale, bancos, telefonia) e nacionalização das reservas minerais",
+          "Sistema financeiro: estatização dos bancos com banco estatal único, fim da 'independência' do Banco Central, redução imediata dos juros e cancelamento das dívidas externa e interna",
+          "Serviços públicos: mais verbas para saúde e educação, plano emergencial de hospitais e postos, pisos de R$ 8 mil (saúde) e R$ 8,5 mil (professores), fim do teto de gastos e da Lei de Responsabilidade Fiscal",
+          "Reforma agrária com expropriação do latifúndio, demarcação de terras indígenas e soberania (não à internacionalização da Amazônia)"
+        ],
+        "developmentModel": "O programa não organiza o crescimento em torno de metas de expansão: o eixo é a redistribuição imediata e a ruptura com o sistema financeiro — anulação das dívidas dos trabalhadores com os bancos, fim dos impostos sobre consumo e salários com tributação restrita a lucros e grandes fortunas, estatização do sistema financeiro com banco estatal único sob controle dos trabalhadores e gestão dos fundos previdenciários pelos trabalhadores. Reestatização e nacionalização das riquezas naturais e empresas (petróleo, reservas minerais e refinarias, terras raras sob empresa estatal comandada pelos trabalhadores), com redução imediata de 50% no preço dos combustíveis e fim da política de paridade com o dólar, e destinação da renda do petróleo a saúde, educação, moradia e infraestrutura. Setor privado: expropriação de latifúndios, de imóveis vazios, do ensino pago e das grandes empresas de comunicação, com cancelamento de concessões dos grandes meios. Estado: dissolução da Polícia Militar e do aparato repressivo, com comitês de autodefesa dos trabalhadores e direito ao armamento no campo e nas comunidades indígenas; fim do STF com eleição de juízes e procuradores; partidos sob controle exclusivo dos filiados e cancelamento das leis restritivas. Educação: livre ingresso sem vestibular, verbas públicas exclusivas ao ensino público e jornada máxima de 30 horas semanais para professores. Relações exteriores: defesa da soberania da Amazônia e da unidade nacional e apoio a Cuba, Nicarágua e Venezuela contra a ingerência dos EUA e da OEA.",
+        "sources": [
+          { "id": "src-rp-70" },
+          { "id": "src-rp-71" },
+          { "id": "src-rp-72" }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Extraído do plano registrado no TSE ('Programa do PCO – Eleições 2026', 7 páginas, 15 pontos centrais, datado de agosto de 2026), conferido com o índice oficial de propostas da candidatura (que remete às páginas 2 a 7 do próprio PDF) e com o levantamento do Poder360 de 23/08/2026 sobre extensão e estrutura dos planos. O documento registrado é o programa de luta do PCO adotado pela candidatura e afirma explicitamente que não se trata de um conjunto de promessas a executar pela via institucional: por isso o bloco está marcado como 'parcial'. Atenção de escopo: menções a 'Imposto Único' de 0,5% sobre a circulação de dinheiro e 1% sobre grandes fortunas, 'fim de 32 tributos', '600 mil concursos na saúde', 'Ronda Nacional de 30 mil agentes' e referências ao BRICS, registradas em rodadas anteriores deste trabalho, não foram localizadas no PDF registrado nem no índice oficial e não foram usadas neste bloco. Não há custos, cronograma ou indicadores por proposta, e não há registro de implementação (o candidato nunca exerceu cargo executivo ou legislativo)."
+      }
+    },
+    "wilson-grassi": {
+      "countryProject": {
+        "vision": "O plano 'Brasil em Primeiro Lugar' (governo 2027–2030, 58 páginas, 14 eixos) parte de cinco 'travas' que se sustentam mutuamente — custo de conformidade tributária, tributação da folha de pagamento, crime organizado administrado de dentro do sistema prisional, bases de dados federais em silos e polarização política — e aposta na substituição de tributos federais incidentes sobre folha, faturamento e produção por um Imposto Único Federal cobrado automaticamente sobre movimentações financeiras, com isenção do Imposto de Renda até cinco salários mínimos (R$ 8.105) e fim da contribuição previdenciária patronal. Na carta ao eleitor o candidato afirma que governará 'sobre imposto, emprego, segurança e saúde' e promete painel público de indicadores, instrumento identificado e prazo em cada eixo, além de cronograma para os primeiros 100 dias; o documento declara não citar adversários pelo nome e inclui um eixo de pacto institucional e superação da polarização.",
+        "nationalPriorities": [
+          "Reforma tributária: Imposto Único Federal sobre movimentação financeira em substituição a nove tributos federais sobre folha, faturamento e produção",
+          "Trabalho, emprego e renda: fim da contribuição previdenciária patronal e isenção do IRPF até cinco salários mínimos",
+          "Segurança pública e combate ao crime organizado: isolamento do comando, asfixia financeira, integração de inteligência e fronteiras, com plebiscito sobre o modelo penitenciário",
+          "Saúde Única (humana, animal e ambiental) no SUS, com fila nacional pública de cirurgias e exames eletivos",
+          "Educação e formação: alfabetização na idade certa, rede federal de educação profissional e PEC da Pesquisa",
+          "Infraestrutura, energia e meio ambiente: Brasil nos Trilhos, hidrovias e cabotagem, metas do marco do saneamento e rastreabilidade bovina",
+          "Estado digital, desburocratização e transparência (Método D35, integração de bases de dados e painel de indicadores)"
+        ],
+        "developmentModel": "Modelo declarado no Método D35 (desburocratizar, desonerar, digitalizar, democratizar, desenvolver): 'crescer reduzindo atrito, não expandindo gasto', deslocando o peso tributário do trabalho e da produção para uma base ampla e difícil de sonegar — a movimentação financeira, com arrecadação automática dentro do sistema bancário e sem declaração do contribuinte; ICMS e ISS ficam fora por pertencerem a estados e municípios. Papel atribuído ao Estado: licenciar rápido, garantir estabilidade regulatória, reduzir obrigações acessórias, integrar bases de dados federais e publicar indicadores verificáveis; o plano declara não apresentar valores orçamentários medida a medida e evitar prometer o que a Presidência não decide sozinha (reforma tributária por emenda constitucional; segurança compartilhada com estados; ensino fundamental municipal). Setor privado: execução em infraestrutura pelo regime de autorização ferroviária, com priorização por custo logístico por tonelada publicado por corredor, integração ferrovia-porto, hidrovia e cabotagem. Defesa: apoio à PEC 55/2023, com piso gradual de 2% do PIB e no mínimo 35% do valor vinculado à modernização, e recomposição de soldos concentrada na base da pirâmide. Tecnologia e educação: PEC da Pesquisa para transformar bolsistas em servidores públicos concursados; repasses federais à alfabetização condicionados a resultados em avaliações externas. Meio ambiente e questão indígena: cobrança das metas do marco legal do saneamento, prazos com responsáveis nomeados no licenciamento ambiental e projeto de lei regulamentando mineração em terra indígena com consulta prévia, participação econômica direta e proibição do uso de mercúrio. Trabalho e desigualdade aparecem nos eixos de emprego e renda (desoneração da contratação formal e cursos condicionados à demanda de contratação regional) e de habitação (portabilidade do aluguel para financiamento e titulação em massa).",
+        "sources": [
+          { "id": "src-wg-70" },
+          { "id": "src-wg-71" },
+          { "id": "src-wg-72" }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "methodology": "Extraído do plano registrado no TSE — 'Brasil em Primeiro Lugar — Plano de Governo 2027–2030', 58 páginas, com carta ao eleitor assinada por Wilson Grassi e Suêd Haidar, diagnóstico das cinco travas, 14 eixos, primeiros cem dias, painel de indicadores e compromissos de transparência —, conferido com a cobertura da Agência Brasil (20/09/2026) e com a cópia do PDF publicada pelo Poder360. Diferentemente dos demais documentos deste grupo, é um plano de governo redigido para o mandato, com instrumento jurídico, forma de medição e prazo declarados por eixo, embora seja o documento do partido Democrata, legenda presidida pela candidata a vice. O bloco está marcado como 'confirmado' por se tratar do documento do próprio candidato, lido diretamente na fonte; a confiança é 'medium' porque não há registro de implementação (nunca exerceu cargo executivo) e porque o próprio candidato declarou, em entrevista à Folha de S.Paulo reproduzida pelo Poder360 em 29/08/2026, que há propostas que pretende implementar e que não constam do programa. O plano não apresenta valores orçamentários por medida."
+      }
+    }
+  },
+  "dataGaps": [
+    "edmilson-costa: o programa registrado no TSE não informa custos, prazos, metas quantificadas nem fonte de financiamento por proposta; nenhum cargo executivo ou legislativo foi exercido, de modo que não existe histórico de implementação para contrastar com o programa.",
+    "hertz-dias: o plano registrado não traz custos, financiamento ou prazos por proposta e se apresenta como 'guia para a ação', não como conjunto de medidas a executar pela via institucional; sem histórico de implementação (nunca exerceu cargo executivo ou legislativo).",
+    "rui-costa-pimenta: o PDF registrado no TSE tem 7 páginas (15 pontos centrais) e o índice oficial remete a essas mesmas páginas; menções a 'Imposto Único' de 0,5%/1%, 'fim de 32 tributos', '600 mil concursos na saúde', 'Ronda Nacional de 30 mil agentes' e BRICS, presentes em rodadas anteriores deste trabalho, não foram localizadas no documento nem no índice oficiais e por isso ficaram fora do bloco de projeto de país.",
+    "wilson-grassi: o plano não traz valores orçamentários medida a medida e o próprio candidato declarou (Folha de S.Paulo/Poder360, 29/08/2026) que há propostas que pretende implementar e não constam do documento registrado no TSE.",
+    "Edmilson Costa, Hertz Dias e Rui Costa Pimenta: o documento registrado no TSE é o programa do próprio partido adotado pela candidatura, e não um plano de governo redigido para um mandato — os três blocos estão marcados como 'parcial' por essa razão, sem que exista versão 'de governo' para comparar.",
+    "Os quatro candidatos: o índice de propostas do TSE usa 8 categorias fixas e iguais para todas as candidaturas, o que impede usá-lo como lista de prioridades declaradas; as prioridades deste bloco vêm das seções dos próprios planos.",
+    "Não foram localizados, para nenhum dos quatro, documentos partidários ou entrevistas que contradigam ou detalhem além dos planos as prioridades nacionais declaradas; a apuração de política externa (bloco Brasil no Mundo) não foi escopo deste patch."
+  ]
+}

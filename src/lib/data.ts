@@ -4,7 +4,7 @@
 // Amanhã: basta trocar a implementação por fetch() de uma API — os loaders
 // são async e a assinatura não muda (arquitetura preparada p/ API, §26).
 
-import { DIMENSIONS, type Candidate, type Metric, type DimensionSlug } from "@/types";
+import { DIMENSIONS, SECTIONS, sectionOfMetric, type Candidate, type Metric, type DimensionSlug, type SectionSlug } from "@/types";
 import { isComparable, type ComparisonDelta, formatDelta } from "@/lib/comparison";
 import { candidates as rawCandidates } from "@/data/candidates";
 
@@ -28,6 +28,8 @@ export interface MetricRow {
   metricId: string;
   name: string;
   category: DimensionSlug;
+  /** seção V3 onde a linha aparece (currículo, plano, opinião, capacidades) */
+  section: SectionSlug;
   methodology: string;
   values: (Metric | null)[];
   delta?: ComparisonDelta;
@@ -86,6 +88,7 @@ export function buildRows(candidates: Candidate[]): MetricRow[] {
       metricId: id,
       name: metric.name,
       category: metric.category as DimensionSlug,
+      section: sectionOfMetric(id),
       methodology: metric.methodology,
       values,
       delta,
@@ -93,6 +96,15 @@ export function buildRows(candidates: Candidate[]): MetricRow[] {
       equal,
     };
   });
+}
+
+/** Agrupa as linhas de métrica nas seções da V3, na ordem canônica de SECTIONS. */
+export function groupRowsBySection(
+  rows: MetricRow[],
+): { section: (typeof SECTIONS)[number]; rows: MetricRow[] }[] {
+  return SECTIONS.filter((s) => s.kind === "metrics" || s.slug === "capacidades")
+    .map((s) => ({ section: s, rows: rows.filter((r) => r.section === s.slug) }))
+    .filter((g) => g.rows.length > 0);
 }
 
 export interface KeyDifference {

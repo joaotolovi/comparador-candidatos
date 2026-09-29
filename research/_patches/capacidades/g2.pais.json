@@ -1,0 +1,320 @@
+{
+  "grupo": "g2",
+  "escopo": "pais",
+  "sources": [
+    {
+      "id": "src-rs-70",
+      "title": "O Brasil de 2030 — propostas (site oficial da campanha)",
+      "publisher": "Renan Santos / Partido Missão",
+      "url": "https://www.renanpresidente.com.br/propostas",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Página oficial de campanha com as cinco metas para 2030 e o compromisso declarado de não disputar a reeleição em caso de descumprimento."
+    },
+    {
+      "id": "src-rs-71",
+      "title": "Livro Amarelo — resumo executivo 2026 (espelho do documento registrado no TSE)",
+      "publisher": "Renanpédia (espelho civil do Livro Amarelo)",
+      "url": "https://www.renanpedia.com/livro-amarelo-resumo-2026.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Espelho do resumo executivo de 51 páginas; contém a passagem 'transformar o Brasil, em 30 anos, em uma das cinco maiores potências globais' e as cinco metas para 2030."
+    },
+    {
+      "id": "src-rs-72",
+      "title": "O que diz o plano de governo de Renan Santos (Missão)",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-renan-santos-pretende-restaurar-o-brasil-plano-de-governo-candidato-missao/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalha a 'Grande Consolidação Municipal' (5.570 para 1.656 municípios) e a frente AgroBrasil 2030 com cinco pilares."
+    },
+    {
+      "id": "src-la-70",
+      "title": "Leonardo Avalanche: PRTB lança candidatura à Presidência da República",
+      "publisher": "g1 Goiás",
+      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/07/29/prtb-lanca-candidatura-de-leonardo-avalanche-a-presidencia-em-goias.ghtml",
+      "publishedAt": "2026-07-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Convenção em Goiânia (29/07/2026): imposto único de 3,5%, trabalho por hora e IPVA; entrevista com defesa de reindustrialização e do agro como eixos."
+    },
+    {
+      "id": "src-cb-60",
+      "title": "Seis planos à direita: o que dizem os documentos que quase ninguém leu",
+      "publisher": "Contexto Brasil",
+      "url": "https://contextobrasil.com.br/seis-planos-a-direita-o-que-dizem-os-documentos-que-quase-ninguem-leu/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Analisa o documento do DC como versão preliminar de 15 páginas, com seis capítulos e sem diagnóstico do país."
+    },
+    {
+      "id": "src-sm-41",
+      "title": "Plano de Governo — Programa da Unidade Popular pelo Socialismo (espelho do programa apresentado pela campanha)",
+      "publisher": "Poder360 (espelho do documento da campanha)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Samara_UP_2026.pdf.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Versão de 67 páginas com o programa completo (cerca de 20 eixos), posterior ao documento de 16 propostas registrado inicialmente."
+    },
+    {
+      "id": "src-sm-42",
+      "title": "Samara Martins registra candidatura no TSE, mas plano de governo protocolado é o de 2022",
+      "publisher": "Canal MyNews",
+      "url": "https://canalmynews.com.br/eleicoes-2026/samara-martins-candidatura-tse-plano-governo/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Relata o envio da versão de 2022 por falha interna e a versão corrigida de 16 propostas (reajuste de 100% do salário mínimo, fim da escala 6x1, 36 horas, suspensão da dívida pública, nacionalização de bancos e de planos de saúde)."
+    },
+    {
+      "id": "src-sm-43",
+      "title": "Samara Martins leva programa socialista à disputa presidencial",
+      "publisher": "Jornalismo Júnior",
+      "url": "https://jornalismojunior.com.br/samara-martins-leva-programa-socialista-a-disputa-presidencial/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a passagem do documento de ~1,5 página e 16 propostas para a versão final de 67 páginas e cerca de 20 eixos temáticos; aponta três eixos declarados (trabalho, anti-imperialismo, soberania)."
+    },
+    {
+      "id": "src-sm-44",
+      "title": "Plano de governo da UP tem menos de duas páginas e vira piada nas redes sociais",
+      "publisher": "BNews",
+      "url": "https://www.bnews.com.br/noticias/politica/plano-de-governo-da-tem-menos-de-duas-paginas-e-vira-piada-nas-redes-sociais.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Lista as 16 propostas do documento registrado (economia, agrário, educação, relações internacionais, mulheres)."
+    },
+    {
+      "id": "src-sm-45",
+      "title": "Planos de governo de presidenciáveis têm de 2 a 200 páginas",
+      "publisher": "O Globo (Blog do Lauro Jardim)",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/08/planos-de-governo-de-presidenciaveis-tem-de-2-a-200-paginas.ghtml",
+      "publishedAt": "2026-08-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Compara a extensão dos documentos registrados: UP com menos de duas páginas e 16 propostas; Avante com 200 páginas."
+    }
+  ],
+  "candidates": {
+    "renan-santos": {
+      "countryProject": {
+        "vision": "O documento registrado no TSE ('O futuro é glorioso', resumo de 51 páginas do Livro Amarelo, 14 pilares em três blocos) declara o objetivo de transformar o Brasil, em 30 anos, em uma das cinco maiores potências globais e assume cinco metas para 2030: nenhum território sob controle de facção, 6 mil favelas a menos e 8 milhões de novas casas, nenhum estado com mais Bolsa Família do que trabalho formal, redução da taxa de juros e nove em cada dez crianças alfabetizadas na idade certa. A imagem de país projetada é a de uma união entre tecnologia e natureza, descrita no plano como 'civilização tropical', com Norte e Nordeste integrados a cadeias produtivas globais.",
+        "nationalPriorities": [
+          "ajuste fiscal",
+          "segurança pública",
+          "desfavelização e habitação",
+          "pacto federativo e gestão por metas",
+          "infraestrutura",
+          "educação",
+          "saúde"
+        ],
+        "developmentModel": "O próprio plano declara adesão a pilares do pensamento liberal no aspecto econômico (contenção de gastos, reforma trabalhista e administrativa, redução de supersalários, austeridade) e rejeita explicitamente o que chama de 'versão vulgarizada' que 'falava vagamente em desburocratização e privatizações'. Ao Estado atribui: (a) fazer o ajuste fiscal já na transição de governo (PEC de Transição Fiscal, ajuste declarado de R$ 1,1 trilhão até 2031, com desindexação de benefícios do salário mínimo, revisão do abono salarial e nova reforma da Previdência com gatilho automático de idade e capitalização via FGTS); (b) reorganizar o pacto federativo (fusão de municípios — de 5.570 para 1.656, segundo a imprensa —, 'tutela federal' de municípios que não atingirem as metas de indicadores e Lei de Responsabilidade Gerencial, que condiciona recursos partidários e elegibilidade a metas de indicadores); (c) ampliar investimento em infraestrutura de cerca de 2% para pelo menos 4% do PIB, com metas como 40 mil km de malha ferroviária, Zonas Econômicas Especiais no Nordeste, planta-piloto de separação e refino de terras raras (2029-2030) e projetos de IA e agro (AgroBrasil 2030). O setor privado é destinatário declarado de segurança jurídica, de flexibilização das relações de trabalho e da substituição do Bolsa Família por frentes de trabalho remuneradas para a população em idade ativa. Tecnologia aparece como eixo transversal (IA no SUS com modelo de triagem por risco, semelhante ao DoctorSV de El Salvador, terras raras, agricultura); meio ambiente aparece como vantagem comparativa e como parte do projeto de 'civilização tropical'; desigualdade é tratada por desfavelização integral (prazo declarado de 10 anos) e por bolsas de mérito em substituição às cotas no ensino superior.",
+        "sources": [
+          {
+            "id": "src-rs-23"
+          },
+          {
+            "id": "src-rs-70"
+          },
+          {
+            "id": "src-rs-71"
+          },
+          {
+            "id": "src-rs-72"
+          },
+          {
+            "id": "src-rs-19"
+          },
+          {
+            "id": "src-rs-20"
+          },
+          {
+            "id": "src-rs-21"
+          },
+          {
+            "id": "src-rs-46"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "methodology": "Extração do documento registrado no TSE (resumo executivo de 51 páginas do Livro Amarelo, aberto e lido integralmente a partir do espelho público) e das cinco metas para 2030 divulgadas pelo candidato em site oficial e imprensa; complemento por cobertura de g1, Valor, Gazeta do Povo e Exame. As prioridades listadas são as declaradas pelo próprio documento como capítulos/pilares (14 no total, agrupados em 3 blocos) reduzidas às sete apresentadas como metas de 2030, capítulos de abertura e eixos de campanha. O que não foi possível extrair: custeio e cronograma financeiro por meta de 2030 e a íntegra da obra de 500 páginas (somente o resumo executivo está público)."
+      }
+    },
+    "leonardo-avalanche": {
+      "countryProject": {
+        "vision": "O plano registrado no TSE ('Reconstrução Nacional', 19 propostas numeradas) declara o objetivo de tornar o Brasil uma 'economia mais dinâmica, produtiva e voltada ao empreendedorismo' e resume o compromisso como 'um Brasil mais justo, mais seguro e mais forte pra cada brasileiro', sustentado em três pilares declarados: 'Deus, pátria e família'. A projeção é de país com tributação simplificada (imposto único de 3,5%), poder de compra ampliado, indústria nacional e saneamento básico universal.",
+        "nationalPriorities": [
+          "redução e simplificação de tributos (imposto único de 3,5%)",
+          "saúde (zerar a fila do SUS)",
+          "segurança pública",
+          "educação com tecnologia e empreendedorismo",
+          "industrialização e infraestrutura",
+          "saneamento básico e resíduos sólidos",
+          "proteção à mulher e à criança, apoio à família atípica"
+        ],
+        "developmentModel": "O papel central atribuído ao Estado é reduzir e simplificar a tributação: substituição de ICMS, ISS, IPI, PIS, Cofins, IOF, IRPJ, CSLL, IRPF, INSS (patronal e do trabalhador), IPVA, ITBI, ITCMD e Imposto de Importação por alíquota única de 3,5% cobrada na fonte, com IPVA de R$ 50 por mês e regras específicas para motoristas de aplicativo. O documento ilustra o modelo com comparações internacionais (EUA, Paraguai — modelo '10-10-10' —, Suécia, Alemanha e Japão) e afirma que a arrecadação nacional 'triplicaria' com o fim da sonegação; não foi localizada, nas fontes consultadas, estimativa de compensação fiscal para a queda de alíquota. Ao setor privado e à indústria atribui reindustrialização (produção local de insumos, indústria automobilística nacional, fertilizantes e agro, polo tecnológico 'de escala mundial', infraestrutura pesada de rodovias, hidrovias e ferrovias, segurança jurídica). Tecnologia aparece na educação (IA e empreendedorismo) e no programa de acesso a dispositivos; defesa nacional aparece na proposta de equipar as Forças Armadas; saúde, na eliminação da fila do SUS e em saneamento básico com coleta seletiva e aproveitamento energético de resíduos. Desigualdade e proteção social são tratadas por saneamento, apoio à 'família atípica' (Abraço Azul), segurança da mulher e combate à exploração sexual infantil; meio ambiente comparece no plano por saneamento e resíduos sólidos, sem capítulo específico de clima.",
+        "sources": [
+          {
+            "id": "src-la-17"
+          },
+          {
+            "id": "src-la-16"
+          },
+          {
+            "id": "src-la-06"
+          },
+          {
+            "id": "src-la-70"
+          },
+          {
+            "id": "src-la-27"
+          },
+          {
+            "id": "src-la-22"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "methodology": "Extração direta do plano registrado no TSE (48 páginas, 19 propostas numeradas, lido integralmente a partir do espelho público do Poder360) e da cobertura de Agência Brasil e g1. As sete prioridades listadas são as que aparecem como propostas próprias do documento e como eixos repetidos em entrevistas do candidato (redução de impostos e fila do SUS na Agência Brasil; reindustrialização e agro na entrevista ao g1). O que não foi possível extrair: estimativa de custo, compensação fiscal e cronograma das propostas; não há capítulo de política externa nem de clima no documento — a política externa do candidato não foi localizada em fontes 2025-2026 nesta rodada."
+      }
+    },
+    "augusto-cury": {
+      "countryProject": {
+        "vision": "'O Brasil dos Nossos Sonhos' (200 páginas, 18 projetos) parte do diagnóstico de uma 'sociedade polarizada e adoecida' e propõe 'cultura da paz' e 'gestão da emoção' como eixos de governo, com horizonte declarado de déficit público próximo de zero no mandato e redução gradual da dívida. A projeção de país combina Estado digital e enxuto com educação, empreendedorismo distribuído, telessaúde, energias renováveis, terras raras e proteção de florestas; o candidato propõe também semipresidencialismo e mandato de oito anos para ministros do STF.",
+        "nationalPriorities": [
+          "educação (tempo integral e gestão da emoção)",
+          "saúde (telessaúde e prevenção do câncer)",
+          "empreendedorismo e economia distribuída",
+          "segurança pública",
+          "meio ambiente e energias renováveis",
+          "ciência, tecnologia e terras raras",
+          "combate à fome"
+        ],
+        "developmentModel": "O documento abre com teses de responsabilidade fiscal e crescimento (déficit próximo de zero, controle rigoroso de gastos com metas de eficiência por ministério, redução gradual e sustentável da dívida, reforma administrativa com estudos para redução do número de ministérios, segurança jurídica e simplificação tributária) e de 'Estado eficiente e digital' (governo totalmente digital, avaliação permanente de políticas públicas). Na economia, declara compromisso com carga tributária menor ao fim da transição da reforma tributária, avaliação caso a caso dos tratamentos diferenciados, revisão do formato de divisão federativa dos tributos com 'menos União Federal e mais municípios' e reajuste do salário mínimo pela inflação mais 1% ao ano, com redução declarada de 8 a 10 ministérios. Ao setor privado e à sociedade atribui o eixo de empreendedorismo (ministério do empreendedorismo, 10 mil escolas de empreendedorismo, Fundo Nacional do Empreendedor, cooperativismo, agroindústria, exportação e 'embaixadas empreendedoras'); à tecnologia, telemedicina ('maior telemedicina do mundo'), criação de ministério da IA e terras raras e minerais estratégicos (Petra BR); ao meio ambiente, 'Floresta Viva', hidrogênio verde e energias renováveis; à desigualdade, projetos de primeira infância, neuroinclusão, prevenção do suicídio ('Você é Insubstituível') e combate mundial à fome com fundo internacional e apoio à agricultura familiar. Segurança aparece como integração nacional das forças e núcleos municipais contra o crime organizado e como 'Força Alerta Total' (FATO); o plano também propõe semipresidencialismo e mandato de oito anos para ministros do STF.",
+        "sources": [
+          {
+            "id": "src-ac-23"
+          },
+          {
+            "id": "src-ac-05"
+          },
+          {
+            "id": "src-ac-06"
+          },
+          {
+            "id": "src-ac-19"
+          },
+          {
+            "id": "src-ac-37"
+          },
+          {
+            "id": "src-ac-38"
+          },
+          {
+            "id": "src-ac-51"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "methodology": "Extração direta do plano registrado no TSE ('O Brasil dos Nossos Sonhos', 200 páginas, lido a partir do espelho público em PDF; sumário com 18 projetos e capítulo final de apresentação do candidato), com complemento de Agência Brasil (18 áreas), GZH, Band e Nexo. As sete prioridades listadas correspondem a capítulos próprios do documento e a eixos repetidos em entrevistas de 2026. O que não foi possível extrair: custo e fonte de financiamento por projeto, metas quantificadas de cada projeto (o documento prioriza teses e programas; a meta quantitativa mais explícita localizada é o ganho real do salário mínimo) e os nomes da equipe econômica, que o candidato declarou evitar divulgar."
+      }
+    },
+    "clariana-barao": {
+      "countryProject": {
+        "vision": "O plano registrado no TSE ('Proteger Hoje, Transformar o Amanhã', 15 páginas) organiza a ação pública em seis capítulos — mulheres e crianças, economia, educação, segurança, saúde e 'Estado que funciona' —, com 'Mulheres e Crianças em Primeiro Lugar' como eixo transversal, e o próprio documento se define como 'versão estruturada para desenvolvimento programático, debate técnico e posterior definição de metas quantitativas'. Critério transversal declarado: cada política deve explicitar impactos esperados sobre mulheres, crianças e famílias, custo fiscal, responsabilidade institucional, riscos, salvaguardas de direitos e método de avaliação.",
+        "nationalPriorities": [
+          "mulheres e crianças em primeiro lugar",
+          "economia (responsabilidade fiscal e ambiente de negócios)",
+          "educação (alfabetização e ensino técnico)",
+          "segurança (fronteiras e combate a facções)",
+          "saúde (atenção primária, filas e telemedicina)",
+          "Estado que funciona (governo digital e federalismo de resultados)"
+        ],
+        "developmentModel": "O plano atribui ao crescimento econômico a função de financiar proteção social ('prosperidade que protege') e organiza o modelo em três frentes: responsabilidade fiscal com revisão de gastos e subsídios indevidos, transparência de benefícios e avaliação de impacto de programas; ambiente de negócios com simplificação regulatória, digitalização, crédito produtivo e garantias para pequenos negócios e compras públicas acessíveis a micro e pequenas empresas; e infraestrutura por concessões, PPPs e planejamento de longo prazo (rodovias com manutenção baseada em desempenho, ferrovias, hidrovias, portos e cabotagem), além de segurança energética, conectividade e ambiente para indústria e economia digital. O Estado é descrito como prestador de serviços 100% digitais ('dados pedidos uma única vez', atendimento multicanal para quem está offline) e como coordenador federativo, com pactos com estados e municípios, consórcios e transferências associadas a indicadores 'quando juridicamente cabível'. Tecnologia aparece em IA com governança, auditoria e privacidade (regulação de filas no SUS, apoio clínico e administrativo) e em telemedicina integrada à rede; meio ambiente não tem capítulo próprio — comparece no eixo de energia e conectividade e na política de segurança (crimes contra o meio ambiente não são detalhados). Desigualdade é tratada prioritariamente pela proteção de mulheres, crianças e primeira infância e pela autonomia econômica das mulheres (microcrédito, qualificação, formalização). O documento não apresenta estimativa de custo por política.",
+        "sources": [
+          {
+            "id": "src-cb-19"
+          },
+          {
+            "id": "src-cb-05"
+          },
+          {
+            "id": "src-cb-03"
+          },
+          {
+            "id": "src-cb-12"
+          },
+          {
+            "id": "src-cb-17"
+          },
+          {
+            "id": "src-cb-60"
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "methodology": "Extração direta do documento registrado no TSE (15 páginas, lido integralmente a partir do PDF oficial, obtido via espelho de arquivo), com complemento de Agência Brasil (propostas para seis áreas; prioridade à mulher e à infância), Jornal Nacional, Poder360, Plano Aberto e análise do Contexto Brasil. As seis prioridades listadas são os seis capítulos do próprio documento (não são inferência nossa). Evidência marcada como parcial e confiança média porque o documento se autodeclara preliminar ('posterior definição de metas quantitativas'), não traz diagnóstico, linha de base, custos nem metas numéricas finais; a contagem item a item de promessas não foi refeita pela equipe (o dossiê independente Plano Aberto enumera ao menos 30 promessas numeradas)."
+      }
+    },
+    "samara-martins": {
+      "countryProject": {
+        "vision": "O 'Programa da Unidade Popular pelo Socialismo' (versão de 67 páginas, posterior ao documento de 16 propostas registrado inicialmente) propõe um 'Governo Popular dos Trabalhadores', com participação permanente do povo, controle público dos setores estratégicos, soberania nacional, planificação democrática da economia e 'prioridade absoluta às necessidades sociais'. A candidata resume o horizonte declarado como 'construir um país socialista' e um país 'sem exploração dos trabalhadores por uma minoria de bilionários'; saúde, educação, moradia, transporte, cultura e comunicação são declaradas direitos, 'e não mercadorias'.",
+        "nationalPriorities": [
+          "salário mínimo e jornada (reajuste de 100% e fim da escala 6x1)",
+          "nacionalização do sistema bancário e reestatização de empresas",
+          "saúde e educação públicas (10% do PIB para educação)",
+          "reforma agrária e controle de preços dos alimentos",
+          "moradia e saneamento",
+          "soberania nacional e luta anti-imperialista",
+          "direitos das mulheres e combate à discriminação"
+        ],
+        "developmentModel": "O modelo declarado é de superação do capitalismo: controle social dos monopólios e dos meios de produção nos setores estratégicos, planificação da economia para acabar com desigualdades regionais e sociais, nacionalização do sistema bancário (e, na versão corrigida de 16 propostas, também dos planos de saúde privados), reestatização das empresas privatizadas, estatização dos transportes coletivos e suspensão do pagamento da dívida pública seguida de auditoria. O programa defende ainda reajuste de 100% do salário mínimo como medida emergencial do primeiro momento de governo, fim da escala 6x1 com redução da jornada sem redução salarial, revogação das reformas trabalhista e da Previdência, isenção de impostos para trabalhadores, taxação de grandes fortunas, fim de subsídios fiscais e financeiros a monopólios, exigência de que políticos usem exclusivamente a saúde e a educação públicas, destinação de 10% do PIB para a educação e fim de vestibular e processos seletivos no acesso ao ensino público. Ciência e reindustrialização aparecem como eixos de desenvolvimento; o meio ambiente comparece pela proteção da Amazônia e dos biomas, pela demarcação de terras indígenas e pela oposição declarada à entrega de terras raras brasileiras a outros países; a desigualdade é tratada como resultado do sistema capitalista, a ser superado por controle público e planificação, não administrado. A candidata rejeita federação e coligação partidária na disputa presidencial (chapa própria, 100% feminina).",
+        "sources": [
+          {
+            "id": "src-sm-41"
+          },
+          {
+            "id": "src-sm-01"
+          },
+          {
+            "id": "src-sm-42"
+          },
+          {
+            "id": "src-sm-43"
+          },
+          {
+            "id": "src-sm-44"
+          },
+          {
+            "id": "src-sm-45"
+          },
+          {
+            "id": "src-sm-25"
+          },
+          {
+            "id": "src-sm-30"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "methodology": "Extração direta da versão de 67 páginas do programa apresentado pela campanha (lida integralmente), confrontada com a versão de 16 propostas e com a cobertura de 2026 (Jornalismo Júnior, BNews, O Globo/Lauro Jardim, Metrópoles, Agência Brasil). Confiança média porque o registro no TSE passou por correção: o documento protocolado em 06/08/2026 reproduzia a versão de 2022 (relatado pela imprensa e pela coluna de O Globo, que mede menos de duas páginas e 16 propostas) e a versão ampliada de 67 páginas passou a circular em seguida; as prioridades listadas foram checadas nas duas versões e não há divergência de eixo, mas divergem em extensão — a versão de 16 propostas cita jornada de 36 horas enquanto o programa ampliado detalha proposta de 30 horas semanais. O que não foi possível extrair: cronograma, custo e fonte de financiamento por proposta (as duas versões são programáticas e não apresentam orçamento)."
+      }
+    }
+  },
+  "dataGaps": [
+    "Custo, compensação fiscal e cronograma por meta/prioridade não estão declarados nos documentos registrados de nenhum dos cinco candidatos analisados neste bloco; o bloco PROJETO DE PAÍS registra apenas o que é declarado.",
+    "leonardo-avalanche: não foi localizada posição documentada de política externa ou sobre clima em fontes 2025-2026; o plano registrado não tem capítulo desses temas.",
+    "augusto-cury: nomes da equipe econômica não divulgados por decisão declarada do candidato (Valor International, 04/09/2026).",
+    "clariana-barao: documento autodeclarado preliminar; sem diagnóstico, linha de base e metas numéricas finais; total de promessas não contado item a item (dossiê independente enumera ao menos 30).",
+    "samara-martins: registro no TSE foi feito com a versão de 2022 do programa e depois corrigido; a versão ampliada de 67 páginas não consta como o arquivo registrado no TSE nas fontes consultadas (o link oficial do TSE retornou bloqueio e o texto foi lido em espelho público da campanha).",
+    "renan-santos: apenas o resumo executivo de 51 páginas do Livro Amarelo está público; a obra integral (mais de 500 páginas) não foi analisada."
+  ]
+}

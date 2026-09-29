@@ -1,0 +1,36 @@
+{
+  "grupo": "g1",
+  "escopo": "capacidades:execucao,dialogo-negociacao,lideranca-equipes",
+  "sources": [],
+  "candidates": {
+    "lula": {
+      "capacities": [
+        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "flavio-bolsonaro": {
+      "capacities": [
+        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "caiado": {
+      "capacities": [
+        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "zema": {
+      "capacities": [
+        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    }
+  },
+  "dataGaps": ["esqueleto inicial — em consolidação"]
+}

@@ -1,6 +1,6 @@
 // ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
 // 13 candidato(s) com pesquisa profunda; os demais ficam só no seed.
-// Gerado em: 2026-09-29T18:37:13.375Z
+// Gerado em: 2026-09-29T19:02:51.310Z
 import type { Candidate } from "@/types";
 
 export const researched: Partial<Candidate>[] = [
@@ -965,6 +965,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "low"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -3302,6 +3304,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "high"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -5589,6 +5593,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "low"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -7614,6 +7620,8 @@ export const researched: Partial<Candidate>[] = [
       }
     ],
     "institutionalHistory": [],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -9692,6 +9700,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -11908,6 +11918,8 @@ export const researched: Partial<Candidate>[] = [
       }
     ],
     "institutionalHistory": [],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -13521,6 +13533,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -16112,6 +16126,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "high"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -18975,6 +18991,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -21283,6 +21301,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -23103,6 +23123,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "low"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -25304,6 +25326,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",
@@ -27862,6 +27886,8 @@ export const researched: Partial<Candidate>[] = [
         "confidenceLevel": "medium"
       }
     ],
+    "capacities": [],
+    "coherence": [],
     "metrics": [
       {
         "id": "anos_executivo",

@@ -244,6 +244,14 @@ export interface Candidate {
   /** histórico de articulação e governabilidade */
   negotiationHistory: CoalitionSupport[];
   institutionalHistory: InstitutionalRecord[];
+  /** V3 — bloco 1: para onde o candidato quer levar o país */
+  countryProject?: CountryProject;
+  /** V3 — bloco 3: capacidades demonstradas, cada uma com evidências */
+  capacities?: Capacity[];
+  /** V3 — bloco 4: como enxerga o Brasil no mundo */
+  foreignPolicy?: ForeignPolicy;
+  /** V3 — transversal: coerência entre posições, propostas e histórico */
+  coherence?: CoherenceItem[];
   metrics: Metric[];
   sources: Source[];
   updatedAt: string; // ISO — última atualização do perfil
@@ -298,3 +306,267 @@ export const DIMENSIONS = [
 ] as const;
 
 export type DimensionSlug = (typeof DIMENSIONS)[number]["slug"];
+
+// ─── V3: capacidades demonstradas ────────────────────────────────────────────
+// Mudança conceitual: o nível principal compara CAPACIDADES sustentadas por
+// EVIDÊNCIAS verificáveis; currículo, orçamento e tamanho de estrutura deixam de
+// ser a métrica e passam a ser contexto. Nunca há nota, score ou ranking.
+
+/** Natureza da afirmação. Nunca misturar: querer fazer ≠ ter feito. */
+export type ClaimKind = "posicao" | "proposta" | "historico";
+
+export type CapacitySlug =
+  | "execucao"
+  | "dialogo-negociacao"
+  | "lideranca-equipes"
+  | "tomada-decisao"
+  | "gestao-crises"
+  | "coordenacao-institucional"
+  | "comunicacao-publica"
+  | "visao-estrategica";
+
+export type EvidenceCoverage = "documentada" | "parcial" | "insuficiente";
+
+export interface CapacityEvidence {
+  id: string;
+  kind: ClaimKind;
+  title: string;
+  /** papel efetivamente exercido (relator, coordenador, ministro...) */
+  role: string;
+  /** complexidade objetiva: alcance, atores, recursos, duração */
+  complexity: string;
+  /** resultado observável, quando existir */
+  outcome?: string;
+  period: string;
+  context?: string;
+  sources: Source[];
+  evidenceStatus: EvidenceStatus;
+  confidenceLevel: ConfidenceLevel;
+}
+
+export interface Capacity {
+  slug: CapacitySlug;
+  name: string;
+  /** a pergunta do usuário que esta capacidade responde */
+  question: string;
+  /** camada 1 — síntese factual de 2–3 linhas, sem adjetivo de valor */
+  synthesis: string;
+  coverage: EvidenceCoverage;
+  /** por que a cobertura é parcial/insuficiente (honestidade explícita) */
+  coverageNote?: string;
+  /** camada 2 — 3 a 6 evidências concretas */
+  evidences: CapacityEvidence[];
+  updatedAt: string;
+}
+
+export interface CountryProject {
+  vision: string;
+  /** 5–7 prioridades declaradas pelo próprio candidato */
+  nationalPriorities: string[];
+  developmentModel: string;
+  sources: Source[];
+  evidenceStatus: EvidenceStatus;
+  confidenceLevel: ConfidenceLevel;
+  methodology?: string;
+  updatedAt: string;
+}
+
+export interface ForeignPolicy {
+  worldView: string;
+  strategy: string;
+  internationalExperience: string;
+  projection: string;
+  /** "projeção internacional mede notoriedade, não capacidade diplomática" */
+  projectionNote: string;
+  sources: Source[];
+  evidenceStatus: EvidenceStatus;
+  confidenceLevel: ConfidenceLevel;
+  methodology?: string;
+  updatedAt: string;
+}
+
+export interface CoherencePoint {
+  year: string;
+  position: string;
+  sources: Source[];
+}
+
+export interface CoherenceItem {
+  id: string;
+  theme: string;
+  timeline: CoherencePoint[];
+  publicExplanation?: string;
+  statedPosition?: string;
+  proposedAction?: string;
+  historicalAction?: string;
+  tensionNote?: string;
+  evidenceStatus: EvidenceStatus;
+  confidenceLevel: ConfidenceLevel;
+}
+
+export const CAPACITY_CATALOG: {
+  slug: CapacitySlug;
+  name: string;
+  question: string;
+  /** o que NÃO conta como evidência desta capacidade */
+  excludes: string;
+}[] = [
+  {
+    slug: "execucao",
+    name: "Capacidade de execução",
+    question: "Consegue transformar prioridades em entregas concretas?",
+    excludes: "Número de servidores, tempo de cargo e tamanho do orçamento.",
+  },
+  {
+    slug: "dialogo-negociacao",
+    name: "Diálogo, negociação e articulação",
+    question:
+      "Consegue construir entendimento e coordenar atores com interesses diferentes?",
+    excludes: "Número de partidos sem explicar o que foi negociado.",
+  },
+  {
+    slug: "lideranca-equipes",
+    name: "Liderança e formação de equipes",
+    question: "Consegue montar, coordenar, delegar e manter equipes funcionando?",
+    excludes: "Quantidade de pessoas formalmente subordinadas.",
+  },
+  {
+    slug: "tomada-decisao",
+    name: "Tomada de decisão",
+    question: "Como enfrentou decisões difíceis, trade-offs e pressão?",
+    excludes: "Anos de experiência executiva como proxy de critério.",
+  },
+  {
+    slug: "gestao-crises",
+    name: "Gestão de crises e mudança",
+    question: "Como atuou quando o cenário mudou ou surgiu uma situação crítica?",
+    excludes: "Ausência de crise na gestão como mérito.",
+  },
+  {
+    slug: "coordenacao-institucional",
+    name: "Coordenação institucional",
+    question:
+      "Consegue trabalhar entre instituições, níveis de governo e organizações?",
+    excludes: "Tempo acumulado no Executivo.",
+  },
+  {
+    slug: "comunicacao-publica",
+    name: "Comunicação pública",
+    question:
+      "Consegue explicar prioridades, decisões e posições de forma compreensível e consistente?",
+    excludes: "Número de seguidores e aparições na mídia sem conteúdo.",
+  },
+  {
+    slug: "visao-estrategica",
+    name: "Visão estratégica",
+    question:
+      "Consegue definir prioridades e conectar decisões de curto prazo a objetivos maiores?",
+    excludes: "Tamanho do plano de governo.",
+  },
+];
+
+/** Seções da experiência V3, na ordem em que aparecem. */
+export type SectionSlug =
+  | "pais"
+  | "caminho"
+  | "capacidades"
+  | "mundo"
+  | "coerencia"
+  | "opiniao"
+  | "historico"
+  | "integridade";
+
+export const SECTIONS: {
+  slug: SectionSlug;
+  name: string;
+  question: string;
+  /** content = conteúdo novo (capacidades/projeto/mundo); metrics = linhas de dados */
+  kind: "content" | "metrics";
+  /** seções de currículo/opinião ficam depois das de capacidade */
+  secondary?: boolean;
+}[] = [
+  {
+    slug: "pais",
+    name: "Para onde querem levar o Brasil?",
+    question: "Qual país cada candidato descreve para os próximos 10–20 anos?",
+    kind: "content",
+  },
+  {
+    slug: "caminho",
+    name: "Como pretendem chegar lá?",
+    question: "Como as prioridades declaradas se transformam em propostas concretas?",
+    kind: "content",
+  },
+  {
+    slug: "capacidades",
+    name: "Que capacidades suas trajetórias demonstram?",
+    question: "Que evidências concretas existem de cada capacidade necessária para governar?",
+    kind: "content",
+  },
+  {
+    slug: "mundo",
+    name: "Como enxergam o Brasil no mundo?",
+    question: "Qual visão de política externa, estratégia e experiência internacional?",
+    kind: "content",
+  },
+  {
+    slug: "coerencia",
+    name: "O que suas trajetórias mostram?",
+    question: "Existe continuidade entre o que dizem, propõem e fizeram?",
+    kind: "content",
+  },
+  {
+    slug: "opiniao",
+    name: "Opinião pública",
+    question: "O que as pesquisas registradas mostram — sem relação com competência.",
+    kind: "metrics",
+    secondary: true,
+  },
+  {
+    slug: "historico",
+    name: "Histórico e trajetória",
+    question: "Currículo e percurso: medem oportunidade institucional, não capacidade.",
+    kind: "metrics",
+    secondary: true,
+  },
+  {
+    slug: "integridade",
+    name: "Integridade e responsabilidade institucional",
+    question: "Transparência, prestação de contas e processos, com a categoria jurídica explícita.",
+    kind: "content",
+    secondary: true,
+  },
+];
+
+/** Métrica do currículo/plano/opinião → seção onde ela aparece. */
+export const SECTION_OF_METRIC: Record<string, SectionSlug> = {
+  // plano (Como pretendem chegar lá)
+  propostas_total: "caminho",
+  propostas_com_custo: "caminho",
+  propostas_com_prazo: "caminho",
+  propostas_dependentes_congresso: "caminho",
+  // opinião pública
+  aprovacao_gestao: "opiniao",
+  intencao_voto_recente: "opiniao",
+  // histórico e trajetória (currículo)
+  anos_politica: "historico",
+  anos_legislativo: "historico",
+  anos_federal: "historico",
+  anos_executivo: "historico",
+  maior_orcamento: "historico",
+  equipe_gerida: "historico",
+  mandatos_eletivos: "historico",
+  votos_recebidos: "historico",
+  bens_declarados: "historico",
+  registro_tse: "historico",
+  // indicadores objetivos que sustentam capacidades (aparecem junto das evidências)
+  projetos_lei_aprovados: "capacidades",
+  bancada_partidaria_camara: "capacidades",
+  capacidade_dialogo: "capacidades",
+  negociacao_acordos: "capacidades",
+  articulacao_apoio: "capacidades",
+};
+
+export function sectionOfMetric(metricId: string): SectionSlug {
+  return SECTION_OF_METRIC[metricId] ?? "historico";
+}

@@ -1,0 +1,36 @@
+{
+  "grupo": "g3",
+  "escopo": "capacidade:execucao,dialogo-negociacao,lideranca-equipes",
+  "sources": [],
+  "candidates": {
+    "edmilson-costa": {
+      "capacities": [
+        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "hertz-dias": {
+      "capacities": [
+        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "rui-costa-pimenta": {
+      "capacities": [
+        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    },
+    "wilson-grassi": {
+      "capacities": [
+        { "slug": "execucao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "dialogo-negociacao", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] },
+        { "slug": "lideranca-equipes", "synthesis": "em consolidação", "coverage": "insuficiente", "coverageNote": "em consolidação", "evidences": [] }
+      ]
+    }
+  },
+  "dataGaps": ["em consolidação"]
+}

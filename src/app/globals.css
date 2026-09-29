@@ -16,6 +16,15 @@
   align-items: start;
 }
 
+/* Colunas de conteúdo por candidato (projeto de país, capacidades, mundo):
+   só as colunas de candidato — sem coluna de rótulo nem de diferença. */
+@utility content-cols {
+  display: grid;
+  grid-template-columns: repeat(var(--cmp-cols, 3), minmax(0, 1fr));
+  column-gap: 1rem;
+  align-items: start;
+}
+
 /* Barra proporcional de magnitude (indicador visual por candidato) */
 @utility cmp-track {
   height: 6px;

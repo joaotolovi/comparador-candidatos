@@ -128,6 +128,119 @@ const mapInstitutional = (r, i, slug) => {
   };
 };
 
+// ─── V3: capacidades, projeto de país, Brasil no mundo, coerência ────────────
+const CAP_SLUGS = new Set([
+  "execucao", "dialogo-negociacao", "lideranca-equipes", "tomada-decisao",
+  "gestao-crises", "coordenacao-institucional", "comunicacao-publica", "visao-estrategica",
+]);
+const CAP_NAMES = {
+  execucao: ["Capacidade de execução", "Consegue transformar prioridades em entregas concretas?"],
+  "dialogo-negociacao": ["Diálogo, negociação e articulação", "Consegue construir entendimento e coordenar atores com interesses diferentes?"],
+  "lideranca-equipes": ["Liderança e formação de equipes", "Consegue montar, coordenar, delegar e manter equipes funcionando?"],
+  "tomada-decisao": ["Tomada de decisão", "Como enfrentou decisões difíceis, trade-offs e pressão?"],
+  "gestao-crises": ["Gestão de crises e mudança", "Como atuou quando o cenário mudou ou surgiu uma situação crítica?"],
+  "coordenacao-institucional": ["Coordenação institucional", "Consegue trabalhar entre instituições, níveis de governo e organizações?"],
+  "comunicacao-publica": ["Comunicação pública", "Consegue explicar prioridades, decisões e posições de forma compreensível e consistente?"],
+  "visao-estrategica": ["Visão estratégica", "Consegue definir prioridades e conectar decisões de curto prazo a objetivos maiores?"],
+};
+const COV = new Set(["documentada", "parcial", "insuficiente"]);
+const CLAIM = new Set(["posicao", "proposta", "historico"]);
+const textField = (v) => (typeof v === "string" ? v : "");
+
+const mapEvidence = (e, i, slug, capSlug) => ({
+  id: e.id ?? `ev-cap-${capSlug}-${slug}-${i + 1}`,
+  kind: pick(CLAIM, e.kind, "historico"),
+  title: e.title ?? "",
+  role: e.role ?? "",
+  complexity: e.complexity ?? "",
+  outcome: e.outcome ?? undefined,
+  period: e.period ?? "",
+  context: e.context ?? undefined,
+  sources: e.sources ?? [],
+  evidenceStatus: pick(EV, e.evidenceStatus, (e.sources ?? []).length ? "confirmado" : "parcial"),
+  confidenceLevel: pick(CF, e.confidenceLevel, (e.sources ?? []).length ? "medium" : "low"),
+});
+
+const mapCapacities = (list, slug, fallbackDate) =>
+  (list ?? [])
+    .filter((c) => c && CAP_SLUGS.has(c.slug))
+    .map((c) => {
+      const [name, question] = CAP_NAMES[c.slug];
+      const evidences = (c.evidences ?? [])
+        .filter((e) => e && e.title && (e.sources ?? []).length > 0)
+        .slice(0, 6)
+        .map((e, i) => mapEvidence(e, i, slug, c.slug));
+      const coverage = COV.has(c.coverage)
+        ? c.coverage
+        : evidences.length >= 3
+        ? "documentada"
+        : evidences.length
+        ? "parcial"
+        : "insuficiente";
+      return {
+        slug: c.slug,
+        name,
+        question,
+        synthesis: textField(c.synthesis),
+        coverage,
+        coverageNote: c.coverageNote ?? undefined,
+        evidences,
+        updatedAt: c.updatedAt ?? fallbackDate,
+      };
+    });
+
+const mapCountryProject = (p, fallbackDate) =>
+  !p || (!p.vision && !p.developmentModel)
+    ? undefined
+    : {
+        vision: textField(p.vision),
+        nationalPriorities: Array.isArray(p.nationalPriorities)
+          ? p.nationalPriorities.filter((x) => typeof x === "string").slice(0, 8)
+          : [],
+        developmentModel: textField(p.developmentModel),
+        sources: p.sources ?? [],
+        evidenceStatus: pick(EV, p.evidenceStatus, (p.sources ?? []).length ? "parcial" : "indeterminado"),
+        confidenceLevel: pick(CF, p.confidenceLevel, (p.sources ?? []).length ? "medium" : "low"),
+        methodology: p.methodology ?? undefined,
+        updatedAt: p.updatedAt ?? fallbackDate,
+      };
+
+const mapForeignPolicy = (p, fallbackDate) =>
+  !p || (!p.worldView && !p.strategy && !p.internationalExperience)
+    ? undefined
+    : {
+        worldView: textField(p.worldView),
+        strategy: textField(p.strategy),
+        internationalExperience: textField(p.internationalExperience),
+        projection: textField(p.projection),
+        projectionNote:
+          textField(p.projectionNote) ||
+          "Projeção internacional mede notoriedade, não capacidade diplomática.",
+        sources: p.sources ?? [],
+        evidenceStatus: pick(EV, p.evidenceStatus, (p.sources ?? []).length ? "parcial" : "indeterminado"),
+        confidenceLevel: pick(CF, p.confidenceLevel, (p.sources ?? []).length ? "medium" : "low"),
+        methodology: p.methodology ?? undefined,
+        updatedAt: p.updatedAt ?? fallbackDate,
+      };
+
+const mapCoherence = (list) =>
+  (list ?? [])
+    .filter((c) => c && c.theme)
+    .map((c, i) => ({
+      id: c.id ?? `coh-${i + 1}`,
+      theme: c.theme,
+      timeline: (c.timeline ?? [])
+        .filter((t) => t && t.year)
+        .map((t) => ({ year: String(t.year), position: textField(t.position), sources: t.sources ?? [] })),
+      publicExplanation: c.publicExplanation ?? undefined,
+      statedPosition: c.statedPosition ?? undefined,
+      proposedAction: c.proposedAction ?? undefined,
+      historicalAction: c.historicalAction ?? undefined,
+      tensionNote: c.tensionNote ?? undefined,
+      evidenceStatus: pick(EV, c.evidenceStatus, "parcial"),
+      confidenceLevel: pick(CF, c.confidenceLevel, "low"),
+    }));
+
 const files = existsSync(researchDir)
   ? readdirSync(researchDir).filter(
       (f) => f.endsWith(".json") && !f.startsWith("_") && f !== "TEMPLATE.md"
@@ -136,6 +249,7 @@ const files = existsSync(researchDir)
 
 const overrides = [];
 const seen = new Set();
+const today = new Date().toISOString().slice(0, 10);
 let invalid = 0;
 
 for (const f of files) {
@@ -252,6 +366,10 @@ for (const f of files) {
     institutionalHistory: (d.institutionalHistory ?? [])
       .map((r, i) => mapInstitutional(r, i, slug))
       .filter(Boolean),
+    countryProject: mapCountryProject(d.countryProject, d.updatedAt ?? today),
+    capacities: mapCapacities(d.capacities, slug, d.updatedAt ?? today),
+    foreignPolicy: mapForeignPolicy(d.foreignPolicy, d.updatedAt ?? today),
+    coherence: mapCoherence(d.coherence),
     metrics,
     sources: (d.sources ?? []).map(coerceSource),
     updatedAt: d.updatedAt ?? new Date().toISOString().slice(0, 10),

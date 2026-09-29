@@ -1,0 +1,1957 @@
+{
+  "grupo": "g2",
+  "escopo": "capacidades:execucao,dialogo-negociacao,lideranca-equipes",
+  "sources": [
+    {
+      "id": "src-ac-60",
+      "title": "Arco to acquire Escola da Inteligência",
+      "publisher": "Arco Platform Limited / GlobeNewswire",
+      "url": "https://globenewswire.com/news-release/2020/08/28/2085682/0/en/arco-to-acquire-escola-da-intelig%C3%AAncia.html",
+      "publishedAt": "2020-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Comunicado da companhia adquirente: solução de aprendizagem socioemocional baseada na Teoria da Inteligência Multifocal, criada por Augusto Cury; atendimento declarado de 330 mil alunos em cerca de 900 escolas; pagamento total de R$ 480 milhões; fechamento do negócio em 02/12/2020 após aprovação do CADE sem condicionantes."
+    },
+    {
+      "id": "src-ac-61",
+      "title": "Empresa de Goiânia movimentou R$ 30 milhões com metodologia de Augusto Cury em contratos públicos",
+      "publisher": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/empresa-de-goiania-movimentou-r-30-milhoes-com-metodologia-de-augusto-cury-em-contratos-publicos-865216/",
+      "publishedAt": "2026-09-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento aponta 25 contratos e instrumentos em dez estados; maior volume em Itajaí, com cinco acordos somando R$ 21,8 milhões."
+    },
+    {
+      "id": "src-ac-62",
+      "title": "Após Flávio e Caiado, Cury troca de marqueteiro a dias de início da campanha na televisão",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/18/apos-flavio-e-caiado-cury-troca-marqueteiro-a-dias-de-inicio-da-campanha-na-televisao.ghtml",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Leandro Grôppo deixou o posto e foi substituído por Sergio Lima, que já havia colaborado na pré-campanha."
+    },
+    {
+      "id": "src-ac-63",
+      "title": "Campanha presidencial de Augusto Cury em 2026",
+      "publisher": "Wikipédia (pt)",
+      "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Augusto_Cury_em_2026",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Verbete usado como índice: convenção nacional do Avante (03/08/2026), apoio formal do Agir em convenção de 05/08/2026, coligação 'Brasil dos Nossos Sonhos' (Avante e Agir), chapa Cury/Júlio Delgado."
+    },
+    {
+      "id": "src-ac-64",
+      "title": "Augusto Cury — O autor mais lido da última década (números declarados pela própria campanha)",
+      "publisher": "Site do autor Augusto Cury",
+      "url": "https://augusto-cury-site.webflow.io/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Página própria do autor/candidato: +30 milhões de livros vendidos, publicação em +70 países, +40 mil alunos da Academia de Gestão da Emoção e +300 mil crianças e adolescentes em programa Escola da Inteligência. Números autodeclarados, sem auditoria independente."
+    },
+    {
+      "id": "src-ac-65",
+      "title": "Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/augusto-cury-nao-declarou-tres-empresas-nos-eua-ao-tse-campanha-diz-que-e-erro-e-corrigira-dados.ghtml",
+      "publishedAt": "2026-09-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Participações societárias em Cury Academia Comportamental, Contemplare Investments e Free Mind Publish."
+    },
+    {
+      "id": "src-cb-40",
+      "title": "Eleições 2026: Ficha de Clariana Barao (DC)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/clariana-barao-280002552484.shtml",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Ficha do candidato com dados do TSE: advogada nascida em Cuiabá (1987), formada pela Univag, presidiu comissão de assistência social na OAB, filiou-se ao DC e assumiu em 2026 a presidência do diretório estadual em MT."
+    },
+    {
+      "id": "src-cb-41",
+      "title": "Eleições 2026: Clariana Barão defende diálogo e promete 'governo para o Brasil'",
+      "publisher": "Gazeta de São Paulo",
+      "url": "https://www.gazetasp.com.br/politica/eleicoes-2026-clariana-barao-defende-dialogo-e-promete-governo-para-o-brasil/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026); entrevista exclusiva em São Paulo sobre proteção às mulheres, segurança pública, crime organizado e polarização."
+    },
+    {
+      "id": "src-cb-42",
+      "title": "Partido DC aposta em renovação e anuncia advogada de MT à presidência da República",
+      "publisher": "Potência MT",
+      "url": "https://potenciamt.com.br/noticia/2696/partido-dc-aposta-em-renovacao-e-anuncia-advogada-de-mt-a-presidencia-da-republica",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026). Anúncio após a desistência de Joaquim Barbosa; a então presidente do diretório estadual do DC em MT foi apresentada como candidata."
+    },
+    {
+      "id": "src-cb-43",
+      "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6x1",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista ao vivo; a candidata falou sobre plano de governo, reforma do STF, revisão dos processos de 8 de janeiro e fim da escala 6x1."
+    },
+    {
+      "id": "src-cb-44",
+      "title": "Quem são os candidatos a presidente da República do Brasil nas eleições 2026",
+      "publisher": "Jota",
+      "url": "https://jota.info/eleicoes/eleicoes-2026/quem-sao-pre-candidatos-a-presidente-da-republica-eleicoes-de-2026",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026): registra a sequência de substituições no DC (Aldo Rebelo, Joaquim Barbosa, Clariana Barão)."
+    },
+    {
+      "id": "src-la-30",
+      "title": "PRTB anuncia Leonardo Avalanche como pré-candidato a presidente",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/prtb-anuncia-leonardo-avalanche-como-pre-candidato-a-presidente",
+      "publishedAt": "2026-07-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-la-31",
+      "title": "Quem é Leonardo Avalanche, candidato a presidente pelo PRTB",
+      "publisher": "Último Segundo / iG",
+      "url": "https://ultimosegundo.ig.com.br/2026-08-10/quem-e-leonardo-avalanche--candidato-a-presidente-pelo-prtb.html",
+      "publishedAt": "2026-08-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil de trajetória: empresário goiano, presidente do partido, estreia nas urnas em 2026."
+    },
+    {
+      "id": "src-la-32",
+      "title": "Partido de Pablo Marçal é o que tem menos candidatos em 2026",
+      "publisher": "Correio Braziliense (blog Em Alta na Política)",
+      "url": "https://newblogs.correiobraziliense.com.br/emaltanapolitica/partido-de-pablo-marcal-e-o-que-tem-menos-candidatos-em-2026/",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Dados abertos do TSE: PRTB com 12 candidatos registrados em 2026, disputando os governos do DF e do Maranhão."
+    },
+    {
+      "id": "src-la-33",
+      "title": "PRTB deixa coligação de Marconi Perillo e abre negociação por novo apoio em Goiás",
+      "publisher": "Poder Goiás",
+      "url": "https://www.podergoias.com.br/materia/27350/prtb-deixa-coligacao-de-marconi-e-abre-negociacao-por-novo-apoio-em-goias",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026); posterior à nota de 08/09/2026 em que o partido confirmava a manutenção da aliança."
+    },
+    {
+      "id": "src-la-34",
+      "title": "PRTB muda comando em Goiás e inicia reestruturação de olho nas eleições de 2026",
+      "publisher": "Jornal Hora Extra",
+      "url": "https://www.jornalhoraextra.com.br/destaques/prtb-muda-comando-em-goias-e-inicia-reestruturacao-de-olho-nas-eleicoes-de-2026",
+      "publishedAt": "2026-06-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-la-35",
+      "title": "Marçal reata com presidente do PRTB e diz estar comprometido de vez com o partido",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2024/noticia/2024/09/04/marcal-reata-com-presidente-do-prtb-e-diz-estar-comprometido-de-vez-com-o-partido-mesmo-sob-suspeitas.ghtml",
+      "publishedAt": "2024-09-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registra a interlocução entre o candidato e o presidente nacional do PRTB durante a campanha municipal de São Paulo (2024)."
+    },
+    {
+      "id": "src-la-36",
+      "title": "O novo candidato ao Planalto que entrou na corrida a vinte dias da eleição",
+      "publisher": "Veja",
+      "url": "https://veja.abril.com.br/brasil/o-novo-candidato-ao-planalto-que-entrou-na-corrida-a-vinte-dias-da-eleicao/",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-la-37",
+      "title": "Leonardo Avalanche anuncia candidatura à Presidência no lugar de Marçal",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/leonardo-avalanche-anuncia-candidatura-a-presidencia-no-lugar-de-marcal/",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Anúncio divulgado nas redes sociais em 15/09/2026, após o indeferimento do registro de Marçal pelo TSE."
+    },
+    {
+      "id": "src-rs-57",
+      "title": "Renan aposta em vaquinha, base do MBL e Faria Lima para disputar 2026 sem máquina partidária",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/renan-aposta-em-vaquinha-base-do-mbl-e-faria-lima-para-disputar-2026-sem-maquina-partidaria/",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado. Descreve a montagem da campanha fora dos meios tradicionais: sem tempo de TV relevante, com acesso à cota mínima do Fundo Eleitoral e apoiada na base do MBL e em doações."
+    },
+    {
+      "id": "src-rs-58",
+      "title": "Vaquinhas eleitorais: líderes de arrecadação receberam juntos R$ 3 milhões e têm presença forte nas redes sociais",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/05/vaquinhas-eleitorais-lideres-de-arrecadacao.ghtml",
+      "publishedAt": "2026-07-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Financiamento coletivo liberado desde 15/05/2026; Renan Santos liderava a arrecadação por vaquinha, com mais de R$ 1 milhão até a data."
+    },
+    {
+      "id": "src-rs-59",
+      "title": "Renan Santos vai ao interior para buscar ser mais conhecido",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/07/20/renan-santos-vai-ao-interior-para-buscar-ser-mais-conhecido.ghtml",
+      "publishedAt": "2026-07-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Pré-candidato desconhecido por 77% segundo Genial/Quaest; plano de concluir roteiro de 100 cidades naquela semana."
+    },
+    {
+      "id": "src-rs-60",
+      "title": "Renan aposta no interior para crescer, mas esbarra na estrutura do Missão",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-aposta-no-interior-para-crescer-mas-esbarra-na-estrutura-do-missao",
+      "publishedAt": "2026-08-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Relata a estratégia de campanha em cidades do interior e as limitações de estrutura partidária nas praças fora dos grandes centros."
+    },
+    {
+      "id": "src-rs-61",
+      "title": "Estreante em eleições, Renan Santos é empresário e fundador do MBL",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/01/estreante-em-eleicoes-renan-santos-e-empresario-e-fundador-do-mbl.ghtml",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-62",
+      "title": "Líder do MBL, que pede impeachment de Dilma, responde a mais de 60 processos (Renan Santos, um dos coordenadores do MBL)",
+      "publisher": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2016/05/09/lider-do-mbl-que-pede-impeachment-de-dilma-responde-a-mais-de-60-processos",
+      "publishedAt": "2016-05-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Usada exclusivamente para o papel exercido ('um dos coordenadores do Movimento Brasil Livre')."
+    },
+    {
+      "id": "src-rs-63",
+      "title": "O que Renan Santos diz sobre não citar Deus na campanha",
+      "publisher": "Estado de Minas (PlatôBR)",
+      "url": "https://www.em.com.br/politica/platobr/2026/08/7490472-o-que-renan-santos-diz-sobre-nao-citar-deus-na-campanha.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado. Reação de lideranças políticas em Brasília após o debate da Band e a sabatina do Jornal Nacional."
+    },
+    {
+      "id": "src-sm-45",
+      "title": "Campanha presidencial de Samara Martins em 2026",
+      "publisher": "Wikipédia (pt)",
+      "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Samara_Martins_em_2026",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "editorial",
+      "notes": "Verbete usado como índice: Samara Martins exerceu a vice-presidência nacional da UP entre 2016 e 2026, com atuação na organização partidária e em movimentos populares; chapa pura (sem coligação) em 2026, vice Raquel Brício."
+    },
+    {
+      "id": "src-sm-46",
+      "title": "Única mulher na disputa, Samara Martins lança pré-candidatura à Presidência (reunião do Diretório Nacional, 1º de fevereiro)",
+      "publisher": "Agemt — Jornalismo PUC-SP",
+      "url": "https://agemt.pucsp.br/noticias/unica-mulher-na-disputa-samara-martins-lanca-pre-candidatura-presidencia",
+      "publishedAt": "2026-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado. Aprovação do nome pelo Diretório Nacional em 01/02/2026."
+    },
+    {
+      "id": "src-sm-47",
+      "title": "Samara Martins desembarca em Belém para lançar pré-candidatura à Presidência",
+      "publisher": "Ponto de Pauta (PA)",
+      "url": "https://pontodepauta.com/2026/04/30/samara-martins-desembarca-em-belem-para-lancar-pre-candidatura-a-presidencia/",
+      "publishedAt": "2026-04-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda de lançamento da pré-candidatura em Belém, nos dias 2 e 3 de maio de 2026."
+    },
+    {
+      "id": "src-sm-48",
+      "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Salvador",
+      "publisher": "g1 (Globo) — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/23/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-salvador.ghtml",
+      "publishedAt": "2026-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-49",
+      "title": "Dentista do SUS e militante de esquerda: Quem é Samara Martins (UP), candidata à Presidência",
+      "publisher": "Jovem Pan",
+      "url": "https://jovempan.com.br/noticias/dentista-do-sus-e-militante-de-esquerda-quem-e-samara-martins-up-candidata-a-presidencia/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026). Cirurgiã-dentista do SUS, vice-presidente da UP, vinculada à militância antirracista e à direção do Movimento de Mulheres Olga Benário."
+    },
+    {
+      "id": "src-sm-50",
+      "title": "Quem é Samara Martins, candidata da UP à Presidência da República",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026). Dentista do SUS, dirigente partidária e militante de movimentos populares; chapa com a sindicalista paraense Raquel Brício."
+    },
+    {
+      "id": "src-sm-51",
+      "title": "Única mulher pré-candidata à Presidência, Samara Martins cumpre agenda em Fortaleza",
+      "publisher": "O Povo (Vertical)",
+      "url": "https://mais.opovo.com.br/colunistas/vertical/2026/04/02/candidata-a-presidencia-samara-martins-cumpre-agenda-em-fortaleza.html",
+      "publishedAt": "2026-04-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    }
+  ],
+  "candidates": {
+    "renan-santos": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "synthesis": "Fundou e presidiu a estruturação do Partido Missão: coleta de mais de 577 mil assinaturas validadas, estatuto publicado no DOU em 18/10/2023 e registro deferido por unanimidade pelo TSE em 04/11/2025. Coordenou a organização das mobilizações de 2015-2016 (atos de 15/03/2015 e 13/03/2016) e lançou 535 candidaturas em 25 estados e no DF na primeira eleição do partido. Na campanha presidencial de 2026, optou por financiamento coletivo e por uma estrutura própria, sem depender de Fundo Eleitoral para a chapa presidencial.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-rs-01",
+              "kind": "historico",
+              "title": "Criação e registro do Partido Missão no TSE",
+              "role": "presidente nacional e responsável pelo processo de criação da legenda (estatuto publicado no DOU em 18/10/2023)",
+              "complexity": "alcance nacional; mais de 577 mil assinaturas validadas; exigência legal de apoio em ao menos 9 estados; 1 órgão decisório (TSE)",
+              "outcome": "registro deferido por unanimidade em 04/11/2025, com o número 14 — 30ª legenda registrada no país",
+              "period": "2023-2025",
+              "context": "Partido criado a partir do MBL, movimento sem registro partidário, que precisou reunir assinaturas e apoio formal em estados antes de poder disputar eleições.",
+              "sources": [
+                {
+                  "id": "src-rs-01"
+                },
+                {
+                  "id": "src-rs-02"
+                },
+                {
+                  "id": "src-rs-03"
+                },
+                {
+                  "id": "src-rs-04"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-rs-02",
+              "kind": "historico",
+              "title": "Lançamento de 535 candidaturas em 25 estados e no DF na primeira eleição do partido",
+              "role": "presidente nacional do Partido Missão",
+              "complexity": "alcance nacional; 535 candidaturas em 25 estados e no DF; partido sem mandatos majoritários e com 1 deputado federal na legislatura",
+              "outcome": "candidaturas oficializadas e registradas para a eleição de 2026",
+              "period": "2026",
+              "context": "Primeira eleição disputada pela legenda, criada em novembro de 2025, o que exigiu montar diretórios e chapas proporcionais em quase todo o país.",
+              "sources": [
+                {
+                  "id": "src-rs-50"
+                },
+                {
+                  "id": "src-rs-34"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rs-03",
+              "kind": "historico",
+              "title": "Coordenação das mobilizações de 2015-2016",
+              "role": "um dos coordenadores do Movimento Brasil Livre (MBL), citado como coordenador do movimento em cobertura da Agência Senado",
+              "complexity": "alcance nacional; atos em pelo menos 250 cidades em 13/03/2016 e ato na Avenida Paulista em 15/03/2015; articulação com movimentos distintos (Vem Pra Rua e Nas Ruas, com estruturas próprias)",
+              "outcome": "atos realizados nas datas convocadas; o comitê entregou ao presidente da Câmara pedido de impeachment com assinaturas populares",
+              "period": "2014-2016",
+              "context": "Mobilizações convocadas por redes sociais, com estimativas de público divergentes entre organizadores e imprensa.",
+              "sources": [
+                {
+                  "id": "src-rs-42"
+                },
+                {
+                  "id": "src-rs-43"
+                },
+                {
+                  "id": "src-rs-62"
+                },
+                {
+                  "id": "src-rs-49"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rs-04",
+              "kind": "historico",
+              "title": "Financiamento da campanha presidencial por doação coletiva",
+              "role": "candidato; coordenação da campanha conduzida por Amanda Vettorazzo",
+              "complexity": "alcance nacional; teto de gastos da campanha presidencial registrado em R$ 88.944.030,80; cota mínima de Fundo Eleitoral; recursos públicos priorizados para candidatos a cargos legislativos e estaduais",
+              "outcome": "liderança na arrecadação por vaquinha entre pré-candidatos, com mais de R$ 1 milhão até 05/07/2026",
+              "period": "2026",
+              "context": "Partido recém-registrado, com 1 deputado federal e sem estrutura de grandes legendas; a campanha foi desenhada para operar com doação de pessoas físicas e venda de livro.",
+              "sources": [
+                {
+                  "id": "src-rs-30"
+                },
+                {
+                  "id": "src-rs-58"
+                },
+                {
+                  "id": "src-rs-57"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rs-05",
+              "kind": "historico",
+              "title": "Execução de roteiro de campanha no interior",
+              "role": "candidato",
+              "complexity": "alcance nacional; roteiro anunciado de 100 cidades; caravana pelo Centro-Oeste entre 19 e 26/07/2026; pré-candidato desconhecido por 77% do eleitorado em pesquisa Genial/Quaest",
+              "outcome": "roteiro executado no período anunciado; cobertura de imprensa registra limitação de estrutura partidária nas praças fora dos grandes centros",
+              "period": "2026",
+              "context": "Estratégia de interiorização diante de baixo conhecimento do eleitorado e de pouco tempo de televisão.",
+              "sources": [
+                {
+                  "id": "src-rs-59"
+                },
+                {
+                  "id": "src-rs-60"
+                },
+                {
+                  "id": "src-rs-61"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "Participou da articulação do 'Comitê do Impeachment' (2015-2016), com reuniões documentadas com o então presidente da Câmara Eduardo Cunha e com o líder da oposição Aécio Neves, e o MBL admitiu apoio material de PSDB, PMDB, DEM e Solidariedade às mobilizações. Em 2026, conduziu agenda com entidades e lideranças empresariais (conferência do Banco Santander, agenda em Brasília e encontro na Câmara Americana de Comércio) e negociou internamente a destinação do Fundo Eleitoral, priorizando os candidatos do partido a cargos legislativos e estaduais. A chapa presidencial foi registrada como partido isolado, sem coligação ou federação.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-rs-06",
+              "kind": "historico",
+              "title": "Articulação do 'Comitê do Impeachment' com partidos e com a presidência da Câmara",
+              "role": "um dos líderes do comitê, com reuniões em Brasília com o presidente da Câmara Eduardo Cunha e com o líder da oposição Aécio Neves",
+              "complexity": "alcance nacional; interlocução com 4 partidos (PSDB, PMDB, DEM e Solidariedade) e com a presidência da Câmara; movimento com estrutura própria",
+              "outcome": "pedido com assinaturas populares entregue à Câmara; abertura do processo de impeachment admitida por Eduardo Cunha em 02/12/2015",
+              "period": "2015-2016",
+              "context": "Movimento sem representação parlamentar própria, que dependia de interlocução com dirigentes partidários e com a mesa da Câmara para viabilizar o pedido.",
+              "sources": [
+                {
+                  "id": "src-rs-43"
+                },
+                {
+                  "id": "src-rs-25"
+                },
+                {
+                  "id": "src-rs-42"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rs-07",
+              "kind": "historico",
+              "title": "Apoio material de partidos às mobilizações do MBL (2016)",
+              "role": "um dos coordenadores do MBL",
+              "complexity": "4 partidos (PSDB, PMDB, DEM e Solidariedade); aporte de transporte (ônibus) e alimentação às mobilizações",
+              "outcome": "apoio admitido em gravação divulgada em fevereiro de 2016, apesar do discurso apartidário do movimento",
+              "period": "2016",
+              "context": "Relação com as máquinas partidárias em ano de votação do impeachment na Câmara.",
+              "sources": [
+                {
+                  "id": "src-rs-25"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-rs-08",
+              "kind": "historico",
+              "title": "Agenda com entidades e lideranças empresariais na campanha de 2026",
+              "role": "candidato à Presidência",
+              "complexity": "alcance nacional; exposição em conferência do Banco Santander em São Paulo (17/08), agenda de encontros em Brasília (18/08) e encontro na Câmara Americana de Comércio (10/09/2026)",
+              "outcome": "diálogo registrado e plano econômico apresentado; ao final da agenda, a imprensa registrava que o apoio declarado de empresários seguia restrito",
+              "period": "2026",
+              "context": "Candidato fora do campo de governo, buscando interlocução com setor empresarial que também negociava com outras candidaturas.",
+              "sources": [
+                {
+                  "id": "src-rs-51"
+                },
+                {
+                  "id": "src-rs-52"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rs-09",
+              "kind": "historico",
+              "title": "Negociação interna da destinação do Fundo Eleitoral",
+              "role": "presidente nacional e candidato; coordenação de campanha de Amanda Vettorazzo",
+              "complexity": "partido com 535 candidaturas em 25 estados e no DF; cota mínima de Fundo Eleitoral para a chapa presidencial; campanha presidencial sustentada por vaquinha e venda de livro",
+              "outcome": "campanha presidencial abriu mão de recursos do Fundo Eleitoral e manteve os repasses públicos para os candidatos proporcionais e estaduais",
+              "period": "2026",
+              "context": "Partido estreante, com recursos escassos, precisou escolher entre financiar a chapa presidencial ou as candidaturas com chance de eleição.",
+              "sources": [
+                {
+                  "id": "src-rs-30"
+                },
+                {
+                  "id": "src-rs-57"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rs-10",
+              "kind": "historico",
+              "title": "Opção por chapa pura e por não citar linguagem religiosa na campanha",
+              "role": "cabeça de chapa; vice Coronel Medina (MISSÃO)",
+              "complexity": "alcance nacional; chapa sem coligação ou federação registrada; vice do mesmo partido",
+              "outcome": "chapa pura registrada e deferida em 09/09/2026; opção por não usar referência religiosa gerou reação de lideranças políticas em Brasília",
+              "period": "2026",
+              "context": "Decisão de disputar isolado e de manter distância de uma base eleitoral historicamente ligada ao campo conservador.",
+              "sources": [
+                {
+                  "id": "src-rs-06"
+                },
+                {
+                  "id": "src-rs-37"
+                },
+                {
+                  "id": "src-rs-63"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Cofundou o MBL em novembro de 2014 e atuou como um de seus coordenadores, em movimento que operava com estrutura própria, distinta de outros grupos. Preside o Partido Missão desde 17/10/2023, conduzindo a criação de diretórios e a montagem de 535 candidaturas em 25 estados e no DF, com 29.911 filiados em agosto de 2026. Na campanha presidencial, a coordenação é exercida por Amanda Vettorazzo, com equipe descrita como enxuta e financiada por doações coletivas; não há quadro de pessoal nem organograma publicados.",
+          "coverage": "parcial",
+          "coverageNote": "Partido e campanha não publicam quadro de pessoal, número de integrantes de equipe ou organograma; as evidências de liderança e delegação vêm de papéis nominais citados pela imprensa (coordenação de campanha, coordenação de campanhas de aliados) e da montagem de estruturas (diretórios, chapas, atos).",
+          "evidences": [
+            {
+              "id": "ev-cap-rs-11",
+              "kind": "historico",
+              "title": "Cofundação e coordenação do Movimento Brasil Livre",
+              "role": "cofundador (nov/2014) e um dos coordenadores do MBL",
+              "complexity": "alcance nacional; mobilizações em pelo menos 250 cidades; coordenação de atos com estrutura própria (carros de som e organização distintos de Vem Pra Rua e Nas Ruas)",
+              "outcome": "movimento consolidado como um dos organizadores das manifestações de 2015-2016 e origem da legenda registrada em 2025",
+              "period": "2014-2016",
+              "context": "Grupo iniciado a partir de articulação em Vinhedo (SP), sem estrutura partidária prévia.",
+              "sources": [
+                {
+                  "id": "src-rs-24"
+                },
+                {
+                  "id": "src-rs-42"
+                },
+                {
+                  "id": "src-rs-49"
+                },
+                {
+                  "id": "src-rs-62"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rs-12",
+              "kind": "historico",
+              "title": "Presidência nacional do Partido Missão e montagem da estrutura partidária",
+              "role": "1º presidente nacional do Partido Missão, no cargo desde 17/10/2023",
+              "complexity": "alcance nacional; estatuto e programa publicados no DOU em 18/10/2023; 29.911 filiados em agosto de 2026; 535 candidaturas em 25 estados e no DF",
+              "outcome": "legenda registrada em 04/11/2025 e primeira eleição disputada em 2026 com chapas em 25 estados e no DF",
+              "period": "2023-2026",
+              "context": "Criação e operação de uma estrutura partidária nacional a partir de um movimento sem registro eleitoral.",
+              "sources": [
+                {
+                  "id": "src-rs-01"
+                },
+                {
+                  "id": "src-rs-36"
+                },
+                {
+                  "id": "src-rs-50"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rs-13",
+              "kind": "historico",
+              "title": "Coordenação da campanha presidencial de 2026",
+              "role": "candidato; coordenação de campanha atribuída a Amanda Vettorazzo",
+              "complexity": "alcance nacional; equipe descrita como 'estrutura enxuta', financiada por vaquinha e venda de livro; sem dependência de Fundo Eleitoral para a chapa presidencial",
+              "outcome": "campanha em operação com coordenação nomeada e estrutura própria; imprensa registra limites de estrutura nas praças do interior",
+              "period": "2026",
+              "context": "Campanha de partido recém-criado, com pouco tempo de televisão e equipe reduzida em relação a legendas com bancada maior.",
+              "sources": [
+                {
+                  "id": "src-rs-30"
+                },
+                {
+                  "id": "src-rs-54"
+                },
+                {
+                  "id": "src-rs-60"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-rs-14",
+              "kind": "historico",
+              "title": "Coordenação de campanhas eleitorais de aliados do MBL",
+              "role": "coordenador das campanhas de Kim Kataguiri e de Arthur do Val",
+              "complexity": "campanhas para deputado federal e estadual em São Paulo, entre 2018 e 2022",
+              "outcome": "mandatos obtidos pelos candidatos coordenados; informação atribuída pela imprensa, não verificada em documentos de prestação de contas eleitoral",
+              "period": "2018-2022",
+              "context": "Atuação eleitoral anterior à criação do partido próprio, apoiando candidaturas do mesmo grupo político.",
+              "sources": [
+                {
+                  "id": "src-rs-44"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
+        }
+      ]
+    },
+    "leonardo-avalanche": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "synthesis": "Assumeu a presidência nacional do PRTB em 23/02/2024, sucedendo direção provisória, e conduziu reformulação organizacional e reestruturação de diretórios, incluindo novo comando estadual em Goiás em junho de 2026. Após o indeferimento da chapa original pelo TSE em 11/09/2026 e a renúncia do titular, executou a substituição no último dia do prazo, com a chapa publicada no DJE de 18/09/2026. Antes disso, coordenou politicamente a candidatura de Pablo Marçal à Prefeitura de São Paulo em 2024, que terminou em terceiro lugar com 28,14% dos votos.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-la-01",
+              "kind": "historico",
+              "title": "Substituição da chapa presidencial do PRTB no último dia do prazo",
+              "role": "presidente nacional do PRTB e vice da chapa original; passou a titular após a renúncia de Pablo Marçal",
+              "complexity": "alcance nacional; prazo de substituição encerrando em 18/09/2026; decisão colegiada do TSE; risco de o partido ficar sem candidato na eleição presidencial",
+              "outcome": "chapa Leonardo Avalanche / Silvia Hellen registrada e publicada na lista oficial de candidaturas do DJE em 18/09/2026, com voto favorável da relatora",
+              "period": "2026",
+              "context": "Indeferimento por unanimidade do registro da chapa Marçal/Avalanche em 11/09/2026, seguido de renúncia do titular em 14/09/2026.",
+              "sources": [
+                {
+                  "id": "src-la-01"
+                },
+                {
+                  "id": "src-la-02"
+                },
+                {
+                  "id": "src-la-04"
+                },
+                {
+                  "id": "src-la-37"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-la-02",
+              "kind": "historico",
+              "title": "Coordenação política da candidatura de Pablo Marçal à Prefeitura de São Paulo",
+              "role": "coordenador político da campanha (presidente nacional do partido)",
+              "complexity": "alcance municipal no município de São Paulo; campanha com visibilidade nacional; partido sem prefeitos e com estrutura reduzida na cidade",
+              "outcome": "terceiro lugar na eleição municipal de 2024, com 28,14% dos votos",
+              "period": "2024",
+              "context": "Candidatura que projetou nacionalmente o partido após a morte do fundador Levy Fidelix e a direção provisória.",
+              "sources": [
+                {
+                  "id": "src-la-10"
+                },
+                {
+                  "id": "src-la-35"
+                },
+                {
+                  "id": "src-la-09"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-la-03",
+              "kind": "historico",
+              "title": "Reformulação organizacional e reestruturação de diretórios do PRTB",
+              "role": "presidente nacional, no cargo desde 23/02/2024",
+              "complexity": "alcance nacional; partido com 144.376 filiados em janeiro de 2026; comando estadual substituído em Goiás em junho de 2026; gestão marcada por disputas judiciais sobre o comando da legenda",
+              "outcome": "partido realizou convenção nacional em 29/07/2026 e voltou a disputar a Presidência, o que não ocorria desde 2014",
+              "period": "2024-2026",
+              "context": "Sucessão de administração provisória instituída após disputas internas posteriores à morte do fundador, com contestações judiciais sobre a eleição da direção.",
+              "sources": [
+                {
+                  "id": "src-la-10"
+                },
+                {
+                  "id": "src-la-11"
+                },
+                {
+                  "id": "src-la-34"
+                },
+                {
+                  "id": "src-la-14"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-la-04",
+              "kind": "historico",
+              "title": "Convenção nacional que oficializou a candidatura presidencial",
+              "role": "pré-candidato e presidente nacional do partido",
+              "complexity": "alcance nacional; convenção realizada em Goiânia em 29/07/2026; candidato a vice ainda não definido na data",
+              "outcome": "candidatura oficializada; vice anunciada posteriormente (Silvia Hellen da Silva Pereira)",
+              "period": "2026",
+              "context": "Primeira candidatura presidencial do PRTB desde 2014, montada em ano em que o partido registrou o menor número de candidaturas entre as legendas.",
+              "sources": [
+                {
+                  "id": "src-la-14"
+                },
+                {
+                  "id": "src-la-30"
+                },
+                {
+                  "id": "src-la-32"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-la-05",
+              "kind": "historico",
+              "title": "Execução da campanha eleitoral de 2026 com estrutura partidária reduzida",
+              "role": "candidato à Presidência e presidente nacional",
+              "complexity": "alcance nacional; 12 candidaturas registradas pelo partido para todos os cargos em 2026, com disputas de governo no DF e no Maranhão; campanha iniciada a 20 dias do primeiro turno",
+              "outcome": "campanha realizada com chapa registrada e agenda nacional em três semanas; imprensa registra que o PRTB foi a legenda com menos candidatos registrados em 2026",
+              "period": "2026",
+              "context": "Candidatura assumida após o início oficial da campanha, com estrutura partidária concentrada em poucos estados.",
+              "sources": [
+                {
+                  "id": "src-la-32"
+                },
+                {
+                  "id": "src-la-36"
+                },
+                {
+                  "id": "src-la-31"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "Manteve aliança eleitoral com Marconi Perillo (PSDB) no governo de Goiás, confirmada por nota em 08/09/2026 após especulação de rompimento, e depois retirou o partido da coligação e abriu negociação por novo apoio no estado. Em 2025, declarou publicamente que colocaria o PRTB à disposição de lideranças da direita para a eleição de 2026, entre elas o deputado Eduardo Bolsonaro. Conduziu também a interlocução com Pablo Marçal, que passou pelo partido em 2024 e teve o registro presidencial indeferido em 2026.",
+          "coverage": "parcial",
+          "coverageNote": "As negociações de 2026 aparecem em notas do partido e na imprensa regional, sem atas ou documentos de coligação disponíveis no pool de fontes; o registro DJE cobre apenas o resultado (chapa pura para a Presidência).",
+          "evidences": [
+            {
+              "id": "ev-cap-la-06",
+              "kind": "historico",
+              "title": "Aliança com Marconi Perillo (PSDB) no governo de Goiás e negociação de novo apoio",
+              "role": "presidente nacional do PRTB; aliança firmada e confirmada por nota do partido ao Jornal Opção",
+              "complexity": "alcance estadual (Goiás); acordo com a candidatura do PSDB ao governo; PRTB descrito como um dos poucos partidos a declarar apoio a Marconi Perillo",
+              "outcome": "aliança confirmada em nota em 08/09/2026 após notícias de rompimento; depois o partido deixou a coligação e abriu negociação por novo apoio no estado",
+              "period": "2026",
+              "context": "Disputa estadual em que o partido tinha capital político limitado e negociou apoio em troca de espaço na chapa.",
+              "sources": [
+                {
+                  "id": "src-la-25"
+                },
+                {
+                  "id": "src-la-26"
+                },
+                {
+                  "id": "src-la-33"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-la-07",
+              "kind": "posicao",
+              "title": "Oferta da legenda a lideranças da direita para a eleição de 2026",
+              "role": "presidente nacional do PRTB",
+              "complexity": "alcance nacional; interlocução declarada com lideranças do campo conservador, entre elas o deputado federal Eduardo Bolsonaro; partido com 144.376 filiados em janeiro de 2026",
+              "outcome": "entendimentos declarados em entrevistas ao longo de 2025; a articulação seguinte resultou na filiação de Pablo Marçal ao partido e na chapa registrada em agosto de 2026",
+              "period": "2025-2026",
+              "context": "Legenda sem bancada expressiva buscando abrigar uma candidatura competitiva da direita.",
+              "sources": [
+                {
+                  "id": "src-la-10"
+                },
+                {
+                  "id": "src-la-11"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-la-08",
+              "kind": "historico",
+              "title": "Filiação e registro da chapa Marçal/Avalanche e desfecho no TSE",
+              "role": "vice na chapa registrada em agosto de 2026; presidente nacional que conduziu o registro",
+              "complexity": "alcance nacional; chapa presidencial registrada em 15/08/2026; julgamento pelo Plenário do TSE",
+              "outcome": "registro indeferido por unanimidade em 11/09/2026, por não comprovação de filiação partidária do titular até abril de 2026; decisão declarou o titular inelegível até 2032 por irregularidades de prestação de contas",
+              "period": "2026",
+              "context": "Negociação que levou uma liderança de fora do partido à candidatura presidencial e terminou em indeferimento, abrindo espaço para a substituição pelo próprio dirigente.",
+              "sources": [
+                {
+                  "id": "src-la-02"
+                },
+                {
+                  "id": "src-la-13"
+                },
+                {
+                  "id": "src-la-05"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-la-09",
+              "kind": "historico",
+              "title": "Interlocução com a candidatura de Pablo Marçal durante a campanha municipal de 2024",
+              "role": "presidente nacional do partido e interlocutor da campanha municipal",
+              "complexity": "alcance municipal no município de São Paulo; campanha com três trocas de posição pública entre candidato e direção partidária no mesmo mês",
+              "outcome": "candidato declarou publicamente estar comprometido com o partido em setembro de 2024, após ter pedido o afastamento do presidente nacional",
+              "period": "2024",
+              "context": "Relação entre a direção nacional e uma candidatura de forte apelo eleitoral, com conflito público sobre suspeitas envolvendo dirigentes.",
+              "sources": [
+                {
+                  "id": "src-la-35"
+                },
+                {
+                  "id": "src-la-09"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Assumeu a presidência nacional do PRTB sucedendo uma administração provisória e nomeou novo comando estadual em Goiás em junho de 2026, conduzindo o partido à convenção nacional de 29/07/2026. Coordenou politicamente a campanha de Pablo Marçal à Prefeitura de São Paulo em 2024 e, em 2026, formou a chapa com Silvia Hellen da Silva Pereira como vice. A gestão à frente da legenda foi acompanhada de disputas judiciais sobre o comando do partido e de acusações de dirigentes afastados, que ele nega.",
+          "coverage": "parcial",
+          "coverageNote": "Não há publicação de organograma, quadro de pessoal ou de equipe de campanha do PRTB; as evidências se baseiam em atos de nomeação de diretórios, na composição da chapa e na coordenação política documentada pela imprensa.",
+          "evidences": [
+            {
+              "id": "ev-cap-la-10",
+              "kind": "historico",
+              "title": "Recomposição da direção nacional e dos diretórios estaduais do PRTB",
+              "role": "presidente nacional eleito em 23/02/2024, sucedendo direção provisória",
+              "complexity": "alcance nacional; 144.376 filiados em janeiro de 2026; comando estadual em Goiás substituído em 27/06/2026 com início de reestruturação",
+              "outcome": "nova direção instalada; partido realizou convenção nacional em 29/07/2026 e lançou chapa presidencial",
+              "period": "2024-2026",
+              "context": "Herança de administração provisória criada após disputas internas na sucessão do fundador, com ações judiciais contestando a eleição da direção.",
+              "sources": [
+                {
+                  "id": "src-la-10"
+                },
+                {
+                  "id": "src-la-11"
+                },
+                {
+                  "id": "src-la-34"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-la-11",
+              "kind": "historico",
+              "title": "Coordenação política de campanha municipal com equipe própria",
+              "role": "coordenador político da candidatura à Prefeitura de São Paulo em 2024",
+              "complexity": "campanha no município de São Paulo; estrutura de campanha montada pelo partido, com material de campanha e agenda própria; resultado de 28,14% dos votos",
+              "outcome": "campanha coordenada até a votação, com terceiro lugar no primeiro turno",
+              "period": "2024",
+              "context": "Partido com presença reduzida na cidade assumiu a coordenação de uma candidatura de forte circulação nacional.",
+              "sources": [
+                {
+                  "id": "src-la-10"
+                },
+                {
+                  "id": "src-la-09"
+                },
+                {
+                  "id": "src-la-35"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-la-12",
+              "kind": "historico",
+              "title": "Composição da chapa presidencial e definição da vice",
+              "role": "cabeça de chapa; vice Silvia Hellen da Silva Pereira, também de Anápolis (GO)",
+              "complexity": "alcance nacional; chapa pura, sem federação ou coligação registrada; indicação e registro concluídos em 48 horas após a renúncia do titular anterior",
+              "outcome": "chapa registrada e publicada no DJE de 18/09/2026",
+              "period": "2026",
+              "context": "Definição de companheiro de chapa em prazo reduzido, com o partido sob risco de ficar fora da disputa presidencial.",
+              "sources": [
+                {
+                  "id": "src-la-01"
+                },
+                {
+                  "id": "src-la-04"
+                },
+                {
+                  "id": "src-la-36"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            }
+          ]
+        }
+      ]
+    },
+    "augusto-cury": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "synthesis": "Criou a Teoria da Inteligência Multifocal e a partir dela fundou a Escola da Inteligência, programa de educação socioemocional cujo controle foi adquirido pela Arco Educação em 2020, em negócio que envolveu cerca de 900 escolas e 330 mil alunos. A metodologia foi licenciada para redes públicas em dez estados, em 25 contratos e instrumentos identificados em levantamento de imprensa. Mantém produção editorial própria (mais de 50 títulos) e o programa de governo 'O Brasil dos Nossos Sonhos', com cerca de 200 páginas e propostas para 18 áreas, registrado no TSE.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-ac-01",
+              "kind": "historico",
+              "title": "Criação e desenvolvimento da Escola da Inteligência e venda do controle acionário",
+              "role": "criador da metodologia (Teoria da Inteligência Multifocal) e fundador da empresa; a operação societária foi conduzida pela Arco Educação como adquirente",
+              "complexity": "alcance nacional; programa aplicado em cerca de 900 escolas e 330 mil alunos segundo o comunicado da aquisição; empresa com aproximadamente 116 colaboradores em 2026; negócio de R$ 480 milhões (60% por R$ 288 milhões segundo o Valor)",
+              "outcome": "negócio fechado em 02/12/2020 após aprovação do CADE sem condicionantes; a metodologia permaneceu sendo licenciada a redes de ensino depois da venda",
+              "period": "2010-2020",
+              "context": "Construção de um produto educacional proprietário a partir de teoria própria, em mercado de escolas públicas e privadas.",
+              "sources": [
+                {
+                  "id": "src-ac-60"
+                },
+                {
+                  "id": "src-ac-48"
+                },
+                {
+                  "id": "src-ac-46"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ac-02",
+              "kind": "historico",
+              "title": "Licenciamento da metodologia para redes públicas de ensino",
+              "role": "autor e licenciador da metodologia; a comercialização foi feita por empresas parceiras",
+              "complexity": "alcance nacional; 25 contratos e instrumentos em dez estados segundo levantamento da imprensa; cerca de R$ 30 milhões movimentados por empresa sediada em Goiânia, com cinco acordos somando R$ 21,8 milhões em Itajaí (SC)",
+              "outcome": "contratos firmados com municípios e estados em dez unidades da federação; levantamento publicado em setembro de 2026",
+              "period": "2026 (levantamento sobre contratos de anos anteriores)",
+              "context": "Programa educacional associado ao autor transformado em política pública contratada por prefeituras e estados, com questionamentos públicos sobre os contratos.",
+              "sources": [
+                {
+                  "id": "src-ac-61"
+                },
+                {
+                  "id": "src-ac-47"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ac-03",
+              "kind": "historico",
+              "title": "Produção e publicação editorial própria",
+              "role": "autor das obras",
+              "complexity": "alcance internacional; mais de 50 livros publicados e tradução para cerca de 70 países; números de vendas declarados variam conforme a data de referência (11 milhões em 2010; 27 milhões em 2016; mais de 30 milhões em 2017)",
+              "outcome": "obras publicadas por editoras de porte nacional e adaptação de 'O Vendedor de Sonhos' para o cinema em 2016",
+              "period": "2010-2026",
+              "context": "Projeto editorial de longa duração sustentado por vendas no mercado brasileiro e licenciamento no exterior.",
+              "sources": [
+                {
+                  "id": "src-ac-07"
+                },
+                {
+                  "id": "src-ac-34"
+                },
+                {
+                  "id": "src-ac-64"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ac-04",
+              "kind": "historico",
+              "title": "Registro do programa de governo no TSE",
+              "role": "candidato à Presidência pelo Avante",
+              "complexity": "documento de aproximadamente 200 páginas com propostas para 18 áreas; registro protocolado em 2026; primeira candidatura do candidato a cargo público",
+              "outcome": "documento registrado na Justiça Eleitoral e analisado pela imprensa; registro da chapa deferido em 11/09/2026",
+              "period": "2026",
+              "context": "Estreia eleitoral, com necessidade de converter produção intelectual própria em documento formal de governo.",
+              "sources": [
+                {
+                  "id": "src-ac-01"
+                },
+                {
+                  "id": "src-ac-05"
+                },
+                {
+                  "id": "src-ac-23"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-ac-05",
+              "kind": "historico",
+              "title": "Operação da campanha presidencial de 2026",
+              "role": "candidato; vice Júlio Delgado; coordenação de campanha citada no material de campanha",
+              "complexity": "campanha nacional com coligação de dois partidos (Avante e Agir); gastos de campanha declarados de R$ 55,2 mil até setembro de 2026; troca de marqueteiro a poucos dias do início do horário eleitoral",
+              "outcome": "campanha em operação com a substituição do responsável pela comunicação (Leandro Grôppo por Sergio Lima, que já atuava na pré-campanha)",
+              "period": "2026",
+              "context": "Campanha de estreante com estrutura enxuta em gastos declarados, montada entre abril e agosto de 2026.",
+              "sources": [
+                {
+                  "id": "src-ac-49"
+                },
+                {
+                  "id": "src-ac-62"
+                },
+                {
+                  "id": "src-ac-42"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "Antes de se filiar, o candidato relatou encontros com dirigentes de partidos de campos distintos (MDB, PSD, PSDB, Podemos, PSC e Novo) e acabou filiando-se ao Avante em 05/04/2026. A candidatura foi composta com o ex-deputado Júlio Delgado e recebeu apoio formal do Agir, formando a coligação 'Brasil dos Nossos Sonhos'. Em sabatina, convidou publicamente Ronaldo Caiado (PSD) para assumir um Ministério da Segurança Pública e manteve agenda com o eleitorado evangélico, além de recusar anunciar nomes para o ministério para evitar controvérsia.",
+          "coverage": "documentada",
+          "coverageNote": null,
+          "evidences": [
+            {
+              "id": "ev-cap-ac-06",
+              "kind": "posicao",
+              "title": "Rodada de contatos com partidos antes da filiação",
+              "role": "pré-candidato; os encontros foram relatados pelo próprio candidato",
+              "complexity": "interlocução declarada com seis legendas de campos distintos (MDB, PSD, PSDB, Podemos, PSC e Novo); decisão de filiação anunciada em 05/04/2026",
+              "outcome": "filiação ao Avante e posterior composição da chapa; os encontros não foram confirmados individualmente por cada partido citado",
+              "period": "2026",
+              "context": "Escolha de legenda para viabilizar uma candidatura presidencial sem trajetória partidária anterior.",
+              "sources": [
+                {
+                  "id": "src-ac-09"
+                },
+                {
+                  "id": "src-ac-50"
+                },
+                {
+                  "id": "src-ac-41"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-ac-07",
+              "kind": "historico",
+              "title": "Composição da chapa e obtenção de apoio partidário formal",
+              "role": "cabeça de chapa; vice Júlio Delgado, ex-deputado federal por cinco mandatos",
+              "complexity": "coligação formada por dois partidos (Avante e Agir), sem federação; convenções nacionais em 03/08/2026 (Avante) e 05/08/2026 (Agir)",
+              "outcome": "coligação 'Brasil dos Nossos Sonhos' registrada e chapa deferida pelo TSE em 11/09/2026",
+              "period": "2026",
+              "context": "Necessidade de compor chapa e obter apoio formal de outra legenda em prazo de convenções partidárias.",
+              "sources": [
+                {
+                  "id": "src-ac-63"
+                },
+                {
+                  "id": "src-ac-36"
+                },
+                {
+                  "id": "src-ac-42"
+                },
+                {
+                  "id": "src-ac-43"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ac-08",
+              "kind": "posicao",
+              "title": "Convite público a adversário de outro campo para cargo de ministro",
+              "role": "candidato à Presidência",
+              "complexity": "convite feito em sabatina de TV aberta (TV Globo, 29/08/2026) a Ronaldo Caiado (PSD), que disputava a mesma eleição",
+              "outcome": "convite declarado publicamente; não há registro de resposta formal ou acordo firmado até 29/09/2026",
+              "period": "2026",
+              "context": "Proposta de composição dirigida a adversário eleitoral, em contexto de disputa pela mesma faixa de eleitorado.",
+              "sources": [
+                {
+                  "id": "src-ac-19"
+                },
+                {
+                  "id": "src-ac-50"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-ac-09",
+              "kind": "historico",
+              "title": "Agenda com o eleitorado evangélico",
+              "role": "candidato à Presidência",
+              "complexity": "visita à sede da Assembleia de Deus em São Paulo em 03/09/2026; exposição pública e repercusão em imprensa de circulação nacional",
+              "outcome": "evento realizado; o candidato negou ter pedido votos no evento e afirmou proximidade com o segmento",
+              "period": "2026",
+              "context": "Movimento de aproximação de um eleitorado majoritariamente vinculado a outra candidatura.",
+              "sources": [
+                {
+                  "id": "src-ac-39"
+                },
+                {
+                  "id": "src-ac-40"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ac-10",
+              "kind": "posicao",
+              "title": "Recusa em anunciar integrantes do ministério durante a campanha",
+              "role": "candidato à Presidência",
+              "complexity": "declaração de que só anunciaria nomes após a eleição, para evitar controvérsia; equipe de campanha com troca de marqueteiro no mesmo período",
+              "outcome": "nenhum nome de ministério anunciado até 29/09/2026; troca de responsável pela comunicação da campanha em 18/08/2026",
+              "period": "2026",
+              "context": "Escolha de evitar compromissos públicos de composição de governo antes da votação.",
+              "sources": [
+                {
+                  "id": "src-ac-51"
+                },
+                {
+                  "id": "src-ac-62"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Fundou e dirigiu a Escola da Inteligência, empresa de programa socioemocional com aproximadamente 116 colaboradores e rede declarada de cerca de 900 escolas, cujo controle foi vendido à Arco Educação em 2020. Mantém participações societárias em empresas próprias no Brasil e nos Estados Unidos (Cury Academia Comportamental, Contemplare Investments e Free Mind Publish, informadas ao TSE após correção de declaração). Em 2026, montou a estrutura de campanha presidencial com indicação de vice e troca do responsável pela comunicação. Não há quadro de pessoal ou organograma de campanha publicado.",
+          "coverage": "parcial",
+          "coverageNote": "Não há publicação de organograma ou número de integrantes da equipe de campanha; as evidências de formação e direção de equipes vêm da estrutura empresarial (número de colaboradores, rede de escolas) e de atos nominais de campanha (indicação de vice e substituição do marqueteiro).",
+          "evidences": [
+            {
+              "id": "ev-cap-ac-11",
+              "kind": "historico",
+              "title": "Direção da Escola da Inteligência e rede de escolas associadas",
+              "role": "fundador da empresa e criador da metodologia aplicada",
+              "complexity": "rede declarada de cerca de 900 escolas e 330 mil alunos; aproximadamente 116 colaboradores na empresa em 2026; comercialização por empresas parceiras em dez estados",
+              "outcome": "empresa operou o programa por mais de uma década e teve o controle adquirido pela Arco Educação em dezembro de 2020",
+              "period": "2010-2020",
+              "context": "Estrutura empresarial própria que precisou formar educadores e manter rede de escolas licenciadas.",
+              "sources": [
+                {
+                  "id": "src-ac-60"
+                },
+                {
+                  "id": "src-ac-46"
+                },
+                {
+                  "id": "src-ac-61"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ac-12",
+              "kind": "historico",
+              "title": "Montagem da equipe de campanha presidencial",
+              "role": "candidato; indicação de Júlio Delgado como vice e contratação de responsáveis pela comunicação",
+              "complexity": "campanha nacional; chapa com dois partidos; substituição do responsável pela comunicação em 18/08/2026, às vésperas do início da propaganda em rádio e TV",
+              "outcome": "equipe recomposta antes do início do horário eleitoral; campanha em curso com coordenação nomeada",
+              "period": "2026",
+              "context": "Campanha de estreante, montada em poucos meses e com a estrutura de comunicação reformulada em plena pré-campanha.",
+              "sources": [
+                {
+                  "id": "src-ac-62"
+                },
+                {
+                  "id": "src-ac-36"
+                },
+                {
+                  "id": "src-ac-42"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-ac-13",
+              "kind": "historico",
+              "title": "Controle e manutenção de empresas próprias",
+              "role": "sócio controlador de empresas nos setores editorial, educacional e de participações",
+              "complexity": "participações no Brasil e em três empresas nos Estados Unidos; estrutura de holding familiar; quadro societário declarado à Justiça Eleitoral com correção posterior",
+              "outcome": "participações declaradas após questionamento da imprensa em 05/09/2026; campanha afirmou que as participações eram inexpressivas no patrimônio",
+              "period": "2026",
+              "context": "Gestão empresarial de estruturas próprias mantida em paralelo à campanha eleitoral.",
+              "sources": [
+                {
+                  "id": "src-ac-65"
+                },
+                {
+                  "id": "src-ac-64"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            }
+          ]
+        }
+      ]
+    },
+    "clariana-barao": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "synthesis": "Assumiu a presidência do diretório estadual do DC em Mato Grosso e, entre julho e agosto de 2026, foi conduzida à candidatura presidencial após duas desistências na legenda, com aprovação em reunião nacional de 08/07 e convenção de 05/08/2026. Registrou o programa de governo 'Proteger Hoje, Transformar o Amanhã' no TSE e cumpriu agenda de campanha em Mato Grosso, Pernambuco e Paraíba. Antes da candidatura, coordenou grupo de voluntários no auxílio a vítimas das enchentes do Rio Grande do Sul (2024) e presidiu comissão de assistência social da OAB de Várzea Grande.",
+          "coverage": "parcial",
+          "coverageNote": "Trajetória sem cargo público ou executivo anterior; as evidências vêm da atuação partidária estadual, de trabalho voluntário e da própria campanha presidencial de 2026, com fontes de imprensa e dados do TSE, sem documentos internos de gestão.",
+          "evidences": [
+            {
+              "id": "ev-cap-cb-01",
+              "kind": "historico",
+              "title": "Montagem da candidatura presidencial após desistências na legenda",
+              "role": "presidente do diretório estadual do DC em Mato Grosso, apresentada pela direção estadual e aprovada em reunião nacional",
+              "complexity": "alcance nacional; aprovação por dirigentes e presidentes de 21 diretórios estaduais em 08/07/2026; oficialização em convenção nacional em 05/08/2026, no último dia do prazo de convenções",
+              "outcome": "chapa Clariana Barão/Fabiana Torquato oficializada e registro deferido pelo TSE em 11/09/2026",
+              "period": "2026",
+              "context": "Substituição de Joaquim Barbosa, que desistiu em julho, e de Aldo Rebelo, que havia sido lançado em janeiro e depois passou a coordenar a campanha de outro presidenciável.",
+              "sources": [
+                {
+                  "id": "src-cb-08"
+                },
+                {
+                  "id": "src-cb-07"
+                },
+                {
+                  "id": "src-cb-01"
+                },
+                {
+                  "id": "src-cb-42"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-cb-02",
+              "kind": "historico",
+              "title": "Coordenação de grupo de voluntários no auxílio às vítimas das enchentes do Rio Grande do Sul",
+              "role": "coordenadora do grupo de voluntários",
+              "complexity": "evento de alcance estadual (Rio Grande do Sul), com cerca de 2,4 milhões de pessoas afetadas pela catástrofe de maio de 2024",
+              "outcome": "auxílio prestado às vítimas; informação baseada em perfil oficial divulgado na candidatura e reproduzido por veículo público",
+              "period": "2024",
+              "context": "Atuação voluntária fora da estrutura partidária, em situação de emergência.",
+              "sources": [
+                {
+                  "id": "src-cb-03"
+                },
+                {
+                  "id": "src-cb-15"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-cb-03",
+              "kind": "historico",
+              "title": "Presidência de comissão de assistência social na OAB de Várzea Grande",
+              "role": "presidente da Comissão de Solidariedade e Assistência Social da OAB de Várzea Grande (MT)",
+              "complexity": "alcance municipal, no âmbito de subseção da Ordem dos Advogados do Brasil",
+              "outcome": "comissão presidida; não há registro público de relatório ou entrega específica do período",
+              "period": "não informado",
+              "context": "Atuação institucional em entidade profissional, anterior à candidatura.",
+              "sources": [
+                {
+                  "id": "src-cb-03"
+                },
+                {
+                  "id": "src-cb-40"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-cb-04",
+              "kind": "historico",
+              "title": "Registro do programa de governo e apresentação de propostas",
+              "role": "candidata à Presidência pelo DC",
+              "complexity": "documento 'Proteger Hoje, Transformar o Amanhã' registrado no TSE; propostas apresentadas para seis áreas em entrevistas de alcance nacional (Rádio Nacional, Jornal Nacional, Poder360)",
+              "outcome": "programa registrado na Justiça Eleitoral e propostas apresentadas em entrevistas de TV e rádio entre agosto e setembro de 2026",
+              "period": "2026",
+              "context": "Primeira candidatura da candidata, com necessidade de formalizar programa em prazo de convenções.",
+              "sources": [
+                {
+                  "id": "src-cb-19"
+                },
+                {
+                  "id": "src-cb-04"
+                },
+                {
+                  "id": "src-cb-12"
+                },
+                {
+                  "id": "src-cb-43"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-cb-05",
+              "kind": "historico",
+              "title": "Agenda de campanha nacional com deslocamentos e eventos locais",
+              "role": "candidata à Presidência",
+              "complexity": "agendas cumpridas em Mato Grosso (Cuiabá), Pernambuco (Caruaru, Alto do Moura) e Paraíba, além de entrevistas em São Paulo",
+              "outcome": "agendas realizadas com cobertura de imprensa local e nacional; partido sem bancada na Câmara dos Deputados para sustentar a campanha",
+              "period": "2026",
+              "context": "Campanha de legenda sem representação parlamentar, apoiada em diretórios estaduais e agendas regionais.",
+              "sources": [
+                {
+                  "id": "src-cb-33"
+                },
+                {
+                  "id": "src-cb-30"
+                },
+                {
+                  "id": "src-cb-32"
+                },
+                {
+                  "id": "src-cb-31"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "Foi aprovada como candidata em reunião nacional do DC em Brasília, em 08/07/2026, com dirigentes e presidentes de 21 diretórios estaduais, após três trocas de candidato na legenda. A candidatura foi oficializada em convenção nacional (05/08/2026) em chapa 100% feminina, com o partido concorrendo isolado, sem coligação. Em entrevistas e agendas, declarou rejeição ao extremismo e defesa do diálogo, com propostas apresentadas em veículos de alcance nacional e agendas regionais.",
+          "coverage": "parcial",
+          "coverageNote": "As evidências de articulação se limitam ao processo interno do DC em 2026 e a entrevistas públicas; não há registro de negociação com outras legendas nem de acordos formais conduzidos pela candidata.",
+          "evidences": [
+            {
+              "id": "ev-cap-cb-06",
+              "kind": "historico",
+              "title": "Aprovação da candidatura por diretórios estaduais do DC",
+              "role": "candidata apresentada pela direção estadual de Mato Grosso e submetida à reunião nacional",
+              "complexity": "21 diretórios estaduais representados na reunião de 08/07/2026, em Brasília; definição após a desistência de Joaquim Barbosa",
+              "outcome": "nome aprovado e oficializado na convenção nacional de 05/08/2026",
+              "period": "2026",
+              "context": "Partido que precisou recompor sua chapa presidencial às vésperas das convenções.",
+              "sources": [
+                {
+                  "id": "src-cb-08"
+                },
+                {
+                  "id": "src-cb-07"
+                },
+                {
+                  "id": "src-cb-03"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-cb-07",
+              "kind": "historico",
+              "title": "Composição da chapa em acordo com a direção nacional e escolha de vice de outro estado",
+              "role": "cabeça de chapa; vice Fabiana Torquato, advogada de São Paulo",
+              "complexity": "chapa exclusivamente feminina, sem coligação com outros partidos; uma das duas chapas presidenciais do pleito de 2026 encabeçadas por mulheres",
+              "outcome": "chapa registrada e deferida pelo TSE em 11/09/2026",
+              "period": "2026",
+              "context": "Composição interna entre direção estadual de Mato Grosso e direção nacional, com indicação de vice de outro estado.",
+              "sources": [
+                {
+                  "id": "src-cb-29"
+                },
+                {
+                  "id": "src-cb-34"
+                },
+                {
+                  "id": "src-cb-26"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-cb-08",
+              "kind": "historico",
+              "title": "Apresentação pública de posições e propostas em veículos de alcance nacional",
+              "role": "candidata à Presidência",
+              "complexity": "entrevista de 39 minutos ao Poder360 (25/08/2026), participação no Jornal Nacional (05/09/2026) e entrevista à Gazeta de São Paulo",
+              "outcome": "posições apresentadas sobre reforma do STF, escala 6x1, proteção à mulher, transferência de renda e ajuste fiscal",
+              "period": "2026",
+              "context": "Exposição em mídia nacional com partido sem bancada no Congresso e com tempo reduzido de propaganda.",
+              "sources": [
+                {
+                  "id": "src-cb-43"
+                },
+                {
+                  "id": "src-cb-12"
+                },
+                {
+                  "id": "src-cb-41"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-cb-09",
+              "kind": "historico",
+              "title": "Agenda com lideranças e entidades locais em estados do Nordeste e Centro-Oeste",
+              "role": "candidata à Presidência",
+              "complexity": "agendas em Pernambuco (entrevistas e visita ao Alto do Moura, em Caruaru), Paraíba (entrevistas, almoço e encontros) e Mato Grosso (Cuiabá)",
+              "outcome": "agendas cumpridas com cobertura local; sem registro de apoio formal de outras legendas ou de lideranças estaduais",
+              "period": "2026",
+              "context": "Circulação em estados onde o partido tem diretórios, buscando interlocução com setores locais.",
+              "sources": [
+                {
+                  "id": "src-cb-30"
+                },
+                {
+                  "id": "src-cb-31"
+                },
+                {
+                  "id": "src-cb-32"
+                },
+                {
+                  "id": "src-cb-33"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Preside o diretório estadual do DC em Mato Grosso, estrutura que apresentou seu nome à candidatura presidencial em 2026. Formou a chapa com a advogada Fabiana Torquato como vice, em composição exclusivamente feminina, e manteve campanha itinerante com diretórios estaduais. A coordenação de equipes documentada anterior à política é a de grupo de voluntários no auxílio às enchentes do Rio Grande do Sul (2024) e a presidência de comissão na OAB de Várzea Grande; não há publicação de quadro de pessoal ou organograma da campanha.",
+          "coverage": "parcial",
+          "coverageNote": "Sem cargos executivos ou legislativos anteriores e sem publicação de estrutura de campanha: as evidências de formação e coordenação de equipes se limitam a diretório partidário estadual, comissão de OAB, grupo de voluntários e composição da chapa.",
+          "evidences": [
+            {
+              "id": "ev-cap-cb-10",
+              "kind": "historico",
+              "title": "Presidência do diretório estadual do DC em Mato Grosso",
+              "role": "presidente do diretório estadual; nome apresentado pela direção estadual (Marco Marrafon, responsável pela filiação, e Etevaldo Balbino, 1º vice-presidente estadual)",
+              "complexity": "alcance estadual (Mato Grosso); diretório que indicou a candidata à direção nacional",
+              "outcome": "assumiu a presidência do diretório em 2026 e teve o nome levado à reunião nacional de 08/07/2026",
+              "period": "2026",
+              "context": "Atuação em estrutura partidária estadual, sem histórico anterior de mandato.",
+              "sources": [
+                {
+                  "id": "src-cb-03"
+                },
+                {
+                  "id": "src-cb-07"
+                },
+                {
+                  "id": "src-cb-40"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-cb-11",
+              "kind": "historico",
+              "title": "Coordenação de equipe de voluntários em situação de emergência",
+              "role": "coordenadora do grupo de voluntários",
+              "complexity": "grupo formado para auxiliar vítimas das enchentes de maio de 2024 no Rio Grande do Sul; mobilização nacional em torno da catástrofe",
+              "outcome": "auxílio prestado às vítimas; informação de perfil, sem relatório público de execução",
+              "period": "2024",
+              "context": "Coordenação de pessoas fora de estrutura institucional, em cenário de calamidade.",
+              "sources": [
+                {
+                  "id": "src-cb-03"
+                },
+                {
+                  "id": "src-cb-15"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-cb-12",
+              "kind": "historico",
+              "title": "Formação de chapa e organização da campanha presidencial",
+              "role": "cabeça de chapa, com apoio da direção nacional do DC",
+              "complexity": "chapa 100% feminina registrada; campanha sustentada por diretórios estaduais, sem bancada parlamentar na Câmara dos Deputados (0/513)",
+              "outcome": "chapa registrada e campanha em curso com agendas em pelo menos três estados entre agosto e setembro de 2026",
+              "period": "2026",
+              "context": "Montagem de campanha nacional com estrutura partidária reduzida e sem coligação.",
+              "sources": [
+                {
+                  "id": "src-cb-01"
+                },
+                {
+                  "id": "src-cb-10"
+                },
+                {
+                  "id": "src-cb-32"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
+      ]
+    },
+    "samara-martins": {
+      "capacities": [
+        {
+          "slug": "execucao",
+          "synthesis": "É cirurgiã-dentista da Estratégia Saúde da Família no SUS e exerceu a vice-presidência nacional da Unidade Popular entre 2016 e 2026, atuando na organização partidária. Teve a pré-candidatura aprovada por unanimidade pelo Diretório Nacional em 01/02/2026 e conduziu agenda de lançamento em vários estados (Fortaleza em abril, Belém em maio, Salvador em setembro). O programa de governo foi registrado no TSE em 06/08/2026 e a chapa foi validada por unanimidade em 02/09/2026, entre as seis primeiras chapas aprovadas.",
+          "coverage": "parcial",
+          "coverageNote": "Sem cargo público anterior e sem estrutura administrativa a analisar: as evidências de execução são o trabalho na atenção básica do SUS, a condução da estrutura partidária nacional e a realização da campanha presidencial de 2026.",
+          "evidences": [
+            {
+              "id": "ev-cap-sm-01",
+              "kind": "historico",
+              "title": "Atuação profissional na atenção básica do SUS",
+              "role": "cirurgiã-dentista da Estratégia Saúde da Família",
+              "complexity": "serviço público de atenção básica no Rio Grande do Norte; atendimento por equipe de saúde da família; atividade mantida durante a pré-candidatura",
+              "outcome": "atuação continuada na rede pública, usada como base da proposta de que todos os políticos utilizem o SUS",
+              "period": "não informado",
+              "context": "Vínculo profissional em serviço público de porta de entrada, sem cargo de direção.",
+              "sources": [
+                {
+                  "id": "src-sm-01"
+                },
+                {
+                  "id": "src-sm-07"
+                },
+                {
+                  "id": "src-sm-49"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-sm-02",
+              "kind": "historico",
+              "title": "Vice-presidência nacional da Unidade Popular e organização partidária",
+              "role": "vice-presidente nacional do partido entre 2016 e 2026 (presidência de Leonardo Péricles)",
+              "complexity": "alcance nacional; partido fundado em 2016 e registrado pelo TSE em 10/12/2019; sem parlamentares eleitos",
+              "outcome": "partido manteve registro e disputou eleições nacionais em 2022 e 2026, com candidaturas estaduais próprias",
+              "period": "2016-2026",
+              "context": "Atuação de direção em legenda pequena, sem recursos de Fundo Partidário e com estrutura baseada em militância.",
+              "sources": [
+                {
+                  "id": "src-sm-45"
+                },
+                {
+                  "id": "src-sm-13"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-sm-03",
+              "kind": "historico",
+              "title": "Aprovação da pré-candidatura e lançamento itinerante",
+              "role": "pré-candidata, aprovada por unanimidade pelo Diretório Nacional",
+              "complexity": "alcance nacional; agendas de lançamento em Fortaleza (02/04/2026), Belém (02-03/05/2026) e outras praças antes da convenção de 26/07/2026",
+              "outcome": "candidatura oficializada na convenção nacional de 26/07/2026, na Universidade Zumbi dos Palmares (SP)",
+              "period": "2026",
+              "context": "Construção da candidatura por meio de agendas públicas em estados, com partido sem exposição na mídia tradicional.",
+              "sources": [
+                {
+                  "id": "src-sm-46"
+                },
+                {
+                  "id": "src-sm-51"
+                },
+                {
+                  "id": "src-sm-47"
+                },
+                {
+                  "id": "src-sm-01"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-sm-04",
+              "kind": "historico",
+              "title": "Registro do programa de governo e validação do registro da chapa",
+              "role": "cabeça de chapa",
+              "complexity": "programa de governo registrado no TSE em 06/08/2026 com menos de uma página e meia, conforme levantamento da imprensa; 13 pedidos de registro à Presidência recebidos até 15/08/2026",
+              "outcome": "registro da chapa Samara Martins/Raquel Brício aprovado por unanimidade pelo TSE em 02/09/2026, entre as seis primeiras chapas validadas",
+              "period": "2026",
+              "context": "Exigência legal de registro de programa e de chapa dentro do prazo, com documento resumido.",
+              "sources": [
+                {
+                  "id": "src-sm-08"
+                },
+                {
+                  "id": "src-sm-30"
+                },
+                {
+                  "id": "src-sm-09"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "high"
+            },
+            {
+              "id": "ev-cap-sm-05",
+              "kind": "historico",
+              "title": "Campanha eleitoral com agenda nacional e frentes estaduais",
+              "role": "candidata à Presidência",
+              "complexity": "campanha nacional; partido com candidaturas próprias a governos estaduais ('mira 17 governos', agosto de 2026) e agenda de rua em estados como Bahia (Salvador, setembro) e Piauí (Teresina)",
+              "outcome": "agendas cumpridas nas capitais visitadas; candidaturas estaduais oficializadas pelo partido",
+              "period": "2026",
+              "context": "Campanha sem coligação, apoiada em candidaturas estaduais próprias e em militância.",
+              "sources": [
+                {
+                  "id": "src-sm-23"
+                },
+                {
+                  "id": "src-sm-48"
+                },
+                {
+                  "id": "src-sm-19"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "dialogo-negociacao",
+          "synthesis": "A UP disputou 2026 com candidatura própria: o partido declarou que chegou a dialogar com outras legendas, mas que as tratativas não avançaram, e rejeitou federação partidária. Em 2022, o partido apoiou Lula no segundo turno após concorrer com chapa própria; em 2026, manteve a candidatura. A candidata expôs como método que a negociação política deve colocar o programa acima das pessoas e compôs chapa com a sindicalista Raquel Brício, mantendo agenda em movimentos sociais e veículos de mídia fora do campo de governo.",
+          "coverage": "parcial",
+          "coverageNote": "As evidências são majoritariamente declarações da candidata e de dirigentes em entrevistas e material partidário; não há registro de acordos formais assinados ou de mesas de negociação documentadas.",
+          "evidences": [
+            {
+              "id": "ev-cap-sm-06",
+              "kind": "historico",
+              "title": "Tratativas de coligação encerradas sem acordo",
+              "role": "vice-presidente nacional do partido; tratativas conduzidas pela direção partidária",
+              "complexity": "interlocução declarada com outras legendas em 2026; decisão de concorrer sem coligação e sem federação",
+              "outcome": "tratativas não avançaram, segundo dirigente do partido; chapa registrada como partido isolado",
+              "period": "2026",
+              "context": "Partido pequeno avaliando alianças antes das convenções de 2026.",
+              "sources": [
+                {
+                  "id": "src-sm-15"
+                },
+                {
+                  "id": "src-sm-34"
+                },
+                {
+                  "id": "src-sm-19"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-sm-07",
+              "kind": "historico",
+              "title": "Posicionamento sobre alianças em segundo turno e candidatura própria em 2026",
+              "role": "cabeça de chapa em 2026 e vice na chapa presidencial do partido em 2022",
+              "complexity": "partido com 0,05% dos votos válidos em 2022 e candidatura própria mantida em 2026",
+              "outcome": "em 2022, o partido apoiou Lula no segundo turno após a votação; em 2026, manteve a candidatura própria e não anunciou apoio a outra chapa",
+              "period": "2022-2026",
+              "context": "Decisão de manter projeto próprio apesar do custo eleitoral de não aderir a uma frente maior.",
+              "sources": [
+                {
+                  "id": "src-sm-33"
+                },
+                {
+                  "id": "src-sm-19"
+                },
+                {
+                  "id": "src-sm-45"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-sm-08",
+              "kind": "posicao",
+              "title": "Método de negociação declarado pela candidata",
+              "role": "candidata à Presidência",
+              "complexity": "declaração em entrevista de 12/08/2026, em programa de alcance nacional, de que a negociação política deve colocar o programa acima das pessoas",
+              "outcome": "posição declarada publicamente; não há registro de aplicação documentada em mesa de negociação",
+              "period": "2026",
+              "context": "Formulação de critério público para alianças antes do primeiro turno.",
+              "sources": [
+                {
+                  "id": "src-sm-25"
+                },
+                {
+                  "id": "src-sm-05"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "low"
+            },
+            {
+              "id": "ev-cap-sm-09",
+              "kind": "historico",
+              "title": "Composição de chapa com dirigente sindical",
+              "role": "cabeça de chapa; vice Raquel Brício, guarda-portuária paraense e ativista sindical",
+              "complexity": "chapa exclusivamente feminina; duas chapas com essas características entre as 12 validadas para a Presidência em 2026",
+              "outcome": "chapa registrada e validada pelo TSE em 02/09/2026",
+              "period": "2026",
+              "context": "Composição que aproxima a campanha do meio sindical portuário do Pará.",
+              "sources": [
+                {
+                  "id": "src-sm-01"
+                },
+                {
+                  "id": "src-sm-24"
+                },
+                {
+                  "id": "src-sm-50"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-sm-10",
+              "kind": "historico",
+              "title": "Diálogo com movimentos sociais e veículos de mídia de alcance nacional",
+              "role": "candidata à Presidência; integrou a direção do Movimento de Mulheres Olga Benário e a Frente Negra Revolucionária",
+              "complexity": "entrevistas e participações em veículos como Band, CNN Brasil e Canal MyNews e em programas de podcast, entre agosto e setembro de 2026",
+              "outcome": "posições apresentadas em mídia nacional; a candidata registrou publicamente a dificuldade de acesso a espaços tradicionais de propaganda",
+              "period": "2026",
+              "context": "Campanha de partido sem bancada e com pouco espaço na mídia tradicional.",
+              "sources": [
+                {
+                  "id": "src-sm-50"
+                },
+                {
+                  "id": "src-sm-06"
+                },
+                {
+                  "id": "src-sm-35"
+                },
+                {
+                  "id": "src-sm-49"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        },
+        {
+          "slug": "lideranca-equipes",
+          "synthesis": "Exerceu a vice-presidência nacional da Unidade Popular entre 2016 e 2026, com atuação na organização partidária e na direção de movimentos populares (Movimento de Mulheres Olga Benário e Frente Negra Revolucionária), além de ter dirigido a pasta de mulheres na UNE. Em 2026, conduziu a campanha presidencial com chapa 100% feminina, vice indicada e frentes estaduais próprias, mantendo o partido sem coligação. Não há publicação de quadro de pessoal ou organograma da campanha.",
+          "coverage": "parcial",
+          "coverageNote": "Não há dados de pessoal nem organograma publicados pelo partido ou pela campanha; as evidências de liderança são a direção partidária nacional, a direção de movimentos sociais e a montagem da campanha de 2026.",
+          "evidences": [
+            {
+              "id": "ev-cap-sm-11",
+              "kind": "historico",
+              "title": "Direção nacional de partido e organização de estrutura militante",
+              "role": "vice-presidente nacional da Unidade Popular (2016-2026)",
+              "complexity": "alcance nacional; partido com 0 parlamentares eleitos e estrutura sustentada por militância; campanhas em 2020, 2022, 2024 e 2026",
+              "outcome": "partido manteve registro e apresentou candidaturas em quatro eleições consecutivas, com chapa presidencial própria em 2022 e 2026",
+              "period": "2016-2026",
+              "context": "Direção de legenda sem recursos de Fundo Partidário e com estrutura baseada em diretórios e militância.",
+              "sources": [
+                {
+                  "id": "src-sm-45"
+                },
+                {
+                  "id": "src-sm-13"
+                },
+                {
+                  "id": "src-sm-23"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-sm-12",
+              "kind": "historico",
+              "title": "Direção de movimentos sociais e organização de mulheres",
+              "role": "dirigente do Movimento de Mulheres Olga Benário, integrante da Frente Negra Revolucionária e ex-diretora de mulheres da UNE",
+              "complexity": "alcance nacional; organizações de atuação em pautas de mulheres e da população negra; coordenação de militantes",
+              "outcome": "participação nas direções das organizações citadas, conforme perfis publicados na campanha de 2026",
+              "period": "não informado",
+              "context": "Atuação em movimentos sociais em paralelo ao trabalho como dentista do SUS.",
+              "sources": [
+                {
+                  "id": "src-sm-49"
+                },
+                {
+                  "id": "src-sm-32"
+                },
+                {
+                  "id": "src-sm-50"
+                }
+              ],
+              "evidenceStatus": "parcial",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-sm-13",
+              "kind": "historico",
+              "title": "Montagem da chapa e condução da convenção nacional de 2026",
+              "role": "pré-candidata e dirigente nacional; indicação da vice Raquel Brício",
+              "complexity": "convenção nacional realizada em 26/07/2026, na Universidade Zumbi dos Palmares (SP); chapa 100% feminina",
+              "outcome": "candidatura oficializada com chapa completa e registro validado pelo TSE em 02/09/2026",
+              "period": "2026",
+              "context": "Definição de chapa e realização de convenção por partido de estrutura pequena.",
+              "sources": [
+                {
+                  "id": "src-sm-01"
+                },
+                {
+                  "id": "src-sm-02"
+                },
+                {
+                  "id": "src-sm-24"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            },
+            {
+              "id": "ev-cap-sm-14",
+              "kind": "historico",
+              "title": "Coordenação de campanha itinerante com militância",
+              "role": "cabeça de chapa",
+              "complexity": "agendas de campanha em capitais de ao menos quatro estados (Fortaleza, Belém, Teresina e Salvador) entre abril e setembro de 2026, com atividade de rua e contato direto com militância",
+              "outcome": "agendas realizadas e campanha mantida sem coligação até a semana anterior ao primeiro turno",
+              "period": "2026",
+              "context": "Campanha de baixo orçamento, apoiada em corpo a corpo e em candidaturas estaduais próprias.",
+              "sources": [
+                {
+                  "id": "src-sm-51"
+                },
+                {
+                  "id": "src-sm-47"
+                },
+                {
+                  "id": "src-sm-48"
+                },
+                {
+                  "id": "src-sm-07"
+                }
+              ],
+              "evidenceStatus": "confirmado",
+              "confidenceLevel": "medium"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "dataGaps": [
+    "leonardo-avalanche, clariana-barao e augusto-cury (lideranca-equipes) e samara-martins (em todas as capacidades): nenhum dos partidos ou campanhas publica organograma, quadro de pessoal ou número de integrantes de equipe; as evidências de formação e coordenação de equipes se apoiam em atos nominais (indicação de vice, nomeação de diretórios, substituição de marqueteiro) e em estrutura empresarial, quando existe.",
+    "renan-santos e samara-martins: partidos não publicam balanço de campanha consolidado; números de arrecadação citados são de levantamentos parciais de imprensa com data de referência (g1, 05/07/2026) e não do encerramento da campanha.",
+    "clariana-barao: a coordenação do grupo de voluntários nas enchentes do Rio Grande do Sul (2024) e a presidência de comissão na OAB de Várzea Grande constam de perfis de candidatura reproduzidos pela imprensa; não foram localizados relatórios ou atas das duas atividades.",
+    "augusto-cury: os números de tiragem/vendas de livros variam conforme a fonte e a data de referência (11 milhões em 2010; 27 milhões em 2016; mais de 30 milhões em 2017; mais de 40 milhões declarados pela campanha em 2026) e a página própria do autor é a única fonte para os quantitativos de alunos das escolas de gestão da emoção.",
+    "leonardo-avalanche: as negociações partidárias de 2026 (aliança com Marconi Perillo em Goiás e saída posterior da coligação) aparecem em notas e imprensa regional, sem atas, registros de coligação estadual anexados ou documento oficial do partido no pool de fontes desta rodada.",
+    "clariana-barao e augusto-cury: as datas exatas de publicação de algumas reportagens de 2026 (Gazeta de São Paulo, Potência MT, site próprio do autor) não foram capturadas; os campos publishedAt registram apenas o ano, com nota na fonte."
+  ]
+}
