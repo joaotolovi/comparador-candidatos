@@ -188,6 +188,11 @@ def classify_path(prose):
     return "indefinido"
 
 
+def is_skeleton(rc):
+    """Esqueleto write-first: sem proposta e sem methodology ainda não é conteúdo."""
+    return not isinstance(rc, dict) or (not (rc.get("proposal") or "").strip() and not (rc.get("methodology") or "").strip())
+
+
 def normalize_requirement(rc):
     """Aceita requirement em prosa e devolve o rótulo da taxonomia, preservando o texto."""
     req = rc.get("requirement")
@@ -347,7 +352,7 @@ def main():
             continue
         mains[slug] = (path, load(path))
 
-    errs, stats, added = [], {}, []
+    errs, stats, added, skeleton = [], {}, [], []
     for patch_path in patches:
         patch_name = os.path.basename(patch_path)
         patch = load(patch_path)
@@ -380,7 +385,10 @@ def main():
             count = stats.setdefault(slug, {"pais": 0, "prop": 0, "cap": 0, "mundo": 0, "temas": 0})
 
             rc = block.get("reality")
-            if isinstance(rc, dict):
+            if is_skeleton(rc):
+                if rc is not None:
+                    skeleton.append(f"{patch_name}/{slug}: projeto (esqueleto write-first ignorado)")
+            else:
                 normalize_requirement(rc)
                 normalize_support(rc, main)
                 validate_reality(errs, f"{patch_name}/{slug}/pais", rc)
@@ -394,6 +402,8 @@ def main():
             proposals = gp.get("keyProposals") or gp.get("proposals") or []
             by_id = {p.get("id"): p for p in proposals if p.get("id")}
             for item in block.get("proposals") or []:
+                if is_skeleton(item.get("reality")):
+                    continue
                 target = None
                 if item.get("id") and item["id"] in by_id:
                     target = by_id[item["id"]]
@@ -428,6 +438,8 @@ def main():
 
             caps = {c.get("slug"): c for c in (main.get("capacities") or [])}
             for item in block.get("capacities") or []:
+                if is_skeleton(item.get("reality")):
+                    continue
                 cap = caps.get(item.get("slug"))
                 if cap is None:
                     errs.append(f"{patch_name}/{slug}: capacidade desconhecida ({item.get('slug')})")
@@ -439,7 +451,7 @@ def main():
                 count["cap"] += 1
 
             fp = block.get("foreignPolicy")
-            if isinstance(fp, dict) and isinstance(fp.get("reality"), dict):
+            if isinstance(fp, dict) and not is_skeleton(fp.get("reality")):
                 normalize_requirement(fp["reality"])
                 normalize_support(fp["reality"], main)
                 validate_reality(errs, f"{patch_name}/{slug}/mundo", fp["reality"])
@@ -457,7 +469,7 @@ def main():
                     if item.get("sourceKind") not in {"candidato", "partido", "ausente"}:
                         errs.append(f"{patch_name}/{slug}/{tslug}: sourceKind inválido")
                     check_text(errs, f"{patch_name}/{slug}/tema:{tslug}", "position", item.get("position"), 150)
-                    if isinstance(item.get("reality"), dict):
+                    if isinstance(item.get("reality"), dict) and not is_skeleton(item.get("reality")):
                         normalize_requirement(item["reality"])
                         normalize_support(item["reality"], main)
                         validate_reality(errs, f"{patch_name}/{slug}/tema:{tslug}", item["reality"])
@@ -476,6 +488,10 @@ def main():
         print("\n(nada gravado)")
         return 1
 
+    if skeleton:
+        print("esqueletos write-first ignorados (ainda em pesquisa):")
+        for a in skeleton:
+            print("  ~", a)
     if added:
         print("propostas incorporadas à lista analisada:")
         for a in added:

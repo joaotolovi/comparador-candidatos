@@ -1,6 +1,6 @@
 // ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
 // 13 candidato(s) com pesquisa profunda; os demais ficam só no seed.
-// Gerado em: 2026-09-29T20:43:21.425Z
+// Gerado em: 2026-09-29T20:47:44.575Z
 import type { Candidate } from "@/types";
 
 export const researched: Partial<Candidate>[] = [

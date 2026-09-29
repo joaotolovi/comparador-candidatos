@@ -26,8 +26,28 @@
         ]
       }
     },
-    "caiado": {"reality": {"PENDENTE": ["instrumento mais exigente (fim da reeleição = PEC?)", "compromissos 2030: nº, custo, prazo, responsável", "histórico GO alinhado/divergente", "base formal"]}},
-    "zema": {"reality": {"PENDENTE": ["instrumento mais exigente (reforma do Judiciário = PEC)", "choque fiscal prometido x contas de MG", "detalhamento do documento", "base formal"]}}
+    "caiado": {
+      "reality": {
+        "PENDENTE": [
+          "instrumento mais exigente (fim da reeleição = PEC?)",
+          "compromissos 2030: nº, custo, prazo, responsável",
+          "histórico GO alinhado/divergente",
+          "base formal"
+        ]
+      }
+    },
+    "zema": {
+      "reality": {
+        "PENDENTE": [
+          "instrumento mais exigente (reforma do Judiciário = PEC)",
+          "choque fiscal prometido x contas de MG",
+          "detalhamento do documento",
+          "base formal"
+        ]
+      }
+    }
   },
-  "dataGaps": ["SKELETON"]
+  "dataGaps": [
+    "SKELETON"
+  ]
 }
