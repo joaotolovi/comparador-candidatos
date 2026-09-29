@@ -1,210 +1,41 @@
-// Dataset de identificação das 13 candidaturas registradas no TSE para a
-// Eleição 2026 (registro encerrado em 16/08/2026; lista divulgada pela
-// Justiça Eleitoral). Este módulo é REGENERADO por scripts/normalize.ts a
-// partir de research/*.json — não editar manualmente os campos profundos.
+// Dataset do comparador: seed de identificação (TSE) mesclado com a pesquisa
+// profunda (src/data/research.ts — GERADO por scripts/normalize.mjs a partir
+// de research/*.json). Não editar research.ts à mão.
 import type { Candidate } from "@/types";
+import { seeds, seedShell } from "./seed";
+import { researched } from "./research";
 
-type Seed = Omit<
-  Candidate,
-  "id" | "updatedAt" | "photo" | "education" | "professionalExperience" | "politicalExperience" | "executiveExperience" | "achievements" | "governmentPlan" | "currentSupport" | "negotiationHistory" | "institutionalHistory" | "metrics" | "sources"
-> &
-  Partial<Candidate>;
+const bySlug = new Map<string, Partial<Candidate>>();
+for (const r of researched) {
+  if (r && typeof r.slug === "string") bySlug.set(r.slug, r);
+}
 
-// Identificação factual: número, partido, vice e fórmula — registros TSE.
-const seed: Seed[] = [
-  {
-    slug: "lula",
-    name: "Luiz Inácio Lula da Silva",
-    ballotNumber: 13,
-    party: "PT",
-    coalition: "Frente Ampla pelo Trabalho e Soberania — vice Geraldo Alckmin (PSB)",
-    profession: "Metalúrgico",
-    currentRole: "Presidente da República",
-    tagline: "Ex-metalúrgico e sindicalista; presidente em dois períodos (2003–2010 e 2023–atual), em disputa pela reeleição.",
-    birthDate: "1945-10-27",
-    age: 80,
-    birthplace: "Garanhuns, PE",
-  },
-  {
-    slug: "flavio-bolsonaro",
-    name: "Flávio Nantes Bolsonaro",
-    ballotNumber: 22,
-    party: "PL",
-    coalition: "Aliança pelo Brasil — vice Alfredo Gaspar (PL)",
-    profession: "Advogado",
-    currentRole: "Senador da República (RJ)",
-    tagline: "Senador em segundo mandato e ex-deputado estadual no RJ por quatro mandatos; principal adversário de Lula nas pesquisas nacionais.",
-    birthDate: "1981-04-30",
-    age: 45,
-    birthplace: "Rio de Janeiro, RJ",
-  },
-  {
-    slug: "renan-santos",
-    name: "Renan Santos",
-    ballotNumber: 14,
-    party: "Missão",
-    coalition: "Missão — vice Coronel Medina (Missão)",
-    profession: "Empresário",
-    currentRole: "Presidente nacional do Partido Missão",
-    tagline: "Fundador do MBL e presidente do partido Missão, lançado em 2025; disputa sua primeira eleição majoritária.",
-    birthDate: "1984-01-01",
-    age: 42,
-    birthplace: "Vinhedo, SP",
-  },
-  {
-    slug: "caiado",
-    name: "Ronaldo Ramos Caiado",
-    ballotNumber: 55,
-    party: "PSD",
-    coalition: "Governo Popular — vice Gilberto Kassab (PSD)",
-    profession: "Médico ortopedista",
-    currentRole: "Governador de Goiás",
-    tagline: "Médico e ruralista, fundador da UCD; governador de Goiás em dois mandatos e ex-senador.",
-    birthDate: "1949-09-25",
-    age: 77,
-    birthplace: "Anápolis, GO",
-  },
-  {
-    slug: "zema",
-    name: "Romeu Zema Neto",
-    ballotNumber: 30,
-    party: "NOVO",
-    coalition: "NOVO — vice Eduardo Girão (NOVO)",
-    profession: "Empresário",
-    currentRole: "Governador de Minas Gerais",
-    tagline: "Empresário eleito governador de Minas Gerais em 2018 e reeleito em 2022 pelo Partido NOVO.",
-    birthDate: "1964-11-09",
-    age: 61,
-    birthplace: "Araxá, MG",
-  },
-  {
-    slug: "pablo-marcal",
-    name: "Pablo Henrique Xavier Marçal",
-    ballotNumber: 25,
-    party: "PRTB",
-    coalition: "PRTB",
-    profession: "Empresário",
-    currentRole: "Candidato à Presidência da República",
-    tagline: "Empresário e comunicador digital; candidato em 2024 à Prefeitura de São Paulo e nome a verificar quanto à situação eleitoral em 2026.",
-    birthDate: "1987-11-07",
-    age: 38,
-    birthplace: "Recife, PE",
-  },
-  {
-    slug: "augusto-cury",
-    name: "Augusto Cury",
-    ballotNumber: 70,
-    party: "Avante",
-    coalition: "Avante — vice Júlio Delgado (Avante)",
-    profession: "Médico psiquiatra",
-    currentRole: "Candidato à Presidência da República",
-    tagline: "Psiquiatra e escritor de obras de divulgação psicológica, em primeira disputa eleitoral pelo Avante.",
-    birthDate: "1958-10-09",
-    age: 67,
-    birthplace: "São Paulo, SP",
-  },
-  {
-    slug: "clariana-barao",
-    name: "Clariana Barão",
-    ballotNumber: 27,
-    party: "DC",
-    coalition: "Democracia Cristã — vice Fabiana Torquato (DC)",
-    profession: "Advogada",
-    currentRole: "Candidata à Presidência da República",
-    tagline: "Advogada e militante do movimento estudantil e social, indicada pela Democracia Cristã.",
-    birthDate: "1990-05-04",
-    age: 36,
-    birthplace: "São Paulo, SP",
-  },
-  {
-    slug: "samara-martins",
-    name: "Samara Martins",
-    ballotNumber: 80,
-    party: "UP",
-    coalition: "Unidade Popular — vice Raquel Brício (UP)",
-    profession: "Militante social",
-    currentRole: "Candidata à Presidência da República",
-    tagline: "Militante de movimentos sociais e candidata do Unidade Popular, em primeira disputa presidencial.",
-    birthDate: "1993-06-15",
-    age: 33,
-    birthplace: "Belo Horizonte, MG",
-  },
-  {
-    slug: "edmilson-costa",
-    name: "Edmilson da Costa Lima",
-    ballotNumber: 21,
-    party: "PCB",
-    coalition: "PCB — vice Cleusa Santos (PCB)",
-    profession: "Metalúrgico",
-    currentRole: "Candidato à Presidência da República",
-    tagline: "Dirigente histórico do PCB e ex-vereador em São Paulo, candidato do Partido Comunista Brasileiro.",
-    birthDate: "1963-12-20",
-    age: 62,
-    birthplace: "Teresina, PI",
-  },
-  {
-    slug: "hertz-dias",
-    name: "Hertz Dias",
-    ballotNumber: 16,
-    party: "PSTU",
-    coalition: "PSTU — vice Vanessa Portugal (PSTU)",
-    profession: "Metalúrgico",
-    currentRole: "Candidato à Presidência da República",
-    tagline: "Sindicalista metalúrgico e dirigente nacional do PSTU.",
-    birthDate: "1972-03-30",
-    age: 54,
-    birthplace: "São José dos Campos, SP",
-  },
-  {
-    slug: "rui-costa-pimenta",
-    name: "Rui Costa Pimenta",
-    ballotNumber: 29,
-    party: "PCO",
-    coalition: "PCO — vice Antônio Carlos (PCO)",
-    profession: "Escritor",
-    currentRole: "Candidato à Presidência da República",
-    tagline: "Escritor e fundador do PCO, candidato à Presidência de forma reiterada desde 2002.",
-    birthDate: "1954-08-14",
-    age: 72,
-    birthplace: "São Paulo, SP",
-  },
-  {
-    slug: "wilson-grassi",
-    name: "Wilson Grassi Júnior",
-    ballotNumber: 35,
-    party: "Democrata",
-    coalition: "Democrata — vice Suêd Haidar (Democrata)",
-    profession: "Médico veterinário",
-    currentRole: "Candidato à Presidência da República",
-    tagline: "Médico veterinário, atuou na criação do primeiro hospital público para cães e gatos de São Paulo; candidato em quarta tentativa.",
-    birthDate: "1970-07-11",
-    age: 56,
-    birthplace: "São Paulo, SP",
-  },
+const merge = (slug: string): Candidate => {
+  const seed = seeds.find((s) => s.slug === slug);
+  if (!seed) throw new Error(`seed ausente para slug: ${slug}`);
+  const shell = seedShell(seed);
+  const r = bySlug.get(slug);
+  if (!r) return shell;
+  // O research tem prioridade; campos estruturais do shell são preservados
+  // quando o research não os define.
+  return { ...shell, ...r, id: shell.id, slug: shell.slug };
+};
+
+export const candidates: Candidate[] = seeds.map((s) => merge(s.slug));
+
+// Ordem operacional (pesquisas de intenção de voto) — não é ranking editorial.
+export const operationalOrder = [
+  "lula",
+  "flavio-bolsonaro",
+  "renan-santos",
+  "caiado",
+  "zema",
+  "leonardo-avalanche",
+  "augusto-cury",
+  "clariana-barao",
+  "samara-martins",
+  "edmilson-costa",
+  "hertz-dias",
+  "rui-costa-pimenta",
+  "wilson-grassi",
 ];
-
-const shell = (s: Seed): Candidate => ({
-  id: s.slug,
-  updatedAt: "2026-09-29",
-  photo: "",
-  education: [],
-  professionalExperience: [],
-  politicalExperience: [],
-  executiveExperience: [],
-  achievements: [],
-  governmentPlan: {
-    totalProposals: 0,
-    registeredWith: "TSE — registro de candidatura",
-    proposals: [],
-    sources: [],
-    updatedAt: "2026-08-16",
-  },
-  currentSupport: [],
-  negotiationHistory: [],
-  institutionalHistory: [],
-  metrics: [],
-  sources: [],
-  ...s,
-});
-
-export const candidates: Candidate[] = seed.map(shell);

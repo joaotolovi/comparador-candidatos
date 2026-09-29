@@ -35,8 +35,8 @@ export function ComparisonHeader({
     <div
       className={
         compact
-          ? "grid items-center gap-3 sm:gap-4"
-          : "grid items-end gap-3 sm:gap-4"
+          ? "flex flex-col gap-3 sm:grid sm:items-center sm:gap-4"
+          : "flex flex-col gap-3 sm:grid sm:items-end sm:gap-4"
       }
       style={{
         gridTemplateColumns: `minmax(9rem, 1fr) repeat(${candidates.length}, minmax(0, 2.4fr))`,
@@ -49,28 +49,35 @@ export function ComparisonHeader({
         return (
           <div
             key={c.slug}
-            className={`flex ${compact ? "flex-row items-center gap-3" : "flex-col gap-3"} border-t-2 pt-2 sm:border-t-0 sm:pt-0 ${slot.border}`}
+            className={`relative flex ${compact ? "flex-row items-center gap-3" : "flex-col gap-3 sm:pr-8"} border-t-2 pt-2 sm:border-t-0 sm:pt-0 ${slot.border}`}
           >
             {compact ? (
               <CandidateAvatar name={c.name} slot={(["a","b","c"] as const)[i] ?? "a"} size="sm" photo={c.photo || undefined} />
             ) : null}
 
             <div className="flex min-w-0 flex-col gap-1">
-              <div className="flex items-center gap-2">
+              <div className="flex items-baseline gap-2">
                 <span
-                  className={`tabular text-sm font-bold ${slot.text}`}
+                  aria-hidden
+                  className={`shrink-0 self-center rounded px-1 py-0.5 text-[10px] font-bold uppercase leading-none text-background ${slot.bg}`}
+                >
+                  {(["a", "b", "c"] as const)[i] ?? "a"}
+                </span>
+                <span
+                  className={`tabular shrink-0 text-sm font-bold ${slot.text}`}
                   aria-label={`Candidato ${c.ballotNumber}`}
                 >
                   {String(c.ballotNumber).padStart(2, "0")}
                 </span>
                 <h3
-                  className={`truncate font-semibold leading-snug ${compact ? "text-sm" : "text-lg"}`}
+                  className={`truncate font-semibold leading-snug ${compact ? "text-sm" : "text-base sm:text-lg"}`}
                 >
                   <Link
                     href={`/candidato/${c.slug}`}
                     className="transition-opacity hover:opacity-80"
+                    title={c.name}
                   >
-                    {c.name}
+                    {c.ballotName || c.name}
                   </Link>
                 </h3>
               </div>
@@ -92,7 +99,9 @@ export function ComparisonHeader({
               ) : null}
             </div>
 
-            <div className={`flex shrink-0 ${compact ? "ml-auto" : ""}`}>
+            <div
+              className={`flex shrink-0 ${compact ? "ml-auto" : "sm:absolute sm:right-0 sm:top-0"}`}
+            >
               <SwapMenu
                 candidate={c}
                 allCandidates={allCandidates}

@@ -1,0 +1,11309 @@
+// ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
+// 6 candidato(s) com pesquisa profunda; os demais ficam só no seed.
+// Gerado em: 2026-09-29T15:12:31.851Z
+import type { Candidate } from "@/types";
+
+export const researched: Partial<Candidate>[] = [
+  {
+    "slug": "augusto-cury",
+    "name": "Augusto Jorge Cury",
+    "ballotName": "Escritor Augusto Cury",
+    "ballotNumber": 70,
+    "party": "AVANTE",
+    "coalition": "Partido isolado (Avante, nº 70), sem coligação ou federação. Chapa com vice Júlio Delgado (Júlio César Delgado, Avante): advogado, natural de Juiz de Fora (MG), 59 anos (nasc. 18/11/1966), ex-deputado federal com seis períodos de mandato na Câmara (primeiro exercício em 1999), filiado ao Avante desde 2026; bens declarados de R$ 3,5 milhões (dados TSE, via WEEX).",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Augusto_Cury%2C_escritor_%2828339139296%29_%28cropped%29.jpg",
+    "birthDate": "1958-10-02",
+    "birthplace": "Colina/SP",
+    "age": 67,
+    "profession": "Escritor (ocupação declarada ao TSE; g1/registo TSE lista 'Escritor e crítico')",
+    "currentRole": "Candidato à Presidência da República (Avante, nº 70; registro de chapa deferido pelo TSE em 11/09/2026)",
+    "tagline": "Médico psiquiatra formado em 1984 e escritor com mais de 30 milhões de exemplares vendidos no Brasil (Forbes, 2017); 2026 é sua primeira candidatura a cargo público.",
+    "education": [
+      {
+        "id": "edu-ac-1",
+        "level": "graduacao",
+        "field": "Medicina",
+        "institution": "Faculdade de Medicina de São José do Rio Preto (Famerp)",
+        "conclusionYear": 1984,
+        "notes": "Formação em Medicina concluída em 1984, segundo entrevista do Cremesp à revista Ser Médico (2018) e verbete da Wikipédia; depois atuou em psiquiatria e psicoterapia.",
+        "sources": [
+          {
+            "id": "src-ac-07",
+            "title": "Augusto Cury — verbete (Wikipédia em português: Famerp, formação em Medicina em 1984)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+          },
+          {
+            "id": "src-ac-28",
+            "title": "É preciso aprender a gerir a própria emoção (entrevista à revista Ser Médico, nº 83)",
+            "publisher": "Cremesp — Conselho Regional de Medicina do Estado de São Paulo",
+            "url": "https://cremesp.org.br/?siteAcao=Revista&id=955",
+            "publishedAt": "2018-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Abril–junho/2018; fonte profissional/conselho de classe."
+          }
+        ]
+      },
+      {
+        "id": "edu-ac-2",
+        "level": "curso",
+        "field": "Psicologia Social — disciplinas de mestrado (conclusão não confirmada)",
+        "institution": "Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+        "conclusionYear": null,
+        "notes": "Em artigo de julho/2026 no Observatório da Imprensa, Cury declarou que cursou disciplinas de mestrado em Psicologia Social na PUC-SP em 1986, sem confirmar a conclusão do curso. Declara igualmente disciplinas stricto sensu na Universitat de les Illes Balears e, no LinkedIn (citado pelo Valor), pós-graduação na PUC-SP e no centro médico Marmottan (Paris). Títulos e anos não documentados em fonte primária.",
+        "sources": [
+          {
+            "id": "src-ac-13",
+            "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+            "publisher": "Observatório da Imprensa",
+            "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado. Declaração do próprio candidato."
+          },
+          {
+            "id": "src-ac-12",
+            "title": "Cury inclui no currículo entregue ao TSE doutorado internacional que não teria feito",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/cury-inclui-no-curriculo-entregue-ao-tse-doutorado-internacional-que-nao-teria-feito.ghtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Cita LinkedIn do candidato: pós-graduação na PUC-SP e centro médico Marmottan (Paris)."
+          }
+        ]
+      },
+      {
+        "id": "edu-ac-3",
+        "level": "doutorado",
+        "field": "Doctor of Business Administration (DBA) / Administração de Empresas",
+        "institution": "Florida Christian University (EUA)",
+        "conclusionYear": 2013,
+        "notes": "Currículo Lattes do candidato registra DBA concluído em 2013, com trabalho sobre o Programa FreeMind (Folha/Valor, 01/09/2026). O plano de governo entregue ao TSE declara, em vez disso, 'doutorado em Psicologia Multifocal' pela mesma instituição, com tese 'Programa Freemind como ferramenta global para prevenção de transtornos psíquicos' — divergência apurada pela Folha e confirmada pelo Valor; a assessoria não respondeu. Cury afirmou no Observatório da Imprensa: 'Não apresento esse título como doutorado acadêmico em Psicologia'. A Florida Christian University é instituição de orientação religiosa sem acreditacão relevante no sistema americano (catálogo 2020/2021 da própria instituição, citado pela Folha); segundo a Folha (2020), a Justiça determinou liminarmente o encerramento de cursos de mestrado oferecidos por ela no Brasil. Ex-reitor da instituição (Anthony Portigliatti) afirmou ao jornal O Sul que o doutorado de Cury foi em psicologia clínica — versão em conflito com o currículo Lattes.",
+        "sources": [
+          {
+            "id": "src-ac-11",
+            "title": "Cury se contradiz sobre doutorado em psicologia / Augusto Cury declara doutorado em psicologia que não fez",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-12",
+            "title": "Cury inclui no currículo entregue ao TSE doutorado internacional que não teria feito",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/cury-inclui-no-curriculo-entregue-ao-tse-doutorado-internacional-que-nao-teria-feito.ghtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-13",
+            "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+            "publisher": "Observatório da Imprensa",
+            "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-ac-1",
+        "role": "Médico psiquiatra — atuação em psiquiatria e psicoterapia",
+        "organization": "Atuação profissional privada (instituição hospitalar não identificada em fontes localizadas)",
+        "startDate": "1984",
+        "endDate": null,
+        "description": "Após formar-se em Medicina (1984), atuou em psiquiatria e psicoterapia, segundo entrevista do Cremesp (2018). Não foi localizada em fontes consultadas a exercência como psiquiatra hospitalar nem cargo de direção de faculdade; o plano de governo declara-o 'professor convidado no programa de mestrado e doutorado da USP' (declaração do próprio documento, não confirmada em fonte primária universitária).",
+        "achievements": [
+          "Desenvolvimento da Teoria da Inteligência Multifocal e do conceito de Síndrome do Pensamento Acelerado (construções teóricas próprias, segundo declarou em artigo de jul/2026)"
+        ],
+        "sources": [
+          {
+            "id": "src-ac-28",
+            "title": "É preciso aprender a gerir a própria emoção (entrevista à revista Ser Médico, nº 83)",
+            "publisher": "Cremesp — Conselho Regional de Medicina do Estado de São Paulo",
+            "url": "https://cremesp.org.br/?siteAcao=Revista&id=955",
+            "publishedAt": "2018-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-13",
+            "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+            "publisher": "Observatório da Imprensa",
+            "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-23",
+            "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+            "publisher": "Poder360 (cópia do documento da campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Declara o candidato como 'psiquiatra mais lido do mundo' e 'professor convidado no programa de mestrado e doutorado da USP'."
+          }
+        ]
+      },
+      {
+        "id": "prof-ac-2",
+        "role": "Escritor e pesquisador — obras publicadas em cerca de 70 países",
+        "organization": "Editoras Planeta, Sextante e HarperCollins (publicação de obras); grupo educacional próprio em Ribeirão Preto (SP)",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Vendas registradas pela imprensa com datas de referência variáveis: cerca de 11 milhões de exemplares em 2010 (Trip); ~12 milhões em 28 obras em 2011 (IstoÉ); 27 milhões no Brasil em 2016 (IstoÉ); mais de 30 milhões no Brasil e mais de 50 livros publicados em 2017 (Forbes, citando o mercado editorial); em agosto de 2026 o próprio candidato afirmou ultrapassar 40 milhões de exemplares (Folha). Em 2015 o Valor descreveu grupo educacional com seu nome em Ribeirão Preto.",
+        "achievements": [
+          "Mais de 30 milhões de exemplares vendidos no Brasil até 2017, segundo Forbes citando fontes do mercado editorial",
+          "Publicação em cerca de 70 países",
+          "Prêmio de melhor ficção do ano de 2009 pela Academia Chinesa, segundo o plano de governo"
+        ],
+        "sources": [
+          {
+            "id": "src-ac-07",
+            "title": "Augusto Cury — verbete (Wikipédia em português: vendas Trip 2010, IstoÉ 2011/2016, Forbes 2017, Folha 2026)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Usada como índice; verbete orienta a apresentar estimativas de vendas sempre com período de referência."
+          },
+          {
+            "id": "src-ac-34",
+            "title": "Quem é Augusto Cury? Conheça a trajetória do escritor e psiquiatra",
+            "publisher": "QueroBolsa (Revista)",
+            "url": "https://querobolsa.com.br/revista/quem-e-augusto-cury",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada. Registra 'mais de 30 milhões de livros vendidos'."
+          },
+          {
+            "id": "src-ac-23",
+            "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+            "publisher": "Poder360 (cópia do documento da campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-ac-1",
+        "role": "Candidato à Presidência da República e filiado ao Avante",
+        "organization": "Avante",
+        "startDate": "2026",
+        "endDate": null,
+        "description": "Anunciou filiação e pré-candidatura pelo Avante em 05/04/2026; candidatura oficializada na convenção nacional do partido na Alesp em 03/08/2026; chapa com Júlio Delgado anunciada em 05/08/2026; registro deferido pelo TSE em 11/09/2026. Nunca ocupou cargo público eletivo ou de nomeação (2026 é sua primeira candidatura). Filiado anteriormente ao PV entre 2009 e 2010, sem candidatura ou cargo documentado nesse período.",
+        "achievements": [
+          "Registro da chapa deferido pelo TSE em 11/09/2026"
+        ],
+        "sources": [
+          {
+            "id": "src-ac-09",
+            "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+            "publishedAt": "2026-04-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-04",
+            "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+            "publishedAt": "2026-08-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-02",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-ac-07",
+            "title": "Augusto Cury — verbete (Wikipédia em português: filiação ao PV, 2009–2010)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "ach-ac-1",
+        "title": "Produção editorial: mais de 30 milhões de exemplares vendidos no Brasil (2017) e publicação em cerca de 70 países",
+        "context": "Carreira editorial, 2010–2026",
+        "description": "Números variam conforme a fonte e a data: 11 milhões de exemplares (Trip, 2010); ~12 milhões em 28 obras (IstoÉ, 2011); 27 milhões no Brasil (IstoÉ, 2016); mais de 30 milhões no Brasil e mais de 50 livros publicados (Forbes, 2017, citando o mercado editorial); em agosto de 2026 o candidato afirmou mais de 40 milhões de exemplares (Folha). A própria Wikipédia orienta que estimativas de vendas sejam sempre acompanhadas do período de referência.",
+        "sources": [
+          {
+            "id": "src-ac-07",
+            "title": "Augusto Cury — verbete (Wikipédia em português: vendas Trip/IstoÉ/Forbes/Folha)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-34",
+            "title": "Quem é Augusto Cury? Conheça a trajetória do escritor e psiquiatra",
+            "publisher": "QueroBolsa (Revista)",
+            "url": "https://querobolsa.com.br/revista/quem-e-augusto-cury",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-ac-2",
+        "title": "Primeira candidatura a cargo público, com registro deferido pelo TSE e terceira posição nas pesquisas de setembro de 2026",
+        "context": "Campanha presidencial 2026",
+        "description": "Nunca disputou eleição antes de 2026. O TSE aprovou a chapa Augusto Cury/Júlio Delgado em 11/09/2026 (jornada que terminou com 12 chapas válidas). Nas pesquisas Datafolha de setembro/2026 obteve 6% (feita 8–10/09) e 5% (feita 22–23/09) no cenário estimulado de 1º turno; no 2º turno simulado da mesma pesquisa de 24/09, Cury aparece com 43% contra 46% de Lula. A Quaest registrou 10% (30/08–01/09) e 7% (10–13/09) em seus levantamentos de setembro.",
+        "sources": [
+          {
+            "id": "src-ac-02",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-ac-14",
+            "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+            "publishedAt": "2026-09-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "2.002 entrevistas em 22–23/09/2026; margem de 2 p.p.; registro TSE BR-00304/2026. Inclui cenário 2º turno: Lula 46% x Cury 43%."
+          },
+          {
+            "id": "src-ac-15",
+            "title": "O que mostra a nova pesquisa Datafolha para presidente (Cury, 6%; Samara, 1%; Clariana, 1%)",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-2/",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Entrevistas em 8–10/09/2026."
+          },
+          {
+            "id": "src-ac-16",
+            "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+            "publishedAt": "2026-09-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-ac-3",
+        "title": "Divergência entre formação de doutorado declarada no plano de governo entregue ao TSE e currículo Lattes",
+        "context": "Campanha 2026 — documento registrado na Justiça Eleitoral",
+        "description": "O plano de governo protocolado no TSE declara doutorado em Psicologia Multifocal pela Florida Christian University (concluído em 2013); o currículo Lattes do candidato registra PhD/Doctor of Business Administration em Administração pela mesma instituição. Folha e Valor noticiaram a divergência em 01/09/2026; a assessoria não respondeu por que a informação incorreta consta do documento. Em julho de 2026, em direito de resposta no Observatório da Imprensa, Cury havia escrito: 'Não apresento esse título como doutorado acadêmico em Psicologia'. Não há processo, sanção ou decisão judicial sobre o fato localizado até 29/09/2026.",
+        "sources": [
+          {
+            "id": "src-ac-11",
+            "title": "Cury se contradiz sobre doutorado em psicologia / Augusto Cury declara doutorado em psicologia que não fez",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-12",
+            "title": "Cury inclui no currículo entregue ao TSE doutorado internacional que não teria feito",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/cury-inclui-no-curriculo-entregue-ao-tse-doutorado-internacional-que-nao-teria-feito.ghtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-13",
+            "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+            "publisher": "Observatório da Imprensa",
+            "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-ac-4",
+        "title": "Bens de R$ 242,28 milhões declarados à Justiça Eleitoral em 2026",
+        "context": "Registro de candidatura 2026",
+        "description": "Maior patrimônio declarado entre os candidatos à Presidência em 2026 segundo levantamento da imprensa com base no DivulgaCandContas: R$ 242,28 milhões, com destaque para mútuo de R$ 121,1 milhões a empresa própria (Filadélfia Nature), participação de R$ 31,5 milhões na Fictor Invest, R$ 25,8 milhões em BDRs e R$ 7 milhões em ações do Bradesco, além de imóveis e fazendas.",
+        "sources": [
+          {
+            "id": "src-ac-07",
+            "title": "Augusto Cury — verbete (Wikipédia em português: fortuna de R$ 242,28 milhões declarados em 2026)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-35",
+            "title": "No presidential candidate has declared bitcoin for the 2026 elections... (bens de Cury: R$ 242,2 mi; mútuo à Filadélfia Nature; Fictor Invest)",
+            "publisher": "WEEX (com base em dados do TSE)",
+            "url": "https://weex.com/news/detail/no-presidential-candidate-has-declared-bitcoin-for-the-2026-elections-but-a-vice-presidential-candidate-has-99-of-his-wealth-in-digital-currency-pbteuupc6d6si7la02tu1q87",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Mês; dia exato não capturado. Fonte secundária sobre dados do TSE/DivulgaCandContas."
+          },
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (lista de bens, dados TSE)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "O Brasil dos Nossos Sonhos",
+      "planUrl": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+      "totalProposals": 18,
+      "registeredWith": "TSE — DivulgaCandContas (Eleições Gerais 2026); chapa deferida em 11/09/2026",
+      "summary": "",
+      "notes": "Documento de 200 páginas com 18 tópicos de projetos (Radioagência Nacional, 24/08/2026), registrado junto ao pedido de registro da candidatura. Espelho público do PDF hospedado pelo Poder360. Capítulos citados pela imprensa: educação, Brasil Neuroinclusivo, prevenção do feminicídio, empreendedorismo, combate à fome, saúde/telemedicina, energia (hidrogênio verde), terras raras, meio ambiente ('Floresta Viva'), segurança pública, entre outros.",
+      "statsIfCounted": {
+        "objective": "18 tópicos de projetos em 200 páginas, cada um com objetivo declarado (Radioagência Nacional)",
+        "target": "Não localizado por proposta; metas pontuais citadas: dobrar a produção de alimentos para 700 milhões de toneladas em 10–12 anos e salário mínimo de US$ 300 em 8–10 anos (declarações de campanha, 06/05 e 29/08/2026)",
+        "deadline": "Prazos pontuais citados acima; prazo por proposta não consta das fontes localizadas",
+        "cost": "Custo quantificado localizado em ao menos uma proposta: R$ 30 bi a R$ 50 bi para o Fundo Nacional do Empreendedor (Radioagência Nacional); demais propostas sem custo informado",
+        "funding": null,
+        "fiscal": "Premissa declarada: controle das contas públicas para viabilizar reajuste real do salário mínimo (sabatina TV Globo, 29/08/2026)",
+        "agency": null,
+        "instrument": "Semipresidencialismo e mandato de 8 anos para ministros do STF (emenda constitucional); criação/extinção de ministérios (lei/ato do Executivo)",
+        "indicator": null,
+        "congress": "Reforma do regime político e do mandato do STF dependem de emenda constitucional; contagem de propostas dependentes do Congresso não realizada pela equipe"
+      },
+      "statsEvidence": "parcial",
+      "proposals": [
+        {
+          "id": "augusto-cury-prop-1",
+          "title": "Reforma do regime de governo para o semipresidencialismo e mandato de 8 anos para ministros do STF",
+          "description": "Adoção do semipresidencialismo, com presidente responsável por funções estratégicas e primeiro-ministro pela condução da administração; mandato de oito anos para ministros do STF (em vez de vitaliciedade); substituição do chanceler por secretário de Estado, ao modelo dos EUA. As três propostas são atribuídas pelo candidato ao vice Júlio Delgado.",
+          "theme": "Administração pública",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Emenda constitucional",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ac-06",
+              "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Setembro/2026; dia exato não capturado."
+            },
+            {
+              "id": "src-ac-04",
+              "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+              "publishedAt": "2026-08-03",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-36",
+              "title": "Augusto Cury Names Júlio Delgado as Running Mate for Brazil Presidency (três propostas atribuídas a Delgado)",
+              "publisher": "Today in Brazil (CNN Brasil, como origem da carta à nação)",
+              "url": "https://todayinbrazil.com/article/augusto-cury-names-julio-delgado-running-mate-msgmzvhp",
+              "publishedAt": "2026-08-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "augusto-cury-prop-2",
+          "title": "Saúde digital: telemedicina, inteligência artificial e plataformas digitais no SUS",
+          "description": "Estruturação de telemedicina pelo governo que, segundo o candidato, resolveria 80% dos casos de atendimento no SUS, com médicos disponíveis 24 horas e uso de inteligência artificial; prevenção e detecção precoce do câncer. Em sabatina na TV Globo (29/08/2026), Cury reconheceu sua ligação com empresa de telemedicina e disse que a experiência lhe permite afirmar que o modelo pode ser 'barato' e 'eficiente'.",
+          "theme": "Saúde",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Política pública do SUS / atos administrativos",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "augusto-cury-prop-3",
+          "title": "Salário mínimo reajustado pela inflação mais 1% ao ano e enxugamento do Executivo (corte de 8 a 10 ministérios)",
+          "description": "Reajuste do salário mínimo pela inflação acrescido de 1% ao ano, com ganho real acumulado estimado pelo candidato em 50% a 60% em quatro anos e projeção de US$ 300 em 8 a 10 anos; corte de 8 a 10 ministérios; criação de um Ministério da Segurança Pública, com Ronaldo Caiado (PSD) convidado para comandá-lo segundo declaração em sabatina; criação de um Ministério da Inteligência Artificial (declaração à Band, 29/08/2026).",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei orçamentária e atos de organização do Executivo",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-37",
+              "title": "Cury defende mudanças no Bolsa Família e quer criar Ministério da IA",
+              "publisher": "Band",
+              "url": "https://www.band.com.br/politica/eleicoes/2026/cury-defende-mudancas-no-bolsa-familia-e-quer-criar-ministerio-da-ia-202608292154",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "augusto-cury-prop-4",
+          "title": "Educação: ensino em tempo integral, gestão da emoção no currículo e 'Projeto Brasil Neuroinclusivo'",
+          "description": "Ensino em tempo integral e mudança curricular com disciplinas de gestão da emoção, educação financeira e empreendedorismo; 'Projeto Brasil Neuroinclusivo' para acolhimento de pessoas neurodivergentes (autismo, dislexia, transtornos de aprendizagem, altas habilidades, TDAH).",
+          "theme": "Educação",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Política nacional de educação / BNCC (não especificado no documento)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "augusto-cury-prop-5",
+          "title": "Empreendedorismo: ministério específico, 10.000 escolas de empreendedorismo e Fundo Nacional do Empreendedor (R$ 30–50 bi)",
+          "description": "Criação de ministério do empreendedorismo, escolas de formação de empreendedores em comunidades, favelas, igrejas e escolas públicas (meta de 10.000 escolas), fundo nacional do empreendedor com R$ 30 bilhões a R$ 50 bilhões e 'Embaixadas Empreendedoras' (diplomacia empreendedora).",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": true,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei de criação do fundo e do ministério",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-08",
+              "title": "Avante faz evento de lançamento da pré-candidatura de Augusto Cury em BH (10.000 escolas de empreendedorismo; dobrar produção de alimentos)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/05/06/avante-faz-evento-de-lancamento-da-pre-candidatura-de-augusto-cury-em-bh.ghtml",
+              "publishedAt": "2026-05-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "augusto-cury-prop-6",
+          "title": "Segurança pública: integração nacional das forças de segurança e núcleos municipais contra o crime organizado",
+          "description": "Integração nacional das forças de segurança com sistema integrado de informações e núcleos municipais de combate ao crime organizado; monitoramento inteligente de fronteiras; criação de Ministério da Segurança Pública (com convidado Ronaldo Caiado, segundo declaração em sabatina de 29/08/2026).",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei e atos de organização administrativa",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-19",
+              "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+              "publisher": "GZH (Estadão Conteúdo)",
+              "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+              "publishedAt": "2026-08-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "augusto-cury-prop-7",
+          "title": "Meio ambiente e energia: 'Floresta viva', hidrogênio verde e tecnologia em terras raras",
+          "description": "Capítulo 'Floresta viva' com uso de tecnologia, ciência e mobilização social para proteção de biomas, combate a incêndios e promessa de tornar o país potência mundial de energia limpa; investimento em tecnologia, pesquisa e indústria de terras raras para reduzir a exportação de minerais brutos; referência mundial em hidrogênio verde.",
+          "theme": "Meio ambiente",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Não especificado nas fontes localizadas",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-38",
+              "title": "O que os candidatos prometem para o meio ambiente (capítulo 'Floresta viva' de Augusto Cury)",
+              "publisher": "Nexo Jornal",
+              "url": "https://www.nexojornal.com.br/expresso/2026/09/22/candidatos-a-presidencia-2026-promessas-meio-ambiente",
+              "publishedAt": "2026-09-22",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "augusto-cury-prop-8",
+          "title": "Combate à fome no mundo e segurança alimentar via agricultura familiar",
+          "description": "Plano de combate à fome no mundo com criação de um fundo internacional e apoio à agricultura familiar como base da segurança alimentar; meta declarada em campanha de dobrar a produção de alimentos do país para 700 milhões de toneladas em 10 a 12 anos.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Não especificado nas fontes localizadas",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ac-05",
+              "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-ac-08",
+              "title": "Avante faz evento de lançamento da pré-candidatura de Augusto Cury em BH (dobrar produção de alimentos em 10–12 anos)",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/05/06/avante-faz-evento-de-lancamento-da-pre-candidatura-de-augusto-cury-em-bh.ghtml",
+              "publishedAt": "2026-05-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "augusto-cury-prop-9",
+          "title": "Programa 'Você é Insubstituível' — prevenção do suicídio e valorização da vida",
+          "description": "Programa idealizado por Augusto Cury e registrado no plano enviado à Justiça Eleitoral, voltado à prevenção do suicídio e à valorização da vida, com foco na promoção da saúde.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Política pública de saúde mental",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ac-01",
+              "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Página viva com links dos planos; o item 'Você é Insubstituível' consta de documento do candidato hospedado no DivulgaCandContas."
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-ac-1",
+        "description": "Partido isolado — chapa pura do Avante (nº 70), sem coligação nem federação; vice Júlio Delgado (Avante), ex-deputado federal por MG com seis períodos de mandato. O Avante tem 5 deputados federais, 1 senador, 15 deputados estaduais e 136 prefeitos (2024).",
+        "value": "AVANTE — partido isolado; 5/513 na Câmara; 1 senador",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-ac-17",
+            "title": "Avante — verbete (Wikipédia em português: bancada e filiados)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Avante",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-22",
+            "title": "Quem é Júlio Delgado, vice de Augusto Cury na disputa presidencial",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-e-julio-delgado-vice-de-augusto-cury-na-disputa-presidencial/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada."
+          },
+          {
+            "id": "src-ac-02",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ]
+      },
+      {
+        "id": "sup-ac-2",
+        "description": "Conversas de articulação antes da filiação: Cury afirmou ter tratado com Michel Temer (MDB), Gilberto Kassab (PSD), Marcos Pereira, Aécio Neves (PSDB), Renata Abreu (Podemos), pastor Everaldo (PSC), Aldo Rebelo e Marcel Van Hattem (Novo), entre outros, antes de escolher o Avante.",
+        "value": "contatos com lideranças de MDB, PSD, PSDB, Podemos, PSC e Novo (05/04/2026)",
+        "date": "2026-04-05",
+        "sources": [
+          {
+            "id": "src-ac-09",
+            "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+            "publishedAt": "2026-04-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "sup-ac-3",
+        "description": "Aliança com o Novo descartada: em convenção nacional do Avante (03/08/2026), Cury informou que conversas com Romeu Zema (Novo) não avançaram e que a possibilidade de composição de chapa estava praticamente descartada.",
+        "value": "sem aliança com o Novo",
+        "date": "2026-08-03",
+        "sources": [
+          {
+            "id": "src-ac-04",
+            "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+            "publishedAt": "2026-08-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-ac-1",
+        "description": "Convite público a Ronaldo Caiado (PSD), candidato à Presidência, para comandar um eventual Ministério da Segurança Pública em um governo Cury (declaração em sabatina da TV Globo, 29/08/2026).",
+        "value": "convite declarado a Caiado (PSD)",
+        "date": "2026-08-29",
+        "sources": [
+          {
+            "id": "src-ac-19",
+            "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+            "publisher": "GZH (Estadão Conteúdo)",
+            "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+            "publishedAt": "2026-08-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "neg-ac-2",
+        "description": "Encontros com partidos de diferentes espectros antes da filiação (Temer/MDB, Kassab/PSD, Aécio/PSDB, Renata Abreu/Podemos, Everaldo/PSC, Van Hattem/Novo), relatados pelo próprio candidato em publicação de 05/04/2026. Trata-se de declaração do candidato, sem confirmação independente de cada encontro.",
+        "value": "agenda de contatos pré-filiação",
+        "date": "2026-04-05",
+        "sources": [
+          {
+            "id": "src-ac-09",
+            "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+            "publishedAt": "2026-04-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-ac-1",
+        "category": "transparencia",
+        "title": "Divergência de formação de doutorado declarada no plano de governo enviado ao TSE",
+        "legalStatus": "regular",
+        "currentStatus": "encerrado",
+        "instance": "Sem processo — apuração jornalística (Folha de S.Paulo e Valor Econômico, 01/09/2026)",
+        "lastUpdate": "2026-09-01",
+        "description": "O plano de governo protocolado no TSE declara doutorado em Psicologia Multifocal pela Florida Christian University (2013); o currículo Lattes do candidato registra Doctor of Business Administration em Administração pela mesma instituição. A assessoria não respondeu à Folha nem ao Valor por que a informação consta do documento. Em julho de 2026 o candidato havia afirmado em artigo que não apresenta o título como doutorado acadêmico em Psicologia. Status jurídico: nenhum processo, inquérito, denúncia, investigação ou decisão localizado sobre o fato até 29/09/2026 — trata-se de divergência declarativa apurada por imprensa, não de categoria jurídica.",
+        "sources": [
+          {
+            "id": "src-ac-11",
+            "title": "Cury se contradiz sobre doutorado em psicologia / Augusto Cury declara doutorado em psicologia que não fez",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-12",
+            "title": "Cury inclui no currículo entregue ao TSE doutorado internacional que não teria feito",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/cury-inclui-no-curriculo-entregue-ao-tse-doutorado-internacional-que-nao-teria-feito.ghtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-13",
+            "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+            "publisher": "Observatório da Imprensa",
+            "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-ac-2",
+        "category": "tribunal",
+        "title": "Consulta a registros de processo e sanção — nenhuma denúncia, investigação ou condenação localizada",
+        "legalStatus": "regular",
+        "currentStatus": "encerrado",
+        "instance": "Busca em fontes públicas (TSE, imprensa e verbetes) até 29/09/2026",
+        "lastUpdate": "2026-09-29",
+        "description": "Nas fontes consultadas não foi localizada denúncia, inquérito, investigação, processo, decisão ou condenação criminal ou eleitoral contra Augusto Cury até 29/09/2026, tampouco impugnação de mérito ao registro de 2026 (deferido em 11/09/2026). Ausência de registro em busca de fontes públicas não equivale a certidão negativa; evidência marcada como indeterminada.",
+        "sources": [
+          {
+            "id": "src-ac-02",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-ac-07",
+            "title": "Augusto Cury — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum cargo localizado: 2026 é a primeira candidatura de Augusto Cury a cargo público.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-ac-04",
+            "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+            "publishedAt": "2026-08-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (candidaturas anteriores: nenhuma)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Exerce funções de direção apenas em atividades privadas (grupo educacional próprio e projetos da campanha), sem administração de recursos ou pessoal públicos.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "Não se aplica — nunca administrou orçamento público",
+        "value": null,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior orçamento anual sob gestão em cargo público.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (dados TSE)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Pessoas/equipe sob gestão (servidores)",
+        "displayValue": "Não localizado",
+        "value": null,
+        "unit": "servidores",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Servidores/equipe sob gestão direta em cargos públicos.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (dados TSE)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "≈0,5 ano (desde 05/04/2026)",
+        "value": 0.5,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Anos entre a filiação ao Avante (05/04/2026) e 29/09/2026. Filiação anterior ao PV (2009–2010) não computada por ausência de datas exatas e por não haver cargo nem candidatura documentados nesse período.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ac-09",
+            "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+            "publishedAt": "2026-04-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-07",
+            "title": "Augusto Cury — verbete (Wikipédia em português: PV, 2009–2010)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Se contada a filiação ao PV (2009–2010), o total de tempo com vínculo partidário documentado é de aproximadamente 1,5 ano.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "articulacao",
+        "name": "Anos em cargos legislativos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos legislativos eletivos; nenhuma ocupação localizada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (candidaturas anteriores: nenhuma)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos públicos federais",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (dados TSE)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "0 — nunca disputou eleição antes de 2026",
+        "value": 0,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de mandatos eletivos conquistados. Fato confirmado, não lacuna: 2026 é a primeira candidatura de Cury a cargo público (Agência Brasil, g1/dados TSE).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-ac-04",
+            "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+            "publishedAt": "2026-08-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (dados TSE)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "Não se aplica — primeira disputa eleitoral em 2026",
+        "value": null,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Total de votos em eleições anteriores.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (candidaturas anteriores: nenhuma)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas/tópicos do plano de governo",
+        "displayValue": "18 tópicos de projetos (200 páginas)",
+        "value": 18,
+        "unit": "tópicos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Nº de tópicos de projetos do plano 'O Brasil dos Nossos Sonhos', conforme apurado pela Radioagência Nacional a partir do documento de 200 páginas enviado ao TSE; não recalculado item a item pela equipe.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ac-05",
+            "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-01",
+            "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Ao menos 1 de 18 cita valor (fundo do empreendedor: R$ 30–50 bi); % por proposta não calculada",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com estimativa de custo própria. Contagem por item não realizada pela equipe; a única quantificação localizada é a do Fundo Nacional do Empreendedor.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-ac-05",
+            "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Prazos pontuais localizados (4 anos, 8–10 anos, 10–12 anos); % por proposta não calculada",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido; contagem por item não realizada pela equipe.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-ac-19",
+            "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+            "publisher": "GZH (Estadão Conteúdo)",
+            "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+            "publishedAt": "2026-08-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-08",
+            "title": "Avante faz evento de lançamento da pré-candidatura de Augusto Cury em BH",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/05/06/avante-faz-evento-de-lancamento-da-pre-candidatura-de-augusto-cury-em-bh.ghtml",
+            "publishedAt": "2026-05-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; reformas estruturais (semipresidencialismo, mandato de 8 anos no STF) dependem de emenda constitucional",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige emenda constitucional ou lei.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-ac-06",
+            "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-04",
+            "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+            "publishedAt": "2026-08-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "Deferido — TSE, sessão virtual encerrada em 11/09/2026 (chapa Augusto Cury/Júlio Delgado, Avante)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ac-02",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Na mesma sessão, o TSE indeferiu a chapa Marçal/Avalanche (PRTB)."
+          },
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (situação: deferido)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Até 09/09/2026 a chapa ainda aguardava julgamento (CNN Brasil, 09/09/2026). Não foram localizadas impugnações de mérito, ficha-limpa ou condenações contra o candidato; a divergência de formação no plano é tratada em integridade.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "R$ 242.280.000,00",
+        "value": 242280000,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de candidatura de 2026 (DivulgaCandContas), compilado pela Wikipédia com base na Justiça Eleitoral e detalhado por levantamento da imprensa.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ac-07",
+            "title": "Augusto Cury — verbete (Wikipédia em português: R$ 242,28 milhões declarados em 2026)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-ac-35",
+            "title": "No presidential candidate has declared bitcoin for the 2026 elections... (bens de Cury: R$ 242,2 mi)",
+            "publisher": "WEEX (com base em dados do TSE)",
+            "url": "https://weex.com/news/detail/no-presidential-candidate-has-declared-bitcoin-for-the-2026-elections-but-a-vice-presidential-candidate-has-99-of-his-wealth-in-digital-currency-pbteuupc6d6si7la02tu1q87",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-ac-03",
+            "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury (lista de bens)",
+            "publisher": "g1 (Globo) — dados do TSE",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Composição (WEEX, dados TSE): mútuo de R$ 121,1 milhões a empresa própria Filadélfia Nature; R$ 31,5 milhões na Fictor Invest; R$ 25,8 milhões em BDRs; R$ 7 milhões em ações do Bradesco; fazendas, prédios e depósitos. Vice Júlio Delgado declara R$ 3,5 milhões.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+        "displayValue": "5/513 deputados federais",
+        "value": 5,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Cadeiras do Avante na Câmara dos Deputados em 29/09/2026, antes do pleito de 2026, após a janela partidária (fonte: verbete do partido com base nos dados da Câmara).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ac-17",
+            "title": "Avante — verbete (Wikipédia em português: 5 deputados federais, 1 senador, 15 estaduais, 136 prefeitos, 1.513 vereadores, 243.296 filiados)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Avante",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete vivo; usado como índice de dados da Câmara/TSE."
+          },
+          {
+            "id": "src-ac-18",
+            "title": "Debandada esvazia Avante em Minas, que sai de cinco para um deputado (janela partidária de 2026)",
+            "publisher": "Estado de Minas",
+            "url": "https://www.em.com.br/politica/2026/04/7389779-debandada-esvazia-avante-em-minas-que-sai-de-cinco-para-um-deputado.html",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Abril/2026; dia exato não capturado."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "O Avante elegeu em 2022 sete deputados federais, dos quais cinco eram de Minas Gerais; na janela partidária de 2026 todos os mineiros saíram, exceto Luís Tibé. O partido tem 1 senador, 15 deputados estaduais, 136 prefeitos e 1.513 vereadores (2024), com 243.296 filiados (2026).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "5% (Datafolha, 24/09) | 6% (Datafolha, 11/09) | 8% (Quaest, 07/09) | 3º lugar no cenário estimulado",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ac-14",
+            "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+            "publishedAt": "2026-09-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "2.002 entrevistas, 22–23/09/2026; margem 2 p.p. 2º turno: Lula 46% x Cury 43%."
+          },
+          {
+            "id": "src-ac-15",
+            "title": "O que mostra a nova pesquisa Datafolha para presidente (Cury, 6%)",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-2/",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Entrevistas em 8–10/09/2026."
+          },
+          {
+            "id": "src-ac-16",
+            "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+            "publishedAt": "2026-09-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Em simulações de 2º turno, Cury é um dos adversários testados contra Lula: Datafolha de 24/09 registra Lula 46% x Cury 43%.",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-ac-01",
+        "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva; lista todos os planos registrados, incluindo 'Escritor Augusto Cury / 70 / AVANTE / BRASIL DOS NOSSOS SONHOS'."
+      },
+      {
+        "id": "src-ac-02",
+        "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Aprovação das 12 chapas e indeferimento da chapa Marçal/Avalanche."
+      },
+      {
+        "id": "src-ac-03",
+        "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury",
+        "publisher": "g1 (Globo) — dados do TSE/DivulgaCandContas",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva com dados do candidato: nº 70, vice Júlio Delgado, ocupação Escritor e crítico, superior completo, lista de bens."
+      },
+      {
+        "id": "src-ac-04",
+        "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+        "publishedAt": "2026-08-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Convenção na Alesp; semipresidencialismo; aliança com Novo descartada."
+      },
+      {
+        "id": "src-ac-05",
+        "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+        "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+        "publishedAt": "2026-08-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+      },
+      {
+        "id": "src-ac-06",
+        "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Setembro/2026; dia exato não capturado."
+      },
+      {
+        "id": "src-ac-07",
+        "title": "Augusto Cury — verbete (Wikipédia em português)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Augusto_Cury",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Enciclopédia colaborativa usada como índice; vendas devem ser citadas com período de referência."
+      },
+      {
+        "id": "src-ac-08",
+        "title": "Avante faz evento de lançamento da pré-candidatura de Augusto Cury em BH",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/05/06/avante-faz-evento-de-lancamento-da-pre-candidatura-de-augusto-cury-em-bh.ghtml",
+        "publishedAt": "2026-05-06",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Nasceu em Colina (SP) em 1958; metas de produção de alimentos e escolas de empreendedorismo."
+      },
+      {
+        "id": "src-ac-09",
+        "title": "Augusto Cury anuncia pré-candidatura à Presidência pelo Avante",
+        "publisher": "Metrópoles",
+        "url": "https://www.metropoles.com/brasil/augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+        "publishedAt": "2026-04-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Filiação ao Avante; lista de políticos com quem conversou."
+      },
+      {
+        "id": "src-ac-10",
+        "title": "Avante anuncia Augusto Cury como pré-candidato à Presidência",
+        "publisher": "Congresso em Foco",
+        "url": "https://www.congressoemfoco.com.br/noticia/117846/avante-anuncia-augusto-cury-como-pre-candidato-a-presidencia",
+        "publishedAt": "2026-04-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-ac-11",
+        "title": "Cury se contradiz sobre doutorado em psicologia / Augusto Cury declara doutorado em psicologia que não fez",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml",
+        "publishedAt": "2026-09-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Detalha a divergência entre plano de governo e Lattes e a falta de acreditação da FCU."
+      },
+      {
+        "id": "src-ac-12",
+        "title": "Cury inclui no currículo entregue ao TSE doutorado internacional que não teria feito",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/cury-inclui-no-curriculo-entregue-ao-tse-doutorado-internacional-que-nao-teria-feito.ghtml",
+        "publishedAt": "2026-09-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Título do plano: 'O Brasil dos Nossos Sonhos'; LinkedIn: pós-graduação PUC-SP e Marmottan."
+      },
+      {
+        "id": "src-ac-13",
+        "title": "Augusto Cury: direito de resposta a artigo publicado em 16 de julho de 2026",
+        "publisher": "Observatório da Imprensa",
+        "url": "https://www.observatoriodaimprensa.com.br/politica/augusto-cury-direito-de-resposta-a-artigo-publicado-em-16-de-julho-de-2026/",
+        "publishedAt": "2026-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Declaração do candidato sobre formação (DBA, PUC-SP, Illes Balears)."
+      },
+      {
+        "id": "src-ac-14",
+        "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+        "publishedAt": "2026-09-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Inclui cenário de 2º turno Lula 46% x Cury 43%."
+      },
+      {
+        "id": "src-ac-15",
+        "title": "O que mostra a nova pesquisa Datafolha para presidente",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-2/",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Entrevistas 8–10/09/2026: Cury 6%, Samara 1%, Clariana 1%."
+      },
+      {
+        "id": "src-ac-16",
+        "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+        "publishedAt": "2026-09-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-ac-17",
+        "title": "Avante — verbete (Wikipédia em português)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Avante",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Bancada 2026 (5 federais, 1 senador), 243.296 filiados, desempenho na janela partidária."
+      },
+      {
+        "id": "src-ac-18",
+        "title": "Debandada esvazia Avante em Minas, que sai de cinco para um deputado",
+        "publisher": "Estado de Minas",
+        "url": "https://www.em.com.br/politica/2026/04/7389779-debandada-esvazia-avante-em-minas-que-sai-de-cinco-para-um-deputado.html",
+        "publishedAt": "2026-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Janela partidária de 2026; queda da bancada mineira do Avante."
+      },
+      {
+        "id": "src-ac-19",
+        "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+        "publisher": "GZH (Estadão Conteúdo)",
+        "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+        "publishedAt": "2026-08-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+      },
+      {
+        "id": "src-ac-22",
+        "title": "Quem é Júlio Delgado, vice de Augusto Cury na disputa presidencial",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-e-julio-delgado-vice-de-augusto-cury-na-disputa-presidencial/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ano; data exata não capturada. Juiz de Fora (MG), 59 anos, advogado, seis períodos de mandato."
+      },
+      {
+        "id": "src-ac-23",
+        "title": "Plano de governo 'O Brasil dos Nossos Sonhos' — espelho do PDF enviado ao TSE",
+        "publisher": "Poder360 (cópia do documento da campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo"
+      },
+      {
+        "id": "src-ac-28",
+        "title": "É preciso aprender a gerir a própria emoção (entrevista à revista Ser Médico, nº 83)",
+        "publisher": "Cremesp — Conselho Regional de Medicina do Estado de São Paulo",
+        "url": "https://cremesp.org.br/?siteAcao=Revista&id=955",
+        "publishedAt": "2018-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-ac-34",
+        "title": "Quem é Augusto Cury? Conheça a trajetória do escritor e psiquiatra",
+        "publisher": "QueroBolsa (Revista)",
+        "url": "https://querobolsa.com.br/revista/quem-e-augusto-cury",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-ac-35",
+        "title": "No presidential candidate has declared bitcoin for the 2026 elections... (bens de Cury e de Júlio Delgado, dados TSE)",
+        "publisher": "WEEX (com base em dados do TSE)",
+        "url": "https://weex.com/news/detail/no-presidential-candidate-has-declared-bitcoin-for-the-2026-elections-but-a-vice-presidential-candidate-has-99-of-his-wealth-in-digital-currency-pbteuupc6d6si7la02tu1q87",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-ac-36",
+        "title": "Augusto Cury Names Júlio Delgado as Running Mate for Brazil Presidency",
+        "publisher": "Today in Brazil (relato da carta à nação divulgada pela CNN Brasil)",
+        "url": "https://todayinbrazil.com/article/augusto-cury-names-julio-delgado-running-mate-msgmzvhp",
+        "publishedAt": "2026-08-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-ac-37",
+        "title": "Cury defende mudanças no Bolsa Família e quer criar Ministério da IA",
+        "publisher": "Band",
+        "url": "https://www.band.com.br/politica/eleicoes/2026/cury-defende-mudancas-no-bolsa-familia-e-quer-criar-ministerio-da-ia-202608292154",
+        "publishedAt": "2026-08-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-ac-38",
+        "title": "O que os candidatos prometem para o meio ambiente",
+        "publisher": "Nexo Jornal",
+        "url": "https://www.nexojornal.com.br/expresso/2026/09/22/candidatos-a-presidencia-2026-promessas-meio-ambiente",
+        "publishedAt": "2026-09-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Capítulo 'Floresta viva' do plano de Cury."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "clariana-barao",
+    "name": "Clariana Zacarkim Barão",
+    "ballotName": "Clariana Barão",
+    "ballotNumber": 27,
+    "party": "DC (Democracia Cristã)",
+    "coalition": "Partido isolado (DC, nº 27), sem coligação ou federação. Chapa 100% feminina com vice Fabiana Torquato (DC), advogada — segunda chapa exclusivamente feminina da disputa, depois da chapa da UP (convenção de 26/07/2026).",
+    "photo": "",
+    "birthDate": "1987-04-03",
+    "birthplace": "Cuiabá/MT",
+    "age": 39,
+    "profession": "Advogada",
+    "currentRole": "Candidata à Presidência da República (DC, nº 27; registro de chapa deferido pelo TSE em 11/09/2026) e presidente do diretório estadual do DC em Mato Grosso",
+    "tagline": "Advogada formada em Direito, presidente do diretório do DC em MT; disputa pela primeira vez uma eleição em 2026, após as desistências de Aldo Rebelo e Joaquim Barbosa na legenda.",
+    "education": [
+      {
+        "id": "edu-cb-1",
+        "level": "graduacao",
+        "field": "Direito",
+        "institution": "Centro Universitário de Várzea Grande (Univag)",
+        "conclusionYear": null,
+        "notes": "Formação em Direito confirmada por Agência Brasil (17/08/2026), Band e blog do Doc; ano de conclusão não informado nas fontes localizadas.",
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-06",
+            "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)",
+            "publisher": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada."
+          }
+        ]
+      },
+      {
+        "id": "edu-cb-2",
+        "level": "especializacao",
+        "field": "Gestão Pública e Direito Administrativo",
+        "institution": "não informada nas fontes localizadas",
+        "conclusionYear": null,
+        "notes": "Especialização descrita em entrevista ao Poder360 (25/08/2026) e em perfis da imprensa; instituição e ano não informados.",
+        "sources": [
+          {
+            "id": "src-cb-07",
+            "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-09",
+            "title": "Clariana Barão — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Clariana_Bar%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-cb-1",
+        "role": "Advogada — atuação em direito administrativo e gestão pública",
+        "organization": "Atuação privada; OAB de Várzea Grande (MG)",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Formada em Direito, atua em causas sociais e na área de direito administrativo e gestão pública. Foi presidente da Comissão de Solidariedade e Assistência Social da OAB de Várzea Grande. Em 2024, coordenou grupo de voluntários que prestou auxílio a vítimas das enchentes no Rio Grande do Sul.",
+        "achievements": [
+          "Presidência da Comissão de Solidariedade e Assistência Social da OAB de Várzea Grande",
+          "Coordenação de voluntários nas enchentes do Rio Grande do Sul (2024)"
+        ],
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Matéria com subtítulo 'A advogada disputa cargo eletivo pela primeira vez'."
+          },
+          {
+            "id": "src-cb-15",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência (perfil)",
+            "publisher": "Blog do Doc",
+            "url": "https://blogdodoc.com/2026/08/17/clariana-barao-e-a-candidata-do-democracia-crista-a-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-cb-1",
+        "role": "Presidente do diretório estadual do DC em Mato Grosso",
+        "organization": "Democracia Cristã (DC)",
+        "startDate": "2026",
+        "endDate": null,
+        "description": "Assumiu a presidência do diretório estadual do DC em Mato Grosso em 2026; nome à candidatura apresentado pela direção estadual (Marco Marrafon, responsável pela filiação, e Etevaldo Balbino, 1º vice-presidente estadual) e aprovado em reunião nacional em Brasília em 08/07/2026, com dirigentes e presidentes de 21 diretórios estaduais. Oficializada na convenção nacional do partido em 05/08/2026, em São Paulo. Datas de filiação e atuação partidária anteriores não localizadas.",
+        "achievements": [
+          "Aprovação da candidatura por 21 diretórios estaduais (08/07/2026)",
+          "Oficialização na convenção nacional do DC (05/08/2026)"
+        ],
+        "sources": [
+          {
+            "id": "src-cb-07",
+            "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-08",
+            "title": "DC oficializa Clariana Barão como candidata à Presidência",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+            "publishedAt": "2026-08-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "pol-cb-2",
+        "role": "Candidata à Presidência da República",
+        "organization": "Democracia Cristã (DC)",
+        "startDate": "2026",
+        "endDate": null,
+        "description": "Lançada em julho de 2026 após a desistência do ex-ministro do STF Joaquim Barbosa (que havia substituído, em maio, a pré-candidatura de Aldo Rebelo — este, depois, assumiu a coordenação da campanha de Ronaldo Caiado/PSD). É a primeira vez que o DC não lança seu fundador, José Maria Eymael, à Presidência desde a fundação do partido em 1995.",
+        "achievements": [
+          "Primeira candidatura presidencial do DC fora de José Maria Eymael desde 1995"
+        ],
+        "sources": [
+          {
+            "id": "src-cb-16",
+            "title": "Quem são os candidatos à Presidência nas eleições 2026",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada. Sequência Aldo Rebelo → Joaquim Barbosa → Clariana Barão."
+          },
+          {
+            "id": "src-cb-09",
+            "title": "Clariana Barão — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Clariana_Bar%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "ach-cb-1",
+        "title": "Primeira eleição disputada: nenhum mandato eletivo anterior e nenhuma passagem pelo Legislativo",
+        "context": "Carreira política, até 2026",
+        "description": "Agência Brasil (17/08/2026) descreve: 'A advogada disputa cargo eletivo pela primeira vez'. Poder360 (25/08/2026): 'Clariana disputa pela 1ª vez uma eleição'. Não é deputada federal nem exercerá mandato legislativo: o DC não tem nenhum deputado federal na Câmara (0/513 em 2026, verbete do partido). Não houve, portanto, produção legislativa a apurar na Câmara dos Deputados.",
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-07",
+            "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-10",
+            "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português: 0 deputados federais em 2026)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice de dados do TSE."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-cb-2",
+        "title": "Chapa 100% feminina e candidatura aprovada por 21 diretórios estaduais do DC",
+        "context": "Convenção do DC, julho–agosto de 2026",
+        "description": "Em reunião nacional do partido em Brasília, em 08/07/2026, dirigentes e presidentes de 21 diretórios estaduais aprovaram a candidatura; a convenção nacional de 05/08/2026, em São Paulo, oficializou a chapa Clariana Barão/Fabiana Torquato, exclusivamente feminina — com a chapa da UP, uma das duas do pleito de 2026.",
+        "sources": [
+          {
+            "id": "src-cb-08",
+            "title": "DC oficializa Clariana Barão como candidata à Presidência",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+            "publishedAt": "2026-08-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-07",
+            "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-cb-3",
+        "title": "Registro de candidatura deferido pelo TSE e entrevistas no Jornal Nacional e na TV Globo",
+        "context": "Campanha presidencial 2026",
+        "description": "A chapa Clariana Barão/Fabiana Torquato teve o registro aprovado pelo TSE na sessão virtual que se encerrou em 11/09/2026. Em 05/09/2026, a candidata foi exibida no Jornal Nacional falando sobre propostas de governo; em 25/08/2026 deu entrevista de 39 minutos ao Poder360.",
+        "sources": [
+          {
+            "id": "src-cb-01",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cb-12",
+            "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+            "publisher": "g1 (Globo) — Jornal Nacional",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+            "publishedAt": "2026-09-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-07",
+            "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Proteger Hoje, Transformar o Amanhã (eixo transversal: 'Mulheres e Crianças em Primeiro Lugar')",
+      "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+      "totalProposals": 0,
+      "registeredWith": "TSE — DivulgaCandContas (Eleições Gerais 2026); chapa deferida em 11/09/2026",
+      "summary": "",
+      "notes": "Documento com seis eixos: (1) Mulheres e Crianças em Primeiro Lugar, (2) Economia, (3) Educação, (4) Segurança, (5) Saúde, (6) Estado que funciona — com matriz de implementação por horizontes (ex.: 'Ano 4'). A contagem total de propostas não foi recalculada item a item pela equipe: o dossiê independente Plano Aberto enumera ao menos 30 promessas numeradas do plano; total registrado aqui como não determinado.",
+      "statsIfCounted": {
+        "objective": "Seis eixos com objetivos declarados por eixo; primeiro eixo transversal 'Mulheres e Crianças em Primeiro Lugar' (Radioagência Nacional, 24/08/2026)",
+        "target": "Metas quantitativas não localizadas nas fontes consultadas; o Plano Aberto descreve matriz de implementação com horizontes por proposta",
+        "deadline": "Horizonte de gestão de 4 anos (matriz de implementação citada pelo Plano Aberto)",
+        "cost": "Custos por proposta não informados; eixo fiscal prevê revisão de gastos, subsídios e benefícios sem valores",
+        "funding": null,
+        "fiscal": "'Responsabilidade fiscal com foco em resultado': revisão de gastos e subsídios, transparência de benefícios e avaliação de impacto; em entrevista, citou a Selic de 14% ao ano e a necessidade de revisão do ajuste fiscal",
+        "agency": null,
+        "instrument": "Lei e atos administrativos; parte das transferências federais vinculada a indicadores de desempenho ('federalismo de resultados')",
+        "indicator": "Indicadores de desempenho regional para transferências federais (federalismo de resultados)",
+        "congress": "Contagem de propostas dependentes do Congresso não realizada pela equipe"
+      },
+      "statsEvidence": "parcial",
+      "proposals": [
+        {
+          "id": "clariana-barao-prop-1",
+          "title": "Rede Nacional de Proteção e Resposta à Violência, com atendimento integrado à mulher",
+          "description": "Criação de rede nacional integrando saúde, assistência social, segurança pública e Judiciário para resposta à violência contra mulheres e crianças; centros de atendimento à mulher vítima de violência doméstica com protocolo único (delegacia, acolhimento e encaminhamento à profissionalização), em vez da atual 'lista de endereços'.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei e atos administrativos (política nacional integrada)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cb-05",
+              "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Setembro/2026; dia exato não capturado."
+            },
+            {
+              "id": "src-cb-12",
+              "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+              "publisher": "g1 (Globo) — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+              "publishedAt": "2026-09-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-04",
+              "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "clariana-barao-prop-2",
+          "title": "Primeira infância como prioridade nacional, do pré-natal à creche",
+          "description": "Primeiro eixo do plano estabelece a primeira infância como prioridade nacional, com prevenção do abuso de crianças e adolescentes, ambiente digital seguro e apoio ao desenvolvimento das crianças e suas famílias na educação infantil.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Políticas públicas de educação infantil e assistência",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cb-04",
+              "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-17",
+              "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+              "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+              "url": "https://planoaberto.org/candidatos/clariana-barao",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Ano; data exata não capturada. Enumera as promessas do plano por número."
+            }
+          ]
+        },
+        {
+          "id": "clariana-barao-prop-3",
+          "title": "Autonomia econômica das mulheres: microcrédito, qualificação e formalização",
+          "description": "Programas de qualificação e reinserção profissional, incentivo ao empreendedorismo feminino com acesso a microcrédito responsável e apoio à formalização de pequenos negócios liderados por mulheres.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Programas de governo e linha de crédito",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cb-06",
+              "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)",
+              "publisher": "Band",
+              "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-05",
+              "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "clariana-barao-prop-4",
+          "title": "Responsabilidade fiscal: revisão de gastos, subsídios e benefícios com avaliação de impacto",
+          "description": "Revisão de gastos e subsídios considerados indevidos, transparência de benefícios e avaliação de impacto de programas; em entrevista ao Jornal Nacional (05/09/2026), a candidata citou a Selic de 14% ao ano como obstáculo ao crédito e defendeu revisão do ajuste fiscal.",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei orçamentária e leis de avaliação de programas",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cb-04",
+              "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-12",
+              "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+              "publisher": "g1 (Globo) — Jornal Nacional",
+              "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+              "publishedAt": "2026-09-05",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "clariana-barao-prop-5",
+          "title": "Segurança: integração de fronteiras, policiamento baseado em dados e sufocamento financeiro das facções",
+          "description": "Monitoramento remoto de fronteiras com sensores, radares, drones e centros integrados de comando; combate ao tráfico de drogas e de armas e ao financiamento das facções (lavagem e rastreamento de ativos); policiamento urbano baseado em dados científicos, com proteção específica para mulheres, escolas e áreas vulneráveis; cooperação internacional no combate ao narcotráfico.",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Atos administrativos, sistemas de inteligência e acordos internacionais",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cb-04",
+              "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-18",
+              "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+              "publisher": "Agemt — Jornalismo PUC-SP",
+              "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Ano; data exata não capturada."
+            }
+          ]
+        },
+        {
+          "id": "clariana-barao-prop-6",
+          "title": "Saúde: atenção primária territorial, controle informatizado de filas e telemedicina no SUS",
+          "description": "Acesso territorial na atenção primária; estímulo à pesquisa clínica e à produção nacional de insumos; controle informatizado de filas no SUS com apoio de inteligência artificial (privacidade preservada); telemedicina integrada à rede pública; prevenção e diagnóstico precoce; programas comunitários de atividade física.",
+          "theme": "Saúde",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Política pública do SUS / atos administrativos",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cb-04",
+              "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-18",
+              "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+              "publisher": "Agemt — Jornalismo PUC-SP",
+              "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "clariana-barao-prop-7",
+          "title": "Educação: alfabetização na idade adequada, formação técnica conectada a vocações regionais e tecnologia nas escolas",
+          "description": "Qualidade pedagógica na educação infantil e alfabetização na idade adequada; expansão da formação técnica conectada às vocações regionais, orientação de carreira e aprendizagem profissional no ensino médio, com parcerias de empresas e instituições de ensino superior; valorização de professores; uso responsável de tecnologia e inteligência artificial nas escolas.",
+          "theme": "Educação",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Política nacional de educação",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cb-04",
+              "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-18",
+              "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+              "publisher": "Agemt — Jornalismo PUC-SP",
+              "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "clariana-barao-prop-8",
+          "title": "'Estado que funciona': governo digital, dados pedidos uma única vez e compras públicas rastreáveis",
+          "description": "Governo 100% digital e simples, com dados solicitados ao cidadão 'uma única vez', sistemas integrados e atendimento multicanal (inclusive para quem não tem internet constante); compras públicas 100% rastreáveis, dados abertos em linguagem simples, uso de inteligência artificial na gestão de riscos e prevenção de fraudes; profissionalização da liderança no serviço público por mérito; avaliação de programas públicos com possibilidade de encerramento dos ineficazes; federalismo de resultados com parte das transferências federais vinculada a indicadores de desempenho.",
+          "theme": "Administração pública",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Atos administrativos e legislação de compras e transparência",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cb-06",
+              "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)",
+              "publisher": "Band",
+              "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-17",
+              "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+              "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+              "url": "https://planoaberto.org/candidatos/clariana-barao",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "clariana-barao-prop-9",
+          "title": "Economia: simplificação regulatória, crédito produtivo e infraestrutura por concessões",
+          "description": "Simplificação de regras e digitalização com abertura rápida de empresas; crédito produtivo e garantias para pequenos negócios; acesso de micro e pequenas empresas às compras públicas; expansão de ferrovias, hidrovias, portos e cabotagem via concessões e parcerias público-privadas.",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei e contratos de concessão",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-cb-04",
+              "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+              "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-cb-18",
+              "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+              "publisher": "Agemt — Jornalismo PUC-SP",
+              "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-cb-1",
+        "description": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC), advogada. O DC não tem bancada na Câmara: 0 deputados federais, 0 senadores e 0 governadores; tem 251 vereadores e 2 prefeitos (2024) e cerca de 181 a 185 mil filiados em 2026 (números variam entre fontes).",
+        "value": "DC — sem bancada federal; 251 vereadores",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-cb-10",
+            "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-01",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ]
+      },
+      {
+        "id": "sup-cb-2",
+        "description": "Financiamento: o DC recebeu R$ 3.307.679,85 de Fundo Eleitoral em 2026 e, até 01/09/2026, havia repassado R$ 1.500.000,00 a um único candidato — a própria candidatura presidencial de Clariana Barão (45,3% do valor total recebido pelo partido).",
+        "value": "R$ 1,5 mi do Fundo Eleitoral repassados à candidatura (até 01/09/2026)",
+        "date": "2026-09-01",
+        "sources": [
+          {
+            "id": "src-cb-11",
+            "title": "DC 2026: fundos, repasses e candidatos",
+            "publisher": "Plural (levantamento com dados do TSE)",
+            "url": "https://www.plural.jor.br/candidatos-2026-partido-dc/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Prestação de contas parcial ao TSE, atualizada em 01/09/2026."
+          }
+        ]
+      },
+      {
+        "id": "sup-cb-3",
+        "description": "Aprovação interna da chapa: reunião nacional do DC em Brasília em 08/07/2026, com dirigentes e presidentes de 21 diretórios estaduais, aprovou a candidatura; a convenção nacional de 05/08/2026, em São Paulo, oficializou a chapa. O presidente nacional do partido é o advogado João Caldas.",
+        "value": "21 diretórios estaduais + convenção nacional",
+        "date": "2026-08-05",
+        "sources": [
+          {
+            "id": "src-cb-08",
+            "title": "DC oficializa Clariana Barão como candidata à Presidência",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+            "publishedAt": "2026-08-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-07",
+            "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-cb-1",
+        "description": "Composição da candidatura após três trocas na legenda: Aldo Rebelo (lançado em janeiro/2026) foi substituído por Joaquim Barbosa em maio/2026; Joaquim Barbosa desistiu em julho/2026 e Aldo Rebelo passou a coordenar a campanha de Ronaldo Caiado (PSD), abrindo caminho para a candidatura de Clariana Barão, aprovada por 21 diretórios estaduais em 08/07/2026.",
+        "value": "composição após desistências de Barbosa e saída de Rebelo para a campanha de Caiado",
+        "date": "2026-07-08",
+        "sources": [
+          {
+            "id": "src-cb-16",
+            "title": "Quem são os candidatos à Presidência nas eleições 2026",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-07",
+            "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-cb-1",
+        "category": "tribunal",
+        "title": "Consulta a registros de processo e sanção — nenhuma denúncia, investigação ou condenação localizada",
+        "legalStatus": "regular",
+        "currentStatus": "encerrado",
+        "instance": "Busca em fontes públicas (TSE, imprensa e verbetes) até 29/09/2026",
+        "lastUpdate": "2026-09-29",
+        "description": "Nas fontes consultadas não foi localizada denúncia, inquérito, investigação, processo, decisão ou condenação criminal, eleitoral ou de ética profissional contra Clariana Barão até 29/09/2026, tampouco impugnação de mérito ao registro de 2026 (deferido em 11/09/2026). Ausência de registro em busca de fontes públicas não equivale a certidão negativa; evidência marcada como indeterminada. Trata-se da primeira disputa eleitoral da candidata, sem passagem por cargos públicos.",
+        "sources": [
+          {
+            "id": "src-cb-01",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-09",
+            "title": "Clariana Barão — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Clariana_Bar%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum cargo localizado: 2026 é a primeira eleição disputada por Clariana Barão.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "Não se aplica — nunca administrou orçamento público",
+        "value": null,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior orçamento anual sob gestão em cargo público.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Pessoas/equipe sob gestão (servidores)",
+        "displayValue": "Não localizado",
+        "value": null,
+        "unit": "servidores",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Servidores/equipe sob gestão direta em cargos públicos.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "≈0,5 ano (2026)",
+        "value": 0.5,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Anos de atuação partidária documentada: presidência do diretório estadual do DC-MT e candidatura presidencial, ambos em 2026, até 29/09/2026. Datas de filiação e atuação partidária anteriores não localizadas — ausência de registro não implica ausência de atividade prévia.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cb-07",
+            "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Não localizada filiação anterior nem diretoria partidária pregressa em fontes consultadas.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "articulacao",
+        "name": "Anos em cargos legislativos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos legislativos eletivos; nenhuma ocupação localizada. Clariana Barão nunca foi deputada: é candidata pela primeira vez em 2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-10",
+            "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português: 0 deputados federais em 2026)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos públicos federais",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "0 — primeira eleição disputada em 2026",
+        "value": 0,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de mandatos eletivos conquistados. Fato confirmado, não lacuna: primeira disputa eleitoral em 2026 (Agência Brasil e Poder360).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-07",
+            "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+            "publisher": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "Não se aplica — primeira disputa eleitoral em 2026",
+        "value": null,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Total de votos em eleições anteriores.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-cb-03",
+            "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas do plano de governo",
+        "displayValue": "Não determinado — 6 eixos; dossiê independente enumera ao menos 30 promessas",
+        "value": null,
+        "unit": "propostas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem total de propostas não recalculada item a item pela equipe. O plano tem seis eixos integrados (Radioagência Nacional); o dossiê do Plano Aberto enumera promessas numeradas até 30, sem confirmação de que a enumeração total corresponde à do documento original.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-cb-04",
+            "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-17",
+            "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+            "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+            "url": "https://planoaberto.org/candidatos/clariana-barao",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-01",
+            "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Não informado por proposta",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com estimativa de custo próprio. Nenhuma quantificação por proposta localizada nas fontes consultadas; o plano prevê revisão de gastos e subsídios sem valores.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "low",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-cb-04",
+            "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-17",
+            "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+            "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+            "url": "https://planoaberto.org/candidatos/clariana-barao",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Avalia viabilidade por proposta com base em instrumentos existentes, sem custos."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Horizonte de 4 anos na matriz de implementação; % por proposta não calculada",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido; contagem por item não realizada pela equipe. O plano apresenta matriz de implementação com horizontes (ex.: 'Ano 4'), segundo o dossiê do Plano Aberto.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-cb-19",
+            "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+            "publisher": "TSE — Eleições 2026",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF do plano com matriz de implementação por horizontes."
+          },
+          {
+            "id": "src-cb-17",
+            "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+            "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+            "url": "https://planoaberto.org/candidatos/clariana-barao",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; federalismo de resultados e legislação de compras dependem de lei",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei. Contagem não realizada pela equipe.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-cb-06",
+            "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)",
+            "publisher": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-17",
+            "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+            "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+            "url": "https://planoaberto.org/candidatos/clariana-barao",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "Deferido — TSE, sessão virtual encerrada em 11/09/2026 (chapa Clariana Barão/Fabiana Torquato, DC)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cb-01",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-cb-02",
+            "title": "Clariana Barao 27 (DC): candidata a Presidente em 2026 (dados TSE)",
+            "publisher": "Gazeta do Povo — dados do TSE/DivulgaCandContas",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/clariana-barao-dc-27/",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Não foram localizadas impugnações de mérito, ficha-limpa ou decisões judiciais contra a candidata nas fontes consultadas.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "Não localizado nas fontes consultadas",
+        "value": null,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de candidatura de 2026.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-cb-02",
+            "title": "Clariana Barao 27 (DC): candidata a Presidente em 2026 (dados TSE)",
+            "publisher": "Gazeta do Povo — dados do TSE/DivulgaCandContas",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/clariana-barao-dc-27/",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva do DivulgaCandContas; valor dos bens não capturado nesta consulta."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Ausência de valor capturado ≠ declaração zero: verificar no DivulgaCandContas antes de publicar.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+        "displayValue": "0/513 deputados federais",
+        "value": 0,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Cadeiras do DC na Câmara dos Deputados em 2026 (0/513), segundo verbete do partido com base em dados oficiais; o DC também não tem senadores nem governadores.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-cb-10",
+            "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português: 0 deputados federais, 0 senadores, 251 vereadores, 2 prefeitos, 185.529 filiados em 2026)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice de dados do TSE."
+          },
+          {
+            "id": "src-cb-11",
+            "title": "DC 2026: fundos, repasses e candidatos (758 candidaturas; FEFC de R$ 3.307.679,85)",
+            "publisher": "Plural (levantamento com dados do TSE)",
+            "url": "https://www.plural.jor.br/candidatos-2026-partido-dc/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Setembro/2026; prestação de contas parcial ao TSE atualizada em 01/09/2026."
+          },
+          {
+            "id": "src-cb-20",
+            "title": "Lista de partidos políticos do Brasil (DC: 182.708 filiados)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_do_Brasil",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Números de filiados variam entre fontes (181.435 em jan/2026; 182.708; 185.529 em 2026)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "O DC tem 251 vereadores (2024) e 2 prefeitos, 0 deputados estaduais (2022), 0 senadores e 0 governadores. Em 2026 lançou 758 candidaturas e recebeu R$ 3.307.679,85 de Fundo Eleitoral.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "1% (Datafolha, 11/09) | 0% (Datafolha, 24/09) | 0% (Datafolha SP, ago/2026)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026 que testaram a candidatura.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-cb-14",
+            "title": "Datafolha, 1º turno: ... Clariana Barão (DC): 0",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+            "publishedAt": "2026-09-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Entrevistas em 22–23/09/2026; margem 2 p.p."
+          },
+          {
+            "id": "src-cb-13",
+            "title": "O que mostra a nova pesquisa Datafolha para presidente (Clariana Barão, 1%)",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-2/",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Entrevistas em 8–10/09/2026."
+          },
+          {
+            "id": "src-cb-21",
+            "title": "Datafolha divulga pesquisa para presidente em SP, RJ e MG (Clariana Barão: 0% em SP e MG)",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-agosto-26-sp-mg-rj-pe-df/",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Pesquisas de 18–20/08/2026 (SP e MG)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-cb-01",
+        "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Chapa Clariana Barão/Fabiana Torquato deferida na sessão virtual encerrada em 11/09/2026."
+      },
+      {
+        "id": "src-cb-02",
+        "title": "Clariana Barao 27 (DC): candidata a Presidente em 2026",
+        "publisher": "Gazeta do Povo — dados do TSE/DivulgaCandContas",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/clariana-barao-dc-27/",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-cb-03",
+        "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+        "publishedAt": "2026-08-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS."
+      },
+      {
+        "id": "src-cb-04",
+        "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+        "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+        "publishedAt": "2026-08-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano."
+      },
+      {
+        "id": "src-cb-05",
+        "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Título do eixo 'Mulheres e Crianças em Primeiro Lugar' e Rede Nacional de Proteção."
+      },
+      {
+        "id": "src-cb-06",
+        "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)",
+        "publisher": "Band",
+        "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ano; data exata não capturada."
+      },
+      {
+        "id": "src-cb-07",
+        "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+        "publisher": "Poder360",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+        "publishedAt": "2026-08-25",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Entrevista de 39min45s; idade, naturalidade, formação e 'disputa pela 1ª vez uma eleição'."
+      },
+      {
+        "id": "src-cb-08",
+        "title": "DC oficializa Clariana Barão como candidata à Presidência",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+        "publishedAt": "2026-08-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Convenção nacional; chapa exclusivamente feminina; aprovação por 21 diretórios em 08/07."
+      },
+      {
+        "id": "src-cb-09",
+        "title": "Clariana Barão — verbete (Wikipédia em português)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Clariana_Bar%C3%A3o",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Enciclopédia colaborativa usada como índice: nome completo, nascimento 03/04/1987 em Cuiabá."
+      },
+      {
+        "id": "src-cb-10",
+        "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Bancada 2026 (0 federais, 0 senadores, 251 vereadores), filiados, história da legenda."
+      },
+      {
+        "id": "src-cb-11",
+        "title": "DC 2026: fundos, repasses e candidatos",
+        "publisher": "Plural (levantamento com dados do TSE)",
+        "url": "https://www.plural.jor.br/candidatos-2026-partido-dc/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "758 candidaturas do DC; FEFC R$ 3.307.679,85; R$ 1,5 mi repassados à candidatura de Clariana."
+      },
+      {
+        "id": "src-cb-12",
+        "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+        "publisher": "g1 (Globo) — Jornal Nacional",
+        "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+        "publishedAt": "2026-09-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)."
+      },
+      {
+        "id": "src-cb-13",
+        "title": "O que mostra a nova pesquisa Datafolha para presidente",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-2/",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Datafolha 8–10/09/2026: Cury 6%, Samara 1%, Clariana 1%."
+      },
+      {
+        "id": "src-cb-14",
+        "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5% ...",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+        "publishedAt": "2026-09-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Datafolha 22–23/09/2026: Clariana Barão 0%."
+      },
+      {
+        "id": "src-cb-15",
+        "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência (perfil)",
+        "publisher": "Blog do Doc",
+        "url": "https://blogdodoc.com/2026/08/17/clariana-barao-e-a-candidata-do-democracia-crista-a-presidencia",
+        "publishedAt": "2026-08-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Univag, OAB de Várzea Grande e enchentes do RS em 2024."
+      },
+      {
+        "id": "src-cb-16",
+        "title": "Quem são os candidatos à Presidência nas eleições 2026",
+        "publisher": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Sequência de trocas na candidatura do DC em 2026."
+      },
+      {
+        "id": "src-cb-17",
+        "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+        "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+        "url": "https://planoaberto.org/candidatos/clariana-barao",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Índice numerado de promessas (até 30) e avaliação de viabilidade de execução."
+      },
+      {
+        "id": "src-cb-18",
+        "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+        "publisher": "Agemt — Jornalismo PUC-SP",
+        "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Propostas por área: economia, profissional, saúde, educação, segurança e política externa."
+      },
+      {
+        "id": "src-cb-19",
+        "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+        "publisher": "TSE — Eleições 2026",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF do plano com matriz de implementação por horizontes."
+      },
+      {
+        "id": "src-cb-20",
+        "title": "Lista de partidos políticos do Brasil",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_do_Brasil",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "DC nº 27, 182.708 filiados; números variam entre fontes."
+      },
+      {
+        "id": "src-cb-21",
+        "title": "Datafolha divulga pesquisa para presidente em SP, RJ e MG",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-agosto-26-sp-mg-rj-pe-df/",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Pesquisas estaduais de 18–20/08/2026."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "edmilson-costa",
+    "name": "Edmilson Silva Costa",
+    "ballotName": "Edmilson Costa",
+    "ballotNumber": 21,
+    "party": "PCB",
+    "coalition": "Partido isolado (PCB, nº 21) — chapa pura com vice Cleusa Santos (Cleusa dos Santos, PCB), servidora pública civil aposentada, nascida em 07/04/1956 em Goiânia (GO), superior completo, bens declarados em 2026: R$ 1.793.166,06 (Folha/TSE).",
+    "photo": "",
+    "birthDate": "1950-04-08",
+    "birthplace": "Pedreiras, MA",
+    "age": 76,
+    "profession": "Aposentado (exceto servidor público) — ocupação declarada ao TSE; economista (doutor pela Unicamp), professor e jornalista por formação",
+    "currentRole": "Candidato à Presidência da República (PCB, nº 21, registro DEFERIDO) e secretário-geral nacional do Partido Comunista Brasileiro (desde 17/10/2016)",
+    "tagline": "Filiado ao PCB desde 1970 e secretário-geral do partido desde 2016; economista doutorado pela Unicamp, em sua 5ª disputa eleitoral — nenhuma vitória até 2026.",
+    "education": [
+      {
+        "id": "edu-ec-1",
+        "level": "graduacao",
+        "field": "Jornalismo",
+        "institution": "Universidade Federal do Maranhão (UFMA)",
+        "conclusionYear": null,
+        "notes": "Formação em Jornalismo pela UFMA registrada em perfil da Folha e em biografia compilada pela Agência Brasil/Diário Carioca; ano de conclusão não informado.",
+        "sources": [
+          {
+            "id": "src-ec-01",
+            "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+          },
+          {
+            "id": "src-ec-15",
+            "title": "PCB lança candidato à Presidência — Edmilson Costa (jornalismo UFMA, doutorado em Economia pela Unicamp nos anos 1990)",
+            "publisher": "Diário Carioca (texto creditado à Agência Brasil)",
+            "url": "https://www.diariocarioca.com/2026/08/17/politica/eleicoes/pcb-lanca-edmilson-costa-a-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Militância desde os anos 1980; doutorado em Economia pela Unicamp nos anos 1990 com tese sobre política salarial brasileira."
+          }
+        ]
+      },
+      {
+        "id": "edu-ec-2",
+        "level": "doutorado",
+        "field": "Economia",
+        "institution": "Universidade Estadual de Campinas (Unicamp)",
+        "conclusionYear": null,
+        "notes": "Doutor em Economia pela Unicamp nos anos 1990 (tese sobre política salarial brasileira, segundo a Agência Brasil); ano de conclusão exato não informado.",
+        "sources": [
+          {
+            "id": "src-ec-06",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+            "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+          },
+          {
+            "id": "src-ec-15",
+            "title": "PCB lança candidato à Presidência — Edmilson Costa (jornalismo UFMA, doutorado em Economia pela Unicamp nos anos 1990)",
+            "publisher": "Diário Carioca (texto creditado à Agência Brasil)",
+            "url": "https://www.diariocarioca.com/2026/08/17/politica/eleicoes/pcb-lanca-edmilson-costa-a-presidencia",
+            "publishedAt": "2026-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Militância desde os anos 1980; doutorado em Economia pela Unicamp nos anos 1990 com tese sobre política salarial brasileira."
+          }
+        ]
+      },
+      {
+        "id": "edu-ec-3",
+        "level": "especializacao",
+        "field": "Ciências Humanas (pós-doutorado)",
+        "institution": "Instituto de Filosofia e Ciências Humanas (IFCH) — Unicamp",
+        "conclusionYear": null,
+        "notes": "Pós-doutorado no IFCH da Unicamp, segundo perfil compilado pela Agência Brasil/Terra; ano não informado.",
+        "sources": [
+          {
+            "id": "src-ec-06",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+            "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-ec-1",
+        "role": "Professor universitário",
+        "organization": "Instituições de ensino superior (não especificadas nas fontes)",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Em 2008, ao lançar candidatura à prefeitura de SP, declarou ter 'mais de 20 anos de magistério' e descreveu-se como professor universitário e doutor em economia pela Unicamp (texto original do G1/Globo sobre a convenção do PCB). Ocupação declarada ao TSE em 2026: 'Aposentado (exceto servidor público)'.",
+        "achievements": [
+          "Mais de 20 anos de magistério declarados em 2008 (G1/Globo)"
+        ],
+        "sources": [
+          {
+            "id": "src-ec-08",
+            "title": "PCB confirma candidatura de Edmilson Costa à Prefeitura de São Paulo (texto original do G1/Globo de 21/06/2008, reproduzido por réplica)",
+            "publisher": "Globo.com (réplica: hlera.com.br)",
+            "url": "https://noticia.hlera.com.br/politica/pcb-confirma-candidatura-de-edmilson-costa-a-prefeitura-de-sao-paulo/",
+            "publishedAt": "2008-06-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "URL original do G1 (2008) não localizada; réplica preserva o texto. Convenção do PCB de 21/06/2008: candidato a prefeito, professor universitário e doutor em economia pela Unicamp, '30 anos de militância' e 'mais de 20 anos de magistério'; vice jornalista Fernanda Mendes; cerca de 10 mil filiados na capital."
+          },
+          {
+            "id": "src-ec-01",
+            "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+          }
+        ]
+      },
+      {
+        "id": "prof-ec-2",
+        "role": "Autor — obras sobre economia e livros de poesia",
+        "organization": "Autônomo / editoras independentes",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Segundo a Agência Brasil/Terra, é autor de obras sobre o capitalismo contemporâneo e a crise econômica mundial, além de livros de poesia. Títulos e editoras não localizados nas fontes desta rodada.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-ec-06",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+            "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-ec-1",
+        "role": "Filiado ao Partido Comunista Brasileiro (PCB)",
+        "organization": "PCB",
+        "startDate": "1970",
+        "endDate": null,
+        "description": "Membro do PCB desde 1970 (infobox da Wikipédia: 'PCB 1970–presente'; Agência Brasil/Terra: 'Membro do partido desde 1970'; perfil da Folha: 'militante histórico do PCB desde os anos 1970'). Iniciou a militância como dirigente estudantil, teria sido perseguido durante a ditadura militar e participou de movimentos em defesa das liberdades democráticas (versão do próprio partido, citada pela Agência Brasil). Membro da Comissão Política Nacional do PCB desde 2001; ex-Secretário de Relações Internacionais e ex-Secretário Político do PCB em São Paulo até 2016 (Wikipédia).",
+        "achievements": [
+          "Membro da Comissão Política Nacional do PCB desde 2001",
+          "Ex-secretário de Relações Internacionais e ex-secretário político do PCB-SP até 2016"
+        ],
+        "sources": [
+          {
+            "id": "src-ec-03",
+            "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+          },
+          {
+            "id": "src-ec-06",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+            "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+          },
+          {
+            "id": "src-ec-01",
+            "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+          }
+        ]
+      },
+      {
+        "id": "pol-ec-2",
+        "role": "Secretário-geral nacional do PCB (13º titular)",
+        "organization": "Partido Comunista Brasileiro (PCB)",
+        "startDate": "2016",
+        "endDate": null,
+        "description": "Eleito secretário-geral em 17/10/2016, sucedendo Ivan Pinheiro, e no cargo até 29/09/2026 (Wikipédia; CNN Brasil; site do PCB). É a principal função partidária do candidato — cargo partidário, sem administração de recursos ou pessoal públicos.",
+        "achievements": [
+          "Secretário-geral do PCB desde 17/10/2016 (sucessor de Ivan Pinheiro)"
+        ],
+        "sources": [
+          {
+            "id": "src-ec-03",
+            "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+          },
+          {
+            "id": "src-ec-07",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+          }
+        ]
+      },
+      {
+        "id": "pol-ec-3",
+        "role": "Candidaturas a cargos eletivos (todas não eleitas até 2014)",
+        "organization": "PCB (2008, 2010, 2014, 2026) e chapa do PSOL (2012)",
+        "startDate": "2008",
+        "endDate": null,
+        "description": "Prefeito de São Paulo em 2008 pelo PCB (4.300 votos, 0,07%); vice-presidente em 2010 na chapa de Ivan Pinheiro (39.136 votos, 0,04%); vice-prefeito de São Paulo em 2012 na coligação Frente de Esquerda (chapa do PSOL, candidato a prefeito Carlos Giannasi) com 62.431 votos; senador por São Paulo em 2014 pelo PCB (12.102 votos, não eleito); candidato à Presidência em 2026. Nexo (dados TSE): nenhuma eleição vencida desde 1998.",
+        "achievements": [
+          "5 candidaturas documentadas desde 1998, nenhuma eleita até 2026 (Nexo/TSE)"
+        ],
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          },
+          {
+            "id": "src-ec-06",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+            "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+          },
+          {
+            "id": "src-ec-09",
+            "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+            "publisher": "PSOL 50 (site da seção de São Paulo)",
+            "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+            "publishedAt": "2012-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+          },
+          {
+            "id": "src-ec-10",
+            "title": "PCB oficializa candidatura própria à presidência e ao governo de SP (2014)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/06/pcb-oficializa-candidatura-propria-presidencia-e-ao-governo-de-sp.html",
+            "publishedAt": "2014-06-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção do PCB de 21/06/2014; o partido lançou chapa própria à presidência e ao governo de SP. A candidatura de Edmilson Costa ao Senado por SP em 2014 é confirmada pelo histórico do Nexo/TSE (12.102 votos)."
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "ach-ec-1",
+        "title": "Secretário-geral nacional do PCB (13º titular), desde outubro de 2016",
+        "context": "Partido Comunista Brasileiro, 2016–atual",
+        "description": "Eleito em 17/10/2016 para suceder Ivan Pinheiro na secretaria-geral do PCB e no cargo até a eleição de 2026 — 10 anos à frente do partido no momento do pleito.",
+        "sources": [
+          {
+            "id": "src-ec-03",
+            "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+          },
+          {
+            "id": "src-ec-07",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-ec-2",
+        "title": "Três candidaturas municipais/federais em SP em 8 anos (2008–2014), sem vitória",
+        "context": "PCB e chapa com o PSOL, 2008–2014",
+        "description": "Prefeito de SP em 2008 (4.300 votos, 0,07%), vice-presidente em 2010 na chapa de Ivan Pinheiro (39.136 votos, 0,04%), vice-prefeito de SP em 2012 na chapa do PSOL com Carlos Giannasi (62.431 votos) e candidato ao Senado por SP em 2014 (12.102 votos) — nenhuma eleição vencida.",
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          },
+          {
+            "id": "src-ec-06",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+            "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-ec-3",
+        "title": "Registro da candidatura presidencial deferido com chapa pura pelo PCB (2026)",
+        "context": "Campanha presidencial 2026",
+        "description": "O PCB oficializou a candidatura em convenção de 01/08/2026 na Câmara Municipal de São Paulo, com Cleusa Santos (PCB) na vice; o registro consta como DEFERIDO nas fichas com dados do TSE consultadas em 29/09/2026, e a chapa integra as 12 candidaturas válidas divulgadas pelo TSE em 11/09/2026.",
+        "sources": [
+          {
+            "id": "src-ec-01",
+            "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+          },
+          {
+            "id": "src-ec-11",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Oficializa o quadro final de 12 chapas válidas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+          },
+          {
+            "id": "src-ec-07",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Programa do Partido Comunista Brasileiro (PCB) para as Eleições Presidenciais de 2026",
+      "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+      "totalProposals": 35,
+      "registeredWith": "TSE — página oficial 'Propostas de Governo' + PDF oficial proposta-pcb.pdf (16 páginas, publicado em 14/08/2026)",
+      "summary": "",
+      "notes": "Título do PDF conforme extraído do documento oficial; o subtítulo aparece truncado na captura ('Construir o Poder Popul…'). Contagem de 35 propostas feita pela equipe sobre a página do TSE (item 'Erro na página' excluído). Página do TSE bloqueou acesso direto por CDN (Access Denied); conteúdo obtido via leitura alternativa (r.jina.ai).",
+      "statsIfCounted": {
+        "objective": "Propostas descritivas sem metas quantitativas individuais; alguns números pontuais aparecem no texto (10% do PIB na saúde, 54% de cotas para negros)",
+        "target": null,
+        "deadline": "Prazos por proposta não informados no texto indexado pelo TSE",
+        "cost": null,
+        "funding": null,
+        "fiscal": "Revogação do arcabouço fiscal, da LRF e 'leis neoliberais'; reestruturação e auditoria da dívida pública com suspensão de juros",
+        "agency": "Conselhos Populares (saúde e em geral), Orçamento Popular deliberativo, Assembleia Constituinte de Novo Tipo",
+        "instrument": "Lei ordinária, emenda constitucional e Assembleia Constituinte; estatizações via legislação específica",
+        "indicator": null,
+        "congress": "Mudanças constitucionais (estatização bancária, constituinte, reforma do Judiciário) dependem do Congresso; contagem por proposta não realizada pela equipe"
+      },
+      "statsEvidence": "indeterminado",
+      "proposals": [
+        {
+          "id": "edmilson-costa-prop-1",
+          "title": "Jornada de 30 horas semanais sem redução salarial e fim da escala 6x1",
+          "description": "Impulsionar a redução da jornada para 30 horas semanais sem perda salarial e extinguir a escala 6x1 (propostas nas páginas 2, 5 e 14 do programa oficial).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei (negociação/trabalho)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ec-04",
+              "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+            }
+          ]
+        },
+        {
+          "id": "edmilson-costa-prop-2",
+          "title": "Nacionalização e estatização do sistema monetário, financeiro e bancário (Banco dos Trabalhadores)",
+          "description": "Nacionalização e estatização do sistema monetário, financeiro e bancário, com criação de um 'Banco dos Trabalhadores' (página 4 do programa).",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei/emenda constitucional (estatização bancária)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ec-04",
+              "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+            },
+            {
+              "id": "src-ec-05",
+              "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+              "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+              "publishedAt": "2026-08-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+            }
+          ]
+        },
+        {
+          "id": "edmilson-costa-prop-3",
+          "title": "Auditoria e suspensão de juros da dívida pública; revogação do arcabouço fiscal e da LRF",
+          "description": "Reestruturação e auditoria da dívida pública com suspensão de juros (página 4) e revogação do arcabouço fiscal, da Lei de Responsabilidade Fiscal e das 'leis neoliberais' (páginas 2, 4 e 13).",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei/emenda constitucional",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ec-04",
+              "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+            }
+          ]
+        },
+        {
+          "id": "edmilson-costa-prop-4",
+          "title": "Saúde 100% pública com estatização do setor privado e 10% do PIB",
+          "description": "Saúde 100% pública, gratuita e universal, com estatização do setor privado de saúde e fim das Organizações Sociais (páginas 2, 6 e 10); investimento de 10% do PIB na saúde pública e fortalecimento da atenção básica; Conselhos Populares de Saúde em todos os níveis; proibição de comunidades terapêuticas (antimaniquial).",
+          "theme": "Saúde",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": true,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei ordinária e legislação de estatização",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ec-04",
+              "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+            }
+          ]
+        },
+        {
+          "id": "edmilson-costa-prop-5",
+          "title": "Ensino 100% público e gratuito da creche à pós-graduação, fim do vestibular e cotas ampliadas",
+          "description": "Estatização do ensino privado; fim do vestibular nas universidades federais e universalização de cotas (54% para negros e ampla inclusão trans); Piso Salarial Profissional Nacional para a educação básica; ampliação dos Institutos Federais (páginas 2, 7 e 10).",
+          "theme": "Educação",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei e legislação de ensino superior",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ec-04",
+              "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+            }
+          ]
+        },
+        {
+          "id": "edmilson-costa-prop-6",
+          "title": "Desmilitarização e unificação das polícias; fim da 'guerra às drogas'",
+          "description": "Completa desmilitarização da segurança pública, unificação das polícias e instituição do ciclo completo de formação; fim da política de 'guerra às drogas' com descriminalização do uso (legalização da maconha a curto prazo); revogação da Lei Antiterrorismo (12.850/2013) e da Lei Antidrogas; ocupação de territórios dominados pelo crime organizado com serviços públicos (páginas 6 e 12).",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei (políticas públicas de segurança)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ec-04",
+              "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+            }
+          ]
+        },
+        {
+          "id": "edmilson-costa-prop-7",
+          "title": "Assembleia Constituinte de Novo Tipo e Orçamento Popular deliberativo",
+          "description": "Convocação de uma Assembleia Constituinte de Novo Tipo e criação de Conselhos Populares deliberativos (páginas 3, 4 e 9); instituição de Orçamento Popular 100% deliberativo com revogabilidade de mandatos; democratização radical dos meios de comunicação e regulação das Big Techs; reforma estrutural do Judiciário com mandatos fixos e revogáveis para tribunais superiores (página 4 e 13).",
+          "theme": "Administração pública",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Assembleia Constituinte + legislação de orçamento",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ec-04",
+              "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+            },
+            {
+              "id": "src-ec-05",
+              "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+              "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+              "publishedAt": "2026-08-14",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+            }
+          ]
+        },
+        {
+          "id": "edmilson-costa-prop-8",
+          "title": "Rompimento de relações com o Estado de Israel e combate ao imperialismo",
+          "description": "Combate ao imperialismo (OTAN, OEA e Cúpula das Américas) e solidariedade ativa a Cuba, Palestina, Venezuela, Irã e Saara Ocidental; rompimento imediato de relações diplomáticas e econômicas com o Estado de Israel; fortalecimento de blocos regionais como ALBA e UNASUL (páginas 2, 8, 15 e 16).",
+          "theme": "Política externa",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Ato do Executivo (política externa)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-ec-04",
+              "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "oficial_eleitoral",
+              "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-ec-1",
+        "description": "Chapa pura do PCB (partido isolado, nº 21), sem coligação nem federação; vice: Cleusa dos Santos (PCB), servidora pública civil aposentada de Goiânia (GO).",
+        "value": "PCB — partido isolado",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-ec-01",
+            "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+          },
+          {
+            "id": "src-ec-07",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+          }
+        ]
+      },
+      {
+        "id": "sup-ec-2",
+        "description": "Bancada do PCB no Congresso: 0 deputados federais em exercício (57ª Legislatura) e 0 senadores em exercício, segundo APIs oficiais consultadas em 29/09/2026.",
+        "value": "0/513 na Câmara; 0 no Senado",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-ec-12",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+          },
+          {
+            "id": "src-ec-13",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+          }
+        ]
+      },
+      {
+        "id": "sup-ec-3",
+        "description": "Financiamento da campanha presidencial até 08/09/2026 (prestação parcial ao TSE): receita de R$ 25.971,00 de 9 doadores — 51% financiamento coletivo (vaquinha R$ 13.171,00) e 49% pessoas físicas (R$ 12.800,00); gasto contratado de R$ 22.531,22 (0,0% do limite legal de R$ 88.944.030,80), sendo R$ 19.531,22 já pagos. Principal destino: publicidade em materiais impressos (R$ 11.920,00, 53%).",
+        "value": "R$ 25.971 de receita até 08/09/2026 (9 doadores)",
+        "date": "2026-09-08",
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-ec-1",
+        "description": "Aliança municipal em 2012: aceitou ser candidato a vice-prefeito de São Paulo na coligação Frente de Esquerda, encabeçada pelo candidato a prefeito do PSOL, Carlos Giannasi — aliança pontual entre PCB e PSOL que obteve 62.431 votos (não eleita).",
+        "value": "Coligação Frente de Esquerda (PSOL + PCB) em SP, 2012",
+        "date": "2012-10",
+        "sources": [
+          {
+            "id": "src-ec-09",
+            "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+            "publisher": "PSOL 50 (site da seção de São Paulo)",
+            "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+            "publishedAt": "2012-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+          },
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          }
+        ]
+      },
+      {
+        "id": "neg-ec-2",
+        "description": "Nenhuma negociação legislativa registrada: o PCB não tem bancada no Congresso (0 deputados e 0 senadores) e o candidato nunca ocupou mandato. Registros de articulação em votações não localizados (not_found).",
+        "value": "sem registros de negociação legislativa",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-ec-12",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum localizado: nunca foi eleito e não há registro de nomeação — histórico TSE completo desde 1998 (Nexo) mostra 5 candidaturas, todas derrotadas.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Exerce apenas função partidária (secretário-geral do PCB) — cargo privado, sem administração de recursos ou pessoal públicos.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "Não se aplica — nunca administrou orçamento público",
+        "value": null,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior orçamento anual sob gestão em cargo público.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Pessoas/equipe sob gestão (servidores)",
+        "displayValue": "Não localizado",
+        "value": null,
+        "unit": "servidores",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Servidores/equipe sob gestão direta em cargos públicos.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "56 anos (filiado ao PCB desde 1970)",
+        "value": 56,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Anos entre a filiação ao PCB (1970) e 29/09/2026. Fonte primária da data: Wikipédia (infobox 'PCB 1970–presente') e Agência Brasil/Terra ('membro do partido desde 1970'); a Folha resume como 'militante histórico do PCB desde os anos 1970'.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ec-03",
+            "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+          },
+          {
+            "id": "src-ec-06",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+            "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+          },
+          {
+            "id": "src-ec-01",
+            "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Militância ativa registrada desde os anos 1970 (dirigente estudantil); a imprensa de 2008 já descrevia '30 anos de militância'. Se contada a partir da primeira candidatura (2008), seriam 18 anos em disputas eleitorais.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "articulacao",
+        "name": "Anos em cargos legislativos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos legislativos eletivos; nenhum mandato localizado. Ressalva: histórico eleitoral consultado cobre desde 1998 (Nexo/TSE); disputas anteriores a 1998 não foram localizadas.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "A premissa de 'ex-vereador de São Paulo' NÃO foi confirmada: não há vereança no histórico TSE desde 1998 nem nas buscas na Câmara Municipal de SP; status do dado: not_found.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos públicos federais",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada (candidaturas a vice-presidente em 2010 e senador em 2014 foram derrotadas).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "0 — nenhuma eleição vencida nas 5 disputas documentadas (2008–2026)",
+        "value": 0,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de mandatos eletivos conquistados, com base no histórico eleitoral TSE desde 1998 (Nexo): 2008, 2010, 2012, 2014 e 2026 — todas não eleitas.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          },
+          {
+            "id": "src-ec-11",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Oficializa o quadro final de 12 chapas válidas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "117.969 votos somados em 4 disputas derrotadas (2008–2014)",
+        "value": 117969,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos votos por disputa anterior a 2026: 4.300 (2008, candidato a prefeito); 39.136 (2010, votos da chapa presidencial Ivan Pinheiro/Edmilson); 62.431 (2012, votos da chapa Giannasi/Edmilson a vice-prefeito de SP); 12.102 (2014, candidato a senador). Unidades misturam voto individual e de chapa — valores conforme registrados no TSE (via Nexo/Terra).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          },
+          {
+            "id": "src-ec-06",
+            "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+            "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+            "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Não inclui a disputa de 2026 (em curso). Nenhuma disputa presidencial anterior — em 2010 foi vice na chapa de Ivan Pinheiro.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas do plano de governo",
+        "displayValue": "35 propostas indexadas pelo TSE (PDF oficial de 16 páginas)",
+        "value": 35,
+        "unit": "propostas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem pela equipe dos itens de proposta na página oficial 'Edmilson Costa — Propostas de Governo' do TSE, excluindo o marcador 'Erro na página'.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          },
+          {
+            "id": "src-ec-05",
+            "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+            "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "0% — nenhuma das 35 propostas traz estimativa de custo no texto indexado pelo TSE",
+        "value": 0,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com estimativa de custo própria. Na leitura do índice do TSE, nenhum item informa custo (apenas uma meta de 10% do PIB na saúde, sem valor monetário). Ausência de custo no texto indexado ≠ custo zero — classificado como 'nenhuma informação de custo'.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Não informado por proposta (0 prazos identificados no índice do TSE)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido. Nenhum prazo identificado no índice de 35 itens; contagem por item do PDF completo não realizada.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-ec-05",
+            "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+            "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "DEFERIDO — registro deferido (chapsa entre as 12 candidaturas válidas divulgadas pelo TSE em 11/09/2026)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026, conforme ficha da Folha (dados TSE) e Nexo (registro deferido).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ec-01",
+            "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+          },
+          {
+            "id": "src-ec-11",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Oficializa o quadro final de 12 chapas válidas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Integridade: as buscas desta rodada (processos, denúncias, investigações, prestação de contas) NÃO localizaram nenhum registro judicial ou eleitoral em andamento ou encerrado contra o candidato — dado tratado como not_found, não como 'ficha limpa certificada'. Premissas do briefing não confirmadas: 'ex-vereador de São Paulo' (não localizado na Câmara Municipal de SP nem no histórico TSE) e 'metalúrgico/sindicalista' (a ficha TSE declara ocupação 'Aposentado (exceto servidor público)'; as fontes descrevem jornalista, economista e professor — sindicato não localizado).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "R$ 454.485,68 (2026)",
+        "value": 454485.68,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de 2026 (TSE, via Folha/Nexo). Composição: apartamento (50%) R$ 350.000,00; VGBL R$ 52.850,00; poupança R$ 51.403,07; renda fixa R$ 232,61. Comparação: R$ 502.013,29 declarados em 2014.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ec-01",
+            "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+          },
+          {
+            "id": "src-ec-02",
+            "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Limite legal de gastos no 1º turno: R$ 88.944.030,80.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido no Congresso (antes da eleição de 2026)",
+        "displayValue": "0/513 deputados federais e 0 senadores",
+        "value": 0,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Consulta às APIs oficiais da Câmara dos Deputados (deputados em exercício na 57ª Legislatura com siglaPartido=PCB) e do Senado (parlamentares em exercício em 29/09/2026): nenhum resultado.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-ec-12",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+          },
+          {
+            "id": "src-ec-13",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Cargos estaduais, municipais e vereadores do PCB não verificados nesta rodada.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "0% (Quaest/Rede Amazônica — Amapá, 25/08/2026)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Última sondagem estimulada localizada nesta rodada que inclui o candidato. Pesquisa regional (Amapá); pesquisa nacional com o candidato não localizada nas buscas desta rodada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-ec-14",
+            "title": "Quaest 2026: veja como está a disputa pela presidência no AP (Edmilson Costa 0%)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/ap/amapa/noticia/2026/08/25/quaest-ap-presidente-25-agosto.ghtml",
+            "publishedAt": "2026-08-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Pesquisa estimulada com 804 pessoas ouvidas entre 21 e 24/08/2026, encomendada pela Rede Amazônica; margem de 3 pontos; cenário com e sem Marçal. Edmilson Costa: 0% nos dois cenários."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Amostra regional; não representa a intenção nacional.",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-ec-01",
+        "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+        "publisher": "Folha de S.Paulo (dados: TSE)",
+        "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+      },
+      {
+        "id": "src-ec-02",
+        "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+        "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+        "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+      },
+      {
+        "id": "src-ec-03",
+        "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+      },
+      {
+        "id": "src-ec-04",
+        "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+      },
+      {
+        "id": "src-ec-05",
+        "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+        "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+        "publishedAt": "2026-08-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+      },
+      {
+        "id": "src-ec-06",
+        "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+        "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+        "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+        "publishedAt": "2026-08-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+      },
+      {
+        "id": "src-ec-07",
+        "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+        "publishedAt": "2026-08-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+      },
+      {
+        "id": "src-ec-08",
+        "title": "PCB confirma candidatura de Edmilson Costa à Prefeitura de São Paulo (texto original do G1/Globo de 21/06/2008, reproduzido por réplica)",
+        "publisher": "Globo.com (réplica: hlera.com.br)",
+        "url": "https://noticia.hlera.com.br/politica/pcb-confirma-candidatura-de-edmilson-costa-a-prefeitura-de-sao-paulo/",
+        "publishedAt": "2008-06-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "URL original do G1 (2008) não localizada; réplica preserva o texto. Convenção do PCB de 21/06/2008: candidato a prefeito, professor universitário e doutor em economia pela Unicamp, '30 anos de militância' e 'mais de 20 anos de magistério'; vice jornalista Fernanda Mendes; cerca de 10 mil filiados na capital."
+      },
+      {
+        "id": "src-ec-09",
+        "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+        "publisher": "PSOL 50 (site da seção de São Paulo)",
+        "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+        "publishedAt": "2012-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+      },
+      {
+        "id": "src-ec-10",
+        "title": "PCB oficializa candidatura própria à presidência e ao governo de SP (2014)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/06/pcb-oficializa-candidatura-propria-presidencia-e-ao-governo-de-sp.html",
+        "publishedAt": "2014-06-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Convenção do PCB de 21/06/2014; o partido lançou chapa própria à presidência e ao governo de SP. A candidatura de Edmilson Costa ao Senado por SP em 2014 é confirmada pelo histórico do Nexo/TSE (12.102 votos)."
+      },
+      {
+        "id": "src-ec-11",
+        "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Oficializa o quadro final de 12 chapas válidas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+      },
+      {
+        "id": "src-ec-12",
+        "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+        "publisher": "Câmara dos Deputados (dados abertos)",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+      },
+      {
+        "id": "src-ec-13",
+        "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+        "publisher": "Senado Federal (dados abertos)",
+        "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+      },
+      {
+        "id": "src-ec-14",
+        "title": "Quaest 2026: veja como está a disputa pela presidência no AP (Edmilson Costa 0%)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/08/25/quaest-ap-presidente-25-agosto.ghtml",
+        "publishedAt": "2026-08-25",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Pesquisa estimulada com 804 pessoas ouvidas entre 21 e 24/08/2026, encomendada pela Rede Amazônica; margem de 3 pontos; cenário com e sem Marçal. Edmilson Costa: 0% nos dois cenários."
+      },
+      {
+        "id": "src-ec-15",
+        "title": "PCB lança candidato à Presidência — Edmilson Costa (jornalismo UFMA, doutorado em Economia pela Unicamp nos anos 1990)",
+        "publisher": "Diário Carioca (texto creditado à Agência Brasil)",
+        "url": "https://www.diariocarioca.com/2026/08/17/politica/eleicoes/pcb-lanca-edmilson-costa-a-presidencia",
+        "publishedAt": "2026-08-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Militância desde os anos 1980; doutorado em Economia pela Unicamp nos anos 1990 com tese sobre política salarial brasileira."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "renan-santos",
+    "name": "Renan Antônio Ferreira dos Santos",
+    "ballotName": "Renan Santos",
+    "ballotNumber": 14,
+    "party": "MISSÃO",
+    "coalition": "Partido isolado (MISSÃO, nº 14). Chapa pura com vice Coronel Medina (Aroldo Medina, MISSÃO) — jornalista e tenente-coronel da reserva da Brigada Militar do RS, nascido em 31/03/1964 em Sant'Ana do Livramento (RS), em sua 6ª disputa eleitoral.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Renan_Santos_-_Congresso_do_Partido_Miss%C3%A3o%2C_2026_%28cropped_2%29.jpg",
+    "birthDate": "1984-02-13",
+    "birthplace": "São Paulo/SP",
+    "age": 42,
+    "profession": "Empresário (ocupação declarada ao TSE)",
+    "currentRole": "Candidato à Presidência da República (MISSÃO, nº 14; registro deferido pelo TSE em 09/09/2026) e presidente nacional do Partido Missão",
+    "tagline": "Fundador do MBL e 1º presidente nacional do Partido Missão; empresário e músico; disputa sua primeira eleição, concorrendo à Presidência com plano baseado no 'Livro Amarelo'.",
+    "education": [
+      {
+        "id": "edu-rs-1",
+        "level": "graduacao",
+        "field": "Direito",
+        "institution": "Universidade de São Paulo (USP)",
+        "conclusionYear": null,
+        "notes": "Aprovado no vestibular após o ensino médio (ingresso em 2003, segundo ND+); envolveu-se na política estudantil (disputa do DCE) e abandonou o curso antes de concluir. TSE/Estadão registram grau de instrução 'Superior Incompleto'.",
+        "sources": [
+          {
+            "id": "src-rs-45",
+            "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+            "publisher": "ND+ (ND Mais)",
+            "url": "https://ndmais.com.br/politica/renan-santos/",
+            "publishedAt": "2026-08-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          },
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-rs-1",
+        "role": "Empresário — reestruturação e recuperação de empresas (grupo familiar)",
+        "organization": "Grupo familiar de empresários (incluindo a Martin Artefatos de Metal)",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Após deixar a faculdade, passou a trabalhar com o pai em grupo focado na reestruturação e recuperação de empresas em falência ou grave dificuldade financeira; a família adquiriu a Martin Artefatos de Metal. Reportagens (UOL, 2016; El País, 2017; Metrópoles, 2022 — citadas pela Wikipédia) apuram processos cíveis, trabalhistas e fiscais ligados a essas empresas; Renan afirma que tais processos decorrem da atividade empresarial e que parte das dívidas preexistia à aquisição das empresas pela família. Ocupação declarada ao TSE em 2026: 'Empresário'.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-rs-26",
+            "title": "Líder do MBL responde a mais de 60 processos e sofre cobrança de R$ 4,9 mi",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2016/05/08/mbl-sofre-acao-de-despejo-e-um-de-seus-lideres-tem-divida-de-r-44-milhoes.htm",
+            "publishedAt": "2016-05-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          },
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          }
+        ]
+      },
+      {
+        "id": "prof-rs-2",
+        "role": "Músico — vocalista e guitarrista da banda de rock Limão Rosa",
+        "organization": "Limão Rosa",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Banda formada com integrantes ligados ao MBL; lançou em junho/2026 o primeiro álbum de estúdio, 'Chão Pintado de Rubi' (11 faixas); liderou a votação popular do concurso 'Temos Vagas' (rádio 89 FM) para uma vaga no Lollapalooza Brasil 2026, sem ser escolhida pelo júri técnico.",
+        "achievements": [
+          "Álbum 'Chão Pintado de Rubi' (jun/2026)",
+          "1º lugar na votação popular do concurso Temos Vagas (89 FM), sem seleção pelo júri"
+        ],
+        "sources": [
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          },
+          {
+            "id": "src-rs-45",
+            "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+            "publisher": "ND+ (ND Mais)",
+            "url": "https://ndmais.com.br/politica/renan-santos/",
+            "publishedAt": "2026-08-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-rs-1",
+        "role": "1º Presidente nacional do Partido Missão",
+        "organization": "Partido Missão",
+        "startDate": "2023",
+        "endDate": null,
+        "description": "Preside a legenda desde a fundação institucional, em 17/10/2023 (estatuto e programa publicados no DOU em 18/10/2023), antes do registro. Coordenou a coleta de assinaturas (mais de 577 mil validadas) e o processo de registro, deferido por unanimidade pelo TSE em 04/11/2025 — 30ª legenda registrada no país, com o número 14 (antes utilizado pelo PTB, que se incorporou ao PRD em 2023). Conduziu a expansão para a primeira eleição do partido em 2026, com 535 candidaturas em 25 estados e no DF.",
+        "achievements": [
+          "Registro do partido deferido por unanimidade pelo TSE (04/11/2025)",
+          "Mais de 577 mil assinaturas validadas para o registro",
+          "535 candidaturas lançadas em 25 estados e no DF em 2026"
+        ],
+        "sources": [
+          {
+            "id": "src-rs-01",
+            "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+          },
+          {
+            "id": "src-rs-02",
+            "title": "TSE aprova criação do Missão, partido do MBL, que terá o número 14",
+            "publisher": "Estadão",
+            "url": "https://estadao.com.br/politica/tse-aprova-criacao-do-missao-partido-do-mbl-que-tera-numero-14-npr",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-03",
+            "title": "TSE aprova por unanimidade criação do partido Missão",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Veículo público estatal (EBC)."
+          },
+          {
+            "id": "src-rs-04",
+            "title": "Missão, partido político do MBL, tem registro deferido pelo TSE",
+            "publisher": "ConJur",
+            "url": "https://conjur.com.br/2025-nov-04/missao-partido-politico-do-mbl-tem-registro-deferido-pelo-tse/",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-36",
+            "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+          },
+          {
+            "id": "src-rs-50",
+            "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+            "publisher": "Partido Missão (site oficial)",
+            "url": "https://candidatos.missao.org.br/",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Página oficial do partido; consultada em 29/09/2026."
+          }
+        ]
+      },
+      {
+        "id": "pol-rs-2",
+        "role": "Cofundador e coordenador nacional do Movimento Brasil Livre (MBL)",
+        "organization": "Movimento Brasil Livre (MBL)",
+        "startDate": "2014",
+        "endDate": null,
+        "description": "Fundou o MBL em novembro/2014 (primeiro ato: manifestação em frente ao MASP, em São Paulo), junto com Kim Kataguiri, Gabriel Calamari, Frederico Rauh, Alexandre Santos, Rafael Rizzo e Rubinho Nunes; foi um dos três coordenadores nacionais e responsável pelas articulações políticas. Liderou o ato da Avenida Paulista de 15/03/2015 (defesa da Lava Jato; protestos descritos como os maiores desde o início da Nova República), a 'Marcha pela Liberdade' (São Paulo→Brasília, 24/04–27/05/2015, 33 dias, mais de mil quilômetros), o acampamento em Brasília e a articulação do 'Comitê do Impeachment' (encontros com Eduardo Cunha e Aécio Neves). Após 2016, o MBL apoiou pautas como teto de gastos e reforma da Previdência, e candidaturas em partidos como DEM, Podemos e Patriota — até a criação de legenda própria. Desde 2023 a atuação de Renan se concentra na construção do partido Missão.",
+        "achievements": [
+          "Mobilizações nacionais de 2015 e 2016",
+          "Marcha pela Liberdade (2015): SP→Brasília em 33 dias",
+          "Articulação do Comitê do Impeachment (2015–2016)"
+        ],
+        "sources": [
+          {
+            "id": "src-rs-24",
+            "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+            "publisher": "Jota",
+            "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          },
+          {
+            "id": "src-rs-42",
+            "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+            "publisher": "Agência Senado",
+            "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+            "publishedAt": "2015-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Data aproximada (março/2015)."
+          },
+          {
+            "id": "src-rs-43",
+            "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+            "publisher": "Câmara dos Deputados (Agência)",
+            "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+            "publishedAt": "2015-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+          },
+          {
+            "id": "src-rs-49",
+            "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+            "publisher": "El País Brasil",
+            "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+            "publishedAt": "2015-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "pol-rs-3",
+        "role": "Filiado ao PSDB (militância na Juventude do PSDB)",
+        "organization": "PSDB",
+        "startDate": "2010",
+        "endDate": "2015",
+        "description": "Filiado ao PSDB entre 2010 e 2015; integrou a Juventude do partido e, como estudante de Direito da USP, disputou eleições do DCE. Deixou a legenda para dedicar-se ao MBL.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          },
+          {
+            "id": "src-rs-45",
+            "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+            "publisher": "ND+ (ND Mais)",
+            "url": "https://ndmais.com.br/politica/renan-santos/",
+            "publishedAt": "2026-08-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "ach-rs-1",
+        "title": "Cofundação do MBL e mobilizações nacionais (2014–2016)",
+        "context": "MBL, 2014–2016",
+        "description": "Fundou em nov/2014 o Movimento Brasil Livre, que ganhou projeção nacional na defesa da Operação Lava Jato e nas mobilizações contra o governo Dilma Rousseff: ato de 15/03/2015 na Paulista descrito pela imprensa como o maior protesto desde o início da Nova República, e atos de 13/03/2016 estimados em mais de 3,3 milhões de pessoas em pelo menos 250 cidades (estimativas citadas pela Wikipédia). O MBL foi um dos grupos organizadores, ao lado de movimentos como Vem Pra Rua e Nas Ruas, que atuavam com estruturas próprias e distintas.",
+        "sources": [
+          {
+            "id": "src-rs-24",
+            "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+            "publisher": "Jota",
+            "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          },
+          {
+            "id": "src-rs-42",
+            "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+            "publisher": "Agência Senado",
+            "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+            "publishedAt": "2015-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Data aproximada (março/2015)."
+          },
+          {
+            "id": "src-rs-49",
+            "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+            "publisher": "El País Brasil",
+            "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+            "publishedAt": "2015-08-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-rs-2",
+        "title": "Articulação do 'Comitê do Impeachment' que levou à abertura do processo de impeachment (2015–2016)",
+        "context": "MBL / Comitê do Impeachment, 2015–2016",
+        "description": "Um dos líderes do comitê que articulou, junto a partidos (PSDB, PMDB, DEM, Solidariedade — apoio admitido em gravação divulgada em fev/2016) e ao então presidente da Câmara Eduardo Cunha, a abertura do processo de impeachment de Dilma Rousseff, admitida por Cunha em 02/12/2015; o comitê entregou à Câmara pedido com assinaturas popular.",
+        "sources": [
+          {
+            "id": "src-rs-43",
+            "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+            "publisher": "Câmara dos Deputados (Agência)",
+            "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+            "publishedAt": "2015-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          },
+          {
+            "id": "src-rs-42",
+            "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+            "publisher": "Agência Senado",
+            "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+            "publishedAt": "2015-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Data aproximada (março/2015)."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-rs-3",
+        "title": "Registro do Partido Missão no TSE (04/11/2025) — 30ª legenda do país, número 14",
+        "context": "Presidência do Partido Missão, 2023–2025",
+        "description": "Conduziu o processo de criação da primeira legenda própria do MBL: estatuto e programa publicados no DOU em 18/10/2023; mais de 577 mil assinaturas validadas; registro deferido por unanimidade pelo TSE em 04/11/2025, com o número 14 (antes do PTB, incorporado ao PRD).",
+        "sources": [
+          {
+            "id": "src-rs-01",
+            "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+          },
+          {
+            "id": "src-rs-02",
+            "title": "TSE aprova criação do Missão, partido do MBL, que terá o número 14",
+            "publisher": "Estadão",
+            "url": "https://estadao.com.br/politica/tse-aprova-criacao-do-missao-partido-do-mbl-que-tera-numero-14-npr",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-03",
+            "title": "TSE aprova por unanimidade criação do partido Missão",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Veículo público estatal (EBC)."
+          },
+          {
+            "id": "src-rs-04",
+            "title": "Missão, partido político do MBL, tem registro deferido pelo TSE",
+            "publisher": "ConJur",
+            "url": "https://conjur.com.br/2025-nov-04/missao-partido-politico-do-mbl-tem-registro-deferido-pelo-tse/",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-36",
+            "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-rs-4",
+        "title": "Primeira candidatura a cargo público, com registro validado pelo TSE e terceira colocação nas pesquisas",
+        "context": "Campanha presidencial 2026",
+        "description": "Em sua primeira disputa eleitoral, teve o registro deferido por unanimidade pelo Plenário do TSE (09/09/2026) e oscila entre 3% (Quaest, 07/09) e 6,5% (AtlasIntel, set/2026), figurando na terceira colocação em empate técnico com outros nomes da 'terceira via' (Jota). Nas simulações de 2º turno AtlasIntel, é um dos dois adversários que Lula venceria (com Augusto Cury).",
+        "sources": [
+          {
+            "id": "src-rs-14",
+            "title": "Renan Santos tem candidatura validada pelo TSE; ainda faltam Marçal e Cury",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-candidatura-validada-pelo-tse-ainda-faltam-marcal-e-cury/",
+            "publishedAt": "2026-09-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-15",
+            "title": "TSE valida candidatura de Renan Santos à Presidência da República",
+            "publisher": "CBN",
+            "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/09/10/tse-valida-candidatura-de-renan-santos-a-presidencia-da-republica.ghtml",
+            "publishedAt": "2026-09-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-24",
+            "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+            "publisher": "Jota",
+            "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+          },
+          {
+            "id": "src-rs-40",
+            "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+            "publishedAt": "2026-09-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-41",
+            "title": "AtlasIntel divulga pesquisa para presidente da República (Renan Santos: 6,5%, 3º lugar em empate técnico com Cury)",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-setembro-2026/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-rs-5",
+        "title": "Coordenação de campanhas eleitorais de aliados do MBL",
+        "context": "MBL, 2018–2022",
+        "description": "Segundo ISTOÉ, possui histórico de coordenação em campanhas eleitorais bem-sucedidas de aliados, incluindo as de Kim Kataguiri (eleito deputado federal por SP) e de Arthur do Val. Afirmação da imprensa, não verificada em documentos eleitorais.",
+        "sources": [
+          {
+            "id": "src-rs-44",
+            "title": "Renan Santos é candidato à Presidência pelo partido Missão (coordenou campanhas de Kim Kataguiri e Arthur do Val)",
+            "publisher": "ISTOÉ",
+            "url": "https://istoe.com.br/renan-santos-candidato-presidencia-missao-mbl",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "O futuro é glorioso — Livro Amarelo (Missão 2026)",
+      "planUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+      "totalProposals": 14,
+      "registeredWith": "TSE — DivulgaCandContas (Eleições Gerais 2026); registrado com o pedido de registro da candidatura (RRC 0601415-52.2026.6.00.0000, enviado em 07/08/2026; registro deferido em 09/09/2026)",
+      "summary": "",
+      "notes": "Documento registrado é um resumo executivo de 51 páginas do 'Livro Amarelo', obra integral de mais de 500 páginas (segundo o próprio documento). Estrutura: 3 blocos ('Estado Novo', 'Reformas de Base', 'País do Futuro'), 14 pilares/temas e 5 metas para 2030 (Valor/CNN/Agência Brasil).",
+      "statsIfCounted": {
+        "objective": "Cada pilar declara 'o problema' e as principais propostas (resumo executivo)",
+        "target": "5 metas para 2030 (Valor)",
+        "deadline": "Prazos pontuais: 'desfavelação integral' em 10 anos (CNN); horizonte 2030/2031 para metas fiscais",
+        "cost": "Custo por proposta não informado; efeito global do ajuste fiscal estimado pela campanha em R$ 1,1 trilhão até 2031 (Agência Brasil)",
+        "funding": null,
+        "fiscal": "PEC de Transição Fiscal ('PEC do Equilíbrio Fiscal', já protocolada na Câmara pelo dep. Kim Kataguiri)",
+        "agency": null,
+        "instrument": "PECs (transição fiscal, previdência, desvinculação de pisos) e legislação (marco do 'Direito Penal do Inimigo')",
+        "indicator": null,
+        "congress": "A maioria das medidas estruturais depende de PEC/lei; contagem por proposta não realizada pela equipe"
+      },
+      "statsEvidence": "indeterminado",
+      "proposals": [
+        {
+          "id": "renan-santos-prop-1",
+          "title": "'Guerra ao crime organizado' com Direito Penal do Inimigo e superpresídios",
+          "description": "Declarar 'guerra ao crime' no primeiro dia de mandato, com uso de GLO (Garantia da Lei e Ordem) e Estado de Defesa para romper o controle territorial das facções; adotar o 'Direito Penal do Inimigo' como quadro legal (tratamento jurídico diferenciado para membros de facções); construir superpresídios 'seguindo o modelo de El Salvador'; resultados 'massivamente divulgados'. Em declarações públicas, Renan defende ainda debate sobre prisão perpétua e pena de morte e a eliminação física de faccionados em confronto armado (Wikipédia).",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Atos de GLO e Estado de Defesa previstos na Constituição + novo marco legal dependente de lei",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rs-20",
+              "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+              "publishedAt": "2026-07-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-22",
+              "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+              "publisher": "Exame",
+              "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+              "publishedAt": "2026-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mês; dia exato não capturado."
+            },
+            {
+              "id": "src-rs-47",
+              "title": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo (GLO, Estado de Defesa, Direito Penal do Inimigo no 1º dia)",
+              "publisher": "Valor Econômico",
+              "url": "https://valor.globo.com/politica/noticia/2026/07/21/renan-santos-propoe-guerra-ao-crime-e-ajuste-fiscal-em-versao-resumida-de-plano-de-governo.ghtml",
+              "publishedAt": "2026-07-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-25",
+              "title": "Renan Santos — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+            }
+          ]
+        },
+        {
+          "id": "renan-santos-prop-2",
+          "title": "'Desfavelação integral do Brasil'",
+          "description": "Transformar favelas em bairros com infraestrutura de saúde e segurança; o plano fala em 'desfavelação integral do Brasil' com prazo de 10 anos (CNN); declarações anteriores citavam transformação em até 30 anos (Wikipédia). Frase do candidato: 'morar na favela é insalubre, é inseguro, é desumano, e isso precisa acabar de forma organizada e definitiva'.",
+          "theme": "Infraestrutura",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Não especificado no resumo executivo",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rs-20",
+              "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+              "publishedAt": "2026-07-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-22",
+              "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+              "publisher": "Exame",
+              "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+              "publishedAt": "2026-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mês; dia exato não capturado."
+            },
+            {
+              "id": "src-rs-25",
+              "title": "Renan Santos — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+            }
+          ]
+        },
+        {
+          "id": "renan-santos-prop-3",
+          "title": "PEC de Transição Fiscal: ajuste de R$ 1,1 trilhão até 2031",
+          "description": "Ajuste fiscal com desindexação de benefícios previdenciários e assistenciais do salário mínimo (reajuste limitado à inflação), revisão do abono salarial, redução de renúncias fiscais, fim dos 'supersalários' e desvinculação dos pisos constitucionais de saúde e educação; a campanha estima R$ 1,1 tri até 2031 e a 'PEC do Equilíbrio Fiscal' já foi protocolada na Câmara pelo coordenador econômico da campanha, deputado Kim Kataguiri. Segundo Kataguiri (Valor Internacional), só a desindexação geraria R$ 486 bi em cinco anos.",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": true,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "PEC (transição fiscal/desvinculação de pisos)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rs-21",
+              "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Setembro/2026; dia exato não capturado."
+            },
+            {
+              "id": "src-rs-31",
+              "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+              "publisher": "Valor Internacional",
+              "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+              "publishedAt": "2026-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-48",
+              "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+              "publisher": "Folha de S.Paulo (C-Level)",
+              "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Setembro/2026; dia exato não capturado."
+            }
+          ]
+        },
+        {
+          "id": "renan-santos-prop-4",
+          "title": "Reforma da Previdência com idade mínima automática e capitalização via FGTS",
+          "description": "Nova reforma paramétrica: idade mínima de aposentadoria com gatilho automático atrelado à expectativa de vida, idade mínima para militares, redução do teto do INSS (R$ 8.475,55), renda mínima para idosos e parcela da aposentadoria capitalizada a partir do FGTS; seguro-desemprego pago com recursos do FGTS.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "PEC + legislação previdenciária",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rs-31",
+              "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+              "publisher": "Valor Internacional",
+              "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+              "publishedAt": "2026-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-48",
+              "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+              "publisher": "Folha de S.Paulo (C-Level)",
+              "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Setembro/2026; dia exato não capturado."
+            }
+          ]
+        },
+        {
+          "id": "renan-santos-prop-5",
+          "title": "Substituição do Bolsa Família por frentes de trabalho remuneradas",
+          "description": "O plano propõe substituir o Bolsa Família por 'frentes de trabalho remuneradas'; segundo o coordenador econômico da campanha, o benefício seria destinado apenas a quem não tiver condições de trabalhar (Valor Internacional).",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei (redesign do programa de transferência de renda)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rs-20",
+              "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+              "publishedAt": "2026-07-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-31",
+              "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+              "publisher": "Valor Internacional",
+              "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+              "publishedAt": "2026-09-18",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-22",
+              "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+              "publisher": "Exame",
+              "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+              "publishedAt": "2026-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mês; dia exato não capturado."
+            }
+          ]
+        },
+        {
+          "id": "renan-santos-prop-6",
+          "title": "Fusão de municípios e tutela federal de municípios 'ineficientes'",
+          "description": "Propõe fusão de municípios (e, em declarações, até de estados) e 'tutela federal' de municípios considerados ineficientes, como parte da reorganização do pacto federativo descrita no plano de 51 páginas (Agência Brasil).",
+          "theme": "Administração pública",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "PEC/lei (mudança no pacto federativo)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rs-21",
+              "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+              "publisher": "Agência Brasil (EBC)",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+              "publishedAt": "2026-09",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Setembro/2026; dia exato não capturado."
+            },
+            {
+              "id": "src-rs-20",
+              "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+              "publishedAt": "2026-07-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "renan-santos-prop-7",
+          "title": "Educação: substituir cotas por bolsas de mérito e ampliar escolas militares",
+          "description": "O plano prevê trocar o sistema de cotas por bolsas de mérito e ampliar o alcance de escolas militares (g1/CNN).",
+          "theme": "Educação",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei/política de educação",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rs-20",
+              "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+              "publishedAt": "2026-07-21",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-rs-22",
+              "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+              "publisher": "Exame",
+              "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+              "publishedAt": "2026-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mês; dia exato não capturado."
+            }
+          ]
+        },
+        {
+          "id": "renan-santos-prop-8",
+          "title": "Programa nuclear militar (armas atômicas) — posicionamento público",
+          "description": "Defende a criação e o desenvolvimento de programa nuclear voltado à eventual produção de armas atômicas pelo Brasil, como condição de soberania militar e 'respeito geopolítico' (posicionamento público registrado na Wikipédia). Não foi localizado no resumo executivo do plano registrado no TSE — verificar na obra integral (Livro Amarelo, ~500 páginas).",
+          "theme": "Política externa",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Não especificado",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rs-25",
+              "title": "Renan Santos — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-rs-1",
+        "description": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação nem federação; vice: Coronel Medina (Aroldo Medina, MISSÃO).",
+        "value": "MISSÃO — partido isolado",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          },
+          {
+            "id": "src-rs-36",
+            "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+          },
+          {
+            "id": "src-rs-01",
+            "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+          }
+        ]
+      },
+      {
+        "id": "sup-rs-2",
+        "description": "Bancada atual do Missão no Congresso Nacional: 1 deputado federal (Kim Kataguiri, eleito em 2022 pelo União Brasil com 295.460 votos; filiado ao Missão na janela partidária de 2026), além de 1 deputado estadual e 3 vereadores; 0 senadores, governadores e prefeitos.",
+        "value": "1/513 na Câmara; sem senadores",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-rs-33",
+            "title": "Quase 30% dos deputados mudam de legenda na janela partidária (Kataguiri é o 1º integrante do Missão no Congresso)",
+            "publisher": "Poder360",
+            "url": "https://poder360.com.br/poder-congresso/janela-partidaria-2026-pl-lidera-filiacoes",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado (janela partidária de 2026)."
+          },
+          {
+            "id": "src-rs-32",
+            "title": "SP: veja lista de deputados federais eleitos em 2022 (Kim Kataguiri — União Brasil — 295.460 votos)",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/sp-veja-lista-de-deputados-federais-eleitos-em-2022/",
+            "publishedAt": "2022-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-36",
+            "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+          },
+          {
+            "id": "src-rs-05",
+            "title": "TSE aprova pedido de criação do Missão (nº 14, antes do extinto PTB)",
+            "publisher": "Congresso em Foco",
+            "url": "https://www.congressoemfoco.com.br/noticia/113572/tse-aprova-pedido-de-criacao-do-missao-partido-do-mbl",
+            "publishedAt": "2025-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado."
+          }
+        ]
+      },
+      {
+        "id": "sup-rs-3",
+        "description": "Financiamento: a campanha presidencial abriu mão dos R$ 3.307.679,85 do Fundo Eleitoral (mínimo atribuído ao Missão), destinando o valor às candidaturas do partido ao Legislativo; a presidencial é sustentada por doações e 'vaquinhas' on-line (~R$ 1 milhão arrecadado até 01/07/2026, segundo a coordenadora Amanda Vettorazzo, vereadora de SP).",
+        "value": "Sem Fundo Eleitoral — vaquinhas on-line (~R$ 1 mi em 01/07/2026)",
+        "date": "2026-07-01",
+        "sources": [
+          {
+            "id": "src-rs-30",
+            "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+            "publishedAt": "2026-07-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "sup-rs-4",
+        "description": "Apoio pontual, sem coligação: Flávio Bolsonaro (PL) e Romeu Zema (Novo) saíram publicamente em defesa de Renan Santos após a suspensão cautelar da campanha pelo relator do TSE (31/08/2026).",
+        "value": "declarações de apoio pontuais (PL e Novo)",
+        "date": "2026-08-31",
+        "sources": [
+          {
+            "id": "src-rs-17",
+            "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico' e chama decisão de Toffoli de 'ilegal' (Flávio e Zema saem em defesa)",
+            "publisher": "O Globo",
+            "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+            "publishedAt": "2026-08-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-rs-1",
+        "description": "Articulação do 'Comitê do Impeachment' (2015–2016): reuniões em Brasília com o então presidente da Câmara Eduardo Cunha e com o líder da oposição Aécio Neves; o comitê entregou à Câmara pedido de impeachment com assinaturas; Cunha admitiu a abertura do processo em 02/12/2015.",
+        "value": "encontros com Cunha e Aécio Neves documentados",
+        "date": "2015-12",
+        "sources": [
+          {
+            "id": "src-rs-43",
+            "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+            "publisher": "Câmara dos Deputados (Agência)",
+            "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+            "publishedAt": "2015-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          },
+          {
+            "id": "src-rs-42",
+            "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+            "publisher": "Agência Senado",
+            "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+            "publishedAt": "2015-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Data aproximada (março/2015)."
+          }
+        ]
+      },
+      {
+        "id": "neg-rs-2",
+        "description": "O MBL admitiu, em gravação divulgada em fevereiro de 2016, apoio financeiro e material de PSDB, PMDB, DEM e Solidariedade às mobilizações (incluindo ônibus e lanches), apesar do discurso apartidário do movimento.",
+        "value": "apoio de PSDB, PMDB, DEM e Solidariedade (2016)",
+        "date": "2016-02",
+        "sources": [
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          }
+        ]
+      },
+      {
+        "id": "neg-rs-3",
+        "description": "Coordenação de campanhas eleitorais de aliados do MBL: Kim Kataguiri (deputado federal) e Arthur do Val, segundo reportagem da ISTOÉ. Afirmação de imprensa não verificada em documentos eleitorais.",
+        "value": "campanhas de Kataguiri e Arthur do Val",
+        "date": "2018–2022",
+        "sources": [
+          {
+            "id": "src-rs-44",
+            "title": "Renan Santos é candidato à Presidência pelo partido Missão (coordenou campanhas de Kim Kataguiri e Arthur do Val)",
+            "publisher": "ISTOÉ",
+            "url": "https://istoe.com.br/renan-santos-candidato-presidencia-missao-mbl",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada."
+          }
+        ]
+      },
+      {
+        "id": "neg-rs-4",
+        "description": "Construção do partido próprio: coordenação da coleta de mais de 577 mil assinaturas validadas para o registro do Missão (deferido em 04/11/2025); primeira eleição em 2026 com 535 candidaturas em 25 estados e no DF (128 homologadas em SP).",
+        "value": "577 mil assinaturas; 535 candidaturas em 2026",
+        "date": "2023–2026",
+        "sources": [
+          {
+            "id": "src-rs-36",
+            "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+          },
+          {
+            "id": "src-rs-34",
+            "title": "Missão oficializa 128 candidaturas para deputado e deixa em aberto apoio a governo e Senado por SP",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/07/missao-oficializa-128-candidaturas-para-deputado-e-deixa-em-aberto-apoio-a-governo-e-senado-por-sp.ghtml",
+            "publishedAt": "2026-08-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-50",
+            "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+            "publisher": "Partido Missão (site oficial)",
+            "url": "https://candidatos.missao.org.br/",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Página oficial do partido; consultada em 29/09/2026."
+          },
+          {
+            "id": "src-rs-03",
+            "title": "TSE aprova por unanimidade criação do partido Missão",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+            "publishedAt": "2025-11-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Veículo público estatal (EBC)."
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-rs-1",
+        "category": "tribunal",
+        "title": "Denúncia do MP-SP por tráfico de influência (out/2020) — rejeitada pela Justiça",
+        "legalStatus": "arquivamento",
+        "currentStatus": "encerrado",
+        "instance": "1ª Vara de Crimes Tributários, Organização Criminosa e Lavagem de Bens e Valores de São Paulo",
+        "lastUpdate": "2020-11-06",
+        "description": "Em outubro de 2020, o MP-SP denunciou Renan Santos por tráfico de influência no caso envolvendo contrato milionário de Alessander Mônaco Ferreira com a Fipe e nomeação dele para cargo comissionado na Imprensa Oficial de SP sem concurso, com doações ao MBL equivalentes ao salário. Em 06/11/2020, o juiz Thiago Baldani Gomes De Filippo rejeitou a denúncia, por ausência de descrição de conduta típica: 'não houve crime nos fatos imputados'. Não houve condenação; não foi localizada a interposição de recurso posterior.",
+        "sources": [
+          {
+            "id": "src-rs-27",
+            "title": "Líder do MBL é denunciado sob a acusação de tráfico de influência",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2020/10/lider-do-mbl-e-denunciado-sob-a-acusacao-de-trafico-de-influencia-e-fraude-em-licitacao.shtml",
+            "publishedAt": "2020-10-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-28",
+            "title": "Justiça rejeita denúncia do Ministério Público contra líder do MBL por tráfico de influência",
+            "publisher": "Folha de S.Paulo (Painel)",
+            "url": "https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-rejeita-denuncia-do-ministerio-publico-contra-lider-do-mbl-por-trafico-de-influencia.shtml",
+            "publishedAt": "2020-11-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-29",
+            "title": "Justiça rejeita denúncia contra Renan Santos por tráfico de influência",
+            "publisher": "ConJur",
+            "url": "https://conjur.com.br/2020-nov-06/justica-rejeita-denuncia-renan-santos-trafico-influencia/",
+            "publishedAt": "2020-11-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-rs-2",
+        "category": "patrimonial",
+        "title": "Processos cíveis, trabalhistas e fiscais ligados a empresas da família (2016–2022)",
+        "legalStatus": "processo",
+        "currentStatus": "em_andamento",
+        "instance": "Justiça de São Paulo / Justiça do Trabalho (região de Jundiaí) / Receita Federal",
+        "lastUpdate": "2022-03 (última reportagem localizada)",
+        "description": "Reportagem do UOL (08/05/2016) apurou que Renan respondia por mais de 60 processos (cíveis, trabalhistas e fiscais) e cobrança de R$ 4,9 milhões, ligados à atividade de recuperação de empresas de sua família (incluindo a Martin Artefatos de Metal); houve bloqueio de contas sem saldo e bens penhorados a leilão. Levantamentos posteriores citados pela Wikipédia referem 125+ processos da família (El País, 2017, com cobranças de ~R$ 20 mi) e dívida de R$ 6,3 milhões à União (Metrópoles, 2022). Renan afirma que os processos decorrem das dificuldades da atividade empresarial e que parte das dívidas preexistia à aquisição das empresas pela família. Não há condenação criminal; situação atual dos processos não localizada.",
+        "sources": [
+          {
+            "id": "src-rs-26",
+            "title": "Líder do MBL responde a mais de 60 processos e sofre cobrança de R$ 4,9 mi",
+            "publisher": "UOL",
+            "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2016/05/08/mbl-sofre-acao-de-despejo-e-um-de-seus-lideres-tem-divida-de-r-44-milhoes.htm",
+            "publishedAt": "2016-05-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low"
+      },
+      {
+        "id": "inst-rs-3",
+        "category": "tribunal",
+        "title": "Cautelar do TSE suspendeu campanha digital da chapa (ago–set/2026) — revista em parte; registro deferido",
+        "legalStatus": "decisao",
+        "currentStatus": "encerrado",
+        "instance": "TSE — relator Min. Dias Toffoli; Plenário",
+        "lastUpdate": "2026-09-09",
+        "description": "A campanha informou à Justiça Eleitoral 16 perfis em redes sociais apenas em 19/08/2026, 12 dias após o pedido de registro (RRC enviado em 07/08). Em 30/08, o relator retirou o caso de pauta e suspendeu cautelarmente a propaganda digital, os debates e o acesso ao Fundo Eleitoral, apontando 'indícios de irregularidades' (art. 24, VIII, Res.-TSE 23.609/2019); em 01/09 reviu parcialmente a decisão, liberando debates, propaganda e repasses, mantendo restrições aos perfis e abrindo 72h para esclarecimentos (o candidato prestou esclarecimentos; a defesa chamou a medida de 'manifestamente ilegal'). Em 09/09/2026, o Plenário do TSE deferiu por unanimidade o registro da chapa. Não houve indeferimento, multa nem sanção de mérito.",
+        "sources": [
+          {
+            "id": "src-rs-10",
+            "title": "Decisão do Min. Dias Toffoli (relator) no RRC 0601415-52.2026.6.00.0000 — registro de candidatura de Renan Santos",
+            "publisher": "TSE (cópia integral espelhada por Poder360)",
+            "url": "https://static.poder360.com.br/uploads/2026/09/consultaunificadapje.tse_.jus_.br_consulta-publica-unificada_documento_extensaoArquivotext_htmlpathtse_2026_9_1_17_5_27_324b0aa54c28fd0b712e5279d50a80417324a67fa9ffb758bc2eb30cba1a196b.pdf",
+            "publishedAt": "2026-08-30",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal",
+            "notes": "Documento oficial: RRC enviado em 07/08/2026; 16 perfis informados em 19/08/2026; indícios de irregularidade; suspensão cautelar."
+          },
+          {
+            "id": "src-rs-11",
+            "title": "Toffoli adia julgamento do registro de candidatura de Renan Santos e aponta indícios de ilicitude",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/noticia/2026/08/30/toffoli-adia-julgamento-do-registro-de-candidatura-de-renan-santos-e-aponta-indicios-de-ilicitude.ghtml",
+            "publishedAt": "2026-08-30",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-12",
+            "title": "Após diligências, Toffoli libera campanha e repasses a Renan Santos",
+            "publisher": "ConJur",
+            "url": "https://conjur.com.br/2026-set-01/apos-diligencias-toffoli-libera-campanha-e-repasses-a-renan-santos/",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-13",
+            "title": "Toffoli revê decisão e libera Renan Santos para debates e financiamento (72h para esclarecimentos)",
+            "publisher": "Correio Braziliense",
+            "url": "https://www.correiobraziliense.com.br/politica/2026/09/7491799-toffoli-reve-decisao-e-libera-renan-santos-para-debates-e-financiamento.html",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-16",
+            "title": "Defesa de Renan Santos pede ao TSE revogação de decisão de Toffoli que restringiu campanha digital",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/noticia/2026/09/01/defesa-de-renan-santos-pede-ao-tse-revogacao-de-decisao-de-toffoli-que-restringiu-campanha-digital.ghtml",
+            "publishedAt": "2026-09-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-17",
+            "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico' e chama decisão de Toffoli de 'ilegal' (Flávio e Zema saem em defesa)",
+            "publisher": "O Globo",
+            "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+            "publishedAt": "2026-08-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-14",
+            "title": "Renan Santos tem candidatura validada pelo TSE; ainda faltam Marçal e Cury",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-candidatura-validada-pelo-tse-ainda-faltam-marcal-e-cury/",
+            "publishedAt": "2026-09-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-rs-4",
+        "category": "tribunal",
+        "title": "Ação de Wesley Safadão — vídeo removido por decisão judicial (2026)",
+        "legalStatus": "processo",
+        "currentStatus": "em_andamento",
+        "instance": "Justiça de São Paulo (vara não informada na fonte localizada)",
+        "lastUpdate": "2026-04-27",
+        "description": "Em 21/03/2026, Renan publicou vídeo acusando o cantor Wesley Safadão de liderar esquema de contratos com prefeituras do Nordeste (mais de 50 contratos por R$ 52 milhões em 2024–2025, segundo o vídeo). Safadão o processou e obteve, em 27/04/2026, decisão judicial pela remoção do vídeo. Ação em andamento; desfecho não localizado. Registro baseado na Wikipédia (com citação à imprensa).",
+        "sources": [
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação), sem dupla contagem. Nenhuma ocupação localizada; 2026 é a primeira candidatura a cargo público (g1).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-rs-07",
+            "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+            "publishedAt": "2026-07-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+          },
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Exerceu funções de direção em movimento social e partido (MBL, Missão) — cargos partidários privados, sem administração de recursos ou pessoal públicos.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "Não se aplica — nunca administrou orçamento público",
+        "value": null,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior orçamento anual sob gestão em cargo público.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          },
+          {
+            "id": "src-rs-07",
+            "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+            "publishedAt": "2026-07-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Pessoas/equipe sob gestão (servidores)",
+        "displayValue": "Não localizado",
+        "value": null,
+        "unit": "servidores",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Servidores/equipe sob gestão direta em cargos públicos.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          },
+          {
+            "id": "src-rs-07",
+            "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+            "publishedAt": "2026-07-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "≈13 anos (desde 2013)",
+        "value": 13.3,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Anos entre a primeira atuação política documentada (organização de atos contra a PEC 37, 2013) e 29/09/2026; exclui militância estudantil (DCE-USP) e a filiação partidária anterior (PSDB).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          },
+          {
+            "id": "src-rs-45",
+            "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+            "publisher": "ND+ (ND Mais)",
+            "url": "https://ndmais.com.br/politica/renan-santos/",
+            "publishedAt": "2026-08-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Se contada a partir da filiação ao PSDB (2010–2015), ≈15,9 anos.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "articulacao",
+        "name": "Anos em cargos legislativos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos legislativos eletivos; nenhuma ocupação localizada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-rs-07",
+            "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+            "publishedAt": "2026-07-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+          },
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos públicos federais",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-rs-07",
+            "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+            "publishedAt": "2026-07-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+          },
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "0 — nunca disputou eleição antes de 2026",
+        "value": 0,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de mandatos eletivos conquistados. Fato confirmado, não lacuna: 2026 é a primeira candidatura a cargo público (g1).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-rs-07",
+            "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+            "publishedAt": "2026-07-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+          },
+          {
+            "id": "src-rs-24",
+            "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+            "publisher": "Jota",
+            "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+          },
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "Não se aplica — primeira disputa eleitoral em 2026",
+        "value": null,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Total de votos em eleições anteriores.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-rs-07",
+            "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+            "publishedAt": "2026-07-20",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+          },
+          {
+            "id": "src-rs-24",
+            "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+            "publisher": "Jota",
+            "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas/pilares do plano de governo",
+        "displayValue": "14 pilares (resumo de 51 páginas; 3 blocos; 5 metas para 2030)",
+        "value": 14,
+        "unit": "pilares",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Nº de pilares/temas do resumo executivo do 'Livro Amarelo' registrado no TSE (obra integral de ~500 páginas). Contagem declarada pela campanha e reportada por CNN e Valor; não recalculada item a item pela equipe.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rs-09",
+            "title": "Missão oficializa candidatura de Renan no TSE e apresenta plano de governo (Livro Amarelo, 51 páginas, 14 temas)",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/missao-oficializa-candidatura-de-renan-no-tse-e-apresenta-plano-de-governo",
+            "publishedAt": "2026-08-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-19",
+            "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+            "publishedAt": "2026-08-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-21",
+            "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          },
+          {
+            "id": "src-rs-23",
+            "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+            "publisher": "TSE — DivulgaCandContas",
+            "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Não informado por proposta; o ajuste fiscal global é estimado em R$ 1,1 tri até 2031 (cálculo da campanha)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com estimativa de custo próprio. O resumo executivo não quantifica custos por proposta; contagem da equipe não realizada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-rs-21",
+            "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          },
+          {
+            "id": "src-rs-23",
+            "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+            "publisher": "TSE — DivulgaCandContas",
+            "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "5 metas para 2030 e prazos pontuais (ex.: 'desfavelação' em 10 anos); % por proposta não calculada",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido; contagem por item não realizada pela equipe.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-rs-19",
+            "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+            "publishedAt": "2026-08-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-22",
+            "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+            "publisher": "Exame",
+            "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; reformas estruturais (PECs fiscal e previdenciária, desvinculação de pisos, marco do Direito Penal do Inimigo) dependem do Congresso",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC ou lei.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-rs-21",
+            "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          },
+          {
+            "id": "src-rs-31",
+            "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+            "publisher": "Valor Internacional",
+            "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-23",
+            "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+            "publisher": "TSE — DivulgaCandContas",
+            "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+            "publishedAt": "2026-08-01",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "Deferido — Plenário do TSE, por unanimidade, em 09/09/2026 (RRC 0601415-52.2026.6.00.0000)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rs-14",
+            "title": "Renan Santos tem candidatura validada pelo TSE; ainda faltam Marçal e Cury",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-candidatura-validada-pelo-tse-ainda-faltam-marcal-e-cury/",
+            "publishedAt": "2026-09-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-15",
+            "title": "TSE valida candidatura de Renan Santos à Presidência da República",
+            "publisher": "CBN",
+            "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/09/10/tse-valida-candidatura-de-renan-santos-a-presidencia-da-republica.ghtml",
+            "publishedAt": "2026-09-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          },
+          {
+            "id": "src-rs-18",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Oficializa o quadro final de 12 chapas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Antes do deferimento, o relator (Min. Dias Toffoli) suspendeu cautelarmente a campanha digital (30/08) e a liberou em parte (01/09). Não foram localizadas condenações ou impugnações de mérito contra o candidato; denúncia criminal do MP-SP (2020) foi rejeitada pela Justiça (ver integridade).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "R$ 795.089,00",
+        "value": 795089,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de candidatura de 2026 (TSE/DivulgaCandContas, via Estadão).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rs-06",
+            "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Composição: quotas de capital (R$ 100 mil), outros créditos e poupança vinculados (R$ 300 mil), bem relacionado à atividade autônoma (R$ 275,3 mil), quotas de sociedade (R$ 119,8 mil). Limite legal de gastos no 1º turno: R$ 88.944.030,80.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+        "displayValue": "1/513 deputados federais",
+        "value": 1,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Cadeiras do MISSÃO na Câmara em 29/09/2026, antes do pleito de 2026: o deputado federal Kim Kataguiri, eleito em 2022 pelo União Brasil (295.460 votos), migrou ao Missão na janela partidária de 2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rs-33",
+            "title": "Quase 30% dos deputados mudam de legenda na janela partidária (Kataguiri é o 1º integrante do Missão no Congresso)",
+            "publisher": "Poder360",
+            "url": "https://poder360.com.br/poder-congresso/janela-partidaria-2026-pl-lidera-filiacoes",
+            "publishedAt": "2026-04",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado (janela partidária de 2026)."
+          },
+          {
+            "id": "src-rs-32",
+            "title": "SP: veja lista de deputados federais eleitos em 2022 (Kim Kataguiri — União Brasil — 295.460 votos)",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/sp-veja-lista-de-deputados-federais-eleitos-em-2022/",
+            "publishedAt": "2022-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-36",
+            "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+          },
+          {
+            "id": "src-rs-05",
+            "title": "TSE aprova pedido de criação do Missão (nº 14, antes do extinto PTB)",
+            "publisher": "Congresso em Foco",
+            "url": "https://www.congressoemfoco.com.br/noticia/113572/tse-aprova-pedido-de-criacao-do-missao-partido-do-mbl",
+            "publishedAt": "2025-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "O partido tem ainda 1 deputado estadual e 3 vereadores; 0 senadores, 0 governadores e 0 prefeitos (Wikipédia, com base no TSE).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "3% (Quaest, 07/09) | 4% (Datafolha, 21/08) | 6,5% (AtlasIntel, set/2026 — 3º lugar, empate técnico)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rs-40",
+            "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+            "publishedAt": "2026-09-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-39",
+            "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+            "publishedAt": "2026-08-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+          },
+          {
+            "id": "src-rs-41",
+            "title": "AtlasIntel divulga pesquisa para presidente da República (Renan Santos: 6,5%, 3º lugar em empate técnico com Cury)",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-setembro-2026/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Jota sintetiza: entre 3% e 6%, terceira colocação em empate técnico com nomes da 'terceira via'.",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-rs-01",
+        "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+        "publishedAt": "2025-11-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+      },
+      {
+        "id": "src-rs-02",
+        "title": "TSE aprova criação do Missão, partido do MBL, que terá o número 14",
+        "publisher": "Estadão",
+        "url": "https://estadao.com.br/politica/tse-aprova-criacao-do-missao-partido-do-mbl-que-tera-numero-14-npr",
+        "publishedAt": "2025-11-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-03",
+        "title": "TSE aprova por unanimidade criação do partido Missão",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+        "publishedAt": "2025-11-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Veículo público estatal (EBC)."
+      },
+      {
+        "id": "src-rs-04",
+        "title": "Missão, partido político do MBL, tem registro deferido pelo TSE",
+        "publisher": "ConJur",
+        "url": "https://conjur.com.br/2025-nov-04/missao-partido-politico-do-mbl-tem-registro-deferido-pelo-tse/",
+        "publishedAt": "2025-11-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-05",
+        "title": "TSE aprova pedido de criação do Missão (nº 14, antes do extinto PTB)",
+        "publisher": "Congresso em Foco",
+        "url": "https://www.congressoemfoco.com.br/noticia/113572/tse-aprova-pedido-de-criacao-do-missao-partido-do-mbl",
+        "publishedAt": "2025-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Mês; dia exato não capturado."
+      },
+      {
+        "id": "src-rs-06",
+        "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+        "publisher": "Estadão (dados: TSE)",
+        "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+      },
+      {
+        "id": "src-rs-07",
+        "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+        "publishedAt": "2026-07-20",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+      },
+      {
+        "id": "src-rs-08",
+        "title": "Partido Missão oficializa Renan Santos como candidato à Presidência",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/partido-missao-oficializa-renan-santos-como-candidato-presidencia",
+        "publishedAt": "2026-07-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-09",
+        "title": "Missão oficializa candidatura de Renan no TSE e apresenta plano de governo (Livro Amarelo, 51 páginas, 14 temas)",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/missao-oficializa-candidatura-de-renan-no-tse-e-apresenta-plano-de-governo",
+        "publishedAt": "2026-08-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-10",
+        "title": "Decisão do Min. Dias Toffoli (relator) no RRC 0601415-52.2026.6.00.0000 — registro de candidatura de Renan Santos",
+        "publisher": "TSE (cópia integral espelhada por Poder360)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/consultaunificadapje.tse_.jus_.br_consulta-publica-unificada_documento_extensaoArquivotext_htmlpathtse_2026_9_1_17_5_27_324b0aa54c28fd0b712e5279d50a80417324a67fa9ffb758bc2eb30cba1a196b.pdf",
+        "publishedAt": "2026-08-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal",
+        "notes": "Documento oficial: RRC enviado em 07/08/2026; 16 perfis informados em 19/08/2026; indícios de irregularidade; suspensão cautelar."
+      },
+      {
+        "id": "src-rs-11",
+        "title": "Toffoli adia julgamento do registro de candidatura de Renan Santos e aponta indícios de ilicitude",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/noticia/2026/08/30/toffoli-adia-julgamento-do-registro-de-candidatura-de-renan-santos-e-aponta-indicios-de-ilicitude.ghtml",
+        "publishedAt": "2026-08-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-12",
+        "title": "Após diligências, Toffoli libera campanha e repasses a Renan Santos",
+        "publisher": "ConJur",
+        "url": "https://conjur.com.br/2026-set-01/apos-diligencias-toffoli-libera-campanha-e-repasses-a-renan-santos/",
+        "publishedAt": "2026-09-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-13",
+        "title": "Toffoli revê decisão e libera Renan Santos para debates e financiamento (72h para esclarecimentos)",
+        "publisher": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/politica/2026/09/7491799-toffoli-reve-decisao-e-libera-renan-santos-para-debates-e-financiamento.html",
+        "publishedAt": "2026-09-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-14",
+        "title": "Renan Santos tem candidatura validada pelo TSE; ainda faltam Marçal e Cury",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-candidatura-validada-pelo-tse-ainda-faltam-marcal-e-cury/",
+        "publishedAt": "2026-09-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-15",
+        "title": "TSE valida candidatura de Renan Santos à Presidência da República",
+        "publisher": "CBN",
+        "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/09/10/tse-valida-candidatura-de-renan-santos-a-presidencia-da-republica.ghtml",
+        "publishedAt": "2026-09-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-16",
+        "title": "Defesa de Renan Santos pede ao TSE revogação de decisão de Toffoli que restringiu campanha digital",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/noticia/2026/09/01/defesa-de-renan-santos-pede-ao-tse-revogacao-de-decisao-de-toffoli-que-restringiu-campanha-digital.ghtml",
+        "publishedAt": "2026-09-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-17",
+        "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico' e chama decisão de Toffoli de 'ilegal' (Flávio e Zema saem em defesa)",
+        "publisher": "O Globo",
+        "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+        "publishedAt": "2026-08-31",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-18",
+        "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Oficializa o quadro final de 12 chapas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+      },
+      {
+        "id": "src-rs-19",
+        "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+        "publishedAt": "2026-08-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-20",
+        "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+        "publishedAt": "2026-07-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-21",
+        "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Setembro/2026; dia exato não capturado."
+      },
+      {
+        "id": "src-rs-22",
+        "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+        "publisher": "Exame",
+        "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+        "publishedAt": "2026-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Mês; dia exato não capturado."
+      },
+      {
+        "id": "src-rs-23",
+        "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+        "publisher": "TSE — DivulgaCandContas",
+        "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+        "publishedAt": "2026-08-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+      },
+      {
+        "id": "src-rs-24",
+        "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+        "publisher": "Jota",
+        "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+      },
+      {
+        "id": "src-rs-25",
+        "title": "Renan Santos — verbete (Wikipédia em português)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+      },
+      {
+        "id": "src-rs-26",
+        "title": "Líder do MBL responde a mais de 60 processos e sofre cobrança de R$ 4,9 mi",
+        "publisher": "UOL",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2016/05/08/mbl-sofre-acao-de-despejo-e-um-de-seus-lideres-tem-divida-de-r-44-milhoes.htm",
+        "publishedAt": "2016-05-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-27",
+        "title": "Líder do MBL é denunciado sob a acusação de tráfico de influência",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2020/10/lider-do-mbl-e-denunciado-sob-a-acusacao-de-trafico-de-influencia-e-fraude-em-licitacao.shtml",
+        "publishedAt": "2020-10-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-28",
+        "title": "Justiça rejeita denúncia do Ministério Público contra líder do MBL por tráfico de influência",
+        "publisher": "Folha de S.Paulo (Painel)",
+        "url": "https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-rejeita-denuncia-do-ministerio-publico-contra-lider-do-mbl-por-trafico-de-influencia.shtml",
+        "publishedAt": "2020-11-06",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-29",
+        "title": "Justiça rejeita denúncia contra Renan Santos por tráfico de influência",
+        "publisher": "ConJur",
+        "url": "https://conjur.com.br/2020-nov-06/justica-rejeita-denuncia-renan-santos-trafico-influencia/",
+        "publishedAt": "2020-11-06",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-30",
+        "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+        "publishedAt": "2026-07-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-31",
+        "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+        "publisher": "Valor Internacional",
+        "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+        "publishedAt": "2026-09-18",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-32",
+        "title": "SP: veja lista de deputados federais eleitos em 2022 (Kim Kataguiri — União Brasil — 295.460 votos)",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/sp-veja-lista-de-deputados-federais-eleitos-em-2022/",
+        "publishedAt": "2022-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-33",
+        "title": "Quase 30% dos deputados mudam de legenda na janela partidária (Kataguiri é o 1º integrante do Missão no Congresso)",
+        "publisher": "Poder360",
+        "url": "https://poder360.com.br/poder-congresso/janela-partidaria-2026-pl-lidera-filiacoes",
+        "publishedAt": "2026-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Mês; dia exato não capturado (janela partidária de 2026)."
+      },
+      {
+        "id": "src-rs-34",
+        "title": "Missão oficializa 128 candidaturas para deputado e deixa em aberto apoio a governo e Senado por SP",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/07/missao-oficializa-128-candidaturas-para-deputado-e-deixa-em-aberto-apoio-a-governo-e-senado-por-sp.ghtml",
+        "publishedAt": "2026-08-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-35",
+        "title": "PL e Missão ganham mais filiados em ano eleitoral (Missão: 17.382 filiados em março/2026)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/08/partidos-filiacoes-ano-eleitoral.ghtml",
+        "publishedAt": "2026-04-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-36",
+        "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+      },
+      {
+        "id": "src-rs-37",
+        "title": "Quem é Aroldo Medina, militar anunciado como vice na chapa de Renan Santos",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/07/02/quem-e-aroldo-medina-militar-da-reserva-do-rs-anunciado-como-vice-na-chapa-de-renan-santos-a-presidencia.ghtml",
+        "publishedAt": "2026-07-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-38",
+        "title": "Aroldo Medina — verbete (Wikipédia em português)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Aroldo_Medina",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Verbete vivo; usado como índice."
+      },
+      {
+        "id": "src-rs-39",
+        "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+        "publishedAt": "2026-08-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+      },
+      {
+        "id": "src-rs-40",
+        "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+        "publishedAt": "2026-09-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-41",
+        "title": "AtlasIntel divulga pesquisa para presidente da República (Renan Santos: 6,5%, 3º lugar em empate técnico com Cury)",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-setembro-2026/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Setembro/2026; dia exato não capturado."
+      },
+      {
+        "id": "src-rs-42",
+        "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+        "publisher": "Agência Senado",
+        "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+        "publishedAt": "2015-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Data aproximada (março/2015)."
+      },
+      {
+        "id": "src-rs-43",
+        "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+        "publisher": "Câmara dos Deputados (Agência)",
+        "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+        "publishedAt": "2015-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+      },
+      {
+        "id": "src-rs-44",
+        "title": "Renan Santos é candidato à Presidência pelo partido Missão (coordenou campanhas de Kim Kataguiri e Arthur do Val)",
+        "publisher": "ISTOÉ",
+        "url": "https://istoe.com.br/renan-santos-candidato-presidencia-missao-mbl",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ano; data exata não capturada."
+      },
+      {
+        "id": "src-rs-45",
+        "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+        "publisher": "ND+ (ND Mais)",
+        "url": "https://ndmais.com.br/politica/renan-santos/",
+        "publishedAt": "2026-08-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-46",
+        "title": "Anti-establishment candidate seeks to tap Brazil's younger right (perfil internacional da campanha)",
+        "publisher": "Valor Internacional",
+        "url": "https://valorinternational.globo.com/politics/news/2026/06/01/anti-establishment-candidate-seeks-to-tap-brazils-younger-right.ghtml",
+        "publishedAt": "2026-06-01",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-47",
+        "title": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo (GLO, Estado de Defesa, Direito Penal do Inimigo no 1º dia)",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/noticia/2026/07/21/renan-santos-propoe-guerra-ao-crime-e-ajuste-fiscal-em-versao-resumida-de-plano-de-governo.ghtml",
+        "publishedAt": "2026-07-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-48",
+        "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+        "publisher": "Folha de S.Paulo (C-Level)",
+        "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Setembro/2026; dia exato não capturado."
+      },
+      {
+        "id": "src-rs-49",
+        "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+        "publisher": "El País Brasil",
+        "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+        "publishedAt": "2015-08-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-rs-50",
+        "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+        "publisher": "Partido Missão (site oficial)",
+        "url": "https://candidatos.missao.org.br/",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Página oficial do partido; consultada em 29/09/2026."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "samara-martins",
+    "name": "Samara Martins da Silva Feitosa",
+    "ballotName": "Samara Martins",
+    "ballotNumber": 80,
+    "party": "UP (Unidade Popular pelo Socialismo)",
+    "coalition": "Partido isolado (UP, nº 80), sem coligação ou federação; chapa pura de candidata própria, 100% feminina com vice Raquel Brício (UP), guarda portuária e presidente do Sindicato dos Trabalhadores Portuários do Pará e Amapá (Sindiporto-PA/AP).",
+    "photo": "",
+    "birthDate": "",
+    "birthplace": "Belo Horizonte/MG",
+    "age": 38,
+    "profession": "Cirurgiã-dentista (dentista do SUS na Estratégia Saúde da Família)",
+    "currentRole": "Candidata à Presidência da República (UP, nº 80; registro validado pelo TSE em 02/09/2026) e vice-presidente nacional do UP",
+    "tagline": "Dentista do SUS formada em Odontologia pela UFRN, vice-presidente nacional do UP; disputa a Presidência pela segunda vez em 2026, após ser vice na chapa de Leonardo Péricles em 2022.",
+    "education": [
+      {
+        "id": "edu-sm-1",
+        "level": "graduacao",
+        "field": "Odontologia",
+        "institution": "Universidade Federal do Rio Grande do Norte (UFRN)",
+        "conclusionYear": null,
+        "notes": "Formação confirmada por Agência Brasil (18/08/2026) e Band; natural de Belo Horizonte/MG, formou-se e passou a atuar no Rio Grande do Norte. Ano de conclusão não informado nas fontes localizadas. Nenhuma pós-graduação localizada.",
+        "sources": [
+          {
+            "id": "src-sm-03",
+            "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+            "publishedAt": "2026-08-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-06",
+            "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+            "publisher": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-sm-1",
+        "role": "Dentista — Estratégia Saúde da Família",
+        "organization": "Sistema Único de Saúde (SUS)",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Atua como cirurgiã-dentista na atenção básica do SUS (Estratégia Saúde da Família). A atividade profissional é central na campanha: o programa inclui exigir que todos os políticos, de vereador a presidente, usem o serviço público de saúde.",
+        "achievements": [
+          "Atuação na rede pública de saúde como base da plataforma 'políticos devem usar o SUS'"
+        ],
+        "sources": [
+          {
+            "id": "src-sm-01",
+            "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+            "publisher": "Unidade Popular (site oficial do partido)",
+            "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          },
+          {
+            "id": "src-sm-07",
+            "title": "Samara Martins defende que políticos usem o SUS",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-sm-1",
+        "role": "Vice-presidente nacional do UP",
+        "organization": "Unidade Popular pelo Socialismo (UP)",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Vice-presidente nacional do partido; o presidente é Leonardo Péricles, desde a fundação da legenda. Data de início da diretoria não informada nas fontes localizadas.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-sm-13",
+            "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice: 'Presidente: Leonardo Péricles, Vice-presidente: Samara Martins'."
+          },
+          {
+            "id": "src-sm-14",
+            "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+            "publisher": "Today in Brazil",
+            "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada."
+          }
+        ]
+      },
+      {
+        "id": "pol-sm-2",
+        "role": "Candidata à Vice-Presidência da República",
+        "organization": "Unidade Popular (UP)",
+        "startDate": "2022",
+        "endDate": "2022",
+        "description": "Em 2022, foi candidata à vice-presidência na chapa de Leonardo Péricles (UP) à Presidência — a única candidatura daquele ano formada exclusivamente por pessoas negras, segundo Agência Brasil (18/08/2026). A chapa obteve 53,5 mil votos (0,05% dos votos válidos), em 8º lugar, segundo levantamento da Brasil de Fato (06/10/2024) com dados do TSE. Não foi eleita.",
+        "achievements": [
+          "Vice na chapa presidencial do UP em 2022 (53,5 mil votos, 0,05% dos válidos)"
+        ],
+        "sources": [
+          {
+            "id": "src-sm-03",
+            "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+            "publishedAt": "2026-08-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-16",
+            "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco",
+            "publisher": "Brasil de Fato",
+            "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/",
+            "publishedAt": "2024-10-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Votação de Leonardo Péricles em 2022 segundo dados do TSE."
+          }
+        ]
+      },
+      {
+        "id": "pol-sm-3",
+        "role": "Candidata à Presidência da República",
+        "organization": "Unidade Popular (UP)",
+        "startDate": "2026",
+        "endDate": null,
+        "description": "Lançada como pré-candidata pelo UP em fevereiro de 2026; oficializada na Convenção Nacional do partido em 26/07/2026, na Universidade Zumbi dos Palmares, em São Paulo, com a chapa 100% feminina Samara Martins/Raquel Brício. É a segunda vez que a UP lança chapa à Presidência.",
+        "achievements": [
+          "Chapa 100% feminina oficializada em convenção nacional (26/07/2026)",
+          "Segunda candidatura presidencial do UP desde a fundação do partido (2016)"
+        ],
+        "sources": [
+          {
+            "id": "src-sm-01",
+            "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+            "publisher": "Unidade Popular (site oficial do partido)",
+            "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          },
+          {
+            "id": "src-sm-02",
+            "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-04",
+            "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "ach-sm-1",
+        "title": "Nenhum mandato eletivo anterior — 2026 é a primeira disputa como cabeça de chapa",
+        "context": "Carreira política, até 2026",
+        "description": "Samara Martins nunca ocupou cargo eletivo: em 2022 foi vice (não eleita) na chapa de Leonardo Péricles. A UP não tem nenhum parlamentar eleito: 0 deputados federais, 0 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (dados de 2024). Não há, portanto, produção legislativa ou execução administrativa a apurar.",
+        "sources": [
+          {
+            "id": "src-sm-03",
+            "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+            "publishedAt": "2026-08-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-13",
+            "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Infobox: 0/513 deputados federais, 0/81 senadores, 0/27 governadores, 0/58.026 vereadores."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-sm-2",
+        "title": "Registro de candidatura validado por unanimidade no TSE e programa de governo registrado em 06/08/2026",
+        "context": "Campanha presidencial 2026",
+        "description": "O TSE aprovou por unanimidade, em 02/09/2026, o registro da chapa Samara Martins/Raquel Brício (UP), entre as seis primeiras chapas validadas; foram recebidos 13 pedidos de registro à Presidência até o prazo de 15/08/2026. O programa de governo da chapa foi registrado no TSE em 06/08/2026.",
+        "sources": [
+          {
+            "id": "src-sm-08",
+            "title": "TSE valida seis registros de candidatura à Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-sm-09",
+            "title": "TSE aprova registros de seis candidatos à Presidência da República",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Registro do programa de governo no TSE em 06/08/2026."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-sm-3",
+        "title": "Uma das duas únicas chapas presidenciais encabeçadas por mulheres em 2026",
+        "context": "Eleições 2026",
+        "description": "Das 12 chapas validadas pelo TSE para a Presidência em 2026, apenas duas são encabeçadas por mulheres: Samara Martins (UP) e Clariana Barão (DC). A chapa da UP também é 100% feminina (Samara/Raquel Brício).",
+        "sources": [
+          {
+            "id": "src-sm-11",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-sm-12",
+            "title": "Mulheres estão nas Eleições 2026. Mas em quais espaços da disputa...",
+            "publisher": "Instagram (levantamento citando validação do TSE)",
+            "url": "https://www.instagram.com/p/Dde76pVI_bL/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Programa da Revolução e do Socialismo (25 pontos; programa de governo registrado no TSE em 06/08/2026)",
+      "planUrl": "",
+      "totalProposals": 0,
+      "registeredWith": "TSE — programa de governo registrado em 06/08/2026 pela chapa do UP; registro de candidatura validado pelo TSE em 02/09/2026",
+      "summary": "",
+      "notes": "A candidata descreve o programa do UP como composto por 25 pontos, com definição de prioridades para os primeiros 100 dias (entrevistas de 2026). A contagem exata de propostas do documento registrado no TSE não foi recalculada item a item pela equipe: total registrado como não determinado.",
+      "statsIfCounted": {
+        "objective": "Programa socialista e anticapitalista: soberania nacional, controle estatal de setores estratégicos e ampliação da participação popular; meta declarada de combate à violência contra mulheres e ao femicídio",
+        "target": "Metas quantitativas por proposta não localizadas nas fontes consultadas; prioridades declaradas para os primeiros 100 dias",
+        "deadline": "Primeiros 100 dias (prioridades declaradas); demais prazos não informados",
+        "cost": "Custos por proposta não informados; a proposta prevê suspender o pagamento de juros e amortizações da dívida pública e fazer auditoria para financiar políticas sociais, sem valores",
+        "funding": "Suspensão imediata do pagamento de juros e amortizações da dívida pública, seguida de auditoria, com direcionamento dos recursos a políticas sociais; tributação de grandes fortunas",
+        "fiscal": "Suspensão de pagamentos de juros/amortizações da dívida e auditoria; não localizada regra de responsabilidade fiscal por proposta nas fontes consultadas",
+        "agency": null,
+        "instrument": "Nacionalização por lei, reestatização, auditoria da dívida, legislação trabalhista e educacional; eleição de juízes por voto popular",
+        "indicator": null,
+        "congress": "Contagem de propostas dependentes do Congresso não realizada pela equipe"
+      },
+      "statsEvidence": "parcial",
+      "proposals": [
+        {
+          "id": "samara-martins-prop-1",
+          "title": "Nacionalização do sistema bancário e do Banco Central; auditoria da dívida pública",
+          "description": "Nacionalização de todo o sistema bancário, colocando o Banco Central sob controle estatal e popular, limitação de juros considerados abusivos e ampliação dos bancos públicos; suspensão imediata do pagamento de juros e amortizações da dívida pública, seguida de auditoria, com os recursos redirecionados a políticas sociais; reestatização de empresas privatizadas e revisão de concessões de portos, aeroportos e rodovias.",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei (nacionalização, auditoria da dívida) e atos administrativos (reestatização)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-sm-10",
+              "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+              "publishedAt": "2026-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-06",
+              "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+              "publisher": "Band",
+              "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "samara-martins-prop-2",
+          "title": "Fim da jornada de 6×1 e redução para 30 horas semanais; emprego garantido",
+          "description": "Fim da escala 6×1, redução da jornada de trabalho para 30 horas semanais, garantia de emprego para toda pessoa apta com pagamento de auxílio equivalente a um salário mínimo até que haja vaga para todos, e valorização do salário mínimo.",
+          "theme": "Trabalho",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Legislação trabalhista e orçamentária",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-sm-10",
+              "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+              "publishedAt": "2026-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-14",
+              "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+              "publisher": "Today in Brazil",
+              "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-15",
+              "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+              "publisher": "Paraíba Online",
+              "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+              "publishedAt": "2026-07-25",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Cita fim da escala 6×1 e valorização do salário mínimo como propostas da candidatura presidencial."
+            }
+          ]
+        },
+        {
+          "id": "samara-martins-prop-3",
+          "title": "Desmilitarização das polícias e fim da PM na forma atual",
+          "description": "Desmilitarização das polícias estaduais, reorganização da segurança pública com participação popular, abandono da lógica de 'inimigo interno', aproximação das forças de segurança da população e aumento de inteligência para combate ao crime organizado.",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Legislação estadual de segurança pública e atos administrativos",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-sm-10",
+              "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+              "publishedAt": "2026-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-14",
+              "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+              "publisher": "Today in Brazil",
+              "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "samara-martins-prop-4",
+          "title": "Educação: fim do vestibular, revogação do Novo Ensino Médio e ampliação da educação gratuita",
+          "description": "Fim do vestibular e de qualquer processo seletivo para ingresso em universidades e cursos técnicos públicos; revogação do Novo Ensino Médio e nova reforma educacional conduzida por professores, sindicatos e estudantes; ampliação da educação pública gratuita.",
+          "theme": "Educação",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei de diretrizes e bases da educação",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-sm-10",
+              "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+              "publishedAt": "2026-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-14",
+              "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+              "publisher": "Today in Brazil",
+              "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "samara-martins-prop-5",
+          "title": "Saúde e moradia: fortalecimento do SUS, exigência de uso público pelos políticos e imóveis abandonados para moradia",
+          "description": "Ampliação do SUS e de investimento em saúde pública; proposta de que todos os políticos, de vereador a presidente, usem o serviço público de saúde; uso de imóveis abandonados para moradia; combate à violência contra a mulher e ao femicídio, com criminalização de condutas de exploração, opressão, discriminação e ódio dirigidos a mulheres.",
+          "theme": "Saúde e moradia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Políticas públicas de saúde e habitação; legislação penal",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-sm-07",
+              "title": "Samara Martins defende que políticos usem o SUS",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+              "publishedAt": "2026-08-24",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-10",
+              "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+              "publishedAt": "2026-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-14",
+              "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+              "publisher": "Today in Brazil",
+              "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "samara-martins-prop-6",
+          "title": "Reforma agrária popular, controle estatal de preços dos alimentos e estatização dos transportes coletivos",
+          "description": "Reforma Agrária Popular com fim do latifúndio, distribuição de terras e produção voltada ao abastecimento interno; nacionalização da terra; controle estatal direto dos preços dos alimentos para enfrentar a fome e a inflação; estatização dos meios de transporte coletivo (ônibus, metrôs, trens) com gestão por conselhos populares.",
+          "theme": "Agrário e infraestrutura",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei (reforma agrária, controle de preços) e contratos de reestatização",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-sm-06",
+              "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+              "publisher": "Band",
+              "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-10",
+              "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+              "publishedAt": "2026-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "samara-martins-prop-7",
+          "title": "Judiciário com juízes eleitos pelo voto popular; legalização do aborto; tributação de grandes fortunas",
+          "description": "Eleição de juízes por voto popular (mandatos eletivos para magistrados, com escolha e avaliação populares); legalização do aborto com foco em saúde pública; aumento da tributação sobre grandes fortunas; socialização dos grandes veículos de comunicação; nacionalização de recursos minerais e energéticos.",
+          "theme": "Institucional e tributário",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Emenda constitucional e legislação tributária e penal",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-sm-10",
+              "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+              "publishedAt": "2026-08-06",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-06",
+              "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+              "publisher": "Band",
+              "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-sm-14",
+              "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+              "publisher": "Today in Brazil",
+              "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-sm-1",
+        "description": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação; vice Raquel Brício (UP), 35 anos, guarda portuária e presidente do Sindicato dos Trabalhadores Portuários do Pará e Amapá (Sindiporto-PA/AP), coordenadora nacional da corrente sindical Movimento Luta de Classes (MLC), candidata a deputada estadual em 2022 e a prefeita de Belém em 2024.",
+        "value": "UP — chapa pura, 100% feminina, sem alianças eleitorais",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-sm-01",
+            "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+            "publisher": "Unidade Popular (site oficial do partido)",
+            "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          },
+          {
+            "id": "src-sm-15",
+            "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+            "publisher": "Paraíba Online",
+            "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+            "publishedAt": "2026-07-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Confirma candidatura própria do UP à Presidência, sem coligações."
+          }
+        ]
+      },
+      {
+        "id": "sup-sm-2",
+        "description": "Financiamento: o UP recebeu R$ 0 de Fundo Eleitoral e R$ 0 de Fundo Partidário em 2026 e, até 25/08/2026, havia repassado R$ 21.746,41 a um único candidato (Vivian Mendes, governo de SP). O partido lança 188 candidaturas em 2026, incluindo 17 candidaturas a governos estaduais (12 lideradas por mulheres, cerca de 70%).",
+        "value": "R$ 0 de fundos públicos em 2026; R$ 21.746,41 repassados a 1 candidato (até 25/08/2026)",
+        "date": "2026-08-25",
+        "sources": [
+          {
+            "id": "src-sm-19",
+            "title": "UP 2026: fundos, repasses e candidatos",
+            "publisher": "Plural (levantamento com dados do TSE)",
+            "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-sm-23",
+            "title": "Unidade Popular quer Presidência e mira 17 governos",
+            "publisher": "SBT News",
+            "url": "https://sbtnews.sbt.com.br/noticia/politica/unidade-popular-quer-presidencia-e-mira-17-governos",
+            "publishedAt": "2026-08-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Sem receber recursos do fundo partidário e com a menor cota do fundo eleitoral.'"
+          }
+        ]
+      },
+      {
+        "id": "sup-sm-3",
+        "description": "Estrutura partidária: UP fundada em 16/06/2016, registro definitivo no TSE em 10/12/2019, sede em São Paulo/SP; presidente nacional Leonardo Péricles, vice-presidente Samara Martins. Filiados: 12.309 em dez/2025 (tabela do verbete do partido); o infobox do mesmo verbete cita 16.397 filiados em dez/2024 — números divergentes entre fontes. Organizações ligadas: Movimento de Mulheres Olga Benário, União da Juventude Rebelião (UJR), Movimento de Luta nos Bairros, Vilas e Favelas (MLB) e corrente sindical Luta de Classes.",
+        "value": "UP: fundada 2016, registro TSE 2019; entre 12.309 e 16.397 filiados (fontes divergentes)",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-sm-13",
+            "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-19",
+            "title": "UP 2026: fundos, repasses e candidatos",
+            "publisher": "Plural (levantamento com dados do TSE)",
+            "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ]
+      },
+      {
+        "id": "sup-sm-4",
+        "description": "Aprovação interna da chapa: pré-candidatura lançada pelo partido em fevereiro de 2026; chapa oficializada na Convenção Nacional do UP em 26/07/2026, na Universidade Zumbi dos Palmares, em São Paulo, com presença de candidatos do partido aos governos estaduais.",
+        "value": "Convenção Nacional do UP em 26/07/2026",
+        "date": "2026-07-26",
+        "sources": [
+          {
+            "id": "src-sm-01",
+            "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+            "publisher": "Unidade Popular (site oficial do partido)",
+            "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          },
+          {
+            "id": "src-sm-24",
+            "title": "UP oficializa candidatura de Samara Martins à presidência com chapa 100% feminina",
+            "publisher": "R7 / Notícias",
+            "url": "https://noticias.r7.com/brasilia/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina-26072026/",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-sm-1",
+        "description": "O UP declara disputa com candidatura própria e sem coligações: o partido 'chegou a fazer alguns diálogos com outros partidos, porém essas tratativas não avançaram' (dirigente paraibano Yuri Ezequiel, 25/07/2026). A chapa presidencial é pura (sem federação).",
+        "value": "sem coligações — diálogos com outros partidos não avançaram",
+        "date": "2026-07-25",
+        "sources": [
+          {
+            "id": "src-sm-15",
+            "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+            "publisher": "Paraíba Online",
+            "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+            "publishedAt": "2026-07-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "neg-sm-2",
+        "description": "Posicionamento na esquerda: em 2022, a UP apoiou Lula no segundo turno após obter 0,05% dos votos válidos com Leonardo Péricles; em 2026 mantém candidatura própria. A candidata afirmou em entrevista (12/08/2026) que a negociação política deve colocar o programa acima das pessoas.",
+        "value": "2022: apoio a Lula no 2º turno; 2026: candidatura própria",
+        "date": "2026-08-12",
+        "sources": [
+          {
+            "id": "src-sm-19",
+            "title": "UP 2026: fundos, repasses e candidatos",
+            "publisher": "Plural (levantamento com dados do TSE)",
+            "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-sm-25",
+            "title": "Samara Martins: Negociação política: programa acima de pessoas",
+            "publisher": "Ceticismo.com — transcrição classificada",
+            "url": "https://ceticismo.com.br/en/transcript/7eae4400-716d-465d-9616-b9018310a7a3",
+            "publishedAt": "2026-08-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-sm-1",
+        "category": "tribunal",
+        "title": "Consulta a registros de processo e sanção — nenhuma denúncia, investigação ou condenação localizada",
+        "legalStatus": "regular",
+        "currentStatus": "encerrado",
+        "instance": "Busca em fontes públicas (TSE, imprensa e verbetes) até 29/09/2026",
+        "lastUpdate": "2026-09-29",
+        "description": "Nas fontes consultadas não foi localizada denúncia, inquérito, investigação, processo, decisão ou condenação criminal, eleitoral ou de ética profissional contra Samara Martins até 29/09/2026. Seu registro de candidatura foi validado por unanimidade pelo TSE em 02/09/2026, sem impugnação de mérito localizada. Ausência de registro em busca de fontes públicas não equivale a certidão negativa; evidência marcada como indeterminada.",
+        "sources": [
+          {
+            "id": "src-sm-08",
+            "title": "TSE valida seis registros de candidatura à Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-sm-03",
+            "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+            "publishedAt": "2026-08-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-11",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum cargo localizado: nunca ocupou mandato eletivo nem cargo de direção no Executivo.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-sm-03",
+            "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+            "publishedAt": "2026-08-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "Não se aplica — nunca administrou orçamento público",
+        "value": null,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior orçamento anual sob gestão em cargo público.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-sm-03",
+            "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+            "publishedAt": "2026-08-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Pessoas/equipe sob gestão (servidores)",
+        "displayValue": "Não localizado",
+        "value": null,
+        "unit": "servidores",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Servidores/equipe sob gestão direta em cargos públicos.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-sm-01",
+            "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+            "publisher": "Unidade Popular (site oficial do partido)",
+            "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "partidaria"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "≈4,5 anos (primeira candidatura em 2022)",
+        "value": 4.5,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Anos desde a primeira candidatura documentada (vice em 2022, chapa de Leonardo Péricles) até 29/09/2026; é a segunda disputa presidencial do partido. Data de filiação ao UP não localizada nas fontes consultadas — ausência de registro não implica ausência de atividade prévia.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-sm-03",
+            "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+            "publishedAt": "2026-08-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Confirma a candidatura à vice-presidência em 2022."
+          },
+          {
+            "id": "src-sm-04",
+            "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'É a segunda vez que Samara disputará a eleição presidencial.'"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Militância anterior no movimento estudantil não datada nas fontes consultadas.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "articulacao",
+        "name": "Anos em cargos legislativos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos legislativos eletivos; nenhuma ocupação localizada. A UP não elegeu nenhum parlamentar em qualquer instância.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-sm-13",
+            "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Infobox com dados de 2024: 0 deputados federais, 0 estaduais, 0 vereadores."
+          },
+          {
+            "id": "src-sm-16",
+            "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco",
+            "publisher": "Brasil de Fato",
+            "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/",
+            "publishedAt": "2024-10-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'A UP ainda não tem sequer um vereador em todo o Brasil.'"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos públicos federais",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-sm-03",
+            "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+            "publishedAt": "2026-08-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "0 — em 2022 disputou a vice e não foi eleita; 2026 é a primeira disputa como cabeça de chapa",
+        "value": 0,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de mandatos eletivos conquistados. Fato confirmado, não lacuna: candidata à vice em 2022 (não eleita) e nenhuma vitória eleitoral registrada até 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-sm-04",
+            "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-02",
+            "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente",
+            "publishedAt": "2026-07-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "Não se aplica como cabeça de chapa; em 2022, o UP à Presidência (Leonardo Péricles/Samara) obteve 53,5 mil votos (0,05% dos válidos)",
+        "value": null,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Votos da chapa presidencial em que foi candidata à vice (2022): 53,5 mil votos, 0,05% dos votos válidos, 8º lugar, segundo dados do TSE citados pela Brasil de Fato. Samara não disputou eleição majoritária anterior como cabeça de chapa.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-sm-16",
+            "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco",
+            "publisher": "Brasil de Fato",
+            "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/",
+            "publishedAt": "2024-10-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas do plano de governo",
+        "displayValue": "Não determinado — programa com 25 pontos; contagem do documento registrado no TSE não recalculada",
+        "value": null,
+        "unit": "propostas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "A candidata descreve o programa do UP como composto por 25 pontos, com prioridades para os primeiros 100 dias (entrevistas de 2026). A contagem total de propostas do documento registrado no TSE em 06/08/2026 não foi recalculada item a item pela equipe.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-sm-17",
+            "title": "Samara Martins: 'Programa com 25 pontos e prioridades para os primeiros 100 dias'",
+            "publisher": "Ceticismo.com — transcrições de podcasts (Podcast 3 Irmãos #1011 e shorts)",
+            "url": "https://ceticismo.com.br/en/transcript/96db1912-f940-4433-89fa-7da14d7a6f17",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Transcrição com classificação automática: 'We do have the Unidade Popular program with 25 points'."
+          },
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Registro do programa no TSE em 06/08/2026."
+          },
+          {
+            "id": "src-sm-18",
+            "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Não informado por proposta",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com estimativa de custo próprio. Nenhuma quantificação por proposta localizada: fontes que cobriram o programa (Metrópoles, Band, Today in Brazil) informam que não há custos estimados ou detalhes de implementação.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-sm-14",
+            "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+            "publisher": "Today in Brazil",
+            "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'The source did not provide cost estimates or details on how the proposals will be implemented.'"
+          },
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Prioridades declaradas para os primeiros 100 dias; % por proposta não calculada",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido; contagem por item não realizada pela equipe. A candidata declara prioridades de mudança estrutural para os primeiros 100 dias de governo.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-sm-17",
+            "title": "Samara Martins: 'Programa com 25 pontos e prioridades para os primeiros 100 dias'",
+            "publisher": "Ceticismo.com — transcrições de podcasts (Podcast 3 Irmãos #1011 e shorts)",
+            "url": "https://ceticismo.com.br/en/transcript/8424cbaf-dd9a-4b37-8343-f6accb86a329",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; nacionalização de bancos, fim da 6×1, fim do vestibular e eleição de juízes dependem de legislação",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei (emendas constitucionais e leis ordinárias). Contagem não realizada pela equipe; a classificação por proposta está em keyProposals.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-06",
+            "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+            "publisher": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "Validado por unanimidade — TSE, 02/09/2026 (chapa Samara Martins/Raquel Brício, UP)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-sm-08",
+            "title": "TSE valida seis registros de candidatura à Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-sm-09",
+            "title": "TSE aprova registros de seis candidatos à Presidência da República",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Não foram localizadas impugnações de mérito, ficha-limpa ou decisões judiciais contra a candidata nas fontes consultadas.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "Não localizado nas fontes consultadas",
+        "value": null,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de candidatura de 2026.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-sm-11",
+            "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Consulta ao registro; valor dos bens não capturado nesta consulta."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Ausência de valor capturado ≠ declaração zero: verificar no DivulgaCandContas antes de publicar.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+        "displayValue": "0/513 deputados federais (a UP nunca elegeu parlamentar)",
+        "value": 0,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Cadeiras do UP na Câmara dos Deputados: 0/513, além de 0 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (dados de 2024). O estatuto do partido prevê bancadas parlamentares como órgão de ação, 'inativo pela ausência de parlamentares' até 11/05/2022, segundo verbete da Wikipédia.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-sm-13",
+            "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice de dados do TSE."
+          },
+          {
+            "id": "src-sm-19",
+            "title": "UP 2026: fundos, repasses e candidatos",
+            "publisher": "Plural (levantamento com dados do TSE)",
+            "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Prestação de contas parcial ao TSE, atualizada em 25/08/2026: 'legenda pequena, sem governadores, senadores ou deputados eleitos'."
+          },
+          {
+            "id": "src-sm-16",
+            "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco",
+            "publisher": "Brasil de Fato",
+            "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/",
+            "publishedAt": "2024-10-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Em 2026, o UP lançou 188 candidaturas (1 presidente, 1 vice, 17 governos estaduais, 23 senadores, 46 deputados federais, 34 estaduais e 2 distritais, entre outros).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "1% (Datafolha, 15–17/09 e 24/09) | 0% (Quaest, 28/09) | 1% (Quaest, 21/09)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026 que testaram a candidatura. Rejeição: 10% (Datafolha, 15–17/09/2026).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-sm-20",
+            "title": "Veja resultado da Quaest presidencial no 1º turno (28/09)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+            "publishedAt": "2026-09-28",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Quaest: entrevistas 24–27/09/2026, 2.004 pessoas, registro BR-06520/2026; Samara 0%."
+          },
+          {
+            "id": "src-sm-21",
+            "title": "Datafolha, 24 de setembro: Samara Martins 1%",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/quem-esta-na-frente-para-presidente-no-primeiro-turno-veja-resultados-das-ultimas-pesquisas.ghtml",
+            "publishedAt": "2026-09-28",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Datafolha: entrevistas 22–23/09/2026, 2.002 pessoas, registro BR-00304/2026; Samara 1%, Clariana 0%."
+          },
+          {
+            "id": "src-sm-22",
+            "title": "Pesquisa Datafolha de 15 a 17 de setembro de 2026 (PDF)",
+            "publisher": "Datafolha / Poder360 (cópia do boletim)",
+            "url": "https://static.poder360.com.br/uploads/2026/09/pesquisa-datafolha-17set2026.pdf",
+            "publishedAt": "2026-09-17",
+            "accessedAt": "2026-09-29",
+            "sourceType": "pesquisa_eleitoral",
+            "notes": "Samara 1% no 1º turno estimulado; rejeição 10%; registro BR-00304/2026."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-sm-01",
+        "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+        "publisher": "Unidade Popular (site oficial do partido)",
+        "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+        "publishedAt": "2026-07-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "partidaria",
+        "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício."
+      },
+      {
+        "id": "src-sm-02",
+        "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente",
+        "publishedAt": "2026-07-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Vice na chapa de Leonardo Péricles em 2022."
+      },
+      {
+        "id": "src-sm-03",
+        "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+        "publishedAt": "2026-08-18",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Natural de Belo Horizonte/MG, 38 anos, formada em Odontologia pela UFRN; chapa exclusivamente negra em 2022."
+      },
+      {
+        "id": "src-sm-04",
+        "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+        "publishedAt": "2026-07-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "'Chapa pura'; segunda disputa presidencial de Samara."
+      },
+      {
+        "id": "src-sm-05",
+        "title": "Samara Martins (UP) | Café nas Eleições #028 — transcrição",
+        "publisher": "Ceticismo.com",
+        "url": "https://ceticismo.com.br/en/transcript/f8ea7673-cc2c-4e73-bff4-639966db9a5f",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ano; data exata não capturada. Segunda chapa presidencial do UP."
+      },
+      {
+        "id": "src-sm-06",
+        "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+        "publisher": "Band",
+        "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa."
+      },
+      {
+        "id": "src-sm-07",
+        "title": "Samara Martins defende que políticos usem o SUS",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+        "publishedAt": "2026-08-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+      },
+      {
+        "id": "src-sm-08",
+        "title": "TSE valida seis registros de candidatura à Presidência da República",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+        "publishedAt": "2026-09-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Chapa Samara Martins/Raquel Brício validada por unanimidade; 13 pedidos de registro até 15/08/2026."
+      },
+      {
+        "id": "src-sm-09",
+        "title": "TSE aprova registros de seis candidatos à Presidência da República",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+        "publishedAt": "2026-09-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Publicado em 02/09/2026 - 21:35."
+      },
+      {
+        "id": "src-sm-10",
+        "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+        "publisher": "Metrópoles",
+        "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+        "publishedAt": "2026-08-06",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+      },
+      {
+        "id": "src-sm-11",
+        "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "12 chapas na disputa; 1º turno em 04/10/2026, 2º em 25/10/2026."
+      },
+      {
+        "id": "src-sm-12",
+        "title": "Mulheres estão nas Eleições 2026. Mas em quais espaços da disputa...",
+        "publisher": "Instagram (levantamento citando validação do TSE)",
+        "url": "https://www.instagram.com/p/Dde76pVI_bL/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ano; data exata não capturada. Apenas duas chapas presidenciais encabeçadas por mulheres."
+      },
+      {
+        "id": "src-sm-13",
+        "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Enciclopédia colaborativa usada como índice: estrutura, bancadas (0), filiados, ala feminina."
+      },
+      {
+        "id": "src-sm-14",
+        "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+        "publisher": "Today in Brazil",
+        "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados."
+      },
+      {
+        "id": "src-sm-15",
+        "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+        "publisher": "Paraíba Online",
+        "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+        "publishedAt": "2026-07-25",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Candidatura própria sem coligações; propostas de valorização do salário mínimo e fim da 6×1."
+      },
+      {
+        "id": "src-sm-16",
+        "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco",
+        "publisher": "Brasil de Fato",
+        "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/",
+        "publishedAt": "2024-10-06",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Votação de Léo Péricles em 2022 (53,5 mil, 0,05%); UP sem vereadores."
+      },
+      {
+        "id": "src-sm-17",
+        "title": "Samara Martins — Podcast 3 Irmãos #1011 e shorts — transcrições",
+        "publisher": "Ceticismo.com",
+        "url": "https://ceticismo.com.br/en/transcript/8424cbaf-dd9a-4b37-8343-f6accb86a329",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Programa do UP com 25 pontos e prioridades para os primeiros 100 dias; proposta de políticos usarem SUS e serviços públicos."
+      },
+      {
+        "id": "src-sm-18",
+        "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-sm-19",
+        "title": "UP 2026: fundos, repasses e candidatos",
+        "publisher": "Plural (levantamento com dados do TSE)",
+        "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+        "publishedAt": "2026-09",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)."
+      },
+      {
+        "id": "src-sm-20",
+        "title": "Veja resultado da Quaest presidencial no 1º turno (28/09)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+        "publishedAt": "2026-09-28",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Samara 0% (eram 1%); registro BR-06520/2026."
+      },
+      {
+        "id": "src-sm-21",
+        "title": "Quem está na frente para presidente no primeiro turno? Veja resultados das últimas pesquisas",
+        "publisher": "Valor Econômico",
+        "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/quem-esta-na-frente-para-presidente-no-primeiro-turno-veja-resultados-das-ultimas-pesquisas.ghtml",
+        "publishedAt": "2026-09-28",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Datafolha 24/09: Samara 1%, Clariana 0%; Quaest 21/09: Samara 1%."
+      },
+      {
+        "id": "src-sm-22",
+        "title": "Pesquisa Datafolha de 15 a 17 de setembro de 2026 (PDF)",
+        "publisher": "Datafolha / Poder360 (cópia do boletim)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pesquisa-datafolha-17set2026.pdf",
+        "publishedAt": "2026-09-17",
+        "accessedAt": "2026-09-29",
+        "sourceType": "pesquisa_eleitoral",
+        "notes": "Série histórica: Samara 1–3% entre mai/2026 e set/2026; rejeição 10%."
+      },
+      {
+        "id": "src-sm-23",
+        "title": "Unidade Popular quer Presidência e mira 17 governos",
+        "publisher": "SBT News",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/unidade-popular-quer-presidencia-e-mira-17-governos",
+        "publishedAt": "2026-08-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "17 candidaturas a governo, 12 femininas (~70%); ausência de recursos do fundo partidário."
+      },
+      {
+        "id": "src-sm-24",
+        "title": "UP oficializa candidatura de Samara Martins à presidência com chapa 100% feminina",
+        "publisher": "R7 / Notícias",
+        "url": "https://noticias.r7.com/brasilia/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina-26072026/",
+        "publishedAt": "2026-07-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-sm-25",
+        "title": "Samara Martins: Negociação política: programa acima de pessoas",
+        "publisher": "Ceticismo.com — transcrição classificada",
+        "url": "https://ceticismo.com.br/en/transcript/7eae4400-716d-465d-9616-b9018310a7a3",
+        "publishedAt": "2026-08-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "zema",
+    "name": "Romeu Zema Neto",
+    "ballotName": "Zema",
+    "ballotNumber": 30,
+    "party": "NOVO",
+    "coalition": "Partido isolado (NOVO, nº 30) — chapa pura com vice Eduardo Girão (Luis Eduardo Grangeiro Girão, NOVO), senador pelo Ceará, nascido em 25/09/1972 em Fortaleza/CE; nome confirmado como vice em 04/08/2026, quando Girão desistiu de disputar o governo do Ceará.",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Romeu_Zema_2025.jpg",
+    "birthDate": "1964-10-28",
+    "birthplace": "Araxá/MG",
+    "age": 61,
+    "profession": "Empresário (ocupação declarada ao TSE)",
+    "currentRole": "Candidato à Presidência da República pelo NOVO (nº 30; registro deferido pelo TSE em 02/09/2026); ex-governador de Minas Gerais (renunciou em 22/03/2026 para a pré-campanha)",
+    "tagline": "Empresário do Grupo Zema, estreou nas urnas em 2018 pelo NOVO, governou Minas Gerais por dois mandatos (2019–2026) com agenda de ajuste fiscal e privatizações, e disputa a Presidência em 2026 com o 'Plano Implacável'.",
+    "education": [
+      {
+        "id": "edu-zema-1",
+        "level": "graduacao",
+        "field": "Administração de Empresas",
+        "institution": "Fundação Getulio Vargas (FGV) de São Paulo",
+        "conclusionYear": null,
+        "notes": "Ano de conclusão não localizado. Grau declarado ao TSE em 2026: Superior Completo.",
+        "sources": [
+          {
+            "id": "src-zema-32",
+            "title": "Quem é Romeu Zema, candidato do Novo à Presidência em 2026",
+            "publisher": "GZH (Grupo RBS)",
+            "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-romeu-zema-candidato-do-novo-a-presidencia-em-2026-cmor8b6ad002p015fmlxf5scx.html",
+            "publishedAt": "2026-08-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-02",
+            "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva derivada do TSE: nº 30/NOVO, vice Eduardo Girão, situação 'Deferido', grau 'Superior Completo', ocupação 'Empresário', nascimento informado como 27/10/1964 (Araxá) — divergente dos demais registros, que indicam 28/10/1964; bens R$ 178.707.610,09; limite de gastos 1º turno R$ 88.944.030,80; coligação 'partido isolado'."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-zema-1",
+        "role": "Presidente do Conselho de Administração do Grupo Zema",
+        "organization": "Grupo Zema (grupo familiar)",
+        "startDate": "1990",
+        "endDate": "2016",
+        "description": "Empresa familiar fundada por seu bisavô paterno Domenico 'Domingos' Zema, imigrante de Gallina (perto de Reggio Calabria, Calábria/Itália). O Grupo Zema opera em cinco ramos: varejo de eletrodomésticos e móveis, distribuição de combustível, concessionárias de veículos, serviços financeiros e autopeças. Zema presidiu o conselho de administração por 26 anos e se afastou no fim de 2016 para se dedicar à política. Ocorrência pesquisada 'Grupo Marfin': não localizada — a firma é o Grupo Zema (resposta à verificação do briefing).",
+        "achievements": [
+          "26 anos à frente do conselho de administração do Grupo Zema (1990–2016)"
+        ],
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; dados centrais conferidos em fontes primárias/imprensa quando disponíveis."
+          },
+          {
+            "id": "src-zema-32",
+            "title": "Quem é Romeu Zema, candidato do Novo à Presidência em 2026",
+            "publisher": "GZH (Grupo RBS)",
+            "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-romeu-zema-candidato-do-novo-a-presidencia-em-2026-cmor8b6ad002p015fmlxf5scx.html",
+            "publishedAt": "2026-08-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-19",
+            "title": "Eleições 2026: Ficha de Zema (NOVO)",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/zema-280002539826.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Página viva; data exata não capturada. Registra que Zema é bisneto do fundador do Grupo Zema e presidiu o conselho até 2016."
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-zema-1",
+        "role": "Filiado ao PL e ao PR (Partido da República)",
+        "organization": "PL / PR",
+        "startDate": "2018",
+        "endDate": "2018",
+        "description": "Segundo a Wikipédia, esteve filiado ao Partido Liberal (PL) e ao seu sucessor, Partido da República (PR), por mais de 18 anos antes de migrar para o NOVO. Data exata de filiação/desfiliação não localizada.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "pol-zema-2",
+        "role": "Filiado e líder do Partido NOVO",
+        "organization": "Partido NOVO",
+        "startDate": "2018",
+        "endDate": null,
+        "description": "Filiação ao NOVO registrada no TSE em 22/01/2018 (referência Wikidata/TSE). Foi o primeiro candidato do partido a vencer uma eleição para Executivo estadual (2018) e atuou como cabo eleitoral do NOVO nas municipais de 2024, ajudando a expandir a legenda (18 prefeitos eleitos, sendo 14 novos e 4 reeleitos, e de 620 candidaturas a vereador em 2020 para 7.604 em 2024).",
+        "achievements": [
+          "Primeiro governador eleito pelo NOVO (2018)",
+          "18 prefeitos do NOVO em 2024 (14 novos, 4 reeleitos)"
+        ],
+        "sources": [
+          {
+            "id": "src-zema-33",
+            "title": "Romeu Zema (Q57092113) — Wikidata",
+            "publisher": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q57092113",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estatistico",
+            "notes": "Filiação ao NOVO em 22/01/2018 com referência tse.jus.br; data de nascimento 28/10/1964; imagem e categoria Commons."
+          },
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Números das municipais de 2024: 18 prefeitos (14 novos, 4 reeleitos); 7.604 candidaturas a vereador ante 620 em 2020."
+          }
+        ]
+      },
+      {
+        "id": "pol-zema-3",
+        "role": "Candidato à Presidência da República (NOVO, nº 30)",
+        "organization": "Partido NOVO / Justiça Eleitoral",
+        "startDate": "2025",
+        "endDate": null,
+        "description": "Lançou a pré-candidatura em 16/08/2025, no 9º Encontro Nacional do NOVO em São Paulo (~1.500 apoiadores), com o slogan 'O Brasil primeiro'. Oficializado em convenção nacional em Brasília em 27/07/2026; o NOVO protocolou a candidatura e o plano de governo junto ao TSE em 08/08/2026; registro deferido pelo TSE por unanimidade em sessão virtual extraordinária de 02/09/2026.",
+        "achievements": [
+          "Registro de candidatura deferido pelo TSE em 02/09/2026 (unanimidade)"
+        ],
+        "sources": [
+          {
+            "id": "src-zema-16",
+            "title": "TSE aprova registros de seis candidatos à Presidência da República",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Lista Romeu Zema e Eduardo Girão (Novo) entre as seis chapas aprovadas; 13 pedidos de registro no total."
+          },
+          {
+            "id": "src-zema-17",
+            "title": "TSE aprova registros de Lula, Flávio Bolsonaro, Zema e mais três candidatos à Presidência",
+            "publisher": "O Globo",
+            "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/02/tse-aprova-registros-de-lula-flavio-bolsonaro-zema-e-mais-tres-candidatos-a-presidencia.ghtml",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Decisões tomadas por unanimidade em sessão virtual extraordinária; relatores ministro André Mendonça e ministra Estela Aranha."
+          },
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Datas do lançamento da pré-candidatura (16/08/2025) e da convenção de oficialização (27/07/2026)."
+          },
+          {
+            "id": "src-zema-10",
+            "title": "Novo oficializa candidatura de Zema no TSE e apresenta plano de governo (Plano Implacável, 81 páginas, 20 temas)",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/novo-oficializa-candidatura-de-zema-no-tse-e-apresenta-plano-de-governo",
+            "publishedAt": "2026-08-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [
+      {
+        "id": "exec-zema-1",
+        "role": "Governador de Minas Gerais",
+        "organization": "Governo do Estado de Minas Gerais",
+        "startDate": "2019",
+        "endDate": "2026-03-22",
+        "description": "Eleito em 2018 (39º governador) e reeleito em 2022; renunciou em 22/03/2026 para se dedicar à pré-campanha presidencial, sendo sucedido pelo vice Mateus Simões. Marca da gestão: reduzir secretarias de 21 para 12 e extinguir 3,6 mil cargos comissionados (reforma aprovada na ALMG em maio/2019, com estimativa de economia de R$ 1 bilhão em 4 anos), reforma da previdência estadual com idade mínima de 65 anos (homens) e 62 (mulheres) aprovada em 2020, e ajuste fiscal. Orçamento sanitado em 15/01/2026 com déficit previsto de R$ 5,2 bi (redução de 39% frente aos R$ 8,6 bi de 2025).",
+        "achievements": [
+          "Reforma administrativa: 21 → 12 secretarias e extinção de 3,6 mil cargos comissionados (2019)",
+          "Reforma da previdência estadual com idade mínima 65/62 (2020)",
+          "Acordo com a Vale por R$ 37,68 bilhões pelo rompimento de barragem de Brumadinho (2021)",
+          "LOA 2026 com déficit projetado 39% menor que o de 2025 (R$ 5,2 bi vs R$ 8,6 bi)"
+        ],
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-08",
+            "title": "Zema sanciona orçamento de MG para 2026 com déficit de R$ 5,2 bilhões",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/01/15/zema-sanciona-orcamento-de-mg-para-2026-com-deficit-de-r-52-bilhoes.ghtml",
+            "publishedAt": "2026-01-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Receita R$ 141,7 bi, despesa R$ 146,9 bi, déficit R$ 5,2 bi; déficit de 2025 foi de R$ 8,6 bi (queda de 39%)."
+          },
+          {
+            "id": "src-zema-05",
+            "title": "Lei nº 25.698, de 14/01/2026 (orçamento de MG para 2026)",
+            "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+            "url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25698/2026/",
+            "publishedAt": "2026-01-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual",
+            "notes": "Art. 2º: receita estimada R$ 141.751.145.796,00 e despesa fixada R$ 146.969.637.358,00; sanção assinada 'ROMEU ZEMA NETO'. Nota: a notícia de sanção da ALMG refere a Lei 25.689/2026 publicada em 15/01/2026 — números de lei divergem entre as páginas da própria ALMG."
+          }
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "id": "ach-zema-1",
+        "title": "Eleição à Governadoria de MG em 2018, na estreia eleitoral",
+        "context": "Eleições 2018 (NOVO)",
+        "description": "Estreou nas urnas em 07/10/2018 com 42,73% dos votos válidos no 1º turno (à frente de Antonio Anastasia, 29,06%, e Fernando Pimentel, 23,12%) e venceu o 2º turno contra Anastasia, tornando-se o 39º governador de Minas Gerais e o primeiro executivo estadual eleito pelo NOVO.",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-39",
+            "title": "Zema (NOVO) 30 — ficha e histórico eleitoral (dados TSE)",
+            "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+            "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+            "publishedAt": "2026-09-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Votos: 2022 6.094.136; 2018 (2º turno) 6.963.806; soma de carreira 17.196.909. Agregador de dados abertos do TSE — conferência direta no TSE não realizada."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-zema-2",
+        "title": "Reeleição em 2022 no primeiro turno",
+        "context": "Eleições 2022 (NOVO)",
+        "description": "Reeleito governador já no 1º turno de 02/10/2022 sobre Alexandre Kalil (ex-prefeito de BH apoiado por Lula), com 6.094.136 votos. A percentual de votos válidos é registrada como 56,18% pela Wikipédia; o O Globo informa 56,71% dos votos válidos — divergência não reconciliada (diferença de 0,53 p.p.).",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Registra 56,18% dos votos válidos no 1º turno de 2022."
+          },
+          {
+            "id": "src-zema-26",
+            "title": "TSE nega recurso que pedia cassação de Zema, mas aplica multa",
+            "publisher": "O Globo",
+            "url": "https://oglobo.globo.com/politica/noticia/2024/05/14/tse-nega-recurso-que-pedia-cassacao-de-zema-mas-aplica-multa.ghtml",
+            "publishedAt": "2024-05-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal",
+            "notes": "Informa reeleição com 56,71% dos votos válidos (divergência com a Wikipédia)."
+          },
+          {
+            "id": "src-zema-39",
+            "title": "Zema (NOVO) 30 — ficha e histórico eleitoral (dados TSE)",
+            "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+            "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+            "publishedAt": "2026-09-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-zema-3",
+        "title": "Reformas estruturais na gestão de MG: administrativa (21→12 secretarias; 3,6 mil cargos extintos) e previdenciária (idade mínima 65/62)",
+        "context": "Governadoria de MG, 2019–2020",
+        "description": "A reforma do secretariado, aprovada pela ALMG em maio/2019 após 4 meses de tramitação, extinguiu 3,6 mil cargos comissionados com estimativa de economia de R$ 1 bilhão em 4 anos. A reforma da previdência estadual foi aprovada em 2020 com idade mínima de 65 anos para homens e 62 para mulheres, após veto parcial de Zema ao reajuste ampliado de servidores — episódio que gerou crise política (o vice Paulo Brant deixou o NOVO e o partido nacional recomendou veto total).",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Única fonte localizada para os números da reforma administrativa; documentos da ALMG não conferidos diretamente nesta rodada."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-zema-4",
+        "title": "Acordo com a Vale de R$ 37,68 bilhões pelo rompimento de barragem de Brumadinho",
+        "context": "Governadoria de MG, 2021",
+        "description": "Em 2021, o governo estadual fechou acordo com a Vale S.A. pelos danos do rompimento da barragem em Brumadinho: a empresa se comprometeu a pagar R$ 37,68 bilhões ao estado, com destinação a infraestrutura na região atingida. O acordo foi criticado pelo Movimento dos Atingidos por Barragens, que o considerou injusto, e elogiado por outros atores pela celeridade.",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Termos exatos do acordo (parcelas, cronograma) não conferidos em documento primário nesta rodada."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-zema-5",
+        "title": "Expansão nacional do NOVO nas municipais de 2024 sob sua liderança",
+        "context": "NOVO, eleições municipais de 2024",
+        "description": "Como cabo eleitoral do partido, Zema participou da campanha que elegeu 18 prefeitos do NOVO (14 novos e 4 reeleitos) e ampliou as candidaturas a vereador de 620 (2020) para 7.604 (2024). O desempenho em grandes cidades ficou abaixo do esperado (em Belo Horizonte, o candidato apoiado por Zema, Bruno Engler, não avançou ao 2º turno).",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "O verbete fala em 'aumento de 800% no número de vereadores eleitos' associando-o às 7.604 candidaturas ante 620 — leitura aqui restrita a candidaturas, por consistência interna; número de vereadores eleitos não localizado."
+          },
+          {
+            "id": "src-zema-32",
+            "title": "Quem é Romeu Zema, candidato do Novo à Presidência em 2026",
+            "publisher": "GZH (Grupo RBS)",
+            "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-romeu-zema-candidato-do-novo-a-presidencia-em-2026-cmor8b6ad002p015fmlxf5scx.html",
+            "publishedAt": "2026-08-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Plano Implacável",
+      "planUrl": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+      "totalProposals": 20,
+      "registeredWith": "TSE — DivulgaCandContas (Eleições 2026); protocolado com o registro da candidatura em 08/08/2026 e divulgado em 07–08/08/2026; registro deferido em 02/09/2026",
+      "summary": "",
+      "notes": "Documento de 81 páginas com 20 temas, segundo a CNN, que cobriu o envio ao TSE; espelho do PDF publicado pelo Poder360 (URL oficial do DivulgaCandContas não localizada — registeredUrl nulo). Segundo o g1, o documento não apresenta estimativas de custo nem prazos para a maior parte das propostas. Áreas: segurança, finanças públicas, economia, trabalho, infraestrutura, mineração/energia, política externa, gestão pública, agronegócio, meio ambiente, educação, saúde, desenvolvimento social, judiciário, entre outras.",
+      "statsIfCounted": {
+        "objective": "Choque fiscal: reduzir gastos e o tamanho do Estado; 'privatizar todas as empresas estatais'; replicar em âmbito federal a agenda de ajuste aplicada em MG",
+        "target": "Não informado no plano (sem metas numéricas de resultado localizadas)",
+        "deadline": "Não informado para a maior parte das propostas (g1); única temporalidade localizada: saque do programa 'Sócios do Brasil' aos 18 anos do beneficiário",
+        "cost": "Custo por proposta não informado na maior parte (g1); valores pontuais: fim do Fundo Eleitoral + Fundo Partidário economizaria R$ 6,3 bilhões em 2026 (patamar citado pelo próprio plano) e 'Sócios do Brasil' depositaria R$ 1.000 por recém-nascido",
+        "funding": null,
+        "fiscal": "Choque fiscal; nova reforma da Previdência com idade mínima ajustada por expectativa de vida; revisão de despesas obrigatórias automáticas (ex.: emendas parlamentares)",
+        "agency": null,
+        "instrument": "Lei ordinária/complementar e PEC (privatizações, fim dos fundos eleitoral e partidário, previdência, judiciário); atos do executivo em segurança e gestão",
+        "indicator": null,
+        "congress": "g1: 'parte das medidas dependeria de aprovação do Congresso e, em alguns casos, de mudanças na Constituição'; contagem item a item do plano não disponível"
+      },
+      "statsEvidence": "indeterminado",
+      "proposals": [
+        {
+          "id": "zema-prop-1",
+          "title": "Privatização de 100% das estatais e ampliação de PPPs",
+          "description": "Estatais: o Estado deve concentrar-se em regulação e fiscalização, deixando de participar diretamente de atividades produtivas e comerciais; privatização de todas as empresas estatais (incluindo Petrobras, conforme declarações do candidato) e ampliação de parcerias público-privadas, inclusive em saúde e educação.",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei/autorização legislativa (e eventual EC conforme o ativo)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-14",
+              "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)",
+              "publisher": "Band (BandBandeirantes)",
+              "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada."
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-2",
+          "title": "Fim do Fundo Eleitoral e do Fundo Partidário",
+          "description": "Extinguir os repasses públicos a partidos e campanhas, realocando os valores para conservação de estradas, reforma de escolas e reaparelhamento de hospitais; o plano cita que em 2026 os dois fundos somam mais de R$ 6,3 bilhões.",
+          "theme": "Administração pública",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": true,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "PEC (os fundos foram criados pela EC 96/2019)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-14",
+              "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)",
+              "publisher": "Band (BandBandeirantes)",
+              "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-3",
+          "title": "Segurança: facções como terroristas, maioridade penal aos 16 e Forças Armadas na retomada de territórios",
+          "description": "Classificar facções criminosas como organizações terroristas, endurecer penas, reduzir a maioridade penal para 16 anos (com responsabilização excepcional de mais jovens), construir presídios de segurança máxima, empregar as Forças Armadas em operações de domínio territorial, ampliar o combate à lavagem de dinheiro e reforçar a autonomia das polícias e dos estados. Em declarações, Zema defende encarceramento em massa no modelo de El Salvador (debate Amcham, 25/05/2026) e internação involuntária de dependentes em situação de rua.",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei (tipo penal, ECA/maioria penal) e legislação de segurança; competência legislativa estadual ampliada depende de EC",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-11",
+              "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Data exata não capturada."
+            },
+            {
+              "id": "src-zema-01",
+              "title": "Romeu Zema — verbete (Wikipédia em português)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Declaração de 25/05/2026 no debate da Amcham defendendo o modelo de El Salvador."
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-4",
+          "title": "Porte de armas em toda a extensão das propriedades rurais",
+          "description": "Permitir que produtores rurais portem armas em toda a extensão de suas propriedades, 'avançando para além da posse estendida já prevista em lei', com objetivo de legítima defesa e proteção contra invasões.",
+          "theme": "Segurança",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Legislação (Estatato do Desarmamento/Lei de Armamentos)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Cita trecho literal do programa."
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-5",
+          "title": "Programa 'Sócios do Brasil': R$ 1.000 para cada brasileiro ao nascer",
+          "description": "Depósito federal de R$ 1.000 para cada recém-nascido, aplicado obrigatoriamente em fundos de ações, com saque permitido apenas aos 18 anos, como estímulo à formação de patrimônio e à educação financeira.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": true,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei/programa orçamentário",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-15",
+              "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+              "publisher": "Correio do Povo",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+              "publishedAt": "2026-08-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Plano divulgado na sexta-feira 07/08/2026."
+            },
+            {
+              "id": "src-zema-10",
+              "title": "Novo oficializa candidatura de Zema no TSE e apresenta plano de governo",
+              "publisher": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/eleicoes/novo-oficializa-candidatura-de-zema-no-tse-e-apresenta-plano-de-governo",
+              "publishedAt": "2026-08-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-6",
+          "title": "Nova reforma da Previdência com idade mínima por gatilho automático e desvinculação do reajuste do salário mínimo",
+          "description": "Mecanismo de reajuste automático da idade mínima para aposentadoria com base na expectativa de vida e na sustentabilidade do sistema; desvinculação de benefícios do reajuste do salário mínimo; redução do IOF sobre crédito e encolhimento gradual do crédito direcionado (inclusive linhas subsidiadas do BNDES).",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "PEC (previdência/fiscal)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-15",
+              "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+              "publisher": "Correio do Povo",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+              "publishedAt": "2026-08-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-11",
+              "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-7",
+          "title": "Reforma do Judiciário: corregedoria independente para ministros, idade mínima de 60 para o STF e foro restrito ao presidente",
+          "description": "Criar corregedoria independente do STF com membros indicados por entidades independentes, com poder para investigar e responsabilizar administrativamente ministros (encaminhando casos à responsabilização penal); elevar para 60 anos a idade mínima para indicação de ministros do STF; restringir o foro privilegiado ao presidente da República; impedir decisões monocráticas que suspendam leis ou políticas nacionais; fixar prazo máximo para pedidos de vista e obrigar o Senado a analisar pedidos de impeachment.",
+          "theme": "Administração pública",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "EC/lei orgânica do Judiciário e legislação processual",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-42",
+              "title": "'Plano Implacável': veja as propostas de Zema na disputa pela presidência",
+              "publisher": "Estado de Minas",
+              "url": "http://www.em.com.br/politica/2026/08/7475589-plano-implacavel-veja-as-propostas-de-zema-na-disputa-pela-presidencia.html",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Mês; dia exato não capturado."
+            },
+            {
+              "id": "src-zema-15",
+              "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+              "publisher": "Correio do Povo",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+              "publishedAt": "2026-08-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-11",
+              "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+              "publisher": "Congresso em Foco",
+              "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-8",
+          "title": "Saída do BRICS, ingresso na OCDE e Mercosul como zona de livre comércio",
+          "description": "Retirar o Brasil do BRICS 'preservando pragmaticamente as relações comerciais com todos os países do bloco'; retomar o processo de ingresso na OCDE com as reformas institucionais e econômicas necessárias; transformar o Mercosul em zona de livre comércio; política externa baseada em acordos individuais em vez de blocos.",
+          "theme": "Política externa",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Denúncia de tratado com aprovação do Congresso (CF art. 49) + agenda de adesão à OCDE",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-15",
+              "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+              "publisher": "Correio do Povo",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+              "publishedAt": "2026-08-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-9",
+          "title": "Regime de contratação opcional alternativo à CLT",
+          "description": "Criar regime de contratação alternativo à CLT (opcional), reduzir encargos sobre contratações, ampliar qualificação profissional e flexibilizar regras trabalhistas e sindicais.",
+          "theme": "Economia",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei trabalhista",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-42",
+              "title": "'Plano Implacável': veja as propostas de Zema na disputa pela presidência",
+              "publisher": "Estado de Minas",
+              "url": "http://www.em.com.br/politica/2026/08/7475589-plano-implacavel-veja-as-propostas-de-zema-na-disputa-pela-presidencia.html",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-10",
+          "title": "Condicionar o Bolsa Família à aceitação de ofertas formais de trabalho",
+          "description": "Suspender o auxílio para adultos saudáveis e aptos ao trabalho que, sem justificativa, recusem ofertas formais de emprego intermediadas pelo poder público e não estejam estudando ou em cursos profissionalizantes; exceções previstas, por exemplo, para cuidadores de idosos dependentes.",
+          "theme": "Política social",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei do programa de transferência de renda",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-15",
+              "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+              "publisher": "Correio do Povo",
+              "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+              "publishedAt": "2026-08-07",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            },
+            {
+              "id": "src-zema-42",
+              "title": "'Plano Implacável': veja as propostas de Zema na disputa pela presidência",
+              "publisher": "Estado de Minas",
+              "url": "http://www.em.com.br/politica/2026/08/7475589-plano-implacavel-veja-as-propostas-de-zema-na-disputa-pela-presidencia.html",
+              "publishedAt": "2026-08",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        },
+        {
+          "id": "zema-prop-11",
+          "title": "Programa nacional de fusão (união progressiva) de municípios sem sustentação financeira",
+          "description": "Criar programa nacional para estimular a união progressiva de municípios sem sustentação financeira própria; parte de propostas de reorganização do pacto federativo apresentadas no plano.",
+          "theme": "Administração pública",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "legalInstrument": "Lei complementar/EC (mudança no arranjo municipal)",
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": true,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-zema-09",
+              "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+              "publisher": "g1 (Globo)",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+              "publishedAt": "2026-08-11",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa"
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-zema-1",
+        "description": "Chapa de partido isolado: NOVO sem coligação nem federação na disputa presidencial; vice Eduardo Girão (NOVO) — senador licenciado pelo Ceará que desistiu de disputar o governo do estado para integrar a chapa (confirmado em 04/08/2026).",
+        "value": "NOVO — partido isolado",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-zema-02",
+            "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Coligação: 'partido isolado'; vice Eduardo Girão; situação 'Deferido'."
+          },
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Girão confirmado como vice em 04/08/2026 após desistir da candidatura ao governo do Ceará; chapa 'composta exclusivamente por integrantes do partido'."
+          }
+        ]
+      },
+      {
+        "id": "sup-zema-2",
+        "description": "Bancada do NOVO no Congresso antes do pleito de 2026: 5 deputados federais (página oficial da Câmara; vice-lideranças Luiz Lima/RJ, Gilson Marques/SC, Marcel van Hattem/RS e Ricardo Salles/SP) e a cadeira de senador de Eduardo Girão (licenciado). Sem senadores adicionais localizados; partido sem cláusula de barreira em 2023 (sem propaganda de rádio/TV gratuita e sem acesso ao Fundo Eleitoral, conforme regras internas do partido).",
+        "value": "5/513 na Câmara; 1 senador (vice)",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-zema-21",
+            "title": "Bancada dos partidos — Portal da Câmara dos Deputados",
+            "publisher": "Câmara dos Deputados",
+            "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo"
+          },
+          {
+            "id": "src-zema-20",
+            "title": "Senador Eduardo Girão — perfil oficial",
+            "publisher": "Senado Federal",
+            "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Nome civil: Luis Eduardo Grangeiro Girão; nascimento 25/09/1972; naturalidade Fortaleza (CE)."
+          },
+          {
+            "id": "src-zema-23",
+            "title": "Eleições 2026: 32 dos 54 senadores tentam a reeleição ao Senado",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/eleicoes-2026-senado-reeleicao.ghtml",
+            "publishedAt": "2026-08-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Eduardo Girão (Novo-CE) disputa a Vice-Presidência ao lado de Romeu Zema (Novo)' entre os senadores em fim de mandato."
+          },
+          {
+            "id": "src-zema-46",
+            "title": "Rendimentos do fundo partidário são trunfo do Novo para 2024 (partido não atingiu a cláusula de barreira)",
+            "publisher": "Estado de Minas",
+            "url": "https://em.com.br/app/noticia/politica/2023/03/05/interna_politica,1464800/rendimentos-do-fundo-partidario-sao-trunfo-do-novo-para-2024.shtml",
+            "publishedAt": "2023-03-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "sup-zema-3",
+        "description": "Apoio de Jair Bolsonaro (inelegível até 2030): em reunião em 14/07/2025 o ex-presidente sinalizou apoio a Zema e defendeu a presença de múltiplos candidatos da direita no 1º turno para maximizar votos do campo.",
+        "value": "sinalização de apoio de Jair Bolsonaro (jul/2025)",
+        "date": "2025-07-14",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-32",
+            "title": "Quem é Romeu Zema, candidato do Novo à Presidência em 2026",
+            "publisher": "GZH (Grupo RBS)",
+            "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-romeu-zema-candidato-do-novo-a-presidencia-em-2026-cmor8b6ad002p015fmlxf5scx.html",
+            "publishedAt": "2026-08-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "sup-zema-4",
+        "description": "Articulação entre candidatos da direita: Zema saiu publicamente em defesa de Renan Santos (Missão) após a suspensão cautelar da campanha pelo relator do TSE em 31/08/2026; no plano contrário, rompeu com Flávio Bolsonaro em maio/2026 ao classificar como 'imperdoável' os áudios da negociação com o banqueiro Daniel Vorcaro (Escândalo do Banco Master).",
+        "value": "apoio pontual a Renan Santos; atrito com Flávio Bolsonaro",
+        "date": "2026-08-31",
+        "sources": [
+          {
+            "id": "src-zema-45",
+            "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico' e chama decisão de Toffoli de 'ilegal' (Flávio e Zema saem em defesa)",
+            "publisher": "O Globo",
+            "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+            "publishedAt": "2026-08-31",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Crítica a Flávio Bolsonaro em maio/2026 ('um tapa na cara dos brasileiros') e atritos com setores do bolsonarismo."
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-zema-1",
+        "description": "Reforma da previdência estadual de MG (2020): negociada e aprovada na ALMG com idade mínima de 65 anos para homens e 62 para mulheres, após a proposta original do governo ser modificada pela Assembleia; articulação mudou com a troca de aliados (Igor Eto para a Secretaria de Governo, Mateus Simões para a Secretaria-Geral, líder de governo Raul Belém/PSC).",
+        "value": "reforma aprovada na ALMG",
+        "date": "2020",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "neg-zema-2",
+        "description": "Crise do reajuste de servidores (2020): o governo enviou reajuste de 41% em 3 anos para a segurança pública; a bancada do PT ampliou o reajuste a todos os servidores; Zema vetou quase integralmente o texto, mantendo 13% só para a segurança. O episódio gerou rupturas — o NOVO nacional recomendou veto total, o vice Paulo Brant deixou o partido e o secretário Olavo Bilac Pinto Neto pediu exoneração; a imprensa chamou de 'maior crise política do governo'.",
+        "value": "veto parcial aplicado; custo político alto",
+        "date": "2020",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "neg-zema-3",
+        "description": "Acordo Vale–Brumadinho (2021): ajuste de R$ 37,68 bilhões com a Vale S.A. pelos danos do rompimento de barragem, com destinação de recursos a infraestrutura na região atingida; criticado pelo Movimento dos Atingidos por Barragens e elogiado por outros atores pela celeridade.",
+        "value": "R$ 37,68 bi acertados com a Vale",
+        "date": "2021",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "id": "neg-zema-4",
+        "description": "Regime de Recuperação Fiscal de MG: o estado refinanciou dívida de R$ 160 bilhões com a União após decisão do STF, condição a cumprir as contrapartidas do RRF; a habilitação ocorreu em jun/2022, mas a formalização dependia de aprovação na ALMG (em jul/2024 a matéria ainda tramitava em 1º turno) e de homologação federal (pendente na data das reportagens).",
+        "value": "refinanciamento de dívida de R$ 160 bi; homologação pendente em jul/2024",
+        "date": "2024-07-29",
+        "sources": [
+          {
+            "id": "src-zema-29",
+            "title": "Aumento de salário de Zema descumpre RRF, diz parecer",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2024/07/aumento-de-salario-de-zema-e-secretarios-descumpre-regras-diz-conselho.shtml",
+            "publishedAt": "2024-07-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-31",
+            "title": "Conselho aponta que aumento salarial de 300% de Zema, vice e secretários viola RRF",
+            "publisher": "O Tempo",
+            "url": "https://www.otempo.com.br/politica/2024/7/23/conselho-aponta-que-aumento-salarial-de-300--de-zema--vice-e-sec",
+            "publishedAt": "2024-07-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Baseado em ata da reunião de março/2024 do Conselho de Supervisão; habilitação ao RRF em jun/2022; homologação pendente."
+          }
+        ]
+      },
+      {
+        "id": "neg-zema-5",
+        "description": "Orçamento de MG para 2026: PL 4.527/25 do governo Zema aprovado pela ALMG em 10/12/2025 (receita R$ 127,1 bi e despesa R$ 132,3 bi na apreciação, depois sanção com receita de R$ 141,7 bi e despesa de R$ 146,9 bi) e sancionado com veto parcial em 15/01/2026 (artigo sobre o Fundo Habitacional de Apoio aos Militares).",
+        "value": "aprovação na ALMG + sanção com veto parcial",
+        "date": "2026-01-15",
+        "sources": [
+          {
+            "id": "src-zema-06",
+            "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)",
+            "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+            "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/",
+            "publishedAt": "2025-12-10",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual"
+          },
+          {
+            "id": "src-zema-07",
+            "title": "Orçamento é sancionado com um veto parcial",
+            "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+            "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-e-sancionado-com-um-veto-parcial/",
+            "publishedAt": "2026-01-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual",
+            "notes": "Notícia cita publicação como Lei 25.689/2026 no Diário Oficial de 15/01/2026 — número divergente da página de legislação (Lei 25.698/2026, de 14/01/2026)."
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-zema-1",
+        "category": "tribunal",
+        "title": "Aije de propaganda institucional nas eleições de 2022: cassação afastada, multa aplicada",
+        "legalStatus": "decisao",
+        "currentStatus": "encerrado",
+        "instance": "TSE (recurso; Aije originária no TRE-MG)",
+        "lastUpdate": "2024-05-14",
+        "description": "Ação de Investigação Judicial Eleitorial movida pela coligação Juntos pelo Povo de Minas Gerais (Alexandre Kalil) alegando abuso de poder político por divulgação de propaganda institucional em sites oficiais do governo no período vedado de 3 meses antes do pleito de 2022. Em 14/05/2024, o TSE: (a) rejeitou por unanimidade a aquisição de abuso de poder e confirmou a improcedência da Aije no TRE-MG; (b) deu parcial provimento ao recurso e aplicou multa de 5 mil UFIRs (≈R$ 22,6 mil, segundo a Folha) a Zema, ao vice Mateus Simões e a dois secretários (Fernando Scharlack Marcato e Rogério Greco), por manter links de propaganda institucional disponíveis no período vedado (art. 73, VI, 'b', da Lei 9.504/1997). Ministros divergiram apenas quanto ao valor (propostas de 10 mil e 45 mil UFIRs foram vencidas). Não houve cassação de mandato nem condenação por abuso.",
+        "sources": [
+          {
+            "id": "src-zema-26",
+            "title": "TSE nega recurso que pedia cassação de Zema, mas aplica multa",
+            "publisher": "O Globo",
+            "url": "https://oglobo.globo.com/politica/noticia/2024/05/14/tse-nega-recurso-que-pedia-cassacao-de-zema-mas-aplica-multa.ghtml",
+            "publishedAt": "2024-05-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal"
+          },
+          {
+            "id": "src-zema-27",
+            "title": "TSE rejeita cassação, mas multa Zema por propaganda em sites oficiais na eleição",
+            "publisher": "Folha de S.Paulo (Folhajus)",
+            "url": "https://www1.folha.uol.com.br/poder/2024/05/tse-rejeita-cassacao-mas-multa-zema-por-propaganda-em-sites-oficiais-na-eleicao.shtml",
+            "publishedAt": "2024-05-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal",
+            "notes": "Multa informada como R$ 22,6 mil."
+          },
+          {
+            "id": "src-zema-28",
+            "title": "TSE afasta abuso de poder, mas multa Zema por publicidade institucional",
+            "publisher": "ConJur",
+            "url": "https://www.conjur.com.br/2024-mai-14/tse-afasta-abuso-de-poder-mas-multa-zema-por-publicidade-institucional/",
+            "publishedAt": "2024-05-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-zema-2",
+        "category": "auditoria",
+        "title": "Reajuste de ~300% de Zema, vice e secretários considerado irregular pelo Conselho de Supervisão do RRF de MG",
+        "legalStatus": "decisao",
+        "currentStatus": "em_andamento",
+        "instance": "Conselho de Supervisão do Regime de Recuperação Fiscal de Minas Gerais (representantes do Ministério da Fazenda, do TCU e do Estado)",
+        "lastUpdate": "2024-07-29",
+        "description": "Deliberação administrativa (não é processo judicial nem condenação). Em ata de reunião de março/2024, divulgada em julho/2024 após denúncia do Sinfazfisco-MG, o Conselho avaliou, por 2 votos a 1 (abstenção do representante do Estado), que o reajuste de 298% do salário de Zema (de R$ 10,5 mil para até R$ 41.845,49 em fev/2025), do vice e dos secretários, sancionado em 2023, viola a Lei Complementar 159/2017, que veda a estados em recuperação fiscal conceder 'vantagem, aumento, reajuste ou adequação de remuneração' acima da inflação. O Tesouro Nacional notificou o governo (jun/2024); a Secretaria de Fazenda de MG sustentou que o reajuste 'foi ressalvado no Plano de Recuperação revisado por orientação do próprio Conselho'. O Ministério da Fazenda temia empecilho à homologação do RRF de MG. Status posterior (homologação do RRF) não verificado nesta rodada.",
+        "sources": [
+          {
+            "id": "src-zema-29",
+            "title": "Aumento de salário de Zema descumpre RRF, diz parecer",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2024/07/aumento-de-salario-de-zema-e-secretarios-descumpre-regras-diz-conselho.shtml",
+            "publishedAt": "2024-07-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Composição do conselho: representante do Ministério da Fazenda (Guilherme Laux), do TCU (Roberto Pereira/Paulo Roberto Pereira) e do Estado (Marcos Augusto Diniz, abstenção)."
+          },
+          {
+            "id": "src-zema-30",
+            "title": "Zema defende aumento de 300% para ele, mesmo com recuperação fiscal; conselho vê irregularidade",
+            "publisher": "Estadão",
+            "url": "https://www.estadao.com.br/politica/romeu-zema-governador-minas-gerais-aumento-300-representantes-da-fazenda-e-do-tcu-descumpre-rrf-recuperacao-fiscal-nprp/",
+            "publishedAt": "2024",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Data exata não capturada."
+          },
+          {
+            "id": "src-zema-31",
+            "title": "Conselho aponta que aumento salarial de 300% de Zema, vice e secretários viola RRF",
+            "publisher": "O Tempo",
+            "url": "https://www.otempo.com.br/politica/2024/7/23/conselho-aponta-que-aumento-salarial-de-300--de-zema--vice-e-sec",
+            "publishedAt": "2024-07-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-zema-3",
+        "category": "prestacao_de_contas",
+        "title": "Contas de 2019: parecer prévio do TCE-MG pela aprovação COM RESSALVA",
+        "legalStatus": "aprovacao",
+        "currentStatus": "encerrado",
+        "instance": "TCE-MG (parecer prévio; julgamento final é da ALMG)",
+        "lastUpdate": "2021-05-26",
+        "description": "O TCE-MG emitiu parecer prévio pela aprovação com ressalva das contas do governo Zema referentes a 2019: cinco conselheiros pela aprovação com ressalva e um pela rejeição. O Ministério Público de Contas apontou 11 vícios, entre eles investimentos abaixo dos mínimos constitucionais — 8,93% da receita de impostos em saúde (mínimo de 12%) e 19,8% em educação (mínimo de 25%) —, além de mais de 40 recomendações apresentadas pelo relator. A aprovação com ressalva indica impropriedade formal sem dano ao erário. O julgamento final cabe à ALMG — resultado não localizado nesta rodada.",
+        "sources": [
+          {
+            "id": "src-zema-25",
+            "title": "TCE-MG aprova com ressalva contas de 2019 do governo Zema",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/mg/minas-gerais/noticia/2021/05/26/tce-mg-aprova-com-ressalva-contas-de-2019-do-governo-zema.ghtml",
+            "publishedAt": "2021-05-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas",
+            "notes": "Percentuais conforme o relatório do MPC citado pelo g1. Obs.: o Estado de Minas, na mesma data, inverteu os percentuais entre saúde e educação — adotada aqui a versão do g1 por consistência com os mínimos constitucionais."
+          },
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-zema-4",
+        "category": "prestacao_de_contas",
+        "title": "Contas de 2021: parecer prévio do TCE-MG pela APROVAÇÃO",
+        "legalStatus": "aprovacao",
+        "currentStatus": "encerrado",
+        "instance": "TCE-MG (parecer prévio; julgamento final é da ALMG)",
+        "lastUpdate": "2024-05-22",
+        "description": "Em sessão extraordinária de 22/05/2024, o Tribunal Pleno do TCE-MG emitiu parecer prévio pela aprovação das contas do governador Romeu Zema referentes a 2021 (processo nº 1.114.783, Balanço Geral do Estado): quatro votos pela aprovação e dois pela aprovação com ressalvas (revisor Durval Ângelo e conselheiro Cláudio Terrão), além de determinações e recomendações. O parecer segue à ALMG, responsável pelo julgamento final — resultado não localizado nesta rodada. Contas de 2022–2024 não localizadas nesta pesquisa.",
+        "sources": [
+          {
+            "id": "src-zema-24",
+            "title": "TCE emite parecer pela aprovação das contas de 2021 do governador Romeu Zema",
+            "publisher": "Tribunal de Contas do Estado de Minas Gerais (TCE-MG)",
+            "url": "https://www.tce.mg.gov.br/TCE-emite-parecer-pela-aprovacao-das-contas-de-2021-do-governador-Romeu-Zema.html/Noticia/1111627249",
+            "publishedAt": "2024-05-22",
+            "accessedAt": "2026-09-29",
+            "sourceType": "tribunal_de_contas"
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-zema-5",
+        "category": "patrimonial",
+        "title": "Declaração de bens de 2026: R$ 178.707.610,09",
+        "legalStatus": "regular",
+        "currentStatus": "encerrado",
+        "instance": "Justi Eleitoral (TSE/DivulgaCandContas)",
+        "lastUpdate": "2026-09-02",
+        "description": "Bens declarados no registro de 2026: cotas em holding familiar (R$ 94.498.898,00), fundo multimercado (R$ 56.218.194,15), participação em instituição financeira (R$ 16.834.806,00) e títulos de renda fixa (R$ 3.964.283,93), entre outros. Registro deferido sem impugnação de mérito localizada. Patrimônio declarado em vida privada não deve ser confundido com interesse em processos.",
+        "sources": [
+          {
+            "id": "src-zema-02",
+            "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral"
+          },
+          {
+            "id": "src-zema-14",
+            "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)",
+            "publisher": "Band (BandBandeirantes)",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Composição dos bens."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-zema-6",
+        "category": "auditoria",
+        "title": "Contas de MG no RRF: outras apontamentos (admissão de pessoal e publicidade) — contexto",
+        "legalStatus": "investigacao",
+        "currentStatus": "em_andamento",
+        "instance": "Conselho de Supervisão do RRF de MG / PGFN / STF (ações sobre o RRF)",
+        "lastUpdate": "2024-07-23",
+        "description": "Contexto complementar do item inst-zema-2: o Conselho de Supervisão também apontou, em resolução de março/2024, violações a pré-requisitos do RRF como 'admissão ou contratação de pessoal' e 'empenho ou contratação de despesas com publicidade e propaganda' (com exceções para saúde, segurança e educação); a PGFN havia dado parecer desfavorável ao plano de recuperação em 2023; e o STF rejeitou em dez/2023 ação da Confederação das Carreiras Típicas de Estado contra o reajuste (por competência, sem julgamento do mérito). Status: apontamentos de auditoria em monitoramento — não constituem processo nem condenação.",
+        "sources": [
+          {
+            "id": "src-zema-31",
+            "title": "Conselho aponta que aumento salarial de 300% de Zema, vice e secretários viola RRF",
+            "publisher": "O Tempo",
+            "url": "https://www.otempo.com.br/politica/2024/7/23/conselho-aponta-que-aumento-salarial-de-300--de-zema--vice-e-sec",
+            "publishedAt": "2024-07-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-47",
+            "title": "Tesouro Nacional a Zema: reajuste de 300% contraria RRF",
+            "publisher": "Estado de Minas",
+            "url": "https://www.em.com.br/politica/2024/06/6883764-tesouro-nacional-a-zema-reajuste-de-300-contraria-rrf.html",
+            "publishedAt": "2024-06-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Notificação do Conselho Supervisor em jun/2024; STF rejeitou ação da Confederação em dez/2023 por competência."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "7,2 anos (01/01/2019 a 22/03/2026)",
+        "value": 7.2,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos públicos, sem dupla contagem: governador de MG de 01/01/2019 à renúncia em 22/03/2026 (7 anos, 2 meses e 21 dias).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Datas de posse (01/01/2019) e renúncia (22/03/2026)."
+          },
+          {
+            "id": "src-zema-19",
+            "title": "Eleições 2026: Ficha de Zema (NOVO)",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/zema-280002539826.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Confirma renúncia em 22/03/2026 e oficialização em julho/2026."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Não contado: exercício anterior como executivo privado (Grupo Zema), que não é cargo público.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "R$ 146,97 bi/ano (despesa da LOA 2026 de MG)",
+        "value": 146.97,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Despesa total fixada pela Lei Orçamentária Anual de Minas Gerais para 2026 (R$ 146.969.637.358,00), sancionada por Zema em 15/01/2026 — maior orçamento anual sob sua gestão. Não inclui o orçamento de investimento das estatais (R$ 11,26 bi, art. 6º da mesma lei).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-05",
+            "title": "Lei nº 25.698, de 14/01/2026 (orçamento de MG para 2026)",
+            "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+            "url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25698/2026/",
+            "publishedAt": "2026-01-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual",
+            "notes": "Valores exatos: receita R$ 141.751.145.796,00; despesa R$ 146.969.637.358,00; investimento de estatais R$ 11.258.671.564,00. Sancionada por ROMEU ZEMA NETO."
+          },
+          {
+            "id": "src-zema-04",
+            "title": "LOA 2026 — página da Assembleia Legislativa de Minas Gerais",
+            "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+            "url": "https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/loa/leis/LOA-2026",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual",
+            "notes": "Página viva: receita estimada R$ 141,75 bi, despesa R$ 146,97 bi, déficit previsto R$ 5,22 bi."
+          },
+          {
+            "id": "src-zema-08",
+            "title": "Zema sanciona orçamento de MG para 2026 com déficit de R$ 5,2 bilhões",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/01/15/zema-sanciona-orcamento-de-mg-para-2026-com-deficit-de-r-52-bilhoes.ghtml",
+            "publishedAt": "2026-01-15",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "PL 4.527/25 aprovado na ALMG em 10/12/2025 e sancionado com veto parcial em 15/01/2026 (ALMG). Orçamentos de anos anteriores não apurados nesta rodada; a LOA 2026 é provavelmente o pico, dado o crescimento nominal da série.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Pessoas/equipe sob gestão (servidores)",
+        "displayValue": "≈400 mil servidores ativos; 673 mil no total do Poder Executivo (ativos, inativos e pensionistas)",
+        "value": 400000,
+        "unit": "servidores",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Servidores sob gestão direta do Executivo estadual. O número de ativos (≈400 mil) vem de dado do Governo do Estado citado por site terceiro; a ALMG cita 673 mil servidores do Poder Executivo contemplados por revisão salarial (ativos, inativos e pensionistas civis e militares) — universo maior que o de ativos.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-34",
+            "title": "Plenário aprova em 1º turno revisões salariais dos servidores estaduais (673 mil no Poder Executivo: ativos, inativos e pensionistas civis e militares)",
+            "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+            "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Plenario-aprova-em-1-turno-revisoes-salariais-dos-servidores-estaduais/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estadual",
+            "notes": "Data exata não capturada."
+          },
+          {
+            "id": "src-zema-35",
+            "title": "Calendário de pagamento servidor público Minas Gerais 2025 ('400 mil servidores ativos segundo dados do Governo do Estado')",
+            "publisher": "Konsi (terceiro, citando Governo do Estado)",
+            "url": "https://www.konsi.com.br/postagens/calendario-de-pagamento-servidor-publico-minas-gerais-2025",
+            "publishedAt": "2025",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Fonte indireta de baixa qualidade; portal oficial de dados abertos do MG (dados.mg.gov.br, Relação Nominal dos Servidores) existe mas não foi quantificado nesta rodada — availability poderia ser refinada."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Redução de 3,6 mil cargos comissionados após a reforma administrativa de 2019 (Wikipédia).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "≈8,7 anos (desde a filiação ao NOVO, jan/2018)",
+        "value": 8.7,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Entre a filiação ao NOVO registrada no TSE (22/01/2018) e 29/09/2026. Se contada apenas a partir da estreia eleitoral (07/10/2018), ≈8 anos.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-33",
+            "title": "Romeu Zema (Q57092113) — Wikidata",
+            "publisher": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q57092113",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "estatistico",
+            "notes": "Filiação NOVO com data 22/01/2018 e referência tse.jus.br."
+          },
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Regista filiação anterior ao PL/PR por mais de 18 anos, sem datas — não contada aqui por falta de documentação."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Se contada a filiação anterior (PL/PR, >18 anos conforme Wikipédia), o total seria ≥26 anos, mas datas de filiação/desfiliação não foram localizadas.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "articulacao",
+        "name": "Anos em cargos legislativos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos legislativos eletivos (federal, estadual ou municipal); nenhuma ocupação localizada em toda a trajetória documentada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Trajetória sem mandatos legislativos: estreia direta no Executivo em 2018."
+          },
+          {
+            "id": "src-zema-39",
+            "title": "Zema (NOVO) 30 — ficha e histórico eleitoral (dados TSE)",
+            "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+            "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+            "publishedAt": "2026-09-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Histórico de candidaturas: apenas governador (2018, 2022) e presidente (2026)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos públicos federais",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada (governador estadual não conta como cargo federal).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "2 mandatos (governador 2018 e reeleição 2022)",
+        "value": 2,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de mandatos eletivos conquistados até 29/09/2026: governador de MG em 2018 (2º turno) e reeleição em 2022 (1º turno). A candidatura presidencial de 2026 ainda está em disputa.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-39",
+            "title": "Zema (NOVO) 30 — ficha e histórico eleitoral (dados TSE)",
+            "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+            "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+            "publishedAt": "2026-09-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "2022: governador eleito, 6.094.136 votos; 2018: governador eleito no 2º turno, 6.963.806 votos."
+          },
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Percentuais: 42,73% no 1º turno de 2018; 56,18% dos válidos em 2022."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Votos: 2018 (2º turno) 6.963.806; 2022 (1º turno) 6.094.136; soma de carreira 17.196.909 (agregador com base em dados do TSE — conferência direta pendente).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas/temas do plano de governo",
+        "displayValue": "20 temas em 81 páginas (Plano Implacável)",
+        "value": 20,
+        "unit": "temas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Nº de temas do plano registrado no TSE, conforme a CNN, que cobriu o envio do documento; não é contagem item a item de propostas (que não foi divulgada).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-10",
+            "title": "Novo oficializa candidatura de Zema no TSE e apresenta plano de governo (81 páginas, 20 temas)",
+            "publisher": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/novo-oficializa-candidatura-de-zema-no-tse-e-apresenta-plano-de-governo",
+            "publishedAt": "2026-08-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-13",
+            "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva com a tabela de propostas (ZEMA 30 / NOVO); extração direta indisponível nesta rodada (web_extract fora de serviço)."
+          },
+          {
+            "id": "src-zema-12",
+            "title": "Plano de governo Zema 2026 — PDF ('Propostas concretas para os maiores problemas do país')",
+            "publisher": "Poder360 (espelho do documento da campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Mês inferido da URL/agosto de 2026; PDF não integralmente lido nesta rodada."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Não informado na maior parte (g1); valores pontuais: fim dos fundos (R$ 6,3 bi de economia em 2026) e 'Sócios do Brasil' (R$ 1.000/nascido)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com estimativa de custo própria. O g1 registra que o documento não apresenta estimativas de custo para a maior parte das propostas; contagem item a item não realizada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-zema-09",
+            "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+            "publishedAt": "2026-08-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'O documento não apresenta estimativas de custo nem prazos para a implementação da maior parte das propostas.'"
+          },
+          {
+            "id": "src-zema-14",
+            "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)",
+            "publisher": "Band (BandBandeirantes)",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Valores pontuais: fundos somam R$ 6,3 bi em 2026; Sócios do Brasil R$ 1.000 por nascido; bens declarados R$ 178,7 mi."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Não informado na maior parte (g1); prazo localizado apenas em 'Sócios do Brasil' (saque aos 18 anos)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido; contagem por item não realizada. A imprensa registra ausência de prazos para a maior parte das medidas.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-zema-09",
+            "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+            "publishedAt": "2026-08-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-zema-15",
+            "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+            "publisher": "Correio do Povo",
+            "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+            "publishedAt": "2026-08-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem do plano completo não disponível; nas 11 propostas-chave desta ficha, todas exigem instrumento legal (lei/PEC)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei ou PEC. Ampla revisão do plano não contada; a amostra desta ficha (11 propostas) é 11/11 dependentes de Congresso, mas não representa contagem do documento todo.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-zema-09",
+            "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+            "publishedAt": "2026-08-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Parte das medidas dependeria de aprovação do Congresso e, em alguns casos, de mudanças na Constituição.'"
+          },
+          {
+            "id": "src-zema-12",
+            "title": "Plano de governo Zema 2026 — PDF",
+            "publisher": "Poder360 (espelho do documento da campanha)",
+            "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "Deferido — TSE, unanimidade, sessão virtual extraordinária de 02/09/2026",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-16",
+            "title": "TSE aprova registros de seis candidatos à Presidência da República",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Romeu Zema e Eduardo Girão (Novo) entre as seis chapas aprovadas; 13 pedidos de registro no total; sete ainda a serem julgados na data da matéria."
+          },
+          {
+            "id": "src-zema-17",
+            "title": "TSE aprova registros de Lula, Flávio Bolsonaro, Zema e mais três candidatos à Presidência",
+            "publisher": "O Globo",
+            "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/02/tse-aprova-registros-de-lula-flavio-bolsonaro-zema-e-mais-tres-candidatos-a-presidencia.ghtml",
+            "publishedAt": "2026-09-02",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Decisão por unanimidade em sessão virtual extraordinária; relatores André Mendonça e Estela Aranha."
+          },
+          {
+            "id": "src-zema-02",
+            "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Situação: 'Deferido'."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Em 02/09/2026 o O Tempo ainda listava a candidatura como 'Em Julgamento' (atualização de 02/09, 16h11), coerente com o julgamento no mesmo dia. Não foram localizadas impugnações de mérito ou cassações; a Aije de 2022 (propaganda institucional) foi julgada improcedente quanto à cassação/abuso (ver institutionalHistory).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "R$ 178.707.610,09",
+        "value": 178707610.09,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de candidatura de 2026 (TSE/DivulgaCandContas, via Estadão e O Tempo).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-02",
+            "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+            "publisher": "Estadão (dados: TSE)",
+            "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Bens declarados: R$ 178.707.610,09; limite legal de gastos 1º turno: R$ 88.944.030,80."
+          },
+          {
+            "id": "src-zema-14",
+            "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)",
+            "publisher": "Band (BandBandeirantes)",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Composição: cotas em holding familiar R$ 94.498.898,00; fundo multimercado R$ 56.218.194,15; participação em instituição financeira R$ 16.834.806,00; títulos de renda fixa R$ 3.964.283,93."
+          },
+          {
+            "id": "src-zema-18",
+            "title": "Zema (NOVO) — candidato a presidente do Brasil em 2026",
+            "publisher": "Nexo Jornal (dados: TSE)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/zema-280002539826/",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "'Declarou R$ 178,7 milhões em bens'; 61 anos; registro deferido."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Limite legal de gastos no 1º turno: R$ 88.944.030,80 (o mesmo teto geral aplicado à eleição presidencial de 2026).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+        "displayValue": "5/513 deputados federais",
+        "value": 5,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Cadeiras do NOVO na Câmara em 29/09/2026, antes do pleito de 2026, conforme a página oficial de bancadas da Câmara (representante: Rep. Gilson Marques).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-21",
+            "title": "Bancada dos partidos — Portal da Câmara dos Deputados",
+            "publisher": "Câmara dos Deputados",
+            "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Página viva: 'NOVO, 5, Rep. Gilson Marques, Partido Novo. Total, 513.'"
+          },
+          {
+            "id": "src-zema-36",
+            "title": "Partido Novo projeta votação histórica nas eleições de 2026",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/partido-novo-projeta-votacao-historica/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Data exata não capturada; expectativa do partido (não realizado): ~25 deputados federais e até 4 senadores em 2026."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "No Senado, o NOVO tem a cadeira de Eduardo Girão (vice na chapa, licenciado); o g1 classifica sua cadeira como em disputa/fim de mandato em 2026. Sem governadores do NOVO em exercício após a renúncia de Zema (22/03/2026) — não verificado se restam prefeitos/estaduais.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "3% (Datafolha, 21/08) | 2%–3% nas pesquisas recentes (síntese da Wikipédia, set/2026)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Últimas sondagens estimuladas de 1º turno localizadas para Zema antes de 29/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-zema-38",
+            "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+            "publishedAt": "2026-08-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+          },
+          {
+            "id": "src-zema-01",
+            "title": "Romeu Zema — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'A candidatura de Zema permaneceu em patamares baixos, geralmente entre 2% e 3%, sem conseguir furar a polarização entre Lula e Flávio Bolsonaro.'"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Pesquisas de set/2026 com número de Zema específico (Quaest, AtlasIntel) não localizadas nesta rodada.",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-zema-01",
+        "title": "Romeu Zema — verbete (Wikipédia em português)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Usada como índice/arranjo; fatos centrais conferidos em fontes primárias ou imprensa quando possível. Também é a origem do dump em research/_raw/Romeu_Zema_pt.txt."
+      },
+      {
+        "id": "src-zema-02",
+        "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+        "publisher": "Estadão (dados: TSE)",
+        "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Nota: nascimento registrado como 27/10/1964, divergindo de O Tempo/Wikipédia/Wikidata (28/10/1964)."
+      },
+      {
+        "id": "src-zema-03",
+        "title": "Zema 30 para presidente da República em 2026 — perfil (dados TSE)",
+        "publisher": "O Tempo (dados: TSE)",
+        "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/presidente/zema-30",
+        "publishedAt": "2026-09-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Nascimento 28/10/1964; situação 'Em Julgamento' em 02/09/2026 16h11 (anterior ao deferimento do mesmo dia); bens R$ 178.707.610,09."
+      },
+      {
+        "id": "src-zema-04",
+        "title": "LOA 2026 — Assembleia Legislativa de Minas Gerais",
+        "publisher": "ALMG",
+        "url": "https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/loa/leis/LOA-2026",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Página viva."
+      },
+      {
+        "id": "src-zema-05",
+        "title": "Lei nº 25.698, de 14/01/2026 (orçamento de MG 2026)",
+        "publisher": "ALMG",
+        "url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25698/2026/",
+        "publishedAt": "2026-01-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Valores exatos de receita/despesa; sanção assinada por Romeu Zema Neto. Divergência de número da lei com a notícia da ALMG (25.689/2026)."
+      },
+      {
+        "id": "src-zema-06",
+        "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)",
+        "publisher": "ALMG",
+        "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/",
+        "publishedAt": "2025-12-10",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual"
+      },
+      {
+        "id": "src-zema-07",
+        "title": "Orçamento é sancionado com um veto parcial",
+        "publisher": "ALMG",
+        "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-e-sancionado-com-um-veto-parcial/",
+        "publishedAt": "2026-01-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Cita Lei 25.689/2026 publicada no Diário Oficial."
+      },
+      {
+        "id": "src-zema-08",
+        "title": "Zema sanciona orçamento de MG para 2026 com déficit de R$ 5,2 bilhões",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/01/15/zema-sanciona-orcamento-de-mg-para-2026-com-deficit-de-r-52-bilhoes.ghtml",
+        "publishedAt": "2026-01-15",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-09",
+        "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+        "publishedAt": "2026-08-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-10",
+        "title": "Novo oficializa candidatura de Zema no TSE e apresenta plano de governo",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/novo-oficializa-candidatura-de-zema-no-tse-e-apresenta-plano-de-governo",
+        "publishedAt": "2026-08-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "81 páginas e 20 temas; protocolo no TSE em 08/08/2026."
+      },
+      {
+        "id": "src-zema-11",
+        "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+        "publisher": "Congresso em Foco",
+        "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada."
+      },
+      {
+        "id": "src-zema-12",
+        "title": "Plano de governo Zema 2026 — PDF",
+        "publisher": "Poder360 (espelho do documento da campanha)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Mês inferido da URL."
+      },
+      {
+        "id": "src-zema-13",
+        "title": "Planos de governo dos candidatos à Presidência — Eleições 2026",
+        "publisher": "TSE",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva; web_extract indisponível nesta rodada."
+      },
+      {
+        "id": "src-zema-14",
+        "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)",
+        "publisher": "Band",
+        "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada; composição dos bens."
+      },
+      {
+        "id": "src-zema-15",
+        "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+        "publisher": "Correio do Povo",
+        "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+        "publishedAt": "2026-08-07",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-16",
+        "title": "TSE aprova registros de seis candidatos à Presidência da República",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+        "publishedAt": "2026-09-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-17",
+        "title": "TSE aprova registros de Lula, Flávio Bolsonaro, Zema e mais três candidatos à Presidência",
+        "publisher": "O Globo",
+        "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/02/tse-aprova-registros-de-lula-flavio-bolsonaro-zema-e-mais-tres-candidatos-a-presidencia.ghtml",
+        "publishedAt": "2026-09-02",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-18",
+        "title": "Zema (NOVO) — candidato a presidente do Brasil em 2026",
+        "publisher": "Nexo Jornal (dados: TSE)",
+        "url": "https://candidatos.nexojornal.com.br/2026/brasil/zema-280002539826/",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral"
+      },
+      {
+        "id": "src-zema-19",
+        "title": "Eleições 2026: Ficha de Zema (NOVO)",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/zema-280002539826.shtml",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Página viva; data exata não capturada."
+      },
+      {
+        "id": "src-zema-20",
+        "title": "Senador Eduardo Girão — perfil oficial",
+        "publisher": "Senado Federal",
+        "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Nascimento 25/09/1972; Fortaleza/CE; nome civil Luis Eduardo Grangeiro Girão."
+      },
+      {
+        "id": "src-zema-21",
+        "title": "Bancada dos partidos — Portal da Câmara dos Deputados",
+        "publisher": "Câmara dos Deputados",
+        "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Página viva: NOVO com 5 cadeiras."
+      },
+      {
+        "id": "src-zema-22",
+        "title": "Quem é Eduardo Girão, senador anunciado para vice de Romeu Zema",
+        "publisher": "Congresso em Foco",
+        "url": "https://www.congressoemfoco.com.br/noticia/121013/quem-e-eduardo-girao-senador-anunciado-para-vice-de-romeu-zema",
+        "publishedAt": "2026-08-04",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data aproximada (anúncio em 'terça-feira, 4'); empresário e ex-presidente de clube esportivo; chapa 'puro-sangue' do NOVO."
+      },
+      {
+        "id": "src-zema-23",
+        "title": "Eleições 2026: 32 dos 54 senadores tentam a reeleição ao Senado",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/eleicoes-2026-senado-reeleicao.ghtml",
+        "publishedAt": "2026-08-19",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-24",
+        "title": "TCE emite parecer pela aprovação das contas de 2021 do governador Romeu Zema",
+        "publisher": "TCE-MG",
+        "url": "https://www.tce.mg.gov.br/TCE-emite-parecer-pela-aprovacao-das-contas-de-2021-do-governador-Romeu-Zema.html/Noticia/1111627249",
+        "publishedAt": "2024-05-22",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal_de_contas"
+      },
+      {
+        "id": "src-zema-25",
+        "title": "TCE-MG aprova com ressalva contas de 2019 do governo Zema",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2021/05/26/tce-mg-aprova-com-ressalva-contas-de-2019-do-governo-zema.ghtml",
+        "publishedAt": "2021-05-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal_de_contas"
+      },
+      {
+        "id": "src-zema-26",
+        "title": "TSE nega recurso que pedia cassação de Zema, mas aplica multa",
+        "publisher": "O Globo",
+        "url": "https://oglobo.globo.com/politica/noticia/2024/05/14/tse-nega-recurso-que-pedia-cassacao-de-zema-mas-aplica-multa.ghtml",
+        "publishedAt": "2024-05-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal"
+      },
+      {
+        "id": "src-zema-27",
+        "title": "TSE rejeita cassação, mas multa Zema por propaganda em sites oficiais na eleição",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2024/05/tse-rejeita-cassacao-mas-multa-zema-por-propaganda-em-sites-oficiais-na-eleicao.shtml",
+        "publishedAt": "2024-05-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal"
+      },
+      {
+        "id": "src-zema-28",
+        "title": "TSE afasta abuso de poder, mas multa Zema por publicidade institucional",
+        "publisher": "ConJur",
+        "url": "https://www.conjur.com.br/2024-mai-14/tse-afasta-abuso-de-poder-mas-multa-zema-por-publicidade-institucional/",
+        "publishedAt": "2024-05-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "tribunal"
+      },
+      {
+        "id": "src-zema-29",
+        "title": "Aumento de salário de Zema descumpre RRF, diz parecer",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2024/07/aumento-de-salario-de-zema-e-secretarios-descumpre-regras-diz-conselho.shtml",
+        "publishedAt": "2024-07-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-30",
+        "title": "Zema defende aumento de 300% para ele, mesmo com recuperação fiscal; conselho vê irregularidade",
+        "publisher": "Estadão",
+        "url": "https://www.estadao.com.br/politica/romeu-zema-governador-minas-gerais-aumento-300-representantes-da-fazenda-e-do-tcu-descumpre-rrf-recuperacao-fiscal-nprp/",
+        "publishedAt": "2024",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada."
+      },
+      {
+        "id": "src-zema-31",
+        "title": "Conselho aponta que aumento salarial de 300% de Zema, vice e secretários viola RRF",
+        "publisher": "O Tempo",
+        "url": "https://www.otempo.com.br/politica/2024/7/23/conselho-aponta-que-aumento-salarial-de-300--de-zema--vice-e-sec",
+        "publishedAt": "2024-07-23",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-32",
+        "title": "Quem é Romeu Zema, candidato do Novo à Presidência em 2026",
+        "publisher": "GZH",
+        "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-romeu-zema-candidato-do-novo-a-presidencia-em-2026-cmor8b6ad002p015fmlxf5scx.html",
+        "publishedAt": "2026-08-19",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-33",
+        "title": "Romeu Zema (Q57092113) — Wikidata",
+        "publisher": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q57092113",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estatistico"
+      },
+      {
+        "id": "src-zema-34",
+        "title": "Plenário aprova em 1º turno revisões salariais dos servidores estaduais",
+        "publisher": "ALMG",
+        "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Plenario-aprova-em-1-turno-revisoes-salariais-dos-servidores-estaduais/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estadual",
+        "notes": "Data exata não capturada; 673 mil servidores do Poder Executivo (ativos, inativos e pensionistas civis e militares)."
+      },
+      {
+        "id": "src-zema-35",
+        "title": "Calendário de pagamento servidor público Minas Gerais 2025",
+        "publisher": "Konsi (citando Governo do Estado)",
+        "url": "https://www.konsi.com.br/postagens/calendario-de-pagamento-servidor-publico-minas-gerais-2025",
+        "publishedAt": "2025",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Fonte indireta: '400 mil servidores ativos' segundo dados do Governo do Estado."
+      },
+      {
+        "id": "src-zema-36",
+        "title": "Partido Novo projeta votação histórica nas eleições de 2026",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/partido-novo-projeta-votacao-historica/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada."
+      },
+      {
+        "id": "src-zema-37",
+        "title": "PSB, Podemos, PSDB e Novo terão todas as cadeiras no Senado em disputa",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/psb-podemos-psdb-e-novo-terao-todas-as-cadeiras-no-senado-em-disputa/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Data exata não capturada; sugere cadeiras do NOVO no Senado em disputa (número exato não extraído)."
+      },
+      {
+        "id": "src-zema-38",
+        "title": "Datafolha 21/08/2026: Lula 39%; Flávio 33%; Caiado 5%; Renan Santos 4%; Zema 3%",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+        "publishedAt": "2026-08-21",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-39",
+        "title": "Zema (NOVO) 30 — ficha e histórico eleitoral",
+        "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+        "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+        "publishedAt": "2026-09-25",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Agregador de dados abertos do TSE; coleta em 25/09/2026."
+      },
+      {
+        "id": "src-zema-40",
+        "title": "File:Romeu Zema 2025.jpg — Wikimedia Commons",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Romeu_Zema_2025.jpg",
+        "publishedAt": "2025",
+        "accessedAt": "2026-09-29",
+        "sourceType": "estatistico",
+        "notes": "Foto CC-BY-4.0 (Jantar Anual do CLP, 2025); usada em photoUrl via Special:FilePath."
+      },
+      {
+        "id": "src-zema-42",
+        "title": "'Plano Implacável': veja as propostas de Zema na disputa pela presidência",
+        "publisher": "Estado de Minas",
+        "url": "http://www.em.com.br/politica/2026/08/7475589-plano-implacavel-veja-as-propostas-de-zema-na-disputa-pela-presidencia.html",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Mês; dia exato não capturado."
+      },
+      {
+        "id": "src-zema-43",
+        "title": "Quanto ganham o presidente, governadores e parlamentares",
+        "publisher": "UOL",
+        "url": "https://economia.uol.com.br/noticias/redacao/2025/06/30/quanto-ganham-o-presidente-governadores-e-parlamentares.htm",
+        "publishedAt": "2025-06-30",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Remuneração do governador de MG: R$ 41.845,49."
+      },
+      {
+        "id": "src-zema-45",
+        "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico'... (Flávio e Zema saem em defesa)",
+        "publisher": "O Globo",
+        "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+        "publishedAt": "2026-08-31",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      },
+      {
+        "id": "src-zema-46",
+        "title": "Rendimentos do fundo partidário são trunfo do Novo para 2024",
+        "publisher": "Estado de Minas",
+        "url": "https://em.com.br/app/noticia/politica/2023/03/05/interna_politica,1464800/rendimentos-do-fundo-partidario-sao-trunfo-do-novo-para-2024.shtml",
+        "publishedAt": "2023-03-05",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "NOVO não atingiu a cláusula de barreira; acesso ao Fundo Eleitoral vetado pelo partido."
+      },
+      {
+        "id": "src-zema-47",
+        "title": "Tesouro Nacional a Zema: reajuste de 300% contraria RRF",
+        "publisher": "Estado de Minas",
+        "url": "https://www.em.com.br/politica/2024/06/6883764-tesouro-nacional-a-zema-reajuste-de-300-contraria-rrf.html",
+        "publishedAt": "2024-06-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa"
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  }
+];

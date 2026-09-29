@@ -52,6 +52,8 @@ export type SourceType =
   | "estadual"
   | "municipal"
   | "plano_de_governo"
+  | "partidaria" // site/oficial de partido ou campanha
+  | "pesquisa_eleitoral" // instituto de pesquisa registrado no TSE
   | "imprensa";
 
 export interface Source {
@@ -84,6 +86,8 @@ export interface Metric {
   updatedAt: string; // ISO
   /** texto opcional de contexto exibido no drawer de evidências */
   context?: string;
+  /** como os dados foram apresentados na fonte (template de pesquisa) */
+  dataPresentation?: "structured" | "original" | "editorial" | "notes_only";
 }
 
 export interface ExperienceEntry {
@@ -145,9 +149,17 @@ export interface PlanProposal {
 }
 
 export interface GovernmentPlan {
+  title?: string;
+  planUrl?: string;
   totalProposals: number;
   registeredWith: string; // onde o plano está registrado
   registeredUrl?: string;
+  summary?: string;
+  /** notas editoriais quando o plano não é contável por proposta */
+  notes?: string;
+  /** agregações textuais/numéricas do plano, se a análise foi contável */
+  statsIfCounted?: Record<string, string | number | null> | null;
+  statsEvidence?: EvidenceStatus;
   proposals: PlanProposal[];
   sources: Source[];
   updatedAt: string;

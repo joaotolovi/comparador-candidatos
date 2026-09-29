@@ -1,0 +1,1317 @@
+{
+  "id": "clariana-barao",
+  "slug": "clariana-barao",
+  "name": "Clariana Zacarkim Barão",
+  "ballotName": "Clariana Barão",
+  "ballotNumber": 27,
+  "party": "DC (Democracia Cristã)",
+  "coalition": "Partido isolado (DC, nº 27), sem coligação ou federação. Chapa 100% feminina com vice Fabiana Torquato (DC), advogada — segunda chapa exclusivamente feminina da disputa, depois da chapa da UP (convenção de 26/07/2026).",
+  "photoUrl": null,
+  "birthDate": "1987-04-03",
+  "age": 39,
+  "birthplace": "Cuiabá/MT",
+  "profession": "Advogada",
+  "currentRole": "Candidata à Presidência da República (DC, nº 27; registro de chapa deferido pelo TSE em 11/09/2026) e presidente do diretório estadual do DC em Mato Grosso",
+  "tagline": "Advogada formada em Direito, presidente do diretório do DC em MT; disputa pela primeira vez uma eleição em 2026, após as desistências de Aldo Rebelo e Joaquim Barbosa na legenda.",
+  "education": [
+    {
+      "id": "edu-cb-1",
+      "level": "graduacao",
+      "field": "Direito",
+      "institution": "Centro Universitário de Várzea Grande (Univag)",
+      "conclusionYear": null,
+      "notes": "Formação em Direito confirmada por Agência Brasil (17/08/2026), Band e blog do Doc; ano de conclusão não informado nas fontes localizadas.",
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-06",
+          "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)",
+          "publisher": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada."
+        }
+      ]
+    },
+    {
+      "id": "edu-cb-2",
+      "level": "especializacao",
+      "field": "Gestão Pública e Direito Administrativo",
+      "institution": "não informada nas fontes localizadas",
+      "conclusionYear": null,
+      "notes": "Especialização descrita em entrevista ao Poder360 (25/08/2026) e em perfis da imprensa; instituição e ano não informados.",
+      "sources": [
+        {
+          "id": "src-cb-07",
+          "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-09",
+          "title": "Clariana Barão — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Clariana_Bar%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice."
+        }
+      ]
+    }
+  ],
+  "professionalExperience": [
+    {
+      "id": "prof-cb-1",
+      "role": "Advogada — atuação em direito administrativo e gestão pública",
+      "organization": "Atuação privada; OAB de Várzea Grande (MG)",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Formada em Direito, atua em causas sociais e na área de direito administrativo e gestão pública. Foi presidente da Comissão de Solidariedade e Assistência Social da OAB de Várzea Grande. Em 2024, coordenou grupo de voluntários que prestou auxílio a vítimas das enchentes no Rio Grande do Sul.",
+      "achievements": [
+        "Presidência da Comissão de Solidariedade e Assistência Social da OAB de Várzea Grande",
+        "Coordenação de voluntários nas enchentes do Rio Grande do Sul (2024)"
+      ],
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Matéria com subtítulo 'A advogada disputa cargo eletivo pela primeira vez'."
+        },
+        {
+          "id": "src-cb-15",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência (perfil)",
+          "publisher": "Blog do Doc",
+          "url": "https://blogdodoc.com/2026/08/17/clariana-barao-e-a-candidata-do-democracia-crista-a-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "politicalExperience": [
+    {
+      "id": "pol-cb-1",
+      "role": "Presidente do diretório estadual do DC em Mato Grosso",
+      "organization": "Democracia Cristã (DC)",
+      "startDate": "2026",
+      "endDate": null,
+      "description": "Assumiu a presidência do diretório estadual do DC em Mato Grosso em 2026; nome à candidatura apresentado pela direção estadual (Marco Marrafon, responsável pela filiação, e Etevaldo Balbino, 1º vice-presidente estadual) e aprovado em reunião nacional em Brasília em 08/07/2026, com dirigentes e presidentes de 21 diretórios estaduais. Oficializada na convenção nacional do partido em 05/08/2026, em São Paulo. Datas de filiação e atuação partidária anteriores não localizadas.",
+      "achievements": [
+        "Aprovação da candidatura por 21 diretórios estaduais (08/07/2026)",
+        "Oficialização na convenção nacional do DC (05/08/2026)"
+      ],
+      "sources": [
+        {
+          "id": "src-cb-07",
+          "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-08",
+          "title": "DC oficializa Clariana Barão como candidata à Presidência",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+          "publishedAt": "2026-08-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "pol-cb-2",
+      "role": "Candidata à Presidência da República",
+      "organization": "Democracia Cristã (DC)",
+      "startDate": "2026-07",
+      "endDate": null,
+      "description": "Lançada em julho de 2026 após a desistência do ex-ministro do STF Joaquim Barbosa (que havia substituído, em maio, a pré-candidatura de Aldo Rebelo — este, depois, assumiu a coordenação da campanha de Ronaldo Caiado/PSD). É a primeira vez que o DC não lança seu fundador, José Maria Eymael, à Presidência desde a fundação do partido em 1995.",
+      "achievements": [
+        "Primeira candidatura presidencial do DC fora de José Maria Eymael desde 1995"
+      ],
+      "sources": [
+        {
+          "id": "src-cb-16",
+          "title": "Quem são os candidatos à Presidência nas eleições 2026",
+          "publisher": "BBC News Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Sequência Aldo Rebelo → Joaquim Barbosa → Clariana Barão."
+        },
+        {
+          "id": "src-cb-09",
+          "title": "Clariana Barão — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Clariana_Bar%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "executiveExperience": [],
+  "achievements": [
+    {
+      "id": "ach-cb-1",
+      "title": "Primeira eleição disputada: nenhum mandato eletivo anterior e nenhuma passagem pelo Legislativo",
+      "context": "Carreira política, até 2026",
+      "description": "Agência Brasil (17/08/2026) descreve: 'A advogada disputa cargo eletivo pela primeira vez'. Poder360 (25/08/2026): 'Clariana disputa pela 1ª vez uma eleição'. Não é deputada federal nem exercerá mandato legislativo: o DC não tem nenhum deputado federal na Câmara (0/513 em 2026, verbete do partido). Não houve, portanto, produção legislativa a apurar na Câmara dos Deputados.",
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-07",
+          "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-10",
+          "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português: 0 deputados federais em 2026)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice de dados do TSE."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-cb-2",
+      "title": "Chapa 100% feminina e candidatura aprovada por 21 diretórios estaduais do DC",
+      "context": "Convenção do DC, julho–agosto de 2026",
+      "description": "Em reunião nacional do partido em Brasília, em 08/07/2026, dirigentes e presidentes de 21 diretórios estaduais aprovaram a candidatura; a convenção nacional de 05/08/2026, em São Paulo, oficializou a chapa Clariana Barão/Fabiana Torquato, exclusivamente feminina — com a chapa da UP, uma das duas do pleito de 2026.",
+      "sources": [
+        {
+          "id": "src-cb-08",
+          "title": "DC oficializa Clariana Barão como candidata à Presidência",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+          "publishedAt": "2026-08-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-07",
+          "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-cb-3",
+      "title": "Registro de candidatura deferido pelo TSE e entrevistas no Jornal Nacional e na TV Globo",
+      "context": "Campanha presidencial 2026",
+      "description": "A chapa Clariana Barão/Fabiana Torquato teve o registro aprovado pelo TSE na sessão virtual que se encerrou em 11/09/2026. Em 05/09/2026, a candidata foi exibida no Jornal Nacional falando sobre propostas de governo; em 25/08/2026 deu entrevista de 39 minutos ao Poder360.",
+      "sources": [
+        {
+          "id": "src-cb-01",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cb-12",
+          "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+          "publisher": "g1 (Globo) — Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+          "publishedAt": "2026-09-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-07",
+          "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "governmentPlan": {
+    "title": "Proteger Hoje, Transformar o Amanhã (eixo transversal: 'Mulheres e Crianças em Primeiro Lugar')",
+    "totalProposals": null,
+    "registeredWith": "TSE — DivulgaCandContas (Eleições Gerais 2026); chapa deferida em 11/09/2026",
+    "registeredUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+    "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+    "notes": "Documento com seis eixos: (1) Mulheres e Crianças em Primeiro Lugar, (2) Economia, (3) Educação, (4) Segurança, (5) Saúde, (6) Estado que funciona — com matriz de implementação por horizontes (ex.: 'Ano 4'). A contagem total de propostas não foi recalculada item a item pela equipe: o dossiê independente Plano Aberto enumera ao menos 30 promessas numeradas do plano; total registrado aqui como não determinado.",
+    "statsIfCounted": {
+      "objective": "Seis eixos com objetivos declarados por eixo; primeiro eixo transversal 'Mulheres e Crianças em Primeiro Lugar' (Radioagência Nacional, 24/08/2026)",
+      "target": "Metas quantitativas não localizadas nas fontes consultadas; o Plano Aberto descreve matriz de implementação com horizontes por proposta",
+      "deadline": "Horizonte de gestão de 4 anos (matriz de implementação citada pelo Plano Aberto)",
+      "cost": "Custos por proposta não informados; eixo fiscal prevê revisão de gastos, subsídios e benefícios sem valores",
+      "funding": null,
+      "fiscal": "'Responsabilidade fiscal com foco em resultado': revisão de gastos e subsídios, transparência de benefícios e avaliação de impacto; em entrevista, citou a Selic de 14% ao ano e a necessidade de revisão do ajuste fiscal",
+      "agency": null,
+      "instrument": "Lei e atos administrativos; parte das transferências federais vinculada a indicadores de desempenho ('federalismo de resultados')",
+      "indicator": "Indicadores de desempenho regional para transferências federais (federalismo de resultados)",
+      "congress": "Contagem de propostas dependentes do Congresso não realizada pela equipe"
+    },
+    "statsEvidence": "parcial",
+    "keyProposals": [
+      {
+        "title": "Rede Nacional de Proteção e Resposta à Violência, com atendimento integrado à mulher",
+        "theme": "Política social",
+        "description": "Criação de rede nacional integrando saúde, assistência social, segurança pública e Judiciário para resposta à violência contra mulheres e crianças; centros de atendimento à mulher vítima de violência doméstica com protocolo único (delegacia, acolhimento e encaminhamento à profissionalização), em vez da atual 'lista de endereços'.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei e atos administrativos (política nacional integrada)",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-cb-05",
+            "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          },
+          {
+            "id": "src-cb-12",
+            "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+            "publisher": "g1 (Globo) — Jornal Nacional",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+            "publishedAt": "2026-09-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-04",
+            "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Primeira infância como prioridade nacional, do pré-natal à creche",
+        "theme": "Política social",
+        "description": "Primeiro eixo do plano estabelece a primeira infância como prioridade nacional, com prevenção do abuso de crianças e adolescentes, ambiente digital seguro e apoio ao desenvolvimento das crianças e suas famílias na educação infantil.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Políticas públicas de educação infantil e assistência",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-cb-04",
+            "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-17",
+            "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+            "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+            "url": "https://planoaberto.org/candidatos/clariana-barao",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada. Enumera as promessas do plano por número."
+          }
+        ]
+      },
+      {
+        "title": "Autonomia econômica das mulheres: microcrédito, qualificação e formalização",
+        "theme": "Política social",
+        "description": "Programas de qualificação e reinserção profissional, incentivo ao empreendedorismo feminino com acesso a microcrédito responsável e apoio à formalização de pequenos negócios liderados por mulheres.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Programas de governo e linha de crédito",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-cb-06",
+            "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)",
+            "publisher": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-05",
+            "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Responsabilidade fiscal: revisão de gastos, subsídios e benefícios com avaliação de impacto",
+        "theme": "Economia",
+        "description": "Revisão de gastos e subsídios considerados indevidos, transparência de benefícios e avaliação de impacto de programas; em entrevista ao Jornal Nacional (05/09/2026), a candidata citou a Selic de 14% ao ano como obstáculo ao crédito e defendeu revisão do ajuste fiscal.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei orçamentária e leis de avaliação de programas",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-cb-04",
+            "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-12",
+            "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo",
+            "publisher": "g1 (Globo) — Jornal Nacional",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml",
+            "publishedAt": "2026-09-05",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Segurança: integração de fronteiras, policiamento baseado em dados e sufocamento financeiro das facções",
+        "theme": "Segurança",
+        "description": "Monitoramento remoto de fronteiras com sensores, radares, drones e centros integrados de comando; combate ao tráfico de drogas e de armas e ao financiamento das facções (lavagem e rastreamento de ativos); policiamento urbano baseado em dados científicos, com proteção específica para mulheres, escolas e áreas vulneráveis; cooperação internacional no combate ao narcotráfico.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Atos administrativos, sistemas de inteligência e acordos internacionais",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-cb-04",
+            "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-18",
+            "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+            "publisher": "Agemt — Jornalismo PUC-SP",
+            "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Ano; data exata não capturada."
+          }
+        ]
+      },
+      {
+        "title": "Saúde: atenção primária territorial, controle informatizado de filas e telemedicina no SUS",
+        "theme": "Saúde",
+        "description": "Acesso territorial na atenção primária; estímulo à pesquisa clínica e à produção nacional de insumos; controle informatizado de filas no SUS com apoio de inteligência artificial (privacidade preservada); telemedicina integrada à rede pública; prevenção e diagnóstico precoce; programas comunitários de atividade física.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Política pública do SUS / atos administrativos",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-cb-04",
+            "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-18",
+            "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+            "publisher": "Agemt — Jornalismo PUC-SP",
+            "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Educação: alfabetização na idade adequada, formação técnica conectada a vocações regionais e tecnologia nas escolas",
+        "theme": "Educação",
+        "description": "Qualidade pedagógica na educação infantil e alfabetização na idade adequada; expansão da formação técnica conectada às vocações regionais, orientação de carreira e aprendizagem profissional no ensino médio, com parcerias de empresas e instituições de ensino superior; valorização de professores; uso responsável de tecnologia e inteligência artificial nas escolas.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Política nacional de educação",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-cb-04",
+            "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-18",
+            "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+            "publisher": "Agemt — Jornalismo PUC-SP",
+            "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "'Estado que funciona': governo digital, dados pedidos uma única vez e compras públicas rastreáveis",
+        "theme": "Administração pública",
+        "description": "Governo 100% digital e simples, com dados solicitados ao cidadão 'uma única vez', sistemas integrados e atendimento multicanal (inclusive para quem não tem internet constante); compras públicas 100% rastreáveis, dados abertos em linguagem simples, uso de inteligência artificial na gestão de riscos e prevenção de fraudes; profissionalização da liderança no serviço público por mérito; avaliação de programas públicos com possibilidade de encerramento dos ineficazes; federalismo de resultados com parte das transferências federais vinculada a indicadores de desempenho.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Atos administrativos e legislação de compras e transparência",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-cb-06",
+            "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)",
+            "publisher": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-17",
+            "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+            "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+            "url": "https://planoaberto.org/candidatos/clariana-barao",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Economia: simplificação regulatória, crédito produtivo e infraestrutura por concessões",
+        "theme": "Economia",
+        "description": "Simplificação de regras e digitalização com abertura rápida de empresas; crédito produtivo e garantias para pequenos negócios; acesso de micro e pequenas empresas às compras públicas; expansão de ferrovias, hidrovias, portos e cabotagem via concessões e parcerias público-privadas.",
+        "hasCost": false,
+        "costDetail": "Concessões e PPPs sem valores informados nas fontes localizadas",
+        "deadline": null,
+        "legalInstrument": "Lei e contratos de concessão",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-cb-04",
+            "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+            "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-cb-18",
+            "title": "Conheça as candidaturas de menor destaque à Presidência em 2026",
+            "publisher": "Agemt — Jornalismo PUC-SP",
+            "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  "metrics": [
+    {
+      "id": "anos_executivo",
+      "category": "capacidade-execucao",
+      "name": "Anos em cargos executivos públicos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum cargo localizado: 2026 é a primeira eleição disputada por Clariana Barão.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "maior_orcamento",
+      "category": "capacidade-execucao",
+      "name": "Maior orçamento anual administrado",
+      "displayValue": "Não se aplica — nunca administrou orçamento público",
+      "value": null,
+      "unit": "R$ bi/ano",
+      "metricType": "currency",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Maior orçamento anual sob gestão em cargo público.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "Não localizado",
+      "value": null,
+      "unit": "servidores",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Servidores/equipe sob gestão direta em cargos públicos.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_politica",
+      "category": "historico-experiencia",
+      "name": "Anos de experiência política",
+      "displayValue": "≈0,5 ano (2026)",
+      "value": 0.5,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Anos de atuação partidária documentada: presidência do diretório estadual do DC-MT e candidatura presidencial, ambos em 2026, até 29/09/2026. Datas de filiação e atuação partidária anteriores não localizadas — ausência de registro não implica ausência de atividade prévia.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cb-07",
+          "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Não localizada filiação anterior nem diretoria partidária pregressa em fontes consultadas."
+    },
+    {
+      "id": "anos_legislativo",
+      "category": "articulacao",
+      "name": "Anos em cargos legislativos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma de períodos em cargos legislativos eletivos; nenhuma ocupação localizada. Clariana Barão nunca foi deputada: é candidata pela primeira vez em 2026.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-10",
+          "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português: 0 deputados federais em 2026)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_federal",
+      "category": "historico-experiencia",
+      "name": "Anos em cargos públicos federais",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "mandatos_eletivos",
+      "category": "historico-experiencia",
+      "name": "Mandatos eletivos conquistados",
+      "displayValue": "0 — primeira eleição disputada em 2026",
+      "value": 0,
+      "unit": "mandatos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem de mandatos eletivos conquistados. Fato confirmado, não lacuna: primeira disputa eleitoral em 2026 (Agência Brasil e Poder360).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-07",
+          "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "Não se aplica — primeira disputa eleitoral em 2026",
+      "value": null,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Total de votos em eleições anteriores.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_total",
+      "category": "plano",
+      "name": "Propostas do plano de governo",
+      "displayValue": "Não determinado — 6 eixos; dossiê independente enumera ao menos 30 promessas",
+      "value": null,
+      "unit": "propostas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem total de propostas não recalculada item a item pela equipe. O plano tem seis eixos integrados (Radioagência Nacional); o dossiê do Plano Aberto enumera promessas numeradas até 30, sem confirmação de que a enumeração total corresponde à do documento original.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-cb-04",
+          "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+          "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-17",
+          "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+          "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+          "url": "https://planoaberto.org/candidatos/clariana-barao",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-01",
+          "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "Não informado por proposta",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com estimativa de custo próprio. Nenhuma quantificação por proposta localizada nas fontes consultadas; o plano prevê revisão de gastos e subsídios sem valores.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "low",
+      "availability": "not_informed",
+      "sources": [
+        {
+          "id": "src-cb-04",
+          "title": "Clariana Barão apresenta propostas para seis áreas de governo",
+          "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-17",
+          "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+          "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+          "url": "https://planoaberto.org/candidatos/clariana-barao",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Avalia viabilidade por proposta com base em instrumentos existentes, sem custos."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "Horizonte de 4 anos na matriz de implementação; % por proposta não calculada",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com prazo definido; contagem por item não realizada pela equipe. O plano apresenta matriz de implementação com horizontes (ex.: 'Ano 4'), segundo o dossiê do Plano Aberto.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-cb-19",
+          "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)",
+          "publisher": "TSE — Eleições 2026",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF do plano com matriz de implementação por horizontes."
+        },
+        {
+          "id": "src-cb-17",
+          "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+          "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+          "url": "https://planoaberto.org/candidatos/clariana-barao",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "Contagem não realizada; federalismo de resultados e legislação de compras dependem de lei",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei. Contagem não realizada pela equipe.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-cb-06",
+          "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)",
+          "publisher": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-17",
+          "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas",
+          "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)",
+          "url": "https://planoaberto.org/candidatos/clariana-barao",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "registro_tse",
+      "category": "integridade",
+      "name": "Situação do registro de candidatura no TSE",
+      "displayValue": "Deferido — TSE, sessão virtual encerrada em 11/09/2026 (chapa Clariana Barão/Fabiana Torquato, DC)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cb-01",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cb-02",
+          "title": "Clariana Barao 27 (DC): candidata a Presidente em 2026 (dados TSE)",
+          "publisher": "Gazeta do Povo — dados do TSE/DivulgaCandContas",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/clariana-barao-dc-27/",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Não foram localizadas impugnações de mérito, ficha-limpa ou decisões judiciais contra a candidata nas fontes consultadas."
+    },
+    {
+      "id": "bens_declarados",
+      "category": "integridade",
+      "name": "Bens declarados à Justiça Eleitoral",
+      "displayValue": "Não localizado nas fontes consultadas",
+      "value": null,
+      "unit": "R$",
+      "metricType": "currency",
+      "directionality": "neutral",
+      "methodology": "Total de bens declarados no registro de candidatura de 2026.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-cb-02",
+          "title": "Clariana Barao 27 (DC): candidata a Presidente em 2026 (dados TSE)",
+          "publisher": "Gazeta do Povo — dados do TSE/DivulgaCandContas",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/clariana-barao-dc-27/",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva do DivulgaCandContas; valor dos bens não capturado nesta consulta."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Ausência de valor capturado ≠ declaração zero: verificar no DivulgaCandContas antes de publicar."
+    },
+    {
+      "id": "bancada_partidaria_camara",
+      "category": "articulacao",
+      "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+      "displayValue": "0/513 deputados federais",
+      "value": 0,
+      "unit": "cadeiras",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Cadeiras do DC na Câmara dos Deputados em 2026 (0/513), segundo verbete do partido com base em dados oficiais; o DC também não tem senadores nem governadores.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-cb-10",
+          "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português: 0 deputados federais, 0 senadores, 251 vereadores, 2 prefeitos, 185.529 filiados em 2026)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice de dados do TSE."
+        },
+        {
+          "id": "src-cb-11",
+          "title": "DC 2026: fundos, repasses e candidatos (758 candidaturas; FEFC de R$ 3.307.679,85)",
+          "publisher": "Plural (levantamento com dados do TSE)",
+          "url": "https://www.plural.jor.br/candidatos-2026-partido-dc/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Setembro/2026; prestação de contas parcial ao TSE atualizada em 01/09/2026."
+        },
+        {
+          "id": "src-cb-20",
+          "title": "Lista de partidos políticos do Brasil (DC: 182.708 filiados)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_do_Brasil",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Números de filiados variam entre fontes (181.435 em jan/2026; 182.708; 185.529 em 2026)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O DC tem 251 vereadores (2024) e 2 prefeitos, 0 deputados estaduais (2022), 0 senadores e 0 governadores. Em 2026 lançou 758 candidaturas e recebeu R$ 3.307.679,85 de Fundo Eleitoral."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "historico-experiencia",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "1% (Datafolha, 11/09) | 0% (Datafolha, 24/09) | 0% (Datafolha SP, ago/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026 que testaram a candidatura.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cb-14",
+          "title": "Datafolha, 1º turno: ... Clariana Barão (DC): 0",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+          "publishedAt": "2026-09-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevistas em 22–23/09/2026; margem 2 p.p."
+        },
+        {
+          "id": "src-cb-13",
+          "title": "O que mostra a nova pesquisa Datafolha para presidente (Clariana Barão, 1%)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-2/",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevistas em 8–10/09/2026."
+        },
+        {
+          "id": "src-cb-21",
+          "title": "Datafolha divulga pesquisa para presidente em SP, RJ e MG (Clariana Barão: 0% em SP e MG)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-agosto-26-sp-mg-rj-pe-df/",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Pesquisas de 18–20/08/2026 (SP e MG)."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "currentSupport": [
+    {
+      "id": "sup-cb-1",
+      "description": "Partido isolado — chapa pura do DC (nº 27), sem coligação ou federação; vice Fabiana Torquato (DC), advogada. O DC não tem bancada na Câmara: 0 deputados federais, 0 senadores e 0 governadores; tem 251 vereadores e 2 prefeitos (2024) e cerca de 181 a 185 mil filiados em 2026 (números variam entre fontes).",
+      "value": "DC — sem bancada federal; 251 vereadores",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-cb-10",
+          "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-01",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ]
+    },
+    {
+      "id": "sup-cb-2",
+      "description": "Financiamento: o DC recebeu R$ 3.307.679,85 de Fundo Eleitoral em 2026 e, até 01/09/2026, havia repassado R$ 1.500.000,00 a um único candidato — a própria candidatura presidencial de Clariana Barão (45,3% do valor total recebido pelo partido).",
+      "value": "R$ 1,5 mi do Fundo Eleitoral repassados à candidatura (até 01/09/2026)",
+      "date": "2026-09-01",
+      "sources": [
+        {
+          "id": "src-cb-11",
+          "title": "DC 2026: fundos, repasses e candidatos",
+          "publisher": "Plural (levantamento com dados do TSE)",
+          "url": "https://www.plural.jor.br/candidatos-2026-partido-dc/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Prestação de contas parcial ao TSE, atualizada em 01/09/2026."
+        }
+      ]
+    },
+    {
+      "id": "sup-cb-3",
+      "description": "Aprovação interna da chapa: reunião nacional do DC em Brasília em 08/07/2026, com dirigentes e presidentes de 21 diretórios estaduais, aprovou a candidatura; a convenção nacional de 05/08/2026, em São Paulo, oficializou a chapa. O presidente nacional do partido é o advogado João Caldas.",
+      "value": "21 diretórios estaduais + convenção nacional",
+      "date": "2026-08-05",
+      "sources": [
+        {
+          "id": "src-cb-08",
+          "title": "DC oficializa Clariana Barão como candidata à Presidência",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/",
+          "publishedAt": "2026-08-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-07",
+          "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "negotiationHistory": [
+    {
+      "id": "neg-cb-1",
+      "description": "Composição da candidatura após três trocas na legenda: Aldo Rebelo (lançado em janeiro/2026) foi substituído por Joaquim Barbosa em maio/2026; Joaquim Barbosa desistiu em julho/2026 e Aldo Rebelo passou a coordenar a campanha de Ronaldo Caiado (PSD), abrindo caminho para a candidatura de Clariana Barão, aprovada por 21 diretórios estaduais em 08/07/2026.",
+      "value": "composição após desistências de Barbosa e saída de Rebelo para a campanha de Caiado",
+      "date": "2026-07-08",
+      "sources": [
+        {
+          "id": "src-cb-16",
+          "title": "Quem são os candidatos à Presidência nas eleições 2026",
+          "publisher": "BBC News Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-07",
+          "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "institutionalHistory": [
+    {
+      "id": "inst-cb-1",
+      "category": "tribunal",
+      "title": "Consulta a registros de processo e sanção — nenhuma denúncia, investigação ou condenação localizada",
+      "legalStatus": "regular",
+      "currentStatus": "encerrado",
+      "instance": "Busca em fontes públicas (TSE, imprensa e verbetes) até 29/09/2026",
+      "lastUpdate": "2026-09-29",
+      "description": "Nas fontes consultadas não foi localizada denúncia, inquérito, investigação, processo, decisão ou condenação criminal, eleitoral ou de ética profissional contra Clariana Barão até 29/09/2026, tampouco impugnação de mérito ao registro de 2026 (deferido em 11/09/2026). Ausência de registro em busca de fontes públicas não equivale a certidão negativa; evidência marcada como indeterminada. Trata-se da primeira disputa eleitoral da candidata, sem passagem por cargos públicos.",
+      "sources": [
+        {
+          "id": "src-cb-01",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cb-03",
+          "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cb-09",
+          "title": "Clariana Barão — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Clariana_Bar%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low"
+    }
+  ],
+  "sources": [
+    { "id": "src-cb-01", "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República", "publisher": "TSE — Tribunal Superior Eleitoral", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica", "publishedAt": "2026-09-11", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Chapa Clariana Barão/Fabiana Torquato deferida na sessão virtual encerrada em 11/09/2026." },
+    { "id": "src-cb-02", "title": "Clariana Barao 27 (DC): candidata a Presidente em 2026", "publisher": "Gazeta do Povo — dados do TSE/DivulgaCandContas", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/clariana-barao-dc-27/", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
+    { "id": "src-cb-03", "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência", "publisher": "Agência Brasil (EBC)", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia", "publishedAt": "2026-08-17", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Subtítulo: 'A advogada disputa cargo eletivo pela primeira vez'. Idade, formação, OAB e enchentes do RS." },
+    { "id": "src-cb-04", "title": "Clariana Barão apresenta propostas para seis áreas de governo", "publisher": "Radioagência Nacional / Agência Brasil (EBC)", "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/candidata-clariana-barao-apresenta-propostas-para-6-areas-de-governo", "publishedAt": "2026-08-24", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Lema 'Proteger hoje, transformar o amanhã' e os seis eixos do plano." },
+    { "id": "src-cb-05", "title": "Clariana Barão prioriza propostas de proteção à mulher e à infância", "publisher": "Agência Brasil (EBC)", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/clariana-barao-prioriza-propostas-de-protecao-mulher-e-infancia", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Título do eixo 'Mulheres e Crianças em Primeiro Lugar' e Rede Nacional de Proteção." },
+    { "id": "src-cb-06", "title": "Eleições 2026: conheça o perfil e as propostas de Clariana Barão (DC)", "publisher": "Band", "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Ano; data exata não capturada." },
+    { "id": "src-cb-07", "title": "Clariana Barão diz ter valores da direita, mas rejeita extremismo", "publisher": "Poder360", "url": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-diz-ter-valores-da-direita-mas-rejeita-extremismo/", "publishedAt": "2026-08-25", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Entrevista de 39min45s; idade, naturalidade, formação e 'disputa pela 1ª vez uma eleição'." },
+    { "id": "src-cb-08", "title": "DC oficializa Clariana Barão como candidata à Presidência", "publisher": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/eleicoes/dc-oficializa-clariana-barao-como-candidata-a-presidencia/", "publishedAt": "2026-08-05", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Convenção nacional; chapa exclusivamente feminina; aprovação por 21 diretórios em 08/07." },
+    { "id": "src-cb-09", "title": "Clariana Barão — verbete (Wikipédia em português)", "publisher": "Wikipédia", "url": "https://pt.wikipedia.org/wiki/Clariana_Bar%C3%A3o", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Enciclopédia colaborativa usada como índice: nome completo, nascimento 03/04/1987 em Cuiabá." },
+    { "id": "src-cb-10", "title": "Democracia Cristã (Brasil) — verbete (Wikipédia em português)", "publisher": "Wikipédia", "url": "https://pt.wikipedia.org/wiki/Democracia_Crist%C3%A3_(Brasil)", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Bancada 2026 (0 federais, 0 senadores, 251 vereadores), filiados, história da legenda." },
+    { "id": "src-cb-11", "title": "DC 2026: fundos, repasses e candidatos", "publisher": "Plural (levantamento com dados do TSE)", "url": "https://www.plural.jor.br/candidatos-2026-partido-dc/", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "758 candidaturas do DC; FEFC R$ 3.307.679,85; R$ 1,5 mi repassados à candidatura de Clariana." },
+    { "id": "src-cb-12", "title": "Clariana Barão, candidata à Presidência pelo Democracia Cristã, fala sobre propostas de governo", "publisher": "g1 (Globo) — Jornal Nacional", "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/clariana-barao-candidata-a-presidencia-pelo-democracia-crista-fala-sobre-propostas-de-governo.ghtml", "publishedAt": "2026-09-05", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Prioridade 01 do plano, centros de atendimento à mulher e revisão fiscal (Selic 14%)." },
+    { "id": "src-cb-13", "title": "O que mostra a nova pesquisa Datafolha para presidente", "publisher": "Gazeta do Povo", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-2/", "publishedAt": "2026-09-11", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Datafolha 8–10/09/2026: Cury 6%, Samara 1%, Clariana 1%." },
+    { "id": "src-cb-14", "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5% ...", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml", "publishedAt": "2026-09-24", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Datafolha 22–23/09/2026: Clariana Barão 0%." },
+    { "id": "src-cb-15", "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência (perfil)", "publisher": "Blog do Doc", "url": "https://blogdodoc.com/2026/08/17/clariana-barao-e-a-candidata-do-democracia-crista-a-presidencia", "publishedAt": "2026-08-17", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Univag, OAB de Várzea Grande e enchentes do RS em 2024." },
+    { "id": "src-cb-16", "title": "Quem são os candidatos à Presidência nas eleições 2026", "publisher": "BBC News Brasil", "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Sequência de trocas na candidatura do DC em 2026." },
+    { "id": "src-cb-17", "title": "Clariana Barão — Presidente da República (DC, 27) | dossiê de propostas", "publisher": "Plano Aberto (projeto apartidário de acompanhamento de planos)", "url": "https://planoaberto.org/candidatos/clariana-barao", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Índice numerado de promessas (até 30) e avaliação de viabilidade de execução." },
+    { "id": "src-cb-18", "title": "Conheça as candidaturas de menor destaque à Presidência em 2026", "publisher": "Agemt — Jornalismo PUC-SP", "url": "https://agemt.pucsp.br/noticias/conheca-candidaturas-de-menor-destaque-presidencia-em-2026", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Propostas por área: economia, profissional, saúde, educação, segurança e política externa." },
+    { "id": "src-cb-19", "title": "Plano de Governo — Proteger Hoje, Transformar o Amanhã (documento registrado no TSE)", "publisher": "TSE — Eleições 2026", "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/plano-de-governo-1/@@display-file/file/plano-de-governo.pdf", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "plano_de_governo", "notes": "PDF do plano com matriz de implementação por horizontes." },
+    { "id": "src-cb-20", "title": "Lista de partidos políticos do Brasil", "publisher": "Wikipédia", "url": "https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_do_Brasil", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "DC nº 27, 182.708 filiados; números variam entre fontes." },
+    { "id": "src-cb-21", "title": "Datafolha divulga pesquisa para presidente em SP, RJ e MG", "publisher": "Gazeta do Povo", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-agosto-26-sp-mg-rj-pe-df/", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Pesquisas estaduais de 18–20/08/2026." }
+  ],
+  "updatedAt": "2026-09-29"
+}

@@ -1,0 +1,1317 @@
+{
+  "id": "samara-martins",
+  "slug": "samara-martins",
+  "name": "Samara Martins da Silva Feitosa",
+  "ballotName": "Samara Martins",
+  "ballotNumber": 80,
+  "party": "UP (Unidade Popular pelo Socialismo)",
+  "coalition": "Partido isolado (UP, nº 80), sem coligação ou federação; chapa pura de candidata própria, 100% feminina com vice Raquel Brício (UP), guarda portuária e presidente do Sindicato dos Trabalhadores Portuários do Pará e Amapá (Sindiporto-PA/AP).",
+  "photoUrl": null,
+  "birthDate": null,
+  "age": 38,
+  "birthplace": "Belo Horizonte/MG",
+  "profession": "Cirurgiã-dentista (dentista do SUS na Estratégia Saúde da Família)",
+  "currentRole": "Candidata à Presidência da República (UP, nº 80; registro validado pelo TSE em 02/09/2026) e vice-presidente nacional do UP",
+  "tagline": "Dentista do SUS formada em Odontologia pela UFRN, vice-presidente nacional do UP; disputa a Presidência pela segunda vez em 2026, após ser vice na chapa de Leonardo Péricles em 2022.",
+  "education": [
+    {
+      "id": "edu-sm-1",
+      "level": "graduacao",
+      "field": "Odontologia",
+      "institution": "Universidade Federal do Rio Grande do Norte (UFRN)",
+      "conclusionYear": null,
+      "notes": "Formação confirmada por Agência Brasil (18/08/2026) e Band; natural de Belo Horizonte/MG, formou-se e passou a atuar no Rio Grande do Norte. Ano de conclusão não informado nas fontes localizadas. Nenhuma pós-graduação localizada.",
+      "sources": [
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-06",
+          "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+          "publisher": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada."
+        }
+      ]
+    }
+  ],
+  "professionalExperience": [
+    {
+      "id": "prof-sm-1",
+      "role": "Dentista — Estratégia Saúde da Família",
+      "organization": "Sistema Único de Saúde (SUS)",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Atua como cirurgiã-dentista na atenção básica do SUS (Estratégia Saúde da Família). A atividade profissional é central na campanha: o programa inclui exigir que todos os políticos, de vereador a presidente, usem o serviço público de saúde.",
+      "achievements": [
+        "Atuação na rede pública de saúde como base da plataforma 'políticos devem usar o SUS'"
+      ],
+      "sources": [
+        {
+          "id": "src-sm-01",
+          "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+          "publisher": "Unidade Popular (site oficial do partido)",
+          "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria"
+        },
+        {
+          "id": "src-sm-07",
+          "title": "Samara Martins defende que políticos usem o SUS",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "politicalExperience": [
+    {
+      "id": "pol-sm-1",
+      "role": "Vice-presidente nacional do UP",
+      "organization": "Unidade Popular pelo Socialismo (UP)",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Vice-presidente nacional do partido; o presidente é Leonardo Péricles, desde a fundação da legenda. Data de início da diretoria não informada nas fontes localizadas.",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-sm-13",
+          "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice: 'Presidente: Leonardo Péricles, Vice-presidente: Samara Martins'."
+        },
+        {
+          "id": "src-sm-14",
+          "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+          "publisher": "Today in Brazil",
+          "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada."
+        }
+      ]
+    },
+    {
+      "id": "pol-sm-2",
+      "role": "Candidata à Vice-Presidência da República",
+      "organization": "Unidade Popular (UP)",
+      "startDate": "2022",
+      "endDate": "2022",
+      "description": "Em 2022, foi candidata à vice-presidência na chapa de Leonardo Péricles (UP) à Presidência — a única candidatura daquele ano formada exclusivamente por pessoas negras, segundo Agência Brasil (18/08/2026). A chapa obteve 53,5 mil votos (0,05% dos votos válidos), em 8º lugar, segundo levantamento da Brasil de Fato (06/10/2024) com dados do TSE. Não foi eleita.",
+      "achievements": [
+        "Vice na chapa presidencial do UP em 2022 (53,5 mil votos, 0,05% dos válidos)"
+      ],
+      "sources": [
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-16",
+          "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco",
+          "publisher": "Brasil de Fato",
+          "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/",
+          "publishedAt": "2024-10-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Votação de Leonardo Péricles em 2022 segundo dados do TSE."
+        }
+      ]
+    },
+    {
+      "id": "pol-sm-3",
+      "role": "Candidata à Presidência da República",
+      "organization": "Unidade Popular (UP)",
+      "startDate": "2026-02",
+      "endDate": null,
+      "description": "Lançada como pré-candidata pelo UP em fevereiro de 2026; oficializada na Convenção Nacional do partido em 26/07/2026, na Universidade Zumbi dos Palmares, em São Paulo, com a chapa 100% feminina Samara Martins/Raquel Brício. É a segunda vez que a UP lança chapa à Presidência.",
+      "achievements": [
+        "Chapa 100% feminina oficializada em convenção nacional (26/07/2026)",
+        "Segunda candidatura presidencial do UP desde a fundação do partido (2016)"
+      ],
+      "sources": [
+        {
+          "id": "src-sm-01",
+          "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+          "publisher": "Unidade Popular (site oficial do partido)",
+          "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria"
+        },
+        {
+          "id": "src-sm-02",
+          "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-04",
+          "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "executiveExperience": [],
+  "achievements": [
+    {
+      "id": "ach-sm-1",
+      "title": "Nenhum mandato eletivo anterior — 2026 é a primeira disputa como cabeça de chapa",
+      "context": "Carreira política, até 2026",
+      "description": "Samara Martins nunca ocupou cargo eletivo: em 2022 foi vice (não eleita) na chapa de Leonardo Péricles. A UP não tem nenhum parlamentar eleito: 0 deputados federais, 0 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (dados de 2024). Não há, portanto, produção legislativa ou execução administrativa a apurar.",
+      "sources": [
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-13",
+          "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Infobox: 0/513 deputados federais, 0/81 senadores, 0/27 governadores, 0/58.026 vereadores."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-sm-2",
+      "title": "Registro de candidatura validado por unanimidade no TSE e programa de governo registrado em 06/08/2026",
+      "context": "Campanha presidencial 2026",
+      "description": "O TSE aprovou por unanimidade, em 02/09/2026, o registro da chapa Samara Martins/Raquel Brício (UP), entre as seis primeiras chapas validadas; foram recebidos 13 pedidos de registro à Presidência até o prazo de 15/08/2026. O programa de governo da chapa foi registrado no TSE em 06/08/2026.",
+      "sources": [
+        {
+          "id": "src-sm-08",
+          "title": "TSE valida seis registros de candidatura à Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+          "publishedAt": "2026-09-02",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-sm-09",
+          "title": "TSE aprova registros de seis candidatos à Presidência da República",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+          "publishedAt": "2026-09-02",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Registro do programa de governo no TSE em 06/08/2026."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-sm-3",
+      "title": "Uma das duas únicas chapas presidenciais encabeçadas por mulheres em 2026",
+      "context": "Eleições 2026",
+      "description": "Das 12 chapas validadas pelo TSE para a Presidência em 2026, apenas duas são encabeçadas por mulheres: Samara Martins (UP) e Clariana Barão (DC). A chapa da UP também é 100% feminina (Samara/Raquel Brício).",
+      "sources": [
+        {
+          "id": "src-sm-11",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-sm-12",
+          "title": "Mulheres estão nas Eleições 2026. Mas em quais espaços da disputa...",
+          "publisher": "Instagram (levantamento citando validação do TSE)",
+          "url": "https://www.instagram.com/p/Dde76pVI_bL/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "governmentPlan": {
+    "title": "Programa da Revolução e do Socialismo (25 pontos; programa de governo registrado no TSE em 06/08/2026)",
+    "totalProposals": null,
+    "registeredWith": "TSE — programa de governo registrado em 06/08/2026 pela chapa do UP; registro de candidatura validado pelo TSE em 02/09/2026",
+    "registeredUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+    "planUrl": null,
+    "notes": "A candidata descreve o programa do UP como composto por 25 pontos, com definição de prioridades para os primeiros 100 dias (entrevistas de 2026). A contagem exata de propostas do documento registrado no TSE não foi recalculada item a item pela equipe: total registrado como não determinado.",
+    "statsIfCounted": {
+      "objective": "Programa socialista e anticapitalista: soberania nacional, controle estatal de setores estratégicos e ampliação da participação popular; meta declarada de combate à violência contra mulheres e ao femicídio",
+      "target": "Metas quantitativas por proposta não localizadas nas fontes consultadas; prioridades declaradas para os primeiros 100 dias",
+      "deadline": "Primeiros 100 dias (prioridades declaradas); demais prazos não informados",
+      "cost": "Custos por proposta não informados; a proposta prevê suspender o pagamento de juros e amortizações da dívida pública e fazer auditoria para financiar políticas sociais, sem valores",
+      "funding": "Suspensão imediata do pagamento de juros e amortizações da dívida pública, seguida de auditoria, com direcionamento dos recursos a políticas sociais; tributação de grandes fortunas",
+      "fiscal": "Suspensão de pagamentos de juros/amortizações da dívida e auditoria; não localizada regra de responsabilidade fiscal por proposta nas fontes consultadas",
+      "agency": null,
+      "instrument": "Nacionalização por lei, reestatização, auditoria da dívida, legislação trabalhista e educacional; eleição de juízes por voto popular",
+      "indicator": null,
+      "congress": "Contagem de propostas dependentes do Congresso não realizada pela equipe"
+    },
+    "statsEvidence": "parcial",
+    "keyProposals": [
+      {
+        "title": "Nacionalização do sistema bancário e do Banco Central; auditoria da dívida pública",
+        "theme": "Economia",
+        "description": "Nacionalização de todo o sistema bancário, colocando o Banco Central sob controle estatal e popular, limitação de juros considerados abusivos e ampliação dos bancos públicos; suspensão imediata do pagamento de juros e amortizações da dívida pública, seguida de auditoria, com os recursos redirecionados a políticas sociais; reestatização de empresas privatizadas e revisão de concessões de portos, aeroportos e rodovias.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei (nacionalização, auditoria da dívida) e atos administrativos (reestatização)",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-06",
+            "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+            "publisher": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Fim da jornada de 6×1 e redução para 30 horas semanais; emprego garantido",
+        "theme": "Trabalho",
+        "description": "Fim da escala 6×1, redução da jornada de trabalho para 30 horas semanais, garantia de emprego para toda pessoa apta com pagamento de auxílio equivalente a um salário mínimo até que haja vaga para todos, e valorização do salário mínimo.",
+        "hasCost": false,
+        "costDetail": "Auxílio de 1 salário mínimo por pessoa sem vaga: custo total não estimado nas fontes consultadas",
+        "deadline": null,
+        "legalInstrument": "Legislação trabalhista e orçamentária",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-14",
+            "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+            "publisher": "Today in Brazil",
+            "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-15",
+            "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+            "publisher": "Paraíba Online",
+            "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+            "publishedAt": "2026-07-25",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Cita fim da escala 6×1 e valorização do salário mínimo como propostas da candidatura presidencial."
+          }
+        ]
+      },
+      {
+        "title": "Desmilitarização das polícias e fim da PM na forma atual",
+        "theme": "Segurança",
+        "description": "Desmilitarização das polícias estaduais, reorganização da segurança pública com participação popular, abandono da lógica de 'inimigo interno', aproximação das forças de segurança da população e aumento de inteligência para combate ao crime organizado.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Legislação estadual de segurança pública e atos administrativos",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-14",
+            "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+            "publisher": "Today in Brazil",
+            "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Educação: fim do vestibular, revogação do Novo Ensino Médio e ampliação da educação gratuita",
+        "theme": "Educação",
+        "description": "Fim do vestibular e de qualquer processo seletivo para ingresso em universidades e cursos técnicos públicos; revogação do Novo Ensino Médio e nova reforma educacional conduzida por professores, sindicatos e estudantes; ampliação da educação pública gratuita.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei de diretrizes e bases da educação",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-14",
+            "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+            "publisher": "Today in Brazil",
+            "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Saúde e moradia: fortalecimento do SUS, exigência de uso público pelos políticos e imóveis abandonados para moradia",
+        "theme": "Saúde e moradia",
+        "description": "Ampliação do SUS e de investimento em saúde pública; proposta de que todos os políticos, de vereador a presidente, usem o serviço público de saúde; uso de imóveis abandonados para moradia; combate à violência contra a mulher e ao femicídio, com criminalização de condutas de exploração, opressão, discriminação e ódio dirigidos a mulheres.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Políticas públicas de saúde e habitação; legislação penal",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-sm-07",
+            "title": "Samara Martins defende que políticos usem o SUS",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+            "publishedAt": "2026-08-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-14",
+            "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+            "publisher": "Today in Brazil",
+            "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Reforma agrária popular, controle estatal de preços dos alimentos e estatização dos transportes coletivos",
+        "theme": "Agrário e infraestrutura",
+        "description": "Reforma Agrária Popular com fim do latifúndio, distribuição de terras e produção voltada ao abastecimento interno; nacionalização da terra; controle estatal direto dos preços dos alimentos para enfrentar a fome e a inflação; estatização dos meios de transporte coletivo (ônibus, metrôs, trens) com gestão por conselhos populares.",
+        "hasCost": false,
+        "costDetail": "Custos de reestatização/indenização não informados nas fontes consultadas",
+        "deadline": null,
+        "legalInstrument": "Lei (reforma agrária, controle de preços) e contratos de reestatização",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-sm-06",
+            "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+            "publisher": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Judiciário com juízes eleitos pelo voto popular; legalização do aborto; tributação de grandes fortunas",
+        "theme": "Institucional e tributário",
+        "description": "Eleição de juízes por voto popular (mandatos eletivos para magistrados, com escolha e avaliação populares); legalização do aborto com foco em saúde pública; aumento da tributação sobre grandes fortunas; socialização dos grandes veículos de comunicação; nacionalização de recursos minerais e energéticos.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Emenda constitucional e legislação tributária e penal",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-sm-10",
+            "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+            "publisher": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+            "publishedAt": "2026-08-06",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-06",
+            "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+            "publisher": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-sm-14",
+            "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+            "publisher": "Today in Brazil",
+            "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  "metrics": [
+    {
+      "id": "anos_executivo",
+      "category": "capacidade-execucao",
+      "name": "Anos em cargos executivos públicos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum cargo localizado: nunca ocupou mandato eletivo nem cargo de direção no Executivo.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "maior_orcamento",
+      "category": "capacidade-execucao",
+      "name": "Maior orçamento anual administrado",
+      "displayValue": "Não se aplica — nunca administrou orçamento público",
+      "value": null,
+      "unit": "R$ bi/ano",
+      "metricType": "currency",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Maior orçamento anual sob gestão em cargo público.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "Não localizado",
+      "value": null,
+      "unit": "servidores",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Servidores/equipe sob gestão direta em cargos públicos.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-sm-01",
+          "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+          "publisher": "Unidade Popular (site oficial do partido)",
+          "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_politica",
+      "category": "historico-experiencia",
+      "name": "Anos de experiência política",
+      "displayValue": "≈4,5 anos (primeira candidatura em 2022)",
+      "value": 4.5,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Anos desde a primeira candidatura documentada (vice em 2022, chapa de Leonardo Péricles) até 29/09/2026; é a segunda disputa presidencial do partido. Data de filiação ao UP não localizada nas fontes consultadas — ausência de registro não implica ausência de atividade prévia.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Confirma a candidatura à vice-presidência em 2022."
+        },
+        {
+          "id": "src-sm-04",
+          "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "'É a segunda vez que Samara disputará a eleição presidencial.'"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Militância anterior no movimento estudantil não datada nas fontes consultadas."
+    },
+    {
+      "id": "anos_legislativo",
+      "category": "articulacao",
+      "name": "Anos em cargos legislativos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma de períodos em cargos legislativos eletivos; nenhuma ocupação localizada. A UP não elegeu nenhum parlamentar em qualquer instância.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-sm-13",
+          "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Infobox com dados de 2024: 0 deputados federais, 0 estaduais, 0 vereadores."
+        },
+        {
+          "id": "src-sm-16",
+          "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco",
+          "publisher": "Brasil de Fato",
+          "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/",
+          "publishedAt": "2024-10-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "'A UP ainda não tem sequer um vereador em todo o Brasil.'"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_federal",
+      "category": "historico-experiencia",
+      "name": "Anos em cargos públicos federais",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "mandatos_eletivos",
+      "category": "historico-experiencia",
+      "name": "Mandatos eletivos conquistados",
+      "displayValue": "0 — em 2022 disputou a vice e não foi eleita; 2026 é a primeira disputa como cabeça de chapa",
+      "value": 0,
+      "unit": "mandatos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem de mandatos eletivos conquistados. Fato confirmado, não lacuna: candidata à vice em 2022 (não eleita) e nenhuma vitória eleitoral registrada até 29/09/2026.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-sm-04",
+          "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-02",
+          "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "Não se aplica como cabeça de chapa; em 2022, o UP à Presidência (Leonardo Péricles/Samara) obteve 53,5 mil votos (0,05% dos válidos)",
+      "value": null,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Votos da chapa presidencial em que foi candidata à vice (2022): 53,5 mil votos, 0,05% dos votos válidos, 8º lugar, segundo dados do TSE citados pela Brasil de Fato. Samara não disputou eleição majoritária anterior como cabeça de chapa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-16",
+          "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco",
+          "publisher": "Brasil de Fato",
+          "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/",
+          "publishedAt": "2024-10-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_total",
+      "category": "plano",
+      "name": "Propostas do plano de governo",
+      "displayValue": "Não determinado — programa com 25 pontos; contagem do documento registrado no TSE não recalculada",
+      "value": null,
+      "unit": "propostas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "A candidata descreve o programa do UP como composto por 25 pontos, com prioridades para os primeiros 100 dias (entrevistas de 2026). A contagem total de propostas do documento registrado no TSE em 06/08/2026 não foi recalculada item a item pela equipe.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-17",
+          "title": "Samara Martins: 'Programa com 25 pontos e prioridades para os primeiros 100 dias'",
+          "publisher": "Ceticismo.com — transcrições de podcasts (Podcast 3 Irmãos #1011 e shorts)",
+          "url": "https://ceticismo.com.br/en/transcript/96db1912-f940-4433-89fa-7da14d7a6f17",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Transcrição com classificação automática: 'We do have the Unidade Popular program with 25 points'."
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Registro do programa no TSE em 06/08/2026."
+        },
+        {
+          "id": "src-sm-18",
+          "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "Não informado por proposta",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com estimativa de custo próprio. Nenhuma quantificação por proposta localizada: fontes que cobriram o programa (Metrópoles, Band, Today in Brazil) informam que não há custos estimados ou detalhes de implementação.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_informed",
+      "sources": [
+        {
+          "id": "src-sm-14",
+          "title": "Brazil's UP Party Officially Launches Samara Martins for President",
+          "publisher": "Today in Brazil",
+          "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "'The source did not provide cost estimates or details on how the proposals will be implemented.'"
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "Prioridades declaradas para os primeiros 100 dias; % por proposta não calculada",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com prazo definido; contagem por item não realizada pela equipe. A candidata declara prioridades de mudança estrutural para os primeiros 100 dias de governo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-sm-17",
+          "title": "Samara Martins: 'Programa com 25 pontos e prioridades para os primeiros 100 dias'",
+          "publisher": "Ceticismo.com — transcrições de podcasts (Podcast 3 Irmãos #1011 e shorts)",
+          "url": "https://ceticismo.com.br/en/transcript/8424cbaf-dd9a-4b37-8343-f6accb86a329",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "Contagem não realizada; nacionalização de bancos, fim da 6×1, fim do vestibular e eleição de juízes dependem de legislação",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei (emendas constitucionais e leis ordinárias). Contagem não realizada pela equipe; a classificação por proposta está em keyProposals.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-06",
+          "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)",
+          "publisher": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "registro_tse",
+      "category": "integridade",
+      "name": "Situação do registro de candidatura no TSE",
+      "displayValue": "Validado por unanimidade — TSE, 02/09/2026 (chapa Samara Martins/Raquel Brício, UP)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-08",
+          "title": "TSE valida seis registros de candidatura à Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+          "publishedAt": "2026-09-02",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-sm-09",
+          "title": "TSE aprova registros de seis candidatos à Presidência da República",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+          "publishedAt": "2026-09-02",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Não foram localizadas impugnações de mérito, ficha-limpa ou decisões judiciais contra a candidata nas fontes consultadas."
+    },
+    {
+      "id": "bens_declarados",
+      "category": "integridade",
+      "name": "Bens declarados à Justiça Eleitoral",
+      "displayValue": "Não localizado nas fontes consultadas",
+      "value": null,
+      "unit": "R$",
+      "metricType": "currency",
+      "directionality": "neutral",
+      "methodology": "Total de bens declarados no registro de candidatura de 2026.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-sm-11",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Consulta ao registro; valor dos bens não capturado nesta consulta."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Ausência de valor capturado ≠ declaração zero: verificar no DivulgaCandContas antes de publicar."
+    },
+    {
+      "id": "bancada_partidaria_camara",
+      "category": "articulacao",
+      "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+      "displayValue": "0/513 deputados federais (a UP nunca elegeu parlamentar)",
+      "value": 0,
+      "unit": "cadeiras",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Cadeiras do UP na Câmara dos Deputados: 0/513, além de 0 senadores, 0 governadores, 0 deputados estaduais e 0 vereadores (dados de 2024). O estatuto do partido prevê bancadas parlamentares como órgão de ação, 'inativo pela ausência de parlamentares' até 11/05/2022, segundo verbete da Wikipédia.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-sm-13",
+          "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice de dados do TSE."
+        },
+        {
+          "id": "src-sm-19",
+          "title": "UP 2026: fundos, repasses e candidatos",
+          "publisher": "Plural (levantamento com dados do TSE)",
+          "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Prestação de contas parcial ao TSE, atualizada em 25/08/2026: 'legenda pequena, sem governadores, senadores ou deputados eleitos'."
+        },
+        {
+          "id": "src-sm-16",
+          "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco",
+          "publisher": "Brasil de Fato",
+          "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/",
+          "publishedAt": "2024-10-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Em 2026, o UP lançou 188 candidaturas (1 presidente, 1 vice, 17 governos estaduais, 23 senadores, 46 deputados federais, 34 estaduais e 2 distritais, entre outros)."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "historico-experiencia",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "1% (Datafolha, 15–17/09 e 24/09) | 0% (Quaest, 28/09) | 1% (Quaest, 21/09)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026 que testaram a candidatura. Rejeição: 10% (Datafolha, 15–17/09/2026).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-20",
+          "title": "Veja resultado da Quaest presidencial no 1º turno (28/09)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+          "publishedAt": "2026-09-28",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Quaest: entrevistas 24–27/09/2026, 2.004 pessoas, registro BR-06520/2026; Samara 0%."
+        },
+        {
+          "id": "src-sm-21",
+          "title": "Datafolha, 24 de setembro: Samara Martins 1%",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/quem-esta-na-frente-para-presidente-no-primeiro-turno-veja-resultados-das-ultimas-pesquisas.ghtml",
+          "publishedAt": "2026-09-28",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Datafolha: entrevistas 22–23/09/2026, 2.002 pessoas, registro BR-00304/2026; Samara 1%, Clariana 0%."
+        },
+        {
+          "id": "src-sm-22",
+          "title": "Pesquisa Datafolha de 15 a 17 de setembro de 2026 (PDF)",
+          "publisher": "Datafolha / Poder360 (cópia do boletim)",
+          "url": "https://static.poder360.com.br/uploads/2026/09/pesquisa-datafolha-17set2026.pdf",
+          "publishedAt": "2026-09-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral",
+          "notes": "Samara 1% no 1º turno estimulado; rejeição 10%; registro BR-00304/2026."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "currentSupport": [
+    {
+      "id": "sup-sm-1",
+      "description": "Partido isolado — chapa pura do UP (nº 80), sem coligação ou federação; vice Raquel Brício (UP), 35 anos, guarda portuária e presidente do Sindicato dos Trabalhadores Portuários do Pará e Amapá (Sindiporto-PA/AP), coordenadora nacional da corrente sindical Movimento Luta de Classes (MLC), candidata a deputada estadual em 2022 e a prefeita de Belém em 2024.",
+      "value": "UP — chapa pura, 100% feminina, sem alianças eleitorais",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-sm-01",
+          "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+          "publisher": "Unidade Popular (site oficial do partido)",
+          "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria"
+        },
+        {
+          "id": "src-sm-15",
+          "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+          "publisher": "Paraíba Online",
+          "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+          "publishedAt": "2026-07-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Confirma candidatura própria do UP à Presidência, sem coligações."
+        }
+      ]
+    },
+    {
+      "id": "sup-sm-2",
+      "description": "Financiamento: o UP recebeu R$ 0 de Fundo Eleitoral e R$ 0 de Fundo Partidário em 2026 e, até 25/08/2026, havia repassado R$ 21.746,41 a um único candidato (Vivian Mendes, governo de SP). O partido lança 188 candidaturas em 2026, incluindo 17 candidaturas a governos estaduais (12 lideradas por mulheres, cerca de 70%).",
+      "value": "R$ 0 de fundos públicos em 2026; R$ 21.746,41 repassados a 1 candidato (até 25/08/2026)",
+      "date": "2026-08-25",
+      "sources": [
+        {
+          "id": "src-sm-19",
+          "title": "UP 2026: fundos, repasses e candidatos",
+          "publisher": "Plural (levantamento com dados do TSE)",
+          "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-sm-23",
+          "title": "Unidade Popular quer Presidência e mira 17 governos",
+          "publisher": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/unidade-popular-quer-presidencia-e-mira-17-governos",
+          "publishedAt": "2026-08-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "'Sem receber recursos do fundo partidário e com a menor cota do fundo eleitoral.'"
+        }
+      ]
+    },
+    {
+      "id": "sup-sm-3",
+      "description": "Estrutura partidária: UP fundada em 16/06/2016, registro definitivo no TSE em 10/12/2019, sede em São Paulo/SP; presidente nacional Leonardo Péricles, vice-presidente Samara Martins. Filiados: 12.309 em dez/2025 (tabela do verbete do partido); o infobox do mesmo verbete cita 16.397 filiados em dez/2024 — números divergentes entre fontes. Organizações ligadas: Movimento de Mulheres Olga Benário, União da Juventude Rebelião (UJR), Movimento de Luta nos Bairros, Vilas e Favelas (MLB) e corrente sindical Luta de Classes.",
+      "value": "UP: fundada 2016, registro TSE 2019; entre 12.309 e 16.397 filiados (fontes divergentes)",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-sm-13",
+          "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-19",
+          "title": "UP 2026: fundos, repasses e candidatos",
+          "publisher": "Plural (levantamento com dados do TSE)",
+          "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ]
+    },
+    {
+      "id": "sup-sm-4",
+      "description": "Aprovação interna da chapa: pré-candidatura lançada pelo partido em fevereiro de 2026; chapa oficializada na Convenção Nacional do UP em 26/07/2026, na Universidade Zumbi dos Palmares, em São Paulo, com presença de candidatos do partido aos governos estaduais.",
+      "value": "Convenção Nacional do UP em 26/07/2026",
+      "date": "2026-07-26",
+      "sources": [
+        {
+          "id": "src-sm-01",
+          "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina",
+          "publisher": "Unidade Popular (site oficial do partido)",
+          "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria"
+        },
+        {
+          "id": "src-sm-24",
+          "title": "UP oficializa candidatura de Samara Martins à presidência com chapa 100% feminina",
+          "publisher": "R7 / Notícias",
+          "url": "https://noticias.r7.com/brasilia/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina-26072026/",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "negotiationHistory": [
+    {
+      "id": "neg-sm-1",
+      "description": "O UP declara disputa com candidatura própria e sem coligações: o partido 'chegou a fazer alguns diálogos com outros partidos, porém essas tratativas não avançaram' (dirigente paraibano Yuri Ezequiel, 25/07/2026). A chapa presidencial é pura (sem federação).",
+      "value": "sem coligações — diálogos com outros partidos não avançaram",
+      "date": "2026-07-25",
+      "sources": [
+        {
+          "id": "src-sm-15",
+          "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba",
+          "publisher": "Paraíba Online",
+          "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba",
+          "publishedAt": "2026-07-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "neg-sm-2",
+      "description": "Posicionamento na esquerda: em 2022, a UP apoiou Lula no segundo turno após obter 0,05% dos votos válidos com Leonardo Péricles; em 2026 mantém candidatura própria. A candidata afirmou em entrevista (12/08/2026) que a negociação política deve colocar o programa acima das pessoas.",
+      "value": "2022: apoio a Lula no 2º turno; 2026: candidatura própria",
+      "date": "2026-08-12",
+      "sources": [
+        {
+          "id": "src-sm-19",
+          "title": "UP 2026: fundos, repasses e candidatos",
+          "publisher": "Plural (levantamento com dados do TSE)",
+          "url": "https://www.plural.jor.br/candidatos-2026-partido-up/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-sm-25",
+          "title": "Samara Martins: Negociação política: programa acima de pessoas",
+          "publisher": "Ceticismo.com — transcrição classificada",
+          "url": "https://ceticismo.com.br/en/transcript/7eae4400-716d-465d-9616-b9018310a7a3",
+          "publishedAt": "2026-08-12",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "institutionalHistory": [
+    {
+      "id": "inst-sm-1",
+      "category": "tribunal",
+      "title": "Consulta a registros de processo e sanção — nenhuma denúncia, investigação ou condenação localizada",
+      "legalStatus": "regular",
+      "currentStatus": "encerrado",
+      "instance": "Busca em fontes públicas (TSE, imprensa e verbetes) até 29/09/2026",
+      "lastUpdate": "2026-09-29",
+      "description": "Nas fontes consultadas não foi localizada denúncia, inquérito, investigação, processo, decisão ou condenação criminal, eleitoral ou de ética profissional contra Samara Martins até 29/09/2026. Seu registro de candidatura foi validado por unanimidade pelo TSE em 02/09/2026, sem impugnação de mérito localizada. Ausência de registro em busca de fontes públicas não equivale a certidão negativa; evidência marcada como indeterminada.",
+      "sources": [
+        {
+          "id": "src-sm-08",
+          "title": "TSE valida seis registros de candidatura à Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+          "publishedAt": "2026-09-02",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-11",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ],
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low"
+    }
+  ],
+  "sources": [
+    { "id": "src-sm-01", "title": "UP oficializa candidatura de Samara Martins à Presidência com chapa 100% feminina", "publisher": "Unidade Popular (site oficial do partido)", "url": "https://unidadepopular.org.br/blog/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina", "publishedAt": "2026-07-26", "accessedAt": "2026-09-29", "sourceType": "partidaria", "notes": "Perfil: 38 anos, dentista do SUS, militância no movimento estudantil, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária; perfil da vice Raquel Brício." },
+    { "id": "src-sm-02", "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente", "publisher": "Agência Brasil (EBC)", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente", "publishedAt": "2026-07-26", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Vice na chapa de Leonardo Péricles em 2022." },
+    { "id": "src-sm-03", "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial", "publisher": "Agência Brasil (EBC)", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial", "publishedAt": "2026-08-18", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Natural de Belo Horizonte/MG, 38 anos, formada em Odontologia pela UFRN; chapa exclusivamente negra em 2022." },
+    { "id": "src-sm-04", "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República", "publisher": "Estadão", "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/", "publishedAt": "2026-07-26", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "'Chapa pura'; segunda disputa presidencial de Samara." },
+    { "id": "src-sm-05", "title": "Samara Martins (UP) | Café nas Eleições #028 — transcrição", "publisher": "Ceticismo.com", "url": "https://ceticismo.com.br/en/transcript/f8ea7673-cc2c-4e73-bff4-639966db9a5f", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Ano; data exata não capturada. Segunda chapa presidencial do UP." },
+    { "id": "src-sm-06", "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP)", "publisher": "Band", "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Ano; data exata não capturada. Formação na UFRN e propostas do programa." },
+    { "id": "src-sm-07", "title": "Samara Martins defende que políticos usem o SUS", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml", "publishedAt": "2026-08-24", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional." },
+    { "id": "src-sm-08", "title": "TSE valida seis registros de candidatura à Presidência da República", "publisher": "TSE — Tribunal Superior Eleitoral", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica", "publishedAt": "2026-09-02", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Chapa Samara Martins/Raquel Brício validada por unanimidade; 13 pedidos de registro até 15/08/2026." },
+    { "id": "src-sm-09", "title": "TSE aprova registros de seis candidatos à Presidência da República", "publisher": "Agência Brasil (EBC)", "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica", "publishedAt": "2026-09-02", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Publicado em 02/09/2026 - 21:35." },
+    { "id": "src-sm-10", "title": "Candidata à Presidência propõe fim da PM e estatização de bancos", "publisher": "Metrópoles", "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos", "publishedAt": "2026-08-06", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular." },
+    { "id": "src-sm-11", "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República", "publisher": "TSE — Tribunal Superior Eleitoral", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica", "publishedAt": "2026-09-11", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "12 chapas na disputa; 1º turno em 04/10/2026, 2º em 25/10/2026." },
+    { "id": "src-sm-12", "title": "Mulheres estão nas Eleições 2026. Mas em quais espaços da disputa...", "publisher": "Instagram (levantamento citando validação do TSE)", "url": "https://www.instagram.com/p/Dde76pVI_bL/", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Ano; data exata não capturada. Apenas duas chapas presidenciais encabeçadas por mulheres." },
+    { "id": "src-sm-13", "title": "Unidade Popular (Brasil) — verbete (Wikipédia em português)", "publisher": "Wikipédia", "url": "https://pt.wikipedia.org/wiki/Unidade_Popular_(Brasil)", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Enciclopédia colaborativa usada como índice: estrutura, bancadas (0), filiados, ala feminina." },
+    { "id": "src-sm-14", "title": "Brazil's UP Party Officially Launches Samara Martins for President", "publisher": "Today in Brazil", "url": "https://todayinbrazil.com/article/up-launches-samara-martins-presidential-campaign", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Ano; data exata não capturada. Plataforma socialista e ausência de custos estimados." },
+    { "id": "src-sm-15", "title": "Yuri Ezequiel apresenta projeto da Unidade Popular para disputar o Governo da Paraíba", "publisher": "Paraíba Online", "url": "https://paraibaonline.com.br/politica/2026/07/25/yuri-ezequiel-apresenta-projeto-da-unidade-popular-para-disputar-o-governo-da-paraiba", "publishedAt": "2026-07-25", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Candidatura própria sem coligações; propostas de valorização do salário mínimo e fim da 6×1." },
+    { "id": "src-sm-16", "title": "Em sua terceira eleição, caçula UP sonha com seu primeiro mandato em Pernambuco", "publisher": "Brasil de Fato", "url": "https://www.brasildefato.com.br/2024/10/06/em-sua-terceira-eleicao-cacula-up-sonha-com-seu-primeiro-mandato-em-pernambuco/", "publishedAt": "2024-10-06", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Votação de Léo Péricles em 2022 (53,5 mil, 0,05%); UP sem vereadores." },
+    { "id": "src-sm-17", "title": "Samara Martins — Podcast 3 Irmãos #1011 e shorts — transcrições", "publisher": "Ceticismo.com", "url": "https://ceticismo.com.br/en/transcript/8424cbaf-dd9a-4b37-8343-f6accb86a329", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Programa do UP com 25 pontos e prioridades para os primeiros 100 dias; proposta de políticos usarem SUS e serviços públicos." },
+    { "id": "src-sm-18", "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026", "publisher": "TSE — Tribunal Superior Eleitoral", "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
+    { "id": "src-sm-19", "title": "UP 2026: fundos, repasses e candidatos", "publisher": "Plural (levantamento com dados do TSE)", "url": "https://www.plural.jor.br/candidatos-2026-partido-up/", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "188 candidaturas; FEFC e fundo partidário R$ 0; R$ 21.746,41 repassados a 1 candidato (25/08/2026)." },
+    { "id": "src-sm-20", "title": "Veja resultado da Quaest presidencial no 1º turno (28/09)", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml", "publishedAt": "2026-09-28", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Samara 0% (eram 1%); registro BR-06520/2026." },
+    { "id": "src-sm-21", "title": "Quem está na frente para presidente no primeiro turno? Veja resultados das últimas pesquisas", "publisher": "Valor Econômico", "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/quem-esta-na-frente-para-presidente-no-primeiro-turno-veja-resultados-das-ultimas-pesquisas.ghtml", "publishedAt": "2026-09-28", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Datafolha 24/09: Samara 1%, Clariana 0%; Quaest 21/09: Samara 1%." },
+    { "id": "src-sm-22", "title": "Pesquisa Datafolha de 15 a 17 de setembro de 2026 (PDF)", "publisher": "Datafolha / Poder360 (cópia do boletim)", "url": "https://static.poder360.com.br/uploads/2026/09/pesquisa-datafolha-17set2026.pdf", "publishedAt": "2026-09-17", "accessedAt": "2026-09-29", "sourceType": "pesquisa_eleitoral", "notes": "Série histórica: Samara 1–3% entre mai/2026 e set/2026; rejeição 10%." },
+    { "id": "src-sm-23", "title": "Unidade Popular quer Presidência e mira 17 governos", "publisher": "SBT News", "url": "https://sbtnews.sbt.com.br/noticia/politica/unidade-popular-quer-presidencia-e-mira-17-governos", "publishedAt": "2026-08-10", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "17 candidaturas a governo, 12 femininas (~70%); ausência de recursos do fundo partidário." },
+    { "id": "src-sm-24", "title": "UP oficializa candidatura de Samara Martins à presidência com chapa 100% feminina", "publisher": "R7 / Notícias", "url": "https://noticias.r7.com/brasilia/up-oficializa-candidatura-de-samara-martins-a-presidencia-com-chapa-100-feminina-26072026/", "publishedAt": "2026-07-26", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
+    { "id": "src-sm-25", "title": "Samara Martins: Negociação política: programa acima de pessoas", "publisher": "Ceticismo.com — transcrição classificada", "url": "https://ceticismo.com.br/en/transcript/7eae4400-716d-465d-9616-b9018310a7a3", "publishedAt": "2026-08-12", "accessedAt": "2026-09-29", "sourceType": "imprensa" }
+  ],
+  "updatedAt": "2026-09-29"
+}

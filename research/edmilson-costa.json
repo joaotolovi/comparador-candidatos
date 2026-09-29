@@ -1,0 +1,1381 @@
+{
+  "id": "edmilson-costa",
+  "slug": "edmilson-costa",
+  "name": "Edmilson Silva Costa",
+  "ballotName": "Edmilson Costa",
+  "ballotNumber": 21,
+  "party": "PCB",
+  "coalition": "Partido isolado (PCB, nº 21) — chapa pura com vice Cleusa Santos (Cleusa dos Santos, PCB), servidora pública civil aposentada, nascida em 07/04/1956 em Goiânia (GO), superior completo, bens declarados em 2026: R$ 1.793.166,06 (Folha/TSE).",
+  "photoUrl": null,
+  "birthDate": "1950-04-08",
+  "age": 76,
+  "birthplace": "Pedreiras, MA",
+  "profession": "Aposentado (exceto servidor público) — ocupação declarada ao TSE; economista (doutor pela Unicamp), professor e jornalista por formação",
+  "currentRole": "Candidato à Presidência da República (PCB, nº 21, registro DEFERIDO) e secretário-geral nacional do Partido Comunista Brasileiro (desde 17/10/2016)",
+  "tagline": "Filiado ao PCB desde 1970 e secretário-geral do partido desde 2016; economista doutorado pela Unicamp, em sua 5ª disputa eleitoral — nenhuma vitória até 2026.",
+  "education": [
+    {
+      "id": "edu-ec-1",
+      "level": "graduacao",
+      "field": "Jornalismo",
+      "institution": "Universidade Federal do Maranhão (UFMA)",
+      "conclusionYear": null,
+      "notes": "Formação em Jornalismo pela UFMA registrada em perfil da Folha e em biografia compilada pela Agência Brasil/Diário Carioca; ano de conclusão não informado.",
+      "sources": [
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        },
+        {
+          "id": "src-ec-15",
+          "title": "PCB lança candidato à Presidência — Edmilson Costa (jornalismo UFMA, doutorado em Economia pela Unicamp nos anos 1990)",
+          "publisher": "Diário Carioca (texto creditado à Agência Brasil)",
+          "url": "https://www.diariocarioca.com/2026/08/17/politica/eleicoes/pcb-lanca-edmilson-costa-a-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Militância desde os anos 1980; doutorado em Economia pela Unicamp nos anos 1990 com tese sobre política salarial brasileira."
+        }
+      ]
+    },
+    {
+      "id": "edu-ec-2",
+      "level": "doutorado",
+      "field": "Economia",
+      "institution": "Universidade Estadual de Campinas (Unicamp)",
+      "conclusionYear": null,
+      "notes": "Doutor em Economia pela Unicamp nos anos 1990 (tese sobre política salarial brasileira, segundo a Agência Brasil); ano de conclusão exato não informado.",
+      "sources": [
+        {
+          "id": "src-ec-06",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+          "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+        },
+        {
+          "id": "src-ec-15",
+          "title": "PCB lança candidato à Presidência — Edmilson Costa (jornalismo UFMA, doutorado em Economia pela Unicamp nos anos 1990)",
+          "publisher": "Diário Carioca (texto creditado à Agência Brasil)",
+          "url": "https://www.diariocarioca.com/2026/08/17/politica/eleicoes/pcb-lanca-edmilson-costa-a-presidencia",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Militância desde os anos 1980; doutorado em Economia pela Unicamp nos anos 1990 com tese sobre política salarial brasileira."
+        }
+      ]
+    },
+    {
+      "id": "edu-ec-3",
+      "level": "especializacao",
+      "field": "Ciências Humanas (pós-doutorado)",
+      "institution": "Instituto de Filosofia e Ciências Humanas (IFCH) — Unicamp",
+      "conclusionYear": null,
+      "notes": "Pós-doutorado no IFCH da Unicamp, segundo perfil compilado pela Agência Brasil/Terra; ano não informado.",
+      "sources": [
+        {
+          "id": "src-ec-06",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+          "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+        }
+      ]
+    }
+  ],
+  "professionalExperience": [
+    {
+      "id": "prof-ec-1",
+      "role": "Professor universitário",
+      "organization": "Instituições de ensino superior (não especificadas nas fontes)",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Em 2008, ao lançar candidatura à prefeitura de SP, declarou ter 'mais de 20 anos de magistério' e descreveu-se como professor universitário e doutor em economia pela Unicamp (texto original do G1/Globo sobre a convenção do PCB). Ocupação declarada ao TSE em 2026: 'Aposentado (exceto servidor público)'.",
+      "achievements": ["Mais de 20 anos de magistério declarados em 2008 (G1/Globo)"],
+      "sources": [
+        {
+          "id": "src-ec-08",
+          "title": "PCB confirma candidatura de Edmilson Costa à Prefeitura de São Paulo (texto original do G1/Globo de 21/06/2008, reproduzido por réplica)",
+          "publisher": "Globo.com (réplica: hlera.com.br)",
+          "url": "https://noticia.hlera.com.br/politica/pcb-confirma-candidatura-de-edmilson-costa-a-prefeitura-de-sao-paulo/",
+          "publishedAt": "2008-06-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "URL original do G1 (2008) não localizada; réplica preserva o texto. Convenção do PCB de 21/06/2008: candidato a prefeito, professor universitário e doutor em economia pela Unicamp, '30 anos de militância' e 'mais de 20 anos de magistério'; vice jornalista Fernanda Mendes; cerca de 10 mil filiados na capital."
+        },
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        }
+      ]
+    },
+    {
+      "id": "prof-ec-2",
+      "role": "Autor — obras sobre economia e livros de poesia",
+      "organization": "Autônomo / editoras independentes",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Segundo a Agência Brasil/Terra, é autor de obras sobre o capitalismo contemporâneo e a crise econômica mundial, além de livros de poesia. Títulos e editoras não localizados nas fontes desta rodada.",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-ec-06",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+          "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+        }
+      ]
+    }
+  ],
+  "politicalExperience": [
+    {
+      "id": "pol-ec-1",
+      "role": "Filiado ao Partido Comunista Brasileiro (PCB)",
+      "organization": "PCB",
+      "startDate": "1970",
+      "endDate": null,
+      "description": "Membro do PCB desde 1970 (infobox da Wikipédia: 'PCB 1970–presente'; Agência Brasil/Terra: 'Membro do partido desde 1970'; perfil da Folha: 'militante histórico do PCB desde os anos 1970'). Iniciou a militância como dirigente estudantil, teria sido perseguido durante a ditadura militar e participou de movimentos em defesa das liberdades democráticas (versão do próprio partido, citada pela Agência Brasil). Membro da Comissão Política Nacional do PCB desde 2001; ex-Secretário de Relações Internacionais e ex-Secretário Político do PCB em São Paulo até 2016 (Wikipédia).",
+      "achievements": [
+        "Membro da Comissão Política Nacional do PCB desde 2001",
+        "Ex-secretário de Relações Internacionais e ex-secretário político do PCB-SP até 2016"
+      ],
+      "sources": [
+        {
+          "id": "src-ec-03",
+          "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+        },
+        {
+          "id": "src-ec-06",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+          "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+        },
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        }
+      ]
+    },
+    {
+      "id": "pol-ec-2",
+      "role": "Secretário-geral nacional do PCB (13º titular)",
+      "organization": "Partido Comunista Brasileiro (PCB)",
+      "startDate": "2016-10-17",
+      "endDate": null,
+      "description": "Eleito secretário-geral em 17/10/2016, sucedendo Ivan Pinheiro, e no cargo até 29/09/2026 (Wikipédia; CNN Brasil; site do PCB). É a principal função partidária do candidato — cargo partidário, sem administração de recursos ou pessoal públicos.",
+      "achievements": ["Secretário-geral do PCB desde 17/10/2016 (sucessor de Ivan Pinheiro)"],
+      "sources": [
+        {
+          "id": "src-ec-03",
+          "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+        },
+        {
+          "id": "src-ec-07",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+        }
+      ]
+    },
+    {
+      "id": "pol-ec-3",
+      "role": "Candidaturas a cargos eletivos (todas não eleitas até 2014)",
+      "organization": "PCB (2008, 2010, 2014, 2026) e chapa do PSOL (2012)",
+      "startDate": "2008",
+      "endDate": null,
+      "description": "Prefeito de São Paulo em 2008 pelo PCB (4.300 votos, 0,07%); vice-presidente em 2010 na chapa de Ivan Pinheiro (39.136 votos, 0,04%); vice-prefeito de São Paulo em 2012 na coligação Frente de Esquerda (chapa do PSOL, candidato a prefeito Carlos Giannasi) com 62.431 votos; senador por São Paulo em 2014 pelo PCB (12.102 votos, não eleito); candidato à Presidência em 2026. Nexo (dados TSE): nenhuma eleição vencida desde 1998.",
+      "achievements": [
+        "5 candidaturas documentadas desde 1998, nenhuma eleita até 2026 (Nexo/TSE)"
+      ],
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        },
+        {
+          "id": "src-ec-06",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+          "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+        },
+        {
+          "id": "src-ec-09",
+          "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+          "publisher": "PSOL 50 (site da seção de São Paulo)",
+          "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+          "publishedAt": "2012-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+        },
+        {
+          "id": "src-ec-10",
+          "title": "PCB oficializa candidatura própria à presidência e ao governo de SP (2014)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/06/pcb-oficializa-candidatura-propria-presidencia-e-ao-governo-de-sp.html",
+          "publishedAt": "2014-06-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção do PCB de 21/06/2014; o partido lançou chapa própria à presidência e ao governo de SP. A candidatura de Edmilson Costa ao Senado por SP em 2014 é confirmada pelo histórico do Nexo/TSE (12.102 votos)."
+        }
+      ]
+    }
+  ],
+  "executiveExperience": [],
+  "achievements": [
+    {
+      "id": "ach-ec-1",
+      "title": "Secretário-geral nacional do PCB (13º titular), desde outubro de 2016",
+      "context": "Partido Comunista Brasileiro, 2016–atual",
+      "description": "Eleito em 17/10/2016 para suceder Ivan Pinheiro na secretaria-geral do PCB e no cargo até a eleição de 2026 — 10 anos à frente do partido no momento do pleito.",
+      "sources": [
+        {
+          "id": "src-ec-03",
+          "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+        },
+        {
+          "id": "src-ec-07",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-ec-2",
+      "title": "Três candidaturas municipais/federais em SP em 8 anos (2008–2014), sem vitória",
+      "context": "PCB e chapa com o PSOL, 2008–2014",
+      "description": "Prefeito de SP em 2008 (4.300 votos, 0,07%), vice-presidente em 2010 na chapa de Ivan Pinheiro (39.136 votos, 0,04%), vice-prefeito de SP em 2012 na chapa do PSOL com Carlos Giannasi (62.431 votos) e candidato ao Senado por SP em 2014 (12.102 votos) — nenhuma eleição vencida.",
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        },
+        {
+          "id": "src-ec-06",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+          "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-ec-3",
+      "title": "Registro da candidatura presidencial deferido com chapa pura pelo PCB (2026)",
+      "context": "Campanha presidencial 2026",
+      "description": "O PCB oficializou a candidatura em convenção de 01/08/2026 na Câmara Municipal de São Paulo, com Cleusa Santos (PCB) na vice; o registro consta como DEFERIDO nas fichas com dados do TSE consultadas em 29/09/2026, e a chapa integra as 12 candidaturas válidas divulgadas pelo TSE em 11/09/2026.",
+      "sources": [
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        },
+        {
+          "id": "src-ec-11",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Oficializa o quadro final de 12 chapas válidas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+        },
+        {
+          "id": "src-ec-07",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "governmentPlan": {
+    "title": "Programa do Partido Comunista Brasileiro (PCB) para as Eleições Presidenciais de 2026",
+    "totalProposals": 35,
+    "registeredWith": "TSE — página oficial 'Propostas de Governo' + PDF oficial proposta-pcb.pdf (16 páginas, publicado em 14/08/2026)",
+    "registeredUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+    "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+    "notes": "Título do PDF conforme extraído do documento oficial; o subtítulo aparece truncado na captura ('Construir o Poder Popul…'). Contagem de 35 propostas feita pela equipe sobre a página do TSE (item 'Erro na página' excluído). Página do TSE bloqueou acesso direto por CDN (Access Denied); conteúdo obtido via leitura alternativa (r.jina.ai).",
+    "statsIfCounted": {
+      "objective": "Propostas descritivas sem metas quantitativas individuais; alguns números pontuais aparecem no texto (10% do PIB na saúde, 54% de cotas para negros)",
+      "target": null,
+      "deadline": "Prazos por proposta não informados no texto indexado pelo TSE",
+      "cost": null,
+      "funding": null,
+      "fiscal": "Revogação do arcabouço fiscal, da LRF e 'leis neoliberais'; reestruturação e auditoria da dívida pública com suspensão de juros",
+      "agency": "Conselhos Populares (saúde e em geral), Orçamento Popular deliberativo, Assembleia Constituinte de Novo Tipo",
+      "instrument": "Lei ordinária, emenda constitucional e Assembleia Constituinte; estatizações via legislação específica",
+      "indicator": null,
+      "congress": "Mudanças constitucionais (estatização bancária, constituinte, reforma do Judiciário) dependem do Congresso; contagem por proposta não realizada pela equipe"
+    },
+    "statsEvidence": "indeterminado",
+    "keyProposals": [
+      {
+        "title": "Jornada de 30 horas semanais sem redução salarial e fim da escala 6x1",
+        "theme": "Outros",
+        "description": "Impulsionar a redução da jornada para 30 horas semanais sem perda salarial e extinguir a escala 6x1 (propostas nas páginas 2, 5 e 14 do programa oficial).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei (negociação/trabalho)",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          }
+        ]
+      },
+      {
+        "title": "Nacionalização e estatização do sistema monetário, financeiro e bancário (Banco dos Trabalhadores)",
+        "theme": "Economia",
+        "description": "Nacionalização e estatização do sistema monetário, financeiro e bancário, com criação de um 'Banco dos Trabalhadores' (página 4 do programa).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei/emenda constitucional (estatização bancária)",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          },
+          {
+            "id": "src-ec-05",
+            "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+            "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+          }
+        ]
+      },
+      {
+        "title": "Auditoria e suspensão de juros da dívida pública; revogação do arcabouço fiscal e da LRF",
+        "theme": "Economia",
+        "description": "Reestruturação e auditoria da dívida pública com suspensão de juros (página 4) e revogação do arcabouço fiscal, da Lei de Responsabilidade Fiscal e das 'leis neoliberais' (páginas 2, 4 e 13).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei/emenda constitucional",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          }
+        ]
+      },
+      {
+        "title": "Saúde 100% pública com estatização do setor privado e 10% do PIB",
+        "theme": "Saúde",
+        "description": "Saúde 100% pública, gratuita e universal, com estatização do setor privado de saúde e fim das Organizações Sociais (páginas 2, 6 e 10); investimento de 10% do PIB na saúde pública e fortalecimento da atenção básica; Conselhos Populares de Saúde em todos os níveis; proibição de comunidades terapêuticas (antimaniquial).",
+        "hasCost": true,
+        "costDetail": "Meta de investimento de 10% do PIB na saúde pública (sem desdobramento de custo anual no texto)",
+        "deadline": null,
+        "legalInstrument": "Lei ordinária e legislação de estatização",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          }
+        ]
+      },
+      {
+        "title": "Ensino 100% público e gratuito da creche à pós-graduação, fim do vestibular e cotas ampliadas",
+        "theme": "Educação",
+        "description": "Estatização do ensino privado; fim do vestibular nas universidades federais e universalização de cotas (54% para negros e ampla inclusão trans); Piso Salarial Profissional Nacional para a educação básica; ampliação dos Institutos Federais (páginas 2, 7 e 10).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei e legislação de ensino superior",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          }
+        ]
+      },
+      {
+        "title": "Desmilitarização e unificação das polícias; fim da 'guerra às drogas'",
+        "theme": "Segurança",
+        "description": "Completa desmilitarização da segurança pública, unificação das polícias e instituição do ciclo completo de formação; fim da política de 'guerra às drogas' com descriminalização do uso (legalização da maconha a curto prazo); revogação da Lei Antiterrorismo (12.850/2013) e da Lei Antidrogas; ocupação de territórios dominados pelo crime organizado com serviços públicos (páginas 6 e 12).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei (políticas públicas de segurança)",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          }
+        ]
+      },
+      {
+        "title": "Assembleia Constituinte de Novo Tipo e Orçamento Popular deliberativo",
+        "theme": "Administração pública",
+        "description": "Convocação de uma Assembleia Constituinte de Novo Tipo e criação de Conselhos Populares deliberativos (páginas 3, 4 e 9); instituição de Orçamento Popular 100% deliberativo com revogabilidade de mandatos; democratização radical dos meios de comunicação e regulação das Big Techs; reforma estrutural do Judiciário com mandatos fixos e revogáveis para tribunais superiores (página 4 e 13).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Assembleia Constituinte + legislação de orçamento",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          },
+          {
+            "id": "src-ec-05",
+            "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+            "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+          }
+        ]
+      },
+      {
+        "title": "Rompimento de relações com o Estado de Israel e combate ao imperialismo",
+        "theme": "Política externa",
+        "description": "Combate ao imperialismo (OTAN, OEA e Cúpula das Américas) e solidariedade ativa a Cuba, Palestina, Venezuela, Irã e Saara Ocidental; rompimento imediato de relações diplomáticas e econômicas com o Estado de Israel; fortalecimento de blocos regionais como ALBA e UNASUL (páginas 2, 8, 15 e 16).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": "Rompimento de relações: 'imediato' (sem data)",
+        "legalInstrument": "Ato do Executivo (política externa)",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-ec-04",
+            "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  "metrics": [
+    {
+      "id": "anos_executivo",
+      "category": "capacidade-execucao",
+      "name": "Anos em cargos executivos públicos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum localizado: nunca foi eleito e não há registro de nomeação — histórico TSE completo desde 1998 (Nexo) mostra 5 candidaturas, todas derrotadas.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exerce apenas função partidária (secretário-geral do PCB) — cargo privado, sem administração de recursos ou pessoal públicos."
+    },
+    {
+      "id": "maior_orcamento",
+      "category": "capacidade-execucao",
+      "name": "Maior orçamento anual administrado",
+      "displayValue": "Não se aplica — nunca administrou orçamento público",
+      "value": null,
+      "unit": "R$ bi/ano",
+      "metricType": "currency",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Maior orçamento anual sob gestão em cargo público.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "Não localizado",
+      "value": null,
+      "unit": "servidores",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Servidores/equipe sob gestão direta em cargos públicos.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_politica",
+      "category": "historico-experiencia",
+      "name": "Anos de experiência política",
+      "displayValue": "56 anos (filiado ao PCB desde 1970)",
+      "value": 56,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Anos entre a filiação ao PCB (1970) e 29/09/2026. Fonte primária da data: Wikipédia (infobox 'PCB 1970–presente') e Agência Brasil/Terra ('membro do partido desde 1970'); a Folha resume como 'militante histórico do PCB desde os anos 1970'.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-03",
+          "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+        },
+        {
+          "id": "src-ec-06",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+          "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+        },
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Militância ativa registrada desde os anos 1970 (dirigente estudantil); a imprensa de 2008 já descrevia '30 anos de militância'. Se contada a partir da primeira candidatura (2008), seriam 18 anos em disputas eleitorais."
+    },
+    {
+      "id": "anos_legislativo",
+      "category": "articulacao",
+      "name": "Anos em cargos legislativos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma de períodos em cargos legislativos eletivos; nenhum mandato localizado. Ressalva: histórico eleitoral consultado cobre desde 1998 (Nexo/TSE); disputas anteriores a 1998 não foram localizadas.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "A premissa de 'ex-vereador de São Paulo' NÃO foi confirmada: não há vereança no histórico TSE desde 1998 nem nas buscas na Câmara Municipal de SP; status do dado: not_found."
+    },
+    {
+      "id": "anos_federal",
+      "category": "historico-experiencia",
+      "name": "Anos em cargos públicos federais",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada (candidaturas a vice-presidente em 2010 e senador em 2014 foram derrotadas).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "mandatos_eletivos",
+      "category": "historico-experiencia",
+      "name": "Mandatos eletivos conquistados",
+      "displayValue": "0 — nenhuma eleição vencida nas 5 disputas documentadas (2008–2026)",
+      "value": 0,
+      "unit": "mandatos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem de mandatos eletivos conquistados, com base no histórico eleitoral TSE desde 1998 (Nexo): 2008, 2010, 2012, 2014 e 2026 — todas não eleitas.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        },
+        {
+          "id": "src-ec-11",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Oficializa o quadro final de 12 chapas válidas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "117.969 votos somados em 4 disputas derrotadas (2008–2014)",
+      "value": 117969,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos votos por disputa anterior a 2026: 4.300 (2008, candidato a prefeito); 39.136 (2010, votos da chapa presidencial Ivan Pinheiro/Edmilson); 62.431 (2012, votos da chapa Giannasi/Edmilson a vice-prefeito de SP); 12.102 (2014, candidato a senador). Unidades misturam voto individual e de chapa — valores conforme registrados no TSE (via Nexo/Terra).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        },
+        {
+          "id": "src-ec-06",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+          "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Não inclui a disputa de 2026 (em curso). Nenhuma disputa presidencial anterior — em 2010 foi vice na chapa de Ivan Pinheiro."
+    },
+    {
+      "id": "propostas_total",
+      "category": "plano",
+      "name": "Propostas do plano de governo",
+      "displayValue": "35 propostas indexadas pelo TSE (PDF oficial de 16 páginas)",
+      "value": 35,
+      "unit": "propostas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem pela equipe dos itens de proposta na página oficial 'Edmilson Costa — Propostas de Governo' do TSE, excluindo o marcador 'Erro na página'.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-04",
+          "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+        },
+        {
+          "id": "src-ec-05",
+          "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+          "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "0% — nenhuma das 35 propostas traz estimativa de custo no texto indexado pelo TSE",
+      "value": 0,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com estimativa de custo própria. Na leitura do índice do TSE, nenhum item informa custo (apenas uma meta de 10% do PIB na saúde, sem valor monetário). Ausência de custo no texto indexado ≠ custo zero — classificado como 'nenhuma informação de custo'.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "not_informed",
+      "sources": [
+        {
+          "id": "src-ec-04",
+          "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "Não informado por proposta (0 prazos identificados no índice do TSE)",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com prazo definido. Nenhum prazo identificado no índice de 35 itens; contagem por item do PDF completo não realizada.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-ec-05",
+          "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+          "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "registro_tse",
+      "category": "integridade",
+      "name": "Situação do registro de candidatura no TSE",
+      "displayValue": "DEFERIDO — registro deferido (chapsa entre as 12 candidaturas válidas divulgadas pelo TSE em 11/09/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026, conforme ficha da Folha (dados TSE) e Nexo (registro deferido).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        },
+        {
+          "id": "src-ec-11",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Oficializa o quadro final de 12 chapas válidas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Integridade: as buscas desta rodada (processos, denúncias, investigações, prestação de contas) NÃO localizaram nenhum registro judicial ou eleitoral em andamento ou encerrado contra o candidato — dado tratado como not_found, não como 'ficha limpa certificada'. Premissas do briefing não confirmadas: 'ex-vereador de São Paulo' (não localizado na Câmara Municipal de SP nem no histórico TSE) e 'metalúrgico/sindicalista' (a ficha TSE declara ocupação 'Aposentado (exceto servidor público)'; as fontes descrevem jornalista, economista e professor — sindicato não localizado)."
+    },
+    {
+      "id": "bens_declarados",
+      "category": "integridade",
+      "name": "Bens declarados à Justiça Eleitoral",
+      "displayValue": "R$ 454.485,68 (2026)",
+      "value": 454485.68,
+      "unit": "R$",
+      "metricType": "currency",
+      "directionality": "neutral",
+      "methodology": "Total de bens declarados no registro de 2026 (TSE, via Folha/Nexo). Composição: apartamento (50%) R$ 350.000,00; VGBL R$ 52.850,00; poupança R$ 51.403,07; renda fixa R$ 232,61. Comparação: R$ 502.013,29 declarados em 2014.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        },
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Limite legal de gastos no 1º turno: R$ 88.944.030,80."
+    },
+    {
+      "id": "bancada_partidaria_camara",
+      "category": "articulacao",
+      "name": "Bancada do partido no Congresso (antes da eleição de 2026)",
+      "displayValue": "0/513 deputados federais e 0 senadores",
+      "value": 0,
+      "unit": "cadeiras",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Consulta às APIs oficiais da Câmara dos Deputados (deputados em exercício na 57ª Legislatura com siglaPartido=PCB) e do Senado (parlamentares em exercício em 29/09/2026): nenhum resultado.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-ec-12",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+        },
+        {
+          "id": "src-ec-13",
+          "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+          "publisher": "Senado Federal (dados abertos)",
+          "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Cargos estaduais, municipais e vereadores do PCB não verificados nesta rodada."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "historico-experiencia",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "0% (Quaest/Rede Amazônica — Amapá, 25/08/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Última sondagem estimulada localizada nesta rodada que inclui o candidato. Pesquisa regional (Amapá); pesquisa nacional com o candidato não localizada nas buscas desta rodada.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-14",
+          "title": "Quaest 2026: veja como está a disputa pela presidência no AP (Edmilson Costa 0%)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/ap/amapa/noticia/2026/08/25/quaest-ap-presidente-25-agosto.ghtml",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Pesquisa estimulada com 804 pessoas ouvidas entre 21 e 24/08/2026, encomendada pela Rede Amazônica; margem de 3 pontos; cenário com e sem Marçal. Edmilson Costa: 0% nos dois cenários."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Amostra regional; não representa a intenção nacional."
+    }
+  ],
+  "currentSupport": [
+    {
+      "id": "sup-ec-1",
+      "description": "Chapa pura do PCB (partido isolado, nº 21), sem coligação nem federação; vice: Cleusa dos Santos (PCB), servidora pública civil aposentada de Goiânia (GO).",
+      "value": "PCB — partido isolado",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        },
+        {
+          "id": "src-ec-07",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+        }
+      ]
+    },
+    {
+      "id": "sup-ec-2",
+      "description": "Bancada do PCB no Congresso: 0 deputados federais em exercício (57ª Legislatura) e 0 senadores em exercício, segundo APIs oficiais consultadas em 29/09/2026.",
+      "value": "0/513 na Câmara; 0 no Senado",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-ec-12",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+        },
+        {
+          "id": "src-ec-13",
+          "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+          "publisher": "Senado Federal (dados abertos)",
+          "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+        }
+      ]
+    },
+    {
+      "id": "sup-ec-3",
+      "description": "Financiamento da campanha presidencial até 08/09/2026 (prestação parcial ao TSE): receita de R$ 25.971,00 de 9 doadores — 51% financiamento coletivo (vaquinha R$ 13.171,00) e 49% pessoas físicas (R$ 12.800,00); gasto contratado de R$ 22.531,22 (0,0% do limite legal de R$ 88.944.030,80), sendo R$ 19.531,22 já pagos. Principal destino: publicidade em materiais impressos (R$ 11.920,00, 53%).",
+      "value": "R$ 25.971 de receita até 08/09/2026 (9 doadores)",
+      "date": "2026-09-08",
+      "sources": [
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        }
+      ]
+    }
+  ],
+  "negotiationHistory": [
+    {
+      "id": "neg-ec-1",
+      "description": "Aliança municipal em 2012: aceitou ser candidato a vice-prefeito de São Paulo na coligação Frente de Esquerda, encabeçada pelo candidato a prefeito do PSOL, Carlos Giannasi — aliança pontual entre PCB e PSOL que obteve 62.431 votos (não eleita).",
+      "value": "Coligação Frente de Esquerda (PSOL + PCB) em SP, 2012",
+      "date": "2012-10",
+      "sources": [
+        {
+          "id": "src-ec-09",
+          "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+          "publisher": "PSOL 50 (site da seção de São Paulo)",
+          "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+          "publishedAt": "2012-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+        },
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        }
+      ]
+    },
+    {
+      "id": "neg-ec-2",
+      "description": "Nenhuma negociação legislativa registrada: o PCB não tem bancada no Congresso (0 deputados e 0 senadores) e o candidato nunca ocupou mandato. Registros de articulação em votações não localizados (not_found).",
+      "value": "sem registros de negociação legislativa",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-ec-12",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+        }
+      ]
+    }
+  ],
+  "institutionalHistory": [],
+  "sources": [
+    {
+      "id": "src-ec-01",
+      "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+      "publisher": "Folha de S.Paulo (dados: TSE)",
+      "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+    },
+    {
+      "id": "src-ec-02",
+      "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+      "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+      "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+    },
+    {
+      "id": "src-ec-03",
+      "title": "Edmilson Costa — verbete (Wikipédia em português: PCB 1970–presente; secretário-geral desde 17/10/2016; alma mater UFMA e Unicamp)",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Edmilson_Costa",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis."
+    },
+    {
+      "id": "src-ec-04",
+      "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+    },
+    {
+      "id": "src-ec-05",
+      "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+      "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+      "publishedAt": "2026-08-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+    },
+    {
+      "id": "src-ec-06",
+      "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+      "publisher": "Terra (conteúdo: Estadão/Agência Brasil)",
+      "url": "https://www.terra.com.br/noticias/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia,fd9f0ea53672090c3fb6ce3cf1fe4178ce14sdri.html",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Doutor em Economia pela Unicamp com pós-doutorado no IFCH; autor de obras sobre capitalismo contemporâneo e crise econômica mundial, além de livros de poesia; membro do PCB desde 1970; em 2008 obteve 4.300 votos (0,07%) e em 2010 a chapa com Ivan Pinheiro obteve 39.136 votos (0,04%); a chapa de 2026 propõe suspender o pagamento da dívida pública e extinguir o Senado."
+    },
+    {
+      "id": "src-ec-07",
+      "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+    },
+    {
+      "id": "src-ec-08",
+      "title": "PCB confirma candidatura de Edmilson Costa à Prefeitura de São Paulo (texto original do G1/Globo de 21/06/2008, reproduzido por réplica)",
+      "publisher": "Globo.com (réplica: hlera.com.br)",
+      "url": "https://noticia.hlera.com.br/politica/pcb-confirma-candidatura-de-edmilson-costa-a-prefeitura-de-sao-paulo/",
+      "publishedAt": "2008-06-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "URL original do G1 (2008) não localizada; réplica preserva o texto. Convenção do PCB de 21/06/2008: candidato a prefeito, professor universitário e doutor em economia pela Unicamp, '30 anos de militância' e 'mais de 20 anos de magistério'; vice jornalista Fernanda Mendes; cerca de 10 mil filiados na capital."
+    },
+    {
+      "id": "src-ec-09",
+      "title": "Candidatos do PSOL São Paulo 2012 — Frente de Esquerda (prefeito Carlos Giannasi; vice Edmilson Costa, PCB)",
+      "publisher": "PSOL 50 (site da seção de São Paulo)",
+      "url": "https://psol50sp.org.br/2012/09/candidatos-do-psol-sao-paulo/",
+      "publishedAt": "2012-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Fonte partidária: chapa da Frente de Esquerda em 2012 com vice Edmilson Costa (PCB)."
+    },
+    {
+      "id": "src-ec-10",
+      "title": "PCB oficializa candidatura própria à presidência e ao governo de SP (2014)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/06/pcb-oficializa-candidatura-propria-presidencia-e-ao-governo-de-sp.html",
+      "publishedAt": "2014-06-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Convenção do PCB de 21/06/2014; o partido lançou chapa própria à presidência e ao governo de SP. A candidatura de Edmilson Costa ao Senado por SP em 2014 é confirmada pelo histórico do Nexo/TSE (12.102 votos)."
+    },
+    {
+      "id": "src-ec-11",
+      "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Oficializa o quadro final de 12 chapas válidas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+    },
+    {
+      "id": "src-ec-12",
+      "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+      "publisher": "Câmara dos Deputados (dados abertos)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+    },
+    {
+      "id": "src-ec-13",
+      "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+      "publisher": "Senado Federal (dados abertos)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCB."
+    },
+    {
+      "id": "src-ec-14",
+      "title": "Quaest 2026: veja como está a disputa pela presidência no AP (Edmilson Costa 0%)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/08/25/quaest-ap-presidente-25-agosto.ghtml",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Pesquisa estimulada com 804 pessoas ouvidas entre 21 e 24/08/2026, encomendada pela Rede Amazônica; margem de 3 pontos; cenário com e sem Marçal. Edmilson Costa: 0% nos dois cenários."
+    },
+    {
+      "id": "src-ec-15",
+      "title": "PCB lança candidato à Presidência — Edmilson Costa (jornalismo UFMA, doutorado em Economia pela Unicamp nos anos 1990)",
+      "publisher": "Diário Carioca (texto creditado à Agência Brasil)",
+      "url": "https://www.diariocarioca.com/2026/08/17/politica/eleicoes/pcb-lanca-edmilson-costa-a-presidencia",
+      "publishedAt": "2026-08-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Militância desde os anos 1980; doutorado em Economia pela Unicamp nos anos 1990 com tese sobre política salarial brasileira."
+    }
+  ],
+  "updatedAt": "2026-09-29"
+}

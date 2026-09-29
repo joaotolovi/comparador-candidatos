@@ -43,7 +43,7 @@ export function DifferenceSummary({
             className={cn(
               "grid items-start gap-x-6 gap-y-3 py-5",
               idx !== differences.length - 1 && "border-b border-border",
-              "sm:grid-cols-[1fr_auto]",
+              "sm:grid-cols-[minmax(0,1fr)_auto]",
             )}
           >
             <div className="flex flex-col gap-1">
@@ -53,7 +53,7 @@ export function DifferenceSummary({
               <h4 className="text-base font-semibold leading-snug sm:text-lg">
                 {d.name}
               </h4>
-              <div className="mt-2 flex flex-col gap-2.5 sm:flex-row sm:items-center sm:gap-6">
+              <div className="mt-2 flex flex-col gap-2.5 sm:flex-row sm:flex-wrap sm:items-center sm:gap-x-6 sm:gap-y-2">
                 {d.values.map((m, i) => {
                   const s = SLOT[(["a", "b", "c"] as const)[i] ?? "a"];
                   return (
@@ -65,7 +65,12 @@ export function DifferenceSummary({
                           s.bg,
                         )}
                       />
-                      <span className="num-hero stretch-expanded text-xl">
+                      <span
+                        className={cn(
+                          "num-hero stretch-expanded break-words",
+                          (m?.displayValue.length ?? 0) > 18 && "num-hero-sm",
+                        )}
+                      >
                         {m ? m.displayValue : "—"}
                       </span>
                     </div>
@@ -73,8 +78,8 @@ export function DifferenceSummary({
                 })}
               </div>
             </div>
-            <div className="sm:justify-self-end">
-              <span className="inline-flex rounded bg-foreground px-2.5 py-1.5 text-sm font-semibold text-background">
+            <div className="min-w-0 sm:justify-self-end">
+              <span className="inline-flex max-w-full flex-wrap rounded bg-foreground px-2.5 py-1.5 text-sm font-semibold text-background">
                 {d.delta.display}
               </span>
             </div>

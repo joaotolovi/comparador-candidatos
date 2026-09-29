@@ -1,0 +1,2422 @@
+{
+  "id": "renan-santos",
+  "slug": "renan-santos",
+  "name": "Renan Antônio Ferreira dos Santos",
+  "ballotName": "Renan Santos",
+  "ballotNumber": 14,
+  "party": "MISSÃO",
+  "coalition": "Partido isolado (MISSÃO, nº 14). Chapa pura com vice Coronel Medina (Aroldo Medina, MISSÃO) — jornalista e tenente-coronel da reserva da Brigada Militar do RS, nascido em 31/03/1964 em Sant'Ana do Livramento (RS), em sua 6ª disputa eleitoral.",
+  "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Renan_Santos_-_Congresso_do_Partido_Miss%C3%A3o%2C_2026_%28cropped_2%29.jpg",
+  "birthDate": "1984-02-13",
+  "age": 42,
+  "birthplace": "São Paulo/SP",
+  "profession": "Empresário (ocupação declarada ao TSE)",
+  "currentRole": "Candidato à Presidência da República (MISSÃO, nº 14; registro deferido pelo TSE em 09/09/2026) e presidente nacional do Partido Missão",
+  "tagline": "Fundador do MBL e 1º presidente nacional do Partido Missão; empresário e músico; disputa sua primeira eleição, concorrendo à Presidência com plano baseado no 'Livro Amarelo'.",
+  "education": [
+    {
+      "id": "edu-rs-1",
+      "level": "graduacao",
+      "field": "Direito",
+      "institution": "Universidade de São Paulo (USP)",
+      "conclusionYear": null,
+      "notes": "Aprovado no vestibular após o ensino médio (ingresso em 2003, segundo ND+); envolveu-se na política estudantil (disputa do DCE) e abandonou o curso antes de concluir. TSE/Estadão registram grau de instrução 'Superior Incompleto'.",
+      "sources": [
+        {
+          "id": "src-rs-45",
+          "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+          "publisher": "ND+ (ND Mais)",
+          "url": "https://ndmais.com.br/politica/renan-santos/",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        }
+      ]
+    }
+  ],
+  "professionalExperience": [
+    {
+      "id": "prof-rs-1",
+      "role": "Empresário — reestruturação e recuperação de empresas (grupo familiar)",
+      "organization": "Grupo familiar de empresários (incluindo a Martin Artefatos de Metal)",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Após deixar a faculdade, passou a trabalhar com o pai em grupo focado na reestruturação e recuperação de empresas em falência ou grave dificuldade financeira; a família adquiriu a Martin Artefatos de Metal. Reportagens (UOL, 2016; El País, 2017; Metrópoles, 2022 — citadas pela Wikipédia) apuram processos cíveis, trabalhistas e fiscais ligados a essas empresas; Renan afirma que tais processos decorrem da atividade empresarial e que parte das dívidas preexistia à aquisição das empresas pela família. Ocupação declarada ao TSE em 2026: 'Empresário'.",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-rs-26",
+          "title": "Líder do MBL responde a mais de 60 processos e sofre cobrança de R$ 4,9 mi",
+          "publisher": "UOL",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2016/05/08/mbl-sofre-acao-de-despejo-e-um-de-seus-lideres-tem-divida-de-r-44-milhoes.htm",
+          "publishedAt": "2016-05-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        }
+      ]
+    },
+    {
+      "id": "prof-rs-2",
+      "role": "Músico — vocalista e guitarrista da banda de rock Limão Rosa",
+      "organization": "Limão Rosa",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Banda formada com integrantes ligados ao MBL; lançou em junho/2026 o primeiro álbum de estúdio, 'Chão Pintado de Rubi' (11 faixas); liderou a votação popular do concurso 'Temos Vagas' (rádio 89 FM) para uma vaga no Lollapalooza Brasil 2026, sem ser escolhida pelo júri técnico.",
+      "achievements": [
+        "Álbum 'Chão Pintado de Rubi' (jun/2026)",
+        "1º lugar na votação popular do concurso Temos Vagas (89 FM), sem seleção pelo júri"
+      ],
+      "sources": [
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        },
+        {
+          "id": "src-rs-45",
+          "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+          "publisher": "ND+ (ND Mais)",
+          "url": "https://ndmais.com.br/politica/renan-santos/",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "politicalExperience": [
+    {
+      "id": "pol-rs-1",
+      "role": "1º Presidente nacional do Partido Missão",
+      "organization": "Partido Missão",
+      "startDate": "2023-10-17",
+      "endDate": null,
+      "description": "Preside a legenda desde a fundação institucional, em 17/10/2023 (estatuto e programa publicados no DOU em 18/10/2023), antes do registro. Coordenou a coleta de assinaturas (mais de 577 mil validadas) e o processo de registro, deferido por unanimidade pelo TSE em 04/11/2025 — 30ª legenda registrada no país, com o número 14 (antes utilizado pelo PTB, que se incorporou ao PRD em 2023). Conduziu a expansão para a primeira eleição do partido em 2026, com 535 candidaturas em 25 estados e no DF.",
+      "achievements": [
+        "Registro do partido deferido por unanimidade pelo TSE (04/11/2025)",
+        "Mais de 577 mil assinaturas validadas para o registro",
+        "535 candidaturas lançadas em 25 estados e no DF em 2026"
+      ],
+      "sources": [
+        {
+          "id": "src-rs-01",
+          "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+        },
+        {
+          "id": "src-rs-02",
+          "title": "TSE aprova criação do Missão, partido do MBL, que terá o número 14",
+          "publisher": "Estadão",
+          "url": "https://estadao.com.br/politica/tse-aprova-criacao-do-missao-partido-do-mbl-que-tera-numero-14-npr",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-03",
+          "title": "TSE aprova por unanimidade criação do partido Missão",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Veículo público estatal (EBC)."
+        },
+        {
+          "id": "src-rs-04",
+          "title": "Missão, partido político do MBL, tem registro deferido pelo TSE",
+          "publisher": "ConJur",
+          "url": "https://conjur.com.br/2025-nov-04/missao-partido-politico-do-mbl-tem-registro-deferido-pelo-tse/",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-36",
+          "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+        },
+        {
+          "id": "src-rs-50",
+          "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+          "publisher": "Partido Missão (site oficial)",
+          "url": "https://candidatos.missao.org.br/",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Página oficial do partido; consultada em 29/09/2026."
+        }
+      ]
+    },
+    {
+      "id": "pol-rs-2",
+      "role": "Cofundador e coordenador nacional do Movimento Brasil Livre (MBL)",
+      "organization": "Movimento Brasil Livre (MBL)",
+      "startDate": "2014-11",
+      "endDate": null,
+      "description": "Fundou o MBL em novembro/2014 (primeiro ato: manifestação em frente ao MASP, em São Paulo), junto com Kim Kataguiri, Gabriel Calamari, Frederico Rauh, Alexandre Santos, Rafael Rizzo e Rubinho Nunes; foi um dos três coordenadores nacionais e responsável pelas articulações políticas. Liderou o ato da Avenida Paulista de 15/03/2015 (defesa da Lava Jato; protestos descritos como os maiores desde o início da Nova República), a 'Marcha pela Liberdade' (São Paulo→Brasília, 24/04–27/05/2015, 33 dias, mais de mil quilômetros), o acampamento em Brasília e a articulação do 'Comitê do Impeachment' (encontros com Eduardo Cunha e Aécio Neves). Após 2016, o MBL apoiou pautas como teto de gastos e reforma da Previdência, e candidaturas em partidos como DEM, Podemos e Patriota — até a criação de legenda própria. Desde 2023 a atuação de Renan se concentra na construção do partido Missão.",
+      "achievements": [
+        "Mobilizações nacionais de 2015 e 2016",
+        "Marcha pela Liberdade (2015): SP→Brasília em 33 dias",
+        "Articulação do Comitê do Impeachment (2015–2016)"
+      ],
+      "sources": [
+        {
+          "id": "src-rs-24",
+          "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+          "publisher": "Jota",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+        },
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        },
+        {
+          "id": "src-rs-42",
+          "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+          "publisher": "Agência Senado",
+          "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+          "publishedAt": "2015-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Data aproximada (março/2015)."
+        },
+        {
+          "id": "src-rs-43",
+          "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+          "publisher": "Câmara dos Deputados (Agência)",
+          "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+          "publishedAt": "2015-12",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+        },
+        {
+          "id": "src-rs-49",
+          "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+          "publisher": "El País Brasil",
+          "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+          "publishedAt": "2015-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "pol-rs-3",
+      "role": "Filiado ao PSDB (militância na Juventude do PSDB)",
+      "organization": "PSDB",
+      "startDate": "2010",
+      "endDate": "2015",
+      "description": "Filiado ao PSDB entre 2010 e 2015; integrou a Juventude do partido e, como estudante de Direito da USP, disputou eleições do DCE. Deixou a legenda para dedicar-se ao MBL.",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        },
+        {
+          "id": "src-rs-45",
+          "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+          "publisher": "ND+ (ND Mais)",
+          "url": "https://ndmais.com.br/politica/renan-santos/",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "executiveExperience": [],
+  "achievements": [
+    {
+      "id": "ach-rs-1",
+      "title": "Cofundação do MBL e mobilizações nacionais (2014–2016)",
+      "context": "MBL, 2014–2016",
+      "description": "Fundou em nov/2014 o Movimento Brasil Livre, que ganhou projeção nacional na defesa da Operação Lava Jato e nas mobilizações contra o governo Dilma Rousseff: ato de 15/03/2015 na Paulista descrito pela imprensa como o maior protesto desde o início da Nova República, e atos de 13/03/2016 estimados em mais de 3,3 milhões de pessoas em pelo menos 250 cidades (estimativas citadas pela Wikipédia). O MBL foi um dos grupos organizadores, ao lado de movimentos como Vem Pra Rua e Nas Ruas, que atuavam com estruturas próprias e distintas.",
+      "sources": [
+        {
+          "id": "src-rs-24",
+          "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+          "publisher": "Jota",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+        },
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        },
+        {
+          "id": "src-rs-42",
+          "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+          "publisher": "Agência Senado",
+          "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+          "publishedAt": "2015-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Data aproximada (março/2015)."
+        },
+        {
+          "id": "src-rs-49",
+          "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+          "publisher": "El País Brasil",
+          "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+          "publishedAt": "2015-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-rs-2",
+      "title": "Articulação do 'Comitê do Impeachment' que levou à abertura do processo de impeachment (2015–2016)",
+      "context": "MBL / Comitê do Impeachment, 2015–2016",
+      "description": "Um dos líderes do comitê que articulou, junto a partidos (PSDB, PMDB, DEM, Solidariedade — apoio admitido em gravação divulgada em fev/2016) e ao então presidente da Câmara Eduardo Cunha, a abertura do processo de impeachment de Dilma Rousseff, admitida por Cunha em 02/12/2015; o comitê entregou à Câmara pedido com assinaturas popular.",
+      "sources": [
+        {
+          "id": "src-rs-43",
+          "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+          "publisher": "Câmara dos Deputados (Agência)",
+          "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+          "publishedAt": "2015-12",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+        },
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        },
+        {
+          "id": "src-rs-42",
+          "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+          "publisher": "Agência Senado",
+          "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+          "publishedAt": "2015-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Data aproximada (março/2015)."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-rs-3",
+      "title": "Registro do Partido Missão no TSE (04/11/2025) — 30ª legenda do país, número 14",
+      "context": "Presidência do Partido Missão, 2023–2025",
+      "description": "Conduziu o processo de criação da primeira legenda própria do MBL: estatuto e programa publicados no DOU em 18/10/2023; mais de 577 mil assinaturas validadas; registro deferido por unanimidade pelo TSE em 04/11/2025, com o número 14 (antes do PTB, incorporado ao PRD).",
+      "sources": [
+        {
+          "id": "src-rs-01",
+          "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+        },
+        {
+          "id": "src-rs-02",
+          "title": "TSE aprova criação do Missão, partido do MBL, que terá o número 14",
+          "publisher": "Estadão",
+          "url": "https://estadao.com.br/politica/tse-aprova-criacao-do-missao-partido-do-mbl-que-tera-numero-14-npr",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-03",
+          "title": "TSE aprova por unanimidade criação do partido Missão",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Veículo público estatal (EBC)."
+        },
+        {
+          "id": "src-rs-04",
+          "title": "Missão, partido político do MBL, tem registro deferido pelo TSE",
+          "publisher": "ConJur",
+          "url": "https://conjur.com.br/2025-nov-04/missao-partido-politico-do-mbl-tem-registro-deferido-pelo-tse/",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-36",
+          "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-rs-4",
+      "title": "Primeira candidatura a cargo público, com registro validado pelo TSE e terceira colocação nas pesquisas",
+      "context": "Campanha presidencial 2026",
+      "description": "Em sua primeira disputa eleitoral, teve o registro deferido por unanimidade pelo Plenário do TSE (09/09/2026) e oscila entre 3% (Quaest, 07/09) e 6,5% (AtlasIntel, set/2026), figurando na terceira colocação em empate técnico com outros nomes da 'terceira via' (Jota). Nas simulações de 2º turno AtlasIntel, é um dos dois adversários que Lula venceria (com Augusto Cury).",
+      "sources": [
+        {
+          "id": "src-rs-14",
+          "title": "Renan Santos tem candidatura validada pelo TSE; ainda faltam Marçal e Cury",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-candidatura-validada-pelo-tse-ainda-faltam-marcal-e-cury/",
+          "publishedAt": "2026-09-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-15",
+          "title": "TSE valida candidatura de Renan Santos à Presidência da República",
+          "publisher": "CBN",
+          "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/09/10/tse-valida-candidatura-de-renan-santos-a-presidencia-da-republica.ghtml",
+          "publishedAt": "2026-09-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-24",
+          "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+          "publisher": "Jota",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+        },
+        {
+          "id": "src-rs-40",
+          "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+          "publishedAt": "2026-09-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-41",
+          "title": "AtlasIntel divulga pesquisa para presidente da República (Renan Santos: 6,5%, 3º lugar em empate técnico com Cury)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-setembro-2026/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "ach-rs-5",
+      "title": "Coordenação de campanhas eleitorais de aliados do MBL",
+      "context": "MBL, 2018–2022",
+      "description": "Segundo ISTOÉ, possui histórico de coordenação em campanhas eleitorais bem-sucedidas de aliados, incluindo as de Kim Kataguiri (eleito deputado federal por SP) e de Arthur do Val. Afirmação da imprensa, não verificada em documentos eleitorais.",
+      "sources": [
+        {
+          "id": "src-rs-44",
+          "title": "Renan Santos é candidato à Presidência pelo partido Missão (coordenou campanhas de Kim Kataguiri e Arthur do Val)",
+          "publisher": "ISTOÉ",
+          "url": "https://istoe.com.br/renan-santos-candidato-presidencia-missao-mbl",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada."
+        }
+      ],
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "updatedAt": "2026-09-29"
+    }
+  ],
+  "governmentPlan": {
+    "title": "O futuro é glorioso — Livro Amarelo (Missão 2026)",
+    "totalProposals": 14,
+    "registeredWith": "TSE — DivulgaCandContas (Eleições Gerais 2026); registrado com o pedido de registro da candidatura (RRC 0601415-52.2026.6.00.0000, enviado em 07/08/2026; registro deferido em 09/09/2026)",
+    "registeredUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+    "planUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+    "notes": "Documento registrado é um resumo executivo de 51 páginas do 'Livro Amarelo', obra integral de mais de 500 páginas (segundo o próprio documento). Estrutura: 3 blocos ('Estado Novo', 'Reformas de Base', 'País do Futuro'), 14 pilares/temas e 5 metas para 2030 (Valor/CNN/Agência Brasil).",
+    "statsIfCounted": {
+      "objective": "Cada pilar declara 'o problema' e as principais propostas (resumo executivo)",
+      "target": "5 metas para 2030 (Valor)",
+      "deadline": "Prazos pontuais: 'desfavelação integral' em 10 anos (CNN); horizonte 2030/2031 para metas fiscais",
+      "cost": "Custo por proposta não informado; efeito global do ajuste fiscal estimado pela campanha em R$ 1,1 trilhão até 2031 (Agência Brasil)",
+      "funding": null,
+      "fiscal": "PEC de Transição Fiscal ('PEC do Equilíbrio Fiscal', já protocolada na Câmara pelo dep. Kim Kataguiri)",
+      "agency": null,
+      "instrument": "PECs (transição fiscal, previdência, desvinculação de pisos) e legislação (marco do 'Direito Penal do Inimigo')",
+      "indicator": null,
+      "congress": "A maioria das medidas estruturais depende de PEC/lei; contagem por proposta não realizada pela equipe"
+    },
+    "statsEvidence": "indeterminado",
+    "keyProposals": [
+      {
+        "title": "'Guerra ao crime organizado' com Direito Penal do Inimigo e superpresídios",
+        "theme": "Segurança",
+        "description": "Declarar 'guerra ao crime' no primeiro dia de mandato, com uso de GLO (Garantia da Lei e Ordem) e Estado de Defesa para romper o controle territorial das facções; adotar o 'Direito Penal do Inimigo' como quadro legal (tratamento jurídico diferenciado para membros de facções); construir superpresídios 'seguindo o modelo de El Salvador'; resultados 'massivamente divulgados'. Em declarações públicas, Renan defende ainda debate sobre prisão perpétua e pena de morte e a eliminação física de faccionados em confronto armado (Wikipédia).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Atos de GLO e Estado de Defesa previstos na Constituição + novo marco legal dependente de lei",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-rs-20",
+            "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+            "publishedAt": "2026-07-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-22",
+            "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+            "publisher": "Exame",
+            "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado."
+          },
+          {
+            "id": "src-rs-47",
+            "title": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo (GLO, Estado de Defesa, Direito Penal do Inimigo no 1º dia)",
+            "publisher": "Valor Econômico",
+            "url": "https://valor.globo.com/politica/noticia/2026/07/21/renan-santos-propoe-guerra-ao-crime-e-ajuste-fiscal-em-versao-resumida-de-plano-de-governo.ghtml",
+            "publishedAt": "2026-07-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          }
+        ]
+      },
+      {
+        "title": "'Desfavelação integral do Brasil'",
+        "theme": "Infraestrutura",
+        "description": "Transformar favelas em bairros com infraestrutura de saúde e segurança; o plano fala em 'desfavelação integral do Brasil' com prazo de 10 anos (CNN); declarações anteriores citavam transformação em até 30 anos (Wikipédia). Frase do candidato: 'morar na favela é insalubre, é inseguro, é desumano, e isso precisa acabar de forma organizada e definitiva'.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": "10 anos (CNN, 21/07/2026)",
+        "legalInstrument": "Não especificado no resumo executivo",
+        "dependsOnCongress": false,
+        "sources": [
+          {
+            "id": "src-rs-20",
+            "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+            "publishedAt": "2026-07-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-22",
+            "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+            "publisher": "Exame",
+            "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado."
+          },
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          }
+        ]
+      },
+      {
+        "title": "PEC de Transição Fiscal: ajuste de R$ 1,1 trilhão até 2031",
+        "theme": "Economia",
+        "description": "Ajuste fiscal com desindexação de benefícios previdenciários e assistenciais do salário mínimo (reajuste limitado à inflação), revisão do abono salarial, redução de renúncias fiscais, fim dos 'supersalários' e desvinculação dos pisos constitucionais de saúde e educação; a campanha estima R$ 1,1 tri até 2031 e a 'PEC do Equilíbrio Fiscal' já foi protocolada na Câmara pelo coordenador econômico da campanha, deputado Kim Kataguiri. Segundo Kataguiri (Valor Internacional), só a desindexação geraria R$ 486 bi em cinco anos.",
+        "hasCost": true,
+        "costDetail": "R$ 1,1 tri até 2031 (estimativa da campanha — Agência Brasil); R$ 486 bi em 5 anos só com desindexação (Kataguiri — Valor Internacional)",
+        "deadline": "2031",
+        "legalInstrument": "PEC (transição fiscal/desvinculação de pisos)",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-rs-21",
+            "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          },
+          {
+            "id": "src-rs-31",
+            "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+            "publisher": "Valor Internacional",
+            "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-48",
+            "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+            "publisher": "Folha de S.Paulo (C-Level)",
+            "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          }
+        ]
+      },
+      {
+        "title": "Reforma da Previdência com idade mínima automática e capitalização via FGTS",
+        "theme": "Política social",
+        "description": "Nova reforma paramétrica: idade mínima de aposentadoria com gatilho automático atrelado à expectativa de vida, idade mínima para militares, redução do teto do INSS (R$ 8.475,55), renda mínima para idosos e parcela da aposentadoria capitalizada a partir do FGTS; seguro-desemprego pago com recursos do FGTS.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "PEC + legislação previdenciária",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-rs-31",
+            "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+            "publisher": "Valor Internacional",
+            "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-48",
+            "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+            "publisher": "Folha de S.Paulo (C-Level)",
+            "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          }
+        ]
+      },
+      {
+        "title": "Substituição do Bolsa Família por frentes de trabalho remuneradas",
+        "theme": "Política social",
+        "description": "O plano propõe substituir o Bolsa Família por 'frentes de trabalho remuneradas'; segundo o coordenador econômico da campanha, o benefício seria destinado apenas a quem não tiver condições de trabalhar (Valor Internacional).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei (redesign do programa de transferência de renda)",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-rs-20",
+            "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+            "publishedAt": "2026-07-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-31",
+            "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+            "publisher": "Valor Internacional",
+            "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+            "publishedAt": "2026-09-18",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-22",
+            "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+            "publisher": "Exame",
+            "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado."
+          }
+        ]
+      },
+      {
+        "title": "Fusão de municípios e tutela federal de municípios 'ineficientes'",
+        "theme": "Administração pública",
+        "description": "Propõe fusão de municípios (e, em declarações, até de estados) e 'tutela federal' de municípios considerados ineficientes, como parte da reorganização do pacto federativo descrita no plano de 51 páginas (Agência Brasil).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "PEC/lei (mudança no pacto federativo)",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-rs-21",
+            "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+            "publisher": "Agência Brasil (EBC)",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+            "publishedAt": "2026-09",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Setembro/2026; dia exato não capturado."
+          },
+          {
+            "id": "src-rs-20",
+            "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+            "publishedAt": "2026-07-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          }
+        ]
+      },
+      {
+        "title": "Educação: substituir cotas por bolsas de mérito e ampliar escolas militares",
+        "theme": "Educação",
+        "description": "O plano prevê trocar o sistema de cotas por bolsas de mérito e ampliar o alcance de escolas militares (g1/CNN).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Lei/política de educação",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-rs-20",
+            "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+            "publishedAt": "2026-07-21",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa"
+          },
+          {
+            "id": "src-rs-22",
+            "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+            "publisher": "Exame",
+            "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+            "publishedAt": "2026-07",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Mês; dia exato não capturado."
+          }
+        ]
+      },
+      {
+        "title": "Programa nuclear militar (armas atômicas) — posicionamento público",
+        "theme": "Política externa",
+        "description": "Defende a criação e o desenvolvimento de programa nuclear voltado à eventual produção de armas atômicas pelo Brasil, como condição de soberania militar e 'respeito geopolítico' (posicionamento público registrado na Wikipédia). Não foi localizado no resumo executivo do plano registrado no TSE — verificar na obra integral (Livro Amarelo, ~500 páginas).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Não especificado",
+        "dependsOnCongress": true,
+        "sources": [
+          {
+            "id": "src-rs-25",
+            "title": "Renan Santos — verbete (Wikipédia em português)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  "metrics": [
+    {
+      "id": "anos_executivo",
+      "category": "capacidade-execucao",
+      "name": "Anos em cargos executivos públicos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação), sem dupla contagem. Nenhuma ocupação localizada; 2026 é a primeira candidatura a cargo público (g1).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        },
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exerceu funções de direção em movimento social e partido (MBL, Missão) — cargos partidários privados, sem administração de recursos ou pessoal públicos."
+    },
+    {
+      "id": "maior_orcamento",
+      "category": "capacidade-execucao",
+      "name": "Maior orçamento anual administrado",
+      "displayValue": "Não se aplica — nunca administrou orçamento público",
+      "value": null,
+      "unit": "R$ bi/ano",
+      "metricType": "currency",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Maior orçamento anual sob gestão em cargo público.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        },
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "Não localizado",
+      "value": null,
+      "unit": "servidores",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Servidores/equipe sob gestão direta em cargos públicos.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        },
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_politica",
+      "category": "historico-experiencia",
+      "name": "Anos de experiência política",
+      "displayValue": "≈13 anos (desde 2013)",
+      "value": 13.3,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Anos entre a primeira atuação política documentada (organização de atos contra a PEC 37, 2013) e 29/09/2026; exclui militância estudantil (DCE-USP) e a filiação partidária anterior (PSDB).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        },
+        {
+          "id": "src-rs-45",
+          "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+          "publisher": "ND+ (ND Mais)",
+          "url": "https://ndmais.com.br/politica/renan-santos/",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Se contada a partir da filiação ao PSDB (2010–2015), ≈15,9 anos."
+    },
+    {
+      "id": "anos_legislativo",
+      "category": "articulacao",
+      "name": "Anos em cargos legislativos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma de períodos em cargos legislativos eletivos; nenhuma ocupação localizada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_federal",
+      "category": "historico-experiencia",
+      "name": "Anos em cargos públicos federais",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma de períodos em cargos no Executivo/Legislativo/Judiciário federal; nenhuma ocupação localizada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "mandatos_eletivos",
+      "category": "historico-experiencia",
+      "name": "Mandatos eletivos conquistados",
+      "displayValue": "0 — nunca disputou eleição antes de 2026",
+      "value": 0,
+      "unit": "mandatos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem de mandatos eletivos conquistados. Fato confirmado, não lacuna: 2026 é a primeira candidatura a cargo público (g1).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        },
+        {
+          "id": "src-rs-24",
+          "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+          "publisher": "Jota",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "Não se aplica — primeira disputa eleitoral em 2026",
+      "value": null,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Total de votos em eleições anteriores.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        },
+        {
+          "id": "src-rs-24",
+          "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+          "publisher": "Jota",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_total",
+      "category": "plano",
+      "name": "Propostas/pilares do plano de governo",
+      "displayValue": "14 pilares (resumo de 51 páginas; 3 blocos; 5 metas para 2030)",
+      "value": 14,
+      "unit": "pilares",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Nº de pilares/temas do resumo executivo do 'Livro Amarelo' registrado no TSE (obra integral de ~500 páginas). Contagem declarada pela campanha e reportada por CNN e Valor; não recalculada item a item pela equipe.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-09",
+          "title": "Missão oficializa candidatura de Renan no TSE e apresenta plano de governo (Livro Amarelo, 51 páginas, 14 temas)",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/missao-oficializa-candidatura-de-renan-no-tse-e-apresenta-plano-de-governo",
+          "publishedAt": "2026-08-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-19",
+          "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-21",
+          "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        },
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "Não informado por proposta; o ajuste fiscal global é estimado em R$ 1,1 tri até 2031 (cálculo da campanha)",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com estimativa de custo próprio. O resumo executivo não quantifica custos por proposta; contagem da equipe não realizada.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "not_informed",
+      "sources": [
+        {
+          "id": "src-rs-21",
+          "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        },
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "5 metas para 2030 e prazos pontuais (ex.: 'desfavelação' em 10 anos); % por proposta não calculada",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com prazo definido; contagem por item não realizada pela equipe.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-rs-19",
+          "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-22",
+          "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+          "publisher": "Exame",
+          "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+          "publishedAt": "2026-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Mês; dia exato não capturado."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "Contagem não realizada; reformas estruturais (PECs fiscal e previdenciária, desvinculação de pisos, marco do Direito Penal do Inimigo) dependem do Congresso",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC ou lei.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-rs-21",
+          "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        },
+        {
+          "id": "src-rs-31",
+          "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+          "publisher": "Valor Internacional",
+          "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+          "publishedAt": "2026-09-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "registro_tse",
+      "category": "integridade",
+      "name": "Situação do registro de candidatura no TSE",
+      "displayValue": "Deferido — Plenário do TSE, por unanimidade, em 09/09/2026 (RRC 0601415-52.2026.6.00.0000)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-14",
+          "title": "Renan Santos tem candidatura validada pelo TSE; ainda faltam Marçal e Cury",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-candidatura-validada-pelo-tse-ainda-faltam-marcal-e-cury/",
+          "publishedAt": "2026-09-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-15",
+          "title": "TSE valida candidatura de Renan Santos à Presidência da República",
+          "publisher": "CBN",
+          "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/09/10/tse-valida-candidatura-de-renan-santos-a-presidencia-da-republica.ghtml",
+          "publishedAt": "2026-09-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        },
+        {
+          "id": "src-rs-18",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Oficializa o quadro final de 12 chapas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Antes do deferimento, o relator (Min. Dias Toffoli) suspendeu cautelarmente a campanha digital (30/08) e a liberou em parte (01/09). Não foram localizadas condenações ou impugnações de mérito contra o candidato; denúncia criminal do MP-SP (2020) foi rejeitada pela Justiça (ver integridade)."
+    },
+    {
+      "id": "bens_declarados",
+      "category": "integridade",
+      "name": "Bens declarados à Justiça Eleitoral",
+      "displayValue": "R$ 795.089,00",
+      "value": 795089,
+      "unit": "R$",
+      "metricType": "currency",
+      "directionality": "neutral",
+      "methodology": "Total de bens declarados no registro de candidatura de 2026 (TSE/DivulgaCandContas, via Estadão).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Composição: quotas de capital (R$ 100 mil), outros créditos e poupança vinculados (R$ 300 mil), bem relacionado à atividade autônoma (R$ 275,3 mil), quotas de sociedade (R$ 119,8 mil). Limite legal de gastos no 1º turno: R$ 88.944.030,80."
+    },
+    {
+      "id": "bancada_partidaria_camara",
+      "category": "articulacao",
+      "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+      "displayValue": "1/513 deputados federais",
+      "value": 1,
+      "unit": "cadeiras",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Cadeiras do MISSÃO na Câmara em 29/09/2026, antes do pleito de 2026: o deputado federal Kim Kataguiri, eleito em 2022 pelo União Brasil (295.460 votos), migrou ao Missão na janela partidária de 2026.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-33",
+          "title": "Quase 30% dos deputados mudam de legenda na janela partidária (Kataguiri é o 1º integrante do Missão no Congresso)",
+          "publisher": "Poder360",
+          "url": "https://poder360.com.br/poder-congresso/janela-partidaria-2026-pl-lidera-filiacoes",
+          "publishedAt": "2026-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Mês; dia exato não capturado (janela partidária de 2026)."
+        },
+        {
+          "id": "src-rs-32",
+          "title": "SP: veja lista de deputados federais eleitos em 2022 (Kim Kataguiri — União Brasil — 295.460 votos)",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/sp-veja-lista-de-deputados-federais-eleitos-em-2022/",
+          "publishedAt": "2022-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-36",
+          "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+        },
+        {
+          "id": "src-rs-05",
+          "title": "TSE aprova pedido de criação do Missão (nº 14, antes do extinto PTB)",
+          "publisher": "Congresso em Foco",
+          "url": "https://www.congressoemfoco.com.br/noticia/113572/tse-aprova-pedido-de-criacao-do-missao-partido-do-mbl",
+          "publishedAt": "2025-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Mês; dia exato não capturado."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O partido tem ainda 1 deputado estadual e 3 vereadores; 0 senadores, 0 governadores e 0 prefeitos (Wikipédia, com base no TSE)."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "historico-experiencia",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "3% (Quaest, 07/09) | 4% (Datafolha, 21/08) | 6,5% (AtlasIntel, set/2026 — 3º lugar, empate técnico)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-40",
+          "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+          "publishedAt": "2026-09-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-39",
+          "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+          "publishedAt": "2026-08-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+        },
+        {
+          "id": "src-rs-41",
+          "title": "AtlasIntel divulga pesquisa para presidente da República (Renan Santos: 6,5%, 3º lugar em empate técnico com Cury)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-setembro-2026/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Jota sintetiza: entre 3% e 6%, terceira colocação em empate técnico com nomes da 'terceira via'."
+    }
+  ],
+  "currentSupport": [
+    {
+      "id": "sup-rs-1",
+      "description": "Partido isolado — chapa pura do MISSÃO (nº 14), sem coligação nem federação; vice: Coronel Medina (Aroldo Medina, MISSÃO).",
+      "value": "MISSÃO — partido isolado",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        },
+        {
+          "id": "src-rs-36",
+          "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+        },
+        {
+          "id": "src-rs-01",
+          "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+        }
+      ]
+    },
+    {
+      "id": "sup-rs-2",
+      "description": "Bancada atual do Missão no Congresso Nacional: 1 deputado federal (Kim Kataguiri, eleito em 2022 pelo União Brasil com 295.460 votos; filiado ao Missão na janela partidária de 2026), além de 1 deputado estadual e 3 vereadores; 0 senadores, governadores e prefeitos.",
+      "value": "1/513 na Câmara; sem senadores",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-rs-33",
+          "title": "Quase 30% dos deputados mudam de legenda na janela partidária (Kataguiri é o 1º integrante do Missão no Congresso)",
+          "publisher": "Poder360",
+          "url": "https://poder360.com.br/poder-congresso/janela-partidaria-2026-pl-lidera-filiacoes",
+          "publishedAt": "2026-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Mês; dia exato não capturado (janela partidária de 2026)."
+        },
+        {
+          "id": "src-rs-32",
+          "title": "SP: veja lista de deputados federais eleitos em 2022 (Kim Kataguiri — União Brasil — 295.460 votos)",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/sp-veja-lista-de-deputados-federais-eleitos-em-2022/",
+          "publishedAt": "2022-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-36",
+          "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+        },
+        {
+          "id": "src-rs-05",
+          "title": "TSE aprova pedido de criação do Missão (nº 14, antes do extinto PTB)",
+          "publisher": "Congresso em Foco",
+          "url": "https://www.congressoemfoco.com.br/noticia/113572/tse-aprova-pedido-de-criacao-do-missao-partido-do-mbl",
+          "publishedAt": "2025-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Mês; dia exato não capturado."
+        }
+      ]
+    },
+    {
+      "id": "sup-rs-3",
+      "description": "Financiamento: a campanha presidencial abriu mão dos R$ 3.307.679,85 do Fundo Eleitoral (mínimo atribuído ao Missão), destinando o valor às candidaturas do partido ao Legislativo; a presidencial é sustentada por doações e 'vaquinhas' on-line (~R$ 1 milhão arrecadado até 01/07/2026, segundo a coordenadora Amanda Vettorazzo, vereadora de SP).",
+      "value": "Sem Fundo Eleitoral — vaquinhas on-line (~R$ 1 mi em 01/07/2026)",
+      "date": "2026-07-01",
+      "sources": [
+        {
+          "id": "src-rs-30",
+          "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+          "publishedAt": "2026-07-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    },
+    {
+      "id": "sup-rs-4",
+      "description": "Apoio pontual, sem coligação: Flávio Bolsonaro (PL) e Romeu Zema (Novo) saíram publicamente em defesa de Renan Santos após a suspensão cautelar da campanha pelo relator do TSE (31/08/2026).",
+      "value": "declarações de apoio pontuais (PL e Novo)",
+      "date": "2026-08-31",
+      "sources": [
+        {
+          "id": "src-rs-17",
+          "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico' e chama decisão de Toffoli de 'ilegal' (Flávio e Zema saem em defesa)",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+          "publishedAt": "2026-08-31",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ]
+    }
+  ],
+  "negotiationHistory": [
+    {
+      "id": "neg-rs-1",
+      "description": "Articulação do 'Comitê do Impeachment' (2015–2016): reuniões em Brasília com o então presidente da Câmara Eduardo Cunha e com o líder da oposição Aécio Neves; o comitê entregou à Câmara pedido de impeachment com assinaturas; Cunha admitiu a abertura do processo em 02/12/2015.",
+      "value": "encontros com Cunha e Aécio Neves documentados",
+      "date": "2015-12",
+      "sources": [
+        {
+          "id": "src-rs-43",
+          "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+          "publisher": "Câmara dos Deputados (Agência)",
+          "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+          "publishedAt": "2015-12",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+        },
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        },
+        {
+          "id": "src-rs-42",
+          "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+          "publisher": "Agência Senado",
+          "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+          "publishedAt": "2015-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Data aproximada (março/2015)."
+        }
+      ]
+    },
+    {
+      "id": "neg-rs-2",
+      "description": "O MBL admitiu, em gravação divulgada em fevereiro de 2016, apoio financeiro e material de PSDB, PMDB, DEM e Solidariedade às mobilizações (incluindo ônibus e lanches), apesar do discurso apartidário do movimento.",
+      "value": "apoio de PSDB, PMDB, DEM e Solidariedade (2016)",
+      "date": "2016-02",
+      "sources": [
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        }
+      ]
+    },
+    {
+      "id": "neg-rs-3",
+      "description": "Coordenação de campanhas eleitorais de aliados do MBL: Kim Kataguiri (deputado federal) e Arthur do Val, segundo reportagem da ISTOÉ. Afirmação de imprensa não verificada em documentos eleitorais.",
+      "value": "campanhas de Kataguiri e Arthur do Val",
+      "date": "2018–2022",
+      "sources": [
+        {
+          "id": "src-rs-44",
+          "title": "Renan Santos é candidato à Presidência pelo partido Missão (coordenou campanhas de Kim Kataguiri e Arthur do Val)",
+          "publisher": "ISTOÉ",
+          "url": "https://istoe.com.br/renan-santos-candidato-presidencia-missao-mbl",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada."
+        }
+      ]
+    },
+    {
+      "id": "neg-rs-4",
+      "description": "Construção do partido próprio: coordenação da coleta de mais de 577 mil assinaturas validadas para o registro do Missão (deferido em 04/11/2025); primeira eleição em 2026 com 535 candidaturas em 25 estados e no DF (128 homologadas em SP).",
+      "value": "577 mil assinaturas; 535 candidaturas em 2026",
+      "date": "2023–2026",
+      "sources": [
+        {
+          "id": "src-rs-36",
+          "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+        },
+        {
+          "id": "src-rs-34",
+          "title": "Missão oficializa 128 candidaturas para deputado e deixa em aberto apoio a governo e Senado por SP",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/07/missao-oficializa-128-candidaturas-para-deputado-e-deixa-em-aberto-apoio-a-governo-e-senado-por-sp.ghtml",
+          "publishedAt": "2026-08-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-50",
+          "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+          "publisher": "Partido Missão (site oficial)",
+          "url": "https://candidatos.missao.org.br/",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Página oficial do partido; consultada em 29/09/2026."
+        },
+        {
+          "id": "src-rs-03",
+          "title": "TSE aprova por unanimidade criação do partido Missão",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+          "publishedAt": "2025-11-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Veículo público estatal (EBC)."
+        }
+      ]
+    }
+  ],
+  "institutionalHistory": [
+    {
+      "id": "inst-rs-1",
+      "category": "tribunal",
+      "title": "Denúncia do MP-SP por tráfico de influência (out/2020) — rejeitada pela Justiça",
+      "legalStatus": "arquivamento",
+      "currentStatus": "encerrado",
+      "instance": "1ª Vara de Crimes Tributários, Organização Criminosa e Lavagem de Bens e Valores de São Paulo",
+      "lastUpdate": "2020-11-06",
+      "description": "Em outubro de 2020, o MP-SP denunciou Renan Santos por tráfico de influência no caso envolvendo contrato milionário de Alessander Mônaco Ferreira com a Fipe e nomeação dele para cargo comissionado na Imprensa Oficial de SP sem concurso, com doações ao MBL equivalentes ao salário. Em 06/11/2020, o juiz Thiago Baldani Gomes De Filippo rejeitou a denúncia, por ausência de descrição de conduta típica: 'não houve crime nos fatos imputados'. Não houve condenação; não foi localizada a interposição de recurso posterior.",
+      "sources": [
+        {
+          "id": "src-rs-27",
+          "title": "Líder do MBL é denunciado sob a acusação de tráfico de influência",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2020/10/lider-do-mbl-e-denunciado-sob-a-acusacao-de-trafico-de-influencia-e-fraude-em-licitacao.shtml",
+          "publishedAt": "2020-10-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-28",
+          "title": "Justiça rejeita denúncia do Ministério Público contra líder do MBL por tráfico de influência",
+          "publisher": "Folha de S.Paulo (Painel)",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-rejeita-denuncia-do-ministerio-publico-contra-lider-do-mbl-por-trafico-de-influencia.shtml",
+          "publishedAt": "2020-11-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-29",
+          "title": "Justiça rejeita denúncia contra Renan Santos por tráfico de influência",
+          "publisher": "ConJur",
+          "url": "https://conjur.com.br/2020-nov-06/justica-rejeita-denuncia-renan-santos-trafico-influencia/",
+          "publishedAt": "2020-11-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    },
+    {
+      "id": "inst-rs-2",
+      "category": "patrimonial",
+      "title": "Processos cíveis, trabalhistas e fiscais ligados a empresas da família (2016–2022)",
+      "legalStatus": "processo",
+      "currentStatus": "em_andamento",
+      "instance": "Justiça de São Paulo / Justiça do Trabalho (região de Jundiaí) / Receita Federal",
+      "lastUpdate": "2022-03 (última reportagem localizada)",
+      "description": "Reportagem do UOL (08/05/2016) apurou que Renan respondia por mais de 60 processos (cíveis, trabalhistas e fiscais) e cobrança de R$ 4,9 milhões, ligados à atividade de recuperação de empresas de sua família (incluindo a Martin Artefatos de Metal); houve bloqueio de contas sem saldo e bens penhorados a leilão. Levantamentos posteriores citados pela Wikipédia referem 125+ processos da família (El País, 2017, com cobranças de ~R$ 20 mi) e dívida de R$ 6,3 milhões à União (Metrópoles, 2022). Renan afirma que os processos decorrem das dificuldades da atividade empresarial e que parte das dívidas preexistia à aquisição das empresas pela família. Não há condenação criminal; situação atual dos processos não localizada.",
+      "sources": [
+        {
+          "id": "src-rs-26",
+          "title": "Líder do MBL responde a mais de 60 processos e sofre cobrança de R$ 4,9 mi",
+          "publisher": "UOL",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2016/05/08/mbl-sofre-acao-de-despejo-e-um-de-seus-lideres-tem-divida-de-r-44-milhoes.htm",
+          "publishedAt": "2016-05-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        }
+      ],
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low"
+    },
+    {
+      "id": "inst-rs-3",
+      "category": "tribunal",
+      "title": "Cautelar do TSE suspendeu campanha digital da chapa (ago–set/2026) — revista em parte; registro deferido",
+      "legalStatus": "decisao",
+      "currentStatus": "encerrado",
+      "instance": "TSE — relator Min. Dias Toffoli; Plenário",
+      "lastUpdate": "2026-09-09",
+      "description": "A campanha informou à Justiça Eleitoral 16 perfis em redes sociais apenas em 19/08/2026, 12 dias após o pedido de registro (RRC enviado em 07/08). Em 30/08, o relator retirou o caso de pauta e suspendeu cautelarmente a propaganda digital, os debates e o acesso ao Fundo Eleitoral, apontando 'indícios de irregularidades' (art. 24, VIII, Res.-TSE 23.609/2019); em 01/09 reviu parcialmente a decisão, liberando debates, propaganda e repasses, mantendo restrições aos perfis e abrindo 72h para esclarecimentos (o candidato prestou esclarecimentos; a defesa chamou a medida de 'manifestamente ilegal'). Em 09/09/2026, o Plenário do TSE deferiu por unanimidade o registro da chapa. Não houve indeferimento, multa nem sanção de mérito.",
+      "sources": [
+        {
+          "id": "src-rs-10",
+          "title": "Decisão do Min. Dias Toffoli (relator) no RRC 0601415-52.2026.6.00.0000 — registro de candidatura de Renan Santos",
+          "publisher": "TSE (cópia integral espelhada por Poder360)",
+          "url": "https://static.poder360.com.br/uploads/2026/09/consultaunificadapje.tse_.jus_.br_consulta-publica-unificada_documento_extensaoArquivotext_htmlpathtse_2026_9_1_17_5_27_324b0aa54c28fd0b712e5279d50a80417324a67fa9ffb758bc2eb30cba1a196b.pdf",
+          "publishedAt": "2026-08-30",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal",
+          "notes": "Documento oficial: RRC enviado em 07/08/2026; 16 perfis informados em 19/08/2026; indícios de irregularidade; suspensão cautelar."
+        },
+        {
+          "id": "src-rs-11",
+          "title": "Toffoli adia julgamento do registro de candidatura de Renan Santos e aponta indícios de ilicitude",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/30/toffoli-adia-julgamento-do-registro-de-candidatura-de-renan-santos-e-aponta-indicios-de-ilicitude.ghtml",
+          "publishedAt": "2026-08-30",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-12",
+          "title": "Após diligências, Toffoli libera campanha e repasses a Renan Santos",
+          "publisher": "ConJur",
+          "url": "https://conjur.com.br/2026-set-01/apos-diligencias-toffoli-libera-campanha-e-repasses-a-renan-santos/",
+          "publishedAt": "2026-09-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-13",
+          "title": "Toffoli revê decisão e libera Renan Santos para debates e financiamento (72h para esclarecimentos)",
+          "publisher": "Correio Braziliense",
+          "url": "https://www.correiobraziliense.com.br/politica/2026/09/7491799-toffoli-reve-decisao-e-libera-renan-santos-para-debates-e-financiamento.html",
+          "publishedAt": "2026-09-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-16",
+          "title": "Defesa de Renan Santos pede ao TSE revogação de decisão de Toffoli que restringiu campanha digital",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/noticia/2026/09/01/defesa-de-renan-santos-pede-ao-tse-revogacao-de-decisao-de-toffoli-que-restringiu-campanha-digital.ghtml",
+          "publishedAt": "2026-09-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-17",
+          "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico' e chama decisão de Toffoli de 'ilegal' (Flávio e Zema saem em defesa)",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+          "publishedAt": "2026-08-31",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-14",
+          "title": "Renan Santos tem candidatura validada pelo TSE; ainda faltam Marçal e Cury",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-candidatura-validada-pelo-tse-ainda-faltam-marcal-e-cury/",
+          "publishedAt": "2026-09-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    },
+    {
+      "id": "inst-rs-4",
+      "category": "tribunal",
+      "title": "Ação de Wesley Safadão — vídeo removido por decisão judicial (2026)",
+      "legalStatus": "processo",
+      "currentStatus": "em_andamento",
+      "instance": "Justiça de São Paulo (vara não informada na fonte localizada)",
+      "lastUpdate": "2026-04-27",
+      "description": "Em 21/03/2026, Renan publicou vídeo acusando o cantor Wesley Safadão de liderar esquema de contratos com prefeituras do Nordeste (mais de 50 contratos por R$ 52 milhões em 2024–2025, segundo o vídeo). Safadão o processou e obteve, em 27/04/2026, decisão judicial pela remoção do vídeo. Ação em andamento; desfecho não localizado. Registro baseado na Wikipédia (com citação à imprensa).",
+      "sources": [
+        {
+          "id": "src-rs-25",
+          "title": "Renan Santos — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+        }
+      ],
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-rs-01",
+      "title": "Partido Missão — página institucional (Nome, sigla, nº 14, presidente nacional)",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-missao",
+      "publishedAt": "2025-11-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Página viva; estatuto registrado em 04/11/2025 e atualizado em 14/04/2026; consultada em 29/09/2026."
+    },
+    {
+      "id": "src-rs-02",
+      "title": "TSE aprova criação do Missão, partido do MBL, que terá o número 14",
+      "publisher": "Estadão",
+      "url": "https://estadao.com.br/politica/tse-aprova-criacao-do-missao-partido-do-mbl-que-tera-numero-14-npr",
+      "publishedAt": "2025-11-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-03",
+      "title": "TSE aprova por unanimidade criação do partido Missão",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/tse-aprova-por-unanimidade-criacao-do-partido-missao",
+      "publishedAt": "2025-11-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Veículo público estatal (EBC)."
+    },
+    {
+      "id": "src-rs-04",
+      "title": "Missão, partido político do MBL, tem registro deferido pelo TSE",
+      "publisher": "ConJur",
+      "url": "https://conjur.com.br/2025-nov-04/missao-partido-politico-do-mbl-tem-registro-deferido-pelo-tse/",
+      "publishedAt": "2025-11-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-05",
+      "title": "TSE aprova pedido de criação do Missão (nº 14, antes do extinto PTB)",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/113572/tse-aprova-pedido-de-criacao-do-missao-partido-do-mbl",
+      "publishedAt": "2025-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado."
+    },
+    {
+      "id": "src-rs-06",
+      "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+      "publisher": "Estadão (dados: TSE)",
+      "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+    },
+    {
+      "id": "src-rs-07",
+      "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+      "publishedAt": "2026-07-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+    },
+    {
+      "id": "src-rs-08",
+      "title": "Partido Missão oficializa Renan Santos como candidato à Presidência",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/partido-missao-oficializa-renan-santos-como-candidato-presidencia",
+      "publishedAt": "2026-07-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-09",
+      "title": "Missão oficializa candidatura de Renan no TSE e apresenta plano de governo (Livro Amarelo, 51 páginas, 14 temas)",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/missao-oficializa-candidatura-de-renan-no-tse-e-apresenta-plano-de-governo",
+      "publishedAt": "2026-08-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-10",
+      "title": "Decisão do Min. Dias Toffoli (relator) no RRC 0601415-52.2026.6.00.0000 — registro de candidatura de Renan Santos",
+      "publisher": "TSE (cópia integral espelhada por Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/09/consultaunificadapje.tse_.jus_.br_consulta-publica-unificada_documento_extensaoArquivotext_htmlpathtse_2026_9_1_17_5_27_324b0aa54c28fd0b712e5279d50a80417324a67fa9ffb758bc2eb30cba1a196b.pdf",
+      "publishedAt": "2026-08-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal",
+      "notes": "Documento oficial: RRC enviado em 07/08/2026; 16 perfis informados em 19/08/2026; indícios de irregularidade; suspensão cautelar."
+    },
+    {
+      "id": "src-rs-11",
+      "title": "Toffoli adia julgamento do registro de candidatura de Renan Santos e aponta indícios de ilicitude",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/30/toffoli-adia-julgamento-do-registro-de-candidatura-de-renan-santos-e-aponta-indicios-de-ilicitude.ghtml",
+      "publishedAt": "2026-08-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-12",
+      "title": "Após diligências, Toffoli libera campanha e repasses a Renan Santos",
+      "publisher": "ConJur",
+      "url": "https://conjur.com.br/2026-set-01/apos-diligencias-toffoli-libera-campanha-e-repasses-a-renan-santos/",
+      "publishedAt": "2026-09-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-13",
+      "title": "Toffoli revê decisão e libera Renan Santos para debates e financiamento (72h para esclarecimentos)",
+      "publisher": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/09/7491799-toffoli-reve-decisao-e-libera-renan-santos-para-debates-e-financiamento.html",
+      "publishedAt": "2026-09-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-14",
+      "title": "Renan Santos tem candidatura validada pelo TSE; ainda faltam Marçal e Cury",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-candidatura-validada-pelo-tse-ainda-faltam-marcal-e-cury/",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-15",
+      "title": "TSE valida candidatura de Renan Santos à Presidência da República",
+      "publisher": "CBN",
+      "url": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/09/10/tse-valida-candidatura-de-renan-santos-a-presidencia-da-republica.ghtml",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-16",
+      "title": "Defesa de Renan Santos pede ao TSE revogação de decisão de Toffoli que restringiu campanha digital",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/01/defesa-de-renan-santos-pede-ao-tse-revogacao-de-decisao-de-toffoli-que-restringiu-campanha-digital.ghtml",
+      "publishedAt": "2026-09-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-17",
+      "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico' e chama decisão de Toffoli de 'ilegal' (Flávio e Zema saem em defesa)",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-18",
+      "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Oficializa o quadro final de 12 chapas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+    },
+    {
+      "id": "src-rs-19",
+      "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-20",
+      "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+      "publishedAt": "2026-07-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-21",
+      "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Setembro/2026; dia exato não capturado."
+    },
+    {
+      "id": "src-rs-22",
+      "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+      "publisher": "Exame",
+      "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado."
+    },
+    {
+      "id": "src-rs-23",
+      "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+      "publisher": "TSE — DivulgaCandContas",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+    },
+    {
+      "id": "src-rs-24",
+      "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+      "publisher": "Jota",
+      "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+    },
+    {
+      "id": "src-rs-25",
+      "title": "Renan Santos — verbete (Wikipédia em português)",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Renan_Santos",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas no verbete quando disponíveis; usada diretamente apenas para: Wesley Safadão (remoção de vídeo por decisão judicial), Levantamentos El País (2017) e Metrópoles (2022) sobre processos da família, Marcha pela Liberdade e Queermuseu."
+    },
+    {
+      "id": "src-rs-26",
+      "title": "Líder do MBL responde a mais de 60 processos e sofre cobrança de R$ 4,9 mi",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2016/05/08/mbl-sofre-acao-de-despejo-e-um-de-seus-lideres-tem-divida-de-r-44-milhoes.htm",
+      "publishedAt": "2016-05-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-27",
+      "title": "Líder do MBL é denunciado sob a acusação de tráfico de influência",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2020/10/lider-do-mbl-e-denunciado-sob-a-acusacao-de-trafico-de-influencia-e-fraude-em-licitacao.shtml",
+      "publishedAt": "2020-10-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-28",
+      "title": "Justiça rejeita denúncia do Ministério Público contra líder do MBL por tráfico de influência",
+      "publisher": "Folha de S.Paulo (Painel)",
+      "url": "https://www1.folha.uol.com.br/colunas/painel/2020/11/justica-rejeita-denuncia-do-ministerio-publico-contra-lider-do-mbl-por-trafico-de-influencia.shtml",
+      "publishedAt": "2020-11-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-29",
+      "title": "Justiça rejeita denúncia contra Renan Santos por tráfico de influência",
+      "publisher": "ConJur",
+      "url": "https://conjur.com.br/2020-nov-06/justica-rejeita-denuncia-renan-santos-trafico-influencia/",
+      "publishedAt": "2020-11-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-30",
+      "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+      "publishedAt": "2026-07-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-31",
+      "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+      "publisher": "Valor Internacional",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+      "publishedAt": "2026-09-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-32",
+      "title": "SP: veja lista de deputados federais eleitos em 2022 (Kim Kataguiri — União Brasil — 295.460 votos)",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/sp-veja-lista-de-deputados-federais-eleitos-em-2022/",
+      "publishedAt": "2022-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-33",
+      "title": "Quase 30% dos deputados mudam de legenda na janela partidária (Kataguiri é o 1º integrante do Missão no Congresso)",
+      "publisher": "Poder360",
+      "url": "https://poder360.com.br/poder-congresso/janela-partidaria-2026-pl-lidera-filiacoes",
+      "publishedAt": "2026-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado (janela partidária de 2026)."
+    },
+    {
+      "id": "src-rs-34",
+      "title": "Missão oficializa 128 candidaturas para deputado e deixa em aberto apoio a governo e Senado por SP",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/07/missao-oficializa-128-candidaturas-para-deputado-e-deixa-em-aberto-apoio-a-governo-e-senado-por-sp.ghtml",
+      "publishedAt": "2026-08-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-35",
+      "title": "PL e Missão ganham mais filiados em ano eleitoral (Missão: 17.382 filiados em março/2026)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/08/partidos-filiacoes-ano-eleitoral.ghtml",
+      "publishedAt": "2026-04-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-36",
+      "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+    },
+    {
+      "id": "src-rs-37",
+      "title": "Quem é Aroldo Medina, militar anunciado como vice na chapa de Renan Santos",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/07/02/quem-e-aroldo-medina-militar-da-reserva-do-rs-anunciado-como-vice-na-chapa-de-renan-santos-a-presidencia.ghtml",
+      "publishedAt": "2026-07-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-38",
+      "title": "Aroldo Medina — verbete (Wikipédia em português)",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Aroldo_Medina",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Verbete vivo; usado como índice."
+    },
+    {
+      "id": "src-rs-39",
+      "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+    },
+    {
+      "id": "src-rs-40",
+      "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+      "publishedAt": "2026-09-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-41",
+      "title": "AtlasIntel divulga pesquisa para presidente da República (Renan Santos: 6,5%, 3º lugar em empate técnico com Cury)",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-setembro-2026/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Setembro/2026; dia exato não capturado."
+    },
+    {
+      "id": "src-rs-42",
+      "title": "Cerca de 500 mil pessoas confirmaram pelas redes presença em protestos (coordenador do MBL Renan Santos; Vem Pra Rua descrito como movimento distinto)",
+      "publisher": "Agência Senado",
+      "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508710/noticia.html?sequence=1",
+      "publishedAt": "2015-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Data aproximada (março/2015)."
+    },
+    {
+      "id": "src-rs-43",
+      "title": "Movimento apresenta ao presidente da Câmara pedido de impeachment de Dilma (Comitê do Impeachment)",
+      "publisher": "Câmara dos Deputados (Agência)",
+      "url": "https://www.camara.leg.br/noticias/460036-movimento-apresenta-ao-presidente-da-camara-pedido-de-impeachment-de-dilma/",
+      "publishedAt": "2015-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Data aproximada; mês inferido do contexto (abertura do processo em 12/2015)."
+    },
+    {
+      "id": "src-rs-44",
+      "title": "Renan Santos é candidato à Presidência pelo partido Missão (coordenou campanhas de Kim Kataguiri e Arthur do Val)",
+      "publisher": "ISTOÉ",
+      "url": "https://istoe.com.br/renan-santos-candidato-presidencia-missao-mbl",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Ano; data exata não capturada."
+    },
+    {
+      "id": "src-rs-45",
+      "title": "Renan Santos: a trajetória política do presidente do Missão (Direito USP ingresso 2003; banda Limão Rosa)",
+      "publisher": "ND+ (ND Mais)",
+      "url": "https://ndmais.com.br/politica/renan-santos/",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-46",
+      "title": "Anti-establishment candidate seeks to tap Brazil's younger right (perfil internacional da campanha)",
+      "publisher": "Valor Internacional",
+      "url": "https://valorinternational.globo.com/politics/news/2026/06/01/anti-establishment-candidate-seeks-to-tap-brazils-younger-right.ghtml",
+      "publishedAt": "2026-06-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-47",
+      "title": "Renan Santos propõe 'guerra ao crime' e ajuste fiscal em versão resumida de plano de governo (GLO, Estado de Defesa, Direito Penal do Inimigo no 1º dia)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/07/21/renan-santos-propoe-guerra-ao-crime-e-ajuste-fiscal-em-versao-resumida-de-plano-de-governo.ghtml",
+      "publishedAt": "2026-07-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-48",
+      "title": "Renan Santos quer FGTS como poupança para aposentadoria, diz Kim Kataguiri (teto do INSS, renda mínima, capitalização)",
+      "publisher": "Folha de S.Paulo (C-Level)",
+      "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Setembro/2026; dia exato não capturado."
+    },
+    {
+      "id": "src-rs-49",
+      "title": "Em protesto anti-Dilma, Sergio Moro vira herói e Renan é vaiado (MBL, Vem Pra Rua e Nas Ruas com carros de som próprios)",
+      "publisher": "El País Brasil",
+      "url": "https://brasil.elpais.com/brasil/2015/08/17/politica/1439766325_619975.html",
+      "publishedAt": "2015-08-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-rs-50",
+      "title": "Candidatos da Missão — Eleições 2026 (535 candidatos em 25 estados e no DF)",
+      "publisher": "Partido Missão (site oficial)",
+      "url": "https://candidatos.missao.org.br/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Página oficial do partido; consultada em 29/09/2026."
+    }
+  ],
+  "updatedAt": "2026-09-29"
+}

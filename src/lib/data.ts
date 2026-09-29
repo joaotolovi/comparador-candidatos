@@ -60,42 +60,27 @@ export function buildRows(candidates: Candidate[]): MetricRow[] {
       }
     }
   }
-  const names = { a: candidates[0]?.name ?? "", b: candidates[1]?.name ?? "", c: candidates[2]?.name ?? "" };
+  const names = [candidates[0]?.name ?? "", candidates[1]?.name ?? "", candidates[2]?.name ?? ""];
 
   return order.map((id) => {
     const metric = seen.get(id)!;
     const values = candidates.map((c) => c.metrics.find((m) => m.id === id) ?? null);
-    const comparable =
-      values.every((v) => v !== null && isComparable(v)) && values.length >= 2;
+    // Delta entre os candidatos COM valor comparável (2 ou 3); quem não tem
+    // dado não entra na conta — ausência nunca vira zero.
+    const withValue = values
+      .map((v, i) => ({ v, i }))
+      .filter(({ v }) => v !== null && isComparable(v));
+    const comparable = withValue.length >= 2;
     let delta: ComparisonDelta | undefined;
     let equal = false;
-    if (comparable && values[0]!.value !== null && values[1]!.value !== null) {
-      delta = formatDelta(
-        values[0]!,
-        { a: values[0]!.value as number, b: values[1]!.value as number },
-        { a: names.a, b: names.b },
-      );
-      equal = delta.kind === "none";
-      // 3 candidatos: delta do par A×B acima, mas com 3 termos o "igual"
-      // precisa considerar todos — recalcula se houver terceiro
-      if (values.length === 3 && values[2]?.value !== null) {
-        const nums = values.map((v) => v!.value as number);
-        equal = nums[0] === nums[1] && nums[1] === nums[2];
-        if (!equal) {
-          // delta líder = maior valor vs menor valor, nomeado pelo líder
-          const max = Math.max(...nums);
-          const min = Math.min(...nums);
-          const leaderIdx = nums.indexOf(max);
-          const followerIdx = nums.lastIndexOf(min);
-          const leaderName = [names.a, names.b, names.c][leaderIdx];
-          const followerName = [names.a, names.b, names.c][followerIdx];
-          delta = formatDelta(
-            values[0]!,
-            { a: max, b: min },
-            { a: leaderName, b: followerName },
-          );
-        }
-      }
+    if (comparable) {
+      const nums = withValue.map(({ v }) => v!.value as number);
+      const max = Math.max(...nums);
+      const min = Math.min(...nums);
+      equal = nums.every((n) => n === nums[0]);
+      const leaderName = names[withValue[nums.indexOf(max)].i] ?? "";
+      const followerName = names[withValue[nums.lastIndexOf(min)].i] ?? "";
+      delta = formatDelta(metric, { a: max, b: min }, { a: leaderName, b: followerName });
     }
     return {
       metricId: id,

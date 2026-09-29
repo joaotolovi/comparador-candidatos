@@ -101,7 +101,7 @@ export function formatDelta(
 
 export function isComparable(m: Metric): boolean {
   return (
-    m.availability === "available" &&
+    (m.availability === "available" || m.availability === "zero") &&
     m.value !== null &&
     (m.metricType === "number" ||
       m.metricType === "percentage" ||
@@ -173,6 +173,8 @@ export const SOURCE_TYPE_LABEL: Record<string, string> = {
   estadual: "Governo estadual",
   municipal: "Prefeitura",
   plano_de_governo: "Plano de governo registrado",
+  partidaria: "Fonte do partido/campanha",
+  pesquisa_eleitoral: "Instituto de pesquisa",
   imprensa: "Imprensa (contexto)",
 };
 

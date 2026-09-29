@@ -4,12 +4,12 @@
 // — deep-linkável. Sticky header colapsa ao rolar. Dois modos de diferença:
 // "destacar" (diminui iguais) e "somente" (oculta linhas equivalentes).
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { Candidate } from "@/types";
 import { buildRows, keyDifferences } from "@/lib/data";
 import { ComparisonHeader } from "@/components/comparison-header";
 import { ComparisonSection } from "@/components/comparison-section";
-import { DifferenceSummary } from "@/components/difference-summary";
+import { ComparisonSummary } from "@/components/comparison-summary";
 import { Accordion } from "@/components/ui/accordion";
 import { Switch } from "@/components/ui/switch";
 import { DIMENSIONS, type DimensionSlug } from "@/types";
@@ -25,6 +25,15 @@ export function ComparisonExperience({
 }) {
   const [highlight, setHighlight] = useState(true);
   const [only, setOnly] = useState(false);
+  const [stuck, setStuck] = useState(false);
+
+  // Cabeçalho compacto sticky ao rolar (§16)
+  useEffect(() => {
+    const onScroll = () => setStuck(window.scrollY > 240);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
 
   const rows = useMemo(() => buildRows(candidates), [candidates]);
   const diffs = useMemo(
@@ -45,6 +54,22 @@ export function ComparisonExperience({
 
   return (
     <div className="flex flex-col gap-12">
+      {/* Sticky compacto: aparece quando o cabeçalho sai da tela */}
+      {stuck ? (
+        <div
+          className="sticky top-0 z-40 -mx-4 border-b border-border bg-background/92 px-4 py-2.5 backdrop-blur supports-[backdrop-filter]:bg-background/75 sm:-mx-6 sm:px-6"
+          aria-label="Cabeçalho fixo da comparação"
+        >
+          <ComparisonHeader
+            candidates={candidates}
+            allCandidates={allCandidates}
+            compact
+            onSwap={(i, slug) => swapCandidate(i, slug)}
+            onRemove={(i) => removeCandidate(i)}
+          />
+        </div>
+      ) : null}
+
       {/* Cabeçalho de comparação */}
       <section aria-label="Cabeçalho da comparação" className="flex flex-col gap-3">
         <Link
@@ -62,24 +87,12 @@ export function ComparisonExperience({
         />
       </section>
 
-      {/* Principais diferenças */}
-      <section aria-labelledby="h-diff" className="flex flex-col gap-4">
-        <div className="flex flex-wrap items-end justify-between gap-4">
-          <div className="flex flex-col gap-1">
-            <h2 id="h-diff" className="display-2">
-              Principais diferenças
-            </h2>
-            <p className="max-w-xl text-sm leading-relaxed text-muted-foreground">
-              Onde os perfis divergem, pelos números. Estes destaques revelam
-              diferenças documentadas — não elegem melhor ou pior candidato.
-            </p>
-          </div>
-        </div>
-        <DifferenceSummary
-          differences={diffs}
-          candidateNames={candidates.map((c) => c.name)}
-        />
-      </section>
+      {/* §9 — Resumo principal: 5 blocos + diferenças + Ver detalhes */}
+      <ComparisonSummary
+        candidates={candidates}
+        rows={rows}
+        differences={diffs}
+      />
 
       {/* Controles de diferença */}
       <section
