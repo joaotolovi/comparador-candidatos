@@ -158,6 +158,10 @@ export const LEGAL_STATUS_LABEL: Record<string, string> = {
   aprovacao: "Aprovação",
   reprovacao: "Reprovação",
   regular: "Regular",
+  investigacao_com_medidas_cautelares: "Investigação com medidas cautelares",
+  registro_indeferido: "Registro indeferido",
+  decisao_judicial_eleitoral: "Decisão judicial eleitoral",
+  candidatura_nao_apta: "Candidatura não apta",
 };
 
 export const SOURCE_TYPE_LABEL: Record<string, string> = {

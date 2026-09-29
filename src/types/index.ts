@@ -181,7 +181,8 @@ export interface InstitutionalRecord {
     | "auditoria"
     | "contas_publicas"
     | "tribunal"
-    | "patrimonial";
+    | "patrimonial"
+    | "eleitoral";
   title: string;
   /** categoria jurídica precisa — nunca misturar denúncia com condenação */
   legalStatus:
@@ -198,7 +199,11 @@ export interface InstitutionalRecord {
     | "decisao_anulada"
     | "aprovacao"
     | "reprovacao"
-    | "regular";
+    | "regular"
+    | "investigacao_com_medidas_cautelares"
+    | "registro_indeferido"
+    | "decisao_judicial_eleitoral"
+    | "candidatura_nao_apta";
   currentStatus: "em_andamento" | "encerrado" | "suspenso";
   instance: string;
   lastUpdate: string;

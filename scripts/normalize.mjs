@@ -91,8 +91,8 @@ const mapAchievement = (a, i, slug) => ({
   updatedAt: a.updatedAt ?? "2026-09-29",
 });
 
-const INST_CATS = new Set(["transparencia", "prestacao_de_contas", "auditoria", "contas_publicas", "tribunal", "patrimonial"]);
-const INST_STATUS = new Set(["denuncia", "acusacao", "investigacao", "inquerito", "processo", "decisao", "condenacao", "condenacao_definitiva", "absolvicao", "arquivamento", "decisao_anulada", "aprovacao", "reprovacao", "regular"]);
+const INST_CATS = new Set(["transparencia", "prestacao_de_contas", "auditoria", "contas_publicas", "tribunal", "patrimonial", "eleitoral"]);
+const INST_STATUS = new Set(["denuncia", "acusacao", "investigacao", "inquerito", "processo", "decisao", "condenacao", "condenacao_definitiva", "absolvicao", "arquivamento", "decisao_anulada", "aprovacao", "reprovacao", "regular", "investigacao_com_medidas_cautelares", "registro_indeferido", "decisao_judicial_eleitoral", "candidatura_nao_apta"]);
 const INST_CUR = new Set(["em_andamento", "encerrado", "suspenso"]);
 
 const mapInstitutional = (r, i, slug) => {

@@ -282,6 +282,7 @@
       ]
     }
   ],
+  "executiveExperience": [],
   "achievements": [
     {
       "id": "ach-hd-1",
@@ -951,6 +952,53 @@
           "accessedAt": "2026-09-29",
           "sourceType": "plano_de_governo",
           "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "Contagem não realizada; revogação das reformas trabalhista e previdenciária, jornada de 36h e isenção de IR dependem do Congresso",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC ou lei. Contagem por proposta não realizada; as propostas centrais do PSTU (revogação das reformas, jornada de 36h, tributação de grandes fortunas) exigem legislação do Congresso, onde o PSTU não tem bancada (0/513).",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-hd-04",
+          "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+        },
+        {
+          "id": "src-hd-05",
+          "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+        },
+        {
+          "id": "src-hd-11",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
         }
       ],
       "updatedAt": "2026-09-29"

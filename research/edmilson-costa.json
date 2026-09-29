@@ -103,7 +103,9 @@
       "startDate": "não informado",
       "endDate": null,
       "description": "Em 2008, ao lançar candidatura à prefeitura de SP, declarou ter 'mais de 20 anos de magistério' e descreveu-se como professor universitário e doutor em economia pela Unicamp (texto original do G1/Globo sobre a convenção do PCB). Ocupação declarada ao TSE em 2026: 'Aposentado (exceto servidor público)'.",
-      "achievements": ["Mais de 20 anos de magistério declarados em 2008 (G1/Globo)"],
+      "achievements": [
+        "Mais de 20 anos de magistério declarados em 2008 (G1/Globo)"
+      ],
       "sources": [
         {
           "id": "src-ec-08",
@@ -201,7 +203,9 @@
       "startDate": "2016-10-17",
       "endDate": null,
       "description": "Eleito secretário-geral em 17/10/2016, sucedendo Ivan Pinheiro, e no cargo até 29/09/2026 (Wikipédia; CNN Brasil; site do PCB). É a principal função partidária do candidato — cargo partidário, sem administração de recursos ou pessoal públicos.",
-      "achievements": ["Secretário-geral do PCB desde 17/10/2016 (sucessor de Ivan Pinheiro)"],
+      "achievements": [
+        "Secretário-geral do PCB desde 17/10/2016 (sucessor de Ivan Pinheiro)"
+      ],
       "sources": [
         {
           "id": "src-ec-03",
@@ -940,6 +944,33 @@
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
       "methodology": "Percentual de propostas com prazo definido. Nenhum prazo identificado no índice de 35 itens; contagem por item do PDF completo não realizada.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-ec-05",
+          "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+          "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "Contagem não realizada; estatizações bancárias, Assembleia Constituinte de Novo Tipo e reforma do Judiciário dependem do Congresso",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC, lei ou constituinte. Contagem por proposta não realizada; o plano do PCB propõe mudanças constitucionais explícitas (estatização de bancos, extinção do Senado, constituinte), todas dependentes do Congresso.",
       "evidenceStatus": "indeterminado",
       "confidenceLevel": "low",
       "availability": "under_analysis",

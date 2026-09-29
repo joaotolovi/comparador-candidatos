@@ -1,6 +1,6 @@
 // ⚠️ GERADO por scripts/normalize.mjs a partir de research/*.json — não editar à mão.
-// 6 candidato(s) com pesquisa profunda; os demais ficam só no seed.
-// Gerado em: 2026-09-29T15:12:31.851Z
+// 9 candidato(s) com pesquisa profunda; os demais ficam só no seed.
+// Gerado em: 2026-09-29T15:43:31.819Z
 import type { Candidate } from "@/types";
 
 export const researched: Partial<Candidate>[] = [
@@ -4554,6 +4554,34 @@ export const researched: Partial<Candidate>[] = [
         "dataPresentation": "notes_only"
       },
       {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; estatizações bancárias, Assembleia Constituinte de Novo Tipo e reforma do Judiciário dependem do Congresso",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC, lei ou constituinte. Contagem por proposta não realizada; o plano do PCB propõe mudanças constitucionais explícitas (estatização de bancos, extinção do Senado, constituinte), todas dependentes do Congresso.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-ec-05",
+            "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+            "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
         "id": "registro_tse",
         "category": "integridade",
         "name": "Situação do registro de candidatura no TSE",
@@ -4848,6 +4876,1573 @@ export const researched: Partial<Candidate>[] = [
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa",
         "notes": "Militância desde os anos 1980; doutorado em Economia pela Unicamp nos anos 1990 com tese sobre política salarial brasileira."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "hertz-dias",
+    "name": "Hertz Dias",
+    "ballotName": "Hertz Dias",
+    "ballotNumber": 16,
+    "party": "PSTU",
+    "coalition": "PSTU — partido isolado nas fichas consultadas (nenhuma coligação ou federação registrada nas fontes desta rodada; confirmação formal do registro: not_found) — chapa com vice Vanessa Portugal (PSTU)",
+    "photo": "",
+    "birthDate": "1970-10-20",
+    "birthplace": "São José de Ribamar, Maranhão (MA)",
+    "age": 55,
+    "profession": "Professor de ensino fundamental (ocupação declarada ao TSE) — licenciado em História, mestre em Educação; rapper e ativista do movimento negro",
+    "currentRole": "Candidato à Presidência da República (PSTU, nº 16, registro DEFERIDO)",
+    "tagline": "Professor de História da rede pública de São Luís (MA), mestre em Educação, rapper e ativista do movimento negro; pela 5ª vez candidato do PSTU (vice-presidente em 2018) — nenhuma vitória eleitoral até 2026.",
+    "education": [
+      {
+        "id": "edu-hd-1",
+        "level": "graduacao",
+        "field": "Licenciatura em História",
+        "institution": "não informada nas fontes desta rodada (not_found)",
+        "conclusionYear": null,
+        "notes": "Licenciado em História, segundo a Wikipédia; instituição e ano não informados nas fontes consultadas.",
+        "sources": [
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          }
+        ]
+      },
+      {
+        "id": "edu-hd-2",
+        "level": "mestrado",
+        "field": "Educação",
+        "institution": "não informada nas fontes desta rodada (not_found)",
+        "conclusionYear": null,
+        "notes": "Mestre em Educação, segundo a Wikipédia; instituição e ano não informados nas fontes consultadas.",
+        "sources": [
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-hd-1",
+        "role": "Professor da rede pública (estadual e municipal)",
+        "organization": "Redes de ensino do Maranhão (São Luís)",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Professor de História da rede pública em São Luís (MA), atuando nas redes estadual e municipal (BBC, Wikipédia); ao TSE, a ocupação declarada em 2026 é 'professor de ensino fundamental' (Nexo/g1). No cadastro de 2022 a ocupação declarada era 'empresário' (Wikipédia).",
+        "achievements": [
+          "Mestre em Educação",
+          "Professor de História nas redes pública estadual e municipal de São Luís (MA)"
+        ],
+        "sources": [
+          {
+            "id": "src-hd-07",
+            "title": "Quem são os candidatos à Presidência na Eleição 2026",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Hertz é professor de História da rede pública em São Luís, no Maranhão, rapper e ativista do movimento negro.'"
+          },
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          },
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          }
+        ]
+      },
+      {
+        "id": "prof-hd-2",
+        "role": "Rapper e ativista cultural",
+        "organization": "Grupo Gíria Vermelha; movimento hip hop Quilombo Urbano (MA)",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Atuação no cenário cultural como rapper, integrando o grupo Gíria Vermelha e participando do movimento hip hop Quilombo Urbano, no Maranhão; militante do movimento negro.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          },
+          {
+            "id": "src-hd-06",
+            "title": "Hertz Dias: o rapper que representa o PSTU na disputa pelo Planalto",
+            "publisher": "Correio Braziliense",
+            "url": "https://www.correiobraziliense.com.br/politica/2026/08/7489635-quem-e-hertz-dias-o-rapper-candidato-a-presidente-pelo-pstu.html",
+            "publishedAt": "2026-08",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Professor, rapper e ativista do movimento negro, Hertz Dias leva à disputa presidencial um projeto socialista com foco na defesa dos trabalhadores'. Descreve professor da rede pública do Maranhão."
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-hd-1",
+        "role": "Filiado ao Partido Socialista dos Trabalhadores Unificado (PSTU)",
+        "organization": "PSTU",
+        "startDate": "não informado nas fontes desta rodada (not_found)",
+        "endDate": null,
+        "description": "Militante do PSTU, partido pelo qual disputou todas as eleições desde 2010 até 2026. O ano exato da filiação não foi localizado nas fontes desta rodada (not_found). Cargo na direção nacional do partido: não confirmado (not_found) — as fontes o descrevem como candidato e militante, não como dirigente.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          }
+        ]
+      },
+      {
+        "id": "pol-hd-2",
+        "role": "Candidato a vice-presidente da República (chapa de Vera Lúcia)",
+        "organization": "PSTU",
+        "startDate": "2018",
+        "endDate": "2018",
+        "description": "Em 2018, foi candidato a vice-presidente na chapa encabeçada por Vera Lúcia (PSTU): 55.762 votos (0,05%), 11ª de 13 chapas, segundo o histórico do TSE compilado pelo Nexo. A Wikipédia do candidato registra 25.625 votos (0,02%) — divergência documentada; adotado o dado do TSE.",
+        "achievements": [
+          "Vice na chapa presidencial do PSTU em 2018"
+        ],
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          }
+        ]
+      },
+      {
+        "id": "pol-hd-3",
+        "role": "Candidaturas estaduais e municipais pelo PSTU",
+        "organization": "PSTU",
+        "startDate": "2010",
+        "endDate": "2022",
+        "description": "2010: vice-governador do Maranhão (chapa com o candidato a governador Marcos Silva) — 14.685 votos, não eleito. 2020: prefeito de São Luís (MA) — 2.173 votos (0,42%), não eleito. 2022: governador do Maranhão — 5.191 votos (0,15%), não eleito. Nenhuma vitória (histórico TSE via Nexo/Wikipédia).",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          },
+          {
+            "id": "src-hd-03",
+            "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+          }
+        ]
+      },
+      {
+        "id": "pol-hd-4",
+        "role": "Candidato à Presidência da República",
+        "organization": "PSTU",
+        "startDate": "2026",
+        "endDate": null,
+        "description": "Candidato oficial do PSTU à Presidência em 2026, com a vice Vanessa Portugal (ambos do PSTU); registro DEFERIDO e chapas entre as 12 divulgadas pelo TSE em 11/09/2026. Campanha registrada com número 16.",
+        "achievements": [
+          "Candidato do PSTU à Presidência em 2026 — chapa entre as 12 válidas do TSE"
+        ],
+        "sources": [
+          {
+            "id": "src-hd-14",
+            "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+            "publisher": "Nexo Jornal",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-hd-15",
+            "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+          },
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "ach-hd-1",
+        "title": "Mestre em Educação e professor da rede pública de São Luís (MA)",
+        "context": "Magistério público e pós-graduação",
+        "description": "Licenciado em História e mestre em Educação, professor nas redes pública estadual e municipal de São Luís; ocupação declarada ao TSE em 2026: 'professor de ensino fundamental'.",
+        "sources": [
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          },
+          {
+            "id": "src-hd-07",
+            "title": "Quem são os candidatos à Presidência na Eleição 2026",
+            "publisher": "BBC News Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "'Hertz é professor de História da rede pública em São Luís, no Maranhão, rapper e ativista do movimento negro.'"
+          },
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-hd-2",
+        "title": "Vice na chapa presidencial do PSTU em 2018",
+        "context": "Eleições presidenciais de 2018",
+        "description": "Candidato a vice-presidente na chapa de Vera Lúcia: 55.762 votos (0,05%) — a maior votação registrada em seu histórico eleitoral (dado do TSE via Nexo).",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-hd-3",
+        "title": "Candidato oficial do PSTU à Presidência em 2026",
+        "context": "Eleições de 2026",
+        "description": "Registro DEFERIDO com a vice Vanessa Portugal; entre as 12 chapas válidas à Presidência confirmadas pelo TSE em 11/09/2026 — a 5ª candidatura consecutiva pelo PSTU desde 2010.",
+        "sources": [
+          {
+            "id": "src-hd-14",
+            "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+            "publisher": "Nexo Jornal",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-hd-15",
+            "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Plano de governo registrado no TSE (proposta-pstu.pdf) — título de capa não capturado",
+      "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+      "totalProposals": 38,
+      "registeredWith": "TSE — DivulgaCandContas (página oficial 'Propostas de Governo' com índice de 38 itens em 8 eixos; PDF de 722 KB)",
+      "summary": "",
+      "notes": "Índice oficial (capturado via proxy em 29/09/2026): 38 propostas distribuídas em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (6); Saúde Pública e Assistência (5); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (5); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (5); Governança, Transparência e Reformas de Estado (4). O Metrópoles descreveu o plano como proposta de 'enfrentar o imperialismo'; título de capa do PDF não capturado nesta rodada (not_found).",
+      "statsIfCounted": {
+        "objective": "Propostas majoritariamente descritivas no índice; números pontuais no texto (aumento de 100% no salário mínimo, jornada de 36h semanais, bolsa de 1 salário mínimo)",
+        "target": "Aumento de 100% do salário mínimo; jornada máxima de 36h semanais sem redução salarial; bolsa-filha/filho de 1 salário mínimo",
+        "deadline": "Prazos por proposta não informados no índice do TSE",
+        "cost": null,
+        "funding": null,
+        "fiscal": "Não informado no índice (o eixo 1 se chama 'Economia, Trabalho e Responsabilidade Fiscal', mas sem números de custo/orçamento capturados)",
+        "agency": null,
+        "instrument": "Legislação ordinária (CLT), revogação das reformas trabalhista e previdenciária; normas constitucionais no caso de direitos previdenciários",
+        "indicator": null,
+        "congress": "Propostas trabalhistas/previdenciárias dependem do Congresso; PSTU sem bancada (0/513). Contagem de custo/prazo por proposta não realizada pela equipe."
+      },
+      "statsEvidence": "indeterminado",
+      "proposals": [
+        {
+          "id": "kp-hd-1",
+          "title": "Fim da escala 6x1 sem redução salarial e jornada de 36 horas semanais",
+          "description": "Redução da jornada de 44 para 36 horas semanais com manutenção do salário e fim da escala 6x1; contratação de novos trabalhadores para substituição de plantões.",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-hd-02",
+              "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+            },
+            {
+              "id": "src-hd-04",
+              "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+            }
+          ]
+        },
+        {
+          "id": "kp-hd-2",
+          "title": "Aumento geral de salários com mínimo 100% maior e piso de R$ 5 mil para funcionários públicos federais",
+          "description": "Aumento de 100% do salário mínimo; 20% para aposentados e pensionistas do INSS; piso salarial de R$ 5.000 para funcionários públicos federais; recuperação real dos salários desde 1989.",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-hd-04",
+              "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+            }
+          ]
+        },
+        {
+          "id": "kp-hd-3",
+          "title": "Bolsa-filha/filho de 1 salário mínimo",
+          "description": "Renda mínima para mães desempregadas ou que precisam interromper o trabalho para cuidar de crianças de até 5 anos.",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-hd-04",
+              "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+            }
+          ]
+        },
+        {
+          "id": "kp-hd-4",
+          "title": "Revogação das reformas trabalhista e previdenciária e direitos plenos a aplicativos",
+          "description": "Reversão das mudanças na CLT e na previdência; equiparação total de direitos de trabalhadores de aplicativos aos demais trabalhadores.",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-hd-04",
+              "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+            },
+            {
+              "id": "src-hd-02",
+              "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+            }
+          ]
+        },
+        {
+          "id": "kp-hd-5",
+          "title": "Isenção do Imposto de Renda para trabalhadores assalariados",
+          "description": "Isenção do IR para quem vive de salário; tributação sobre grandes fortunas e lucros (eixo Economia).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-hd-02",
+              "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+            },
+            {
+              "id": "src-hd-04",
+              "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+            }
+          ]
+        },
+        {
+          "id": "kp-hd-6",
+          "title": "Direito de greve e atuação sindical dos trabalhadores, com controle estatal de estatísticas e greves",
+          "description": "Liberdade de greve em todos os setores, sem permissão prévia do patronato; apelo a assembleias e ações diretas; o Estado divulga estatísticas e greves (eixo Governança).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-hd-04",
+              "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+            }
+          ]
+        },
+        {
+          "id": "kp-hd-7",
+          "title": "'Enfrentar o imperialismo' como eixo central da política externa",
+          "description": "Segundo o Metrópoles, o plano registrado no TSE propõe enfrentar o imperialismo como eixo da política externa; o índice oficial traz um eixo próprio de 'Política Externa e Inserção Global' (3 propostas).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-hd-13",
+              "title": "Em plano, presidenciável do PSTU propõe 'enfrentar o imperialismo'",
+              "publisher": "Metrópoles",
+              "url": "https://www.metropoles.com/brasil/em-plano-presidenciavel-do-pstu-propoe-enfrentar-o-imperialismo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "'Candidato do PSTU, Hertz Dias registrou plano de governo no TSE'. Data exata da publicação não capturada nesta rodada; localizado via busca em 29/09/2026."
+            },
+            {
+              "id": "src-hd-04",
+              "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-hd-1",
+        "description": "Chapa do PSTU isolado (nenhuma coligação ou federação localizada nas fichas consultadas); vice: Vanessa Portugal (PSTU). PSTU sem representação federal: 0 deputados e 0 senadores em exercício em 29/09/2026 (APIs oficiais).",
+        "value": "PSTU — 0/513 na Câmara e 0/81 no Senado",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-14",
+            "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+            "publisher": "Nexo Jornal",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-hd-11",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+          },
+          {
+            "id": "src-hd-12",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+          }
+        ]
+      },
+      {
+        "id": "sup-hd-2",
+        "description": "Financiamento da campanha presidencial até 08/09/2026 (prestação parcial ao TSE): receita de R$ 1.087.584,16 de 7 doadores — 99% vêm do PSTU (direção nacional, R$ 1.074.389,00); R$ 5.000,16 de pessoas físicas e R$ 4.985,00 de vaquinha. Gasto contratado de R$ 1.050.232,71 (1,2% do limite legal de R$ 88.944.030,80), dos quais R$ 655.232,71 já pagos. Principais destinos: serviços por terceiros R$ 520.000,00 (50%), materiais impressos R$ 42.700,00 e impulsionamento de conteúdo R$ 18.000,00.",
+        "value": "R$ 1.087.584,16 de receita até 08/09/2026 (7 doadores; 99% do partido)",
+        "date": "2026-09-08",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-hd-1",
+        "description": "Vice na chapa presidencial do PSTU em 2018 (Vera Lúcia para presidente, Hertz Dias para vice): 55.762 votos (0,05%) no primeiro turno — 11ª de 13 chapas. A Wikipédia do candidato diverge (25.625 votos); adotado o dado do TSE compilado pelo Nexo.",
+        "value": "Chapa presidencial PSTU 2018 — 55.762 votos (0,05%)",
+        "date": "2018-10",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          }
+        ]
+      },
+      {
+        "id": "neg-hd-2",
+        "description": "Nenhuma negociação legislativa registrada: nunca ocupou mandato e o PSTU não tem bancada no Congresso (0 deputados e 0 senadores em exercício). Registros de articulação em votações não localizados (not_found).",
+        "value": "sem registros de negociação legislativa",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-hd-11",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+          },
+          {
+            "id": "src-hd-12",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum localizado: nunca venceu eleição e não há registro de nomeação — histórico TSE completo no Nexo mostra 5 candidaturas (2010, 2018, 2020, 2022, 2026), todas derrotadas ou em análise; buscas por cargos públicos não retornaram registros (not_found).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-03",
+            "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Exerce funções partidárias e magistério — sem gestão de administração pública.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "Não se aplica — nunca administrou orçamento público",
+        "value": null,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior orçamento anual sob gestão em cargo público.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Equipes geridas no setor público",
+        "displayValue": "Não localizado",
+        "value": null,
+        "unit": "pessoas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Número de pessoas sob gestão em cargo público. Nenhum cargo público localizado (not_found) — dado tratado como não localizado, não como certidão negativa.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "16 anos (primeira candidatura documentada em 2010)",
+        "value": 16,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Anos entre a primeira candidatura documentada (vice-governador do Maranhão, eleições 2010, segundo o histórico do TSE no Nexo) e 29/09/2026. O início da filiação ao PSTU e da militância não estão datados nas fontes desta rodada (not_found); se a militância anterior fosse datada, o número seria maior. Portanto este valor é um piso.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Premissa do briefing ('metalúrgico/sindicalista') NÃO confirmada: a ficha TSE declara ocupação 'professor de ensino fundamental' e as fontes (BBC, Correio Braziliense, Wikipédia) descrevem professor de História da rede pública de São Luís (MA), licenciado em História e mestre em Educação — nenhum registro de filiação ou direção de sindicato de metalúrgicos localizado (not_found); tampouco foi confirmado cargo na direção nacional do PSTU (not_found).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "historico-experiencia",
+        "name": "Anos em mandatos legislativos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em mandatos legislativos (vereador, deputado estadual/federal, senador). Nenhum mandato conquistado: histórico TSE completo (2010–2026) sem vitória eleitoral.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-03",
+            "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos federais (Executivo ou Legislativo)",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos federais. Nunca ocupou mandato nem cargo federal (not_found).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "0 de 5 disputas (2010–2026)",
+        "value": 0,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de eleições vencidas antes de 2026. Histórico TSE (Nexo/g1): 2010 vice-governador MA (não eleito), 2018 vice-presidente (não eleito), 2020 prefeito de São Luís (não eleito), 2022 governador MA (não eleito), 2026 presidente (em análise no snapshot de 29/09/2026).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-03",
+            "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "77.811 votos somados em 4 disputas derrotadas (2010–2022)",
+        "value": 77811,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos votos por disputa anterior a 2026: 14.685 (2010, votos da chapa de vice-governador do Maranhão — PSTU, candidato a governador Marcos Silva); 55.762 (2018, votos da chapa presidencial Vera Lúcia/Hertz Dias); 2.173 (2020, voto individual a prefeito de São Luís); 5.191 (2022, voto individual a governador do Maranhão). Mistura voto de chapa e voto individual, conforme registrados no TSE (via Nexo). Divergência documentada: a Wikipédia de Hertz Dias registra 25.625 votos para 2018 — adotado o número do TSE/Nexo (55.762, 0,05%, 11ª de 13 chapas).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-02",
+            "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas no plano de governo registrado",
+        "displayValue": "38 propostas (índice do TSE, 8 eixos)",
+        "value": 38,
+        "unit": "propostas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem dos itens do índice oficial de 'Propostas de Governo' do TSE para a chapa do PSTU (38 itens em 8 eixos; a página contém 39 marcas contando o rodapé 'Erro da página'). Análise manual do PDF não realizada nesta rodada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          },
+          {
+            "id": "src-hd-05",
+            "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Não informado no índice do TSE (0 de 38 com custo)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com custo estimado. Nenhum custo identificado no índice oficial das 38 propostas; leitura item a item do PDF não realizada nesta rodada.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          },
+          {
+            "id": "src-hd-05",
+            "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Não informado no índice do TSE (0 prazos identificados em 38 itens)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido. Nenhum prazo identificado no índice de 38 itens; contagem por item do PDF completa não realizada.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          },
+          {
+            "id": "src-hd-05",
+            "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; revogação das reformas trabalhista e previdenciária, jornada de 36h e isenção de IR dependem do Congresso",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC ou lei. Contagem por proposta não realizada; as propostas centrais do PSTU (revogação das reformas, jornada de 36h, tributação de grandes fortunas) exigem legislação do Congresso, onde o PSTU não tem bancada (0/513).",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-hd-04",
+            "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+          },
+          {
+            "id": "src-hd-05",
+            "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+          },
+          {
+            "id": "src-hd-11",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "DEFERIDO — entre as 12 candidaturas válidas divulgadas pelo TSE (11/09/2026)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026: Nexo ('Registro deferido'), g1 (dados TSE) e especial do Nexo com a lista de registros (14/08/2026). A ficha da Folha para Hertz não pôde ser capturada nesta rodada (a página devolveu apenas a navegação da home) e a página TSE de ficha individual bloqueou o acesso (Access Denied) — os dados vêm da mesma base TSE reproduzida por Nexo e g1. TSE confirmou em 11/09/2026 que a disputa terá 12 candidaturas à Presidência.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-03",
+            "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+          },
+          {
+            "id": "src-hd-14",
+            "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+            "publisher": "Nexo Jornal",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-hd-15",
+            "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "R$ 170.000,00 (2026)",
+        "value": 170000,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de 2026 (TSE, via Nexo/g1). Composição: apartamento de 45 m², 2 dormitórios, avaliado em R$ 170.000,00. Sem histórico anterior de bens localizado nas fontes desta rodada (not_found).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-hd-01",
+            "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+          },
+          {
+            "id": "src-hd-03",
+            "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA... corrigir: PSTU 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido no Congresso (antes da eleição de 2026)",
+        "displayValue": "0/513 deputados federais e 0 senadores",
+        "value": 0,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Consulta às APIs oficiais da Câmara dos Deputados (deputados em exercício na 57ª Legislatura com siglaPartido=PSTU) e do Senado (parlamentares em exercício em 29/09/2026): nenhum resultado.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-hd-11",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+          },
+          {
+            "id": "src-hd-12",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Cargos estaduais, municipais e vereadores do PSTU não verificados nesta rodada.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "0% (não pontuou — Quaest/SP 23/09/2026; Datafolha/SP 25/09: 0)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Última sondagem estimulada localizada nesta rodada que inclui o candidato: Quaest em São Paulo (divulgada 23/09/2026; campo 19–22/09; 1.800 entrevistas; BR-08886/2026) — 0% (não pontuou). Datafolha/SP (divulgada 25/09/2026; BR-09355/2026) também registra 0 (não pontuou). Pesquisas REGIONAIS (SP); pesquisa nacional recente com valor de Hertz não localizado nesta rodada (a Datafolha nacional de 24/09/2026 incluiu os 13 candidatos, mas o recorte capturado não traz seu percentual).",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-hd-08",
+            "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+            "publisher": "NSC Total",
+            "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+            "publishedAt": "2026-09-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Pesquisa Quaest encomendada pela Globo no estado de São Paulo: campo 19–22/09/2026, 1.800 entrevistas, margem ±2 p.p., 95% de confiança, registro TSE BR-08886/2026. 1º turno: Hertz Dias (PSTU) 0%, Wilson Grassi 0%, Rui Costa Pimenta 0%, Edmilson Costa 0% (nenhum pontuou); Lula 31%, Flávio Bolsonaro 34%."
+          },
+          {
+            "id": "src-hd-09",
+            "title": "Quaest: no 2º turno de SP, Flávio tem 42% e Lula, 36%; no 1º, candidatos têm empate técnico",
+            "publisher": "Diário do Grande ABC (DGABC)",
+            "url": "https://www.dgabc.com.br/Noticia/4348729/quaest-no-2-turno-de-sp-flavio-tem-42-e-lula-36-no-1-candidatos-tem-empate-tecnico",
+            "publishedAt": "2026-09-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Confirma a Quaest/SP (1.800 eleitores, 19–22/09/2026, BR-08886/2026): 'Wilson Grassi, Samara Martins, Edmilson Costa, Rui Costa Pimenta, Lonardo Avalanche, Hertz Dias e Clariana Barão não pontuaram'."
+          },
+          {
+            "id": "src-hd-10",
+            "title": "Datafolha: Flávio Bolsonaro lidera em SP, RJ e DF; Lula fica a frente em PE",
+            "publisher": "O Paralelo 13",
+            "url": "https://www.oparalelo13.com.br/edicao-465/datafolha-flavio-bolsonaro-lidera-em-sp-rj-e-df-lula-fica-a-frente-em-pe-e-mg-tem-empate-tecnico-202609260919",
+            "publishedAt": "2026-09-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Datafolha/SP (divulgada em 25/09/2026; campo 22–24/09; 1.610 pessoas; registro TSE BR-09355/2026; encomenda Globo/Folha): Hertz Dias (PSTU) 0 (não pontuou); Wilson Grassi (Democrata) 1% (era 1%)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Amostra regional (maior colégio eleitoral do país); não representa a intenção nacional.",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-hd-01",
+        "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+        "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+        "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+      },
+      {
+        "id": "src-hd-02",
+        "title": "Hertz Dias — verbete (Wikipédia em português: licenciado em História, mestre em Educação, posições políticas)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Hertz_Dias",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: nascido em São José de Ribamar (20/10/1970); licenciado em História e mestre em Educação; professor nas redes pública estadual e municipal; rapper (grupo Gíria Vermelha; movimento hip hop Quilombo Urbano); militante do movimento negro; posições: fim da escala 6x1 sem redução salarial, aumento geral dos salários, isenção do IR para assalariados, revogação das reformas trabalhista e previdenciária, direitos de trabalhadores de aplicativos, desmilitarização da PM, descriminalização de drogas e do aborto, oposição à exploração na Margem Equatorial. ATENÇÃO: afirma 25.625 votos (0,02%) em 2018 — número divergente do dado do TSE via Nexo (55.762). Não confere filiação sindical nem cargo na direção nacional do PSTU."
+      },
+      {
+        "id": "src-hd-03",
+        "title": "Hertz Dias — ficha do candidato à Presidência nas eleições 2026 (dados do TSE)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Dados do TSE: PSTU nº 16; profissão professor de ensino fundamental; etnia preta; grau superior completo; candidaturas anteriores 2022 Governador (não eleito), 2018 Vice-presidente (não eleito), 2010 Vice-governador (não eleito); bens declarados; vice Vanessa Portugal."
+      },
+      {
+        "id": "src-hd-04",
+        "title": "Hertz Dias — Propostas de Governo (página oficial do TSE, índice com 38 propostas em 8 eixos)",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/hertz-dias-propostas-de-governo",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Índice oficial das propostas registradas: 38 itens em 8 eixos (Economia, Trabalho e Responsabilidade Fiscal: 6; Saúde Pública e Assistência: 5; Segurança Pública e Justiça: 5; Educação, Ciência e Meio Ambiente: 5; Política Externa e Inserção Global: 3; Direitos Humanos, Equidade e Inclusão Social: 5; Questão Agrária, Propriedade e Direito à Cidade: 5; Governança, Transparência e Reformas de Estado: 4). Captura direta bloqueada (Access Denied da Akamai) — texto obtido via proxy r.jina.ai em 29/09/2026. Contagem da equipe: 38 itens (o índice auxiliar propostas_tse.json conta 39 por incluir o marcador 'Erro na página' da página)."
+      },
+      {
+        "id": "src-hd-05",
+        "title": "Proposta do PSTU para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+        "publisher": "TSE — DivulgaCandContas (arquivos)",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pstu/@@display-file/file/proposta-pstu.pdf",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
+      },
+      {
+        "id": "src-hd-06",
+        "title": "Hertz Dias: o rapper que representa o PSTU na disputa pelo Planalto",
+        "publisher": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/politica/2026/08/7489635-quem-e-hertz-dias-o-rapper-candidato-a-presidente-pelo-pstu.html",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "'Professor, rapper e ativista do movimento negro, Hertz Dias leva à disputa presidencial um projeto socialista com foco na defesa dos trabalhadores'. Descreve professor da rede pública do Maranhão."
+      },
+      {
+        "id": "src-hd-07",
+        "title": "Quem são os candidatos à Presidência na Eleição 2026",
+        "publisher": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "'Hertz é professor de História da rede pública em São Luís, no Maranhão, rapper e ativista do movimento negro.'"
+      },
+      {
+        "id": "src-hd-08",
+        "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+        "publisher": "NSC Total",
+        "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+        "publishedAt": "2026-09-23",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Pesquisa Quaest encomendada pela Globo no estado de São Paulo: campo 19–22/09/2026, 1.800 entrevistas, margem ±2 p.p., 95% de confiança, registro TSE BR-08886/2026. 1º turno: Hertz Dias (PSTU) 0%, Wilson Grassi 0%, Rui Costa Pimenta 0%, Edmilson Costa 0% (nenhum pontuou); Lula 31%, Flávio Bolsonaro 34%."
+      },
+      {
+        "id": "src-hd-09",
+        "title": "Quaest: no 2º turno de SP, Flávio tem 42% e Lula, 36%; no 1º, candidatos têm empate técnico",
+        "publisher": "Diário do Grande ABC (DGABC)",
+        "url": "https://www.dgabc.com.br/Noticia/4348729/quaest-no-2-turno-de-sp-flavio-tem-42-e-lula-36-no-1-candidatos-tem-empate-tecnico",
+        "publishedAt": "2026-09-23",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Confirma a Quaest/SP (1.800 eleitores, 19–22/09/2026, BR-08886/2026): 'Wilson Grassi, Samara Martins, Edmilson Costa, Rui Costa Pimenta, Lonardo Avalanche, Hertz Dias e Clariana Barão não pontuaram'."
+      },
+      {
+        "id": "src-hd-10",
+        "title": "Datafolha: Flávio Bolsonaro lidera em SP, RJ e DF; Lula fica a frente em PE",
+        "publisher": "O Paralelo 13",
+        "url": "https://www.oparalelo13.com.br/edicao-465/datafolha-flavio-bolsonaro-lidera-em-sp-rj-e-df-lula-fica-a-frente-em-pe-e-mg-tem-empate-tecnico-202609260919",
+        "publishedAt": "2026-09-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Datafolha/SP (divulgada em 25/09/2026; campo 22–24/09; 1.610 pessoas; registro TSE BR-09355/2026; encomenda Globo/Folha): Hertz Dias (PSTU) 0 (não pontuou); Wilson Grassi (Democrata) 1% (era 1%)."
+      },
+      {
+        "id": "src-hd-11",
+        "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+        "publisher": "Câmara dos Deputados (dados abertos)",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
+      },
+      {
+        "id": "src-hd-12",
+        "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+        "publisher": "Senado Federal (dados abertos)",
+        "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PSTU."
+      },
+      {
+        "id": "src-hd-13",
+        "title": "Em plano, presidenciável do PSTU propõe 'enfrentar o imperialismo'",
+        "publisher": "Metrópoles",
+        "url": "https://www.metropoles.com/brasil/em-plano-presidenciavel-do-pstu-propoe-enfrentar-o-imperialismo",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "'Candidato do PSTU, Hertz Dias registrou plano de governo no TSE'. Data exata da publicação não capturada nesta rodada; localizado via busca em 29/09/2026."
+      },
+      {
+        "id": "src-hd-14",
+        "title": "Quem são todos os candidatos nas eleições de 2026 (lista completa dos registros no TSE)",
+        "publisher": "Nexo Jornal",
+        "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+        "publishedAt": "2026-08-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Especial com as fichas registradas no TSE (atualização 15/08/2026, 13h00): '16 Hertz Dias PSTU — vice Vanessa Portugal PSTU'; entre as 12 chapas à Presidência."
+      },
+      {
+        "id": "src-hd-15",
+        "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
       }
     ],
     "updatedAt": "2026-09-29"
@@ -7361,6 +8956,1495 @@ export const researched: Partial<Candidate>[] = [
     "updatedAt": "2026-09-29"
   },
   {
+    "slug": "rui-costa-pimenta",
+    "name": "Rui Costa Pimenta",
+    "ballotName": "Rui Costa Pimenta",
+    "ballotNumber": 29,
+    "party": "PCO",
+    "coalition": "PCO — partido isolado (nenhuma coligação ou federação registrada nas fontes desta rodada) — chapa com vice Antônio Carlos (PCO)",
+    "photo": "",
+    "birthDate": "1957-06-25",
+    "birthplace": "São Paulo, São Paulo (SP)",
+    "age": 69,
+    "profession": "Jornalista e redator (ocupação declarada ao TSE) — escritor e presidente nacional do PCO",
+    "currentRole": "Candidato à Presidência da República (PCO, nº 29, registro DEFERIDO) e presidente nacional do Partido da Causa Operária (desde 1995)",
+    "tagline": "Presidente nacional do PCO desde 1995, jornalista (Cásper Líbero) e autor de 2 livros; fundador do PT em 1980, expulso em 1995; quarta campanha presidencial efetiva (2002, 2010, 2014, 2026 — além do registro indeferido em 2006), nenhuma vitória; sob investigação da PF desde agosto de 2026.",
+    "education": [
+      {
+        "id": "edu-rp-1",
+        "level": "graduacao",
+        "field": "Jornalismo",
+        "institution": "Faculdade Cásper Líbero",
+        "conclusionYear": null,
+        "notes": "Jornalista formado pela Faculdade Cásper Líbero, segundo a Wikipédia; ano de conclusão não informado nas fontes consultadas. Escolaridade declarada ao TSE: superior completo (Nexo/TSE).",
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          },
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-rp-1",
+        "role": "Jornalista e redator",
+        "organization": "Ocupação declarada ao TSE; imprensa partidária do PCO",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Ocupação declarada à Justiça Eleitoral em 2026: 'jornalista e redator' (Nexo/TSE). Edita o jornal partidário Causa Operária; publica análises políticas semanais às terças no Brasil 247 e apresenta a coluna Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) — segundo a Wikipédia.",
+        "achievements": [
+          "Colunista semanal (Brasil 247) e comentarista no canal Causa Operária TV"
+        ],
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ]
+      },
+      {
+        "id": "prof-rp-2",
+        "role": "Escritor e autor de obras publicadas",
+        "organization": "Edições Causa Operária / Editora Democritus",
+        "startDate": "2018",
+        "endDate": null,
+        "description": "Livros publicados: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária e Editora Democritus, 2021). Também realiza cursos e palestras (Universidade Marxista e Universidade de Férias, segundo a Wikipédia).",
+        "achievements": [
+          "2 livros publicados (2018 e 2021)"
+        ],
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-rp-1",
+        "role": "Militância política desde 1976; fundador do PT (1980) e da tendência Causa Operária",
+        "organization": "Movimento estudantil / PT / CUT",
+        "startDate": "1976",
+        "endDate": "1995",
+        "description": "Atividade política desde 1976, na ditadura militar; participou do Congresso de Refundação da UNE (Salvador, 1980) e foi diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980, pela tendência Causa Operária; eleito diretor da CUT na região da grande São Paulo em 1985; rompimento público da tendência com o PT em 1992; expulso do PT em 1995 (Wikipédia).",
+        "achievements": [
+          "Fundador do PT (1980)",
+          "Diretor da CUT na região de São Paulo (1985)"
+        ],
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ]
+      },
+      {
+        "id": "pol-rp-2",
+        "role": "Fundador e presidente nacional do PCO",
+        "organization": "Partido da Causa Operária (PCO)",
+        "startDate": "1995",
+        "endDate": null,
+        "description": "Com a expulsão do PT, ajudou a lançar o PCO em 1995 (registro definitivo em 1996) e é presidente nacional do partido desde então — 31 anos à frente do PCO no pleito de 2026. Em março de 2024, reuniu-se no Catar com o líder do Hamas, Ismail Haniya, segundo a Wikipédia (fatos relatados pela imprensa).",
+        "achievements": [
+          "Presidente nacional do PCO desde 1995 (fundador)"
+        ],
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ]
+      },
+      {
+        "id": "pol-rp-3",
+        "role": "Candidaturas legislativas e municipais",
+        "organization": "PCO",
+        "startDate": "1998",
+        "endDate": "2000",
+        "description": "1998: deputado federal por São Paulo — 1.160 votos (não eleito). 2000: prefeito de São Paulo — 870 votos (não eleito). Histórico do TSE desde 1998 (Nexo).",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          }
+        ]
+      },
+      {
+        "id": "pol-rp-4",
+        "role": "Candidaturas à Presidência da República",
+        "organization": "PCO",
+        "startDate": "2002",
+        "endDate": null,
+        "description": "2002: 38.619 votos (0,05%) — não eleito. 2006: registro indeferido em razão de erro na prestação de contas da campanha de 2002; o PCO protestou e retirou os candidatos do horário político (Wikipédia). 2010: 12.206 votos (0,01%) — não eleito. 2014: 12.324 votos (0,01%) — não eleito. 2018: não disputou — apoiou Lula criticamente, sem entrar na coligação. 2022: não disputou (ausente do histórico do TSE). 2026: registro DEFERIDO — quarta campanha presidencial efetiva. A Folha resume: 'candidato à Presidência pelo PCO em outras três ocasiões: 2002, 2010 e 2014'.",
+        "achievements": [
+          "Candidato à Presidência em 4 campanhas efetivas (2002, 2010, 2014, 2026)"
+        ],
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          },
+          {
+            "id": "src-rp-04",
+            "title": "PF apura desvio no PCO e faz busca sobre Rui Costa Pimenta",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-mira-presidente-do-pco-em-operacao-sobre-suspeita-de-desvio-de-fundo-partidario-e-eleitoral.shtml",
+            "publishedAt": "2026-08-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Folha (11/08/2026): mandado de busca e apreensão em endereço de Rui Costa Pimenta em operação sobre suspeitas de desvio de recursos do fundo partidário e do fundo eleitoral; 'A decisão que trata do caso determina o afastamento por 180 dias do cargo partidário'; o partido e Rui só tomaram conhecimento com a arrombamento da porta; segundo a Metrópoles (citada), a investigação envolve um suposto esquema de pagamentos do partido a gráficas; confirma que Rui foi candidato à Presidência pelo PCO em 2002, 2010 e 2014."
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "ach-rp-1",
+        "title": "Presidente nacional do PCO desde 1995 — fundador e único presidente do partido",
+        "context": "Partido da Causa Operária, 1995–atual",
+        "description": "Lançou o PCO em 1995 após a expulsão do PT (registro definitivo em 1996) e preside o partido há 31 anos, conduzindo todas as candidaturas presidenciais do PCO desde 2002.",
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-rp-2",
+        "title": "Autor de 2 livros publicados",
+        "context": "Edições Causa Operária (2018) e Causa Operária/Democritus (2021)",
+        "description": "'Golpe de Estado no Brasil — Balanço e Perspectivas' (2018) e 'A Era da Censura das Massas' (2021) — obras políticas publicadas pelo próprio selo partidário e por editora parceira.",
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-rp-3",
+        "title": "Participação na fundação do PT (1980) e direção da CUT (1985)",
+        "context": "Trajetória sindical e partidária pré-PCO",
+        "description": "Um dos fundadores do Partido dos Trabalhadores em 1980 pela tendência Causa Operária; eleito diretor da CUT na região da grande São Paulo em 1985; rompeu publicamente com o PT em 1992.",
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "Programa de Governo do PCO para 2026 (PCOprogramadegoverno2026.pdf, 52 páginas)",
+      "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+      "totalProposals": 51,
+      "registeredWith": "TSE — DivulgaCandContas (página oficial 'Propostas de Governo' com índice de 51 itens em 8 eixos; PDF oficial de 52 páginas)",
+      "summary": "",
+      "notes": "Índice oficial (capturado via proxy em 29/09/2026): 51 propostas em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). É o maior número de propostas indexadas entre os quatro candidatos desta leva (Rui 51, Wilson 44, Hertz 38, Edmilson 35).",
+      "statsIfCounted": {
+        "objective": "Propostas com números explícitos no índice: aumento emergencial de 50% dos salários (em 45 dias), salário mínimo mínimo de R$ 7.500, piso salarial de R$ 8.000 na saúde e R$ 8.500 para docentes, jornada de 7 horas/35 semanais",
+        "target": "Salário mínimo de R$ 7.500 (meta); +50% em salários/aposentadorias/pensões; piso de R$ 8 mil (médicos) e R$ 8,5 mil (docentes); piso de 1 salário mínimo para jovens trabalhadores",
+        "deadline": "Aumento emergencial de salários, aposentadorias e pensões em 45 dias (único prazo explícito identificado no índice)",
+        "cost": null,
+        "funding": "Imposto Único sobre a circulação de dinheiro (0,5% para pessoas físicas; 1% para grandes fortunas), aplicação de alíquota adicional sobre grandes fortunas, fim de 32 tributos e suspensão de renúncias fiscais — fonte única declarada no índice",
+        "fiscal": "Suspensão do pagamento de juros da dívida pública e auditoria dela; na dúvida, decretar moratória; opção por estatizações (bancos, saúde, energia, transporte, comunicação) e fortalecimento da Eletrobras",
+        "agency": "Polícia Federal, Polícia Rodoviária Federal, Forças Armadas (com apoio nas fronteiras), Conselho de Segurança Nacional, Ministério da Saúde e órgãos de vigilância sanitária",
+        "instrument": "Lei ordinária e decretos (aumentos, jornadas, Ronda Nacional de 30 mil agentes); emendas constitucionais para federações, Orçamento Participativo e Conselhos do Trabalho, Saúde e Educação",
+        "indicator": "Não informado no índice (sem metas de indicadores por proposta capturadas)",
+        "congress": "Propostas trabalhistas, previdenciárias e tributárias dependem do Congresso; PCO sem bancada (0/513 e 0/81). Mudanças constitucionais (orçamento participativo, conselhos) exigem emendas. Contagem de custo/prazo por proposta não realizada pela equipe."
+      },
+      "statsEvidence": "indeterminado",
+      "proposals": [
+        {
+          "id": "kp-rp-1",
+          "title": "Redução de 50% nos preços de energia elétrica, gás e combustíveis",
+          "description": "Alívio emergencial de 50% nas contas de luz, gás de cozinha e combustíveis, combinado com reajuste emergencial de preços mínimos de alimentos (eixo Economia).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rp-07",
+              "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+            }
+          ]
+        },
+        {
+          "id": "kp-rp-2",
+          "title": "Aumento emergencial de 50% dos salários, aposentadorias e pensões em 45 dias",
+          "description": "Reajuste emergencial de 50% em salários, aposentadorias e pensões 'em 45 dias' — o único prazo explícito identificado no índice — mais isenção do Imposto de Renda de quem recebe até 5 salários mínimos.",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rp-07",
+              "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+            }
+          ]
+        },
+        {
+          "id": "kp-rp-3",
+          "title": "Salário mínimo mínimo de R$ 7.500 como meta de longo prazo",
+          "description": "'Salário mínimo mínimo' de R$ 7.500 (isto é, com poder de compra pleno) como meta de longo prazo, com reajustes periódicos definidos pelo Conselho do Trabalho e piso salarial de 1 salário mínimo para jovens trabalhadores.",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rp-07",
+              "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+            }
+          ]
+        },
+        {
+          "id": "kp-rp-4",
+          "title": "Imposto Único (0,5% na circulação de dinheiro; 1% sobre grandes fortunas) e fim de 32 tributos",
+          "description": "Substituição da 'selva de impostos' por um Imposto Único de 0,5% sobre a circulação de dinheiro e 1% adicional sobre grandes fortunas; fim de 32 tributos, de renúncias fiscais e de juros da dívida pública (com auditoria e moratória na dúvida).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rp-07",
+              "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+            }
+          ]
+        },
+        {
+          "id": "kp-rp-5",
+          "title": "Jornada de 7 horas diárias/35 semanais com redução de salários para zero",
+          "description": "Redução da jornada para 7 horas diárias e 35 semanais sem redução de salário; para funcionários públicos federais, 6 horas diárias/30 semanais, e para docentes e funcionários de cidades pequenas, 4 horas diárias/20 semanais.",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rp-07",
+              "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+            }
+          ]
+        },
+        {
+          "id": "kp-rp-6",
+          "title": "Plano emergencial para a saúde: pisos salariais e 600 mil concursos",
+          "description": "Plano emergencial com piso salarial de R$ 8 mil para médicos (especialistas R$ 9 mil), R$ 6,5 mil para enfermeiros e R$ 4 mil para técnicos; abertura de 600 mil concursos na saúde para ampliar o quadro e reduzir filas de espera (eixo Saúde).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rp-07",
+              "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+            }
+          ]
+        },
+        {
+          "id": "kp-rp-7",
+          "title": "Combate ao crime organizado com ações policiais coordenadas e apoio das Forças Armadas",
+          "description": "Ações policiais integradas (PF, PRF e Forças Armadas nas fronteiras) e 'Ronda Nacional' com 30 mil agentes; aumento de penas para crime organizado e apoio a projetos de segurança comunitária (eixo Segurança).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rp-07",
+              "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+            }
+          ]
+        },
+        {
+          "id": "kp-rp-8",
+          "title": "Política externa soberana no BRICS e apoio aos povos palestino, libanês, sírio e ao Irã",
+          "description": "Fortalecimento do BRICS; oposição à OTAN; reconhecimento do direito dos povos palestino, libanês e sírio à autodeterminação e apoio ao Irã diante de ataques de Israel e EUA; fim do bloqueio a Cuba (eixo Política Externa).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-rp-07",
+              "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+            },
+            {
+              "id": "src-rp-02",
+              "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-rp-1",
+        "description": "Chapa do PCO isolado (nenhuma coligação ou federação registrada nas fontes desta rodada); vice: Antônio Carlos (PCO). PCO sem representação federal: 0 deputados e 0 senadores em exercício em 29/09/2026 (APIs oficiais).",
+        "value": "PCO — 0/513 na Câmara e 0/81 no Senado",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-rp-14",
+            "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas, incluindo a do PCO)."
+          },
+          {
+            "id": "src-rp-10",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+          },
+          {
+            "id": "src-rp-11",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+          }
+        ]
+      },
+      {
+        "id": "sup-rp-2",
+        "description": "Financiamento da campanha presidencial até 08/09/2026 (prestação parcial ao TSE): receita de R$ 6.271,00 de 1 único doador — 100% financiamento coletivo (vaquinha do próprio candidato). Gasto contratado de R$ 137,30 (0,0% do limite legal de R$ 88.944.030,80), todo já pago; fornecedor Queroapoiar.Com.Br Ltda. Campanha sem custos de estrutura registrada — compatível com o modelo de vaquinha online declarado.",
+        "value": "R$ 6.271,00 de receita até 08/09/2026 (1 doador — vaquinha)",
+        "date": "2026-09-08",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-rp-1",
+        "description": "Apoio eleitoral a Lula em 2018 sem coligação: Rui Costa Pimenta apoiou o candidato do PT 'criticamente', sem que o PCO entrasse na coligação (Wikipédia). Nenhuma aliança formal de partido registrada nas disputas presidenciais — o PCO disputa isolado desde 2002.",
+        "value": "apoio sem coligação (2018); disputa isolada nas presidenciais",
+        "date": "2018-10",
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ]
+      },
+      {
+        "id": "neg-rp-2",
+        "description": "Nenhuma negociação legislativa registrada: nunca ocupou mandato e o PCO não tem bancada no Congresso (0 deputados e 0 senadores em exercício). Registros de articulação em votações não localizados (not_found).",
+        "value": "sem registros de negociação legislativa",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-rp-10",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+          },
+          {
+            "id": "src-rp-11",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-rp-1",
+        "category": "tribunal",
+        "title": "Operação Causa Própria da Polícia Federal (11/08/2026) — suspeita de desvio do Fundo Partidário e do FEFC",
+        "legalStatus": "investigacao_com_medidas_cautelares",
+        "currentStatus": "em_andamento",
+        "instance": "Polícia Federal (operação com mandados na região de São Paulo) / Justiça Eleitoral (medidas cautelares)",
+        "lastUpdate": "2026-09-12 (última menção à investigação em fonte de prestígio localizada: Folha)",
+        "description": "Em 11/08/2026, a Polícia Federal cumpriu mandados de busca e apreensão — quatro em endereços ligados ao PCO em São Paulo (g1/JN) — em operação contra Rui Costa Pimenta, presidente do PCO e candidato à Presidência, por suspeita de desvio de recursos do fundo partidário e do fundo eleitoral para empresas e pessoas ligadas à estrutura partidária; segundo a Metrópoles (citada pela Folha), a investigação envolve um suposto esquema de pagamentos do partido a gráficas. A decisão determinou o afastamento por 180 dias (6 meses) do cargo partidário — Rui tomou conhecimento da operação quando os policiais arrombaram seu portão, segundo o partido. A Folha (12/09/2026) confirma que o candidato segue concorrendo sob a investigação. O PCO classificou a ação como 'perseguição política' e Rui negou irregularidades (relato da imprensa na rodada). Não há registro nesta rodada de denúncia formal, sentença ou conclusão do procedimento (not_found); a situação não impediu o registro da candidatura (DEFERIDO).",
+        "sources": [
+          {
+            "id": "src-rp-03",
+            "title": "Rui Costa Pimenta, presidente do PCO, é alvo de operação da PF por suspeita de desvio de dinheiro dos fundos partidário e eleitoral",
+            "publisher": "g1 / Jornal Nacional (Globo)",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/rui-costa-pimenta-presidente-do-pco-e-alvo-de-operacao-da-pf-por-suspeita-de-desvio-de-dinheiro-dos-fundos-partidario-e-eleitoral.ghtml",
+            "publishedAt": "2026-08-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "JN/g1 (11/08/2026): Polícia Federal apura desvio de dinheiro dos fundos partidário e eleitoral para empresas ligadas a integrantes do PCO; quatro buscas em endereços ligados ao partido em São Paulo; bloqueio de contas e bens; afastamento do presidente do partido por 6 meses (medida da Justiça Eleitoral)."
+          },
+          {
+            "id": "src-rp-04",
+            "title": "PF apura desvio no PCO e faz busca sobre Rui Costa Pimenta",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-mira-presidente-do-pco-em-operacao-sobre-suspeita-de-desvio-de-fundo-partidario-e-eleitoral.shtml",
+            "publishedAt": "2026-08-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Folha (11/08/2026): mandado de busca e apreensão em endereço de Rui Costa Pimenta em operação sobre suspeitas de desvio de recursos do fundo partidário e do fundo eleitoral; 'A decisão que trata do caso determina o afastamento por 180 dias do cargo partidário'; o partido e Rui só tomaram conhecimento com a arrombamento da porta; segundo a Metrópoles (citada), a investigação envolve um suposto esquema de pagamentos do partido a gráficas; confirma que Rui foi candidato à Presidência pelo PCO em 2002, 2010 e 2014."
+          },
+          {
+            "id": "src-rp-05",
+            "title": "Candidato à Presidência pelo PCO é alvo da Polícia Federal por suspeita de desvio do fundo partidário",
+            "publisher": "Diário do Grande ABC (DGABC)",
+            "url": "https://www.dgabc.com.br/Noticia/4340539/candidato-a-presidencia-pelo-pco-e-alvo-da-pf-por-suspeita-de-desvio-do-fundo-partidario",
+            "publishedAt": "2026-08-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "DGABC (11/08/2026): operação da PF contra Rui Costa Pimenta por suspeita de desvio do fundo partidário; entre as notícias relacionadas do mesmo dia, cobertura de bloqueio de contas e bens."
+          },
+          {
+            "id": "src-rp-06",
+            "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, BRICS e outros temas de política externa",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+            "publishedAt": "2026-09-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Folha (12/09/2026): 'Ele [Rui Costa Pimenta] concorre enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários' — situação da investigação ainda ativa na reta final da campanha."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-rp-2",
+        "category": "eleitoral",
+        "title": "Registro de candidatura à Presidência indeferido em 2006",
+        "legalStatus": "registro_indeferido",
+        "currentStatus": "encerrado",
+        "instance": "Justiça Eleitoral (TSE)",
+        "lastUpdate": "2006",
+        "description": "O registro da candidatura do PCO à Presidência em 2006 foi indeferido em razão de erro na prestação de contas da campanha de 2002; o partido protestou e retirou os candidatos do horário político gratuito (Wikipédia). Em 2026, o registro da mesma candidatura foi DEFERIDO (Nexo/TSE).",
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          },
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum localizado: nunca venceu eleição e não há registro de nomeação — histórico TSE completo desde 1998 (7 candidaturas, 6 disputas efetivas e 1 registro indeferido em 2006) sem vitória.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Exerce apenas função partidária (presidente nacional do PCO desde 1995) — cargo privado, sem administração de recursos ou pessoal públicos.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "Não se aplica — nunca administrou orçamento público",
+        "value": null,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior orçamento anual sob gestão em cargo público.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Equipes geridas no setor público",
+        "displayValue": "Não localizado",
+        "value": null,
+        "unit": "pessoas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Número de pessoas sob gestão em cargo público. Nenhum cargo público localizado (not_found) — dado tratado como não localizado, não como certidão negativa.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "50 anos (atividade política documentada desde 1976)",
+        "value": 50,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Anos entre o início documentado da atividade política (1976, na ditadura militar, segundo a Wikipédia) e 29/09/2026. Referências cruzadas: fundador do PT (1980), diretor da CUT (1985), fundador e presidente do PCO (desde 1995) — trajetória contínua.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "historico-experiencia",
+        "name": "Anos em mandatos legislativos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em mandatos legislativos. Nenhum mandato conquistado: candidato a deputado federal em 1998 (não eleito) e a prefeito de São Paulo em 2000 (não eleito); as demais disputas foram presidenciais.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos federais (Executivo ou Legislativo)",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos federais. Nunca ocupou mandato nem cargo federal (not_found).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "0 de 6 disputas (1998–2026)",
+        "value": 0,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de eleições vencidas antes de 2026. Histórico TSE (Nexo): 1998 deputado federal SP (não eleito), 2000 prefeito de SP (não eleito), 2002 presidente (não eleito), 2006 presidente (registro indeferido — não houve disputa), 2010 presidente (não eleito), 2014 presidente (não eleito), 2026 presidente (em análise no snapshot de 29/09/2026).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "65.179 votos somados em 5 disputas derrotadas (1998–2014)",
+        "value": 65179,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos votos por disputa anterior a 2026, conforme o histórico do TSE no Nexo: 1.160 (1998, deputado federal SP); 870 (2000, prefeito de SP); 38.619 (2002, presidente — 0,05%); 12.206 (2010, presidente — 0,01%); 12.324 (2014, presidente — 0,01%). Em 2006 não houve votos (registro indeferido). Percentuais de 2002/2010/2014 conferem com a Wikipédia.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas no plano de governo registrado",
+        "displayValue": "51 propostas (índice do TSE, 8 eixos)",
+        "value": 51,
+        "unit": "propostas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem dos itens do índice oficial de 'Propostas de Governo' do TSE para a chapa do PCO (51 itens em 8 eixos; a página contém 52 marcas contando o rodapé 'Erro da página'). Análise manual do PDF (52 páginas) não realizada nesta rodada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          },
+          {
+            "id": "src-rp-08",
+            "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Não informado no índice do TSE (0 de 51 com custo)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com custo estimado. Nenhum custo por proposta identificado no índice oficial; o plano declara fonte global de financiamento (imposto único sobre circulação de dinheiro — de 0,5% para pessoas físicas e de 1% para grandes fortunas — e fim de 32 tributos), mas sem aplicações fiscais ou orçamento item a item. Leitura do PDF não realizada nesta rodada.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          },
+          {
+            "id": "src-rp-08",
+            "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Ao menos 1 de 51 com prazo explícito (45 dias) — contagem incompleta",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido. Identificado no índice pelo menos um prazo explícito: aumento emergencial de 50% dos salários, aposentadorias e pensões 'em 45 dias' (eixo Economia/Trabalho). Contagem item a item das 51 propostas não realizada nesta rodada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          },
+          {
+            "id": "src-rp-08",
+            "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; emendas constitucionais (orçamento participativo, federações, estatizações) e reforma tributária dependem do Congresso",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC ou lei. Contagem por proposta não realizada; o índice do PCO declara emendas constitucionais (Orçamento Participativo, Conselhos do Trabalho/Saúde/Educação, federações) e o Imposto Único dependem do Congresso, onde o PCO não tem bancada (0/513).",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          },
+          {
+            "id": "src-rp-08",
+            "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+          },
+          {
+            "id": "src-rp-10",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "DEFERIDO — entre as 12 candidaturas válidas divulgadas pelo TSE (11/09/2026)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026: Nexo ('Registro deferido') e lista das 12 chapas do TSE. A investigação da PF (Operação Causa Própria, 11/08/2026) não impediu o registro: a Folha (12/09/2026) descreve o candidato como concorrendo 'enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários'. Histórico: em 2006 o registro à Presidência foi indeferido (erro na prestação de contas da campanha de 2002, segundo a Wikipédia).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          },
+          {
+            "id": "src-rp-14",
+            "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+            "publishedAt": "2026-09-11",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas, incluindo a do PCO)."
+          },
+          {
+            "id": "src-rp-06",
+            "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, BRICS e outros temas de política externa",
+            "publisher": "Folha de S.Paulo",
+            "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+            "publishedAt": "2026-09-12",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Folha (12/09/2026): 'Ele [Rui Costa Pimenta] concorre enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários' — situação da investigação ainda ativa na reta final da campanha."
+          },
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "R$ 0 — nenhum bem declarado (2026)",
+        "value": 0,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de 2026: a ficha do Nexo (dados TSE) registra 'Nenhum bem declarado ao TSE'. Sem histórico anterior de bens localizado nas fontes desta rodada (not_found).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rp-01",
+            "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+            "publishedAt": "2026-08-14",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido no Congresso (antes da eleição de 2026)",
+        "displayValue": "0/513 deputados federais e 0 senadores",
+        "value": 0,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Consulta às APIs oficiais da Câmara dos Deputados (deputados em exercício na 57ª Legislatura com siglaPartido=PCO) e do Senado (parlamentares em exercício em 29/09/2026): nenhum resultado.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-rp-10",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+          },
+          {
+            "id": "src-rp-11",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "O PCO elegeu apenas um representante em três décadas, segundo o SBT (vereador João Vieira, em 2004, em Benjamin Constant/AM) — dado não conferido em fonte primária nesta rodada (not_found). Cargos estaduais e municipais do PCO não verificados.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "0% (não pontuou — Quaest/SP, 23/09/2026)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Última sondagem estimulada localizada nesta rodada que inclui o candidato: Quaest em São Paulo (divulgada 23/09/2026; campo 19–22/09; 1.800 entrevistas; BR-08886/2026) — 0% (não pontuou). Pesquisa REGIONAL (SP). Pesquisa nacional recente com percentual de Rui não localizada (a Datafolha de 24/09/2026 o testa entre os 13 candidatos, mas o recorte capturado não traz seu valor de intenção — apenas rejeição de 9%).",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-rp-12",
+            "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+            "publisher": "NSC Total",
+            "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+            "publishedAt": "2026-09-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Pesquisa Quaest em São Paulo (campo 19–22/09/2026, 1.800 entrevistas, ±2 p.p., registro TSE BR-08886/2026): Rui Costa Pimenta (PCO) 0% (não pontuou) no 1º turno."
+          },
+          {
+            "id": "src-rp-13",
+            "title": "No 2º turno, Lula chega a 47% e Flávio tem 45%, aponta Datafolha",
+            "publisher": "Meia Hora (Estadão Conteúdo)",
+            "url": "https://www.meiahora.com.br/geral/2026/09/7305563-no-2-turno-lula-chega-a-47-e-flavio-tem-45-aponta-datafolha.html",
+            "publishedAt": "2026-09-24",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Datafolha nacional (divulgada 24/09/2026; campo 22–24/09; 2.002 eleitores; registro TSE BR-00304/2026; encomenda Globo/Folha): rejeição de Rui Costa Pimenta passou de 11% (17/09) para 9% (24/09); rejeições de Edmilson Costa 8%, Hertz Dias 7%, Wilson Grassi 5%."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Amostra regional; não representa a intenção nacional. Dado auxiliar: rejeição nacional de 9% em 24/09/2026 (era 11% em 17/09).",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-rp-01",
+        "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+        "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+        "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+        "publishedAt": "2026-08-14",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+      },
+      {
+        "id": "src-rp-02",
+        "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+      },
+      {
+        "id": "src-rp-03",
+        "title": "Rui Costa Pimenta, presidente do PCO, é alvo de operação da PF por suspeita de desvio de dinheiro dos fundos partidário e eleitoral",
+        "publisher": "g1 / Jornal Nacional (Globo)",
+        "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/rui-costa-pimenta-presidente-do-pco-e-alvo-de-operacao-da-pf-por-suspeita-de-desvio-de-dinheiro-dos-fundos-partidario-e-eleitoral.ghtml",
+        "publishedAt": "2026-08-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "JN/g1 (11/08/2026): Polícia Federal apura desvio de dinheiro dos fundos partidário e eleitoral para empresas ligadas a integrantes do PCO; quatro buscas em endereços ligados ao partido em São Paulo; bloqueio de contas e bens; afastamento do presidente do partido por 6 meses (medida da Justiça Eleitoral)."
+      },
+      {
+        "id": "src-rp-04",
+        "title": "PF apura desvio no PCO e faz busca sobre Rui Costa Pimenta",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-mira-presidente-do-pco-em-operacao-sobre-suspeita-de-desvio-de-fundo-partidario-e-eleitoral.shtml",
+        "publishedAt": "2026-08-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Folha (11/08/2026): mandado de busca e apreensão em endereço de Rui Costa Pimenta em operação sobre suspeitas de desvio de recursos do fundo partidário e do fundo eleitoral; 'A decisão que trata do caso determina o afastamento por 180 dias do cargo partidário'; o partido e Rui só tomaram conhecimento com a arrombamento da porta; segundo a Metrópoles (citada), a investigação envolve um suposto esquema de pagamentos do partido a gráficas; confirma que Rui foi candidato à Presidência pelo PCO em 2002, 2010 e 2014."
+      },
+      {
+        "id": "src-rp-05",
+        "title": "Candidato à Presidência pelo PCO é alvo da Polícia Federal por suspeita de desvio do fundo partidário",
+        "publisher": "Diário do Grande ABC (DGABC)",
+        "url": "https://www.dgabc.com.br/Noticia/4340539/candidato-a-presidencia-pelo-pco-e-alvo-da-pf-por-suspeita-de-desvio-do-fundo-partidario",
+        "publishedAt": "2026-08-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "DGABC (11/08/2026): operação da PF contra Rui Costa Pimenta por suspeita de desvio do fundo partidário; entre as notícias relacionadas do mesmo dia, cobertura de bloqueio de contas e bens."
+      },
+      {
+        "id": "src-rp-06",
+        "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, BRICS e outros temas de política externa",
+        "publisher": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+        "publishedAt": "2026-09-12",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Folha (12/09/2026): 'Ele [Rui Costa Pimenta] concorre enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários' — situação da investigação ainda ativa na reta final da campanha."
+      },
+      {
+        "id": "src-rp-07",
+        "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+      },
+      {
+        "id": "src-rp-08",
+        "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+        "publisher": "TSE — DivulgaCandContas (arquivos)",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+      },
+      {
+        "id": "src-rp-09",
+        "title": "Eleições 2026: conheça as propostas e o perfil de Rui Costa Pimenta (PCO)",
+        "publisher": "Band",
+        "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-rui-costa-pimenta-pco",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil eleitoral: 'Aos 69 anos, o jornalista paul[ista]...' — abertura do perfil com idade e ocupação coerentes com a ficha do TSE (jornalista, 69 anos). Data exata não capturada; localizado via busca em 29/09/2026."
+      },
+      {
+        "id": "src-rp-10",
+        "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+        "publisher": "Câmara dos Deputados (dados abertos)",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+      },
+      {
+        "id": "src-rp-11",
+        "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+        "publisher": "Senado Federal (dados abertos)",
+        "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+      },
+      {
+        "id": "src-rp-12",
+        "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+        "publisher": "NSC Total",
+        "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+        "publishedAt": "2026-09-23",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Pesquisa Quaest em São Paulo (campo 19–22/09/2026, 1.800 entrevistas, ±2 p.p., registro TSE BR-08886/2026): Rui Costa Pimenta (PCO) 0% (não pontuou) no 1º turno."
+      },
+      {
+        "id": "src-rp-13",
+        "title": "No 2º turno, Lula chega a 47% e Flávio tem 45%, aponta Datafolha",
+        "publisher": "Meia Hora (Estadão Conteúdo)",
+        "url": "https://www.meiahora.com.br/geral/2026/09/7305563-no-2-turno-lula-chega-a-47-e-flavio-tem-45-aponta-datafolha.html",
+        "publishedAt": "2026-09-24",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Datafolha nacional (divulgada 24/09/2026; campo 22–24/09; 2.002 eleitores; registro TSE BR-00304/2026; encomenda Globo/Folha): rejeição de Rui Costa Pimenta passou de 11% (17/09) para 9% (24/09); rejeições de Edmilson Costa 8%, Hertz Dias 7%, Wilson Grassi 5%."
+      },
+      {
+        "id": "src-rp-14",
+        "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+        "publishedAt": "2026-09-11",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas, incluindo a do PCO)."
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
     "slug": "samara-martins",
     "name": "Samara Martins da Silva Feitosa",
     "ballotName": "Samara Martins",
@@ -8972,6 +12056,1825 @@ export const researched: Partial<Candidate>[] = [
         "publishedAt": "2026-08-12",
         "accessedAt": "2026-09-29",
         "sourceType": "imprensa"
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  {
+    "slug": "wilson-grassi",
+    "name": "Wilson Grassi Júnior",
+    "ballotName": "Veterinário Wilson Grassi",
+    "ballotNumber": 35,
+    "party": "Democrata",
+    "coalition": "PARTIDO ISOLADO (DEMOCRATA, nº 35) — chapa com vice Suêd Haidar (DEMOCRATA), presidente nacional do partido (2015–2026) e fundadora",
+    "photo": "",
+    "birthDate": "1970-03-13",
+    "birthplace": "São Paulo, São Paulo (SP)",
+    "age": 56,
+    "profession": "Veterinário (ocupação declarada ao TSE) — empresário educacional e músico",
+    "currentRole": "Candidato à Presidência da República (Democrata, nº 35, registro DEFERIDO)",
+    "tagline": "Médico-veterinário e empresário paulistano, 56 anos; em sua 4ª eleição (2006, 2022, 2024 — nenhuma vitória); primeiro médico-veterinário a concorrer à Presidência no Brasil e primeiro lançamento presidencial do partido Democrata (antigo PMB).",
+    "education": [
+      {
+        "id": "edu-wg-1",
+        "level": "graduacao",
+        "field": "Medicina Veterinária",
+        "institution": "não informada nas fontes desta rodada (not_found)",
+        "conclusionYear": null,
+        "notes": "Médico-veterinário formado (Wikipédia: 'após a graduação, abriu uma clínica veterinária'); instituição e ano não informados. Escolaridade declarada ao TSE/Folha: superior completo.",
+        "sources": [
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-01",
+            "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+          }
+        ]
+      }
+    ],
+    "professionalExperience": [
+      {
+        "id": "prof-wg-1",
+        "role": "Médico-veterinário (clínica própria e hospital veterinário)",
+        "organization": "Clínica veterinária na zona leste de São Paulo; hospitais veterinários pelo Brasil",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Começou como office-boy, formou-se em medicina veterinária e abriu uma clínica na zona leste de SP, com programas de controle reprodutivo de cães e gatos; é sócio-proprietário de diversos hospitais veterinários pelo Brasil (Brasil Escola). Conselheiro da Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais de SP). Ocupação declarada ao TSE: veterinário (2024 e 2026) e empresário (2022).",
+        "achievements": [
+          "Conselheiro da Anclivepa-SP",
+          "Sócio-proprietário de rede de hospitais veterinários"
+        ],
+        "sources": [
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-19",
+            "title": "Candidatos a presidente 2026: quem são, partidos",
+            "publisher": "Escola Educação (Brasil Escola)",
+            "url": "https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Sobre Wilson Grassi: 'Nascido em São Paulo e é médico veterinário por formação. É sócio-proprietário de diversos hospitais veterinários pelo Brasil. Candidatou-se em 2006 como deputado estadual por São Paulo, em 2022 como deputado federal por São Paulo e em 2024 como vereador de São Paulo, mas não foi eleito em nenhuma das candidaturas.'"
+          },
+          {
+            "id": "src-wg-01",
+            "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+          }
+        ]
+      },
+      {
+        "id": "prof-wg-2",
+        "role": "Empresário educacional, músico e ativista da causa animal",
+        "organization": "Setor educacional; projeto Ambientalistas",
+        "startDate": "não informado",
+        "endDate": null,
+        "description": "Atua como empresário do setor educacional e como músico; criador do projeto Ambientalistas (meio ambiente e causa animal); participou de campanha nacional de combate à cinomose (2013) e de projeto de atendimento veterinário na Amazônia (2014).",
+        "achievements": [
+          "Campanha de combate à cinomose (2013)",
+          "Projeto de atendimento veterinário na Amazônia (2014)"
+        ],
+        "sources": [
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          }
+        ]
+      }
+    ],
+    "politicalExperience": [
+      {
+        "id": "pol-wg-1",
+        "role": "Candidato a deputado estadual de São Paulo (PFL)",
+        "organization": "PFL",
+        "startDate": "2006",
+        "endDate": "2006",
+        "description": "2006: deputado estadual em São Paulo pelo PFL, nome de urna 'Wilson Veterinário', nº 25345 — 4.517 votos. O TSE/Nexo classificam o resultado como 'Suplente'; Folha, g1, GZH e Brasil Escola descrevem 'não eleito'; nenhuma posse ou suplência convocada localizada (not_found).",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-10",
+            "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+          }
+        ]
+      },
+      {
+        "id": "pol-wg-2",
+        "role": "Candidato a deputado federal de São Paulo (PV)",
+        "organization": "PV (Partido Verde)",
+        "startDate": "2022",
+        "endDate": "2022",
+        "description": "2022: deputado federal por São Paulo pelo PV, nº 4330 — 6.580 votos nominais, não eleito. O cadastro do TSE registra a candidatura como indeferida/não apta (Nexo: 'Candidatura não apta*'; g1: 'Inapto'; Wikipédia: 'indeferida'/'inapta pelo TSE'); o motivo e o momento do indeferimento não foram localizados (not_found), e o Nexo sinaliza que a situação pode refletir decisão posterior à eleição.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-10",
+            "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+          },
+          {
+            "id": "src-wg-04",
+            "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+          }
+        ]
+      },
+      {
+        "id": "pol-wg-3",
+        "role": "Candidato a vereador de São Paulo (PRTB)",
+        "organization": "PRTB",
+        "startDate": "2024",
+        "endDate": "2024",
+        "description": "2024: vereador em São Paulo pelo PRTB, nome de urna 'Veterinário Wilson Grassi', nº 28200 — registro deferido, 2.777 votos nominais, não eleito.",
+        "achievements": [],
+        "sources": [
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-10",
+            "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+          }
+        ]
+      },
+      {
+        "id": "pol-wg-4",
+        "role": "Candidato à Presidência da República (Democrata)",
+        "organization": "Democrata",
+        "startDate": "2026",
+        "endDate": null,
+        "description": "Candidatura oficializada na convenção nacional do Democrata, no Rio de Janeiro, em 02/08/2026; registro no TSE em 12/08/2026; DEFERIDO; nº 35; vice Suêd Haidar (presidenta e fundadora do partido). Primeira candidatura presidencial da história do partido — fundado em 2008 como Partido da Mulher Brasileira (PMB) e renomeado 'Democrata' em dezembro de 2025, com autorização do TSE. Perfil infobox do pleito: 'sem cargo político anterior' e partido 'sem direito ao horário eleitoral'.",
+        "achievements": [
+          "Primeiro candidato presidencial do partido Democrata"
+        ],
+        "sources": [
+          {
+            "id": "src-wg-04",
+            "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+          },
+          {
+            "id": "src-wg-05",
+            "title": "Eleição presidencial no Brasil em 2026 (Wikipédia: chapa do Democrata, vice, horário eleitoral)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Infobox: '35 Veterinário Wilson Grassi (DEMOCRATA) — Sem cargo político anterior; vice Suêd Haidar, Democrata, presidente nacional do Democrata (2015–2026); partido isolado; sem direito ao horário eleitoral'. Em 02/08/2026 a convenção nacional do Democrata oficializou a candidatura."
+          },
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-01",
+            "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+          }
+        ]
+      }
+    ],
+    "executiveExperience": [],
+    "achievements": [
+      {
+        "id": "ach-wg-1",
+        "title": "Primeiro médico-veterinário a concorrer à Presidência da República na história do Brasil",
+        "context": "Eleições de 2026",
+        "description": "Conforme a Wikipédia, tornou-se o primeiro médico-veterinário a disputar a Presidência no país — candidatura do partido Democrata, registro DEFERIDO em 12/08/2026.",
+        "sources": [
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-04",
+            "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-wg-2",
+        "title": "Participação na criação do primeiro hospital público para cães e gatos de São Paulo (Tatuapé, 2015)",
+        "context": "Veterinária pública / Tatuapé, São Paulo",
+        "description": "Como conselheiro da Anclivepa-SP (Associação Nacional de Clínicos Veterinários de Pequenos Animais de SP), participou das discussões do projeto desde 2012 e, em 2015, participou da criação do primeiro hospital público para cães e gatos do Brasil, no Tatuapé — atendimento a animais de famílias de baixa renda e formação veterinária (GZH/Wikipédia). CORREÇÃO DO BRIEFING: a associação correta é a Anclivepa-SP, não a 'ABCVet' — nenhuma fonte desta rodada associa o candidato à ABCVet (not_found).",
+        "sources": [
+          {
+            "id": "src-wg-07",
+            "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+            "publisher": "GZH (Grupo Cultural de Comunicação)",
+            "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+            "publishedAt": "2026-08-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+          },
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-04",
+            "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      },
+      {
+        "id": "ach-wg-3",
+        "title": "Campanha nacional de combate à cinomose (2013) e projeto veterinário na Amazônia (2014)",
+        "context": "Atuação profissional fora da política partidária",
+        "description": "Participou em 2013 de campanha de combate à cinomose em municípios de diferentes estados e, em 2014, esteve envolvido em projeto de atendimento veterinário na Amazônia (Wikipédia).",
+        "sources": [
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "updatedAt": "2026-09-29"
+      }
+    ],
+    "governmentPlan": {
+      "title": "'Brasil em Primeiro Lugar' — plano de governo do Democrata (proposta-democrata.pdf)",
+      "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+      "totalProposals": 44,
+      "registeredWith": "TSE — DivulgaCandContas (página oficial 'Propostas de Governo' com índice de 44 itens em 8 eixos; PDF oficial com páginas referenciadas até a 51)",
+      "summary": "",
+      "notes": "Nome e estrutura conforme o GZH: plano 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 — desburocratizar, desonerar, digitalizar, democratizar e desenvolver —, com painel de promessas e indicadores para os primeiros 100 dias de governo. Índice oficial do TSE (capturado via proxy em 29/09/2026): 44 propostas em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5).",
+      "statsIfCounted": {
+        "objective": "Propostas com números explícitos: isenção do IRPF para quem recebe até 5 salários mínimos (cerca de 54% dos eleitores, segundo o candidato), piso de 2% do PIB para a defesa (35% do incremento para modernização), agenda legislativa de no máximo 5 projetos prioritários por semestre, painel de metas em 100 dias",
+        "target": "Piso de defesa de 2% do PIB (35% para modernização); IRPF isento até 5 SM; fila única cirúrgica com posição e alertas ao paciente; até 5 projetos legislativos prioritários por semestre; até 5 pactos institucionais por semestre",
+        "deadline": "Painel de acompanhamento dos primeiros 100 dias de governo; prazos exigidos na fila única cirúrgica e no licenciamento (detalhamento no PDF não capturado)",
+        "cost": null,
+        "funding": "Imposto Único Federal sobre a circulação de dinheiro (substituindo tributos atuais) e remanejamentos orçamentários (redução do número de ministérios, segundo a Veja, inclusive para financiar o programa 'Meu Botox, Minha Vida'); sem aplicações fiscais item a item capturadas",
+        "fiscal": null,
+        "agency": "Sistema Único de Saúde (humano, animal e ambiental), Forças Armadas e órgãos de fronteira, Poder Judiciário e sistemas prisionais estaduais (isolamento de comando em presídios)",
+        "instrument": "Lei ordinária, decretos e PEC (PEC da Pesquisa); programa 'Brasil nos Trilhos' via legislação e parcerias; pacto institucional pós-eleição",
+        "indicator": "Painel de metas com indicadores e prazos nos primeiros 100 dias (Método D35)",
+        "congress": "Partido isolado sem bancada (0/513 e 0/81) e sem direito ao horário eleitoral; a agenda legislativa é desenhada para negociação máxima de 5 projetos prioritários por semestre. Contagem de custo/prazo por proposta não realizada pela equipe."
+      },
+      "statsEvidence": "indeterminado",
+      "proposals": [
+        {
+          "id": "kp-wg-1",
+          "title": "Imposto Único Federal (IUF) sobre a movimentação financeira",
+          "description": "Substituição dos tributos federais atuais por um Imposto Único Federal sobre a movimentação de dinheiro — proposta central para 'acabar com a guerra fiscal' e simplificar a tributação (eixo Economia; perfil da Folha).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-wg-11",
+              "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+            },
+            {
+              "id": "src-wg-07",
+              "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+              "publisher": "GZH (Grupo Cultural de Comunicação)",
+              "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+            }
+          ]
+        },
+        {
+          "id": "kp-wg-2",
+          "title": "Extinção da contribuição patronal e isenção do IRPF até 5 salários mínimos",
+          "description": "Fim da contribuição patronal (custeio da Previdência via orçamento geral) e isenção do Imposto de Renda para pessoas físicas que recebem até 5 salários mínimos, com piso duplo da seguridade social (eixos Economia e Saúde).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-wg-11",
+              "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+            }
+          ]
+        },
+        {
+          "id": "kp-wg-3",
+          "title": "Saúde Única: saúde humana, animal e ambiental integradas no SUS",
+          "description": "Integração da saúde animal e ambiental ao Sistema Único de Saúde — bandeira central da campanha e eixo 'cansa animal' aplicado a saúde, segurança e educação (Folha/GZH/Wikipédia).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-wg-07",
+              "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+              "publisher": "GZH (Grupo Cultural de Comunicação)",
+              "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+            },
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            }
+          ]
+        },
+        {
+          "id": "kp-wg-4",
+          "title": "Fila única para cirurgias com posição e alertas ao paciente",
+          "description": "Sistema de fila única para procedimentos cirúrgicos, com posição de espera e alertas ao paciente (eixo Saúde); associado ao piso de 2% do PIB para a defesa (35% do incremento para modernização) no mesmo plano.",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-wg-11",
+              "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+            }
+          ]
+        },
+        {
+          "id": "kp-wg-5",
+          "title": "Segurança: isolamento total do comando em presídios, 'asfixia financeira' do crime e fronteiras tecnológicas",
+          "description": "Isolamento total do comando nos presídios, 'asfixia financeira' do crime organizado e reforço do controle de fronteiras com tecnologia e inteligência (eixo Segurança; referências da Wikipédia ao plano).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-wg-11",
+              "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+            },
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            }
+          ]
+        },
+        {
+          "id": "kp-wg-6",
+          "title": "Brasil nos Trilhos: trem de passageiros, transporte de commodities e interiorização",
+          "description": "Programa ferroviário nacional para transporte de passageiros e commodities, com integracao territorial (eixo Governança/infraestrutura; proposta presente no índice do TSE).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-wg-11",
+              "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+            }
+          ]
+        },
+        {
+          "id": "kp-wg-7",
+          "title": "Método D35, painel de 100 dias e agenda legislativa enxuta",
+          "description": "Gestão pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar, desenvolver), painel público de promessas e indicadores para os primeiros 100 dias e agenda legislativa com no máximo 5 projetos prioritários por semestre (GZH/índice TSE).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-wg-07",
+              "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+              "publisher": "GZH (Grupo Cultural de Comunicação)",
+              "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+              "publishedAt": "2026-08-19",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+            },
+            {
+              "id": "src-wg-11",
+              "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+              "publisher": "TSE — Tribunal Superior Eleitoral",
+              "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+              "publishedAt": "2026",
+              "accessedAt": "2026-09-29",
+              "sourceType": "plano_de_governo",
+              "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+            }
+          ]
+        },
+        {
+          "id": "kp-wg-8",
+          "title": "Programa 'Meu Botox, Minha Vida' pelo SUS",
+          "description": "Aplicação de botox pelo SUS como programa de autoestima feminina, financiado por remanejamento de recursos — redução do número de ministérios e uso de recursos do FEFC (Veja, 15/08/2026, via Wikipédia).",
+          "theme": "Outros",
+          "hasClearObjective": true,
+          "hasQuantitativeTarget": false,
+          "hasDeadline": false,
+          "hasCostEstimate": false,
+          "hasFundingSource": false,
+          "hasFiscalImpact": false,
+          "requiresNewLaw": false,
+          "requiresConstitutionalAmendment": false,
+          "dependsOnCongress": false,
+          "dependsOnStates": false,
+          "dependsOnMunicipalities": false,
+          "methodologyStatus": "indeterminado",
+          "sources": [
+            {
+              "id": "src-wg-03",
+              "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+              "publisher": "Wikipédia",
+              "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+              "publishedAt": "2026-09-29",
+              "accessedAt": "2026-09-29",
+              "sourceType": "imprensa",
+              "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+            }
+          ]
+        }
+      ],
+      "sources": [],
+      "updatedAt": "2026-09-29"
+    },
+    "currentSupport": [
+      {
+        "id": "sup-wg-1",
+        "description": "Chapa do Democrata — PARTIDO ISOLADO (sem coligação ou federação), vice Suêd Haidar (DEMOCRATA), presidente nacional do partido de 2015 a 2026 e fundadora; convenção nacional no Rio de Janeiro em 02/08/2026. Partido sem bancada federal (0 deputados e 0 senadores em exercício em 29/09/2026) e, segundo a Wikipédia, sem direito ao horário eleitoral.",
+        "value": "Democrata — isolado; 0/513 na Câmara e 0/81 no Senado; sem horário eleitoral",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-wg-05",
+            "title": "Eleição presidencial no Brasil em 2026 (Wikipédia: chapa do Democrata, vice, horário eleitoral)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Infobox: '35 Veterinário Wilson Grassi (DEMOCRATA) — Sem cargo político anterior; vice Suêd Haidar, Democrata, presidente nacional do Democrata (2015–2026); partido isolado; sem direito ao horário eleitoral'. Em 02/08/2026 a convenção nacional do Democrata oficializou a candidatura."
+          },
+          {
+            "id": "src-wg-15",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+          },
+          {
+            "id": "src-wg-16",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do Democrata."
+          },
+          {
+            "id": "src-wg-04",
+            "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+          }
+        ]
+      },
+      {
+        "id": "sup-wg-2",
+        "description": "Financiamento da campanha presidencial até 08/09/2026 (prestação parcial ao TSE): receita de R$ 850.150,00 de 2 doadores — 100% em recursos próprios do candidato (Wilson Grassi Júnior doou R$ 850.000,00) e R$ 150,00 de pessoa física. Gasto contratado de R$ 890.399,66 (1,0% do limite legal de R$ 88.944.030,80), dos quais R$ 836.399,66 pagos. Principais destinos: impulsionamento de conteúdos R$ 365.000,00 (41%) e 'outros tipos de gasto' R$ 508.849,66 (57%); fornecedores: Sflj Consultoria R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00. Campanha 100% autofinanceada até a data-base.",
+        "value": "R$ 850.150,00 de receita até 08/09/2026 (100% recursos próprios do candidato)",
+        "date": "2026-09-08",
+        "sources": [
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-10",
+            "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+          }
+        ]
+      }
+    ],
+    "negotiationHistory": [
+      {
+        "id": "neg-wg-1",
+        "description": "Sem negociações legislativas registradas antes de 2026: nunca ocupou mandato e o Democrata não tem bancada no Congresso (0 deputados e 0 senadores em exercício). Registros de articulação em votações não localizados (not_found).",
+        "value": "sem registros de negociação legislativa",
+        "date": "2026-09-29",
+        "sources": [
+          {
+            "id": "src-wg-15",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+          },
+          {
+            "id": "src-wg-16",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do Democrata."
+          }
+        ]
+      },
+      {
+        "id": "neg-wg-2",
+        "description": "Convenção nacional do Democrata no Rio de Janeiro (02/08/2026) oficializou a chapa presidencial (Wilson Grassi e Suêd Haidar) — partido isolado, sem federações ou coligações registradas nesta rodada; a diretoria nacional é ocupada pela vice-presidente de chapa (Suêd Haidar, presidente nacional 2015–2026).",
+        "value": "chapa oficializada em convenção (02/08/2026); partido isolado",
+        "date": "2026-08-02",
+        "sources": [
+          {
+            "id": "src-wg-04",
+            "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+          },
+          {
+            "id": "src-wg-05",
+            "title": "Eleição presidencial no Brasil em 2026 (Wikipédia: chapa do Democrata, vice, horário eleitoral)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Infobox: '35 Veterinário Wilson Grassi (DEMOCRATA) — Sem cargo político anterior; vice Suêd Haidar, Democrata, presidente nacional do Democrata (2015–2026); partido isolado; sem direito ao horário eleitoral'. Em 02/08/2026 a convenção nacional do Democrata oficializou a candidatura."
+          }
+        ]
+      }
+    ],
+    "institutionalHistory": [
+      {
+        "id": "inst-wg-1",
+        "category": "eleitoral",
+        "title": "Suspensão de 8 perfis de redes sociais da campanha por decisão de Dias Toffoli (30/08/2026) e restabelecimento (02/09/2026)",
+        "legalStatus": "decisao_judicial_eleitoral",
+        "currentStatus": "encerrado",
+        "instance": "TSE — ministro Dias Toffoli (Justiça Eleitoral)",
+        "lastUpdate": "2026-09-02",
+        "description": "Após o registro (12/08/2026), os advogados da campanha protocolaram a lista de redes sociais na sexta-feira (28/08/2026) — informando perfis apenas 17 dias após o registro, quando só poderiam ser usados 48h após a comunicação; ao menos um perfil não informado tinha 156 mil seguidores. Em 30/08/2026, Toffoli suspendeu 8 perfis, qualificando a omissão como 'indício de fraude à lei' ('Não é possível tolerar a omissão de perfis de rede social em campanha eleitoral'); a mesma medida foi aplicada a Renan Santos (Missão). Em 02/09/2026, Toffoli liberou a propaganda digital, a participação em debates e os repasses do FEFC, após a defesa sustentar boa-fé e o MPJ eleitoral já ter coletado mais de 360 páginas de relatórios — as big techs tiveram 2 horas para restabelecer as contas. Medida encerrada antes do pleito; a candidatura segue DEFERIDA. Registrado também na linha do tempo da Wikipédia (1 e 2 de setembro).",
+        "sources": [
+          {
+            "id": "src-wg-08",
+            "title": "Toffoli libera campanha digital e repasses a Wilson Grassi",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-libera-campanha-digital-e-repasses-a-wilson-grassi/",
+            "publishedAt": "2026-09-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Artigo de Vinicius Macia (03/09/2026): na quarta-feira (02/09), Toffoli liberou propaganda digital, participação em debates e repasses do Fundo Especial de Financiamento de Campanha (FEFC) à campanha de Wilson Grassi — as big techs tiveram 2 horas para restabelecer as contas. No domingo (30/08), Toffoli havia suspendido 8 perfis informados apenas 17 dias após o registro (só podiam ser usados 48h após a comunicação; um perfil tinha 156 mil seguidores e não foi informado); os advogados protocolaram a lista de redes sociais na sexta (28/08); a decisão inicial qualificou a omissão como 'indício de fraude à lei' — 'Não é possível tolerar a omissão de perfis de rede social em campanha eleitoral'; a mesma medida foi aplicada a Renan Santos (Missão); a defesa sustentou boa-fé; Toffoli soltou as contas logo depois, pois o PLRPF já havia coletado os relatórios (mais de 360 páginas)."
+          },
+          {
+            "id": "src-wg-09",
+            "title": "Toffoli suspende campanha presidencial de Wilson Grassi, do Democrata",
+            "publisher": "Congresso em Foco",
+            "url": "https://www.congressoemfoco.com.br/noticia/121821/toffoli-suspende-campanha-presidencial-de-wilson-grassi-do-democrata",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Cobertura da suspensão da campanha digital de Wilson Grassi por decisão do ministro Dias Toffoli no TSE (final de agosto de 2026). Data exata de publicação não capturada; localizado via busca em 29/09/2026."
+          },
+          {
+            "id": "src-wg-06",
+            "title": "Pesquisas de opinião para a eleição presidencial no Brasil em 2026 (Wikipédia: linha do tempo)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Linha do tempo: '1 e 2 Set — Os candidatos Renan Santos (Missão) e Wilson Grassi (Democrata) têm suas campanhas digitais reestabelecidas por ordem de Dias Toffoli, ministro do Tribunal Superior Eleitoral'; '2 Ago — Democrata oficializa a candidatura de Wilson Grassi à presidência'."
+          }
+        ],
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high"
+      },
+      {
+        "id": "inst-wg-2",
+        "category": "eleitoral",
+        "title": "Candidatura a deputado federal em 2022 registrada como 'não apta' no TSE",
+        "legalStatus": "candidatura_nao_apta",
+        "currentStatus": "encerrado",
+        "instance": "TRE-SP / TSE",
+        "lastUpdate": "2022",
+        "description": "Em 2022, a candidatura a deputado federal pelo PV (nº 4330) aparece nos dados do TSE como 'Candidatura não apta' (Nexo) e 'Inapto' (g1); a Wikipédia afirma que 'o cadastro do TSE consultado registra a candidatura como indeferida' e que veículos de imprensa a descrevem como inapta — mas ele recebeu 6.580 votos nominais e não foi eleito. O Nexo sinaliza que a situação pode refletir decisão posterior à eleição (cassação/anulação). O motivo e a data exata da decisão não foram localizados nas fontes desta rodada (not_found). Não houve posse (not_found).",
+        "sources": [
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-10",
+            "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+          },
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-04",
+            "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+          }
+        ],
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "metrics": [
+      {
+        "id": "anos_executivo",
+        "category": "capacidade-execucao",
+        "name": "Anos em cargos executivos públicos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum localizado: nunca venceu eleição (2006, 2022, 2024 derrotadas) e não há registro de nomeação (not_found) — a Wikipédia do pleito de 2026 o descreve como tendo 'sem cargo político anterior'.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-05",
+            "title": "Eleição presidencial no Brasil em 2026 (Wikipédia: chapa do Democrata, vice, horário eleitoral)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Infobox: '35 Veterinário Wilson Grassi (DEMOCRATA) — Sem cargo político anterior; vice Suêd Haidar, Democrata, presidente nacional do Democrata (2015–2026); partido isolado; sem direito ao horário eleitoral'. Em 02/08/2026 a convenção nacional do Democrata oficializou a candidatura."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Empresário (veterinária e educação) e ocupações partidárias — sem administração de recursos ou pessoal públicos.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "maior_orcamento",
+        "category": "capacidade-execucao",
+        "name": "Maior orçamento anual administrado",
+        "displayValue": "Não se aplica — nunca administrou orçamento público",
+        "value": null,
+        "unit": "R$ bi/ano",
+        "metricType": "currency",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Maior orçamento anual sob gestão em cargo público.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "not_applicable",
+        "sources": [
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "equipe_gerida",
+        "category": "capacidade-execucao",
+        "name": "Equipes geridas no setor público",
+        "displayValue": "Não localizado",
+        "value": null,
+        "unit": "pessoas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Número de pessoas sob gestão em cargo público. Nenhum cargo público localizado (not_found) — dado tratado como não localizado, não como certidão negativa; gestões no setor privado (clínicas veterinárias, educação) não são contabilizáveis neste indicador.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_found",
+        "sources": [
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_politica",
+        "category": "historico-experiencia",
+        "name": "Anos de experiência política",
+        "displayValue": "20 anos (primeira candidatura documentada em 2006)",
+        "value": 20,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Anos entre a primeira candidatura documentada (deputado estadual em 2006, segundo GZH/Wikipédia) e 29/09/2026. O início de filiações e militâncias anteriores não está datado nas fontes desta rodada (not_found); se houver atividade anterior, o número seria maior — este valor é um piso.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-07",
+            "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+            "publisher": "GZH (Grupo Cultural de Comunicação)",
+            "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+            "publishedAt": "2026-08-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Premissa do briefing corrigida: o partido Democrata NÃO é herdeiro do PFL/DEM — o partido foi fundado em 2008 como Partido da Mulher Brasileira (PMB) e renomeado 'Democrata' em dezembro de 2025 (Wikipédia); o PFL (2006) foi apenas a sigla de sua primeira candidatura, de outro partido.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_legislativo",
+        "category": "historico-experiencia",
+        "name": "Anos em mandatos legislativos",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em mandatos legislativos. Nenhum mandato exercido: 2006 o TSE/Nexo classificam como 'Suplente' (deputado estadual, 4.517 votos) sem registro de posse ou exercício (not_found); 2022 (6.580 votos, 'não apta') e 2024 (2.777 votos) foram derrotas.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-01",
+            "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Divergência documentada na classificação de 2006: dados do TSE via Nexo mostram 'Suplente' (o que indicaria eleição como suplente), enquanto Folha, g1, GZH e Brasil Escola descrevem 'não eleito'; nenhuma fonte localizou posse ou suplência convocada (not_found).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "anos_federal",
+        "category": "historico-experiencia",
+        "name": "Anos em cargos federais (Executivo ou Legislativo)",
+        "displayValue": "0 anos",
+        "value": 0,
+        "unit": "anos",
+        "metricType": "duration",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos períodos em cargos federais. Nunca ocupou mandato nem cargo federal: candidatura a deputado federal em 2022 não resultou em eleição (6.580 votos; TSE: 'não apta').",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "mandatos_eletivos",
+        "category": "historico-experiencia",
+        "name": "Mandatos eletivos conquistados",
+        "displayValue": "0 de 3 disputas (2006–2024)",
+        "value": 0,
+        "unit": "mandatos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem de eleições vencidas antes de 2026. Histórico TSE (Nexo/g1): 2006 deputado estadual SP (PFL) — Nexo classifica 'Suplente' com 4.517 votos, imprensa descreve 'não eleito', sem posse localizada (not_found); 2022 deputado federal SP (PV) — 'não apta'/indeferida, 6.580 votos, não eleito; 2024 vereador de São Paulo (PRTB) — deferido, 2.777 votos, não eleito; 2026 presidente (em análise no snapshot de 29/09/2026). É a 4ª eleição do candidato.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-10",
+            "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+          },
+          {
+            "id": "src-wg-01",
+            "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Discrepância de 2006 explicada na metodologia; '4ª eleição' conforme briefing confirmada (2006, 2022, 2024, 2026).",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "votos_recebidos",
+        "category": "historico-experiencia",
+        "name": "Votos recebidos em eleições anteriores",
+        "displayValue": "13.874 votos somados em 3 disputas derrotadas (2006–2024)",
+        "value": 13874,
+        "unit": "votos",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Soma dos votos por disputa anterior a 2026, conforme o histórico do TSE (Nexo/g1): 4.517 (2006, deputado estadual SP); 6.580 (2022, deputado federal SP — votos nominais apesar de a candidatura constar como 'não apta'; o Nexo sinaliza que a situação pode refletir decisão posterior à eleição); 2.777 (2024, vereador de São Paulo).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          },
+          {
+            "id": "src-wg-10",
+            "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_total",
+        "category": "plano",
+        "name": "Propostas no plano de governo registrado",
+        "displayValue": "44 propostas (índice do TSE, 8 eixos)",
+        "value": 44,
+        "unit": "propostas",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Contagem dos itens do índice oficial de 'Propostas de Governo' do TSE para a chapa do Democrata (44 itens em 8 eixos; a página contém 45 marcas contando o rodapé 'Erro da página'). Análise manual do PDF não realizada nesta rodada.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-wg-11",
+            "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+          },
+          {
+            "id": "src-wg-12",
+            "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_custo",
+        "category": "plano",
+        "name": "Propostas com custo estimado",
+        "displayValue": "Não informado no índice do TSE (0 de 44 com custo)",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com custo estimado. Nenhum custo por proposta identificado no índice oficial; o plano declara reestruturação orçamentária como fonte (ex.: remanejamento com redução do número de ministérios e uso de recursos do FEMC conforme a Veja, e 'Imposto Único Federal'), mas sem aplicações item a item. Leitura do PDF não realizada nesta rodada.",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "not_informed",
+        "sources": [
+          {
+            "id": "src-wg-11",
+            "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+          },
+          {
+            "id": "src-wg-12",
+            "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_com_prazo",
+        "category": "plano",
+        "name": "Propostas com prazo",
+        "displayValue": "Ao menos 3 de 44 com prazo ou limite temporal identificado (100 dias; 5 projetos/semestre) — contagem incompleta",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas com prazo definido. Identificados no índice: painel de metas para os primeiros 100 dias de governo (GZH), agenda legislativa com no máximo 5 projetos prioritários por semestre e limite de 5 pactos institucionais por semestre (índice TSE), além de exigência de prazos na fila única cirúrgica. Contagem item a item das 44 propostas não realizada nesta rodada.",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-wg-11",
+            "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+          },
+          {
+            "id": "src-wg-07",
+            "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+            "publisher": "GZH (Grupo Cultural de Comunicação)",
+            "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+            "publishedAt": "2026-08-19",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "propostas_dependentes_congresso",
+        "category": "plano",
+        "name": "Propostas prioritárias que dependem do Congresso",
+        "displayValue": "Contagem não realizada; PEC da Pesquisa, extinção da contribuição patronal e Imposto Único Federal dependem do Congresso",
+        "value": null,
+        "unit": "%",
+        "metricType": "percentage",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC ou lei. Contagem por proposta não realizada; entre as propostas de maior impacto estão a PEC da Pesquisa, a extinção da contribuição patronal e o Imposto Único Federal — todas dependentes do Congresso, onde o Democrata não tem bancada (0/513).",
+        "evidenceStatus": "indeterminado",
+        "confidenceLevel": "low",
+        "availability": "under_analysis",
+        "sources": [
+          {
+            "id": "src-wg-11",
+            "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+          },
+          {
+            "id": "src-wg-12",
+            "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+            "publisher": "TSE — DivulgaCandContas (arquivos)",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+          },
+          {
+            "id": "src-wg-15",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "registro_tse",
+        "category": "integridade",
+        "name": "Situação do registro de candidatura no TSE",
+        "displayValue": "DEFERIDO — entre as 12 candidaturas válidas divulgadas pelo TSE (11/09/2026)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Situação do registro em 29/09/2026: Folha (dados TSE, atualização 28/09/2026: DEFERIDO), Nexo ('Registro deferido') e lista de chapas do TSE. Candidatura registrada em 12/08/2026 (Wikipédia/Campanha). Histórico de controvérsias: (1) em 2022 a candidatura a deputado federal consta como 'não apta'/indeferida no TSE (motivo não localizado — not_found); (2) entre 30/08 e 02/09/2026 Toffoli suspendeu 8 perfis de redes sociais da campanha por omissão no registro e depois liberou propaganda digital, debates e repasses do FEFC — tudo encerrado antes do pleito. As 12 candidaturas válidas foram confirmadas pelo TSE em 11/09/2026.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-wg-01",
+            "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+          },
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-08",
+            "title": "Toffoli libera campanha digital e repasses a Wilson Grassi",
+            "publisher": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-libera-campanha-digital-e-repasses-a-wilson-grassi/",
+            "publishedAt": "2026-09-03",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Artigo de Vinicius Macia (03/09/2026): na quarta-feira (02/09), Toffoli liberou propaganda digital, participação em debates e repasses do Fundo Especial de Financiamento de Campanha (FEFC) à campanha de Wilson Grassi — as big techs tiveram 2 horas para restabelecer as contas. No domingo (30/08), Toffoli havia suspendido 8 perfis informados apenas 17 dias após o registro (só podiam ser usados 48h após a comunicação; um perfil tinha 156 mil seguidores e não foi informado); os advogados protocolaram a lista de redes sociais na sexta (28/08); a decisão inicial qualificou a omissão como 'indício de fraude à lei' — 'Não é possível tolerar a omissão de perfis de rede social em campanha eleitoral'; a mesma medida foi aplicada a Renan Santos (Missão); a defesa sustentou boa-fé; Toffoli soltou as contas logo depois, pois o PLRPF já havia coletado os relatórios (mais de 360 páginas)."
+          },
+          {
+            "id": "src-wg-06",
+            "title": "Pesquisas de opinião para a eleição presidencial no Brasil em 2026 (Wikipédia: linha do tempo)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Linha do tempo: '1 e 2 Set — Os candidatos Renan Santos (Missão) e Wilson Grassi (Democrata) têm suas campanhas digitais reestabelecidas por ordem de Dias Toffoli, ministro do Tribunal Superior Eleitoral'; '2 Ago — Democrata oficializa a candidatura de Wilson Grassi à presidência'."
+          },
+          {
+            "id": "src-wg-09",
+            "title": "Toffoli suspende campanha presidencial de Wilson Grassi, do Democrata",
+            "publisher": "Congresso em Foco",
+            "url": "https://www.congressoemfoco.com.br/noticia/121821/toffoli-suspende-campanha-presidencial-de-wilson-grassi-do-democrata",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Cobertura da suspensão da campanha digital de Wilson Grassi por decisão do ministro Dias Toffoli no TSE (final de agosto de 2026). Data exata de publicação não capturada; localizado via busca em 29/09/2026."
+          },
+          {
+            "id": "src-wg-10",
+            "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+            "publisher": "g1 (Globo)",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bens_declarados",
+        "category": "integridade",
+        "name": "Bens declarados à Justiça Eleitoral",
+        "displayValue": "R$ 50.000.000,00 (2026)",
+        "value": 50000000,
+        "unit": "R$",
+        "metricType": "currency",
+        "directionality": "neutral",
+        "methodology": "Total de bens declarados no registro de 2026 (TSE, via Folha/Nexo): R$ 50.000.000,00 na categoria 'Outros bens e direitos' — posse e direitos sobre imóveis financiados junto a instituições financeiras + participação no capital social de diversas sociedades empresariais. Série histórica: R$ 25.000 (2006), R$ 9.051.034,03 (2022), R$ 24.620.000,00 (2024), R$ 50.000.000,00 (2026) — crescimento de 2.000 vezes em 20 anos (Wikipédia).",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-wg-01",
+            "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+            "publisher": "Folha de S.Paulo (dados: TSE)",
+            "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+          },
+          {
+            "id": "src-wg-02",
+            "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+            "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+            "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "oficial_eleitoral",
+            "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+          },
+          {
+            "id": "src-wg-03",
+            "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "bancada_partidaria_camara",
+        "category": "articulacao",
+        "name": "Bancada do partido no Congresso (antes da eleição de 2026)",
+        "displayValue": "0/513 deputados federais e 0 senadores",
+        "value": 0,
+        "unit": "cadeiras",
+        "metricType": "number",
+        "directionality": "higher_is_descriptively_more",
+        "methodology": "Consulta às APIs oficiais da Câmara dos Deputados (deputados em exercício na 57ª Legislatura com siglaPartido=DEMOCRATA) e do Senado (parlamentares em exercício em 29/09/2026): nenhum resultado. Partido fundado em 2008 (PMB) e renomeado em dez/2025, sem bancada federal.",
+        "evidenceStatus": "confirmado",
+        "confidenceLevel": "high",
+        "availability": "zero",
+        "sources": [
+          {
+            "id": "src-wg-15",
+            "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+            "publisher": "Câmara dos Deputados (dados abertos)",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+          },
+          {
+            "id": "src-wg-16",
+            "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+            "publisher": "Senado Federal (dados abertos)",
+            "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "legislativo",
+            "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do Democrata."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Partido isolado, sem direito ao horário eleitoral (Wikipédia); cargos estaduais e municipais não verificados nesta rodada.",
+        "dataPresentation": "notes_only"
+      },
+      {
+        "id": "intencao_voto_recente",
+        "category": "historico-experiencia",
+        "name": "Intenção de voto — pesquisas recentes (1º turno)",
+        "displayValue": "1% (Datafolha/SP, 25/09/2026 — era 1%; Quaest/SP 23/09: 0%)",
+        "value": null,
+        "metricType": "text",
+        "directionality": "neutral",
+        "methodology": "Últimas sondagens estimuladas localizadas que incluem o candidato, ambas REGIONAIS (São Paulo): Datafolha/SP (divulgada 25/09/2026; campo 22–24/09; 1.610 pessoas; BR-09355/2026): 1% (estável); Quaest/SP (divulgada 23/09/2026; campo 19–22/09; 1.800 pessoas; BR-08886/2026): 0%, não pontuou (era 1% em 08/09). Pesquisa nacional recente com percentual do candidato não localizada (Datafolha 24/09 testou os 13 candidatos, mas o recorte capturado não traz seu valor).",
+        "evidenceStatus": "parcial",
+        "confidenceLevel": "medium",
+        "availability": "available",
+        "sources": [
+          {
+            "id": "src-wg-17",
+            "title": "Datafolha: Flávio Bolsonaro lidera em SP, RJ e DF; Lula fica a frente em PE",
+            "publisher": "O Paralelo 13",
+            "url": "https://www.oparalelo13.com.br/edicao-465/datafolha-flavio-bolsonaro-lidera-em-sp-rj-e-df-lula-fica-a-frente-em-pe-e-mg-tem-empate-tecnico-202609260919",
+            "publishedAt": "2026-09-26",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Datafolha/SP (divulgada 25/09/2026; campo 22–24/09; 1.610 pessoas; registro TSE BR-09355/2026; encomenda Globo/Folha): Veterinário Wilson Grassi (Democrata) 1% (era 1%); Hertz Dias 0 (não pontuou)."
+          },
+          {
+            "id": "src-wg-18",
+            "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+            "publisher": "NSC Total",
+            "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+            "publishedAt": "2026-09-23",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Pesquisa Quaest em São Paulo (campo 19–22/09/2026; 1.800 entrevistas; ±2 p.p.; registro TSE BR-08886/2026): Wilson Grassi (Democrata) 0% (não pontuou) no 1º turno — era 1% na rodada de 08/09."
+          }
+        ],
+        "updatedAt": "2026-09-29",
+        "context": "Amostra regional (maior colégio eleitoral do país); não representa a intenção nacional.",
+        "dataPresentation": "notes_only"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-wg-01",
+        "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+        "publisher": "Folha de S.Paulo (dados: TSE)",
+        "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+      },
+      {
+        "id": "src-wg-02",
+        "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+        "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+        "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+      },
+      {
+        "id": "src-wg-03",
+        "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+      },
+      {
+        "id": "src-wg-04",
+        "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+      },
+      {
+        "id": "src-wg-05",
+        "title": "Eleição presidencial no Brasil em 2026 (Wikipédia: chapa do Democrata, vice, horário eleitoral)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Infobox: '35 Veterinário Wilson Grassi (DEMOCRATA) — Sem cargo político anterior; vice Suêd Haidar, Democrata, presidente nacional do Democrata (2015–2026); partido isolado; sem direito ao horário eleitoral'. Em 02/08/2026 a convenção nacional do Democrata oficializou a candidatura."
+      },
+      {
+        "id": "src-wg-06",
+        "title": "Pesquisas de opinião para a eleição presidencial no Brasil em 2026 (Wikipédia: linha do tempo)",
+        "publisher": "Wikipédia",
+        "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Linha do tempo: '1 e 2 Set — Os candidatos Renan Santos (Missão) e Wilson Grassi (Democrata) têm suas campanhas digitais reestabelecidas por ordem de Dias Toffoli, ministro do Tribunal Superior Eleitoral'; '2 Ago — Democrata oficializa a candidatura de Wilson Grassi à presidência'."
+      },
+      {
+        "id": "src-wg-07",
+        "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+        "publisher": "GZH (Grupo Cultural de Comunicação)",
+        "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+        "publishedAt": "2026-08-19",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+      },
+      {
+        "id": "src-wg-08",
+        "title": "Toffoli libera campanha digital e repasses a Wilson Grassi",
+        "publisher": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-libera-campanha-digital-e-repasses-a-wilson-grassi/",
+        "publishedAt": "2026-09-03",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Artigo de Vinicius Macia (03/09/2026): na quarta-feira (02/09), Toffoli liberou propaganda digital, participação em debates e repasses do Fundo Especial de Financiamento de Campanha (FEFC) à campanha de Wilson Grassi — as big techs tiveram 2 horas para restabelecer as contas. No domingo (30/08), Toffoli havia suspendido 8 perfis informados apenas 17 dias após o registro (só podiam ser usados 48h após a comunicação; um perfil tinha 156 mil seguidores e não foi informado); os advogados protocolaram a lista de redes sociais na sexta (28/08); a decisão inicial qualificou a omissão como 'indício de fraude à lei' — 'Não é possível tolerar a omissão de perfis de rede social em campanha eleitoral'; a mesma medida foi aplicada a Renan Santos (Missão); a defesa sustentou boa-fé; Toffoli soltou as contas logo depois, pois o PLRPF já havia coletado os relatórios (mais de 360 páginas)."
+      },
+      {
+        "id": "src-wg-09",
+        "title": "Toffoli suspende campanha presidencial de Wilson Grassi, do Democrata",
+        "publisher": "Congresso em Foco",
+        "url": "https://www.congressoemfoco.com.br/noticia/121821/toffoli-suspende-campanha-presidencial-de-wilson-grassi-do-democrata",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Cobertura da suspensão da campanha digital de Wilson Grassi por decisão do ministro Dias Toffoli no TSE (final de agosto de 2026). Data exata de publicação não capturada; localizado via busca em 29/09/2026."
+      },
+      {
+        "id": "src-wg-10",
+        "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+        "publisher": "g1 (Globo)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "oficial_eleitoral",
+        "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+      },
+      {
+        "id": "src-wg-11",
+        "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+        "publisher": "TSE — Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+      },
+      {
+        "id": "src-wg-12",
+        "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+        "publisher": "TSE — DivulgaCandContas (arquivos)",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "plano_de_governo",
+        "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+      },
+      {
+        "id": "src-wg-13",
+        "title": "Democrata tem veterinário Wilson Grassi na disputa presidencial",
+        "publisher": "Agência Brasil (EBC)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-tem-veterinario-wilson-grassi-na-disputa-presidencial",
+        "publishedAt": "2026-08",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil do candidato do Democrata à Presidência; localizado via busca em 29/09/2026."
+      },
+      {
+        "id": "src-wg-14",
+        "title": "Quem é Wilson Grassi, candidato do partido Democrata",
+        "publisher": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-wilson-grassi-candidato-do-partido-democrata/",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Perfil do candidato; localizado via busca em 29/09/2026."
+      },
+      {
+        "id": "src-wg-15",
+        "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+        "publisher": "Câmara dos Deputados (dados abertos)",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+      },
+      {
+        "id": "src-wg-16",
+        "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+        "publisher": "Senado Federal (dados abertos)",
+        "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+        "publishedAt": "2026-09-29",
+        "accessedAt": "2026-09-29",
+        "sourceType": "legislativo",
+        "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do Democrata."
+      },
+      {
+        "id": "src-wg-17",
+        "title": "Datafolha: Flávio Bolsonaro lidera em SP, RJ e DF; Lula fica a frente em PE",
+        "publisher": "O Paralelo 13",
+        "url": "https://www.oparalelo13.com.br/edicao-465/datafolha-flavio-bolsonaro-lidera-em-sp-rj-e-df-lula-fica-a-frente-em-pe-e-mg-tem-empate-tecnico-202609260919",
+        "publishedAt": "2026-09-26",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Datafolha/SP (divulgada 25/09/2026; campo 22–24/09; 1.610 pessoas; registro TSE BR-09355/2026; encomenda Globo/Folha): Veterinário Wilson Grassi (Democrata) 1% (era 1%); Hertz Dias 0 (não pontuou)."
+      },
+      {
+        "id": "src-wg-18",
+        "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+        "publisher": "NSC Total",
+        "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+        "publishedAt": "2026-09-23",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Pesquisa Quaest em São Paulo (campo 19–22/09/2026; 1.800 entrevistas; ±2 p.p.; registro TSE BR-08886/2026): Wilson Grassi (Democrata) 0% (não pontuou) no 1º turno — era 1% na rodada de 08/09."
+      },
+      {
+        "id": "src-wg-19",
+        "title": "Candidatos a presidente 2026: quem são, partidos",
+        "publisher": "Escola Educação (Brasil Escola)",
+        "url": "https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm",
+        "publishedAt": "2026",
+        "accessedAt": "2026-09-29",
+        "sourceType": "imprensa",
+        "notes": "Sobre Wilson Grassi: 'Nascido em São Paulo e é médico veterinário por formação. É sócio-proprietário de diversos hospitais veterinários pelo Brasil. Candidatou-se em 2006 como deputado estadual por São Paulo, em 2022 como deputado federal por São Paulo e em 2024 como vereador de São Paulo, mas não foi eleito em nenhuma das candidaturas.'"
       }
     ],
     "updatedAt": "2026-09-29"

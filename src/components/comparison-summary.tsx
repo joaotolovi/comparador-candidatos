@@ -35,7 +35,7 @@ export function ComparisonSummary({
       <div className="flex flex-col gap-1">
         <p className="eyebrow">Resumo da comparação</p>
         <h2 id="h-summary" className="display-2">
-          Os cinco retratos, lado a lado
+          As cinco dimensões, lado a lado
         </h2>
         <p className="max-w-xl text-sm leading-relaxed text-muted-foreground">
           Os indicadores mais importantes de cada dimensão. Os números descrevem

@@ -1,0 +1,1378 @@
+{
+  "id": "rui-costa-pimenta",
+  "slug": "rui-costa-pimenta",
+  "name": "Rui Costa Pimenta",
+  "ballotName": "Rui Costa Pimenta",
+  "ballotNumber": 29,
+  "party": "PCO",
+  "coalition": "PCO — partido isolado (nenhuma coligação ou federação registrada nas fontes desta rodada) — chapa com vice Antônio Carlos (PCO)",
+  "photoUrl": null,
+  "birthDate": "1957-06-25",
+  "age": 69,
+  "birthplace": "São Paulo, São Paulo (SP)",
+  "profession": "Jornalista e redator (ocupação declarada ao TSE) — escritor e presidente nacional do PCO",
+  "currentRole": "Candidato à Presidência da República (PCO, nº 29, registro DEFERIDO) e presidente nacional do Partido da Causa Operária (desde 1995)",
+  "tagline": "Presidente nacional do PCO desde 1995, jornalista (Cásper Líbero) e autor de 2 livros; fundador do PT em 1980, expulso em 1995; quarta campanha presidencial efetiva (2002, 2010, 2014, 2026 — além do registro indeferido em 2006), nenhuma vitória; sob investigação da PF desde agosto de 2026.",
+  "education": [
+    {
+      "id": "edu-rp-1",
+      "level": "graduacao",
+      "field": "Jornalismo",
+      "institution": "Faculdade Cásper Líbero",
+      "conclusionYear": null,
+      "notes": "Jornalista formado pela Faculdade Cásper Líbero, segundo a Wikipédia; ano de conclusão não informado nas fontes consultadas. Escolaridade declarada ao TSE: superior completo (Nexo/TSE).",
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        },
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ]
+    }
+  ],
+  "professionalExperience": [
+    {
+      "id": "prof-rp-1",
+      "role": "Jornalista e redator",
+      "organization": "Ocupação declarada ao TSE; imprensa partidária do PCO",
+      "startDate": "não informado",
+      "endDate": null,
+      "description": "Ocupação declarada à Justiça Eleitoral em 2026: 'jornalista e redator' (Nexo/TSE). Edita o jornal partidário Causa Operária; publica análises políticas semanais às terças no Brasil 247 e apresenta a coluna Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) — segundo a Wikipédia.",
+      "achievements": [
+        "Colunista semanal (Brasil 247) e comentarista no canal Causa Operária TV"
+      ],
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ]
+    },
+    {
+      "id": "prof-rp-2",
+      "role": "Escritor e autor de obras publicadas",
+      "organization": "Edições Causa Operária / Editora Democritus",
+      "startDate": "2018",
+      "endDate": null,
+      "description": "Livros publicados: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária e Editora Democritus, 2021). Também realiza cursos e palestras (Universidade Marxista e Universidade de Férias, segundo a Wikipédia).",
+      "achievements": [
+        "2 livros publicados (2018 e 2021)"
+      ],
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ]
+    }
+  ],
+  "politicalExperience": [
+    {
+      "id": "pol-rp-1",
+      "role": "Militância política desde 1976; fundador do PT (1980) e da tendência Causa Operária",
+      "organization": "Movimento estudantil / PT / CUT",
+      "startDate": "1976",
+      "endDate": "1995",
+      "description": "Atividade política desde 1976, na ditadura militar; participou do Congresso de Refundação da UNE (Salvador, 1980) e foi diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980, pela tendência Causa Operária; eleito diretor da CUT na região da grande São Paulo em 1985; rompimento público da tendência com o PT em 1992; expulso do PT em 1995 (Wikipédia).",
+      "achievements": [
+        "Fundador do PT (1980)",
+        "Diretor da CUT na região de São Paulo (1985)"
+      ],
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ]
+    },
+    {
+      "id": "pol-rp-2",
+      "role": "Fundador e presidente nacional do PCO",
+      "organization": "Partido da Causa Operária (PCO)",
+      "startDate": "1995",
+      "endDate": null,
+      "description": "Com a expulsão do PT, ajudou a lançar o PCO em 1995 (registro definitivo em 1996) e é presidente nacional do partido desde então — 31 anos à frente do PCO no pleito de 2026. Em março de 2024, reuniu-se no Catar com o líder do Hamas, Ismail Haniya, segundo a Wikipédia (fatos relatados pela imprensa).",
+      "achievements": [
+        "Presidente nacional do PCO desde 1995 (fundador)"
+      ],
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ]
+    },
+    {
+      "id": "pol-rp-3",
+      "role": "Candidaturas legislativas e municipais",
+      "organization": "PCO",
+      "startDate": "1998",
+      "endDate": "2000",
+      "description": "1998: deputado federal por São Paulo — 1.160 votos (não eleito). 2000: prefeito de São Paulo — 870 votos (não eleito). Histórico do TSE desde 1998 (Nexo).",
+      "achievements": [],
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ]
+    },
+    {
+      "id": "pol-rp-4",
+      "role": "Candidaturas à Presidência da República",
+      "organization": "PCO",
+      "startDate": "2002",
+      "endDate": null,
+      "description": "2002: 38.619 votos (0,05%) — não eleito. 2006: registro indeferido em razão de erro na prestação de contas da campanha de 2002; o PCO protestou e retirou os candidatos do horário político (Wikipédia). 2010: 12.206 votos (0,01%) — não eleito. 2014: 12.324 votos (0,01%) — não eleito. 2018: não disputou — apoiou Lula criticamente, sem entrar na coligação. 2022: não disputou (ausente do histórico do TSE). 2026: registro DEFERIDO — quarta campanha presidencial efetiva. A Folha resume: 'candidato à Presidência pelo PCO em outras três ocasiões: 2002, 2010 e 2014'.",
+      "achievements": [
+        "Candidato à Presidência em 4 campanhas efetivas (2002, 2010, 2014, 2026)"
+      ],
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        },
+        {
+          "id": "src-rp-04",
+          "title": "PF apura desvio no PCO e faz busca sobre Rui Costa Pimenta",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-mira-presidente-do-pco-em-operacao-sobre-suspeita-de-desvio-de-fundo-partidario-e-eleitoral.shtml",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Folha (11/08/2026): mandado de busca e apreensão em endereço de Rui Costa Pimenta em operação sobre suspeitas de desvio de recursos do fundo partidário e do fundo eleitoral; 'A decisão que trata do caso determina o afastamento por 180 dias do cargo partidário'; o partido e Rui só tomaram conhecimento com a arrombamento da porta; segundo a Metrópoles (citada), a investigação envolve um suposto esquema de pagamentos do partido a gráficas; confirma que Rui foi candidato à Presidência pelo PCO em 2002, 2010 e 2014."
+        }
+      ]
+    }
+  ],
+  "executiveExperience": [],
+  "achievements": [
+    {
+      "id": "ach-rp-1",
+      "title": "Presidente nacional do PCO desde 1995 — fundador e único presidente do partido",
+      "context": "Partido da Causa Operária, 1995–atual",
+      "description": "Lançou o PCO em 1995 após a expulsão do PT (registro definitivo em 1996) e preside o partido há 31 anos, conduzindo todas as candidaturas presidenciais do PCO desde 2002.",
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ]
+    },
+    {
+      "id": "ach-rp-2",
+      "title": "Autor de 2 livros publicados",
+      "context": "Edições Causa Operária (2018) e Causa Operária/Democritus (2021)",
+      "description": "'Golpe de Estado no Brasil — Balanço e Perspectivas' (2018) e 'A Era da Censura das Massas' (2021) — obras políticas publicadas pelo próprio selo partidário e por editora parceira.",
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ]
+    },
+    {
+      "id": "ach-rp-3",
+      "title": "Participação na fundação do PT (1980) e direção da CUT (1985)",
+      "context": "Trajetória sindical e partidária pré-PCO",
+      "description": "Um dos fundadores do Partido dos Trabalhadores em 1980 pela tendência Causa Operária; eleito diretor da CUT na região da grande São Paulo em 1985; rompeu publicamente com o PT em 1992.",
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ]
+    }
+  ],
+  "governmentPlan": {
+    "title": "Programa de Governo do PCO para 2026 (PCOprogramadegoverno2026.pdf, 52 páginas)",
+    "totalProposals": 51,
+    "registeredWith": "TSE — DivulgaCandContas (página oficial 'Propostas de Governo' com índice de 51 itens em 8 eixos; PDF oficial de 52 páginas)",
+    "registeredUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+    "planUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+    "notes": "Índice oficial (capturado via proxy em 29/09/2026): 51 propostas em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). É o maior número de propostas indexadas entre os quatro candidatos desta leva (Rui 51, Wilson 44, Hertz 38, Edmilson 35).",
+    "statsIfCounted": {
+      "objective": "Propostas com números explícitos no índice: aumento emergencial de 50% dos salários (em 45 dias), salário mínimo mínimo de R$ 7.500, piso salarial de R$ 8.000 na saúde e R$ 8.500 para docentes, jornada de 7 horas/35 semanais",
+      "target": "Salário mínimo de R$ 7.500 (meta); +50% em salários/aposentadorias/pensões; piso de R$ 8 mil (médicos) e R$ 8,5 mil (docentes); piso de 1 salário mínimo para jovens trabalhadores",
+      "deadline": "Aumento emergencial de salários, aposentadorias e pensões em 45 dias (único prazo explícito identificado no índice)",
+      "cost": null,
+      "funding": "Imposto Único sobre a circulação de dinheiro (0,5% para pessoas físicas; 1% para grandes fortunas), aplicação de alíquota adicional sobre grandes fortunas, fim de 32 tributos e suspensão de renúncias fiscais — fonte única declarada no índice",
+      "fiscal": "Suspensão do pagamento de juros da dívida pública e auditoria dela; na dúvida, decretar moratória; opção por estatizações (bancos, saúde, energia, transporte, comunicação) e fortalecimento da Eletrobras",
+      "agency": "Polícia Federal, Polícia Rodoviária Federal, Forças Armadas (com apoio nas fronteiras), Conselho de Segurança Nacional, Ministério da Saúde e órgãos de vigilância sanitária",
+      "instrument": "Lei ordinária e decretos (aumentos, jornadas, Ronda Nacional de 30 mil agentes); emendas constitucionais para federações, Orçamento Participativo e Conselhos do Trabalho, Saúde e Educação",
+      "indicator": "Não informado no índice (sem metas de indicadores por proposta capturadas)",
+      "congress": "Propostas trabalhistas, previdenciárias e tributárias dependem do Congresso; PCO sem bancada (0/513 e 0/81). Mudanças constitucionais (orçamento participativo, conselhos) exigem emendas. Contagem de custo/prazo por proposta não realizada pela equipe."
+    },
+    "statsEvidence": "indeterminado",
+    "keyProposals": [
+      {
+        "id": "kp-rp-1",
+        "title": "Redução de 50% nos preços de energia elétrica, gás e combustíveis",
+        "description": "Alívio emergencial de 50% nas contas de luz, gás de cozinha e combustíveis, combinado com reajuste emergencial de preços mínimos de alimentos (eixo Economia).",
+        "category": "Economia",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          }
+        ]
+      },
+      {
+        "id": "kp-rp-2",
+        "title": "Aumento emergencial de 50% dos salários, aposentadorias e pensões em 45 dias",
+        "description": "Reajuste emergencial de 50% em salários, aposentadorias e pensões 'em 45 dias' — o único prazo explícito identificado no índice — mais isenção do Imposto de Renda de quem recebe até 5 salários mínimos.",
+        "category": "Economia/Trabalho",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          }
+        ]
+      },
+      {
+        "id": "kp-rp-3",
+        "title": "Salário mínimo mínimo de R$ 7.500 como meta de longo prazo",
+        "description": "'Salário mínimo mínimo' de R$ 7.500 (isto é, com poder de compra pleno) como meta de longo prazo, com reajustes periódicos definidos pelo Conselho do Trabalho e piso salarial de 1 salário mínimo para jovens trabalhadores.",
+        "category": "Trabalho",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          }
+        ]
+      },
+      {
+        "id": "kp-rp-4",
+        "title": "Imposto Único (0,5% na circulação de dinheiro; 1% sobre grandes fortunas) e fim de 32 tributos",
+        "description": "Substituição da 'selva de impostos' por um Imposto Único de 0,5% sobre a circulação de dinheiro e 1% adicional sobre grandes fortunas; fim de 32 tributos, de renúncias fiscais e de juros da dívida pública (com auditoria e moratória na dúvida).",
+        "category": "Economia/Tributos",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          }
+        ]
+      },
+      {
+        "id": "kp-rp-5",
+        "title": "Jornada de 7 horas diárias/35 semanais com redução de salários para zero",
+        "description": "Redução da jornada para 7 horas diárias e 35 semanais sem redução de salário; para funcionários públicos federais, 6 horas diárias/30 semanais, e para docentes e funcionários de cidades pequenas, 4 horas diárias/20 semanais.",
+        "category": "Trabalho",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          }
+        ]
+      },
+      {
+        "id": "kp-rp-6",
+        "title": "Plano emergencial para a saúde: pisos salariais e 600 mil concursos",
+        "description": "Plano emergencial com piso salarial de R$ 8 mil para médicos (especialistas R$ 9 mil), R$ 6,5 mil para enfermeiros e R$ 4 mil para técnicos; abertura de 600 mil concursos na saúde para ampliar o quadro e reduzir filas de espera (eixo Saúde).",
+        "category": "Saúde",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          }
+        ]
+      },
+      {
+        "id": "kp-rp-7",
+        "title": "Combate ao crime organizado com ações policiais coordenadas e apoio das Forças Armadas",
+        "description": "Ações policiais integradas (PF, PRF e Forças Armadas nas fronteiras) e 'Ronda Nacional' com 30 mil agentes; aumento de penas para crime organizado e apoio a projetos de segurança comunitária (eixo Segurança).",
+        "category": "Segurança",
+        "quantified": true,
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          }
+        ]
+      },
+      {
+        "id": "kp-rp-8",
+        "title": "Política externa soberana no BRICS e apoio aos povos palestino, libanês, sírio e ao Irã",
+        "description": "Fortalecimento do BRICS; oposição à OTAN; reconhecimento do direito dos povos palestino, libanês e sírio à autodeterminação e apoio ao Irã diante de ataques de Israel e EUA; fim do bloqueio a Cuba (eixo Política Externa).",
+        "category": "Política Externa",
+        "quantified": false,
+        "sources": [
+          {
+            "id": "src-rp-07",
+            "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+            "publisher": "TSE — Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+            "publishedAt": "2026",
+            "accessedAt": "2026-09-29",
+            "sourceType": "plano_de_governo",
+            "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+          },
+          {
+            "id": "src-rp-02",
+            "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+            "publisher": "Wikipédia",
+            "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+            "publishedAt": "2026-09-29",
+            "accessedAt": "2026-09-29",
+            "sourceType": "imprensa",
+            "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-29"
+  },
+  "metrics": [
+    {
+      "id": "anos_executivo",
+      "category": "capacidade-execucao",
+      "name": "Anos em cargos executivos públicos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em cargos executivos públicos (eletivos ou de nomeação). Nenhum localizado: nunca venceu eleição e não há registro de nomeação — histórico TSE completo desde 1998 (7 candidaturas, 6 disputas efetivas e 1 registro indeferido em 2006) sem vitória.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exerce apenas função partidária (presidente nacional do PCO desde 1995) — cargo privado, sem administração de recursos ou pessoal públicos."
+    },
+    {
+      "id": "maior_orcamento",
+      "category": "capacidade-execucao",
+      "name": "Maior orçamento anual administrado",
+      "displayValue": "Não se aplica — nunca administrou orçamento público",
+      "value": null,
+      "unit": "R$ bi/ano",
+      "metricType": "currency",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Maior orçamento anual sob gestão em cargo público.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Equipes geridas no setor público",
+      "displayValue": "Não localizado",
+      "value": null,
+      "unit": "pessoas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Número de pessoas sob gestão em cargo público. Nenhum cargo público localizado (not_found) — dado tratado como não localizado, não como certidão negativa.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_politica",
+      "category": "historico-experiencia",
+      "name": "Anos de experiência política",
+      "displayValue": "50 anos (atividade política documentada desde 1976)",
+      "value": 50,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Anos entre o início documentado da atividade política (1976, na ditadura militar, segundo a Wikipédia) e 29/09/2026. Referências cruzadas: fundador do PT (1980), diretor da CUT (1985), fundador e presidente do PCO (desde 1995) — trajetória contínua.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_legislativo",
+      "category": "historico-experiencia",
+      "name": "Anos em mandatos legislativos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em mandatos legislativos. Nenhum mandato conquistado: candidato a deputado federal em 1998 (não eleito) e a prefeito de São Paulo em 2000 (não eleito); as demais disputas foram presidenciais.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "anos_federal",
+      "category": "historico-experiencia",
+      "name": "Anos em cargos federais (Executivo ou Legislativo)",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos períodos em cargos federais. Nunca ocupou mandato nem cargo federal (not_found).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "mandatos_eletivos",
+      "category": "historico-experiencia",
+      "name": "Mandatos eletivos conquistados",
+      "displayValue": "0 de 6 disputas (1998–2026)",
+      "value": 0,
+      "unit": "mandatos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem de eleições vencidas antes de 2026. Histórico TSE (Nexo): 1998 deputado federal SP (não eleito), 2000 prefeito de SP (não eleito), 2002 presidente (não eleito), 2006 presidente (registro indeferido — não houve disputa), 2010 presidente (não eleito), 2014 presidente (não eleito), 2026 presidente (em análise no snapshot de 29/09/2026).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "65.179 votos somados em 5 disputas derrotadas (1998–2014)",
+      "value": 65179,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos votos por disputa anterior a 2026, conforme o histórico do TSE no Nexo: 1.160 (1998, deputado federal SP); 870 (2000, prefeito de SP); 38.619 (2002, presidente — 0,05%); 12.206 (2010, presidente — 0,01%); 12.324 (2014, presidente — 0,01%). Em 2006 não houve votos (registro indeferido). Percentuais de 2002/2010/2014 conferem com a Wikipédia.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_total",
+      "category": "plano",
+      "name": "Propostas no plano de governo registrado",
+      "displayValue": "51 propostas (índice do TSE, 8 eixos)",
+      "value": 51,
+      "unit": "propostas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem dos itens do índice oficial de 'Propostas de Governo' do TSE para a chapa do PCO (51 itens em 8 eixos; a página contém 52 marcas contando o rodapé 'Erro da página'). Análise manual do PDF (52 páginas) não realizada nesta rodada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rp-07",
+          "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+        },
+        {
+          "id": "src-rp-08",
+          "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "Não informado no índice do TSE (0 de 51 com custo)",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com custo estimado. Nenhum custo por proposta identificado no índice oficial; o plano declara fonte global de financiamento (imposto único sobre circulação de dinheiro — de 0,5% para pessoas físicas e de 1% para grandes fortunas — e fim de 32 tributos), mas sem aplicações fiscais ou orçamento item a item. Leitura do PDF não realizada nesta rodada.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_informed",
+      "sources": [
+        {
+          "id": "src-rp-07",
+          "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+        },
+        {
+          "id": "src-rp-08",
+          "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "Ao menos 1 de 51 com prazo explícito (45 dias) — contagem incompleta",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas com prazo definido. Identificado no índice pelo menos um prazo explícito: aumento emergencial de 50% dos salários, aposentadorias e pensões 'em 45 dias' (eixo Economia/Trabalho). Contagem item a item das 51 propostas não realizada nesta rodada.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-rp-07",
+          "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+        },
+        {
+          "id": "src-rp-08",
+          "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "Contagem não realizada; emendas constitucionais (orçamento participativo, federações, estatizações) e reforma tributária dependem do Congresso",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC ou lei. Contagem por proposta não realizada; o índice do PCO declara emendas constitucionais (Orçamento Participativo, Conselhos do Trabalho/Saúde/Educação, federações) e o Imposto Único dependem do Congresso, onde o PCO não tem bancada (0/513).",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "under_analysis",
+      "sources": [
+        {
+          "id": "src-rp-07",
+          "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+        },
+        {
+          "id": "src-rp-08",
+          "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+        },
+        {
+          "id": "src-rp-10",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "registro_tse",
+      "category": "integridade",
+      "name": "Situação do registro de candidatura no TSE",
+      "displayValue": "DEFERIDO — entre as 12 candidaturas válidas divulgadas pelo TSE (11/09/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026: Nexo ('Registro deferido') e lista das 12 chapas do TSE. A investigação da PF (Operação Causa Própria, 11/08/2026) não impediu o registro: a Folha (12/09/2026) descreve o candidato como concorrendo 'enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários'. Histórico: em 2006 o registro à Presidência foi indeferido (erro na prestação de contas da campanha de 2002, segundo a Wikipédia).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-14",
+          "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas, incluindo a do PCO)."
+        },
+        {
+          "id": "src-rp-06",
+          "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, BRICS e outros temas de política externa",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+          "publishedAt": "2026-09-12",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Folha (12/09/2026): 'Ele [Rui Costa Pimenta] concorre enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários' — situação da investigação ainda ativa na reta final da campanha."
+        },
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "bens_declarados",
+      "category": "integridade",
+      "name": "Bens declarados à Justiça Eleitoral",
+      "displayValue": "R$ 0 — nenhum bem declarado (2026)",
+      "value": 0,
+      "unit": "R$",
+      "metricType": "currency",
+      "directionality": "neutral",
+      "methodology": "Total de bens declarados no registro de 2026: a ficha do Nexo (dados TSE) registra 'Nenhum bem declarado ao TSE'. Sem histórico anterior de bens localizado nas fontes desta rodada (not_found).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "bancada_partidaria_camara",
+      "category": "articulacao",
+      "name": "Bancada do partido no Congresso (antes da eleição de 2026)",
+      "displayValue": "0/513 deputados federais e 0 senadores",
+      "value": 0,
+      "unit": "cadeiras",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Consulta às APIs oficiais da Câmara dos Deputados (deputados em exercício na 57ª Legislatura com siglaPartido=PCO) e do Senado (parlamentares em exercício em 29/09/2026): nenhum resultado.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "zero",
+      "sources": [
+        {
+          "id": "src-rp-10",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+        },
+        {
+          "id": "src-rp-11",
+          "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+          "publisher": "Senado Federal (dados abertos)",
+          "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O PCO elegeu apenas um representante em três décadas, segundo o SBT (vereador João Vieira, em 2004, em Benjamin Constant/AM) — dado não conferido em fonte primária nesta rodada (not_found). Cargos estaduais e municipais do PCO não verificados."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "historico-experiencia",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "0% (não pontuou — Quaest/SP, 23/09/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Última sondagem estimulada localizada nesta rodada que inclui o candidato: Quaest em São Paulo (divulgada 23/09/2026; campo 19–22/09; 1.800 entrevistas; BR-08886/2026) — 0% (não pontuou). Pesquisa REGIONAL (SP). Pesquisa nacional recente com percentual de Rui não localizada (a Datafolha de 24/09/2026 o testa entre os 13 candidatos, mas o recorte capturado não traz seu valor de intenção — apenas rejeição de 9%).",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rp-12",
+          "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+          "publisher": "NSC Total",
+          "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+          "publishedAt": "2026-09-23",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Pesquisa Quaest em São Paulo (campo 19–22/09/2026, 1.800 entrevistas, ±2 p.p., registro TSE BR-08886/2026): Rui Costa Pimenta (PCO) 0% (não pontuou) no 1º turno."
+        },
+        {
+          "id": "src-rp-13",
+          "title": "No 2º turno, Lula chega a 47% e Flávio tem 45%, aponta Datafolha",
+          "publisher": "Meia Hora (Estadão Conteúdo)",
+          "url": "https://www.meiahora.com.br/geral/2026/09/7305563-no-2-turno-lula-chega-a-47-e-flavio-tem-45-aponta-datafolha.html",
+          "publishedAt": "2026-09-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Datafolha nacional (divulgada 24/09/2026; campo 22–24/09; 2.002 eleitores; registro TSE BR-00304/2026; encomenda Globo/Folha): rejeição de Rui Costa Pimenta passou de 11% (17/09) para 9% (24/09); rejeições de Edmilson Costa 8%, Hertz Dias 7%, Wilson Grassi 5%."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Amostra regional; não representa a intenção nacional. Dado auxiliar: rejeição nacional de 9% em 24/09/2026 (era 11% em 17/09)."
+    }
+  ],
+  "currentSupport": [
+    {
+      "id": "sup-rp-1",
+      "description": "Chapa do PCO isolado (nenhuma coligação ou federação registrada nas fontes desta rodada); vice: Antônio Carlos (PCO). PCO sem representação federal: 0 deputados e 0 senadores em exercício em 29/09/2026 (APIs oficiais).",
+      "value": "PCO — 0/513 na Câmara e 0/81 no Senado",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-14",
+          "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas, incluindo a do PCO)."
+        },
+        {
+          "id": "src-rp-10",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+        },
+        {
+          "id": "src-rp-11",
+          "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+          "publisher": "Senado Federal (dados abertos)",
+          "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+        }
+      ]
+    },
+    {
+      "id": "sup-rp-2",
+      "description": "Financiamento da campanha presidencial até 08/09/2026 (prestação parcial ao TSE): receita de R$ 6.271,00 de 1 único doador — 100% financiamento coletivo (vaquinha do próprio candidato). Gasto contratado de R$ 137,30 (0,0% do limite legal de R$ 88.944.030,80), todo já pago; fornecedor Queroapoiar.Com.Br Ltda. Campanha sem custos de estrutura registrada — compatível com o modelo de vaquinha online declarado.",
+      "value": "R$ 6.271,00 de receita até 08/09/2026 (1 doador — vaquinha)",
+      "date": "2026-09-08",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ]
+    }
+  ],
+  "negotiationHistory": [
+    {
+      "id": "neg-rp-1",
+      "description": "Apoio eleitoral a Lula em 2018 sem coligação: Rui Costa Pimenta apoiou o candidato do PT 'criticamente', sem que o PCO entrasse na coligação (Wikipédia). Nenhuma aliança formal de partido registrada nas disputas presidenciais — o PCO disputa isolado desde 2002.",
+      "value": "apoio sem coligação (2018); disputa isolada nas presidenciais",
+      "date": "2018-10",
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ]
+    },
+    {
+      "id": "neg-rp-2",
+      "description": "Nenhuma negociação legislativa registrada: nunca ocupou mandato e o PCO não tem bancada no Congresso (0 deputados e 0 senadores em exercício). Registros de articulação em votações não localizados (not_found).",
+      "value": "sem registros de negociação legislativa",
+      "date": "2026-09-29",
+      "sources": [
+        {
+          "id": "src-rp-10",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+        },
+        {
+          "id": "src-rp-11",
+          "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+          "publisher": "Senado Federal (dados abertos)",
+          "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+        }
+      ]
+    }
+  ],
+  "institutionalHistory": [
+    {
+      "id": "inst-rp-1",
+      "category": "tribunal",
+      "title": "Operação Causa Própria da Polícia Federal (11/08/2026) — suspeita de desvio do Fundo Partidário e do FEFC",
+      "legalStatus": "investigacao_com_medidas_cautelares",
+      "currentStatus": "em_andamento",
+      "instance": "Polícia Federal (operação com mandados na região de São Paulo) / Justiça Eleitoral (medidas cautelares)",
+      "lastUpdate": "2026-09-12 (última menção à investigação em fonte de prestígio localizada: Folha)",
+      "description": "Em 11/08/2026, a Polícia Federal cumpriu mandados de busca e apreensão — quatro em endereços ligados ao PCO em São Paulo (g1/JN) — em operação contra Rui Costa Pimenta, presidente do PCO e candidato à Presidência, por suspeita de desvio de recursos do fundo partidário e do fundo eleitoral para empresas e pessoas ligadas à estrutura partidária; segundo a Metrópoles (citada pela Folha), a investigação envolve um suposto esquema de pagamentos do partido a gráficas. A decisão determinou o afastamento por 180 dias (6 meses) do cargo partidário — Rui tomou conhecimento da operação quando os policiais arrombaram seu portão, segundo o partido. A Folha (12/09/2026) confirma que o candidato segue concorrendo sob a investigação. O PCO classificou a ação como 'perseguição política' e Rui negou irregularidades (relato da imprensa na rodada). Não há registro nesta rodada de denúncia formal, sentença ou conclusão do procedimento (not_found); a situação não impediu o registro da candidatura (DEFERIDO).",
+      "sources": [
+        {
+          "id": "src-rp-03",
+          "title": "Rui Costa Pimenta, presidente do PCO, é alvo de operação da PF por suspeita de desvio de dinheiro dos fundos partidário e eleitoral",
+          "publisher": "g1 / Jornal Nacional (Globo)",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/rui-costa-pimenta-presidente-do-pco-e-alvo-de-operacao-da-pf-por-suspeita-de-desvio-de-dinheiro-dos-fundos-partidario-e-eleitoral.ghtml",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "JN/g1 (11/08/2026): Polícia Federal apura desvio de dinheiro dos fundos partidário e eleitoral para empresas ligadas a integrantes do PCO; quatro buscas em endereços ligados ao partido em São Paulo; bloqueio de contas e bens; afastamento do presidente do partido por 6 meses (medida da Justiça Eleitoral)."
+        },
+        {
+          "id": "src-rp-04",
+          "title": "PF apura desvio no PCO e faz busca sobre Rui Costa Pimenta",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-mira-presidente-do-pco-em-operacao-sobre-suspeita-de-desvio-de-fundo-partidario-e-eleitoral.shtml",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Folha (11/08/2026): mandado de busca e apreensão em endereço de Rui Costa Pimenta em operação sobre suspeitas de desvio de recursos do fundo partidário e do fundo eleitoral; 'A decisão que trata do caso determina o afastamento por 180 dias do cargo partidário'; o partido e Rui só tomaram conhecimento com a arrombamento da porta; segundo a Metrópoles (citada), a investigação envolve um suposto esquema de pagamentos do partido a gráficas; confirma que Rui foi candidato à Presidência pelo PCO em 2002, 2010 e 2014."
+        },
+        {
+          "id": "src-rp-05",
+          "title": "Candidato à Presidência pelo PCO é alvo da Polícia Federal por suspeita de desvio do fundo partidário",
+          "publisher": "Diário do Grande ABC (DGABC)",
+          "url": "https://www.dgabc.com.br/Noticia/4340539/candidato-a-presidencia-pelo-pco-e-alvo-da-pf-por-suspeita-de-desvio-do-fundo-partidario",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "DGABC (11/08/2026): operação da PF contra Rui Costa Pimenta por suspeita de desvio do fundo partidário; entre as notícias relacionadas do mesmo dia, cobertura de bloqueio de contas e bens."
+        },
+        {
+          "id": "src-rp-06",
+          "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, BRICS e outros temas de política externa",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+          "publishedAt": "2026-09-12",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Folha (12/09/2026): 'Ele [Rui Costa Pimenta] concorre enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários' — situação da investigação ainda ativa na reta final da campanha."
+        }
+      ],
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high"
+    },
+    {
+      "id": "inst-rp-2",
+      "category": "eleitoral",
+      "title": "Registro de candidatura à Presidência indeferido em 2006",
+      "legalStatus": "registro_indeferido",
+      "currentStatus": "encerrado",
+      "instance": "Justiça Eleitoral (TSE)",
+      "lastUpdate": "2006",
+      "description": "O registro da candidatura do PCO à Presidência em 2006 foi indeferido em razão de erro na prestação de contas da campanha de 2002; o partido protestou e retirou os candidatos do horário político gratuito (Wikipédia). Em 2026, o registro da mesma candidatura foi DEFERIDO (Nexo/TSE).",
+      "sources": [
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        },
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ],
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-rp-01",
+      "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+      "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+      "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+      "publishedAt": "2026-08-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+    },
+    {
+      "id": "src-rp-02",
+      "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+    },
+    {
+      "id": "src-rp-03",
+      "title": "Rui Costa Pimenta, presidente do PCO, é alvo de operação da PF por suspeita de desvio de dinheiro dos fundos partidário e eleitoral",
+      "publisher": "g1 / Jornal Nacional (Globo)",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/11/rui-costa-pimenta-presidente-do-pco-e-alvo-de-operacao-da-pf-por-suspeita-de-desvio-de-dinheiro-dos-fundos-partidario-e-eleitoral.ghtml",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "JN/g1 (11/08/2026): Polícia Federal apura desvio de dinheiro dos fundos partidário e eleitoral para empresas ligadas a integrantes do PCO; quatro buscas em endereços ligados ao partido em São Paulo; bloqueio de contas e bens; afastamento do presidente do partido por 6 meses (medida da Justiça Eleitoral)."
+    },
+    {
+      "id": "src-rp-04",
+      "title": "PF apura desvio no PCO e faz busca sobre Rui Costa Pimenta",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-mira-presidente-do-pco-em-operacao-sobre-suspeita-de-desvio-de-fundo-partidario-e-eleitoral.shtml",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Folha (11/08/2026): mandado de busca e apreensão em endereço de Rui Costa Pimenta em operação sobre suspeitas de desvio de recursos do fundo partidário e do fundo eleitoral; 'A decisão que trata do caso determina o afastamento por 180 dias do cargo partidário'; o partido e Rui só tomaram conhecimento com a arrombamento da porta; segundo a Metrópoles (citada), a investigação envolve um suposto esquema de pagamentos do partido a gráficas; confirma que Rui foi candidato à Presidência pelo PCO em 2002, 2010 e 2014."
+    },
+    {
+      "id": "src-rp-05",
+      "title": "Candidato à Presidência pelo PCO é alvo da Polícia Federal por suspeita de desvio do fundo partidário",
+      "publisher": "Diário do Grande ABC (DGABC)",
+      "url": "https://www.dgabc.com.br/Noticia/4340539/candidato-a-presidencia-pelo-pco-e-alvo-da-pf-por-suspeita-de-desvio-do-fundo-partidario",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "DGABC (11/08/2026): operação da PF contra Rui Costa Pimenta por suspeita de desvio do fundo partidário; entre as notícias relacionadas do mesmo dia, cobertura de bloqueio de contas e bens."
+    },
+    {
+      "id": "src-rp-06",
+      "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, BRICS e outros temas de política externa",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Folha (12/09/2026): 'Ele [Rui Costa Pimenta] concorre enquanto enfrenta uma investigação da Polícia Federal sobre desuso de fundos partidários' — situação da investigação ainda ativa na reta final da campanha."
+    },
+    {
+      "id": "src-rp-07",
+      "title": "Rui Costa Pimenta — Propostas de Governo (página oficial do TSE, índice com 51 propostas em 8 eixos)",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/rui-costa-pimenta-propostas-de-governo",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Índice oficial (Título: 'Rui Costa Pimenta - Propostas de Governo'; captura via proxy r.jina.ai em 29/09/2026): 51 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (15); Saúde Pública e Assistência (7); Segurança Pública e Justiça (3); Educação, Ciência e Meio Ambiente (9); Política Externa e Inserção Global (3); Direitos Humanos, Equidade e Inclusão Social (2); Questão Agrária, Propriedade e Direito à Cidade (3); Governança, Transparência e Reformas de Estado (9). Contagem da equipe: 51 (o índice auxiliar propostas_tse.json conta 52 por incluir o marcador 'Erro da página')."
+    },
+    {
+      "id": "src-rp-08",
+      "title": "Programa de Governo do PCO — Eleições 2026 (PDF oficial, 52 páginas)",
+      "publisher": "TSE — DivulgaCandContas (arquivos)",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/pcoprogramadegoverno2026-1/@@display-file/file/PCOprogramadegoverno2026.pdf",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
+    },
+    {
+      "id": "src-rp-09",
+      "title": "Eleições 2026: conheça as propostas e o perfil de Rui Costa Pimenta (PCO)",
+      "publisher": "Band",
+      "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-rui-costa-pimenta-pco",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Perfil eleitoral: 'Aos 69 anos, o jornalista paul[ista]...' — abertura do perfil com idade e ocupação coerentes com a ficha do TSE (jornalista, 69 anos). Data exata não capturada; localizado via busca em 29/09/2026."
+    },
+    {
+      "id": "src-rp-10",
+      "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+      "publisher": "Câmara dos Deputados (dados abertos)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
+    },
+    {
+      "id": "src-rp-11",
+      "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+      "publisher": "Senado Federal (dados abertos)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do PCO."
+    },
+    {
+      "id": "src-rp-12",
+      "title": "Quaest: Flávio aparece à frente de Lula no maior colégio eleitoral do país e mantém vantagem no 2º turno",
+      "publisher": "NSC Total",
+      "url": "https://www.nsctotal.com.br/politica/quaest-flavio-aparece-a-frente-de-lula-no-maior-colegio-eleitoral-do-pais-e-mantem-vantagem-no-2o-turno",
+      "publishedAt": "2026-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Pesquisa Quaest em São Paulo (campo 19–22/09/2026, 1.800 entrevistas, ±2 p.p., registro TSE BR-08886/2026): Rui Costa Pimenta (PCO) 0% (não pontuou) no 1º turno."
+    },
+    {
+      "id": "src-rp-13",
+      "title": "No 2º turno, Lula chega a 47% e Flávio tem 45%, aponta Datafolha",
+      "publisher": "Meia Hora (Estadão Conteúdo)",
+      "url": "https://www.meiahora.com.br/geral/2026/09/7305563-no-2-turno-lula-chega-a-47-e-flavio-tem-45-aponta-datafolha.html",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Datafolha nacional (divulgada 24/09/2026; campo 22–24/09; 2.002 eleitores; registro TSE BR-00304/2026; encomenda Globo/Folha): rejeição de Rui Costa Pimenta passou de 11% (17/09) para 9% (24/09); rejeições de Edmilson Costa 8%, Hertz Dias 7%, Wilson Grassi 5%."
+    },
+    {
+      "id": "src-rp-14",
+      "title": "Eleições 2026: TSE tem 12 candidaturas na disputa pela Presidência da República",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas, incluindo a do PCO)."
+    }
+  ],
+  "updatedAt": "2026-09-29"
+}
