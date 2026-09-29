@@ -56,11 +56,16 @@ export interface RowProps {
   onlyDifferences: boolean;
 }
 
-/** Separa "Destaque — nota (detalhe)" em valor principal + nota. */
+/** Separa "Destaque — nota (detalhe)" em valor principal + nota.
+ *  Texto livre NUNCA é cortado no parêntese (senão vira frase mutilada);
+ *  só o separador " — " divide destaque e nota. */
 function splitValue(display: string, type: MetricType) {
-  if (type === "text" && display.includes(" — ")) {
-    const i = display.indexOf(" — ");
-    return { head: display.slice(0, i), note: display.slice(i + 3) };
+  if (type === "text") {
+    if (display.includes(" — ")) {
+      const i = display.indexOf(" — ");
+      return { head: display.slice(0, i), note: display.slice(i + 3) };
+    }
+    return { head: display, note: "" };
   }
   if (display.includes(" (")) {
     const i = display.indexOf(" (");

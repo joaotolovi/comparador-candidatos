@@ -1,0 +1,586 @@
+{
+  "slug": "renan-santos",
+  "sources": [
+    {
+      "id": "src-rs-51",
+      "title": "Renan Santos atrai empresários, mas apoio aberto ainda engatinha (agenda com Banco Santander e agenda em Brasília)",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-economico-de-renan-santos-atrai-empresarios-mas-apoio-ainda-engatinha/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Dia exato não capturado; publicado após o lançamento da candidatura (16/08/2026). Descreve a agenda de contatos no mundo empresarial: conferência do Banco Santander em SP (17/08) e agenda em Brasília (18/08); empresários elogiam o plano, mas apoio declarado ainda é escasso."
+    },
+    {
+      "id": "src-rs-52",
+      "title": "Renan Santos, candidato do Missão à Presidência, cumpre agenda em São Paulo (encontro na Câmara Americana de Comércio)",
+      "publisher": "g1 (Globo) — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/10/renan-santos-candidato-do-missao-a-presidencia-cumpre-agenda-em-sao-paulo.ghtml",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Encontro na Câmara Americana de Comércio (AmCham), entidade empresarial de negociações bilaterais Brasil-Estados Unidos."
+    },
+    {
+      "id": "src-rs-53",
+      "title": "Renan Santos explica motivos para não citar Deus durante a campanha eleitoral (reação de lideranças em Brasília)",
+      "publisher": "Conectado ao Poder",
+      "url": "https://conectadoaopoder.com.br/renan-santos-explica-motivos-para-nao-citar-deus-durante-a-campanha-eleitoral/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026). Diálogo explícito sobre o tema religioso na campanha, após debates e sabatina; tema também tratado por PlatôBR."
+    },
+    {
+      "id": "src-rs-54",
+      "title": "Campanha de Renan Santos aposta em vaquinha e venda de livro para financiamento ('estrutura enxuta')",
+      "publisher": "CNN Brasil (republicado por PAIPEE)",
+      "url": "https://br.paipee.com/2026/08/16/campanha-de-renan-santos-aposta-em-vaquinha-e-venda-de-livro-para-financiamento/",
+      "publishedAt": "2026-08-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Republicação da reportagem da CNN Brasil; campanha descrita como 'estrutura enxuta', financiada por vaquinha e venda de livro."
+    },
+    {
+      "id": "src-rs-55",
+      "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Datafolha",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral",
+      "notes": "Encomendada por Globo e Folha; 2º turno: Lula 47% x Flávio 45%."
+    },
+    {
+      "id": "src-rs-56",
+      "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Quaest",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+      "publishedAt": "2026-09-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral",
+      "notes": "2.004 entrevistas, 24–27/09/2026, margem de 2 p.p.; 2º turno 42% x 42%."
+    }
+  ],
+  "metrics": [
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "Não se aplica — nunca ocupou cargo público com equipe de servidores",
+      "value": null,
+      "unit": "servidores",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Servidores/equipe sob gestão direta em cargo público. Renan Santos nunca ocupou cargo eletivo nem público: 2026 é a primeira candidatura a cargo público (g1, 20/07/2026), sem gabinete parlamentar ou estrutura de governo a contar. Ausência de carreira pública é fato confirmado, não lacuna de pesquisa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        },
+        {
+          "id": "src-rs-54",
+          "title": "Campanha de Renan Santos aposta em vaquinha e venda de livro para financiamento ('estrutura enxuta')",
+          "publisher": "CNN Brasil (republicado por PAIPEE)",
+          "url": "https://br.paipee.com/2026/08/16/campanha-de-renan-santos-aposta-em-vaquinha-e-venda-de-livro-para-financiamento/",
+          "publishedAt": "2026-08-16",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Republicação da reportagem da CNN Brasil; campanha descrita como 'estrutura enxuta', financiada por vaquinha e venda de livro."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Proxy procurado (spec) e sem base numérica: partido e campanha não publicam quadro de pessoal — a campanha é descrita como 'estrutura enxuta', financiada por vaquinha e venda de livro (CNN/PAIPEE, 16/08/2026). O Missão tem 29.911 filiados e 535 candidaturas em 25 estados (TSE/Wikipédia) e direção nacional citada com presidente, secretário-geral, 3 vice-presidentes e tesoureiro: são números de estrutura partidária, não de equipe sob gestão."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "Não se aplica — nunca governou",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de aprovação da gestão em pesquisas de opinião. Renan Santos nunca ocupou cargo executivo (prefeito, governador, presidente) nem qualquer mandato eletivo — sem experiência executiva registrada e 2026 como primeira disputa a cargo público. Ausência de carreira executiva é fato confirmado, não lacuna de pesquisa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        },
+        {
+          "id": "src-rs-24",
+          "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+          "publisher": "Jota",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Sem gestão executiva anterior não há série de aprovação correspondente; pesquisas eleitorais de 2026 medem intenção de voto, não aprovação de gestão (ver intencao_voto_recente)."
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "13% (1 das 8 propostas prioritárias detalhadas declara valores em R$)",
+      "value": 13,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 8 propostas prioritárias detalhadas no próprio JSON (o plano registrado no TSE tem 14 pilares): apenas a PEC de Transição Fiscal quantifica valores — ajuste de R$ 1,1 trilhão até 2031 (cálculo da campanha) e R$ 486 bilhões em 5 anos só com a desindexação (Kataguiri). Classificação aproximada; o resumo executivo de 51 páginas não informa custo por pilar.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-rs-21",
+          "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        },
+        {
+          "id": "src-rs-31",
+          "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+          "publisher": "Valor Internacional",
+          "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+          "publishedAt": "2026-09-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O R$ 1,1 tri é meta de ajuste fiscal, não custo de programa — as demais 7 propostas prioritárias não trazem valor associado (hasCost=false no JSON do plano)."
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "25% (2 das 8 propostas prioritárias detalhadas com prazo declarado)",
+      "value": 25,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 8 propostas prioritárias detalhadas no próprio JSON: prazo declarado em 2 — 'desfavelação integral' em 10 anos e ajuste fiscal até 2031. Classificação aproximada sobre subconjunto de 8 das 14 pilares; o plano também fixa 5 metas para 2030 como horizonte global, sem prazo por pilar.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-rs-20",
+          "title": "Renan Santos: plano propõe fim do Bolsa Família, guerra ao crime, superpresídios, fusão de municípios e fim de cotas",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+          "publishedAt": "2026-07-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-19",
+          "title": "Renan Santos: veja as propostas do candidato a presidente (5 metas para 2030, 14 pilares, 3 blocos)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/renan-santos-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Declarações anteriores citavam desfavelação em até 30 anos; o resumo executivo registrado adota 10 anos (CNN, 21/07/2026)."
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "88% (7 das 8 propostas prioritárias detalhadas exigem PEC ou lei)",
+      "value": 88,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 8 propostas prioritárias detalhadas no próprio JSON: 7 marcam dependência do Congresso — marco do 'Direito Penal do Inimigo' (lei), PEC de Transição Fiscal, reforma da Previdência (PEC), redemesignação do Bolsa Família (lei), fusão de municípios e pacto federativo (PEC/lei), troca de cotas por bolsas de mérito (lei) e programa nuclear (legislação). Exclui apenas a 'desfavelação integral', sem instrumento especificado no resumo executivo. Classificação aproximada sobre 8 das 14 pilares.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-23",
+          "title": "Livro Amarelo — resumo executivo do plano de governo registrado no TSE (documento oficial)",
+          "publisher": "TSE — DivulgaCandContas",
+          "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Resumo de 51 páginas do 'Livro Amarelo' (obra integral de mais de 500 páginas, segundo o próprio documento); registrado com a candidatura."
+        },
+        {
+          "id": "src-rs-22",
+          "title": "'Direito Penal do Inimigo' e ajuste fiscal: o plano de governo de Renan Santos (PEC de Transição Fiscal, pacto federativo, reforma administrativa)",
+          "publisher": "Exame",
+          "url": "https://exame.com/brasil/direito-penal-do-inimigo-e-ajuste-fiscal-o-plano-de-governo-de-renan-santos/",
+          "publishedAt": "2026-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Mês; dia exato não capturado."
+        },
+        {
+          "id": "src-rs-31",
+          "title": "Renan Santos's team wants to set age trigger for social security (PEC do Equilíbrio Fiscal de R$ 1,1 tri; desindexação: R$ 486 bi em 5 anos)",
+          "publisher": "Valor Internacional",
+          "url": "https://valorinternational.globo.com/politics/news/2026/09/18/renan-santoss-team-wants-to-set-age-trigger-for-social-security.ghtml",
+          "publishedAt": "2026-09-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-21",
+          "title": "Renan propõe cortes na Previdência e alterar pisos da saúde e educação (ajuste de R$ 1,1 tri até 2031; plano de 51 páginas)",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O resumo executivo declara que a contagem por proposta não foi realizada pela equipe e que a maioria das medidas estruturais depende de PEC/lei — coerente com a alta proporção apurada."
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "Não se aplica — nunca exerceu mandato legislativo",
+      "value": null,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Leis aprovadas com o candidato como autor principal. Renan Santos nunca foi vereador, deputado estadual, deputado federal ou senador — sem mandatos legislativos anteriores a 2026. Ausência de carreira legislativa é fato confirmado, não lacuna de pesquisa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        },
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        },
+        {
+          "id": "src-rs-24",
+          "title": "Quem é Renan Santos, candidato à Presidência que fundou MBL e aposta em ideias radicais",
+          "publisher": "Jota",
+          "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-e-renan-santos-candidato-a-presidencia-que-fundou-mbl-e-aposta-em-ideias-radicais",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Ano; data exata não capturada. Perfil de campanha: 3%–6% nas sondagens, terceira colocação em empate técnico; MBL fundado em nov/2014 a partir de grupo de Vinhedo (SP)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Por não ter havido mandato, não há produção legislativa própria a contar; ativismo (MBL) e presidência do partido não geram proposições legislativas formais."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Agenda com empresariado (Santander e AmCham, ago–set/2026) e diálogo público sobre religião na campanha",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-51",
+          "title": "Renan Santos atrai empresários, mas apoio aberto ainda engatinha (agenda com Banco Santander e agenda em Brasília)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-economico-de-renan-santos-atrai-empresarios-mas-apoio-ainda-engatinha/",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Dia exato não capturado; publicado após o lançamento da candidatura (16/08/2026). Descreve a agenda de contatos no mundo empresarial: conferência do Banco Santander em SP (17/08) e agenda em Brasília (18/08); empresários elogiam o plano, mas apoio declarado ainda é escasso."
+        },
+        {
+          "id": "src-rs-52",
+          "title": "Renan Santos, candidato do Missão à Presidência, cumpre agenda em São Paulo (encontro na Câmara Americana de Comércio)",
+          "publisher": "g1 (Globo) — Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/10/renan-santos-candidato-do-missao-a-presidencia-cumpre-agenda-em-sao-paulo.ghtml",
+          "publishedAt": "2026-09-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Encontro na Câmara Americana de Comércio (AmCham), entidade empresarial de negociações bilaterais Brasil-Estados Unidos."
+        },
+        {
+          "id": "src-rs-53",
+          "title": "Renan Santos explica motivos para não citar Deus durante a campanha eleitoral (reação de lideranças em Brasília)",
+          "publisher": "Conectado ao Poder",
+          "url": "https://conectadoaopoder.com.br/renan-santos-explica-motivos-para-nao-citar-deus-durante-a-campanha-eleitoral/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Data exata não capturada (2026). Diálogo explícito sobre o tema religioso na campanha, após debates e sabatina; tema também tratado por PlatôBR."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos datados: conferência do Banco Santander em São Paulo (17/08/2026) e agenda em Brasília (18/08) na primeira semana de campanha, dentro de 'agenda de contatos no mundo empresarial' (Gazeta do Povo); encontro na Câmara Americana de Comércio (AmCham) em São Paulo (10/09/2026, g1); diálogo público sobre a decisão de não citar Deus na campanha, com reação de lideranças políticas e religiosas (Conectado ao Poder, 2026). Não localizadas, no recorte 2025–2026, agendas com centrais sindicais ou com a oposição."
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Apoios de PL e Novo após suspensão da campanha (ago/2026); renúncia ao Fundo Eleitoral e vaquinha de ~R$ 1 mi (2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-17",
+          "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico' e chama decisão de Toffoli de 'ilegal' (Flávio e Zema saem em defesa)",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+          "publishedAt": "2026-08-31",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-30",
+          "title": "Renan Santos rejeita Fundo Eleitoral e quer bancar campanha com vaquinha (R$ 3,3 mi destinados ao Legislativo)",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/renan-santos-rejeita-fundo-eleitoral-e-quer-bancar-campanha-com-vaquinha/",
+          "publishedAt": "2026-07-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-51",
+          "title": "Renan Santos atrai empresários, mas apoio aberto ainda engatinha (agenda com Banco Santander e agenda em Brasília)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-economico-de-renan-santos-atrai-empresarios-mas-apoio-ainda-engatinha/",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Dia exato não capturado; publicado após o lançamento da candidatura (16/08/2026). Descreve a agenda de contatos no mundo empresarial: conferência do Banco Santander em SP (17/08) e agenda em Brasília (18/08); empresários elogiam o plano, mas apoio declarado ainda é escasso."
+        },
+        {
+          "id": "src-rs-07",
+          "title": "Partido Missão antecipa convenção e oficializa Renan Santos como candidato à Presidência",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/google/politica/eleicoes/2026/noticia/2026/07/20/partido-missao-antecipa-convencao.ghtml",
+          "publishedAt": "2026-07-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira candidatura a cargo público; antecipação por razões de segurança (ameaças de facções); escolta da PF."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos datados: Flávio Bolsonaro (PL) e Romeu Zema (Novo) saíram em defesa pública de Renan após a suspensão cautelar da campanha pelo relator do TSE (31/08/2026) — apoios pontuais, sem coligação; a campanha abriu mão dos R$ 3.307.679,85 do Fundo Eleitoral atribuídos ao Missão, destinando-os às candidaturas legislativas do partido, e passou a se financiar com doações e vaquinha on-line de ~R$ 1 milhão até 01/07/2026 (CNN); convenção antecipada de 20/07/2026 por razões de segurança, com negociação interna do calendário (g1); agenda de contatos empresariais com apoio declarado ainda escasso (Gazeta do Povo, ago/2026)."
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (MISSÃO, isolado — sem coligação ou federação)",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-06",
+          "title": "Renan Santos: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/renan-santos-14",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva derivada do TSE: nome completo, nº 14/MISSÃO, vice Coronel Medina, situação 'Deferido', superior incompleto, ocupação Empresário, nascimento 13/02/1984 (São Paulo), bens R$ 795.089,00, limite de gastos R$ 88.944.030,80."
+        },
+        {
+          "id": "src-rs-18",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Oficializa o quadro final de 12 chapas e o indeferimento da chapa Marçal/Avalanche (PRTB)."
+        },
+        {
+          "id": "src-rs-36",
+          "title": "Partido Missão — verbete (Wikipédia em português: bancada 1 dep. federal, 1 estadual, 3 vereadores; 29.911 filiados em ago/2026; 577 mil assinaturas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Partido_Miss%C3%A3o",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Verbete vivo; usado como índice; números de bancada também referidos pelo Congresso em Foco e Poder360."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Chapa pura do MISSÃO (nº 14) com vice também do partido (Coronel Medina); nenhuma federação ou coligação registrada para a Presidência. Apoios declarados pontuais de lideranças de PL e Novo (sup-rs-4) não alteram a composição da chapa registrada."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "articulacao",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "3% (Datafolha, 24/09) | 3% (Quaest, 28/09) | 4% (Datafolha, 21/08) | 3% (Quaest, 07/09) | 6,5% (AtlasIntel, set/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026, todas com publicação e data verificadas.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rs-55",
+          "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+          "publishedAt": "2026-09-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral",
+          "notes": "Encomendada por Globo e Folha; 2º turno: Lula 47% x Flávio 45%."
+        },
+        {
+          "id": "src-rs-56",
+          "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Quaest",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+          "publishedAt": "2026-09-28",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral",
+          "notes": "2.004 entrevistas, 24–27/09/2026, margem de 2 p.p.; 2º turno 42% x 42%."
+        },
+        {
+          "id": "src-rs-39",
+          "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+          "publishedAt": "2026-08-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+        },
+        {
+          "id": "src-rs-40",
+          "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+          "publishedAt": "2026-09-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-rs-41",
+          "title": "AtlasIntel divulga pesquisa para presidente da República (Renan Santos: 6,5%, 3º lugar em empate técnico com Cury)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-setembro-2026/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nas duas pesquisas mais recentes figura com 3%: Datafolha 24/09 (Lula 40%, Flávio 36%, Cury 5%, Caiado 4%, Renan 3%) e Quaest 28/09 (Lula 39%, Flávio 34%, Cury 4%, Caiado 4%, Renan 3%) — 5º lugar em ambas. AtlasIntel (set/2026) o mostrava em 6,5% e 3º lugar em empate técnico; Jota resumia a faixa em 3%–6%."
+    }
+  ],
+  "dataGaps": [
+    "propostas_com_custo, propostas_com_prazo e propostas_dependentes_congresso foram contadas sobre as 8 propostas prioritárias detalhadas no JSON (de 14 pilares do resumo executivo de 51 páginas); a obra integral do Livro Amarelo (~500 páginas) não foi analisada item a item.",
+    "equipe_gerida permanece sem valor numérico: partido e campanha não publicam quadro de pessoal e não há gabinete (sem cargo eletivo anterior) — proxy de estrutura partidária sem base de contagem.",
+    "DivulgaCandContas não foi aberto diretamente (web_extract indisponível na sessão); dados do TSE vieram de páginas oficiais e de imprensa que replica a plataforma.",
+    "Data exata de publicação não capturada em fontes de 2026 sem data no endereço (Gazeta do Povo sobre agenda empresarial; Conectado ao Poder sobre relação com religiosos; ISTOÉ/Jota já existentes)."
+  ]
+}

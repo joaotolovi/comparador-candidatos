@@ -841,7 +841,7 @@
       "name": "Pessoas/equipe sob gestão (servidores)",
       "displayValue": "≈400 mil servidores ativos; 673 mil no total do Poder Executivo (ativos, inativos e pensionistas)",
       "value": 400000,
-      "unit": "servidores",
+      "unit": "pessoas",
       "metricType": "number",
       "directionality": "higher_is_descriptively_more",
       "methodology": "Servidores sob gestão direta do Executivo estadual. O número de ativos (≈400 mil) vem de dado do Governo do Estado citado por site terceiro; a ALMG cita 673 mil servidores do Poder Executivo contemplados por revisão salarial (ativos, inativos e pensionistas civis e militares) — universo maior que o de ativos.",
@@ -913,7 +913,7 @@
     },
     {
       "id": "anos_legislativo",
-      "category": "articulacao",
+      "category": "historico-experiencia",
       "name": "Anos em cargos legislativos",
       "displayValue": "0 anos",
       "value": 0,
@@ -946,7 +946,8 @@
           "notes": "Histórico de candidaturas: apenas governador (2018, 2022) e presidente (2026)."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Zero é fato documentado (nunca ocupou mandato legislativo), não ausência de dado — categoria da métrica ajustada para 'historico-experiencia' (tabela canônica de 21 métricas — SPEC-ENRICA)."
     },
     {
       "id": "anos_federal",
@@ -1015,10 +1016,10 @@
     {
       "id": "propostas_total",
       "category": "plano",
-      "name": "Propostas/temas do plano de governo",
+      "name": "Propostas do plano de governo",
       "displayValue": "20 temas em 81 páginas (Plano Implacável)",
       "value": 20,
-      "unit": "temas",
+      "unit": "itens do plano",
       "metricType": "number",
       "directionality": "higher_is_descriptively_more",
       "methodology": "Nº de temas do plano registrado no TSE, conforme a CNN, que cobriu o envio do documento; não é contagem item a item de propostas (que não foi divulgada).",
@@ -1062,15 +1063,15 @@
       "id": "propostas_com_custo",
       "category": "plano",
       "name": "Propostas com custo estimado",
-      "displayValue": "Não informado na maior parte (g1); valores pontuais: fim dos fundos (R$ 6,3 bi de economia em 2026) e 'Sócios do Brasil' (R$ 1.000/nascido)",
-      "value": null,
+      "displayValue": "18% das 11 propostas-chave com custo estimado (2 de 11)",
+      "value": 18,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas com estimativa de custo própria. O g1 registra que o documento não apresenta estimativas de custo para a maior parte das propostas; contagem item a item não realizada.",
+      "methodology": "Contagem sobre as 11 propostas-chave detalhadas nesta ficha a partir do plano registrado no TSE (Plano Implacável, 20 temas, 81 páginas); classificação aproximada: 2 das 11 trazem valor monetário associado (fim do Fundo Eleitoral e do Fundo Partidário: economia de R$ 6,3 bi em 2026, citada no plano; Sócios do Brasil: R$ 1.000 por recém-nascido). Percentual arredondado ao inteiro.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "low",
-      "availability": "not_informed",
+      "availability": "available",
       "sources": [
         {
           "id": "src-zema-09",
@@ -1083,31 +1084,31 @@
           "notes": "'O documento não apresenta estimativas de custo nem prazos para a implementação da maior parte das propostas.'"
         },
         {
-          "id": "src-zema-14",
-          "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)",
-          "publisher": "Band (BandBandeirantes)",
-          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo",
-          "publishedAt": "2026",
+          "id": "src-zema-12",
+          "title": "Plano de governo Zema 2026 — PDF ('Propostas concretas para os maiores problemas do país')",
+          "publisher": "Poder360 (espelho do documento da campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+          "publishedAt": "2026-08",
           "accessedAt": "2026-09-29",
-          "sourceType": "imprensa",
-          "notes": "Valores pontuais: fundos somam R$ 6,3 bi em 2026; Sócios do Brasil R$ 1.000 por nascido; bens declarados R$ 178,7 mi."
+          "sourceType": "plano_de_governo"
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Contagem sobre as 11 propostas-chave desta ficha (não sobre os 20 temas íntegros do plano): a amostra cobre privatizações, segurança, previdência, judiciário, política externa, trabalho, transferências e gestão municipal — 2 com valor associado. O g1 registra ausência de estimativas de custo na maior parte do documento, coerente com a contagem."
     },
     {
       "id": "propostas_com_prazo",
       "category": "plano",
       "name": "Propostas com prazo",
-      "displayValue": "Não informado na maior parte (g1); prazo localizado apenas em 'Sócios do Brasil' (saque aos 18 anos)",
-      "value": null,
+      "displayValue": "9% das 11 propostas-chave com prazo declarado (1 de 11)",
+      "value": 9,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas com prazo definido; contagem por item não realizada. A imprensa registra ausência de prazos para a maior parte das medidas.",
+      "methodology": "Contagem sobre as 11 propostas-chave detalhadas nesta ficha a partir do plano registrado no TSE (20 temas, 81 páginas); classificação aproximada: apenas 1 das 11 traz prazo explícito (saque do programa 'Sócios do Brasil' aos 18 anos do beneficiário). Percentual arredondado ao inteiro.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "low",
-      "availability": "under_analysis",
+      "availability": "available",
       "sources": [
         {
           "id": "src-zema-09",
@@ -1125,24 +1126,26 @@
           "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
           "publishedAt": "2026-08-07",
           "accessedAt": "2026-09-29",
-          "sourceType": "imprensa"
+          "sourceType": "imprensa",
+          "notes": "Plano divulgado na sexta-feira 07/08/2026."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Contagem sobre as 11 propostas-chave desta ficha (não sobre os 20 temas íntegros). Coerente com o g1: prazos ausentes para a maior parte das medidas."
     },
     {
       "id": "propostas_dependentes_congresso",
       "category": "plano",
       "name": "Propostas prioritárias que dependem do Congresso",
-      "displayValue": "Contagem do plano completo não disponível; nas 11 propostas-chave desta ficha, todas exigem instrumento legal (lei/PEC)",
-      "value": null,
+      "displayValue": "100% das 11 propostas-chave dependem de lei/PEC (11 de 11)",
+      "value": 100,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei ou PEC. Ampla revisão do plano não contada; a amostra desta ficha (11 propostas) é 11/11 dependentes de Congresso, mas não representa contagem do documento todo.",
-      "evidenceStatus": "indeterminado",
+      "methodology": "Contagem sobre as 11 propostas-chave detalhadas nesta ficha a partir do plano registrado no TSE; classificação aproximada: as 11 têm instrumento legal (lei ordinária/complementar ou PEC), conforme o campo dependsOnCongress da própria ficha e a leitura do g1 de que 'parte das medidas dependeria de aprovação do Congresso e, em alguns casos, de mudanças na Constituição'. Percentual arredondado ao inteiro.",
+      "evidenceStatus": "parcial",
       "confidenceLevel": "low",
-      "availability": "under_analysis",
+      "availability": "available",
       "sources": [
         {
           "id": "src-zema-09",
@@ -1155,6 +1158,16 @@
           "notes": "'Parte das medidas dependeria de aprovação do Congresso e, em alguns casos, de mudanças na Constituição.'"
         },
         {
+          "id": "src-zema-11",
+          "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+          "publisher": "Congresso em Foco",
+          "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Data exata não capturada."
+        },
+        {
           "id": "src-zema-12",
           "title": "Plano de governo Zema 2026 — PDF",
           "publisher": "Poder360 (espelho do documento da campanha)",
@@ -1164,11 +1177,12 @@
           "sourceType": "plano_de_governo"
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Contagem sobre as 11 propostas-chave desta ficha (não sobre os 20 temas íntegros): todas exigem instrumento legal — privatizações e saída do BRICS via lei/PEC, fim dos fundos via PEC, previdência e judiciário via PEC, maioridade penal e regime de contratação via lei. Coerente com a leitura do g1 de que parte das medidas depende do Congresso, em alguns casos de emenda constitucional."
     },
     {
       "id": "registro_tse",
-      "category": "integridade",
+      "category": "articulacao",
       "name": "Situação do registro de candidatura no TSE",
       "displayValue": "Deferido — TSE, unanimidade, sessão virtual extraordinária de 02/09/2026",
       "value": null,
@@ -1212,7 +1226,7 @@
         }
       ],
       "updatedAt": "2026-09-29",
-      "context": "Em 02/09/2026 o O Tempo ainda listava a candidatura como 'Em Julgamento' (atualização de 02/09, 16h11), coerente com o julgamento no mesmo dia. Não foram localizadas impugnações de mérito ou cassações; a Aije de 2022 (propaganda institucional) foi julgada improcedente quanto à cassação/abuso (ver institutionalHistory)."
+      "context": "Em 02/09/2026 o O Tempo ainda listava a candidatura como 'Em Julgamento' (atualização de 02/09, 16h11), coerente com o julgamento no mesmo dia. Não foram localizadas impugnações de mérito ou cassações; a Aije de 2022 (propaganda institucional) foi julgada improcedente quanto à cassação/abuso (ver institutionalHistory). Categoria da métrica ajustada para 'articulacao' (tabela canônica — SPEC-ENRICA)."
     },
     {
       "id": "bens_declarados",
@@ -1302,18 +1316,38 @@
     },
     {
       "id": "intencao_voto_recente",
-      "category": "historico-experiencia",
+      "category": "articulacao",
       "name": "Intenção de voto — pesquisas recentes (1º turno)",
-      "displayValue": "3% (Datafolha, 21/08) | 2%–3% nas pesquisas recentes (síntese da Wikipédia, set/2026)",
+      "displayValue": "1% (Quaest, 28/09) | 1% (Datafolha, 24/09) | 3% (Datafolha, 21/08)",
       "value": null,
       "unit": null,
       "metricType": "text",
       "directionality": "neutral",
-      "methodology": "Últimas sondagens estimuladas de 1º turno localizadas para Zema antes de 29/09/2026.",
+      "methodology": "Últimas sondagens estimuladas de 1º turno localizadas para Zema e divulgadas até 29/09/2026, em ordem cronológica inversa.",
       "evidenceStatus": "confirmado",
       "confidenceLevel": "medium",
       "availability": "available",
       "sources": [
+        {
+          "id": "src-zema-50",
+          "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Quaest",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-1-turno-28-setembro-recortes.ghtml",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Campo 24–27/09/2026; 2.004 entrevistas; margem ±2 p.p.; registro BR-06520/2026."
+        },
+        {
+          "id": "src-zema-51",
+          "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+          "publishedAt": "2026-09-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Campo 22–23/09/2026; registro BR-00304/2026."
+        },
         {
           "id": "src-zema-38",
           "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
@@ -1323,6 +1357,88 @@
           "accessedAt": "2026-09-29",
           "sourceType": "imprensa",
           "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Série recente: 3% (Datafolha, 21/08) → 1% (Datafolha, 24/09) e 1% (Quaest, 28/09). Categoria da métrica ajustada para 'articulacao' (tabela canônica — SPEC-ENRICA). Os dois levantamentos de set/2026 situam Zema fora das hipóteses de segundo turno e abaixo do empate técnico; no cenário mineiro, a mesma Quaest de jul/2026 situou Zema em 12% no recorte de MG."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "52% aprovam / 41% desaprovam (Genial/Quaest, campo 22–26/07/2026)",
+      "value": 52,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Avaliação da gestão de Romeu Zema à frente de Minas Gerais na pesquisa Genial/Quaest divulgada em jul/2026: campo 22–26/07/2026, 1.482 eleitores em 69 municípios de MG, entrevistas domiciliares, margem de ±3 p.p., confiança 95%, registros TSE MG-03490/2026 e BR-09333/2026. Pergunta de aprovação/desaprovação do governo (ex-governador), divulgada pela própria pesquisadora e confirmada pelo Valor.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-zema-48",
+          "title": "Genial/Quaest: como estão as eleições em Minas e Pernambuco",
+          "publisher": "Quaest (pesquisadora)",
+          "url": "https://quaest.com.br/pesquisa-genial-quaest-eleicoes-em-minas-e-pernambuco/",
+          "publishedAt": "2026-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral"
+        },
+        {
+          "id": "src-zema-49",
+          "title": "Quaest: veja os índices de aprovação e desaprovação dos governos de 10 estados",
+          "publisher": "Valor Econômico — dados Genial/Quaest",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/01/quaest-veja-os-indices-de-aprovacao-e-desaprovacao-dos-governos-de-10-estados.ghtml",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Mesmos números da rodada anterior de abril/2026 (52% de aprovação e 41% de desaprovação), segundo o Valor. Mesma pesquisa: 80% dos bolsonaristas aprovam a gestão de Zema e 55% dos lulistas aprovam (recorte setorial). Zema deixou o governo de MG em 22/03/2026 (renúncia para disputar a Presidência); é a avaliação mais recente da gestão dele em MG localizada até 29/09/2026 (não há rodada de ago/set/2026 para MG). O governo do sucessor, Mateus Simões, tem 36% de aprovação na mesma rodada (apenas para contexto da série — métrica de outro candidato)."
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "6.094.136 votos (56,18% dos válidos) no 1º turno de 2022",
+      "value": 6094136,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Votos nominais na eleição estadual de Minas Gerais de 2022 (02/10/2022) — última disputa antes de 2026, na qual Zema foi reeleito em primeiro turno com 56,18% dos votos válidos. Números conferidos em ficha eleitoral com base no TSE (Hub Político), em resultado agregado de 2022 e em verbete do candidato.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-zema-39",
+          "title": "Zema (NOVO) 30 — ficha e histórico eleitoral (dados TSE)",
+          "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+          "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+          "publishedAt": "2026-09-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Votos: 2022 6.094.136; 2018 (2º turno) 6.963.806; soma de carreira 17.196.909. Agregador de dados abertos do TSE — conferência direta no TSE não realizada."
+        },
+        {
+          "id": "src-zema-52",
+          "title": "Eleições 2022: veja os candidatos eleitos nas eleições",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/eleicoes-2022/veja-os-candidatos-eleitos-nas-eleicoes-2022/",
+          "publishedAt": "2022-10-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral"
+        },
+        {
+          "id": "src-zema-53",
+          "title": "Eleições estaduais em Minas Gerais em 2022",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_estaduais_em_Minas_Gerais_em_2022",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral"
         },
         {
           "id": "src-zema-01",
@@ -1332,11 +1448,214 @@
           "publishedAt": "2026-09-29",
           "accessedAt": "2026-09-29",
           "sourceType": "imprensa",
-          "notes": "'A candidatura de Zema permaneceu em patamares baixos, geralmente entre 2% e 3%, sem conseguir furar a polarização entre Lula e Flávio Bolsonaro.'"
+          "notes": "Percentuais: 42,73% no 1º turno de 2018; 56,18% dos válidos em 2022."
         }
       ],
       "updatedAt": "2026-09-29",
-      "context": "Pesquisas de set/2026 com número de Zema específico (Quaest, AtlasIntel) não localizadas nesta rodada."
+      "context": "Série: 2018 — 42,73% dos votos válidos no 1º turno e vitória no 2º turno com 6.963.806 votos; 2022 — 6.094.136 votos (56,18% dos válidos) no 1º turno. Soma de carreira de 17.196.909 votos segundo agregador com base em dados do TSE — conferência direta no TSE/Tribunal de contas eleitoral ainda pendente."
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "—",
+      "value": null,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Nunca exerceu mandato legislativo (vereador, deputado estadual ou federal), portanto não há leis de sua autoria como parlamentar. A ausência de carreira legislativa é fato documentado, não lacuna de pesquisa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-zema-01",
+          "title": "Romeu Zema — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Trajetória sem mandatos legislativos: estreia direta no Executivo em 2018."
+        },
+        {
+          "id": "src-zema-39",
+          "title": "Zema (NOVO) 30 — ficha e histórico eleitoral (dados TSE)",
+          "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+          "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+          "publishedAt": "2026-09-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Histórico de candidaturas: apenas governador (2018, 2022) e presidente (2026)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nunca foi vereador, deputado estadual nem deputado federal — as candidaturas registradas na Justiça Eleitoral são apenas para governador de MG (2018 e 2022) e Presidência da República (2026)."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Diálogo com a indústria (CNI, jun/2026), com prefeitos na Marcha dos Prefeitos (mai/2026) e com o agronegócio em MG (mai/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "dataPresentation": "notes_only",
+      "sources": [
+        {
+          "id": "src-zema-54",
+          "title": "A indústria na agenda dos presidenciáveis (evento de 22/06/2026)",
+          "publisher": "CNI — Confederação Nacional da Indústria",
+          "url": "https://cni.portaldaindustria.com.br/institucional/propostas-da-industria-para-as-eleicoes-2026",
+          "publishedAt": "2026-06-22",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial"
+        },
+        {
+          "id": "src-zema-55",
+          "title": "Zema critica 'abandono federativo' e cobra mais recursos para municípios em desastre climático",
+          "publisher": "Rádio Itatiaia",
+          "url": "https://www.itatiaia.com.br/politica/zema-critica-abandono-federativo-e-cobra-mais-recursos-para-municipios-em-desastres-climatico/",
+          "publishedAt": "2026-05-20",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-zema-56",
+          "title": "Flávio, Zema e Caiado buscam apoio do agronegócio em Minas Gerais",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/noticia/2026/05/29/flavio-zema-e-caiado-buscam-apoio-do-agronegocio-em-minas-gerais.ghtml",
+          "publishedAt": "2026-05-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-zema-58",
+          "title": "O embate de Zema com prefeitos que pode respingar nas eleições de 2026",
+          "publisher": "Estadão — Coluna do Estadão",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-embate-de-zema-com-prefeitos-que-pode-respingar-nas-eleicoes-de-2026/",
+          "publishedAt": "2025-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos documentados (2025–2026): (1) 22/06/2026 — 'A Indústria na Agenda dos Presidenciáveis' (CNI, Centro de Convenções Ulysses Guimarães, Brasília), roteiro com apresentação de plataforma, perguntas e respostas do setor industrial diante de mais de mil representantes; (2) 20/05/2026 — discurso na Marcha dos Prefeitos, em Brasília, com pauta federativa (repasses, defesa civil, autonomia municipal); (3) mai/2026 — eventos com o agronegócio em MG (Eloos Itatiaia e abertura da Megaleite 2026), setor com delegação forte; (4) contraponto documentado: a Associação Mineira de Municípios entregou demandas em 23/09/2025 e, um mês depois, nenhuma havia sido atendida ou encaminhada, segundo o presidente da AMM (Estadão). Descrição de agendas verificadas; não é avaliação da qualidade do diálogo."
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Orçamento de MG 2026 sancionado com veto (jan/2026), revisão salarial na ALMG (2026) e apoio do PSD à chapa (mai/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "dataPresentation": "notes_only",
+      "sources": [
+        {
+          "id": "src-zema-06",
+          "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)",
+          "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+          "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/",
+          "publishedAt": "2025-12-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        },
+        {
+          "id": "src-zema-07",
+          "title": "Orçamento é sancionado com um veto parcial",
+          "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+          "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-e-sancionado-com-um-veto-parcial/",
+          "publishedAt": "2026-01-15",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        },
+        {
+          "id": "src-zema-34",
+          "title": "Plenário aprova em 1º turno revisões salariais dos servidores estaduais (673 mil no Poder Executivo: ativos, inativos e pensionistas civis e militares)",
+          "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+          "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Plenario-aprova-em-1-turno-revisoes-salariais-dos-servidores-estaduais/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        },
+        {
+          "id": "src-zema-56",
+          "title": "Flávio, Zema e Caiado buscam apoio do agronegócio em Minas Gerais",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/noticia/2026/05/29/flavio-zema-e-caiado-buscam-apoio-do-agronegocio-em-minas-gerais.ghtml",
+          "publishedAt": "2026-05-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-zema-57",
+          "title": "Romeu Zema escolhe Eduardo Girão, colega do partido Novo, como candidato a vice",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/04/romeu-zema-escolhe-eduardo-girao-colega-do-partido-novo-como-candidato-a-vice.ghtml",
+          "publishedAt": "2026-08-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-zema-05",
+          "title": "Lei nº 25.698, de 14/01/2026 (orçamento de MG para 2026)",
+          "publisher": "Assembleia Legislativa de Minas Gerais (ALMG)",
+          "url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25698/2026/",
+          "publishedAt": "2026-01-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "estadual"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos documentados: (1) orçamento de MG para 2026 — PL 4.527/25 do Executivo aprovado na ALMG em 10/12/2025 e sancionado com veto parcial em 15/01/2026 (receita de R$ 141,7 bi, despesa de R$ 146,9 bi, déficit de R$ 5,2 bi); (2) revisões salariais dos servidores estaduais (673 mil no Poder Executivo, ativos, inativos e pensionistas) — proposta do Executivo aprovada em 1º turno no Plenário da ALMG em 2026; (3) Regime de Recuperação Fiscal: refinanciamento de dívida de R$ 160 bilhões com a União, formalização condicionada à aprovação na ALMG (jul/2024); (4) na sucessão de 2026, o PSD de Mateus Simões (governador e vice de Zema) tem aval do partido para apoiar a candidatura de Zema (Valor, 29/05/2026), enquanto a chapa presidencial ficou no NOVO sem coligação (Valor, 04/08/2026); (5) reforma da previdência estadual (2020) negociada com alteração da proposta original na ALMG. Também registrados: veto quase integral do reajuste de servidores de 2020 (episódio de ruído com a bancada do PT) e demandas da AMM sem resposta em 2025 (Estadão)."
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (NOVO, coligação 'partido isolado')",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-zema-02",
+          "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Coligação 'partido isolado'; nº 30, vice Eduardo Girão, situação 'Deferido'."
+        },
+        {
+          "id": "src-zema-57",
+          "title": "Romeu Zema escolhe Eduardo Girão, colega do partido Novo, como candidato a vice",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/04/romeu-zema-escolhe-eduardo-girao-colega-do-partido-novo-como-candidato-a-vice.ghtml",
+          "publishedAt": "2026-08-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Chapa Romeu Zema/Eduardo Girão, ambos do NOVO, registrada para a Presidência sem coligação e sem federação — único candidato de partido isolado entre os 12 registros deferidos em 02/09/2026. Registro deferido em 02/09/2026 por unanimidade do Plenário do TSE."
     }
   ],
   "currentSupport": [
@@ -1791,51 +2110,556 @@
     }
   ],
   "sources": [
-    { "id": "src-zema-01", "title": "Romeu Zema — verbete (Wikipédia em português)", "publisher": "Wikipédia", "url": "https://pt.wikipedia.org/wiki/Romeu_Zema", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Usada como índice/arranjo; fatos centrais conferidos em fontes primárias ou imprensa quando possível. Também é a origem do dump em research/_raw/Romeu_Zema_pt.txt." },
-    { "id": "src-zema-02", "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)", "publisher": "Estadão (dados: TSE)", "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Nota: nascimento registrado como 27/10/1964, divergindo de O Tempo/Wikipédia/Wikidata (28/10/1964)." },
-    { "id": "src-zema-03", "title": "Zema 30 para presidente da República em 2026 — perfil (dados TSE)", "publisher": "O Tempo (dados: TSE)", "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/presidente/zema-30", "publishedAt": "2026-09-02", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Nascimento 28/10/1964; situação 'Em Julgamento' em 02/09/2026 16h11 (anterior ao deferimento do mesmo dia); bens R$ 178.707.610,09." },
-    { "id": "src-zema-04", "title": "LOA 2026 — Assembleia Legislativa de Minas Gerais", "publisher": "ALMG", "url": "https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/loa/leis/LOA-2026", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "estadual", "notes": "Página viva." },
-    { "id": "src-zema-05", "title": "Lei nº 25.698, de 14/01/2026 (orçamento de MG 2026)", "publisher": "ALMG", "url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25698/2026/", "publishedAt": "2026-01-14", "accessedAt": "2026-09-29", "sourceType": "estadual", "notes": "Valores exatos de receita/despesa; sanção assinada por Romeu Zema Neto. Divergência de número da lei com a notícia da ALMG (25.689/2026)." },
-    { "id": "src-zema-06", "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)", "publisher": "ALMG", "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/", "publishedAt": "2025-12-10", "accessedAt": "2026-09-29", "sourceType": "estadual" },
-    { "id": "src-zema-07", "title": "Orçamento é sancionado com um veto parcial", "publisher": "ALMG", "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-e-sancionado-com-um-veto-parcial/", "publishedAt": "2026-01-15", "accessedAt": "2026-09-29", "sourceType": "estadual", "notes": "Cita Lei 25.689/2026 publicada no Diário Oficial." },
-    { "id": "src-zema-08", "title": "Zema sanciona orçamento de MG para 2026 com déficit de R$ 5,2 bilhões", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/01/15/zema-sanciona-orcamento-de-mg-para-2026-com-deficit-de-r-52-bilhoes.ghtml", "publishedAt": "2026-01-15", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-09", "title": "Plano de governo: Zema quer arma no campo e privatizar estatais", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml", "publishedAt": "2026-08-11", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-10", "title": "Novo oficializa candidatura de Zema no TSE e apresenta plano de governo", "publisher": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/eleicoes/novo-oficializa-candidatura-de-zema-no-tse-e-apresenta-plano-de-governo", "publishedAt": "2026-08-08", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "81 páginas e 20 temas; protocolo no TSE em 08/08/2026." },
-    { "id": "src-zema-11", "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics", "publisher": "Congresso em Foco", "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Data exata não capturada." },
-    { "id": "src-zema-12", "title": "Plano de governo Zema 2026 — PDF", "publisher": "Poder360 (espelho do documento da campanha)", "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "plano_de_governo", "notes": "Mês inferido da URL." },
-    { "id": "src-zema-13", "title": "Planos de governo dos candidatos à Presidência — Eleições 2026", "publisher": "TSE", "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Página viva; web_extract indisponível nesta rodada." },
-    { "id": "src-zema-14", "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)", "publisher": "Band", "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Data exata não capturada; composição dos bens." },
-    { "id": "src-zema-15", "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos", "publisher": "Correio do Povo", "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505", "publishedAt": "2026-08-07", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-16", "title": "TSE aprova registros de seis candidatos à Presidência da República", "publisher": "Agência Brasil (EBC)", "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica", "publishedAt": "2026-09-02", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-17", "title": "TSE aprova registros de Lula, Flávio Bolsonaro, Zema e mais três candidatos à Presidência", "publisher": "O Globo", "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/02/tse-aprova-registros-de-lula-flavio-bolsonaro-zema-e-mais-tres-candidatos-a-presidencia.ghtml", "publishedAt": "2026-09-02", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-18", "title": "Zema (NOVO) — candidato a presidente do Brasil em 2026", "publisher": "Nexo Jornal (dados: TSE)", "url": "https://candidatos.nexojornal.com.br/2026/brasil/zema-280002539826/", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
-    { "id": "src-zema-19", "title": "Eleições 2026: Ficha de Zema (NOVO)", "publisher": "Folha de S.Paulo", "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/zema-280002539826.shtml", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Página viva; data exata não capturada." },
-    { "id": "src-zema-20", "title": "Senador Eduardo Girão — perfil oficial", "publisher": "Senado Federal", "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "legislativo", "notes": "Nascimento 25/09/1972; Fortaleza/CE; nome civil Luis Eduardo Grangeiro Girão." },
-    { "id": "src-zema-21", "title": "Bancada dos partidos — Portal da Câmara dos Deputados", "publisher": "Câmara dos Deputados", "url": "https://www.camara.leg.br/internet/deputado/bancada.asp", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "legislativo", "notes": "Página viva: NOVO com 5 cadeiras." },
-    { "id": "src-zema-22", "title": "Quem é Eduardo Girão, senador anunciado para vice de Romeu Zema", "publisher": "Congresso em Foco", "url": "https://www.congressoemfoco.com.br/noticia/121013/quem-e-eduardo-girao-senador-anunciado-para-vice-de-romeu-zema", "publishedAt": "2026-08-04", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Data aproximada (anúncio em 'terça-feira, 4'); empresário e ex-presidente de clube esportivo; chapa 'puro-sangue' do NOVO." },
-    { "id": "src-zema-23", "title": "Eleições 2026: 32 dos 54 senadores tentam a reeleição ao Senado", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/eleicoes-2026-senado-reeleicao.ghtml", "publishedAt": "2026-08-19", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-24", "title": "TCE emite parecer pela aprovação das contas de 2021 do governador Romeu Zema", "publisher": "TCE-MG", "url": "https://www.tce.mg.gov.br/TCE-emite-parecer-pela-aprovacao-das-contas-de-2021-do-governador-Romeu-Zema.html/Noticia/1111627249", "publishedAt": "2024-05-22", "accessedAt": "2026-09-29", "sourceType": "tribunal_de_contas" },
-    { "id": "src-zema-25", "title": "TCE-MG aprova com ressalva contas de 2019 do governo Zema", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/mg/minas-gerais/noticia/2021/05/26/tce-mg-aprova-com-ressalva-contas-de-2019-do-governo-zema.ghtml", "publishedAt": "2021-05-26", "accessedAt": "2026-09-29", "sourceType": "tribunal_de_contas" },
-    { "id": "src-zema-26", "title": "TSE nega recurso que pedia cassação de Zema, mas aplica multa", "publisher": "O Globo", "url": "https://oglobo.globo.com/politica/noticia/2024/05/14/tse-nega-recurso-que-pedia-cassacao-de-zema-mas-aplica-multa.ghtml", "publishedAt": "2024-05-14", "accessedAt": "2026-09-29", "sourceType": "tribunal" },
-    { "id": "src-zema-27", "title": "TSE rejeita cassação, mas multa Zema por propaganda em sites oficiais na eleição", "publisher": "Folha de S.Paulo", "url": "https://www1.folha.uol.com.br/poder/2024/05/tse-rejeita-cassacao-mas-multa-zema-por-propaganda-em-sites-oficiais-na-eleicao.shtml", "publishedAt": "2024-05-14", "accessedAt": "2026-09-29", "sourceType": "tribunal" },
-    { "id": "src-zema-28", "title": "TSE afasta abuso de poder, mas multa Zema por publicidade institucional", "publisher": "ConJur", "url": "https://www.conjur.com.br/2024-mai-14/tse-afasta-abuso-de-poder-mas-multa-zema-por-publicidade-institucional/", "publishedAt": "2024-05-14", "accessedAt": "2026-09-29", "sourceType": "tribunal" },
-    { "id": "src-zema-29", "title": "Aumento de salário de Zema descumpre RRF, diz parecer", "publisher": "Folha de S.Paulo", "url": "https://www1.folha.uol.com.br/poder/2024/07/aumento-de-salario-de-zema-e-secretarios-descumpre-regras-diz-conselho.shtml", "publishedAt": "2024-07-29", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-30", "title": "Zema defende aumento de 300% para ele, mesmo com recuperação fiscal; conselho vê irregularidade", "publisher": "Estadão", "url": "https://www.estadao.com.br/politica/romeu-zema-governador-minas-gerais-aumento-300-representantes-da-fazenda-e-do-tcu-descumpre-rrf-recuperacao-fiscal-nprp/", "publishedAt": "2024", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Data exata não capturada." },
-    { "id": "src-zema-31", "title": "Conselho aponta que aumento salarial de 300% de Zema, vice e secretários viola RRF", "publisher": "O Tempo", "url": "https://www.otempo.com.br/politica/2024/7/23/conselho-aponta-que-aumento-salarial-de-300--de-zema--vice-e-sec", "publishedAt": "2024-07-23", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-32", "title": "Quem é Romeu Zema, candidato do Novo à Presidência em 2026", "publisher": "GZH", "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-romeu-zema-candidato-do-novo-a-presidencia-em-2026-cmor8b6ad002p015fmlxf5scx.html", "publishedAt": "2026-08-19", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-33", "title": "Romeu Zema (Q57092113) — Wikidata", "publisher": "Wikidata", "url": "https://www.wikidata.org/wiki/Q57092113", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "estatistico" },
-    { "id": "src-zema-34", "title": "Plenário aprova em 1º turno revisões salariais dos servidores estaduais", "publisher": "ALMG", "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Plenario-aprova-em-1-turno-revisoes-salariais-dos-servidores-estaduais/", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "estadual", "notes": "Data exata não capturada; 673 mil servidores do Poder Executivo (ativos, inativos e pensionistas civis e militares)." },
-    { "id": "src-zema-35", "title": "Calendário de pagamento servidor público Minas Gerais 2025", "publisher": "Konsi (citando Governo do Estado)", "url": "https://www.konsi.com.br/postagens/calendario-de-pagamento-servidor-publico-minas-gerais-2025", "publishedAt": "2025", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Fonte indireta: '400 mil servidores ativos' segundo dados do Governo do Estado." },
-    { "id": "src-zema-36", "title": "Partido Novo projeta votação histórica nas eleições de 2026", "publisher": "Gazeta do Povo", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/partido-novo-projeta-votacao-historica/", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Data exata não capturada." },
-    { "id": "src-zema-37", "title": "PSB, Podemos, PSDB e Novo terão todas as cadeiras no Senado em disputa", "publisher": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/eleicoes/psb-podemos-psdb-e-novo-terao-todas-as-cadeiras-no-senado-em-disputa/", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Data exata não capturada; sugere cadeiras do NOVO no Senado em disputa (número exato não extraído)." },
-    { "id": "src-zema-38", "title": "Datafolha 21/08/2026: Lula 39%; Flávio 33%; Caiado 5%; Renan Santos 4%; Zema 3%", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml", "publishedAt": "2026-08-21", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-39", "title": "Zema (NOVO) 30 — ficha e histórico eleitoral", "publisher": "Hub Político (dados: TSE/DivulgaCand)", "url": "https://hubpolitico.com.br/perfil/zema/informacoes", "publishedAt": "2026-09-25", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Agregador de dados abertos do TSE; coleta em 25/09/2026." },
-    { "id": "src-zema-40", "title": "File:Romeu Zema 2025.jpg — Wikimedia Commons", "publisher": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Romeu_Zema_2025.jpg", "publishedAt": "2025", "accessedAt": "2026-09-29", "sourceType": "estatistico", "notes": "Foto CC-BY-4.0 (Jantar Anual do CLP, 2025); usada em photoUrl via Special:FilePath." },
-    { "id": "src-zema-42", "title": "'Plano Implacável': veja as propostas de Zema na disputa pela presidência", "publisher": "Estado de Minas", "url": "http://www.em.com.br/politica/2026/08/7475589-plano-implacavel-veja-as-propostas-de-zema-na-disputa-pela-presidencia.html", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Mês; dia exato não capturado." },
-    { "id": "src-zema-43", "title": "Quanto ganham o presidente, governadores e parlamentares", "publisher": "UOL", "url": "https://economia.uol.com.br/noticias/redacao/2025/06/30/quanto-ganham-o-presidente-governadores-e-parlamentares.htm", "publishedAt": "2025-06-30", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Remuneração do governador de MG: R$ 41.845,49." },
-    { "id": "src-zema-45", "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico'... (Flávio e Zema saem em defesa)", "publisher": "O Globo", "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml", "publishedAt": "2026-08-31", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-zema-46", "title": "Rendimentos do fundo partidário são trunfo do Novo para 2024", "publisher": "Estado de Minas", "url": "https://em.com.br/app/noticia/politica/2023/03/05/interna_politica,1464800/rendimentos-do-fundo-partidario-sao-trunfo-do-novo-para-2024.shtml", "publishedAt": "2023-03-05", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "NOVO não atingiu a cláusula de barreira; acesso ao Fundo Eleitoral vetado pelo partido." },
-    { "id": "src-zema-47", "title": "Tesouro Nacional a Zema: reajuste de 300% contraria RRF", "publisher": "Estado de Minas", "url": "https://www.em.com.br/politica/2024/06/6883764-tesouro-nacional-a-zema-reajuste-de-300-contraria-rrf.html", "publishedAt": "2024-06-24", "accessedAt": "2026-09-29", "sourceType": "imprensa" }
+    {
+      "id": "src-zema-01",
+      "title": "Romeu Zema — verbete (Wikipédia em português)",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Romeu_Zema",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Usada como índice/arranjo; fatos centrais conferidos em fontes primárias ou imprensa quando possível. Também é a origem do dump em research/_raw/Romeu_Zema_pt.txt."
+    },
+    {
+      "id": "src-zema-02",
+      "title": "Zema: candidato a presidente em 2026 — perfil com dados do TSE (DivulgaCandContas)",
+      "publisher": "Estadão (dados: TSE)",
+      "url": "https://www.estadao.com.br/politica/eleicoes/2026/candidatos-br/presidente/zema-30",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Nota: nascimento registrado como 27/10/1964, divergindo de O Tempo/Wikipédia/Wikidata (28/10/1964)."
+    },
+    {
+      "id": "src-zema-03",
+      "title": "Zema 30 para presidente da República em 2026 — perfil (dados TSE)",
+      "publisher": "O Tempo (dados: TSE)",
+      "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/presidente/zema-30",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Nascimento 28/10/1964; situação 'Em Julgamento' em 02/09/2026 16h11 (anterior ao deferimento do mesmo dia); bens R$ 178.707.610,09."
+    },
+    {
+      "id": "src-zema-04",
+      "title": "LOA 2026 — Assembleia Legislativa de Minas Gerais",
+      "publisher": "ALMG",
+      "url": "https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/loa/leis/LOA-2026",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Página viva."
+    },
+    {
+      "id": "src-zema-05",
+      "title": "Lei nº 25.698, de 14/01/2026 (orçamento de MG 2026)",
+      "publisher": "ALMG",
+      "url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25698/2026/",
+      "publishedAt": "2026-01-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Valores exatos de receita/despesa; sanção assinada por Romeu Zema Neto. Divergência de número da lei com a notícia da ALMG (25.689/2026)."
+    },
+    {
+      "id": "src-zema-06",
+      "title": "Orçamento do Estado para 2026 é aprovado (PL 4.527/25)",
+      "publisher": "ALMG",
+      "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/",
+      "publishedAt": "2025-12-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual"
+    },
+    {
+      "id": "src-zema-07",
+      "title": "Orçamento é sancionado com um veto parcial",
+      "publisher": "ALMG",
+      "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-e-sancionado-com-um-veto-parcial/",
+      "publishedAt": "2026-01-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Cita Lei 25.689/2026 publicada no Diário Oficial."
+    },
+    {
+      "id": "src-zema-08",
+      "title": "Zema sanciona orçamento de MG para 2026 com déficit de R$ 5,2 bilhões",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/01/15/zema-sanciona-orcamento-de-mg-para-2026-com-deficit-de-r-52-bilhoes.ghtml",
+      "publishedAt": "2026-01-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-09",
+      "title": "Plano de governo: Zema quer arma no campo e privatizar estatais",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/plano-de-governo-romeu-zema-eleicoes-2026-propostas.ghtml",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-10",
+      "title": "Novo oficializa candidatura de Zema no TSE e apresenta plano de governo",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/novo-oficializa-candidatura-de-zema-no-tse-e-apresenta-plano-de-governo",
+      "publishedAt": "2026-08-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "81 páginas e 20 temas; protocolo no TSE em 08/08/2026."
+    },
+    {
+      "id": "src-zema-11",
+      "title": "Plano de Zema prevê 'choque fiscal', limitação ao STF e saída do Brics",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/121274/plano-de-zema-preve-choque-fiscal--limitacao-ao-stf-e-saida-do-brics",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada."
+    },
+    {
+      "id": "src-zema-12",
+      "title": "Plano de governo Zema 2026 — PDF",
+      "publisher": "Poder360 (espelho do documento da campanha)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Zema_2026.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Mês inferido da URL."
+    },
+    {
+      "id": "src-zema-13",
+      "title": "Planos de governo dos candidatos à Presidência — Eleições 2026",
+      "publisher": "TSE",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Página viva; web_extract indisponível nesta rodada."
+    },
+    {
+      "id": "src-zema-14",
+      "title": "Eleições 2026: conheça as propostas e o perfil de Romeu Zema (Novo)",
+      "publisher": "Band",
+      "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-romeu-zema-novo",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada; composição dos bens."
+    },
+    {
+      "id": "src-zema-15",
+      "title": "Zema propõe saída dos Brics, privatizações e R$ 1 mil a nascidos",
+      "publisher": "Correio do Povo",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-a-nascidos-1.1737505",
+      "publishedAt": "2026-08-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-16",
+      "title": "TSE aprova registros de seis candidatos à Presidência da República",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-17",
+      "title": "TSE aprova registros de Lula, Flávio Bolsonaro, Zema e mais três candidatos à Presidência",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/02/tse-aprova-registros-de-lula-flavio-bolsonaro-zema-e-mais-tres-candidatos-a-presidencia.ghtml",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-18",
+      "title": "Zema (NOVO) — candidato a presidente do Brasil em 2026",
+      "publisher": "Nexo Jornal (dados: TSE)",
+      "url": "https://candidatos.nexojornal.com.br/2026/brasil/zema-280002539826/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral"
+    },
+    {
+      "id": "src-zema-19",
+      "title": "Eleições 2026: Ficha de Zema (NOVO)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/zema-280002539826.shtml",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Página viva; data exata não capturada."
+    },
+    {
+      "id": "src-zema-20",
+      "title": "Senador Eduardo Girão — perfil oficial",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Nascimento 25/09/1972; Fortaleza/CE; nome civil Luis Eduardo Grangeiro Girão."
+    },
+    {
+      "id": "src-zema-21",
+      "title": "Bancada dos partidos — Portal da Câmara dos Deputados",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Página viva: NOVO com 5 cadeiras."
+    },
+    {
+      "id": "src-zema-22",
+      "title": "Quem é Eduardo Girão, senador anunciado para vice de Romeu Zema",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/121013/quem-e-eduardo-girao-senador-anunciado-para-vice-de-romeu-zema",
+      "publishedAt": "2026-08-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data aproximada (anúncio em 'terça-feira, 4'); empresário e ex-presidente de clube esportivo; chapa 'puro-sangue' do NOVO."
+    },
+    {
+      "id": "src-zema-23",
+      "title": "Eleições 2026: 32 dos 54 senadores tentam a reeleição ao Senado",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/eleicoes-2026-senado-reeleicao.ghtml",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-24",
+      "title": "TCE emite parecer pela aprovação das contas de 2021 do governador Romeu Zema",
+      "publisher": "TCE-MG",
+      "url": "https://www.tce.mg.gov.br/TCE-emite-parecer-pela-aprovacao-das-contas-de-2021-do-governador-Romeu-Zema.html/Noticia/1111627249",
+      "publishedAt": "2024-05-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal_de_contas"
+    },
+    {
+      "id": "src-zema-25",
+      "title": "TCE-MG aprova com ressalva contas de 2019 do governo Zema",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2021/05/26/tce-mg-aprova-com-ressalva-contas-de-2019-do-governo-zema.ghtml",
+      "publishedAt": "2021-05-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal_de_contas"
+    },
+    {
+      "id": "src-zema-26",
+      "title": "TSE nega recurso que pedia cassação de Zema, mas aplica multa",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/05/14/tse-nega-recurso-que-pedia-cassacao-de-zema-mas-aplica-multa.ghtml",
+      "publishedAt": "2024-05-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal"
+    },
+    {
+      "id": "src-zema-27",
+      "title": "TSE rejeita cassação, mas multa Zema por propaganda em sites oficiais na eleição",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2024/05/tse-rejeita-cassacao-mas-multa-zema-por-propaganda-em-sites-oficiais-na-eleicao.shtml",
+      "publishedAt": "2024-05-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal"
+    },
+    {
+      "id": "src-zema-28",
+      "title": "TSE afasta abuso de poder, mas multa Zema por publicidade institucional",
+      "publisher": "ConJur",
+      "url": "https://www.conjur.com.br/2024-mai-14/tse-afasta-abuso-de-poder-mas-multa-zema-por-publicidade-institucional/",
+      "publishedAt": "2024-05-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal"
+    },
+    {
+      "id": "src-zema-29",
+      "title": "Aumento de salário de Zema descumpre RRF, diz parecer",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2024/07/aumento-de-salario-de-zema-e-secretarios-descumpre-regras-diz-conselho.shtml",
+      "publishedAt": "2024-07-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-30",
+      "title": "Zema defende aumento de 300% para ele, mesmo com recuperação fiscal; conselho vê irregularidade",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/romeu-zema-governador-minas-gerais-aumento-300-representantes-da-fazenda-e-do-tcu-descumpre-rrf-recuperacao-fiscal-nprp/",
+      "publishedAt": "2024",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada."
+    },
+    {
+      "id": "src-zema-31",
+      "title": "Conselho aponta que aumento salarial de 300% de Zema, vice e secretários viola RRF",
+      "publisher": "O Tempo",
+      "url": "https://www.otempo.com.br/politica/2024/7/23/conselho-aponta-que-aumento-salarial-de-300--de-zema--vice-e-sec",
+      "publishedAt": "2024-07-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-32",
+      "title": "Quem é Romeu Zema, candidato do Novo à Presidência em 2026",
+      "publisher": "GZH",
+      "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/quem-e-romeu-zema-candidato-do-novo-a-presidencia-em-2026-cmor8b6ad002p015fmlxf5scx.html",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-33",
+      "title": "Romeu Zema (Q57092113) — Wikidata",
+      "publisher": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q57092113",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estatistico"
+    },
+    {
+      "id": "src-zema-34",
+      "title": "Plenário aprova em 1º turno revisões salariais dos servidores estaduais",
+      "publisher": "ALMG",
+      "url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Plenario-aprova-em-1-turno-revisoes-salariais-dos-servidores-estaduais/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadual",
+      "notes": "Data exata não capturada; 673 mil servidores do Poder Executivo (ativos, inativos e pensionistas civis e militares)."
+    },
+    {
+      "id": "src-zema-35",
+      "title": "Calendário de pagamento servidor público Minas Gerais 2025",
+      "publisher": "Konsi (citando Governo do Estado)",
+      "url": "https://www.konsi.com.br/postagens/calendario-de-pagamento-servidor-publico-minas-gerais-2025",
+      "publishedAt": "2025",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Fonte indireta: '400 mil servidores ativos' segundo dados do Governo do Estado."
+    },
+    {
+      "id": "src-zema-36",
+      "title": "Partido Novo projeta votação histórica nas eleições de 2026",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/partido-novo-projeta-votacao-historica/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada."
+    },
+    {
+      "id": "src-zema-37",
+      "title": "PSB, Podemos, PSDB e Novo terão todas as cadeiras no Senado em disputa",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/psb-podemos-psdb-e-novo-terao-todas-as-cadeiras-no-senado-em-disputa/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada; sugere cadeiras do NOVO no Senado em disputa (número exato não extraído)."
+    },
+    {
+      "id": "src-zema-38",
+      "title": "Datafolha 21/08/2026: Lula 39%; Flávio 33%; Caiado 5%; Renan Santos 4%; Zema 3%",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-39",
+      "title": "Zema (NOVO) 30 — ficha e histórico eleitoral",
+      "publisher": "Hub Político (dados: TSE/DivulgaCand)",
+      "url": "https://hubpolitico.com.br/perfil/zema/informacoes",
+      "publishedAt": "2026-09-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Agregador de dados abertos do TSE; coleta em 25/09/2026."
+    },
+    {
+      "id": "src-zema-40",
+      "title": "File:Romeu Zema 2025.jpg — Wikimedia Commons",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Romeu_Zema_2025.jpg",
+      "publishedAt": "2025",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estatistico",
+      "notes": "Foto CC-BY-4.0 (Jantar Anual do CLP, 2025); usada em photoUrl via Special:FilePath."
+    },
+    {
+      "id": "src-zema-42",
+      "title": "'Plano Implacável': veja as propostas de Zema na disputa pela presidência",
+      "publisher": "Estado de Minas",
+      "url": "http://www.em.com.br/politica/2026/08/7475589-plano-implacavel-veja-as-propostas-de-zema-na-disputa-pela-presidencia.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mês; dia exato não capturado."
+    },
+    {
+      "id": "src-zema-43",
+      "title": "Quanto ganham o presidente, governadores e parlamentares",
+      "publisher": "UOL",
+      "url": "https://economia.uol.com.br/noticias/redacao/2025/06/30/quanto-ganham-o-presidente-governadores-e-parlamentares.htm",
+      "publishedAt": "2025-06-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Remuneração do governador de MG: R$ 41.845,49."
+    },
+    {
+      "id": "src-zema-45",
+      "title": "Renan Santos diz que atraso para registrar perfis foi 'problema técnico'... (Flávio e Zema saem em defesa)",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/08/31/renan-santos-diz-que-atraso-para-registrar-perfis-em-redes-sociais-foi-problema-tecnico-e-chama-decisao-de-toffoli-de-ilegal.ghtml",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-46",
+      "title": "Rendimentos do fundo partidário são trunfo do Novo para 2024",
+      "publisher": "Estado de Minas",
+      "url": "https://em.com.br/app/noticia/politica/2023/03/05/interna_politica,1464800/rendimentos-do-fundo-partidario-sao-trunfo-do-novo-para-2024.shtml",
+      "publishedAt": "2023-03-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "NOVO não atingiu a cláusula de barreira; acesso ao Fundo Eleitoral vetado pelo partido."
+    },
+    {
+      "id": "src-zema-47",
+      "title": "Tesouro Nacional a Zema: reajuste de 300% contraria RRF",
+      "publisher": "Estado de Minas",
+      "url": "https://www.em.com.br/politica/2024/06/6883764-tesouro-nacional-a-zema-reajuste-de-300-contraria-rrf.html",
+      "publishedAt": "2024-06-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-zema-48",
+      "title": "Genial/Quaest: como estão as eleições em Minas e Pernambuco",
+      "publisher": "Quaest (pesquisadora)",
+      "url": "https://quaest.com.br/pesquisa-genial-quaest-eleicoes-em-minas-e-pernambuco/",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral",
+      "notes": "Campo 22–26/07/2026; 1.482 eleitores em 69 municípios de MG; margem ±3 p.p., confiança 95%; registros TSE MG-03490/2026 e BR-09333/2026. 'A gestão de Romeu Zema conta com 52% de aprovação e 41% de desaprovação entre os mineiros.'"
+    },
+    {
+      "id": "src-zema-49",
+      "title": "Quaest: veja os índices de aprovação e desaprovação dos governos de 10 estados",
+      "publisher": "Valor Econômico — dados Genial/Quaest",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/01/quaest-veja-os-indices-de-aprovacao-e-desaprovacao-dos-governos-de-10-estados.ghtml",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "'Romeu Zema (Novo) manteve exatamente os mesmos números de abril — 52% de aprovação e 41% de desaprovação.' Governo de Zema aprovado por 80% dos bolsonaristas e desaprovado por 55% dos lulistas."
+    },
+    {
+      "id": "src-zema-50",
+      "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Quaest",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-1-turno-28-setembro-recortes.ghtml",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Divulgada em 28/09/2026; campo 24–27/09, 2.004 entrevistas, margem ±2 p.p., registro TSE BR-06520/2026."
+    },
+    {
+      "id": "src-zema-51",
+      "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Datafolha",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Campo 22–23/09/2026, 2.002 entrevistas, margem ±2 p.p., registro TSE BR-00304/2026."
+    },
+    {
+      "id": "src-zema-52",
+      "title": "Eleições 2022: veja os candidatos eleitos nas eleições",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/eleicoes-2022/veja-os-candidatos-eleitos-nas-eleicoes-2022/",
+      "publishedAt": "2022-10-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Zema (Novo) reeleito em MG no 1º turno com 56,18% dos votos válidos."
+    },
+    {
+      "id": "src-zema-53",
+      "title": "Eleições estaduais em Minas Gerais em 2022",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_estaduais_em_Minas_Gerais_em_2022",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Resultado agregado do pleito de MG de 2022 (1º turno), com votação nominal por candidato."
+    },
+    {
+      "id": "src-zema-54",
+      "title": "A indústria na agenda dos presidenciáveis (evento de 22/06/2026)",
+      "publisher": "CNI — Confederação Nacional da Indústria",
+      "url": "https://cni.portaldaindustria.com.br/institucional/propostas-da-industria-para-as-eleicoes-2026",
+      "publishedAt": "2026-06-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "'Os pré-candidatos Flávio Bolsonaro (PL), Romeu Zema (Novo) e Ronaldo Caiado (PSD) tiveram a oportunidade de apresentar suas plataformas e dialogar diretamente com a indústria.' Entrega do documento 'Construindo o Brasil 2050' no Centro de Convenções Ulysses Guimarães, com mais de mil representantes; roteiro de 1h por candidato (20 min de plataforma, 3 perguntas do setor)."
+    },
+    {
+      "id": "src-zema-55",
+      "title": "Zema critica 'abandono federativo' e cobra mais recursos para municípios em desastre climático",
+      "publisher": "Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/zema-critica-abandono-federativo-e-cobra-mais-recursos-para-municipios-em-desastres-climatico/",
+      "publishedAt": "2026-05-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Discurso na Marcha dos Prefeitos, em Brasília, em quarta-feira (20/05/2026), citando repasses e a gestão de defesas civis em MG."
+    },
+    {
+      "id": "src-zema-56",
+      "title": "Flávio, Zema e Caiado buscam apoio do agronegócio em Minas Gerais",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/05/29/flavio-zema-e-caiado-buscam-apoio-do-agronegocio-em-minas-gerais.ghtml",
+      "publishedAt": "2026-05-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Eventos na semana de 29/05/2026 em MG: Eloos Itatiaia (foco no agronegócio) e abertura da Megaleite 2026. Também registra que Mateus Simões (PSD), governador e vice, tem aval do partido para apoiar a candidatura de Zema."
+    },
+    {
+      "id": "src-zema-57",
+      "title": "Romeu Zema escolhe Eduardo Girão, colega do partido Novo, como candidato a vice",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/04/romeu-zema-escolhe-eduardo-girao-colega-do-partido-novo-como-candidato-a-vice.ghtml",
+      "publishedAt": "2026-08-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "'A opção por uma chapa puro-sangue vinha se fortalecendo nos últimos dias, diante da ausência de coligação com outras legendas.' Definição na semana das convenções (prazo em 05/08/2026)."
+    },
+    {
+      "id": "src-zema-58",
+      "title": "O embate de Zema com prefeitos que pode respingar nas eleições de 2026",
+      "publisher": "Estadão — Coluna do Estadão",
+      "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-embate-de-zema-com-prefeitos-que-pode-respingar-nas-eleicoes-de-2026/",
+      "publishedAt": "2025-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada: a AMM entregou demandas em 23/09 e um mês depois nada fora atendido, segundo o presidente da entidade; matéria cita 'eleições do próximo ano'."
+    }
   ],
-  "updatedAt": "2026-09-29"
+  "updatedAt": "2026-09-29",
+  "dataGaps": [
+    "registeredUrl do plano de governo continua nulo: a URL oficial do DivulgaCandContas do 'Plano Implacável' não foi localizada (há espelho no Poder360 e tabela na página do TSE).",
+    "Contagem item a item dos 20 temas/81 páginas do plano não foi feita — os percentuais de custo, prazo e dependência do Congresso derivam das 11 propostas-chave desta ficha (classificação aproximada, confiança baixa).",
+    "Pesquisa de aprovação da gestão mais recente localizada é o campo de 22–26/07/2026 (Genial/Quaest); não há rodada de ago/set/2026 para Minas Gerais.",
+    "Conferência direta no TSE da soma de votos de carreira (17.196.909) ainda pendente — a ficha usa agregador com base em dados abertos do TSE.",
+    "Datas da filiação anterior ao PL/PR (mais de 18 anos, segundo a Wikipédia) não localizadas — anos_politica conta apenas desde a filiação ao NOVO (22/01/2018).",
+    "Nº exato de servidores ativos do Executivo de MG em fonte oficial não quantificado nesta rodada (base de ~400 mil é indireta).",
+    "Data exata do PL de revisões salariais (ALMG) não capturada — a notícia oficial informa aprovação em 1º turno no Plenário em 2026, sem dia; a matéria da Coluna do Estadão sobre o embate com a AMM veio sem data exata (inferred 10/2025).",
+    "DivulgaCandContas não foi consultado diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram de páginas oficiais e de imprensa que replicam a plataforma."
+  ]
 }

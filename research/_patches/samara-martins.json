@@ -1,0 +1,688 @@
+{
+  "slug": "samara-martins",
+  "sources": [
+    {
+      "id": "src-sm-26",
+      "title": "Samara Martins (UP) declara R$ 33 mil em bens ao TSE",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/17/samara-martins-bens-tse.ghtml",
+      "publishedAt": "2026-08-17",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-27",
+      "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP) — patrimônio declarado soma R$ 33.000,00, em dois bens de uso pessoal",
+      "publisher": "Band",
+      "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+      "publishedAt": "2026-09-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-28",
+      "title": "Bens de presidenciáveis declarados à Justiça Eleitoral variam de R$ 33 mil a R$ 242 milhões (carro de R$ 29 mil + R$ 4 mil em poupança)",
+      "publisher": "A Província do Pará",
+      "url": "https://aprovinciadopara.com.br/bens-de-presidenciaveis-declarados-a-justica-eleitoral-variam-de-r-33-mil-a-r-242-milhoes/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-29",
+      "title": "Samara (UP) — candidata a presidente do Brasil em 2026 (ocupação: odontóloga; R$ 33.000 em bens)",
+      "publisher": "Nexo Jornal — candidatos 2026",
+      "url": "https://candidatos.nexojornal.com.br/2026/brasil/samara-280002538811/",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-30",
+      "title": "Plano da UP para a Presidência registrado no TSE tem menos de uma página e meia; documento repercute na internet (16 propostas)",
+      "publisher": "Fonte 83",
+      "url": "https://fonte83.com.br/politica/eleicoes-2026/plano-da-up-para-a-presidencia-registrado-no-tse-tem-menos-de-uma-pagina-e-meia-documento-repercute-na-internet",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-31",
+      "title": "Os planos que quase ninguém lê: o que propõem quatro candidaturas de esquerda fora da coligação de Lula (plataforma com 16 propostas; arquivo registrado foi substituído)",
+      "publisher": "Contexto Brasil",
+      "url": "https://contextobrasil.com.br/os-planos-que-quase-ninguem-le-o-que-propoem-quatro-candidaturas-de-esquerda-fora-da-coligacao-de-lula",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-32",
+      "title": "Samara Martins — verbete com tabela de desempenho eleitoral (2020: vereadora de Natal, 515 votos, 0,14%, não eleita; 2022: vice-presidente, 53.519 votos, 0,05%, não eleita)",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Samara_Martins",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-33",
+      "title": "Léo Péricles e Unidade Popular anunciam apoio a Lula no segundo turno das eleições",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/10/leo-pericles-e-unidade-popular-anunciam-apoio-a-lula-no-segundo-turno-das-eleicoes.ghtml",
+      "publishedAt": "2022-10-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-34",
+      "title": "Única mulher negra candidata a presidente promete dobrar salário mínimo (rejeita federação com PT/PSOL/PSTU/PCB e prioriza alianças 'programáticas')",
+      "publisher": "A Notícia do Vale",
+      "url": "https://anoticiadovale.com/2026/08/30/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo/",
+      "publishedAt": "2026-08-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-35",
+      "title": "Samara Martins diz ser a única pré-candidata que mantém bandeiras históricas da esquerda: 'não farei aliança com a direita'",
+      "publisher": "Canal MyNews",
+      "url": "https://canalmynews.com.br/noticias/samara-martins-diz-ser-a-unica-pre-candidata-que-mantem-bandeiras-historicas-da-esquerda/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-36",
+      "title": "'Nós apresentamos uma alternativa de uma chapa 100% feminina', declara Samara Martins em Aracaju",
+      "publisher": "FanF1",
+      "url": "https://fanf1.com.br/2026/08/25/nos-apresentamos-uma-alternativa-de-uma-chapa-100-feminina-declara-candidata-a-presidencia-samara-martins-em-aracaju",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-37",
+      "title": "Eleições 2026 | Samara Martins leva programa socialista à disputa presidencial (trajetória no movimento estudantil e em movimentos sociais)",
+      "publisher": "Jornalismo Júnior",
+      "url": "https://jornalismojunior.com.br/samara-martins-leva-programa-socialista-a-disputa-presidencial/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-38",
+      "title": "Pré-candidatura de Samara à Presidência percorre o país apresentando programa socialista (atos no Rio, Curitiba e Porto Alegre)",
+      "publisher": "A Verdade",
+      "url": "https://averdade.org.br/2026/04/pre-candidatura-de-samara-a-presidencia-percorre-o-pais-apresentando-programa-socialista-para-o-brasil",
+      "publishedAt": "2026-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-39",
+      "title": "Quem é Samara Martins, candidata da UP à Presidência da República (dentista, dirigente partidária, militante de movimentos populares e vice-presidente da UP)",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-sm-40",
+      "title": "Lista de partidos, federações, coligações, candidatas e candidatos — Eleição Geral Federal 2026, 1º turno (Diário da Justiça Eletrônico)",
+      "publisher": "TSE — Diário da Justiça Eletrônico (SINTSE)",
+      "url": "https://sintse.tse.jus.br/documentos/2026/Set/23/diario-da-justica-eletronico-tres-destaques-edicoes-anteriores/lista-de-partidos-federacoes-coligacoes-candidatas-e-candidatos-eleicao-geral-federal-2026-1o-turno",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "Não se aplica — nunca ocupou cargo público nem liderou quadro de pessoal dimensionado",
+      "value": null,
+      "unit": "servidores",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Equipe/servidores sob gestão direta em cargo público. Proxies checados para candidata sem cargo eletivo: estrutura de campanha, diretórios do partido e direções em movimentos sociais — nenhum com quadro de pessoal dimensionado em fontes públicas de 2026.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-sm-39",
+          "title": "Quem é Samara Martins, candidata da UP à Presidência da República (dentista, dirigente partidária, militante de movimentos populares e vice-presidente da UP)",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Natural de Belo Horizonte/MG, 38 anos, formada em Odontologia pela UFRN; chapa exclusivamente negra em 2022."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Samara Martins é cirurgiã-dentista do SUS (Parnamirim/RN), vice-presidente nacional do UP e atuou em direções de movimentos (diretoria de mulheres da UNE, Movimento de Mulheres Olga Benário, Frente Negra Revolucionária), sem quadro de pessoal publicado (CNN Brasil; Wikipédia, src-sm-32)."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "Não se aplica — nunca ocupou cargo executivo",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Aprovação da gestão medida em pesquisas — requer cargo executivo exercido.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Natural de Belo Horizonte/MG, 38 anos, formada em Odontologia pela UFRN; chapa exclusivamente negra em 2022."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nunca governou: as duas candidaturas anteriores não foram vitoriosas (2020 e 2022, não eleita) e não houve cargo de nomeação (Wikipédia, src-sm-32)."
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "0 das 7 propostas-chave com custo estimado (0%) — programa registrado sem estimativa de impacto fiscal",
+      "value": 0,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 7 propostas-chave detalhadas nesta ficha (campo hasCost = false em todas). O documento registrado no TSE é condensado (menos de 1,5 página) e não traz custos, cronogramas ou mecanismos de execução por proposta; a imprensa registra que o reajuste de 100% do salário mínimo é apresentado sem estimativa de impacto fiscal.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        },
+        {
+          "id": "src-sm-30",
+          "title": "Plano da UP para a Presidência registrado no TSE tem menos de uma página e meia; documento repercute na internet (16 propostas)",
+          "publisher": "Fonte 83",
+          "url": "https://fonte83.com.br/politica/eleicoes-2026/plano-da-up-para-a-presidencia-registrado-no-tse-tem-menos-de-uma-pagina-e-meia-documento-repercute-na-internet",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-31",
+          "title": "Os planos que quase ninguém lê: o que propõem quatro candidaturas de esquerda fora da coligação de Lula (plataforma com 16 propostas; arquivo registrado foi substituído)",
+          "publisher": "Contexto Brasil",
+          "url": "https://contextobrasil.com.br/os-planos-que-quase-ninguem-le-o-que-propoem-quatro-candidaturas-de-esquerda-fora-da-coligacao-de-lula",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo declarado",
+      "displayValue": "0 das 7 propostas-chave com prazo declarado (0%) — programa condensado, sem cronograma por proposta",
+      "value": 0,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 7 propostas-chave desta ficha (campo deadline vazio em todas). O documento registrado (menos de 1,5 página) apresenta diagnóstico e lista de reivindicações, sem cronograma, metas datadas ou mecanismos de execução por proposta.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-30",
+          "title": "Plano da UP para a Presidência registrado no TSE tem menos de uma página e meia; documento repercute na internet (16 propostas)",
+          "publisher": "Fonte 83",
+          "url": "https://fonte83.com.br/politica/eleicoes-2026/plano-da-up-para-a-presidencia-registrado-no-tse-tem-menos-de-uma-pagina-e-meia-documento-repercute-na-internet",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-31",
+          "title": "Os planos que quase ninguém lê: o que propõem quatro candidaturas de esquerda fora da coligação de Lula (plataforma com 16 propostas; arquivo registrado foi substituído)",
+          "publisher": "Contexto Brasil",
+          "url": "https://contextobrasil.com.br/os-planos-que-quase-ninguem-le-o-que-propoem-quatro-candidaturas-de-esquerda-fora-da-coligacao-de-lula",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-18",
+          "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas dependentes do Congresso",
+      "displayValue": "6 das 7 propostas-chave dependem do Congresso (86%) — bancos, jornada de 30h, educação, saúde/moradia, reforma agrária, Judiciário",
+      "value": 86,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 7 propostas-chave desta ficha (campo dependsOnCongress): seis exigem lei ou emenda constitucional (nacionalização bancária, jornada de 30 horas e fim da 6×1, fim do vestibular e reforma educacional, uso obrigatório do SUS e moradia em imóveis ociosos, reforma agrária e controle de preços, eleição de juízes e legalização do aborto) — 6/7 ≈ 86%. Classificação aproximada pelo instrumento legal declarado.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        },
+        {
+          "id": "src-sm-18",
+          "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_total",
+      "category": "plano",
+      "name": "Propostas do plano de governo",
+      "displayValue": "16 propostas (plataforma registrada no TSE, 06/08/2026; documento tem menos de 1,5 página)",
+      "value": 16,
+      "unit": "propostas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem da plataforma registrada no TSE em 06/08/2026: 16 propostas voltadas a trabalho, economia, saúde, educação, moradia, transporte, segurança, meio ambiente e política externa (Fonte 83, 13/08/2026; Contexto Brasil, set/2026 — 'plataforma de reivindicações com dezesseis propostas'). O documento registrado foi substituído: o primeiro arquivo enviado ao TSE era o programa da chapa de 2022. Contagem de terceiros, não recalculada pela equipe no PDF.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-30",
+          "title": "Plano da UP para a Presidência registrado no TSE tem menos de uma página e meia; documento repercute na internet (16 propostas)",
+          "publisher": "Fonte 83",
+          "url": "https://fonte83.com.br/politica/eleicoes-2026/plano-da-up-para-a-presidencia-registrado-no-tse-tem-menos-de-uma-pagina-e-meia-documento-repercute-na-internet",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-31",
+          "title": "Os planos que quase ninguém lê: o que propõem quatro candidaturas de esquerda fora da coligação de Lula (plataforma com 16 propostas; arquivo registrado foi substituído)",
+          "publisher": "Contexto Brasil",
+          "url": "https://contextobrasil.com.br/os-planos-que-quase-ninguem-le-o-que-propoem-quatro-candidaturas-de-esquerda-fora-da-coligacao-de-lula",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-10",
+          "title": "Candidata à Presidência propõe fim da PM e estatização de bancos",
+          "publisher": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/candidata-a-presidencia-propoe-fim-da-pm-e-estatizacao-de-bancos",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Programa registrado no TSE em 06/08/2026: fim da PM, nacionalização bancária, 30h semanais, fim do vestibular."
+        },
+        {
+          "id": "src-sm-18",
+          "title": "Planos de governo dos candidatos ao cargo de Presidente da República — Eleições 2026",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O plano partidário nacional do UP de 2022 tem 25 diretrizes estruturantes; esse número não se refere ao documento registrado pela candidatura em 2026."
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "54.034 votos no total — 515 (vereadora de Natal, 2020) + 53.519 (vice na chapa presidencial, 2022)",
+      "value": 54034,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Soma dos votos das duas candidaturas anteriores: 515 votos em 2020 (vereadora de Natal/RN, UP, 0,14%, não eleita) e 53.519 votos em 2022 (candidata a vice-presidente na chapa de Leonardo Péricles, UP, 0,05%, não eleita — votação da chapa). Resultados compilados em verbete com base na apuração do TSE (Wikipédia, src-sm-32); Agência Brasil (2026) confirma a disputa de 2022.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-32",
+          "title": "Samara Martins — verbete com tabela de desempenho eleitoral (2020: vereadora de Natal, 515 votos, 0,14%, não eleita; 2022: vice-presidente, 53.519 votos, 0,05%, não eleita)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Samara_Martins",
+          "publishedAt": "2026-09-27",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Natural de Belo Horizonte/MG, 38 anos, formada em Odontologia pela UFRN; chapa exclusivamente negra em 2022."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "A votação de 2022 é da chapa (candidata a vice), não de candidatura própria ao cargo principal."
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "Não se aplica — nunca exerceu mandato parlamentar",
+      "value": null,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Leis de autoria principal aprovadas em casa legislativa — requer mandato parlamentar exercido. A candidata não foi eleita vereadora em 2020 e nunca exerceu mandato.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-sm-32",
+          "title": "Samara Martins — verbete com tabela de desempenho eleitoral (2020: vereadora de Natal, 515 votos, 0,14%, não eleita; 2022: vice-presidente, 53.519 votos, 0,05%, não eleita)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Samara_Martins",
+          "publishedAt": "2026-09-27",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-03",
+          "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Natural de Belo Horizonte/MG, 38 anos, formada em Odontologia pela UFRN; chapa exclusivamente negra em 2022."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "bens_declarados",
+      "category": "integridade",
+      "name": "Bens declarados à Justiça Eleitoral",
+      "displayValue": "R$ 33.000,00 — um veículo (R$ 29 mil) e R$ 4 mil em poupança",
+      "value": 33000,
+      "unit": "R$",
+      "metricType": "currency",
+      "directionality": "neutral",
+      "methodology": "Declaração de bens no registro da candidatura presidencial de 2026 (TSE): R$ 33.000,00, o menor patrimônio entre os presidenciáveis que declararam bens; composto por um carro avaliado em R$ 29 mil e R$ 4 mil em poupança (A Província do Pará). A vice Raquel Brício não informou bens.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-26",
+          "title": "Samara Martins (UP) declara R$ 33 mil em bens ao TSE",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/17/samara-martins-bens-tse.ghtml",
+          "publishedAt": "2026-08-17",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-27",
+          "title": "Eleições 2026: conheça as propostas e o perfil de Samara Martins (UP) — patrimônio declarado soma R$ 33.000,00, em dois bens de uso pessoal",
+          "publisher": "Band",
+          "url": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-as-propostas-e-o-perfil-de-samara-martins-up",
+          "publishedAt": "2026-09-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-28",
+          "title": "Bens de presidenciáveis declarados à Justiça Eleitoral variam de R$ 33 mil a R$ 242 milhões (carro de R$ 29 mil + R$ 4 mil em poupança)",
+          "publisher": "A Província do Pará",
+          "url": "https://aprovinciadopara.com.br/bens-de-presidenciaveis-declarados-a-justica-eleitoral-variam-de-r-33-mil-a-r-242-milhoes/",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-29",
+          "title": "Samara (UP) — candidata a presidente do Brasil em 2026 (ocupação: odontóloga; R$ 33.000 em bens)",
+          "publisher": "Nexo Jornal — candidatos 2026",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/samara-280002538811/",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Atos e entrevistas em 5+ estados (abr–set/2026); trajetória em movimentos estudantil, negro e de moradia",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-38",
+          "title": "Pré-candidatura de Samara à Presidência percorre o país apresentando programa socialista (atos no Rio, Curitiba e Porto Alegre)",
+          "publisher": "A Verdade",
+          "url": "https://averdade.org.br/2026/04/pre-candidatura-de-samara-a-presidencia-percorre-o-pais-apresentando-programa-socialista-para-o-brasil",
+          "publishedAt": "2026-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-36",
+          "title": "'Nós apresentamos uma alternativa de uma chapa 100% feminina', declara Samara Martins em Aracaju",
+          "publisher": "FanF1",
+          "url": "https://fanf1.com.br/2026/08/25/nos-apresentamos-uma-alternativa-de-uma-chapa-100-feminina-declara-candidata-a-presidencia-samara-martins-em-aracaju",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-37",
+          "title": "Eleições 2026 | Samara Martins leva programa socialista à disputa presidencial (trajetória no movimento estudantil e em movimentos sociais)",
+          "publisher": "Jornalismo Júnior",
+          "url": "https://jornalismojunior.com.br/samara-martins-leva-programa-socialista-a-disputa-presidencial/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-39",
+          "title": "Quem é Samara Martins, candidata da UP à Presidência da República (dentista, dirigente partidária, militante de movimentos populares e vice-presidente da UP)",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-samara-martins-candidata-do-up-a-presidencia-da-republica/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-07",
+          "title": "Samara Martins defende que políticos usem o SUS",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Proposta de políticos usarem o SUS; reestatização da Agespisa; industrialização nacional."
+        }
+      ],
+      "dataPresentation": "notes_only",
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos (2026): (1) atos e atividades de pré-campanha em várias capitais — Rio de Janeiro (12/04, cerca de 500 militantes), Curitiba (17/04) e Porto Alegre (18/04), além da abertura do congresso da Ubes (A Verdade); (2) agenda de campanha em Aracaju (25/08) e Teresina (24/08), com defesa do uso do SUS por agentes públicos (FanF1; g1, src-sm-07); (3) entrevistas a veículos e podcasts — Café nas Eleições #028 (01/06/2026) e Podcast 3 Irmãos #1011, no qual cobrou tempo de rádio e TV para partidos pequenos (Ceticismo.com, src-sm-05 e src-sm-17); (4) base organizada em movimentos: movimento estudantil, diretoria de mulheres da UNE, Movimento de Mulheres Olga Benário e Frente Negra Revolucionária (Wikipédia, src-sm-32; CNN Brasil); (5) relação com outros partidos de esquerda discutida em entrevistas (MyNews; Almapreta, 24/08/2026)."
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Recusa de federação com PT/PSOL/PSTU/PCB e de alianças com a direita; apoio do UP a Lula no 2º turno (2022)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, entendimentos partidários, composição de chapa e alianças — análise aproximada com exemplos citados e fontes.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-34",
+          "title": "Única mulher negra candidata a presidente promete dobrar salário mínimo (rejeita federação com PT/PSOL/PSTU/PCB e prioriza alianças 'programáticas')",
+          "publisher": "A Notícia do Vale",
+          "url": "https://anoticiadovale.com/2026/08/30/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo/",
+          "publishedAt": "2026-08-30",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-35",
+          "title": "Samara Martins diz ser a única pré-candidata que mantém bandeiras históricas da esquerda: 'não farei aliança com a direita'",
+          "publisher": "Canal MyNews",
+          "url": "https://canalmynews.com.br/noticias/samara-martins-diz-ser-a-unica-pre-candidata-que-mantem-bandeiras-historicas-da-esquerda/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-33",
+          "title": "Léo Péricles e Unidade Popular anunciam apoio a Lula no segundo turno das eleições",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/10/leo-pericles-e-unidade-popular-anunciam-apoio-a-lula-no-segundo-turno-das-eleicoes.ghtml",
+          "publishedAt": "2022-10-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-sm-04",
+          "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "'Chapa pura'; segunda disputa presidencial de Samara."
+        }
+      ],
+      "dataPresentation": "notes_only",
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos: (1) 30/08/2026 — declara rejeitar integrar federação com PT, PSOL, PSTU ou PCB e afirma priorizar 'alianças programáticas' em pautas como o fim da escala 6×1, e não acordos eleitorais entre legendas (A Notícia do Vale); (2) 2026 — afirma que não fará aliança com a direita e critica aproximações da esquerda com pautas de austeridade (Canal MyNews); (3) 26/07/2026 — composição da chapa em 'chapa pura', com a sindicalista Raquel Brício como vice, sem coligação (Estadão, src-sm-04; Agência Brasil, src-sm-02); (4) histórico — em 2022 o UP anunciou apoio a Lula no segundo turno (g1, 10/10/2022)."
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (Unidade Popular — partido isolado, sem coligação)",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-sm-40",
+          "title": "Lista de partidos, federações, coligações, candidatas e candidatos — Eleição Geral Federal 2026, 1º turno (Diário da Justiça Eletrônico)",
+          "publisher": "TSE — Diário da Justiça Eletrônico (SINTSE)",
+          "url": "https://sintse.tse.jus.br/documentos/2026/Set/23/diario-da-justica-eletronico-tres-destaques-edicoes-anteriores/lista-de-partidos-federacoes-coligacoes-candidatas-e-candidatos-eleicao-geral-federal-2026-1o-turno",
+          "publishedAt": "2026-09-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-sm-11",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "12 chapas na disputa; 1º turno em 04/10/2026, 2º em 25/10/2026."
+        },
+        {
+          "id": "src-sm-04",
+          "title": "Unidade Popular oficializa candidatura de Samara Martins à Presidência da República",
+          "publisher": "Estadão",
+          "url": "https://www.estadao.com.br/politica/unidade-popular-oficializa-candidatura-de-samara-martins-a-presidencia-da-republica/",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "'Chapa pura'; segunda disputa presidencial de Samara."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Chapa registrada como partido isolado (Unidade Popular, nº 80), sem coligação ou federação — candidata Samara Martins e vice Raquel Brício (TSE/DivulgaCand; Estadão: 'em chapa pura')."
+    }
+  ],
+  "dataGaps": [
+    "equipe_gerida ficou not_applicable por ausência de base documentada (nunca ocupou cargo público); estruturas de campanha, de partido e de movimentos não publicam quadro de pessoal — nenhum proxy quantificado localizado em 2026.",
+    "propostas_total (16) é contagem de veículos de imprensa sobre a plataforma registrada no TSE; a página de propostas do TSE bloqueia leitura automatizada e o PDF não foi recalculado item a item.",
+    "Custos, prazos e metas por proposta não constam do documento registrado (menos de 1,5 página); os percentuais de custo/prazo/dependência do Congresso são contagens sobre as 7 propostas-chave desta ficha.",
+    "Votos de 2020 (515) e de 2022 (53.519) conferidos em compilação com base na apuração do TSE (Wikipédia); não lidos na base oficial do TSE.",
+    "Data exata da substituição do arquivo do plano no TSE (envio inicial do programa de 2022) não localizada em fonte primária."
+  ]
+}

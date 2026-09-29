@@ -1,0 +1,450 @@
+{
+  "slug": "edmilson-costa",
+  "sources": [
+    {
+      "id": "src-ec-16",
+      "title": "Entrevista de Edmilson Costa para Opera Mundi (publicada no site do PCB)",
+      "publisher": "Opera Mundi (transcrição no site do PCB)",
+      "url": "https://pcb.org.br/portal2/33754",
+      "publishedAt": "2026-04-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Entrevista gravada em 17/03/2026 e publicada em 01/04/2026: alianças da esquerda, divergência com o PCdoB, unidade de ação com o PT nas lutas sociais, independência frente ao governo, indefinição sobre 2º turno e a dissidência de Jones Manoel. Transcrição hospedada no site do partido — usada com marcação partidária."
+    },
+    {
+      "id": "src-ec-17",
+      "title": "Entrevista de Edmilson Costa para Sputnik Brasil (transcrição no site do PCB)",
+      "publisher": "Sputnik Brasil (transcrição no site do PCB)",
+      "url": "https://pcb.org.br/portal2/33986",
+      "publishedAt": "2026-06-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Entrevista publicada em 27/06/2026 sobre a fragmentação do campo de esquerda em 2026 (PT, PCdoB, PSOL, PSTU, UP, PCO e PCB), as propostas do PCB e a ausência de unidade em torno de uma candidatura única. Transcrição hospedada no site do partido — usada com marcação partidária."
+    },
+    {
+      "id": "src-ec-18",
+      "title": "Edmilson Costa e Cleusa Santos são oficializados pelo PCB como candidatos a presidente e vice-presidente",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/01/edmilson-costa-e-cleusa-santos-sao-oficializados-pelo-pcb-como-candidatos-a-presidente-e-vice-presidente.ghtml",
+      "publishedAt": "2026-08-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Convenção nacional do PCB em 01/08/2026, na Câmara Municipal de São Paulo, oficializou a chapa; o partido decidiu não lançar candidatos a deputado federal e estadual nas eleições de 2026 e aprovou o programa com foco na desmilitarização da segurança pública e na saúde 100% estatal."
+    },
+    {
+      "id": "src-ec-19",
+      "title": "Brazilian Communist Party candidate for presidency gives interview",
+      "publisher": "International Communist Press (icp.org.tr)",
+      "url": "https://icp.org.tr/news/brazilian-communist-party-candidate-presidency-gives-interview",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista durante visita a Rio Branco (AC), publicada em agosto de 2026 (a página não expõe data exata): o candidato responde sobre a diferença entre PCdoB e PCB e afirma que o PCB 'em geral apoia algumas candidaturas do PSOL', citando como poucos os casos de apoio fora desse espectro."
+    },
+    {
+      "id": "src-ec-20",
+      "title": "PCB oficializa chapa para eleições 2026 em Convenção na ALMG",
+      "publisher": "Poder Popular (PCB de Minas Gerais)",
+      "url": "https://www.poderpopularmg.org/partido-comunista-brasileiro-pcb-de-minas-gerais-oficializa-chapa-para-eleicoes-de-2026-em-convencao-partidaria-na-almg/",
+      "publishedAt": "2026-07-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Convenção estadual do PCB-MG em 26/07/2026, na ALMG, oficializou chapa própria (Túlio Lopes ao governo); o texto registra que 'o partido definirá posteriormente sobre eventuais apoios a candidaturas ao Senado e à Câmara Federal'. Fonte do partido — usada com marcação partidária."
+    }
+  ],
+  "metrics": [
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "Não localizado",
+      "value": null,
+      "unit": "pessoas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Proxy padrão (gabinete parlamentar na Câmara/Senado: nº de assessores do gabinete) não existe neste caso: o candidato nunca ocupou mandato eletivo nem cargo público — 0 mandatos em 5 disputas documentadas (2008–2026, TSE), executiveExperience vazio, anos_executivo = 0, anos_legislativo = 0 e o PCB não tem assento na Câmara (0/513, API oficial da Casa). Proxies alternativos previstos no spec (estrutura de partido ou de campanha) foram buscados em fontes oficiais e de imprensa em 29/09/2026 e não trazem número de pessoas/assessores; a secretaria-geral nacional do PCB (desde 17/10/2016) não é retratada com quadro quantificado. Sem número oficial, o indicador fica não localizado.",
+      "evidenceStatus": "indeterminado",
+      "confidenceLevel": "low",
+      "availability": "not_found",
+      "sources": [
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        },
+        {
+          "id": "src-ec-12",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCB&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 0 deputados federais filiados ao PCB em exercício."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Ausência de carreira pública explica a ausência de gabinete: sem mandato não existe estrutura de assessoria. O número de pessoas na estrutura de campanha ou na direção partidária não foi localizado em fonte oficial — registrado como lacuna em dataGaps; havendo fonte oficial, o indicador pode ser preenchido como proxy."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "—",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Indicador aplicável a quem já ocupou cargo executivo (eleito ou nomeado): anos_executivo = 0 e nenhuma vitória eleitoral em 5 disputas documentadas (2008–2026, TSE) — nunca governou, portanto não existe aprovação de gestão a medir.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nunca governou; a ausência de pesquisa de aprovação decorre da ausência de gestão, não de lacuna de busca.",
+      "dataPresentation": "notes_only"
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "3% (1 de 35 propostas com valor de recursos declarado)",
+      "value": 3,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre 35 propostas do plano registrado (índice oficial do TSE, 35 itens) e sobre o texto integral do programa (proposta-pcb.pdf, 16 páginas), lidos em 29/09/2026; classificação aproximada: apenas 1 proposta declara valor de recursos (investimento de 10% do PIB na saúde pública); as demais não trazem estimativa de custo ou despesa em R$.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-04",
+          "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+        },
+        {
+          "id": "src-ec-05",
+          "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+          "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Valores citados no programa são pisos e alvos (Piso Salarial Profissional Nacional, isenção de IR até um salário mínimo do DIEESE, piso para trabalhadores de aplicativos) ou percentuais de população (cotas de 54% para negros), não custo estimado de proposta; o financiamento aparece de forma genérica (reforma tributária progressiva, auditoria da dívida pública)."
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "14% (5 de 35 com prazo temporal explícito)",
+      "value": 14,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre 35 propostas do plano registrado (índice do TSE e texto integral do programa, lidos em 29/09/2026); classificação aproximada: contam os itens com temporalidade explícita ('imediato', 'curto prazo' ou prazo em anos/meses declarado) — 5 dos 35 itens.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-04",
+          "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+        },
+        {
+          "id": "src-ec-05",
+          "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+          "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Itens com prazo: convocação de Assembleia Constituinte de Novo Tipo em até dois anos; legalização da maconha a curto prazo; titulação imediata de territórios indígenas e quilombolas; rompimento imediato de relações diplomáticas e econômicas com Israel; Orçamento Popular com revogabilidade de mandatos executivos após o primeiro ano e legislativos após 6 meses. Os demais 30 itens não declaram prazo."
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "89% (31 de 35 propostas com instrumento federal)",
+      "value": 89,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre 35 propostas do plano registrado; classificação aproximada por eixo e instrumento jurídico: contam as propostas cujo instrumento é lei ordinária, medida provisória ou emenda constitucional (31 itens); são excluídas as 4 propostas do eixo de relações internacionais (combate ao imperialismo/OTAN/OEA; solidariedade a Cuba, Palestina, Venezuela, Irã e Saara Ocidental; rompimento de relações com Israel; fortalecimento de ALBA e UNASUL), de competência majoritária do Executivo. Resultado: 31 de 35 (89%).",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-04",
+          "title": "Edmilson Costa — Propostas de Governo (Eleições 2026)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/edmilson-costa-propostas-de-governo",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Índice oficial de propostas do candidato no TSE (35 propostas extraídas pela equipe); página acessada via leitura alternativa após bloqueio de CDN."
+        },
+        {
+          "id": "src-ec-05",
+          "title": "Programa do PCB para as Eleições Presidenciais de 2026 (PDF oficial, 16 páginas)",
+          "publisher": "TSE — DivulgaCandContas / TSE (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pcb/@@display-file/file/proposta-pcb.pdf",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Documento oficial registrado; data de publicação 14/08/2026."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Dependem do Congresso: jornada de 30 horas e fim da escala 6x1 (lei), revogação do arcabouço fiscal, nacionalização do sistema financeiro, Petrobras 100% estatal, saúde 100% pública com estatização do setor privado, desmilitarização e unificação das polícias (EC), legalização do aborto, reforma agrária e titulação de terras (fim do Marco Temporal), Assembleia Constituinte e reforma do Judiciário (PEC)."
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "—",
+      "value": null,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Indicador aplicável a parlamentares: nunca exerceu mandato legislativo (vereador, deputado estadual/federal ou senador) — 0 mandatos em 5 disputas documentadas (2008–2026, TSE) e anos_legislativo = 0; não há produção legislativa de autoria a contar em nenhuma casa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        },
+        {
+          "id": "src-ec-02",
+          "title": "Edmilson Costa — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/edmilson-costa-280002551975/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; bens R$ 454.486; histórico desde 1998: 2014 Senador/SP 12.102 votos, 2012 Vice-prefeito/SP (PSOL) 62.431 votos, 2010 Vice-presidente 39.136 votos, 2008 Prefeito/SP 4.300 votos; campanha até 08/09/2026: receita R$ 25.971 (9 doadores), gasto contratado R$ 22.531,22."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Ausência de mandato é fato confirmado pelo histórico eleitoral, não dado não pesquisado; a trajetória é de militância e direção partidária (PCB desde 1970; Comissão Política Nacional desde 2001; secretário-geral desde 2016). Contagem explícita: 0 leis de autoria — o spec manda marcar not_applicable (nunca foi parlamentar), não é dado faltante."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Entrevistas a Opera Mundi (01/04/2026), Sputnik (27/06) e imprensa internacional (ago/2026); convenção nacional do PCB (01/08/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo. No caso: sem bancada e sem coligação, o diálogo documentado em 2026 é com imprensa nacional e internacional e com o campo da esquerda, com exemplos citados abaixo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-16",
+          "title": "Entrevista de Edmilson Costa para Opera Mundi (publicada no site do PCB)",
+          "publisher": "Opera Mundi (transcrição no site do PCB)",
+          "url": "https://pcb.org.br/portal2/33754",
+          "publishedAt": "2026-04-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Entrevista gravada em 17/03/2026 e publicada em 01/04/2026: alianças da esquerda, divergência com o PCdoB, unidade de ação com o PT nas lutas sociais, independência frente ao governo, indefinição sobre 2º turno e a dissidência de Jones Manoel. Transcrição hospedada no site do partido — usada com marcação partidária."
+        },
+        {
+          "id": "src-ec-17",
+          "title": "Entrevista de Edmilson Costa para Sputnik Brasil (transcrição no site do PCB)",
+          "publisher": "Sputnik Brasil (transcrição no site do PCB)",
+          "url": "https://pcb.org.br/portal2/33986",
+          "publishedAt": "2026-06-27",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Entrevista publicada em 27/06/2026 sobre a fragmentação do campo de esquerda em 2026 (PT, PCdoB, PSOL, PSTU, UP, PCO e PCB), as propostas do PCB e a ausência de unidade em torno de uma candidatura única. Transcrição hospedada no site do partido — usada com marcação partidária."
+        },
+        {
+          "id": "src-ec-19",
+          "title": "Brazilian Communist Party candidate for presidency gives interview",
+          "publisher": "International Communist Press (icp.org.tr)",
+          "url": "https://icp.org.tr/news/brazilian-communist-party-candidate-presidency-gives-interview",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevista durante visita a Rio Branco (AC), publicada em agosto de 2026 (a página não expõe data exata): o candidato responde sobre a diferença entre PCdoB e PCB e afirma que o PCB 'em geral apoia algumas candidaturas do PSOL', citando como poucos os casos de apoio fora desse espectro."
+        },
+        {
+          "id": "src-ec-18",
+          "title": "Edmilson Costa e Cleusa Santos são oficializados pelo PCB como candidatos a presidente e vice-presidente",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/01/edmilson-costa-e-cleusa-santos-sao-oficializados-pelo-pcb-como-candidatos-a-presidente-e-vice-presidente.ghtml",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção nacional do PCB em 01/08/2026, na Câmara Municipal de São Paulo, oficializou a chapa; o partido decidiu não lançar candidatos a deputado federal e estadual nas eleições de 2026 e aprovou o programa com foco na desmilitarização da segurança pública e na saúde 100% estatal."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos: entrevista ao programa 20 Minutos, da Opera Mundi, sobre alianças da esquerda, divergência com o PCdoB e unidade de ação com o PT nas lutas sociais (gravada em 17/03/2026 e publicada em 01/04/2026); entrevista à Sputnik Brasil sobre a fragmentação do campo de esquerda em 2026 (27/06/2026); entrevista ao portal AC em Pauta, em Rio Branco, publicada pelo International Communist Press (agosto de 2026); convenção nacional e campanha em São Paulo (01/08/2026, g1). Não localizadas, em 2025–2026, fontes documentando diálogo com empresariado, lideranças religiosas ou bancadas parlamentares.",
+      "dataPresentation": "notes_only"
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "PCB não lança candidaturas ao Congresso em 2026 e mantém chapa própria (01/08/2026); apoio a candidaturas do PSOL (ago/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes. No caso: o entendimento documentado de 2026 combina recusa de coligação na chapa presidencial, ausência de candidaturas próprias ao Legislativo e apoio seletivo a candidaturas do PSOL, com exemplos abaixo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-18",
+          "title": "Edmilson Costa e Cleusa Santos são oficializados pelo PCB como candidatos a presidente e vice-presidente",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/01/edmilson-costa-e-cleusa-santos-sao-oficializados-pelo-pcb-como-candidatos-a-presidente-e-vice-presidente.ghtml",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção nacional do PCB em 01/08/2026, na Câmara Municipal de São Paulo, oficializou a chapa; o partido decidiu não lançar candidatos a deputado federal e estadual nas eleições de 2026 e aprovou o programa com foco na desmilitarização da segurança pública e na saúde 100% estatal."
+        },
+        {
+          "id": "src-ec-19",
+          "title": "Brazilian Communist Party candidate for presidency gives interview",
+          "publisher": "International Communist Press (icp.org.tr)",
+          "url": "https://icp.org.tr/news/brazilian-communist-party-candidate-presidency-gives-interview",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevista durante visita a Rio Branco (AC), publicada em agosto de 2026 (a página não expõe data exata): o candidato responde sobre a diferença entre PCdoB e PCB e afirma que o PCB 'em geral apoia algumas candidaturas do PSOL', citando como poucos os casos de apoio fora desse espectro."
+        },
+        {
+          "id": "src-ec-20",
+          "title": "PCB oficializa chapa para eleições 2026 em Convenção na ALMG",
+          "publisher": "Poder Popular (PCB de Minas Gerais)",
+          "url": "https://www.poderpopularmg.org/partido-comunista-brasileiro-pcb-de-minas-gerais-oficializa-chapa-para-eleicoes-de-2026-em-convencao-partidaria-na-almg/",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Convenção estadual do PCB-MG em 26/07/2026, na ALMG, oficializou chapa própria (Túlio Lopes ao governo); o texto registra que 'o partido definirá posteriormente sobre eventuais apoios a candidaturas ao Senado e à Câmara Federal'. Fonte do partido — usada com marcação partidária."
+        },
+        {
+          "id": "src-ec-16",
+          "title": "Entrevista de Edmilson Costa para Opera Mundi (publicada no site do PCB)",
+          "publisher": "Opera Mundi (transcrição no site do PCB)",
+          "url": "https://pcb.org.br/portal2/33754",
+          "publishedAt": "2026-04-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Entrevista gravada em 17/03/2026 e publicada em 01/04/2026: alianças da esquerda, divergência com o PCdoB, unidade de ação com o PT nas lutas sociais, independência frente ao governo, indefinição sobre 2º turno e a dissidência de Jones Manoel. Transcrição hospedada no site do partido — usada com marcação partidária."
+        },
+        {
+          "id": "src-ec-07",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos: convenção nacional de 01/08/2026 decidiu não lançar candidatos a deputado federal e estadual em 2026, mantendo chapa própria à Presidência (g1, CNN Brasil); entrevista ao International Communist Press em agosto de 2026 afirma que o PCB 'em geral apoia algumas candidaturas do PSOL' e cita como poucos os apoios fora desse espectro; convenção de MG de 26/07/2026 registra que o partido definiria 'posteriormente' eventuais apoios a candidaturas ao Senado e à Câmara Federal (fonte partidária); entrevista à Opera Mundi (01/04/2026) trata de unidade de ação com o PT nas lutas sociais e de independência em relação ao governo, sem acordo eleitoral fechado. Histórico: coligação Frente de Esquerda (PSOL-PCB) em 2012, já registrada no JSON.",
+      "dataPresentation": "notes_only"
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (PCB — chapa pura, sem coligação ou federação registrada)",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1. No caso: registro em chapa pura à Presidência em 2026, com a vice também filiada ao PCB.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ec-01",
+          "title": "Ficha de Edmilson Costa (PCB) — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/edmilson-costa-280002551975.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do TSE/DivulgaCandContas, atualizada em 29/09/2026 (6h01): situação DEFERIDO, nº 21, vice Cleusa Santos, nascimento 08/04/1950 (Pedreiras/MA), 76 anos, superior completo, ocupação 'APOSENTADO (EXCETO SERVIDOR PÚBLICO)', bens 2026 R$ 454.485,68 e bens 2014 R$ 502.013,29; perfil: 'jornalista formado pela UFMA e doutor em economia pela Unicamp'."
+        },
+        {
+          "id": "src-ec-07",
+          "title": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+          "publishedAt": "2026-08-01",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção do PCB em 01/08/2026 na Câmara Municipal de São Paulo; chapa pura com a professora Cleusa Santos; secretário-geral desde 17/10/2016, sucedendo Ivan Pinheiro."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "A convenção nacional do PCB de 01/08/2026 oficializou chapa pura com Cleusa Santos (PCB) como vice (CNN Brasil e g1), e a ficha do candidato no TSE/Folha registra o partido isolado, sem coligação ou federação para a Presidência."
+    }
+  ],
+  "dataGaps": [
+    "Contagens do plano (custo, prazo e dependência do Congresso) são classificação aproximada feita em 29/09/2026 sobre os títulos do índice do TSE (35 itens) e o texto integral do programa lido via leitura alternativa (CDN do TSE bloqueado); não houve validação humana proposta a proposta.",
+    "equipe_gerida: não existe gabinete ou estrutura pública (nunca houve mandato nem cargo nomeado); o número de assessores da estrutura de campanha ou da direção nacional do PCB não foi quantificado em fonte oficial — proxy possível para próxima rodada.",
+    "Apoios do PCB a candidaturas de outros partidos em 2026 (PSOL e fora desse espectro) não aparecem nominalmente nas fontes consultadas — apenas a declaração qualitativa do candidato.",
+    "Data exata da entrevista publicada pelo International Communist Press não está exposta na página (referência de agosto de 2026); a visita a Rio Branco (AC) também não tem data registrada na fonte.",
+    "Diálogo e negociação com empresariado, lideranças religiosas e bancadas parlamentares em 2025–2026 não localizados; registros de 2025 escassos.",
+    "DivulgaCandContas não foi consultado diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram das páginas oficiais e de imprensa que replicam a plataforma."
+  ]
+}

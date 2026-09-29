@@ -528,13 +528,13 @@
     {
       "id": "equipe_gerida",
       "category": "capacidade-execucao",
-      "name": "Equipes geridas no setor público",
+      "name": "Pessoas/equipe sob gestão (servidores)",
       "displayValue": "Não localizado",
       "value": null,
       "unit": "pessoas",
       "metricType": "number",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Número de pessoas sob gestão em cargo público. Nenhum cargo público localizado (not_found) — dado tratado como não localizado, não como certidão negativa.",
+      "methodology": "Proxy padrão (gabinete parlamentar na Câmara/Senado: nº de assessores do gabinete) não existe neste caso: o candidato nunca ocupou mandato eletivo nem cargo público — 0 mandatos em 6 disputas (1998–2026, TSE), executiveExperience vazio, anos_executivo = 0, anos_legislativo = 0 e o PCO não tem assento na Câmara (0/513, API oficial da Casa). Proxies alternativos previstos no spec (estrutura de partido ou de campanha) foram buscados em fontes oficiais e de imprensa em 29/09/2026 e não trazem número de pessoas/assessores; a presidência nacional do PCO (desde 1995) não é retratada com quadro quantificado. Sem número oficial, o indicador fica não localizado.",
       "evidenceStatus": "indeterminado",
       "confidenceLevel": "low",
       "availability": "not_found",
@@ -548,9 +548,20 @@
           "accessedAt": "2026-09-29",
           "sourceType": "oficial_eleitoral",
           "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-10",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Ausência de carreira pública explica a ausência de gabinete: sem mandato não existe estrutura de assessoria. O número de pessoas na estrutura de campanha ou na direção partidária não foi localizado em fonte oficial — registrado como lacuna em dataGaps; havendo fonte oficial, o indicador pode ser preenchido como proxy."
     },
     {
       "id": "anos_politica",
@@ -582,7 +593,7 @@
     {
       "id": "anos_legislativo",
       "category": "historico-experiencia",
-      "name": "Anos em mandatos legislativos",
+      "name": "Anos em cargos legislativos",
       "displayValue": "0 anos",
       "value": 0,
       "unit": "anos",
@@ -609,7 +620,7 @@
     {
       "id": "anos_federal",
       "category": "historico-experiencia",
-      "name": "Anos em cargos federais (Executivo ou Legislativo)",
+      "name": "Anos em cargos públicos federais",
       "displayValue": "0 anos",
       "value": 0,
       "unit": "anos",
@@ -710,10 +721,10 @@
     {
       "id": "propostas_total",
       "category": "plano",
-      "name": "Propostas no plano de governo registrado",
+      "name": "Propostas do plano de governo",
       "displayValue": "51 propostas (índice do TSE, 8 eixos)",
       "value": 51,
-      "unit": "propostas",
+      "unit": "itens do plano",
       "metricType": "number",
       "directionality": "higher_is_descriptively_more",
       "methodology": "Contagem dos itens do índice oficial de 'Propostas de Governo' do TSE para a chapa do PCO (51 itens em 8 eixos; a página contém 52 marcas contando o rodapé 'Erro da página'). Análise manual do PDF (52 páginas) não realizada nesta rodada.",
@@ -748,15 +759,15 @@
       "id": "propostas_com_custo",
       "category": "plano",
       "name": "Propostas com custo estimado",
-      "displayValue": "Não informado no índice do TSE (0 de 51 com custo)",
-      "value": null,
+      "displayValue": "0% (0 de 51 propostas com custo estimado em R$)",
+      "value": 0,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas com custo estimado. Nenhum custo por proposta identificado no índice oficial; o plano declara fonte global de financiamento (imposto único sobre circulação de dinheiro — de 0,5% para pessoas físicas e de 1% para grandes fortunas — e fim de 32 tributos), mas sem aplicações fiscais ou orçamento item a item. Leitura do PDF não realizada nesta rodada.",
-      "evidenceStatus": "indeterminado",
-      "confidenceLevel": "low",
-      "availability": "not_informed",
+      "methodology": "Contagem sobre 51 propostas do plano registrado (índice oficial do TSE, 51 itens em 8 eixos) e sobre o texto integral do programa (PCOprogramadegoverno2026.pdf), lidos em 29/09/2026; classificação aproximada: nenhuma proposta traz estimativa de custo ou despesa em R$ — o financiamento aparece de forma genérica no eixo Economia (Imposto Único, cancelamento de dívidas externa e interna, fim de impostos sobre consumo), sem valor por item.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
       "sources": [
         {
           "id": "src-rp-07",
@@ -779,21 +790,22 @@
           "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Os valores monetários do programa são alvos de política (salário mínimo vital de R$ 7.500; piso nacional dos professores de pelo menos R$ 8,5 mil; piso de R$ 8 mil para profissionais da saúde), não custo estimado de proposta; por isso não foram contados como custo."
     },
     {
       "id": "propostas_com_prazo",
       "category": "plano",
       "name": "Propostas com prazo",
-      "displayValue": "Ao menos 1 de 51 com prazo explícito (45 dias) — contagem incompleta",
-      "value": null,
+      "displayValue": "16% (8 de 51 com prazo temporal explícito)",
+      "value": 16,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas com prazo definido. Identificado no índice pelo menos um prazo explícito: aumento emergencial de 50% dos salários, aposentadorias e pensões 'em 45 dias' (eixo Economia/Trabalho). Contagem item a item das 51 propostas não realizada nesta rodada.",
+      "methodology": "Contagem sobre 51 propostas do plano registrado (índice do TSE e texto integral do programa, lidos em 29/09/2026); classificação aproximada: contam os itens com temporalidade explícita ('imediato/imediata', 'emergencial' com efeito imediato ou período declarado) — 8 dos 51 itens.",
       "evidenceStatus": "parcial",
-      "confidenceLevel": "low",
-      "availability": "under_analysis",
+      "confidenceLevel": "medium",
+      "availability": "available",
       "sources": [
         {
           "id": "src-rp-07",
@@ -816,21 +828,22 @@
           "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Itens com prazo no índice: aumento emergencial de 50% nos salários e reposição integral das perdas; redução imediata de 50% no preço dos combustíveis; restabelecimento integral da CLT; abertura imediata de centenas de cursos de medicina e enfermagem; validação imediata de diplomas; assentamento imediato dos trabalhadores sem-terra; revogação imediata das reformas antipopulares. A esses somam-se menções de imediatismo a redução de juros e a estabilidade de servidores precarizados dentro do eixo Economia/Governança, totalizando 8. Os demais 43 itens não declaram prazo."
     },
     {
       "id": "propostas_dependentes_congresso",
       "category": "plano",
       "name": "Propostas prioritárias que dependem do Congresso",
-      "displayValue": "Contagem não realizada; emendas constitucionais (orçamento participativo, federações, estatizações) e reforma tributária dependem do Congresso",
-      "value": null,
+      "displayValue": "90% (46 de 51 propostas com instrumento federal)",
+      "value": 90,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC ou lei. Contagem por proposta não realizada; o índice do PCO declara emendas constitucionais (Orçamento Participativo, Conselhos do Trabalho/Saúde/Educação, federações) e o Imposto Único dependem do Congresso, onde o PCO não tem bancada (0/513).",
-      "evidenceStatus": "indeterminado",
-      "confidenceLevel": "low",
-      "availability": "under_analysis",
+      "methodology": "Contagem sobre 51 propostas do plano registrado; classificação aproximada por eixo e instrumento jurídico: contam as propostas cujo instrumento é lei ordinária, medida provisória ou emenda constitucional (46 itens); não contam o eixo de política externa (3 itens — defesa dos povos contra o imperialismo, 'fora o imperialismo da Amazônia e da América Latina' e luta contra ingerência dos EUA e da OEA), a proposta programática de 'governo das organizações operárias e camponesas, sem patrões e sem golpistas' e o cancelamento da concessão da Rede Globo (ato administrativo do Executivo, via órgão regulador) — 5 exclusões. Resultado: 46 de 51 (90%).",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
       "sources": [
         {
           "id": "src-rp-07",
@@ -851,19 +864,10 @@
           "accessedAt": "2026-09-29",
           "sourceType": "plano_de_governo",
           "notes": "PDF oficial registrado no TSE (PCOprogramadegoverno2026.pdf, 52 páginas, segundo a página do TSE)."
-        },
-        {
-          "id": "src-rp-10",
-          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
-          "publisher": "Câmara dos Deputados (dados abertos)",
-          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PCO&idLegislatura=57&itens=100",
-          "publishedAt": "2026-09-29",
-          "accessedAt": "2026-09-29",
-          "sourceType": "legislativo",
-          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PCO em exercício."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Dependem do Congresso: escala móvel de salários (reajuste automático a cada 3% de inflação), fim da 'independência' do Banco Central e cancelamento de dívidas externa e interna, nacionalização do petróleo, redução da jornada para 35 horas semanais, estatização do sistema financeiro e do ensino privado, dissolução da Polícia Militar, extinção do STF e eleição de juízes e procuradores, legalização da maconha e revogação das reformas trabalhistas. Não contam: as três propostas de política externa, o 'governo das organizações operárias e camponesas' (programática) e o cancelamento da concessão da Rede Globo (ato administrativo do Executivo)."
     },
     {
       "id": "registro_tse",
@@ -952,7 +956,7 @@
     {
       "id": "bancada_partidaria_camara",
       "category": "articulacao",
-      "name": "Bancada do partido no Congresso (antes da eleição de 2026)",
+      "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
       "displayValue": "0/513 deputados federais e 0 senadores",
       "value": 0,
       "unit": "cadeiras",
@@ -1024,6 +1028,219 @@
       ],
       "updatedAt": "2026-09-29",
       "context": "Amostra regional; não representa a intenção nacional. Dado auxiliar: rejeição nacional de 9% em 24/09/2026 (era 11% em 17/09)."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "—",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Indicador aplicável a quem já ocupou cargo executivo (eleito ou nomeado): anos_executivo = 0 e nenhuma vitória eleitoral em 6 disputas (1998–2026, TSE) — nunca governou, portanto não existe aprovação de gestão a medir.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nunca governou; a ausência de pesquisa de aprovação decorre da ausência de gestão, não de lacuna de busca.",
+      "dataPresentation": "notes_only"
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "—",
+      "value": null,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Indicador aplicável a parlamentares: nunca exerceu mandato legislativo (vereador, deputado estadual/federal ou senador) — 0 mandatos em 6 disputas (1998–2026, TSE) e anos_legislativo = 0; não há produção legislativa de autoria a contar em nenhuma casa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-02",
+          "title": "Rui Costa Pimenta — verbete (Wikipédia em português: trajetória no PT e no PCO, livros, candidaturas, posições)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Rui_Costa_Pimenta",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice; afirmações conferidas nas fontes primárias citadas quando disponíveis. Conteúdo: jornalista formado pela Faculdade Cásper Líbero; neto de João da Costa Pimenta; atividade política desde 1976 (ditadura); congressos estudantis e refundação da UNE (Salvador, 1980); diretor do CAELL da Faculdade de Letras da USP; um dos fundadores do PT em 1980 na tendência Causa Operária; diretor da CUT na região de São Paulo em 1985; rompimento público em 1992; expulsão do PT em 1995 → lançamento do PCO (lançado em 1995, registro definitivo 1996); presidente nacional do PCO desde 1995; edita o jornal Causa Operária; realiza cursos e palestras; coluna semanal Análise Política Semanal no YouTube Causa Operária TV (sábados, 8h) e análises às terças no Brasil 247; reuniu-se com o líder do Hamas, Ismail Haniya, no Catar em março de 2024; livros: 'Golpe de Estado no Brasil — Balanço e Perspectivas' (Edições Causa Operária, 2018) e 'A Era da Censura das Massas' (Edições Causa Operária/Editora Democritus, 2021); candidaturas 2002 (38.619; 0,05%), 2006 (registro indeferido), 2010 (12.206; 0,01%), 2014 (12.324; 0,01%), 2018 (apoiou Lula criticamente, sem entrar na coligação); posições declaradas: trotskismo, liberdade de expressão e ao armamento civil, contra a política identitária, dissolução do STF com juízes eleitos, apoio à Rússia e a Hamas/Hezbollah/Irã, contra o PL 896/2023."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Ausência de mandato é fato confirmado pelo histórico eleitoral, não dado não pesquisado. A trajetória é de direção partidária (fundador do PT em 1980, diretor da CUT em 1985, presidente do PCO desde 1995), sem cargo eletivo. Contagem explícita: 0 leis de autoria — o spec manda marcar not_applicable (nunca foi parlamentar), não é dado faltante."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Entrevista ao Jornal Nacional (03/09/2026); reunião com metalúrgicos em Porto Alegre (29/08); debate independente com cinco candidatos (26/09)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo. No caso: sem bancada e sem coligação, o diálogo documentado em 2026 ocorre com imprensa de massa, imprensa alternativa e uma categoria sindical (metalúrgicos), com exemplos citados abaixo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rp-15",
+          "title": "Rui Costa Pimenta, candidato à Presidência pelo PCO, fala sobre propostas de governo",
+          "publisher": "g1 (Globo) — Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/rui-costa-pimenta-candidato-a-presidencia-pelo-pco-fala-sobre-propostas-de-governo.ghtml",
+          "publishedAt": "2026-09-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevista do Jornal Nacional para candidatos fora do grupo dos mais bem colocados nas pesquisas; defesa do salário mínimo vital, estatização do sistema financeiro e revogação das reformas trabalhistas."
+        },
+        {
+          "id": "src-rp-16",
+          "title": "Rui Costa Pimenta, candidato do PCO à Presidência, faz campanha em Porto Alegre",
+          "publisher": "g1 (Globo) — Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/29/rui-costa-pimenta-candidato-do-pco-a-presidencia-faz-campanha-em-porto-alegre.ghtml",
+          "publishedAt": "2026-08-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Agenda em Porto Alegre em 29/08/2026: reunião com apoiadores e dirigentes sindicais no Sindicato dos Metalúrgicos da Grande Porto Alegre, conversa com representantes da categoria, almoço com integrantes do partido e transmissão sobre a semana política."
+        },
+        {
+          "id": "src-rp-18",
+          "title": "Debate independente surpreende com quiz 'Brasil em números'; Hertz Dias e Wilson Grassi lideram primeiro bloco",
+          "publisher": "MyNews (com 3 Irmãos e Kritikê)",
+          "url": "https://canalmynews.com.br/sem-categoria/surpreende-em-vez-de-inova-hertz-dias-e-wilson-grassi-lideram/",
+          "publishedAt": "2026-09-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Debate presidencial independente com Rui Costa Pimenta (PCO), Samara Martins (UP), Hertz Dias (PSTU), Clariana Barão (DC) e Wilson Grassi (Democratas)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos: entrevista ao Jornal Nacional em 03/09/2026 (g1); reunião com apoiadores e dirigentes do Sindicato dos Metalúrgicos da Grande Porto Alegre e conversa com representantes da categoria em 29/08/2026 (g1); participação em debate presidencial independente com Rui Costa Pimenta, Samara Martins, Hertz Dias, Clariana Barão e Wilson Grassi em 26/09/2026 (MyNews); presença recorrente em mídia alternativa e em programas do próprio partido. Não localizadas, em 2025–2026, fontes documentando diálogo com empresariado, lideranças religiosas, oposição partidária ou centrais sindicais majoritárias.",
+      "dataPresentation": "notes_only"
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Sem coligações: 156 candidaturas em 18 estados e DF em chapa própria (08/08/2026); encontro com dirigentes sindicais em Porto Alegre (29/08)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes. No caso: a decisão partidária documentada de 2026 é concorrer isolado, o que limita os entendimentos registrados a encontros sindicais e à própria convenção, com exemplos abaixo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rp-17",
+          "title": "PCO define candidaturas em 18 estados e no Distrito Federal para as eleições de 2026",
+          "publisher": "PCO — Partido da Causa Operária",
+          "url": "https://pco.org.br/2026/08/08/pco-define-candidaturas-em-18-estados-e-no-distrito-federal-para-as-eleicoes-de-2026/",
+          "publishedAt": "2026-08-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no DF; convenção nacional presidida por Rui Costa Pimenta confirmou a chapa com Antônio Carlos; o texto afirma que 'o Partido concorre isoladamente em todos os cargos, sem coligações ou federações'. Fonte do próprio partido — usada com marcação partidária."
+        },
+        {
+          "id": "src-rp-19",
+          "title": "Eleições 2026: PCO registra Rui Costa Pimenta ao Planalto com plano de cancelar privatizações",
+          "publisher": "UOL (Agência Estado)",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/15/eleicoes-2026-pco-registra-rui-costa-pimenta-ao-planalto-com-plano-de-cancelar-privatizacoes.htm",
+          "publishedAt": "2026-08-15",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Registro da candidatura em 15/08/2026: 'o partido terá chapa pura, com Antônio Carlos na vice-presidência'; o candidato declara não possuir bens; plano de cancelamento de privatizações e anulação de dívidas dos trabalhadores."
+        },
+        {
+          "id": "src-rp-16",
+          "title": "Rui Costa Pimenta, candidato do PCO à Presidência, faz campanha em Porto Alegre",
+          "publisher": "g1 (Globo) — Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/29/rui-costa-pimenta-candidato-do-pco-a-presidencia-faz-campanha-em-porto-alegre.ghtml",
+          "publishedAt": "2026-08-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Agenda em Porto Alegre em 29/08/2026: reunião com apoiadores e dirigentes sindicais no Sindicato dos Metalúrgicos da Grande Porto Alegre, conversa com representantes da categoria, almoço com integrantes do partido e transmissão sobre a semana política."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos: convenção nacional do PCO de 08/08/2026, presidida por Rui Costa Pimenta, aprovou 156 candidaturas em 18 estados e no DF com a decisão de concorrer isoladamente em todos os cargos, 'sem coligações ou federações' (fonte partidária); registro em chapa pura em 15/08/2026, com Antônio Carlos (PCO) como vice (UOL/Agência Estado); encontro com apoiadores e dirigentes sindicais no Sindicato dos Metalúrgicos da Grande Porto Alegre em 29/08/2026 (g1). Não há acordos ou alianças partidárias registrados em 2025–2026 nas fontes consultadas — o padrão documentado é de recusa a coligações, como em 2018 e 2022.",
+      "dataPresentation": "notes_only"
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (PCO — chapa pura, sem coligação ou federação registrada)",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1. No caso: registro em chapa pura à Presidência em 2026, com o vice também filiado ao PCO.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-rp-01",
+          "title": "Rui Costa Pimenta — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+          "publishedAt": "2026-08-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Ficha individual de Rui Costa Pimenta capturada nesta rodada (arquivo local pages/rui_nexo.txt, 29/09/2026) no site de fichas do Nexo; a URL exata da ficha individual não ficou registrada (not_found), daí a citação do especial que reúne todas as fichas do TSE. Dados: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 29, PCO, vice Antônio Carlos (PCO); nascimento 25/06/1957 (69 anos), São Paulo (SP), brasileiro nato, branco, casado, superior completo, ocupação 'jornalista e redator'; bens: 'Nenhum bem declarado ao TSE'; campanha até 08/09/2026: receita R$ 6.271,00 (1 doador — 100% vaquinha), gasto contratado R$ 137,30 (0,0% do limite de R$ 88.944.030,80), pago R$ 137,30; histórico TSE desde 1998: 2014 Presidente 12.324, 2010 Presidente 12.206, 2006 Presidente 'Candidatura indeferida*', 2002 Presidente 38.619, 2000 Prefeito SP 870, 1998 Deputado federal SP 1.160; redes: Instagram ruicpimenta, FB/X ruicpimenta29, YouTube rcp29, site candidatos.pco.org.br. A lista do especial confirma a chapa: '29 Rui Costa Pimenta PCO, vice Antônio Carlos PCO' entre as 12 chapas à Presidência."
+        },
+        {
+          "id": "src-rp-17",
+          "title": "PCO define candidaturas em 18 estados e no Distrito Federal para as eleições de 2026",
+          "publisher": "PCO — Partido da Causa Operária",
+          "url": "https://pco.org.br/2026/08/08/pco-define-candidaturas-em-18-estados-e-no-distrito-federal-para-as-eleicoes-de-2026/",
+          "publishedAt": "2026-08-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no DF; convenção nacional presidida por Rui Costa Pimenta confirmou a chapa com Antônio Carlos; o texto afirma que 'o Partido concorre isoladamente em todos os cargos, sem coligações ou federações'. Fonte do próprio partido — usada com marcação partidária."
+        },
+        {
+          "id": "src-rp-19",
+          "title": "Eleições 2026: PCO registra Rui Costa Pimenta ao Planalto com plano de cancelar privatizações",
+          "publisher": "UOL (Agência Estado)",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/15/eleicoes-2026-pco-registra-rui-costa-pimenta-ao-planalto-com-plano-de-cancelar-privatizacoes.htm",
+          "publishedAt": "2026-08-15",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Registro da candidatura em 15/08/2026: 'o partido terá chapa pura, com Antônio Carlos na vice-presidência'; o candidato declara não possuir bens; plano de cancelamento de privatizações e anulação de dívidas dos trabalhadores."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "A convenção nacional do PCO de 08/08/2026 decidiu concorrer isoladamente em todos os cargos, sem coligações ou federações (fonte partidária), e o registro de 15/08/2026 foi feito em chapa pura, com Antônio Carlos (PCO) na vice-presidência (UOL/Agência Estado)."
     }
   ],
   "currentSupport": [
@@ -1372,7 +1589,65 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial_eleitoral",
       "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas, incluindo a do PCO)."
+    },
+    {
+      "id": "src-rp-15",
+      "title": "Rui Costa Pimenta, candidato à Presidência pelo PCO, fala sobre propostas de governo",
+      "publisher": "g1 (Globo) — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/rui-costa-pimenta-candidato-a-presidencia-pelo-pco-fala-sobre-propostas-de-governo.ghtml",
+      "publishedAt": "2026-09-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista do Jornal Nacional para candidatos fora do grupo dos mais bem colocados nas pesquisas; defesa do salário mínimo vital, estatização do sistema financeiro e revogação das reformas trabalhistas."
+    },
+    {
+      "id": "src-rp-16",
+      "title": "Rui Costa Pimenta, candidato do PCO à Presidência, faz campanha em Porto Alegre",
+      "publisher": "g1 (Globo) — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/29/rui-costa-pimenta-candidato-do-pco-a-presidencia-faz-campanha-em-porto-alegre.ghtml",
+      "publishedAt": "2026-08-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda em Porto Alegre em 29/08/2026: reunião com apoiadores e dirigentes sindicais no Sindicato dos Metalúrgicos da Grande Porto Alegre, conversa com representantes da categoria, almoço com integrantes do partido e transmissão sobre a semana política."
+    },
+    {
+      "id": "src-rp-17",
+      "title": "PCO define candidaturas em 18 estados e no Distrito Federal para as eleições de 2026",
+      "publisher": "PCO — Partido da Causa Operária",
+      "url": "https://pco.org.br/2026/08/08/pco-define-candidaturas-em-18-estados-e-no-distrito-federal-para-as-eleicoes-de-2026/",
+      "publishedAt": "2026-08-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Convenções nacional e estaduais aprovaram 156 candidaturas em 18 estados e no DF; convenção nacional presidida por Rui Costa Pimenta confirmou a chapa com Antônio Carlos; o texto afirma que 'o Partido concorre isoladamente em todos os cargos, sem coligações ou federações'. Fonte do próprio partido — usada com marcação partidária."
+    },
+    {
+      "id": "src-rp-18",
+      "title": "Debate independente surpreende com quiz 'Brasil em números'; Hertz Dias e Wilson Grassi lideram primeiro bloco",
+      "publisher": "MyNews (com 3 Irmãos e Kritikê)",
+      "url": "https://canalmynews.com.br/sem-categoria/surpreende-em-vez-de-inova-hertz-dias-e-wilson-grassi-lideram/",
+      "publishedAt": "2026-09-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Debate presidencial independente com Rui Costa Pimenta (PCO), Samara Martins (UP), Hertz Dias (PSTU), Clariana Barão (DC) e Wilson Grassi (Democratas)."
+    },
+    {
+      "id": "src-rp-19",
+      "title": "Eleições 2026: PCO registra Rui Costa Pimenta ao Planalto com plano de cancelar privatizações",
+      "publisher": "UOL (Agência Estado)",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/15/eleicoes-2026-pco-registra-rui-costa-pimenta-ao-planalto-com-plano-de-cancelar-privatizacoes.htm",
+      "publishedAt": "2026-08-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Registro da candidatura em 15/08/2026: 'o partido terá chapa pura, com Antônio Carlos na vice-presidência'; o candidato declara não possuir bens; plano de cancelamento de privatizações e anulação de dívidas dos trabalhadores."
     }
   ],
-  "updatedAt": "2026-09-29"
+  "updatedAt": "2026-09-29",
+  "dataGaps": [
+    "Contagens do plano (custo, prazo e dependência do Congresso) são classificação aproximada feita em 29/09/2026 sobre os títulos do índice do TSE (51 itens) e o texto integral do programa lido via leitura alternativa (CDN do TSE bloqueado); não houve validação humana proposta a proposta.",
+    "equipe_gerida: não existe gabinete ou estrutura pública (nunca houve mandato nem cargo nomeado); o número de assessores da estrutura de campanha ou da direção nacional do PCO não foi quantificado em fonte oficial — proxy possível para próxima rodada.",
+    "equipe_gerida e projetos_lei_aprovados permanecem como not_applicable por ausência de carreira pública; se surgir fonte com número de assessores da direção partidária, o indicador pode ser revisto.",
+    "Páginas do Diário Causa Operária (ato convocado por Rui Costa Pimenta, 2026) bloquearam o acesso nesta rodada (Cloudflare): data, pauta e alcance do ato não confirmados — fonte não utilizada.",
+    "Diálogo e negociação com empresariado, lideranças religiosas, oposição partidária e centrais sindicais majoritárias em 2025–2026 não localizados; registros de 2025 escassos.",
+    "DivulgaCandContas não foi consultado diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram das páginas oficiais e de imprensa que replicam a plataforma."
+  ]
 }

@@ -1,0 +1,472 @@
+{
+  "slug": "caiado",
+  "sources": [
+    {
+      "id": "src-cg-40",
+      "title": "Caiado vai a igreja mirando apoio de mais um líder evangélico",
+      "publisher": "Metrópoles (coluna Igor Gadelha)",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caiado-vai-a-igreja-mirando-apoio-de-mais-um-lider-evangelico",
+      "publishedAt": "2026-04-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "21/04/2026: visita de Caiado à Igreja Fonte da Vida (SP) com o apóstolo César Augusto; registro de apoio público da Assembleia de Deus de Madureira e recepção pela cúpula da Assembleia de Deus Belém."
+    },
+    {
+      "id": "src-cg-41",
+      "title": "Direita evangélica racha com apoio de bispo a Caiado",
+      "publisher": "Folha de S.Paulo (coluna Juliano Spyer)",
+      "url": "https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/04/direita-evangelica-racha-com-apoio-de-bispo-a-caiado.shtml",
+      "publishedAt": "2026-04-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "06/04/2026: apoio público do bispo Samuel Ferreira (Conamad — 42 mil templos, cerca de 102 mil pastores) a Caiado na cerimônia de pré-candidatura."
+    },
+    {
+      "id": "src-cg-42",
+      "title": "Em visita ao Sistema Faemg, Ronaldo Caiado defende agro forte",
+      "publisher": "Sistema FAEMG/SENAR",
+      "url": "https://www.faemg.org.br/sindicatos/noticias/em-visita-ao-sistema-faemg-ronaldo-caiado-defende-agro-forte",
+      "publishedAt": "2026-04-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "23/04/2026: encontro em Belo Horizonte com o presidente do Sistema Faemg Senar e produtores rurais de Minas Gerais."
+    },
+    {
+      "id": "src-cg-43",
+      "title": "Caiado diz que 'muitos tentaram destruir' candidaturas no primeiro turno para manter polarização",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/24/caiado-diz-que-muitos-tentaram-destruir-candidaturas-no-primeiro-turno-para-manter-polarizacao.ghtml",
+      "publishedAt": "2026-04-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "24/04/2026: agenda em MG (palestra na Faemg, Mercado Central, abertura de safra de cana em Uberaba, Expozebu); posição contra a verticalização; PSD-MG anuncia apoio a Caiado mesmo com o governador Mateus Simões apoiando Zema."
+    },
+    {
+      "id": "src-cg-44",
+      "title": "PSD confirma candidaturas de Caiado e Kassab",
+      "publisher": "Site de Gilberto Kassab / PSD",
+      "url": "https://gilbertokassab.com.br/noticias/geral/psd-confirma-candidaturas-de-caiado-e-kassab/",
+      "publishedAt": "2026-07-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "26/07/2026: convenção nacional do PSD em São Paulo oficializa a chapa; entrevista coletiva a mais de 100 jornalistas; presença dos governadores Ratinho Junior (PR), Eduardo Leite (RS) e Daniel Vilela (GO), de senadores e de deputados federais."
+    },
+    {
+      "id": "src-cg-45",
+      "title": "Pré-candidatos do PSD apoiarão o escolhido pelo partido",
+      "publisher": "Poder360",
+      "url": "https://poder360.com.br/poder-eleicoes/pre-candidatos-do-psd-apoiarao-o-escolhido-pelo-partido",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Pacto de apoio mútuo entre Ratinho Jr. (PR), Eduardo Leite (RS) e Ronaldo Caiado (GO) e antecipação da definição do candidato pelo PSD para 27/03/2026; filiação de Caiado ao PSD marcada para 14/03/2026 em Jaraguá (GO). Mês; dia exato da publicação não capturado."
+    },
+    {
+      "id": "src-cg-46",
+      "title": "Diário da Justiça Eletrônico — Edital: lista de candidatas e candidatos a presidente e vice-presidente da República (Eleições 2026)",
+      "publisher": "TSE — Diário da Justiça Eletrônico",
+      "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+      "publishedAt": "2026-09-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Mesmo documento da fonte src-cg-16 (id novo para uso no indicador de articulação). Lista a chapa como 'PARTIDO SOCIAL DEMOCRÁTICO (PSD)' — sem coligação registrada — e, por contraste, registra a coligação de outra chapa ('COLIGAÇÃO BRASIL PRONTO PRA MAIS (PSB, PDT, FEDERAÇÃO BRASIL DA ESPERANÇA (PT/PC DO B/PV), FEDERAÇÃO PSOL REDE (PSOL/REDE))')."
+    },
+    {
+      "id": "src-cg-47",
+      "title": "Flávio inicia tour de igrejas e amplia ofensiva entre evangélicos",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/google/amp/politica/noticia/2026/04/06/flavio-inicia-tour-de-igrejas-e-amplia-ofensiva-entre-evangelicos-que-o-senhor-o-leve-para-ser-presidente.ghtml",
+      "publishedAt": "2026-04-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "06/04/2026: reporta que Caiado escalou o deputado Otoni de Paula como articulador evangélico e previu convenções de pastores e encontros reservados."
+    },
+    {
+      "id": "src-cg-48",
+      "title": "API de Dados Abertos da Câmara dos Deputados — proposições e autoria (autor 'Ronaldo Caiado', 1991–2015)",
+      "publisher": "Câmara dos Deputados (dados abertos)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?autor=RONALDO%20CAIADO&ano=2011&itens=100",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Consulta direta à API oficial em 29/09/2026 (rodada do comparador): varredura das proposições dos anos 1991–2015 associadas ao nome 'Ronaldo Caiado', com verificação do campo de autoria (/proposicoes/{id}/autores) e da situação final (/proposicoes/{id} → statusProposicao.descricaoSituacao). Id de deputado na base: 74813."
+    }
+  ],
+  "metrics": [
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "1.773.185 (governador 2018) | 1.806.892 (reeleição 2022) | 1.283.665 (Senado 2014) | 488.872 (Presidência 1989)",
+      "value": 1806892,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Maior votação por eleição, segundo o verbete da Wikipédia e a cobertura de imprensa; consulta a resultados oficiais do TSE/TRE não realizada nesta coleta. O campo value registra a MAIOR votação individual da carreira (reeleição ao governo de GO, 2022: 1.806.892); o displayValue lista todas as votações documentadas da carreira (2018: 1.773.185; 2022: 1.806.892; Senado 2014: 1.283.665; Presidência 1989: 488.872).",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-01",
+          "title": "Ronaldo Caiado — verbete (Wikipédia em português)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Caiado",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Usada como índice de trajetória; dump bruto em research/_raw/Ronaldo_Caiado_pt.txt."
+        },
+        {
+          "id": "src-cg-06",
+          "title": "Boletim do Quadro de Pessoal do Poder Executivo de Goiás — mai/2025 (até mar/2025)",
+          "publisher": "TCE-GO",
+          "url": "https://portal.tce.go.gov.br/documents/20181/1264167/BOLETIM%20ESTRAT%C3%89GICO%20DO%20QUADRO%20DE%20PESSOAL%20DO%20PODER%20EXECUTIVO%20DO%20ESTADO%20GOI%C3%81S%20-%20MAIO%20DE%202025%20(Com%20dados%20consolidados%20at%C3%A9%20MAR-2025)/74c3cd9f-7f27-4299-b8c6-2f878685c2fd",
+          "publishedAt": "2025-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "tribunal_de_contas"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Candidatura presidencial de 1989: 488.872 votos (0,68%), 10º lugar; derrota ao governo de GO em 1994: 364.767 votos (23,18%)."
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "0 de 7 propostas destacadas com custo próprio (0%); o plano não informa custo por proposta",
+      "value": 0,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 7 propostas destacadas do plano (campo keyProposals do JSON do candidato). O plano registrado tem 26 temas e 7 compromissos para 2030, mas só essas 7 têm campos por proposta; nenhuma traz estimativa de custo própria. A seção 'custo' do plano informa que o custo por proposta não é informado ('Custo por proposta não informado') e a única cifra quantitativa é de efeito fiscal global da trajetória plurianual (campo 'Efeitos quantitativos por proposta não informados no plano consultado'). Classificação aproximada, a partir do próprio documento e de resumos de imprensa; leitura item a item do PDF de mais de 100 páginas não realizada. Percentual inteiro: 0/7.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-20",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF)",
+          "publisher": "Campanha Ronaldo Caiado (PSD)",
+          "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-cg-21",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho)",
+          "publisher": "Poder360",
+          "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-cg-22",
+          "title": "Ronaldo Caiado: veja as propostas do candidato a presidente",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/ronaldo-caiado-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Não há custo por proposta no plano; o documento apresenta apenas metas e horizonte fiscal agregado."
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "2 de 7 propostas destacadas com prazo declarado (29%): compromissos nacionais com horizonte 2030 e saneamento até 2033",
+      "value": 29,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 7 propostas destacadas do plano (keyProposals do JSON do candidato). Critério: item com prazo, horizonte ou marco temporal declarado no próprio plano. Contadas 2: (1) compromissos nacionais com horizonte 2030 e (2) proteção social/saneamento com universalização até 2033 conforme o marco legal do saneamento (Lei 14.026/2020). As demais cinco (saúde/SUS, estratégia fiscal, pacto de governabilidade, segurança e posicionamentos de campanha) não trazem prazo por proposta. 2/7 = 28,6% → 29%. Classificação aproximada; PDF não lido item a item.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-20",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF)",
+          "publisher": "Campanha Ronaldo Caiado (PSD)",
+          "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-cg-21",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho)",
+          "publisher": "Poder360",
+          "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-cg-22",
+          "title": "Ronaldo Caiado: veja as propostas do candidato a presidente",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/ronaldo-caiado-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O horizonte 2030 é o próprio período do mandato (2027–2030); não há cronograma de execução por proposta no plano."
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "5 de 7 propostas destacadas dependem de lei ou PEC (71%): estratégia fiscal, pacto de governabilidade, segurança, proteção social e agenda legislativa de campanha",
+      "value": 71,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas destacadas cujo instrumento declarado exige lei, emenda constitucional ou deliberação do Congresso, classificado sobre as 7 propostas destacadas do plano (keyProposals do JSON do candidato). Contadas 5: estratégia fiscal (nova regra/teto de gastos), pacto nacional de governabilidade e financiamento político, segurança pública (leis penais e acordos federativos), proteção social (lei e marco legal) e os posicionamentos legislativos de campanha (anistia e mineração em terra indígena). Não contadas as duas com execução administrativa direta (reforma do SUS e compromissos nacionais 2030). 5/7 = 71,4% → 71%. Contagem aproximada; leitura item a item do PDF não realizada.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-20",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (PDF)",
+          "publisher": "Campanha Ronaldo Caiado (PSD)",
+          "url": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-cg-21",
+          "title": "Plano de Governo Ronaldo Caiado Presidente 2027–2030 (espelho)",
+          "publisher": "Poder360",
+          "url": "http://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-cg-22",
+          "title": "Ronaldo Caiado: veja as propostas do candidato a presidente",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/ronaldo-caiado-veja-as-propostas-do-candidato-a-presidente-da-republica.ghtml",
+          "publishedAt": "2026-08-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-cg-23",
+          "title": "Propostas de Caiado na íntegra (páginas do plano)",
+          "publisher": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/pobreza-e-desigualdade-veja-propostas-de-lula-na-integra-2",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O plano do candidato cita expressamente acordos com o Legislativo ('pacto de governabilidade') e mudanças de regra fiscal, que exigem maioria no Congresso."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Visitas a lideranças evangélicas (Madureira, Belém, Fonte da Vida) e apoios do Conamad (abr/2026); palestra no Sistema Faemg e agenda de agro em MG; coletiva a mais de 100 jornalistas (jul/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo. Fontes verificadas: Folha (06/04/2026), O Globo (06/04/2026), Metrópoles (21/04/2026), Sistema Faemg (23/04/2026), Valor (24/04/2026) e site do PSD (26/07/2026).",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-40",
+          "title": "Caiado vai a igreja mirando apoio de mais um líder evangélico",
+          "publisher": "Metrópoles (coluna Igor Gadelha)",
+          "url": "https://www.metropoles.com/colunas/igor-gadelha/caiado-vai-a-igreja-mirando-apoio-de-mais-um-lider-evangelico",
+          "publishedAt": "2026-04-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "21/04/2026: visita de Caiado à Igreja Fonte da Vida (SP) com o apóstolo César Augusto; registro de apoio público da Assembleia de Deus de Madureira e recepção pela cúpula da Assembleia de Deus Belém."
+        },
+        {
+          "id": "src-cg-41",
+          "title": "Direita evangélica racha com apoio de bispo a Caiado",
+          "publisher": "Folha de S.Paulo (coluna Juliano Spyer)",
+          "url": "https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/04/direita-evangelica-racha-com-apoio-de-bispo-a-caiado.shtml",
+          "publishedAt": "2026-04-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "06/04/2026: apoio público do bispo Samuel Ferreira (Conamad — 42 mil templos, cerca de 102 mil pastores) a Caiado na cerimônia de pré-candidatura."
+        },
+        {
+          "id": "src-cg-42",
+          "title": "Em visita ao Sistema Faemg, Ronaldo Caiado defende agro forte",
+          "publisher": "Sistema FAEMG/SENAR",
+          "url": "https://www.faemg.org.br/sindicatos/noticias/em-visita-ao-sistema-faemg-ronaldo-caiado-defende-agro-forte",
+          "publishedAt": "2026-04-23",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "23/04/2026: encontro em Belo Horizonte com o presidente do Sistema Faemg Senar e produtores rurais de Minas Gerais."
+        },
+        {
+          "id": "src-cg-43",
+          "title": "Caiado diz que 'muitos tentaram destruir' candidaturas no primeiro turno para manter polarização",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/noticia/2026/04/24/caiado-diz-que-muitos-tentaram-destruir-candidaturas-no-primeiro-turno-para-manter-polarizacao.ghtml",
+          "publishedAt": "2026-04-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "24/04/2026: agenda em MG (palestra na Faemg, Mercado Central, abertura de safra de cana em Uberaba, Expozebu); posição contra a verticalização; PSD-MG anuncia apoio a Caiado mesmo com o governador Mateus Simões apoiando Zema."
+        },
+        {
+          "id": "src-cg-44",
+          "title": "PSD confirma candidaturas de Caiado e Kassab",
+          "publisher": "Site de Gilberto Kassab / PSD",
+          "url": "https://gilbertokassab.com.br/noticias/geral/psd-confirma-candidaturas-de-caiado-e-kassab/",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "26/07/2026: convenção nacional do PSD em São Paulo oficializa a chapa; entrevista coletiva a mais de 100 jornalistas; presença dos governadores Ratinho Junior (PR), Eduardo Leite (RS) e Daniel Vilela (GO), de senadores e de deputados federais."
+        },
+        {
+          "id": "src-cg-47",
+          "title": "Flávio inicia tour de igrejas e amplia ofensiva entre evangélicos",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/google/amp/politica/noticia/2026/04/06/flavio-inicia-tour-de-igrejas-e-amplia-ofensiva-entre-evangelicos-que-o-senhor-o-leve-para-ser-presidente.ghtml",
+          "publishedAt": "2026-04-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "06/04/2026: reporta que Caiado escalou o deputado Otoni de Paula como articulador evangélico e previu convenções de pastores e encontros reservados."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Religiosos: apoio público do bispo Samuel Ferreira (Conamad, 42 mil templos) em 06/04/2026; visita à Igreja Fonte da Vida com o apóstolo César Augusto e apoio da Assembleia de Deus de Madureira (21/04/2026); escalou o deputado Otoni de Paula como articulador evangélico. Agro: palestra e encontro com produtores no Sistema Faemg (23/04/2026) e agenda de agro em MG (Mercado Central, abertura da safra de cana em Uberaba, Expozebu) em 24/04/2026. Imprensa: entrevista coletiva a mais de 100 jornalistas na convenção do PSD (26/07/2026). Não localizadas, nas fontes desta rodada, tratativas públicas com centrais sindicais em 2025–2026."
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Pacto de apoio mútuo na prévia do PSD (Caiado, Ratinho Jr. e Eduardo Leite, mar/2026); apoio negociado da bancada evangélica (Otoni de Paula) e do Conamad (abr/2026); apoio do PSD-MG apesar do governo estadual (abr/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes. Verificados: pacto de apoio mútuo entre os pré-candidatos do PSD (Ratinho Jr., Eduardo Leite e Caiado) com definição antecipada do escolhido (Poder360, mar/2026); articulação evangélica conduzida pelo deputado Otoni de Paula e apoio público do bispo Samuel Ferreira (abr/2026); apoio do PSD-MG e de lideranças estaduais a Caiado mesmo com o governador Mateus Simões apoiando outro pré-candidato (Valor, 24/04/2026); chapa fechada com Kassab na convenção de 26/07/2026.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-45",
+          "title": "Pré-candidatos do PSD apoiarão o escolhido pelo partido",
+          "publisher": "Poder360",
+          "url": "https://poder360.com.br/poder-eleicoes/pre-candidatos-do-psd-apoiarao-o-escolhido-pelo-partido",
+          "publishedAt": "2026-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Pacto de apoio mútuo entre Ratinho Jr. (PR), Eduardo Leite (RS) e Ronaldo Caiado (GO) e antecipação da definição do candidato pelo PSD para 27/03/2026; filiação de Caiado ao PSD marcada para 14/03/2026 em Jaraguá (GO). Mês; dia exato da publicação não capturado."
+        },
+        {
+          "id": "src-cg-41",
+          "title": "Direita evangélica racha com apoio de bispo a Caiado",
+          "publisher": "Folha de S.Paulo (coluna Juliano Spyer)",
+          "url": "https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/04/direita-evangelica-racha-com-apoio-de-bispo-a-caiado.shtml",
+          "publishedAt": "2026-04-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "06/04/2026: apoio público do bispo Samuel Ferreira (Conamad — 42 mil templos, cerca de 102 mil pastores) a Caiado na cerimônia de pré-candidatura."
+        },
+        {
+          "id": "src-cg-43",
+          "title": "Caiado diz que 'muitos tentaram destruir' candidaturas no primeiro turno para manter polarização",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/noticia/2026/04/24/caiado-diz-que-muitos-tentaram-destruir-candidaturas-no-primeiro-turno-para-manter-polarizacao.ghtml",
+          "publishedAt": "2026-04-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "24/04/2026: agenda em MG (palestra na Faemg, Mercado Central, abertura de safra de cana em Uberaba, Expozebu); posição contra a verticalização; PSD-MG anuncia apoio a Caiado mesmo com o governador Mateus Simões apoiando Zema."
+        },
+        {
+          "id": "src-cg-44",
+          "title": "PSD confirma candidaturas de Caiado e Kassab",
+          "publisher": "Site de Gilberto Kassab / PSD",
+          "url": "https://gilbertokassab.com.br/noticias/geral/psd-confirma-candidaturas-de-caiado-e-kassab/",
+          "publishedAt": "2026-07-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "26/07/2026: convenção nacional do PSD em São Paulo oficializa a chapa; entrevista coletiva a mais de 100 jornalistas; presença dos governadores Ratinho Junior (PR), Eduardo Leite (RS) e Daniel Vilela (GO), de senadores e de deputados federais."
+        },
+        {
+          "id": "src-cg-47",
+          "title": "Flávio inicia tour de igrejas e amplia ofensiva entre evangélicos",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/google/amp/politica/noticia/2026/04/06/flavio-inicia-tour-de-igrejas-e-amplia-ofensiva-entre-evangelicos-que-o-senhor-o-leve-para-ser-presidente.ghtml",
+          "publishedAt": "2026-04-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "06/04/2026: reporta que Caiado escalou o deputado Otoni de Paula como articulador evangélico e previu convenções de pastores e encontros reservados."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Caiado filiou-se ao PSD em 14/03/2026 após deixar o União Brasil e disputou a prévia interna contra Ratinho Jr. e Eduardo Leite, vencida por ele; o acordo de apoio mútuo comprometia os derrotados a apoiar o vencedor. Apoios de legendas fora do PSD não foram formalizados como coligação."
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (PSD, chapa própria — partido isolado no registro do DJE/TSE de 18/09/2026)",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1. O edital do DJE/TSE de 18/09/2026 lista a chapa como 'PARTIDO SOCIAL DEMOCRÁTICO (PSD)' — sem coligação — enquanto outra chapa aparece como 'COLIGAÇÃO BRASIL PRONTO PRA MAIS (PSB, PDT, FEDERAÇÃO BRASIL DA ESPERANÇA (PT/PC DO B/PV), FEDERAÇÃO PSOL REDE (PSOL/REDE))'; a ficha oficial do TSE replicada pela Folha registra 'PARTIDO ISOLADO (PSD)' e a BBC descreve uma 'chapa puro sangue' (PSD com o vice Gilberto Kassab).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-cg-46",
+          "title": "Diário da Justiça Eletrônico — Edital: lista de candidatas e candidatos a presidente e vice-presidente da República (Eleições 2026)",
+          "publisher": "TSE — Diário da Justiça Eletrônico",
+          "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+          "publishedAt": "2026-09-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Mesmo documento da fonte src-cg-16 (id novo para uso no indicador de articulação). Lista a chapa como 'PARTIDO SOCIAL DEMOCRÁTICO (PSD)' — sem coligação registrada — e, por contraste, registra a coligação de outra chapa ('COLIGAÇÃO BRASIL PRONTO PRA MAIS (PSB, PDT, FEDERAÇÃO BRASIL DA ESPERANÇA (PT/PC DO B/PV), FEDERAÇÃO PSOL REDE (PSOL/REDE))')."
+        },
+        {
+          "id": "src-cg-14",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-cg-02",
+          "title": "Ronaldo Caiado 2026 presidential campaign — verbete (Wikipédia em inglês)",
+          "publisher": "Wikipédia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ronaldo_Caiado_2026_presidential_campaign",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Dump bruto em research/_raw/Ronaldo_Caiado_2026_presidential_campaign_en.txt."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Não há coligação formal registrada: a chapa é do PSD isolado, com Kassab como vice. Apoios informais de outras legendas e acordos estaduais (por exemplo, o apoio do PSD-MG) não integram a coligação presidencial e por isso não elevam o número."
+    }
+  ],
+  "dataGaps": []
+}

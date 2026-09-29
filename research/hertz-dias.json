@@ -645,13 +645,13 @@
     {
       "id": "equipe_gerida",
       "category": "capacidade-execucao",
-      "name": "Equipes geridas no setor público",
+      "name": "Pessoas/equipe sob gestão (servidores)",
       "displayValue": "Não localizado",
       "value": null,
       "unit": "pessoas",
       "metricType": "number",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Número de pessoas sob gestão em cargo público. Nenhum cargo público localizado (not_found) — dado tratado como não localizado, não como certidão negativa.",
+      "methodology": "Proxy padrão (gabinete parlamentar na Câmara/Senado: nº de assessores do gabinete) não existe neste caso: o candidato nunca ocupou mandato eletivo nem cargo público — histórico TSE completo no registro (2010, 2018, 2020, 2022 e 2026, todas não eleitas), executiveExperience vazio, anos_legislativo = 0 e o PSTU não tem assento na Câmara (0/513, API oficial da Casa). Proxies alternativos previstos no spec (estrutura de partido ou de campanha) foram buscados em fontes oficiais e de imprensa em 29/09/2026 e não trazem número de pessoas/assessores: a direção nacional do PSTU não é descrita com quadro quantificado. Sem número oficial, o indicador fica não localizado.",
       "evidenceStatus": "indeterminado",
       "confidenceLevel": "low",
       "availability": "not_found",
@@ -665,9 +665,20 @@
           "accessedAt": "2026-09-29",
           "sourceType": "oficial_eleitoral",
           "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-11",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Ausência de carreira pública explica a ausência de gabinete: sem mandato não existe estrutura de assessoria. O número de pessoas na estrutura de campanha ou na direção partidária não foi localizado em fonte oficial — registrado como lacuna em dataGaps; havendo fonte oficial, o indicador pode ser preenchido como proxy."
     },
     {
       "id": "anos_politica",
@@ -710,7 +721,7 @@
     {
       "id": "anos_legislativo",
       "category": "historico-experiencia",
-      "name": "Anos em mandatos legislativos",
+      "name": "Anos em cargos legislativos",
       "displayValue": "0 anos",
       "value": 0,
       "unit": "anos",
@@ -747,7 +758,7 @@
     {
       "id": "anos_federal",
       "category": "historico-experiencia",
-      "name": "Anos em cargos federais (Executivo ou Legislativo)",
+      "name": "Anos em cargos públicos federais",
       "displayValue": "0 anos",
       "value": 0,
       "unit": "anos",
@@ -848,10 +859,10 @@
     {
       "id": "propostas_total",
       "category": "plano",
-      "name": "Propostas no plano de governo registrado",
+      "name": "Propostas do plano de governo",
       "displayValue": "38 propostas (índice do TSE, 8 eixos)",
       "value": 38,
-      "unit": "propostas",
+      "unit": "itens do plano",
       "metricType": "number",
       "directionality": "higher_is_descriptively_more",
       "methodology": "Contagem dos itens do índice oficial de 'Propostas de Governo' do TSE para a chapa do PSTU (38 itens em 8 eixos; a página contém 39 marcas contando o rodapé 'Erro da página'). Análise manual do PDF não realizada nesta rodada.",
@@ -886,15 +897,15 @@
       "id": "propostas_com_custo",
       "category": "plano",
       "name": "Propostas com custo estimado",
-      "displayValue": "Não informado no índice do TSE (0 de 38 com custo)",
-      "value": null,
+      "displayValue": "0% (0 de 38 propostas com custo estimado em R$)",
+      "value": 0,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas com custo estimado. Nenhum custo identificado no índice oficial das 38 propostas; leitura item a item do PDF não realizada nesta rodada.",
-      "evidenceStatus": "indeterminado",
-      "confidenceLevel": "low",
-      "availability": "not_informed",
+      "methodology": "Contagem sobre 38 propostas do plano registrado (índice oficial do TSE, 38 itens em 8 eixos) e sobre o texto integral do programa (proposta-pstu.pdf), lidos em 29/09/2026; classificação aproximada: nenhuma proposta traz estimativa de custo ou despesa em R$ — o plano apresenta apenas uma seção genérica de financiamento ('O financiamento do plano dos trabalhadores'), sem valor por item.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
       "sources": [
         {
           "id": "src-hd-04",
@@ -917,21 +928,22 @@
           "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Valores monetários citados no programa são alvos de política (aumento de 100% do salário mínimo, bolsa de um salário mínimo para desempregados, piso para jornada de 36 horas) ou referências de mercado (R$ 100 bilhões e R$ 30 bilhões em dividendos pagos por estatais nos últimos quatro anos; R$ 1 trilhão em dívidas com INSS e FGTS), não custo estimado de proposta; por isso não foram contados como custo."
     },
     {
       "id": "propostas_com_prazo",
       "category": "plano",
       "name": "Propostas com prazo",
-      "displayValue": "Não informado no índice do TSE (0 prazos identificados em 38 itens)",
-      "value": null,
+      "displayValue": "16% (6 de 38 com prazo temporal explícito)",
+      "value": 16,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas com prazo definido. Nenhum prazo identificado no índice de 38 itens; contagem por item do PDF completa não realizada.",
-      "evidenceStatus": "indeterminado",
-      "confidenceLevel": "low",
-      "availability": "under_analysis",
+      "methodology": "Contagem sobre 38 propostas do plano registrado (índice do TSE e texto integral do programa, lidos em 29/09/2026); classificação aproximada: contam os itens com temporalidade explícita ('imediatamente/de imediato', 'curto prazo' ou período em dias/anos) — 6 dos 38 itens.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
       "sources": [
         {
           "id": "src-hd-04",
@@ -954,21 +966,22 @@
           "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Itens com prazo: expropriação imediata de empresas estratégicas; demarcação imediata de terras indígenas e titulação de territórios quilombolas; dissolução imediata de batalhões milicianizados (eixo Segurança); restituição imediata em casos de fraude eletrônica; incorporação 'de imediato' de ferramentas digitais (plataformas) ao serviço público e às estatais; expropriação imediata de fazendas do agronegócio. Os demais 32 itens não declaram prazo no texto."
     },
     {
       "id": "propostas_dependentes_congresso",
       "category": "plano",
       "name": "Propostas prioritárias que dependem do Congresso",
-      "displayValue": "Contagem não realizada; revogação das reformas trabalhista e previdenciária, jornada de 36h e isenção de IR dependem do Congresso",
-      "value": null,
+      "displayValue": "87% (33 de 38 propostas com instrumento federal)",
+      "value": 87,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas prioritárias cujo instrumento exige PEC ou lei. Contagem por proposta não realizada; as propostas centrais do PSTU (revogação das reformas, jornada de 36h, tributação de grandes fortunas) exigem legislação do Congresso, onde o PSTU não tem bancada (0/513).",
-      "evidenceStatus": "indeterminado",
-      "confidenceLevel": "low",
-      "availability": "under_analysis",
+      "methodology": "Contagem sobre 38 propostas do plano registrado; classificação aproximada por eixo e instrumento jurídico: contam as propostas cujo instrumento é lei ordinária, medida provisória ou emenda constitucional (7 dos 8 eixos do índice, 35 itens), menos 2 propostas programáticas sem instrumento legislativo identificado ('construção de um governo socialista' e 'Estado operário revolucionário'); excluído o eixo Política Externa e Inserção Global (3 itens), de competência majoritária do Executivo. Resultado: 33 de 38 (87%).",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
       "sources": [
         {
           "id": "src-hd-04",
@@ -989,19 +1002,10 @@
           "accessedAt": "2026-09-29",
           "sourceType": "plano_de_governo",
           "notes": "PDF oficial registrado (722 KB, segundo o Nexo). Sumário por eixo é o mesmo índice de 38 itens da página do TSE."
-        },
-        {
-          "id": "src-hd-11",
-          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
-          "publisher": "Câmara dos Deputados (dados abertos)",
-          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=PSTU&idLegislatura=57&itens=100",
-          "publishedAt": "2026-09-29",
-          "accessedAt": "2026-09-29",
-          "sourceType": "legislativo",
-          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao PSTU em exercício."
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Dependem do Congresso: fim da escala 6x1 e jornada de 36 horas (lei trabalhista), revogação das reformas trabalhista e previdenciária (lei/EC), desmilitarização da PM e fim da Justiça Militar (EC), legalização do aborto, reforma agrária sem indenização (EC), fim de PPPs e terceirizações na saúde e na educação. Não contam: ruptura com acordos de submissão, recusa ao tarifaço e oposição a tratados (política externa)."
     },
     {
       "id": "registro_tse",
@@ -1100,7 +1104,7 @@
     {
       "id": "bancada_partidaria_camara",
       "category": "articulacao",
-      "name": "Bancada do partido no Congresso (antes da eleição de 2026)",
+      "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
       "displayValue": "0/513 deputados federais e 0 senadores",
       "value": 0,
       "unit": "cadeiras",
@@ -1182,6 +1186,229 @@
       ],
       "updatedAt": "2026-09-29",
       "context": "Amostra regional (maior colégio eleitoral do país); não representa a intenção nacional."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "—",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Indicador aplicável a quem já ocupou cargo executivo (eleito ou nomeado): anos_executivo = 0 e nenhuma vitória em cinco disputas (histórico TSE 2010–2026) — nunca governou, portanto não existe aprovação de gestão a medir.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nunca governou; a ausência de pesquisa de aprovação decorre da ausência de gestão, não de lacuna de busca.",
+      "dataPresentation": "notes_only"
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "—",
+      "value": null,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Indicador aplicável a parlamentares: nunca exerceu mandato legislativo (vereador, deputado estadual/federal ou senador) — histórico TSE completo no registro (2010, 2018, 2020, 2022 e 2026, todas derrotadas) e anos_legislativo = 0; não há produção legislativa de autoria a contar em nenhuma casa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Ausência de mandato é fato confirmado pelo histórico eleitoral, não dado não pesquisado. A métrica é comparável à dos candidatos com mandato em exercício, que têm bancada registrada. Contagem explícita: 0 leis de autoria — o spec manda marcar not_applicable (nunca foi parlamentar), não é dado faltante."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Plenárias com 7 sindicatos e DCE em MG (mai/2026); assembleias de metalúrgicos e construtores; entrevistas ao JN e à Alma Preta",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo. No caso: sem bancada (PSTU tem 0 deputados), o diálogo documentado em 2026 é com sindicatos, movimentos e imprensa, com exemplos citados abaixo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-hd-19",
+          "title": "Hertz em MG: PSTU lança pré-candidaturas com plenárias, apoio às lutas e diálogo com trabalhadores",
+          "publisher": "Opinião Socialista (órgão do PSTU)",
+          "url": "https://opiniaosocialista.com.br/hertz-em-mg-pstu-lanca-pre-candidaturas-com-plenarias-apoio-as-lutas-e-dialogo-com-trabalhadores/",
+          "publishedAt": "2026-05-22",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Agenda de 13 a 17/05/2026 em MG com mais de 210 ativistas: plenárias com SIND-UTE/MG, Sindmetal, Sintras, Sindserv, Sindcomerciários, Sinticom, DCE da UFSJ e movimentos (MML e LGBTQIAPN+ de Barbacena); apoio à greve da educação municipal de BH; encerramento em plenária no SindRede com cerca de 80 ativistas. Fonte do próprio partido — usada com marcação partidária."
+        },
+        {
+          "id": "src-hd-17",
+          "title": "Hertz Dias, candidato à Presidência pelo PSTU, fala sobre propostas de governo",
+          "publisher": "g1 (Globo) — Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/04/hertz-dias-candidato-a-presidencia-pelo-pstu-fala-sobre-propostas-de-governo.ghtml",
+          "publishedAt": "2026-09-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevista do Jornal Nacional para candidatos fora do grupo dos mais bem colocados nas pesquisas: reindustrialização, reestatização e redução de jornada sem redução de salários."
+        },
+        {
+          "id": "src-hd-16",
+          "title": "'Queremos que a classe trabalhadora possa se organizar', diz Hertz Dias, candidato à Presidência",
+          "publisher": "Alma Preta",
+          "url": "https://almapreta.com.br/sessao/politica/hertz-dias-entrevista-eleicoes/",
+          "publishedAt": "2026-09-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Entrevista publicada cinco dias antes do 1º turno: professor de História do Maranhão, rapper e cofundador do movimento Quilombo Urbano; afirma que um eventual governo do PSTU não teria o Congresso como base principal, mas fortaleceria conselhos populares ligados a sindicatos, movimentos e associações."
+        },
+        {
+          "id": "src-hd-21",
+          "title": "Debate independente surpreende com quiz 'Brasil em números'; Hertz Dias e Wilson Grassi lideram primeiro bloco",
+          "publisher": "MyNews (com 3 Irmãos e Kritikê)",
+          "url": "https://canalmynews.com.br/sem-categoria/surpreende-em-vez-de-inova-hertz-dias-e-wilson-grassi-lideram/",
+          "publishedAt": "2026-09-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Debate presidencial independente com Rui Costa Pimenta (PCO), Samara Martins (UP), Hertz Dias (PSTU), Clariana Barão (DC) e Wilson Grassi (Democratas)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos: plenárias de 13 a 17/05/2026 em MG com SIND-UTE, Sindmetal, Sintras, Sindserv, Sindcomerciários, Sinticom e DCE da UFSJ, além de movimentos de mulheres e LGBTQIAPN+ (fonte partidária); reuniões com sindicalistas e assembleias na GM e na Avibras, em São José dos Campos (29 e 30/06/2026); assembleia da construção civil e plenária no sindicato em Belém (15/09/2026); carta-compromisso com o SindREDE/BH (23/09/2026); entrevistas ao Jornal Nacional (04/09/2026) e à Alma Preta, imprensa do movimento negro (21/09/2026); debate independente com outros cinco candidatos (26/09/2026). Não localizadas, em 2025–2026, fontes documentando encontros com empresariado, imprensa de oposição ou lideranças religiosas.",
+      "dataPresentation": "notes_only"
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Carta-compromisso com o SindREDE/BH (23/09/2026); apoio à greve da educação de BH; convenção do PSTU na sede dos Metroviários (31/07/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes. No caso: sem coligação registrada e sem bancada, os entendimentos documentados em 2026 são com entidades sindicais e na base partidária, com exemplos abaixo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-hd-18",
+          "title": "Confira a agenda dos presidenciáveis nesta quarta-feira (23)",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-23",
+          "publishedAt": "2026-09-23",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial",
+          "notes": "Agenda de campanha de 23/09/2026: em Belo Horizonte, Hertz Dias faz panfletagem e, à noite, participa da assinatura da carta-compromisso com os candidatos no SindREDE, além de conceder entrevista."
+        },
+        {
+          "id": "src-hd-24",
+          "title": "Confira a agenda dos candidatos à presidência para esta quarta-feira",
+          "publisher": "Edição Brasília",
+          "url": "https://edicaobrasilia.com.br/confira-a-agenda-dos-candidatos-a-presidencia-para-esta-quarta-feira",
+          "publishedAt": "2026-09-23",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Agenda de 23/09/2026 dos presidenciáveis: roteiro inclui 'assinatura de cartas-compromisso com entidades da sociedade civil'; Hertz Dias assina carta-compromisso junto ao SindREDE, em Belo Horizonte."
+        },
+        {
+          "id": "src-hd-19",
+          "title": "Hertz em MG: PSTU lança pré-candidaturas com plenárias, apoio às lutas e diálogo com trabalhadores",
+          "publisher": "Opinião Socialista (órgão do PSTU)",
+          "url": "https://opiniaosocialista.com.br/hertz-em-mg-pstu-lanca-pre-candidaturas-com-plenarias-apoio-as-lutas-e-dialogo-com-trabalhadores/",
+          "publishedAt": "2026-05-22",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Agenda de 13 a 17/05/2026 em MG com mais de 210 ativistas: plenárias com SIND-UTE/MG, Sindmetal, Sintras, Sindserv, Sindcomerciários, Sinticom, DCE da UFSJ e movimentos (MML e LGBTQIAPN+ de Barbacena); apoio à greve da educação municipal de BH; encerramento em plenária no SindRede com cerca de 80 ativistas. Fonte do próprio partido — usada com marcação partidária."
+        },
+        {
+          "id": "src-hd-22",
+          "title": "Convenção do PSTU lança candidatura de Hertz Dias à Presidência em SP",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/31/convencao-pstu-hertz-dias-presidencia.ghtml",
+          "publishedAt": "2026-07-31",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção nacional do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários (SP): chapa pura com Vanessa Portugal (PSTU) como vice; demais candidaturas definidas nos estados."
+        },
+        {
+          "id": "src-hd-20",
+          "title": "A campanha eleitoral do PSTU e a centralidade da classe operária",
+          "publisher": "Opinião Socialista (órgão do PSTU)",
+          "url": "https://opiniaosocialista.com.br/a-campanha-eleitoral-do-pstu-e-a-centralidade-da-classe-operaria/",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria",
+          "notes": "Reuniões com sindicalistas e assembleias em São José dos Campos e Jacareí (29 e 30/06/2026) — Sindicato dos Metalúrgicos, assembleia de trabalhadores da GM e da Avibras; apoio à assembleia da construção civil de Belém, categoria em campanha salarial (set/2026). Fonte do próprio partido — usada com marcação partidária."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos: assinatura de carta-compromisso com o SindREDE/BH em 23/09/2026, com pautas da educação municipal (Agência Brasil e Edição Brasília); apoio à greve da educação municipal de Belo Horizonte, com plenária de encerramento no SindRede em 17/05/2026 (fonte partidária); participação em assembleia da construção civil de Belém, categoria em campanha salarial (15/09/2026); convenção nacional do PSTU realizada na sede do Sindicato dos Metroviários em 31/07/2026 (g1). Registro negativo relevante: o PSTU concorre em chapa pura (Hertz Dias e Vanessa Portugal), sem coligação ou federação, e não há acordos partidários registrados em 2026 nas fontes consultadas.",
+      "dataPresentation": "notes_only"
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (PSTU — chapa pura, sem coligação ou federação registrada)",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1. No caso: registro em chapa pura à Presidência em 2026, com a vice também filiada ao PSTU.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-hd-01",
+          "title": "Hertz Dias — candidato a presidente em 2026 (registro deferido; dados pessoais, finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/hertz-dias-280002552507/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nascimento 20/10/1970 (55 anos), São José de Ribamar (MA), brasileiro nato, preto, solteiro, superior completo, ocupação 'professor de ensino fundamental', bens R$ 170.000,00 (apartamento 45 m²); nº 16, PSTU, vice Vanessa Portugal; histórico TSE desde 1998: 2022 Governador/MA 5.191, 2020 Prefeito São Luís 2.173, 2018 Vice-presidente/Brasil 55.762, 2010 Vice-governador/MA 14.685; campanha parcial até 08/09/2026: receita R$ 1.087.584,16 (7 doadores; PSTU direção nacional R$ 1.074.389,00 = 99%), gasto contratado R$ 1.050.232,71 (1,2% do limite de R$ 88.944.030,80), pago R$ 655.232,71; redes: YouTube canaldohertz, Instagram hertzdiaspstu."
+        },
+        {
+          "id": "src-hd-22",
+          "title": "Convenção do PSTU lança candidatura de Hertz Dias à Presidência em SP",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/31/convencao-pstu-hertz-dias-presidencia.ghtml",
+          "publishedAt": "2026-07-31",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Convenção nacional do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários (SP): chapa pura com Vanessa Portugal (PSTU) como vice; demais candidaturas definidas nos estados."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "A convenção nacional do PSTU de 31/07/2026 oficializou chapa pura (Hertz Dias e Vanessa Portugal, ambos do PSTU) e a ficha do candidato no TSE/Nexo não registra coligação ou federação para a Presidência."
     }
   ],
   "currentSupport": [
@@ -1461,7 +1688,104 @@
       "accessedAt": "2026-09-29",
       "sourceType": "oficial_eleitoral",
       "notes": "Comunicado oficial do TSE com a lista das chapas registradas à Presidência nas Eleições 2026 (12 candidaturas válidas)."
+    },
+    {
+      "id": "src-hd-16",
+      "title": "'Queremos que a classe trabalhadora possa se organizar', diz Hertz Dias, candidato à Presidência",
+      "publisher": "Alma Preta",
+      "url": "https://almapreta.com.br/sessao/politica/hertz-dias-entrevista-eleicoes/",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista publicada cinco dias antes do 1º turno: professor de História do Maranhão, rapper e cofundador do movimento Quilombo Urbano; afirma que um eventual governo do PSTU não teria o Congresso como base principal, mas fortaleceria conselhos populares ligados a sindicatos, movimentos e associações."
+    },
+    {
+      "id": "src-hd-17",
+      "title": "Hertz Dias, candidato à Presidência pelo PSTU, fala sobre propostas de governo",
+      "publisher": "g1 (Globo) — Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/04/hertz-dias-candidato-a-presidencia-pelo-pstu-fala-sobre-propostas-de-governo.ghtml",
+      "publishedAt": "2026-09-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Entrevista do Jornal Nacional para candidatos fora do grupo dos mais bem colocados nas pesquisas: reindustrialização, reestatização e redução de jornada sem redução de salários."
+    },
+    {
+      "id": "src-hd-18",
+      "title": "Confira a agenda dos presidenciáveis nesta quarta-feira (23)",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-23",
+      "publishedAt": "2026-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial",
+      "notes": "Agenda de campanha de 23/09/2026: em Belo Horizonte, Hertz Dias faz panfletagem e, à noite, participa da assinatura da carta-compromisso com os candidatos no SindREDE, além de conceder entrevista."
+    },
+    {
+      "id": "src-hd-19",
+      "title": "Hertz em MG: PSTU lança pré-candidaturas com plenárias, apoio às lutas e diálogo com trabalhadores",
+      "publisher": "Opinião Socialista (órgão do PSTU)",
+      "url": "https://opiniaosocialista.com.br/hertz-em-mg-pstu-lanca-pre-candidaturas-com-plenarias-apoio-as-lutas-e-dialogo-com-trabalhadores/",
+      "publishedAt": "2026-05-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Agenda de 13 a 17/05/2026 em MG com mais de 210 ativistas: plenárias com SIND-UTE/MG, Sindmetal, Sintras, Sindserv, Sindcomerciários, Sinticom, DCE da UFSJ e movimentos (MML e LGBTQIAPN+ de Barbacena); apoio à greve da educação municipal de BH; encerramento em plenária no SindRede com cerca de 80 ativistas. Fonte do próprio partido — usada com marcação partidária."
+    },
+    {
+      "id": "src-hd-20",
+      "title": "A campanha eleitoral do PSTU e a centralidade da classe operária",
+      "publisher": "Opinião Socialista (órgão do PSTU)",
+      "url": "https://opiniaosocialista.com.br/a-campanha-eleitoral-do-pstu-e-a-centralidade-da-classe-operaria/",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Reuniões com sindicalistas e assembleias em São José dos Campos e Jacareí (29 e 30/06/2026) — Sindicato dos Metalúrgicos, assembleia de trabalhadores da GM e da Avibras; apoio à assembleia da construção civil de Belém, categoria em campanha salarial (set/2026). Fonte do próprio partido — usada com marcação partidária."
+    },
+    {
+      "id": "src-hd-21",
+      "title": "Debate independente surpreende com quiz 'Brasil em números'; Hertz Dias e Wilson Grassi lideram primeiro bloco",
+      "publisher": "MyNews (com 3 Irmãos e Kritikê)",
+      "url": "https://canalmynews.com.br/sem-categoria/surpreende-em-vez-de-inova-hertz-dias-e-wilson-grassi-lideram/",
+      "publishedAt": "2026-09-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Debate presidencial independente com Rui Costa Pimenta (PCO), Samara Martins (UP), Hertz Dias (PSTU), Clariana Barão (DC) e Wilson Grassi (Democratas)."
+    },
+    {
+      "id": "src-hd-22",
+      "title": "Convenção do PSTU lança candidatura de Hertz Dias à Presidência em SP",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/31/convencao-pstu-hertz-dias-presidencia.ghtml",
+      "publishedAt": "2026-07-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Convenção nacional do PSTU em 31/07/2026, na sede do Sindicato dos Metroviários (SP): chapa pura com Vanessa Portugal (PSTU) como vice; demais candidaturas definidas nos estados."
+    },
+    {
+      "id": "src-hd-23",
+      "title": "Hertz Dias, candidato à Presidência pelo PSTU, tem agenda em Belém com visita ao Ver-o-Peso",
+      "publisher": "O Liberal",
+      "url": "https://www.oliberal.com/politica/hertz-dias-pstu-candidato-a-presidencia-pelo-pstu-tem-agenda-em-belem-com-visita-ao-ver-o-peso-1.1167971",
+      "publishedAt": "2026-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda de 15/09/2026 em Belém: caminhada e panfletagem no Ver-o-Peso com feirantes e trabalhadores, assembleia da construção civil (categoria em campanha salarial) e plenária aberta no Sindicato dos Trabalhadores da Construção Civil de Belém."
+    },
+    {
+      "id": "src-hd-24",
+      "title": "Confira a agenda dos candidatos à presidência para esta quarta-feira",
+      "publisher": "Edição Brasília",
+      "url": "https://edicaobrasilia.com.br/confira-a-agenda-dos-candidatos-a-presidencia-para-esta-quarta-feira",
+      "publishedAt": "2026-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda de 23/09/2026 dos presidenciáveis: roteiro inclui 'assinatura de cartas-compromisso com entidades da sociedade civil'; Hertz Dias assina carta-compromisso junto ao SindREDE, em Belo Horizonte."
     }
   ],
-  "updatedAt": "2026-09-29"
+  "updatedAt": "2026-09-29",
+  "dataGaps": [
+    "Contagens do plano (custo, prazo e dependência do Congresso) são classificação aproximada feita em 29/09/2026 sobre os títulos do índice do TSE e o texto integral do programa lido via leitura alternativa (CDN do TSE bloqueado); não houve validação humana proposta a proposta.",
+    "equipe_gerida: não existe gabinete ou estrutura pública (nunca houve mandato nem cargo público); o número de assessores da estrutura de campanha ou do quadro da direção nacional do PSTU não foi quantificado em fonte oficial — proxy possível para próxima rodada.",
+    "Título da capa do PDF do plano de governo não capturado nesta rodada (not_found registrado no governmentPlan).",
+    "Diálogo e negociação com empresariado, imprensa de oposição e lideranças religiosas em 2025–2026 não localizados; registros de 2025 são escassos (predominam fontes de 2026).",
+    "DivulgaCandContas não foi consultado diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram das páginas oficiais e de imprensa que replicam a plataforma."
+  ]
 }

@@ -1,0 +1,502 @@
+{
+  "slug": "augusto-cury",
+  "sources": [
+    {
+      "id": "src-ac-39",
+      "title": "Augusto Cury, candidato do Avante à Presidência, visita sede da Assembleia de Deus em São Paulo",
+      "publisher": "G1 / Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/augusto-cury-candidato-do-avante-a-presidencia-visita-sede-da-assembleia-de-deus-em-sao-paulo.ghtml",
+      "publishedAt": "2026-09-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-40",
+      "title": "Em evento na Assembleia de Deus, Cury nega ter pedido votos e diz já ser próximo de evangélicos",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/em-evento-na-assembleia-de-deus-cury-nega-ter-pedido-votos-e-diz-ja-ser-proximo-de-evangelicos.shtml",
+      "publishedAt": "2026-09-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-41",
+      "title": "Augusto Cury diz que falou com Kassab sobre disputar a Presidência: 'conversei longamente'",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/04/06/conversei-longamente-com-kassab-diz-augusto-cury-sobre-pre-candidatura.ghtm",
+      "publishedAt": "2026-04-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-42",
+      "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+      "publishedAt": "2026-08-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-43",
+      "title": "Eleições 2026: ficha do candidato Escritor Augusto Cury (Avante) — coligação 'Brasil dos Nossos Sonhos' (Agir / Avante)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/escritor-augusto-cury-280002551547.shtml",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Página viva de ficha do candidato; coligação registrada listada como 'BRASIL DOS NOSSOS SONHOS (AGIR / AVANTE)'."
+    },
+    {
+      "id": "src-ac-44",
+      "title": "Campanha presidencial de Augusto Cury em 2026 — em 05/08/2026 a convenção nacional do Agir oficializou apoio formal à candidatura",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Augusto_Cury_em_2026",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-45",
+      "title": "Lista de partidos, federações, coligações, candidatas e candidatos — Eleição Geral Federal 2026, 1º turno (Diário da Justiça Eletrônico)",
+      "publisher": "TSE — Diário da Justiça Eletrônico (SINTSE)",
+      "url": "https://sintse.tse.jus.br/documentos/2026/Set/23/diario-da-justica-eletronico-tres-destaques-edicoes-anteriores/lista-de-partidos-federacoes-coligacoes-candidatas-e-candidatos-eleicao-geral-federal-2026-1o-turno",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral"
+    },
+    {
+      "id": "src-ac-46",
+      "title": "Escola da Inteligência — perfil corporativo: ≈116 colaboradores (-6,5% em um ano), fundada em 2010, sede em Ribeirão Preto",
+      "publisher": "LinkedIn (perfil da empresa)",
+      "url": "https://br.linkedin.com/company/escoladainteligencia",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Número declarado pela própria empresa em plataforma corporativa; não é quadro oficial auditado."
+    },
+    {
+      "id": "src-ac-47",
+      "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+      "publisher": "Revista Fórum — Fórum Investiga",
+      "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+      "publishedAt": "2026-09-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-48",
+      "title": "Arco Educação compra 60% da Escola da Inteligência por R$ 288 milhões",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/empresas/noticia/2020/08/28/arco-educacao-compra-60percent-da-escola-da-inteligencia-por-r-288-milhoes.ghtml",
+      "publishedAt": "2020-08-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-49",
+      "title": "Gastos de campanha: presidenciáveis já declararam R$ 74 milhões (Cury: R$ 55,2 mil; hospedagem de dois funcionários de segurança e da equipe de apoio)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-prestacao-parcial-campanha.ghtml",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-50",
+      "title": "Escritor Augusto Cury se filia ao Avante para disputar a Presidência (afirmou ter conversado com dirigentes de outros partidos, como Gilberto Kassab)",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/escritor-e-psiquiatra-augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+      "publishedAt": "2026-04-05",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-ac-51",
+      "title": "Cury avoids naming economy chief to sidestep 'controversy' (recusa em anunciar nomes do ministério; promete convidar especialistas)",
+      "publisher": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/04/cury-avoids-naming-economy-chief-to-sidestep-controversy.ghtml",
+      "publishedAt": "2026-09-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "≈116 colaboradores (proxy: Escola da Inteligência, empresa de metodologia criada por Cury)",
+      "value": 116,
+      "unit": "servidores",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Sem cargo público: proxy empresarial. Estrutura de pessoas da Escola da Inteligência (empresa de metodologia educacional criada por Augusto Cury, sede em Ribeirão Preto/SP), com ≈116 colaboradores no perfil corporativo da própria empresa no LinkedIn (2026); plataforma Tracxn registra 117. Arco Educação adquiriu 60% da empresa em 2020, o que pode não refletir a gestão atual do candidato. Estimativa de plataforma corporativa, não quadro oficial.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ac-46",
+          "title": "Escola da Inteligência — perfil corporativo: ≈116 colaboradores (-6,5% em um ano), fundada em 2010, sede em Ribeirão Preto",
+          "publisher": "LinkedIn (perfil da empresa)",
+          "url": "https://br.linkedin.com/company/escoladainteligencia",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Número declarado pela própria empresa em plataforma corporativa; não é quadro oficial auditado."
+        },
+        {
+          "id": "src-ac-47",
+          "title": "Contratos públicos para metodologia de Augusto Cury somam mais de R$ 30 milhões (metodologia educacional criada por Augusto Cury; Escola da Inteligência; 25 contratos em dez estados)",
+          "publisher": "Revista Fórum — Fórum Investiga",
+          "url": "https://revistaforum.com.br/politica/augusto-cury-contratos-publicos/",
+          "publishedAt": "2026-09-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-ac-48",
+          "title": "Arco Educação compra 60% da Escola da Inteligência por R$ 288 milhões",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/empresas/noticia/2020/08/28/arco-educacao-compra-60percent-da-escola-da-inteligencia-por-r-288-milhoes.ghtml",
+          "publishedAt": "2020-08-28",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nenhum cargo público ou de nomeação exercido. A prestação de contas parcial da campanha registra hospedagem de dois funcionários de segurança e da 'equipe de apoio' em São Paulo e Montes Claros, sem total de pessoas (g1, 09/09/2026)."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "Não se aplica — nunca ocupou cargo executivo",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Aprovação da gestão medida em pesquisas — requer cargo executivo exercido (governo/prefeitura).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-ac-03",
+          "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury",
+          "publisher": "g1 (Globo) — dados do TSE/DivulgaCandContas",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do candidato: nº 70, vice Júlio Delgado, ocupação Escritor e crítico, superior completo, lista de bens."
+        },
+        {
+          "id": "src-ac-02",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Aprovação das 12 chapas e indeferimento da chapa Marçal/Avalanche."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "2026 é a primeira disputa eleitoral e o candidato não exerceu cargo executivo (ficha TSE/g1)."
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "Não se aplica — nunca foi parlamentar",
+      "value": null,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Leis de autoria principal aprovadas no Legislativo — requer mandato parlamentar exercido.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-ac-03",
+          "title": "Candidato a Presidente nas eleições 2026 — Escritor Augusto Cury",
+          "publisher": "g1 (Globo) — dados do TSE/DivulgaCandContas",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva com dados do candidato: nº 70, vice Júlio Delgado, ocupação Escritor e crítico, superior completo, lista de bens."
+        },
+        {
+          "id": "src-ac-02",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Aprovação das 12 chapas e indeferimento da chapa Marçal/Avalanche."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nunca exerceu mandato legislativo em nenhuma esfera (ficha TSE/g1: candidaturas anteriores — nenhuma)."
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "1 de 9 propostas-chave com custo estimado (11%) — Fundo Nacional do Empreendedor: R$ 30–50 bi",
+      "value": 11,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 9 propostas-chave detalhadas nesta ficha, extraídas do plano registrado no TSE (200 páginas, 18 tópicos de projetos): só a proposta de empreendedorismo quantifica valor (Fundo Nacional do Empreendedor, R$ 30 bi a R$ 50 bi) — 1/9 ≈ 11%. Classificação aproximada do campo hasCost de cada proposta; os 18 tópicos do documento não são individualizados em propostas.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ac-05",
+          "title": "Plano de Augusto Cury reúne propostas para 18 áreas (documento tem 200 páginas)",
+          "publisher": "Radioagência Nacional / Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/plano-de-augusto-cury-reune-propostas-para-18-areas",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Contagem de 18 tópicos, 200 páginas e descrição das principais propostas."
+        },
+        {
+          "id": "src-ac-34",
+          "title": "Quem é Augusto Cury? Conheça a trajetória do escritor e psiquiatra",
+          "publisher": "QueroBolsa (Revista)",
+          "url": "https://querobolsa.com.br/revista/quem-e-augusto-cury",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo declarado",
+      "displayValue": "2 de 9 propostas-chave com prazo declarado (22%) — salário mínimo (4 anos / 8–10 anos) e alimentos (10–12 anos)",
+      "value": 22,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 9 propostas-chave desta ficha: duas declaram horizonte temporal explícito (produtividade do trabalho em 4 anos e salário mínimo de US$ 300 em 8–10 anos; meta de produção de alimentos em 10–12 anos) — 2/9 ≈ 22%. Classificação aproximada; o documento registrado não traz cronograma por proposta.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ac-19",
+          "title": "Augusto Cury diz que pretende reajustar salário mínimo pela inflação, reduzir ministérios e ampliar telemedicina no SUS",
+          "publisher": "GZH (Estadão Conteúdo)",
+          "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2026/08/augusto-cury-diz-que-pretende-reajustar-salario-minimo-pela-inflacao-reduzir-ministerios-e-ampliar-telemedicina-no-sus-cmtf4zwpv02hb0179hg8spbyj.html",
+          "publishedAt": "2026-08-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Sabatina da TV Globo; convite a Caiado; ligação com empresa de telemedicina."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas dependentes do Congresso",
+      "displayValue": "3 de 9 propostas-chave dependem do Congresso (33%) — semipresidencialismo/STF, salário mínimo/ministérios e empreendedorismo",
+      "value": 33,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 9 propostas-chave desta ficha (campo dependsOnCongress): três exigem lei ou emenda constitucional — semipresidencialismo e mandato de 8 anos para ministros do STF; reajuste do salário mínimo e reorganização de ministérios; criação de ministério do empreendedorismo — 3/9 ≈ 33%. Classificação aproximada por instrumento legal declarado.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ac-06",
+          "title": "Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/augusto-cury-propoe-mandato-de-oito-anos-no-stf-e-semipresidencialismo",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Setembro/2026; dia exato não capturado."
+        }
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Reunião com cúpula da Assembleia de Deus (03/09/2026); contatos com dirigentes de PSD e PSDB e deputados (04/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ac-39",
+          "title": "Augusto Cury, candidato do Avante à Presidência, visita sede da Assembleia de Deus em São Paulo",
+          "publisher": "G1 / Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/augusto-cury-candidato-do-avante-a-presidencia-visita-sede-da-assembleia-de-deus-em-sao-paulo.ghtml",
+          "publishedAt": "2026-09-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-ac-40",
+          "title": "Em evento na Assembleia de Deus, Cury nega ter pedido votos e diz já ser próximo de evangélicos",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/09/em-evento-na-assembleia-de-deus-cury-nega-ter-pedido-votos-e-diz-ja-ser-proximo-de-evangelicos.shtml",
+          "publishedAt": "2026-09-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-ac-50",
+          "title": "Escritor Augusto Cury se filia ao Avante para disputar a Presidência (afirmou ter conversado com dirigentes de outros partidos, como Gilberto Kassab)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/escritor-e-psiquiatra-augusto-cury-anuncia-pre-candidatura-a-presidencia-pelo-avante",
+          "publishedAt": "2026-04-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-ac-46",
+          "title": "Escola da Inteligência — perfil corporativo: ≈116 colaboradores (-6,5% em um ano), fundada em 2010, sede em Ribeirão Preto",
+          "publisher": "LinkedIn (perfil da empresa)",
+          "url": "https://br.linkedin.com/company/escoladainteligencia",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Número declarado pela própria empresa em plataforma corporativa; não é quadro oficial auditado."
+        }
+      ],
+      "dataPresentation": "notes_only",
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos (2025–2026): (1) 03/09/2026 — reunião a portas fechadas com o presidente da CGADB, José Wellington Costa Jr., e pastores da Assembleia de Deus em São Paulo, com pauta de família, liberdade religiosa e economia (g1/JN; Folha); (2) 29/08/2026 — sabatina/entrevista à TV Globo, com defesa de reajuste do salário mínimo, redução de ministérios e telemedicina no SUS (GZH, src-ac-19); (3) 04–05/04/2026 — antes da filiação, afirmou ter conversado com dirigentes de outros partidos (Gilberto Kassab, PSD; Aécio Neves, PSDB) e com deputados (UOL; Gazeta do Povo; Metrópoles, src-ac-09); (4) prestação de contas registra despesas com reuniões de trabalho, treinamento e planejamento de campanha (g1, 09/09/2026)."
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Chapa com Zema descartada (08/2026); apoio formal do Agir em coligação (05/08/2026); recusa em anunciar ministros (09/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2026): pautas, entendimentos partidários, composição de chapa e alianças eleitorais — análise aproximada com exemplos citados e fontes.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ac-42",
+          "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+          "publishedAt": "2026-08-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-ac-43",
+          "title": "Eleições 2026: ficha do candidato Escritor Augusto Cury (Avante) — coligação 'Brasil dos Nossos Sonhos' (Agir / Avante)",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/escritor-augusto-cury-280002551547.shtml",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Página viva de ficha do candidato; coligação registrada listada como 'BRASIL DOS NOSSOS SONHOS (AGIR / AVANTE)'."
+        },
+        {
+          "id": "src-ac-41",
+          "title": "Augusto Cury diz que falou com Kassab sobre disputar a Presidência: 'conversei longamente'",
+          "publisher": "UOL",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/04/06/conversei-longamente-com-kassab-diz-augusto-cury-sobre-pre-candidatura.ghtm",
+          "publishedAt": "2026-04-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-ac-51",
+          "title": "Cury avoids naming economy chief to sidestep 'controversy' (recusa em anunciar nomes do ministério; promete convidar especialistas)",
+          "publisher": "Valor International",
+          "url": "https://valorinternational.globo.com/politics/news/2026/09/04/cury-avoids-naming-economy-chief-to-sidestep-controversy.ghtml",
+          "publishedAt": "2026-09-04",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "dataPresentation": "notes_only",
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos: (1) 04/2026 — conversas com PSD (Kassab) e PSDB (Aécio) antes de fechar com o Avante; (2) 05/08/2026 — chegou a considerar chapa com Romeu Zema (Novo) e a negociação não avançou; anunciou o ex-deputado Júlio Delgado (Avante) como vice (Poder360); (3) 05/08/2026 — convenção nacional do Agir oficializou apoio formal, resultando na coligação 'Brasil dos Nossos Sonhos' (Avante + Agir); (4) 04/09/2026 — recusa em revelar nomes para o ministério da Economia, prometendo convidar especialistas e técnicos (Valor International)."
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "2 partidos (coligação 'Brasil dos Nossos Sonhos' — Avante e Agir)",
+      "value": 2,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-ac-43",
+          "title": "Eleições 2026: ficha do candidato Escritor Augusto Cury (Avante) — coligação 'Brasil dos Nossos Sonhos' (Agir / Avante)",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/escritor-augusto-cury-280002551547.shtml",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Página viva de ficha do candidato; coligação registrada listada como 'BRASIL DOS NOSSOS SONHOS (AGIR / AVANTE)'."
+        },
+        {
+          "id": "src-ac-44",
+          "title": "Campanha presidencial de Augusto Cury em 2026 — em 05/08/2026 a convenção nacional do Agir oficializou apoio formal à candidatura",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Augusto_Cury_em_2026",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-ac-42",
+          "title": "Augusto Cury anuncia Júlio Delgado como vice na disputa presidencial (chapa com Zema foi considerada e a negociação não avançou)",
+          "publisher": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-anuncia-julio-delgado-como-vice-na-disputa-presidencial/",
+          "publishedAt": "2026-08-05",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Coligação 'Brasil dos Nossos Sonhos', formada por Avante (candidato e vice) e Agir, conforme ficha de candidatura (Folha) e verbete da campanha; convenção do Agir em 05/08/2026 formalizou o apoio."
+    }
+  ],
+  "dataGaps": [
+    "equipe_gerida usa proxy empresarial (Escola da Inteligência, ≈116 colaboradores em perfil corporativo de 2026): não existe quadro oficial publicado e a Arco Educação detém 60% da empresa desde 2020, o que impede atribuir o time diretamente ao candidato.",
+    "Percentuais de custo/prazo/dependência do Congresso são contagens sobre as 9 propostas-chave detalhadas nesta ficha; o documento registrado (200 páginas/18 tópicos) não individualiza propostas, então a contagem não cobre os 18 tópicos.",
+    "Custos por proposta não constam do plano; a única quantificação localizada segue sendo o Fundo Nacional do Empreendedor (R$ 30–50 bi).",
+    "Composição da coligação (Avante + Agir) confirmada por ficha de candidatura e verbete de campanha; a lista do DJE não foi lida item a item para checagem do registro da coligação."
+  ]
+}

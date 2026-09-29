@@ -1,0 +1,548 @@
+{
+  "slug": "wilson-grassi",
+  "sources": [
+    {
+      "id": "src-wg-20",
+      "title": "Agenda dos presidenciáveis tem sabatina e pautas sociais",
+      "publisher": "SpaceMoney",
+      "url": "https://www.spacemoney.com.br/politica/agenda-dos-presidenciaveis-10/",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda de 24/08/2026: Wilson Grassi dedicou o dia a reuniões com a equipe de comunicação da campanha (media training e alinhamento de estratégia), sem eventos públicos de grande porte registrados."
+    },
+    {
+      "id": "src-wg-21",
+      "title": "Agenda dos presidenciáveis desta segunda tem sabatinas",
+      "publisher": "SpaceMoney",
+      "url": "https://www.spacemoney.com.br/politica/agenda-presidenciaveis-segunda-feira-2/",
+      "publishedAt": "2026-08-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Agenda de 31/08/2026: reunião de alinhamento com o comitê de campanha (9h) e gravação de vídeos com a área de marketing (15h)."
+    },
+    {
+      "id": "src-wg-22",
+      "title": "Wilson Grassi, candidato do Democrata à Presidência, faz campanha em Brasília",
+      "publisher": "g1 / Jornal Nacional",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/wilson-grassi-candidato-do-democrata-a-presidencia-faz-campanha-em-brasilia.ghtml",
+      "publishedAt": "2026-09-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "03/09/2026: visita ao Hospital e Centro de Reabilitação da Fauna Silvestre (Taguatinga/DF) e a uma clínica de cães e gatos; defesa de castração de animais abandonados e de passagens subterrâneas em rodovias."
+    },
+    {
+      "id": "src-wg-23",
+      "title": "Democrata tem veterinário Wilson Grassi na disputa presidencial",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-tem-veterinario-wilson-grassi-na-disputa-presidencial",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "18/08/2026: 'O candidato à Presidência nunca ocupou função pública, mas já disputou os cargos de vereador, deputado estadual e federal por São Paulo, pelos partidos PV e PRTB'; conselheiro da Anclivepa-SP; partido fundado em 2015 (antes PMB)."
+    },
+    {
+      "id": "src-wg-24",
+      "title": "Diário da Justiça Eletrônico — Edital: lista de candidatas e candidatos a presidente e vice-presidente da República (Eleições 2026)",
+      "publisher": "TSE — Diário da Justiça Eletrônico",
+      "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+      "publishedAt": "2026-09-18",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Edital com a lista de chapas: a de Wilson Grassi aparece como 'DEMOCRATA (DEMOCRATA)' — partido isolado, sem coligação ou federação —, enquanto outras chapas constam como coligação nominal com a lista de partidos."
+    },
+    {
+      "id": "src-wg-25",
+      "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "11/09/2026: quadro final das 12 chapas validadas, incluindo 'Wilson Grassi e Suêd Haidar (Democrata)'."
+    },
+    {
+      "id": "src-wg-26",
+      "title": "Wilson Grassi — Propostas de Governo (índice oficial completo, 44 itens em 8 eixos)",
+      "publisher": "TSE — Tribunal Superior Eleitoral (captura integral via proxy r.jina.ai)",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Captura integral do índice em 29/09/2026 (5.490 caracteres de conteúdo): 44 itens com título e páginas do PDF — Economia/Trabalho/Fiscal (8), Saúde/Assistência (6), Segurança/Justiça (5), Educação/Ciência/Meio Ambiente (4), Política Externa/Inserção Global (7), Direitos Humanos/Equidade (5), Questão Agrária/Propriedade/Cidade (4), Governança/Transparência/Reformas (5)."
+    }
+  ],
+  "metrics": [
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "Não se aplica — nunca ocupou cargo público ou mandato, sem gabinete ou equipe pública",
+      "value": null,
+      "unit": "pessoas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Pessoas sob gestão direta em cargo público. Busca de proxy documentado (gabinete parlamentar, estrutura de governo/estatal, partido, empresa): (1) nunca exerceu mandato ou função pública — 'nunca ocupou função pública' (Agência Brasil, 18/08/2026); deputado federal em 2022 consta como candidatura 'não apta'/indeferida, sem posse; não há gabinete parlamentar; (2) o Democrata não tem bancada nem cargos executivos (0/513 deputados e 0/81 senadores em 29/09/2026), e a presidência nacional do partido é ocupada pela vice da chapa, Suêd Haidar (2015–2026), não pelo candidato; (3) a estrutura de campanha de 2026 é privada e a prestação de contas até 08/09/2026 registra apenas R$ 2.330 em gastos de pessoal contratado. Sem base pública a contabilizar.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-wg-23",
+          "title": "Democrata tem veterinário Wilson Grassi na disputa presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-tem-veterinario-wilson-grassi-na-disputa-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "18/08/2026: 'O candidato à Presidência nunca ocupou função pública, mas já disputou os cargos de vereador, deputado estadual e federal por São Paulo, pelos partidos PV e PRTB'; conselheiro da Anclivepa-SP; partido fundado em 2015 (antes PMB)."
+        },
+        {
+          "id": "src-wg-02",
+          "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+        },
+        {
+          "id": "src-wg-15",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+        },
+        {
+          "id": "src-wg-16",
+          "title": "API de Dados Abertos do Senado Federal — lista de parlamentares em exercício",
+          "publisher": "Senado Federal (dados abertos)",
+          "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026: 81 senadores em exercício, 0 do Democrata."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Ausência de cargo público é fato documentado (Agência Brasil; TSE/Nexo). Proxy de estrutura de campanha: receita de R$ 850.150,00 (100% do próprio candidato) e R$ 2.330 em pessoal contratado até 08/09/2026 — sem número de pessoas divulgado."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "Não se aplica — nunca governou ou administrou gestão pública",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Aprovação de gestão em pesquisas. Não há gestão pública a avaliar: o candidato nunca ocupou função pública (Agência Brasil, 18/08/2026) e o histórico eleitoral do TSE registra três disputas sem vitória (2006 PFL, 2022 PV inapta, 2024 PRTB).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-wg-23",
+          "title": "Democrata tem veterinário Wilson Grassi na disputa presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-tem-veterinario-wilson-grassi-na-disputa-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "18/08/2026: 'O candidato à Presidência nunca ocupou função pública, mas já disputou os cargos de vereador, deputado estadual e federal por São Paulo, pelos partidos PV e PRTB'; conselheiro da Anclivepa-SP; partido fundado em 2015 (antes PMB)."
+        },
+        {
+          "id": "src-wg-02",
+          "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nunca governou — não existe pesquisa de aprovação de gestão aplicável a este candidato; a ausência de gestão é fato, não lacuna de pesquisa."
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "Não se aplica — nunca exerceu mandato parlamentar (0 de 3 disputas anteriores vencidas)",
+      "value": null,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem de leis de autoria principal. Sem produção legislativa: 2006 (deputado estadual, PFL) sem eleição; 2022 (deputado federal, PV) candidatura 'não apta'/indeferida; 2024 (vereador de SP, PRTB) não eleito; nenhuma posse localizada. 2026 é a quarta disputa, ainda sem mandato.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-wg-02",
+          "title": "Veterinário Wilson Grassi — candidato a presidente em 2026 (registro deferido; finanças e histórico eleitoral com dados do TSE)",
+          "publisher": "Nexo Jornal (dados: TSE — dados abertos de prestação de contas eleitorais)",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/veterinario-wilson-grassi-280002548139/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva: 'Candidato a presidente do Brasil em 2026 — Registro deferido'; nº 35, DEMOCRATA, vice Suêd Haidar; campanha até 08/09/2026: receita R$ 850.150,00 de 2 doadores (recursos próprios R$ 850.000,00 = 100%, do próprio candidato Wilson Grassi Júnior; + R$ 150,00 de pessoa física), gasto contratado R$ 890.399,66 (1,0% do limite de R$ 88.944.030,80), pago R$ 836.399,66; principais gastos: impulsionamento de conteúdos R$ 365.000,00 (41%), 'outros' R$ 508.849,66 (57%), materiais impressos R$ 12.120,00, pessoal R$ 2.330,00, terceiros R$ 2.100,00; fornecedores: Sflj Consultoria e Assessoramento Ltda R$ 450.000,00, Dlocal Brasil R$ 250.000,00, Facebook R$ 115.000,00, Shihara Freire Pereira Advocacia R$ 54.000,00 (12 fornecedores, total R$ 890.399,66); bens 2026: R$ 50.000.000,00 ('Outros Bens e Direitos': posse e direitos sobre imóveis financiados + participação no capital social de sociedades); histórico TSE: 2024 Vereador/SP (PRTB) não eleito 2.777, 2022 Deputado federal/SP (PV) 'Candidatura não apta*' 6.580, 2006 Deputado estadual/SP (PFL) 'Suplente' 4.517."
+        },
+        {
+          "id": "src-wg-10",
+          "title": "Veterinário Wilson Grassi — candidato a Presidente nas eleições 2026 (dados do TSE)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Dados do TSE: DEMOCRATA 35; profissão veterinário; etnia branca; superior completo; vice Suêd Haidar; candidaturas anteriores: 2024 Vereador (PRTB) não eleito, 2022 Deputado federal (PV) inapto, 2006 Deputado estadual (PFL) não eleito; bens: 'outros bens e direitos' (imóveis financiados + participações societárias); receitas: doador Wilson Grassi Júnior (100%); principais gastos: Sflj Consultoria e Assessoramento (64,07% do total classificado), Dlocal Brasil (29,47%)."
+        },
+        {
+          "id": "src-wg-23",
+          "title": "Democrata tem veterinário Wilson Grassi na disputa presidencial",
+          "publisher": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-tem-veterinario-wilson-grassi-na-disputa-presidencial",
+          "publishedAt": "2026-08-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "18/08/2026: 'O candidato à Presidência nunca ocupou função pública, mas já disputou os cargos de vereador, deputado estadual e federal por São Paulo, pelos partidos PV e PRTB'; conselheiro da Anclivepa-SP; partido fundado em 2015 (antes PMB)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Nunca foi parlamentar — não há leis de autoria a contar (fato confirmado no TSE/Nexo/g1)."
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "0 de 44 propostas do índice oficial com custo estimado (0%)",
+      "value": 0,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 44 propostas do índice oficial 'Propostas de Governo' do TSE (8 eixos; captura integral da página em 29/09/2026). Nenhum item traz estimativa de custo própria; o plano indica apenas fontes de financiamento (Imposto Único Federal sobre movimentação financeira e remanejamentos orçamentários, com redução do número de ministérios) e nenhuma cifra por proposta. Categoria 'custo' do plano: não informada. Classificação aproximada por título/descrição do índice; leitura página a página do PDF não realizada. Percentual inteiro.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-wg-26",
+          "title": "Wilson Grassi — Propostas de Governo (índice oficial completo, 44 itens em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral (captura integral via proxy r.jina.ai)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Captura integral do índice em 29/09/2026 (5.490 caracteres de conteúdo): 44 itens com título e páginas do PDF — Economia/Trabalho/Fiscal (8), Saúde/Assistência (6), Segurança/Justiça (5), Educação/Ciência/Meio Ambiente (4), Política Externa/Inserção Global (7), Direitos Humanos/Equidade (5), Questão Agrária/Propriedade/Cidade (4), Governança/Transparência/Reformas (5)."
+        },
+        {
+          "id": "src-wg-11",
+          "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+        },
+        {
+          "id": "src-wg-12",
+          "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Índice do TSE cita valores apenas como metas de política (piso de 2% do PIB para defesa; isenção do IRPF até 5 salários mínimos), não como custo da proposta."
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "5 de 44 propostas (11%): painel de 100 dias, pacto/agenda por semestre, licenciamento com prazo, rastreabilidade antecipada e metas de saneamento",
+      "value": 11,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 44 propostas do índice oficial do TSE. Critério: item com prazo, periodicidade ou marco temporal explícito — (1) painel público de acompanhamento dos primeiros cem dias; (2) pacto institucional e relação com Congresso/federados com até 5 pactos e 5 projetos legislativos por semestre; (3) licenciamento ambiental com prazo definido e painel público; (4) antecipação da rastreabilidade individual de bovinos e búfalos; (5) saneamento com cobrança das metas do marco legal de 2020 (horizonte 2033). 5/44 = 11,4% → 11%. Classificação aproximada por título/descrição do índice; PDF não lido item a item.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-wg-26",
+          "title": "Wilson Grassi — Propostas de Governo (índice oficial completo, 44 itens em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral (captura integral via proxy r.jina.ai)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Captura integral do índice em 29/09/2026 (5.490 caracteres de conteúdo): 44 itens com título e páginas do PDF — Economia/Trabalho/Fiscal (8), Saúde/Assistência (6), Segurança/Justiça (5), Educação/Ciência/Meio Ambiente (4), Política Externa/Inserção Global (7), Direitos Humanos/Equidade (5), Questão Agrária/Propriedade/Cidade (4), Governança/Transparência/Reformas (5)."
+        },
+        {
+          "id": "src-wg-11",
+          "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+        },
+        {
+          "id": "src-wg-07",
+          "title": "Quem é Wilson Grassi Junior, candidato do partido Democrata à Presidência em 2026",
+          "publisher": "GZH (Grupo Cultural de Comunicação)",
+          "url": "https://gzh.globo.com/politica/quem-e-wilson-grassi-junior-candidato-do-partido-democrata-a-presidencia-em-2026/",
+          "publishedAt": "2026-08-19",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Perfil (19/08/2026): trajetória office-boy → veterinário; clínica na zona leste; atua na política desde 2006; empresário educacional e músico; projeto Ambientalistas; bens de R$ 25 mil (2006) a R$ 50 milhões (2026); 'Em 2015, Grassi participou da criação do primeiro hospital público para cães e gatos do Brasil, como conselheiro da ANCLIVEPA-SP, no município de Tatuapé'; plano de governo 'Brasil em Primeiro Lugar', dividido em 3 partes com 14 eixos, estruturado pelo Método D35 (desburocratizar, desonerar, digitalizar, democratizar e desenvolver), com painel de promessas e indicadores para os primeiros 100 dias; bandeiras de integração da saúde animal ao SUS e de um imposto federal único."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Os prazos identificados são de acompanhamento/painel (100 dias) ou de marcos legais preexistentes; não há cronograma de execução por proposta no índice."
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "11 de 44 propostas dependem de lei, PEC ou do Congresso (25%)",
+      "value": 25,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de propostas cujo instrumento exige lei, emenda constitucional ou deliberação do Congresso, classificado sobre as 44 propostas do índice oficial do TSE e das referências legislativas citadas no próprio índice. Contadas 11: extinção da contribuição patronal sobre a folha; desoneração da folha; isenção do IRPF até 5 salários mínimos; Imposto Único Federal; asfixia financeira do crime organizado (perdimento/rastreio patrimonial); plebiscito sobre o modelo penitenciário de segurança máxima; Sistema Único de Segurança Pública (Sinesp e PEC nº 18/2025); PEC da Pesquisa; licenciamento ambiental; mineração em terra indígena (regime legal e Convenção nº 169 da OIT); Programa Brasil nos Trilhos. 11/44 = 25%. Itens de execução administrativa (Método D35, painel de 100 dias, prontuário eletrônico, recomposição do serviço veterinário oficial) não foram contados. Contagem aproximada — o partido não tem bancada (0/513) nem direito a horário eleitoral.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-wg-26",
+          "title": "Wilson Grassi — Propostas de Governo (índice oficial completo, 44 itens em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral (captura integral via proxy r.jina.ai)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Captura integral do índice em 29/09/2026 (5.490 caracteres de conteúdo): 44 itens com título e páginas do PDF — Economia/Trabalho/Fiscal (8), Saúde/Assistência (6), Segurança/Justiça (5), Educação/Ciência/Meio Ambiente (4), Política Externa/Inserção Global (7), Direitos Humanos/Equidade (5), Questão Agrária/Propriedade/Cidade (4), Governança/Transparência/Reformas (5)."
+        },
+        {
+          "id": "src-wg-11",
+          "title": "Wilson Grassi — Propostas de Governo (página oficial do TSE, índice com 44 propostas em 8 eixos)",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026/wilson-grassi",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Índice oficial (captura via proxy r.jina.ai em 29/09/2026): 44 itens em 8 eixos — Economia, Trabalho e Responsabilidade Fiscal (8); Saúde Pública e Assistência (6); Segurança Pública e Justiça (5); Educação, Ciência e Meio Ambiente (4); Política Externa e Inserção Global (7); Direitos Humanos, Equidade e Inclusão Social (5); Questão Agrária, Propriedade e Direito à Cidade (4); Governança, Transparência e Reformas de Estado (5). Contagem da equipe: 44 (o índice auxiliar propostas_tse.json conta 45 por incluir o marcador 'Erro da página'). Cada item aponta para páginas do PDF oficial."
+        },
+        {
+          "id": "src-wg-12",
+          "title": "Proposta do Democrata para as Eleições Presidenciais de 2026 (PDF oficial registrado no TSE)",
+          "publisher": "TSE — DivulgaCandContas (arquivos)",
+          "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-democrata/@@display-file/file/proposta-democrata.pdf",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "PDF oficial registrado (proposta-democrata.pdf); as propostas do índice referenciam páginas do documento (âncoras #page= até a página 51)."
+        },
+        {
+          "id": "src-wg-15",
+          "title": "API Dados Abertos da Câmara dos Deputados — deputados em exercício (57ª Legislatura) por sigla",
+          "publisher": "Câmara dos Deputados (dados abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/deputados?siglaPartido=DEMOCRATA&idLegislatura=57&itens=100",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Consulta direta à API oficial em 29/09/2026 (rodada de pesquisa do comparador): 0 deputados federais filiados ao Democrata em exercício — partido sem bancada federal (fundado em 2008 como PMB; renomeado em dez/2025)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O próprio plano prevê agenda legislativa de no máximo 5 projetos prioritários por semestre, o que limita a dependência simultânea do Congresso."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Reuniões internas de comunicação e media training; visita a unidade pública de fauna em Brasília (set/2026); sem reuniões setoriais públicas localizadas",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo. Fontes: agendas de campanha publicadas (SpaceMoney, 24 e 31/08/2026) e cobertura do Jornal Nacional (03/09/2026).",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-wg-20",
+          "title": "Agenda dos presidenciáveis tem sabatina e pautas sociais",
+          "publisher": "SpaceMoney",
+          "url": "https://www.spacemoney.com.br/politica/agenda-dos-presidenciaveis-10/",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Agenda de 24/08/2026: Wilson Grassi dedicou o dia a reuniões com a equipe de comunicação da campanha (media training e alinhamento de estratégia), sem eventos públicos de grande porte registrados."
+        },
+        {
+          "id": "src-wg-21",
+          "title": "Agenda dos presidenciáveis desta segunda tem sabatinas",
+          "publisher": "SpaceMoney",
+          "url": "https://www.spacemoney.com.br/politica/agenda-presidenciaveis-segunda-feira-2/",
+          "publishedAt": "2026-08-31",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Agenda de 31/08/2026: reunião de alinhamento com o comitê de campanha (9h) e gravação de vídeos com a área de marketing (15h)."
+        },
+        {
+          "id": "src-wg-22",
+          "title": "Wilson Grassi, candidato do Democrata à Presidência, faz campanha em Brasília",
+          "publisher": "g1 / Jornal Nacional",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/03/wilson-grassi-candidato-do-democrata-a-presidencia-faz-campanha-em-brasilia.ghtml",
+          "publishedAt": "2026-09-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "03/09/2026: visita ao Hospital e Centro de Reabilitação da Fauna Silvestre (Taguatinga/DF) e a uma clínica de cães e gatos; defesa de castração de animais abandonados e de passagens subterrâneas em rodovias."
+        },
+        {
+          "id": "src-wg-03",
+          "title": "Wilson Grassi — verbete (Wikipédia em português: trajetória, hospital público, bens, propostas)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Wilson_Grassi",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Enciclopédia colaborativa usada como índice. Conteúdo: Wilson Grassi Júnior (São Paulo, 13/03/1970), veterinário, empresário e político; office-boy depois medicina veterinária; clínica na zona leste de SP; conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP); em 2012 participou das discussões sobre hospital público para cães e gatos no Tatuapé; campanha contra a cinomose (2013) e projeto veterinário na Amazônia (2014); empresário educacional e músico; criador do projeto Ambientalistas; ocupação declarada veterinário (2024/2026) e empresário (2022); primeiro médico-veterinário a concorrer à Presidência na história do Brasil; 2006 PFL 'Wilson Veterinário' nº 25345 com 4.517 votos; 2022 PV nº 4330 — 'O cadastro do TSE consultado registra a candidatura como indeferida; veículos de imprensa também a descrevem como inapta. Mas ele recebeu 6.580 votos nominais e não foi eleito'; 2024 PRTB nº 28200 deferido, 2.777 votos, não eleito; Democrata oficializou em convenção nacional no Rio em 02/08/2026 — partido fundado em 2008 como Partido da Mulher Brasileira (PMB), renomeado Democrata em dezembro/2025 com autorização do TSE, primeira candidatura presidencial do partido; vice Suêd Haidar, presidente e fundadora; bens: 2006 R$ 25 mil, 2022 R$ 9,05 mi, 2024 R$ 24,62 mi, 2026 R$ 50 mi; causa animal como eixo; Veja (15/08/2026): programa 'Meu Botox, Minha Vida' (botox pelo SUS para autoestima feminina), financiado por remanejamento (redução de ministérios e recursos do FEFC); plano associado a mudanças tributárias, combate ao crime organizado e segurança em fronteiras."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Agendas registradas: 24/08 — reuniões com a equipe de comunicação da campanha (media training), sem eventos públicos de grande porte; 31/08 — alinhamento com o comitê de campanha e gravação de vídeos com o marketing; 03/09 — visitas ao Hospital e Centro de Reabilitação da Fauna Silvestre (Taguatinga/DF) e a clínica de cães e gatos, com conversa com a imprensa. Não foram localizadas, nas fontes desta rodada, reuniões com centrais sindicais, entidades empresariais, lideranças religiosas ou movimentos sociais."
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Chapa formada em convenção do Democrata (02/08/2026) e registrada como partido isolado; nenhum acordo partidário ou coligação documentado em 2026",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes. Verificados: convenção nacional do Democrata no Rio de Janeiro (02/08/2026), que oficializou a chapa e deixou à Comissão Executiva Nacional a indicação do vice 'sem exclusão da possibilidade de formação de uma coligação'; resultado final foi partido isolado no registro (DJE/TSE, 18/09/2026); e a decisão do TSE de 02/09/2026 que restabeleceu propaganda digital, debates e repasses do FEFC após suspensão de 30/08. Nenhum acordo ou coligação partidária localizado nas fontes desta rodada.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-wg-04",
+          "title": "Campanha presidencial de Wilson Grassi em 2026 (Wikipédia: registro, inaptidão em 2022, hospital público)",
+          "publisher": "Wikipédia",
+          "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Wilson_Grassi_em_2026",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Verbete dedicado: candidatura oficializada na convenção nacional do Democrata no Rio em 02/08/2026 (nº 35); em 2022 recebeu 6.580 votos e a candidatura 'foi considerada inapta pelo Tribunal Superior Eleitoral'; 'Em 2015, Grassi participou, como conselheiro da Associação Nacional de Clínicos Veterinários de Pequenos Animais de São Paulo (Anclivepa-SP)' da criação do hospital público de cães e gatos; registrou a candidatura à Presidência no TSE em 12/08/2026, declarando patrimônio de R$ 50 milhões; em 17/08/2026 estava entre os 13 nomes listados como candidatos."
+        },
+        {
+          "id": "src-wg-24",
+          "title": "Diário da Justiça Eletrônico — Edital: lista de candidatas e candidatos a presidente e vice-presidente da República (Eleições 2026)",
+          "publisher": "TSE — Diário da Justiça Eletrônico",
+          "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+          "publishedAt": "2026-09-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Edital com a lista de chapas: a de Wilson Grassi aparece como 'DEMOCRATA (DEMOCRATA)' — partido isolado, sem coligação ou federação —, enquanto outras chapas constam como coligação nominal com a lista de partidos."
+        },
+        {
+          "id": "src-wg-08",
+          "title": "Toffoli libera campanha digital e repasses a Wilson Grassi",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-libera-campanha-digital-e-repasses-a-wilson-grassi/",
+          "publishedAt": "2026-09-03",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Artigo de Vinicius Macia (03/09/2026): na quarta-feira (02/09), Toffoli liberou propaganda digital, participação em debates e repasses do Fundo Especial de Financiamento de Campanha (FEFC) à campanha de Wilson Grassi — as big techs tiveram 2 horas para restabelecer as contas. No domingo (30/08), Toffoli havia suspendido 8 perfis informados apenas 17 dias após o registro (só podiam ser usados 48h após a comunicação; um perfil tinha 156 mil seguidores e não foi informado); os advogados protocolaram a lista de redes sociais na sexta (28/08); a decisão inicial qualificou a omissão como 'indício de fraude à lei' — 'Não é possível tolerar a omissão de perfis de rede social em campanha eleitoral'; a mesma medida foi aplicada a Renan Santos (Missão); a defesa sustentou boa-fé; Toffoli soltou as contas logo depois, pois o PLRPF já havia coletado os relatórios (mais de 360 páginas)."
+        },
+        {
+          "id": "src-wg-01",
+          "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Partido estreante na disputa presidencial, sem bancada no Congresso (0/513 e 0/81) e sem histórico de negociação legislativa registrado."
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (Democrata, partido isolado — registro no DJE/TSE de 18/09/2026)",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1. O edital do DJE/TSE de 18/09/2026 lista a chapa como 'DEMOCRATA (DEMOCRATA)', sem coligação registrada; a ficha oficial do TSE (Folha) registra coligação 'PARTIDO ISOLADO (DEMOCRATA)'.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-wg-24",
+          "title": "Diário da Justiça Eletrônico — Edital: lista de candidatas e candidatos a presidente e vice-presidente da República (Eleições 2026)",
+          "publisher": "TSE — Diário da Justiça Eletrônico",
+          "url": "https://sintse.tse.jus.br/documentos/2026/Set/18/diario-da-justica-eletronico-tse/lista-de-candidatas-e-candidatos-aos-cargos-de-presidente-e-vice-presidente-da-republica",
+          "publishedAt": "2026-09-18",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Edital com a lista de chapas: a de Wilson Grassi aparece como 'DEMOCRATA (DEMOCRATA)' — partido isolado, sem coligação ou federação —, enquanto outras chapas constam como coligação nominal com a lista de partidos."
+        },
+        {
+          "id": "src-wg-01",
+          "title": "Ficha de Veterinário Wilson Grassi — Eleições 2026 (dados do TSE)",
+          "publisher": "Folha de S.Paulo (dados: TSE)",
+          "url": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Página viva, última atualização 28/09/2026 às 18h01: nome na urna 'Veterinário Wilson Grassi'; partido DEMOCRATA, nº 35; situação DEFERIDO; coligação PARTIDO ISOLADO (DEMOCRATA); Wilson Grassi Júnior, nascido 13/03/1970 (56 anos), São Paulo (SP), brasileiro nato, branca, superior completo, divorciado, ocupação VETERINÁRIO; bens 2022 R$ 9.051.034,03, 2024 R$ 24.620.000,00 e 2026 R$ 50.000.000,00 (categoria 'Outros bens e direitos'). Vice Suêd Haidar Nogueira: 30/11/1958 (67 anos), São Luís (MA), quilombola, preta, ensino médio completo, casada, ocupação EMPRESÁRIO, bens 2026 R$ 460.000,00. Perfil: 'Nascido em São Paulo em 1970, Wilson Grassi Júnior é médico-veterinário e empresário. Começou a trajetória profissional como office-boy e, após se formar, abriu uma clínica veterinária na zona leste da capital paulista. Também atua no setor educacional e como músico. Na política, concorreu a deputado estadual em 2006, a deputado federal em 2022 e a vereador de São Paulo em 2024, sem ser eleito.'"
+        },
+        {
+          "id": "src-wg-25",
+          "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE — Tribunal Superior Eleitoral",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "11/09/2026: quadro final das 12 chapas validadas, incluindo 'Wilson Grassi e Suêd Haidar (Democrata)'."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O Democrata (antes PMB, renomeado em dezembro/2025) lança candidato próprio à Presidência pela primeira vez; a vice, Suêd Haidar, é presidente nacional do partido (2015–2026). Sem federação ou coligação."
+    }
+  ],
+  "dataGaps": [
+    "Instituição e ano de conclusão da graduação em medicina veterinária não informados nas fontes desta rodada.",
+    "Motivo do indeferimento/inaptidão da candidatura a deputado federal em 2022 (PV) não localizado no TSE.",
+    "Vínculo associativo com a ABCVet, citado em uma fonte, não confirmado nas demais (possível confusão com a Anclivepa-SP).",
+    "Suplência de 2006 (deputado estadual, PFL): nenhum registro de convocação ou posse localizado.",
+    "Pesquisa nacional recente (set/2026) com percentual próprio do candidato não localizada; intenção de voto registrada é regional (São Paulo).",
+    "Leitura item a item do PDF do plano registrado no TSE não realizada; as contagens de custo, prazo e dependência do Congresso derivam dos títulos/descrições do índice oficial (44 itens).",
+    "Data exata da suspensão da campanha digital por Toffoli (entre 30/08 e 02/09/2026) não capturada."
+  ]
+}

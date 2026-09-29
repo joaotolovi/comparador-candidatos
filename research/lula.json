@@ -789,7 +789,7 @@
       "name": "Pessoas/equipe sob gestão (servidores)",
       "displayValue": "1.006.392 servidores ativos (Executivo Federal, CPFs únicos)",
       "value": 1006392,
-      "unit": "servidores",
+      "unit": "pessoas",
       "metricType": "number",
       "directionality": "higher_is_descriptively_more",
       "methodology": "Servidores públicos federais civis ativos (CPFs únicos) sob administração do Poder Executivo Federal, conforme o Portal da Transparência do Governo Federal. Não inclui inativos/pensionistas (1.059.114) nem militares.",
@@ -839,7 +839,7 @@
     },
     {
       "id": "anos_legislativo",
-      "category": "articulacao",
+      "category": "historico-experiencia",
       "name": "Anos em cargos legislativos",
       "displayValue": "8 anos (1987–1995)",
       "value": 8,
@@ -859,9 +859,19 @@
           "publishedAt": "2026-08-14",
           "accessedAt": "2026-09-29",
           "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-62",
+          "title": "Biografia do Deputado Federal Luiz Inácio Lula da Silva",
+          "publisher": "Câmara dos Deputados",
+          "url": "https://www.camara.leg.br/deputados/139289/biografia",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo"
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Dois mandatos consecutivos de deputado federal (1987–1991, incluindo a Constituinte, e 1991–1995), contados como 8 anos corridos sem desconto de licenças — categoria ajustada para 'historico-experiencia' (tabela canônica — SPEC-ENRICA)."
     },
     {
       "id": "anos_federal",
@@ -930,7 +940,7 @@
       "name": "Votos recebidos em eleições anteriores",
       "displayValue": "57.259.504 votos (48,43%) no 1º turno de 2022; 60.345.999 no 2º turno",
       "value": 57259504,
-      "unit": "votos (1º turno 2022)",
+      "unit": "votos",
       "metricType": "number",
       "directionality": "higher_is_descriptively_more",
       "methodology": "Votos nominais no 1º turno da eleição presidencial de 2022 (última disputa antes de 2026), conforme totalização do TSE.",
@@ -963,10 +973,10 @@
     {
       "id": "propostas_total",
       "category": "plano",
-      "name": "Propostas/eixos do plano de governo",
+      "name": "Propostas do plano de governo",
       "displayValue": "13 eixos/diretrizes (registrado no TSE em 08/08/2026)",
       "value": 13,
-      "unit": "eixos",
+      "unit": "itens do plano",
       "metricType": "number",
       "directionality": "higher_is_descriptively_more",
       "methodology": "Nº de eixos/diretrizes do programa registrado no TSE (doc 280017016005), contados no sumário e nas aberturas de capítulo do texto (OCR de 42 páginas) e confirmados por Valor Econômico, Congresso em Foco e Folha Expressa.",
@@ -1008,15 +1018,15 @@
       "id": "propostas_com_custo",
       "category": "plano",
       "name": "Propostas com custo estimado",
-      "displayValue": "Não contável por item — texto contínuo sem custo atribuído a cada eixo",
-      "value": null,
+      "displayValue": "0% das 8 propostas-chave com custo estimado por proposta",
+      "value": 0,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "O documento é redigido em texto corrido por eixo (não em lista de propostas com custo associado); a Folha (13/08/2026) registra que o plano não quantifica cortes de despesa. Contagem por proposta não realizada.",
-      "evidenceStatus": "indeterminado",
+      "methodology": "Contagem sobre as 8 propostas-chave detalhadas nesta ficha a partir do programa registrado no TSE (doc 280017016005, 13 eixos em texto corrido, 42 páginas); classificação aproximada: nenhuma das 8 quantifica o próprio custo (campo hasCost = false em todas). A Folha (13/08/2026) registra que o plano mantém o arcabouço fiscal e não prevê cortes de despesa nem custo por proposta.",
+      "evidenceStatus": "parcial",
       "confidenceLevel": "low",
-      "availability": "under_analysis",
+      "availability": "available",
       "sources": [
         {
           "id": "src-lula-50",
@@ -1037,21 +1047,22 @@
           "sourceType": "plano_de_governo"
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Zero é resultado de contagem sobre as 8 propostas-chave desta ficha (não ausência de dado): o plano é redigido em texto corrido por eixo e não associa valor monetário a proposta individual. Para o conjunto das 13 diretrizes, custo por item não é informado — valor de referência é a contagem das 8."
     },
     {
       "id": "propostas_com_prazo",
       "category": "plano",
       "name": "Propostas com prazo",
-      "displayValue": "Prazos explícitos em alguns eixos (2030 para clima; PNE 2026–2036; PPA 2028–2031); % por proposta não calculada",
-      "value": null,
+      "displayValue": "25% das 8 propostas-chave com prazo declarado (2 de 8)",
+      "value": 25,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de eixos/propostas com prazo identificado no texto do programa; contagem item a item em análise (OCR completo disponível em /root/.hermes/cache/scratch/plano-lula-2026-ocr.txt).",
+      "methodology": "Contagem sobre as 8 propostas-chave detalhadas nesta ficha a partir do programa registrado no TSE (13 eixos em texto corrido); classificação aproximada: 2 das 8 trazem prazo explícito (educação: PNE 2026–2036; meio ambiente: desmatamento líquido zero até 2030). Percentual arredondado ao inteiro.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "low",
-      "availability": "under_analysis",
+      "availability": "available",
       "sources": [
         {
           "id": "src-lula-07",
@@ -1061,23 +1072,33 @@
           "publishedAt": "2026-08",
           "accessedAt": "2026-09-29",
           "sourceType": "plano_de_governo"
+        },
+        {
+          "id": "src-lula-05",
+          "title": "Lula: veja as propostas do candidato a reeleição (plano registrado no TSE reúne 13 eixos)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/27/lula-veja-as-propostas-do-candidato-a-reeleicao.ghtml",
+          "publishedAt": "2026-08-27",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Contagem sobre as 8 propostas-chave desta ficha; o plano também cita o PPA 2028–2031 participativo como horizonte de planejamento, sem data fechada por proposta."
     },
     {
       "id": "propostas_dependentes_congresso",
       "category": "plano",
       "name": "Propostas prioritárias que dependem do Congresso",
-      "displayValue": "Contagem não realizada; ao menos 3 diretrizes centrais dependem de PEC/lei (escala 6x1 e jornada de 40h, Ministério da Segurança Pública, sistema de emendas)",
-      "value": null,
+      "displayValue": "50% das 8 propostas-chave dependem do Congresso (4 de 8)",
+      "value": 50,
       "unit": "%",
       "metricType": "percentage",
       "directionality": "higher_is_descriptively_more",
-      "methodology": "Percentual de propostas prioritárias cujo instrumento exige lei ou PEC. Identificadas no texto: fim da escala 6x1/40h, criação de ministério via emenda constitucional, regras de trabalho por aplicativo e redesenho das emendas parlamentares.",
+      "methodology": "Contagem sobre as 8 propostas-chave detalhadas nesta ficha a partir do programa registrado no TSE; classificação aproximada: 4 das 8 têm instrumento que exige lei, PEC ou aprovação do Congresso (fim da escala 6x1/jornada de 40h, economia e arcabouço fiscal com emendas, Ministério da Segurança Pública via PEC, transferências de renda), conforme o campo dependsOnCongress da própria ficha. Percentual arredondado ao inteiro.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "low",
-      "availability": "under_analysis",
+      "availability": "available",
       "sources": [
         {
           "id": "src-lula-48",
@@ -1089,20 +1110,21 @@
           "sourceType": "imprensa"
         },
         {
-          "id": "src-lula-49",
-          "title": "PT registra plano de governo de Lula no TSE com novas propostas para 2026",
-          "publisher": "Folha Expressa",
-          "url": "https://folhaexpressa.com/politica/pt-registra-plano-de-governo-de-lula-no-tse-com-novas-propostas-para-2026",
-          "publishedAt": "2026-08-11",
+          "id": "src-lula-07",
+          "title": "Programa de Governo Lula/Alckmin — PDF registrado no TSE (espelho público, 42 páginas)",
+          "publisher": "Poder360 (espelho do documento registrado no TSE)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+          "publishedAt": "2026-08",
           "accessedAt": "2026-09-29",
-          "sourceType": "imprensa"
+          "sourceType": "plano_de_governo"
         }
       ],
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-29",
+      "context": "Contagem sobre as 8 propostas-chave desta ficha (não sobre os 13 eixos inteiros). Outras diretrizes com dependência de Congresso citadas no texto do plano: regulação do trabalho por aplicativo e redesenho do sistema de emendas parlamentares."
     },
     {
       "id": "registro_tse",
-      "category": "integridade",
+      "category": "articulacao",
       "name": "Situação do registro de candidatura no TSE",
       "displayValue": "Deferido — Plenário do TSE aprovou a chapa Lula/Alckmin em 02/09/2026 (12 candidaturas registradas à Presidência)",
       "value": null,
@@ -1144,7 +1166,7 @@
         }
       ],
       "updatedAt": "2026-09-29",
-      "context": "Julgamento dos registros começou em ago/2026 (pauta do TSE). Não foi apontada inelegibilidade (Ficha Limpa) contra o candidato; o registro foi aprovado sem decisão de indeferimento."
+      "context": "Julgamento dos registros começou em ago/2026 (pauta do TSE). Não foi apontada inelegibilidade (Ficha Limpa) contra o candidato; o registro foi aprovado sem decisão de indeferimento. Categoria da métrica ajustada para 'articulacao' (tabela canônica de 21 métricas — SPEC-ENRICA)."
     },
     {
       "id": "bens_declarados",
@@ -1228,18 +1250,38 @@
     },
     {
       "id": "intencao_voto_recente",
-      "category": "historico-experiencia",
+      "category": "articulacao",
       "name": "Intenção de voto — pesquisas recentes (1º turno)",
-      "displayValue": "36% (Quaest, 07/09) | 39% (Datafolha, 21/08)",
+      "displayValue": "39% (Quaest, 28/09) | 40% (Datafolha, 24/09) | 45,8% (AtlasIntel, 23/09)",
       "value": null,
       "unit": null,
       "metricType": "text",
       "directionality": "neutral",
-      "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026.",
+      "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas até 29/09/2026, na ordem cronológica inversa.",
       "evidenceStatus": "confirmado",
       "confidenceLevel": "medium",
       "availability": "available",
       "sources": [
+        {
+          "id": "src-lula-60",
+          "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Quaest",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-1-turno-28-setembro-recortes.ghtml",
+          "publishedAt": "2026-09-29",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Divulgada em 28/09; campo 24–27/09, 2.004 entrevistas, margem ±2 p.p., registro BR-06520/2026. Diferença de 5 pontos para Flávio, fora da margem (sem empate técnico)."
+        },
+        {
+          "id": "src-lula-59",
+          "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+          "publishedAt": "2026-09-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Campo 22–23/09; 47% contra 45% no 2º turno (empate técnico). Registro BR-00304/2026."
+        },
         {
           "id": "src-lula-17",
           "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%",
@@ -1260,7 +1302,262 @@
         }
       ],
       "updatedAt": "2026-09-29",
-      "context": "Aprovação do governo em 48% e desaprovação em 48% (Poder360/Quaest)."
+      "context": "Aprovação do governo em 48% e desaprovação em 48% (Poder360/Quaest, antes das rodadas de set/2026). Pesquisas de set/2026: Quaest 28/09 (39%) e Datafolha 24/09 (40%) — categoria da métrica ajustada para 'articulacao' (tabela canônica — SPEC-ENRICA)."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "47% aprovam / 50% desaprovam (Datafolha, 24/09/2026)",
+      "value": 47,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de aprovação do governo/presidente na pesquisa Datafolha divulgada em 24/09/2026 (campo 22–23/09/2026, 2.002 entrevistas presenciais, margem ±2 p.p., confiança 95%, registro TSE BR-00304/2026). Perguntado como 'aprova/desaprova o trabalho de Lula como presidente'; a mesma rodada traz a avaliação do governo como ótimo/bom (34%) e ruim/péssimo (40%).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-lula-58",
+          "title": "Datafolha: 50% desaprovam e 47% aprovam governo Lula",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-percent-desaprovam-e-percent-aprovam-governo-lula.ghtml",
+          "publishedAt": "2026-09-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-73",
+          "title": "No 1º turno, Lula (PT) tem 40%, e Flavio Bolsonaro (PL) aparece com 36%",
+          "publisher": "Datafolha (Folha de S.Paulo)",
+          "url": "https://datafolha.folha.uol.com.br/eleicoes/2026/09/no-1o-turno-lula-pt-tem-40-e-flavio-bolsonaro-pl-aparece-com-36.shtml",
+          "publishedAt": "2026-09-28",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-59",
+          "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+          "publishedAt": "2026-09-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Série da mesma pesquisa: 47% (duas semanas antes), 48% (rodada anterior de 15–17/09) e 47% (22–23/09), sempre com desaprovação em 50%. Avaliação do governo: ótimo/bom 34%, regular 24%, ruim/péssimo 40%. A mesma rodada traz a avaliação por segmentos (sexo, renda, região) e o cenário de 2º turno (47% a 45%)."
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "0 leis (6 projetos de lei apresentados como deputado; os 6 arquivados)",
+      "value": 0,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as proposições com autor registradas na API de Dados Abertos da Câmara dos Deputados para Lula (consulta em 29/09/2026): 12 proposições localizadas, das quais 6 são projetos de lei (PL 788/1988, PL 2.303/1989, PL 2.627/1989, PL 3.144/1989, PL 3.519/1989 e PL 3.700/1989). A situação de cada um foi conferida individualmente na mesma API: todos com situação final 'Arquivada' (Mesa, Plenário ou CCJC) — nenhum transformado em norma jurídica. Requerimentos de informação (RIC/RQA) não contam como lei. A Rádio Câmara confirma o total de seis projetos de lei apresentados na passagem pela Câmara.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-lula-61",
+          "title": "API de Dados Abertos da Câmara — proposições com autor Luiz Inácio Lula da Silva",
+          "publisher": "Câmara dos Deputados (Dados Abertos)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?autor=LUIZ+INACIO+LULA+DA+SILVA&itens=100&ordem=ASC&ordenarPor=id",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Situação de cada PL consultada em /api/v2/proposicoes/{id}: todas 'Arquivada'."
+        },
+        {
+          "id": "src-lula-63",
+          "title": "Câmara é História — Luiz Inácio Lula da Silva (Rádio Câmara)",
+          "publisher": "Câmara dos Deputados — Rádio Câmara",
+          "url": "https://www.camara.leg.br/radio/programas/276492-camara-e-historia-luiz-inacio-lula-da-silva-6-16/",
+          "publishedAt": "não informado",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo"
+        },
+        {
+          "id": "src-lula-62",
+          "title": "Biografia do Deputado Federal Luiz Inácio Lula da Silva",
+          "publisher": "Câmara dos Deputados",
+          "url": "https://www.camara.leg.br/deputados/139289/biografia",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Zero é resultado de contagem verificada, não ausência de dado. Deputado federal em 1987–1995 (Constituinte e reeleição de 1990); a cobertura da API localizou proposições de 1987–1990, o que mantém a confiança em nível médio para a legislatura 1991–1995. Como líder do PT na Constituinte, apresentou o substitutivo do partido ao projeto de Constituição (não é proposição legislativa individual)."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Reuniões com centrais sindicais (abr/2026), pastores evangélicos (set/2026), empresários e banqueiros (set/2026) e indústria (jul/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "dataPresentation": "notes_only",
+      "sources": [
+        {
+          "id": "src-lula-64",
+          "title": "Presidente Lula recebe reivindicações de centrais sindicais para o período de 2026 a 2030",
+          "publisher": "Planalto — Casa Civil (gov.br)",
+          "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/04/presidente-lula-recebe-reivindicacoes-de-centrais-sindicais-para-o-periodo-de-2026-a-2030",
+          "publishedAt": "2026-04-15",
+          "accessedAt": "2026-09-29",
+          "sourceType": "executivo_federal"
+        },
+        {
+          "id": "src-lula-65",
+          "title": "CUT e Centrais se reúnem com Lula para entrega da Agenda da Classe Trabalhadora",
+          "publisher": "CUT — Central Única dos Trabalhadores",
+          "url": "https://cut.org.br/noticias/cut-e-centrais-se-reunem-com-lula-para-entrega-da-agenda-da-classe-trabalhadora-31ef",
+          "publishedAt": "2026-04-15",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria"
+        },
+        {
+          "id": "src-lula-66",
+          "title": "Lula recebe evangélicos no Planalto às vésperas da eleição e volta a condenar política em igrejas",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-recebe-evangelicos-no-planalto-as-vesperas-da-eleicao-e-volta-a-condenar-politica-em-igrejas.shtml",
+          "publishedAt": "2026-09-16",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-67",
+          "title": "Lula se reúne com pastores e diz que não fará ato político em igrejas",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/noticia/2026/09/16/lula-se-reune-com-pastores-e-diz-que-nao-fara-ato-politico-em-igrejas-comicio-eu-faco-na-rua.ghtml",
+          "publishedAt": "2026-09-16",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-68",
+          "title": "A empresários, Lula defende responsabilidade fiscal, estabilidade e soberania",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/a-empresrios-lula-defende-responsabilidade-fiscal-estabilidade-e-soberania.ghtml",
+          "publishedAt": "2026-09-25",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-69",
+          "title": "Em reunião com Anfavea, Lula diz que crise no setor industrial também é problema do governo",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/brasil/noticia/2026/07/14/em-reuniao-com-anfavea-lula-diz-que-crise-no-setor-industrial-tambem-e-problema-do-governo.ghtml",
+          "publishedAt": "2026-07-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos documentados (2025–2026): 15/04/2026 — recebe no Planalto a Agenda da Classe Trabalhadora 2026–2030 (68 reivindicações) de centrais sindicais após a Marcha da Classe Trabalhadora; 14/07/2026 — reunião no Planalto com a Anfavea (indústria automotiva); 16/09/2026 — encontro com cerca de 20 pastores evangélicos do Brasil, dos EUA e de Cuba; 25/09/2026 — jantar em São Paulo com cerca de 740 empresários, banqueiros e economistas (segundo em menos de um mês; o anterior, em 31/08/2026, no Alvorada). Síntese descritiva de agendas verificadas; não é avaliação da qualidade do diálogo."
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Acordo com a Câmara para urgência no PL da escala 6x1 (abr/2026) e entendimento de pauta com Câmara e Senado (ago/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "dataPresentation": "notes_only",
+      "sources": [
+        {
+          "id": "src-lula-70",
+          "title": "Lula envia ao Congresso proposta de redução da escala 6 x 1",
+          "publisher": "Poder360",
+          "url": "https://poder360.com.br/poder-governo/lula-envia-ao-congresso-proposta-de-reducao-da-escala-6-x-1",
+          "publishedAt": "2026-04-14",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-71",
+          "title": "Lula fecha acordo com Congresso para acelerar aprovação de promessas de campanha",
+          "publisher": "Observador (Portugal)",
+          "url": "https://observador.pt/2026/08/26/lula-fecha-acordo-com-congresso-para-acelerar-aprovacao-de-promessas-de-campanha/",
+          "publishedAt": "2026-08-26",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-72",
+          "title": "Lula diz que anunciará fim da taxa das blusinhas com Alcolumbre na próxima quarta-feira",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/08/23/lula-diz-que-anunciara-fim-da-taxa-das-blusinhas-com-alcolumbre-na-proxima-quarta-feira.ghtml",
+          "publishedAt": "2026-08-23",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-lula-21",
+          "title": "União Brasil e PP decidem deixar governo e apoiar anistia",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2025/09/uniao-brasil-e-pp-decidem-deixar-governo-lula-mas-mantem-brecha-para-indicacoes-politicas.shtml",
+          "publishedAt": "2025-09-02",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos (2025–2026): (1) 14/04/2026 — almoço com Hugo Motta definiu o envio do PL da escala 6x1 em regime de urgência e a tramitação conjunta com a PEC em curso, com mediação do ministro José Guimarães; (2) 23/08/2026 — Lula pressiona nominalmente Motta e Alcolumbre para votação da MP da 'taxa das blusinhas' antes de 08/09/2026 e anuncia a medida com o presidente do Senado; (3) 26/08/2026 — almoço no Alvorada com Hugo Motta e David Alcolumbre fechou prioridades de pauta (redução da jornada, PEC da segurança pública, Redata, marco das terras raras, taxa das blusinhas); (4) ruptura documentada: saída de União Brasil e PP do governo em set/2025, com apoio à pauta da anistia. Painel citado pelo Poder360/Agência Senado: alinhamento do governo caiu de 75% (2025) para 38,5% no Senado em 2026 e de 58% para 38,1% na Câmara."
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "7 partidos (Coligação 'O Brasil Pronto pra Mais')",
+      "value": 7,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-lula-37",
+          "title": "Lista de partidos, federações, coligações, candidatas e candidatos — Eleição Geral Federal 2026, 1º turno (Diário da Justiça Eletrônico)",
+          "publisher": "TSE — Diário da Justiça Eletrônico (SINTSE)",
+          "url": "https://sintse.tse.jus.br/documentos/2026/Set/23/diario-da-justica-eletronico-tres-destaques-edicoes-anteriores/lista-de-partidos-federacoes-coligacoes-candidatas-e-candidatos-eleicao-geral-federal-2026-1o-turno",
+          "publishedAt": "2026-09-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral"
+        },
+        {
+          "id": "src-lula-41",
+          "title": "'O Brasil Pronto Pra Mais': Lula e Alckmin defendem legado (coligação de 7 partidos: PT/PCdoB/PV, PDT, PSB, PSOL/REDE)",
+          "publisher": "PT — site oficial",
+          "url": "https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defendem-legado-e-projetam-o-futuro",
+          "publishedAt": "2026-08-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "partidaria"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Coligação 'O Brasil Pronto pra Mais': PT, PCdoB e PV (Federação Brasil da Esperança), PDT, PSB, PSOL e Rede (Federação PSOL/Rede) — 7 partidos, única coligação presidencial registrada em 2026."
     }
   ],
   "currentSupport": [
@@ -1776,61 +2073,672 @@
     }
   ],
   "sources": [
-    { "id": "src-lula-01", "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República", "publisher": "TSE — Tribunal Superior Eleitoral", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica", "publishedAt": "2026-09-11", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
-    { "id": "src-lula-02", "title": "TSE aprova registros de Lula, Flávio Bolsonaro e Romeu Zema", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml", "publishedAt": "2026-09-02", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-03", "title": "TSE aprova registros de seis candidatos à Presidência da República", "publisher": "Agência Brasil (EBC)", "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica", "publishedAt": "2026-09-02", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-04", "title": "Candidato a Presidente nas eleições 2026 — Lula (PT 13)", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/lula.ghtml", "publishedAt": "2026-08-16", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
-    { "id": "src-lula-05", "title": "Lula: veja as propostas do candidato a reeleição (13 eixos)", "publisher": "Valor Econômico", "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/27/lula-veja-as-propostas-do-candidato-a-reeleicao.ghtml", "publishedAt": "2026-08-27", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-06", "title": "Programa de Governo Lula/Alckmin 2026 — documento registrado no TSE", "publisher": "TSE — DivulgaCandContas", "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005", "publishedAt": "2026-08-08", "accessedAt": "2026-09-29", "sourceType": "plano_de_governo" },
-    { "id": "src-lula-07", "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)", "publisher": "Poder360", "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "plano_de_governo" },
-    { "id": "src-lula-08", "title": "Lula: veja o patrimônio do candidato à reeleição (R$ 4.775.650,64)", "publisher": "Valor Econômico", "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/lula-veja-o-patrimonio-do-candidato-a-reeleicao.ghtml", "publishedAt": "2026-09-01", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-09", "title": "Eleições 2026: veja a declaração de bens dos candidatos à Presidência", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/eleicoes-2026-declaracao-bens-presidenciaveis.ghtml", "publishedAt": "2026-08-15", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-10", "title": "STF confirma anulação de condenações do ex-presidente Lula na Lava Jato", "publisher": "STF", "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori", "publishedAt": "2021", "accessedAt": "2026-09-29", "sourceType": "tribunal" },
-    { "id": "src-lula-11", "title": "Orçamento 2026 é sancionado com previsão de superávit de R$ 34,2 bi", "publisher": "Senado Notícias", "url": "https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-previsao-de-superavit-de-rs-34-2-bi", "publishedAt": "2026-01-15", "accessedAt": "2026-09-29", "sourceType": "legislativo" },
-    { "id": "src-lula-12", "title": "Lula sanciona Orçamento de 2026 com vetos em R$ 393 milhões", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/economia/noticia/2026/01/14/lula-sanciona-orcamento-de-2026-com-vetos-em-gastos-modificados-pelo-congresso.ghtml", "publishedAt": "2026-01-14", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-13", "title": "Lei Orçamentária Anual — 2026", "publisher": "Ministério do Planejamento e Orçamento (gov.br)", "url": "https://www.gov.br/planejamento/pt-br/assuntos/orcamento/orcamentos-anuais/2026/loa/lei-orcamentaria-anual-2026", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "executivo_federal" },
-    { "id": "src-lula-14", "title": "Quadro eleitoral após o 2º turno das Eleições 2022", "publisher": "TSE", "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno", "publishedAt": "2022-10-31", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
-    { "id": "src-lula-15", "title": "Federação Brasil da Esperança — verbete", "publisher": "Wikipédia", "url": "https://pt.wikipedia.org/wiki/Federa%C3%A7%C3%A3o_Brasil_da_Esperan%C3%A7a", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-16", "title": "Quadro eleitoral após o 1º turno das Eleições 2022", "publisher": "TSE", "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno", "publishedAt": "2022-10-03", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
-    { "id": "src-lula-17", "title": "Quaest, 1º turno: Lula, 36% (07/09/2026)", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml", "publishedAt": "2026-09-07", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-18", "title": "Datafolha: Lula, 39% (21/08/2026)", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml", "publishedAt": "2026-08-21", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-19", "title": "Composição da Câmara após a janela partidária de 2026 (PT: 67)", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/jornal-nacional/noticia/2026/04/13/composicao-dos-partidos-na-camara-dos-deputados-muda-depois-do-fim-da-janela-partidaria.ghtml", "publishedAt": "2026-04-13", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-20", "title": "Quais partidos passaram a votar menos com Lula no Congresso", "publisher": "Poder360", "url": "https://www.poder360.com.br/poder-congresso/saiba-quais-partidos-passaram-a-votar-menos-com-lula-no-congresso/", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-21", "title": "União Brasil e PP decidem deixar governo e apoiar anistia", "publisher": "Folha de S.Paulo", "url": "https://www1.folha.uol.com.br/poder/2025/09/uniao-brasil-e-pp-decidem-deixar-governo-lula-mas-mantem-brecha-para-indicacoes-politicas.shtml", "publishedAt": "2025-09-02", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-22", "title": "Terceiro mandato de Lula tem a coalizão mais infiel em 30 anos", "publisher": "Agência Senado", "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/757367/noticia.html?sequence=1&isAllowed=y", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "legislativo" },
-    { "id": "src-lula-23", "title": "Sobre o Programa Luz para Todos (Decreto 4.873/2003)", "publisher": "Ministério de Minas e Energia", "url": "https://www.gov.br/mme/pt-br/destaques/Programa%20Luz%20para%20Todos/sobre-o-programa", "publishedAt": "não informado", "accessedAt": "2026-09-29", "sourceType": "executivo_federal" },
-    { "id": "src-lula-24", "title": "Uma década de Bolsa Família (Ipea)", "publisher": "Ipea", "url": "http://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2945:catid=28", "publishedAt": "2013", "accessedAt": "2026-09-29", "sourceType": "transparencia" },
-    { "id": "src-lula-25", "title": "ProUni virá lei — sanção da Lei 11.096/2005", "publisher": "Memorial da Democracia", "url": "https://memorialdademocracia.com.br/card/prouni-vira-lei", "publishedAt": "2005-01-13", "accessedAt": "2026-09-29", "sourceType": "diario_oficial" },
-    { "id": "src-lula-26", "title": "Growth Acceleration Program (PAC) — verbete", "publisher": "Wikipédia (en)", "url": "https://en.wikipedia.org/wiki/Growth_Acceleration_Program", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-27", "title": "Dicionário Biográfico — Lula (CEDOC/CUT)", "publisher": "CUT", "url": "https://cedoc.cut.org.br/cedoc/dicionario-biografico/180", "publishedAt": "não informado", "accessedAt": "2026-09-29", "sourceType": "partidaria" },
-    { "id": "src-lula-28", "title": "É falso que Lula mudou data de nascimento (nascido em 27/10/1945; certidão registra 06/10 por erro de cartório)", "publisher": "Agência Lupa", "url": "https://www.agencialupa.org/jornalismo/2023/06/27/e-falso-que-lula-mudou-data-de-nascimento-para-fazer-aniversario-perto-do-2-turno/", "publishedAt": "2023-06-27", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-29", "title": "Reforma tributária promulgada (EC 132)", "publisher": "Agência Senado", "url": "https://www12.senado.leg.br/noticias/materias/2023/12/21/reforma-tributaria-promulgada-principais-mudancas-dependem-de-novas-leis", "publishedAt": "2023-12-21", "accessedAt": "2026-09-29", "sourceType": "legislativo" },
-    { "id": "src-lula-30", "title": "Emenda Constitucional nº 132", "publisher": "Planalto", "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm", "publishedAt": "2023-12-20", "accessedAt": "2026-09-29", "sourceType": "diario_oficial" },
-    { "id": "src-lula-31", "title": "Convenção do PT oficializa Lula e Alckmin à reeleição", "publisher": "Jornal Grande Bahia", "url": "https://jornalgrandebahia.com.br/2026/08/convencao-do-pt-oficializa-lula-e-alckmin-a-reeleicao-com-defesa-da-democracia-soberania-e-novo-ciclo-de-investimentos", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-32", "title": "É possível dizer que Lula foi inocentado na Lava Jato? (BBC Brasil)", "publisher": "BBC News Brasil", "url": "https://www.bbc.com/portuguese/brasil-62612955", "publishedAt": "2021-03-08", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-33", "title": "Lula inicia campanha por quarto mandato no ABC", "publisher": "Piauí Hoje", "url": "https://piauihoje.com/noticias/politica/lula-inicia-campanha-por-quarto-mandato-no-seu-berco-politico-e-do-pt-no-abc-463369.html", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-34", "title": "Lista completa de candidatos nas eleições de 2026 (fichas TSE)", "publisher": "Nexo Jornal", "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026", "publishedAt": "2026-08-14", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-35", "title": "TSE começa a julgar registros de Lula, Flávio Bolsonaro e outros", "publisher": "Diário de Pernambuco", "url": "https://www.diariodepernambuco.com.br/politica/2026/08/11722681-tse-comeca-a-julgar-registros-de-lula-flavio-bolsonaro-e-outros-candidatos-a-presidencia.html", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-36", "title": "Painel Estatístico de Pessoal (PEP)", "publisher": "Governo Federal", "url": "https://www.gov.br/servidor/pt-br/observatorio-de-pessoal-govbr/painel-estatistico-de-pessoal", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "transparencia" },
-    { "id": "src-lula-37", "title": "Lista de partidos, federações e coligações — Eleição Geral Federal 2026", "publisher": "TSE — Diário da Justiça Eletrônico", "url": "https://sintse.tse.jus.br/documentos/2026/Set/23/diario-da-justica-eletronico-tres-destaques-edicoes-anteriores/lista-de-partidos-federacoes-coligacoes-candidatas-e-candidatos-eleicao-geral-federal-2026-1o-turno", "publishedAt": "2026-09-21", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral" },
-    { "id": "src-lula-38", "title": "Supremo conclui julgamento do mensalão (AP 470)", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/mensalao/noticia/2012/12/supremo-conclui-julgamento-do-mensalao-apos-quatro-meses-e-meio.html", "publishedAt": "2012-12-16", "accessedAt": "2026-09-29", "sourceType": "tribunal" },
-    { "id": "src-lula-39", "title": "Lei nº 15.346, de 14 de janeiro de 2026 — LOA 2026", "publisher": "Diário Oficial da União", "url": "https://in.gov.br/web/dou/-/lei-n-15.346-de-14-de-janeiro-de-2026-*-681158465", "publishedAt": "2026-01-14", "accessedAt": "2026-09-29", "sourceType": "diario_oficial" },
-    { "id": "src-lula-40", "title": "Orçamento 2026 é sancionado com veto a R$ 400 milhões em emendas", "publisher": "Câmara dos Deputados", "url": "https://camara.leg.br/noticias/1238564-orcamento-2026-e-sancionado-com-veto-a-r-400-milhoes-em-emendas", "publishedAt": "2026-01-14", "accessedAt": "2026-09-29", "sourceType": "legislativo" },
-    { "id": "src-lula-41", "title": "'O Brasil Pronto Pra Mais': Lula e Alckmin defendem legado (coligação de 7 partidos)", "publisher": "PT — site oficial", "url": "https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defindem-legado-e-projetam-o-futuro", "publishedAt": "2026-08-10", "accessedAt": "2026-09-29", "sourceType": "partidaria", "notes": "URL corrigida para a forma publicada: https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defendem-legado-e-projetam-o-futuro" },
-    { "id": "src-lula-42", "title": "PT lança candidatura de Lula à reeleição neste domingo (2)", "publisher": "g1 (Globo)", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/02/pt-lanca-candidatura-lula.ghtml", "publishedAt": "2026-08-02", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-43", "title": "Eleições 2026: após janela partidária, federação União-PP e PL têm maiores bancadas", "publisher": "Estadão", "url": "https://estadao.com.br/politica/eleicoes-2026-apos-janela-partidaria-federacao-uniao-pp-e-pl-tem-maiores-bancadas-na-camara", "publishedAt": "2026-04", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-44", "title": "Servidores e Pensionistas — Portal da Transparência do Governo Federal", "publisher": "Governo Federal", "url": "https://portaldatransparencia.gov.br/servidores", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "transparencia" },
-    { "id": "src-lula-45", "title": "MPF reconhece prescrição do caso do triplex; o que ainda pesa contra Lula", "publisher": "BBC News Brasil", "url": "https://www.bbc.com/portuguese/brasil-57590318", "publishedAt": "2021-12-07", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-46", "title": "Condenação do ex-presidente Lula na ação do Sítio de Atibaia é mantida", "publisher": "TRF-4", "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=19542", "publishedAt": "2020-05-06", "accessedAt": "2026-09-29", "sourceType": "tribunal" },
-    { "id": "src-lula-47", "title": "Lula é inocente? Foi absolvido pela ONU e pelo STF? Entenda (Confere/UOL)", "publisher": "UOL", "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/09/12/lula-e-inocente-foi-absolvido-pela-onu-e-pelo-stf-entenda.htm", "publishedAt": "2022-09-12", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-48", "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra", "publisher": "Congresso em Foco", "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra", "publishedAt": "2026-08-10", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-49", "title": "PT registra plano de governo de Lula no TSE com novas propostas para 2026", "publisher": "Folha Expressa", "url": "https://folhaexpressa.com/politica/pt-registra-plano-de-governo-de-lula-no-tse-com-novas-propostas-para-2026", "publishedAt": "2026-08-11", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-50", "title": "Lula mantém arcabouço fiscal e promete investimentos (plano de governo)", "publisher": "Folha de S.Paulo", "url": "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml", "publishedAt": "2026-08-13", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-51", "title": "Pela primeira vez desde 1989, só Lula tem coligação eleitoral", "publisher": "BPmMoney", "url": "https://bpmoney.com.br/politica/eleicoes-2026-pela-primeira-vez-desde-a-redemocratizacao-so-lula-tem-coligacao", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-52", "title": "Janela partidária 2026: quem ganhou e quem perdeu na Câmara (DIAP)", "publisher": "DIAP", "url": "https://www.diap.org.br/index.php/noticias/agencia-diap/92831-janela-partidaria-2026-quem-ganhou-e-quem-perdeu-na-camara", "publishedAt": "2026-04", "accessedAt": "2026-09-29", "sourceType": "partidaria" },
-    { "id": "src-lula-53", "title": "Lei nº 12.871, de 22 de outubro de 2013 — Programa Mais Médicos (governo Dilma)", "publisher": "Câmara dos Deputados", "url": "https://www2.camara.leg.br/legin/fed/lei/2013/lei-12871-22-outubro-2013-777279-publicacaooriginal-141521-pl.html", "publishedAt": "2013-10-22", "accessedAt": "2026-09-29", "sourceType": "diario_oficial" },
-    { "id": "src-lula-54", "title": "Sancionada lei que retoma o Minha Casa Minha Vida (criado em 2009)", "publisher": "Jornal de Brasília", "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/sancionada-lei-que-retoma-o-minha-casa-minha-vida/", "publishedAt": "2023-09-14", "accessedAt": "2026-09-29", "sourceType": "imprensa" },
-    { "id": "src-lula-57", "title": "Prisão de Luiz Inácio Lula da Silva — verbete", "publisher": "Wikipédia", "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva", "publishedAt": "2026-09-29", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Enciclopédia usada como índice cronológico (sentenças, prisão, anulação); números conferidos nas fontes primárias citadas (STF, TRF-4, BBC)." }
+    {
+      "id": "src-lula-01",
+      "title": "Eleições têm 12 candidaturas na disputa pela Presidência da República",
+      "publisher": "TSE — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral"
+    },
+    {
+      "id": "src-lula-02",
+      "title": "TSE aprova registros de Lula, Flávio Bolsonaro e Romeu Zema",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-03",
+      "title": "TSE aprova registros de seis candidatos à Presidência da República",
+      "publisher": "Agência Brasil (EBC)",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-04",
+      "title": "Candidato a Presidente nas eleições 2026 — Lula (PT 13)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/lula.ghtml",
+      "publishedAt": "2026-08-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral"
+    },
+    {
+      "id": "src-lula-05",
+      "title": "Lula: veja as propostas do candidato a reeleição (13 eixos)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/27/lula-veja-as-propostas-do-candidato-a-reeleicao.ghtml",
+      "publishedAt": "2026-08-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-06",
+      "title": "Programa de Governo Lula/Alckmin 2026 — documento registrado no TSE",
+      "publisher": "TSE — DivulgaCandContas",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+      "publishedAt": "2026-08-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo"
+    },
+    {
+      "id": "src-lula-07",
+      "title": "Programa de Governo Lula/Alckmin — PDF (espelho do TSE, 42 páginas)",
+      "publisher": "Poder360",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-de-Governo-LULA-13.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo"
+    },
+    {
+      "id": "src-lula-08",
+      "title": "Lula: veja o patrimônio do candidato à reeleição (R$ 4.775.650,64)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/lula-veja-o-patrimonio-do-candidato-a-reeleicao.ghtml",
+      "publishedAt": "2026-09-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-09",
+      "title": "Eleições 2026: veja a declaração de bens dos candidatos à Presidência",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/15/eleicoes-2026-declaracao-bens-presidenciaveis.ghtml",
+      "publishedAt": "2026-08-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-10",
+      "title": "STF confirma anulação de condenações do ex-presidente Lula na Lava Jato",
+      "publisher": "STF",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori",
+      "publishedAt": "2021",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal"
+    },
+    {
+      "id": "src-lula-11",
+      "title": "Orçamento 2026 é sancionado com previsão de superávit de R$ 34,2 bi",
+      "publisher": "Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-previsao-de-superavit-de-rs-34-2-bi",
+      "publishedAt": "2026-01-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo"
+    },
+    {
+      "id": "src-lula-12",
+      "title": "Lula sanciona Orçamento de 2026 com vetos em R$ 393 milhões",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/economia/noticia/2026/01/14/lula-sanciona-orcamento-de-2026-com-vetos-em-gastos-modificados-pelo-congresso.ghtml",
+      "publishedAt": "2026-01-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-13",
+      "title": "Lei Orçamentária Anual — 2026",
+      "publisher": "Ministério do Planejamento e Orçamento (gov.br)",
+      "url": "https://www.gov.br/planejamento/pt-br/assuntos/orcamento/orcamentos-anuais/2026/loa/lei-orcamentaria-anual-2026",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal"
+    },
+    {
+      "id": "src-lula-14",
+      "title": "Quadro eleitoral após o 2º turno das Eleições 2022",
+      "publisher": "TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+      "publishedAt": "2022-10-31",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral"
+    },
+    {
+      "id": "src-lula-15",
+      "title": "Federação Brasil da Esperança — verbete",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Federa%C3%A7%C3%A3o_Brasil_da_Esperan%C3%A7a",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-16",
+      "title": "Quadro eleitoral após o 1º turno das Eleições 2022",
+      "publisher": "TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-1o-turno",
+      "publishedAt": "2022-10-03",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral"
+    },
+    {
+      "id": "src-lula-17",
+      "title": "Quaest, 1º turno: Lula, 36% (07/09/2026)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+      "publishedAt": "2026-09-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-18",
+      "title": "Datafolha: Lula, 39% (21/08/2026)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-19",
+      "title": "Composição da Câmara após a janela partidária de 2026 (PT: 67)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/04/13/composicao-dos-partidos-na-camara-dos-deputados-muda-depois-do-fim-da-janela-partidaria.ghtml",
+      "publishedAt": "2026-04-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-20",
+      "title": "Quais partidos passaram a votar menos com Lula no Congresso",
+      "publisher": "Poder360",
+      "url": "https://www.poder360.com.br/poder-congresso/saiba-quais-partidos-passaram-a-votar-menos-com-lula-no-congresso/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-21",
+      "title": "União Brasil e PP decidem deixar governo e apoiar anistia",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2025/09/uniao-brasil-e-pp-decidem-deixar-governo-lula-mas-mantem-brecha-para-indicacoes-politicas.shtml",
+      "publishedAt": "2025-09-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-22",
+      "title": "Terceiro mandato de Lula tem a coalizão mais infiel em 30 anos",
+      "publisher": "Agência Senado",
+      "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/757367/noticia.html?sequence=1&isAllowed=y",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo"
+    },
+    {
+      "id": "src-lula-23",
+      "title": "Sobre o Programa Luz para Todos (Decreto 4.873/2003)",
+      "publisher": "Ministério de Minas e Energia",
+      "url": "https://www.gov.br/mme/pt-br/destaques/Programa%20Luz%20para%20Todos/sobre-o-programa",
+      "publishedAt": "não informado",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal"
+    },
+    {
+      "id": "src-lula-24",
+      "title": "Uma década de Bolsa Família (Ipea)",
+      "publisher": "Ipea",
+      "url": "http://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2945:catid=28",
+      "publishedAt": "2013",
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia"
+    },
+    {
+      "id": "src-lula-25",
+      "title": "ProUni virá lei — sanção da Lei 11.096/2005",
+      "publisher": "Memorial da Democracia",
+      "url": "https://memorialdademocracia.com.br/card/prouni-vira-lei",
+      "publishedAt": "2005-01-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial"
+    },
+    {
+      "id": "src-lula-26",
+      "title": "Growth Acceleration Program (PAC) — verbete",
+      "publisher": "Wikipédia (en)",
+      "url": "https://en.wikipedia.org/wiki/Growth_Acceleration_Program",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-27",
+      "title": "Dicionário Biográfico — Lula (CEDOC/CUT)",
+      "publisher": "CUT",
+      "url": "https://cedoc.cut.org.br/cedoc/dicionario-biografico/180",
+      "publishedAt": "não informado",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria"
+    },
+    {
+      "id": "src-lula-28",
+      "title": "É falso que Lula mudou data de nascimento (nascido em 27/10/1945; certidão registra 06/10 por erro de cartório)",
+      "publisher": "Agência Lupa",
+      "url": "https://www.agencialupa.org/jornalismo/2023/06/27/e-falso-que-lula-mudou-data-de-nascimento-para-fazer-aniversario-perto-do-2-turno/",
+      "publishedAt": "2023-06-27",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-29",
+      "title": "Reforma tributária promulgada (EC 132)",
+      "publisher": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/12/21/reforma-tributaria-promulgada-principais-mudancas-dependem-de-novas-leis",
+      "publishedAt": "2023-12-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo"
+    },
+    {
+      "id": "src-lula-30",
+      "title": "Emenda Constitucional nº 132",
+      "publisher": "Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+      "publishedAt": "2023-12-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial"
+    },
+    {
+      "id": "src-lula-31",
+      "title": "Convenção do PT oficializa Lula e Alckmin à reeleição",
+      "publisher": "Jornal Grande Bahia",
+      "url": "https://jornalgrandebahia.com.br/2026/08/convencao-do-pt-oficializa-lula-e-alckmin-a-reeleicao-com-defesa-da-democracia-soberania-e-novo-ciclo-de-investimentos",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-32",
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? (BBC Brasil)",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955",
+      "publishedAt": "2021-03-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-33",
+      "title": "Lula inicia campanha por quarto mandato no ABC",
+      "publisher": "Piauí Hoje",
+      "url": "https://piauihoje.com/noticias/politica/lula-inicia-campanha-por-quarto-mandato-no-seu-berco-politico-e-do-pt-no-abc-463369.html",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-34",
+      "title": "Lista completa de candidatos nas eleições de 2026 (fichas TSE)",
+      "publisher": "Nexo Jornal",
+      "url": "https://www.nexojornal.com.br/especial/2026/08/14/lista-completa-candidatos-eleicoes-2026",
+      "publishedAt": "2026-08-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-35",
+      "title": "TSE começa a julgar registros de Lula, Flávio Bolsonaro e outros",
+      "publisher": "Diário de Pernambuco",
+      "url": "https://www.diariodepernambuco.com.br/politica/2026/08/11722681-tse-comeca-a-julgar-registros-de-lula-flavio-bolsonaro-e-outros-candidatos-a-presidencia.html",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-36",
+      "title": "Painel Estatístico de Pessoal (PEP)",
+      "publisher": "Governo Federal",
+      "url": "https://www.gov.br/servidor/pt-br/observatorio-de-pessoal-govbr/painel-estatistico-de-pessoal",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia"
+    },
+    {
+      "id": "src-lula-37",
+      "title": "Lista de partidos, federações e coligações — Eleição Geral Federal 2026",
+      "publisher": "TSE — Diário da Justiça Eletrônico",
+      "url": "https://sintse.tse.jus.br/documentos/2026/Set/23/diario-da-justica-eletronico-tres-destaques-edicoes-anteriores/lista-de-partidos-federacoes-coligacoes-candidatas-e-candidatos-eleicao-geral-federal-2026-1o-turno",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral"
+    },
+    {
+      "id": "src-lula-38",
+      "title": "Supremo conclui julgamento do mensalão (AP 470)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/mensalao/noticia/2012/12/supremo-conclui-julgamento-do-mensalao-apos-quatro-meses-e-meio.html",
+      "publishedAt": "2012-12-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal"
+    },
+    {
+      "id": "src-lula-39",
+      "title": "Lei nº 15.346, de 14 de janeiro de 2026 — LOA 2026",
+      "publisher": "Diário Oficial da União",
+      "url": "https://in.gov.br/web/dou/-/lei-n-15.346-de-14-de-janeiro-de-2026-*-681158465",
+      "publishedAt": "2026-01-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial"
+    },
+    {
+      "id": "src-lula-40",
+      "title": "Orçamento 2026 é sancionado com veto a R$ 400 milhões em emendas",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://camara.leg.br/noticias/1238564-orcamento-2026-e-sancionado-com-veto-a-r-400-milhoes-em-emendas",
+      "publishedAt": "2026-01-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo"
+    },
+    {
+      "id": "src-lula-41",
+      "title": "'O Brasil Pronto Pra Mais': Lula e Alckmin defendem legado (coligação de 7 partidos)",
+      "publisher": "PT — site oficial",
+      "url": "https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defindem-legado-e-projetam-o-futuro",
+      "publishedAt": "2026-08-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "URL corrigida para a forma publicada: https://pt.org.br/o-brasil-pronto-pra-mais-lula-e-alckmin-defendem-legado-e-projetam-o-futuro"
+    },
+    {
+      "id": "src-lula-42",
+      "title": "PT lança candidatura de Lula à reeleição neste domingo (2)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/02/pt-lanca-candidatura-lula.ghtml",
+      "publishedAt": "2026-08-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-43",
+      "title": "Eleições 2026: após janela partidária, federação União-PP e PL têm maiores bancadas",
+      "publisher": "Estadão",
+      "url": "https://estadao.com.br/politica/eleicoes-2026-apos-janela-partidaria-federacao-uniao-pp-e-pl-tem-maiores-bancadas-na-camara",
+      "publishedAt": "2026-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-44",
+      "title": "Servidores e Pensionistas — Portal da Transparência do Governo Federal",
+      "publisher": "Governo Federal",
+      "url": "https://portaldatransparencia.gov.br/servidores",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia"
+    },
+    {
+      "id": "src-lula-45",
+      "title": "MPF reconhece prescrição do caso do triplex; o que ainda pesa contra Lula",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-57590318",
+      "publishedAt": "2021-12-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-46",
+      "title": "Condenação do ex-presidente Lula na ação do Sítio de Atibaia é mantida",
+      "publisher": "TRF-4",
+      "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=19542",
+      "publishedAt": "2020-05-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal"
+    },
+    {
+      "id": "src-lula-47",
+      "title": "Lula é inocente? Foi absolvido pela ONU e pelo STF? Entenda (Confere/UOL)",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/09/12/lula-e-inocente-foi-absolvido-pela-onu-e-pelo-stf-entenda.htm",
+      "publishedAt": "2022-09-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-48",
+      "title": "PT registra novo plano de governo de Lula no TSE; veja a íntegra",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+      "publishedAt": "2026-08-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-49",
+      "title": "PT registra plano de governo de Lula no TSE com novas propostas para 2026",
+      "publisher": "Folha Expressa",
+      "url": "https://folhaexpressa.com/politica/pt-registra-plano-de-governo-de-lula-no-tse-com-novas-propostas-para-2026",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-50",
+      "title": "Lula mantém arcabouço fiscal e promete investimentos (plano de governo)",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-51",
+      "title": "Pela primeira vez desde 1989, só Lula tem coligação eleitoral",
+      "publisher": "BPmMoney",
+      "url": "https://bpmoney.com.br/politica/eleicoes-2026-pela-primeira-vez-desde-a-redemocratizacao-so-lula-tem-coligacao",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-52",
+      "title": "Janela partidária 2026: quem ganhou e quem perdeu na Câmara (DIAP)",
+      "publisher": "DIAP",
+      "url": "https://www.diap.org.br/index.php/noticias/agencia-diap/92831-janela-partidaria-2026-quem-ganhou-e-quem-perdeu-na-camara",
+      "publishedAt": "2026-04",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria"
+    },
+    {
+      "id": "src-lula-53",
+      "title": "Lei nº 12.871, de 22 de outubro de 2013 — Programa Mais Médicos (governo Dilma)",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2013/lei-12871-22-outubro-2013-777279-publicacaooriginal-141521-pl.html",
+      "publishedAt": "2013-10-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "diario_oficial"
+    },
+    {
+      "id": "src-lula-54",
+      "title": "Sancionada lei que retoma o Minha Casa Minha Vida (criado em 2009)",
+      "publisher": "Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/sancionada-lei-que-retoma-o-minha-casa-minha-vida/",
+      "publishedAt": "2023-09-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-lula-57",
+      "title": "Prisão de Luiz Inácio Lula da Silva — verbete",
+      "publisher": "Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Enciclopédia usada como índice cronológico (sentenças, prisão, anulação); números conferidos nas fontes primárias citadas (STF, TRF-4, BBC)."
+    },
+    {
+      "id": "src-lula-58",
+      "title": "Datafolha: 50% desaprovam e 47% aprovam governo Lula",
+      "publisher": "g1 (Globo) — dados Datafolha",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-percent-desaprovam-e-percent-aprovam-governo-lula.ghtml",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Campo 22–23/09/2026, 2.002 entrevistas, margem ±2 p.p., registro TSE BR-00304/2026."
+    },
+    {
+      "id": "src-lula-59",
+      "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Datafolha",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Inclui o bloco 'Avaliação e aprovação do governo' (aprova 47%, desaprova 50%; ótimo/bom 34%, ruim/péssimo 40%)."
+    },
+    {
+      "id": "src-lula-60",
+      "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Quaest",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-1-turno-28-setembro-recortes.ghtml",
+      "publishedAt": "2026-09-29",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Divulgada em 28/09/2026; campo 24–27/09, 2.004 entrevistas, margem ±2 p.p., registro TSE BR-06520/2026."
+    },
+    {
+      "id": "src-lula-61",
+      "title": "API de Dados Abertos da Câmara — proposições com autor Luiz Inácio Lula da Silva",
+      "publisher": "Câmara dos Deputados (Dados Abertos)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?autor=LUIZ+INACIO+LULA+DA+SILVA&itens=100&ordem=ASC&ordenarPor=id",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Consulta em 29/09/2026: 12 proposições localizadas, das quais 6 projetos de lei (1988–1989); a situação de cada um foi conferida individualmente (todas arquivadas)."
+    },
+    {
+      "id": "src-lula-62",
+      "title": "Biografia do Deputado Federal Luiz Inácio Lula da Silva",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/deputados/139289/biografia",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Mandato 1987–1991 (Constituinte), posse em 01/02/1987; página traz atalhos para 'Proposições de Autoria' e 'Proposições Transformadas em Norma Jurídica'."
+    },
+    {
+      "id": "src-lula-63",
+      "title": "Câmara é História — Luiz Inácio Lula da Silva (Rádio Câmara)",
+      "publisher": "Câmara dos Deputados — Rádio Câmara",
+      "url": "https://www.camara.leg.br/radio/programas/276492-camara-e-historia-luiz-inacio-lula-da-silva-6-16/",
+      "publishedAt": "não informado",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "'Lula apresentou seis projetos de lei como deputado federal, dedicados à correção de salários de trabalhadores ativos e benefícios da previdência aos aposentados.'"
+    },
+    {
+      "id": "src-lula-64",
+      "title": "Presidente Lula recebe reivindicações de centrais sindicais para o período de 2026 a 2030",
+      "publisher": "Planalto — Casa Civil (gov.br)",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/04/presidente-lula-recebe-reivindicacoes-de-centrais-sindicais-para-o-periodo-de-2026-a-2030",
+      "publishedAt": "2026-04-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "executivo_federal",
+      "notes": "Reunião no Palácio do Planalto em 15/04/2026; entrega da Agenda da Classe Trabalhadora 2026–2030 com 68 reivindicações (Conclat)."
+    },
+    {
+      "id": "src-lula-65",
+      "title": "CUT e Centrais se reúnem com Lula para entrega da Agenda da Classe Trabalhadora",
+      "publisher": "CUT — Central Única dos Trabalhadores",
+      "url": "https://cut.org.br/noticias/cut-e-centrais-se-reunem-com-lula-para-entrega-da-agenda-da-classe-trabalhadora-31ef",
+      "publishedAt": "2026-04-15",
+      "accessedAt": "2026-09-29",
+      "sourceType": "partidaria",
+      "notes": "Presença de Alckmin, Luiz Marinho e Guilherme Boulos; mesma reunião relatada pelo gov.br."
+    },
+    {
+      "id": "src-lula-66",
+      "title": "Lula recebe evangélicos no Planalto às vésperas da eleição e volta a condenar política em igrejas",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-recebe-evangelicos-no-planalto-as-vesperas-da-eleicao-e-volta-a-condenar-politica-em-igrejas.shtml",
+      "publishedAt": "2026-09-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Encontro em 16/09/2026 com cerca de 20 pastores do Brasil, dos EUA e de Cuba, articulado pela Frente de Evangélicos pelo Estado de Direito com Janja Lula da Silva."
+    },
+    {
+      "id": "src-lula-67",
+      "title": "Lula se reúne com pastores e diz que não fará ato político em igrejas",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/09/16/lula-se-reune-com-pastores-e-diz-que-nao-fara-ato-politico-em-igrejas-comicio-eu-faco-na-rua.ghtml",
+      "publishedAt": "2026-09-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Mesmo encontro de 16/09/2026; presença do AGU Jorge Messias."
+    },
+    {
+      "id": "src-lula-68",
+      "title": "A empresários, Lula defende responsabilidade fiscal, estabilidade e soberania",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/a-empresrios-lula-defende-responsabilidade-fiscal-estabilidade-e-soberania.ghtml",
+      "publishedAt": "2026-09-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Jantar em São Paulo com cerca de 740 empresários, economistas e políticos (686 empresários); segundo jantar desse tipo em menos de um mês (o anterior, em 31/08/2026, no Alvorada, com 16 representantes do setor privado)."
+    },
+    {
+      "id": "src-lula-69",
+      "title": "Em reunião com Anfavea, Lula diz que crise no setor industrial também é problema do governo",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2026/07/14/em-reuniao-com-anfavea-lula-diz-que-crise-no-setor-industrial-tambem-e-problema-do-governo.ghtml",
+      "publishedAt": "2026-07-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Reunião no Planalto com o presidente da Anfavea, Igor Calvet, e ministros (Fazenda, Desenvolvimento, Casa Civil)."
+    },
+    {
+      "id": "src-lula-70",
+      "title": "Lula envia ao Congresso proposta de redução da escala 6 x 1",
+      "publisher": "Poder360",
+      "url": "https://poder360.com.br/poder-governo/lula-envia-ao-congresso-proposta-de-reducao-da-escala-6-x-1",
+      "publishedAt": "2026-04-14",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Envio em regime de urgência após almoço com o presidente da Câmara, Hugo Motta; acordo mediado por José Guimarães para tramitação conjunta do PL e da PEC."
+    },
+    {
+      "id": "src-lula-71",
+      "title": "Lula fecha acordo com Congresso para acelerar aprovação de promessas de campanha",
+      "publisher": "Observador (Portugal)",
+      "url": "https://observador.pt/2026/08/26/lula-fecha-acordo-com-congresso-para-acelerar-aprovacao-de-promessas-de-campanha/",
+      "publishedAt": "2026-08-26",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Almoço no Palácio da Alvorada com Hugo Motta (Câmara) e David Alcolumbre (Senado) em 26/08/2026: prioridades de pauta (redução da jornada, PEC de segurança, Redata, marco das terras raras, taxa das blusinhas)."
+    },
+    {
+      "id": "src-lula-72",
+      "title": "Lula diz que anunciará fim da taxa das blusinhas com Alcolumbre na próxima quarta-feira",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/23/lula-diz-que-anunciara-fim-da-taxa-das-blusinhas-com-alcolumbre-na-proxima-quarta-feira.ghtml",
+      "publishedAt": "2026-08-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Pressão direta de Lula sobre a cúpula do Congresso para votação da MP antes de 08/09/2026 (prazo de validade)."
+    },
+    {
+      "id": "src-lula-73",
+      "title": "No 1º turno, Lula (PT) tem 40%, e Flavio Bolsonaro (PL) aparece com 36%",
+      "publisher": "Datafolha (Folha de S.Paulo)",
+      "url": "https://datafolha.folha.uol.com.br/eleicoes/2026/09/no-1o-turno-lula-pt-tem-40-e-flavio-bolsonaro-pl-aparece-com-36.shtml",
+      "publishedAt": "2026-09-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Página institucional do Datafolha com a série de aprovação/desaprovação e a avaliação ótimo/bom–ruim/péssimo do governo."
+    }
   ],
-  "updatedAt": "2026-09-29"
+  "updatedAt": "2026-09-29",
+  "dataGaps": [
+    "Situação processual do candidato na AP 470 (Mensalão) segue marcada como parcial: não foi localizada lista nominal de réus confirmando ou excluindo o nome (ver institutionalHistory inst-lula-6).",
+    "Segunda ação da Operação Zelotes constava como 'processo pendente' em fonte de 2021, sem atualização posterior localizada (ver inst-lula-8).",
+    "Data exata da saída da Câmara (1995) e das licenças para as disputas de 1989 e 1994 não conferidas em fonte primária — anos_legislativo permanece com confiança média.",
+    "Cobertura da API da Câmara: 12 proposições localizadas (1987–1990); possível lacuna para proposições da legislatura 1991–1995 — leis aprovadas como autor principal = 0 com confiança média.",
+    "Percentuais de propostas com custo, prazo e dependência de Congresso são contagem sobre as 8 propostas-chave da ficha, não sobre a íntegra dos 13 eixos (plano em texto corrido).",
+    "Divergência de base na federação Brasil da Esperança: 84 cadeiras (g1/Estadão) vs 80 (DIAP) após a janela partidária de 2026.",
+    "Não foi consultado o DivulgaCandContas diretamente (web_extract indisponível nesta sessão); os dados do TSE vieram de páginas oficiais e de imprensa que replicam a plataforma."
+  ]
 }

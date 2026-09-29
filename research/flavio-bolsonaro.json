@@ -14,23 +14,138 @@
   "currentRole": "Senador da República pelo Rio de Janeiro (2019–atual)",
   "tagline": "Quatro mandatos consecutivos na ALERJ (2003–2019), senador eleito em 2018 com 4,4 milhões de votos e candidato do PL (nº 22) à Presidência em 2026.",
   "education": [
-    { "level": "graduacao", "field": "Direito", "institution": "Universidade Cândido Mendes", "conclusionYear": 2006, "sources": ["src-g1-educacao", "src-bbc-educacao"], "notes": "Assessoria enviou ao g1 diploma com formação em 2006; a BBC, com base na OAB, informa 2005 — divergência de um ano entre as fontes." },
-    { "level": "especializacao", "field": "Políticas Públicas", "institution": "IUPERJ (Instituto Universitário de Pesquisas do Rio de Janeiro)", "conclusionYear": 2012, "sources": ["src-g1-educacao"] },
-    { "level": "especializacao", "field": "Empreendedorismo e Desenvolvimento de Novos Negócios (MBA)", "institution": "Fundação Getulio Vargas (FGV)", "conclusionYear": 2015, "sources": ["src-g1-educacao"] }
+    {
+      "level": "graduacao",
+      "field": "Direito",
+      "institution": "Universidade Cândido Mendes",
+      "conclusionYear": 2006,
+      "sources": [
+        "src-g1-educacao",
+        "src-bbc-educacao"
+      ],
+      "notes": "Assessoria enviou ao g1 diploma com formação em 2006; a BBC, com base na OAB, informa 2005 — divergência de um ano entre as fontes."
+    },
+    {
+      "level": "especializacao",
+      "field": "Políticas Públicas",
+      "institution": "IUPERJ (Instituto Universitário de Pesquisas do Rio de Janeiro)",
+      "conclusionYear": 2012,
+      "sources": [
+        "src-g1-educacao"
+      ]
+    },
+    {
+      "level": "especializacao",
+      "field": "Empreendedorismo e Desenvolvimento de Novos Negócios (MBA)",
+      "institution": "Fundação Getulio Vargas (FGV)",
+      "conclusionYear": 2015,
+      "sources": [
+        "src-g1-educacao"
+      ]
+    }
   ],
   "professionalExperience": [
-    { "role": "Advogado", "organization": "Exercício liberal", "startDate": "2005", "endDate": null, "description": "Formado em Direito (Cândido Mendes, 2005/2006); declarado como profissão em registros eleitorais e no Senado.", "achievements": [], "sources": ["src-g1-educacao", "src-bbc-educacao"] },
-    { "role": "Assessor técnico da liderança", "organization": "Partido Progressista Brasileiro (PPB), Brasília", "startDate": "2000", "endDate": "2002", "description": "Iniciou a vida pública aos 19 anos, segundo a Wikipédia, enquanto cursava Direito.", "achievements": [], "sources": ["src-wikipedia"] }
+    {
+      "role": "Advogado",
+      "organization": "Exercício liberal",
+      "startDate": "2005",
+      "endDate": null,
+      "description": "Formado em Direito (Cândido Mendes, 2005/2006); declarado como profissão em registros eleitorais e no Senado.",
+      "achievements": [],
+      "sources": [
+        "src-g1-educacao",
+        "src-bbc-educacao"
+      ]
+    },
+    {
+      "role": "Assessor técnico da liderança",
+      "organization": "Partido Progressista Brasileiro (PPB), Brasília",
+      "startDate": "2000",
+      "endDate": "2002",
+      "description": "Iniciou a vida pública aos 19 anos, segundo a Wikipédia, enquanto cursava Direito.",
+      "achievements": [],
+      "sources": [
+        "src-wikipedia"
+      ]
+    }
   ],
   "politicalExperience": [
-    { "role": "Deputado Estadual", "organization": "ALERJ — Assembleia Legislativa do Rio de Janeiro", "startDate": "2003", "endDate": "2019", "description": "4 mandatos consecutivos (eleições 2002, 2006, 2010 e 2014, por PPB/PP). Presidiu a Comissão de Segurança Pública (segundo site oficial); autor da Lei estadual 7.809/2017, que obriga o Estado a devolver descontos indevidos do contracheque de policiais e bombeiros (afirmação do site oficial da campanha, verificável na legislação da ALERJ).", "budgetManaged": null, "teamSize": null, "achievements": ["Lei 7.809/2017 (autoria) — evidenceStatus: parcial (fonte: site do candidato)"], "sources": ["src-senado-perfil", "src-wikipedia", "src-site-oficial"] },
-    { "role": "Senador da República", "organization": "Senado Federal", "startDate": "2019", "endDate": null, "description": "Eleito em 2018 (PSL) com 4.380.418 votos (31,36% dos válidos no RJ). Eleito 3º Secretário da Mesa Diretora do Senado em 06/02/2019. Atuação concentrada em segurança pública (mais da metade das propostas); relator do PL 2253/2022 (monitoração eletrônica de presos, fim da saída temporária) em 2024. Produção legislativa: 62 projetos como autor principal desde 2019, 2 aprovados no Senado e nenhum convertido em lei; como coautor, 2 leis (PL 3.190/2023 aprovado nas duas Casas e outro). Ocupa a 47ª posição entre 54 senadores da legislatura em aprovações como autor principal (UOL/Agenda do Poder).", "budgetManaged": null, "teamSize": null, "achievements": ["3º Secretário da Mesa Diretora do Senado (2019)"], "sources": ["src-senado-perfil", "src-uol-2018", "src-agenda-poder-legis", "src-brasildefato-legis", "src-senado-pronunciamento", "src-wikipedia"] }
+    {
+      "role": "Deputado Estadual",
+      "organization": "ALERJ — Assembleia Legislativa do Rio de Janeiro",
+      "startDate": "2003",
+      "endDate": "2019",
+      "description": "4 mandatos consecutivos (eleições 2002, 2006, 2010 e 2014, por PPB/PP). Presidiu a Comissão de Segurança Pública (segundo site oficial); autor da Lei estadual 7.809/2017, que obriga o Estado a devolver descontos indevidos do contracheque de policiais e bombeiros (afirmação do site oficial da campanha, verificável na legislação da ALERJ).",
+      "budgetManaged": null,
+      "teamSize": null,
+      "achievements": [
+        "Lei 7.809/2017 (autoria) — evidenceStatus: parcial (fonte: site do candidato)"
+      ],
+      "sources": [
+        "src-senado-perfil",
+        "src-wikipedia",
+        "src-site-oficial"
+      ]
+    },
+    {
+      "role": "Senador da República",
+      "organization": "Senado Federal",
+      "startDate": "2019",
+      "endDate": null,
+      "description": "Eleito em 2018 (PSL) com 4.380.418 votos (31,36% dos válidos no RJ). Eleito 3º Secretário da Mesa Diretora do Senado em 06/02/2019. Atuação concentrada em segurança pública (mais da metade das propostas); relator do PL 2253/2022 (monitoração eletrônica de presos, fim da saída temporária) em 2024. Produção legislativa: 62 projetos como autor principal desde 2019, 2 aprovados no Senado e nenhum convertido em lei; como coautor, 2 leis (PL 3.190/2023 aprovado nas duas Casas e outro). Ocupa a 47ª posição entre 54 senadores da legislatura em aprovações como autor principal (UOL/Agenda do Poder).",
+      "budgetManaged": null,
+      "teamSize": null,
+      "achievements": [
+        "3º Secretário da Mesa Diretora do Senado (2019)"
+      ],
+      "sources": [
+        "src-senado-perfil",
+        "src-uol-2018",
+        "src-agenda-poder-legis",
+        "src-brasildefato-legis",
+        "src-senado-pronunciamento",
+        "src-wikipedia"
+      ]
+    }
   ],
   "executiveExperience": [],
   "achievements": [
-    { "title": "Eleição mais votada para o Senado pelo RJ em 2018", "context": "Candidato a senador (PSL), out/2018", "description": "4.380.418 votos (31,36% dos votos válidos), à frente de Arolde de Oliveira (17,06%) e César Maia (16,67%); foi o candidato mais votado em 84 dos 92 municípios do estado.", "evidenceStatus": "confirmado", "confidenceLevel": "high", "sources": ["src-uol-2018", "src-agenciabrasil-2018", "src-wikipedia"], "updatedAt": "2026-09-29" },
-    { "title": "Quatro mandatos consecutivos na ALERJ", "context": "Deputado estadual pelo RJ, 2003–2019", "description": "Reeleito em 2002, 2006, 2010 e 2014 (31.293, 43.099, 58.322 e 160.359 votos).", "evidenceStatus": "confirmado", "confidenceLevel": "high", "sources": ["src-wikipedia", "src-senado-perfil"], "updatedAt": "2026-09-29" },
-    { "title": "Lei estadual RJ 7.809/2017 (autoria)", "context": "Deputado estadual, ALERJ, 2017", "description": "Obriga o Estado a devolver valores indevidamente descontados do contracheque de policiais e bombeiros. consta do site oficial do candidato; não verificado diretamente no banco de legislação da ALERJ nesta pesquisa.", "evidenceStatus": "parcial", "confidenceLevel": "medium", "sources": ["src-site-oficial"], "updatedAt": "2026-09-29" }
+    {
+      "title": "Eleição mais votada para o Senado pelo RJ em 2018",
+      "context": "Candidato a senador (PSL), out/2018",
+      "description": "4.380.418 votos (31,36% dos votos válidos), à frente de Arolde de Oliveira (17,06%) e César Maia (16,67%); foi o candidato mais votado em 84 dos 92 municípios do estado.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "sources": [
+        "src-uol-2018",
+        "src-agenciabrasil-2018",
+        "src-wikipedia"
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "title": "Quatro mandatos consecutivos na ALERJ",
+      "context": "Deputado estadual pelo RJ, 2003–2019",
+      "description": "Reeleito em 2002, 2006, 2010 e 2014 (31.293, 43.099, 58.322 e 160.359 votos).",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "sources": [
+        "src-wikipedia",
+        "src-senado-perfil"
+      ],
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "title": "Lei estadual RJ 7.809/2017 (autoria)",
+      "context": "Deputado estadual, ALERJ, 2017",
+      "description": "Obriga o Estado a devolver valores indevidamente descontados do contracheque de policiais e bombeiros. consta do site oficial do candidato; não verificado diretamente no banco de legislação da ALERJ nesta pesquisa.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "sources": [
+        "src-site-oficial"
+      ],
+      "updatedAt": "2026-09-29"
+    }
   ],
   "governmentPlan": {
     "title": "Para o Brasil vencer o atraso — Diretrizes do Plano de Governo 2027-2030",
@@ -52,40 +167,872 @@
     },
     "statsEvidence": "parcial",
     "keyProposals": [
-      { "title": "Declarar PCC, CV e milícias como organizações narcoterroristas", "theme": "Segurança", "description": "\"Terrorista vai ser tratado como terrorista\": guerra declarada ao crime organizado, prisão de líderes e ataque aos negócios das facções.", "hasCost": false, "costDetail": null, "deadline": null, "legalInstrument": "Legislativo (definição legal de narcoterrorismo)", "dependsOnCongress": true, "sources": ["src-plano-pdf"] },
-      { "title": "Tesouraço de gastos e limite a decisões do STF", "theme": "Administração pública", "description": "Corte de gastos federais, corte constitucional de gastos, enxugamento da máquina e proposta de limitar decisões do STF; inclui reforma do Judiciário (prisões em estilo Bukele, segundo o Estadão).", "hasCost": false, "costDetail": null, "deadline": "4 anos", "legalInstrument": "Emenda constitucional / reorganização administrativa", "dependsOnCongress": true, "sources": ["src-g1-plano", "src-plano-pdf", "src-estadao-plano"] },
-      { "title": "Redução da maioridade penal para 16 anos", "theme": "Segurança", "description": "\"O crime do menor não é menor\": redução da maioridade penal e tougher regime para infratores.", "hasCost": false, "costDetail": null, "deadline": null, "legalInstrument": "Emenda constitucional", "dependsOnCongress": true, "sources": ["src-plano-pdf"] },
-      { "title": "Mais presídios, menos bandidos soltos", "theme": "Segurança", "description": "Expansão do sistema prisional e endurecimento de regras (eixo \"Brasil sem Medo\").", "hasCost": false, "costDetail": null, "deadline": null, "legalInstrument": "Política pública + orçamento", "dependsOnCongress": false, "sources": ["src-plano-pdf"] },
-      { "title": "Jornada do negócio próprio e primeiro emprego", "theme": "Economia", "description": "Três níveis: capacitação pelo Sistema S; linha de crédito e serviços financeiros da Caixa para novos empreendedores; contrato de trabalho de custo reduzido para o primeiro emprego.", "hasCost": false, "costDetail": null, "deadline": null, "legalInstrument": "Programa administrativo + crédito", "dependsOnCongress": false, "sources": ["src-g1-plano"] },
-      { "title": "R$ 900 bilhões em infraestrutura em quatro anos", "theme": "Infraestrutura", "description": "Investimento em rodovias, hidrovias e portos previsto no texto do plano.", "hasCost": true, "costDetail": "R$ 900 bilhões em 4 anos", "deadline": "4 anos", "legalInstrument": "Parcerias e orçamento", "dependsOnCongress": false, "sources": ["src-plano-pdf"] }
+      {
+        "title": "Declarar PCC, CV e milícias como organizações narcoterroristas",
+        "theme": "Segurança",
+        "description": "\"Terrorista vai ser tratado como terrorista\": guerra declarada ao crime organizado, prisão de líderes e ataque aos negócios das facções.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Legislativo (definição legal de narcoterrorismo)",
+        "dependsOnCongress": true,
+        "sources": [
+          "src-plano-pdf"
+        ]
+      },
+      {
+        "title": "Tesouraço de gastos e limite a decisões do STF",
+        "theme": "Administração pública",
+        "description": "Corte de gastos federais, corte constitucional de gastos, enxugamento da máquina e proposta de limitar decisões do STF; inclui reforma do Judiciário (prisões em estilo Bukele, segundo o Estadão).",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": "4 anos",
+        "legalInstrument": "Emenda constitucional / reorganização administrativa",
+        "dependsOnCongress": true,
+        "sources": [
+          "src-g1-plano",
+          "src-plano-pdf",
+          "src-estadao-plano"
+        ]
+      },
+      {
+        "title": "Redução da maioridade penal para 16 anos",
+        "theme": "Segurança",
+        "description": "\"O crime do menor não é menor\": redução da maioridade penal e tougher regime para infratores.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Emenda constitucional",
+        "dependsOnCongress": true,
+        "sources": [
+          "src-plano-pdf"
+        ]
+      },
+      {
+        "title": "Mais presídios, menos bandidos soltos",
+        "theme": "Segurança",
+        "description": "Expansão do sistema prisional e endurecimento de regras (eixo \"Brasil sem Medo\").",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Política pública + orçamento",
+        "dependsOnCongress": false,
+        "sources": [
+          "src-plano-pdf"
+        ]
+      },
+      {
+        "title": "Jornada do negócio próprio e primeiro emprego",
+        "theme": "Economia",
+        "description": "Três níveis: capacitação pelo Sistema S; linha de crédito e serviços financeiros da Caixa para novos empreendedores; contrato de trabalho de custo reduzido para o primeiro emprego.",
+        "hasCost": false,
+        "costDetail": null,
+        "deadline": null,
+        "legalInstrument": "Programa administrativo + crédito",
+        "dependsOnCongress": false,
+        "sources": [
+          "src-g1-plano"
+        ]
+      },
+      {
+        "title": "R$ 900 bilhões em infraestrutura em quatro anos",
+        "theme": "Infraestrutura",
+        "description": "Investimento em rodovias, hidrovias e portos previsto no texto do plano.",
+        "hasCost": true,
+        "costDetail": "R$ 900 bilhões em 4 anos",
+        "deadline": "4 anos",
+        "legalInstrument": "Parcerias e orçamento",
+        "dependsOnCongress": false,
+        "sources": [
+          "src-plano-pdf"
+        ]
+      }
     ],
     "updatedAt": "2026-09-29"
   },
   "metrics": [
-    { "id": "anos_executivo", "category": "capacidade-execucao", "name": "Anos em cargos executivos", "displayValue": "0 anos", "value": 0, "unit": "anos", "metricType": "duration", "directionality": "higher_is_descriptively_more", "methodology": "Trajetória verificada sem ocupação de cargo executivo eletivo (prefeito, governador, presidente) — zero real, não ausência de dado", "evidenceStatus": "confirmado", "confidenceLevel": "high", "availability": "available", "sources": ["src-wikipedia", "src-senado-perfil"], "updatedAt": "2026-09-29", "context": "Toda a trajetória é legislativa (ALERJ e Senado)." },
-    { "id": "maior_orcamento", "category": "capacidade-execucao", "name": "Maior orçamento anual administrado", "displayValue": "não localizado", "value": null, "unit": "R$ bi/ano", "metricType": "currency", "directionality": "higher_is_descriptively_more", "methodology": "Nunca administrou orçamento executivo; não localizado dado de orçamento de gabinete/verba de emendas sob gestão", "evidenceStatus": "indeterminado", "confidenceLevel": "low", "availability": "not_found", "sources": [], "updatedAt": "2026-09-29", "context": "" },
-    { "id": "equipe_gerida", "category": "capacidade-execucao", "name": "Pessoas/equipe sob gestão", "displayValue": "não localizado", "value": null, "unit": "servidores", "metricType": "number", "directionality": "higher_is_descriptively_more", "methodology": "Tamanho do gabinete parlamentar não aferido nesta pesquisa", "evidenceStatus": "indeterminado", "confidenceLevel": "low", "availability": "not_found", "sources": [], "updatedAt": "2026-09-29", "context": "" },
-    { "id": "anos_politica", "category": "historico-experiencia", "name": "Anos de experiência política total", "displayValue": "26 anos", "value": 26, "unit": "anos", "metricType": "duration", "directionality": "higher_is_descriptively_more", "methodology": "Desde o início da vida pública profissional (~2000, assessoria no PPB) até 2026", "evidenceStatus": "parcial", "confidenceLevel": "medium", "availability": "available", "sources": ["src-wikipedia"], "updatedAt": "2026-09-29", "context": "Se contado apenas de mandato eletivo (2003), o valor é 23 anos." },
-    { "id": "anos_legislativo", "category": "historico-experiencia", "name": "Anos em cargos legislativos", "displayValue": "23 anos e 9 meses", "value": 23.7, "unit": "anos", "metricType": "duration", "directionality": "higher_is_descriptively_more", "methodology": "ALERJ jan/2003–dez/2018 (16 anos) + Senado fev/2019–set/2026 (7 anos e 8 meses)", "evidenceStatus": "confirmado", "confidenceLevel": "high", "availability": "available", "sources": ["src-senado-perfil", "src-wikipedia"], "updatedAt": "2026-09-29", "context": "" },
-    { "id": "anos_federal", "category": "articulacao", "name": "Anos de mandato federal", "displayValue": "7 anos e 8 meses", "value": 7.7, "unit": "anos", "metricType": "duration", "directionality": "higher_is_descriptively_more", "methodology": "Senado Federal, desde fev/2019", "evidenceStatus": "confirmado", "confidenceLevel": "high", "availability": "available", "sources": ["src-senado-perfil"], "updatedAt": "2026-09-29", "context": "Antes disso, nenhum mandato federal (só estadual)." },
-    { "id": "mandatos_eletivos", "category": "historico-experiencia", "name": "Mandatos eletivos conquistados", "displayValue": "5 mandatos", "value": 5, "unit": "mandatos", "metricType": "number", "directionality": "higher_is_descriptively_more", "methodology": "4 estaduais (2002, 2006, 2010, 2014) + 1 federal (Senado, 2018); não inclui derrotas (prefeito do RJ 2016, 4º lugar) nem a disputa de 2026", "evidenceStatus": "confirmado", "confidenceLevel": "high", "availability": "available", "sources": ["src-wikipedia", "src-uol-2018"], "updatedAt": "2026-09-29", "context": "" },
-    { "id": "projetos_lei_aprovados", "category": "historico-experiencia", "name": "Leis aprovadas como autor principal (federal)", "displayValue": "0 leis (2 projetos aprovados no Senado, nenhum convertido em lei)", "value": 0, "unit": "leis", "metricType": "number", "directionality": "higher_is_descriptively_more", "methodology": "Levantamento UOL/Agenda do Poder com dados oficiais do Senado (2019–2026): 62 projetos como autor principal, 2 aprovados no Senado, 0 leis; Brasil de Fato (abr/2026): 1 projeto aprovado nas duas Casas (PL 3.190/2023) ainda não convertido; como coautor, 9 aprovados e 2 viraram lei. Zero verificado, não ausência de dado", "evidenceStatus": "confirmado", "confidenceLevel": "high", "availability": "available", "sources": ["src-agenda-poder-legis", "src-brasildefato-legis"], "updatedAt": "2026-09-29", "context": "Na ALERJ, tem autoria da Lei 7.809/2017 (estadual)." },
-    { "id": "propostas_total", "category": "plano", "name": "Propostas do plano de governo", "displayValue": "69 propostas", "value": 69, "unit": "propostas", "metricType": "number", "directionality": "higher_is_descriptively_more", "methodology": "Contagem do índice temático do PDF oficial do plano (85 entradas no sumário: 69 propostas + 9 eixos temáticos + 7 seções estruturais), extraído integralmente (76 páginas)", "evidenceStatus": "parcial", "confidenceLevel": "medium", "availability": "available", "sources": ["src-plano-pdf"], "updatedAt": "2026-09-29", "context": "" },
-    { "id": "propostas_com_custo", "category": "plano", "name": "Propostas com custo estimado", "displayValue": "~4% (3 menções de valor em R$ no texto de 69 propostas)", "value": 4.3, "unit": "%", "metricType": "percentage", "directionality": "higher_is_descriptively_more", "methodology": "Contagem automática de menções de valores em R$ no texto extraído do PDF (R$ 900 bi; R$ 500 bi x2). Não equivale a propostas com plano orçamentário completo", "evidenceStatus": "parcial", "confidenceLevel": "low", "availability": "available", "sources": ["src-plano-pdf"], "updatedAt": "2026-09-29", "context": "O plano não apresenta custo por proposta de forma sistemática." },
-    { "id": "propostas_com_prazo", "category": "plano", "name": "Propostas com prazo", "displayValue": "~13% (≈9 menções de prazo no texto de 69 propostas)", "value": 13, "unit": "%", "metricType": "percentage", "directionality": "higher_is_descriptively_more", "methodology": "Contagem de menções temporais no PDF (\"em 4 anos\", 2027, 2029, 2030, \"até 20…\")", "evidenceStatus": "parcial", "confidenceLevel": "low", "availability": "available", "sources": ["src-plano-pdf"], "updatedAt": "2026-09-29", "context": "" },
-    { "id": "maior_votos_eleicao", "category": "historico-experiencia", "name": "Maior votação individual", "displayValue": "4.380.418 votos (2018)", "value": 4380418, "unit": "votos", "metricType": "number", "directionality": "higher_is_descriptively_more", "methodology": "Eleição ao Senado pelo RJ em 2018 — 31,36% dos votos válidos, mais votado do estado", "evidenceStatus": "confirmado", "confidenceLevel": "high", "availability": "available", "sources": ["src-uol-2018", "src-agenciabrasil-2018"], "updatedAt": "2026-09-29", "context": "" },
-    { "id": "patrimonio_declarado", "category": "historico-experiencia", "name": "Patrimônio declarado à Justiça Eleitoral", "displayValue": "R$ 1,74 milhão", "value": 1.74, "unit": "R$ milhão", "metricType": "currency", "directionality": "neutral", "methodology": "Valor mais recente citado pela imprensa com base em declarações à Justiça Eleitoral; o mesmo levantamento descreve mansão em Brasília de R$ 6 milhões (entrada de R$ 2,87 mi em 2021, financiamento quitado em 2024 junto ao BRB) e crescimento patrimonial de 397% em 12 anos de mandato na ALERJ", "evidenceStatus": "parcial", "confidenceLevel": "medium", "availability": "available", "sources": ["src-brasildefato-patrimonio"], "updatedAt": "2026-09-29", "context": "Fonte imprensa; não aberto o DivulgaCandContas nesta pesquisa." }
+    {
+      "id": "anos_executivo",
+      "category": "capacidade-execucao",
+      "name": "Anos em cargos executivos públicos",
+      "displayValue": "0 anos",
+      "value": 0,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Trajetória verificada sem ocupação de cargo executivo eletivo (prefeito, governador, presidente) — zero real, não ausência de dado",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        "src-wikipedia",
+        "src-senado-perfil"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Toda a trajetória é legislativa (ALERJ e Senado)."
+    },
+    {
+      "id": "maior_orcamento",
+      "category": "capacidade-execucao",
+      "name": "Maior orçamento anual administrado",
+      "displayValue": "≈R$ 56 milhões (gastos de campanha declarados ao TSE em 2026 — proxy)",
+      "value": 0.056,
+      "unit": "R$ bi/ano",
+      "metricType": "currency",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Nunca administrou orçamento público (trajetória exclusivamente legislativa: ALERJ 2011–2019 e Senado 2019–atual). Proxy prevista no spec: orçamento de campanha prestado ao TSE — gastos declarados na prestação de contas PARCIAL das eleições 2026: cerca de R$ 56 milhões (CNN, 1º mês de campanha), R$ 49,99 milhões até 07/09/2026 (Estadão, sobre dados do TSE), com receita declarada de R$ 44,49 milhões em 10/09 (Valor). Base trocada de orçamento público por campanha eleitoral; valores parciais.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-04",
+          "title": "Em 1 mês de campanha, presidenciáveis desembolsaram, juntos, R$ 153 milhões (Flávio: cerca de R$ 56 milhões)",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/em-1-mes-de-campanha-presidenciaveis-desembolsaram-juntos-r-153-milhoes/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Mês; dia exato não capturado. Período eleitoral a partir de 16/08/2026; gasto declarado de Flávio: cerca de R$ 56 milhões."
+        },
+        {
+          "id": "src-flavio-bolsonaro-03",
+          "title": "Eleições 2026: Flávio gasta quase R$ 50 milhões e lidera despesas de campanha de presidenciáveis",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/eleicoes-2026-flavio-gasta-quase-r-50-milhoes-e-lidera-despesas-de-campanha-de-presidenciaveis",
+          "publishedAt": "2026-09-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Levantamento sobre dados declarados ao TSE: 13 candidatos declararam R$ 75 mi até 07/09/2026; Flávio responde por R$ 49,99 mi (67%)."
+        },
+        {
+          "id": "src-flavio-bolsonaro-05",
+          "title": "Flávio Bolsonaro supera Lula em recursos declarados para campanha; veja ranking",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/10/flavio-bolsonaro-supera-lula-em-recursos-declarados-para-campanha-veja-ranking.ghtml",
+          "publishedAt": "2026-09-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Prestação parcial de contas ao TSE (prazo em 13/09/2026): Flávio com a maior receita declarada entre presidenciáveis, R$ 44,49 mi."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Substituição de base: não há LOA/governo a citar. A prestação final de contas será divulgada pela Justiça Eleitoral após o pleito; o teto de gastos da chapa e o repasse do PL não entram neste valor (é despesa, não orçamento administrado)."
+    },
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "25 pessoas (gabinete do Senado + escritório de apoio, 2026)",
+      "value": 25,
+      "unit": "pessoas",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Proxy de gabinete parlamentar (spec): pessoal vinculado ao gabinete do senador em 2026 na página de transparência do Senado — 1 efetivo + 15 comissionados + 4 terceirizados + 0 estagiários = 20; somados 5 comissionados do escritório de apoio no Rio de Janeiro, total de 25 pessoas. Contagem direta das listas oficiais por vínculo, sem estimativa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-01",
+          "title": "Pessoal de Gabinete de Flávio Bolsonaro em 2026 (efetivos, comissionados, terceirizados, estagiários)",
+          "publisher": "Senado Federal — Transparência e Prestação de Contas",
+          "url": "https://www6g.senado.leg.br/transparencia/sen/5894/pessoal/?ano=2026&local=gabinete",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Página viva consultada em 29/09/2026: Efetivos (1), Comissionados (15), Terceirizados (4), Estagiários (0) no gabinete em 2026."
+        },
+        {
+          "id": "src-flavio-bolsonaro-02",
+          "title": "Pessoal de Escritório de Apoio de Flávio Bolsonaro em 2026 (Rio de Janeiro)",
+          "publisher": "Senado Federal — Transparência e Prestação de Contas",
+          "url": "https://www6g.senado.leg.br/transparencia/sen/5894/pessoal/?ano=2026&local=escritorio&vinculo=TODOS",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Página viva consultada em 29/09/2026: 5 comissionados, nenhum efetivo."
+        },
+        {
+          "id": "src-senado-perfil",
+          "title": "Senador Flávio Bolsonaro — perfil oficial",
+          "publisher": "Senado Federal",
+          "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Não há servidores sob gestão executiva (nunca ocupou cargo no Executivo). Em 2025 o gabinete teve 22 comissionados (mesma fonte, ano anterior), ante 15 em 2026 — queda na folha do gabinete."
+    },
+    {
+      "id": "anos_politica",
+      "category": "historico-experiencia",
+      "name": "Anos de experiência política",
+      "displayValue": "26 anos",
+      "value": 26,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Desde o início da vida pública profissional (~2000, assessoria no PPB) até 2026",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        "src-wikipedia"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Se contado apenas de mandato eletivo (2003), o valor é 23 anos."
+    },
+    {
+      "id": "anos_legislativo",
+      "category": "historico-experiencia",
+      "name": "Anos em cargos legislativos",
+      "displayValue": "23 anos e 9 meses",
+      "value": 23.7,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "ALERJ jan/2003–dez/2018 (16 anos) + Senado fev/2019–set/2026 (7 anos e 8 meses)",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        "src-senado-perfil",
+        "src-wikipedia"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": ""
+    },
+    {
+      "id": "anos_federal",
+      "category": "articulacao",
+      "name": "Anos em cargos públicos federais",
+      "displayValue": "7 anos e 8 meses",
+      "value": 7.7,
+      "unit": "anos",
+      "metricType": "duration",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Senado Federal, desde fev/2019",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        "src-senado-perfil"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Antes disso, nenhum mandato federal (só estadual)."
+    },
+    {
+      "id": "mandatos_eletivos",
+      "category": "historico-experiencia",
+      "name": "Mandatos eletivos conquistados",
+      "displayValue": "5 mandatos",
+      "value": 5,
+      "unit": "mandatos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "4 estaduais (2002, 2006, 2010, 2014) + 1 federal (Senado, 2018); não inclui derrotas (prefeito do RJ 2016, 4º lugar) nem a disputa de 2026",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        "src-wikipedia",
+        "src-uol-2018"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": ""
+    },
+    {
+      "id": "projetos_lei_aprovados",
+      "category": "historico-experiencia",
+      "name": "Leis aprovadas como autor principal",
+      "displayValue": "0 leis (2 projetos aprovados no Senado, nenhum convertido em lei)",
+      "value": 0,
+      "unit": "leis",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Levantamento UOL/Agenda do Poder com dados oficiais do Senado (2019–2026): 62 projetos como autor principal, 2 aprovados no Senado, 0 leis; Brasil de Fato (abr/2026): 1 projeto aprovado nas duas Casas (PL 3.190/2023) ainda não convertido; como coautor, 9 aprovados e 2 viraram lei. Zero verificado, não ausência de dado",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        "src-agenda-poder-legis",
+        "src-brasildefato-legis"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Na ALERJ, tem autoria da Lei 7.809/2017 (estadual)."
+    },
+    {
+      "id": "propostas_total",
+      "category": "plano",
+      "name": "Propostas do plano de governo",
+      "displayValue": "69 propostas",
+      "value": 69,
+      "unit": "itens do plano",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem do índice temático do PDF oficial do plano (85 entradas no sumário: 69 propostas + 9 eixos temáticos + 7 seções estruturais), extraído integralmente (76 páginas)",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        "src-plano-pdf"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": ""
+    },
+    {
+      "id": "propostas_com_custo",
+      "category": "plano",
+      "name": "Propostas com custo estimado",
+      "displayValue": "~4% (3 menções de valor em R$ no texto de 69 propostas)",
+      "value": 4.3,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem automática de menções de valores em R$ no texto extraído do PDF (R$ 900 bi; R$ 500 bi x2). Não equivale a propostas com plano orçamentário completo",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        "src-plano-pdf"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O plano não apresenta custo por proposta de forma sistemática."
+    },
+    {
+      "id": "propostas_com_prazo",
+      "category": "plano",
+      "name": "Propostas com prazo",
+      "displayValue": "~13% (≈9 menções de prazo no texto de 69 propostas)",
+      "value": 13,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem de menções temporais no PDF (\"em 4 anos\", 2027, 2029, 2030, \"até 20…\")",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        "src-plano-pdf"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": ""
+    },
+    {
+      "id": "votos_recebidos",
+      "category": "historico-experiencia",
+      "name": "Votos recebidos em eleições anteriores",
+      "displayValue": "4.380.418 votos (2018)",
+      "value": 4380418,
+      "unit": "votos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Eleição ao Senado pelo RJ em 2018 — 31,36% dos votos válidos, mais votado do estado",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        "src-uol-2018",
+        "src-agenciabrasil-2018"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": ""
+    },
+    {
+      "id": "bens_declarados",
+      "category": "historico-experiencia",
+      "name": "Bens declarados à Justiça Eleitoral",
+      "displayValue": "R$ 1,74 milhão",
+      "value": 1740000.0,
+      "unit": "R$",
+      "metricType": "currency",
+      "directionality": "neutral",
+      "methodology": "Valor mais recente citado pela imprensa com base em declarações à Justiça Eleitoral; o mesmo levantamento descreve mansão em Brasília de R$ 6 milhões (entrada de R$ 2,87 mi em 2021, financiamento quitado em 2024 junto ao BRB) e crescimento patrimonial de 397% em 12 anos de mandato na ALERJ",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        "src-brasildefato-patrimonio"
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Fonte imprensa; não aberto o DivulgaCandContas nesta pesquisa."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "Não se aplica — nunca ocupou cargo executivo",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de aprovação da gestão em pesquisas de opinião. Flávio Bolsonaro nunca ocupou cargo executivo: trajetória exclusivamente legislativa (ALERJ 2011–2019 e Senado Federal desde 2019, mandato em exercício em 2026). Ausência de carreira executiva é fato confirmado, não lacuna de pesquisa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-wikipedia",
+          "title": "Flávio Bolsonaro — Wikipédia",
+          "publisher": "Wikimedia",
+          "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+        },
+        {
+          "id": "src-senado-perfil",
+          "title": "Senador Flávio Bolsonaro — perfil oficial",
+          "publisher": "Senado Federal",
+          "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Como não houve gestão executiva municipal, estadual ou federal, não existe série de aprovação correspondente; a avaliação de desempenho parlamentar não é medida por pesquisa de aprovação de gestão nesta base."
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "50% (3 das 6 propostas prioritárias detalhadas; de 69 no plano)",
+      "value": 50,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 6 propostas prioritárias detalhadas no próprio JSON (plano registrado tem 69 propostas): 3 marcam dependência do Congresso — classificação de PCC/CV/milícias como narcoterroristas (lei), tesouraço de gastos e limite a decisões do STF (emenda constitucional) e redução da maioridade penal para 16 anos (emenda constitucional). Classificação aproximada sobre subconjunto; a classificação item a item das 69 propostas não foi feita.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-plano-pdf",
+          "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+          "publisher": "Poder360 (cópia do documento de campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+        },
+        {
+          "id": "src-g1-plano",
+          "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+          "publisher": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O próprio plano aponta, no resumo, reforma do Judiciário, majoração de penas e corte constitucional de gastos como dependentes de Congresso — o que sugere percentual igual ou maior entre as 69 propostas se a contagem fosse ampliada."
+    },
+    {
+      "id": "registro_tse",
+      "category": "articulacao",
+      "name": "Situação do registro de candidatura no TSE",
+      "displayValue": "Deferido — TSE validou a chapa em 02/09/2026 (sessão virtual); AIJE do PT, que pede cassação, está em curso",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026, copiada das categorias da fonte sem interpretação de mérito.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-tse-registros",
+          "title": "TSE valida seis registros de candidatura à Presidência da República",
+          "publisher": "TSE",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Situação de registro da chapa presidencial."
+        },
+        {
+          "id": "src-tse-doze",
+          "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas."
+        },
+        {
+          "id": "src-flavio-bolsonaro-17",
+          "title": "Flávio aparece no TSE filiado ao Missão; PL diz não ter conseguido registrar candidatura e fala em fraude",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/13/flavio-bolsonaro-nao-consegue-registrar-candidatura-apos-aparecer-filiado-ao-missao-no-sistema-eleitoral.ghtml",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Episódio de 13/08/2026, antes do prazo final de registro (15/08)."
+        },
+        {
+          "id": "src-flavio-bolsonaro-18",
+          "title": "Registro de Flávio Bolsonaro no TSE: o que acontece após candidato não conseguir oficializar a candidatura",
+          "publisher": "BBC News Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cg5lp58rnpqo",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "O nome voltou a constar como filiado ao PL na tarde de 13/08/2026."
+        },
+        {
+          "id": "src-tse-aije-peca",
+          "title": "AIJE nº 0602222-72.2026.6.00.0000 — peça inicial (PT) contra Flávio Bolsonaro e outros",
+          "publisher": "TSE (cópia publicada pelo Conjur)",
+          "url": "https://conjur.com.br/wp-content/uploads/2026/09/pt-peca-tse.pdf",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Documento processual: pedidos, rito art. 22 da LC 64/90, relator e distribuição."
+        },
+        {
+          "id": "src-horabrasilia-aije",
+          "title": "TSE admite ação do PT que pede cassação de Flávio Bolsonaro e inelegibilidade por oito anos",
+          "publisher": "Hora Brasília",
+          "url": "https://horabrasilia.com.br/2026/09/tse-admite-acao-do-pt-que-pede-cassacao-de-flavio-bolsonaro-e-inelegibilidade-por-oito-anos/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Admissibilidade sem juízo de mérito; prazo de defesa."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O TSE aprovou em sessão virtual de 02/09/2026 os registros de seis chapas, entre elas a do PL (Flávio Bolsonaro/Alfredo Gaspar); o quadro final de 12 candidaturas à Presidência foi fixado em 11/09/2026. Antes disso, em 13/08/2026, o sistema da Justiça Eleitoral exibiu o candidato filiado ao Missão e o PL afirmou não ter conseguido registrar a candidatura (g1); na tarde do mesmo dia o nome voltou a constar como filiado ao PL (BBC Brasil). AIJE nº 0602222-72.2026 (petição inicial do PT): categoria copiada da fonte — ação admitida que pede cassação da chapa e inelegibilidade por oito anos; em curso, sem decisão de mérito em 29/09/2026."
+    },
+    {
+      "id": "bancada_partidaria_camara",
+      "category": "articulacao",
+      "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+      "displayValue": "98/513 deputados federais (PL, 2ª maior bancada)",
+      "value": 98,
+      "unit": "cadeiras",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Cadeiras do PL na Câmara dos Deputados em 29/09/2026, antes do pleito de 2026, conforme a página oficial de bancadas da Casa (líder: Sóstenes Cavalcante) e a cobertura do g1. O tempo de TV de 2026 é calculado com a bancada federal eleita em 2022, na qual o PL é a segunda maior bancada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-11",
+          "title": "Bancada dos partidos — Portal da Câmara dos Deputados (PL: 98 deputados, líder Sóstenes Cavalcante)",
+          "publisher": "Câmara dos Deputados",
+          "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Página viva consultada em 29/09/2026."
+        },
+        {
+          "id": "src-flavio-bolsonaro-10",
+          "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+        },
+        {
+          "id": "src-flavio-bolsonaro-15",
+          "title": "Flávio Bolsonaro puxa deputados para o PL e partido tem o maior ganho da janela partidária na Câmara",
+          "publisher": "DIAP — Departamento Intersindical de Assessoria Parlamentar",
+          "url": "https://www.diap.org.br/index.php/noticias/noticias/92841-flavio-bolsonaro-puxa-deputados-para-o-pl-e-partido-tem-o-maior-ganho-da-janela-partidaria-na-camara",
+          "publishedAt": "2026-04-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Após a janela partidária de abr/2026, o PL teve o maior ganho líquido de deputados, com Flávio Bolsonaro citado como articulador das trocas de sigla (DIAP)."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "articulacao",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "36% (Datafolha, 24/09) | 34% (Quaest, 28/09) | 33% (Datafolha, 21/08) | 29% (Quaest, 07/09)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026, todas com publicação e data verificadas.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-06",
+          "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+          "publishedAt": "2026-09-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral",
+          "notes": "Encomendada por Globo e Folha; 2º turno: Lula 47% x Flávio 45%."
+        },
+        {
+          "id": "src-flavio-bolsonaro-07",
+          "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Quaest",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+          "publishedAt": "2026-09-28",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral",
+          "notes": "2.004 entrevistas, 24–27/09/2026, margem de 2 p.p.; 2º turno empata em 42% x 42%; registro BR-06520/2026."
+        },
+        {
+          "id": "src-flavio-bolsonaro-08",
+          "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+          "publishedAt": "2026-08-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral",
+          "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+        },
+        {
+          "id": "src-flavio-bolsonaro-09",
+          "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+          "publisher": "g1 (Globo) — dados Quaest",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+          "publishedAt": "2026-09-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "2º colocado nas quatro pesquisas, atrás de Lula e com diferença fora ou no limite da margem de erro: Datafolha 24/09 — Lula 40% x Flávio 36% no 1º turno e 47% x 45% no 2º; Quaest 28/09 — 39% x 34% no 1º turno e 42% x 42% (empate técnico) no 2º. Margem de 2 p.p. em ambas."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Diálogo com empresários e mercado financeiro (Fiesp e agenda nacional, ago/2026) e com candidatos de 9 partidos",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-12",
+          "title": "Flávio aposta em diálogo aberto com empresários para tentar diminuir taxa de rejeição",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-dialogo-aberto-com-empresarios-para-tentar-diminuir-taxa-de-rejeicao/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Data exata não capturada (2026). Descreve intensificação da aproximação com empresários e mercado financeiro na pré-campanha."
+        },
+        {
+          "id": "src-flavio-bolsonaro-13",
+          "title": "Flávio Bolsonaro se encontra com empresários em São Paulo (visita à Fiesp)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/flvio-bolsonaro-se-encontra-com-empresrios-em-so-paulo.ghtml",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Duas agendas na capital paulista; 'buscou diálogo com empresários'."
+        },
+        {
+          "id": "src-flavio-bolsonaro-16",
+          "title": "Flávio reúne candidatos ao Senado para alinhar campanhas e ampliar palanques nos estados (~50 postulantes)",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/11/flavio-reune-candidatos-ao-senado-para-alinhar-campanhas-e-ampliar-palanques-nos-estados.ghtml",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos datados: visita à Fiesp e duas agendas com empresários em São Paulo (24/08/2026, Valor); intensificação da aproximação com empresários e mercado financeiro avaliada pela própria equipe de campanha (Gazeta do Povo, 2026); encontro com cerca de 50 candidatos ao Senado apoiados para alinhar campanhas (O Globo, 11/08/2026). No recorte 2025–2026 não foram localizados encontros com centais sindicais ou com lideranças da oposição."
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Apoio a 47 candidatos ao Senado de 9 partidos (ago/2026); maior ganho do PL na janela partidária (abr/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-14",
+          "title": "Flávio apoia 47 candidatos de nove partidos ao Senado; veja a lista",
+          "publisher": "Congresso em Foco",
+          "url": "https://www.congressoemfoco.com.br/noticia/121094/flavio-apoia-47-candidatos-de-nove-partidos-ao-senado-veja-a-lista",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Anúncio feito em 06/08/2026, em transmissão da campanha (Ranking dos Políticos); dia exato do artigo não capturado."
+        },
+        {
+          "id": "src-flavio-bolsonaro-16",
+          "title": "Flávio reúne candidatos ao Senado para alinhar campanhas e ampliar palanques nos estados (~50 postulantes)",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/11/flavio-reune-candidatos-ao-senado-para-alinhar-campanhas-e-ampliar-palanques-nos-estados.ghtml",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-flavio-bolsonaro-15",
+          "title": "Flávio Bolsonaro puxa deputados para o PL e partido tem o maior ganho da janela partidária na Câmara",
+          "publisher": "DIAP — Departamento Intersindical de Assessoria Parlamentar",
+          "url": "https://www.diap.org.br/index.php/noticias/noticias/92841-flavio-bolsonaro-puxa-deputados-para-o-pl-e-partido-tem-o-maior-ganho-da-janela-partidaria-na-camara",
+          "publishedAt": "2026-04-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo"
+        },
+        {
+          "id": "src-flavio-bolsonaro-10",
+          "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos datados: lista de apoio a 47 candidatos ao Senado de nove siglas, anunciada em 06/08/2026, para ampliar palanques e formar bancada alinhada (Congresso em Foco); reunião nacional com cerca de 50 postulantes em 11/08/2026 (O Globo); articulação de trocas de sigla na janela partidária de abr/2026, com o PL como maior ganhador (DIAP); chapa presidencial registrada sem coligação, com vice da própria legenda (Alfredo Gaspar, PL-AL) — negociação de alianças nacionais chegou a ser explorada com PP e União Brasil, sem registro de federação ou coligação no TSE."
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (PL, isolado — sem coligação ou federação)",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-10",
+          "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+        },
+        {
+          "id": "src-gazeta-candidato",
+          "title": "Flavio Bolsonaro — candidato a Presidente em 2026 (nº 22)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/flavio-bolsonaro-pl-22",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Número de urna 22."
+        },
+        {
+          "id": "src-tse-doze",
+          "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Registro em nome do PL (nº 22), com vice também do PL; sem federação ou coligação formal declarada à Justiça Eleitoral. Apoios individuais documentados a candidatos de outras oito siglas (Congresso em Foco, 06/08/2026) não alteram a composição da chapa registrada."
+    }
   ],
   "currentSupport": [
-    { "description": "Chapa presidencial do PL oficializada na convenção nacional do partido em 25/07/2026 (São Paulo), com o vice Alfredo Gaspar (PL-AL); sem federação ou coligação formal.", "value": "PL (partido isolado)", "date": "2026-07-25", "sources": ["src-valor-convencao", "src-platobr-convencao", "src-tse-doze"] },
-    { "description": "Imprensa relatou isolamento do candidato junto a partidos do Centrão até a convenção; Milei participou como apoio externo.", "value": "isolamento relativo; apoio externo de Javier Milei", "date": "2026-07-25", "sources": ["src-valor-convencao", "src-platobr-convencao"] },
-    { "description": "Rede de apoio eleitoral: manchete da Gazeta do Povo sobre candidatos ao Senado apoiados por Flávio Bolsonaro em 2026.", "value": "47 candidatos ao Senado apoiados", "date": "2026", "sources": ["src-gazeta-apoios"] },
-    { "description": "Incidência em redes e agenda própria: live de apresentação do plano em 13/08/2026 com aliados e atos de campanha em estados como SP.", "value": "agenda de campanha ativa", "date": "2026-08-13", "sources": ["src-g1-plano"] }
+    {
+      "description": "Chapa presidencial do PL oficializada na convenção nacional do partido em 25/07/2026 (São Paulo), com o vice Alfredo Gaspar (PL-AL); sem federação ou coligação formal.",
+      "value": "PL (partido isolado)",
+      "date": "2026-07-25",
+      "sources": [
+        "src-valor-convencao",
+        "src-platobr-convencao",
+        "src-tse-doze"
+      ]
+    },
+    {
+      "description": "Imprensa relatou isolamento do candidato junto a partidos do Centrão até a convenção; Milei participou como apoio externo.",
+      "value": "isolamento relativo; apoio externo de Javier Milei",
+      "date": "2026-07-25",
+      "sources": [
+        "src-valor-convencao",
+        "src-platobr-convencao"
+      ]
+    },
+    {
+      "description": "Rede de apoio eleitoral: manchete da Gazeta do Povo sobre candidatos ao Senado apoiados por Flávio Bolsonaro em 2026.",
+      "value": "47 candidatos ao Senado apoiados",
+      "date": "2026",
+      "sources": [
+        "src-gazeta-apoios"
+      ]
+    },
+    {
+      "description": "Incidência em redes e agenda própria: live de apresentação do plano em 13/08/2026 com aliados e atos de campanha em estados como SP.",
+      "value": "agenda de campanha ativa",
+      "date": "2026-08-13",
+      "sources": [
+        "src-g1-plano"
+      ]
+    }
   ],
   "negotiationHistory": [
-    { "description": "Eleição interna na Mesa Diretora do Senado: eleito 3º Secretário em 06/02/2019, no início do primeiro mandato federal.", "value": "Mesa Diretora do Senado", "date": "2019-02-06", "sources": ["src-wikipedia"] },
-    { "description": "Reaproximação familiar (com Michelle Bolsonaro) dois dias antes da convenção do PL, segundo a Wikipédia, contexto da oficialização da candidatura.", "value": "unificação da família na convenção do PL", "date": "2026-07-25", "sources": ["src-wikipedia"] },
-    { "description": "Atuação como relator no Senado de propostas de segurança pública de repercussão nacional (PL 2253/2022, monitoração eletrônica e fim da saída temporária).", "value": "relatoria de pauta de segurança", "date": "2024-02-20", "sources": ["src-senado-pronunciamento"] }
+    {
+      "description": "Eleição interna na Mesa Diretora do Senado: eleito 3º Secretário em 06/02/2019, no início do primeiro mandato federal.",
+      "value": "Mesa Diretora do Senado",
+      "date": "2019-02-06",
+      "sources": [
+        "src-wikipedia"
+      ]
+    },
+    {
+      "description": "Reaproximação familiar (com Michelle Bolsonaro) dois dias antes da convenção do PL, segundo a Wikipédia, contexto da oficialização da candidatura.",
+      "value": "unificação da família na convenção do PL",
+      "date": "2026-07-25",
+      "sources": [
+        "src-wikipedia"
+      ]
+    },
+    {
+      "description": "Atuação como relator no Senado de propostas de segurança pública de repercussão nacional (PL 2253/2022, monitoração eletrônica e fim da saída temporária).",
+      "value": "relatoria de pauta de segurança",
+      "date": "2024-02-20",
+      "sources": [
+        "src-senado-pronunciamento"
+      ]
+    }
   ],
   "institutionalHistory": [
     {
@@ -98,7 +1045,13 @@
       "description": "MP-RJ denunciou Flávio Bolsonaro e mais 15 pessoas em nov/2020 por suposto esquema de rachadinha na ALERJ (R$ 6 milhões alegados). O STJ anulou as quebras de sigilo (fev/2021) e, por 4x1, todas as decisões do juízo de 1ª instância (nov/2021, tese do \"mandato cruzado\"); o STF anulou parte dos relatórios do Coaf. Sem provas válidas, o próprio MP pediu a extinção e o Órgão Especial do TJ-RJ rejeitou a denúncia por falta de justa causa em 16/05/2022 (arquivamento). A rejeição não impede novo oferecimento. Imprensa em 2026: Folha/Política Livre (07/03/2026) descreve o caso como encerrado; BBC informa que a promotoria aguardava decisão do STJ sobre pedido de retomada — status atual, portanto, parcialmente incerto. Ele sempre negou as acusações.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "high",
-      "sources": ["src-agencia-brasil-arquiv", "src-valor-rachadinha", "src-folha-rachadinha", "src-bbc-familia", "src-g1-stj-anula"],
+      "sources": [
+        "src-agencia-brasil-arquiv",
+        "src-valor-rachadinha",
+        "src-folha-rachadinha",
+        "src-bbc-familia",
+        "src-g1-stj-anula"
+      ],
       "updatedAt": "2026-09-29"
     },
     {
@@ -111,7 +1064,11 @@
       "description": "André Mendonça determinou a abertura de inquérito para apurar, em tese, lavagem de dinheiro, evasão de divisas, corrupção e organização criminosa no financiamento do filme \"Dark Horse\" junto a Daniel Vorcaro (Banco Master). A PF aponta Flávio como \"interlocutor direto\" de Vorcaro; US$ 24 milhões (≈R$ 122 mi) seriam previstos em contrato. Divulgado em 11/09/2026, no curso da campanha. Flávio afirma que se tratou de patrocínio privado e pede transparência total. É INQUÉRITE/investigação — não há denúncia ou condenação nesta matéria.",
       "evidenceStatus": "confirmado",
       "confidenceLevel": "high",
-      "sources": ["src-valor-darkhorse", "src-folha-darkhorse", "src-bbc-darkhorse"],
+      "sources": [
+        "src-valor-darkhorse",
+        "src-folha-darkhorse",
+        "src-bbc-darkhorse"
+      ],
       "updatedAt": "2026-09-29"
     },
     {
@@ -124,7 +1081,10 @@
       "description": "Contas julgadas APROVADAS COM RESSALVAS em 11/12/2018 (processo nº 0605831-16.2018.6.19.0001): (i) indícios de recebimento indireto de fonte vedada; (ii) doações anteriores à PC parcial não informadas; (iii) despesas não informadas na PC parcial. Sem impugnação no edital. A decisão ressalva que não afasta apuração de ilícitos por outros órgãos. O MP-RJ (Gaecc) investigou contas de 2010–2018 no âmbito do inquérito da rachadinha (Estadão).",
       "evidenceStatus": "confirmado",
       "confidenceLevel": "medium",
-      "sources": ["src-tre-rj-contas", "src-estadao-contas"],
+      "sources": [
+        "src-tre-rj-contas",
+        "src-estadao-contas"
+      ],
       "updatedAt": "2026-09-29"
     },
     {
@@ -137,7 +1097,11 @@
       "description": "Ação de Investigação Judicial Eleitoral (processo nº 0602222-72.2026.6.00.0000), ajuizada em ago/2026 contra Flávio Bolsonaro, Alfredo Gaspar e Mário Frias por suposto abuso de poder econômico/político e uso indevido dos meios de comunicação. O TSE admitiu a ação (corregedor Antonio Carlos Ferreira): Flávio e Gaspar têm 5 dias para defesa. Liminar deferida em parte (preservação de dados de Facebook e Shopee; multa diária de R$ 50 mil); demais medidas indeferidas. NÃO há reconhecimento de ilícito nem decisão de mérito — tramitação em curso.",
       "evidenceStatus": "confirmado",
       "confidenceLevel": "high",
-      "sources": ["src-tse-aije-peca", "src-horabrasilia-aije", "src-otempo-aije"],
+      "sources": [
+        "src-tse-aije-peca",
+        "src-horabrasilia-aije",
+        "src-otempo-aije"
+      ],
       "updatedAt": "2026-09-29"
     },
     {
@@ -150,7 +1114,9 @@
       "description": "Processo protocolado em 16/10/2022 pela campanha de Lula contra 81 representados (incluindo Flávio, Jair, Eduardo e Carlos Bolsonaro) por suposto abuso de poder político/econômico e desinformação sobre as urnas. Pede cassação e inelegibilidade até 2030. Segundo nota oficial do TSE (05/05/2026), ainda em etapa de identificação e citação de investigados, sem previsão de julgamento; parte dos investigados em revelia. O Globo (07/2026) descreve o caso como \"à deriva\" há quase 4 anos.",
       "evidenceStatus": "confirmado",
       "confidenceLevel": "high",
-      "sources": ["src-oglobo-desinformacao"],
+      "sources": [
+        "src-oglobo-desinformacao"
+      ],
       "updatedAt": "2026-09-29"
     },
     {
@@ -163,7 +1129,9 @@
       "description": "Representação protocolada em 22/07/2026 após Flávio afirmar que as urnas foram produzidas pela empresa venezuelana Smartmatic (informação desmentida pelo TSE). Pedem multa de R$ 30 mil e remoção das postagens. Sem decisão localizada até a data desta pesquisa.",
       "evidenceStatus": "confirmado",
       "confidenceLevel": "high",
-      "sources": ["src-agenciabrasil-urnas"],
+      "sources": [
+        "src-agenciabrasil-urnas"
+      ],
       "updatedAt": "2026-09-29"
     },
     {
@@ -176,7 +1144,11 @@
       "description": "Levantamento jornalístico do UOL (ago–set/2022): 51 das 107 transações imobiliárias da família Bolsonaro com dinheiro em espécie (R$ 5,7 mi de R$ 13 mi registrados; R$ 11 mi corrigidos). A Justiça de Brasília determinou a exclusão da reportagem; o UOL informou cumprir e recorrer. Não localizado neste processo judicial ou inquérito específico contra Flávio pelo fato. Confiança: média, por se tratar de apuração de imprensa.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "medium",
-      "sources": ["src-uol-51-imoveis", "src-uol-51-liminar", "src-bbc-familia"],
+      "sources": [
+        "src-uol-51-imoveis",
+        "src-uol-51-liminar",
+        "src-bbc-familia"
+      ],
       "updatedAt": "2026-09-29"
     },
     {
@@ -189,7 +1161,9 @@
       "description": "G1 (22/09/2026) mostrou que o senador destinou emenda de quase R$ 200 mil a projeto esportivo a pedido de Robson Calixto \"Peixe\", condenado no caso Marielle, mediante conversas com assessora do gabinete. Matéria de imprensa; não localizada decisão ou processo judicial específico sobre o fato nesta pesquisa.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "medium",
-      "sources": ["src-g1-emenda-miliciano"],
+      "sources": [
+        "src-g1-emenda-miliciano"
+      ],
       "updatedAt": "2026-09-29"
     },
     {
@@ -202,49 +1176,577 @@
       "description": "R$ 1,74 milhão em bens declarados (levantamento Brasil de Fato com base na Justiça Eleitoral); mansão de R$ 6 milhões em Brasília comprada em 2021 (entrada R$ 2,87 mi, financiamento quitado em 2024 junto ao BRB); crescimento patrimonial de 397% em 12 anos de mandato na ALERJ segundo o mesmo levantamento.",
       "evidenceStatus": "parcial",
       "confidenceLevel": "medium",
-      "sources": ["src-brasildefato-patrimonio"],
+      "sources": [
+        "src-brasildefato-patrimonio"
+      ],
       "updatedAt": "2026-09-29"
     }
   ],
   "sources": [
-    { "id": "src-g1-plano", "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF", "publisher": "G1", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml", "publishedAt": "2026-08-13", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)." },
-    { "id": "src-plano-pdf", "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)", "publisher": "Poder360 (cópia do documento de campanha)", "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "plano_de_governo", "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano." },
-    { "id": "src-tse-doze", "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República", "publisher": "TSE", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas." },
-    { "id": "src-tse-registros", "title": "TSE valida seis registros de candidatura à Presidência da República", "publisher": "TSE", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Situação de registro da chapa presidencial." },
-    { "id": "src-senado-perfil", "title": "Senador Flávio Bolsonaro — perfil oficial", "publisher": "Senado Federal", "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894", "publishedAt": null, "accessedAt": "2026-09-29", "sourceType": "legislativo", "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)." },
-    { "id": "src-senado-pronunciamento", "title": "Pronunciamento de Flávio Bolsonaro em 20/02/2024 (relator do PL 2253/2022)", "publisher": "Senado Federal", "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503985", "publishedAt": "2024-02-20", "accessedAt": "2026-09-29", "sourceType": "legislativo", "notes": "" },
-    { "id": "src-g1-educacao", "title": "Campanha admite erro em currículo acadêmico de Flávio Bolsonaro", "publisher": "G1", "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/paginas-oficiais-de-flavio-bolsonaro-incluem-curso-de-pos-graduacao-que-ele-nao-fez-campanha-diz-que-houve-equivoco.ghtml", "publishedAt": "2026-08-12", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "UFRJ nega registro de pós em Ciências Políticas; assessoria enviou diplomas: Direito 2006, IUPERJ 2012, FGV 2015." },
-    { "id": "src-bbc-educacao", "title": "Como Flávio Bolsonaro ocupou um cargo na Câmara dos Deputados (reportagem sobre formação)", "publisher": "BBC News Brasil", "url": "https://www.bbc.com/portuguese/brasil-46828487", "publishedAt": "2021", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Direito na Cândido Mendes: início em 2000, formação em 2005 segundo a OAB (diverge do diploma 2006)." },
-    { "id": "src-wikipedia", "title": "Flávio Bolsonaro — Wikipédia", "publisher": "Wikimedia", "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro", "publishedAt": null, "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias." },
-    { "id": "src-gazeta-candidato", "title": "Flavio Bolsonaro — candidato a Presidente em 2026 (nº 22)", "publisher": "Gazeta do Povo", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/flavio-bolsonaro-pl-22", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Número de urna 22." },
-    { "id": "src-gazeta-apoios", "title": "Quem são os 47 candidatos ao Senado apoiados por Flávio Bolsonaro", "publisher": "Gazeta do Povo", "url": "https://gazetadopovo.com.br/tudo-sobre/caroline-de-toni", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Manchete exibida na página de tópico da Gazeta do Povo; URL do artigo isolado não localizada." },
-    { "id": "src-valor-rachadinha", "title": "Flávio Bolsonaro: relembre o processo da rachadinha", "publisher": "Valor Econômico", "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/flavio-bolsonaro-relembre-o-processo-da-rachadinha.ghtml", "publishedAt": "2026-09-01", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Retrospectiva do processo em 2026." },
-    { "id": "src-agencia-brasil-arquiv", "title": "Justiça do Rio arquiva processo de caso de supostas rachadinhas", "publisher": "Agência Brasil", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas", "publishedAt": "2022-05-16", "accessedAt": "2026-09-29", "sourceType": "tribunal", "notes": "Arquivamento da denúncia pelo Órgão Especial do TJ-RJ a pedido do MP." },
-    { "id": "src-g1-stj-anula", "title": "STJ anula todas as decisões de juiz contra Flávio Bolsonaro no caso das rachadinhas", "publisher": "G1", "url": "https://g1.globo.com/politica/noticia/2021/11/09/stj-anula-todas-as-decisoes-de-juiz-contra-flavio-bolsonaro-nas-rachadinhas.ghtml", "publishedAt": "2021-11-09", "accessedAt": "2026-09-29", "sourceType": "tribunal", "notes": "STJ, 5ª Turma: anulação por 4x1 com base no \"mandato cruzado\"." },
-    { "id": "src-folha-rachadinha", "title": "Caso da 'rachadinha' de Flávio Bolsonaro foi encerrado com perguntas não respondidas", "publisher": "Folha de S.Paulo (via Política Livre)", "url": "https://www.politicalivre.com.br/2026/$03/caso-da-rachadinha-de-flavio-bolsonaro-foi-encerrado-com-perguntas-nao-respondidas", "publishedAt": "2026-03-07", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Cópia Folhapress; URL reproduzida como retornada pela busca." },
-    { "id": "src-bbc-familia", "title": "As acusações e suspeitas que pairam sobre a família Bolsonaro", "publisher": "BBC News Brasil", "url": "https://bbc.com/portuguese/articles/c99n52wrdyno", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Situação dos casos da família; promotoria aguardando STJ sobre retomada do caso arquivado; síntese dos 51 imóveis." },
-    { "id": "src-valor-darkhorse", "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre repasses de Vorcaro a 'Dark Horse'", "publisher": "Valor Econômico", "url": "https://valor.globo.com/politica/noticia/2026/09/11/pgr-pede-para-pf-mapear-projetos-de-flavio-bolsonaro-e-mario-frias-de-interesse-de-vorcaro-no-congresso.ghtml", "publishedAt": "2026-09-11", "accessedAt": "2026-09-29", "sourceType": "tribunal", "notes": "Decisão de André Mendonça; PF aponta lavagem, evasão, corrupção e organização criminosa." },
-    { "id": "src-folha-darkhorse", "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre 'Dark Horse'", "publisher": "Folha de S.Paulo", "url": "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-investigado-no-stf-em-inquerito-sobre-dark-horse.shtml", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Flávio apontado como \"interlocutor direto\" de Vorcaro." },
-    { "id": "src-bbc-darkhorse", "title": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito", "publisher": "BBC News Brasil", "url": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "US$ 24 milhões em 14 parcelas previstas em contrato." },
-    { "id": "src-tse-aije-peca", "title": "AIJE nº 0602222-72.2026.6.00.0000 — peça inicial (PT) contra Flávio Bolsonaro e outros", "publisher": "TSE (cópia publicada pelo Conjur)", "url": "https://conjur.com.br/wp-content/uploads/2026/09/pt-peca-tse.pdf", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Documento processual: pedidos, rito art. 22 da LC 64/90, relator e distribuição." },
-    { "id": "src-horabrasilia-aije", "title": "TSE admite ação do PT que pede cassação de Flávio Bolsonaro e inelegibilidade por oito anos", "publisher": "Hora Brasília", "url": "https://horabrasilia.com.br/2026/09/tse-admite-acao-do-pt-que-pede-cassacao-de-flavio-bolsonaro-e-inelegibilidade-por-oito-anos/", "publishedAt": "2026-09", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Admissibilidade sem juízo de mérito; prazo de defesa." },
-    { "id": "src-otempo-aije", "title": "Coligação de Lula pede cassação de Flávio na Justiça", "publisher": "O Tempo", "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/8/30/coligacao-de-lula-pede-cassacao-da-chapa-de-flavio-na-justica-por-abuso-de-poder-economico", "publishedAt": "2026-08-30", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Ajuização da AIJE." },
-    { "id": "src-oglobo-desinformacao", "title": "Ação que ameaça Flávio Bolsonaro segue travada no TSE", "publisher": "O Globo (blog Malu Gaspar)", "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/07/acao-que-pode-tornar-flavio-bolsonaro-inelegivel-esta-a-deriva-no-tse.ghtml", "publishedAt": "2026-07", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Processo de 2022 com 81 representados; inclui nota oficial do TSE (05/05/2026)." },
-    { "id": "src-agenciabrasil-urnas", "title": "PT aciona TSE contra Flávio Bolsonaro sobre urnas eletrônicas", "publisher": "Agência Brasil", "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pt-aciona-tse-contra-flavio-bolsonaro-sobre-urnas-eletronicas", "publishedAt": "2026-07-22", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Representação da federação Fé Brasil; multa de R$ 30 mil pedida." },
-    { "id": "src-tre-rj-contas", "title": "Decisão: prestação de contas — Eleição 2018, Flávio Nantes Bolsonaro (Senador)", "publisher": "TRE-RJ (cópia do texto da decisão)", "url": "https://pt.scribd.com/document/1051697675/REQUERENTE-ELEICAO-2018-FLAVIO-NANTES-BOLSONARO-SENADOR", "publishedAt": "2018-12-11", "accessedAt": "2026-09-29", "sourceType": "oficial_eleitoral", "notes": "Processo nº 0605831-16.2018.6.19.0001; aprovadas com ressalvas, Des. Raphael Mattos." },
-    { "id": "src-estadao-contas", "title": "Ministério Público investiga contas eleitorais de Flávio Bolsonaro", "publisher": "Estadão", "url": "https://www.estadao.com.br/politica/ministerio-publico-investiga-contas-eleitorais-de-flavio-bolsonaro/", "publishedAt": "2019", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Gaecc/MP-RJ apura contas de 2010–2018 no âmbito do inquérito da rachadinha." },
-    { "id": "src-uol-51-imoveis", "title": "Clã Bolsonaro: as evidências de dinheiro vivo em cada um dos 51 imóveis", "publisher": "UOL", "url": "https://noticias.uol.com.br/videos/2022/09/09/cla-bolsonaro-as-evidencias-de-dinheiro-vivo-em-cada-um-dos-51-imoveis.htm", "publishedAt": "2022-09-09", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "51 das 107 transações com espécie." },
-    { "id": "src-uol-51-liminar", "title": "51 imóveis em dinheiro vivo: Justiça de Brasília determina exclusão de reportagem", "publisher": "UOL", "url": "https://cultura.uol.com.br/noticias/52655_51-imoveis-em-dinheiro-vivo-justica-de-brasilia-determina-e-exclusao-de-reportagem-sobre-compras-da-familia-bolsonaro.html", "publishedAt": "2022-09-23", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "UOL informou cumprir e recorrer." },
-    { "id": "src-g1-emenda-miliciano", "title": "Flávio Bolsonaro destinou emenda a miliciano condenado no caso Marielle; veja prints de conversa com assessora do senador", "publisher": "G1", "url": "https://g1.globo.com/politica/noticia/2026/09/22/flavio-bolsonaro-destinou-emenda-a-miliciano-condenado-por-morte-de-marielle-veja-prints-de-conversa-com-assessora-do-senador.ghtml", "publishedAt": "2026-09-22", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "" },
-    { "id": "src-brasildefato-patrimonio", "title": "Da rachadinha à doação de campanha do Master: relembre escândalos ligados a Flávio Bolsonaro", "publisher": "Brasil de Fato", "url": "https://brasildefato.com.br/2026/04/13/da-rachadinha-a-doacao-de-campanha-do-master-relembre-escandalos-ligados-a-flavio-bolsonaro", "publishedAt": "2026-04-13", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Patrimônio declarado: R$ 1,74 mi; mansão de R$ 6 mi quitada em 2024; crescimento de 397% em 12 anos." },
-    { "id": "src-uol-2018", "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado", "publisher": "UOL", "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm", "publishedAt": "2018-10-07", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "4.380.418 votos, 31,36%." },
-    { "id": "src-agenciabrasil-2018", "title": "Flávio Bolsonaro e Arolde de Oliveira são eleitos para Senado pelo RJ", "publisher": "Agência Brasil", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-para-senado-pelo-rj", "publishedAt": "2018-10-07", "accessedAt": "2026-09-29", "sourceType": "estadistico", "notes": "" },
-    { "id": "src-agenda-poder-legis", "title": "Em 7 anos no Senado, Flávio Bolsonaro teve apenas 2 projetos aprovados e nenhum deles virou lei", "publisher": "Agenda do Poder / UOL", "url": "https://agendadopoder.com.br/em-7-anos-no-senado-flavio-bolsonaro-teve-apenas-2-projetos-aprovados-e-nenhum-deles-virou-lei", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Levantamento com dados oficiais do Senado: 62 projetos autor principal, 47ª entre 54 senadores." },
-    { "id": "src-brasildefato-legis", "title": "Em sete anos, Flávio Bolsonaro teve apenas um projeto de lei aprovado no Congresso", "publisher": "Brasil de Fato", "url": "https://www.brasildefato.com.br/2026/04/02/em-sete-anos-flavio-bolsonaro-teve-apenas-um-projeto-de-lei-aprovado-no-congresso", "publishedAt": "2026-04-02", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "PL 3.190/2023, único aprovado nas duas Casas até então." },
-    { "id": "src-valor-convencao", "title": "Flávio Bolsonaro chega à convenção do PL hoje tentando superar isolamento", "publisher": "Valor Econômico", "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/25/flavio-bolsonaro-chega-a-convencao-do-pl-hoje-tentando-superar-isolamento.ghtml", "publishedAt": "2026-07-25", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "" },
-    { "id": "src-platobr-convencao", "title": "Sem alianças partidárias, Flávio chega à convenção do PL com Javier Milei", "publisher": "PlatoBr", "url": "https://platobr.com.br/sem-aliancas-partidarias-flavio-chega-a-convencao-do-pl-com-javier-milei", "publishedAt": "2026-07-25", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "" },
-    { "id": "src-site-oficial", "title": "Saiba tudo sobre Flávio Bolsonaro — campanha presidencial 2026", "publisher": "Campanha Flávio Bolsonaro (Presidente 22)", "url": "https://www.flaviobolsonaro.com.br/flavio", "publishedAt": "2026", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Fonte do próprio candidato (Lei 7.809/2017, comissões, formação) — tratar como afirmação de campanha." },
-    { "id": "src-estadao-plano", "title": "Flávio propõe prisões a la Bukele, classificar facções como narcoterroristas e reformar Judiciário", "publisher": "Estadão", "url": "https://www.estadao.com.br/politica/eleicoes/2026/", "publishedAt": "2026-08", "accessedAt": "2026-09-29", "sourceType": "imprensa", "notes": "Matéria localizada e lida durante a pesquisa; URL do artigo isolado não preservada — slug não reconstruído com segurança." }
+    {
+      "id": "src-g1-plano",
+      "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+    },
+    {
+      "id": "src-plano-pdf",
+      "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+      "publisher": "Poder360 (cópia do documento de campanha)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "plano_de_governo",
+      "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+    },
+    {
+      "id": "src-tse-doze",
+      "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República",
+      "publisher": "TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas."
+    },
+    {
+      "id": "src-tse-registros",
+      "title": "TSE valida seis registros de candidatura à Presidência da República",
+      "publisher": "TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Situação de registro da chapa presidencial."
+    },
+    {
+      "id": "src-senado-perfil",
+      "title": "Senador Flávio Bolsonaro — perfil oficial",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+    },
+    {
+      "id": "src-senado-pronunciamento",
+      "title": "Pronunciamento de Flávio Bolsonaro em 20/02/2024 (relator do PL 2253/2022)",
+      "publisher": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503985",
+      "publishedAt": "2024-02-20",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo",
+      "notes": ""
+    },
+    {
+      "id": "src-g1-educacao",
+      "title": "Campanha admite erro em currículo acadêmico de Flávio Bolsonaro",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/paginas-oficiais-de-flavio-bolsonaro-incluem-curso-de-pos-graduacao-que-ele-nao-fez-campanha-diz-que-houve-equivoco.ghtml",
+      "publishedAt": "2026-08-12",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "UFRJ nega registro de pós em Ciências Políticas; assessoria enviou diplomas: Direito 2006, IUPERJ 2012, FGV 2015."
+    },
+    {
+      "id": "src-bbc-educacao",
+      "title": "Como Flávio Bolsonaro ocupou um cargo na Câmara dos Deputados (reportagem sobre formação)",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-46828487",
+      "publishedAt": "2021",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Direito na Cândido Mendes: início em 2000, formação em 2005 segundo a OAB (diverge do diploma 2006)."
+    },
+    {
+      "id": "src-wikipedia",
+      "title": "Flávio Bolsonaro — Wikipédia",
+      "publisher": "Wikimedia",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+    },
+    {
+      "id": "src-gazeta-candidato",
+      "title": "Flavio Bolsonaro — candidato a Presidente em 2026 (nº 22)",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/flavio-bolsonaro-pl-22",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Número de urna 22."
+    },
+    {
+      "id": "src-gazeta-apoios",
+      "title": "Quem são os 47 candidatos ao Senado apoiados por Flávio Bolsonaro",
+      "publisher": "Gazeta do Povo",
+      "url": "https://gazetadopovo.com.br/tudo-sobre/caroline-de-toni",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Manchete exibida na página de tópico da Gazeta do Povo; URL do artigo isolado não localizada."
+    },
+    {
+      "id": "src-valor-rachadinha",
+      "title": "Flávio Bolsonaro: relembre o processo da rachadinha",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/01/flavio-bolsonaro-relembre-o-processo-da-rachadinha.ghtml",
+      "publishedAt": "2026-09-01",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Retrospectiva do processo em 2026."
+    },
+    {
+      "id": "src-agencia-brasil-arquiv",
+      "title": "Justiça do Rio arquiva processo de caso de supostas rachadinhas",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+      "publishedAt": "2022-05-16",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal",
+      "notes": "Arquivamento da denúncia pelo Órgão Especial do TJ-RJ a pedido do MP."
+    },
+    {
+      "id": "src-g1-stj-anula",
+      "title": "STJ anula todas as decisões de juiz contra Flávio Bolsonaro no caso das rachadinhas",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/11/09/stj-anula-todas-as-decisoes-de-juiz-contra-flavio-bolsonaro-nas-rachadinhas.ghtml",
+      "publishedAt": "2021-11-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal",
+      "notes": "STJ, 5ª Turma: anulação por 4x1 com base no \"mandato cruzado\"."
+    },
+    {
+      "id": "src-folha-rachadinha",
+      "title": "Caso da 'rachadinha' de Flávio Bolsonaro foi encerrado com perguntas não respondidas",
+      "publisher": "Folha de S.Paulo (via Política Livre)",
+      "url": "https://www.politicalivre.com.br/2026/$03/caso-da-rachadinha-de-flavio-bolsonaro-foi-encerrado-com-perguntas-nao-respondidas",
+      "publishedAt": "2026-03-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Cópia Folhapress; URL reproduzida como retornada pela busca."
+    },
+    {
+      "id": "src-bbc-familia",
+      "title": "As acusações e suspeitas que pairam sobre a família Bolsonaro",
+      "publisher": "BBC News Brasil",
+      "url": "https://bbc.com/portuguese/articles/c99n52wrdyno",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Situação dos casos da família; promotoria aguardando STJ sobre retomada do caso arquivado; síntese dos 51 imóveis."
+    },
+    {
+      "id": "src-valor-darkhorse",
+      "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre repasses de Vorcaro a 'Dark Horse'",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/09/11/pgr-pede-para-pf-mapear-projetos-de-flavio-bolsonaro-e-mario-frias-de-interesse-de-vorcaro-no-congresso.ghtml",
+      "publishedAt": "2026-09-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "tribunal",
+      "notes": "Decisão de André Mendonça; PF aponta lavagem, evasão, corrupção e organização criminosa."
+    },
+    {
+      "id": "src-folha-darkhorse",
+      "title": "Flávio Bolsonaro é investigado no STF em inquérito sobre 'Dark Horse'",
+      "publisher": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-investigado-no-stf-em-inquerito-sobre-dark-horse.shtml",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Flávio apontado como \"interlocutor direto\" de Vorcaro."
+    },
+    {
+      "id": "src-bbc-darkhorse",
+      "title": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "US$ 24 milhões em 14 parcelas previstas em contrato."
+    },
+    {
+      "id": "src-tse-aije-peca",
+      "title": "AIJE nº 0602222-72.2026.6.00.0000 — peça inicial (PT) contra Flávio Bolsonaro e outros",
+      "publisher": "TSE (cópia publicada pelo Conjur)",
+      "url": "https://conjur.com.br/wp-content/uploads/2026/09/pt-peca-tse.pdf",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Documento processual: pedidos, rito art. 22 da LC 64/90, relator e distribuição."
+    },
+    {
+      "id": "src-horabrasilia-aije",
+      "title": "TSE admite ação do PT que pede cassação de Flávio Bolsonaro e inelegibilidade por oito anos",
+      "publisher": "Hora Brasília",
+      "url": "https://horabrasilia.com.br/2026/09/tse-admite-acao-do-pt-que-pede-cassacao-de-flavio-bolsonaro-e-inelegibilidade-por-oito-anos/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Admissibilidade sem juízo de mérito; prazo de defesa."
+    },
+    {
+      "id": "src-otempo-aije",
+      "title": "Coligação de Lula pede cassação de Flávio na Justiça",
+      "publisher": "O Tempo",
+      "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/8/30/coligacao-de-lula-pede-cassacao-da-chapa-de-flavio-na-justica-por-abuso-de-poder-economico",
+      "publishedAt": "2026-08-30",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Ajuização da AIJE."
+    },
+    {
+      "id": "src-oglobo-desinformacao",
+      "title": "Ação que ameaça Flávio Bolsonaro segue travada no TSE",
+      "publisher": "O Globo (blog Malu Gaspar)",
+      "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/07/acao-que-pode-tornar-flavio-bolsonaro-inelegivel-esta-a-deriva-no-tse.ghtml",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Processo de 2022 com 81 representados; inclui nota oficial do TSE (05/05/2026)."
+    },
+    {
+      "id": "src-agenciabrasil-urnas",
+      "title": "PT aciona TSE contra Flávio Bolsonaro sobre urnas eletrônicas",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pt-aciona-tse-contra-flavio-bolsonaro-sobre-urnas-eletronicas",
+      "publishedAt": "2026-07-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Representação da federação Fé Brasil; multa de R$ 30 mil pedida."
+    },
+    {
+      "id": "src-tre-rj-contas",
+      "title": "Decisão: prestação de contas — Eleição 2018, Flávio Nantes Bolsonaro (Senador)",
+      "publisher": "TRE-RJ (cópia do texto da decisão)",
+      "url": "https://pt.scribd.com/document/1051697675/REQUERENTE-ELEICAO-2018-FLAVIO-NANTES-BOLSONARO-SENADOR",
+      "publishedAt": "2018-12-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "oficial_eleitoral",
+      "notes": "Processo nº 0605831-16.2018.6.19.0001; aprovadas com ressalvas, Des. Raphael Mattos."
+    },
+    {
+      "id": "src-estadao-contas",
+      "title": "Ministério Público investiga contas eleitorais de Flávio Bolsonaro",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/ministerio-publico-investiga-contas-eleitorais-de-flavio-bolsonaro/",
+      "publishedAt": "2019",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Gaecc/MP-RJ apura contas de 2010–2018 no âmbito do inquérito da rachadinha."
+    },
+    {
+      "id": "src-uol-51-imoveis",
+      "title": "Clã Bolsonaro: as evidências de dinheiro vivo em cada um dos 51 imóveis",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/videos/2022/09/09/cla-bolsonaro-as-evidencias-de-dinheiro-vivo-em-cada-um-dos-51-imoveis.htm",
+      "publishedAt": "2022-09-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "51 das 107 transações com espécie."
+    },
+    {
+      "id": "src-uol-51-liminar",
+      "title": "51 imóveis em dinheiro vivo: Justiça de Brasília determina exclusão de reportagem",
+      "publisher": "UOL",
+      "url": "https://cultura.uol.com.br/noticias/52655_51-imoveis-em-dinheiro-vivo-justica-de-brasilia-determina-e-exclusao-de-reportagem-sobre-compras-da-familia-bolsonaro.html",
+      "publishedAt": "2022-09-23",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "UOL informou cumprir e recorrer."
+    },
+    {
+      "id": "src-g1-emenda-miliciano",
+      "title": "Flávio Bolsonaro destinou emenda a miliciano condenado no caso Marielle; veja prints de conversa com assessora do senador",
+      "publisher": "G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/22/flavio-bolsonaro-destinou-emenda-a-miliciano-condenado-por-morte-de-marielle-veja-prints-de-conversa-com-assessora-do-senador.ghtml",
+      "publishedAt": "2026-09-22",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": ""
+    },
+    {
+      "id": "src-brasildefato-patrimonio",
+      "title": "Da rachadinha à doação de campanha do Master: relembre escândalos ligados a Flávio Bolsonaro",
+      "publisher": "Brasil de Fato",
+      "url": "https://brasildefato.com.br/2026/04/13/da-rachadinha-a-doacao-de-campanha-do-master-relembre-escandalos-ligados-a-flavio-bolsonaro",
+      "publishedAt": "2026-04-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Patrimônio declarado: R$ 1,74 mi; mansão de R$ 6 mi quitada em 2024; crescimento de 397% em 12 anos."
+    },
+    {
+      "id": "src-uol-2018",
+      "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado",
+      "publisher": "UOL",
+      "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm",
+      "publishedAt": "2018-10-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "4.380.418 votos, 31,36%."
+    },
+    {
+      "id": "src-agenciabrasil-2018",
+      "title": "Flávio Bolsonaro e Arolde de Oliveira são eleitos para Senado pelo RJ",
+      "publisher": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-para-senado-pelo-rj",
+      "publishedAt": "2018-10-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "estadistico",
+      "notes": ""
+    },
+    {
+      "id": "src-agenda-poder-legis",
+      "title": "Em 7 anos no Senado, Flávio Bolsonaro teve apenas 2 projetos aprovados e nenhum deles virou lei",
+      "publisher": "Agenda do Poder / UOL",
+      "url": "https://agendadopoder.com.br/em-7-anos-no-senado-flavio-bolsonaro-teve-apenas-2-projetos-aprovados-e-nenhum-deles-virou-lei",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Levantamento com dados oficiais do Senado: 62 projetos autor principal, 47ª entre 54 senadores."
+    },
+    {
+      "id": "src-brasildefato-legis",
+      "title": "Em sete anos, Flávio Bolsonaro teve apenas um projeto de lei aprovado no Congresso",
+      "publisher": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2026/04/02/em-sete-anos-flavio-bolsonaro-teve-apenas-um-projeto-de-lei-aprovado-no-congresso",
+      "publishedAt": "2026-04-02",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "PL 3.190/2023, único aprovado nas duas Casas até então."
+    },
+    {
+      "id": "src-valor-convencao",
+      "title": "Flávio Bolsonaro chega à convenção do PL hoje tentando superar isolamento",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/07/25/flavio-bolsonaro-chega-a-convencao-do-pl-hoje-tentando-superar-isolamento.ghtml",
+      "publishedAt": "2026-07-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": ""
+    },
+    {
+      "id": "src-platobr-convencao",
+      "title": "Sem alianças partidárias, Flávio chega à convenção do PL com Javier Milei",
+      "publisher": "PlatoBr",
+      "url": "https://platobr.com.br/sem-aliancas-partidarias-flavio-chega-a-convencao-do-pl-com-javier-milei",
+      "publishedAt": "2026-07-25",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": ""
+    },
+    {
+      "id": "src-site-oficial",
+      "title": "Saiba tudo sobre Flávio Bolsonaro — campanha presidencial 2026",
+      "publisher": "Campanha Flávio Bolsonaro (Presidente 22)",
+      "url": "https://www.flaviobolsonaro.com.br/flavio",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Fonte do próprio candidato (Lei 7.809/2017, comissões, formação) — tratar como afirmação de campanha."
+    },
+    {
+      "id": "src-estadao-plano",
+      "title": "Flávio propõe prisões a la Bukele, classificar facções como narcoterroristas e reformar Judiciário",
+      "publisher": "Estadão",
+      "url": "https://www.estadao.com.br/politica/eleicoes/2026/",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Matéria localizada e lida durante a pesquisa; URL do artigo isolado não preservada — slug não reconstruído com segurança."
+    },
+    {
+      "id": "src-flavio-bolsonaro-01",
+      "title": "Pessoal de Gabinete de Flávio Bolsonaro em 2026 (efetivos, comissionados, terceirizados, estagiários)",
+      "publisher": "Senado Federal — Transparência e Prestação de Contas",
+      "url": "https://www6g.senado.leg.br/transparencia/sen/5894/pessoal/?ano=2026&local=gabinete",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Página viva consultada em 29/09/2026: Efetivos (1), Comissionados (15), Terceirizados (4), Estagiários (0) no gabinete em 2026."
+    },
+    {
+      "id": "src-flavio-bolsonaro-02",
+      "title": "Pessoal de Escritório de Apoio de Flávio Bolsonaro em 2026 (Rio de Janeiro)",
+      "publisher": "Senado Federal — Transparência e Prestação de Contas",
+      "url": "https://www6g.senado.leg.br/transparencia/sen/5894/pessoal/?ano=2026&local=escritorio&vinculo=TODOS",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Página viva consultada em 29/09/2026: 5 comissionados, nenhum efetivo."
+    },
+    {
+      "id": "src-flavio-bolsonaro-03",
+      "title": "Eleições 2026: Flávio gasta quase R$ 50 milhões e lidera despesas de campanha de presidenciáveis",
+      "publisher": "Estadão (dados: TSE)",
+      "url": "https://www.estadao.com.br/politica/eleicoes/eleicoes-2026-flavio-gasta-quase-r-50-milhoes-e-lidera-despesas-de-campanha-de-presidenciaveis",
+      "publishedAt": "2026-09-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Levantamento sobre dados declarados ao TSE: 13 candidatos declararam R$ 75 mi até 07/09/2026; Flávio responde por R$ 49,99 mi (67%)."
+    },
+    {
+      "id": "src-flavio-bolsonaro-04",
+      "title": "Em 1 mês de campanha, presidenciáveis desembolsaram, juntos, R$ 153 milhões (Flávio: cerca de R$ 56 milhões)",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/em-1-mes-de-campanha-presidenciaveis-desembolsaram-juntos-r-153-milhoes/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Mês; dia exato não capturado. Período eleitoral a partir de 16/08/2026; gasto declarado de Flávio: cerca de R$ 56 milhões."
+    },
+    {
+      "id": "src-flavio-bolsonaro-05",
+      "title": "Flávio Bolsonaro supera Lula em recursos declarados para campanha; veja ranking",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/10/flavio-bolsonaro-supera-lula-em-recursos-declarados-para-campanha-veja-ranking.ghtml",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Prestação parcial de contas ao TSE (prazo em 13/09/2026): Flávio com a maior receita declarada entre presidenciáveis, R$ 44,49 mi."
+    },
+    {
+      "id": "src-flavio-bolsonaro-06",
+      "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Datafolha",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral",
+      "notes": "Encomendada por Globo e Folha; 2º turno: Lula 47% x Flávio 45%."
+    },
+    {
+      "id": "src-flavio-bolsonaro-07",
+      "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Quaest",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+      "publishedAt": "2026-09-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral",
+      "notes": "2.004 entrevistas, 24–27/09/2026, margem de 2 p.p.; 2º turno empata em 42% x 42%; registro BR-06520/2026."
+    },
+    {
+      "id": "src-flavio-bolsonaro-08",
+      "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+      "publisher": "g1 (Globo) — dados Datafolha",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral",
+      "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+    },
+    {
+      "id": "src-flavio-bolsonaro-09",
+      "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+      "publisher": "g1 (Globo) — dados Quaest",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+      "publishedAt": "2026-09-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral"
+    },
+    {
+      "id": "src-flavio-bolsonaro-10",
+      "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+      "publishedAt": "2026-08-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+    },
+    {
+      "id": "src-flavio-bolsonaro-11",
+      "title": "Bancada dos partidos — Portal da Câmara dos Deputados (PL: 98 deputados, líder Sóstenes Cavalcante)",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Página viva consultada em 29/09/2026."
+    },
+    {
+      "id": "src-flavio-bolsonaro-12",
+      "title": "Flávio aposta em diálogo aberto com empresários para tentar diminuir taxa de rejeição",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-dialogo-aberto-com-empresarios-para-tentar-diminuir-taxa-de-rejeicao/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026). Descreve intensificação da aproximação com empresários e mercado financeiro na pré-campanha."
+    },
+    {
+      "id": "src-flavio-bolsonaro-13",
+      "title": "Flávio Bolsonaro se encontra com empresários em São Paulo (visita à Fiesp)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/flvio-bolsonaro-se-encontra-com-empresrios-em-so-paulo.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Duas agendas na capital paulista; 'buscou diálogo com empresários'."
+    },
+    {
+      "id": "src-flavio-bolsonaro-14",
+      "title": "Flávio apoia 47 candidatos de nove partidos ao Senado; veja a lista",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/121094/flavio-apoia-47-candidatos-de-nove-partidos-ao-senado-veja-a-lista",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Anúncio feito em 06/08/2026, em transmissão da campanha (Ranking dos Políticos); dia exato do artigo não capturado."
+    },
+    {
+      "id": "src-flavio-bolsonaro-15",
+      "title": "Flávio Bolsonaro puxa deputados para o PL e partido tem o maior ganho da janela partidária na Câmara",
+      "publisher": "DIAP — Departamento Intersindical de Assessoria Parlamentar",
+      "url": "https://www.diap.org.br/index.php/noticias/noticias/92841-flavio-bolsonaro-puxa-deputados-para-o-pl-e-partido-tem-o-maior-ganho-da-janela-partidaria-na-camara",
+      "publishedAt": "2026-04-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo"
+    },
+    {
+      "id": "src-flavio-bolsonaro-16",
+      "title": "Flávio reúne candidatos ao Senado para alinhar campanhas e ampliar palanques nos estados (~50 postulantes)",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/11/flavio-reune-candidatos-ao-senado-para-alinhar-campanhas-e-ampliar-palanques-nos-estados.ghtml",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-flavio-bolsonaro-17",
+      "title": "Flávio aparece no TSE filiado ao Missão; PL diz não ter conseguido registrar candidatura e fala em fraude",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/13/flavio-bolsonaro-nao-consegue-registrar-candidatura-apos-aparecer-filiado-ao-missao-no-sistema-eleitoral.ghtml",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Episódio de 13/08/2026, antes do prazo final de registro (15/08)."
+    },
+    {
+      "id": "src-flavio-bolsonaro-18",
+      "title": "Registro de Flávio Bolsonaro no TSE: o que acontece após candidato não conseguir oficializar a candidatura",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cg5lp58rnpqo",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "O nome voltou a constar como filiado ao PL na tarde de 13/08/2026."
+    }
   ],
-  "updatedAt": "2026-09-29"
+  "updatedAt": "2026-09-29",
+  "dataGaps": [
+    "maior_orcamento usa proxy de campanha: prestação de contas PARCIAL ao TSE (gastos declarados até set/2026, prazo em 13/09); a prestação final só será divulgada após o pleito — valor pode aumentar.",
+    "propostas_dependentes_congresso foi contada sobre as 6 propostas prioritárias detalhadas no JSON (de 69 do plano); a classificação item a item das 69 propostas não foi feita.",
+    "DivulgaCandContas não foi aberto diretamente (web_extract indisponível na sessão); dados do TSE vieram de páginas oficiais (TSE, Senado) e de imprensa que replica a plataforma.",
+    "Data exata de publicação não capturada na fonte da Gazeta do Povo sobre diálogo com empresários (ano: 2026).",
+    "AIJE nº 0602222-72.2026 (que pede cassação da chapa) está em curso, sem decisão de mérito em 29/09/2026 — a situação do registro pode mudar após julgamento."
+  ]
 }

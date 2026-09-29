@@ -1,0 +1,696 @@
+{
+  "slug": "flavio-bolsonaro",
+  "sources": [
+    {
+      "id": "src-flavio-bolsonaro-01",
+      "title": "Pessoal de Gabinete de Flávio Bolsonaro em 2026 (efetivos, comissionados, terceirizados, estagiários)",
+      "publisher": "Senado Federal — Transparência e Prestação de Contas",
+      "url": "https://www6g.senado.leg.br/transparencia/sen/5894/pessoal/?ano=2026&local=gabinete",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Página viva consultada em 29/09/2026: Efetivos (1), Comissionados (15), Terceirizados (4), Estagiários (0) no gabinete em 2026."
+    },
+    {
+      "id": "src-flavio-bolsonaro-02",
+      "title": "Pessoal de Escritório de Apoio de Flávio Bolsonaro em 2026 (Rio de Janeiro)",
+      "publisher": "Senado Federal — Transparência e Prestação de Contas",
+      "url": "https://www6g.senado.leg.br/transparencia/sen/5894/pessoal/?ano=2026&local=escritorio&vinculo=TODOS",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Página viva consultada em 29/09/2026: 5 comissionados, nenhum efetivo."
+    },
+    {
+      "id": "src-flavio-bolsonaro-03",
+      "title": "Eleições 2026: Flávio gasta quase R$ 50 milhões e lidera despesas de campanha de presidenciáveis",
+      "publisher": "Estadão (dados: TSE)",
+      "url": "https://www.estadao.com.br/politica/eleicoes/eleicoes-2026-flavio-gasta-quase-r-50-milhoes-e-lidera-despesas-de-campanha-de-presidenciaveis",
+      "publishedAt": "2026-09-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Levantamento sobre dados declarados ao TSE: 13 candidatos declararam R$ 75 mi até 07/09/2026; Flávio responde por R$ 49,99 mi (67%)."
+    },
+    {
+      "id": "src-flavio-bolsonaro-04",
+      "title": "Em 1 mês de campanha, presidenciáveis desembolsaram, juntos, R$ 153 milhões (Flávio: cerca de R$ 56 milhões)",
+      "publisher": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/em-1-mes-de-campanha-presidenciaveis-desembolsaram-juntos-r-153-milhoes/",
+      "publishedAt": "2026-09",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Mês; dia exato não capturado. Período eleitoral a partir de 16/08/2026; gasto declarado de Flávio: cerca de R$ 56 milhões."
+    },
+    {
+      "id": "src-flavio-bolsonaro-05",
+      "title": "Flávio Bolsonaro supera Lula em recursos declarados para campanha; veja ranking",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/10/flavio-bolsonaro-supera-lula-em-recursos-declarados-para-campanha-veja-ranking.ghtml",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Prestação parcial de contas ao TSE (prazo em 13/09/2026): Flávio com a maior receita declarada entre presidenciáveis, R$ 44,49 mi."
+    },
+    {
+      "id": "src-flavio-bolsonaro-06",
+      "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Datafolha",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral",
+      "notes": "Encomendada por Globo e Folha; 2º turno: Lula 47% x Flávio 45%."
+    },
+    {
+      "id": "src-flavio-bolsonaro-07",
+      "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+      "publisher": "g1 (Globo) — dados Quaest",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+      "publishedAt": "2026-09-28",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral",
+      "notes": "2.004 entrevistas, 24–27/09/2026, margem de 2 p.p.; 2º turno empata em 42% x 42%; registro BR-06520/2026."
+    },
+    {
+      "id": "src-flavio-bolsonaro-08",
+      "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+      "publisher": "g1 (Globo) — dados Datafolha",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral",
+      "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+    },
+    {
+      "id": "src-flavio-bolsonaro-09",
+      "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+      "publisher": "g1 (Globo) — dados Quaest",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+      "publishedAt": "2026-09-07",
+      "accessedAt": "2026-09-29",
+      "sourceType": "pesquisa_eleitoral"
+    },
+    {
+      "id": "src-flavio-bolsonaro-10",
+      "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+      "publishedAt": "2026-08-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+    },
+    {
+      "id": "src-flavio-bolsonaro-11",
+      "title": "Bancada dos partidos — Portal da Câmara dos Deputados (PL: 98 deputados, líder Sóstenes Cavalcante)",
+      "publisher": "Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+      "publishedAt": null,
+      "accessedAt": "2026-09-29",
+      "sourceType": "transparencia",
+      "notes": "Página viva consultada em 29/09/2026."
+    },
+    {
+      "id": "src-flavio-bolsonaro-12",
+      "title": "Flávio aposta em diálogo aberto com empresários para tentar diminuir taxa de rejeição",
+      "publisher": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-dialogo-aberto-com-empresarios-para-tentar-diminuir-taxa-de-rejeicao/",
+      "publishedAt": "2026",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Data exata não capturada (2026). Descreve intensificação da aproximação com empresários e mercado financeiro na pré-campanha."
+    },
+    {
+      "id": "src-flavio-bolsonaro-13",
+      "title": "Flávio Bolsonaro se encontra com empresários em São Paulo (visita à Fiesp)",
+      "publisher": "Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/flvio-bolsonaro-se-encontra-com-empresrios-em-so-paulo.ghtml",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Duas agendas na capital paulista; 'buscou diálogo com empresários'."
+    },
+    {
+      "id": "src-flavio-bolsonaro-14",
+      "title": "Flávio apoia 47 candidatos de nove partidos ao Senado; veja a lista",
+      "publisher": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/121094/flavio-apoia-47-candidatos-de-nove-partidos-ao-senado-veja-a-lista",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa",
+      "notes": "Anúncio feito em 06/08/2026, em transmissão da campanha (Ranking dos Políticos); dia exato do artigo não capturado."
+    },
+    {
+      "id": "src-flavio-bolsonaro-15",
+      "title": "Flávio Bolsonaro puxa deputados para o PL e partido tem o maior ganho da janela partidária na Câmara",
+      "publisher": "DIAP — Departamento Intersindical de Assessoria Parlamentar",
+      "url": "https://www.diap.org.br/index.php/noticias/noticias/92841-flavio-bolsonaro-puxa-deputados-para-o-pl-e-partido-tem-o-maior-ganho-da-janela-partidaria-na-camara",
+      "publishedAt": "2026-04-06",
+      "accessedAt": "2026-09-29",
+      "sourceType": "legislativo"
+    },
+    {
+      "id": "src-flavio-bolsonaro-16",
+      "title": "Flávio reúne candidatos ao Senado para alinhar campanhas e ampliar palanques nos estados (~50 postulantes)",
+      "publisher": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/11/flavio-reune-candidatos-ao-senado-para-alinhar-campanhas-e-ampliar-palanques-nos-estados.ghtml",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-09-29",
+      "sourceType": "imprensa"
+    },
+    {
+      "id": "src-flavio-bolsonaro-17",
+      "title": "Flávio aparece no TSE filiado ao Missão; PL diz não ter conseguido registrar candidatura e fala em fraude",
+      "publisher": "g1 (Globo)",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/13/flavio-bolsonaro-nao-consegue-registrar-candidatura-apos-aparecer-filiado-ao-missao-no-sistema-eleitoral.ghtml",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "Episódio de 13/08/2026, antes do prazo final de registro (15/08)."
+    },
+    {
+      "id": "src-flavio-bolsonaro-18",
+      "title": "Registro de Flávio Bolsonaro no TSE: o que acontece após candidato não conseguir oficializar a candidatura",
+      "publisher": "BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cg5lp58rnpqo",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-09-29",
+      "sourceType": "eleitoral",
+      "notes": "O nome voltou a constar como filiado ao PL na tarde de 13/08/2026."
+    }
+  ],
+  "metrics": [
+    {
+      "id": "maior_orcamento",
+      "category": "capacidade-execucao",
+      "name": "Maior orçamento anual administrado",
+      "displayValue": "≈R$ 56 milhões (gastos de campanha declarados ao TSE em 2026 — proxy)",
+      "value": 0.056,
+      "unit": "R$ bi/ano",
+      "metricType": "currency",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Nunca administrou orçamento público (trajetória exclusivamente legislativa: ALERJ 2011–2019 e Senado 2019–atual). Proxy prevista no spec: orçamento de campanha prestado ao TSE — gastos declarados na prestação de contas PARCIAL das eleições 2026: cerca de R$ 56 milhões (CNN, 1º mês de campanha), R$ 49,99 milhões até 07/09/2026 (Estadão, sobre dados do TSE), com receita declarada de R$ 44,49 milhões em 10/09 (Valor). Base trocada de orçamento público por campanha eleitoral; valores parciais.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-04",
+          "title": "Em 1 mês de campanha, presidenciáveis desembolsaram, juntos, R$ 153 milhões (Flávio: cerca de R$ 56 milhões)",
+          "publisher": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/em-1-mes-de-campanha-presidenciaveis-desembolsaram-juntos-r-153-milhoes/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Mês; dia exato não capturado. Período eleitoral a partir de 16/08/2026; gasto declarado de Flávio: cerca de R$ 56 milhões."
+        },
+        {
+          "id": "src-flavio-bolsonaro-03",
+          "title": "Eleições 2026: Flávio gasta quase R$ 50 milhões e lidera despesas de campanha de presidenciáveis",
+          "publisher": "Estadão (dados: TSE)",
+          "url": "https://www.estadao.com.br/politica/eleicoes/eleicoes-2026-flavio-gasta-quase-r-50-milhoes-e-lidera-despesas-de-campanha-de-presidenciaveis",
+          "publishedAt": "2026-09-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Levantamento sobre dados declarados ao TSE: 13 candidatos declararam R$ 75 mi até 07/09/2026; Flávio responde por R$ 49,99 mi (67%)."
+        },
+        {
+          "id": "src-flavio-bolsonaro-05",
+          "title": "Flávio Bolsonaro supera Lula em recursos declarados para campanha; veja ranking",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/10/flavio-bolsonaro-supera-lula-em-recursos-declarados-para-campanha-veja-ranking.ghtml",
+          "publishedAt": "2026-09-10",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Prestação parcial de contas ao TSE (prazo em 13/09/2026): Flávio com a maior receita declarada entre presidenciáveis, R$ 44,49 mi."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Substituição de base: não há LOA/governo a citar. A prestação final de contas será divulgada pela Justiça Eleitoral após o pleito; o teto de gastos da chapa e o repasse do PL não entram neste valor (é despesa, não orçamento administrado)."
+    },
+    {
+      "id": "equipe_gerida",
+      "category": "capacidade-execucao",
+      "name": "Pessoas/equipe sob gestão (servidores)",
+      "displayValue": "25 pessoas (gabinete do Senado + escritório de apoio, 2026)",
+      "value": 25,
+      "unit": "servidores",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Proxy de gabinete parlamentar (spec): pessoal vinculado ao gabinete do senador em 2026 na página de transparência do Senado — 1 efetivo + 15 comissionados + 4 terceirizados + 0 estagiários = 20; somados 5 comissionados do escritório de apoio no Rio de Janeiro, total de 25 pessoas. Contagem direta das listas oficiais por vínculo, sem estimativa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-01",
+          "title": "Pessoal de Gabinete de Flávio Bolsonaro em 2026 (efetivos, comissionados, terceirizados, estagiários)",
+          "publisher": "Senado Federal — Transparência e Prestação de Contas",
+          "url": "https://www6g.senado.leg.br/transparencia/sen/5894/pessoal/?ano=2026&local=gabinete",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Página viva consultada em 29/09/2026: Efetivos (1), Comissionados (15), Terceirizados (4), Estagiários (0) no gabinete em 2026."
+        },
+        {
+          "id": "src-flavio-bolsonaro-02",
+          "title": "Pessoal de Escritório de Apoio de Flávio Bolsonaro em 2026 (Rio de Janeiro)",
+          "publisher": "Senado Federal — Transparência e Prestação de Contas",
+          "url": "https://www6g.senado.leg.br/transparencia/sen/5894/pessoal/?ano=2026&local=escritorio&vinculo=TODOS",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Página viva consultada em 29/09/2026: 5 comissionados, nenhum efetivo."
+        },
+        {
+          "id": "src-senado-perfil",
+          "title": "Senador Flávio Bolsonaro — perfil oficial",
+          "publisher": "Senado Federal",
+          "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Não há servidores sob gestão executiva (nunca ocupou cargo no Executivo). Em 2025 o gabinete teve 22 comissionados (mesma fonte, ano anterior), ante 15 em 2026 — queda na folha do gabinete."
+    },
+    {
+      "id": "aprovacao_gestao",
+      "category": "capacidade-execucao",
+      "name": "Aprovação da gestão (pesquisas)",
+      "displayValue": "Não se aplica — nunca ocupou cargo executivo",
+      "value": null,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Percentual de aprovação da gestão em pesquisas de opinião. Flávio Bolsonaro nunca ocupou cargo executivo: trajetória exclusivamente legislativa (ALERJ 2011–2019 e Senado Federal desde 2019, mandato em exercício em 2026). Ausência de carreira executiva é fato confirmado, não lacuna de pesquisa.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "not_applicable",
+      "sources": [
+        {
+          "id": "src-wikipedia",
+          "title": "Flávio Bolsonaro — Wikipédia",
+          "publisher": "Wikimedia",
+          "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Índice: trajetória, desempenho eleitoral, convenção do PL; conferir em fontes primárias."
+        },
+        {
+          "id": "src-senado-perfil",
+          "title": "Senador Flávio Bolsonaro — perfil oficial",
+          "publisher": "Senado Federal",
+          "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo",
+          "notes": "Dados pessoais, partido e bloco (Vanguarda - PL)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Como não houve gestão executiva municipal, estadual ou federal, não existe série de aprovação correspondente; a avaliação de desempenho parlamentar não é medida por pesquisa de aprovação de gestão nesta base."
+    },
+    {
+      "id": "propostas_dependentes_congresso",
+      "category": "plano",
+      "name": "Propostas prioritárias que dependem do Congresso",
+      "displayValue": "50% (3 das 6 propostas prioritárias detalhadas; de 69 no plano)",
+      "value": 50,
+      "unit": "%",
+      "metricType": "percentage",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Contagem sobre as 6 propostas prioritárias detalhadas no próprio JSON (plano registrado tem 69 propostas): 3 marcam dependência do Congresso — classificação de PCC/CV/milícias como narcoterroristas (lei), tesouraço de gastos e limite a decisões do STF (emenda constitucional) e redução da maioridade penal para 16 anos (emenda constitucional). Classificação aproximada sobre subconjunto; a classificação item a item das 69 propostas não foi feita.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "low",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-plano-pdf",
+          "title": "Plano de Governo \"Para o Brasil vencer o atraso\" — Diretrizes 2027-2030 (PDF, 76 páginas)",
+          "publisher": "Poder360 (cópia do documento de campanha)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/plano-flavio.pdf",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "plano_de_governo",
+          "notes": "Texto integral extraído e analisado (76 págs, ~167 mil caracteres); fonte primária do plano."
+        },
+        {
+          "id": "src-g1-plano",
+          "title": "Flávio Bolsonaro propõe tesouraço de gastos e limite a decisões do STF",
+          "publisher": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-live.ghtml",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Detalhes do plano (jornada do negócio próprio, Sistema S, Caixa)."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O próprio plano aponta, no resumo, reforma do Judiciário, majoração de penas e corte constitucional de gastos como dependentes de Congresso — o que sugere percentual igual ou maior entre as 69 propostas se a contagem fosse ampliada."
+    },
+    {
+      "id": "registro_tse",
+      "category": "articulacao",
+      "name": "Situação do registro de candidatura no TSE",
+      "displayValue": "Deferido — TSE validou a chapa em 02/09/2026 (sessão virtual); AIJE do PT, que pede cassação, está em curso",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Situação do registro na Justiça Eleitoral em 29/09/2026, copiada das categorias da fonte sem interpretação de mérito.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-tse-registros",
+          "title": "TSE valida seis registros de candidatura à Presidência da República",
+          "publisher": "TSE",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Situação de registro da chapa presidencial."
+        },
+        {
+          "id": "src-tse-doze",
+          "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas."
+        },
+        {
+          "id": "src-flavio-bolsonaro-17",
+          "title": "Flávio aparece no TSE filiado ao Missão; PL diz não ter conseguido registrar candidatura e fala em fraude",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/13/flavio-bolsonaro-nao-consegue-registrar-candidatura-apos-aparecer-filiado-ao-missao-no-sistema-eleitoral.ghtml",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Episódio de 13/08/2026, antes do prazo final de registro (15/08)."
+        },
+        {
+          "id": "src-flavio-bolsonaro-18",
+          "title": "Registro de Flávio Bolsonaro no TSE: o que acontece após candidato não conseguir oficializar a candidatura",
+          "publisher": "BBC News Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cg5lp58rnpqo",
+          "publishedAt": "2026-08-13",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "O nome voltou a constar como filiado ao PL na tarde de 13/08/2026."
+        },
+        {
+          "id": "src-tse-aije-peca",
+          "title": "AIJE nº 0602222-72.2026.6.00.0000 — peça inicial (PT) contra Flávio Bolsonaro e outros",
+          "publisher": "TSE (cópia publicada pelo Conjur)",
+          "url": "https://conjur.com.br/wp-content/uploads/2026/09/pt-peca-tse.pdf",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Documento processual: pedidos, rito art. 22 da LC 64/90, relator e distribuição."
+        },
+        {
+          "id": "src-horabrasilia-aije",
+          "title": "TSE admite ação do PT que pede cassação de Flávio Bolsonaro e inelegibilidade por oito anos",
+          "publisher": "Hora Brasília",
+          "url": "https://horabrasilia.com.br/2026/09/tse-admite-acao-do-pt-que-pede-cassacao-de-flavio-bolsonaro-e-inelegibilidade-por-oito-anos/",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Admissibilidade sem juízo de mérito; prazo de defesa."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "O TSE aprovou em sessão virtual de 02/09/2026 os registros de seis chapas, entre elas a do PL (Flávio Bolsonaro/Alfredo Gaspar); o quadro final de 12 candidaturas à Presidência foi fixado em 11/09/2026. Antes disso, em 13/08/2026, o sistema da Justiça Eleitoral exibiu o candidato filiado ao Missão e o PL afirmou não ter conseguido registrar a candidatura (g1); na tarde do mesmo dia o nome voltou a constar como filiado ao PL (BBC Brasil). AIJE nº 0602222-72.2026 (petição inicial do PT): categoria copiada da fonte — ação admitida que pede cassação da chapa e inelegibilidade por oito anos; em curso, sem decisão de mérito em 29/09/2026."
+    },
+    {
+      "id": "bancada_partidaria_camara",
+      "category": "articulacao",
+      "name": "Bancada do partido na Câmara dos Deputados (antes da eleição de 2026)",
+      "displayValue": "98/513 deputados federais (PL, 2ª maior bancada)",
+      "value": 98,
+      "unit": "cadeiras",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Cadeiras do PL na Câmara dos Deputados em 29/09/2026, antes do pleito de 2026, conforme a página oficial de bancadas da Casa (líder: Sóstenes Cavalcante) e a cobertura do g1. O tempo de TV de 2026 é calculado com a bancada federal eleita em 2022, na qual o PL é a segunda maior bancada.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-11",
+          "title": "Bancada dos partidos — Portal da Câmara dos Deputados (PL: 98 deputados, líder Sóstenes Cavalcante)",
+          "publisher": "Câmara dos Deputados",
+          "url": "https://www.camara.leg.br/internet/deputado/bancada.asp",
+          "publishedAt": null,
+          "accessedAt": "2026-09-29",
+          "sourceType": "transparencia",
+          "notes": "Página viva consultada em 29/09/2026."
+        },
+        {
+          "id": "src-flavio-bolsonaro-10",
+          "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+        },
+        {
+          "id": "src-flavio-bolsonaro-15",
+          "title": "Flávio Bolsonaro puxa deputados para o PL e partido tem o maior ganho da janela partidária na Câmara",
+          "publisher": "DIAP — Departamento Intersindical de Assessoria Parlamentar",
+          "url": "https://www.diap.org.br/index.php/noticias/noticias/92841-flavio-bolsonaro-puxa-deputados-para-o-pl-e-partido-tem-o-maior-ganho-da-janela-partidaria-na-camara",
+          "publishedAt": "2026-04-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Após a janela partidária de abr/2026, o PL teve o maior ganho líquido de deputados, com Flávio Bolsonaro citado como articulador das trocas de sigla (DIAP)."
+    },
+    {
+      "id": "intencao_voto_recente",
+      "category": "articulacao",
+      "name": "Intenção de voto — pesquisas recentes (1º turno)",
+      "displayValue": "36% (Datafolha, 24/09) | 34% (Quaest, 28/09) | 33% (Datafolha, 21/08) | 29% (Quaest, 07/09)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Últimas sondagens estimuladas de 1º turno divulgadas antes de 29/09/2026, todas com publicação e data verificadas.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-06",
+          "title": "Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml",
+          "publishedAt": "2026-09-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral",
+          "notes": "Encomendada por Globo e Folha; 2º turno: Lula 47% x Flávio 45%."
+        },
+        {
+          "id": "src-flavio-bolsonaro-07",
+          "title": "Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%",
+          "publisher": "g1 (Globo) — dados Quaest",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml",
+          "publishedAt": "2026-09-28",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral",
+          "notes": "2.004 entrevistas, 24–27/09/2026, margem de 2 p.p.; 2º turno empata em 42% x 42%; registro BR-06520/2026."
+        },
+        {
+          "id": "src-flavio-bolsonaro-08",
+          "title": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Caiado, 5%; Renan Santos, 4%; Zema, 3% (1º turno)",
+          "publisher": "g1 (Globo) — dados Datafolha",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml",
+          "publishedAt": "2026-08-21",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral",
+          "notes": "Primeira Datafolha após o início das campanhas; encomendada por Globo e Folha."
+        },
+        {
+          "id": "src-flavio-bolsonaro-09",
+          "title": "Quaest, 1º turno: Lula, 36%; Flávio, 29%; Cury, 8%; Renan Santos (Missão), 3%",
+          "publisher": "g1 (Globo) — dados Quaest",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+          "publishedAt": "2026-09-07",
+          "accessedAt": "2026-09-29",
+          "sourceType": "pesquisa_eleitoral"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "2º colocado nas quatro pesquisas, atrás de Lula e com diferença fora ou no limite da margem de erro: Datafolha 24/09 — Lula 40% x Flávio 36% no 1º turno e 47% x 45% no 2º; Quaest 28/09 — 39% x 34% no 1º turno e 42% x 42% (empate técnico) no 2º. Margem de 2 p.p. em ambas."
+    },
+    {
+      "id": "capacidade_dialogo",
+      "category": "articulacao",
+      "name": "Capacidade de diálogo",
+      "displayValue": "Diálogo com empresários e mercado financeiro (Fiesp e agenda nacional, ago/2026) e com candidatos de 9 partidos",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Diálogo documentado com setores diversos (sindicatos, empresariado, imprensa, oposição, religiosos, sociedade civil) — análise aproximada a partir de fontes recentes (2025–2026), com exemplos citados. Descrição de fatos, não juízo de valor sobre o diálogo.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-12",
+          "title": "Flávio aposta em diálogo aberto com empresários para tentar diminuir taxa de rejeição",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-dialogo-aberto-com-empresarios-para-tentar-diminuir-taxa-de-rejeicao/",
+          "publishedAt": "2026",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Data exata não capturada (2026). Descreve intensificação da aproximação com empresários e mercado financeiro na pré-campanha."
+        },
+        {
+          "id": "src-flavio-bolsonaro-13",
+          "title": "Flávio Bolsonaro se encontra com empresários em São Paulo (visita à Fiesp)",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/flvio-bolsonaro-se-encontra-com-empresrios-em-so-paulo.ghtml",
+          "publishedAt": "2026-08-24",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Duas agendas na capital paulista; 'buscou diálogo com empresários'."
+        },
+        {
+          "id": "src-flavio-bolsonaro-16",
+          "title": "Flávio reúne candidatos ao Senado para alinhar campanhas e ampliar palanques nos estados (~50 postulantes)",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/11/flavio-reune-candidatos-ao-senado-para-alinhar-campanhas-e-ampliar-palanques-nos-estados.ghtml",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos datados: visita à Fiesp e duas agendas com empresários em São Paulo (24/08/2026, Valor); intensificação da aproximação com empresários e mercado financeiro avaliada pela própria equipe de campanha (Gazeta do Povo, 2026); encontro com cerca de 50 candidatos ao Senado apoiados para alinhar campanhas (O Globo, 11/08/2026). No recorte 2025–2026 não foram localizados encontros com centais sindicais ou com lideranças da oposição."
+    },
+    {
+      "id": "negociacao_acordos",
+      "category": "articulacao",
+      "name": "Negociação e acordos",
+      "displayValue": "Apoio a 47 candidatos ao Senado de 9 partidos (ago/2026); maior ganho do PL na janela partidária (abr/2026)",
+      "value": null,
+      "unit": null,
+      "metricType": "text",
+      "directionality": "neutral",
+      "methodology": "Acordos e negociações documentados em fontes recentes (2025–2026): pautas, mediações, entendimentos partidários, greves, federações — análise aproximada com exemplos citados e fontes.",
+      "evidenceStatus": "parcial",
+      "confidenceLevel": "medium",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-14",
+          "title": "Flávio apoia 47 candidatos de nove partidos ao Senado; veja a lista",
+          "publisher": "Congresso em Foco",
+          "url": "https://www.congressoemfoco.com.br/noticia/121094/flavio-apoia-47-candidatos-de-nove-partidos-ao-senado-veja-a-lista",
+          "publishedAt": "2026-08",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Anúncio feito em 06/08/2026, em transmissão da campanha (Ranking dos Políticos); dia exato do artigo não capturado."
+        },
+        {
+          "id": "src-flavio-bolsonaro-16",
+          "title": "Flávio reúne candidatos ao Senado para alinhar campanhas e ampliar palanques nos estados (~50 postulantes)",
+          "publisher": "O Globo",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/11/flavio-reune-candidatos-ao-senado-para-alinhar-campanhas-e-ampliar-palanques-nos-estados.ghtml",
+          "publishedAt": "2026-08-11",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa"
+        },
+        {
+          "id": "src-flavio-bolsonaro-15",
+          "title": "Flávio Bolsonaro puxa deputados para o PL e partido tem o maior ganho da janela partidária na Câmara",
+          "publisher": "DIAP — Departamento Intersindical de Assessoria Parlamentar",
+          "url": "https://www.diap.org.br/index.php/noticias/noticias/92841-flavio-bolsonaro-puxa-deputados-para-o-pl-e-partido-tem-o-maior-ganho-da-janela-partidaria-na-camara",
+          "publishedAt": "2026-04-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "legislativo"
+        },
+        {
+          "id": "src-flavio-bolsonaro-10",
+          "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Exemplos datados: lista de apoio a 47 candidatos ao Senado de nove siglas, anunciada em 06/08/2026, para ampliar palanques e formar bancada alinhada (Congresso em Foco); reunião nacional com cerca de 50 postulantes em 11/08/2026 (O Globo); articulação de trocas de sigla na janela partidária de abr/2026, com o PL como maior ganhador (DIAP); chapa presidencial registrada sem coligação, com vice da própria legenda (Alfredo Gaspar, PL-AL) — negociação de alianças nacionais chegou a ser explorada com PP e União Brasil, sem registro de federação ou coligação no TSE."
+    },
+    {
+      "id": "articulacao_apoio",
+      "category": "articulacao",
+      "name": "Partidos na coligação/federação registrada",
+      "displayValue": "1 partido (PL, isolado — sem coligação ou federação)",
+      "value": 1,
+      "unit": "partidos",
+      "metricType": "number",
+      "directionality": "higher_is_descriptively_more",
+      "methodology": "Quantidade de partidos que compõem a coligação ou federação registrada para a Presidência (DJE/TSE, 2026) — proxy objetivo e comparável de articulação partidária. Partido isolado conta como 1.",
+      "evidenceStatus": "confirmado",
+      "confidenceLevel": "high",
+      "availability": "available",
+      "sources": [
+        {
+          "id": "src-flavio-bolsonaro-10",
+          "title": "Eleições 2026: alianças de Lula e Flávio Bolsonaro e o tempo de TV (PL, 98 deputados, sem coligação)",
+          "publisher": "g1 (Globo)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
+          "publishedAt": "2026-08-06",
+          "accessedAt": "2026-09-29",
+          "sourceType": "eleitoral",
+          "notes": "Registra o isolamento partidário de Flávio (PL sem coligação/federação) e que o PL tem 98 deputados (2ª maior bancada); o tempo de TV usa a bancada federal eleita em 2022."
+        },
+        {
+          "id": "src-gazeta-candidato",
+          "title": "Flavio Bolsonaro — candidato a Presidente em 2026 (nº 22)",
+          "publisher": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/flavio-bolsonaro-pl-22",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "imprensa",
+          "notes": "Número de urna 22."
+        },
+        {
+          "id": "src-tse-doze",
+          "title": "Eleições 2026 têm 12 candidaturas na disputa pela Presidência da República",
+          "publisher": "TSE",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica",
+          "publishedAt": "2026-09",
+          "accessedAt": "2026-09-29",
+          "sourceType": "oficial_eleitoral",
+          "notes": "Lista a chapa \"Flávio Bolsonaro e Alfredo Gaspar (PL)\" entre as registradas."
+        }
+      ],
+      "updatedAt": "2026-09-29",
+      "context": "Registro em nome do PL (nº 22), com vice também do PL; sem federação ou coligação formal declarada à Justiça Eleitoral. Apoios individuais documentados a candidatos de outras oito siglas (Congresso em Foco, 06/08/2026) não alteram a composição da chapa registrada."
+    }
+  ],
+  "dataGaps": [
+    "maior_orcamento usa proxy de campanha: prestação de contas PARCIAL ao TSE (gastos declarados até set/2026, prazo em 13/09); a prestação final só será divulgada após o pleito — valor pode aumentar.",
+    "propostas_dependentes_congresso foi contada sobre as 6 propostas prioritárias detalhadas no JSON (de 69 do plano); a classificação item a item das 69 propostas não foi feita.",
+    "DivulgaCandContas não foi aberto diretamente (web_extract indisponível na sessão); dados do TSE vieram de páginas oficiais (TSE, Senado) e de imprensa que replica a plataforma.",
+    "Data exata de publicação não capturada na fonte da Gazeta do Povo sobre diálogo com empresários (ano: 2026).",
+    "AIJE nº 0602222-72.2026 (que pede cassação da chapa) está em curso, sem decisão de mérito em 29/09/2026 — a situação do registro pode mudar após julgamento."
+  ]
+}
