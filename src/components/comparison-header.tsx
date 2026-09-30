@@ -35,7 +35,7 @@ export function ComparisonHeader({
   return (
     <div
       className={cn(
-        "flex flex-col gap-3 sm:cmp-grid",
+        "flex flex-col gap-3 sm:mx-px sm:cmp-grid",
         compact ? "sm:items-center" : "sm:items-end",
       )}
       style={{ "--cmp-cols": candidates.length } as React.CSSProperties}

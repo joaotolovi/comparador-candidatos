@@ -93,7 +93,7 @@ export function ComparisonExperience({
                 <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
                   Ver métricas de estrutura do plano
                 </summary>
-                <div className="border-t border-border px-4 py-4">
+                <div className="border-t border-border py-4">
                   <MetricsBlock
                     id="s-caminho-plano"
                     index=""
@@ -120,7 +120,7 @@ export function ComparisonExperience({
                 <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
                   Ver métricas brutas do plano
                 </summary>
-                <div className="flex flex-col divide-y divide-border/70 border-t border-border px-4">
+                <div className="flex flex-col divide-y divide-border/70 border-t border-border">
                   {secRows.map((r) => (
                     <ComparisonRow
                       key={r.metricId}
@@ -148,7 +148,7 @@ export function ComparisonExperience({
                 <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
                   Ver contexto institucional e métricas brutas
                 </summary>
-                <div className="flex flex-col divide-y divide-border/70 border-t border-border px-4">
+                <div className="flex flex-col divide-y divide-border/70 border-t border-border">
                   {secRows.map((r) => (
                     <ComparisonRow
                       key={r.metricId}
@@ -275,7 +275,7 @@ export function ComparisonExperience({
                   </div>
                   <ChevronDown aria-hidden className="size-4 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" />
                 </summary>
-                <div className="border-t border-border/70 p-4 sm:p-5">{sectionBody(s.slug, secRows)}</div>
+                <div className="border-t border-border/70 py-4 sm:py-5">{sectionBody(s.slug, secRows)}</div>
               </details>
             );
           }

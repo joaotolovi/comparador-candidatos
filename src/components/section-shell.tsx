@@ -105,7 +105,7 @@ export function SourcesInline({ sources }: { sources: Source[] }) {
 export function CandidateColumns({ count, children }: { count: number; children: ReactNode }) {
   return (
     <div
-      className="grid gap-3 sm:content-cols"
+      className="grid gap-3 sm:mx-px sm:content-cols"
       style={{ "--cmp-cols": Math.max(count, 1) } as React.CSSProperties}
     >
       {children}

@@ -49,7 +49,7 @@ export function ThemeSection({
 
         return (
           <details key={theme.slug} className="group rounded-md border border-border bg-card">
-            <summary className="cursor-pointer list-none p-3.5 [&::-webkit-details-marker]:hidden">
+            <summary className="cursor-pointer list-none py-3.5 [&::-webkit-details-marker]:hidden">
               <div
                 className="grid gap-3 sm:cmp-grid"
                 style={{ "--cmp-cols": candidates.length } as React.CSSProperties}

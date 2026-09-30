@@ -228,7 +228,7 @@ export function CapacitiesSection({
 
         return (
           <details key={cat.slug} className="group rounded-md border border-border bg-card">
-            <summary className="cursor-pointer list-none p-4 [&::-webkit-details-marker]:hidden">
+            <summary className="cursor-pointer list-none py-4 [&::-webkit-details-marker]:hidden">
               <div
                 className="grid gap-4 sm:cmp-grid"
                 style={{ "--cmp-cols": candidates.length } as React.CSSProperties}

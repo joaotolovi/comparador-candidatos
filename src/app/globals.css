@@ -5,9 +5,13 @@
 @custom-variant dark (&:is(.dark *));
 
 /* Grade única da comparação: rótulo | candidatos | diferença.
-   Usada por cabeçalho, resumo e linhas — colunas sempre alinhadas. */
+   Usada por cabeçalho, resumo e linhas — colunas sempre alinhadas.
+   O inset horizontal é da PRÓPRIA grade (nunca do pai): assim cabeçalho
+   fora de cartão e linhas dentro de cartão bordado compartilham a mesma
+   geometria de colunas. */
 @utility cmp-grid {
   display: grid;
+  padding-inline: 0.75rem;
   grid-template-columns:
     minmax(10rem, 1.5fr)
     repeat(var(--cmp-cols, 3), minmax(0, 1fr))
@@ -17,9 +21,11 @@
 }
 
 /* Colunas de conteúdo por candidato (projeto de país, capacidades, mundo):
-   só as colunas de candidato — sem coluna de rótulo nem de diferença. */
+   só as colunas de candidato — sem coluna de rótulo nem de diferença.
+   Mesmo inset do cmp-grid. */
 @utility content-cols {
   display: grid;
+  padding-inline: 0.75rem;
   grid-template-columns: repeat(var(--cmp-cols, 3), minmax(0, 1fr));
   column-gap: 1rem;
   align-items: start;
