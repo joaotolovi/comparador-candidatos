@@ -1,8 +1,8 @@
 "use client";
 
 // Orquestrador da comparação. A página segue uma pirâmide de informação:
-// 01 síntese visual -> projeto/plano/capacidades -> posições e coerência -> áreas
-// de consulta. O conteúdo mais importante vem antes; currículo e opinião ficam no fim.
+// síntese visual -> projeto/plano/capacidades -> posições e coerência -> áreas
+// de consulta recolhidas. O conteúdo mais importante vem antes.
 
 import { useEffect, useMemo, useState } from "react";
 import type { Candidate, SectionSlug } from "@/types";
@@ -23,7 +23,7 @@ import { CoherenceSection } from "@/components/coherence-section";
 import { IntegritySection } from "@/components/integrity-section";
 import { MetricsBlock } from "@/components/metrics-block";
 import Link from "next/link";
-import { ArrowLeft } from "lucide-react";
+import { ArrowLeft, ChevronDown } from "lucide-react";
 
 const SECTION_RANK: Record<SectionSlug, number> = {
   pais: 1,
@@ -86,10 +86,10 @@ export function ComparisonExperience({
         return <CountryProjectSection candidates={candidates} />;
       case "caminho":
         return (
-          <div className="flex flex-col gap-6">
+          <div className="flex flex-col gap-4">
             <ProposalsSection candidates={candidates} />
             {secRows.length > 0 ? (
-              <details className="rounded-md border border-border/70">
+              <details className="rounded-md border border-border/70 bg-card/40">
                 <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
                   Ver métricas de estrutura do plano
                 </summary>
@@ -113,10 +113,10 @@ export function ComparisonExperience({
         );
       case "viabilidade":
         return (
-          <div className="flex flex-col gap-8">
+          <div className="flex flex-col gap-4">
             <ViabilitySection candidates={candidates} />
             {secRows.length > 0 ? (
-              <details className="rounded-md border border-border/70">
+              <details className="rounded-md border border-border/70 bg-card/40">
                 <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
                   Ver métricas brutas do plano
                 </summary>
@@ -141,10 +141,10 @@ export function ComparisonExperience({
         );
       case "capacidades":
         return (
-          <div className="flex flex-col gap-8">
+          <div className="flex flex-col gap-4">
             <CapacitiesSection candidates={candidates} />
             {secRows.length > 0 ? (
-              <details className="rounded-md border border-border/70">
+              <details className="rounded-md border border-border/70 bg-card/40">
                 <summary className="cursor-pointer list-none px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
                   Ver contexto institucional e métricas brutas
                 </summary>
@@ -211,7 +211,7 @@ export function ComparisonExperience({
   }
 
   return (
-    <div className="flex flex-col gap-8">
+    <div className="flex flex-col gap-7">
       {stuck ? (
         <div
           className="sticky top-0 z-40 -mx-4 border-b border-border bg-background/95 px-4 py-2 backdrop-blur supports-[backdrop-filter]:bg-background/85 sm:-mx-6 sm:px-6"
@@ -251,22 +251,35 @@ export function ComparisonExperience({
       >
         <div className="flex items-center gap-3">
           <Switch id="highlight" checked={highlight} onCheckedChange={setHighlight} />
-          <label htmlFor="highlight" className="cursor-pointer text-sm font-medium">
-            Destacar valores diferentes
-          </label>
+          <label htmlFor="highlight" className="cursor-pointer text-sm font-medium">Destacar valores diferentes</label>
         </div>
         <div className="flex items-center gap-3">
           <Switch id="only" checked={only} onCheckedChange={setOnly} />
-          <label htmlFor="only" className="cursor-pointer text-sm font-medium">
-            Mostrar somente valores diferentes
-          </label>
+          <label htmlFor="only" className="cursor-pointer text-sm font-medium">Mostrar somente valores diferentes</label>
         </div>
       </section>
 
-      <div className="flex flex-col gap-12">
+      <div className="flex flex-col gap-10">
         {orderedSections.map((s, i) => {
           const secRows = rowsBySection.get(s.slug) ?? [];
           if (s.kind === "metrics" && secRows.length === 0) return null;
+
+          if (s.secondary) {
+            return (
+              <details key={s.slug} id={`s-${s.slug}`} className="group rounded-lg border border-border bg-card/50">
+                <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-4 py-4 [&::-webkit-details-marker]:hidden sm:px-5">
+                  <div className="flex flex-col gap-0.5">
+                    <span className="text-[10px] font-semibold uppercase tracking-wide text-muted-foreground">Área de consulta</span>
+                    <h2 className="text-base font-semibold">{s.name}</h2>
+                    <p className="max-w-2xl text-xs text-muted-foreground">{s.question}</p>
+                  </div>
+                  <ChevronDown aria-hidden className="size-4 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" />
+                </summary>
+                <div className="border-t border-border/70 p-4 sm:p-5">{sectionBody(s.slug, secRows)}</div>
+              </details>
+            );
+          }
+
           return (
             <SectionShell
               key={s.slug}
@@ -274,7 +287,6 @@ export function ComparisonExperience({
               index={sectionLabels[i]}
               title={s.name}
               question={s.question}
-              secondary={s.secondary}
             >
               {sectionBody(s.slug, secRows)}
             </SectionShell>
