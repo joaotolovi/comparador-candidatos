@@ -515,6 +515,9 @@ for (const f of files) {
     party: d.party,
     coalition: d.coalition ?? d.party,
     photo: d.photoUrl ?? "",
+    photoCredit: d.photoCredit
+      ? `${d.photoCredit.artist} — ${d.photoCredit.license} (Wikimedia Commons)`
+      : undefined,
     birthDate: d.birthDate ?? "",
     birthplace: d.birthplace ?? "",
     age: Number(d.age ?? 0),

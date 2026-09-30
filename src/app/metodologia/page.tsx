@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Shell } from "@/components/shell";
 import { CAPACITY_CATALOG, SECTIONS } from "@/types";
+import { getCandidates } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Metodologia",
@@ -126,7 +127,8 @@ const LAYERS = [
   },
 ];
 
-export default function MetodologiaPage() {
+export default async function MetodologiaPage() {
+  const CANDIDATES = await getCandidates();
   return (
     <Shell>
       <div className="mx-auto flex w-full max-w-6xl flex-col gap-12 px-4 py-14 sm:px-6">
@@ -440,6 +442,24 @@ export default function MetodologiaPage() {
             como contexto complementar, sempre identificada — e verbete
             enciclopédico nunca sustenta uma afirmação sozinho.
           </p>
+        </section>
+
+        {/* Fotos */}
+        <section className="flex flex-col gap-3">
+          <h2 className="display-2 !text-2xl">Fotos dos candidatos</h2>
+          <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
+            Retratos de domínio público ou licenças livres (Wikimedia Commons),
+            mantidos como arquivo local do site. Candidatos sem retrato
+            disponível aparecem pelas iniciais — ausência declarada, não
+            esquecimento. Créditos:
+          </p>
+          <ul className="flex flex-col gap-1.5">
+            {CANDIDATES.filter((c) => c.photoCredit).map((c) => (
+              <li key={c.slug} className="text-sm leading-snug text-foreground/85">
+                <span className="font-medium">{c.name}</span> — {c.photoCredit}
+              </li>
+            ))}
+          </ul>
         </section>
 
         {/* Auditoria */}

@@ -6,7 +6,7 @@
   "ballotNumber": 13,
   "party": "PT",
   "coalition": "Chapa Lula (PT, nº 13) / Geraldo Alckmin (PSB). Coligação 'O Brasil Pronto pra Mais', a única coligação presidencial de 2026, com 7 partidos: PT, PCdoB e PV (Federação Brasil da Esperança), PDT, PSB, PSOL e Rede (Federação PSOL/Rede).",
-  "photoUrl": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_Presidente_da_Rep%C3%BAblica_Luiz_In%C3%A1cio_Lula_da_Silva_(3x4_cropped).jpg",
+  "photoUrl": "/candidatos/lula.jpg",
   "birthDate": "1945-10-27",
   "age": 80,
   "birthplace": "Garanhuns/PE",
@@ -11725,5 +11725,10 @@
         "confidenceLevel": "medium"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "Palácio do Planalto from Brasilia, Brasil",
+    "license": "CC BY 2.0",
+    "source": "File:Foto oficial do Presidente da República Luiz Inácio Lula da Silva (3x4 cropped).jpg"
+  }
 }

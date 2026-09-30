@@ -6,7 +6,7 @@
   "ballotNumber": 27,
   "party": "DC (Democracia Cristã)",
   "coalition": "Partido isolado (DC, nº 27), sem coligação ou federação. Chapa 100% feminina com vice Fabiana Torquato (DC), advogada — segunda chapa exclusivamente feminina da disputa, depois da chapa da UP (convenção de 26/07/2026).",
-  "photoUrl": null,
+  "photoUrl": "/candidatos/clariana-barao.jpg",
   "birthDate": "1987-04-03",
   "age": 39,
   "birthplace": "Cuiabá/MT",
@@ -6905,5 +6905,10 @@
         "confidenceLevel": "medium"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "LFLN",
+    "license": "CC BY-SA 4.0",
+    "source": "File:Clariana Zacarkim Barão.jpg"
+  }
 }

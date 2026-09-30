@@ -6,7 +6,7 @@
   "ballotNumber": 22,
   "party": "PL",
   "coalition": "Partido Liberal (PL, nº 22), sem federação/coligação formal; chapa vice: Alfredo Gaspar de Mendonça Neto (PL-AL, deputado federal). Oficializada na convenção nacional do PL em 25/07/2026.",
-  "photoUrl": null,
+  "photoUrl": "/candidatos/flavio-bolsonaro.jpg",
   "birthDate": "1981-04-30",
   "age": 45,
   "birthplace": "Resende/RJ (consta na Wikipédia; não confirmado em fonte primária)",
@@ -8984,5 +8984,10 @@
         "confidenceLevel": "medium"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "Agência Senado",
+    "license": "Attribution",
+    "source": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg"
+  }
 }

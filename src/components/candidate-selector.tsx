@@ -84,7 +84,7 @@ export function CandidateSelector({
               >
                 {c ? (
                   <>
-                    <CandidateAvatar name={c.name} slot={(["a","b","c"] as const)[i]} size="sm" photo={c.photo || undefined} />
+                    <CandidateAvatar name={c.name} slot={(["a","b","c"] as const)[i]} size="sm" photo={c.photo || undefined} credit={c.photoCredit} />
                     <div className="flex min-w-0 flex-col">
                       <span className="truncate text-sm font-semibold">
                         {c.name}

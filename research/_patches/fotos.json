@@ -1,0 +1,68 @@
+{
+  "augusto-cury": {
+    "file": "augusto-cury.jpg",
+    "source": "Augusto_Cury,_escritor_(28339139296)_(cropped).jpg",
+    "artist": "Lima Andruška",
+    "license": "CC BY-SA 2.0"
+  },
+  "caiado": {
+    "file": "caiado.jpg",
+    "source": "File:Ronaldo Caiado (cropped).jpg",
+    "artist": "This image has been extracted from another file",
+    "license": "CC BY 2.0"
+  },
+  "clariana-barao": {
+    "file": "clariana-barao.jpg",
+    "source": "File:Clariana Zacarkim Barão.jpg",
+    "artist": "LFLN",
+    "license": "CC BY-SA 4.0"
+  },
+  "edmilson-costa": {
+    "file": "edmilson-costa.jpg",
+    "source": "File:Edmilson Costa - PCB.jpg",
+    "artist": "Diário Liberdade",
+    "license": "CC BY 3.0"
+  },
+  "flavio-bolsonaro": {
+    "file": "flavio-bolsonaro.jpg",
+    "source": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg",
+    "artist": "Agência Senado",
+    "license": "Attribution"
+  },
+  "hertz-dias": {
+    "file": "hertz-dias.jpg",
+    "source": "File:Hertz Dias PSTU.jpg",
+    "artist": "Romerito Pontes",
+    "license": "CC BY 2.0"
+  },
+  "lula": {
+    "file": "lula.jpg",
+    "source": "File:Foto oficial do Presidente da República Luiz Inácio Lula da Silva (3x4 cropped).jpg",
+    "artist": "Palácio do Planalto from Brasilia, Brasil",
+    "license": "CC BY 2.0"
+  },
+  "renan-santos": {
+    "file": "renan-santos.jpg",
+    "source": "Renan_Santos_-_Congresso_do_Partido_Missão,_2026_(cropped_2).jpg",
+    "artist": "Leonardo Carraro",
+    "license": "CC BY 4.0"
+  },
+  "rui-costa-pimenta": {
+    "file": "rui-costa-pimenta.jpg",
+    "source": "File:Rui Costa Pimenta PCO ABr (cropped).jpg",
+    "artist": "Valter Campanato/Agência Brasil",
+    "license": "CC BY 3.0 br"
+  },
+  "wilson-grassi": {
+    "file": "wilson-grassi.jpg",
+    "source": "File:Wilson Grassi Júnior 2024.jpg",
+    "artist": "Portal de Dados Abertos do Tribunal Superior Eleitoral do Brasil (TSE)",
+    "license": "CC BY 4.0"
+  },
+  "zema": {
+    "file": "zema.jpg",
+    "source": "File:Romeu Zema 2025.jpg",
+    "artist": "Governo do Estado de São Paulo",
+    "license": "CC BY 4.0"
+  }
+}

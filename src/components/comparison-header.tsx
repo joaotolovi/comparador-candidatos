@@ -51,7 +51,7 @@ export function ComparisonHeader({
             className={`relative flex ${compact ? "flex-row items-center gap-3" : "flex-col gap-3 sm:pr-8"} border-t-2 pt-2 sm:border-t-0 sm:pt-0 ${slot.border}`}
           >
             {compact ? (
-              <CandidateAvatar name={c.name} slot={(["a","b","c"] as const)[i] ?? "a"} size="sm" photo={c.photo || undefined} />
+              <CandidateAvatar name={c.name} slot={(["a","b","c"] as const)[i] ?? "a"} size="sm" photo={c.photo || undefined} credit={c.photoCredit} />
             ) : null}
 
             <div className="flex min-w-0 flex-col gap-1">

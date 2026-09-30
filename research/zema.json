@@ -6,7 +6,7 @@
   "ballotNumber": 30,
   "party": "NOVO",
   "coalition": "Partido isolado (NOVO, nº 30) — chapa pura com vice Eduardo Girão (Luis Eduardo Grangeiro Girão, NOVO), senador pelo Ceará, nascido em 25/09/1972 em Fortaleza/CE; nome confirmado como vice em 04/08/2026, quando Girão desistiu de disputar o governo do Ceará.",
-  "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Romeu_Zema_2025.jpg",
+  "photoUrl": "/candidatos/zema.jpg",
   "birthDate": "1964-10-28",
   "age": 61,
   "birthplace": "Araxá/MG",
@@ -11780,5 +11780,10 @@
         "confidenceLevel": "high"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "Governo do Estado de São Paulo",
+    "license": "CC BY 4.0",
+    "source": "File:Romeu Zema 2025.jpg"
+  }
 }

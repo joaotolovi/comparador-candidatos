@@ -235,6 +235,7 @@ export interface Candidate {
   ballotName?: string;
   ballotNumber: number;
   photo: string; // path ou data-uri; mock usa iniciais
+  photoCredit?: string; // "Autor — Licença (Wikimedia Commons)" quando a foto existe
   party: string; // partido fictício
   coalition: string;
   birthDate: string;

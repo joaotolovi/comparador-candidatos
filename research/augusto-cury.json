@@ -6,7 +6,7 @@
   "ballotNumber": 70,
   "party": "AVANTE",
   "coalition": "Partido isolado (Avante, nº 70), sem coligação ou federação. Chapa com vice Júlio Delgado (Júlio César Delgado, Avante): advogado, natural de Juiz de Fora (MG), 59 anos (nasc. 18/11/1966), ex-deputado federal com seis períodos de mandato na Câmara (primeiro exercício em 1999), filiado ao Avante desde 2026; bens declarados de R$ 3,5 milhões (dados TSE, via WEEX).",
-  "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Augusto_Cury%2C_escritor_%2828339139296%29_%28cropped%29.jpg",
+  "photoUrl": "/candidatos/augusto-cury.jpg",
   "birthDate": "1958-10-02",
   "age": 67,
   "birthplace": "Colina/SP",
@@ -7332,5 +7332,10 @@
         "confidenceLevel": "high"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "Lima Andruška",
+    "license": "CC BY-SA 2.0",
+    "source": "Augusto_Cury,_escritor_(28339139296)_(cropped).jpg"
+  }
 }

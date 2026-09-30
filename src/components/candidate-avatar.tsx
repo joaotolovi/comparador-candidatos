@@ -1,17 +1,26 @@
+"use client";
+
 // Avatar de candidato — nunca círculo (evita o ar de rede social/campanha):
-// retângulo de ficha técnica com as iniciais. Foto entra via next/image
-// quando existir; iniciais são o estado transitório seguro.
+// retângulo de ficha técnica. Foto local entra por <img>; se falhar ao carregar
+// (arquivo ausente/403), volta para as iniciais em vez de mostrar imagem quebrada.
+// Crédito (autor + licença) vai no title do elemento.
+import { useState } from "react";
+
 export function CandidateAvatar({
   name,
   slot,
   size = "md",
   photo,
+  credit,
 }: {
   name: string;
   slot: "a" | "b" | "c";
   size?: "sm" | "md" | "lg";
   photo?: string;
+  credit?: string;
 }) {
+  const [failed, setFailed] = useState(false);
+  const showPhoto = Boolean(photo) && !failed;
   const initials = name
     .split(" ")
     .filter((w) => w.length > 2)
@@ -27,13 +36,17 @@ export function CandidateAvatar({
   return (
     <div
       aria-hidden
-      className={`flex shrink-0 items-center justify-center rounded-md font-semibold text-foreground bg-muted border ${dims}`}
+      title={showPhoto && credit ? `Foto: ${credit}` : undefined}
+      className={`flex shrink-0 items-center justify-center overflow-hidden rounded-md font-semibold text-foreground bg-muted border ${dims}`}
     >
-      {photo ? (
+      {showPhoto ? (
         // eslint-disable-next-line @next/next/no-img-element
         <img
           src={photo}
-          alt=""
+          alt={`Foto de ${name}`}
+          loading="lazy"
+          decoding="async"
+          onError={() => setFailed(true)}
           className="size-full rounded-md object-cover"
         />
       ) : (

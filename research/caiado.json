@@ -6,7 +6,7 @@
   "ballotNumber": 55,
   "party": "PSD",
   "coalition": "PSD (nº 55) em chapa própria, sem federação/coligação declarada nas fontes consultadas; vice: Gilberto Kassab (PSD), presidente nacional do partido e ex-prefeito de São Paulo, confirmado como vice em 01/07/2026.",
-  "photoUrl": null,
+  "photoUrl": "/candidatos/caiado.jpg",
   "birthDate": "1949-09-25",
   "age": 77,
   "birthplace": "Anápolis/GO",
@@ -10187,5 +10187,10 @@
         "confidenceLevel": "high"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "This image has been extracted from another file",
+    "license": "CC BY 2.0",
+    "source": "File:Ronaldo Caiado (cropped).jpg"
+  }
 }

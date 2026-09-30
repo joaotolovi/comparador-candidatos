@@ -6,7 +6,7 @@
   "ballotNumber": 16,
   "party": "PSTU",
   "coalition": "PSTU — partido isolado nas fichas consultadas (nenhuma coligação ou federação registrada nas fontes desta rodada; confirmação formal do registro: not_found) — chapa com vice Vanessa Portugal (PSTU)",
-  "photoUrl": null,
+  "photoUrl": "/candidatos/hertz-dias.jpg",
   "birthDate": "1970-10-20",
   "age": 55,
   "birthplace": "São José de Ribamar, Maranhão (MA)",
@@ -10509,5 +10509,10 @@
         "confidenceLevel": "medium"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "Romerito Pontes",
+    "license": "CC BY 2.0",
+    "source": "File:Hertz Dias PSTU.jpg"
+  }
 }

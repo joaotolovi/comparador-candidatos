@@ -6,7 +6,7 @@
   "ballotNumber": 35,
   "party": "Democrata",
   "coalition": "PARTIDO ISOLADO (DEMOCRATA, nº 35) — chapa com vice Suêd Haidar (DEMOCRATA), presidente nacional do partido (2015–2026) e fundadora",
-  "photoUrl": null,
+  "photoUrl": "/candidatos/wilson-grassi.jpg",
   "birthDate": "1970-03-13",
   "age": 56,
   "birthplace": "São Paulo, São Paulo (SP)",
@@ -11491,5 +11491,10 @@
         "confidenceLevel": "medium"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "Portal de Dados Abertos do Tribunal Superior Eleitoral do Brasil (TSE)",
+    "license": "CC BY 4.0",
+    "source": "File:Wilson Grassi Júnior 2024.jpg"
+  }
 }

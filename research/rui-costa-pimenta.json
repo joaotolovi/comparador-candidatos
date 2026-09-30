@@ -6,7 +6,7 @@
   "ballotNumber": 29,
   "party": "PCO",
   "coalition": "PCO — partido isolado (nenhuma coligação ou federação registrada nas fontes desta rodada) — chapa com vice Antônio Carlos (PCO)",
-  "photoUrl": null,
+  "photoUrl": "/candidatos/rui-costa-pimenta.jpg",
   "birthDate": "1957-06-25",
   "age": 69,
   "birthplace": "São Paulo, São Paulo (SP)",
@@ -11285,5 +11285,10 @@
         "confidenceLevel": "medium"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "Valter Campanato/Agência Brasil",
+    "license": "CC BY 3.0 br",
+    "source": "File:Rui Costa Pimenta PCO ABr (cropped).jpg"
+  }
 }

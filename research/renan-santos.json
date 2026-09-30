@@ -6,7 +6,7 @@
   "ballotNumber": 14,
   "party": "MISSÃO",
   "coalition": "Partido isolado (MISSÃO, nº 14). Chapa pura com vice Coronel Medina (Aroldo Medina, MISSÃO) — jornalista e tenente-coronel da reserva da Brigada Militar do RS, nascido em 31/03/1964 em Sant'Ana do Livramento (RS), em sua 6ª disputa eleitoral.",
-  "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Renan_Santos_-_Congresso_do_Partido_Miss%C3%A3o%2C_2026_%28cropped_2%29.jpg",
+  "photoUrl": "/candidatos/renan-santos.jpg",
   "birthDate": "1984-02-13",
   "age": 42,
   "birthplace": "São Paulo/SP",
@@ -8758,5 +8758,10 @@
         "confidenceLevel": "medium"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "Leonardo Carraro",
+    "license": "CC BY 4.0",
+    "source": "Renan_Santos_-_Congresso_do_Partido_Missão,_2026_(cropped_2).jpg"
+  }
 }

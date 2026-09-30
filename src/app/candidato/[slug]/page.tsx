@@ -80,6 +80,7 @@ export default async function CandidatePage({ params }: Props) {
               slot="a"
               size="lg"
               photo={candidate.photo || undefined}
+              credit={candidate.photoCredit}
             />
             <div className="flex flex-col gap-3">
               <div className="flex flex-wrap items-center gap-3">

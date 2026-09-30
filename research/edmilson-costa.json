@@ -6,7 +6,7 @@
   "ballotNumber": 21,
   "party": "PCB",
   "coalition": "Partido isolado (PCB, nº 21) — chapa pura com vice Cleusa Santos (Cleusa dos Santos, PCB), servidora pública civil aposentada, nascida em 07/04/1956 em Goiânia (GO), superior completo, bens declarados em 2026: R$ 1.793.166,06 (Folha/TSE).",
-  "photoUrl": null,
+  "photoUrl": "/candidatos/edmilson-costa.jpg",
   "birthDate": "1950-04-08",
   "age": 76,
   "birthplace": "Pedreiras, MA",
@@ -10575,5 +10575,10 @@
         "confidenceLevel": "medium"
       }
     }
-  ]
+  ],
+  "photoCredit": {
+    "artist": "Diário Liberdade",
+    "license": "CC BY 3.0",
+    "source": "File:Edmilson Costa - PCB.jpg"
+  }
 }
