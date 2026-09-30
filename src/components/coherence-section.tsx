@@ -12,6 +12,8 @@ import {
   SourcesInline,
   SLOTS,
 } from "@/components/section-shell";
+import { GlossaryTerm, TermChip } from "@/components/explainer";
+import { glossaryFor } from "@/lib/glossary";
 import { ChevronDown } from "lucide-react";
 
 const FIELD = "text-[11px] font-medium uppercase tracking-wide text-muted-foreground";
@@ -23,8 +25,33 @@ function CurrentPosition({ item }: { item: CoherenceItem }) {
   return <p className="text-xs leading-relaxed text-foreground/85">{text}</p>;
 }
 
-function Signal({ children }: { children: React.ReactNode }) {
-  return <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] text-foreground/75">{children}</span>;
+/**
+ * Sinal de contexto — clicável: abre a definição do critério E o conteúdo real
+ * deste item (proposta, ação, explicação ou conexão), com as fontes da cronologia.
+ */
+function Signal({
+  term,
+  content,
+}: {
+  term: string;
+  content: { heading: string; body?: string };
+}) {
+  const def = glossaryFor(term);
+  if (!def || !content.body) return null;
+  return (
+    <TermChip
+      term={term}
+      className="bg-muted px-2 py-0.5 text-[10px] text-foreground/75 hover:text-foreground"
+      content={{
+        title: content.heading,
+        blocks: [
+          { body: def.body },
+          { heading: content.heading, body: content.body },
+        ],
+        sourcesNote: "Fontes da cronologia deste tema abrem no cartão expandido.",
+      }}
+    />
+  );
 }
 
 function CoherenceCard({ item }: { item: CoherenceItem }) {
@@ -45,10 +72,10 @@ function CoherenceCard({ item }: { item: CoherenceItem }) {
             </div>
             <div className="mt-1.5"><CurrentPosition item={item} /></div>
             <div className="mt-2 flex flex-wrap gap-1.5">
-              {item.proposedAction ? <Signal>proposta atual</Signal> : null}
-              {item.historicalAction ? <Signal>ação histórica</Signal> : null}
-              {item.publicExplanation ? <Signal>mudança explicada</Signal> : null}
-              {item.tensionNote ? <Signal>conexão documentada</Signal> : null}
+              <Signal term="proposta atual" content={{ heading: "Proposta atual", body: item.proposedAction }} />
+              <Signal term="ação histórica" content={{ heading: "Ação histórica", body: item.historicalAction }} />
+              <Signal term="mudança explicada" content={{ heading: "Explicação pública da mudança", body: item.publicExplanation }} />
+              <Signal term="conexão documentada" content={{ heading: "Conexão documentada", body: item.tensionNote }} />
             </div>
           </div>
           <ChevronDown aria-hidden className="mt-0.5 size-4 shrink-0 text-muted-foreground transition-transform group-open:rotate-180" />

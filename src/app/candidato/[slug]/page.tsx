@@ -8,6 +8,9 @@ import { sectionOfMetric } from "@/types";
 import { SourceItem } from "@/components/evidence-drawer";
 import { planStats } from "@/lib/comparison";
 import { ProportionalBar } from "@/components/proportional-bar";
+import { MetricTile } from "@/components/metric-tile";
+import { GlossaryTerm, PlainExplainer, type ExplainerContent } from "@/components/explainer";
+import { glossaryFor } from "@/lib/glossary";
 import { CountryProjectSection } from "@/components/country-project-section";
 import { CapacitiesSection } from "@/components/capacities-section";
 import { ViabilitySection } from "@/components/viability-section";
@@ -80,9 +83,12 @@ export default async function CandidatePage({ params }: Props) {
             />
             <div className="flex flex-col gap-3">
               <div className="flex flex-wrap items-center gap-3">
-                <span className="tabular rounded bg-muted px-2 py-1 text-sm font-bold">
+                <GlossaryTerm
+                  term="número eleitoral"
+                  className="tabular rounded bg-muted px-2 py-1 text-sm font-bold hover:bg-muted/80"
+                >
                   {String(candidate.ballotNumber).padStart(2, "0")}
-                </span>
+                </GlossaryTerm>
                 <span className="text-sm font-medium text-muted-foreground">
                   {candidate.party}
                 </span>
@@ -93,19 +99,19 @@ export default async function CandidatePage({ params }: Props) {
               </p>
               <dl className="flex flex-wrap gap-x-8 gap-y-2 text-sm">
                 <div>
-                  <dt className="label-field">Idade</dt>
-                  <dd className="tabular font-semibold">{candidate.age} anos</dd>
+                  <dt className="label-field" title="Conforme o registro da candidatura no TSE.">Idade</dt>
+                  <dd className="tabular font-semibold" title="Conforme o registro da candidatura no TSE.">{candidate.age} anos</dd>
                 </div>
                 <div>
-                  <dt className="label-field">Profissão</dt>
-                  <dd className="font-semibold">{candidate.profession}</dd>
+                  <dt className="label-field" title="Conforme o registro da candidatura no TSE.">Profissão</dt>
+                  <dd className="font-semibold" title="Conforme o registro da candidatura no TSE.">{candidate.profession}</dd>
                 </div>
                 <div>
-                  <dt className="label-field">Cargo atual</dt>
-                  <dd className="font-semibold">{candidate.currentRole}</dd>
+                  <dt className="label-field" title="Cargo declarado no registro da candidatura.">Cargo atual</dt>
+                  <dd className="font-semibold" title="Cargo declarado no registro da candidatura.">{candidate.currentRole}</dd>
                 </div>
                 <div>
-                  <dt className="label-field">Coligação</dt>
+                  <dt className="label-field"><GlossaryTerm term="coligação">Coligação</GlossaryTerm></dt>
                   <dd className="font-semibold">{candidate.coalition}</dd>
                 </div>
               </dl>
@@ -159,9 +165,8 @@ export default async function CandidatePage({ params }: Props) {
                 {metrObjetivos.map((m) => (
                   <div key={m.id} className="flex flex-col gap-1 bg-card p-4">
                     <dt className="label-field leading-snug">{m.name}</dt>
-                    <dd className="text-sm font-semibold leading-snug">{m.displayValue}</dd>
-                    <dd className="text-xs leading-relaxed text-muted-foreground">
-                      {m.methodology}
+                    <dd>
+                      <MetricTile metric={m} showMethodology />
                     </dd>
                   </div>
                 ))}
@@ -249,9 +254,8 @@ export default async function CandidatePage({ params }: Props) {
               {metrOpiniao.map((m) => (
                 <div key={m.id} className="flex flex-col gap-1 bg-card p-5">
                   <dt className="label-field leading-snug">{m.name}</dt>
-                  <dd className="text-sm font-semibold leading-snug">{m.displayValue}</dd>
-                  <dd className="text-xs leading-relaxed text-muted-foreground">
-                    {m.methodology}
+                  <dd>
+                    <MetricTile metric={m} showMethodology />
                   </dd>
                 </div>
               ))}
@@ -282,7 +286,9 @@ export default async function CandidatePage({ params }: Props) {
             {metrHistorico.map((m) => (
               <div key={m.id} className="flex flex-col gap-1 bg-card p-4">
                 <dt className="label-field leading-snug">{m.name}</dt>
-                <dd className="text-sm font-semibold leading-snug">{m.displayValue}</dd>
+                <dd>
+                  <MetricTile metric={m} />
+                </dd>
               </div>
             ))}
           </dl>
@@ -326,9 +332,30 @@ export default async function CandidatePage({ params }: Props) {
           {candidate.executiveExperience.length > 0 ? (
             <p className="text-sm text-muted-foreground">
               Soma em cargos executivos:{" "}
-              <span className="tabular font-semibold text-foreground">
+              <PlainExplainer
+                hint="Clique para ver como os anos foram somados"
+                content={{
+                  title: `${execYears.toLocaleString("pt-BR")} anos em cargos executivos`,
+                  blocks: [
+                    {
+                      heading: "Como calculamos",
+                      body:
+                        "Soma dos períodos declarados em cargos executivos (prefeitura, estado, ministério, estatal). Anos sobrepostos são contados uma vez — não é soma de mandatos.",
+                    },
+                    {
+                      heading: "Cargos somados",
+                      items: candidate.executiveExperience.map((e) => ({
+                        label: formatPeriod(e.startDate, e.endDate),
+                        text: `${e.role}${e.organization ? ` — ${e.organization}` : ""}`,
+                      })),
+                    },
+                  ],
+                  link: { href: "/metodologia", label: "Metodologia completa" },
+                }}
+                className="tabular font-semibold text-foreground hover:underline hover:decoration-dotted hover:underline-offset-4"
+              >
                 {execYears.toLocaleString("pt-BR")} anos
-              </span>
+              </PlainExplainer>
             </p>
           ) : null}
         </section>
@@ -348,7 +375,9 @@ export default async function CandidatePage({ params }: Props) {
               {metrCaminho.map((m) => (
                 <div key={m.id} className="flex flex-col gap-1 bg-card p-4">
                   <dt className="label-field leading-snug">{m.name}</dt>
-                  <dd className="text-sm font-semibold leading-snug">{m.displayValue}</dd>
+                  <dd>
+                    <MetricTile metric={m} />
+                  </dd>
                 </div>
               ))}
             </dl>
@@ -397,16 +426,38 @@ export default async function CandidatePage({ params }: Props) {
                 propostas analisadas:
               </p>
               <div className="grid gap-6 rounded-md border border-border bg-card p-6 sm:grid-cols-2 lg:grid-cols-3">
-                {pstats.map((s) => (
-                  <ProportionalBar
-                    key={s.key}
-                    percentage={s.percentage}
-                    slot={0}
-                    label={s.label}
-                    count={s.count}
-                    total={s.total}
-                  />
-                ))}
+                {pstats.map((s) => {
+                  const def = glossaryFor(s.label);
+                  const barContent: ExplainerContent = {
+                    title: s.label,
+                    blocks: [
+                      { body: def?.body ?? s.description },
+                      ...(def ? [] : [{ heading: "Critério", body: s.description }]),
+                      {
+                        heading: "Neste plano",
+                        body: `${s.count} de ${s.total} propostas analisadas (${s.percentage}%).`,
+                      },
+                    ],
+                    link: plan.planUrl
+                      ? { href: plan.planUrl, label: "Plano registrado" }
+                      : undefined,
+                  };
+                  return (
+                    <PlainExplainer
+                      key={s.key}
+                      hint={def?.short ?? s.description}
+                      content={barContent}
+                    >
+                      <ProportionalBar
+                        percentage={s.percentage}
+                        slot={0}
+                        label={s.label}
+                        count={s.count}
+                        total={s.total}
+                      />
+                    </PlainExplainer>
+                  );
+                })}
               </div>
               <div className="flex flex-col gap-3">
                 <div className="flex flex-col gap-0.5">

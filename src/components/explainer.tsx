@@ -197,7 +197,67 @@ export function GlossaryTerm({
   );
 }
 
-/** Definição direta do glossário por chave literal. */
+/** Definição direta do glossário por chave literal (uso em componentes cliente). */
 export function glossaryEntry(term: string) {
   return glossaryFor(term);
+}
+
+/**
+ * Chip de termo abstrato: pill com tooltip curto no hover e, ao clicar, a
+ * definição longa. Sem `content`, usa o glossário pelo termo.
+ */
+export function TermChip({
+  term,
+  children,
+  className,
+  content,
+}: {
+  term: string;
+  children?: React.ReactNode;
+  className?: string;
+  content?: ExplainerContent;
+}) {
+  const entry = glossaryFor(term);
+  if (!entry && !content) {
+    return <span className={className}>{children ?? term}</span>;
+  }
+  const resolved: ExplainerContent =
+    content ?? {
+      title: term.charAt(0).toUpperCase() + term.slice(1),
+      blocks: [{ body: entry?.body ?? entry?.short ?? "" }],
+    };
+  return (
+    <Explainable
+      hint={entry?.short}
+      content={resolved}
+      className={cn(
+        "my-px inline-flex items-center rounded-full border border-border px-2 py-0.5 text-[10px] leading-tight text-muted-foreground hover:border-foreground/30 hover:text-foreground",
+        className,
+      )}
+    >
+      {children ?? term}
+    </Explainable>
+  );
+}
+
+/**
+ * Wrapper para server components: o conteúdo é montado no servidor como
+ * objeto serializável (strings/links/fontes) e entregue ao Explainable.
+ */
+export function PlainExplainer({
+  content,
+  hint,
+  className,
+  children,
+}: {
+  content: ExplainerContent;
+  hint?: string;
+  className?: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <Explainable content={content} hint={hint} className={className}>
+      {children}
+    </Explainable>
+  );
 }

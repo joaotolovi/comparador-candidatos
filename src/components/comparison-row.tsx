@@ -11,7 +11,8 @@
 import { AVAILABILITY_LABEL } from "@/lib/comparison";
 import type { Metric, MetricType } from "@/types";
 import { EvidenceBadge } from "@/components/badges";
-import { MethodologyIcon } from "@/components/methodology-tooltip";
+import { Explainable, GlossaryTerm, type ExplainerContent } from "@/components/explainer";
+import { glossaryFor } from "@/lib/glossary";
 import { SLOT } from "@/components/slot";
 import { cn } from "@/lib/utils";
 import { Eye } from "lucide-react";
@@ -113,6 +114,26 @@ export function ComparisonRow({
     setDrawer(i);
   };
 
+  // Painel do rótulo: metodologia + valor de cada candidato nesta métrica.
+  const labelContent: ExplainerContent = {
+    title: label,
+    blocks: [
+      { heading: "Como medimos", body: methodology },
+      {
+        heading: "Nesta comparação",
+        items: values.map((m, i) => ({
+          label: candidates[i]?.name ?? `Coluna ${i + 1}`,
+          text: !m
+            ? "Sem registro"
+            : m.availability !== "available" && m.availability !== "zero"
+              ? (AVAILABILITY_LABEL[m.availability] ?? "não disponível")
+              : m.displayValue,
+        })),
+      },
+    ],
+    link: { href: "/metodologia", label: "Metodologia completa" },
+  };
+
   return (
     <div
       {...rest}
@@ -122,12 +143,15 @@ export function ComparisonRow({
       )}
       style={{ "--cmp-cols": values.length } as React.CSSProperties}
     >
-      {/* Atributo */}
+      {/* Atributo — clicável: abre metodologia + valores de todos */}
       <div className="flex items-start gap-1.5">
-        <h4 className="text-[13px] font-medium leading-snug text-foreground">
+        <Explainable
+          hint={methodology}
+          content={labelContent}
+          className="-my-0.5 text-[13px] font-medium leading-snug text-foreground hover:underline hover:decoration-dotted hover:underline-offset-4"
+        >
           {label}
-        </h4>
-        <MethodologyIcon methodology={methodology} />
+        </Explainable>
       </div>
 
       {/* Valores por candidato */}
@@ -140,7 +164,9 @@ export function ComparisonRow({
                 <SlotBadgeMobile index={i} />
                 <span className="num-cell text-muted-foreground">—</span>
               </div>
-              <p className="text-xs text-muted-foreground">Sem registro</p>
+              <p className="text-xs text-muted-foreground">
+                <GlossaryTerm term="sem registro">Sem registro</GlossaryTerm>
+              </p>
             </div>
           );
         }
@@ -157,7 +183,9 @@ export function ComparisonRow({
                 <span className="num-cell text-muted-foreground">—</span>
               </div>
               <p className="text-xs leading-snug text-muted-foreground">
-                {AVAILABILITY_LABEL[m.availability] ?? "não disponível"}
+                <GlossaryTerm term={AVAILABILITY_LABEL[m.availability] ?? "não encontrado"}>
+                  {AVAILABILITY_LABEL[m.availability] ?? "não disponível"}
+                </GlossaryTerm>
               </p>
               <div className="flex items-center gap-1">
                 <EvidenceIconButton
@@ -186,15 +214,20 @@ export function ComparisonRow({
           <div key={i} className="flex min-w-0 flex-col gap-1.5">
             <div className="flex items-baseline gap-2">
               <SlotBadgeMobile index={i} />
-              <span
+              {/* O valor em si é clicável: abre o mesmo painel de fontes do ícone */}
+              <button
+                type="button"
+                onClick={() => openDrawer(i)}
+                title={`Ver metodologia e fontes de ${label} — ${candidates[i]?.name ?? ""}`}
                 className={cn(
+                  "cursor-pointer text-start hover:underline hover:decoration-dotted hover:underline-offset-4",
                   isNumeric || nowrap ? "num-cell whitespace-nowrap" : "num-cell-sm",
                   !isNumeric && !nowrap && "break-words",
                   m.evidenceStatus === "contestado" && "text-[#8a4e15]",
                 )}
               >
                 {head}
-              </span>
+              </button>
             </div>
             {note ? (
               <p className="text-xs leading-snug text-muted-foreground">{note}</p>
@@ -220,12 +253,30 @@ export function ComparisonRow({
         );
       })}
 
-      {/* Diferença */}
+      {/* Diferença — a própria razão é clicável: explica como é calculada */}
       <div className="min-w-0">
         {deltaDisplay && !equal ? (
-          <span className="inline-flex max-w-full flex-wrap items-center rounded bg-foreground px-2 py-1 text-xs font-medium leading-tight text-background">
+          <Explainable
+            hint="Como calculamos a diferença entre as colunas"
+            content={{
+              title: "Diferença entre as colunas",
+              blocks: [
+                {
+                  body:
+                    "A razão descritiva entre o maior e o menor valor desta linha. Só aparece quando a diferença é de pelo menos 2×, o maior valor é ao menos 10 e o menor é maior que zero — nunca adjetivo de valor, nunca “melhor/pior”.",
+                },
+                {
+                  heading: "Como ler",
+                  body:
+                    "A coluna delta descreve magnitude, não qualidade. Uma razão grande não significa posição melhor — quem conclui é quem lê.",
+                },
+              ],
+              link: { href: "/metodologia", label: "Metodologia completa" },
+            }}
+            className="inline-flex max-w-full flex-wrap items-center rounded bg-foreground px-2 py-1 text-xs font-medium leading-tight text-background hover:opacity-90"
+          >
             {deltaDisplay}
-          </span>
+          </Explainable>
         ) : equal && values.length > 1 ? (
           <span className="text-xs text-muted-foreground">iguais</span>
         ) : null}

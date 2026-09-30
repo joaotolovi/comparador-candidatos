@@ -9,6 +9,28 @@ import type { Candidate, PlanProposal } from "@/types";
 import { PATH_LABELS } from "@/types";
 import { CandidateTag, CandidateColumns, ContentEmpty, SourcesInline, SLOTS } from "@/components/section-shell";
 import { RealityBlock, RealityMissing } from "@/components/reality-check";
+import { Explainable, GlossaryTerm, TermChip } from "@/components/explainer";
+import { glossaryFor } from "@/lib/glossary";
+
+/** Instrumento (taxonomia) → termo do glossário com a definição. */
+const PATH_TERM: Record<string, string> = {
+  "ato-executivo": "ato do executivo",
+  "lei-ordinaria": "lei ordinária",
+  "lei-complementar": "lei complementar",
+  pec: "pec",
+  "depende-estados": "estados",
+  "depende-municipios": "municípios",
+  "depende-privado": "agentes privados",
+  "negociacao-internacional": "negociação internacional",
+  indefinido: "instrumento não declarado",
+};
+
+const SIGNAL_TERMS: Record<string, string> = {
+  meta: "meta quantitativa",
+  prazo: "prazo",
+  custo: "custo estimado",
+  financiamento: "fonte de financiamento",
+};
 import {
   Sheet,
   SheetContent,
@@ -56,18 +78,32 @@ function ProposalLine({
 
       <div className="flex flex-wrap gap-1.5">
         {req ? (
-          <span className="rounded-full border border-border px-2 py-0.5 text-[10px] text-muted-foreground">
+          <TermChip
+            term={PATH_TERM[req.path] ?? "instrumento não declarado"}
+            className="border px-2 py-0.5 text-[10px] text-muted-foreground"
+            content={{
+              title: PATH_LABELS[req.path],
+              blocks: [
+                { body: glossaryFor(PATH_TERM[req.path] ?? "")?.body ?? "" },
+                ...(req.quorum ? [{ heading: "Quórum", body: req.quorum }] : []),
+                ...(req.note ? [{ heading: "Observação do instrumento", body: req.note }] : []),
+              ],
+              link: { href: "/metodologia", label: "Como identificamos o instrumento" },
+            }}
+          >
             {PATH_LABELS[req.path]}
-          </span>
+          </TermChip>
         ) : (
-          <span className="rounded-full border border-dashed border-border px-2 py-0.5 text-[10px] text-muted-foreground">
-            instrumento não declarado
-          </span>
+          <TermChip term="instrumento não declarado" className="border-dashed px-2 py-0.5 text-[10px] text-muted-foreground" />
         )}
         {signals.map((signal) => (
-          <span key={signal} className="rounded-full bg-muted px-2 py-0.5 text-[10px] text-foreground/80">
+          <TermChip
+            key={signal}
+            term={SIGNAL_TERMS[signal] ?? signal}
+            className="border border-transparent bg-muted px-2 py-0.5 text-[10px] text-foreground/80 hover:text-foreground"
+          >
             {signal}
-          </span>
+          </TermChip>
         ))}
       </div>
     </div>
@@ -100,10 +136,41 @@ export function ProposalsSection({ candidates, hideTag }: { candidates: Candidat
             {hideTag ? null : <CandidateTag name={c.name} slot={SLOTS[i] ?? "a"} />}
 
             <div className="flex flex-wrap items-center gap-2 text-xs text-muted-foreground">
-              <span className="tabular font-semibold text-foreground">{proposals.length}</span>
+              {/* Contadores clicáveis: cada número abre a lista por trás da contagem */}
+              <Explainable
+                hint="Clique para ver as propostas analisadas deste plano"
+                content={{
+                  title: `${proposals.length} propostas analisadas`,
+                  blocks: [
+                    { body: glossaryFor("propostas analisadas")?.body ?? "" },
+                    { heading: "As propostas", items: proposals.map((p) => ({ text: p.theme })) },
+                  ],
+                  link: c.governmentPlan?.planUrl
+                    ? { href: c.governmentPlan.planUrl, label: "Plano registrado" }
+                    : undefined,
+                }}
+                className="tabular rounded font-semibold text-foreground hover:underline hover:decoration-dotted hover:underline-offset-4"
+              >
+                {proposals.length}
+              </Explainable>
               <span>propostas analisadas</span>
               <span aria-hidden>·</span>
-              <span className="tabular font-semibold text-foreground">{withReality}</span>
+              <Explainable
+                hint="Clique para ver quais propostas têm teste de realidade"
+                content={{
+                  title: `${withReality} com teste de realidade`,
+                  blocks: [
+                    { body: glossaryFor("testes de realidade")?.body ?? "" },
+                    {
+                      heading: "Propostas com teste",
+                      items: proposals.filter((p) => p.reality).map((p) => ({ text: p.theme })),
+                    },
+                  ],
+                }}
+                className="tabular rounded font-semibold text-foreground hover:underline hover:decoration-dotted hover:underline-offset-4"
+              >
+                {withReality}
+              </Explainable>
               <span>com teste de realidade</span>
             </div>
 

@@ -8,6 +8,7 @@ import type { ReactNode } from "react";
 import type { Source } from "@/types";
 import { SLOT } from "@/components/slot";
 import { SourceItem } from "@/components/evidence-drawer";
+import { Explainable } from "@/components/explainer";
 import { cn } from "@/lib/utils";
 import { ChevronDown } from "lucide-react";
 
@@ -41,7 +42,23 @@ export function SectionShell({
     >
       <div className="flex flex-col gap-1">
         <span className="text-[10px] font-semibold uppercase tracking-[0.12em] text-muted-foreground">{index}</span>
-        <h2 id={`${id}-h`} className="display-2">{title}</h2>
+        {/* Título da seção clicável: abre a pergunta que guia a seção + como foi construída */}
+        <h2 id={`${id}-h`} className="display-2">
+          <Explainable
+            hint={question}
+            content={{
+              title: `Sobre a seção “${title}”`,
+              blocks: [
+                { heading: "A pergunta que esta seção responde", body: question },
+                ...(note ? [{ heading: "Como esta seção foi construída", body: note }] : []),
+              ],
+              link: { href: "/metodologia", label: "Metodologia completa do produto" },
+            }}
+            className="display-2 hover:underline hover:decoration-dotted hover:underline-offset-8"
+          >
+            {title}
+          </Explainable>
+        </h2>
         <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">{question}</p>
         {note ? <p className="max-w-2xl text-xs leading-relaxed text-muted-foreground">{note}</p> : null}
       </div>

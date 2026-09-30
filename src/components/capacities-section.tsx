@@ -18,6 +18,8 @@ import {
 } from "@/components/section-shell";
 import { ExpandableText } from "@/components/expandable-text";
 import { RealityBlock, RealityMissing } from "@/components/reality-check";
+import { Explainable } from "@/components/explainer";
+import { glossaryFor } from "@/lib/glossary";
 import {
   Sheet,
   SheetContent,
@@ -143,17 +145,78 @@ function CapacityCard({
         <>
           <div className="flex flex-wrap items-center gap-2">
             <CoverageBadge coverage={capacity.coverage} note={capacity.coverageNote} />
-            <span className="tabular text-xs text-muted-foreground">
+            {/* O número de casos é clicável: abre o painel com cada caso e fonte */}
+            <Explainable
+              hint="Casos com papel, complexidade, resultado e fonte. Clique para ver todos."
+              content={{
+                title: `${count} ${count === 1 ? "caso documentado" : "casos documentados"}`,
+                blocks: [
+                  {
+                    body:
+                      "Cada caso registra papel exercido, complexidade, resultado observado e fonte original — critério idêntico para todos os candidatos.",
+                  },
+                  {
+                    heading: "Casos desta capacidade",
+                    items: capacity.evidences.slice(0, 8).map((ev) => ({
+                      text: ev.title,
+                      note: ev.period ?? undefined,
+                    })),
+                  },
+                ],
+                sourcesNote:
+                  "As fontes de cada caso abrem no painel completo, botão “Ver evidências”.",
+              }}
+              className="tabular rounded text-xs text-muted-foreground hover:text-foreground"
+            >
               {count} {count === 1 ? "caso documentado" : "casos documentados"}
-            </span>
+            </Explainable>
           </div>
 
           <ExpandableText text={capacity.synthesis || "Síntese em consolidação."} limit={120} label="Ver síntese completa" />
 
           {support ? (
-            <p className="text-xs leading-relaxed text-muted-foreground">
-              {[support.partySeats, support.coalitionSeats, support.federations].filter(Boolean).join(" · ")}
-              {support.documentedAgreements ? ` · ${support.documentedAgreements} acordos documentados` : ""}
+            <p className="flex flex-wrap gap-1.5 text-xs leading-relaxed text-muted-foreground">
+              {(
+                [
+                  ["partido", support.partySeats],
+                  ["coligação", support.coalitionSeats],
+                  ["federação", support.federations],
+                ] as Array<[string, string | undefined]>
+              )
+                .filter(([, value]) => Boolean(value))
+                .map(([term, value]) => (
+                  <Explainable
+                    key={term}
+                    hint={glossaryFor(term)?.short}
+                    content={{
+                      title: term.charAt(0).toUpperCase() + term.slice(1),
+                      blocks: [
+                        { body: glossaryFor(term)?.body ?? "" },
+                        ...(support.note ? [{ heading: "Observação", body: support.note }] : []),
+                      ],
+                      link: { href: "/metodologia", label: "Como medimos sustentação" },
+                    }}
+                    className="rounded border-b border-dashed border-border hover:border-foreground/40"
+                  >
+                    {value}
+                  </Explainable>
+                ))}
+              {support.documentedAgreements ? (
+                <Explainable
+                  hint={glossaryFor("acordos documentados")?.short}
+                  content={{
+                    title: `${support.documentedAgreements} acordos documentados`,
+                    blocks: [
+                      { body: glossaryFor("acordos documentados")?.body ?? "" },
+                      ...(support.note ? [{ heading: "Observação", body: support.note }] : []),
+                    ],
+                    link: { href: "/metodologia", label: "Como medimos sustentação" },
+                  }}
+                  className="rounded border-b border-dashed border-border hover:border-foreground/40"
+                >
+                  {support.documentedAgreements} acordos documentados
+                </Explainable>
+              ) : null}
             </p>
           ) : null}
 
@@ -190,19 +253,54 @@ function EvidenceCell({
   capacity: Capacity | undefined;
   slot: "a" | "b" | "c";
 }) {
+  const [open, setOpen] = useState(false);
   const count = capacity?.evidences.length ?? 0;
   const width = Math.min((count / 6) * 100, 100);
+  const hasPanel = Boolean(capacity && (capacity.evidences.length > 0 || capacity.reality));
+  const trigger = (
+    <button
+      type="button"
+      disabled={!hasPanel}
+      onClick={() => hasPanel && setOpen(true)}
+      title={
+        hasPanel
+          ? `Ver os ${count} caso(s) documentados de ${candidate.name}`
+          : "Nenhum caso consolidado nesta coleta"
+      }
+      className="flex w-full min-w-0 flex-col gap-1.5 rounded-sm text-start hover:underline hover:decoration-dotted hover:underline-offset-4 disabled:no-underline"
+    >
+      <span className="flex items-baseline justify-between gap-2">
+        <span className="tabular text-base font-semibold leading-none text-foreground">{count}</span>
+        <span className="text-[10px] text-muted-foreground">casos</span>
+      </span>
+      <span className="h-1.5 overflow-hidden rounded-full bg-muted" aria-hidden>
+        <span
+          className="block h-full rounded-full bg-foreground/70"
+          style={{ width: `${width}%` }}
+        />
+      </span>
+    </button>
+  );
   return (
     <div className="flex min-w-0 flex-col gap-1.5">
       <CandidateTag name={candidate.name} slot={slot} />
-      <div className="flex items-baseline justify-between gap-2">
-        <span className="tabular text-base font-semibold leading-none text-foreground">{count}</span>
-        <span className="text-[10px] text-muted-foreground">casos</span>
-      </div>
-      <div className="h-1.5 overflow-hidden rounded-full bg-muted" aria-label={`${count} casos documentados`}>
-        <div className="h-full rounded-full bg-foreground/70" style={{ width: `${width}%` }} />
-      </div>
+      {hasPanel ? (
+        trigger
+      ) : (
+        <span className="flex w-full min-w-0 flex-col gap-1.5" title="Nenhum caso consolidado nesta coleta">
+          <span className="flex items-baseline justify-between gap-2">
+            <span className="tabular text-base font-semibold leading-none text-foreground">{count}</span>
+            <span className="text-[10px] text-muted-foreground">casos</span>
+          </span>
+          <span className="h-1.5 overflow-hidden rounded-full bg-muted" aria-hidden>
+            <span className="block h-full rounded-full bg-foreground/70" style={{ width: `${width}%` }} />
+          </span>
+        </span>
+      )}
       {capacity ? <CoverageBadge coverage={capacity.coverage} note={capacity.coverageNote} /> : null}
+      {capacity && hasPanel ? (
+        <EvidenceSheet open={open} onOpenChange={setOpen} candidate={candidate} capacity={capacity} />
+      ) : null}
     </div>
   );
 }

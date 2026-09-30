@@ -14,6 +14,7 @@ import {
   SLOTS,
 } from "@/components/section-shell";
 import { RealityBlock, RealityMissing } from "@/components/reality-check";
+import { TermChip } from "@/components/explainer";
 import {
   Sheet,
   SheetContent,
@@ -69,9 +70,7 @@ export function ThemeSection({
                       <CandidateTag name={c.name} slot={SLOTS[i] ?? "a"} />
                       {t ? (
                         <>
-                          <span className="w-fit rounded border border-border px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-muted-foreground">
-                            {THEME_SOURCE_LABELS[t.sourceKind]}
-                          </span>
+                          <TermChip term={THEME_SOURCE_LABELS[t.sourceKind]} className="w-fit uppercase" />
                           <p className="text-xs leading-relaxed text-foreground/85">{t.position}</p>
                         </>
                       ) : (
@@ -95,9 +94,7 @@ export function ThemeSection({
                       {t ? (
                         <>
                           <div className="flex flex-wrap items-center gap-2">
-                            <span className="rounded border border-border px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-muted-foreground">
-                              {THEME_SOURCE_LABELS[t.sourceKind]}
-                            </span>
+                            <TermChip term={THEME_SOURCE_LABELS[t.sourceKind]} className="uppercase" />
                             <ClaimKindBadge kind={t.kind} />
                           </div>
                           <p className="text-sm leading-relaxed text-foreground/90">{t.position}</p>
